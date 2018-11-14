@@ -10,12 +10,12 @@ excluded_tags = ['x']
 excluded_chars = {'<', '>', '(', ')', '-'}  # ADD '#'???
 
 
-transcript = Transcript('switchboard_data/sw00utt/sw_0001_4325.utt.csv', corpus.metadata)
-print(transcript.swda_filename)
+transcript = Transcript('switchboard_data/sw00utt/sw_0002_4330.utt.csv', corpus.metadata)
+
 
 
 transcript_text = process_transcript(transcript, excluded_tags, excluded_chars)
-# print(transcript_text)
+print(transcript_text.to_string())
 
 # transcript_text = []
 # for transcript in corpus.iter_transcripts(display_progress=False):
