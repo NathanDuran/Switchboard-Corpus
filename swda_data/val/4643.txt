@@ -1,0 +1,164 @@
+A|You interested in woodworking?|qy
+B|Yeah.|ny
+B|Actually, I, uh, I guess I am|sd
+B|Um, it just seems kind of funny that this is a topic of discussion.|sv
+B|Uh, I do, uh, some, uh, woodworking myself|sd
+B|Uh, in fact, I'm in the middle of a project right now making a bed for my son.|sd
+A|Um. What kind of|qw
+B|It's, uh, It's, uh, it's, uh, plywood, uh, face, I guess.|sd
+A|pine?|qy
+B|But I cut it out in the shape of a crayon box|sd
+B|and then I painted, uh, about eight different, uh, colors, uh, you know,|sd
+B|the crayons that are sticking up, it will be the headboard|sd
+A|Uh-huh.|b
+A|I guess he's young.|qy^d
+B| and then, |%
+B|yes|ny
+B|He's about five and a half years old.|sd
+A|Oh, he'll be delighted.|sv
+B|Oh, yeah.|aa
+B|Uh-huh.|aa
+B|Now I just have to finish it though.|sd
+B|I got, uh, it got delayed for a little bit and, uh, because of work|sd
+B|and now, uh, I've got to jump back in and finish the,|sd
+B|because I've got it all cut out,|sd
+B|it's all, uh,|%
+B|I've done most of the coloring|sd
+B|but I've got to go a second layer with the yellow.|sd
+A|Did you do it with a jigsaw|qy
+A|or do you have powered,  you know, a, |qy
+B| Uh, yeah.|ny
+B|Uh, I did, uh, jigsaw, uh, and the, uh, regular straight saw for some of it.|sd
+A|Um.|b
+B|So yeah.|b
+B|to do the, uh, the turn cut.|sd
+B|Uh, how about yourself?|qo
+A|Well I'm, I am interested in woodworking.|sd
+A|I don't have lots of tools.|sd
+A|Our local schools have adult education in the evening|sd
+B|Oh.|b
+A|uh, and I use their tools and, some of their guidance.|sd
+A|I'm an artist.|sd
+B|Oh, okay.|b
+A|And I'm very handy|sd
+A|and, you know, if I touch it, it turns into something <laughter> us-,usually.|sd
+B|That's great.|ba
+B|What, what type of art do you focus on?|qw
+A|I have a Master's degree|sd
+A|and, and my projects had to do with acrylic painting,|sd
+A|but I'm really interested in the crafts.|sd
+B| Huh. |b
+A|I make stain glass.|sd
+A|I've done some silver jewelry making|sd
+A|and I kind of,|sd
+A|once I get you know, really pretty good at something, I want to try something else|sd
+B|Yeah.|b
+B|Kind of jack of all trades, master of none.|bf
+A|Yeah,|aa
+A|well no,|ar
+A|actually, I get good enough to sell it or have people say oh wow,|sd
+A|you didn't buy it,|sd
+A|you made it.|sd
+B|That's great!|ba
+A|And then I, it's like well the thrill is gone|%
+A|so let's do something else.|sd
+B|Right.|aa
+B|You want to, uh, explore a new field|bf
+B| or, or, |%
+A| Well,  yeah,|aa
+A|I, I'm signed up for a class in pottery making because I've never tried that yet|sd
+B|Huh.  So youhave a M F A in, in what division of art?|qw
+A| but, |%
+A| Well, I, I actually have a Masters of art|sd
+A|and it's in art education.|sd
+B|Oh, okay.|bk
+A|So, I'm a licensed teacher|sd
+A|but jobs being what they are, I substitute teach|sd
+B|Yeah.|b
+A|and that way I have time for my kids too.|sd
+A|And I've been fortunate that I can afford to work part-time.|sv
+A|I don't know how long that's going to last|sd
+B|Oh, yeah.|b
+A|And, uh, they're cutting back,|sd
+A|so I don't go in all that often|sd
+A|butI've been real interested in some of those cute country, country kind of things.|sd
+A|Uh, I see stuff in craft galleries for five hundred dollars|sd
+A|and I say, oh no|sd
+A|and , and I go|sd
+A|and I make it.|sd
+B|Yeah.|b
+A|That's how I started jewelry making.|sd
+A|I, I love to cook.|sd
+B|Oh, that's great.|ba
+A|And I saw a silver necklace that had these little teeny weeny silver spatulas and, and, and knife and, and a fork and all kinds of stuff|sd
+A|and I went|sd
+A|and I signed up for class because then again, you get, you know, get someone to guide you|sd
+A|and you get the tools you don'tfeel like buying.|sd
+B|Exactly.|aa
+A|And I made a necklace that I saw in a gallery for three hundred twenty dollars|sd
+A|It took me a lot of time|sd
+A| but it didn't,|sd
+B| Oh,  yeah.|b
+A|but if it cost me twenty dollars, you know,|sd
+A| and then I,|%
+B|And your time,|^2
+B|then you're that much farther ahead|sv
+A|Yeah.|b
+A|Then I saw a, one of these country looking wood watermelons.|sd
+A|It was a solid watermelon with a wedge cut out of it.|sd
+B|Right.|b
+B|I've seen them|sd
+B|and then the watermelon, the red with the, with the seeds painted in|sd
+B|and, |sd
+A| Oh, yeah.|b
+A|Uh-huh.|b
+B|That's neat.|sv
+A|I went there,|sd
+A|we have Home Depot out here.|sd
+A|I don't know if you've heard of it.|qy^d
+A|I went|sd
+A|and I gottwo six foot inch thick boards turned into a watermelon.|sd
+B|Yes.|ny
+B|We have one.|sd
+A|I had to cut into slabs and build up this big square and turn it on the lath|sd
+A|andcutting that wedge out was no joke|sd
+B| Huh. |b
+B|Oh, I'm, I'm sure.|ba
+A|We did it on a, I had a, uh, I did itthrough Adult Ed again.|sd
+B|A band saw?|qy^d
+B|What?|br
+A|I did it through Adult Ed again.|sd
+B|Uh-huh.|b
+A|And the teacher was one of these negative people,|sd
+A|oh that's dangerous,|^q
+A|we can't do that,|^q
+A|we just can't do that.|^q
+A|And I'm going well how about this way?|sd
+A|I, I want to do that,|^q
+A|that was the plan here|^q
+B|Right.|b
+A|So we did get the wedge cut out by building some kind ofa cradle for it.|sd
+B|A cradle for it.|^2
+B|Yeah,|b
+B|so you can steady it|bf
+B|and then, you used a handsaw or a backsaw?|qy
+A| Well, it, the instructions in the book I had said use a coping saw|sd
+A|but there's no coping saw big enough to, for a fourteen inch wide watermelon <laughter> that|sd
+B|Right,|b
+B|right.|b
+A|and he wanted me to do it by hand with a regular saw.|sd
+A|I said I'm not that steady,|sd
+A|it's not going to happen.|^q
+B|Yeah.|b
+A|So we built a cradle for it|sd
+A|and we got once it was turned, we got one one cut out on the table saw, on the radial saw,|sd
+A|by getting the other one out without the slice now flying in your face was something you had to think about|sd
+B|Right.|b
+A| So, |%
+B| Now  did you cut a quarter wedge in this?|qy
+A|Uh, I'd say it's about an eighth.|ng
+A| You know |%
+B| Well, I, I'm envisioning, uh, uh, a a watermelon like a log|sd
+B|and then, uh, what I've seen of this kind before is you have the, uh, the, uh,|%
+B|it's, uh,|sd
+B|if you're looking at adding on you have,|sd
