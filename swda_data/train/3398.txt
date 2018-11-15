@@ -20,18 +20,18 @@ A|and, um, I'm home with the children, just do a lot of running around.|sd
 A|It seems like a lot of my neighbors kind of have a similar type, I don't know, life.|sd
 A|Um, what about you?|qo
 B|I'm, I'm single,|sd
-B|and I, I live in a town homehere in Raleigh,|sd
+B|and I, I live in a town home here in Raleigh,|sd
 A|Uh-huh.|b
-B|andit's pretty typical of the other town homes in the area|sd
+B|and it's pretty typical of the other town homes in the area|sd
 A|Uh-huh.|b
 A|Okay.|bk
-B|we, we have a lot of town homes hereas well as single family homes,|sd
+B|we, we have a lot of town homes here as well as single family homes,|sd
 A|Uh-huh.|b
 B|and at the time that I bought this one it was just a, a much better arrangement for me personally.|sd
 B|I'm not home a lot.|sd
-B|I travel a great deal withmy job,|sd
+B|I travel a great deal with my job,|sd
 A|Uh-huh.|b
-B|and so it was easier to have a home that didn'tthat somebody else looks out for the maintenance.exactly|sd
+B|and so it was easier to have a home that didn't exactly that somebody else looks out for the maintenance.|sd
 A|Was sort of maintenance free.|^2
 A|Yeah.|b
 A|Oh yeah,|b
@@ -65,9 +65,9 @@ A|So the people that move here seem to move from all over the country, which we'
 A|and, um, seems like a people just don't, or also don't have any family around.|sd
 A|So it, um, also gives you a common bond when you don't have a lot of relatives visiting your neighbors,|sv
 A|and you know, um But, um ,|%
-B|Well, we also in this area seem to have a lot of retireespeople who don't want the heat of Florida but don't want the heat of the, the cold of the northeast|sd
+B|Well, we also in this area seem to have a lot of retirees people who don't want the heat of Florida but don't want the heat of the, the cold of the northeast|sd
 A|Uh-huh.|b
-B|sothey settle sort of in-between.|sd
+B|so they settle sort of in-between.|sd
 A|Right,|b
 A|right.|b
 A|Uh-huh.|b

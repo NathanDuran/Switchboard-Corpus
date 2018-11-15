@@ -14,21 +14,21 @@ A|Right,|b
 A|I mean, it's kind of like the AIDS phenomenon, you know,|sv
 A|I'm invulnerable,|^q
 A|I don't need to care about this.|^q
-A|You know, I, I, I'mnever going to get caught.|^q
+A|You know, I, I, I'm never going to get caught.|^q
 B|Yeah,|b
 B|Yeah,|b
 B|but you also have to think whether it's worthwhile on the individual basis, for example, someone like, uh, Jeffrey Dahlmer,|sv
 B|do you want,|qy
 B|by putting him in prison for life, there is still a possibility that he will get out again.|sv
 A|Yeah,|aa
-A|one, oneway or another.|sd
-B|Whereasif you kill him, there is not that possibility.|sd
+A|one, one way or another.|sd
+B|Whereas if you kill him, there is not that possibility.|sd
 A|Yeah,|b
 A|but, but the other side to that is, if you put him in prison for life, there's a chance that he might do things in prison, or, you know, and somehow redeem himself.|sv
 B|Yeah,|b
 B|I don't think he could ever redeem himself,|sd
-B|butin some cases, yes.|sv
-A|Well,You know, so that, you know,|%
+B|but in some cases, yes.|sv
+A|Well, You know, so that, you know,|%
 A|the, the question is, you know, the other problem with capital punishment you run into is, what are you going to do about people who are later to have been found innocent, you know?|sd
 A|There are cases where, you know, twenty, thirty years after the fact of getting evidence, especially as new technology comes along that might prove their innocence, then, oops,|sd
 A|I'm sorry,|^q
@@ -55,7 +55,7 @@ B|Right.|b
 A|And, again, I don't thing these people care. *typo replace thing with think|sv
 A|They risk their lives every day.|sv
 B|Yeah,|b
-B|and, there, there, they seem that the profit uh, drug dealers, the profit margin's so high that, yeahthe, the risk is almost not there.|sv
+B|and, there, there, they seem that the profit uh, drug dealers, the profit margin's so high that, yeah the, the risk is almost not there.|sv
 A|Yeah.|b
 A|Yeah,|b
 A|and, and, you know, uh, especially, now, I live in, in Massachusetts, you know,|sd
@@ -66,11 +66,11 @@ A|but you look at our, our crime rates and things like that and you compare them
 B|Yeah.|b
 A|I think it's mainly, people, like, they get the vengeance of it.|sv
 B|Yeah,|b
-B|wellit's also,|sv
+B|well it's also,|sv
 A|Because, you know,|%
 B|I used to live in Georgia|sd
 B|and, you know, the, the big thing down there was, all right, we have capital punishment,|sd
-B|but if you look at who gets accused and who are the ones who actually get executed, it's very racially relatedand ethnically related,|sv
+B|but if you look at who gets accused and who are the ones who actually get executed, it's very racially related and ethnically related,|sv
 A|Oh, yeah|aa
 A|it's lot of blacks.|sv
 A|Also a lot of young people.|sv
@@ -80,7 +80,7 @@ A|And, you know, I, I think when you listen to like the, uh, the, the victims' f
 A|I mean, my thought has been, once the guy has been imprisoned, if he goes to jail forever or whatever, if he gets killed, it shouldn't make any difference to the, uh, the victim's family.|sv
 A|The only thing that should really, I mean,|sv
 A|obviously, if someone of mine who has close died, I'd probably feel differently,|h
-A|butyou know, you know, what, the important thing is that they be caught and not be a danger to society.|sv
+A|but you know, you know, what, the important thing is that they be caught and not be a danger to society.|sv
 B|Right.|b
 B|Right|b
 B|and that,|%
@@ -96,11 +96,11 @@ A|and there, more and more things like schizophrenia|sd
 A|and why, does it just turn out to be genetic or biochemical in origin.|sd
 B|Right.|b
 A|So if someday we can go to Jeff Dahlmer and say, well, the problem is you, you've got an endorphin imbalance|sv
-A|and, you know, if you take this regularly, you'll be a sane and productive member of societyyou know,|^q
+A|and, you know, if you take this regularly, you'll be a sane and productive member of society you know,|^q
 B|Uh-huh.|b
 A|you really get back to the question of, you know, is someone responsible for their actions.|sv
 B|Yeah,|b
 B|well, I, I think on some of it, you have to say someone's responsible for his actions.|sv
-B|I never like the, uh,Well, I never liked the, uh, insanity defense.the defense,|sd
+B|I never like the, uh, the defense, Well, I never liked the, uh, insanity defense.|sd
 A|Society made me do it.|^2
 A|Yeah.|b

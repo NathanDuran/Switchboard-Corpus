@@ -3,7 +3,7 @@ A|and whether I night, uh, uh, not,|%
 A|I think that we're paying too much taxes. Um, that, including taxes in general or income tax,|sv
 A|and, um, the other thing was do we get what we pay for,|sd
 A|I mean, what, what is our, what is our opinion on that|sd
-A|soare you prepared to talk?|qy
+A|so are you prepared to talk?|qy
 B|Okay.|b
 B|Oh, I guess so,|na
 B|go by ear,|sd
@@ -22,7 +22,7 @@ B|Oh, wow.|b
 A|Isn't that awful|qy
 A|How about you?|qo
 A|What do you have there?|qw
-B|Uh we have a six percentsales tax.|sd
+B|Uh we have a six percent sales tax.|sd
 A|Uh-huh.|b
 A|And you have state income tax also?|qy
 B|Yes.|ny
@@ -45,12 +45,12 @@ A|uh-huh.|b
 B|Yeah,|b
 B|um, the taxes,|%
 B|I don't know,|sd
-B|I can deal with that because I know everyone else is paying in too, I guessyou know.|sv
+B|I can deal with that because I know everyone else is paying in too, I guess you know.|sv
 A|Yeah.|b
 A|Yes.|b
 B|But, uh, oh, I don't know, uh,|h
 B|the one thing that,|%
-B|we don't have, uh, tax on clothesdo you?|qy
+B|we don't have, uh, tax on clothes do you?|qy
 A|Uh-huh.|b
 A|Um, yes|ny
 A|we do have tax on clothes.|sd
@@ -64,14 +64,14 @@ B|Uh-huh.|b
 A|Um, we don't have tax on groceries, for instance, uh,|sd
 B|No,|b
 B|well, we don't have it necessarily on food,|sd
-B|but then there's other things that they nail you for ityou know,like health and beauty products|sv
+B|but then there's other things that they nail you for it like health and beauty products you know,|sv
 A|Yeah.|b
 A|Right|b
 A|yes,|aa
 A|yes,|aa
 A|I should, I should have, um, delineated,|sd
 A|yet, your absolutely right.|sv
-A|It's the food, the consumable food parts that, you know, we don't have to paytax on.|sd
+A|It's the food, the consumable food parts that, you know, we don't have to pay tax on.|sd
 B|Yeah.|b
 A|Yeah,|%
 A|yeah,|%
@@ -89,13 +89,13 @@ A|and the last tax season I had a, just a part time job helping out in a tax off
 A|And the woman that owned the office was saying, she'd had this business for oh, probably seventeen or eighteen years,|sd
 A|and she was saying as the years have gone on, there are fewer and fewer things that people can, uh, take off of their income tax.|sd
 B|Deduct, yeah.|bf
-A|And, you know, if you're not a home owner, or if you haven't sold property, or, uh, have something major like that, it's hardly, you knowit's just not much else you can do,|sd
+A|And, you know, if you're not a home owner, or if you haven't sold property, or, uh, have something major like that, it's hardly, you know it's just not much else you can do,|sd
 B|Uh-huh.|b
-A|and she said it's really taken the fun out of doing taxes for people for her, because she used to be real creative about helping themyou know, accumulating receipts.find ways of,|sd
+A|and she said it's really taken the fun out of doing taxes for people for her, because she used to be real creative about helping them find ways of, you know, accumulating receipts.|sd
 B|Uh-huh.|b
 B|And see,|%
 B|I take it she was an accountant.|qy^d
-A|Can't do, oh, reallycan't do it any more.|sd
+A|Can't do, oh, really can't do it any more.|sd
 B|Yeah.|b
 B|Yeah,|b
 B|uh-huh.|b
@@ -119,11 +119,11 @@ A|Um, nevertheless, I am a student, and poor|sd
 B|Yeah,|b
 B|uh-huh.|b
 A|So, it's, uh, um, you know, it's been,|%
-A|I guess, as far as people like, uh, our family, we can feel like sometimes we pay more than our share as middle class people with, Americans withstudents, you know,um, college age|sv
+A|I guess, as far as people like, uh, our family, we can feel like sometimes we pay more than our share as middle class people with, Americans with um, college age students, you know,|sv
 B|Uh-huh.|b
 B|Yeah.|b
 A|and, and, I, there just, I don't know,|sd
-A|I guess as you say, you just have to look around and decide that most of the other people that you know are paying about whatyou are,|sv
+A|I guess as you say, you just have to look around and decide that most of the other people that you know are paying about what you are,|sv
 B|Uh-huh.|b
 A|and,|%
 B|I think they should go back,|sv
@@ -133,12 +133,12 @@ B|and instead of putting the burden more on the middle class, I think the burden
 A|Oh, yes.|aa
 A|Absolutely,|aa
 A|yeah.|aa
-A|Because it seems like, they still come out okayum, you know.|sd
+A|Because it seems like, they still come out okay um, you know.|sd
 B|Yeah,|b
 B|yeah|b
-B|you know, they always have the argument, Well, you know, well who's to say we don't work harder to get thatyou know,|sv
+B|you know, they always have the argument, Well, you know, well who's to say we don't work harder to get that you know,|sv
 A|Yeah.|b
-B|wellI don't care how much they take off of you, you know|sv
+B|well I don't care how much they take off of you, you know|sv
 A|I kind of have my doubts|sv
 A|Uh-huh.|b
 B|you're still going to be above, on top,|sv
@@ -151,14 +151,14 @@ A|Yes.|aa
 A|that the higher they get, the, you know,|%
 A|at least,|%
 A|I don't know,|h
-A|it seems like, um, they must feel like they're paid for all of the years of experience or, um, or something, or just the title, sometimesum,|sv
+A|it seems like, um, they must feel like they're paid for all of the years of experience or, um, or something, or just the title, sometimes um,|sv
 B|Uh-huh.|b
 A|and it, it doesn't seem fair,|sv
 A|and I, I know a lot of people do make money, um, you know, in, in good investments and things like that,|sd
 A|but I think that's a lot of luck and a lot of gambling, and not a, not a whole lot of work|sv
 B|I agree with you.|aa
 B|I do think it's a lot of luck,|sv
-B|and I don't like that part of the finance, you knowwhatsoever.|sd
+B|and I don't like that part of the finance, you know whatsoever.|sd
 A|Yeah.|b
 A|Right.|b
 B|I don't know,|h
@@ -173,10 +173,10 @@ A|Probably not.|ba
 B|Social Security is going to be gone before I ever get any.|sv
 A|Yeah,|b
 A|yes,|b
-A|or what's left is not going to be worth anything you can actually use it. you know, in terms of how,|sv
+A|or what's left is not going to be worth anything you know, in terms of how,  you can actually use it. |sv
 B|Uh-huh.|b
 B|Right|b
-B|they're going to pay me fifty dollars a month, right |^2
+B|they're going to pay me  fifty dollars a month, right |^2
 A|Yeah,|aa
 A|right.|b
 A|But that's,|%
@@ -188,7 +188,7 @@ A|yeah.|aa
 A|Yeah,|aa
 A|that's,|%
 A|I haven't heard much in recent years, um, about social security,|sd
-A|I mean, for a while there, not too long ago, they were, they were saying that the whole system was going to be bankruptOr, you know, programs just weren't in existenceyou know, before very long, because so much was going out for programs that were, it that originally it was never intended to be used for.|sd
+A|I mean, for a while there, not too long ago, they were, they were saying that the whole system was going to be bankrupt you know, before very long, because so much was going out for programs that were, it that originally it was never intended to be used for. Or, you know, programs just weren't in existence|sd
 B|Uh-huh.|b
 B|Right.|b
 B|Uh-huh.|b
@@ -200,16 +200,16 @@ B|Oh, yeah.|ny
 A|Yeah,|b
 A|well, um, I don't know,|h
 A|I guess we complain about taxes,|sv
-A|but, I guess, you know, you have to be sort of, |sv
+A|but, I guess, you know,  you have to be sort of, |sv
 B|Yeah,|b
 B|yeah,|b
 B| you got to look  to what they put, you know|^2
 A|Yeah,|b
-A|you have toappreciate, yeah, what, what you do get for them sometimes|sv
+A|you have to appreciate, yeah, what, what you do get for them sometimes|sv
 B|you have decent roads at least|sv
 B|Yeah.|b
 A|and, um, I guess it's, it's worse, you know,|sv
-A|I'd rather be able to control my money as much as I do with what's left overtaxes than to live in, oh, England or, um, some countries where so much of it is socialized that you don't see any of that money at all|sd
+A|I'd rather be able to control my money as much as I do with what's left over taxes than to live in, oh, England or, um, some countries where so much of it is socialized that you don't see any of that money at all|sd
 B|Uh-huh.|b
 B|That's true.|ba
 A|and, so, you know, I guess it's all relative,|sv

@@ -12,19 +12,19 @@ A|well, let me go a head and push one|oo_co_cc
 A|okay?|qy
 B|Okay.|aa
 A|Okay.|bk
-A|Well, basically I like comedy showsUh, MURPHY BROWN, uh, DESIGNING WOMEN .|sd
+A|Well, basically I like comedy shows Uh, MURPHY BROWN, uh, DESIGNING WOMEN .|sd
 B|Uh-huh.|b
 B|Yeah.|b
 A|Yeah|b^m
 A|what do you like?|qo
-B|Well we  don't have a T V,|arp_nd
+B|Well  we  don't have a T V,|arp_nd
 B|I mean we have two T V|sd
 B|but neither one of them work,|sd
 A| Oh, okay. |bk
 B| so for  the last year,|sd
 B|I mean we just got married|sd
 B|and we decided well, for the first year we, we won't get a T V|sd
-B|so I mean I'm totally out of it as far, as  T V goes.|sd
+B|so I mean I'm totally out of it as far,  as  T V goes.|sd
 A|That's okay|ba
 A|we'll been married eleven years|sd
 A|and, um, we went through that after about five years of marriage,|sd
@@ -32,9 +32,9 @@ A|my old T V that I had from college when we got married finally went out|sd
 A|and we went, we made it almost about eighteen months without a television.|sd
 B|Really?|bh
 A|Yeah,|ny
-A|but then all of a sudden when you get one you realize, um, geeI needed that, you know,|sv
+A|but then all of a sudden when you get one you realize, um, gee I needed that, you know,|sv
 B|Yeah.|b
-A|and then you get to remote control the stereo phonic, whatever  all of those things,|sv
+A|and then you get to remote control the stereo phonic,  whatever  all of those things,|sv
 B| V C R, and everything else. |sv
 A| oh, yeah,|aa
 A|and then you never  use the V C R,|sv
@@ -58,7 +58,7 @@ B|I don't think so|ng
 A|You don't think so,|b
 A|oh, that's the one with Candice Bergen in it, um,|sd
 B|Well, see another thing was I worked on second shift for like a year and a half,|sd
-B|so.I would never see any shows any way|sd
+B|so. I would never see any shows any way|sd
 A|Yeah,|b
 A|that would do it.|sv
 B|and then before that I was in college for four years|sd
@@ -95,14 +95,14 @@ B|Yeah.|b
 A|Yeah,|b^m
 A|you've got about another six months|sv
 A|and then you'll get one|sv
-B|Well, I mean  I never really watched it much growing up|sd
+B|Well,  I mean  I never really watched it much growing up|sd
 A| By then, |sv
 B|but I thought, you know, my husband would really like miss it because he, he was an only child|sd
 B|and he he's seen a lot of T V.|sd
 A|Uh-huh.|b
 B|And I figured oh, no|sd
 B|it will never last|^q
-B|but.I mean I don't miss it that much.|sd
+B|but. I mean I don't miss it that much.|sd
 A|Yeah.|b
 A|Yeah,|b
 A|my husband is an only child too|sd
@@ -129,7 +129,7 @@ B|Oh, you have?|bh
 A|Yeah.|ny
 B|Yeah,|b^m
 B|I've heard it's pretty cool.|sd
-A|It's just a, you know, over priced downtown, tourist  attraction. Boston  yuppie, you know,|sd
+A|It's just a, you know, over priced downtown,  Boston  yuppie, you know,  tourist  attraction.|sd
 B| Yeah. |b
 B| Yeah. |b
 A|I'm trying to think what else is on television,|sd
@@ -138,13 +138,13 @@ B|I watched a lot of T V when the war was on.|sd
 A|Yeah,|b
 A|who didn't?|qh
 A|Isn't that sad?|qh
-B|And then, uh, I like watching a lot of like college basketball and, and  pro football,|sd
+B|And then, uh, I like watching a lot of like college basketball and,  and  pro football,|sd
 A| Uh-huh. |b
 B|I mean that sounds kind of stupid|sv
-B|but, I do like  it.|sd
-A| Oh not, no, I like the pro, actually I like pro basket ball as opposed to,|sd
+B|but,  I do like  it.|sd
+A| Oh not, no,  I like the pro, actually I like pro basket ball as opposed to,|sd
 A|I watch pro football|sd
-A|but I like the N B A play-offs, back  when like the Pistons were in them|sd
+A|but I like the N B A play-offs,  back  when like the Pistons were in them|sd
 B| Yeah. |b
 A|and now,|%
 A|where are you calling from?|qw
@@ -167,7 +167,7 @@ A|My voice you mean?|qy
 B|Yeah.|ny
 A|Oh, no,|ar
 A|that's just because I've moved around|sd
-A|and, uh, I'm  originally from Pennsylvania,|sd
+A|and, uh,  I'm  originally from Pennsylvania,|sd
 B| Oh. |b
 A|so.|%
 B|I was going to say.|sd
@@ -185,23 +185,23 @@ B|Yeah,|b
 B|so I like the Bears.|sd
 A|Yeah,|b
 A|there you go,|ba
-A|and then and,  um, I'm trying to think what else I like to watch on television sports wise.|sd
-A|I like, I like tennis|sd
+A|and then  and,  um, I'm trying to think what else I like to watch on television sports wise.|sd
+A|I like,  I like tennis|sd
 B| I watch, uh, huh. |%
 A|so  I mean I'm not, I haven't played in years|sd
-A|but, um, I just like to watch, you know, two  players really get, go at it,|sd
+A|but, um, I just like to watch, you know,  two  players really get, go at it,|sd
 B| Yeah. |b
 B|Yeah.|b
 A|It gets boring after a while|sv
 A|but I don't,|%
 A|go ahead.|ad
-B|I used to watch OPRAH a lot in the afternoons, before I  went to work and stuff|sd
+B|I used to watch OPRAH a lot in the afternoons,  before I  went to work and stuff|sd
 A| OPRAH |b
 B|and I see her every once in awhile like if I go workout at T I,|sd
 A| Uh-huh. |b
-B| you  know, they have those T V right, in front of  the treadmills,|sd
+B| you  know, they have those T V right,  in front of  the treadmills,|sd
 A| Yeah,|b
-A|on the, on the tracks|^2
+A|on the,  on the tracks|^2
 A|yeah,|%
 A|is|%
 B|I don't know|h
@@ -211,7 +211,7 @@ A|Maybe cause she got chubby again or something,|sv
 B|her disposition's gone downhill.|sv
 A|Was she, was her show big when you where in school since you haven't been out that long?|qy
 B|Was what?|br
-A|Was her show big when you where in college, since you, haven't been  that long?|qy
+A|Was her show big when you where in college, since you,  haven't been  that long?|qy
 B| Oh, yeah. |ny
 B|It's pretty cool,|ba
 A| Was it? |bh
@@ -238,10 +238,10 @@ B|Really.|bh
 A|Yeah,|ny
 A|cause, you know, if you like movies like we do you do it once in awhile|sd
 A|and then, you know, you see it when it first comes out if you really want to see it|sv
-A|and then it usually comes on television within two years. You know. |sd
+A|and then it usually comes on television within two years.  You know. |sd
 B|Yeah,|b
-B|we got, we've got  the dollar Cinema in Sherman|sd
-B|so we usually see like first-rate movies, right  away.|sd
+B|we got,  we've got  the dollar Cinema in Sherman|sd
+B|so we usually see like first-rate movies,  right  away.|sd
 A| Yeah, |b
 A|really, that's television|sv
 A|I don't know|h
@@ -255,14 +255,14 @@ A|I mean, I, I always .|sd
 B|Well, it's hard to talk about something,|sv
 B|it's like me talking about taxes or something,|sd
 A| Yeah. |b
-B| I  feel bad cause I mean, I should know  something about T V shows.|sd
+B| I  feel bad cause I mean,  I should know  something about T V shows.|sd
 A| Oh, that's okay. |bd
 A|I had one lady one time|sd
 A|they called in|sd
 A|I just signed up|sd
 A|my husband had been on this project, um,|sd
 A|and I, I, she called in|sd
-A|and it was all about, we don't have children and it was all about, um, sending your kids to college, and  why you would advise them.|sd
+A|and it was all about, we don't have children and it was all about, um, sending your kids to college,  and  why you would advise them.|sd
 A|And she was from Boston,|sd
 A|and she, I shouldn't talk about this but she was, pretend she was a television show,|sd
 A|and she was very snooty|sd
@@ -272,7 +272,7 @@ A|I she went, oh,|sd
 A|and I thought, um,|sd
 A|so I know,|sd
 A| I  mean it's like don't worry about it|ad
-A|television at least, you know, everybody's, at  least seen television. During the war did you laugh when they had that man on,|qy
+A|television at least, you know, everybody's,  at  least seen television. During the war did you laugh when they had that man on,|qy
 A|uh, what was his name Wolf Blitzer?|qw
 B|What was that?|qw
 A|That guy that was a reporter for C N N.|sd
@@ -284,7 +284,7 @@ B|I forget.|sd
 B|Was he the guy that got captured?|qy
 A|Uh, no,|nn
 A|that was the other guy from C B S,|sd
-A|oh, what  was his name, uh,|t1
+A|oh,  what  was his name, uh,|t1
 B| Oh. |bk
 A| I  can't remember his name.|sd
 B|Yeah,|b
@@ -364,7 +364,7 @@ A|cause you're going well jeez|sv
 A|you hear about something that somebody else talked about,|sv
 B| Uh-huh. |b
 A| and  you just end up doing it|sv
-A|but if you haven't been married that long, you know, you're  doing other things|sv
+A|but if you haven't been married that long, you know,  you're  doing other things|sv
 B|Is that on tape?|qy
 A|Is that on tape,|b^m
 A|there you go,|ba
@@ -384,7 +384,7 @@ A|They don't have a southern accent up there though.|qy^d
 B|No.|nn
 A|You must be native Texan?|qy^d
 B|Why|qw
-B|do I,Do I have a southern accent?|qy
+B|do I, Do I have a southern accent?|qy
 A|Well your from Indiana, yeah. *your should be you're|qy
 A|Oh, real southern,|na
 A|yeah.|ny
@@ -399,12 +399,12 @@ A|It is, um,|%
 A|at Purdue|%
 A|I'm trying to think, I went to high school in Chicago, I'm trying to think what Purdue kids watch.|qw^d
 B|We watch, uh, M T V twenty four hours a day|sd
-B|and then every now and then they'd DAYS, they taped DAYS, you know, and  watch it like four or five times a day.|sd
+B|and then every now and then they'd DAYS, they taped DAYS, you know,  and  watch it like four or five times a day.|sd
 A| Uh-huh. |b
 A|Okay.|bk
 B|That's the girls I lived with|sd
 B|and, you know, other then that I'm sure they watched,|sd
-A|Do you know that I've never, I think other then accept on a commercial or on news coverage or something, like  entertainment tonight I've never seen M T V?|sd
+A|Do you know that I've never, I think other then accept on a commercial or on news coverage or something,  like  entertainment tonight I've never seen M T V?|sd
 B| Yeah. |b
 B|You aren't missing anything|sv
 A|That's kind of what I've heard|sd
@@ -417,7 +417,7 @@ A|Yeah.|aa
 A|No|aa
 A|we don't|sd
 A|and I wouldn't even I mean I don't even have cable|sd
-A|I don't think it's worth ten to thirty bucks a month to pay, channel  access to something I'm never going to, somebody,  uh, to, you know, give me a hundred and fifty, um|sv
+A|I don't think it's worth ten to thirty bucks a month to pay,  somebody,  uh, to, you know, give me a hundred and fifty, um  channel  access to something I'm never going to,|sv
 B| No. |aa
 A|I mean my neighbor her husband sits in front of the television all of time|sd
 A|and they've only been married five years have a cute one year old kids|sd

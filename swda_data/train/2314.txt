@@ -1,7 +1,7 @@
 A|Well, I, I don't think that it's, it's wrong for a company to require drug testing for certain types of positions.|sd
 A|For instance, jobs that require use of heavy machinery and things like that where there's, where there's, uh, endangerment to their own life and other people's lives.|sd
 B|Uh, I agree with that.|aa
-B|People that are, uh, drivinglike, uh, truck drivers and things like that.|sd
+B|People that are, uh, driving like, uh, truck drivers and things like that.|sd
 A|Uh-huh.|b
 B|I definitely think they should be tested.|sd
 B|And I'm not, I'm not opposed to any testing.|sd
@@ -15,7 +15,7 @@ B|and, because I don't know of any other countries that are doing this|sd
 A|Uh-huh.|b
 B|and I, I feel like it's really just within the United States.|sd
 B|It's, uh, it's okay.|sd
-B|I think your record should stand for itself. That, you know, if you've been tested at other companies and you've always come up negative or whatever, then I don't see what the big deal is that they have to go to all the expenseof testing you over and over and over.|sd
+B|I think your record should stand for itself. That, you know, if you've been tested at other companies and you've always come up negative or whatever, then I don't see what the big deal is that they have to go to all the expense of testing you over and over and over.|sd
 A|Uh-huh.|b
 B|And once you've established the fact that you're not a drug user and especially if your personality proves that you're not. I think they could, uh, save money by not doing that. You know, every time,|sd
 B|say if you change jobs you wouldn't have to do it if you'd just been tested at your other work place.|sd
@@ -31,7 +31,7 @@ A|and that's not necessarily fair.|sv
 B|Well, they might tell you it's random.|sv
 A|Uh-huh.|b
 B|But then, you know, it's kind of like a, a lottery.|sv
-B|Somebody in their lifetime may win millions of dollars where another person doesn't win anything, and tries and tries and tries.You know.|sv
+B|Somebody in their lifetime may win millions of dollars where another person doesn't win anything, and tries and tries and tries. You know.|sv
 A|Yeah.|b
 A|Well, I I know that, for instance, in the N C double A, they drug test|sd
 A|and it's not random.|sd
@@ -46,8 +46,8 @@ B|So, do you ...|%
 A|And, and the ones that test positive have to retest after a certain period of time.|sd
 B|Right.|b
 B|Well, do you think that should be implemented in the work place. You know, as like a manager or supervisor thinks or has suspicion that someone is using drugs,|qy
-B|do you think they should have the right to send themto be tested.|qy
-A|Well, not being adrug user I don't have a problem with that personally|na
+B|do you think they should have the right to send them to be tested.|qy
+A|Well, not being a drug user I don't have a problem with that personally|na
 B|Right.|b
 A|but I think that might be a violation of someone's rights.|sv
 A|If someone's having personal problems for some reason that's causing them to behave differently|sv
@@ -59,7 +59,7 @@ B|right.|b
 B|Yeah,|b
 B|it, it would almost be like a, a, uh ...|%
 A|It's an accusation,|sv
-A|and, and it'sand it's based on, on a perception that someone has as how a drug user would behave when some drug users behave, uh, normal, uh, you know.|sv
+A|and, and it's and it's based on, on a perception that someone has as how a drug user would behave when some drug users behave, uh, normal, uh, you know.|sv
 B|Uh-huh.|b
 B|And then how would you feel afterwards when you came up negative and, you know, your supervisor has accused you of using drugs.|qh
 A|Right,|b
@@ -79,7 +79,7 @@ B|and I know many people that have never been tested in their lifetime|sd
 B|and the company I work for is sixty thousand people, plus.|sd
 B|So see I, for some reason, I've come up three times.|sd
 B|That's pretty high statistics.|sd
-A|Well, does your does your job require you to drive company equipment or to operate any type of machinery that mightendanger someone?|qy
+A|Well, does your does your job require you to drive company equipment or to operate any type of machinery that might endanger someone?|qy
 B|No.|nn
 B|No,|nn
 B|not at all.|sd
@@ -98,24 +98,24 @@ B|Right.|b
 B|Well, does your, the company say, for instance, does the company you worked for before have the right or do they have the ability to say, hey, we've already drug tested her|qy
 B|and she came up negative.|sd
 A|Well, no,|nn
-A|I don't think they can, they can force another company to not drug test me just by saying that I, Ididn't, I mean,|sv
+A|I don't think they can, they can force another company to not drug test me just by saying that I, I didn't, I mean,|sv
 B|Yeah.|b
 A|they don't know that I don't use drugs.|sd
 A|They just tested me once.|sd
 B|Right,|b
 B|right.|b
 A|But, I used to work for a power company,|sd
-A|so it was very important that they make sure their employees, especially linemenuh, were clean.|sd
+A|so it was very important that they make sure their employees, especially linemen uh, were clean.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|And since I was just, you know, one of the office folk, I guess it wasn't as important to them that they test me regularly.|sd
-A|But I know they test most of the service people fairly regularlyuh, just across the board.|sd
+A|But I know they test most of the service people fairly regularly uh, just across the board.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 B|And are they tested random?|qy
 A|No,|nn
 A|they're,|%
-A|all of them are testedonce every three|sd
+A|all of them are tested once every three|sd
 B|They're ...|%
 A|it's a rotation.|sd
 B|Oh, okay.|bk
@@ -124,10 +124,10 @@ A|But it,|%
 A|but again, it depends on what job you're in.|sd
 B|Yeah.|b
 A|The men that are out there fixing power lines are tested a lot|sd
-A|and the men that drive the truckswith, with the guys that fix the power lines aren't tested as much.|sd
+A|and the men that drive the trucks with, with the guys that fix the power lines aren't tested as much.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
-A|But, but see, they make that clear to them as they hire those guyswhat, what the drug testing schedule is.|sd
+A|But, but see, they make that clear to them as they hire those guys what, what the drug testing schedule is.|sd
 B|Oh, I see.|b
 A|They say we, we're testing you tomorrow|sd
 A|and we'll test you every three months thereafter while you work here.|^q

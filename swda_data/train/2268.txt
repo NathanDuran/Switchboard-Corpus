@@ -3,13 +3,13 @@ B|Well, uh, normally I like to, to go out fishing in a boat, and, uh, rather tha
 A|So, you like fresh water.|qy^d
 B|Uh-huh.|ny
 B|Uh-huh.|ny
-B|I've never tried like with, deep, uh, sea water fishingbecause you get, I get sea sick|sd
+B|I've never tried like with, deep, uh, sea water fishing because you get, I get sea sick|sd
 A|Uh-huh.|b
 A|Oh I see|b
 B|Well, one of these days, I'm hoping they'll have some kind of medicine,|sd
 B|so I can go out and go, uh, deep sea fishing.|sd
 B|Now, that would be nice.|sv
-A|Well, I was raised on the Texas gulf coast,in the summers,|sd
+A|Well, I was raised on the Texas gulf coast, in the summers,|sd
 B|Uh-huh.|b
 A|and during the Christmas holidays we'd go down to our house on the coast|sd
 B|Uh-huh.|b
@@ -18,7 +18,7 @@ B|Oh, my goodness.|ba
 A|and anything that was fresh water was muddy|sd
 B|Uh-huh.|b
 A|so I didn't learn to fish in a lake until I was well into my twenties|sd
-A|so I had, I had always been a, a sea fisher typewhich is a lot of fun.|sd
+A|so I had, I had always been a, a sea fisher type which is a lot of fun.|sd
 B|Uh-huh.|b
 B|Oh I bet it is.|ba
 A|There's so many different ways to catch fish.|sv
@@ -68,7 +68,7 @@ A|I'd make some quick arrangements|sd
 B|That's true.|aa
 A|and I've told so many stories about the snakes|sd
 B|Uh-huh.|b
-A|you know, when they pull in, there's a snake instead of a fish,and things like that|sd
+A|you know, when they pull in, there's a snake instead of a fish, and things like that|sd
 B|Yeah.|b
 A|I'm just,|%
 B|Oh.|b
@@ -81,7 +81,7 @@ B|and for me that's big.|sd
 B|That's why I'm saying I love to go fishing because I've never caught anything really, really big.|sd
 B|Uh, so, because it's always been, you know, in the, on a lake, and, uh,|sd
 B|I know they have bigger fish than that|sd
-B|but, you know, three and a half pounds, and that was,huge for me,|sd
+B|but, you know, three and a half pounds, and that was, huge for me,|sd
 A|Oh, on a lake,|bf
 A|yeah.|b
 A|On a like that's not a bad size fish. *listen; transcript should probably read "lake" not "like"|sv
@@ -106,7 +106,7 @@ A|it's what you do every day.|sd
 B|That's right.|aa
 A|You know.|%
 B|That's right.|aa
-A|Uh, one of my favorite things was, we were forever catching crab and steaming themand then digging a hole and pitching the whole thing in it you knowand, and, breaking them up and sitting out there and eating them,and you know, just, uh, pitching them out, on, uh, on, uh, what am I trying to say, newspaperyou know, out on the, on the beach|sd
+A|Uh, one of my favorite things was, we were forever catching crab and steaming them you know, out on the, on the beach and you know, just, uh, pitching them out, on, uh, on, uh, what am I trying to say, newspaper and, and, breaking them up and sitting out there and eating them, and then digging a hole and pitching the whole thing in it you know|sd
 B|Yeah.|b
 B|Uh-huh.|b
 B|Uh-huh.|b
@@ -116,11 +116,11 @@ A|and, and that's it.|sd
 B|Yeah.|b
 A|And, uh, but, the other little creatures would take care of what was left.|sd
 B|That's right,|aa
-A|So,going out on a boat, never did appeal to me simply because it, you know, there was so much else to do.|sd
+A|So, going out on a boat, never did appeal to me simply because it, you know, there was so much else to do.|sd
 B|that's right.|aa
 B|Right.|b
 B|Right.|b
-B|Well, do you live like along, uh, Houston,down there?|qy
+B|Well, do you live like along, uh, Houston, down there?|qy
 A|No,|nn
 A|no.|nn
 A|I live in Dallas.|sd
@@ -129,9 +129,9 @@ B|oh, okay.|bk
 B|But you, uh,|sd
 A|We had a house in Port Aransas.|sd
 B|Oh okay.|b
-A|It's a little fishing village that is,Corpus.|sd
-B|That's close to, uh,South Padre.|^2
-A|Well,uh, South Padre is on down the bend|ar
+A|It's a little fishing village that is, Corpus.|sd
+B|That's close to, uh, South Padre.|^2
+A|Well, uh, South Padre is on down the bend|ar
 B|Oh Corpus.|b^m
 B|Okay.|bk
 B|Okay.|bk
@@ -152,7 +152,7 @@ B|so when would go, and we would go to Port Aransas or then, on down to Corpus o
 B|yeah,|aa
 B|like what your talking about.|sd
 B|Because I was just wondering, we went to Galveston this, this summer, even with all the oil spills and everything,|sd
-B|I mean, I was,oh, it was horrible.|sv
+B|I mean, I was, oh, it was horrible.|sv
 A|Was it bad?|qy
 B|I well never, ever go back.|sd
 B|I don't think. Uh,|h
@@ -186,7 +186,7 @@ B|It most certainly is, so, uh, so that, it, it was, it was certain things that 
 B|but, uh, I don't, I think it's lost a lot of it's appeal since then, because of all the oil spills that they have had,|sv
 B|and, uh, it always smelled the entire time we were there.|sd
 B|It was,|%
-A|I didn't realize that had happened,for some reason.|sd
+A|I didn't realize that had happened, for some reason.|sd
 B|Yeah.|b
 B|We went swimming one time, in the whole week that, we were there,|sd
 B|and the rest of the time we stayed in the pool, because the water was so awful,|sd
@@ -195,7 +195,7 @@ A|Well, of course, being raised on the water I'd never swim in it.|sd
 B|yeah.|b
 A|Huh-uh.|aa
 B|Yeah.|b
-A|Swimming is for swimming,pool.|sv
+A|Swimming is for swimming, pool.|sv
 B|Yeah.|b
 A|That's why they call them swimming pools|sv
 B|Uh-huh.|b
@@ -207,8 +207,8 @@ B|No.|aa
 A|No.|aa
 B|Not anymore.|sd
 A|I've seen what comes out of the ocean,|sd
-A|and I have no desire to share,any space with anything like that.|sd
-A|But, really, but huge sharksare down there.|sd
+A|and I have no desire to share, any space with anything like that.|sd
+A|But, really, but huge sharks are down there.|sd
 B|Uh-huh.|b
 A|I mean incredibly large sharks.|sv
 B|Uh-huh.|b

@@ -13,14 +13,14 @@ B|They come in really handy sounds in|sd
 A|What kind of, uh, things are you going to consider,|qw
 A|you know, what, uh, you said something about the, about the,|sd
 A|well, what do you call them,|t1
-A|you said amenities,that they have,|sd
+A|you said amenities, that they have,|sd
 B|Amenities.|b^m
 A|but what about, um, their reputation of the company or the price.|qw
 B|Yeah,|b
 B|well, of course, I guess, uh, price is always the big consideration,|sv
 B|but,|%
 A|It is for me,|sd
-A|other people,don't seem to have the same problem|sv
+A|other people, don't seem to have the same problem|sv
 B|yeah.|b
 B|Well, that's, that's a big one in my book,|sd
 A|Yeah.|b
@@ -34,7 +34,7 @@ A|but have not been entirely happy with, uh, several things about the car,|sd
 A|it doesn't seem like the quality is quite as high as I expected it to be.|sd
 B|Oh, really?|bh
 A|Because several things, minor things sort of,|sd
-A|but still they cost us money, um, that we didn't feel like we should have had to pay, on a car that, that was that new,you know,|sd
+A|but still they cost us money, um, that we didn't feel like we should have had to pay, on a car that, that was that new, you know,|sd
 B|Uh-huh.|b
 A|we bought the car new|sd
 A|and after,|%
@@ -43,7 +43,7 @@ B|Oh.|b
 A|And, they just said, well, you know, clutches are disposable ,|sd
 A|and I said, since when?|sd
 B|Yeah.|b
-A|Brake pads are disposable ,you know,|sd
+A|Brake pads are disposable , you know,|sd
 B|Yeah.|b
 A|we know that,|sd
 A|but I never thought a clutch was disposable.|sd
@@ -59,7 +59,7 @@ A|you know, the less actually, the less you spend on a car it seems like luxury 
 A|they're called luxury cars even though they're much more expensive like, like, uh, uh, a Mercedes Benz,|sd
 A|they don't have the history of breaking down or things like that, that would go wrong would definitely not be considered disposable.|sd
 B|Right.|b
-A|You would never think of having to replace the clutch in a Mercedes,especially not after two years.|sv
+A|You would never think of having to replace the clutch in a Mercedes, especially not after two years.|sv
 B|No|aa
 B|but then,|%
 B|No,|aa
@@ -67,16 +67,16 @@ B|but on the other hand, I guess, too, uh, whenever you do have to have some maj
 A|Really?|bh
 A|Oh I don't know.|h
 B|Yeah,|b
-B|I've, uh, worked with a couple of people who have owned, uh, various years, uh,Mercedes|sd
+B|I've, uh, worked with a couple of people who have owned, uh, various years, uh, Mercedes|sd
 A|Uh-huh.|b
 B|and, even though they do a lot of the work themself then just buying the parts and everything is, is pretty expensive.|sd
-B|But for them it's, it's sort of a hobby, too,to own them .|sd
+B|But for them it's, it's sort of a hobby, too, to own them .|sd
 A|Yeah.|b
 A|What kind of,|qw
 A|what brand of car are you thinking about buying|qw
 A|or like what things are you looking at?|qw
 B|Well, I haven't really gotten that far with it, um,|sd
-B|I've always sort of liked General Motors,a little bit better than some of the others|sd
+B|I've always sort of liked General Motors, a little bit better than some of the others|sd
 A|Uh-huh.|b
 B|but, uh, oh, I guess, I really don't know.|h
 A|How come|%
@@ -100,7 +100,7 @@ A|Uh-huh.|b
 B|and, you knew it had, had been through a whole lot,|sd
 A|Uh-huh.|b
 B|and yet, you know, it, it held up pretty doggone good,|sd
-B|so,I thought they would|sd
+B|so, I thought they would|sd
 A|Yeah.|b
 A|They seem to be really durable.|sv
 B|Yeah.|b

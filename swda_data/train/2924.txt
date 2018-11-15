@@ -20,10 +20,10 @@ A|I think that's actually good idea.|sv
 B|Leaving it up to the judge?|qy^d
 A|just, just sentencing, not the trial itself.|na
 B|Oh, okay.|bk
-A|Um, because I think that that, that judges are probably more informed as to what is,and stuff like thathow serious the nature of the crime is,|sv
+A|Um, because I think that that, that judges are probably more informed as to what is, how serious the nature of the crime is, and stuff like that|sv
 B|Yeah,|b
 B|well right|b
-B|because,the general public doesn't know that if, if they're sentenced to life that they won't serve life.|sv
+B|because, the general public doesn't know that if, if they're sentenced to life that they won't serve life.|sv
 A|an,|%
 A|Right.|b
 B|Course the judge will know when he'll be up for parole and all that.|sv
@@ -36,7 +36,7 @@ B|because I didn't hear them say that,|sd
 B|but yeah.|%
 A|Oh yeah,|b
 A|the, the,|%
-A|they give that as, as an example of something that,that might happen|sd
+A|they give that as, as an example of something that, that might happen|sd
 B|Uh-huh.|b
 B|But I think if the entire trial was left to one person|sd
 B|I've got a four year old,|sd
@@ -44,7 +44,7 @@ B|you can hear.|sv
 A|Oh yes.|aa
 B|But, uh, I don't know,|sd
 B|you,|%
-B|too many people can take vendettas out on people,and everything.|sv
+B|too many people can take vendettas out on people, and everything.|sv
 A|Right.|b
 A|Or just, you know,|%
 A|there are two people who say well he just looks guilty, um.|sv
@@ -85,7 +85,7 @@ B|Well you don't have to be really convinced that he's guilty,|sv
 B|it's just if they can't prove he's guilty|sv
 B|because|%
 A|Right, uh,|b
-A|but, I mean what if eleven other people are saying one thing, you know, and you're,you're the one person saying the other thing.|sd
+A|but, I mean what if eleven other people are saying one thing, you know, and you're, you're the one person saying the other thing.|sd
 B|Yeah.|b
 A|You know, would you give in.|sv
 A|Yeah|b
@@ -102,7 +102,7 @@ A|how do you decide what number of people have to say that.|qh
 B|Yeah,|aa
 B|I know,|sd
 B|it's too bad one of us don't have some knowledge on this,|sv
-B|huh.But, but, um, I don't know,|h
+B|huh. But, but, um, I don't know,|h
 B|I just hope if I ever go to court that they all, unanimous on not guilty|sd
 B|Well you've seen like these T V movies,|qy^d
 A|Yeah.|ny
@@ -148,7 +148,7 @@ A|there, there must be some sort of deep seeded reason for that,|sv
 A|you know, something like, something like, well you can't be tried for the same trial because that would bias the, the, the, the jury or something,|sv
 A|or, you know.|%
 B|Right,|b
-B|and I'm sure that, you know, it's the lawyers,uh, after the, uh, defendant, defending, oh, the defendant's lawyer and the prosecuting attorney.|sv
+B|and I'm sure that, you know, it's the lawyers, uh, after the, uh, defendant, defending, oh, the defendant's lawyer and the prosecuting attorney.|sv
 A|Yeah,|b
 A|uh-huh.|b
 B|I'm sure the prosecuting attorney could make a real good case if he, you know, knew all the details of the defendant's, you know, case.|sv
@@ -168,11 +168,11 @@ B|I know, if it's related,|ba
 A|I wonder,|%
 B|if it's related to the crime, they should be able to.|sv
 A|Yeah,|b
-A|I mean if this man is, is accused of raping someone, then I think that something like sex, you know,that adds to the fact,the fact that he sexually assaulted someone is a crucial bit of evidence,|sv
+A|I mean if this man is, is accused of raping someone, then I think that something like sex, you know, the fact that he sexually assaulted someone is a crucial bit of evidence, that adds to the fact,|sv
 B|Yeah.|b
 B|Right,|b
 B|yeah.|b
-A|and I, I, I,I, I often,|%
+A|and I, I, I, I, I often,|%
 B|But they're not allowed to do that.|sv
 A|I never understand, you know,|sd
 A|again, having,|%
@@ -231,10 +231,10 @@ A|Where you weren't,|%
 A|I, I wonder about the politics of it all,|sd
 A|so.|%
 B|Right,|b
-B|because most of it is politics,even in the courts.|sv
+B|because most of it is politics, even in the courts.|sv
 A|Yeah.|b
 A|Well even in the courts well, well, they're all appointed.|sv
-A|I mean,that's even another issue, you know,|sv
+A|I mean, that's even another issue, you know,|sv
 B|Right.|b
 A|should, should, should judges be appointed, you know,|sv
 A|and, or, or, um, often times I look at friends,|sd
@@ -284,7 +284,7 @@ A|Still way up north, sort of, um.|sd
 B|Yeah,|b
 B|I, I'm, I was up north too.|sd
 B|But, uh, that's one of the reasons I think judges should be the ones to sentence people|sv
-B|because they do know, you know,if you sentence them to three life times, then they probably won't get out on parole.|sv
+B|because they do know, you know, if you sentence them to three life times, then they probably won't get out on parole.|sv
 A|Yeah.|b
 A|Won't get out, exactly,|^2
 A|yeah,|b
@@ -311,7 +311,7 @@ A|No,|b
 A|or, right,|b
 A|right,|b
 A|exactly,|aa
-A|but give them a bunch of psychotics but at least have a, have a, have a bunch of psychiatrists,you know, just to look at him and decide from then.|sv
+A|but give them a bunch of psychotics but at least have a, have a, have a bunch of psychiatrists, you know, just to look at him and decide from then.|sv
 B|Uh-huh.|b
 A|I mean, they would ,|%
 B|Did they have a trial by jury for him.|qy

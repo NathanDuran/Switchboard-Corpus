@@ -16,13 +16,13 @@ A|and I read it on the way in to work on the, in a carpool.|sd
 B|Oh, really.|bh
 A|Uh-huh.|ny
 A|And, uh, and I watch the, uh, actually I watch the morning news before I leave for work.|sd
-A|And then, you know, usually over lunch, there'll be a big topic of conversation on somethingfrom the news.|sd
+A|And then, you know, usually over lunch, there'll be a big topic of conversation on something from the news.|sd
 B|Uh-huh.|b
 B|I normally find that uh, I'm probably the most, um, news hungry of my friends,|sd
 B|so I don't, we don't normally talk about the news at lunch.|sd
 B|I, I find that I have to only subscribe to the paper on the weekend, simply because I used to get it during the week|sd
 A|Uh-huh.|b
-B|but, um, I would always end up arriving at work late, because I would always end up skimming the headlines, spending too much time,reading it in the morning.|sd
+B|but, um, I would always end up arriving at work late, because I would always end up skimming the headlines, spending too much time, reading it in the morning.|sd
 A|Yeah.|b
 B|So I have to cut myself down to the weekend, plus after work.|sd
 B|Um, the MACNEIL LEHRER news hour is on public television|sd
@@ -42,7 +42,7 @@ B|It's sort of interesting though, because he does bring a, a much, um, differen
 B|He was always speaking in terms of, you know, American imperialism reasserting itself.|sd
 B|Um, I suppose it's a different attitude that we normally don't hear in the country.|sv
 A|Uh-huh|b
-A|Well I, I, uh, I like the print newsmuch better than the television news because television news tends to sensationalize.|sd
+A|Well I, I, uh, I like the print news much better than the television news because television news tends to sensationalize.|sd
 B|Uh-huh.|b
 B|True, um,|aa
 B|the,|%
@@ -62,7 +62,7 @@ A|Yeah.|b
 B|A lot of times they end up, um, with these panels of experts|sd
 B|and they go back and forth, where everyone's giving some opinions|sd
 B|and sometimes that,|%
-B|I don't know the value of that, because I saw plenty of jokes and, and, um, oh, editorial cartoons about all the retired generals,making a living during the, the Gulf War.|sd
+B|I don't know the value of that, because I saw plenty of jokes and, and, um, oh, editorial cartoons about all the retired generals, making a living during the, the Gulf War.|sd
 A|I've been getting a kick out of those lately.|sd
 B|Uh-huh.|b
 A|Although, um|%
@@ -72,7 +72,7 @@ B|Uh-huh.|b
 A|and I don't know anyone in the military|sd
 A|and I don't have a lot of background knowledge in, uh, military strategy and, and weaponry, and, and all that kind of stuff.|sd
 A|And I thought the generals were very interesting.|sv
-A|Now when they started to speculate, I, I saw that for what is was,and thought all of these guys don't know what's going on.|sd
+A|Now when they started to speculate, I, I saw that for what is was, and thought all of these guys don't know what's going on.|sd
 B|Uh-huh.|b
 A|But I thought they were interesting,|sv
 A|and, and they shed some light on what was going on for me.|sd
@@ -99,30 +99,30 @@ B|Uh-huh.|b
 A|and if a child asked a question that the person in Jerusalem could best answer, they would cut to that person,|sd
 A|and that person would answer the question.|sd
 A|It was just very informative and interesting,|sv
-A|and, uh, I was real impressed at how A B C handled, uh, translating,the war for children.|sd
+A|and, uh, I was real impressed at how A B C handled, uh, translating, the war for children.|sd
 B|Uh-huh.|b
 B|Yeah,|b
 B|I didn't see anything like that, although I did, uh,|sd
 B|I guess one thing that I found sort of interesting,|sd
 B|this is getting a little off the topic,|h
-B|but there was a, a, a big push with the local T V stations to have little hot lines with counselorsto, to help parents learn how to talk about their war with their children.|sd
+B|but there was a, a, a big push with the local T V stations to have little hot lines with counselors to, to help parents learn how to talk about their war with their children.|sd
 A|Uh-huh.|b
 B|I thought that was a really unusual thing.|sv
 A|And our local H E B stores here,|sd
 A|I don't know if it's H E B statewide or whatever,|sd
 A|but they have videos that, uh,|sd
 A|I don't know if they still have them,|sd
-A|but they were free rental,videos, that had something to do with the war.|sd
+A|but they were free rental, videos, that had something to do with the war.|sd
 B|Uh-huh.|b
 A|Uh, it was,|%
 B|with the children's aspect?|qy^d
 A|Right.|na
-A|It was something for children, that they, they had several advertisements on television pushing parents going and, uh, getting the video and watching it with their children and discussing itand that kind of thing.|sd
+A|It was something for children, that they, they had several advertisements on television pushing parents going and, uh, getting the video and watching it with their children and discussing it and that kind of thing.|sd
 B|Uh-huh.|b
 B|I suppose that is a valuable service.|sv
 B|Again not having, uh, lived through another war, I don't know if that's a common thing that people thought of,|sd
-B|or if that wasa new concern with people.|sd
-A|Wellback during the Viet Nam conflict that no one will, will have the guts enough to call a real war|sd
+B|or if that was a new concern with people.|sd
+A|Well back during the Viet Nam conflict that no one will, will have the guts enough to call a real war|sd
 B|Uh-huh.|b
 A|uh, the, that type of technology just wasn't at people's disposal.|sd
 B|That's true.|aa
@@ -133,7 +133,7 @@ A|Yeah.|aa
 A|I tell you what,|fo_o_fw_"_by_bc
 A|the first three days, I was glued to the television.|sd
 B|I will admit the same thing.|sd
-B|And I,would come home and flip on MacNeil Lehrer|sd
+B|And I, would come home and flip on MacNeil Lehrer|sd
 A|And I,|%
 B|and they would run these extended two, three hour versions of the program|sd
 A|Yeah.|b
@@ -190,7 +190,7 @@ A|Yeah.|b
 B|I, I find the news reporting in the MORNING NEWS to be better,|sd
 B|but I sort of have a liberal political slant,|sd
 B|and the MORNING NEWS just has an incredibly conservative editorial, um, outlook.|sv
-A|And my,My fiancee takes probably six Sunday papers.|sd
+A|And my, My fiancee takes probably six Sunday papers.|sd
 B|I get the TIMES HERALD just to balance that out a little bit.|sd
 A|He takes both San Antonio papers, an Austin paper, both Houston papers,|sd
 A|I guess he takes seven, the San Marcos paper and the New Braunsfel paper,|sd

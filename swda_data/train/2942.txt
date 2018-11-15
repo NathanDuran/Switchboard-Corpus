@@ -4,16 +4,16 @@ A|I'm, I'm, I'm full of advice.|sd
 A|I'm still a graduate student.|sd
 A|So.|%
 B|Uh-huh.|ny
-B|Well, having been there not too long ago, and my wife having only recently completed a doctorate,I'm fairly full of it, of it myself.|sd
+B|Well, having been there not too long ago, and my wife having only recently completed a doctorate, I'm fairly full of it, of it myself.|sd
 A|Um.|b
-B|Uh, the main point that I have about choosing where you want to go to school, is that, you have to early on define what it is you want to door at least what area you want to be in.|sv
+B|Uh, the main point that I have about choosing where you want to go to school, is that, you have to early on define what it is you want to do or at least what area you want to be in.|sv
 A|Yeah.|b
 B|Uh, I had the unpleasant experience of going through several schools that were very specialized.|sd
-B|I went through a number of them,uh, undergraduate schools, before I found a, a good school that was more general, uh, to give me time to make up my mind.|sd
+B|I went through a number of them, uh, undergraduate schools, before I found a, a good school that was more general, uh, to give me time to make up my mind.|sd
 A|Um.|b
 A|Oh, that's interesting.|ba
 A|I went to a, a liberal arts school, actually, at first,|sd
-A|and you weren't really even, um,they didn't expect you to choose any sort of major or anything at all until you were in your second year,|sd
+A|and you weren't really even, um, they didn't expect you to choose any sort of major or anything at all until you were in your second year,|sd
 A|and then you, you know, you had, I think you had to pick it, by, by, by the end of the second you had to pick some sort of major,|sd
 A|but until then they didn't sort of force you.|sd
 A|They, they sort of forced you to run around taking classes in everything until then. Certain requirements,|sd
@@ -21,7 +21,7 @@ A|so that, so that you had to sort of get a general feel for everything,|sd
 A|so it wasn't that specialized.|sd
 A|So that,|%
 B|That's wonderful.|ba
-B|I'm a great proponent of liberal arts education,for anybody.|sd
+B|I'm a great proponent of liberal arts education, for anybody.|sd
 A|Yeah.|b
 A|Yeah.|b
 B|Uh, being an engineer now, I believe in it even more strongly than I did before.|sd
@@ -35,7 +35,7 @@ B|Uh, the great gap historically has, with engineers, has been while they may ha
 A|Uh-huh.|b
 B|And I have the ability to listen to them and then translate that into something that nonengineers can understand.|sd
 A|Well, that must be helpful.|qy^d
-B| Well, it's, a lot of fun, at the moment.|arp_nd
+B| Well, it's,  a lot of fun, at the moment.|arp_nd
 A| That could  be very helpful .|qy^d
 A|Yeah,|b
 A|well, I figure that, that, that's probably the thing I would most tell any parent, you know, to tell their kids, I think, probably|sd
@@ -53,7 +53,7 @@ A|but, but that's a good idea.|ba
 A|Well, where I am right now,|%
 A|actually I'm at the University of Rochester,|sd
 A|and that's a pretty good engineering school, I think.|sv
-A|I think  we do some they have pretty good engineering here.|sv
+A|I think  we do some  they have pretty good engineering here.|sv
 B| Yes,|aa
 B|it is. |aa
 A|They also have a fairly large liberal arts college as well. A sort of, a separate, you know, arts and sciences college.|sd
@@ -64,7 +64,7 @@ A|So they do force them,|sd
 A|people are forced to sort of take all different kinds of classes here, which I think is wonderful.|sv
 B|Oh, I agree.|aa
 B|Uh, I have the experience, uh,|sd
-B|the last school that I went to was Mississippi State Universitywhich is historically an engineering and agricultural school.|sd
+B|the last school that I went to was Mississippi State University which is historically an engineering and agricultural school.|sd
 A|Uh-huh.|b
 A|Right.|b
 B|Uh, the typical land grant university,|sd
@@ -77,10 +77,10 @@ A|Uh-huh.|b
 B|And they don't learn the communications,|sd
 B|they don't learn the thought processes of other fields of, of endeavor.|sd
 A|Um.|b
-B|It's, you know, it, that's kind of like if I were king for a day, and got to, and got to make one rule.My rule would be, no one could get out of high school without an entire year of philosophy.|sd
+B|It's, you know, it, that's kind of like if I were king for a day, and got to, and got to make one rule. My rule would be, no one could get out of high school without an entire year of philosophy.|sd
 A|Um, uh-huh.|aa
-A| That would, be very good actually.|sv
-B| And it's, that's not even true in our colleges.|sv
+A| That would,  be very good actually.|sv
+B| And it's,  that's not even true in our colleges.|sv
 A|Right,|aa
 A|you, you don't need any philosophy at all in school.|sv
 A|Uh-huh.|%
@@ -106,8 +106,8 @@ A|and, uh, and that sort of forced them.|sd
 A|But I believe that, that, that you, one of the, one of the best things to do, at least for me in school was, was, I was sort of forced to take lots of different kinds of courses.|sv
 A|Um, I was forced to take, I think you know, some sort of art history course,|sd
 A|and we all grumbled about it at first,|sd
-A|but then, afterward, we all wound up taking extra art history classes, because it just seemed like something, something we didn't totally know nothing about, but just enjoyed very much doing, and something I  would never would have done if, if I wasn't forced to take it.|sd
-B| Yes, I I remember that experience|sd
+A|but then, afterward, we all wound up taking extra art history classes, because it just seemed like something, something we didn't totally know nothing about, but just enjoyed very much doing,  and something I  would never would have done if, if I wasn't forced to take it.|sd
+B| Yes, I  I remember that experience|sd
 A|Uh-huh.|b
 B|that and, uh, extra music classes.|sd
 A|Yes.|b
@@ -155,7 +155,7 @@ B| It, it certainly  makes acceptance of different ideas a lot easier.|sv
 A|Uh-huh.|b
 A|Um. Yeah,|b
 A|I'm getting some of that.|sd
-A|Um, I have, I have sort of some,work experience .|sd
+A|Um, I have, I have sort of some, work experience .|sd
 A|My wife is not an academic at all.|sd
 A|My wife is sort of in the real world,|sd
 A|and so I sort of hinge halfway out in the real world|sd
@@ -169,7 +169,7 @@ A|so I, I can, I can see where that might be a,|%
 B|Well, vicarious learning is a wonderful thing.|sv
 A|Yeah|b
 B|It certainly means that we don't have to experience everything,|sv
-B|but experience is a wonderful,teacher also.|sv
+B|but experience is a wonderful, teacher also.|sv
 A|That's my,|%
 A|oh yeah.|aa
 A|Yeah,|aa
@@ -178,7 +178,7 @@ A|agreed.|aa
 A|Well, I'll, I'll take that, I'll take that and think that through a little bit. Uh.|sd
 B|My wife, as I may have mentioned, just finished a doctorate a couple of years ago.|sd
 A|Yes.|b
-B|and she pursued her education along the lines that I didwith lots of break in between.|sd
+B|and she pursued her education along the lines that I did with lots of break in between.|sd
 A|Uh-huh.|b
 B|And she feels reasonably comfortable teaching now.|sd
 B|She has an awful lot of experience to draw on.|sd

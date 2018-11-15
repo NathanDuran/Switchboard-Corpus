@@ -6,16 +6,16 @@ B|What do you, where do you like to camp?|qw
 B|How do you like to camp?|qo
 A|Oh, I can camp just about, most anyway|sd
 A|Camping or, uh, motor home is nice, uh, travel trailer, pop up,|sd
-B|I used to, uh, live in the Ozarks and, uhstrike out into the woods.liked to go up there and just take a backpack and|sd
+B|I used to, uh, live in the Ozarks and, uh liked to go up there and just take a backpack and strike out into the woods.|sd
 A|Oh, really?|bh
 A|Oh.|b
 A|You really rough it then.|bf
 B|Yeah.|aa
 A|Uh-huh.|b
 A|Do you do that very often?|qy
-B|I haven't done it in quite awhilesince I moved down here.|ng
+B|I haven't done it in quite awhile since I moved down here.|ng
 A|Uh-huh.|b
-B|But I used to do itquite a bit.|sd
+B|But I used to do it quite a bit.|sd
 A|Uh-huh.|b
 A|You'd have a lot of hills in that, down in that area.|qy^d
 B|Yeah,|ny
@@ -38,7 +38,7 @@ A|Uh-huh.|b
 A|Oh, that's great. Long as it's not raining.|ba
 B|Yeah,|b
 B|it gets kind of,|%
-B|I, we used to have one of those little caves you can go back inget out of the rain.|sd
+B|I, we used to have one of those little caves you can go back in get out of the rain.|sd
 A|Uh-huh.|b
 A|Really,|b
 A|oh, that would be,|%
@@ -66,7 +66,7 @@ A|But, we've, uh, we've done, uh, many types of camping.|sd
 A|We've, we've done tent camping,|sd
 A|and we had access to a motor home which is really super great, if you don't want to rough it too much.|sd
 B|Yeah.|b
-B|You can get the, they have some nice camping groundsyou know, that have the water piped out|sv
+B|You can get the, they have some nice camping grounds you know, that have the water piped out|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|just set it up|sv
@@ -95,7 +95,7 @@ A|we don't as much anymore,|sd
 A|but, uh, we used to.|sd
 A|We kind of slowed down a little bit.|sd
 A|But, uh, I think the worst, the worst thing is when it's raining.|sv
-A|If you get a rainy season and you happen to be campingthen it can be kind of bad.|sv
+A|If you get a rainy season and you happen to be camping then it can be kind of bad.|sv
 B|Yeah.|b
 B|I know the rain bring out the snakes or used to bring them out in the Ozarks,|sd
 A|Uh-huh.|b
@@ -129,7 +129,7 @@ B|Had a four wheel drive.|sd
 A|Uh-huh.|b
 B|You just get used to it.|sd
 A|Yeah.|b
-A|I guess you know enough to look where you're walking or sittingor whatever you're doing.|qy^d
+A|I guess you know enough to look where you're walking or sitting or whatever you're doing.|qy^d
 B|Yeah.|ny
 A|Yeah.|b
 A|Yeah,|b
@@ -137,7 +137,7 @@ A|I would think, I would think a cave would be, could have problems like that, t
 B|Yeah.|ny
 B|This cave that we used to go in was little,|sd
 B|it was small|sd
-B|it was moreit was just big enough for a couple of people to sack out.|sd
+B|it was more it was just big enough for a couple of people to sack out.|sd
 A|Uh-huh.|b
 A|Uh-huh,|b
 A|is your brother younger than you|qy
@@ -153,7 +153,7 @@ A|Yeah.|%
 B|Yeah.|aa
 B|Yeah,|aa
 B|it was.|aa
-B|Saw a few bearsthings like that.|sd
+B|Saw a few bears things like that.|sd
 A|Did you really?|bh
 A|What, black ones?|qy
 B| Yeah. |ny
@@ -161,7 +161,7 @@ A| Yeah.|b^m
 A| That would be exciting.|sv
 B|Yeah,|aa
 B|the first, first couple of times it's pretty scary|sv
-B|but, uh,after that you realize they are just as afraid of you, too.|sv
+B|but, uh, after that you realize they are just as afraid of you, too.|sv
 A|Yeah,|aa
 A|they're usually more afraid of you than you are of them, usually.|sv
 B|But, uh,|%
@@ -199,7 +199,7 @@ A|So,|%
 B|Well, I think we're about to run out of our time.|fc
 A|I think so|fc
 A|Well, it was really good hearing from you|fc
-A|andI hope you get back into camping again, and do a little more of it.|fc
+A|and I hope you get back into camping again, and do a little more of it.|fc
 B|Yeah.|fc
 B|Yeah.|fc
 B|I'm sure, I will.|fc

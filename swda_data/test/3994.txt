@@ -22,7 +22,7 @@ B|I played the clarinet,|sd
 B|I played the trumpet.|sd
 A|Wow|ba
 B|Uh, you know, whatever|sd
-B|and so I,I still sing,|sd
+B|and so I, I still sing,|sd
 B|and I sing in the choir today|sd
 B|so,|%
 A|All right|b
@@ -42,7 +42,7 @@ B|I was going to say, you got as far as the, uh, chop sticks, huh.|sd
 A|Um, well, I could play, uh, the wood chuck song.|sd
 B|Oh, the wood chuck song|b^m
 A|And I still can to this date.|sd
-B|And your mother's saying, and although, the money that we spent for those piano lessonsthis is all we got was the wood chuck song|sd
+B|And your mother's saying, and although, the money that we spent for those piano lessons this is all we got was the wood chuck song|sd
 A|Yeah.|b
 A|Yep,|b
 A|they went out and bought us a piano|sd
@@ -61,7 +61,7 @@ B|Okay.|bk
 B|I I, I can still read music if I'm lucky|sd
 B|because I,|%
 B|if I work real hard I can still barely read the music,|sd
-B|but, see, I played the pianofrom the third grade all the way through high school,|sd
+B|but, see, I played the piano from the third grade all the way through high school,|sd
 A|Yeah.|b
 B|so|%
 A|Yeah.|b
@@ -69,7 +69,7 @@ B|I played uh, concertos and other stuff|sd
 B|but,|%
 B|I got to the point where I wasn't really reading music, I was memorizing music,|sd
 B|so because of that, I can't read music as well as I used to,|sd
-B|butanyway,|%
+B|but anyway,|%
 A|Yeah.|b
 B|but I enjoy it, though.|sd
 B|I find it to be a good out|sd
@@ -83,12 +83,12 @@ A|Yeah.|b
 B|Yes,|ny
 B|I do.|sd
 B|That's,|%
-B|in fact, that's about the only musical thing that I still dois sing in the choir.|sd
+B|in fact, that's about the only musical thing that I still do is sing in the choir.|sd
 A|Yeah.|b
 A|I tried out for choir when I was, think, in the seventh grade|sd
 A|and they wouldn't let me in.|sd
-A|So,I never tried again.|sd
-B|Well,I sing in the choir,|sd
+A|So, I never tried again.|sd
+B|Well, I sing in the choir,|sd
 B|I do know if they want me to or not,|sd
 B|but at least I do sing in it|sd
 A|Yeah,|b
@@ -102,7 +102,7 @@ B|I was at,|%
 B|I actually went to the University of Texas at one time thinking that I would, be a musician.|sd
 B|I wanted to be a high school band director.|sd
 A|Yeah.|b
-B|But after one semester of that, I said no,no,|sd
+B|But after one semester of that, I said no, no,|sd
 B|this isn't for me.|^q
 B|enjoy it, but not for profession, no.|sd
 A|Yeah.|b

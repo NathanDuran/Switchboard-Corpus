@@ -43,7 +43,7 @@ A| No,|nn
 A| I don't,|sd
 A|I don't know.|h
 A|I lived in the Middle East for sometime|sd
-A|and I, I do  believe there must have been some sort of quota system because, uh, I know a lot of people that were, in a sense, not, qualified is the wrong word, but certainly were deserving to come.|sd
+A|and I, I  do  believe there must have been some sort of quota system because, uh, I know a lot of people that were, in a sense, not, qualified is the wrong word, but certainly were deserving to come.|sd
 B| Oh. |b
 B| Uh-huh. |b
 A| And  it seemed to take them a long time|sv
@@ -114,12 +114,12 @@ B|It is.|aa
 B|It's, it is very sad.|aa
 A|Uh-huh.|b
 B|So, you know, I really,|%
-B|I, I've, I've always prided myself on not being prejudiced and being, you know, uh, welcome, welcoming everyonethat wants to come here.|sv
+B|I, I've, I've always prided myself on not being prejudiced and being, you know, uh, welcome, welcoming everyone that wants to come here.|sv
 A|Uh-huh.|b
 B|And even when I was younger when I was in college, I was a member of the N A A C P because I lived up north,|sd
 B|and I was very into that, the human rights part of everything.|sd
 A|Uh-huh.|b
-B|But I, I've, I've become very cynicalin the last three, four years living in Texas.|sd
+B|But I, I've, I've become very cynical in the last three, four years living in Texas.|sd
 A|Uh-huh.|b
 A|Well, and it sounds like you feel that there is need for change.|sv
 A|Maybe the, uh, you know, the|%
@@ -136,21 +136,21 @@ B| You know,  you just don't know.|sv
 A|Exactly.|aa
 B|and yet, you know, with, uh, with, uh,|%
 B|there's somebody on my other line|sd
-B|but I'm going to ignore that. |sd
+B|but I'm going to ignore  that. |sd
 A| Oh. |b
 B|Uh, anyway I just,|%
 B|you, you kind of, you you really don't know what to do.|sv
 B|And, and I don't,|sd
 B|I want my kids to have values where they're accepting and so forth.|sd
 A|Uh-huh.|b
-B|And both of my children are really more tolerant of Blacks and Hispanics than they are of the Orientals, for  some reason.|sd
+B|And both of my children are really more tolerant of Blacks and Hispanics than they are of the Orientals,  for  some reason.|sd
 A| Um. |b
 B|They feel, you know, like they've taken over.|sd
 B|They feel like, uh, you know, they're taking some of the, the rewards that they should have.|sd
 A|Right.|b
 B|And I really don't want that to happen.|sd
 A|Right,|b
-B| But, but it's happening.|sd
+B| But,  but it's happening.|sd
 A| right. |b
 A|Right.|b
 B|And I think a lot of their friends feel the same way too.|sd
@@ -164,7 +164,7 @@ B|Yeah.|b
 B|I don't really either.|sd
 B|I wish I knew more.|sd
 A|Yeah.|b
-B|Probably if I did, I might be a little bit more, uh, tolerant, perhaps.|sv
+B|Probably if I did, I might be a little bit more, uh, tolerant,  perhaps.|sv
 A| Uh-huh. |b
 B| And I,|%
 B|and even if I, I really wish I knew the situations they were going back to or coming from.|sd
@@ -179,12 +179,12 @@ B|but I call them very, that|sd
 B|they know what they want|sv
 B|and they go get it.|sv
 A|Uh-huh.|b
-B|And in stores and so and so forth  it's,|sd
+B|And in stores and so  and so forth  it's,|sd
 A| Goal directed. |bf
 B|pardon me?|b
 A|Goal directed.|bf
 B|Yeah.|aa
-B|But in stores and things, sometimes they can be very impolite because they can, they get in front of youor they, uh, they take something that you had in mind to get before you did.|sv
+B|But in stores and things, sometimes they can be very impolite because they can, they get in front of you or they, uh, they take something that you had in mind to get before you did.|sv
 A|Oh.|b
 A|I see.|ba
 B|You know, just going for it, they take it quickly.|sd
@@ -192,7 +192,7 @@ A|Uh-huh.|b
 B|And, uh, they don't think anything of that.|sv
 B|And I don't, you know,|h
 B|that's makes people resentful too.|sv
-B|And so,And yet they have, they have a right to be here|sv
+B|And so, And yet they have, they have a right to be here|sv
 A|Sure,|aa
 A|sure.|aa
 B|and I know that.|sd
@@ -201,12 +201,12 @@ B|But it's, it sometimes it's gets touchy.|sd
 A|Uh-huh,|b
 A|uh-huh.|b
 B|So, and I'm sure it's a lot different,|sd
-B|you're from Maryland, You said?|qy^d
+B|you're from Maryland,  You said?|qy^d
 A| Yes, |ny
 B| What part of Maryland are you from?|qw
 A|Up in the Gaithersburg area.|sd
 B|Oh, okay.|bk
-B|My sister used to live  there, in that area.|sd
+B|My sister used to live  there,  in that area.|sd
 A| Uh-huh. |b
 B|And I, I'm sure that it's a lot different there.|sv
 B|Uh, it's a lot different in than, in Iowa than  it is here. |sv
@@ -225,7 +225,7 @@ A|uh-huh. |b
 B|And, and it's a kind of a touchy situation.|sd
 A|Uh-huh.|b
 B|And I wish that we could all just learn from each other and not feel threatened.|sv
-B|Butall the time.it doesn't happen that way|sv
+B|But it doesn't happen that way all the time.|sv
 A|Exactly,|aa
 A|exactly.|aa
 A|Right,|aa

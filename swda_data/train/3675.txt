@@ -26,11 +26,11 @@ B|we, uh, we pretty much live on about eight, nine hundred a month, you know, ju
 A|Boy, that's pretty good.|ba
 B|and the rest of it, you know, we pile into the house.|sd
 B|And, uh, you know, I'm fairly fortunate.|sv
-B|I mean, our credit cards are out to the max right now because I'ma little behind on that,|sd
+B|I mean, our credit cards are out to the max right now because I'm a little behind on that,|sd
 A|Sure.|b
 B|but, uh, we're still making the payments on them.|sd
 B|It's just, when you,|sd
-B|see in Texas you cannot borrow the money to build your own home and do it yourself. |sd
+B|see in Texas you cannot borrow the money to build your own home  and do it yourself. |sd
 A| Yeah, |b
 A|it's, it's tough here too.|sd
 A|You have to have the contractor sign with you.|sd
@@ -39,7 +39,7 @@ B|exactly.|aa
 A|But it's easy to find a contractor for a couple of hundred bucks who'll sign it and let you do it|sv
 B|Yeah.|b
 A|, where I live, that is.|sd
-B|And where I live, it, it's pretty scary, because Texas is one of those strange states where if you have a contractor sign on your note like thatand you screw up, you don't get it finished,|sd
+B|And where I live, it, it's pretty scary, because Texas is one of those strange states where if you have a contractor sign on your note like that and you screw up, you don't get it finished,|sd
 A|Uh-huh.|b
 B|the bank can eat the contractor.|sd
 A|Oh, bad for him, huh.|bf
@@ -68,7 +68,7 @@ B|Well, you know, we're, we're not ones to budget much, you know|sd
 B|We just going to spend it all.|sd
 A|That's kind of what we do.|sd
 A|We, uh, we're L D S|sd
-A|and so we pay ten percenttithing|sd
+A|and so we pay ten percent tithing|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|and then, you know, we put I guess it's like fifteen to twenty percent into a savings account.|sd
@@ -97,7 +97,7 @@ B|Uh, systems consulting. Computerization for construction firms.|sd
 A|Is that right?|bh
 B|Yeah.|ny
 A|I'm into computers, too.|sd
-A|II'm a E D P auditor.|sd
+A|I I'm a E D P auditor.|sd
 B|Right.|b
 B|Oh.|b
 A|And.|%

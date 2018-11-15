@@ -14,7 +14,7 @@ A|and they said they thought a lot of it, the reason it was up so was because of
 A|economy's so bad|sd
 B|Do you really believe that?|qy
 B|I mean, it, it's been up every year for many years|sv
-B|and the economy hasn't been,this bad for so long, has it?|qy
+B|and the economy hasn't been, this bad for so long, has it?|qy
 A|That's a good point|ba
 A|That's just what they quoted over the news.|sd
 B|Yeah.|b
@@ -40,7 +40,7 @@ A|Well, they don't,|ng
 A|no,|nn
 A|not really, uh,|sd
 A|they don't play it up, I don't think.|sd
-A|Uh, but there, there is too much of it, you know, uhtoo many homes broken into.|sd
+A|Uh, but there, there is too much of it, you know, uh too many homes broken into.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 A|We had our, our, fact about, uh,|%
@@ -52,7 +52,7 @@ A|Yeah,|ny
 A|we, uh, uh,|%
 A|I didn't think ours ever would be burgled into, burgled,|sd
 A|but, so many in our neighborhood had been,|sd
-A|and, uh, because we live on a cornerand back up to a real, uh, highly traveled main street.|sd
+A|and, uh, because we live on a corner and back up to a real, uh, highly traveled main street.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 A|But, uh, we were, so, uh,|%
@@ -63,9 +63,9 @@ A|And I never did get a security system,|sd
 A|but since that happened, I certainly have.|sd
 B|Yeah,|b
 B|what kind of system do you have?|qw
-A|It's, uh, uh, I guess excuse me, just a standard. Uh, with the, uh, all the doors and the, uh, infrared thing, you know, motion detector.Pretty standard.|sd
+A|It's, uh, uh, I guess excuse me, just a standard. Uh, with the, uh, all the doors and the, uh, infrared thing, you know, motion detector. Pretty standard.|sd
 B|Uh-huh.|b
-B|Is,takes your calls and all that stuff?Is this, is this one with some company that, that services you and|qy
+B|Is, Is this, is this one with some company that, that services you and takes your calls and all that stuff?|qy
 A|Yes,|ny
 A|yes.|ny
 A|It's monitored and all that.|sd
@@ -76,7 +76,7 @@ B|or is it enough just to have a thing that makes loud noise?|qrr
 A|I think, uh, the thing that makes a lot of noise would, would suffice.|sv
 B|Yeah.|b
 A|I really do.|sv
-A|But, uh, this deal that was part of it for, you know, three years or soto pay the unit off or whatever.|sd
+A|But, uh, this deal that was part of it for, you know, three years or so to pay the unit off or whatever.|sd
 B|Yeah.|b
 B|Uh-huh.|b
 A|And, uh, but it, uh,|%
@@ -86,7 +86,7 @@ A|several times you'll hit the wrong key, not intentionally or something|sd
 A|and and they call back pretty quickly,|sd
 A|so I guess it's, you know, I think it's all right.|sd
 A|But I,|%
-A|to answer your question, I think, uhuh, I think, uh, that is a pretty good deterrent in itself,|sv
+A|to answer your question, I think, uh uh, I think, uh, that is a pretty good deterrent in itself,|sv
 B|Yeah.|b
 A|whether it,|%
 B|so you got a sign up there that says you got this alarm system|qy^d
@@ -125,9 +125,9 @@ A|That's a good question.|ba
 A|I don't know,|no
 A|I don't know what the solution is.|no
 A|I really don't.|no
-B|And all these politicians make, make hay over, you knowbeing anticrime,|sv
+B|And all these politicians make, make hay over, you know being anticrime,|sv
 A|Yeah.|b
-B|butthey haven't seemed to have changed anything.|sv
+B|but they haven't seemed to have changed anything.|sv
 A|Yep.|b
 A|and nothing seems to change.|sv
 A|And, uh, I'm not sure that anything will because these, if something could happen to make these people not want to buy it|sv

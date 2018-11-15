@@ -25,7 +25,7 @@ A|That's the way with me,|sd
 A|I don't know a whole lot about it.|h
 A|I|%
 A|that's the only concern I would have, because I think personalities plus the type of doctor it is has a lot to do with the care,|sd
-A|and if you didn't have any choiceon, you know, in who you go to,|sv
+A|and if you didn't have any choice on, you know, in who you go to,|sv
 B|Well I,|%
 B|Yes,|aa
 A|Uh-huh,|b
@@ -45,7 +45,7 @@ B|Yes,|b
 B|and the expense of that, yes.|sv
 A|And that, that, something like that, you know, I thought, if you couldn't change or look elsewhere, you know, for help, if you|sv
 A|I don't know how that program works, you know, if you can do that.|sv
-B|Well, I would, I would think that they would have that as part, part of the benefityourself.to the health care program, that you would indeed have a choice that you could select that individual|sv
+B|Well, I would, I would think that they would have that as part, part of the benefit to the health care program, that you would indeed have a choice that you could select that individual yourself.|sv
 A|Uh-huh,|b
 A|uh-huh.|b
 A|Uh-huh.|b
@@ -58,14 +58,14 @@ B|but those guidelines have to be set up,|sv
 B|and I think they should be voted on by the public.|sv
 A|Uh-huh.|b
 B|And, uh,|%
-A|For them to have a choice onif they're in favor of it or not.|sv
+A|For them to have a choice on if they're in favor of it or not.|sv
 B|Uh-huh,|b
 B|uh-huh.|b
 B|Right,|aa
 B|yes.|aa
 A| It, it would. |sv
 B| And of course  they would give a full plan of what their intentions would be,|sv
-B|and, um, I think that's primary, uhor an individual perhaps being single.|sv
+B|and, um, I think that's primary, uh or an individual perhaps being single.|sv
 A|Uh-huh.|b
 A|Uh-huh,|b
 A|uh-huh.|b
@@ -76,7 +76,7 @@ A|uh-huh.|b
 B|Um, I'm not sure what else that, uh, we could address, uh, on health care, uh, other than the fact, I think, uh, the eyes and the ears and the, uh, whole self should be, uh, uh, included in all of that.|sv
 A|Uh-huh,|b
 A|uh-huh.|b
-B|Uh, dental, eye care, and, uh, our bodybecause there are so many avenues that needs to be, um, undertaken in a program like that.as a whole should be included in that|sv
+B|Uh, dental, eye care, and, uh, our body as a whole should be included in that because there are so many avenues that needs to be, um, undertaken in a program like that.|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|Um, I wouldn't want to have to go for a private doctor for anything and not be covered by the program.|sd
@@ -85,7 +85,7 @@ A|I know where my son works they have, uh, an option right now where they can ha
 A|or they can choose one that their company has elected|sd
 B|Uh-huh.|b
 A|and that costs them less if they take the doctor that, uh, that the company has selected.|sd
-B|And does he have an optionuh, if he doesn't care for the personality?|qy
+B|And does he have an option uh, if he doesn't care for the personality?|qy
 A|He|%
 A|Well, only to the point that he could go to somebody at his own expense.|ng
 B|Oh, I see|bk
@@ -102,7 +102,7 @@ A|right.|b
 A|Yeah.|b
 B|Yeah,|b
 B|cause there's always that opposite story there.|sv
-A|Uh, cause that's the first I've really known anybody that, you know, works for somebody that they had that option, you know, to make the choiceof what kind of insurance policy they, what kind of hospitalization they wanted to take.|sd
+A|Uh, cause that's the first I've really known anybody that, you know, works for somebody that they had that option, you know, to make the choice of what kind of insurance policy they, what kind of hospitalization they wanted to take.|sd
 B|Uh-huh.|b
 B|It's quite different from when I was, uh, under doctor's care, that's for sure.|sd
 A|Uh-huh,|b
@@ -141,7 +141,7 @@ A|uh-huh.|b
 B|Yes it is,|aa
 B|it's very lovely,|sv
 B|it's a very lovely state.|sv
-A|So I suppose really our situation here is even different that it is in, you know, like more populated areasthe doctors that are availableas far as, uh|sv
+A|So I suppose really our situation here is even different that it is in, you know, like more populated areas as far as, uh the doctors that are available|sv
 B|Uh-huh,|b
 B|uh-huh|b
 B|I'm sure it is,|ba
@@ -159,7 +159,7 @@ B|That is, the fields that, you know, are opening up are, um, just phenomenal.|s
 A|Uh-huh,|b
 A|uh-huh.|b
 B|They,|%
-B|I mean, look at the AIDS, uh, casein itself.you know, I mean they, that's a whole new field|sv
+B|I mean, look at the AIDS, uh, case you know, I mean they, that's a whole new field in itself.|sv
 A|Uh-huh.|b
 A|Oh, yeah.|b
 B|It's just, it's an auto immune deficiency|sv
@@ -172,7 +172,7 @@ B|I do too.|sd
 A|They, uh, they just don't seem to be,|sv
 A|Yeah.|b
 B|Well, there's guidelines that people have to follow,|sv
-B|and if they're determined to, uh, have their cigarettes and the otherthen how do you teach them?uh, carcinogenic causing items|qh
+B|and if they're determined to, uh, have their cigarettes and the other uh, carcinogenic causing items then how do you teach them?|qh
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|I guess you,|%
@@ -185,7 +185,7 @@ B|I, I, I really believe our environment have a lot to do with it.|sd
 A|Well, they say second hand smoke and that, is worse than smoking|sv
 B|Yeah.|b
 A|So, so, what do you do, you know?|qh
-B|Well, you just have to ban the smoking to theirto their little room that they want to,|sv
+B|Well, you just have to ban the smoking to their to their little room that they want to,|sv
 A|Yeah,|b
 A|yeah.|b
 A|Take their rights away from them, they say|sv

@@ -14,7 +14,7 @@ A|God, the government should come up with some kind of a health plan, or stop th
 B|Well, I wonder if they couldn't just provide, uh, interim health insurance for people who are between jobs like that.|sd
 B|That might be a step in the right direction.|sv
 B|I don't know.|h
-A|Well, the thing is, you know, jobs are so hard to findyou know,|sv
+A|Well, the thing is, you know, jobs are so hard to find you know,|sv
 B|Uh-huh.|b
 A|anyhow in the valley where I live at now, they don't want to pay anything for health insurance at all.|sd
 A|No benefits, you know.  Um. |sd
@@ -25,7 +25,7 @@ A|I mean, you get a job now, and the wages are really low |sd
 A|and, uh. |%
 B| Because everybody's  competing for jobs.|^2
 A|Yeah,|aa
-A|and they don't  want, uh, to pay any benefits,|sv
+A|and they don't  want, uh,  to pay any benefits,|sv
 A|so you just, you know, pray to God that you don't get sick.|sv
 B|Well, I used to think that universal health insurance was probably the right thing to do.|sv
 B|I, I have to think about it some more now, because my doctor is, uh, actually he's Canadian|sd
@@ -36,11 +36,11 @@ B|I don't understand the arguments, exactly.|sd
 B|He says it restricts your choice of doctors, and, and so forth.|sd
 B|I'm not quite sure I understand why government health insurance would restrict your choice any more than private insurance does.|sd
 A|No,|aa
-A|I don't  understand that either.|sd
-B| I mean we're on a private insurance plan right now,  uh |sd
+A|I don't  understand  that either.|sd
+B| I mean  we're on a private insurance plan right now,  uh |sd
 A| Uh-huh. |b
 B|actually I have my own business,|sd
-B|andand we,|%
+B|and and we,|%
 A|Uh-huh.|b
 B|our health insurance is through my wife's employer,|sd
 B|and, uh, and every year we get another list of what doctor's we can go to, and where we can buy our medicine,|sd
@@ -53,12 +53,12 @@ A|and I could go to any drug store and get my prescriptions filled, you know,|sd
 A|then I just sent cards in|sd
 B|Uh-huh.|b
 A|and then they would have like a ten dollar deductible per year for my medicine,|sd
-A|andthen they would just send me a check for what was ever over that, you know.|sd
+A|and then they would just send me a check for what was ever over that, you know.|sd
 B|Well, yeah.|b
-B|Of course, the restricted choice in this case is because only certain doctors agree to accept the, uh, the limitsof, uh, compensation,|sv
+B|Of course, the restricted choice in this case is because only certain doctors agree to accept the, uh, the limits of, uh, compensation,|sv
 A|Uh-huh.|b
 B|but of course that is restricted choice,|sv
-B|soI don't think that the restricted choice really, uh, has to do with the difference between, uh, public and private health insurance.|sv
+B|so I don't think that the restricted choice really, uh, has to do with the difference between, uh, public and private health insurance.|sv
 A|Uh-huh,|b
 A|uh-huh.|b
 B|I think it has to do with the, the, the, uh, attempt to limit cost, doesn't it|sv
@@ -103,10 +103,10 @@ A|they'll be calling at my door, huh.|sv
 A| But anyhow. |%
 B| Well, if they're smart. |sv
 A|Yeah,|b
-A|now I, I do think the government, though, is going to have to do something, uh, with this problem, because, it, you know, even to go to a little doctor out here, just to ask him anything, costs you forty bucksyou know, just for the visit.|sv
+A|now I, I do think the government, though, is going to have to do something, uh, with this problem, because, it, you know, even to go to a little doctor out here, just to ask him anything, costs you forty bucks you know, just for the visit.|sv
 B|Uh-huh.|b
 A|And then he,|%
 A|then that's not counting what medicine you're going to buy and everything else, you know.|sv
 A|And he might tell you, well, you know, now you're going to have to come back in a week,|sv
-A|andthen that's another forty bucks, plus whatever else he decides to do to you,|sv
+A|and then that's another forty bucks, plus whatever else he decides to do to you,|sv
 B|Right.|b

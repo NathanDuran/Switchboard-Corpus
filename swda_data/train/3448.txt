@@ -31,7 +31,7 @@ B|Yeah,|b
 B|that is good.|sv
 B|I, I like, uh,|%
 B|we have cable.|sd
-B|I really like watching the old NICK AT NITE shows, you know.Where you get to watch DRAGNET and MISTER ED|sd
+B|I really like watching the old NICK AT NITE shows, you know. Where you get to watch DRAGNET and MISTER ED|sd
 A|Oh.|b
 B|and, uh, we, we can watch those all night sometimes if,|sd
 B|DONNA REED|sd
@@ -41,8 +41,8 @@ A|Uh, lately I've been getting into talk shows|sd
 A|and|%
 B|Oh, yeah?|bh
 A|Yeah,|ny
-A|just, you know, controversyand,|sd
-B|Whichwhich one does, which ones do you like?|qw
+A|just, you know, controversy and,|sd
+B|Which which one does, which ones do you like?|qw
 A|Just really whatever.|sd
 B|Uh-huh.|b
 A|Just as long,|%
@@ -70,11 +70,11 @@ A|Huh, let's see.|^h
 B|Oh, it's like,|%
 B|his first name's like Marlo or Marlin,|sd
 B|I can't remember his name.|sd
-B|Anyway, he always has like really strange shows like, uh, uh, male strippers or female strippers or justreally sensationalistic, you know, like what Geraldo used to be.|sd
+B|Anyway, he always has like really strange shows like, uh, uh, male strippers or female strippers or just really sensationalistic, you know, like what Geraldo used to be.|sd
 A|Yeah.|b
 A|Yeah,|b
 A|see, I don't, I don't like those,|sd
-A|I likemore controversial subjects, I think.|sd
+A|I like more controversial subjects, I think.|sd
 B|I don't either.|sd
 B|Uh-huh.|b
 A|But, I mean, yeah|b
@@ -91,14 +91,14 @@ A|B Y U.|sd
 B|Oh, really?|bh
 A|Yeah,|ny
 A|so, and I'm working, too,|sd
-A|soeverything keeps me pretty busy.|sd
+A|so everything keeps me pretty busy.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|But,|%
 B|I'm going to U T D here in Dallas.|sd
 A|Oh, really?|bh
 B|Yeah.|ny
-A|My dad taught therefor a while,|sd
+A|My dad taught there for a while,|sd
 B|Oh, really?|bh
 A|yeah.|ny
 B|What did he teach?|qw
@@ -114,8 +114,8 @@ B|Uh, this is my first semester.|sd
 A|Oh, okay,|bk
 A|so you wouldn't know him.|qy^d
 B|Yeah.|ny
-B|Who,Who, who, who, what, when did he teach?|qw
-A|He,Uh, he taught about a year ago.|sd
+B|Who, Who, who, who, what, when did he teach?|qw
+A|He, Uh, he taught about a year ago.|sd
 A|He used to work at, uh, uh, University of Texas at|sd
 A|what,|%
 A|no,|ar
@@ -123,7 +123,7 @@ A|uh, oh, shoot,|ba
 A|I can't remember what it's even called now,|sd
 A|but, uh, he worked there for like fifteen years and then part time U T D at night.|sd
 B|Oh, yeah.|b
-A|And, and then they stopped funding the program there.Uh,|sd
+A|And, and then they stopped funding the program there. Uh,|sd
 B|Uh-huh.|b
 A|and so now he's at Texas Women's University.|sd
 B|Oh, really?|bh
@@ -144,7 +144,7 @@ A|Uh, somewhat|na
 A|and he has, he has some like different programs out,|sd
 A|like I don't know what they're called,|sd
 A|but they're like,|%
-A|and he has like little stuffed animals with them andlike little cards and stuff.|sd
+A|and he has like little stuffed animals with them and like little cards and stuff.|sd
 B|Uh-huh.|b
 A|I don't know that,|%
 B|Yeah,|b
@@ -202,7 +202,7 @@ B|Oh, really?|bh
 A|I'm so homesick.|sd
 B|Do you like|qy
 B|it's in Salt Lake City, right?|qy
-A|It's in Provoactually.|arp_nd
+A|It's in Provo actually.|arp_nd
 B|Oh, is it?|bh
 A|But yeah,|ny
 A|I really, I really like it out here.|sd

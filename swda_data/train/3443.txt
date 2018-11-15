@@ -1,9 +1,9 @@
 A|Surprised they get anybody this time of day|sv
-A|but,I've been trying all different times,|sd
+A|but, I've been trying all different times,|sd
 B| Uh-huh. |b
 A| but I don't get  anybody at five thirty, don't get anybody at nine at night|sd
-A|so thought, I'll try , |sd
-B| Oh, well, I'm at, work|sd
+A|so thought,  I'll try , |sd
+B| Oh, well, I'm at,  work|sd
 B|and I just happened to walk back into my office.|sd
 A| Oh |b
 B| I've been  gone for a little while|sd
@@ -46,7 +46,7 @@ B|uh-huh. |b
 A| And if they were  sent to a third world country I couldn't help but wait worried, you know.|sd
 B|Yeah,|b
 B| yeah. |b
-A| That,  that would be my main objection.I don't think,|sd
+A| That,  that would be my main objection. I don't think,|sd
 B|Uh-huh.|b
 B|I don't know|h
 B|I think maybe it's, it should stay on a voluntary basis|sv
@@ -60,7 +60,7 @@ A|Yeah,|aa
 A|well it, it probably won't.|sv
 B| Uh-huh. |b
 A| I don't,  I don't even know how we'd pay for it anyway.|sv
-A|We can't, uhseem to pay for all the little things we have going now|sv
+A|We can't, uh seem to pay for all the little things we have going now|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|That's another consideration|sv
@@ -84,17 +84,17 @@ A|I mean right next to us is such a pitiful country.|sd
 B|Uh-huh,|b
 B|it is.|aa
 A|I know.|aa
-A|Sometimes I wish we'd help them out instead of going all across the world, and  helping some countries I never even heard of.|sd
+A|Sometimes I wish we'd help them out instead of going all across the world,  and  helping some countries I never even heard of.|sd
 B| Uh-huh. |b
 B|Uh-huh.|b
 B|I know it.|aa
 A|It seems to me we are,|%
-A|it would be to our benefit to strengthen that country.Right on our borders.|sv
+A|it would be to our benefit to strengthen that country. Right on our borders.|sv
 B|Uh-huh,|b
 B|uh-huh.|b
 B|Uh-huh.|b
 A|But, what do I know, right?|qh
-A|I'm just sitting at home and,and, uh, doing laundry today and certainly not up,|sd
+A|I'm just sitting at home and, and, uh, doing laundry today and certainly not up,|sd
 A|nobody has called me from Washington|sd
 A|Oh, but, uh, anyway, how did you get on this program?|qw
 B|I work at T I.|sd
@@ -104,7 +104,7 @@ B| Uh-huh. |ny
 A| Oh, yeah.|b
 A| I just went by that place.|sd
 A|We were going to a football playoff game a week or so ago which we lost|sd
-A|and, uhwe went by.|sd
+A|and, uh we went by.|sd
 A|That's the first time I'd seen it.|sd
 A|It looked really nice.|sd
 B|Yeah.|b
@@ -123,7 +123,7 @@ B| But  how did you get on it?|qw
 A|Well, my husband works at T I over on Central.|sd
 B|Oh.|b
 A|Uh, why we're living in Arlington I'm not so sure|sd
-A|but,he works over there|sd
+A|but, he works over there|sd
 A|and|%
 A|we did it last time.|sd
 B|Uh-huh.|b
@@ -141,7 +141,7 @@ B|Huh.|b
 A|So, um,|%
 B|The first time I used to get calls from far away too.|sd
 A|Right.|b
-B|Like Maryland, and  New Jersey,|sd
+B|Like Maryland,  and  New Jersey,|sd
 A| Uh-huh. |b
 B|and but now it just seems like it's in the Dallas Fort Worth area that I get calls from.|sd
 A|Yeah,|aa
@@ -153,7 +153,7 @@ A|Yeah,|b
 A|I don't know, uh,|h
 A|I wonder if they really,|%
 A|I don't know if they could possibly teach a machine to recognize all the different accents.|sd
-A|There's just, there's so many with this one townyou know.|sv
+A|There's just, there's so many with this one town you know.|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|even in some families some people talk a little bit different.|sv
@@ -170,7 +170,7 @@ A|You know, how that goes|fo_o_fw_"_by_bc
 B| Oh, shoot. |ba
 A| Oh, God. |ba
 A|Well, I'm surprised she hasn't told us to cut it off yet.|sv
-A|Sometimes she says at night.Or, or or overloads|sd
+A|Sometimes she says at night. Or, or or overloads|sd
 B|Yeah.|b
 A|so please end your conversation.|^q
 B|Uh-huh,|b

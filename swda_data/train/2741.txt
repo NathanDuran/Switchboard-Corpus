@@ -46,12 +46,12 @@ B|Uh, it's just an economic need now.|sv
 A|I really think women have so much more responsibility than, you know, as far as everything.|sv
 B|Oh, definitely.|aa
 A|And, like you said, uh, one, women today have so many, uh,|sd
-A|the average today of having a, a single family, you know, with the mother as the head, nowadays.  you  know, it just really, uh, so commonplace,|sd
+A|the average today of having a, a single family, you know, with the mother as the head,  you  know, it just really, uh, so commonplace,  nowadays. |sd
 B| Uh-huh. |b
 B| Oh, yes,|aa
 B|exactly. |aa
 B|We have quite a few teachers at our school that are single parents|sd
-B|and, uh,  the majority is, uh, married couple with children,|sd
+B|and,  uh,  the majority is, uh, married couple with children,|sd
 A| Uh-huh. |b
 B|but still there's a lot more than there used to be.|sd
 B|And see you never picture yourself in a situation like this.|sv
@@ -73,7 +73,7 @@ B| Isn't that something. |qh
 A| and was,|%
 B|Yes.|ny
 B| Yes. |b
-A|and even today I think the chance for education is is, is so much, uh, better for all of our girls, and, and  boys, too.|sv
+A|and even today I think the chance for education is is, is so much, uh, better for all of our girls,  and, and  boys, too.|sv
 B| Oh, yes. |aa
 A|But, but the girls especially.|sv
 B|Yeah,|aa
@@ -84,7 +84,7 @@ B|I think that the, we still have a long way to go.|sv
 A|A lot of things,|^2
 A|yeah.|%
 B|Uh-huh.|aa
-B|And I think that, uh, I think by the year two thousand it, we're going to see some, a lot more changes, uh, hopefully, that women are, you know, able to get the, the executive jobs, and  hold positions that men, men do because they can do it just as well, you know,|sv
+B|And I think that, uh, I think by the year two thousand it, we're going to see some, a lot more changes, uh, hopefully, that women are, you know, able to get the, the executive jobs,  and  hold positions that men, men do because they can do it just as well, you know,|sv
 A| Right. |b
 B|if they want to dedicate their, most of their time to that they, they're, they can do it.|sv
 A|Yeah.|b
@@ -92,7 +92,7 @@ A|And I also think that in the future that, uh, it's going to continue.|sv
 A|We're not going to see a lax off of women in the work force.|sv
 B|Uh-uh.|b
 A|I think they're going to stay there|sv
-A|and I think that they're going to, uh, uh, be really responsible and, and do everything just like, what you said, you know, make, make it the grade and, and make it so women can be the top people in their, in  their field.|sv
+A|and I think that they're going to, uh, uh, be really responsible and, and do everything just like, what you said, you know, make, make it the grade and, and make it so women can be the top people in their,  in  their field.|sv
 B| Exactly. |aa
 B|Exactly.|aa
 B|And I think that's the way it should be.|sv
@@ -100,7 +100,7 @@ B|I think it|sv
 A|Oh, I think so.|aa
 B|I mean, not that I, I think that I'm equal to men because there's a lot of things that men can do that I, could never do strength wise and so forth|sv
 A|Right.|b
-B|but, also there's some things women can do like have children, that  men can't do.|sd
+B|but, also there's some things women can do like have children,  that  men can't do.|sd
 A|Right.|b
 B|So, you know, it,|%
 B|I don't I don't want to be equal|sd
@@ -108,7 +108,7 @@ B|but, I, I want to be, I want to get what I deserve|sd
 B|and I want to be able to be on the same level with them.|sd
 B|If I can do a job as well as I man I think I should get the same pay, you know.|sv
 A|Exactly.|aa
-B|And,And I just, I'm not a women's libber.|sd
+B|And, And I just, I'm not a women's libber.|sd
 A|Exactly.|aa
 B|I really am not.|sd
 B|But I, I think that that we have just as many rights as they do.|sv

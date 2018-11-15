@@ -9,9 +9,9 @@ A|drugs seems to be related to quite a bit of the crime we have now.|sd
 A|There is a lot of theft, a lot of assault dealing with, uh, people trying to get money for drugs.|sd
 B|Yeah.|b
 A|And, uh, I think that's a national problem, though.|sv
-B|It, it, it'spretty bad here, too.|sd
+B|It, it, it's pretty bad here, too.|sd
 A|It's not unique,|sv
-B|We've had a lot of murders drug related and stuff.In Durham, which is right next to Raleigh.|sd
+B|We've had a lot of murders drug related and stuff. In Durham, which is right next to Raleigh.|sd
 A|Yes.|b
 A|Uh-huh.|b
 A|Well, now, we're pretty close to the golden triangle, aren't you?|qy
@@ -19,14 +19,14 @@ B|Yeah,|ny
 B|that, that|%
 B|Durham, Raleigh, and Chapel Hill is the triangle.|sd
 A|Right,|aa
-A|research triangleand all of that.|bf
+A|research triangle and all of that.|bf
 B|Right.|aa
 A|And, uh, I'm sure you have a lot of students there, uh, and a lot of researchers|sv
 A|so you, you may have a, you know, perhaps a little better economic climate,|sv
 A|but, in all your cities now, it seems like there is a, a crowd that's really effected by this bill.|sv
 B|Yeah,|aa
 B|it's, it's really, it's,|%
-B|and I've seen in more in Durham than I have in Raleigh or, oror Chapel Hill.|sd
+B|and I've seen in more in Durham than I have in Raleigh or, or or Chapel Hill.|sd
 A|Really?|bh
 B|Chapel Hill is kind of a, a ritzy city or whatever.|sd
 B|I mean, it's kind of,|sd
@@ -49,7 +49,7 @@ B|Yeah.|b
 A|Uh, I,|%
 B|Well, that,|%
 B|and the, and the economy is so bad|sd
-B|and,And so many people have been laid off and stuff.|sd
+B|and, And so many people have been laid off and stuff.|sd
 A|The economy is lousy|bf
 B|They've done special stories on the news, local news here.|sd
 A|Uh-huh.|b
@@ -78,7 +78,7 @@ B|Most people are, are, retired|sd
 B|or, or, or, you know, they're, they're in their forties or, or whatever.|sd
 B|So and I'm in my twenties,|sd
 B|so I, I'm, I'm out more than they are,|sd
-B|butthey're at home at night,|sd
+B|but they're at home at night,|sd
 A|Yeah.|b
 B|so I really don't worry about anything.|sd
 A|Well, I think you hit on one point there is you know each other.|sv

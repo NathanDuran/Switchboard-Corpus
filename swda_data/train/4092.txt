@@ -10,7 +10,7 @@ B|So,|%
 A|I am more into rock and roll myself.|sd
 B|Uh-huh.|b
 B|And I listen cause on Friday nights they have the, uh, they have what they call Saturday Night Alive|sd
-B|or they have on Saturday night, Friday night and Saturday nightand they have Christian rock and roll.|sd
+B|or they have on Saturday night, Friday night and Saturday night and they have Christian rock and roll.|sd
 A|Uh-huh.|b
 B|So|%
 B|you know, they have that type of music,|sd
@@ -21,7 +21,7 @@ B|Uh, no.|nn
 B|Not really,|sd
 B|huh-uh.|nn
 A|Oh.|bk
-B| And I like I like rap music.|sd
+B| And I like  I like rap music.|sd
 A| Well, at least your, |%
 B|Do you like rap music?|qy
 A|Not really|ng
@@ -54,7 +54,7 @@ B|Have you ever heard of Kim?|qy
 A|Uh, now I've heard of Striper.|sd
 A| So the only one I can |%
 B| Striper,|b
-B|they're the really  heavy, yeahI guess. like  the heavy metal  stuff |qy^d
+B|they're the really  heavy, yeah  like  the heavy metal  stuff  I guess.|qy^d
 A| Uh-huh. |b
 A| Uh-huh. |b
 A|Uh, the first of Amy Grant  before |sv
@@ -77,7 +77,7 @@ B|So, I like her.|sd
 A|Uh-huh Uh,|b
 A|I like some country music.|sd
 A|It's just that I like finding a lot of it's,|%
-B|I don't like the country music that's like my wife left me,  my dog left me, everybody's left me.|sd
+B|I don't like the country music that's like my wife left me,  my dog  left me, everybody's left me.|sd
 A| Yeah |b
 A|Mama got run over by the train.|^q
 B|Yeah.|aa
@@ -108,11 +108,11 @@ B|But aren't they done with?|qy
 B|I thought that they|sd
 A|No,|nn
 A|they're they are still on tour.|sd
-A|They have been touring,since the late sixties|sd
-B|And I just thought that they done broke up and left. |sd
+A|They have been touring, since the late sixties|sd
+B|And I just thought that they done broke up and  left. |sd
 A|No.|ar
 A| They're  still together.|sd
-A| They're still making albums.|sd
+A| They're still  making albums.|sd
 B| Huh. |b
 B|Wow,|ba
 B|I didn't know that.|sd
@@ -120,7 +120,7 @@ A|Uh-huh.|b
 B|Huh.|b
 A|Uh,|b
 B|That's interesting.|ba
-A|In fact, I mean there are people you know that basically just follow them around, from city to cityon tour selling tie dye and  things like that. |sd
+A|In fact, I mean there are people you know that basically just follow them around, from city to city on tour selling tie dye and  things like that. |sd
 B|Uh-huh.|b
 A|Uh,|b
 B|Cause they are on up there in age, aren't they?|qy
@@ -150,7 +150,7 @@ B|Uh-huh.|aa
 B|Yuck looking, I mean|sv
 A|Uh-huh.|b
 B|uh.|b
-A|I mean it just just looked like they,got a bunch of retirees and put them in leather jackets and blue jeans.|sv
+A|I mean it just just looked like they, got a bunch of retirees and put them in leather jackets and blue jeans.|sv
 B|Uh-huh.|aa
 B|Well are you into that that rock music, you know, all that druggy stuff and all that I mean?|qy
 A|Well, uh|%

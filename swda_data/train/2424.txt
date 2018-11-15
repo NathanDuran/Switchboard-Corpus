@@ -31,7 +31,7 @@ A|it's, that's not what I would consider a luxury.|sv
 B|No.|b
 B|Uh, fifty years ago the automobile was a luxury|sv
 B|but it's a necessity today|sv
-B|and, uh, as hard as they try to get these public transit things going I have never seen nor heard of one that really got of the ground.Or that accomplish what they set out to to accomplish.|sv
+B|and, uh, as hard as they try to get these public transit things going I have never seen nor heard of one that really got of the ground. Or that accomplish what they set out to to accomplish.|sv
 A|Yeah.|b
 B|What are your feelings on it?|qo
 A|Well, um, I, I think that we probably are paying a little too much tax considering what we're getting for it and how it's being managed and so forth.|sv
@@ -54,7 +54,7 @@ B|So, uh, I mean, you can't believe what you hear.|sv
 A|Well, I think too,|sv
 A|one of the things that rubs me the wrong way the most is those programs that are funded by Congress and, uh, that don't seem to have any validity at all.|sv
 A|I mean, they're always far out|sv
-A|and, uh, you know, they're studying some obscure bug, you know,in some other part of the world or some such thing,|sv
+A|and, uh, you know, they're studying some obscure bug, you know, in some other part of the world or some such thing,|sv
 B|Oh.|b
 B|Uh, yes.|b
 A|and our tax money pays for those things|sv
@@ -71,7 +71,7 @@ A|And I think here lately they've been saying quite often and maybe somebody's c
 B|Absolutely.|aa
 B|Now I can't wait for, uh,|sv
 B|I, I could just picture what's going to happen here in the not to distant future.|sv
-B|We keep hearing well, we're going to receive, uh, eight billion dollars from Japan for the, uh, uh-huh, the, the, the big,war over there in the Mideast.|sv
+B|We keep hearing well, we're going to receive, uh, eight billion dollars from Japan for the, uh, uh-huh, the, the, the big, war over there in the Mideast.|sv
 A|The war.|^2
 A|Uh-huh.|b
 B|And, uh, so many billions of dollars here and there and everything|sv
@@ -82,7 +82,7 @@ A|And I think that's a mistake.|sv
 B|Oh, definitely.|aa
 A|Somewhere, you know, we have to realize that we can't just keep giving it away.|sv
 B|Well, another thing now they keep decontrolling different things.|sv
-B|First, it was the airlines then it was banks and, and, uh, um, savings association,and whatnot.|sv
+B|First, it was the airlines then it was banks and, and, uh, um, savings association, and whatnot.|sv
 A|We know what trouble they got into|sv
 B|Exactly.|aa
 B|And the same with the airlines back in the days when they were, uh, controlled and, and, uh, Transcontinental or, um, um, Interstate, uh, Trucking.|sv
@@ -99,7 +99,7 @@ A|in regard to taxes let's say that, uh, you have something that the I R S disag
 A|Well, I think they're very unfair in the amount of penalties and interest that they can attach to that because you, you will not only payback that that you wrote off|sv
 A|but you will at least double that amount|sv
 A|and,|%
-B|Oh, by the time you get through with the, uhthe penalties.|bf
+B|Oh, by the time you get through with the, uh the penalties.|bf
 A|Yes.|ny
 A|And that's, to me there's something wrong there, you know.|sv
 A|Yeah.|b
@@ -115,7 +115,7 @@ B|Uh, the, uh, typical bureaucratic, I guess. That's, that's one of my pet peeve
 B|I came up with a brilliant idea how we could reduce the, the budget.|sv
 A|Uh-huh.|b
 B|Very simple.|sv
-B|Give, uh, uh, uh, government employees the average number of, uh, holidays as the, uh,private industry.|sv
+B|Give, uh, uh, uh, government employees the average number of, uh, holidays as the, uh, private industry.|sv
 A|Yeah.|b
 B|I mean, you think about it now,|sv
 B|they, they get about sixteen holidays a year.|sv
@@ -154,8 +154,8 @@ B|Uh, very true.|aa
 B|That's,|%
 A|You know, it's kind of a vicious circle there.|sv
 B|And then they tell you to, uh, well, invest it in, uh, is it I R A or something|sv
-B|and, and,When you turn sixty-five why then you pay the tax on itwhen you turn,|sv
-A|And then,at a took that away as far as being,|sv
+B|and, and, when you turn, When you turn sixty-five why then you pay the tax on it|sv
+A|And then, at a took that away as far as being,|sv
 B|and the tax is a lot less.|sv
 A|Yeah.|b
 B|But in the mean time you've got your money tide up in a low, relatively low interest bearing investment.|sv
@@ -163,7 +163,7 @@ B|I mean, it's not making ten, fifteen percent like a business is today.|sv
 A|Huh-uh.|b
 B|Uh, me I'm a firm believer in that if you got it spend it.|sv
 A|Well, you can come over to my house and spend it|ad
-B|Well, you,well, do you, do you need some help spending yours?|qy
+B|Well, you, well, do you, do you need some help spending yours?|qy
 A|I wish I had some to spend.|sd
 A|No.|nn
 A|No.|nn

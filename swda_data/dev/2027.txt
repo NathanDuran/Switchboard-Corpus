@@ -27,7 +27,7 @@ A|I'm the same way you are,|sv
 A|I kind of try to judge from day to day.|sd
 A|I know, you know, where I am we work a lot with the customers|sd
 A|and we have a lot of government folks come in all the time|sd
-A|and,and, you know, if I know that they're going to be there, you know, you, I try to really watch it and like you say, you know, really dress up|sd
+A|and, and, you know, if I know that they're going to be there, you know, you, I try to really watch it and like you say, you know, really dress up|sd
 B|Uh-huh.|b
 A|and if I know they're not, you know,|sd
 A|I, I've been doing a lot of reorganization, you know, the last couple of months the same way you are, you know,|sd
@@ -61,7 +61,7 @@ B|he should have realized that we weren't regulars in the warehouse there.|sd
 B|And he came up to us|sd
 B|and he just said, who's your supervisor.|sd
 B|Well he called our supervisor and our supervisor, and our supervisor's supervisor,|sd
-B|and it went up all the way to the head of facilities,complaining that we were wearing shorts.|sd
+B|and it went up all the way to the head of facilities, complaining that we were wearing shorts.|sd
 A|Oh no in|ba
 B|He didn't at, at least say to us, did you know you're not supposed to do that.|sd
 B|That could have alleviated a big problem.|sv
@@ -165,7 +165,7 @@ B|We're, we're out here in the warehouse, you know,|^q
 B|you, you got your skid of, you know, that wooden pallet of boxes.|^q
 A|Uh-huh.|b
 B|and you're going to have unload you skid look at the documents in the, in the boxes and then repack your skid.|^q
-B|And sheAnd she was so, she was so hot and miserable, you know, in the skirt.|sd
+B|And she And she was so, she was so hot and miserable, you know, in the skirt.|sd
 A|You can't do that in a skirt poor soul.|bf
 A|Oh yuck.|ba
 B|She finally tried to go buy, you know, a pair of pants|sd
@@ -201,7 +201,7 @@ B|and then other ones tend to always wear a suit with a very starched cotton shi
 B|So that's just,|%
 A|Isn't that funny.|bh
 B|With the, you know, the little suspenders or something on|sd
-B|so.We've, we've kind of had a variety there|sd
+B|so. We've, we've kind of had a variety there|sd
 A|That's great.|ba
 B|but, I think a lot of times it's, it's mainly who they're going to meet with,|sv
 B|or they're meeting with people that they know is going to be dressed that way then that's how they are.|sd

@@ -15,9 +15,9 @@ B|Having to pick up the kid by, you know, six o'clock|^2
 B|or it's five dollars for every minute you're late. And stuff like that|sd
 A|Uh-huh.|b
 B|Which is understandable.|sv
-B|I mean, these people can't, you know, stay there till eight o'clockbecause somebody has to work late|sv
+B|I mean, these people can't, you know, stay there till eight o'clock because somebody has to work late|sv
 A|Just sit around|^2
-A|Thatthat's true.|aa
+A|That that's true.|aa
 B|but|%
 A|See the lady I did it for,|sd
 A|that's why she picked me is because I would go to her house so she wouldn't have to get her little girl up.|sd
@@ -26,7 +26,7 @@ A|And, uh, then she could be at home|sd
 A|and then I'd bring her to my house for a couple of hours if I wanted too or whatever.|sd
 A|But, uh, she paid, I think it was two or, I think it was about two fifty, three dollars a hour|sd
 A|and by the time I paid taxes on it, it, I was getting like eighty cents|sd
-A|and that wasn't counting food orgas or anything.|sd
+A|and that wasn't counting food or gas or anything.|sd
 B|Oh, no.|ba
 B|Yeah.|b
 B|It's hardly worth your time.|sv
@@ -52,11 +52,11 @@ B|And, I mean, they'd, you know,|%
 B|it was great.|sv
 B|I'd go over there|sd
 B|and there would be like, uh, you know, there's, we have these videos over here.|sd
-B|Watch,whatever you want.|^q
+B|Watch, whatever you want.|^q
 B|And there's some Oreos in the, in the cupboard.|^q
 B|And there's some Coke|^q
 B|and you know, just help yourself to anything.|^q
-B|Soit was, it was, you know, the best,|sv
+B|So it was, it was, you know, the best,|sv
 A|Wow.|ba
 B|that was a long time ago|sd
 B|and that was only for a few years.|sd
@@ -90,13 +90,13 @@ A|and I was just like, we've got to quit this.|sd
 A|And she's like no I don't want her to starve.|sd
 A|But I don't want to make her eat something she doesn't want to eat|^q
 B|Oh, shoot.|ba
-B|My momeat it or don't eat anything.would be like, uh|sd
+B|My mom would be like, uh eat it or don't eat anything.|sd
 A|Eat this or <laughter>.|^2
 B|That's right.|aa
 A|So, I can see the concerns on what different people want.|sv
 B|Yeah.|b
 A|Because some,|%
-A|I mean, you know, if I was setting up a daycare, there would be so many needs you would have to customizeyour service to.|sv
+A|I mean, you know, if I was setting up a daycare, there would be so many needs you would have to customize your service to.|sv
 B|Yeah.|b
 B|Uh-huh.|b
 A|Cause some parents won't put up anything. Where others would.|sv
@@ -105,7 +105,7 @@ B|yeah,|b
 B|I think the best way to go would just be to, to be able to do it out of your basement.|sv
 A|Uh-huh.|b
 B|And just have like at the most, like ten kids.|sv
-B|And all from maybe people that you knowtype of thing.|sv
+B|And all from maybe people that you know type of thing.|sv
 A|No.|ar
 B|Instead of trying actually to set up a daycare where you don't know the people coming in and ...|sv
 A|That's true.|aa
@@ -123,17 +123,17 @@ A|I don't know,|h
 A|cause I'm sure some of them have good reason to sue|sv
 A|but I think a lot of them are just, you know, they're negligent|sv
 A|and they get happy about money|sv
-A|andthey just want to sue you.|sv
+A|and they just want to sue you.|sv
 B|Yeah.|b
 B|Well, yeah.|aa
 B|That's,|%
 B|yeah,|aa
 B|exactly.|aa
-B|When you have like a Kindercare or something set upand when they get greedy or whatever, that's when they have maybe one assistant to twenty kids or something|sv
+B|When you have like a Kindercare or something set up and when they get greedy or whatever, that's when they have maybe one assistant to twenty kids or something|sv
 A|Uh-huh.|b
 A|Oh, yeah.|b
 B|And that's just, you know,|%
-B|you can't watchthat many little kids getting into things at one time|sv
+B|you can't watch that many little kids getting into things at one time|sv
 A|That's impossible.|sv
 B|You know, you never know what they're going to get into.|sv
 A|I have a girlfriend that works at a daycare|sd
@@ -157,7 +157,7 @@ B|that's a hard thing about it.|sv
 B|If, I mean, I I can't foresee myself getting married|sv
 B|but if, you know, if I ever wanted to have a kid, how could I work.|qh
 B|I mean, I don't think I could trust somebody with my kid either.|sv
-B|Unless itwas a friend that, you know, did it in ounds like an airplane their house that I knew well.|sv
+B|Unless it was a friend that, you know, did it in ounds like an airplane their house that I knew well.|sv
 A|Oh, yeah.|aa
 A|That's true.|aa
 A|Yeah.|b

@@ -21,17 +21,17 @@ B|Uh-huh.|b
 A|But I am not crazy about T V much.|sd
 A|It just,|%
 A|well it kind of is an idiot box.|sv
-A|Now SESAME STREET is a good programbecause, uh,|sv
+A|Now SESAME STREET is a good program because, uh,|sv
 B|Uh-huh.|b
 A|I do have that on videotape,|sd
 A|and I will let him watch that every once in a while.|sd
 A|And he has learned to count to twenty from that.|sd
 A|So,|%
 B|Yeah.|b
-B|It can be veryeducational.|sv
+B|It can be very educational.|sv
 A|Yeah.|b
 B|There are shows that I like.|sd
-B|Uh, I like good family shows,uh, though.|sd
+B|Uh, I like good family shows, uh, though.|sd
 A|Uh-huh.|b
 B|Uh, I let my kids watch things like LITTLE HOUSE ON THE PRAIRIE.|sd
 A|Okay.|b
@@ -50,7 +50,7 @@ B|Uh, it is called the QUANTUM LEAP.|sd
 A|Oh, I love QUANTUM LEAP.|sd
 B|I watch that show every time,|sd
 B|and, uh,|%
-B|I, I like, uh, how the, how he has to help with the people that he, that he becomes.Uh, because it is not a show that he just becomes these people and then he lives there for a while and then he is gone.|sd
+B|I, I like, uh, how the, how he has to help with the people that he, that he becomes. Uh, because it is not a show that he just becomes these people and then he lives there for a while and then he is gone.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|He has to do something positive to help them.|sv
@@ -62,7 +62,7 @@ B|Yeah.|b
 A|Usually, yeah.|b
 B|It,|%
 A|That it is so good.|sv
-A|I was glad when they put that back on this channel,because like I said, we only get two channels because we do not get cable.|sd
+A|I was glad when they put that back on this channel, because like I said, we only get two channels because we do not get cable.|sd
 B|Me too,|sd
 B|me too.|sd
 B|Uh-huh.|b
@@ -72,7 +72,7 @@ A|this is terrible,|sv
 A|I do not like him sitting in front of the T V all day.|sd
 B|No,|arp_nd
 B|that is not terrible.|sv
-A|Well,It,|%
+A|Well, It,|%
 B|I do not think that is terrible at all.|sd
 A|but it is a not really a good baby sitter|sd
 B|Well,|%
@@ -91,24 +91,24 @@ B|Now I,|%
 B|there are shows,|sd
 B|I do not have cable either.|sd
 B|And there are shows that I really put my foot down on.|sd
-B|If there starts to be a lot of violence,I do not go for that.|sd
+B|If there starts to be a lot of violence, I do not go for that.|sd
 A|Uh-huh.|b
 B|I will not let them watch that.|sd
-B|Ifthere is a lot of language or,|sd
+B|If there is a lot of language or,|sd
 A|Well, we made the|%
 A|Right.|b
 A|We made the mistake of getting ROBOCOP.|sd
 A|And that is one of the worst, oh,|sv
-A|I do not let him watch it anymore. Becausethe, the pieces, like especially where they kill somebody, it is just not good.|sd
+A|I do not let him watch it anymore. Because the, the pieces, like especially where they kill somebody, it is just not good.|sd
 B|Uh-huh.|b
 A|I mean it is just real violent.|sv
 A|I mean,|%
 B|Well, it, you know,|%
 B|today I watched,|sd
-B|and it is like they show bloody,you know, things,|sv
+B|and it is like they show bloody, you know, things,|sv
 A|Uh-huh.|b
 B|and they show it in slow motion.|sd
-B|And,and everything like that.|sd
+B|And, and everything like that.|sd
 A|Uh-huh.|b
 B|And before, in a western or something, in the, in the olden days,|sv
 A|You would see somebody get shot,|sd
@@ -119,22 +119,22 @@ A|Yeah.|b
 B|And, and it was not, uh,|sv
 A|So graphic.|^2
 A|Today it is, it is really graphic.|sv
-A|They try to makeit too realistic.|sv
+A|They try to make it too realistic.|sv
 B|Uh-huh.|b
 B|Yeah.|b
 A|And,|%
-B|Too much realism I think,sometimes.|sv
+B|Too much realism I think, sometimes.|sv
 A|Yeah.|b
 B|I don't,|%
 A|Now he is watching HONEY, I SHRUNK THE KIDS right now.|sd
 B|Oh, that is a fun show.|sv
 A|It is, it is cute.|sv
-B|Oh, I reallylike that one.|sd
+B|Oh, I really like that one.|sd
 A|And that,|%
 A|little ROGER RABBIT on before that.|sd
 B|Uh-huh.|b
 A|That is cute.|sv
-A|And they have got THE HE MAN, uh,movie.MASTERS OF THE UNIVERSE, the|sd
+A|And they have got THE HE MAN, uh, MASTERS OF THE UNIVERSE, the movie.|sd
 B|The cartoon or the,|qy
 B|Oh, uh-huh.|bk
 A|That is a real cute show.|sv
@@ -149,11 +149,11 @@ A|Huh.|%
 B|yeah.|b
 A|Oh, well, it sounds like we have the same tapes for our kids anyway.|sv
 B|Yeah.|b
-B|At least we have the sameideas.|sv
+B|At least we have the same ideas.|sv
 A|Yeah.|b
 B|Yeah.|b
 B|Language too.|sd
-B|language and violence and sexual, you know,things.|sd
+B|language and violence and sexual, you know, things.|sd
 A|Uh-huh.|b
 B|I, I get kind of, uh, saying, "I am sorry kids, this is",|sd
 A|Yeah.|b
@@ -191,7 +191,7 @@ B|Uh-huh.|b
 A|The, uh, series?|qy^d
 A|We have got a lot of those.|sd
 B|Uh, I think not even the old one but the new one too.|sd
-B|I likeboth of those|sd
+B|I like both of those|sd
 A|Uh-huh.|b
 A|THE NEXT GENERATION?|qy^d
 B|Uh-huh.|ny
@@ -218,9 +218,9 @@ B|No,|nn
 B|the, the man, right now who is having, uh, who has done, uh, BONANZA, and then he did LITTLE HOUSE ON THE PRAIRIE.|sd
 A|Oh, Michael Landon.|sd
 B|Michael Landon.|sd
-B|There you go, MichaelLandon.|sd
+B|There you go, Michael Landon.|sd
 A|Oh, now there,|%
-B|I have always likedand thought he did good shows.|sd
+B|I have always liked and thought he did good shows.|sd
 A|Yeah.|b
 A|Like HIGHWAY TO HEAVEN?|qy^d
 B|Uh-huh.|ny
@@ -230,7 +230,7 @@ A|I liked HIGHWAY TO HEAVEN,|sd
 A|and I, and I thought that was kind of neat though.|sd
 A|But I loved LITTLE HOUSE ON THE PRAIRIE, especially when Melissa Gilbert grew up.|sd
 B|Yeah,|b
-A|She waswhen I was growing up. Because I am twenty-seven,kind of like my idol|sd
+A|She was kind of like my idol when I was growing up. Because I am twenty-seven,|sd
 B|yeah.|b
 A|so it is, you know,|%
 A|she is about the same age as I am.|sd
@@ -238,7 +238,7 @@ B|Uh-huh.|b
 A|I wanted to be just like her, because she is so cute.|sd
 B|Yeah,|b
 B|I,|%
-B|and I liked that show because it, it portrayed, I thought, really well, uh, pioneer kind of days.You know,|sd
+B|and I liked that show because it, it portrayed, I thought, really well, uh, pioneer kind of days. You know,|sd
 A|Yeah|b
 A|and,|%
 A|well,|%
@@ -246,23 +246,23 @@ B|but,|%
 A|I liked it,|sd
 B|Yeah.|b
 A|but there,|%
-A|that is about the only, uh, show I have seen where every time they sit down at the table, they praybefore they eat.|sd
+A|that is about the only, uh, show I have seen where every time they sit down at the table, they pray before they eat.|sd
 B|Uh-huh.|b
-A|And I thought that was real neat.Because there is not a lot of shows that do that.|sd
+A|And I thought that was real neat. Because there is not a lot of shows that do that.|sd
 B|Yeah.|b
-A|And, uh, they have this little cartoon that is on Sunday mornings with,Jot.|sd
+A|And, uh, they have this little cartoon that is on Sunday mornings with, Jot.|sd
 B|Now what is that?|qw
 A|I remember him in school,|sd
 A|but I do not,|%
 A|it is just this little dot with arms and feet and little eyes,|sd
 A|and his parents are there.|sd
-A|They have it like before one of the church things,uh, you know, church that comes on?|sd
+A|They have it like before one of the church things, uh, you know, church that comes on?|sd
 B|Uh-huh.|b
 A|And it is a just this little dot.|sd
 A|And he will go out and get himself into trouble and come home,|sd
 A|and the parents will tell him that there is a verse in the Bible that will help him with that,|sd
-A|and,It is just,|%
-B|Oh, I havenot seen that.|sd
+A|and, It is just,|%
+B|Oh, I have not seen that.|sd
 A|Well, it is,|%
 A|usually we go to church on Sundays.|sd
 B|Uh-huh.|b
@@ -288,7 +288,7 @@ B|It is in the morning?|qy^d
 A|Uh, around nine or ten I think.|na
 A|It is before one of the, I think it is before the First Baptist in Sherman airs.|sd
 B|Okay.|bk
-A|I think that is the one that it,uh, comes on before.|sv
+A|I think that is the one that it, uh, comes on before.|sv
 B|Well, we'll look.|sd
 A|It is real cute.|sv
 A|You know what?|qh
@@ -311,17 +311,17 @@ A|We got him a little Jesus doll, uh, about a year ago,|sd
 A|and he has always kept that.|sd
 A|He likes it|sd
 B|Well, I really like,|sd
-B|now we get channel fifty-five, although we do not have cable,we do get channel fifty-five.|sd
+B|now we get channel fifty-five, although we do not have cable, we do get channel fifty-five.|sd
 A|Uh-huh.|b
 B|And that is a, uh,|%
 B|like, a, a song,|%
 B|they sing songs on there|sd
 B|but they're, uh, worship through music kind of things.|sd
 B|But they are up to date, uh,|sd
-B|and some of them are like, uh, videoslike music videos, that go along with the songs about church and Jesus.|sv
+B|and some of them are like, uh, videos like music videos, that go along with the songs about church and Jesus.|sv
 A|Uh-huh.|b
-B|And,And I,|%
-A|So it's a,a Christian songs?|qy^d
+B|And, And I,|%
+A|So it's a, a Christian songs?|qy^d
 B|Yeah.|ny
 A|Oh, that sounds fun.|sv
 B|The|%

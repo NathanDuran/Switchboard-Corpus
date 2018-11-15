@@ -20,7 +20,7 @@ A|do you sell your projects?|qy
 B|Uh, mostly I have just given them away as gifts.|ng
 A|Uh-huh.|b
 B|Uh, I've done, uh, perpetual calendars and cookie jar lids and, oh, on and on, you know, just things like that,|sd
-B|butuh, I would eventually like to make enough to sell and quit my job|sd
+B|but uh, I would eventually like to make enough to sell and quit my job|sd
 A|Uh-huh.|b
 A|Where do you work at?|qw
 B|I just work at Stop and Shop out there in, in Ogden|sd
@@ -53,7 +53,7 @@ B|Yeah.|b
 A|I just bought a spray gun, one of those airless, uh, not airless, high volume, low pressure spray guns.|sd
 B|Oh, uh-huh.|b
 A|And I do a lot of woodworking|sd
-A|andthat's what I bought it for.|sd
+A|and that's what I bought it for.|sd
 B|Do you?|bh
 B|Oh.|b
 A|But I haven't used it yet.|sd
@@ -63,9 +63,9 @@ B|Oh.|bk
 A|Yeah.|ny
 B|Now what type of woodworking do you do?|qo
 A|Uh, fine furniture.|sd
-B|Oh do you? |bh
+B|Oh  do you? |bh
 A| Yeah. |b
-A|That's why I brought, bought the sprayeris to finish my projects.|sd
+A|That's why I brought, bought the sprayer is to finish my projects.|sd
 B|Oh.|b
 A|That's my worst, worst part of my woodworking.|sd
 A|I get so sick of making|sd
@@ -96,12 +96,12 @@ B|Yeah,|aa
 B|that is, that makes it easier, doesn't it?|qy
 A|Uh-huh.|ny
 B|Well, have you sold any of your furniture|qy
-B|orjust,|%
+B|or just,|%
 A|Uh|%
 A|not,|%
 A|mostly I do like you do, give it away as gifts.|sd
 B|Uh-huh.|b
-A|But,Making my own furniture.|sd
+A|But, Making my own furniture.|sd
 B|Yeah.|b
 B|Oh, that's interesting.|ba
 B|Do you, uh, did you take classes to learn how to do that?|qy
@@ -115,11 +115,11 @@ A|Yeah.|aa
 B|Well, that is interesting.|ba
 B|Oh, I would, I really would love to go take a class in woodworking and learn how to.|sd
 B|I don't know if I necessarily want to do furniture,|sd
-B|but mostly, uh, justdo more,|sd
-A|Likethe shelves and,|qy^d
+B|but mostly, uh, just do more,|sd
+A|Like the shelves and,|qy^d
 B|Uh-huh,|ny
 B|the woodworking.|sd
-A|For yourtole painting.|qy^d
+A|For your tole painting.|qy^d
 B|Uh,|b
 B|Yeah|ny
 B|Yeah,|b
@@ -127,15 +127,15 @@ B|so, it's fun|sv
 A|Good.|ba
 A|Well I guess I'll let you go now.|fc
 B|Well, they come on,|fc
-B|we're supposed to talk until they come on andtell us|fc
+B|we're supposed to talk until they come on and tell us|fc
 A|Oh, they do?|fc
 A|Okay,|fc
 A|so this is my first one.|fc
-A|You're probably a veteranat this.|fc
+A|You're probably a veteran at this.|fc
 B|Yeah.|fc
 B|Well, it has, it has been really fun.|fc
 B|I've enjoyed this. Uh,|fc
-B|like I say, I've made a couple of calls to Texas, andjust talked to all different kinds of people|fc
+B|like I say, I've made a couple of calls to Texas, and just talked to all different kinds of people|fc
 A|Uh-huh.|fc
 B|so I think you'll enjoy doing it.|fc
 A| Yeah. |fc

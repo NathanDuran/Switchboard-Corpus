@@ -13,7 +13,7 @@ B|and we just transport to these places.|sd
 B|But after awhile it always seems that the, um, oh, the site starts to leak|sd
 B|and then you have to clean it up and such.|sd
 B|But the new idea is to take everything up to Sherman,|sd
-B|and we're going have that, you know, incineration place up there and,dump everything there.|sd
+B|and we're going have that, you know, incineration place up there and, dump everything there.|sd
 A|Right.|b
 B|And supposedly that facility will not generate air pollutants from what I've heard, that everything would be in, in, you know, a confined kind of incinerator and just burn it all up.|sd
 B|And that we won't be polluting the air.|sd
@@ -31,12 +31,12 @@ A|and, hey,|fo_o_fw_"_by_bc
 A|look what we've done here at T I.|ad
 B|Uh-huh.|b
 A|And, uh, we are presently, uh, in receipt of a site permit, which will allow us to, um, uh,|sd
-A|this is our sideallow to have certain emissions up to a certain tonnage.|sd
+A|this is our side allow to have certain emissions up to a certain tonnage.|sd
 B|Uh-huh.|b
-A|It's in,in, in tons per year. Um,|sd
+A|It's in, in, in tons per year. Um,|sd
 B|Okay.|b
 A|and so, you know, what we do to make contributions so that, basically, we go and do things like put in high-tech scrubber systems, uh, that, uh, scrub out the, N O X and, uh, V O C's and, and ammonia compounds, uh, like all the acids, to a certain level.|sd
-A|We,are very, um, aware of the opacity, which is the thickness of a stack emissions.|sd
+A|We, are very, um, aware of the opacity, which is the thickness of a stack emissions.|sd
 B|Uh-huh.|b
 A|So if you don't see anything coming out of a stack the opacity is zero or twenty or thereabouts.|sd
 A|And so what we go through is, uh, if you see it smoking there's a problem.|sd
@@ -50,13 +50,13 @@ B|Now is that place built|qy
 B|or you're still on the makings of it?|qrr
 A|The Sherman facility, we are still in the, closer too, but still have a little bit of, um, finalization to do.|sd
 A|Right.|%
-A|It's been pitched to the Sherman City Council with, um,open arms, as well as the public.|sd
+A|It's been pitched to the Sherman City Council with, um, open arms, as well as the public.|sd
 B|Uh-huh.|b
 A|We had open forum|sd
 A|and, and, uh, uh, Tom Jones, our environmental, corporate environmental guys handle the project.|sd
 B|Uh-huh.|b
 A|And, uh, its real, uh, going real well.|sd
-A|I think it's matter, just a matter of fund,funds right now as I understand it. Uh,|sd
+A|I think it's matter, just a matter of fund, funds right now as I understand it. Uh,|sd
 B|Uh-huh.|b
 A|but it's, uh, it's something else.|sd
 A|Yeah.|%
@@ -64,7 +64,7 @@ A|they're, they're, they're in the same issue.|sd
 A|We were hoping on burning a lot of the effluent up there.|sd
 A|Uh, because the, the system is setup where it won't have any emissions.|sd
 A|You're correct.|sd
-A|It will have something coming out of the stackhouse it was,it was human nature.|sd
+A|It will have something coming out of the stackhouse it was, it was human nature.|sd
 B|Right.|b
 A|But it won't have can any, uh, any bad stuff.|sd
 A|So, uh, I think T I, we spend, of all the major semiconductor firms, we probably put safety and environmental on the utmost, foremost, uh, uh, first thing we always look at.|sd
@@ -96,11 +96,11 @@ A|and it may have over, uh, a certain emission levels,|sd
 A|this is on the solid side ,|sd
 A|and so we take it|sd
 A|and, uh, we can't deep well inject something like that because it's a solid.|sd
-A|And we mix it with concreteand actually, um, potash, per se, and concrete and then actually put it in the ground. But not so, not in a hazardous waste location because it's, basically, a concrete slab.|sd
+A|And we mix it with concrete and actually, um, potash, per se, and concrete and then actually put it in the ground. But not so, not in a hazardous waste location because it's, basically, a concrete slab.|sd
 B|Uh-huh.|b
 B|Um.|%
 A|It was totally legal.|sd
-A|But the cost of doing this is astronomical,they actually show you what duckwork and things.|sd
+A|But the cost of doing this is astronomical, they actually show you what duckwork and things.|sd
 B|Um,|%
 A|And so we were, uh, very, very, uh, cognizance of, and aware of all these types of, uh, expenditures because it could get very expensive.|sd
 A|But I think we, uh, you know, we do all kinds of things to make the, the world a better place to live, you know,|sd
@@ -119,13 +119,13 @@ B|Yes.|aa
 B|Yes.|aa
 B|It's a heck of a lot different.|sd
 B|And we used to be really embarrassed about the gray metal desk.|sd
-B|We were about the only,place in, you know, T I that had the gray metal desk.|sd
+B|We were about the only, place in, you know, T I that had the gray metal desk.|sd
 A|Yeah.|b
 B|People used to come and laugh and go, gee, I hadn't seen one of those ten, fifteen years.|sd
 A|Yeah.|b
 A|Glad to see y'all taken care of.|fo_o_fw_"_by_bc
 A|Well, the, uh, I think what changed everything and, uh, is, uh, y'all were, y'all were the only ones that make any money for TI, here in the last ten years,|sv
-B|We,finally got a little respect.|sd
+B|We, finally got a little respect.|sd
 B|Nobody thought of us as a profit center before.|sv
 A|Exactly.|aa
 A|And that's, um, when, when you start, when you start paying your way, uh, you know, Jerry takes a different outlook towards you guys.|sv

@@ -47,12 +47,12 @@ B|And, uh, so they have, uh, they are very, very large condos.|sd
 B|And, they have quite a few rooms, and, uh, so we, we will usually rent one for about a week or so.|sd
 B|And,|%
 A|Right,|b
-A|and the,beach is nice,|sd
+A|and the, beach is nice,|sd
 B|go down.|sd
 B|Oh.|b
 A|the beach is really nice, isn't it.|qy
 B|Yes,|ny
-B|it's, uh, it's beautiful white sand and very clear blue green water, and a,lot of nice waves usually, uh,|sd
+B|it's, uh, it's beautiful white sand and very clear blue green water, and a, lot of nice waves usually, uh,|sd
 A|Oh.|b
 A|Sea shells.|^2
 B|enough, enough to make it.|sd
@@ -75,7 +75,7 @@ A|Oh, where do you stay?|qw
 A|My husband always wants to go to Destin,|sd
 A|we just have not gone that direction yet.|sd
 B|It's a place called Jetty East, uh, J E T T Y E A S T,|sd
-B|and it's, uh, called that because it's at the very end of, uh, a jetty there, which is,uh, sort of at the end of this little, little point|sd
+B|and it's, uh, called that because it's at the very end of, uh, a jetty there, which is, uh, sort of at the end of this little, little point|sd
 A|Okay.|b
 B|and, uh, it's a, at the very end,|sd
 B|it's the last set of condominiums there,|sd
@@ -83,13 +83,13 @@ B|and it's, uh, it's very nice. Uh,|sd
 B|it's not very expensive, uh,|sd
 B|you can,|sd
 B|I think we are going to go with another couple and their kids.|sd
-B|And, uh, they have a, we have a, uh, I think it's three bedroom or two bedroom, uh, condominium, which will sleep, I do not know, quite a few about ,six or eight. And, uh, cause it's got, you know, pull out couches and all that,|sd
+B|And, uh, they have a, we have a, uh, I think it's three bedroom or two bedroom, uh, condominium, which will sleep, I do not know, quite a few about , six or eight. And, uh, cause it's got, you know, pull out couches and all that,|sd
 A|Right.|b
 B|and, uh, I think it's going to cost us, per couple, about three hundred dollars for the week.|sd
 A|Oh. That's nice.|ba
 B|Yeah,|aa
 B|it really is,|sd
-B|because, uh, the, uh, you know, it has got its own kitchen, full size,kitchen and everything.|sd
+B|because, uh, the, uh, you know, it has got its own kitchen, full size, kitchen and everything.|sd
 A|Great.|ba
 B|And, this one, I think has two baths,|sd
 B|and it's,|%
@@ -102,15 +102,15 @@ B|you know, it's really a nice stay. Uh,|sd
 B|in fact, we stayed there on our honeymoon,|sd
 B|we, I had won a trip to the Bahamas, but did not get to take it on our honeymoon time,|sd
 B|so we instead went there, uh, and loved it just as much as, as if we had gone to the Bahamas.|sd
-B|We,in fact, we stayed an extra day or so, because we liked|sd
+B|We, in fact, we stayed an extra day or so, because we liked|sd
 A|Oh.|b
 B|the, uh, the particular uh, uh, uh, suite we had gotten was very nice|sd
-B|and,so we decided to stay.|sd
+B|and, so we decided to stay.|sd
 A|Great.|ba
 A|Oh.|b
 B|But, uh, it's a pretty nice place,|sd
-B|you will need to try to go and,stay there sometime.|sd
-A|Well, we have justwe have just,|sd
+B|you will need to try to go and, stay there sometime.|sd
+A|Well, we have just we have just,|sd
 B|It's a little far from here,|sd
 B|but, uh,|%
 A|Are you driving?|qy
@@ -129,12 +129,12 @@ A|So that will be an interesting turn on vacations for our family.|sd
 A|So, I,|%
 B|Uh, what does, what does that mean, alternate?|qw
 A|Well, it's,|%
-A|what it truly is supposed to mean is nine weeks of school, three weeks of vacation,nine weeks of school, three weeks of vacation.|sd
+A|what it truly is supposed to mean is nine weeks of school, three weeks of vacation, nine weeks of school, three weeks of vacation.|sd
 B|Oh.|b
 B|Uh-huh.|b
 A|And, uh, in, and in the summer would be more like a two month, two month break.|sd
 B|Right.|b
-A|So, and they hope to boost the, they hope to boost the learning of the children.Just the retention of the material for them.|sd
+A|So, and they hope to boost the, they hope to boost the learning of the children. Just the retention of the material for them.|sd
 B|I see.|bk
 A|So, uh,|%
 B|Kind of scattering the vacation out, throughout the year.|sd

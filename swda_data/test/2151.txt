@@ -8,9 +8,9 @@ B|Yes,|aa
 B|yes,|aa
 A|I, I, you know, I think that we have a bunch of elderly folks in the country that could use some help|sv
 A|and I think that before we expend all our young talent overseas and, and helping other countries we ought to perhaps give a little bit of our help to our own folks at home|sv
-A|andI'm not sure that that's not a bad idea|sv
+A|and I'm not sure that that's not a bad idea|sv
 B|That's true.|aa
-A|and, or the military for a year or two,wouldn't be bad for,|sv
+A|and, or the military for a year or two, wouldn't be bad for,|sv
 B|Yeah.|b
 A|I think it teaches kids how to grow.|sv
 A|How about yourself?|qo
@@ -31,7 +31,7 @@ A|You know, kids seem like when they get ten or twelve years old they fall out o
 B|Yeah,|aa
 B|they do.|aa
 A|and they don't follow it at all, you know.|sv
-A|There are very few Scouts go on,and become Eagle Scouts.|sv
+A|There are very few Scouts go on, and become Eagle Scouts.|sv
 B|Oh, no.|aa
 A|And, and I don't know what the high rank is for the gals|sd
 A|but,|%
@@ -42,10 +42,10 @@ A|Senior,|b^m
 A|okay.|bk
 A|So, there's not, uh,|%
 B|Oh, they're just not,|%
-B|once they get into junior high it just,not done anymore|sv
+B|once they get into junior high it just, not done anymore|sv
 A|Yeah,|b
 A|they, they lose interest.|sv
-A|and then when they young, young adults,there's even less interest there.|sv
+A|and then when they young, young adults, there's even less interest there.|sv
 B|Uh-huh.|b
 A|They're more for, I|sv
 B|Me|^2
@@ -62,8 +62,8 @@ A|I think it's a really a good thing.|sv
 A|I, I like to see,|sd
 A|of course, there's, you know, third world countries that can use all kind of help|sv
 B|Yeah,|b
-B|but there's a lot that can be done right here in this country,too.|sv
-A|But I think,we ought to start right here at home.|sv
+B|but there's a lot that can be done right here in this country, too.|sv
+A|But I think, we ought to start right here at home.|sv
 A|I'm, you know,|%
 B|Yeah,|b
 B|uh, I'm not, I'm not so sure that overseas help, helping overseas would be such a hot idea for, for, uh, a lot of young people.|sv
@@ -79,11 +79,11 @@ A|and, uh, hopefully, we'll have other good topic maybe another call someday,|sd
 A|but I, I don't really have too much more to say on this topic, I guess.|sd
 B|No,|b
 B|I, I agree with you|sd
-A|It, we, I guess we both agree that it's a good thing,that they should do sometime.|sv
+A|It, we, I guess we both agree that it's a good thing, that they should do sometime.|sv
 B|Yeah.|b
 B|Okay.|aa
 A|Well you take care,|fc
-A|and, and,enjoy the day.|fc
+A|and, and, enjoy the day.|fc
 B|You, too.|fc
 B|You, too.|fc
 A|Thank you, ma'am.|ft

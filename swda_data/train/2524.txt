@@ -10,7 +10,7 @@ A|and my favorite is volleyball,|sd
 B|Uh-huh.|b
 A|and, but, I'm at school,|sd
 A|I'm in, you know,|sd
-A|I I live up at the college,So sometimes it's hard for me to do that,|sd
+A|I I live up at the college, So sometimes it's hard for me to do that,|sd
 B|Uh-huh.|b
 A|so I just, like sometimes,|sd
 A|I like, just to get away,|sd
@@ -85,7 +85,7 @@ A|Yeah,|b
 A|um, not that I like reading, but I do do a lot of reading while I'm here at school.|sd
 B|Uh-huh.|b
 A|Do you like reading as a hobby?|qy
-B|Uh, I love to read, but I, you know, I don't have a lot of time to read an,You know, what reading I do, I kind of do because it's, you know, it's the necessary stuff|na
+B|Uh, I love to read, but I, you know, I don't have a lot of time to read an, You know, what reading I do, I kind of do because it's, you know, it's the necessary stuff|na
 A|Yeah.|b
 B|as far as fun reading, you know, I maybe get to read the Sunday paper, but, that's about it, you know,|sd
 B|so.|%
@@ -106,7 +106,7 @@ B|you know, you make clothes for them and everything like that.|qy
 A|Yeah.|ny
 B|They, those have been real popular with my family.|sd
 B|I've had them calling up and saying, will you make me another one|sd
-B|and,so, I do things like that, you know,|sd
+B|and, so, I do things like that, you know,|sd
 B|if I had more time, I'd probably do it and sell the stuff|sd
 B|but, you know, I don't have enough time to do it to really, you know, take orders on it,|sd
 A|Uh-huh,|b
@@ -138,7 +138,7 @@ B|yeah,|b
 B|those are fun to do,|sv
 B|and just little things, you know,|sd
 B|I, I didn't have a lot of,|sd
-B|when I was in college I did, you know,I did sewing for other people when I had time, you know,|sd
+B|when I was in college I did, you know, I did sewing for other people when I had time, you know,|sd
 B|like if somebody needed a bridesmaids, maids dress made, I'd make that,|sd
 B|but that's about all the sewing I did,|sd
 B|I never had time for, you know, to sew myself a new dress or anything like that|sd

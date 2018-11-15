@@ -2,28 +2,28 @@ A|Okay.|fo_o_fw_"_by_bc
 A|What you mean, my voice?|qy
 B|Yes.|ny
 A|Oh, no|ar
-A|I am from Kentucky.Originally|sd
+A|I am from Kentucky. Originally|sd
 B|Oh, well.|b
 A|So,|%
-B|Well, the topic today was gardening,and lawn care?|sd
+B|Well, the topic today was gardening, and lawn care?|sd
 A|Uh-huh.|b
 B|Ooh.|%
 A|I know,|aa
 A|we are about to hit it in ten, few minutes.|sd
 A|I figured I could make this call and get it over with.|sd
-A|We are going to mow and trim andedge,|sd
+A|We are going to mow and trim and edge,|sd
 B|Yeah.|b
 A|and that is all we have been doing all weekend.|sd
 B|You know what?|qh
 B|It seems like we are doing it here forever.|sv
 B|We bought a, a large house that was completely unlandscaped.|sd
-B|I mean,it, it was probably was up to your shoulder in, in thistles.|sd
+B|I mean, it, it was probably was up to your shoulder in, in thistles.|sd
 B|That was all that was there.|sd
 A|Uh-huh.|b
 B|And we hired a professional landscaper to do it.|sd
 B|And I have since then probably ripped out half of what he has done because it has always been incorrectly planted|sd
 B|or the plants do not make the winter time.|sd
-B|And so I am kind of at this point getting a little bit broke and deciding that what we are going to do is we are just going to struggle through the rest of this year,rip up, rip out all the rest of these junipers or anything that requires, uh, more care than I am willing to give the kids and replace it with hollies.probably through the Fall too. And, uh,|sd
+B|And so I am kind of at this point getting a little bit broke and deciding that what we are going to do is we are just going to struggle through the rest of this year, probably through the Fall too. And, uh, rip up, rip out all the rest of these junipers or anything that requires, uh, more care than I am willing to give the kids and replace it with hollies.|sd
 A|Uh-huh.|b
 A|Uh, how many kids do you have?|qw
 B|Just two,|sd
@@ -48,13 +48,13 @@ A|He is gone.|bf
 B|Yeah.|aa
 B|It is over with.|sd
 B|Uh, back to gardening.|sd
-B|Are you one of these, uh, Howard Garrett, organic enthusiasts or a,Neil Sperry, nuke the lawn with chemicals?|qy
+B|Are you one of these, uh, Howard Garrett, organic enthusiasts or a, Neil Sperry, nuke the lawn with chemicals?|qy
 A|If I can just nuke it, I would do it.|sd
 A|But I do not.|sd
 A|I just,|%
 A|it is like, oh, I will get out there and pull my weeds.|sd
 A|I do not have a real big front yard.|sd
-A|But I do have half of it is a flower bed,just about, all by the porch.|sd
+A|But I do have half of it is a flower bed, just about, all by the porch.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|Because the porch is pretty big,|sd
@@ -97,7 +97,7 @@ B|and you are not that much further north.|sd
 B|I have probably planted oh, around here, um, maybe six hundred bulbs.|sd
 A|Of hyacinths?|br
 B|No,|nn
-B|I have probablyhave done hyacinths.|sd
+B|I have probably have done hyacinths.|sd
 A|Oh, of everything.|bf
 B|But I have just learned from doing hyacinths that if you really like them what you do is you dig the bulbs up and then you throw them away after they are done blooming. Because they do not take the heat here.|sd
 B|And if they do come back next year, they are going to look real puny.|sv
@@ -112,10 +112,10 @@ B|They call them flags?|br
 A|That is what they call them down here.|sd
 A|They get, uh, just one bloom on the plant.|sd
 A|I do not, I am not sure what they are called.|sd
-B|When does it,when does it bloom?|qw
+B|When does it, when does it bloom?|qw
 A|But I do not much,|%
 A|Well, I think they are stopped blooming now, in the Spring.|sd
-A|Ithas got|sd
+A|It has got|sd
 B|And what color?|qw
 A|oh, they come in all different colors.|sd
 A|The blooms are, on some of them is yellow, purple, white. Just all different colors.|sd
@@ -147,7 +147,7 @@ B|Does it fit that,|qy
 A|Green spiky leaves.|sd
 A|Now it looks almost like a hyacinth only a, a lot higher.|sd
 B|Oh,|%
-A|And itis a bulb.|sd
+A|And it is a bulb.|sd
 B|oh, oh.|%
 B|Oh, I bet you those are, I bet you what those things are, uh, is a Dutch iris.|sv
 A|Dutch irises.|b^m
@@ -160,7 +160,7 @@ B|that has got to be blooming this time of year.|sv
 B|It has,|%
 A|No,|ar
 A|they are, they have, they're died down. I am sorry, they are dead now.|sd
-B|Well, I wasjust going to correct myself.|sd
+B|Well, I was just going to correct myself.|sd
 A|They bloom in the Spring.|sd
 B|Because they would have bloomed pretty early.|sd
 A|Yeah.|b
@@ -176,14 +176,14 @@ B|Uh-huh.|b
 A|And, uh, we have been,|sd
 A|I, I do not much care for them.|sd
 A|After the bloom dies, they are not pretty.|sv
-A|Andto me it just looks like a bunch of leaves.|sd
+A|And to me it just looks like a bunch of leaves.|sd
 B|Well,|%
 A|But I took them out of my front yard,|sd
-A|and I just threw them on the side, intending to transplant them or throw them away or something.And forgot about them through the whole Winter.|sd
+A|and I just threw them on the side, intending to transplant them or throw them away or something. And forgot about them through the whole Winter.|sd
 B|Yep.|b
 A|Well, I went out there this Spring,|sd
 A|and they had took root right where they were, on top of each other.|sd
-A|And they told me that they are the hardest things to, you know,to kill.|sd
+A|And they told me that they are the hardest things to, you know, to kill.|sd
 B|Well|%
 A|But they are real easy to grow.|sd
 B|Ooh.|ba
@@ -208,17 +208,17 @@ A|So it was really too late to do much.|sv
 B|Um. Who, who, who, who.|%
 B|Because I have got a flower, I have got, I have probably got, do, do, do, do, I do not know how many square feet it is, a big circular driveway.|sd
 B|The whole, uh, perimeter bordering the house is all in Texas wildflower beds.|sd
-B|AndI am into that.|sd
+B|And I am into that.|sd
 A|Oh.|b
 B|And it, and it looks quite formal.|sd
 B|I mean it really does,|sd
-B|it looksquite formal.|sd
+B|it looks quite formal.|sd
 A|Well, that is,|%
 B|But it has been about three or four years of, uh, uh, playing around with flowers to decide which ones actually grow here.|sd
 A|Well, what kind of blue?|qw
-A|I am wantingI want blue and purple and, you know, just different shades of that. Because my, my house is gray,|sd
+A|I am wanting I want blue and purple and, you know, just different shades of that. Because my, my house is gray,|sd
 B|You want blue?|qy
-A|and blue looks so prettyagainst it.|sv
+A|and blue looks so pretty against it.|sv
 B|Uh-huh.|b
 B|Ooh, blue is hard, you know.|sv
 B|Do you want a perennial flower that will bloom all Summer?|qy
@@ -246,7 +246,7 @@ B|And they are, they are kind of in a labor of love.|sd
 B|The other thing to do if you, really like the hyacinths, and I do, is that before you plant those bulbs, stick them in the refrigerator for five weeks or so to cool them.|ad
 A|Yeah.|b
 A|That is what I did with my plants.|sd
-A|I had bought these, uh, colossiansCelosias or whatever.|sd
+A|I had bought these, uh, colossians Celosias or whatever.|sd
 B|Yep.|b
 A|And they will not grow down here.|sd
 B|Huh-uh.|b
@@ -260,7 +260,7 @@ B|Uh-huh.|b
 B|And now that will bloom all Summer long|sd
 B|and it will, it, but it insists on full sun.|sd
 A|Okay,|b
-A|I bought me, oh, I guess, I just went and bought me just about nineteen dollars worth of little buds, planted,uh, already grown.|sd
+A|I bought me, oh, I guess, I just went and bought me just about nineteen dollars worth of little buds, planted, uh, already grown.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|And it looks pretty good out there.|sd
@@ -282,7 +282,7 @@ B|Its proper name is Gomphrena.|sd
 A|How do you spell that?|qw
 B|G o m p h r e n a.|sd
 B|Gomphrena.|sd
-B|Andis sold as Purple Buddy or sometimes sold as straw flower.|sd
+B|And is sold as Purple Buddy or sometimes sold as straw flower.|sd
 A|Okay.|bk
 B|And they make, uh, oh, about a foot high plant.|sd
 B|And they send out this, this spike that has this purple ball on the top of it.|sd

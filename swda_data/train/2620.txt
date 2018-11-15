@@ -15,8 +15,8 @@ B|did you go take them camping?|qy
 A|That's when we camped the most.|sd
 B|Uh-huh.|b
 A|When,|%
-A|I thinks it's a marvelous activity for younger families because, uh, I,  it seems like I would go through a period of time where I just, uh, was really overworked, you know,|sv
-A|and, and getting out into nature and relaxing, and  having the family do a good share of the work, you know,|sd
+A|I thinks it's a marvelous activity for younger families because, uh,  I,  it seems like I would go through a period of time where I just, uh, was really overworked, you know,|sv
+A|and, and getting out into nature and relaxing,  and  having the family do a good share of the work, you know,|sd
 B| Uh-huh. |b
 A|and the part that I did was more fun than, uh, than labor because they did the, the running and toting chores and I just helped cook and kind of organize, you know.|sd
 B|Yeah|b
@@ -27,7 +27,7 @@ A|It isn't.|ng
 A|what kinds of things have you tried?|qw
 A|Have you done, uh, uh, uh, the big pot cooking?|qy
 B|Oh, oh, uh, well, it was really my ex who did the, the, uh, uh, the cooking back when we first started|no
-B|and we found that the, you know, what was one, one great handy things was this, uh, uh, uh, hamburger helper.Because all you needed was a big frying pan,|sd
+B|and we found that the, you know, what was one, one great handy things was this, uh, uh, uh, hamburger helper. Because all you needed was a big frying pan,|sd
 A|Oh, yeah.|b
 A| Big frying |sd
 B| you dumped everything  in together|sd
@@ -38,7 +38,7 @@ A|Uh, when my oldest son, uh,|sd
 A|always at the beginning I did all the shopping and everything.|sd
 A|But the, the neat breakthrough was when my oldest son Mark took his, uh, uh, cooking merit badge in,|sd
 A|and, and Mark was the kind of camper who ate beef stroganoff|sd
-A|and, uh, I  mean, you know, he did it up really good|sd
+A|and, uh,  I  mean, you know, he did it up really good|sd
 B| Oh. |b
 A|And so, uh, after he took that merit badge, he did all the shopping and preparing, getting ready for it.|sd
 B|Well that's great.|ba
@@ -48,7 +48,7 @@ A|like I would take corn bread and, uh, cook a pan inside of a pan over a, over 
 B|Uh-huh.|b
 A|And it works real good.|sd
 A|It's like an oven.|sd
-B| Well, cooking was our secondary interest,|sd
+B| Well,  cooking was our secondary interest,|sd
 A| Just  put, uh, put a thing on it.|ad
 B|I mean.|h
 A|What did you like to do most?|qw
@@ -81,20 +81,20 @@ B|I'm in Dallas.|sd
 A|Okay, uh,|bk
 A|we have not camped a great deal here because, uh, a good share of the time in the Summer time, it's too hot really to be very comfortable camping.|sd
 B|Well, it just depends on where you go,|sd
-B|for instance, if you  went down to the sea shore, it would be wonderful, a nice breeze blowing in from the water.|sv
+B|for instance,  if you  went down to the sea shore, it would be wonderful, a nice breeze blowing in from the water.|sv
 A| I |%
 A|Yeah,|b
 A|yeah,|b
 A|we have done that|sd
 A|But, but we camped mostly,|sd
-A|when the kids were little we were in, we were in New Jersey, andUh, in, uh, Allendale and, uh, and, uh, Waldwick,|sd
+A|when the kids were little we were in, we were in New Jersey, and Uh, in, uh, Allendale and, uh, and, uh, Waldwick,|sd
 A|it's just about twelve miles south of, the New York border.|sd
 A|And we'd go up to the Adirondacks and camp|sd
 A|and it was so, you know, pick your own, uh, blueberries and make blueberry pancakes for breakfast|sd
 B|Oh yes,|aa
 B|yes,|aa
 A|Uh, also,|%
-B| I I come from up in that area,|sd
+B| I  I come from up in that area,|sd
 A| go ahead. |ad
 B|I'm a New Yorker myself.|sd
 A|Oh, are you?|bh
@@ -137,7 +137,7 @@ B|Yeah.|aa
 A|Hey,|ba
 A|that sounds great.|ba
 A|Well, we don't, we don't camp quite as much as we used to,|sd
-A|but, uh, I still think it's a great way to spend a time with your family, and enjoy nature  and, uh, kind of wipe out the stress of everyday life.|sv
+A|but, uh, I still think it's a great way to spend a time with your family,  and enjoy nature  and, uh, kind of wipe out the stress of everyday life.|sv
 B| Oh yes,|aa
 B|definitely. |aa
 A|I'd always,|%

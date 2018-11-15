@@ -45,7 +45,7 @@ A|Emmett Smith,|sd
 A|yeah.|%
 B|Emmett Smith.|b^m
 A|he's been doing real good.|sv
-A|I'mpretty impressed with him so far.|sd
+A|I'm pretty impressed with him so far.|sd
 B|Yeah.|b
 A|Did he, did he actually play in the Pro Bowl.|qy
 A|I remember he was like a backup|sd
@@ -166,7 +166,7 @@ A|Yeah.|b
 B|there's no question about that,|sv
 B|so.|%
 A|Yeah,|aa
-A|I mean it, it was really exciting,growing up when, when the Cowboys were really big.|sd
+A|I mean it, it was really exciting, growing up when, when the Cowboys were really big.|sd
 A|Because my parents would always have season tickets,|sd
 A|and they'd go to all the games,|sd
 A|and you know, the hype were just unbelievable.|sd

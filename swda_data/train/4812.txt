@@ -7,19 +7,19 @@ A|and I went through a, a pretty, I don't know, I went through a, standard drug 
 B|Uh-huh.|b
 A|I think that's pretty standard.|sd
 A|At least at Honeywell it is.|sd
-A|Uh, I think it's important to insure the quality and, and, uh, I don't know, almost the goodness of character.  You know that kind of thing.|sv
+A|Uh, I think it's important to insure the quality and, and, uh, I don't know, almost the goodness of character.  You know  that kind of thing.|sv
 B| Yeah. |b
 A|Where do you work?|qw
 B|Uh, well I'm a graduate student right now at Carnegie  Mellon. |arp_nd
 A| Oh, okay. |bk
 A| Oh, okay. |bk
-B| And I, I  just came from Saint Paul.Uh, interviewing with Three M.|sd
+B| And I, I  just came from Saint Paul. Uh, interviewing with Three M.|sd
 A|Huh.|b
 A|Oh, great.|ba
 B|And, uh, they have a policy for, uh, testing.|sd
 B|If you, if they make you an offer, then they'll test you right before you start.|sd
 A|Right.|b
-B|And I guess the only drawback I can see to, to drug testing is in, in case you are on some sort of medication that might give some, uh, sort of false positive resultbe some sort of problem.then there  could |sv
+B|And I guess the only drawback I can see to, to drug testing is in, in case you are on some sort of medication that might give some, uh, sort of false positive result then there  could  be some sort of problem.|sv
 A|Uh-huh.|b
 A| Yeah. |b
 B|But|%
@@ -50,7 +50,7 @@ B|Oh,  wow . |ba
 A| And  this is actually a an internship up here.|sd
 A|But, uh, they, uh, even for interns they, they do the whole random drug or the whole drug testing thing,|sd
 A|so.|%
-B|They test you, uh, before they, before you start or before  you even interview|qy
+B|They test you, uh, before they, before you start or before  you even  interview|qy
 A| Right. |b
 B|or,|%
 A|Uh, they essentially,|%
@@ -74,7 +74,7 @@ B|Then do they give you like one one more chance or two more  chances? |qy
 A| Yes. |ny
 A|That's a good question.|ba
 A|I believe from what I remember of the literature they gave, uh, if you fail I believe they give you one more chance.|sd
-A|They probably give you a chance to explain yourselfand then maybe give you another chance to go through it.|sd
+A|They probably give you a chance to explain yourself and then maybe give you another chance to go through it.|sd
 B|Uh-huh.|b
 A|But, uh, you know, once again, those things are not that accurate|sv
 A|so there's undoubtedly a proportion of people who do fail, you know.|sv
@@ -83,7 +83,7 @@ A|are you working right now anywhere|qy
 A|or,|%
 B|Uh, no.|nn
 A| Okay. |bk
-B| I'm just  about to finish my Master's in May  and, uh just interviewing with companies right now.|sd
+B| I'm just  about to finish my Master's in May  and, uh  just interviewing with companies right now.|sd
 A| Oh, okay.|bk
 A|Great. |ba
 A|Yeah.|b
@@ -100,7 +100,7 @@ A| But, uh, |%
 B| Did, do  they test you at, right now, at work too?|qy
 A|No,|nn
 A|no.|nn
-A| That's one thing they don't do is, is drug testing while you're on the job.|sd
+A| That's  one thing they don't do is, is drug testing while you're on the job.|sd
 B| Okay. |bk
 A|Uh, I think, I think the unwritten rule is, yeah, expect it|sd
 A|but they don't do it.|sd

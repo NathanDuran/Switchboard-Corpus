@@ -46,6 +46,8 @@ def process_transcript(transcript, excluded_tags=None, excluded_chars=None):
 
         # Join words for complete sentence
         utterance_text = " ".join(utterance_text)
+        # Strip leading and trailing whitespace
+        utterance_text.strip()
 
         # Print original and processed utterances
         # print(utt.transcript_index, " ", utt.text_words(filter_disfluency=True), " ", utt.damsl_act_tag())
@@ -69,13 +71,14 @@ def process_transcript(transcript, excluded_tags=None, excluded_chars=None):
             if utt.speaker == 'A':
                 # Need to check if we have multiple lines to concatenate
                 if current_a:
-                    current_a += utt.text
+                    #current_a += utt.text
+                    current_a = utt.text + " " + current_a
                 else:
                     current_a = utt.text
 
             elif utt.speaker == 'B':
                 if current_b:
-                    current_b += utt.text
+                    current_b = utt.text + " " + current_b
                 else:
                     current_b = utt.text
 
@@ -85,11 +88,11 @@ def process_transcript(transcript, excluded_tags=None, excluded_chars=None):
         # Else if we have an utterance to concatenate
         elif current_a and utt.speaker == 'A':
             # Add it to the utterance and set temp empty
-            utt.text = utt.text + current_a
+            utt.text = utt.text + " " + current_a
             current_a = None
             # print("Concatenating '", utt.text, "' + '", current_a, "'")
         elif current_b and utt.speaker == 'B':
-            utt.text = utt.text + current_b
+            utt.text = utt.text + " " + current_b
             current_b = None
             # print("Concatenating '", utt.text, "' + '", current_b, "'")
 

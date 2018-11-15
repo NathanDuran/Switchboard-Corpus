@@ -11,7 +11,7 @@ A|So we kind of got different ball game|sv
 A|but, uh.|%
 B|Right|b
 A|What, uh,|%
-A|do you feel like you have any time,to spend with them?|qy
+A|do you feel like you have any time, to spend with them?|qy
 B|Well.|%
 A|They're probably at an age where they don't want to spend any time with their parents.|sv
 B|That's true|ba
@@ -25,7 +25,7 @@ A|Oh, uh-huh.|b
 B|and I work two nights a week at the Senior High School library.|sd
 B|They keep it open, you know, for kids to do their work|sd
 A|Right.|b
-B|and he, um, and then they, the school district hires an aide, you know, to workfor me.|sd
+B|and he, um, and then they, the school district hires an aide, you know, to work for me.|sd
 A|Sure.|b
 B|Well, my son is my aide.|sd
 A|Oh, well, that's nice.|ba
@@ -40,8 +40,8 @@ B|So we, I have sort of a captive audience,|sd
 B|so I really do spend probably more time with him than, than most, you know.|sd
 A|Right.|b
 B|But, uh, of course I'm away from my other son those hours, too.|sd
-B|But his dad's at homepretty much that time.|sd
-A|And so thatkind of gives him, uh, time with his dad, then.|^2
+B|But his dad's at home pretty much that time.|sd
+A|And so that kind of gives him, uh, time with his dad, then.|^2
 B|Yeah,|b
 B|that's true,|ba
 B|yeah.|b
@@ -52,7 +52,7 @@ A|Right,|b
 A|and they want to be able to spend, uh.|sv
 B|That's right.|ba
 A|Well, I've even noticed that with my five year old. She started kindergarten this year,|sd
-A|andevery day that she's not at school, uh, she thinks we need to have someone over and play|sd
+A|and every day that she's not at school, uh, she thinks we need to have someone over and play|sd
 B|Uh-huh.|b
 B|Uh-huh|b
 A|and that kind of|%
@@ -68,9 +68,9 @@ A|I didn't get,|sd
 A|the kitchen needs to be cleaned|sd
 B|Uh-huh.|b
 A|this needs to be done,|sd
-A|andand I need to remind myself to slow down|sd
+A|and and I need to remind myself to slow down|sd
 B|Uh-huh.|b
-A|andit'll still be there tomorrow.|sd
+A|and it'll still be there tomorrow.|sd
 B|Right.|b
 B|Yeah,|b
 B|that's true.|ba
@@ -86,13 +86,13 @@ B|or, you know|%
 A|Right.|b
 B|then I think it, it is hard.|sv
 B|It's, um,|%
-B|I think one of the nice things about holidays is that, you know, it does give you the opportunity to spend more timeyeah, with family.|sd
+B|I think one of the nice things about holidays is that, you know, it does give you the opportunity to spend more time yeah, with family.|sd
 A|Slow down a little bit.|^2
-B|We have, we often go to Illinoisfor Christmas,|sd
+B|We have, we often go to Illinois for Christmas,|sd
 A|Oh, uh-huh.|b
 B|and we're not this year,|sd
 B|and it's just really nice because we can do, you know, the things you want to do.|sd
-A|You can do, uh, more thanthan when you travel.|qy^d
+A|You can do, uh, more than than when you travel.|qy^d
 B|Yeah.|ny
 B|Yeah,|ny
 B|that's right.|sd
@@ -104,12 +104,12 @@ B|Yeah,|b
 B|right.|b
 B|See, we usually do that,|sd
 B|my, my kids even have already gotten out, um,|sd
-B|my twelve year old got out the Legoswhich of course he hasn't touched since last summer|sd
+B|my twelve year old got out the Legos which of course he hasn't touched since last summer|sd
 A|Right.|b
 A|Of of course.|b^m
 B|but, you know, but every now and then, I mean, he's got a lot of those technic, those hard kind,|sd
 B|you know, and he wants to be an engineer,|sd
-B|so he still likesall that kind of building stuff|sd
+B|so he still likes all that kind of building stuff|sd
 A|Oh, yeah.|b
 B|and, um, we have the train,|sd
 B|and we haven't had that Lego train together for years,|sd
@@ -134,7 +134,7 @@ A|In fact in, I think if people would learn to turn off the T V|sv
 A|and|%
 B|Uh-huh.|b
 B|Yeah.|b
-A|I think that's a lot of the breakdown of the communicationthat would take place in a family,and the communication|sv
+A|I think that's a lot of the breakdown of the communication and the communication that would take place in a family,|sv
 B|Yes,|aa
 B|yeah.|b
 B|Which is,|%
@@ -148,7 +148,7 @@ B|No|aa
 B|That's right.|ba
 A|Whereas, uh, I'm the type of person, I could not sit, well,|sd
 A|I shouldn't say I could not,|h
-A|but be very hard for me to sit down and watch a program all the way through withoutdoing something.|sd
+A|but be very hard for me to sit down and watch a program all the way through without doing something.|sd
 B|Yeah,|b
 B|yeah,|b
 B|me too.|sd

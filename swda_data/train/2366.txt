@@ -37,7 +37,7 @@ B|And my classical music tends to be confined to the seventeen hundreds, early e
 B|I'm not a music, um,|sd
 B|, I'm not particularly schooled in it.|sd
 B|I know what I like to listen to as far as classical music.|sd
-B|And I,I spent a good deal of time listening also to, uh, people from the late seventies, really, um, Neil Diamond, for instance. Um, people of, of that particular time,|sd
+B|And I, I spent a good deal of time listening also to, uh, people from the late seventies, really, um, Neil Diamond, for instance. Um, people of, of that particular time,|sd
 A|That's kind of the way I am.|sd
 A|Uh-huh.|b
 B|I listen to some country and western|sd
@@ -80,7 +80,7 @@ B|and I particularly like TOUR OF DUTY|sd
 B|and both of them, I had as much fascination of the background music, I think going on as I did to the theme of the shows,|sd
 A|Yeah.|b
 B|uh, and I, I've, uh, THIRTY SOMETHING I'm particularly interested,|sd
-B|but it's the music,almost that I find myself listening to, uh,|sd
+B|but it's the music, almost that I find myself listening to, uh,|sd
 A|Yeah.|b
 A|I'm kind of thinking that's maybe,|sd
 A|our generation was, uh, so in tuned to music of that time that we identify goodness or badness with, uh, things now with the music that's behinds them.|sv
@@ -89,7 +89,7 @@ B|I, I, uh, spent my junior year, uh, and sophomore and junior year in, in colle
 B|a song by the, uh, uh,|%
 B|I think the title of it was just Downtown,|sd
 A|Uh-huh.|b
-B|uh, and if you recall how it goes downtown,ta, da, da, da,|sd
+B|uh, and if you recall how it goes downtown, ta, da, da, da,|sd
 A|Right.|b
 B|uh, all I have to do is hear that song and I get strongly evoked memories of, of difficult times in school being behind on work,|sd
 A|Uh-huh.|b
@@ -110,7 +110,7 @@ A|It is a time consumer.|sd
 B|It is.|aa
 B|In order to continue to, to grow and|sv
 B|I, I always think that I'll be able to do it|sd
-B|and then I inevitably discover that I have no innate music talent relative to composition and that I struggle and really can't quite understand what is that other people take for granted,in composition themes|sd
+B|and then I inevitably discover that I have no innate music talent relative to composition and that I struggle and really can't quite understand what is that other people take for granted, in composition themes|sd
 A|Yeah.|b
 B|and I,|%
 B|keys and things are something to me that remain a mystery no matter how many times I bang on them.|sd
@@ -118,7 +118,7 @@ B|I have a pretty good mathematical concept for what's involved,|sd
 A|Right.|b
 B|uh, but in a, in a innate music sense there just seems to be something missing there which is always frustrating for me since I have pretty high math aptitude|sd
 B|and I keep thinking, gee, I thought that all the math and music people are supposed to go hand in hand|sd
-B|but,but it doesn't for me.|sd
+B|but, but it doesn't for me.|sd
 A|No,|ar
 A|it's making that, that connection especially with the mechanical parts of it.|sd
 A|I was never able to, to master all that.|sd
@@ -143,7 +143,7 @@ A|No.|aa
 B|That's the most fascinating thing|sv
 A|Well, it's a pleasure talking with you.|fc
 B|And you, sir,|fc
-A|Best,of luck in your graduate school.|fc
+A|Best, of luck in your graduate school.|fc
 B|take care.|fc
 B|Okay.|fc
 B|Good-bye.|fc

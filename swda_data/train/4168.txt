@@ -5,7 +5,7 @@ A|Oh, okay.|b
 B|Uh, do you want to go ahead and start?|ad
 A|Uh, well, I haven't really been up to date on a lot of music.|sv
 A|I've been in school|sd
-A|and I haven't really gone out,and bought any or listened to much on the, on the radio except for classical|sd
+A|and I haven't really gone out, and bought any or listened to much on the, on the radio except for classical|sd
 A|and, uh,|%
 B|Well, you like classical music?|qy
 A|Yes.|ny
@@ -21,7 +21,7 @@ B| Oh you don't  like country?|qy^d
 A|No.|nn
 A|I think I, I might like dancing to it|sv
 A|but I don't like listening to it.|sd
-B|The, the kind of country I like is kind of the older country music.Not the, not the kind like Kenny Rodgers and stuff like that.|sd
+B|The, the kind of country I like is kind of the older country music. Not the, not the kind like Kenny Rodgers and stuff like that.|sd
 A|Oh.|b
 B|That's, uh, that's a little bit to, uh,|sv
 B|they're trying to make it too much of a crossover thing,|sv
@@ -30,11 +30,11 @@ A|Uh-huh.|ny
 A|what's the old country music like?|qw
 B|Oh, like, like Hank Williams.|sd
 B|Like the old Hank Williams.|sd
-B|Even, even  Hank Williams, Junior is real good stuff.|sv
+B|Even, even  Hank  Williams, Junior is real good stuff.|sv
 A| Uh-huh. |b
 B| The kind that |%
 A| Oh, okay. |bk
-B|uh, this stuff,makes you cry it sounds so sad |sv
+B|uh, this stuff, makes you cry it sounds so sad |sv
 B|I mean you |%
 A| That's the  kind you like you mean?|qy
 B|Yeah.|ny
@@ -43,9 +43,9 @@ B|I mean, not all the time.|sd
 A|Oh.|b
 A|Oh, okay.|bk
 A|Well, I guess I, I like the blues a lot|sd
-A|and I guess you could say it's similar as far as the kind  of the way they do it.|sv
+A|and I guess you could say it's similar as far as  the kind  of the way they do it.|sv
 B|Yes.|aa
-B| And I I, I do too.|sd
+B| And I  I, I do too.|sd
 B|I also like jazz.|sd
 A|Yeah.|aa
 A|Me too, too.|aa
@@ -55,13 +55,13 @@ A|and, uh, most rap I don't like.|sd
 A| Yeah. |%
 B| Yeah.|b^m
 B| You're, you're about like I am|sv
-B|I, I can't,watch M T V anymore.|sd
+B|I, I can't, watch M T V anymore.|sd
 B|I used to love M T V.|sd
 A|Oh, okay.|b
 B|And I can, I can barely watch anymore because, uh, they have this heavy metal stuff on there|sd
 B|and, and I can't even, you know, I can't like that.|sd
 A|Yeah.|b
-B|And, and I liked, uh, Aerosmith andyou know, and, uh, jeez who else is there. Van Halen.Led Zepplin and, uh|sd
+B|And, and I liked, uh, Aerosmith and Led Zepplin and, uh you know, and, uh, jeez who else is there. Van Halen.|sd
 A|Uh-huh.|b
 A|Okay.|b
 A|Okay.|b
@@ -105,7 +105,7 @@ A|Yeah.|b
 A|How old are you?|qw
 B|Oh, I'm, uh, twenty-eight |sd
 B|I was born in sixty-three|sd
-B|I guess we're the same age then.|sd
+B|I guess we're  the same age then.|sd
 A| Oh, okay|bk
 A|All right. |b
 A|Yeah.|b
@@ -121,7 +121,7 @@ A|I'm, I'm not, I'm never really up to date on all that stuff.|sd
 A|But I know what I like when it's, uh, when I like a sound. A certain kind  of sound,|sd
 A|yeah. |%
 B| My parents were  very musical.|sd
-B|My mother hadin the, in the house.a piano|sd
+B|My mother had a piano in the, in the house.|sd
 A|Uh,|%
 A|Uh-huh.|b
 B|My father likes, uh, country western music.|sd
@@ -132,7 +132,7 @@ A|Uh-huh.|b
 B|And he's always liked it|sd
 B|and, and, you know, he's probably about fifty-three years old now,|sd
 B|so he grew up like in the late fifties|sd
-B|andAnd that kind of rock and rollyou know, when they had that, the Elvis Presley music  and stuff like that. |sd
+B|and you know, when they had that, the Elvis Presley music  and stuff like that.  And that kind of rock and roll|sd
 A|Huh.|b
 A| Yeah,|b
 A|yeah. |b
@@ -144,11 +144,11 @@ B|She always had those, these old Doris Day records and stuff  like that, though
 A| Oh, well. |b
 B|So, you know, I grew up listening to that stuff.|sd
 A|Yeah.|b
-B|But, uh, I could see why you went, uh, you know, I could see why you were kind of sheltered  I guess from, from music.|sv
+B|But, uh, I could see why you went, uh, you know, I could see why you were kind of sheltered   I guess from, from music.|sv
 A| Yeah. |b
 A|Well, I, I do play the piano, you know|sd
 B|Oh, okay.|b
-A|But, uh, I, I like the, uh, early seventies, late sixties rock.Kind of stuff, the old stuff.|sd
+A|But, uh, I, I like the, uh, early seventies, late sixties rock. Kind of stuff, the old stuff.|sd
 B|Oh, okay.|b
 A| And, uh, |%
 B| Yeah,|aa
@@ -156,9 +156,9 @@ B|so do I. |aa
 A|Uh,|%
 B|Do you like, uh, like Van Halen or anything like that?|qy
 B|Or how about Brian Adams?|qrr
-A|what kind of music is, does  what songs does he play?|qw
+A|what kind of music is, does  what  songs does he play?|qw
 B| It, it, |%
-B|THIS LOVE CUTS LIKE A KNIFE.Uh, SUMMER OF SIXTY-NINE.|sd
+B|THIS LOVE CUTS LIKE A KNIFE. Uh, SUMMER OF SIXTY-NINE.|sd
 A|Uh-huh.|b
 A|I think I've heard SUMMER OF SIXTY-NINE.|sd
 B|Yeah.|b
@@ -166,12 +166,12 @@ B|He sings that.|sd
 A|Yeah.|b
 B|He's, he's from Canada.|sd
 A|Okay.|b
-A|I'm not, I'm not very good at remembering the, uhtitles,|sd
+A|I'm not, I'm not very good at remembering the, uh titles,|sd
 B|The titles and artists.|^2
 A|yeah,|aa
 A|but I can remember this, the song.|sd
 A|Yeah.|b
-B|Well, dodo you watch music television, M T V at all? Or V H One?|qy
+B|Well, do do you watch music television, M T V at all? Or V H One?|qy
 A|Yeah|b
 A|No,|nn
 A|I don't watch T V much at all.|sd
@@ -194,7 +194,7 @@ B|It's,|%
 A|Do you like, uh, like someone recent? Like Enya?|qy
 A|Have you ever head of her.|qy
 A|She's not rock|sd
-A|butshe, she's from Ireland.|sd
+A|but she, she's from Ireland.|sd
 B|No,|nn
 B|I haven't heard her.|sd
 B|Oh, okay.|b

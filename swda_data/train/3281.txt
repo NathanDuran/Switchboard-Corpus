@@ -9,7 +9,7 @@ B|and, um, I could safely say that I have never cooked for a dinner party.|sd
 A|Uh-huh.|b
 A|My goodness|ba
 A|Well, what would you, uh, like to cook?|qy
-A|What's, what, what's, what is your favorite, uh, recipes, uh, that you would like to havefor a dinner party?|qw
+A|What's, what, what's, what is your favorite, uh, recipes, uh, that you would like to have for a dinner party?|qw
 B|Um,|b
 A|Now you're in Dallas, is it?|qy
 B|Right,|na
@@ -17,20 +17,20 @@ B|I'm in Dallas.|sd
 A|Okay.|b
 B|Of course, um, dinner parties down here probably, oh, turn out to be more things like barbecues|sd
 B|And,|%
-A|I was, I was thinking in terms of Mexican almost,Tex-Mex.|sd
+A|I was, I was thinking in terms of Mexican almost, Tex-Mex.|sd
 B|Uh-huh,|b
 B|yes.|b
 B|Yeah,|b
 B|uh, Tex-Mex, uh,|b^m
-B|Mexican food, umprobably a little bit different than what you serve up in Pennsylvania for a dinner party.|sv
+B|Mexican food, um probably a little bit different than what you serve up in Pennsylvania for a dinner party.|sv
 A|Uh-huh.|b
 A|Well, that's a very interesting food though|sd
-A|and when I go out to eat dinner sometimesthat's the type of foods I like to find.|sd
+A|and when I go out to eat dinner sometimes that's the type of foods I like to find.|sd
 B|Uh-huh.|b
 B|Right.|b
 A|We have, uh,|%
 A|I think Chico's|%
-A|or, or in these different restaurantsin this area that, uh, have all this fine Mexican foods.|sd
+A|or, or in these different restaurants in this area that, uh, have all this fine Mexican foods.|sd
 B|Uh-huh.|b
 A|But, um, if I were to cook, uh, a dinner party, uh, it may be standard to you|sd
 A|but, uh, actually I never get too much fried chicken.|sd
@@ -41,7 +41,7 @@ B|Oh, yes,|ny
 B|I have.|sd
 B|Uh-huh.|b
 B|Right.|b
-A|And, uh, I like broccoli casserolesand some medium hot peppers.which would include onion and cheese and, and more dill weed|sd
+A|And, uh, I like broccoli casseroles which would include onion and cheese and, and more dill weed and some medium hot peppers.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|As you can see, I'm inclined towards the Mexican type of a meal|sd
@@ -56,7 +56,7 @@ B|And some,|%
 A|More fresh vegetables?|b^m
 B|Yeah.|ny
 A|Included to that?|qy
-B|Uh, green beans and, uhcarrots and things like that.|sd
+B|Uh, green beans and, uh carrots and things like that.|sd
 A|Uh-huh.|b
 A|How do you cook your green beans?|qw
 B|My green beans?|b^m
@@ -65,7 +65,7 @@ B|Um, I just get fresh green beans from the grocery store and snap off the ends 
 A|So you|%
 B|And I like to put a little Mrs Dash in with them.|sd
 A|All right that's what I was wondering about.|sd
-A|What, what you use and, andin herbs and so forth.|bf
+A|What, what you use and, and in herbs and so forth.|bf
 B|Uh-huh.|b
 B|Right,|b
 B|uh-huh.|b
@@ -82,9 +82,9 @@ A|Well, you might, uh, be interested in that.|sv
 A|Have,|qy
 A|it gives a very delicious taste.|sd
 A|You, you have a soy sauce taste|sd
-A|and you also have a little cream sauce in there because youyou would use the, uh, water and,|sd
+A|and you also have a little cream sauce in there because you you would use the, uh, water and,|sd
 B|Uh-huh.|b
-A|uh, golly. What's this white powder that, that, uh, that you mix with waterand gives a thick sauce?|qw
+A|uh, golly. What's this white powder that, that, uh, that you mix with water and gives a thick sauce?|qw
 B|A white powder.|b^m
 A|I can't even think of the name of that right at the moment.|sd
 B|Um, gosh.|ba
@@ -96,7 +96,7 @@ B|Uh-huh.|b
 A|and then you have a nice soy sauce taste under it with a few onions in there with it.|sd
 A|If it does|%
 B|Uh-huh.|b
-A|it, it brings out such a, so much different things in, uhin the string beans.|sd
+A|it, it brings out such a, so much different things in, uh in the string beans.|sd
 B|Yeah.|b
 A|I, I like it to try them differently.|sd
 B|Uh-huh.|b
@@ -106,7 +106,7 @@ B|I might try that.|aa
 A|Chinese cooking actually has a lot of very delicious tastes to them.|sv
 B|Oh, yes.|b
 B|I love Chinese.|sd
-A|And, uh, north African cooking is goodwhen you use something called couscous.|sd
+A|And, uh, north African cooking is good when you use something called couscous.|sd
 B|North African?|b^m
 B|Uh-huh.|b
 A|And that's, uh, made from, uh, I think they call it, beans.|sv
@@ -115,18 +115,18 @@ A|You probably have to buy that from specialty stores.|sv
 B|Uh-huh.|b
 A|C o u s, c o u s.|sd
 A|And that's a, a north African dish.|sd
-A|They eat it one to two meals everydayin north Africa.|sd
+A|They eat it one to two meals everyday in north Africa.|sd
 B|Huh.|b
 A|And it is very very flexible.|sd
 A|You can do a lot of things with it.|sd
-A|It makes a fantastic, uh, uh, salad with cucumbers and,olive oil and onions|sd
+A|It makes a fantastic, uh, uh, salad with cucumbers and, olive oil and onions|sd
 A|and,|%
 B|Uh-huh.|b
 A|Oh, boy,|ba
 A|real tasty.|sd
 A|Well, I've enjoyed talking with you,|fc
-A|and I hope I'vegiven you some ideas|fc
-B|Well, I've enjoyedtalking with you.|fc
+A|and I hope I've given you some ideas|fc
+B|Well, I've enjoyed talking with you.|fc
 A|and, uh, that's one thing we can enjoy is good delicious food.|fc
 B|Oh, yes.|fc
 A|Well, thank you very much Miss Diane.|fc

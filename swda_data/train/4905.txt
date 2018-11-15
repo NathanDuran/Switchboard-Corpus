@@ -7,7 +7,7 @@ A|and, uh, I think one of the, uh, my,|sd
 A|first of all, always salary and|sd
 A|the second thing is, uh, because we have children,|sd
 A|so it would be, uh, health benefits and medical benefits|sd
-A|andand, uh, right now we have probably some excellent benefits right now.|sd
+A|and and, uh, right now we have probably some excellent benefits right now.|sd
 B|Yeah,|aa
 B|yeah.|aa
 B|Definitely.|aa
@@ -24,19 +24,19 @@ B|And then I've worked with regular, you know, industry type places. And then wi
 B|So I've seen a wide range of both, you know, nonsalary type benefits and other stuff, you know, like health care that's either fully or partially paid|sd
 B|and, you know, some have like bonuses|sd
 B|and others have had lots of vacation time but not much other types of benefits|sd
-B|andso, yeah, I would|sd
+B|and so, yeah, I would|sd
 A|Uh-huh.|b
 B|I'd say health care is way up there, especially anybody with kids.|sv
-B|Uhand that's one of the big things that we always look at, you know. When we, when I think about changing jobs is, you know, you know, what kind of health care they have|sd
+B|Uh and that's one of the big things that we always look at, you know. When we, when I think about changing jobs is, you know, you know, what kind of health care they have|sd
 A|Yeah.|b
 B|and does the company pay for it. You know, all or partially|sd
 B|or how does that work.|sd
 A|Uh-huh.|b
-B|And, uh, also, uh, vacation time too is a, is a big  one for me. you know, kinds of professional activities you have at, you know, work.Uh, and I guess support for whatever, whatever other,|sd
+B|And, uh, also, uh, vacation time too is a, is a big  one for me.  Uh, and I guess support for whatever, whatever other, you know, kinds of professional activities you have at, you know, work.|sd
 A| Yeah.|b
 A| Yeah.|b
 A|Yeah.|b
-B|Uh,  cause I've some that, sometimes that's coincided with a place that offers more vacation time though,been at places which offer a lot of support and others that don't offer any  and |sd
+B|Uh,  cause I've  been at places which offer a lot of support and others that don't offer any  and  some that, sometimes that's coincided with a place that offers more vacation time though,|sd
 A| Huh. |b
 A| Right. |b
 B|so that's not so bad, you know.|sv
@@ -44,7 +44,7 @@ A|Yeah.|b
 B|You know, it's kind of a give and take kind of thing, I think.|sv
 A|Uh-huh.|b
 B|Uh, I say that health care is probably definitely number one though.|sv
-B|want to just, you know, all your salary can't even  begin in a major illness or something. Uh.to pay for what you can wind up losing, you know|sv
+B|want to just, you know, all your salary can't even  begin  to pay for what you can wind up losing, you know in a major illness or something. Uh.|sv
 A| Yeah. |b
 A|Yeah.|b
 A|Right.|aa
@@ -98,7 +98,7 @@ B|I guess it's not really a direct benefit but how your, uh, performance is rate
 A|Uh-huh.|b
 B|Cause I've been, uh,|%
 B|especially in large corporations. You can really, you know, wind up getting, having, you know, real problems I've found out.|sd
-B|I've worked for a few, you know, several thousand plus, you know, type companies.you know.And it, and especially if you're doing like professional work. Where you know, it's kind of ethereal as to what you're doing|sd
+B|I've worked for a few, you know, several thousand plus, you know, type companies. And it, and especially if you're doing like professional work. Where you know, it's kind of ethereal as to what you're doing you know.|sd
 A|Yeah.|b
 A|Yeah.|b
 B|If you're,|%
@@ -110,7 +110,7 @@ B|and they were all straight|^q
 B|and your building didn't fall down, you know|^q
 B|Yeah,|^q
 B|you did a great job.|^q
-B|But if you build computer systems, like, well, you know, what does that computer program really do, you know. Or, especially if you write like papers,  you know. Or do design studies or something.|qh
+B|But if you build computer systems, like, well, you know, what does that computer program really do, you know. Or, especially if you write like papers,  you know.  Or do design studies or something.|qh
 A| Uh-huh. |b
 B|It's real hard to rate something like that.|sv
 A|Uh-huh.|b

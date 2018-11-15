@@ -23,7 +23,7 @@ B|So I go outside the area for that.|sd
 B|And I think that it's not my responsibility to police myself and pay Pennsylvania what they believe they are owed even though, you know, the revenue stream went to another state.|sv
 B|I don't, I don't think that that's my responsibility as a, as a conscientious consumer.|sv
 A|I, I'll agree it, it's not your responsibility|aa
-A|but, is it also legal,for you to do that?|qh
+A|but, is it also legal, for you to do that?|qh
 A|from what I understand from various net readings, it, the Federal government is going to try to legislate a more aggressive enforcement of state tax schemes, uh, in, into place in the next few years.|sd
 A|It is, it is a lost revenue stream right now|sd
 A|and states can use all the revenue they can get.|sv
@@ -36,17 +36,17 @@ B|Right.|aa
 B|But the point is is that businesses do that.|sv
 B|The business that you purchase the thing from is responsible for collecting the appropriate sales tax and forwarding it to the state in question.|sd
 B|That's a cost of doing business.|sv
-B|The  burden shouldn't be placed on the consumer.|sv
-A| And I, I I was actually talking about businesses purchasing something mail order and then having, having to pay sales tax on it.|sd
+B|The  burden  shouldn't be placed on the consumer.|sv
+A| And I, I  I was actually talking about businesses purchasing something mail order and then having, having to pay sales tax on it.|sd
 B|Uh.|%
 A|That's my understanding of the way, uh, the way it works.|sd
 A|Usually, the, the person ordering doesn't pay.|sd
 A|But the accounting department will, uh, suck up all the bills at the end of the month and realize how much they have to pay.|sd
 A|And there there are some substantial, nasty penalties, um, if you, if businesses try to avoid that.|sd
-B|Uh, do you mean businesses from the point of view as, of, of selling things to a  consumer and Or purchasing.then being responsible for the sales tax?|qy
+B|Uh, do you mean businesses from the point of view as, of, of selling things to a  consumer and  then being responsible for the sales tax? Or purchasing.|qy
 A| |%
 A|No.|nn
-A|Businesses, uhif purchasing things mail order,|sd
+A|Businesses, uh if purchasing things mail order,|sd
 A|if, if I'm a computer consulting firm and I see these, this great deal on forty-six mother boards, uh, from, from say Utah.|sd
 A|Um, I, I might buy the mother boards from Utah but then still have to pay Pennsylvania sales tax.|sd
 A|My accounting department will at the end of the month.|sd

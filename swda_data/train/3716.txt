@@ -13,7 +13,7 @@ A|It was horrible|sd
 B|Oh dear.|ba
 A|I don't know if the cake was horrible or if I made it horrible.|sd
 B|Oh, probably not.|ar
-B|I, uh, have, uh, a bread recipe that is real easy that everyone always really does like.That, uh, doesn't require kneading the dough.|sd
+B|I, uh, have, uh, a bread recipe that is real easy that everyone always really does like. That, uh, doesn't require kneading the dough.|sd
 A|Uh.|b
 A|Oh.|b
 A|Hey|ba
@@ -35,7 +35,7 @@ A|Wow.|ba
 B|and they are so easy to do.|sd
 A|Uh-huh.|b
 B|That is|%
-B|seems like every time that we have a dinner party, or that we are going some place where everybody is suppose to bring something and they have had my rolls before. They  always ask me to, bring those rolls|sd
+B|seems like every time that we have a dinner party, or that we are going some place where everybody is suppose to bring something and they have had my rolls before.  They  always ask me to, bring those rolls|sd
 A|Uh-huh.|b
 A| They request it. |^2
 A|I have not gotten any requests yet.|sd
@@ -64,9 +64,9 @@ A|Oh.|b
 A|Yeah.|b
 B|Well, what else do you put in it besides the celery seed.|qw
 A|Just like, uh, really fine onions and green pepper and the celery seed|sd
-A|and I use like, uh, Miracle Whip salad dressing instead of the actual mayonnaisebecause I really don't like the Helman's Mayonnaise.|sd
+A|and I use like, uh, Miracle Whip salad dressing instead of the actual mayonnaise because I really don't like the Helman's Mayonnaise.|sd
 B|Uh-huh.|b
-A|But if you use salad dressing with kind of, uh, you know, kind of, I guess a tart taste.Then it comes out real good.|sd
+A|But if you use salad dressing with kind of, uh, you know, kind of, I guess a tart taste. Then it comes out real good.|sd
 B|Uh-huh.|b
 A|But, I, uh, it was the first time I have I have ever found out that the, the, nobody else used celery seed.|sd
 A|I feel so silly|sd
@@ -74,7 +74,7 @@ A|but,|%
 B|See, I have never put bell pepper in tuna fish either.|sd
 A|Yeah.|b
 B|Isn't that funny?|bh
-B|I was brought up with tuna fish, you know, where you put in, uh, oh, chopped hard boiled eggs which isAnd that sort of thing.you know, chopped up dill pickles.now is a no, no with cholesterol and, uh,|sd
+B|I was brought up with tuna fish, you know, where you put in, uh, oh, chopped hard boiled eggs which is now is a no, no with cholesterol and, uh, you know, chopped up dill pickles. And that sort of thing.|sd
 A|Right.|b
 A|Right.|b
 B|The standard old tuna fish.|sd
@@ -86,16 +86,16 @@ A|Like I don't think I had eggs that night or something,|sd
 A|but I would have put eggs.|sd
 A|I would have put eggs in there also.|sd
 B|But isn't that interesting?|bh
-B|So you,celery seed.You, you use bell pepper and onion and|bf
+B|So you, You, you use bell pepper and onion and celery seed.|bf
 A|Uh, strange.|ba
 A|Celery seed.|^2
 B|I will have to try that.|sd
-A|Do you use a regular mayonnaise or, The Miracle Whip. |qy
+A|Do you use a regular mayonnaise or,  The Miracle Whip. |qy
 B|Sometimes I do|sd
 B|and sometimes I use the  Miracle Whip. |sd
 B|It depends on what I have.|sd
 A| Yeah. |b
-B| And  sometimes, if I am using, like, regular mayonnaise, to spice it up a little bituh, I will use a little bit of mustard with it.|sd
+B| And  sometimes, if I am using, like, regular mayonnaise, to spice it up a little bit uh, I will use a little bit of mustard with it.|sd
 A|Uh-huh.|b
 A|Yeah.|b
 A|I do that also.|sd
@@ -127,7 +127,7 @@ B|and so, uh, sometimes, I am requested to make that.|sd
 B|And that is not too hard to do because you can do it in advanced and just bake it.|sv
 A|It is not really, once you have all the ingredients|aa
 B|Uh-huh.|b
-A|it is just the layering really.And not breaking the, uh, the, uh, pasta.|sv
+A|it is just the layering really. And not breaking the, uh, the, uh, pasta.|sv
 B|Yeah.|b
 B|Uh-huh.|b
 A|That is the hardest part probably.|sv
@@ -143,11 +143,11 @@ B|But this one is basically, it is like a normal pie crust.|sd
 A|Uh-huh.|b
 B|But then you use this sort of, uh,|sd
 B|it is a cream cheese, uh, uh, layering,|sd
-B|but you, use, uh, thin it out a little bit.Uh, or make it a little fluffier|sd
+B|but you, use, uh, thin it out a little bit. Uh, or make it a little fluffier|sd
 A|Uh.|b
 B|and you put, uh, line the whole pie crust with that|sd
 A|Uh-huh.|b
-B|and so, it is sort of like in a way. Uh, using cheese cake,|sd
+B|and so, it is sort of like in a way. Uh, using cheese  cake,|sd
 A| Uh. |b
 B| but, and it is not a real cheese  cake|sd
 B|and then you, |%

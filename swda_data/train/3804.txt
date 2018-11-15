@@ -11,14 +11,14 @@ A|Uh-huh.|b
 B|and, uh, it,|%
 B|I had, uh, just different, uh, side dishes and appetizers|sd
 B|and one of them that, that I'd remembered was, uh, some, uh, sausage hors d'oeuvres|sd
-B|and, uh, anyhow, uh, you take, uh, a couple of, uh, cups of Bisquickand, uh, sausage, oh, like a, a Owens mild,|ad
+B|and, uh, anyhow, uh, you take, uh, a couple of, uh, cups of Bisquick and, uh, sausage, oh, like a, a Owens mild,|ad
 A|Uh-huh.|b
 B|you can, I guess you could use the hot if you wanted to.|sv
 A|Whatever you like, huh?|bf
 B|Yeah.|aa
 A|Yeah.|aa
 B|And, uh, you put that in|ad
-B|and then you get some real sharp cheddar cheeseand put that in and a little bit of milk and make it all doughy|ad
+B|and then you get some real sharp cheddar cheese and put that in and a little bit of milk and make it all doughy|ad
 A|Uh-huh.|b
 B|and then, like, I just put them in little balls and bake them for about fifteen minutes|sd
 A|Um.|%
@@ -26,10 +26,10 @@ B|and they are so good.|sv
 A|Oh, that sounds delicious.|ba
 B| Yeah. |b
 A| Yeah. |b^m
-B|It's making me hungry for themright now.|sd
+B|It's making me hungry for them right now.|sd
 A|Yeah.|b
 A|You know, I've made like little Swedish meatballs,|sd
-A|butBut never anything mixed with Bisquick.And, uh, with spices and things in them.they're just made out of the beef, you know.|sd
+A|but they're just made out of the beef, you know. And, uh, with spices and things in them. But never anything mixed with Bisquick.|sd
 B|Have you?|bh
 B|Yeah.|b
 B|Uh-huh.|b
@@ -39,13 +39,13 @@ A|Uh-huh.|b
 B|Uh,|%
 A|Um.|%
 B|And, uh, uh, when I've had so many people, uh, to feed, like I try to do a ham and a turkey|sd
-B|andand,|%
+B|and and,|%
 A|Yeah,|b
-A|that'smy, that's my parties mostly is at Christmas time and Thanksgiving time.|sd
+A|that's my, that's my parties mostly is at Christmas time and Thanksgiving time.|sd
 B|Yeah.|b
 A|You know, I've, uh, I had an open house party here once when, after we moved in here, uh, which I had things like that,|sd
 A|but I always cooked them ahead of time|sd
-A|and then I just sliced them.You know, and had macaroni salad with, uh, shrimp in it.|sd
+A|and then I just sliced them. You know, and had macaroni salad with, uh, shrimp in it.|sd
 B|Uh-huh.|b
 A|Have you ever had that?|qy
 B|No.|nn
@@ -66,7 +66,7 @@ B|I like things that are easy and, and, uh, nutritious.|sd
 A|Yeah,|b
 A|right,|b
 A|right.|b
-A|But, uh, at, uh, Christmas time we just have a regular sit down dinner, you know.Which is kind of hard because you got so many people|sv
+A|But, uh, at, uh, Christmas time we just have a regular sit down dinner, you know. Which is kind of hard because you got so many people|sv
 B|Uh-huh.|b
 A|and then by time you pass everything around,|sd
 A|it seems like everything on your plate's cold.|sv
@@ -77,25 +77,25 @@ B|Well,|%
 A|But anyhow, I,|%
 B|Thank God for microwaves, you know.|sv
 A|Yeah,|aa
-A|you can,always take your plate and just heat it up, you know.|sd
+A|you can, always take your plate and just heat it up, you know.|sd
 B|Yeah.|b
 A|But, uh, other than that, I, I don't have too many parties.|sd
-A|Uh, you know, I have, like, maybe just a another couple overfor dinner.|sd
+A|Uh, you know, I have, like, maybe just a another couple over for dinner.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
-A|But, uh, other than, than, than that I don't have, you knowa whole bunch of people like except, except at Christmas|sd
+A|But, uh, other than, than, than that I don't have, you know a whole bunch of people like except, except at Christmas|sd
 B|Yeah.|b
 A|and I have my family.|sd
 B|Right,|b
 B|well I don't anymore.|sd
 B|it's been a few years|sd
 B|and, and, uh, I don't have, you know, over a couple either|sd
-B|andand, uh, I try to, uh, have everything all ready|sd
+B|and and, uh, I try to, uh, have everything all ready|sd
 A|Uh-huh.|b
 B|and, and it, it just makes it a lot nicer where a don't spend all my time in the kitchen.|sv
 A|Yeah,|b
 A|right.|b
-B|And, uh,Spaghetti|sd
+B|And, uh, Spaghetti|sd
 A|Right.|b
 B|and,|%
 A|Yeah,|b
@@ -109,7 +109,7 @@ B|I don't think I've ever met anyone that didn't.|sd
 A|No,|aa
 A|everybody likes that.|sv
 B|Yeah.|b
-A|And, then, uh, if you have a nice big roast that you can throw in the oven, then you can put your potatoes and carrots or whatever elseall in there, you know. Especially if a pork roast.|sd
+A|And, then, uh, if you have a nice big roast that you can throw in the oven, then you can put your potatoes and carrots or whatever else all in there, you know. Especially if a pork roast.|sd
 B|Oh, yeah.|b
 A|That's what I love, with my|sd
 B|I like it, too.|sd
@@ -119,7 +119,7 @@ B|Uh-huh.|b
 A|I've asked a couple people to come over|sd
 A|and I just, uh, had been thinking what to have for that|sd
 B|Yeah.|b
-B|Well, have you had any good ideasyet?|qy
+B|Well, have you had any good ideas yet?|qy
 A|No|nn
 A|not yet|sd
 B|Oh, okay.|bk
@@ -136,7 +136,7 @@ A|yeah.|b
 B|I think it's, you know what's I think is so nice is that in this day and time that we can have good food that's good for you|sv
 B|and you don't have to spend hours and hours and hours in the kitchen.|sv
 A|Yeah.|b
-B|And,And it makes an awful lot of difference, doesn't it?|qy
+B|And, And it makes an awful lot of difference, doesn't it?|qy
 A|Preparing it,|bf
 A|right.|b
 A|Oh, it sure does.|na

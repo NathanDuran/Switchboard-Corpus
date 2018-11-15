@@ -4,7 +4,7 @@ A|Uh-huh.|b
 B|And, uh, for me that's mostly newspaper and radio,|sd
 B|I almost never watch television, as a matter of course|sd
 B|so, I don't get news from television,|sd
-B|except during the war,I watched a lot of C N N because it was so good.|sd
+B|except during the war, I watched a lot of C N N because it was so good.|sd
 A|Uh-huh.|b
 A|Well, why was C N N the only,|qw
 A|of course I think, Saddam Hussein only allowed C N N to broadcast it,|sv
@@ -44,13 +44,13 @@ B|Right.|b
 A|and so it really made me question as to what, how do we know, you know, uh, if the news we're getting is any good.|sd
 A|So|%
 B|Yeah,|aa
-B|I guess, the news just focuses on major events that probably,don't affect ninety-nine percent of the people who are right there when the news is being made.|sv
+B|I guess, the news just focuses on major events that probably, don't affect ninety-nine percent of the people who are right there when the news is being made.|sv
 A|Yeah.|b
 A|Right,|aa
 A|right.|aa
 B|But, uh, I, I'm from California|sd
 B|and I can remember being in, uh, in these earthquakes|sd
-B|and, I mean they were,they were very minor kinds of things from my point of view, and it seemed, you know, from anyone else's point of view,|sd
+B|and, I mean they were, they were very minor kinds of things from my point of view, and it seemed, you know, from anyone else's point of view,|sd
 A|Yeah.|b
 B|but they get all blown up in the news. Um,|sd
 A|Uh-huh|b
@@ -60,7 +60,7 @@ A|it's just, uh,|%
 A|local news concentrates, on murders and things like that.|sd
 A|I'm from Dallas|sd
 A|and, uh, we have a lot of bad stuff, uh,|sd
-A|it just really gets me depressed,even to watch it.|sd
+A|it just really gets me depressed, even to watch it.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Yeah.|b
@@ -116,7 +116,7 @@ A|I don't keep up with it that often.|sd
 B|Let's see, I've, I've, I've never done this before,|sd
 B|I mean I've never.|sd
 A|This is your first call?|qy
-B|This is my first call.Because I just got my password.|na
+B|This is my first call. Because I just got my password.|na
 A|Oh, really.|b
 A|Yeah.|%
 B|So I don't know,|h
@@ -126,9 +126,9 @@ B|but I think we've been talking for three minutes|sd
 B|and nobody has interrupted.|sd
 A|Yeah,|b
 A|well I, I got into a conversation last night with a lady|sd
-A|and they interrupt at ten,minutes.|sd
+A|and they interrupt at ten, minutes.|sd
 B|I see.|bk
-A|So if we've done our three minutes.Let's just let the conversation end and say bye.|ad
+A|So if we've done our three minutes. Let's just let the conversation end and say bye.|ad
 B|Uh-huh.|b
 B|Well, all right.|aa
 B|Nice talking to you.|fc

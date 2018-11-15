@@ -2,11 +2,11 @@ A|All right, do you do exercise?|qy
 B|I do,|na
 B|yes,|ny
 B|I, uh, uh, I guess it actually changes,|sd
-B|I do a number of different thingssimply walking with my wife|sd
+B|I do a number of different things simply walking with my wife|sd
 A|Uh-huh.|b
 A|Right.|b
 B|and sometimes my daughter will come along on her little bicycle.|sd
-B|Uh, and then moving up, I runin the mornings,|sd
+B|Uh, and then moving up, I run in the mornings,|sd
 A|Uh-huh|b
 B|not every morning, it probably averages about two days a week|sd
 A|Right.|b
@@ -26,7 +26,7 @@ B|Uh-huh.|b
 A|and, um, I play softball once a week, which is kind of more recreation than exercise.|sd
 B|Uh-huh.|b
 A|Because I really don't like to exercise,|sd
-A|I think that's the basic point of it, is I'm not, I, I don't enjoy itif I know that it's exercise,|sd
+A|I think that's the basic point of it, is I'm not, I, I don't enjoy it if I know that it's exercise,|sd
 B|Right.|b
 A|but if it's like a social activity or a recreational activity, I don't mind|sd
 B|Right.|b
@@ -46,7 +46,7 @@ A|I mean, I'll voluntarily clean the bathroom,|sd
 A|but I won't do it if I have to do it.|sd
 B|Right,|b
 B|right.|b
-B|So, I'm thirty-two years oldwhich is probably different than yourself|sd
+B|So, I'm thirty-two years old which is probably different than yourself|sd
 A|Uh-huh.|b
 A|Right,|aa
 A|I'm twenty-two.|sd
@@ -61,7 +61,7 @@ B|and I need to go out in the morning and run|sd
 B|or I'll just get nuts|sd
 A|Right.|b
 B|so that's kind of a motivator,|sd
-B|so even though I can look at it as a task, the, you know, I kind of get the, I get some kind of global benefitfrom the whole thing by saying, Well, I'm lowering my chance of heart attack, and thus, that type stuff.|sd
+B|so even though I can look at it as a task, the, you know, I kind of get the, I get some kind of global benefit from the whole thing by saying, Well, I'm lowering my chance of heart attack, and thus, that type stuff.|sd
 A|Right.|b
 A|Eating right and no cholesterol and all that.|bf
 B|Sure,|aa
@@ -89,15 +89,15 @@ B|oh, and the running,|sd
 B|and I enjoy that too.|sd
 A|Uh-huh|b
 B|Year,|fo_o_fw_"_by_bc
-B|I've been running since high schoolon track teams and the like,|sd
+B|I've been running since high school on track teams and the like,|sd
 A|Oh.|b
-B|so, running, I, I'm at that point which you probably get to after about six months of dedicatedrunning where you don't feel your muscles any more|sd
+B|so, running, I, I'm at that point which you probably get to after about six months of dedicated running where you don't feel your muscles any more|sd
 A|Uh-huh.|b
 A|Right,|b
 B|and you don't think about the pain of it.|sd
 B|You, you, you take the time to relax some how|sd
 B|and you think about other things.|sd
-B|During those first few months you have to think about running and why your elbow hurts andwhy you can't breathe and this and that,|sd
+B|During those first few months you have to think about running and why your elbow hurts and why you can't breathe and this and that,|sd
 A|Uh-huh|b
 B|and that's no fun.|sd
 B|And it's so hard to get past that for a lot of people.|sv
@@ -111,13 +111,13 @@ A|Right.|b
 B|I have just a, I don't, I'm not a huge person,|sd
 B|I'm just a regular looking guy,|sd
 B|but just going to lift weights on occasion with my wife,|sd
-B|and my wife thinks the same thing about both me and herselfthat get that little bit of definition in your muscles is, is attractive|sd
+B|and my wife thinks the same thing about both me and herself that get that little bit of definition in your muscles is, is attractive|sd
 A|Uh-huh.|b
 A|Right.|b
 B|so that pays also.|sd
 A|That's good.|ba
 B|Yeah,|aa
-B|so, so I guess that aspect of that takes away the workthe, with my wife, which is nice,|sd
+B|so, so I guess that aspect of that takes away the work the, with my wife, which is nice,|sd
 A|Yeah.|b
 B|I love her, you know,|sd
 B|I enjoy being with her|sd
@@ -127,16 +127,16 @@ B|but also, uh, that, that long term benefit of a little bit of tone in your mus
 A|Right,|aa
 A|that's it,|sv
 A|I do the occasional push up and sit up.|sd
-A|I haven't really brought myself to go to thethe gym, because that's very stressful to me,|sd
+A|I haven't really brought myself to go to the the gym, because that's very stressful to me,|sd
 B|Yeah.|b
 A|because I feel, I felt real competitive there,|sd
 A|and I need to find some place I could go and not feel like there's all these people who are just huge and hulking that are ...|sd
 B|Oh, yeah,|aa
 B|I don't, I don't let that bother me,|sd
 B|but, yeah,|%
-B|that's something that comes with time, too.You know,|sv
+B|that's something that comes with time, too. You know,|sv
 A|Right.|b
-B|I'll tell you, the sit ups and push ups are excellentyou know,|sd
+B|I'll tell you, the sit ups and push ups are excellent you know,|sd
 A|Uh-huh.|b
 B|it's your own,|%
 B|you, you're, you're struggling against your own body weight|sd
@@ -144,17 +144,17 @@ A|Right.|b
 B|you can have variety by putting your feet higher or lower, by putting your arms further apart or closer together, by doing them real quick or real slow|sd
 A|Right.|b
 B|and you can actually get a good|sd
-B|you can, I know in the push up, at least, you can get chest muscles and the back of your arms quite built upjust doing push ups.|sd
+B|you can, I know in the push up, at least, you can get chest muscles and the back of your arms quite built up just doing push ups.|sd
 A|Uh-huh.|b
 A|That's a good idea,|sv
 A|but I do have my ride,|sd
 A|we have a stationary bicycle and a stair step machine here at the house.|sd
 B|Oh, is that right.|bh
-A|I'll do those once in a while justand I can't sleep,at eleven thirty when Love Connection's onyou know, like|sd
+A|I'll do those once in a while just you know, like at eleven thirty when Love Connection's on and I can't sleep,|sd
 B|Right.|b
 B|Yeah.|b
 B|Right.|b
-A|I'll get upand stair step for half an hour|sd
+A|I'll get up and stair step for half an hour|sd
 B|That's funny.|ba
 A|so.|%
 B|Yeah.|b
@@ -165,28 +165,28 @@ A|I need to get started on that.|sd
 B|Well, you know, maybe not.|arp_nd
 B|I'd say, I'd say at twenty-two you don't necessarily need a plan as long as you're getting, getting the exercise otherwise.|sv
 A|Right.|b
-B|When your life becomes sedentary is when you have to make yourself aplan,|sv
+B|When your life becomes sedentary is when you have to make yourself a plan,|sv
 A|Uh-huh.|b
 B|and what's real funny about plans is that there's a struggle between, uh, when you, when you add something to your life, when you add a plan to your life,|sv
 B|something else has to go away|sv
 A|Uh-huh.|b
 B|and that's the hard decision, is, okay, if I'm going to run in the mornings, what am I, what do I trade it off for.|sv
-B|Well, the answer'ssleep, right.|sd
+B|Well, the answer's sleep, right.|sd
 A|Sleep|^2
 B|If I'm going to walk at night, what do I trade it off for.|^q
 B|Well, Star Trek|sd
 A|Uh-huh.|b
 B|or, you know, it, it, it's always trade offs,|sv
-B|and you actuallyhave to, as you get older you have to really think what can go, and what, to, to, to replace this thing.|sv
+B|and you actually have to, as you get older you have to really think what can go, and what, to, to, to replace this thing.|sv
 A|Yeah.|b
 B|It's, I mean, not just exercise, but anything.|sv
-B|It'svery hard.|sv
+B|It's very hard.|sv
 A|Right.|b
 B|And, uh, I don't, I don't think you should worry about not having a program yet.|sd
-A|That'll comesome day when I,|bf
+A|That'll come some day when I,|bf
 B|Yep.|aa
 B|Yeah,|aa
-B|I guess if you care, or if your wife, your future wife, uh, gives you a reason to carewhich helps|sv
+B|I guess if you care, or if your wife, your future wife, uh, gives you a reason to care which helps|sv
 A|Right.|b
 A|Well, I hope so.|sd
 B|Well, I think we covered it.|sv

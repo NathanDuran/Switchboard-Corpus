@@ -46,7 +46,7 @@ A|Uh, but it was things like, you know, rent and phone bills and advertising and
 B|Uh-huh.|b
 A|So.|%
 B|Well, I remember before I got married,|sd
-B|you know when you graduate from college they'll send you all thoseyou know,credit card applications|sd
+B|you know when you graduate from college they'll send you all those credit card applications you know,|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|of course you fill them all out because you're honored.|sv
@@ -94,7 +94,7 @@ A|and said, We're going to turn this over to our attorneys if you don't pay.|sd
 A|And I looked at that,|sd
 A|and I said, Uh-huh.|sd
 A|So by this time my checks had come back from the bank.|sd
-A|So I made a copy of the check that they had cashedattached it to their letter, and sent them a nasty letter with the card cut in little bitty pieces, saying Thanks, but no thanks|sd
+A|So I made a copy of the check that they had cashed attached it to their letter, and sent them a nasty letter with the card cut in little bitty pieces, saying Thanks, but no thanks|sd
 B|Um.|b
 B|Turned out they weren't cheeky.|bf
 A|Yeah,|aa
@@ -141,7 +141,7 @@ B|You know. Especially if you get, forget to record those little suckers.|sd
 A|Yeah,|aa
 A|exactly.|aa
 A|Plastic is just too easy,|sv
-A|I meanthat's the, that's the whole problem with it.|sv
+A|I mean that's the, that's the whole problem with it.|sv
 B|Uh-huh.|b
 A|Um,|%
 B|Well, and you're tempted if you've got cash, a little bit of cash, and you don't have enough for the purchase, right.|sv
@@ -150,7 +150,7 @@ B|Of course, you got to charge it and keep your cash.|sv
 A|Sure,|ba
 A|naturally.|ba
 A|That's,|%
-A|I got into all kinds of trouble doing thatHaving, having been out of the credit game for some years now, I've gotten used to either paying in cash or not getting it. *sd|sd
+A|I got into all kinds of trouble doing that Having, having been out of the credit game for some years now, I've gotten used to either paying in cash or not getting it. *sd|sd
 B|to someone in the What are you saying? to the|t3
 B|Oh, my husband says I might buy it,|sd
 B|but I, I don't really usually consider that an option.|sv
@@ -280,7 +280,7 @@ A|No,|ar
 A|as a matter of fact, the I B M right here, or in Carey, which is a little suburb of Raleigh, just, just hired one more human factors person.|sd
 B|Um.|b
 A|Doggone it,|ba
-A|if they'd just waited a little bit longer it could have beenI'm, I'm, I'm going into or going into the, uh, dissertation this summer. *sd|sd
+A|if they'd just waited a little bit longer it could have been I'm, I'm, I'm going into or going into the, uh, dissertation this summer. *sd|sd
 B|How much longer do you have?|qw
 B|And get that done this summer?|qy^d
 A|Uh, I'm going to start this summer.|no

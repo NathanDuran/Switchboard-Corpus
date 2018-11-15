@@ -14,7 +14,7 @@ A|And, uh, uh, it's our first home, too.|sd
 B|Uh-huh.|b
 A|Yeah.|b
 B|So what do you think of, of owning a home as opposed to, to renting somebody else's?|qo
-A|Um, well before we built our home we were managing some apartments thatwe were living in,|sd
+A|Um, well before we built our home we were managing some apartments that we were living in,|sd
 B|Uh-huh.|b
 A|and, um, that was quite an experience|sd
 A|I, I much prefer having my own home and, and, uh, just the space and, and more privacy.|sd
@@ -43,7 +43,7 @@ A|Just one.|b^m
 B|Yeah.|b
 A|Oh.|bk
 B|But, it, it, uh, all the rooms are small, I mean,|sd
-B|but it ends up giving us three bedrooms, which we wanted. And, uh. Use an extra one for an officewhich is handy.|sd
+B|but it ends up giving us three bedrooms, which we wanted. And, uh. Use an extra one for an office which is handy.|sd
 A|Oh, uh-huh.|b
 A|Yeah.|b
 B|I'd rather have, have more rooms and less space in each one I guess. Rather have lots of rooms and lots of space,|sd
@@ -58,13 +58,13 @@ A|Oh, uh-huh.|b
 B|and, uh, lots of kids and stuff,|sd
 B|and, so it, it fits well, in the neighborhood.|sd
 B|It's, it's certainly not a real upscale neighborhood,|sd
-B|but on the other hand, it's clean and kind of suburbanlittle bit more than I want.|sd
+B|but on the other hand, it's clean and kind of suburban little bit more than I want.|sd
 A|Yeah.|b
 A|Yeah.|b
-B|Is, is yours alsopretty  much in conformance with the neighborhood |qy
+B|Is, is yours also pretty  much in conformance with the neighborhood |qy
 A|Uh.|b
 A| Yeah,|ny
-A|it, it, it, it does, it, it seems about, oh, probably average. Um.|sd
+A|it, it,  it, it does, it, it seems about, oh, probably average. Um.|sd
 B|or is it?|qrr
 B|Uh-huh.|b
 A|But our neighborhood has a, just a wide variety of, of, um, people,|sd
@@ -78,7 +78,7 @@ B|wow, eight kids?|bh
 A|Uh-huh.|ny
 B|Oh, my gosh.|ba
 A|Yeah,|b
-A|their home just burned downmatter of fact, and, um, last summer,|sd
+A|their home just burned down matter of fact, and, um, last summer,|sd
 B|Ooh.|b
 A|and they're just rebuilding|sd
 A|and, um, their house is going to be really big|sd
@@ -91,7 +91,7 @@ A|He's, uh, um, uh, oh, not an obstetrician, an, an orthopedic surgeon.|sd
 B|Uh-huh.|b
 A|And, um, so since the house did burn, they're, they're going,|sd
 A|it's quite different than it was before,|sd
-A|and it'sit's a lot bigger.|sd
+A|and it's it's a lot bigger.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 A|And, um, but ours is about,|sd
@@ -106,10 +106,10 @@ B|He lives in Wichita, Kansas,|sd
 B|and the, um, the neighborhood actually fought him on it,|sd
 B|because he, he was, um, the house was going to cost less to build than any other house in the neighborhood.|sd
 A|Oh.|b
-B|Now, that's because he was, he's doing a lot of it himselfand, you know, for example, landscaping and, and lots of the other stuff,|sd
+B|Now, that's because he was, he's doing a lot of it himself and, you know, for example, landscaping and, and lots of the other stuff,|sd
 A|Yeah.|b
 B|and his house actually ended up being nicer than lots in the neighborhood,|sd
-B|butbut they were, they were pretty touchy on it.|sd
+B|but but they were, they were pretty touchy on it.|sd
 A|Yeah.|b
 A|You.|%
 B|He was a little surprised.|sd
@@ -118,7 +118,7 @@ A|you say that, because we do have, we have those architectural codes here|sd
 B|Uh-huh.|b
 A|and when we, um, put out house in, um, they wanted us to have,|sd
 A|there was one,|%
-A|we have part sidingon the back,on, on the two story part and then|sd
+A|we have part siding on, on the two story part and then on the back,|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|and, they, there was one side where our chimney was,|sd
@@ -142,13 +142,13 @@ B|Oh, they have,|%
 B|it's gotten,|%
 B|yeah.|%
 A|Yeah,|b^m
-A|I mean, justthey, you know,|%
+A|I mean, just they, you know,|%
 B|Yeah,|b
 B|oh.|b
 A|it's like the second phase|sd
 B|Uh-huh.|b
 A|and, and so they've kind of changed the, the codes a little bit,|sd
-A|and so that's kind of why, I guess, they stuck us with more brick when there wereother homes that didn't have any.|sd
+A|and so that's kind of why, I guess, they stuck us with more brick when there were other homes that didn't have any.|sd
 B|Um.|b
 B|Well, see, my sister kind of got in the opposite end of that, because they, they moved into a neighborhood and bought a, a real nice stone house down in South Austin.|sd
 A|Oh, uh-huh.|b

@@ -4,7 +4,7 @@ B|Uh, oh, I can start.|sd
 A|Okay.|bk
 B|I, I think one of the, the biggest, uh, improvements in women is that finally you're starting to see them get into, uh, management|sv
 A|Yes.|b
-B|and you're seeing them, uh, get, uh, elected to, uh, political offices.Uh, not near enough.|sv
+B|and you're seeing them, uh, get, uh, elected to, uh, political offices. Uh, not near enough.|sv
 A|Uh-huh.|b
 B|I know there's still a long way to go especially in top management|sd
 A|Yes,|aa
@@ -14,14 +14,14 @@ B|looking at T I, you see them in management, but you're not seeing them up ther
 A|Right.|b
 B|And I have a sister that's an attorney in Oklahoma City,|sd
 B|and I know the company that she was with, uh,|sd
-B|the women didn't have near the positions, the levels that the men attorneys had.And were not, uh, given the same respect.|sd
+B|the women didn't have near the positions, the levels that the men attorneys had. And were not, uh, given the same respect.|sd
 A|Right.|b
 A|I agree with that.|sd
-A|I, I think you do see more and more women out there in politics, too, as mayorsor, uh, you know, in, in helping to maybe, uh, get some legislation passed to, to have women have more rights.|sv
+A|I, I think you do see more and more women out there in politics, too, as mayors or, uh, you know, in, in helping to maybe, uh, get some legislation passed to, to have women have more rights.|sv
 B|Yes.|b
 A|I think still, even with that whole, um, thing with Judge Thomas and, and, uh, you, you still felt like the woman was the one that you would maybe discredit first before the man|sv
 A|or something the way they had the trial|sv
-A|anduh, I just think that it's, it's still going to take another generation or so before, before the women really, could really feel that they're really equal in the business world and that they work just as hard or harder|sv
+A|and uh, I just think that it's, it's still going to take another generation or so before, before the women really, could really feel that they're really equal in the business world and that they work just as hard or harder|sv
 B|Uh-huh,|b
 B|uh-huh.|b
 B|Right,|b
@@ -61,14 +61,14 @@ A|I know.|ba
 B|Because I know I stayed home with mine and didn't start working until mine were in high school.|sd
 A|Uh-huh.|b
 B|And, uh, so, you know, it, it kind of does me good.|sd
-B|I think also one of the things that, that's really tremendous and, it doesn't necessarily have to do with women, but the fact that the fathers areso involved with families.|sd
+B|I think also one of the things that, that's really tremendous and, it doesn't necessarily have to do with women, but the fact that the fathers are so involved with families.|sd
 A|Are so involved.|^2
 A|Yes.|aa
 B|Which, again, I think it helps a woman's role.|sv
 A|Right,|b
 A|right.|b
 B|You know,|%
-A|Their role has to changeto kind of accommodate us, too.|sv
+A|Their role has to change to kind of accommodate us, too.|sv
 B|Uh-huh,|b
 B|uh-huh.|b
 A|I know,|sv
@@ -93,14 +93,14 @@ A|I don't think I could swing that personally.|sd
 B|Well, I had to,|sd
 B|course, I work full time,|sd
 B|but my daughter and her husband were out of town|sd
-B|so I had my grandchildren forfour days during, uh, football, soccer season|sd
+B|so I had my grandchildren for four days during, uh, football, soccer season|sd
 A|Oh.|b
 A|Oh, boy.|ba
 B|and so I would work|sd
 B|and her,|%
 B|some friends would take care of the kids,|sd
-B|but I would have to get them picked up from thereget homework done, get baths.get them fed, get them to practices|sd
-A|Pick up.Dinner.|b^m
+B|but I would have to get them picked up from there get them fed, get them to practices get homework done, get baths.|sd
+A|Pick up. Dinner.|b^m
 A|Right.|b
 B|I was absolutely exhausted.|sd
 A|I bet,|ba

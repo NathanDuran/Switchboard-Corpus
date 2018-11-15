@@ -4,11 +4,11 @@ B|Okay.|bk
 A|Um,|%
 B|Do you want to tell me about vacations you've taken|qy
 B|or,|%
-A|Well, I, I tend to, uh, take two kinds of vacations, the vacations to visit familyand the vacations to just have a week being cultural and going to the theater and doing sight-seeing and things like that.|sd
+A|Well, I, I tend to, uh, take two kinds of vacations, the vacations to visit family and the vacations to just have a week being cultural and going to the theater and doing sight-seeing and things like that.|sd
 B|Uh-huh.|b
 B|Which is your favorite?|qw
 A|Oh, well, I couldn't live without the family vacations,|sd
-A|but, uh, my favorite is the, the indulgent ones, where we go off and, and, uh, see places that have interested me since I was a kid,for the most part.|sd
+A|but, uh, my favorite is the, the indulgent ones, where we go off and, and, uh, see places that have interested me since I was a kid, for the most part.|sd
 B|Uh-huh.|b
 A|And, uh,|%
 B|Your family doesn't live close, then?|qy^d
@@ -21,7 +21,7 @@ A|you just have to go once a year.|sv
 B|Yep,|b
 B|I understand.|sd
 A|So, uh, basically it, it sorts out into that,|sd
-A|and then once, about once every three or four years I try to get over to England, because I lived there for a while,some years back.|sd
+A|and then once, about once every three or four years I try to get over to England, because I lived there for a while, some years back.|sd
 B|Wow.|ba
 B|I've only been there once.|sd
 A|Oh.|b
@@ -33,7 +33,7 @@ A|beautiful people.|sv
 B|Yeah,|b
 B|it,|%
 A|But, uh,|%
-A|and I'd real, really like to go  because, um, I'm fairly recently married|sd
+A|and I'd real,  really like to go  because, um, I'm fairly recently married|sd
 B| we had a great time. |sd
 A|and, and my husband has been hearing about these people for years|sd
 A|and, uh, but he's never met them,|sd
@@ -47,8 +47,8 @@ B|Well, uh, we, we, as you do, take family vacations, uh, sometimes one a year,|
 B|and, but this year we're not going to be taking one for several reasons.|sd
 B|But vacations we really enjoy,|sd
 B|I think we've been on three cruises.|sd
-A|Oh, I've never,been on a cruise.|sd
-B|And we,we really love cruises.|sd
+A|Oh, I've never, been on a cruise.|sd
+B|And we, we really love cruises.|sd
 B|We've gone on CARNIVAL CRUISE LINES.|sd
 A|Uh-huh.|b
 B|And, uh, we've gone fairly inexpensive from, as most cruises go.|sv
@@ -83,7 +83,7 @@ B|We've been there twice.|sd
 B|We went two cruises that hit those islands, but with different people.|sd
 B|We, we've gone with friends each time.|sd
 A|I see.|b
-B|And then we went to, uh, the western Caribbean, which is, uh, Port, uh, Cancun, Cozumel, and Ocho Rios. |sd
+B|And then we went to, uh, the western Caribbean, which is, uh, Port, uh, Cancun, Cozumel,  and Ocho Rios. |sd
 A| Oh, the, the Mexican coast. |bf
 B|Pardon me?|br
 A|That's all Mexico, I think.|bf
@@ -109,16 +109,16 @@ B|They're, uh,|%
 B|I don't know.|h
 B|It's just entirely different world than this|sv
 A|Well, I, I grew up in Dallas,|sd
-A|so I mean,it's not, it's not like I'm going home.|sd
+A|so I mean, it's not, it's not like I'm going home.|sd
 B|Did you?|bh
-A|My,my parents retired first to San Diego,|sd
+A|My, my parents retired first to San Diego,|sd
 B|Uh-huh.|b
 A|and they're going now to Florida,|sd
 A|and so they're going very nice places,|sv
 A|thank God,|ba
 B|Uh-huh.|b
 A|that will be a pleasure to visit and get to know.|sv
-A|I really came to love San Diego and feel very,comfortable there.|sd
+A|I really came to love San Diego and feel very, comfortable there.|sd
 A|They've been there eight years.|sd
 B|Uh-huh.|b
 A|And, uh, you know, I just grab the car and drive everywhere.|sd
@@ -131,7 +131,7 @@ A|It's so funny.|sv
 B|Oh, they, they, they really are.|sv
 B|We've, yeah, as I said, we've done them three times.|sd
 B|We'd be going again this, this year if circumstances hadn't changed.|sd
-B|We,we'd probably go.|sv
+B|We, we'd probably go.|sv
 A|Uh-huh.|b
 B|My husband would, you know,|sd
 B|the minute I said the word, he, he, he's chomping at the bit.|sd
@@ -186,7 +186,7 @@ B|I think when we went to England and France, we were there ten, twelve days,|sd
 B|and that was pushing it a bit.|sv
 A|Yeah.|b
 A|Uh, I tend, when, when I spend enough money to go overseas|sd
-A|I,go for a long time.|sd
+A|I, go for a long time.|sd
 B|Yeah.|b
 B|Well, that, that makes sense, it really does.|sv
 B|I mean, oh, we went to Panama too.|sd
@@ -215,7 +215,7 @@ A|Uh-huh.|b
 B|And, uh, it's, it's just, it's just a gorgeous country.|sv
 B|Most people don't realize it.|sv
 B|I think if they could get tourists coming to their country, they'd improve the economy considerably.|sv
-A|Huh. Well, may, maybe now things are calming down again.That will happen.|sv
+A|Huh. Well, may, maybe now things are calming down again. That will happen.|sv
 B|Yeah.|b
 B|We really hope, hope so.|sd
 A|Well, that, that's really great. Uh,|sv

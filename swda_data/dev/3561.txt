@@ -1,6 +1,6 @@
 B|All right,|fo_o_fw_"_by_bc
 B|well.|%
-A|Um, short term, I don't think anything's going to be done about itor probably should be done about it.|sv
+A|Um, short term, I don't think anything's going to be done about it or probably should be done about it.|sv
 B|Right.|b
 B|Uh, are you saying you don't think anything should be done in the short term?|qy
 A|Uh, the short term, the recession is getting, getting top attention.|sv
@@ -35,7 +35,7 @@ A|I'm not sure how I feel about paying on the quest, the long term quests that t
 A|It's probably a judgment of how bad the recession is.|sv
 B|Yeah,|aa
 B|it, uh, it would seem to me that there are other things that the administration could do.|sv
-A|Well, well, first of all you look to the Fed to fight the recessionas indeed it has, with interest rates.|sv
+A|Well, well, first of all you look to the Fed to fight the recession as indeed it has, with interest rates.|sv
 B|Uh-huh.|b
 B|Uh-huh.|aa
 B|I think that's been a positive development.|sv
@@ -50,11 +50,11 @@ B|Yeah, um.|b
 B|I don't know,|h
 B|what kind of things do you think can be done in, in, uh, in the long term?|qw
 A|Well, can be done or will be done are two different things.|sv
-A|Um, at various places to look for, for cutting the budget, first of all I consider more defense cuts than are already planneddepending on the world situation.|sd
+A|Um, at various places to look for, for cutting the budget, first of all I consider more defense cuts than are already planned depending on the world situation.|sd
 B|Sure.|b
 A|But there are various other areas such as, as farm subsidies that ought to be slashed.|sv
 A|Uh, a lot of entitlement programs, like education aid, I think, uh, they should put a, in|sv
-A|the Reagan administration took all such entitlements to the poorbut left them for the middle class, uh,|sv
+A|the Reagan administration took all such entitlements to the poor but left them for the middle class, uh,|sv
 B|Uh-huh.|b
 A|in the longer term, uh, we, we, we'd do well, I think to make, to make, uh, reductions there.|sv
 A|Also somewhat is to collect owed to the government from various loan programs that people have borrowed.|sv
@@ -62,11 +62,11 @@ B|Right.|aa
 B|I think that, I think that, that I agree with you certainly in the second situation,|sd
 B|and I think certain entitlements I, I'm inclined to agree with you, too.|sd
 B|Education happens to be one place where I think that we would foolish to um, uh,|sv
-A|A lot of education aid has gone to so-called trade schoolswhich are sort of not colleges|sd
+A|A lot of education aid has gone to so-called trade schools which are sort of not colleges|sd
 B|Uh-huh.|b
-A|but schools that teach you trades, you know, beauticianwell, and often exists only because of the federal programs that they can take people and tell them they can get loans for their full tuition, uh, and the school gets paid off immediately, uh|sd
+A|but schools that teach you trades, you know, beautician well, and often exists only because of the federal programs that they can take people and tell them they can get loans for their full tuition, uh, and the school gets paid off immediately, uh|sd
 B|Oh, I see, I see what you're saying.|bk
-B| And then they on the loans.and then the people default|sv
+B| And then they  and then the people default on the loans.|sv
 A| and then they  don't provide very much education.|^2
 A|Yes.|b
 B|Well, I would have to agree with you if there are circumstances like that, uh, around, uh,|sd

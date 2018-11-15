@@ -128,7 +128,7 @@ A|and the old dies|sd
 A|and the young one goes for a while,|sd
 A|and he gets another one.|sd
 A|So I can't see him without his animals.|sd
-A|Even though it's very expensive to stay at homementally it's just the best thing for you.|sv
+A|Even though it's very expensive to stay at home mentally it's just the best thing for you.|sv
 B|Yes.|aa
 B|I know.|ba
 A|I mean, when you get on in your years it's the only thing you really have,|sv
@@ -155,10 +155,10 @@ B|Yeah,|b
 B|my mother has made similar statements, that she doesn't want to become a burden to the family.|sd
 B|You know, Just put me out to pasture, or shoot me, or something, you know.|oo_co_cc
 B|are the lines that come from her.|sd
-B|And, uhand I tell her, you know, No problem, Mom, always got a place for you.|sd
+B|And, uh and I tell her, you know, No problem, Mom, always got a place for you.|sd
 A|Oh.|b
 A|Yeah,|b
-A|I know, if, if, if people would think ahead of time and do things like that, like build the in-law apartmentand have it on, you know, one floor and really easy access.|sv
+A|I know, if, if, if people would think ahead of time and do things like that, like build the in-law apartment and have it on, you know, one floor and really easy access.|sv
 A|Well, that's what I'm telling my father now.|sd
 A|He needs a new floor in his bathroom,|sd
 A|so you can get in and out ...|sd

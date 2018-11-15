@@ -32,12 +32,12 @@ B|Are you serious?|qy
 A|Yeah,|ny
 A|it was really, it was really, oh, well, it was all full with, uh, shelves everywhere|sd
 A|and we didn't have enough books to fill it up|sd
-A|but,But, uh, so what, what do you like, why do you like DAVID LETTERMAN?|qw
+A|but, But, uh, so what, what do you like, why do you like DAVID LETTERMAN?|qw
 B|That's psychedelic.|ba
 B|Oh, he just, like, totally sarcastic and hilarious|sv
 B|and, I don't know,|h
 B|I'm a lot like him in a way,|sd
-B|soand he's got curly hair|sd
+B|so and he's got curly hair|sd
 A|So the,|%
 B|and so do I|sd
 B|so,|%
@@ -65,9 +65,9 @@ A|no,|^q
 A|he goes oh, oh, I'm sorry.|sd
 A|I go, yeah,|sd
 A|you better be.|^q
-A|I go,you better be|sd
+A|I go, you better be|sd
 B|That's hilarious.|ba
-A|so,But, okay, so wait|%
+A|so, But, okay, so wait|%
 A|do you watch SATURDAY NIGHT LIVE yesterday?|qy
 B|No,|nn
 B|it,|%
@@ -86,12 +86,12 @@ A|WAYNE'S WORLD was pretty cool.|sv
 B|They're awesome.|aa
 A|So, uh, let's see,|^h
 A|what else.|^h
-A|Uh, see, like, all we do here is, like, every time we walk in the room we turn on the T Vbecause we don't want to do anything like study or anything,|sd
+A|Uh, see, like, all we do here is, like, every time we walk in the room we turn on the T V because we don't want to do anything like study or anything,|sd
 B|Oh, really?|bh
 B|Yeah,|b
 B|that sucks.|ba
 A|so all the, all we do is turn,|sd
-A|like, like, when I was in high school I used to do, like, my homework in front of the T V set,you know.|sd
+A|like, like, when I was in high school I used to do, like, my homework in front of the T V set, you know.|sd
 B|Really?|bh
 B|Uh, kind of annoying|sv
 B|but that's cool.|ba
@@ -115,7 +115,7 @@ B|yeah,|%
 B|works for me.|sd
 A|So, uh, let's see,|^h
 A|what else.|^h
-A|Like, the news we don't watch,because they're boring.|sv
+A|Like, the news we don't watch, because they're boring.|sv
 B|No,|aa
 B|unless,|%
 B|I watched through the war, you know,|sd
@@ -137,7 +137,7 @@ B|Oh.|b
 A|And were here,|sd
 A|and I go, so what happened worldwide, you know.|sd
 A|It's like, you know, even though two hundred and fifty thousand people died somewhere else, they're not going to tell you, you know,|sd
-A|they're going to spend more time on doing a, a thing on a, on a cross guard who's a hundred and five years old,than they are on anything else, you know.|sd
+A|they're going to spend more time on doing a, a thing on a, on a cross guard who's a hundred and five years old, than they are on anything else, you know.|sd
 B|Yeah.|b
 A|So, but, uh, let's see,|^h
 A|what else.|^h
@@ -153,11 +153,11 @@ A|I thought, I thought,|%
 A|like, when it, like, when I was, like, in high school and junior high school, I used to hate it|sd
 B|Uh-huh.|b
 A|but then we started watching it.|sd
-A|And, and, like, the new ones are pretty cool because,because they got like, uh, like special, like especially things, that, like, fuck with your mind.|sd
+A|And, and, like, the new ones are pretty cool because, because they got like, uh, like special, like especially things, that, like, fuck with your mind.|sd
 B|Really?|bh
 B|Oh, really,|b
 B|that's cool.|ba
-A|Because what happened is, like they have this hologram right,where you walk in|sd
+A|Because what happened is, like they have this hologram right, where you walk in|sd
 B|Uh-huh.|b
 A|and you can program|sd
 A|and everything looks real|sd
@@ -168,7 +168,7 @@ A|But it's only a program|sd
 A|and it's really great because sometimes it's like the hologram makes up all these things|sd
 A|and, uh, I mean sometimes it, sometimes it's funny,|sd
 A|sometimes it's not,|sd
-A|but, uh, you know,till we doit's something to pass the time,|sd
+A|but, uh, you know, it's something to pass the time, till we do|sd
 B|That's cool.|ba
 B|Sound like .|%
 A|and then, and then we watch football.|sd
@@ -186,7 +186,7 @@ B|Oh, yeah?|bh
 A|We got Duke and North Carolina.|sd
 B|Cool.|ba
 A|But, I mean the, I mean there's nothing to do,|sd
-A|like for example yesterdayuh, they go, some girl goes, do you dares want to go to a picnic, right.|sd
+A|like for example yesterday uh, they go, some girl goes, do you dares want to go to a picnic, right.|sd
 B|Uh-huh.|b
 A|I hear no, *looks mistranscribed|sd
 A|we're just, you know, it's like we just woke up,|sd
@@ -194,7 +194,7 @@ A|we had a hangover and everything, you know.|sd
 A|And so we just woke up|sd
 A|and, uh, we're watching T V,|sd
 A|and I go, no,|sd
-A|today we're just going to dedicate ourself to watching golfand bowling, you know,|^q
+A|today we're just going to dedicate ourself to watching golf and bowling, you know,|^q
 B|golf,|b
 B|yay.|b
 A|and everybody, it was, like, oh, God, do you guys really watch that?|sd
@@ -203,11 +203,11 @@ A|you know, I was,|%
 A|like, a whole golf tournament, it's,|%
 A|like, for example, baseball,|%
 A|I hate baseball,|sd
-A|I mean,Somebody told me, like, that, like, you can watch baseball,|sd
+A|I mean, Somebody told me, like, that, like, you can watch baseball,|sd
 B|Oh, me, too.|sd
-A|and the actual play time that there isis five minutes.|sv
+A|and the actual play time that there is is five minutes.|sv
 B|Uh-huh.|b
-A|Because by, the play time iswhen the person, when the pitcher pitches the ball and it goes to the catcher or when the, when the pitcher pitches and it's hit.|sv
+A|Because by, the play time is when the person, when the pitcher pitches the ball and it goes to the catcher or when the, when the pitcher pitches and it's hit.|sv
 B|Yeah.|b
 B|Yeah.|b
 A|Okay,|b
@@ -235,7 +235,7 @@ B|Oh|bk
 A|So, and I also, uh, my father works for I B M,|sd
 B|Uh-huh.|b
 A|and we came up here,|sd
-A|we, well, we came to the United States in nineteen seventy-six,and, uh, we lived here for about seven yearsseventy-seven|sd
+A|we, well, we came to the United States in nineteen seventy-six, seventy-seven and, uh, we lived here for about seven years|sd
 B|Uh.|b
 B|Yeah.|b
 A|then we moved back.|sd

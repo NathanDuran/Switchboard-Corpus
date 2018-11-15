@@ -37,7 +37,7 @@ A|but it was all right,|sd
 A|we only spent two nights there.|sd
 A|I wouldn't want to spend more than two nights.|sd
 A|I wouldn't want to go for like a week,|sd
-A|but, um,two nights is good.|sv
+A|but, um, two nights is good.|sv
 B|Yeah,|aa
 B|that would, that would be much.|sv
 A|Um, especially there was a little store close by,|sd
@@ -73,7 +73,7 @@ B| Yeah,|b
 B|we, we have,  we have a dog|sd
 B|and that's just about as bad as a kid|sv
 A|Yeah,|b
-A|boy, he doesn't go in and out of the tent a hundred times .And use it as a play, uh,|sd
+A|boy, he doesn't go in and out of the tent a hundred times . And use it as a play, uh,|sd
 B|Uh-huh.|b
 A|they like to play in them.|sd
 B|Yeah,|b
@@ -249,7 +249,7 @@ A|like I say, they're kind of, just kind of more sturdy than anything, you know,
 A|just, just,|%
 B|They have them right at the campsites?|qy
 A|Yeah,|ny
-A|they're, they're lean-tos.Yeah, they're pretty nice,|sd
+A|they're, they're lean-tos. Yeah, they're pretty nice,|sd
 B|Wow.|ba
 A|they're, they're, uh, it's like a little house except the whole face is open,|sd
 A|and the one time that we went, we got one,|sd

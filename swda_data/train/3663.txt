@@ -6,8 +6,8 @@ A|we have, uh, in California,|%
 A|I'm in I lived in central California.|sd
 A|We have rain couple times a year|sd
 A|and other than that, you know, it would be maybe October and then in the spring|sd
-A|and then other than that there wouldn't be any rain.So,|sd
-B|Especiallythe last few years.|sv
+A|and then other than that there wouldn't be any rain. So,|sd
+B|Especially the last few years.|sv
 A|Yeah,|aa
 A|yeah.|aa
 B|It's kind of, it's kind of been a drought out there hasn't it, uh,|qy
@@ -23,7 +23,7 @@ A|huh.|%
 B|Generally if we're going to get them, it's not going to happen, uh, prior to January one.|sd
 A|Uh-huh.|b
 B|You may get a cold snap or two or some rain or something like we've been getting in December,|sd
-B|butusually the bitterest weather, if we're going to have any, comes in January and February.|sd
+B|but usually the bitterest weather, if we're going to have any, comes in January and February.|sd
 A|Yeah.|b
 A|Um.|b
 B|Then by March things are getting warm again,|sd
@@ -40,12 +40,12 @@ B|it's nice.|sv
 B|I just came in from outside|sd
 A|Uh-huh|b
 B|and it's, it's really pretty.|sv
-B|It's kind of nice to have it dry all the ground outbefore it rains again.|sv
+B|It's kind of nice to have it dry all the ground out before it rains again.|sv
 A|Yeah.|b
 A|Yeah.|b
 B|I'm a, I'm a scoutmaster|sd
 B|and so I wind up going out camping with, uh, a bunch of boys at one time|sd
-B|and so, it'sbetter for us if it hasn't been this totally wet before we go|sd
+B|and so, it's better for us if it hasn't been this totally wet before we go|sd
 A|Uh-huh.|b
 A|Yeah.|b
 A|So you do that even in January, huh?|qy
@@ -54,8 +54,8 @@ A|Uh-huh.|b
 B|Yeah,|b
 B|we camp year round.|sd
 A|Yeah, oh,|b
-A|that'sinteresting.|ba
-B|But, uh,It's, uh, it's definitely different.|sv
+A|that's interesting.|ba
+B|But, uh, It's, uh, it's definitely different.|sv
 A|Uh-huh|b
 B|And then, I guess you've been through a couple of summers here, too, right?|qy
 A|Yeah,|ny
@@ -63,10 +63,10 @@ A|I have|sd
 A|and they're not too pleasant|sv
 A|It gets so humid.|sv
 A|To me it's humid here.|sv
-A|People that I know thatYeah, they say, it's,North Carolina,come from, uh, like Georgia or|sd
+A|People that I know that come from, uh, like Georgia or North Carolina, Yeah, they say, it's,|sd
 B|Oh, it is.|aa
-B|It's not asAs Houston, say, or Atlanta,humid.|sv
-B|but it,more humid than ArizonaBut|sv
+B|It's not as humid. As Houston, say, or Atlanta,|sv
+B|but it, But more humid than Arizona|sv
 A|Yeah.|b
 A|But I find it,|%
 B|and California for the most part.|sv
@@ -86,11 +86,11 @@ A|But it's a dry heat, yeah.|sd
 B|Hundred when you have a hundred here, everybody's dying|sv
 A|Uh-huh,|aa
 A|yeah,|aa
-A|I know. Well, I lived in Africa for a couple years inCameroon|sd
+A|I know. Well, I lived in Africa for a couple years in Cameroon|sd
 B|Oh.|b
 A|and that's a tropical climate|sd
-A|and it really feels similar to thisduring the summer.|sd
-B|What types of,What type, what type of business takes you to those climates|qw
+A|and it really feels similar to this during the summer.|sd
+B|What types of, What type, what type of business takes you to those climates|qw
 B|or was that just vacation or something?|qy
 A|No,|nn
 A|I was, uh, working with, uh, I still work with Wycliff Bible Translators.|sd
@@ -100,12 +100,12 @@ B|Not so much still trying to translate old texts as just trying to translate mo
 A|Right,|aa
 A|languages that don't have anything written yet.|sd
 A|So this is like the first thing that's written down|sd
-A|oryou know, first an alphabet is developed|sd
+A|or you know, first an alphabet is developed|sd
 B|Oh.|b
 A|and then, uh,|%
 B|That's interesting.|ba
 A|So,|%
-B|You don't think about that as a career, a normal career, uh, whenyou're thinking of things that people might be doing.|sv
+B|You don't think about that as a career, a normal career, uh, when you're thinking of things that people might be doing.|sv
 A|Yeah.|b
 A|Yeah,|b
 A|well, it's based here,|sd
@@ -116,35 +116,35 @@ A|right now I am.|aa
 A|That's what brought me here,|sd
 A|yeah.|%
 B|Well, the, uh, I think, uh, all in all there are a lot worse climates than Dallas, uh,|sv
-B|the weatheryou know, does change fast|sv
+B|the weather you know, does change fast|sv
 A|Yeah.|b
 B|and things do happen severely a few times a year,|sv
-B|but there's an awful lot of good weather, too, inbetween.|sv
+B|but there's an awful lot of good weather, too, in between.|sv
 A|Yeah|b
 A|I agree,|aa
 A|I agree.|aa
 A|I, I thought the fall was really nice.|sv
 B|Yeah,|b
-B|and usually a lot of the spring months are really nice, too.After the last freeze|sv
+B|and usually a lot of the spring months are really nice, too. After the last freeze|sv
 A|Uh-huh.|b
-B|and, and when it begins to be in the sixties and seventies most of the time, uh, Iand doing, uh, outdoor activity, hiking and things.Particularly if I'm going to be outdoorslike that.|sd
+B|and, and when it begins to be in the sixties and seventies most of the time, uh, I like that. Particularly if I'm going to be outdoors and doing, uh, outdoor activity, hiking and things.|sd
 A|Yeah.|b
 A|Uh-huh.|b
 A|Uh-huh.|b
-B|And that'snicer.|ba
+B|And that's nicer.|ba
 A|Yeah,|b
-A|you probably do a lot of that withscouting.scout|qy^d
+A|you probably do a lot of that with scout scouting.|qy^d
 B|Yeah,|ny
-B|Ido quite a bit of that|sd
+B|I do quite a bit of that|sd
 A|Uh-huh.|b
 B|Think we're going in just a couple of weeks out to the, east Texas,|sd
 B|and it is a little more humid out there than it is here,|sd
-B|soI guess we'll,|%
+B|so I guess we'll,|%
 A|Uh-huh.|b
-B|the only thing you have to watch out in this part of the country is during the change type seasons is the really severe storms that occasionallycome through out here on the plains.|sv
+B|the only thing you have to watch out in this part of the country is during the change type seasons is the really severe storms that occasionally come through out here on the plains.|sv
 A|Uh-huh.|b
 B|There's not much between us and the North Pole|sv
 A|Yeah.|b
-B|And then when you get one of those tornado typesystems through or severe hail or thunderstorms|%
+B|And then when you get one of those tornado type systems through or severe hail or thunderstorms|%
 A|Uh-huh.|b
 B|and then,|%

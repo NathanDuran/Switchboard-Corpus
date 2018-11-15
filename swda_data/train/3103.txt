@@ -5,14 +5,14 @@ B|my mother, uh,|%
 B|we come from a,|%
 B|my mother and I were, uh, really, first generation divorce in our family.|sd
 A|Yes.|b
-B|My, uh, mother was divorced in nineteen, uh, fifty-seven,when I was seven years old.|sd
+B|My, uh, mother was divorced in nineteen, uh, fifty-seven, when I was seven years old.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|And, was, I was the first one, of anyone that, that anyone had ever known, to have a divorce.|sd
 A|Uh-huh.|b
 B|Of course, now fifty percent divorces in the United States, uh,|sv
 B|my mother, uh, was treated very badly, uh, in a, by a lot of people, family members, um, especially from my father's side of the family,|sd
-B|and also, uh, uh, uh, we were, uh,ostracized by his family, uh, basically just, you know, uh, we just kind of dropped off the face of the earth.|sd
+B|and also, uh, uh, uh, we were, uh, ostracized by his family, uh, basically just, you know, uh, we just kind of dropped off the face of the earth.|sd
 A|Uh-huh.|b
 A|Right.|b
 B|And, they all felt that there was never an issue that my father was the, was the cause of the reason for the split up, even though he had impregnated another woman and forced the divorce.|sd
@@ -42,8 +42,8 @@ A|Uh-huh.|b
 B|And it was a lifetime appointment for her as well as for him.|sd
 B|So, that was a really high, high status position.|sd
 A|Well, that's wonderful.|ba
-B|She made over thirty thousand, a year. |sd
-A|That speaks, well of your mother. |ba
+B|She made over thirty thousand,  a year. |sd
+A|That speaks,  well of your mother. |ba
 B|Well, yeah,|aa
 B|she a real hard|sd
 A|She had high standards.|qy^d
@@ -59,13 +59,13 @@ B|Absolutely.|aa
 A|Uh-huh.|b
 B|Challenges that have to do with my sex.|sd
 A|Right.|b
-B|Uh, for instance, uh, well, you know, I am just not taken as seriously, you know,at professions, as many of the as many of the men who are doing the same job I do.|sd
+B|Uh, for instance, uh, well, you know, I am just not taken as seriously, you know, at professions, as many of the as many of the men who are doing the same job I do.|sd
 A|Uh-huh.|b
 B|And, uh, the choir members treat me differently because I am a woman, they expect me to be more motherly,|sd
 B|they question my authority more, uh, than they ever would a man.|sd
 B|And I have experience with this, because I work at both, both as a director of music and also as an associate under a man.|sd
 A|uh-huh.|b
-B|So I am pretty, I am pretty pretty I mean, I am pretty aware of what goes onuh, in the church.|sd
+B|So I am pretty, I am pretty pretty I mean, I am pretty aware of what goes on uh, in the church.|sd
 A|Surely.|b
 B|So, basically that's, that's,|%
 B|well I am done talking.|sd
@@ -73,13 +73,13 @@ B|Do you want to talk?|qy
 A|Well, I think that you carried forth your subject matter very well, uh, Nickie.|sv
 A|And I can, uh, relate to that, uh,|sd
 B|Uh-huh.|b
-A|uh, I think it's, it's the image that the woman has and, uh, in the world,as, uh, the lesser of the two.|sv
+A|uh, I think it's, it's the image that the woman has and, uh, in the world, as, uh, the lesser of the two.|sv
 B|Uh-huh.|b
 B|Oh, always.|aa
 A|And, uh, I think things are changing,|sv
-A|but the changing is taking a long time longer than we would like it to,like it to take.|sv
+A|but the changing is taking a long time longer than we would like it to, like it to take.|sv
 B|Uh-huh.|b
-A|And,uh, I think we are progressing at a snail's pace,|sv
+A|And, uh, I think we are progressing at a snail's pace,|sv
 B|Indeed.|aa
 A|but we are progressing.|sv
 B|Uh-huh.|b
@@ -87,7 +87,7 @@ A|So, that's the main point is that we are going ahead.|sv
 B|Uh-huh.|b
 A|And, uh, I think that, uh, in the long term that women are going to be able to have the recognition that they deserve.|sv
 B|Uh-huh.|b
-A|And, uh, men, uh, have, a lot of them have, uh, come around and have seen,the error of their ways.|sv
+A|And, uh, men, uh, have, a lot of them have, uh, come around and have seen, the error of their ways.|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|But there are a lot of die-hards out there that will never change.|sv
@@ -106,16 +106,16 @@ B|Uh-huh.|b
 A|And they do not have any, uh, ego, uh, problems that they are fighting.|sv
 B|Uh-huh,|aa
 B|uh-huh.|aa
-A|And, uh, I think that we are going to be, uh, on par with themin the long term.in salary and in recognition,|sv
+A|And, uh, I think that we are going to be, uh, on par with them in salary and in recognition, in the long term.|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Uh-huh.|b
-A|Uh, and I, what I would like to see happen futuristically,and that we should recognize that. And that we should support each other.is that yes, uh, we each have our, uh, jobs in life,is what we are discussing,|sd
+A|Uh, and I, what I would like to see happen futuristically, is what we are discussing, is that yes, uh, we each have our, uh, jobs in life, and that we should recognize that. And that we should support each other.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Uh-huh.|b
-A|And, uh, I think our problems would be fewer,And just looked at each other as equals and none lesser, because we are equal.if we supported each other.|sv
+A|And, uh, I think our problems would be fewer, if we supported each other. And just looked at each other as equals and none lesser, because we are equal.|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Men have a lot of trouble with that though.|sv
@@ -128,7 +128,7 @@ B|And I do not know if that's, I mean, that's, it's a militaristic point of view
 B|somebody can not be colonel|sv
 B|and everybody else is infantry,|sv
 B|but it's just really interesting to me.|sd
-B|I am married to a wonderful man,you know, who treats me very, you know, with a, with as,|sd
+B|I am married to a wonderful man, you know, who treats me very, you know, with a, with as,|sd
 B|I think probably is as enlightened as anyone can be at this particular stage in their life time.|sd
 B|But, when he gets angry, it's always over control issues, it's always over power issues, it's never over, you know, it's always, you said you were going to do something|sd
 B|and you did not do it. As if he is the boss|sd
@@ -155,12 +155,12 @@ A|And if we, men and women, would do as the Bible said, that we would esteem eac
 B|Uh-huh.|b
 A|Can you picture that?|qy
 B|Uh-huh.|ny
-A|I mean, if your husband did that to you,you would always be trying to please each other and not yourself.and you did that to your husband,|sv
+A|I mean, if your husband did that to you, and you did that to your husband, you would always be trying to please each other and not yourself.|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Yeah,|aa
 B|it's true.|aa
-A|And, uh, that's really the, the divine answer,and, and the right answer|sv
+A|And, uh, that's really the, the divine answer, and, and the right answer|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|So, uh, uh, that would be a beautiful relationship.|sv

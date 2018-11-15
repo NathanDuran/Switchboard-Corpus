@@ -3,13 +3,13 @@ A|Now, we used to be big time campers|sd
 A|but now we're not quite so much since the kids are involved so much in sports.|sd
 B|Uh-huh.|b
 B|What type of camping did you do?|qw
-A|Well when we, before we had kids, we was in a motorcycle group,you know,|sd
+A|Well when we, before we had kids, we was in a motorcycle group, you know,|sd
 B|Uh-huh.|b
 A|we went like twenty or thirty at a time.|sd
 A|We took, uh, just our little tents,|sd
 B|Uh-huh.|b
 A|and we did it that way.|sd
-A|Then when we started having children we bought a camper.You know,|sd
+A|Then when we started having children we bought a camper. You know,|sd
 B|Oh, uh-huh.|b
 A|and we did it that way.|sd
 B|Oh, how neat.|ba
@@ -31,14 +31,14 @@ A|and the next night they'll stay at the motel, you know, or something like that
 B|Uh-huh.|b
 A|And they enjoy it.|sd
 B|Yes,|b
-B|I don't, I don't think I'm a real true, trooper, you know, when it comes,to camping.|sd
+B|I don't, I don't think I'm a real true, trooper, you know, when it comes, to camping.|sd
 A|Oh,|b
 A|yeah.|b
-A|Oh,me either.|sd
+A|Oh, me either.|sd
 B|All the bugs and stuff|sd
 B|But I, I try|sd
 A|I hate to be on all that stuff|sd
-B|But, but I try,you know, to, uh, to get out there and enjoy everything.|sd
+B|But, but I try, you know, to, uh, to get out there and enjoy everything.|sd
 A|Oh, yeah.|ba
 B|But what was so fun though is that I had to take my son to the doctor this morning because he went out camping with some friends|sd
 B|and he got poison ivy,|sd
@@ -62,7 +62,7 @@ A|You know?|qh
 B|Definitely when it's cool.|bf
 A|Yes.|aa
 B|Well, have you done much camping around Texas?|qy
-A|Well, not really because usually it's when we go off,you know, like for a couple weeks or so.|ng
+A|Well, not really because usually it's when we go off, you know, like for a couple weeks or so.|ng
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|It's usually like that.|sd
@@ -82,7 +82,7 @@ B|Right,|b
 B|right.|b
 A|It's a lot easier then.|sd
 B|Well, I know my parents like to camp a lot,|sd
-B|and they, uh, they've been going to Gulf Shores, Alabama.And, uh, which is really, really neat.|sd
+B|and they, uh, they've been going to Gulf Shores, Alabama. And, uh, which is really, really neat.|sd
 A|Oh, uh-huh.|b
 B|They said they've got the white beaches and the sand,|sd
 A|Yes.|b
@@ -95,7 +95,7 @@ A|You know, I just like to go.|sd
 B|Uh-huh,|b
 B|uh-huh.|b
 A|I really do.|sd
-B|Well, have you done much camping up in Kentucky and, and those parts,in the mountains?|qy
+B|Well, have you done much camping up in Kentucky and, and those parts, in the mountains?|qy
 A|No,|nn
 A|not really,|ng
 A|not that much.|sd
@@ -105,7 +105,7 @@ B|Uh-huh.|b
 A|You know, like if we're just going through and they camp one night and then head on.|sd
 B|Right,|b
 B|right.|b
-A|But now that we have children and we go every blue moon,You knowI'd rather just go to Galveston.|sd
+A|But now that we have children and we go every blue moon, I'd rather just go to Galveston. You know|sd
 B|Yeah|b
 B|Oh, yeah,|ba
 B|yeah,|b
@@ -142,20 +142,20 @@ B|well, that's really neat.|ba
 A|Yes,|b
 B|Well,|%
 A|we all enjoy camping.|sd
-A|And they're, you know, they're in like and scouts and stuff like that, you know,so, they get to go camping in those organizations also.|sd
+A|And they're, you know, they're in like and scouts and stuff like that, you know, so, they get to go camping in those organizations also.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|At least their Daddy goes with them,|sd
-A|I don't,when they do that.|sd
+A|I don't, when they do that.|sd
 B|Yeah.|b
-A|But,That really is.|sd
+A|But, That really is.|sd
 B|Yeah.|b
 B|Oh, that's neat.|ba
 B|That's really neat.|ba
-A|Well, how old is your boys,your children?|qw
-B|Well, I,and then a daughter that's thirteen.well, I have, um, a son that's, uh, going to be eleven here pretty soon,|sd
+A|Well, how old is your boys, your children?|qw
+B|Well, I, well, I have, um, a son that's, uh, going to be eleven here pretty soon, and then a daughter that's thirteen.|sd
 A|Uh-huh.|b
-B|So, they're, they're getting old enough to where they can help out with a campfire and,cooking and, and all that kind of stuff too.|sd
+B|So, they're, they're getting old enough to where they can help out with a campfire and, cooking and, and all that kind of stuff too.|sd
 A|Oh, yes.|ba
 A|Yeah.|b
 A|Yes.|b
@@ -175,7 +175,7 @@ B|and it got all into his eye|sd
 B|and it was really swollen|sd
 B|and, uh, so they had to give him shots and everything,|sd
 B|so.|%
-B|oh, well, maybe next time he'll stay away from those particularor what, bushes, whatever they aretrees,|sd
+B|oh, well, maybe next time he'll stay away from those particular trees, or what, bushes, whatever they are|sd
 A|Yeah,|b
 A|yes.|b
 A|Yes.|b
@@ -183,7 +183,7 @@ A|Oh.|b
 A|But I have, uh, brother-in-law and a sister, you know, that just really just camp.|sd
 A|You know, they love to go camping.|sd
 B|Uh-huh.|b
-A|They could, they would all the time they wanted, you know,wanted to because there's nothing holding them back.|sd
+A|They could, they would all the time they wanted, you know, wanted to because there's nothing holding them back.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|But I'm just not that involved in it.|sd
@@ -191,15 +191,15 @@ B|No,|aa
 B|now I like to go out like several times a year.|sd
 A|Yeah.|b
 B|But not on a, on the regular basis.|sd
-B|I have some friends who go out every single weekend,when, you know, in the season.|sd
+B|I have some friends who go out every single weekend, when, you know, in the season.|sd
 A|Oh.|b
 A|Uh-huh.|b
-B|Uh, and, and I just couldn't do that,you know.|sd
-A|Me,I haven't really as far as entertainment,|sd
-A|I don't know what you would do everyyou know.|sd
+B|Uh, and, and I just couldn't do that, you know.|sd
+A|Me, I haven't really as far as entertainment,|sd
+A|I don't know what you would do every you know.|sd
 B|Yeah,|b
 B|yeah.|b
-A|But I guess, my entertainment's,television, I guess|sd
+A|But I guess, my entertainment's, television, I guess|sd
 B|Just getting away.|^2
 B|Yeah,|b
 B|right,|b
@@ -211,7 +211,7 @@ B|and they'll pack up|sd
 B|and, you know, and then they'll leave,|sd
 B|and I'm just going, you know,|sd
 B|by Friday night I just want to crash, you know,|sd
-B|and I want to go home and, you know, do all that,and then, uh, get out on the road to boot,|sd
+B|and I want to go home and, you know, do all that, and then, uh, get out on the road to boot,|sd
 A|Oh, I don't either|sd
 B|so.|%
 A|Uh-huh.|b

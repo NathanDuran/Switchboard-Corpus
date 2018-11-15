@@ -12,7 +12,7 @@ A|so. Um, anyway, let me press one.|oo_co_cc
 B|Okay|aa
 A|Okay, um,|b
 A|let me see, I think we've only planned one family reunion in our life,|sd
-A|sowe don't do this too often.|sd
+A|so we don't do this too often.|sd
 B|I.|%
 A|Um, most of my family's in California,|sd
 A|but my husband's is in San Antonio,|sd
@@ -38,11 +38,11 @@ A|But it, it just kept growing and growing and growing and growing,|sd
 A|and we're going, Oh, my gosh.|sd
 A|So.|%
 B|Well you have, you have|sv
-B|the family lives too close together, they see each other too often they don't  take that kind of thing seriously.|sv
+B|the family lives too close together, they see each other too often  they don't  take that kind of thing seriously.|sv
 A|Uh-huh,|aa
 A| basically. |aa
 A|Yeah.|b
-B|And if, uhuh, they come from far away, it's, uh, it, it, they take it more seriously|sv
+B|And if, uh uh, they come from far away, it's, uh, it, it, they take it more seriously|sv
 A|Yeah.|b
 B|and,|%
 A|Uh-huh,|aa
@@ -66,9 +66,9 @@ B|it is.|sd
 A|And I'm, I'm sure they're a lot more organized too, because they've done it before.|sv
 B|Yeah,|aa
 B|and it's, it's just something that they, they plan on doing every summer.|sd
-B| They just have a weekend picnic,|sd
+B| They just have  a weekend picnic,|sd
 A| That's great. |ba
-B|and every year everyone askswhen is it happening and where is it happening|sd
+B|and every year everyone asks when is it happening and where is it happening|sd
 A|Oh.|b
 A|Yeah.|b
 B|and they just plan on being here.|sd
@@ -78,12 +78,12 @@ A| Yeah,|%
 A|well that's great. |ba
 B| Yeah,|b
 B|they,  they had a family reunion for, uh, well, for my mother-in-law at her seventy-fifth birthday,|sd
-B|and they managed to get just about everybody, everybody into town, uh, last Novemberincluding a number of people from out in California.|sd
+B|and they managed to get just about everybody, everybody into town, uh, last November including a number of people from out in California.|sd
 A|Uh-huh.|b
 A|Oh.|b
-B|So it was a, it was good, it, uhit worked out very well.|sd
+B|So it was a, it was good, it, uh it worked out very well.|sd
 A|Uh-huh.|b
-B|One interesting thing that they did at the time is they, um, they videotaped the, the whole shebangwhich, it made a nice remembrance of, of the entire party.|sd
+B|One interesting thing that they did at the time is they, um, they videotaped the, the whole shebang which, it made a nice remembrance of, of the entire party.|sd
 A|Uh-huh.|b
 A|Yeah,|aa
 A|more people want to come back again.|bf
@@ -103,7 +103,7 @@ B|Yeah,|aa
 B|I, I can go for that.|sd
 B|What,|%
 B|what do,|%
-B|I guess interesting if you had a, a, a very extended family that, that kind of involved a lot of people thatcousins and things that you don't really know, that you've never met, it'd be interesting to meet a lot of those people.|sv
+B|I guess interesting if you had a, a, a very extended family that, that kind of involved a lot of people that cousins and things that you don't really know, that you've never met, it'd be interesting to meet a lot of those people.|sv
 A|Uh-huh.|b
 A|Yeah.|b
 B|Uh, I don't know how you would go about, uh, getting them together,|sd

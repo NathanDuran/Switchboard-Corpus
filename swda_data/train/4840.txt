@@ -3,7 +3,7 @@ A|well, we just got our income tax return|sd
 A|and I'm perfectly happy.|sd
 A|What about you|qo
 B|Well, let's see.|^h
-B|I haven't got mine yet because my parents are getting all that stuff at, uh, at homein the Bay area.|sd
+B|I haven't got mine yet because my parents are getting all that stuff at, uh, at home in the Bay area.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|So, I'm not sure how much I'm getting back|sd
@@ -24,8 +24,8 @@ B|Uh-huh.|b
 A|Because it's not anything like the way it was when I was young and small and a child.|sd
 A|So, you know, that, that's a scary part too, that you have to think about.|sv
 B|Yeah.|aa
-B| And, and like, as time goes on, you know, things get more expensive|sv
-B|and because we were increasingly complex society thatday by day things get more, uh, things get more expensive as well as more complex.|sv
+B| And, and  like, as time goes on, you know, things get more expensive|sv
+B|and because we were increasingly complex society that day by day things get more, uh, things get more expensive as well as more complex.|sv
 A|Uh-huh.|b
 A|Yeah.|b
 B|And, you know, taxes are one of the ways to help pay for a lot of the things that are needed in this society.|sd
@@ -33,7 +33,7 @@ A|Yeah.|b
 B|I mean, everything from, you know, from medicare to, uh, to social security to, uh, to feeding the to, uh, to, you know, feeding the homeless, to maintaining prisons, to maintaining polices or fire departments and things like that.|sd
 B|And it's,|%
 B|now there's more and more things that need attending to and that sort of thing.|sv
-B|And, you knowit's, it's becoming a larger responsibility|sv
+B|And, you know it's, it's becoming a larger responsibility|sv
 A|Uh-huh|b
 B|but someone has to pay for it|sd
 B|and that's us.|sd
@@ -51,10 +51,10 @@ A|I wanted to see that program.|sd
 B|Yeah.|b
 B|And, and, even, even today it's like the amount of taxes that, you know, we're paying for.|sv
 B|But you'd think that we're still in , that|sv
-B|we're still not able to pay off things just becausethe budget's not big enough as it is.|sv
+B|we're still not able to pay off things just because the budget's not big enough as it is.|sv
 A|Oh, I know|aa
 A|Yeah.|b
-B|And,makes you wonder when there's, you know, countries out there that have, you know, tax rates of like close to fifty percent or higher.|sv
+B|And, makes you wonder when there's, you know, countries out there that have, you know, tax rates of like close to fifty percent or higher.|sv
 B|You know, it's like fifty percent of everything you make is already gone before you even get it.|sd
 A|Uh-huh.|b
 B|And that, that's kind of a scary thought.|sv
@@ -66,7 +66,7 @@ A|Uh-huh.|b
 B|And it's good|sv
 B|but it's, it's the price they pay|sd
 A|Yeah.|b
-B|I mean it can be argued one way or another whether economically it's actually good for the country or good for any given country to have that because those countries tend to be, uh, as far as cash flow, a lot, uh, have be, tend to have a much slower cash flowand don't generate a larger a, a large amount of revenue because there's so little, uh, currency flow through out the economic system|sv
+B|I mean it can be argued one way or another whether economically it's actually good for the country or good for any given country to have that because those countries tend to be, uh, as far as cash flow, a lot, uh, have be, tend to have a much slower cash flow and don't generate a larger a, a large amount of revenue because there's so little, uh, currency flow through out the economic system|sv
 A|Uh-huh.|b
 A|Huh.|b
 A|Well you sure do know a a lot|sv
@@ -85,10 +85,10 @@ B|Uh-huh.|b
 A|What do you think about these items that are going to be, uh, taxed even more. Like, uh, tobacco and that kind of thing|qo
 B|I think in a, in a way it's good, in a way it's not.|sv
 B|Uh, but I think in general it's probably good.|sv
-B|I mean, a lot of things like tobacco and alcohol and things like that have been, have been, in the past, uh, have been not taxed because there's been such a large lobby against them,  against the taxes for them. Sponsored by the alcohol and tobacco companies.|sd
+B|I mean, a lot of things like tobacco and alcohol and things like that have been, have been, in the past, uh, have been not taxed because there's been such a large lobby against them,  against  the taxes for them. Sponsored by the alcohol and tobacco companies.|sd
 A| Uh-huh. |b
 A|Uh-huh.|b
-B|And it's things like tobacco are, uh, they're, they're a proven health hazard to  smokers as well as nonsmokers|sd
+B|And it's things like tobacco are, uh, they're, they're a proven health hazard to  smokers  as well as nonsmokers|sd
 A| Yeah. |b
 A|Right.|b
 B|And it's,|%

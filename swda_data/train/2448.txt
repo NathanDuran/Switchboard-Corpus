@@ -4,7 +4,7 @@ B|I'm very much in favor of gun control.|sd
 A|Oh, you are?|qy^d
 B|Yes|ny
 B|I am.|na
-A|Well, this should be very interesting,because I'm against it.|sv
+A|Well, this should be very interesting, because I'm against it.|sv
 B|I don't, I don't mind people owning guns,|sd
 B|I just think it should be a little, you know, a little, a little more regulated.|sv
 A|Well, you know, uh, now here's something that, uh, first occurred to me when they started having all these problems with these automatic, uh, weapons.|sd
@@ -18,18 +18,18 @@ A|I don't understand why we don't enforce the laws we have.|sd
 B|That would certainly help,|sv
 B|I'm sure.|sv
 A|Now this is not just a state law,|sd
-A|this is a federal law,Uh, for fully automatic weapons.controlled by the Treasury Department.|sd
+A|this is a federal law, controlled by the Treasury Department. Uh, for fully automatic weapons.|sd
 B|Uh-huh.|b
 B|Yep.|b
 B|Uh-huh.|b
-A|And, uh, all right, now for instance,in California where they passed the uh, uh, semiautomatic|sd
+A|And, uh, all right, now for instance, in California where they passed the uh, uh, semiautomatic|sd
 B|Uh-huh.|b
 A|or, or, uh, now what was it they called them?|t1
-A|The military version, attack weapons,or something?|qy^d
+A|The military version, attack weapons, or something?|qy^d
 B|Yeah,|ny
 B|right,|na
 B|uh-huh.|ny
-A|Uh, how is that going to affect the, uh, sports weapons? I mean, rifles,that are automatic or semiautomatic?|qw
+A|Uh, how is that going to affect the, uh, sports weapons? I mean, rifles, that are automatic or semiautomatic?|qw
 B|Uh-huh.|b
 B|Yep.|b
 B|I really don't have any problem, Jack, with, you know, uh, people using firearms for sporting purposes.|sd
@@ -39,10 +39,10 @@ B|I am in favor of the seven-day waiting period.|sd
 B|I would like to see that, see that happen.|sd
 B|I,|%
 A|Uh-huh,|aa
-A|well, now, uh, I've got to admit I'm inclined to agree with you thereuh, even though I am a member of the N R A,|sd
+A|well, now, uh, I've got to admit I'm inclined to agree with you there uh, even though I am a member of the N R A,|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
-A|and they are they, their reason being that well, if you let one little law get through, pretty soon one's going to stack up on top of another,and so forth and so on.|sd
+A|and they are they, their reason being that well, if you let one little law get through, pretty soon one's going to stack up on top of another, and so forth and so on.|sd
 B|Right.|b
 B|Yeah,|aa
 B|I understand that.|sd
@@ -50,7 +50,7 @@ A|And you've got to admit that Congress does kind of look at things that way.|ad
 B|Uh-huh,|aa
 B|that's true.|aa
 B|I, I, like I say, I don't have any problem with people using firearms, you know, for sporting purposes or hunting purposes,|sd
-B|I just think it's just may be a little too easy you know, to acquire one. On, on a whim of some sort. |sd
+B|I just think it's just may be a little too easy you know, to acquire one.  On, on a whim of some sort. |sd
 A|Uh,|%
 A| That, that's true. |aa
 A|Uh, now did you hear about the, the control that they have up in Virginia?|qy
@@ -73,7 +73,7 @@ A|And, uh, according to Virginia, it didn't cost all that much.|sd
 B|Uh-huh.|b
 A|and frankly, I, I don't understand why a state doesn't have those records available anyway.|sd
 B|Yeah,|b
-A|Uh, uh,  at least which are available to local police departments.uh, records of, of, uh, known felons|sd
+A|Uh, uh,  at least  uh, records of, of, uh, known felons which are available to local police departments.|sd
 B| yeah,|aa
 B|you would think they would. |sv
 B|Uh-huh.|b
@@ -83,7 +83,7 @@ B|Yeah,|aa
 B|I'm surprised that more states doesn't do that.|sd
 A|Uh, uh, uh, certainly those, those records are available,|sd
 B|Uh-huh.|b
-A|and all they would have to do is expand it.To, uh, uh, well, connect them into a modem somehow.|sv
+A|and all they would have to do is expand it. To, uh, uh, well, connect them into a modem somehow.|sv
 B|Yeah,|aa
 B|right.|aa
 B|Uh-huh.|aa
@@ -107,20 +107,20 @@ B|Yeah,|aa
 B|I agree.|aa
 A|And they don't need that seven-day waiting period.|sd
 B|Uh-huh.|b
-A|Because the whole idea of that waiting period was,so that, uh, it, uh, the police could check up on you.|sd
+A|Because the whole idea of that waiting period was, so that, uh, it, uh, the police could check up on you.|sd
 B|Yep.|b
 A|Well, you know what's going to happen there,|sv
 A|those files are going to back up on somebody's desk, just some of that typical bureaucratic work.|sv
 B|Uh-huh.|b
-A|that's another, uh, uh, thorn in my side,politicians.bureaucratics,|sd
+A|that's another, uh, uh, thorn in my side, bureaucratics, politicians.|sd
 B|Uh-huh.|b
 B|Yeah,|aa
 B|right.|aa
 B|I agree.|aa
 B|Yep,|aa
 B|right.|aa
-B| I was, just thinking there's,|sd
-A| So anyway well, we seem to be one in favor and one against.|sv
+B| I was,  just thinking there's,|sd
+A| So anyway  well, we seem to be one in favor and one against.|sv
 B|yeah,|aa
 B|I guess that's about right,|sv
 A|Although neither one of us are, are, uh, really uh, uh, dyed in the wool.|sv
@@ -169,7 +169,7 @@ B|That's, uh,|%
 A|and I'm looking forward to just traveling.|sd
 B|Sure,|b
 B|I can understand that.|ba
-A|I have four sons scattered all over the country,and a few grandchildren.|sd
+A|I have four sons scattered all over the country, and a few grandchildren.|sd
 B|Uh-huh.|b
 B|Yep.|b
 A|And I'm looking forward to just traveling around visiting them.|sd
@@ -179,7 +179,7 @@ A|Well Charles, good luck to you on your,|fc
 B|Okay.|fc
 B|Nice talking to you.|fc
 A|Yeah,|fc
-A|nice talking to you,too.|fc
+A|nice talking to you, too.|fc
 B|Okay.|fc
 B|Take care.|fc
 A|Take care now.|fc

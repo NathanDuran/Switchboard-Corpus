@@ -6,9 +6,9 @@ B|Uh-huh.|b
 A|How do you dress for work?|qw
 B|Well, uh, uh about the same I dress for school.|sd
 B|I, uh, I am a graduate student|sd
-B|so, I don't have to worry too much about, uh, what I wear too much of the time.Which is nice.|sd
+B|so, I don't have to worry too much about, uh, what I wear too much of the time. Which is nice.|sd
 A|Sure.|b
-B|UhUh, uh, although I do, uh, a lot of,|sd
+B|Uh Uh, uh, although I do, uh, a lot of,|sd
 A|You bet.|ba
 B|I am a speech pathology major|sd
 B|and so I do a lot of clinical work|sd
@@ -52,9 +52,9 @@ A|and he sort of expected me to dress as a professional|sd
 B|Oh, really?|bh
 A|so, uh, it was sort of,|sd
 B|Even the farmers.|qy^d
-A|You beteven back then|na
+A|You bet even back then|na
 B|Oh, wow.|bk
-A|so I sort, uh, been aware of my dress ever since then andtry to look my best,|sd
+A|so I sort, uh, been aware of my dress ever since then and try to look my best,|sd
 B|Uh-huh.|b
 A|but here again I dress casual quite a bit|sd
 A|so,|%
@@ -92,7 +92,7 @@ A|Yes,|aa
 A|it is.|sv
 A|I am, uh, like a Catholic|sd
 A|and the people that go to my Church, you know|sd
-A|Catholics dress very casuala lot of the times.|sd
+A|Catholics dress very casual a lot of the times.|sd
 A|People in jeans and in whatever,|sd
 A|but yet the way I was raised,|sd
 A|I am a converted Catholic,|sd
@@ -104,12 +104,12 @@ B|Uh-huh|b
 B|Uh, yeah.|b
 B|I'm, I am, uh, I go to the Church of Christ.|sd
 B|I have been raised in the Church of Christ|sd
-B|and, uh, but, uh, I, uh, too many times you hear you hear a lot about what what you're, uh, supposed you're supposed to look your Sunday bestuh, uh, and dress and proper attire|sd
+B|and, uh, but, uh, I, uh, too many times you hear you hear a lot about what what you're, uh, supposed you're supposed to look your Sunday best uh, uh, and dress and proper attire|sd
 A|Right.|b
 B|and, uh, and sometimes that really disappoints me, uh, in, uh, when I see in other economic areas like in Kentucky.|sd
 A|Sure.|b
 B|You know, people just don't have that|sd
-B|and they are afraid to go to church or afraid to go  simply because they don't have the clothes to wear.|sd
+B|and they are afraid to go to church or afraid to go  simply because  they don't have the clothes to wear.|sd
 A| But . |%
 A|That is a very good point.|ba
 A|I am from West Virginia|sd
@@ -131,5 +131,5 @@ B|Uh, yeah|ny
 B|a little bit.|sd
 B|Uh, uh of course in the summer if I can get away with it, I wear, uh, uh, a pair of shorts|sd
 B|and that's it.|sd
-B|Run around barefoot,no shirt or anything|sd
+B|Run around barefoot, no shirt or anything|sd
 B|But, uh,|%

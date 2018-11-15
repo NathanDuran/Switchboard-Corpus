@@ -2,7 +2,7 @@ A|Are, are we paying too much in taxes,|qy
 A|and are we getting what we pay for?|qy
 A|What's your opinion?|qo
 B|Well, it's kind of a broad subject, uh,|sv
-B|I,I think there are some areas where we, where we, uh, pretty well, you know, get our money's worth,|sv
+B|I, I think there are some areas where we, where we, uh, pretty well, you know, get our money's worth,|sv
 B|but I, I also think there are a lot of areas especially in, uh, big government, federal government, uh, where we're short changed. Uh, lot of money spent for, uh, things that are not used|sv
 B|and, uh, I was, I was in the Air Force|sd
 B|and I was at, there were, there was equipment at every base I was ever on that was just going to waste.|sd
@@ -25,7 +25,7 @@ A|I'm in, from Texas|sd
 A|and I read, you know, how our politicians voted each week in the paper.|sd
 B|Yeah.|b
 A|And it's, you know, it's interesting how the votes vary|sv
-A|and what they ran on in platformdon't necessarily come true in their voting in the senate or Congress, whatever.|sv
+A|and what they ran on in platform don't necessarily come true in their voting in the senate or Congress, whatever.|sv
 B|Uh-huh.|b
 B|And don't really respond to, uh, people who write them and call them|sv
 B|and, uh, you know, unless they're in the limelight and under pressure|sv
@@ -58,7 +58,7 @@ A|So, we're comparable.|sv
 B|Yeah.|aa
 A|As a matter of fact, I just paid my Richardson taxes because I live in Richardson and supplemented the Robin Hoods very thoroughly, I think.|sd
 B|Yeah,|b
-B|I think we've, uh,Yeah, we have got it on the line don't we.|sv
+B|I think we've, uh, Yeah, we have got it on the line don't we.|sv
 A|Our taxes went up tremendously.|sv
 A|Yes.|aa
 B|And it's not going to get any better.|sv
@@ -72,7 +72,7 @@ A|Yes.|b
 B|But, this, you know, this, uh,|%
 B|I think living in Richardson, we're kind of spoiled because I think we get, we come closer to getting our money's worth as far as the city is concerned, I think than probably any, any city in the country.|sv
 A|Yes,|aa
-A|well, did you read in the Dallas paper where they increased the the administrators' pay by thirty three percentafter they laid off all those teachers.|qy
+A|well, did you read in the Dallas paper where they increased the the administrators' pay by thirty three percent after they laid off all those teachers.|qy
 B|Is that incredible?|bh
 B|That's, that's the biggest mess I've ever heard of.|sd
 B|You know, how can you, how can you justify raising anybody's salary if you, you know, if you have to lay people off?|qh
@@ -87,7 +87,7 @@ B|and I don't know about administrators.|sd
 B|I, I'm semiretired|sd
 B|and I was, I was an administrator,|sd
 B|so I, you know, I don't get a raise anymore.|sd
-B|I just,I, I work part-time and just get, uh, you know,|sd
+B|I just, I, I work part-time and just get, uh, you know,|sd
 A|Okay|bk
 B|my pay doesn't change.|sd
 A|Are you on the early retirement?|qy

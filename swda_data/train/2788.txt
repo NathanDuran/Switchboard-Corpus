@@ -19,7 +19,7 @@ A| Uh-huh. |b
 B| so,  we could, you know,|%
 B|we tried to find him someplace where he could learn something.|sd
 A|Right.|b
-B|And it was, uh, mediocre  expensive,|sd
+B|And it was, uh,  mediocre  expensive,|sd
 A| But, |%
 B|it wasn't really that expensive,|sd
 A| Uh-huh. |b
@@ -40,10 +40,10 @@ A|True,|aa
 A|very true.|aa
 A|It's,|%
 B|You know, my wife works|sd
-B|so, it  costs us more for her to stay home more than it does for him to go to the baby-sitter|sd
+B|so,  it  costs us more for her to stay home more than it does for him to go to the baby-sitter|sd
 A| Uh-huh. |b
 B|so. We try to,|sd
-A|If I had any children I would, uh, I hope that I'll be in a position to stay home with my child because I'm not real, uh, uh, trusting of a lot of people, uh, especially today.|sd
+A|If I had any children I would, uh, I hope that I'll be in a position to stay home with my child because I'm not real, uh, uh, trusting of a lot of people,  uh, especially today.|sd
 B| Yeah,|b
 B|see I don't know, |h
 A|People,|%
@@ -52,9 +52,9 @@ A|and I just see different things all the time,|sd
 B| Yeah. |b
 A| and  people are just crazy these days.|sv
 A|They're crazy|sv
-A|and,  and I don't, you know,|h
+A|and,   and I don't, you know,|h
 B| Yeah. |b
-A|it takes me a, takes me a long time to just trust someone as a friend, much  less to, you know, trust someone with my, with my child.|sd
+A|it takes me a, takes me a long time to just trust someone as a friend,  much  less to, you know, trust someone with my, with my child.|sd
 B| Yeah. |b
 B|Well, see we took our time|sd
 B|and we checked it out,|sd
@@ -66,36 +66,36 @@ B|through other folks where I, where I work,|sd
 B|I work at T I.|sd
 A|Uh-huh.|b
 B|So, through other folks where we worked we found a nice preschool|sd
-B|it was actually at a licensed preschool, you  know,|sd
+B|it was actually at a licensed preschool,  you  know,|sd
 A| Uh-huh. |b
 B|we, had those requirements,|sd
 A| Uh-huh. |b
 B| so, |%
-A|I guess that's the best way, you know, to get, family members.  recommendations  from your friends or,|sv
+A|I guess that's the best way, you know, to get,  recommendations  from your friends or,  family members. |sv
 B| Yeah. |b
 B| I know,|ba
 B|I'm,|%
 B|well, |%
 B|that|%
 B|and, you know, I don't think I would have left him anywhere that would,|sv
-B|I would have stayed home with him first, before  I left him somewhere that, you know,|sd
+B|I would have stayed home with him first,  before  I left him somewhere that, you know,|sd
 A| Uh-huh. |b
-B|they still have unlicensed baby-sitters running around up here you  know, I just, I, I don't think I'd take that chance.|sd
+B|they still have unlicensed baby-sitters running around up here  you  know, I just, I, I don't think I'd take that chance.|sd
 A| Huh. |b
 A|Uh-huh.|b
-B|You know, I think it's out of sight or out of mind,a minute or so. for more than,  for less  than,|sv
+B|You know, I think it's out of sight or out of mind,  for less  than,  for more than,  a minute or so.|sv
 A| Yeah,|b
 A|yeah. |b
-A|I mean you have to be, you've  got to be sure, that these people,|sv
-A|I mean not that they're going to abuse your child or anything, you  know, that  they wouldn't let them drink something or, you know, eat something off the floor, but you just have  to be sure that they're going to be watching them, you know,|sv
+A|I mean you have to be, you've  got to be sure,  that these people,|sv
+A|I mean not that they're going to abuse your child or anything,  but you just have  to be sure that they're going to be watching them, you know,  that  they wouldn't let them drink something or, you know, eat something off the floor,  you  know,|sv
 B| But you never know. |^2
 B| Yeah. |b
 B| Yeah. |b
-A|just simple things, that can be harmful. |sd
+A|just simple things,  that can be harmful. |sd
 B| But you, you know,|%
-B|as, as far as child abuse is these days you never know,|sv
+B|as,  as far as child abuse is these days you never know,|sv
 A| Uh-huh. |b
-B| you  don't know who you can trust, and  who you can't, you know.|bf
+B| you  don't know who you can trust,  and  who you can't, you know.|bf
 A| Huh. |b
 A|Then you hear so much, you know, on the news about, uh, child care places|sd
 A|and also, um, senior care facilities, you know, you hear abuse.|sd
@@ -116,7 +116,7 @@ A|I'm,|%
 B|Do you miss that part in your life|qy
 B|or,|%
 A|Uh, no,|nn
-A|I'm only, I'm twenty-three still  have a little bit of time,|sd
+A|I'm only, I'm twenty-three  still  have a little bit of time,|sd
 B| Yeah. |b
 B| Yeah,|b
 B|yeah. |b
@@ -136,9 +136,9 @@ A| Uh-huh. |b
 B| it really is,|sd
 B| it's hard to find good child care,|sd
 A| Uh-huh. |b
-B| and it's hard  to find someplace where you can leave your child and trust that he's, going  to be fine all day long.|sd
+B| and it's hard  to find someplace where you can leave your child and trust that he's,  going  to be fine all day long.|sd
 A| Uh-huh. |b
-A|And you brought up a good point, you know, about  learning,|sd
+A|And you brought up a good point, you know,  about  learning,|sd
 B| And, |%
 A|you just don't want a baby-sitter|sv
 A|you, you would hope that maybe they'd come home and know some of their A B C's or something, you know,|sv
@@ -151,14 +151,14 @@ B|He's in first grade now,|sd
 A| Uh-huh. |b
 B| and he's, you  know, got a second grade reading level and a fourth grade math level.|sd
 A|Huh.|b
-B|So, you know, those early ages when he would, you know, when his mom and dad are at work, you  know, you  know, we could have sent him to anybody, just  child care, and  he's actually in child care in a preschool not,|sd
+B|So, you know, those early ages when he would, you know, when his mom and dad are at work,  and  he's actually in child care in a preschool not,  just  child care,  you  know, we could have sent him to anybody,  you  know,|sd
 A| Yeah. |b
 A| Uh-huh. |b
 A| Right. |b
 A| Uh-huh. |b
-B|there's a lot people at work that would have baby-sat him but sending him to a preschool where he actually learns something, has  paid off not only for us,|sd
+B|there's a lot people at work that would have baby-sat him but sending him to a preschool where he actually learns something,  has  paid off not only for us,|sd
 A| Right. |b
-B|his, his attitude is I think a little bit, tall for a  six year old|sd
+B|his, his attitude is I think a little bit,  tall for a  six year old|sd
 A| Uh-huh. |b
 B|and, you know, but his,|%
 A|Did you take this same, uh, route with your other two children?|qy
@@ -169,7 +169,7 @@ B| so, I don't know. |h
 A|Uh-huh.|b
 A|I was wondering how,|%
 B|I would say, no,|nn
-B|but, you know, all my children, excel,|sd
+B|but, you know, all my children,  excel,|sd
 A| Uh-huh. |b
 B|they're, they're  really good,|sd
 A| Uh-huh. |b
@@ -177,7 +177,7 @@ B| and I guess,  no,|sd
 B|he learns from the older boys too|sd
 B|but,|%
 A|Right.|b
-A|And it helps that he has older brothers, uh, you know,  just to have role models and things like that.|sd
+A|And it helps that he has older brothers, uh,  you know,  just to have role models and things like that.|sd
 B| Yeah,|b
 B|yeah. |b
 B|Yeah,|b
@@ -195,12 +195,12 @@ A| Uh-huh. |b
 B| and,  you know, he's excelled|sd
 B|and it's paying off for him,|sv
 B|it really is.|sv
-B|He's, he is  pretty smart,|sd
+B|He's,  he is  pretty smart,|sd
 A| That's excellent. |ba
 B|sometimes he's a little bit smart mouthed,|sd
 A| Uh-huh|b
 B| but  he is smart you know.|sd
-A|Well, what kid isn't these  days,|qh
+A|Well, what kid isn't  these  days,|qh
 B| Yeah. |b
 A|so.|%
 B|But I think it's important, I think it's really nice to know that you can find someplace,|sv
@@ -209,7 +209,7 @@ A| Uh-huh. |b
 B| but in Lubbock  we have a few that you can send your children to|sd
 B|and they can actually learn something instead of just being baby-sat.|sd
 B|And,|%
-A|Do they have any kind of program like at T I or wherever your wife works, um, some in kind  of day care?|qy
+A|Do they have any kind of program like at T I or wherever your wife works, um,  some in kind  of day care?|qy
 B| No,|nn
 B|not in, |sd
 B|Huh-uh.|nn
@@ -223,7 +223,7 @@ B| so,  no,|nn
 B|we don't get,|sd
 A|So, maybe that will be an option for,|sd
 B|Well, it would be nice, you know, there,|sd
-A|But then I, I foresee that being just a baby-sitting thing not much learning but, you know, kind of somebody to  just watch your kid while your at work.|sd
+A|But then I, I foresee that being just a baby-sitting thing not much learning but, you know,  kind of somebody to  just watch your kid while your at work.|sd
 B| Yeah,|b
 B|there's not,|%
 B|well, |%
@@ -237,12 +237,12 @@ B|You know, and then they had a group of kids|sd
 B|and they put on skits|sd
 B|and they put on plays,|sd
 A| Huh. |b
-B| and  they did the Halloween thing, and  the Valentine's Day things|sd
+B| and  they did the Halloween thing,  and  the Valentine's Day things|sd
 A| Uh-huh. |b
 B|and it's, you know, it was important to us,|sd
 A| Huh. |b
 B| so  we, you know, we took a good look at it and made sure it was going to go that way.|sd
-A|Do you think it would have been better for him to have, um, maybe one continuous teacher, somebody to, that he could, uh, get  attached to|qy
+A|Do you think it would have been better for him to have, um, maybe one continuous teacher, somebody to, that he could, uh,  get  attached to|qy
 B| Um, |b
 A|or is it better the other way with a lot of different,|qrr
 B|No,|nn
@@ -254,7 +254,7 @@ B| you  know, he attached himself to a couple of those,|sd
 A| Right. |b
 B| but  I think his attachments at home|sd
 B|and, you know, he gets the idea of what school is for|sd
-B|and, uh, you know, I have different teachers, here|sd
+B|and, uh, you know, I have different teachers,  here|sd
 A| Huh. |b
 B|and this  person can teach me one thing and this person teach, teach me another|^q
 B|and, no,|nn
@@ -266,11 +266,11 @@ A| Uh-huh. |b
 B| you|%
 A|Right.|b
 A|Yeah,|b
-A|each child is individual, in life  learning and things.|sv
+A|each child is individual,  in life  learning and things.|sv
 B| Yeah,|b
 B|see. |%
 B|But I don't have that experience,|sd
-B|so, I can't say that, you  know, he did well,|ar
+B|so, I can't say that,  you  know, he did well,|ar
 A| Uh-huh. |b
 B|so, I don't think we made too many mistakes.|sd
 A|Right.|b
@@ -287,23 +287,23 @@ B|You know, baby-sat sounds to me like, well, you're here, I guess I'll watch yo
 A|Uh-huh,|b
 A|uh-huh.|b
 A|Uh-huh.|b
-B|You know, maybe I'll clean my house, maybe I'll cook you lunch, maybe  I won't, you know,|^q
+B|You know, maybe I'll clean my house, maybe I'll cook you lunch,  maybe  I won't, you know,|^q
 A| Uh-huh. |b
-A|And they'll probably sit him in front of the television, you know,  while they do other things,|sd
+A|And they'll probably sit him in front of the television,  you know,  while they do other things,|sd
 B|yeah. |b
 A|yeah.|%
 B|Yeah,|b
-B|and I don't, you know, I  don't allow that when he's at home|sd
+B|and I don't, you know,  I  don't allow that when he's at home|sd
 B|so, but we had a good experience,|sd
 B| and  we really did well.|sd
 A|Well, that's good,|ba
 A|that's good.|ba
 B|So, and he did, he served better than we did, you know,|sd
 B|he gained, he actually gained from it, you know,|sd
-B|sure we gained from it, continue  our family because  we were allowed to continue our employment and,|sd
+B|sure we gained from it,  because  we were allowed to continue our employment and,  continue  our family|sd
 A| Uh-huh. |b
 A| Uh-huh. |b
-B|but I think in the long run he gained from it just being somewhere where we learned something, and playing  all day. instead of  just sitting around watching T V,|sv
+B|but I think in the long run he gained from it just being somewhere where we learned something,  instead of  just sitting around watching T V,  and playing  all day.|sv
 A| That's great. |ba
 A| Right,|b
 A|right. |b
@@ -313,24 +313,24 @@ B| Yeah. |b
 A| I  don't know when that will be,|sd
 B| Yeah. |b
 A| but,  um, you know, just really look into,|sd
-A|it will, it will take me a long time to find somewhere I'm sure, as  well as the other children in the center, you know. just because  I, I just want to be, I want to be so positive that, you know, my children are okay,|sd
+A|it will, it will take me a long time to find somewhere I'm sure,  just because  I, I just want to be, I want to be so positive that, you know, my children are okay,  as  well as the other children in the center, you know.|sd
 B| Yeah,|b
 B|well, |%
 B| Yeah. |b
 B|Well, you know, his Mom didn't go back to work until, you know, when he was six months old.|sd
 A|Uh-huh.|b
-B|And we just didn't want to dump him somewhere, and  make him feel like he wasn't wanted.|sd
+B|And we just didn't want to dump him somewhere,  and  make him feel like he wasn't wanted.|sd
 A| Uh-huh. |b
 A|Exactly.|aa
 B|And we wanted his center of attention at home|sd
-B|but, we  did what we could|sd
+B|but,  we  did what we could|sd
 A| Uh-huh. |b
 B|and it, it worked out real well,|sd
-B|I'm glad, we were so careful. |sd
+B|I'm glad,  we were so careful. |sd
 A| It's difficult these day, |sd
 A|It's, it's a lot more difficult these days because you have both parents working a lot of times,|sv
 B| Oh, yeah,|b
-A| and, so, you have  to find day care, whereas, you  know, here,|sv
+A| and, so, you have  to find day care,  whereas, you  know, here,|sv
 B|Most of the time now it's a necessity,|sv
 A| Uh-huh. |b
 B| you  can't afford,|sv
@@ -338,7 +338,7 @@ A| Uh-huh. |b
 B| so,  you know, I'm not making seventy or eighty thousand dollars a year|sd
 A| Uh-huh. |b
 A|No choice,|^2
-A|so child care's a necessity, whereas years ago, you know, the husband basically worked and the wife, basically stayed  home.|sd
+A|so child care's a necessity, whereas years ago, you know, the husband basically worked and the wife,  basically stayed  home.|sd
 B| Yeah,|b
 A| Uh-huh. |b
 A| Uh-huh. |b

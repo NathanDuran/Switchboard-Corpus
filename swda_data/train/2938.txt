@@ -3,15 +3,15 @@ A|Do you have a bunch of factories and stuff out there?|qy
 B|Um, we've got quite a few, actually.|na
 B|What we're more concerned with is the inner pollution in the city.|sd
 A|The, uh,|%
-B|Um, we've actually had some warnings in, uh, Raleighuh, on air pollution.|sd
-A|Oh, you meanfor like smog and stuff?|qy
+B|Um, we've actually had some warnings in, uh, Raleigh uh, on air pollution.|sd
+A|Oh, you mean for like smog and stuff?|qy
 B|Uh-huh,|ny
 B|because of there so many cars,|sd
 B|and we have a belt line around Raleigh where we're trying to divert traffic.|sd
 A|Huh.|%
 B|And, um, you know, it's still, it's just surrounding the city,|sd
 B|and you can actually see it.|sd
-B|There's a couple of, uh, tall buildingsin Raleigh,|sd
+B|There's a couple of, uh, tall buildings in Raleigh,|sd
 A|Uh-huh.|b
 B|and, and you can actually, you know,|%
 B|they're blurred,|sd
@@ -46,7 +46,7 @@ A|Okay.|b
 A|Well, Kentucky's next to Virginia, I'm pretty sure.|sd
 A|Well, I'm from Kentucky,|sd
 A|I should know|sd
-A|but,I don't,|sd
+A|but, I don't,|sd
 A|I'm sorry.|fa
 A|But Kentucky, we use to have severe, I mean, just real cold, cold winters|sd
 B|Uh-huh.|b
@@ -94,11 +94,11 @@ A|that's why I said we, in Kentucky, we,|sd
 A|I don't know,|h
 A|you just get used to the weather,|sv
 A|and of course the people down in south, they they're not used to cold weather and stuff,|sv
-A|and, uh,it just,|%
+A|and, uh, it just,|%
 B|Uh-huh.|b
 A|I don't know,|h
 A|I just laugh|sd
-A|every time they have a, every time they have snow,on the ground everything's closed up.|sd
+A|every time they have a, every time they have snow, on the ground everything's closed up.|sd
 A|And you know, you can have snow on the ground and not be slick on the road|sv
 B|That's true.|aa
 A|But, uh,|%
@@ -115,13 +115,13 @@ A|Uh-huh.|b
 B|and you have that black smoke coming from their tail pipe.|sd
 A|Well, see, they have that, um, what is it a test, or something like that they call it.|sd
 B|Uh-huh.|b
-A|And, uh, that's supposed to cut down on it. |sv
+A|And, uh,  that's supposed to cut down on it. |sv
 B|Well,|arp_nd
 B| supposedly that's supposed to catch it. |sv
 B|But I'll tell you what,|fo_o_fw_"_by_bc
 B|and even these buses, oh lord, it real bad. These buses in Raleigh,|sv
 A|Yeah,|aa
-A|school buses and thecommercial buses,|bf
+A|school buses and the commercial buses,|bf
 B|Oh, yeah.|aa
 A|yeah.|%
 B|I mean, school buses are notorious.|sv
@@ -129,7 +129,7 @@ A|Well, they're burning that diesel fuel is what it is.|sv
 B|Oh, yeah,|aa
 B|yeah.|aa
 A|And, uh, it, it gets bad.|sv
-B|Well, you know what they've started doing is, is instead of the tail pipes being at the bottom of those busesthey've started putting them up at the top,|sd
+B|Well, you know what they've started doing is, is instead of the tail pipes being at the bottom of those buses they've started putting them up at the top,|sd
 A|Uh-huh.|b
 B|and that way it gets above, um, other cars on the road|sd
 A|Well, that's a good idea.|sv
@@ -137,13 +137,13 @@ B|and, uh, it really does make a difference, although it, it settles, you know,|
 B|even if it's at the top and it's a lot of black smoke coming out, it still settles,|sd
 B|and, and, you know, if you're going to be jogging on the side of the road, that's, that's even more miserable.|sv
 B|I would, I'd have to go out to the country to jog.|sd
-A|Well, uh, the, you know, pregnant women aren't supposed to walk along a highwaybecause of that smoke fumes.|sv
+A|Well, uh, the, you know, pregnant women aren't supposed to walk along a highway because of that smoke fumes.|sv
 B|No,|ar
 B|I didn't know that.|sd
 A|When I was pregnant with my first little boy, I had read it,|sd
 A|because back then because I was walking back and forth,|sd
 A|well not back and forth,|ar
-A|I was walking home from, uh, the college I was going toin Kentucky.|sd
+A|I was walking home from, uh, the college I was going to in Kentucky.|sd
 B|Uh-huh.|b
 A|And I was having to walk along the highway.|sd
 A|It was just one day a week.|sd
@@ -151,7 +151,7 @@ A|But it was, in,|%
 A|I, I have no sense of smell,|sd
 A|so I couldn't smell this,|sd
 A|but it would make me sick,|sd
-A|and I'd be real tired anywayalong the highway.just from walking|sd
+A|and I'd be real tired anyway just from walking along the highway.|sd
 B|Um.|%
 B|Uh-huh.|b
 B|Golly, that's, that's bad.|ba
@@ -217,7 +217,7 @@ B|well that's kind of good to know,|sd
 B|because I thought lord, I thought I lived in a halfway decent area.|sv
 A|I think they do that for most everybody.|sv
 B|Um.|%
-A|especially, it's usually for the young children and the older, the old peopleolder old people.|sd
+A|especially, it's usually for the young children and the older, the old people older old people.|sd
 B|Uh-huh.|b
 B|Well you ought to come to North Carolina.|ad
 B|It's a big change|sv
@@ -225,7 +225,7 @@ A|It is?|qy^d
 B|Yeah.|ny
 B|There was no trees where I was from, in Amarillo,|sd
 B|and here they've got the mountains, the beach, the trees, you know,|sd
-B|it'sthey've got streams, rivers, ponds,|sd
+B|it's they've got streams, rivers, ponds,|sd
 A|Oh.|b
 B|it's really pretty here.|sv
 A|Oh, well, this is pretty wooded area down here|sd
@@ -234,7 +234,7 @@ B|Is it?|qy
 A|in a lot of parts,|sd
 A|yeah.|ny
 A|I know Texas is supposed to be flat,|sd
-A|but they've got, you know, down by the Denison Damthere's a lot of, uh,|sd
+A|but they've got, you know, down by the Denison Dam there's a lot of, uh,|sd
 B|Uh-huh.|b
 B|Sherman and Denison,|sd
 B|do you know my grandparents live in Durant?|qy
@@ -315,7 +315,7 @@ A|And I, half the time, well a couple of times I've been interrupted by my littl
 A|I've had to hang up and stuff.|sd
 B|Uh-huh.|b
 A|But I enjoy it.|sd
-A|I talked to people from, well, what, Carolina nowup in, uh, Boston, and New York,|sd
+A|I talked to people from, well, what, Carolina now up in, uh, Boston, and New York,|sd
 B|Uh-huh.|b
 A|well Boston is New York, isn't it?|qy
 A|No.|nn
@@ -337,15 +337,15 @@ A|I do,|sd
 A|I love the Boston accent.|sd
 A|I met a girl from Boston one time.|sd
 A|My husband was in the service,|sd
-A|so we went from Kentucky to Louisianadown here to Texas,|sd
+A|so we went from Kentucky to Louisiana down here to Texas,|sd
 B|Uh-huh.|b
-A|and his family'sdown here.|sd
+A|and his family's down here.|sd
 B|Uh-huh.|b
 A|We're out of the service now.|sd
 B|Oh, I bet you're glad.|qy^d
 A|Yeah,|ny
 A|he got out of it, his unit, right after Panama.|sd
-A|We went to he went to Panamawhen Noriega was doing all that.|sd
+A|We went to he went to Panama when Noriega was doing all that.|sd
 B|Uh-huh.|b
 B|Oh, gosh.|ba
 A|And, uh, he ...|%

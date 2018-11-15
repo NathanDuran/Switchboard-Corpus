@@ -9,9 +9,9 @@ B|How old are your children?|qw
 A|Uh, one's twenty-six|sd
 A|and the other is, uh, twenty, twenty-one.|sd
 B|Uh-huh|b
-A|So they're, uh, uh,They're, they're getting there.|sd
+A|So they're, uh, uh, They're, they're getting there.|sd
 B|Well, they're going to be getting there.|^2
-A|You know,  there's no no, no prospects right away for anything to happen.|sd
+A|You know,  there's no  no, no prospects right away for anything to happen.|sd
 B| Yeah. |b
 B|uh-huh.|b
 B|Oh, I see.|b
@@ -26,7 +26,7 @@ B|And, uh, I, uh,|%
 B|one's in Iowa.|sd
 A|Uh-huh.|b
 B|And, uh, she's, she's a teacher|sd
-B|and what she does is she,teaches at a preschool.|sd
+B|and what she does is she, teaches at a preschool.|sd
 A| Oh, okay. |b
 B| And,  and so she kind of,|%
 B|and they let her bring her, her little daughter in for free.|sd
@@ -44,14 +44,14 @@ B|I mean, the baby is like seventeen months|sd
 B|and she just screams.|sd
 A|Uh-huh.|b
 B|Well even if she knows that they're fixing to get ready to go over there.|sd
-B|They're not even there yetyou know.|sd
+B|They're not even there yet you know.|sd
 A|Uh-huh.|b
 A|Yeah.|b
 A|It's  hard.|sv
 A|We, |%
 B| And,  and then I have my, uh, uh, I have a seven month old granddaughter|sd
 B|and, uh, her mother stays home|sd
-B|and she, they live, they live with us. You know, in, as Orange Countyis really expensive.|sd
+B|and she, they live, they live with us. You know, in, as Orange County is really expensive.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|They live with us|sd

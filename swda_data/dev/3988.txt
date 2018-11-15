@@ -14,13 +14,13 @@ A|I, uh, I don't think I've ever met a type of music I don't like except for, uh
 B|That's exactly me.|sd
 B|The acid rock or the heavy metal.|sd
 A|Yeah.|b
-B|Even some of that I like okaybut not, mostly, as a general rule,|sd
+B|Even some of that I like okay but not, mostly, as a general rule,|sd
 A|Yeah.|b
 B|I don't care for that at all.|sd
 A|Yeah.|aa
 A|I don't enjoy rap too much, either.|sd
 A|That, that doesn't appeal to, uh,  my ears. |sd
-B| Well, as far  as the rap goes, I think there are a few artists that appeal to methemselves|sd
+B| Well, as far  as the rap goes, I think there are a few artists that appeal to me themselves|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|and I like some of their songs.|sd
@@ -28,13 +28,13 @@ A|Oh.|bk
 B|But as, as|%
 B|I agree, with the general rule, I, I wouldn't choose rap either.|sd
 A|Uh-huh.|b
-B|But I, I like to listen to, uh, what you might call pop, easy listeninguh, classical, um,country western, jazz|sd
+B|But I, I like to listen to, uh, what you might call pop, easy listening country western, jazz uh, classical, um,|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|I, I don't,|%
 B|I like, uh, like I said, pretty varied, uh, music.|sd
 A|Uh-huh.|b
-B|I have a couple that my husband really hateslike Billy Holidaythat I listen to,|sd
+B|I have a couple that my husband really hates that I listen to, like Billy Holiday|sd
 A|Oh|b
 B|I really love to listen  to her, |sd
 A| Uh-huh. |b
@@ -53,11 +53,11 @@ A|Well, um, I listen to, uh, specific,|sd
 A|most, most likely I would be listen to, uh, jazz or classical music.|sd
 A|Um I, in college I took, uh, four years of classical guitar,|sd
 A|and I played in the, in the jazz combo all four years.|sd
-A|I play guitarfor the jazz combo.|sd
+A|I play guitar for the jazz combo.|sd
 B|Oh, yeah?|bh
 A|So, uh, that's where my two, my two listening enjoyments are,|sd
 A|but, you know, jazz can get on my nerves after a while.|sd
-A|Uh, you can't just listen to it, you know, to, uh, especially a lot of the deeper stuff,Yeah, unless, unless you're playing it, *sv|sv
+A|Uh, you can't just listen to it, you know, to, uh, especially a lot of the deeper stuff, Yeah, unless, unless you're playing it, *sv|sv
 B|It's too, um, uh,|%
 B|you have to concentrate on it, it seems.|bf
 A|it just, it just doesn't do anything.|sv
@@ -69,7 +69,7 @@ A|My dad is a big blue grass fan,|sd
 A|and so|%
 B|Uh-huh.|b
 A|um, I wouldn't have admitted it when I was in high school|sd
-A|but,I really do like it a lot.|sd
+A|but, I really do like it a lot.|sd
 A|So.|%
 B|I, I like some of it, um,|sd
 B|as far as like the what they now call country western, it doesn't sound like the old country music at all, does it? *two utts??|qy
@@ -80,17 +80,17 @@ B|Um, some of it sounds more like pop music.|sv
 A|Yeah,|aa
 A|uh they've all got, you know, the real screechy electric guitars now.|sv
 B|Oh,|%
-B|yeah,If I'm going to listen to today's country western, I have tapes of like Randy Travis and Clint Black|aa
+B|yeah, If I'm going to listen to today's country western, I have tapes of like Randy Travis and Clint Black|aa
 A|Yeah.|b
-B|andyou knowI even liked Jim Reeves|sd
+B|and I even liked Jim Reeves you know|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Yeah,|b
 A|I, I,|%
-A|yeah,Uh-huh.|b
-B|or, uh, what, what Merle Haggardand Faron Young|sd
+A|yeah, Uh-huh.|b
+B|or, uh, what, what Merle Haggard and Faron Young|sd
 A|Uh-huh.|b
-B|that type of country western isUh, Sons of the Pioneers, you know, stuff like that. *all caps for titleswhat I, I like to listen to.|sd
+B|that type of country western is what I, I like to listen to. Uh, Sons of the Pioneers, you know, stuff like that. *all caps for titles|sd
 A|Sure.|b
 A|Uh-huh.|b
 A|Uh-huh.|b
@@ -101,7 +101,7 @@ B|Yeah,|ny
 B|it seems like you get a lot of original music that way.|sv
 A|Yeah,|aa
 A|you sure do.|sv
-B|I mean, you know, think about like the Twin Peaks and stuff like thatthat's just real recent|sd
+B|I mean, you know, think about like the Twin Peaks and stuff like that that's just real recent|sd
 A|Uh-huh,|b
 A|uh-huh.|b
 A|Yeah.|b
@@ -119,7 +119,7 @@ A|Yeah,|aa
 A|it sure is,|sd
 A|yeah.|aa
 B|Al Jarreau, he's somebody I like.|sd
-B|He's pretty, kind of jazz inspired butbut still kind of pop, too.|sv
+B|He's pretty, kind of jazz inspired but but still kind of pop, too.|sv
 A|Uh-huh.|b
 A|Yeah,|aa
 A|I like his,|sd
@@ -129,9 +129,9 @@ B|and, you know, what I like the most about him, is, I've gone to see him in con
 A|Yeah,|b
 A|sure.|b
 B|I mean, some people sing,|sv
-B|and they have their faced all contorted,like it hurts them or something|sv
+B|and they have their faced all contorted, like it hurts them or something|sv
 B|But he looks like he's having a good time.|sv
-B|I mean, he's up there moving around and smiling like he's happyand, and like all he wants to do is, is make the audience enjoy it, too.|sd
+B|I mean, he's up there moving around and smiling like he's happy and, and like all he wants to do is, is make the audience enjoy it, too.|sd
 A|Uh-huh.|b
 A|Sure.|b
 B|And he, he is real fun to listen to.|sd

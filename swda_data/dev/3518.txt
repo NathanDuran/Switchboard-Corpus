@@ -47,7 +47,7 @@ B|Then, uh, how do you propose that we prohibit those types of individuals from 
 A|Well, we have some laws on the books that, uh, don't allow convicted felons to purchase guns, if I understand correctly.|sd
 A|And, uh, I would agree,|sd
 A|a, a short waiting period would be appropriate to, uh, take care of the heat of the moment type things,|sv
-A|butuh, I think banning semiautomatic twenty-two rifles is a, a bit on the extreme side.|sv
+A|but uh, I think banning semiautomatic twenty-two rifles is a, a bit on the extreme side.|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|And a total ban on guns would just leave guns in the hands of criminals who don't care what the rules are anyway.|sv
@@ -81,17 +81,17 @@ B|Very fine,|sd
 B|very,|%
 A|They don't let you take guns to work, do they?|qy
 B|No,|nn
-B|they,That's, uh, that's prohibited where we work.|sd
-B|Although down here in Texas, uhyou do have a right to, to wear and carry arms with you at all times.|sd
+B|they, That's, uh, that's prohibited where we work.|sd
+B|Although down here in Texas, uh you do have a right to, to wear and carry arms with you at all times.|sd
 A|Uh-huh.|b
-B|That's stillthat's still, you can still do that down here.|sd
-A|Can they be,Is it concealed,|qy
+B|That's still that's still, you can still do that down here.|sd
+A|Can they be, Is it concealed,|qy
 A|or does it have to,|%
 B|Oh, you can't,|ng
 B|no,|nn
-B|it should notbe concealed.|sd
+B|it should not be concealed.|sd
 A|Has to be on the hip?|qy
 B|It has to be on the hip|na
-B|Has to be in sight so that, uh, you know, that you're not, uh, a menace ora problem to individuals.|sd
+B|Has to be in sight so that, uh, you know, that you're not, uh, a menace or a problem to individuals.|sd
 A|Can a|%
 B|How about where you live there in Utah?|qo

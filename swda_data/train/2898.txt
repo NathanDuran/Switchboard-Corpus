@@ -15,7 +15,7 @@ A|I, I would like to talk about, uh, maybe college basketball.|sd
 A|I'd like to see it be more of an amateur sport.|sd
 A|I'd like to see it turned back to like the Southwest Conference down here,|sd
 A|I would like to see Texas and all the teams, uh,|sd
-A|since we're supposed to talk about specific teams, I would like to see them turned back to where the college player plays for four years, and then, they're not, they're not semi-proand just go on and are stolen by the the, the League, you know, in three years,|sd
+A|since we're supposed to talk about specific teams, I would like to see them turned back to where the college player plays for four years, and then, they're not, they're not semi-pro and just go on and are stolen by the the, the League, you know, in three years,|sd
 B|Uh-huh.|b
 A|plus I'd like to see them to be true athletes where they're, they're taking a regular college course.|sd
 B|Yeah.|b
@@ -46,7 +46,7 @@ B|and so, you know, he had to sit, you know,|sd
 B|he was kicked off the team.|sd
 B|And then they've got three players, top, you know, recruiting class this year that|sd
 B|they're going to have to be, well,|sv
-B|the, the prep school they go to before they can playbecause they aren't smart enough.|sd
+B|the, the prep school they go to before they can play because they aren't smart enough.|sd
 A|Oh.|b
 A|Yeah.|b
 B|You know, it's just sad|sv
@@ -64,7 +64,7 @@ A|He should be playing, they all should be playing another team that, that has a
 B|Like.|%
 A|But there are teams that practice sixty hours a|sv
 A|week, they're not going to class at all.|sv
-A|I mean, that's, that'swhat I mean by semi-pro.|sd
+A|I mean, that's, that's what I mean by semi-pro.|sd
 B|Yeah.|b
 A|There's too many semi-pros in college|sv
 A|and I think they ought to get rid of that.|sv
@@ -101,7 +101,7 @@ B|because, it was like, they played so much smarter and more disciplined.|sd
 A|Yeah.|b
 B|I don't know if they won very many games.|sd
 B|But, I don't know,|h
-B|their style of play was so much different fromfrom the teams that just run and gun.|sv
+B|their style of play was so much different from from the teams that just run and gun.|sv
 A|Yeah.|b
 A|Yeah,|b
 A|I like high school football, which again is not the subject,|sd
@@ -127,12 +127,12 @@ A|I wish it'd return to the good old days of the amateur. Everybody play.|sd
 A|That's what I like,|sd
 A|everybody should play, you know.|sd
 A|Yeah.|b
-A|Well again, I'd just like to see the true athlete, the true student athlete,play basketball, you know.|sd
+A|Well again, I'd just like to see the true athlete, the true student athlete, play basketball, you know.|sd
 B|Yeah.|b
 A|I don't like to see the ones that aren't, have no intention of going to class, uh.|sd
 B|Yeah.|b
 A|Then, again just picking a school,|%
-A|Texas isis usually not the best team, you know,|sv
+A|Texas is is usually not the best team, you know,|sv
 B|In|%
 A|because the other teams are, I'm sure practice a lot more,|sv
 A|and S M U down here in footballs and trying to get back, uh, to having true student athletes,|sv
@@ -166,7 +166,7 @@ B|Yeah.|b
 A|But I didn't think that was the objective, to make money.|sv
 A|But it seems like it is.|sv
 B|Huh. It really is.|ba
-B|I know there's a lot of pressure on schools to have a winning program.keep their seats full.To get the best athletes so they can|sd
+B|I know there's a lot of pressure on schools to have a winning program. To get the best athletes so they can keep their seats full.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|You went to Indiana University?|qy
@@ -191,10 +191,10 @@ A|because, uh, you know, not everybody plays of course, but they're still,|sv
 A|it's good|sv
 A|and it's still,|%
 A|you know the kids,|%
-A|and there'sabsolutely no money involved whatsoever,|sd
+A|and there's absolutely no money involved whatsoever,|sd
 B|Yeah.|b
 A|and you know they're going to class, you know.|sv
-B|You heard of,The I U white guard that plays.Have you heard of Damon Bailey.|qy
+B|You heard of, Have you heard of Damon Bailey. The I U white guard that plays.|qy
 A|It, it's, it's real amateur sports.|sv
 A|Huh-uh.|nn
 A|Huh-uh.|nn
@@ -213,7 +213,7 @@ B|You know, the high school games, I mean, that seems to be the big attraction, 
 A|Well, my office mate here, Earl, he, he goes to all the Maverick games|sd
 A|and he loves that.|sd
 A|He, he would be,|%
-A|this is a great question for him, uh,to talk about|sd
+A|this is a great question for him, uh, to talk about|sd
 A|Like he's got,|%
 A|I'm looking at his calendar,|sd
 A|he's got all over the place,|sd
@@ -228,7 +228,7 @@ A|more than five minutes of a basketball game, just seems about,|%
 A|that's it,|sv
 A|of, uh, pro anyway.|sv
 B|Yeah,|aa
-B|seems like you could set the score at a hundredand then give them five minutes to play,|sv
+B|seems like you could set the score at a hundred and then give them five minutes to play,|sv
 A|Yeah.|b
 B|then it'd be the same result.|sv
 A|Yeah.|b
@@ -260,7 +260,7 @@ A|I can't think of what school he went to,|sd
 A|but from.|%
 A|I guess he's been here about five, six, seven years in the pros.|sd
 A|And he was,|%
-A|he never quite achieved the, you know, the super stardom that he hadin, in college,|sv
+A|he never quite achieved the, you know, the super stardom that he had in, in college,|sv
 B|Uh-huh.|b
 A|but, uh, basketball, they have a nice,|%
 A|I don't know if you've down to the sports for Reunion Arena.|qy^d

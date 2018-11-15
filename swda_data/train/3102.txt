@@ -44,12 +44,12 @@ B|But,|%
 A|Yeah,|aa
 A|exactly.|aa
 B|But,|%
-A|I think one of the first things kids ought to look for is, first of all, they have to decide what they want to major in.And then, you know, find a school that's good for that.|sd
+A|I think one of the first things kids ought to look for is, first of all, they have to decide what they want to major in. And then, you know, find a school that's good for that.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 B|Is that why you picked the school you did|qy
 B|or,|%
-A|Well I picked it for a couple of reasons, it was only about an hour and ten minutes away from home,but yet close enough if I ever wanted to go home, I could.so it was far enough away that I was away,|ng
+A|Well I picked it for a couple of reasons, it was only about an hour and ten minutes away from home, so it was far enough away that I was away, but yet close enough if I ever wanted to go home, I could.|ng
 B|Uh-huh.|b
 B|Yeah.|b
 B|Yeah.|b
@@ -59,7 +59,7 @@ A|Yeah,|ny
 A|I lived up at school.|sd
 B|Uh-huh.|b
 A|Yeah.|b
-A|Uh, another reason was, uh, I paid for my entire education.So I had to look for something that I could afford economically.|sd
+A|Uh, another reason was, uh, I paid for my entire education. So I had to look for something that I could afford economically.|sd
 B|Uh-huh.|b
 B|Right.|b
 A|You know, and, uh, Clarion was, oh, it was roughly around six thousand a year.|sd
@@ -81,7 +81,7 @@ A|I always wanted to go to school for nursing, and then at the last minute, I ch
 B|Uh-huh.|b
 A|And I knew that Clarion was known, you know, for two things,|sd
 A|actually, for their,|%
-A|they are known as a teacher's schooland also for their business.|sd
+A|they are known as a teacher's school and also for their business.|sd
 B|Uh-huh.|b
 A|So, that's what I ended up going for is for business.|sd
 B|For business.|bf
@@ -122,7 +122,7 @@ B|but, uh, I think, you know, financially, I am,|sd
 B|there's only so much I can do for them,|sd
 A|Exactly.|aa
 B|and I will say, here's what you have got,|sd
-B|you can either, you know, go a couple of years locally and, you know, then if you want to move off to a more expensive school then, we might be able to handle it. But,otherwise, you can just go for four years, you know, somewhere and I will try to, try to help you. But, uh, I do not know, you know, the financial end of it, like you said.|^q
+B|you can either, you know, go a couple of years locally and, you know, then if you want to move off to a more expensive school then, we might be able to handle it. But, otherwise, you can just go for four years, you know, somewhere and I will try to, try to help you. But, uh, I do not know, you know, the financial end of it, like you said.|^q
 A|Uh-huh.|b
 B|I put my wife through school too.|sd
 B|Of course T I paid for a lot of the tuition and books and stuff, but, uh, it still was a challenge to do.|sd
@@ -130,7 +130,7 @@ B|And, uh, so, I think, you know, financially that's, that's one of the big aspe
 A|Exactly,|aa
 A|yeah.|b
 B|You know, you,|%
-A|It does have a lot of bearing on it, whether you are paying for yourself,or whether your parents are, you know.|sv
+A|It does have a lot of bearing on it, whether you are paying for yourself, or whether your parents are, you know.|sv
 B|Right.|b
 B|Yeah.|b
 B|Well, did you, uh, since you were paid for school yourself, do you think you had a different outlook on it, like your grades and things like that?|qy
@@ -143,7 +143,7 @@ B|Uh-huh.|b
 A|uh, they pretty much got to the point,|sd
 A|well, well, you know, you are at that age|^q
 A|and you are going to have to decide what you want to do.|^q
-A|If you goof,up, it's your fault,|^q
+A|If you goof, up, it's your fault,|^q
 B|Right.|b
 A|it's not ours, you know.|^q
 B|Right.|b
@@ -154,7 +154,7 @@ A|that's not that wonderful either.|sv
 B|Uh-huh,|b
 B|yeah.|b
 A|But, uh, you know, I, I mean I worked,|sd
-A|I did not, you know,goof around,|sd
+A|I did not, you know, goof around,|sd
 B|Yeah.|b
 A|I worked.|sd
 B|Right.|b
@@ -167,7 +167,7 @@ B|Yeah.|b
 B|Well see, I think, you know,|%
 B|I have known a lot of people that would go to school and their parents paid for it|sd
 B|and, and I guess it depends on the way you are raised too,|sd
-B|but if you, if you grow to expect that, you know,you kind of go there as sort of a vacation, you know,|sv
+B|but if you, if you grow to expect that, you know, you kind of go there as sort of a vacation, you know,|sv
 A|Uh-huh.|b
 A|Yeah.|b
 B|I,|%
@@ -182,7 +182,7 @@ A|Oh, wow,|ba
 A|that's really good.|sv
 B|Yeah,|b
 B|so I, you know,|%
-B|and that was hard cause I had two kids,and, you know, a family and everything else,|sd
+B|and that was hard cause I had two kids, and, you know, a family and everything else,|sd
 A|Uh-huh.|b
 B|so I had a lot of different hats to wear all at the same time.|sd
 B|But,|%
@@ -204,22 +204,22 @@ A|and I decided, well I do not want to do accounting anymore,|sd
 A|right|%
 B|Uh-huh.|b
 A|and I thought, oh, my God, I am paying for this myself,|sd
-A|I am not switching completely because,I will put myself a year behind.|sd
+A|I am not switching completely because, I will put myself a year behind.|sd
 B|Right.|b
 B|Yeah.|b
 A|So I switched to finance,|sd
 A|and I liked it better|sd
-A|and I pulled myself from a two oh to a two five, you know,in my last year, my senior year.|sd
+A|and I pulled myself from a two oh to a two five, you know, in my last year, my senior year.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 A|But I would have really liked to go on, uh, secondary ed with math education,|sd
 B|Uh-huh.|b
 A|but it was just the fact I was paying for it myself,|sd
-A|I was not going,to put myself behind another year.|sd
+A|I was not going, to put myself behind another year.|sd
 B|Right.|b
 B|Right.|b
 B|Well my wife, was sort of in the same situation,|sd
-B|she was, she went to school to be a teacher just because she did not really know what else to go,for,|sd
+B|she was, she went to school to be a teacher just because she did not really know what else to go, for,|sd
 A|Uh-huh.|b
 B|and she did not realize until she got to be a senior and was doing her student teaching that she did not like it.|sd
 A|Uh-huh.|b

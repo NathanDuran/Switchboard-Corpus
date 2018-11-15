@@ -26,7 +26,7 @@ A|it's, uh,|%
 A|we have thirty-two hundred square feet,|sd
 A|and it's a brick house,|sd
 A|and price-wise, it was great because he did it all himself, you know,|sd
-A|so that way he could, we could kind of control,in, control it,|sd
+A|so that way he could, we could kind of control, in, control it,|sd
 B|Uh-huh.|b
 A|and, uh, we live in kind of a small town,|sd
 B|Uh-huh.|b
@@ -66,7 +66,7 @@ A|no,|nn
 A|we're,|%
 A|well, uh, our kids are kind of still small now,|sd
 A|and we had thought before maybe a lot older we don't need such a large house that we'll sell it,|sd
-A|but he will not build a second one himself.Because he says age-wise he'll never be able to handle that again|sd
+A|but he will not build a second one himself. Because he says age-wise he'll never be able to handle that again|sd
 B|I see,|b
 B|well,|%
 B|First one is always a bear.|sv
@@ -74,7 +74,7 @@ A|Yes,|aa
 A|yes.|aa
 B|We're having a, an architect friend of mine design a house for us|sd
 B|and that can basically be, be put on any lot, in any state, any you know,|sd
-B|so that's kind of,we just got with him and told him what all we wanted,|sd
+B|so that's kind of, we just got with him and told him what all we wanted,|sd
 A|Oh.|b
 A|Uh-huh.|b
 B|and he's charging us about a buck a square foot to design it|sd
@@ -87,7 +87,7 @@ B|you can actually go out and sub it, if, even if you don't want to get hands on
 A|Uh-huh.|b
 B|you can even just sub it out to concrete and those kind of things|sd
 B|and, and that's kind of the plan I have|sd
-B|so,I'm, uh,|%
+B|so, I'm, uh,|%
 A|Yeah.|b
 B|everyone I talk to, uh, I file in my little book and do other things with it .|sd
 B|That's great,|^q

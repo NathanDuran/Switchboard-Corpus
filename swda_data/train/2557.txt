@@ -6,7 +6,7 @@ A|one lives in Connecticut,|sd
 A|and couple lives in Pittsburg,|sd
 A|and one lives near D. C.|sd
 A|So, uh ...|%
-B|But still sort of up in that general area  of the country|sv
+B|But still sort of up in that general  area  of the country|sv
 A| Yeah |b
 A| Yeah |b
 B| so you  can probably see them  sometimes. |sv
@@ -34,15 +34,15 @@ A|Uh, we have a cycling area set up here at our house,|sd
 A|the Boy Scouts have, and they've done that for years.|sd
 A|Uh, the stores are recycling their plastic bags now.|sd
 A|You can take them back in|sd
-A|and they have bins to collect those.Uh, the aluminum cans.|sd
+A|and they have bins to collect those. Uh, the aluminum cans.|sd
 B|Uh-huh.|b
 A|They try to do the, uh, newspapers|sd
 A|and, uh, they had to close their area down because they couldn't sell it.|sd
 A|They were,|%
-A|what they were doing was shredding it and trying to sell it to farmers for bedding for their animals, and  that type of thing.|sd
+A|what they were doing was shredding it and trying to sell it to farmers for bedding for their animals,  and  that type of thing.|sd
 B| Uh-huh. |b
 A|And that didn't work,|sd
-A|but, but somebody told me that they were charging as much for it as they did for straw.Which is why they couldn't sell it,|sd
+A|but, but somebody told me that they were charging as much for it as they did for straw. Which is why they couldn't sell it,|sd
 B|Oh.|b
 B| Yeah. |b
 A| you  know, because the farmers would buy the straw if it's a, you know, similar price.|sd
@@ -58,7 +58,7 @@ A|Uh, mainly the glass, the aluminum, the plastics.|sd
 B|Uh-huh.|b
 A|Uh,|%
 B|Well, it sounds like they're doing quite a bit.|sv
-A|Well, we're working hard on it because we're fighting also in our area a large hazardous waste incineratorwhich we do not want built|sd
+A|Well, we're working hard on it because we're fighting also in our area a large hazardous waste incinerator which we do not want built|sd
 B|Uh.|b
 A|and, uh, we would like industry to do more before they build these big, huge incinerators.|sd
 B|Yeah.|b
@@ -107,11 +107,11 @@ B| and, and,  uh, even some of those can have plastic tabs on them.|sd
 A|Um.|%
 B|So it's, it's hard to kind of figure out, you know, which things are the right ones.|sd
 A|Um.|%
-B|I mean I, I'll frequently have to look at the list,if it's something that I don't throw away all the time.|sd
+B|I mean I, I'll frequently have to look at the list, if it's something that I don't throw away all the time.|sd
 A|Yeah.|b
 B|But, um, they do that|sd
 B|and then we use, uh, different chemicals and things,|sd
-B|and I know that about how they take care of that sort, of thing.|sd
+B|and I know that about how they take care of that sort,  of thing.|sd
 A| Right,|b
 A|yeah. |b
 B| I, I don't know all the details,|sd
@@ -127,16 +127,16 @@ A|Uh-huh.|b
 B|But in our, uh, city,|sd
 B|well, I live in a suburb of Dallas|sd
 A|Uh-huh.|b
-B|and they have initiated a newspaper recyclingand all you have to do is bundle it.whereby they pick it up from your alley, uh, one day a week|sd
+B|and they have initiated a newspaper recycling whereby they pick it up from your alley, uh, one day a week and all you have to do is bundle it.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Uh-huh.|b
-B|Uh, all around Dallas there are a lot of recycling centers where you can take things, sometimes for moneyum, but most of those are real far away from like where I live at any rate.|sd
+B|Uh, all around Dallas there are a lot of recycling centers where you can take things, sometimes for money um, but most of those are real far away from like where I live at any rate.|sd
 A|Uh-huh.|b
 A|Well it would be inconvenient to, in other words to,|sd
 B|Very inconvenient,|^2
 B|and, um, it's just, you know, hasn't been very practical to get into a lot of those things.|sd
-B|If they would make it something where they, you know, would pick it up at the curb or at least make it, you know, down the street and at the corner, type  of thing, uh,|sd
+B|If they would make it something where they, you know, would pick it up at the curb or at least make it, you know, down the street and at the corner,  type  of thing, uh,|sd
 A| Right, |b
 A|more areas where they would pick it up.|^2
 B|Yeah,|b
@@ -147,10 +147,10 @@ B|Um, our grocery store, like yours, will take the, uh, plastic bags|sd
 B|and they'll also take the, the paper bags back.|sd
 A|Um, uh-huh.|b
 B|But, um, uh, you mentioned the, uh, glass type of stuff.|sd
-B|The reason I ask you about that is years ago, and it, it changed names somewhere along the line, but, um, my dad used to work for Knox Glass in, Knox, Pennsylvania.|sd
+B|The reason I ask you about that is years ago, and it, it changed names somewhere along the line, but, um, my dad used to work for Knox Glass in,  Knox, Pennsylvania.|sd
 A|Oh, well, Knox is  just over the hill here |sd
 B|Oh, really? |bh
-A|They, they no  longer are, you know, active.|sd
+A|They,  they no  longer are, you know, active.|sd
 B| Yeah|b
 B|it's, |%
 B|Yeah,|b
@@ -170,7 +170,7 @@ A|uh-huh.|ny
 B|Yeah,|b
 B|we,|%
 B|I was looking through our photo album not long ago|sd
-B|and they had, had  some pictures and things in there of Knox.|sd
+B|and they had,  had  some pictures and things in there of Knox.|sd
 A|I'll be darn,|ba
 A|yeah.|b
 B|But, uh, I guess that's about it, you know, as far as what goes on that I know about.|sd
@@ -186,18 +186,18 @@ B|Yeah.|b
 A|We, we just don't think, we don't think some of the politicians are really interested in our best interests.|sv
 B|Yeah|b
 B|that's,|%
-A|And, uh, it's, it's been a real struggle and a hardship for a lot of people in our area that we've, have, you know, have been fighting against this thing in trying to have things changed, to  make them more, more right,|sv
+A|And, uh, it's, it's been a real struggle and a hardship for a lot of people in our area that we've, have, you know, have been fighting against this thing in trying to have things changed,  to  make them more, more right,|sv
 B| Uh-huh. |b
 A|but, uh,|%
 B|Well, I think probably more people, you know, would participate if they just made it a little easier,|sv
 A| Uh-huh. |b
-B| and  like you say, make it, um, better for companies to do these things,and get involved in it without huge cost to them,|sv
+B| and  like you say, make it, um, better for companies to do these things, and get involved in it without huge cost to them,|sv
 A|Uh-huh,|b
 A|uh-huh.|b
 A| Right. |b
-B| because  obviously, just to  deal with trash, you know. no  one wants to spend a lot of money,|sv
+B| because  obviously,  no  one wants to spend a lot of money,  just to  deal with trash, you know.|sv
 A| Right. |b
-A| Uh, well,  pay,We're, we're going to pay for that, that whether we pay industry or,|sv
+A| Uh, well,  We're, we're going to pay for that, that whether we pay industry or,  pay,|sv
 B| Yeah,|aa
 B|that's true. |ba
 A|we, we've  already paid industry for like these super fund that's cleaning up.|sd
@@ -206,7 +206,7 @@ A|we pay, all help to pay to have them haul it away from their place,|sd
 A|and where they put it now they found it's not a safe place.|sd
 A|It's leaked|sd
 A|and now they have to clean those up,|sd
-A|and it's our money that's cleaning this, stuff up. |sd
+A|and it's our money that's cleaning this,  stuff up. |sd
 B| That's right. |ba
 A|And now they want to put it in,|sd
 A|they burn it|sd
@@ -219,9 +219,9 @@ A| so why  not pay industry.|qh
 A|This is my feeling.|sd
 A|Why not pay industry a little more,|qh
 B| Uh-huh. |b
-B|Also probably look at packaging and, that  sort of thing.|^2
+B|Also probably look at packaging and,  that  sort of thing.|^2
 A|definitely.|aa
-B|We don't, we don't need three quarters of, what we  get.|sv
+B|We don't, we don't need three quarters of,  what we  get.|sv
 A| Huh-uh,|b
 A|huh-uh. |b
 A|No,|aa
@@ -235,7 +235,7 @@ A|And I know people would be willing to do more, like saving their newspapers an
 A|We don't have anyplace right now that will take them.|sd
 B|Yeah.|b
 B|I, I'm,|%
-B|guess our city, you know, in picking them up must take them somewhere else, and  get something for them.|sd
+B|guess our city, you know, in picking them up must take them somewhere else,  and  get something for them.|sd
 A| Uh-huh. |b
 A|Probably,|%
 A|yeah.|b

@@ -16,7 +16,7 @@ B|Now tell me what you expect from the Mavericks this year.|ad
 A|Well, unfortunately, I don't expect a great deal out of them.|sd
 A|They just have too many problems, too many ailments, too many hurt bones, and maybe too much age at this point.|sv
 A|You know, when Roy Tarpley just now he messed up on them, it just hurt them so bad.|sv
-A|I feellike everyone else,|sd
+A|I feel like everyone else,|sd
 B|Um.|%
 A|I feel sorry for Donald Carter and the members of the team and the management team and everyone else.|sd
 A|It just seems like they were just getting themselves in a position where they could possibly be a final, a final team playing for all of it.|sv
@@ -80,7 +80,7 @@ A|I like their coach.|sd
 A|I really like a lot,|sd
 A|and I just, I think he deserves a good break.|sv
 A|I think he deserves a healthy team so they can really see what he can do for the club.|sv
-A|I think Donald Carter, the owner, I think with all he's invested, he deserves aa healthy team for one year and a good break also.|sv
+A|I think Donald Carter, the owner, I think with all he's invested, he deserves a a healthy team for one year and a good break also.|sv
 B|I really.|%
 B|Yes, sir.|ba
 A|This thing with Roy Tarpley just upset everyone, I think. Fans, owners, management, everyone.|sv
@@ -110,7 +110,7 @@ B|I mean, we're going to have to do something about all of these fabulous salari
 A|Oh, I think you're right.|aa
 A|Everything has been put out of perspective now.|sv
 A|You know, you take a, a young kid Roy Tarpley's age, I'd say he was twenty-one when he came into the league,|sd
-A|and now he's probably an old age of, uh, twenty-five or sixand making all that money,|sd
+A|and now he's probably an old age of, uh, twenty-five or six and making all that money,|sd
 B|Yes, sir.|ba
 A|well, that's, uh, that's quite a, that's a little more of a challenge for a young man than they, they need at that point in their life, I think.|sv
 B|I think you're right.|aa

@@ -18,9 +18,9 @@ B|and, uh,|%
 A|Uh-huh.|b
 B|so, uh, you know, I, I forget from year to year.|sd
 B|I'm getting too old.|sd
-B|But, the, uh,it, the wind's blowing very hard,|sv
+B|But, the, uh, it, the wind's blowing very hard,|sv
 A|Yeah.|b
-B|but I guess, you know, we're just out of March, and, uhwill bring the rain in, uh, April.|sd
+B|but I guess, you know, we're just out of March, and, uh will bring the rain in, uh, April.|sd
 A|Yeah,|b
 A|I know,|sd
 A|The trees are real pretty right now and everything.|sv
@@ -36,12 +36,12 @@ A|It's been bothering me a lot,|sd
 A|but|%
 A|yeah,|%
 A|I think, I think the weather overall has been, um, probably like you said, probably a little bit warm|sv
-A|and,Uh,|%
-B|A little bit warmand a little bit blowy, I think.|sv
+A|and, Uh,|%
+B|A little bit warm and a little bit blowy, I think.|sv
 A|Anyway,|%
 A|so we basically live in the same area|sd
 A|so it's real hard to,|sv
-B|Really hard to make too big of different comparisons,right?|^2
+B|Really hard to make too big of different comparisons, right?|^2
 A|I know.|aa
 B|Yeah.|ny
 A|I just think it's been warm,|sv

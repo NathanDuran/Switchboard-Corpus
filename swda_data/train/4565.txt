@@ -4,7 +4,7 @@ A|We don't even have to cook dinner anymore.|sv
 B|Yes.|aa
 B| Yeah,|aa
 B|really. |aa
-A| Uh,  but I, uh,I've heard, I don't know this for a fact, but I've heard that a lot of families really don't spend a great deal of time together.|sd
+A| Uh,  but I, uh, I've heard, I don't know this for a fact, but I've heard that a lot of families really don't spend a great deal of time together.|sd
 A|That the kids maybe on the average get, uh, something like thirty seconds of quality time with the parents.|sv
 B|That's what I've heard too. Uh,|sd
 A|It seems bizarre to me.|sv
@@ -48,7 +48,7 @@ B|or,|%
 A|Uh, I guess our big outlet is music. Uh|sd
 B|Oh, okay.|bk
 A|our thirteen year old son plays violin|sd
-A|and our,nine year old daughter plays cello|sd
+A|and our, nine year old daughter plays cello|sd
 B|Okay.|bk
 A|and, uh, when our son started playing violin, I took up violin|sd
 A|and when our daughter started playing cello, I took up cello.|sd
@@ -56,9 +56,9 @@ A|So there's plenty of, plenty of interactive time in, uh, practicing. Although 
 A|I guess that's not a big surprise.|sv
 B|No.|aa
 B|Not for kids|sv
-A|But I I imagine with infants you are, most of your time is sort of spent taking care of them rather than interacting with them. Although, |sv
+A|But I I imagine with infants you are, most of your time is sort of spent taking care of them rather than interacting with them.  Although, |sv
 B|Yeah.|aa
-B| Well I, I try and read to them|sd
+B| Well  I, I try and read to them|sd
 B|and I take them to the park and stuff|sd
 A|Oh, you know, reading is so good.|sv
 A|I, uh, I took great pleasure in reading to my kids when they were little|sd
@@ -90,15 +90,15 @@ B|and so I've found that, you know, it's really important to me to get to read.|
 B|To, I like to get away in a book, you know?|sd
 A|Uh-huh,|b
 A|uh-huh.|b
-B|And so I've put a lot more emphasis on that, on my kids to try and, |sd
+B|And so I've put a lot more emphasis on that, on my kids  to try and, |sd
 A|Uh-huh.|b
-A| So how much time do you think you spend with your kids on the average per each day?|qw
+A| So how  much time do you think you spend with your kids on the average per each day?|qw
 B|Oh, I probably spend an hour or two.|sd
 A|Oh that's great.|ba
 B|My wife works at night,|sd
 B|so she does, uh, Tupperware,|sd
 B|so she's gone a lot at nights|sd
-B|and  so I spend a lot of time with them|sd
+B|and  so  I spend a lot of time with them|sd
 A| Oh, I see. |b
 A|how old are your kids again?|qw
 B|They're two and one.|sd

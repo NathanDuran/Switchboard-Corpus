@@ -28,7 +28,7 @@ A|She's got some really nice flower beds.|sd
 A|She puts a lot of time into them.|sd
 A|This is my first year in a, in a house where I'm thinking about doing some flower beds and stuff.|sd
 A|Oh, we, I've always had crude ones at my father's,|sd
-A|butthis is the first time that I really have to landscape a house.|sd
+A|but this is the first time that I really have to landscape a house.|sd
 B|Yeah.|b
 A|His house is more like a farm house.|sd
 A|It's not on a main road.|sd
@@ -39,11 +39,11 @@ B|Yeah.|b
 A|I mean, nothing.|sd
 A|But, um, what I do do, and I've always done it is,|sd
 A|at my father's house, we have, my sister and I have a couple of gardens.|sd
-A|I think we figured out total, this is for vegetablesabout two thirds of an acre.|sd
+A|I think we figured out total, this is for vegetables about two thirds of an acre.|sd
 B|Uh-huh.|b
 A|So we each have a third of an acre we do.|sd
 B|Jeez,|ba
-B|that'smore than, that's more than the property I have right here, that you've got as a, uh, garden,|sd
+B|that's more than, that's more than the property I have right here, that you've got as a, uh, garden,|sd
 A|That's a lot|sv
 B|that's amazing.|sv
 A|Yeah,|b
@@ -58,7 +58,7 @@ A|and we grow a lot of food.|sd
 B|Uh-huh.|b
 A|Uh, I enjoy it,|sd
 A|um, the gardens are kind of old,|sd
-A|you have to step down in them nowbecause we've tilled them so much,|sd
+A|you have to step down in them now because we've tilled them so much,|sd
 B|Uh-huh.|b
 A|but there's still,|%
 A|we, we, my sister uses probably a fertilizer.|sd
@@ -89,7 +89,7 @@ A|Can you hear me.|^q
 B|Yeah,|b
 B|I guess I was having a hard time there too.|sd
 B|I thought it sounded,|sv
-B|well, I guess we better stick to the subjectfor the benefit of the people uh, uh, doing this work.|sv
+B|well, I guess we better stick to the subject for the benefit of the people uh, uh, doing this work.|sv
 A|Yeah.|b
 B|But, uh,|%
 B|yeah,|%
@@ -177,7 +177,7 @@ B|Uh-huh.|b
 A|And I'm going to,|sd
 A|my problem is I want to use those rail ties to build up a planter|sd
 B|Sure.|b
-A|but I don't know if the creosote in the rail ties is going to do something, you know, if I want to grow a tomato or somethingin there|sd
+A|but I don't know if the creosote in the rail ties is going to do something, you know, if I want to grow a tomato or something in there|sd
 B|Right.|b
 B|Well, it seems,|sv
 A|I mean, I guess it'd go with my flowers.|sv
@@ -192,7 +192,7 @@ A|but I don't think I could really eat the fruit off it without wondering.|sv
 A|And I don't know if they make landscape ties that aren't treated.|sd
 B|Well, you can get, um, you can get pressurized lumber,|oo_co_cc
 A|Yeah,|aa
-A|but they put,some kind of chemicals in there too.|ar
+A|but they put, some kind of chemicals in there too.|ar
 B|Oh, that's right.|aa
 B|there's even, there's bad chemicals in those too.|sd
 A|Yeah.|b
@@ -211,7 +211,7 @@ B|Well, you can see it a little better|sv
 B|and it stands out.|sv
 A|Yeah,|b
 A|this house that I have is just a three bedroom ranch|sd
-A|and I can tell you there's nothing around it, cementfoundation all the way around it. Not a shrub, not a bush.|sd
+A|and I can tell you there's nothing around it, cement foundation all the way around it. Not a shrub, not a bush.|sd
 B|Um.|%
 A|There was a lilac tree,|sd
 A|and the landlord cut it down and said, Yeah, that's one thing you have to do is keep that lilac bush cut down so it doesn't rub up against the siding|sd
@@ -229,7 +229,7 @@ A|and then the people that do have them, they spread, and they sprout all over t
 B|Uh-huh.|b
 A|So, they're kind of a pain,|sv
 A|but, you know, people who don't have them think they're great.|sv
-A|And people who do have them,curse.|sv
+A|And people who do have them, curse.|sv
 B|Right.|b
 A|Another thing I have that, um, is weird is the, a locus tree in the back yard.|sv
 A|As a matter of fact there's three of them, very badly trimmed,|sd
@@ -247,7 +247,7 @@ A|So we're going to get a chain saw and limb it extensively so it gets the trees
 B|So it'll give you room to get under it,|bf
 B|sure,|aa
 A|Yeah,|aa
-A|because I can just see brushing up against it, that it wouldrip your skin.|sd
+A|because I can just see brushing up against it, that it would rip your skin.|sd
 B|Yeah.|b
 A|It's worse than a rose bush.|sv
 B|Um.|%

@@ -2,7 +2,7 @@ A|Okay,|fo_o_fw_"_by_bc
 A|go ahead.|ad
 B|Well, I, I, uh, we're going to compare notes. Uh,|sd
 A|Yeah.|b
-B|I, uh, I often desire  to exercise, often believe I should and rarely do.|sd
+B|I, uh, I  often desire  to exercise, often believe I should and rarely do.|sd
 A| Don't do it |^2
 A|Well, I tell you, I, I firmly believe in exercising.|sd
 A|I think it's a,|sv
@@ -14,11 +14,11 @@ A|but this time of year, you can't get much biking in. Uh,|sd
 A|but every morning I use this President's, uh, council of physical fitness|sd
 A|and it really is, uh, uh, it's worth doing,|sv
 A|and you can do it anywhere.|sv
-A|I, I travel quite a bit in myin my business,|sd
+A|I, I travel quite a bit in my in my business,|sd
 B|Yes.|b
 A|and you can do it, you know, wherever you're at|sv
 A|and if you do it,|sd
-A|I, I do it every morningyou know, to go to work.after, uh, usually after breakfast before I take a shower and get, you know, dressed going|sd
+A|I, I do it every morning after, uh, usually after breakfast before I take a shower and get, you know, dressed going you know, to go to work.|sd
 B|Yes.|b
 B|Uh-huh.|b
 A|And, uh, now what I do,|sd
@@ -30,13 +30,13 @@ A|so, what I'm telling you isn't something you go out and do|sd
 A|and, and you'll hurt yourself Uh,|sd
 A|every, every, uh,|%
 A|it takes me about fifteen minutes to do this now because I do it all the time,|sd
-A|but I, uh, I do twenty-five, uh, uh, where you have your arms above your head andand your body twisters touch right, you know, left and right toe|sd
+A|but I, uh, I do twenty-five, uh, uh, where you have your arms above your head and and your body twisters touch right, you know, left and right toe|sd
 B|Uh-huh.|b
 A|and I do, uh, ten, uh, right and left, uh, trunk twisters.|sd
 B|Uh-huh.|b
 A|And I do, uh, about sixty, uh, bicycle, type, uh, leg thrust type things.|sd
 B|Uh-huh.|b
-A|And I do, uh, twenty, uh, leg lifters on each side. You knowlaying on the floor.when you're|sd
+A|And I do, uh, twenty, uh, leg lifters on each side. You know when you're laying on the floor.|sd
 B|Yes.|b
 B|Yes.|b
 B|Right.|b
@@ -50,18 +50,18 @@ A|And then, uh, thirty, uh,|sd
 A|now if you did football, like the old grass drills where you're on your stomach and you|sd
 B|Uh-huh.|b
 A|you know, prone type things, where you're kind of rocking on your stomach type thing,|sd
-A|and that takes about, really about, maybe about thirteen minutes, uhin the morning.|sd
+A|and that takes about, really about, maybe about thirteen minutes, uh in the morning.|sd
 B|Yeah.|b
 B|Now what, what keeps you doing that.|qw
 B|I mean, I, I sometimes start little, much less, much more modest efforts,|sd
 B|but I give up,|sd
 B|I just find them boring.|sd
-B|Hard tofind the time for it on a given day|sd
+B|Hard to find the time for it on a given day|sd
 A|Well, uh,|%
 B|and,|%
 A|Years ago I used to, uh, referee football|sd
 B|Yes.|b
-A|and, uh, to stay in condition, I did that, uh, just as a normal basis, |sd
+A|and, uh, to stay in condition, I did that, uh, just as a normal  basis, |sd
 B| Yes. |b
 A|and, uh, uh, I tell you just by doing it, uh,|sd
 A|well, example, this summer I, I was about fifteen pounds heavier than I wanted to be|sd
@@ -74,26 +74,26 @@ A|I lost fifteen pounds just by doing that because you tighten your stomach musc
 B|Yes.|b
 A|and, you know, you can eat anything you want, drink anything you want,|sv
 A|but you don't, you know,|%
-A|within reason, you know, you can lose weight or maintain your weightand your physical being|sv
+A|within reason, you know, you can lose weight or maintain your weight and your physical being|sv
 B|Uh-huh.|b
 B|Yep.|b
 A|and, uh, I just, you know,|%
 A|you're ready to go at a,|sv
 A|I, I, I think it's really important.|sv
-B|Well, I, I, whenever I do it, I feel good.I mean good that I have done, good because it's, it seems right and good because it has good effects.|sd
+B|Well, I, I, whenever I do it, I feel good. I mean good that I have done, good because it's, it seems right and good because it has good effects.|sd
 A|Good.|ba
-B|But, but it's this maintaining a, a regular habit that I just can'tseem to do.|sd
-A|Well, that's whyand you didn't need elaborate things, you know, where you can make excuses like,Chuck, I think, uh, if you did it on a daily basis|sv
+B|But, but it's this maintaining a, a regular habit that I just can't seem to do.|sd
+A|Well, that's why Chuck, I think, uh, if you did it on a daily basis and you didn't need elaborate things, you know, where you can make excuses like,|sv
 B|Yeah.|b
 A|well, I, I like biking|sd
-A|and during the summer, I'll do, you know, at least seventy-five miles a weekand when I really was doing it maybe a hundred and fifty,|sd
+A|and during the summer, I'll do, you know, at least seventy-five miles a week and when I really was doing it maybe a hundred and fifty,|sd
 B|Uh-huh.|b
-A|butyou can't, you know,|%
+A|but you can't, you know,|%
 B|Uh-huh.|b
 A|there's excuses, weather|sd
 B|Yep.|b
 A|or you don't have time or something like that.|sv
-A|But if you do some basic exercises and you say every morning, just like brushing your teeth you're going to spend fifteen minutes or a half hour.And you get up a half hour earlier|sv
+A|But if you do some basic exercises and you say every morning, just like brushing your teeth you're going to spend fifteen minutes or a half hour. And you get up a half hour earlier|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|and once you start getting into that, one, you just feel good|sv
@@ -113,25 +113,25 @@ B|yes.|aa
 A|I, I sure wish she would.|sd
 A|She's, you know, unfortunately overweight,|sd
 A|and, but she's a wonderful woman|sd
-A|andyou know, no sense getting in arguments with anybody, about it.|sv
+A|and you know, no sense getting in arguments with anybody, about it.|sv
 B|Uh-huh.|b
 B|Yeah,|b
 B|yeah.|b
 B|Well I, I, uh, I keep saying if somebody else would do it with me, I, that would be, little bit of peer pressure would help considerably.|sd
 A|Well,|%
-B|But you seemed to have solved that problem without any, any externalhelp.|sv
+B|But you seemed to have solved that problem without any, any external help.|sv
 A|No problem at all.|aa
-A|And, uh, if you get one of these mats.You know, go to a store, they normally have these exercise, things, these A B C of physical fitness on them.|sd
+A|And, uh, if you get one of these mats. You know, go to a store, they normally have these exercise, things, these A B C of physical fitness on them.|sd
 B|Yeah.|b
 A|One of my kids got me one of those for Christmas one year|sd
 A|and, uh,|%
 B|What, what, what, what's on, what's this mat, I mean,|qw
 A|It, it, it's just an exercise mat that rolls up|sd
 A|so you can put it up, you know, just in the corner.|sd
-B|Is it like the sort of thing you take on a camping trip and sleep on it. |qy
+B|Is it like the sort of thing you take on a camping trip  and sleep on it. |qy
 A| Well, yeah,|ny
 A|you can do that. |sd
-B| I mean, it's that, it's that kind of like half inch of foam or something.|qy^d
+B| I mean, it's that, it's that kind of like  half inch of foam or something.|qy^d
 A| But, but it doesn't, |sd
 A|Yeah,|ny
 A|it's a foam thing,|sd
@@ -143,6 +143,6 @@ B|Yeah.|b
 A|and I don't take it on trips with me.|sd
 A|I, you could,|sv
 A|but, uh, I don't mind, uh, you know,|%
-A|if I do like sit ups, I'll throw a, a towel down or something.You know,|sd
+A|if I do like sit ups, I'll throw a, a towel down or something. You know,|sd
 B|Yeah.|b
 A|so you don't have the abrasive,|sd

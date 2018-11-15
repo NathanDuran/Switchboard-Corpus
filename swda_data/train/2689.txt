@@ -23,7 +23,7 @@ A|Um, I know the bigger cities have problems with it.|sd
 B|Yeah.|b
 A|Uh, I really don't know what we can do about it.|h
 B|Yeah.|b
-A|Unlessthey start enforcing the, uh,|sv
+A|Unless they start enforcing the, uh,|sv
 B|It's rough, because|sv
 A|like: t, t, t, t, uh, start giving more people death sentences.|sv
 A|That's the only thing I can think of.|sv
@@ -49,11 +49,11 @@ A|Um, I'm a senior at Clarion University.|na
 B|Oh, okay.|bk
 B|Because one of the things that I've heard so much about um, lately is the situations on campus where crime has gone up so much.|sd
 B|And apparently many of the, especially like in date rape, many of the, uh, you know, perpetrators seem to be getting off because the universities kind of cover up.|sd
-A|Well,not only that, a lot of them's not even turned in.|sv
+A|Well, not only that, a lot of them's not even turned in.|sv
 B|And they don't really,|sd
-A|You know,what I mean?|qy
+A|You know, what I mean?|qy
 B|Wow.|ba
-A|A lot of timesthe girls don't even report it.|sd
+A|A lot of times the girls don't even report it.|sd
 B|Yeah.|ny
 B|Yeah,|b
 B|yeah.|b
@@ -73,7 +73,7 @@ A|Uh-huh.|b
 B|So that's probably something else they could do.|sv
 A|Yeah.|b
 B|I don't know,|h
-B|it seems like something else in terms of crime is certainly involved with drugs,you know.|sv
+B|it seems like something else in terms of crime is certainly involved with drugs, you know.|sv
 B|And that's like as long as,|%
 B|it almost makes me feel, in a way, like making drugs legalized just to get all the money out of it and not have, you know,|sd
 B|because these kids are saying why should I go to high school|sv
@@ -90,7 +90,7 @@ A|but I, I, I would say that's a bigger problem.|sv
 B|Yeah.|b
 B|Because it ends up,|%
 B|even if it's just kind of like this social drug use, you're still ending up supporting these big drug pin, you know,|sv
-B|huge amounts, thousand and millions and millions of dollars are getting spent, you know, on higher and higher up,on drugs,|sv
+B|huge amounts, thousand and millions and millions of dollars are getting spent, you know, on higher and higher up, on drugs,|sv
 A|Uh-huh.|b
 B|and it's definitely got to do with crime.|sv
 B|You know, you hear about people selling their babies, you know, to get some crack.|sv
@@ -124,7 +124,7 @@ B|It's frustrating.|sv
 A|Uh-huh.|b
 A|Well,|%
 B|Okay.|fc
-B|Well, thanks for talking.|fc
+B|Well,  thanks for talking.|fc
 A| It was nice talking to you. |fc
 B| Have a good day.|fc
 A|You too.|fc

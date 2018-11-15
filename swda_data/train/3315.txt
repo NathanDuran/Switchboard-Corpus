@@ -67,13 +67,13 @@ A|Is that on, what what station?|qw
 B|Uh, I don't even know, to tell you the truth|sd
 A|Oh, okay.|bk
 A|What other shows do you like?|qw
-B|Uh, I prefer OPRAH WINFREYto DONAHUE|sd
+B|Uh, I prefer OPRAH WINFREY to DONAHUE|sd
 A|Oh, yeah.|b
 A|Well, she comes on later|sd
-A|and I usually have kids around so I don't end, end upwatching that one is the only problem I have with it, I guess.|sd
+A|and I usually have kids around so I don't end, end up watching that one is the only problem I have with it, I guess.|sd
 B|Oh.|b
 B|I did watch soap operas,|sd
-B|but I work full-time now and can't catch those anymore.Except when I'm home sick,|sd
+B|but I work full-time now and can't catch those anymore. Except when I'm home sick,|sd
 A|Yeah|b
 B|and now when I watch them, I think, why did I ever watch those?|sd
 A|That's right|aa
@@ -105,7 +105,7 @@ B|Uh-huh.|b
 A|but, uh, it's a little tough because that's when I'm usually making dinner and the kids are wanting to talk all at the same time.|sd
 A|So, usually I don't get a whole lot of news watching in.|sd
 B|Yes,|b
-B|we watch C N N in morning while we're getting readyfor the day and eating breakfast.|sd
+B|we watch C N N in morning while we're getting ready for the day and eating breakfast.|sd
 A|Uh-huh.|b
 B|We'll catch our news that way.|sd
 B|Watch the weather channel so that we know what the weather's going to be like.|sd

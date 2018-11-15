@@ -11,7 +11,7 @@ B|but, uh, I do, I do a combination of, uh, uh, running and weight training|sd
 A|They set that up for you.|qy^d
 B|No,|nn
 B|I, uh, actually I just, uh, joined on my own|sd
-B|and I have been thinking about getting with a, uh, one of their counselors just so see what, uh, they might have to offeras far as, uh, alternatives.|sd
+B|and I have been thinking about getting with a, uh, one of their counselors just so see what, uh, they might have to offer as far as, uh, alternatives.|sd
 A|Uh-huh.|b
 B|But, I pretty much, uh, worked on my own routine.|sd
 A|And, uh, what kind of running do you do?|qo
@@ -91,7 +91,7 @@ B|I think,|%
 A|Uh-huh|b
 B|So do you have any plans of maybe running more when the weather gets nicer?|qy
 A|Well, yeah,|ny
-A|uh, well the weather is nice except for when it rains, you knowI mean in Dallas.|sd
+A|uh, well the weather is nice except for when it rains, you know I mean in Dallas.|sd
 B|Yeah.|b
 B|Yeah.|b
 A|Yeah.|b^m
@@ -108,11 +108,11 @@ B|and, uh, I could do a lot of jump rope and other jumping exercises to try to b
 A|Uh-huh.|b
 B|And, uh, but, it has been a while since I have done that.|sd
 A|Yeah.|b
-A|I do a toe lift and squatsfor that.|sd
+A|I do a toe lift and squats for that.|sd
 B|Right.|b
 A|But you know it, it doesn't, uh, doesn't, uh, accustom your legs to the kind of strength that you have like when you are running for a long time.|sv
 B|Right.|b
-A|They tend to tighten up whenever, whenever you have to do somethingat, uh, uh, great length of time.|sv
+A|They tend to tighten up whenever, whenever you have to do something at, uh, uh, great length of time.|sv
 B|Uh-huh.|b
 B|Yeah,|aa
 B|I, I, uh, that is true.|aa
@@ -137,7 +137,7 @@ B|So, I am looking at changing things a little bit.|sd
 A|Yeah,|b
 A|that is, uh, I have started doing more push ups|sd
 A|and, and it has helped a lot|sd
-A|and then I add sets to itso that I don't like you said, wear it out.|sd
+A|and then I add sets to it so that I don't like you said, wear it out.|sd
 B|Uh-huh.|b
-A|I don't try to push it so the endin one set.|sd
+A|I don't try to push it so the end in one set.|sd
 B|Yeah.|b

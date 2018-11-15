@@ -36,7 +36,7 @@ A|Oh, all these hard questions|^h
 A|Uh, what, white wine?|qy
 B|That would be my guess.|na
 A|Yeah.|b
-B|And,And then, uh, uh, dessert.|sd
+B|And, And then, uh, uh, dessert.|sd
 A|I'm not really a drinker,|sd
 A|so I'm not, I don't know a lot about that.|sd
 B|Something sweet?|qy^d
@@ -49,26 +49,26 @@ B|Well, let's see.|^h
 B|Usually when we have a dinner party, I always, I like to grill.|sd
 A|Oh, you do?|qy^d
 B|So, we might have some cocktails ahead of time and maybe some, uh, some dip, uh, some cheese.|sd
-B|One of our favorites is, uh, to take some, let's see Philadelphia cream cheese I think, is that what comes inAnd pour cocktail sauce over the top of it and then get these little canned shrimp and, uh, wash them and cool them and then dump them in the, uh, sauce and then take crackers those little blocks? |sd
+B|One of our favorites is, uh, to take some, let's see Philadelphia cream cheese I think, is that what comes in  those little blocks?  And pour cocktail sauce over the top of it and then get these little canned shrimp and, uh, wash them and cool them and then dump them in the, uh, sauce and then take crackers|sd
 A| Uh-huh. |b
 A|Yeah.|b
 B|and then you just dip the cracker in the sauce with the clams and the cream cheese|sd
 B|and you have a real nice dip that goes good with a cocktail.|sv
 B|And then I like to barbecue, like steaks or pork chops.|sd
-B|And then we have, uh, oh, lot of times we'll have baked potatoes with themand a salad|sd
+B|And then we have, uh, oh, lot of times we'll have baked potatoes with them and a salad|sd
 A|Uh-huh.|b
 B|and then, uh, I don't know what we usually have for dessert.|sd
 B|Cake sometimes,|sd
 B|but, uh, that's what we would do for a dinner party, I guess.|sd
 A|That sounds good, too.|sv
-B|But that's, I guess when you talk about dinner party, that's probably not, uh, that's more for like when friends comeover.|sv
+B|But that's, I guess when you talk about dinner party, that's probably not, uh, that's more for like when friends come over.|sv
 A|Traditional|sd
 A|right?|^g
 B|Traditional,|sd
 B|yeah.|ny
 A|Yeah.|b
 B|I wouldn't be the big, uh, snotty kind.|sv
-A|I just started,I just really started, uh, uh, learning about that|sd
+A|I just started, I just really started, uh, uh, learning about that|sd
 A|and I bought a Martha Stewart,|sd
 A|I don't know if you've heard of her.|qy^d
 B|Huh-uh.|nn
@@ -76,7 +76,7 @@ A|Her cookbook|sd
 A|and she talks about catering and, uh, you know, goes into, goes into all that and the different types of, uh, uh, different types of parties, you know, different types of foods.|sd
 B|Oh, well, do you work in a, uh, in a setting where you, uh, are in the food business?|qy
 A|Um, my father owns a restaurant.|sd
-B|Oh, in, uh,Is it in Dallas?|qy
+B|Oh, in, uh, Is it in Dallas?|qy
 A|It's, it's just a, uh, a cafe,|sd
 A|so it's not really anything, you know, that I want to,|sd
 A|it's not the same|sd

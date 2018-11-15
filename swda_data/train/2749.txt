@@ -11,10 +11,10 @@ A|Uh-huh,|b
 A|Uh-huh.|b
 B|Uh, I don't, I don't even think that it should be unanimous either. Uh,|sv
 A|Well, what about the idea that one is only guilty, uh, when proven guilty beyond a reasonable doubt?|qo
-A|I thought that was the point of, uh, a unanimous jury was the idea that if everyone agreesthen there shouldn't be any reasonable doubt.|sd
+A|I thought that was the point of, uh, a unanimous jury was the idea that if everyone agrees then there shouldn't be any reasonable doubt.|sd
 B|Uh-huh.|b
 B|Right.|b
-A|But, if there are some people who don't agreeuh, then there must be, it seems to be there must be at least a reasonable doubt for some people.|sv
+A|But, if there are some people who don't agree uh, then there must be, it seems to be there must be at least a reasonable doubt for some people.|sv
 B|Exactly.|aa
 B|Uh-huh.|b
 B|Uh, I don't know.|h
@@ -36,7 +36,7 @@ B|that you're automatically,|sv
 B|no|%
 B|they don't want you on the jury.|sv
 A|Right,|aa
-A|, they don't want anyone withanyone with particular experience or knowledge of the legal system.|sd
+A|, they don't want anyone with anyone with particular experience or knowledge of the legal system.|sd
 B|Exactly.|aa
 B|Uh-huh,|aa
 B|exactly.|aa
@@ -45,10 +45,10 @@ A|And they tend,|sv
 A|and since anyone can get out of it who basically says they don't want to do it,|sv
 A|I mean, you know, it's, it's anyone can get out of jury just about,|sv
 A|and, uh, so, it, it's, uh, it's not really my peers that,|sv
-A|if I were let's say I were arrested falsely or notand put up for a jury I wouldn't feel that, uh, I would be being tried by a jury of my peers.|sd
+A|if I were let's say I were arrested falsely or not and put up for a jury I wouldn't feel that, uh, I would be being tried by a jury of my peers.|sd
 B|Uh-huh.|b
 A|I'd be, I mean I'd be tried by a jury of you know, people who had nothing else to do and weren't very knowledgeable about certain sorts of things,|sv
-A|and, uh,I don't know,|h
+A|and, uh, I don't know,|h
 B|Uh-huh.|b
 A|I, I get a little bit nervous about it,|sd
 A|and, uh,|%
@@ -72,7 +72,7 @@ A|I definitely feel like we need to keep it at least unanimous|sv
 A|because, uh, you know, there's the classic sort of TO KILL A MOCKINGBIRD kind of story where you get, you know,|sv
 B| Uh-huh. |b
 B|Uh-huh.|b
-A|And, uh, it seems to me that if you could just have a simple majority or something you could pretty much you know, browbeat the jury, a  majority, in the, of the, a majority of the jury,|sv
+A|And, uh, it seems to me that if you could just have a simple majority or something you could pretty much you know, browbeat the jury,  a  majority, in the, of the, a majority of the jury,|sv
 B| Uh-huh. |b
 A|that's hard to say.|h
 A|Uh, so, it's, it's, uh, you know, saying, well, look we don't like the way he looks|sv
@@ -85,16 +85,16 @@ A|and they say that, uh, juries are extremely vulnerable to, uh, sort of emotion
 A|the prosecutor will want to, oh, I don't know show the, show the mugging victim, you know, show what the nice person he was and what a family life, and basically get the jury to be very sympathetic with the victim,|sd
 A|and, uh, or, or, uh, if it's a corporation, that was, uh, you know, harming some individual or something like that, they get very much, well, you know,|sd
 A|it's just a big faceless corporation.|sd
-A|Let's, let's make them pay as much as possible.Things like that.|sd
+A|Let's, let's make them pay as much as possible. Things like that.|sd
 B|Uh-huh.|b
 A|So, not,|%
 A|I, I mean, I'm,|%
 A|the problem is I can't guarantee that a judge would be necessarily be much better than a jury,|sv
-A|but I'd be real nervous having a jury not at least fully agree on what the settlements would be, things  like that.|sd
+A|but I'd be real nervous having a jury not at least fully agree on what the settlements would be,  things  like that.|sd
 B| |%
 B|I, uh, I I, I don't think the judge should just make the decision alone.|sv
 A|Yeah.|b
-B|Least with the jury you have twelve people, you knowthat are going to decide, you know,|sd
+B|Least with the jury you have twelve people, you know that are going to decide, you know,|sd
 A|Uh-huh.|b
 A|Well, how about having a jury and a judge work together on it somehow?|qo
 A|I wonder if that's possible?|qy^d

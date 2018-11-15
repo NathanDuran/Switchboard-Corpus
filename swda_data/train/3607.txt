@@ -13,7 +13,7 @@ B|and there are parts of downtown or near downtown Dallas that are under water r
 B|I saw on the news.|sd
 A|Yeah.|b
 A|But you're probably, what, about halfway across the state from San Antonio, though, aren't you?|qy
-B|Well, we're up, uh, we're northand, uh, oh, about, uh, I don't know, uh, eighty to a hundred miles south of the Oklahoma line, I guess.|arp_nd
+B|Well, we're up, uh, we're north and, uh, oh, about, uh, I don't know, uh, eighty to a hundred miles south of the Oklahoma line, I guess.|arp_nd
 A|Yeah.|b
 A|Yeah,|bk
 A|okay.|bk
@@ -21,7 +21,7 @@ A|But you're still getting a good bit of the rain, though.|qy^d
 B|Uh, we did have a little bit of rain yesterday.|ng
 B|So far we haven't had any today.|ng
 B|And, uh, I suppose that means I should be, uh, getting up there to look at that, uh, shingle,|sd
-B|but, uhI had something else planned today,|sd
+B|but, uh I had something else planned today,|sd
 A|Yeah.|b
 B|so I guess I'll let it go awhile.|sd
 A|Yeah.|b
@@ -48,7 +48,7 @@ B|What kind of roof do you have?|qw
 A|Uh, we're in, uh, campus apartment buildings with flat top, uh.|sd
 B|Oh, then you don't have to do too much with it|qy^d
 A|Not too much.|ng
-A|They're just tar and graveltreated flat top roofs.|sd
+A|They're just tar and gravel treated flat top roofs.|sd
 B|Uh-huh.|b
 A|Have you got pretty well pitch on that roof, or is it pretty steep?|qy
 B|Oh, it's pretty steep.|sd
@@ -57,7 +57,7 @@ A|What do you use to keep from sliding off that rascal?|qw
 B|Well, uh, you wear, uh, shoes with good traction, and, and, and try to remember where you are at all times|sd
 A|Yeah,|aa
 A|I imagine, I imagine.|ba
-B|And remember to yell Geronimo,if all else fails.|sd
+B|And remember to yell Geronimo, if all else fails.|sd
 A|Yeah,|b
 A|yeah,|b
 A|that would be just too much of a fall for me.|sd
@@ -80,7 +80,7 @@ B|but, uh, the soil right under this is a clay,|sd
 B|and it, uh,|%
 A|It's settling unevenly?|qy
 B|Well, it, uh, depending on its moisture content, it either swells up or shrinks,|arp_nd
-B|and, uhof course the soil right under the slab retains its moisture a lot longer|sd
+B|and, uh of course the soil right under the slab retains its moisture a lot longer|sd
 A|Yeah.|b
 A|Uh-huh.|b
 B|and so during the dry season you have to water the foundation to keep your foundation from, uh, from, uh, drooping|sd
@@ -104,7 +104,7 @@ B|I don't really know.|h
 A|they plastered over drywall.|qy^d
 B|Yeah,|ny
 B|I think it is.|sd
-A|I remember my parents home is drywalled and then they, uh, almost like a small grade stucco type plastering over the drywallto give it a textured sort of a look,|sd
+A|I remember my parents home is drywalled and then they, uh, almost like a small grade stucco type plastering over the drywall to give it a textured sort of a look,|sd
 B|I expect that's what it is,|sd
 B|yeah.|%
 A|and made for kind of a hard shell on the, on the drywall.|sd

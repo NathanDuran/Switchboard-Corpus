@@ -11,16 +11,16 @@ A|Oh.|b
 A|Are you a Cowboy fan?|qy
 B|Well, I used to be a real big Cowboy fan|no
 B|and, and, uh, I'm not a Jimmy Johnson fan.|sd
-B|Being an OkieI just really don't care much, uh,|sd
+B|Being an Okie I just really don't care much, uh,|sd
 A|Right,|aa
 A|yeah.|aa
 B|it's, it's kind of hard not to be a Cowboy fan, though.|sd
 A|Uh-huh.|b
 B|They've always been, you know, my favorite.|sd
 A|Right.|b
-B|But, uh, andand I guess I still have a soft spot.|sd
+B|But, uh, and and I guess I still have a soft spot.|sd
 A|Yeah.|b
-B|I just hate that that's the coachthat's leading them.|sd
+B|I just hate that that's the coach that's leading them.|sd
 A|Right.|aa
 A|Right.|b
 B|So, now have they,|%
@@ -48,8 +48,8 @@ B|let's, let's dump him.|sv
 A|Right.|aa
 B|First good season, the coach can do no wrong.|sv
 A|Right,|aa
-A|exactly.You know.|aa
-B|But theyboth running, running backs and, and defense.Dallas has always been good ahead, you know, heading good players and|sd
+A|exactly. You know.|aa
+B|But they Dallas has always been good ahead, you know, heading good players and both running, running backs and, and defense.|sd
 A|Uh-huh.|b
 A|Right,|b
 A|yeah,|b
@@ -74,10 +74,10 @@ A|and, uh, see, Detroit, we play them next week,|sd
 A|but, you know, we should beat them.|sv
 A|Everybody feels like we should be able to beat them|sv
 A|so, it's, so everything's, uh, looking real good.|sv
-B|Course, I think, you know, you can't really go by what happened earlier in the seasoninjuries that heal|sv
+B|Course, I think, you know, you can't really go by what happened earlier in the season injuries that heal|sv
 A|Uh-huh.|b
 A|Right.|b
-B|and, you knowand it could be almost a totally new team out there than the one we played.it can be a or injuries that, uh, have newly happened|sd
+B|and, you know it can be a or injuries that, uh, have newly happened and it could be almost a totally new team out there than the one we played.|sd
 A|Right.|b
 A|Right.|b
 A|Yeah,|b
@@ -90,8 +90,8 @@ A|Right,|b
 A|yeah,|b
 A|Troy Aikman,|sd
 A|he got hurt at O U,|sd
-A|so he transferredto U C L A.|sd
-B|Well,Well, he, he really didn't feel like he'd be able to do a lot of passing at O U.|sd
+A|so he transferred to U C L A.|sd
+B|Well, Well, he, he really didn't feel like he'd be able to do a lot of passing at O U.|sd
 A|Right.|b
 B|O U has always been known for their running game.|sd
 A|Uh-huh.|b
@@ -106,9 +106,9 @@ A|Really?|bh
 A|Well, they're doing good tonight.|sd
 B|Are they?|qy
 A|Yeah|ny
-B|I haven'tbeen watching.|sd
-A|they're winning.They're winning forty-one to seven.|sd
-B|Well, goodfor us|ba
+B|I haven't been watching.|sd
+A|they're winning. They're winning forty-one to seven.|sd
+B|Well, good for us|ba
 A|Yeah.|b
 A|Right.|b
 B|Oh.|b

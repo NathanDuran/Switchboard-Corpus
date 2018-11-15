@@ -7,7 +7,7 @@ A|I, you know, I kind of like the Cowboys, too.|sd
 B| Do you? |qy
 A| They've had  some great games in the past.|na
 B|Uh-huh,|b
-B|I, I always enjoy watching the the, Dallas and Pittsburgh together.You know.|sd
+B|I, I always enjoy watching the the, Dallas and Pittsburgh together. You know.|sd
 A|Uh-huh,|b
 A|me too.|aa
 A|It wasn't nearly as much fun when Bradshaw was playing for you guys, I'll tell you.|sv
@@ -23,7 +23,7 @@ B|Oh,|ba
 B|I wonder if he'd ever do that.|qy^d
 A|I don't know,|no
 A|he'd be good at it.|sv
-A|He's such a motivator, he, primarily,  you know, with the quarterbacks.|sv
+A|He's such a motivator, he,  primarily,  you know, with the quarterbacks.|sv
 B| Yes. |aa
 B| Uh-huh. |b
 A| That  would be his specialty.|sv
@@ -43,7 +43,7 @@ A|I don't know.|h
 A| Uh, Houston  has had some wonderful talent, you know, down through the years|sv
 A|and in the earlier years they really had some super teams.|sv
 B|Uh-huh.|b
-B|And Warren Moon, is, is  proving himself quite well right now.|sv
+B|And Warren Moon,  is, is  proving himself quite well right now.|sv
 A| That's right. |ba
 A|He certainly is,|aa
 A|he's very good.|sv
@@ -63,7 +63,7 @@ B|I hope they, they do better.|sv
 B|They, they|%
 B|during the past couple of years they've been doing a little bit better.|sv
 A|Uh-huh.|b
-B|But, uh, I think they still have a little, I think they're still such a, a young team I think they still have a little bit to go before they reach the potential,  that it did when ever Bradshaw was playing.|sv
+B|But, uh, I think they still have a little, I think they're still such a, a young team I think they still have a little bit to go before they reach the potential,   that it did when ever Bradshaw was playing.|sv
 A| Yeah. |b
 A|Oh, yeah,|b
 A|that was just such super team.|sv
@@ -107,7 +107,7 @@ A|I see.|bk
 B|Huh-uh.|b
 A|There's quite a bit of activity now,|sv
 A|of course they had so many, you know, nice, uh, choices because their record was so lousy the last few years.|sv
-A|They picked up, you  know, quite a few of the,|sd
+A|They picked up,  you  know, quite a few of the,|sd
 B| Uh. |%
 A|of course you never know.|sv
 A|The guys they pick, you know, may never play a game.|sv
@@ -124,7 +124,7 @@ A|Probably an old guy that played, probably before you were born|sd
 A|his name was Sam Huff.|sd
 A|He used to play for the New York Giants.|sd
 B|Oh.|b
-A|That was one of the toughest guys that I've ever seen in my life, as  far as, you know, dedication.|sd
+A|That was one of the toughest guys that I've ever seen in my life,  as  far as, you know, dedication.|sd
 B| Really. |b
 A|He just went all out every single play.|sv
 B|Uh-huh.|b
@@ -166,7 +166,7 @@ B|but, I, you know, you couldn't deny that.|sv
 A| Oh yeah. |b
 B| But I  didn't, I thought, you know, well I just didn't really care for either one of them.|sd
 A|Uh-huh.|b
-B|Uh, today, my favorites out of those guys were probably, um, Lambert, and,  uh, Stallworth and Swan.Ham,|sd
+B|Uh, today, my favorites out of those guys were probably, um, Lambert, Ham,  and,  uh, Stallworth and Swan.|sd
 A|Uh-huh.|b
 A| Uh-huh. |b
 A|Uh-huh,|b
@@ -176,7 +176,7 @@ A|They were super players,|sv
 A|they really were.|sv
 B|Uh-huh.|b
 A|They really,|%
-B|I, I, I like, not just with the Pittsburgh, I like watching on Saturday afternoons when they'll have like the plays or the, the best plays from, you  know, from the week or something.|sd
+B|I, I, I like, not just with the Pittsburgh, I like watching on Saturday afternoons when they'll have like the plays or the, the best plays from,  you  know, from the week or something.|sd
 A| Uh-huh. |b
 A|Yeah,|b
 A|highlights, yeah.|sd
@@ -192,10 +192,10 @@ A|well they make mistakes too, I guess.|sv
 B|Yeah,|b
 B|uh-huh,|b
 A| |%
-B| it's  funny that more people don't get hurt. when they're in  the air and they get tackled.You know, especially, I would say the receivers,|sv
+B| it's  funny that more people don't get hurt. You know, especially, I would say the receivers,  when they're in  the air and they get tackled.|sv
 A|Absolutely.|aa
 A| Uh-huh,|b
-A|oh they, They take such a beating.|%
+A|oh they,  They take such a beating.|%
 B|Oh, yeah,|aa
 B|it's funny some of their necks don't get broken.|sv
 A|Absolutely,|aa
@@ -237,7 +237,7 @@ A|Dallas has a guy, uh, his name is Nate Newton,|sd
 A|now he has a real weight problem too.|sv
 A|He fights it every single year,|sv
 A|but, he manages to still keep playing,|sd
-A|but, he  has a terrible weight problem.|sv
+A|but,  he  has a terrible weight problem.|sv
 B| Yeah. |b
 B|Wow.|ba
 A|They|%
@@ -300,7 +300,7 @@ B|to someone else in the Uh, probably around twelve, uh-huh.|t3
 B|Yeah,|b
 B|uh, I didn't, I don't know,|h
 B|I, I just think, you know Marino will get better|sv
-B|and, uh, his team's not as good as what it was when he went to the Super Bowl, you know,|sv
+B|and, uh, his team's not as good as what it was when he went to the Super Bowl,  you know,|sv
 A| That's right. |ba
 B| so.|%
 A|Yeah,|b
@@ -310,12 +310,12 @@ A|But they all do, I guess,|sv
 B|Uh-huh.|b
 B|Yeah|b
 B|That's true,|ba
-B|and with age comes, you know,|sv
+B|and with age comes,  you know,|sv
 A| Yeah,|b
 A|with|%
 A|yeah, |%
 B|the,  the|%
-B|I'm sure arthritis sets in with them, you know. |sv
+B|I'm sure arthritis sets in with them,  you know. |sv
 A|Oh yes,  very much so. |aa
 A|Hip injuries and things like that, yeah.|^2
 B|Right,|b
@@ -347,7 +347,7 @@ B|Um, what do you think of the, uh, L A Raiders,|qo
 B|used to the, the Oakland?|qy
 A|Yeah,|ny
 A|they, they're always branded, you know, as a bunch of outlaws|sv
-A|and, if  their, if their, you know, arrest record won't let won't let them play anywhere else, they seem to go to, they seem to go to the Raiders.|sv
+A|and,  if  their, if their, you know, arrest record won't let won't let them play anywhere else, they seem to go to, they seem to go to the Raiders.|sv
 A| But  that just may be, you know, perceived,|sv
 A|you know perception,|sv
 A|I don't know.|h

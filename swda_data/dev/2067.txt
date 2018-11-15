@@ -14,17 +14,17 @@ A|Well, that's very, can be very, very true.|aa
 B|So, and you know, everybody just gives you a credit card just so you'll spend money|sv
 B|so,|%
 A|Well, that's the idea.|sv
-A|They figure that,at no charge for a whole year that you will use itif they give you card,|sv
+A|They figure that, if they give you card, at no charge for a whole year that you will use it|sv
 B|Yeah.|b
 B|Uh-huh.|b
 A|and,|%
 B|That's right.|aa
 B|See they make money off of it, whether you use it or not.|sv
 A|Absolutely.|aa
-A|Well, the other thing, of course, is the fact that they hope, so that you  would be paying interest.you will not pay your bill at the end of the month,|sv
+A|Well, the other thing, of course, is the fact that they hope, you will not pay your bill at the end of the month,  so that you  would be paying interest.|sv
 B| That's right. |aa
 B|Uh-huh.|b
-A|I use mine a great deal, um, for groceries, for everything that I can and, for the entire thing,then just write one check at the end of the month,|sd
+A|I use mine a great deal, um, for groceries, for everything that I can and, then just write one check at the end of the month,  for the entire thing,|sd
 B|Uh-huh.|b
 B| That's what I do. |sd
 A| right.|%
@@ -58,10 +58,10 @@ B|but, uh, I take the checkbook|sd
 B|so I, you know, I, just, if I need cash, I just tell him|sd
 B|and he gets it out|sd
 B|and I don't even think I know my number|sd
-A|Well, I find it a great use from the standpoint that you don't have to continue to write checks,in order to get cash.|sv
+A|Well, I find it a great use from the standpoint that you don't have to continue to write checks, in order to get cash.|sv
 B|Uh-huh.|b
 B|That's right.|aa
-B|See we, he couldn't do without it, but, you know, since he can just do it right there at work, for nothing  .|sd
+B|See we, he couldn't do without it, but, you know, since he can just do it right there at work,  for nothing  .|sd
 A| Oh, that helps. |^2
 A|Right.|b
 B|Yeah.|b
@@ -73,20 +73,20 @@ B|And that's kind of silly.|sv
 A|Yeah right.|aa
 A|Absolutely.|aa
 B|Yeah.|b
-A|Because they,they figure that, that's correct|sv
+A|Because they, they figure that, that's correct|sv
 B|You're defeating the purpose.|sv
 A|The idea is to use their money|sv
 B|Yeah.|b
-A|And, uh, during that whole month and,then pay it at the end of the month.|sv
+A|And, uh, during that whole month and, then pay it at the end of the month.|sv
 B|Yeah.|b
 B|Yeah,|aa
-B|I mean, I get, I get at least one or two a week.People, you know, sending me a credit card or calling me on the phone and I just say I don't want it.|sd
+B|I mean, I get, I get at least one or two a week. People, you know, sending me a credit card or calling me on the phone and I just say I don't want it.|sd
 A|Uh-huh.|b
 A|Right.|b
 B|Because I,|%
-A|Well, I think that's the only thing you can do, is just say no and mean no and, not be tempted. |sv
+A|Well, I think that's the only thing you can do, is just say no and mean no and,  not be tempted. |sv
 B| Yeah.|aa
-B|It's like, I'd like to know where they determine that I'm such a good credit risk that they can go and say, you get this much credit line. You know.|sd
+B|It's like,  I'd like to know where they determine that I'm such a good credit risk that they can go and say, you get this much credit line. You know.|sd
 A|Well,|%
 B|You've already been preapproved.|^q
 A|oh, absolutely,|aa
@@ -96,11 +96,11 @@ B|Yes.|aa
 B|Everybody in the country is preapproved, I think.|sv
 A|I think so, you're right.|aa
 B|So,|%
-A|Well, it's interesting, uh, that, uh,no matter where you go.of credit cards,people have the, generally the same view.|sv
+A|Well, it's interesting, uh, that, uh, people have the, generally the same view. of credit cards, no matter where you go.|sv
 B|Yeah.|b
 B|Uh-huh.|b
 B|Yeah.|b
-B|And, then, some people they get so wrapped up in them that they find, you know, one day they find, wow, I didn't realize I had this much,you know, I'd spent this much money.|sv
+B|And, then, some people they get so wrapped up in them that they find, you know, one day they find, wow, I didn't realize I had this much, you know, I'd spent this much money.|sv
 A|That much stuff.|^2
 A|Right.|b
 B|And, then they can't meet the minimum monthly payments on it.|sv
@@ -108,7 +108,7 @@ A|Well, and some people use one credit card to pay for another credit card they 
 B|Uh-huh.|b
 A|and, I mean, that does nothing, but exacerbate the entire problem.|sv
 B|Yeah,|aa
-B|it does because you're, you know, you, you're, you know, you're just costing yourself more money because you, if you can't make the monthly, the minimum payment, you're paying interest,again|sv
+B|it does because you're, you know, you, you're, you know, you're just costing yourself more money because you, if you can't make the monthly, the minimum payment, you're paying interest, again|sv
 A|That's right.|ba
 B|so,|%
 A|That's right.|ba

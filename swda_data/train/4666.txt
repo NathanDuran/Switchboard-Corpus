@@ -16,18 +16,18 @@ B|Uh, Orlando, Florida.|sd
 A|Oh, really.|b
 B|So I'm not exactly a real Twins fan from birth or anything.|sd
 B|But,|%
-A|I was born and raised in, uh, near Miami and, uh,  spent the uh, where the Rangers played.last twenty years in Dallas|sd
+A|I was born and raised in, uh, near Miami and, uh,  spent the  last twenty years in Dallas uh, where the Rangers played.|sd
 B| Oh, yeah. |b
 B|Oh.|b
 B|Uh-huh.|b
-A|And, uh,  for the last, uh, what, year, roughly year, I've been in San Francisco where there are two teams. The Oakland A and the San Francisco Giants.|sd
+A|And, uh,  for the  last, uh, what, year, roughly year, I've been in San Francisco where there are two teams. The Oakland A and the San Francisco Giants.|sd
 B|Right.|b
-A|Uh, but honestly, you know, I, uh, I do my duty and watch the sports  on, uh, the newscasts|sd
+A|Uh, but honestly, you know, I, uh, I do my duty and watch the sports  on, uh,  the newscasts|sd
 B|Oh, okay.|b
 A|but that's about all the exposure I have to sports.|sd
 B|Yeah,|b
 B|I haven't followed it real closely at all. Uh, except like I said, last year when the World Series rolled around, I did, I did follow that pretty religiously.|sd
-B|Went out into the bars, you knowdrank a beer, watched the game, had a a good time that way.|sd
+B|Went out into the bars, you know drank a beer, watched the game, had a a good time that way.|sd
 A|Uh-huh|b
 A|sure.|b
 B| But, uh, |%
@@ -72,12 +72,12 @@ B|Well maybe that has, has good tidings for their, uh, for their season coming u
 B|I've actually got a friend that's living in San Francisco right now.|sd
 B|Uh, he's doing the same thing I'm doing which is, basically, uh, an internship.|sd
 B|We, we're both doctoral students|sd
-B|and  he's doing his with I B M|sd
+B|and  he's  doing his with I B M|sd
 A| Huh. |b
 B|and I'm doing mine with Honeywell.|sd
 B|But, uh, I, I think he kind of follows the sports|sd
 B|and I think he's mentioned uh, the Oakland A a couple of times.|sd
-B| Uh he may have watched them and seemed to think that they were pretty good.|sd
+B| Uh  he may have watched them and seemed to think that they were pretty good.|sd
 A| Uh-huh. |b
 A|I guess they are different leagues.|sd
 A|Is that right?|qy
@@ -107,7 +107,7 @@ A| Well they  must play every day then.|sv
 B|Yeah.|b
 B|Well just about,|sd
 B|yeah.|%
-A|I mean eighty-six times twois a hundred sixty.|sd
+A|I mean eighty-six times two is a hundred sixty.|sd
 B|Yeah.|b
 B|And that's, you know,|%
 B|yeah|%

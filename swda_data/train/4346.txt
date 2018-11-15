@@ -21,7 +21,7 @@ A|and, uh, but they're,|%
 A|I have friends that live in the other, the less fortunate or whatever you want to call it part of town|sd
 A|and their schools are kind of rundown and, uh, older|sd
 A|and they don't really offer as much, I don't know, as, uh, the school that my girls are in.|sd
-A|I don't really think that's fair.You know.|sv
+A|I don't really think that's fair. You know.|sv
 B|Uh-huh.|b
 A|Uh, but, you know, I'm happy with what they're in,|sd
 A|so, go ahead|ad
@@ -30,7 +30,7 @@ B|it, it's, it's pretty much what I was going to say|sd
 B|is there's a lot of disparity between different neighborhoods and what sort of schools go in.|sd
 A|Uh-huh.|b
 B|Uh, I grew up in New York|sd
-B|anduh, the place,|%
+B|and uh, the place,|%
 A|Wow.|ba
 B|or not New York City, upstate New York|sd
 A|Uh-huh.|b
@@ -44,15 +44,15 @@ B|and, uh, one of the things that probably would have been better if, is if the 
 A|Right.|b
 B|And that would result in some, uh, could result in more equitable distribution of money|sv
 B|because what was happening was, you know, all the very rich people went out to the, move out to the suburbs|sv
-B|and the city had a very low tax base so they didn't have a lotof money to work with.|sd
+B|and the city had a very low tax base so they didn't have a lot of money to work with.|sd
 A|Uh-huh.|b
 B|As a result, the schools were rundown,|sv
 B|there wasn't as many, you know, of the nice supplies in science class that we would have liked.|sd
-B|There wasn't as many advanced placement courses, uh, when I was a seniorthat some other schools had.|sd
+B|There wasn't as many advanced placement courses, uh, when I was a senior that some other schools had.|sd
 A|Uh-huh.|b
 B|And, uh, it, it,|%
 B|so I, you know, I think that one of the things, one of the ways to, to, to help schools in general, uh, and get them all to a minimum level of, of, of competency almost, would be to expand the size of school districts so you get a wider variety of people,|sv
-B|and the, the problem with that is then, then, then people will either, the rich people will either pull their kids out of the public school and put them in private schools orto get better schools.they'll move farther away|sv
+B|and the, the problem with that is then, then, then people will either, the rich people will either pull their kids out of the public school and put them in private schools or they'll move farther away to get better schools.|sv
 A|Yeah.|b
 A|Right|b
 B|So, you know it, it's kind of, you end up chasing, like a dog chasing its own tail sort of.|sv
@@ -62,13 +62,13 @@ A|and you have got room mothers in every room,|sd
 A|you've got art mothers,|sd
 A|you've got every, every holiday,|sd
 A|there's parties.|sd
-A|All these kids have these really supportive, really supportive parents, always up there forsomething.|sd
+A|All these kids have these really supportive, really supportive parents, always up there for something.|sd
 B|Yeah.|b
 A|You can go to north Tyler to the schools|sd
-A|and the parents might not could even tell you what their kid's teacher's name is.You know,|sd
+A|and the parents might not could even tell you what their kid's teacher's name is. You know,|sd
 B|Uh-huh.|b
 A|uh, that has a, a whole lot to do with it, you know,|sv
-A|as far as their learning, I mean, if the parents aren't, uh, you know, willing to go with the kids and find out what they're learning and if they're learningat all.you know, they really don't have much of a chance|sv
+A|as far as their learning, I mean, if the parents aren't, uh, you know, willing to go with the kids and find out what they're learning and if they're learning you know, they really don't have much of a chance at all.|sv
 B|Uh-huh.|b
 B|Yeah.|b
 B|Why is that?|qw
@@ -85,7 +85,7 @@ A|no,|^q
 A|she's doing fine,|^q
 A|okay, you know, uh,|^q
 A|and I, I know kids that their parents could really give a rip|sd
-A|and the kidsare not motivated.|sd
+A|and the kids are not motivated.|sd
 B|Right.|b
 B|Right.|b
 A|They have no motivation from home,|sv
@@ -97,18 +97,18 @@ A|Uh, just, you know, they, they take a notion to do it,|sd
 A|they do,|sd
 A|and, uh, that doesn't work either, you know,|sv
 A|they have to have guidance|sv
-A|anduh, they can't just have it at school and then come home|sv
+A|and uh, they can't just have it at school and then come home|sv
 B|Uh-huh.|b
 A|and there's nothing, you know.|sv
 B|Yeah,|aa
 B|yeah.|aa
 B|Yeah,|aa
 B|I know that that, that was a big factor for me.|sd
-B|I ended up coming out of, of the public school system very welland was very good education, uh,|sd
+B|I ended up coming out of, of the public school system very well and was very good education, uh,|sd
 A|Uh-huh.|b
-B|ended up getting some scholarships to go to college andwhich has been, you know, which is really nice,|sd
+B|ended up getting some scholarships to go to college and which has been, you know, which is really nice,|sd
 A|Uh-huh.|b
-B|andI think the difference for me was that my parents were, you know, they were definitely, they were always there,|sv
+B|and I think the difference for me was that my parents were, you know, they were definitely, they were always there,|sv
 A|Yeah.|b
 B|was, like, well,|%
 B|yeah,|^q

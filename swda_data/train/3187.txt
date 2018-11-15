@@ -6,7 +6,7 @@ A|Uh-huh.|b
 B|He actually died a few months after that,|sd
 B|and so as,|%
 B|at least in retrospect, it was the right thing to do|sd
-B|because he was either in a nursing home or a hospitalor something else that he would have been spending most of his time in those days.|sd
+B|because he was either in a nursing home or a hospital or something else that he would have been spending most of his time in those days.|sd
 A|Right.|b
 A|And what type of recommendations did you have when you decided where to place him?|qw
 B|Um, well, the, see, uh, well,|%
@@ -18,7 +18,7 @@ B|Or but naturally,|%
 B|no,|ar
 B|it was even Mennonite related,|sd
 B|I'm sorry, it was actually not a particularly great nursing home.|sd
-B|Mostly the thing was that it was available when we needed it, and needed to be put in. because he suddenly got sick|sd
+B|Mostly the thing was that it was available when we needed it, because he suddenly got sick  and needed to be put in. |sd
 A|Yeah,|b
 A| so the convenience, |bf
 A|Right.|aa
@@ -35,7 +35,7 @@ A|She had her own little room and didn't have to share it with anyone and could 
 B|Yeah|b
 A|so.|%
 B|yeah,|b
-B|that's importantI would say.|ba
+B|that's important I would say.|ba
 A|Yes.|aa
 A|And that, the other major factor is that she needs blood transfusions every week to ten days, and would have to be hospitalized a day or two,|sd
 A|so in this facility they can do it right there from her own room|sd
@@ -44,25 +44,25 @@ A|so she didn't have to be transported back and forth.|sd
 A|So, she's been there since August the thirteenth and seems to have adjusted pretty well.|sd
 A|It's not her favorite place to be in.|sd
 A|She'd much rather be here with me.|sd
-A|Butwhen it got to the point I was spending more time at the hospital with her,|sd
+A|But when it got to the point I was spending more time at the hospital with her,|sd
 B|Yeah.|b
 A|and I've got little children here who needed me here|sd
 A|she needed somebody to watch her twenty-four hours a day.|sd
 B|Right,|aa
-B|andthat becomes difficult then.|sv
+B|and that becomes difficult then.|sv
 A|So.|%
 A|She was falling down and hemorrhaging|sd
 A|and, you know, all kinds of physical problems,|sd
 A|so it just became too much for me to handle,|sd
-A|even though I would have liked to have had her stay, with her health being what it was she couldn'tanymore.|sd
+A|even though I would have liked to have had her stay, with her health being what it was she couldn't anymore.|sd
 B|Uh-huh.|b
 B|Yep,|aa
 B|we tried to convince my grandfather to live with us at several points during the last few years of his life,|sd
-B|but he was essentially too proud and too independenthe lived in his own house as long as he couldso that even though his heart was getting incredibly weak and his knees were going bad|sd
+B|but he was essentially too proud and too independent so that even though his heart was getting incredibly weak and his knees were going bad he lived in his own house as long as he could|sd
 A|Yeah.|b
 A|Uh-huh.|b
 A|Yeah.|b
-B|but he was living alone, had an upstairs apartment, could barely make it up the stepsto the top without a great deal of pain,|sd
+B|but he was living alone, had an upstairs apartment, could barely make it up the steps to the top without a great deal of pain,|sd
 A|Oh.|b
 B|and this,|%
 B|eventually things just went too far|sd
@@ -75,7 +75,7 @@ A|but she's accepted it real well now|sd
 B|Right|b
 A|so.|%
 B|well that's, yeah, that's right that the children have some responsibility, too, to their parents and such, to help decide what's the right thing.|sv
-A|Well, we enjoyedhaving her here,|sd
+A|Well, we enjoyed having her here,|sd
 B|And.|%
 A|but we feel she's much safer where she is now.|sd
 A|She still continues to fall,|sd

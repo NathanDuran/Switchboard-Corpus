@@ -1,5 +1,5 @@
 A|Uh, I guess, uh, I've always been kind of interested in, in, space and stuff.|sd
-A|I've,and stuff like that. Uh,the, uh, astronomy books and,read a lot of the,|sd
+A|I've, read a lot of the, the, uh, astronomy books and, and stuff like that. Uh,|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Uh-huh.|b
@@ -39,7 +39,7 @@ B|it's hard to imagine what life was like without it now.|sv
 A|Yeah.|b
 A|I don't know if you ever watch Gallagher , you know,|qy^d
 A|he's one of the comedians|sd
-A|andand, you know, he, he talks a lot on, on Velcro.|sd
+A|and and, you know, he, he talks a lot on, on Velcro.|sd
 B|Uh-huh,|ny
 B|yeah,|ny
 B|I've seen him before.|sd
@@ -54,7 +54,7 @@ A|Yeah,|b
 A|there's, there's a lot of, a lot of little things that have come up .|sv
 A|I know maybe some of the big things that, uh, uh,|%
 A|concentrated foods for one maybe|sd
-A|IUh, I don't know|h
+A|I Uh, I don't know|h
 B|That's right.|aa
 B|That's right.|aa
 A|it's also just I've, I've often pictured, uh, in my mind, you know, what it would be like to just, what would you find if you just kept on going, kept on going?|qh
@@ -62,7 +62,7 @@ B|Uh-huh.|aa
 B|That's true.|aa
 A|Uh, I guess our minds are so, uh, uh, what is it? Uh, finite|sv
 B|Uh-huh.|b
-A|when we try and picture the universe as an infinite object,and it's hard to, to see, you know.|sv
+A|when we try and picture the universe as an infinite object, and it's hard to, to see, you know.|sv
 B|Uh-huh.|b
 B|Yeah.|b
 A|I always thought well, what do you do hit a brick wall, eventually.|sd
@@ -85,7 +85,7 @@ B|Yeah,|b
 B|me too.|sd
 B|I wouldn't even mind being not so much being first but just, uh, get out there and, and just explore.|sd
 A|Yeah.|b
-B|I think, uh, it's in everyone's nature to some degree to want to get out and explore something they haven't,or experience something, you know, indifferent.|sv
+B|I think, uh, it's in everyone's nature to some degree to want to get out and explore something they haven't, or experience something, you know, indifferent.|sv
 A|Huh.|b
 A|I think that's what made us, uh, progress to the state we are is our curiosity.|sv
 B|Oh, sure.|aa
@@ -101,7 +101,7 @@ B|Yeah,|aa
 B|that's true.|aa
 A|I know at work, uh, people always complain to me|sd
 A|I, well, you are always whining|sd
-A|and,it's, I'm always looking for something better. Uh,|sd
+A|and, it's, I'm always looking for something better. Uh,|sd
 B|Yeah|b
 A|There's a better way of doing it than what we are doing it.|sv
 B|That's right.|aa

@@ -1,6 +1,6 @@
 A|return anything.|fo_o_fw_"_by_bc
-B|Well,  really, the only things that I have returned have not been faulty,|sd
-B|it's been because of the size or some  problem like that.|sd
+B|Well,  really,  the only things that I have returned have not been faulty,|sd
+B|it's been because of the size or  some  problem like that.|sd
 A| Right. |b
 B|I really haven't had to return things because they didn't perform the way they were supposed to.|sd
 A|Most the time they have a pretty good guarantee,|sv
@@ -51,7 +51,7 @@ A|Right.|aa
 A|Well, the, the, you know, those little arms are supposed to twist almost any  way|sd
 A|and |%
 B| Any direction. |^2
-A|she's not that strong, that I  would take a grip on it like a bigger kid could, you know.she's not that big of a girl that I think could really|sd
+A|she's not that strong, that I  would  she's not that big of a girl that I think could really take a grip on it like a bigger kid could, you know.|sd
 B| Uh-huh. |b
 B|Right.|b
 B|Yeah.|b
@@ -77,9 +77,9 @@ A| Don't  buy them because you don't need them.|^2
 A|Yes.|b
 B|And, uh, it seems like it's just a, an added tack on.|sv
 B|Plus a lot of the credit cards now, you know, will guarantee,|sv
-B|if you purchase on your credit card you know,  then they put an extended warranty on it if it doesn't work or if you have a problem with it in a certain period of time,|sv
+B|if you purchase on your credit card  you know,  then they put an extended warranty on it if it doesn't work or if you have a problem with it in a certain period of time,|sv
 A|Oh, yeah.  . |b
-B|so it  seems like it's a waste of money.|sv
+B|so it  seems  like it's a waste of money.|sv
 A| Yes. |b
 A|Well, you almost assume if you're going to have problems with it, it's usually before that warranty would expire|sv
 A|any,|%
@@ -89,7 +89,7 @@ B|And like I've even bought, on a recliner once I bought, you know, a, a, an ext
 B|and I never used it.|sd
 A|You never even needed it.|b
 B|And so it seems ridiculous.|sv
-B|And likewashers and dryers and things like that, I've never had one go out.|sd
+B|And like washers and dryers and things like that, I've never had one go out.|sd
 B|In fact, they usually,|%
 B|when they do go out, it's either something my husband can buy the part and fix|sd
 B|and we don't even have a repairman come,|sd
@@ -113,11 +113,11 @@ A|and you're trying to think oh, maybe I'll need this.|sv
 A|You never, you always think gosh, if I say no, then I won't, you know.|sv
 B|Uh-huh.|b
 A|But,|%
-B|Well,  my husband finally just put his foot down|sd
+B|Well,  my husband  finally just put his foot down|sd
 A| I don't know. |h
 B|and he said we're not going to buy any of these anymore,|sd
-B|and if it goes out, well you know. |sd
-A|You  probably got your worth out of it anyway.|sv
+B|and if it goes out, well  you know. |sd
+A|You  probably  got your worth out of it anyway.|sv
 B|Uh-huh,|aa
 B|and, uh, so we really have been fairly happy with things,|sd
 B|but now we take good care of things|sd

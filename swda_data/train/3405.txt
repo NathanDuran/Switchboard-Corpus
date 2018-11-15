@@ -27,12 +27,12 @@ B|you do have a separate area.|b^m
 A|Yeah,|aa
 A|and last year was the first year we tried two new things.|sd
 A|We tried corn,|sd
-A|andwe tried a watermelon.|sd
+A|and we tried a watermelon.|sd
 B|Oh.|b
 B|Uh-huh.|b
 B|Well, tell me this, uh, Lowell,|ad
 B|do you do you enjoy doing that kind of work,|qy
-B|anddo you have the time to relax so that you can take advantage of it?|qy
+B|and do you have the time to relax so that you can take advantage of it?|qy
 A|Uh.|b
 A|I enjoy doing it on a limited basis.|na
 A|I don't think that if I,|%

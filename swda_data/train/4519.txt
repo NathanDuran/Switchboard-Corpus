@@ -12,9 +12,9 @@ A|And, uh, we're both so, uh, frugal that, uh, we really don't need a budget, yo
 A|We just sort of invest the money and go on vacations and always never seem to have any money problems which I guess is a comfortable thing.|sd
 B|Yeah.|b
 B|Well I guess that really is sort of, uh, keeping a budget,|sv
-B|you know. You stay within your, uh within your  means.|bf
+B|you know. You stay within your, uh  within your  means.|bf
 A|Well we stay within our means |b^m
-A|but we don't do it, uh, by conscious effort.|sd
+A|but we  don't do it, uh, by conscious effort.|sd
 A|It just sort of happens automatically.|sd
 B|Yeah.|b
 A|Although we just moved to California|sd
@@ -23,7 +23,7 @@ B|Yes|aa
 A|Uh, housing prices are, you know, like from four to ten times more expensive than, uh, uh, they were where I came from in, uh, Dallas.|sd
 B|Oh, you moved from Dallas to San  Francisco. |bf
 A| Yeah. |aa
-A|So, uhuh, that presents a, a real shock|sd
+A|So, uh uh, that presents a, a real shock|sd
 B|That is a hugh difference.|sv
 B|Yeah.|b
 A|actually our standard of living has gone down somewhat since we've moved to California|sd
@@ -50,7 +50,7 @@ A|But, uh, I suppose I've lost money on not taking good advantage of, of, uh, in
 A|but,|%
 B|Well then again, you know, you said you, you are able to take trips.|sd
 B|And you do, obviously, have enough to live on|sd
-B|so I guess you're indirectly budgeting.Uh, just bye-bye the fact that you said you're both very frugal, uh, in spending the money.|sv
+B|so I guess you're indirectly budgeting. Uh, just bye-bye the fact that you said you're both very frugal, uh, in spending the money.|sv
 A|Uh-huh.|b
 B|So, I mean that's, that's a form of budgeting I would think|sv
 B|It's, it's kind of a strange topic to, to try to, for two people who don't really have a budget to talk about budgeting and how they manage their money.|sv
@@ -68,7 +68,7 @@ B|I think it's just going to be one.|sd
 A|Oh, all right|bk
 B|How about yourself?|qo
 A|I have two kids.|sd
-A| Uh, one nine and one thirteen|sd
+A| Uh, one  nine and one thirteen|sd
 B| Oh. |%
 A|and they are beginning to be a budget problem but, uh, have not been really up until this, up to this point.|sd
 B|Do they budget at all?|qy

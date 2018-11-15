@@ -13,7 +13,7 @@ B|Well,|arp_nd
 A|Or should it be used, uh,|qrr
 B| Yes,|ny
 B|yes.|ny
-B|To  prevent these people from ever getting out on the street.By, you know, some technicality.|sv
+B|To  prevent these people from ever getting out on the street. By, you know, some technicality.|sv
 B|And they go down the line ten years|sv
 B|and then on some little technicality they get out and on the streets again doing the same they did before.|sv
 A|Uh-huh.|b
@@ -21,12 +21,12 @@ B|And, you know, that's about the only thing.|sv
 B|Like for petty, for theft and, and stuff like that or manslaughter, you know,|sv
 B|I don't  think they should do that. |sv
 A| Well, you know,  there's this old, uh, Jewish, is it, saying about an eye for an eye and a tooth for a tooth.|sd
-B|Oh,  well, I guess, if I, if it was someone in my family, I'd probably feel that way.|sv
+B|Oh,  well, I guess,  if I, if it was someone in my family, I'd probably feel that way.|sv
 B|You know, I've never had anybody in my immediate family, uh, murdered|sd
 B|and so I really wouldn't know.|sd
 B|But, but I feel like if I did, I probably would feel that way.|sd
 A|Well, one of the things I was thinking about is, uh, you know, from society's point of view, if you put a value on each person, what you want to do is to maximize the end game value.|sv
-A|So if you have someone that, that destroys that valueuh, then what you want to take steps to, uh, minimize the loss.|sv
+A|So if you have someone that, that destroys that value uh, then what you want to take steps to, uh, minimize the loss.|sv
 B|Uh-huh.|b
 A|Of course, you have to also put value on the criminal.|sv
 B|Right.|b
@@ -34,16 +34,16 @@ A|So if you terminate him, that's a loss of value.|sv
 B|Well, that's true|ba
 A|So, you know, if you weight everyone equally, then you have to say, well the likelihood of not terminating him,|sv
 A|if you don't terminate him, the likelihood is expected value of loss of life is greater than one person.|sv
-A|In other words, you'd have to, you'd have to murder more than one other personuh, in order to justify taking his life.|sv
+A|In other words, you'd have to, you'd have to murder more than one other person uh, in order to justify taking his life.|sv
 B|Besides him.|^2
 B|Okay.|b
 A|Another way you could do it is weight this value by, uh, the value to society of the people. Uh, which is pretty delicate thing to do.|sv
 A|But one way of doing it is, uh, by income.|sv
-A|So if this guy doesn't make a great deal of money,then he's obviously not worth very muchwhich is often times the case,  then |sv
+A|So if this guy doesn't make a great deal of money, which is often times the case,  then  then he's obviously not worth very much|sv
 B| His life  isn't worth very much then|^2
 A|and so, uh, the likelihood that, you know, maybe expected, expected murders by him is, is, uh, integrated over the income of the people, uh, that he murders is maybe, you know, a loss of, who knows, eight hundred thousand dollars.|sv
 A|Uh, but if he only, uh, integrated, you know, integrated income over the expected remainder of his life of is, uh, small, less than eight hundred thousand dollars, then you terminate him|sv
-A|Of course, one of the things that happens if you use that algorithm, is you find that it's more easy, it's easier to, uh, to, uh, terminate older people than younger people since the integration of their income over the rest of their lives is going to be less.Which means, well|sv
+A|Of course, one of the things that happens if you use that algorithm, is you find that it's more easy, it's easier to, uh, to, uh, terminate older people than younger people since the integration of their income over the rest of their lives is going to be less. Which means, well|sv
 B|Right.|b
 A|I suppose you could say, well that has something to do with potential for rehabilitation.|sv
 B|Potential.|b^m

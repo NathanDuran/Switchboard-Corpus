@@ -14,7 +14,7 @@ B|it's so old.|sd
 B|It's one of,|%
 A|Oh what kind of work do you do on it?|qw
 B|Um, I do, um, television ratings|sd
-B|and I process some ratings and put, do graphics for their television stations,their clients,|sd
+B|and I process some ratings and put, do graphics for their television stations, their clients,|sd
 A|Oh, okay.|bk
 B|so.|%
 A|Yeah.|b
@@ -36,7 +36,7 @@ A|the, the job that I do,|sd
 A|I do a lot of training of our customers for new products.|sd
 B|Uh-huh.|b
 A|And I have to develop, uh, functional specs and disk and desk top publishing and everything,|sd
-A|so it's,it's kind of fun,|sd
+A|so it's, it's kind of fun,|sd
 B|Uh-huh.|b
 B|Yeah.|b
 A|I mean, I, I always say that I need to buy a computer for the house|sd
@@ -61,7 +61,7 @@ B|He works up in Plano.|sd
 A|Oh, okay.|b
 B|So|%
 A|Yeah,|b
-A|I work on, uh, printers and,the peripheral products division, basically, uh,|sd
+A|I work on, uh, printers and, the peripheral products division, basically, uh,|sd
 B|Uh-huh.|b
 A|I work in the airline, marketing group.|sd
 B|Oh.|b
@@ -77,7 +77,7 @@ B|so.|%
 B|Yeah,|b
 B|I just kind of,|%
 B|in for a while, you know,|%
-B|he had a, he had, uh, one of those, what are they, top secret things,For a whileyou know, where he couldn't talk about what he did, so.|sd
+B|he had a, he had, uh, one of those, what are they, top secret things, you know, where he couldn't talk about what he did, so. For a while|sd
 A|Uh-huh.|b
 A|Yeah.|b
 B|but then he switched jobs.|sd
@@ -88,7 +88,7 @@ B|Uh-huh.|ny
 A|I see.|bk
 B|Software design engineer, so, as they call it,|sd
 B|so.|%
-B|But I have a degree in information management,which is computer, you know,|sd
+B|But I have a degree in information management, which is computer, you know,|sd
 A|Uh-huh.|b
 A|Right.|b
 B|it's basically the, more the business end of it than the programming end of it, you know.|sd
@@ -126,7 +126,7 @@ A|What's that?|br
 B|He doesn't have one of those.|sd
 A|Yeah,|b
 A|they're, they're pretty handy because, you know, when I travel, it's easy to check messages,|sd
-A|just, you know,plug in the phone to your computer and dial in|sd
+A|just, you know, plug in the phone to your computer and dial in|sd
 B|Uh-huh.|b
 A|and,|%
 B|Yeah.|b
@@ -169,10 +169,10 @@ B|Maybe when the kids get in school that will be, you know,|sd
 B|when they start needing something, you know, then that will be different|sd
 B|but,|%
 A|Yeah,|b
-A|when I started at, uh, T I, I was a Summer development student,and finishing up at school|sd
+A|when I started at, uh, T I, I was a Summer development student, and finishing up at school|sd
 B|Uh-huh.|b
 A|and so those papers really,|sd
-A|I mean, it was nice having access to the,equipment to, uh,|sd
+A|I mean, it was nice having access to the, equipment to, uh,|sd
 B|Oh, yeah.|b
 B|Yes,|b
 B|I remember that.|sd
@@ -194,13 +194,13 @@ A|Oh, okay.|b
 A|Yeah.|b
 A|Golly,|b
 A|I've got,|%
-A|up, up at work anyway, I use WordPerfect and Lotus and,and which is, uh, uh, a, a line-draw package.|sd
+A|up, up at work anyway, I use WordPerfect and Lotus and, and which is, uh, uh, a, a line-draw package.|sd
 B|Yeah,|b
 B|I know those two.|sd
 B|Uh-huh,|b
 B|I've just used WordPerfect and Lotus and, the most.|sd
 A|Yeah.|b
-A|You probably use or something like that,talking about.for your, uh, data entry stuff that your,|sv
+A|You probably use or something like that, for your, uh, data entry stuff that your, talking about.|sv
 B|Yeah.|b
 B|Yeah.|b
 B|A lot of the data entry stuff they used, uh, survey system and, and, um, you know, just in-house programs to do what they needed.|sd
@@ -217,7 +217,7 @@ B|Yeah,|aa
 B|it did.|sv
 B|You know, I don't do, I don't really don't do basic, a lot of what I used to do,|sd
 B|I just do, you know, something really minor|sd
-B|but,it's something that nobody else wants to do,|sv
+B|but, it's something that nobody else wants to do,|sv
 A|Uh-huh.|b
 A|Yeah.|b
 B|and it's time consuming.|sd
@@ -236,7 +236,7 @@ A|Boy|ba
 A|I tell you if I could bring a computer home and do stuff here, I'd get all kinds of stuff done.|sd
 B|Oh.|b
 A|Phone's always ringing|sd
-A|and,people always asking me to do something else.|%
+A|and, people always asking me to do something else.|%
 B|Uh-huh.|b
 B|Yeah.|b
 A|I've got a lot of,|sd
@@ -248,7 +248,7 @@ A|Well, yeah,|ny
 A|but, you know, I need to be at the office, too.|sd
 B|Oh, uh-huh.|b
 A|You know I've just got to deal, with all those other things that happen|sd
-A|but,a P C at the house would really take a lot of the load off.|sd
+A|but, a P C at the house would really take a lot of the load off.|sd
 B|Yeah.|b
 B|Yeah,|b
 B|I bet.|ba

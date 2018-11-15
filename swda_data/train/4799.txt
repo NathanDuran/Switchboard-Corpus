@@ -5,7 +5,7 @@ A| so I haven't, |%
 B| They're not  quite elderly, huh|qy
 A|No.|nn
 A|So I haven't, uh, really been in that situation although they are thinking about my grandmother|sd
-A|but, uhbut that's really about it.|sd
+A|but, uh but that's really about it.|sd
 B|Uh-huh.|b
 A|How about you?|qo
 A|Have you been in that situation yet?|qy
@@ -28,7 +28,7 @@ B|and so we ended up just having to put him in a rest home.|sd
 A|Yeah.|b
 B|And he just kind of became a vegetable and died.|sd
 A|Oh, no.|fo_o_fw_"_by_bc
-B| So but that was a long time ago.|sd
+B| So  but that was a long time ago.|sd
 A| That's  sad.|fo_o_fw_"_by_bc
 A|Yeah.|b
 B|That was, uh, back in like seventy-three.|sd
@@ -36,21 +36,21 @@ A|Oh,  okay. |bd
 B| So,  uh, I think the way they did things were a lot different back then.|sv
 A|I'm sure they were.|aa
 A| Yeah. |aa
-B| And,  uh, my grandmother, his, his wifeuh, we also put her in a rest home.|sd
+B| And,  uh, my grandmother, his, his wife uh, we also put her in a rest home.|sd
 A|Uh-huh.|b
 B|She was in a rest home|sd
 B|and then she was back out because she didn't really need to be there and, uh, had a physical, had a good physical therapist at that place|sd
-B| and they worked with her and got her walking and got her kind of taking care of herself|sd
+B| and  they worked with her and got her walking and got her kind of taking care of herself|sd
 A| Ah. |b
-B|and  so she was able to come back home|sd
+B|and  so  she was able to come back home|sd
 A| Yeah. |b
-B|andthen she had to go back in a couple of times,|sd
+B|and then she had to go back in a couple of times,|sd
 A|Oh.|b
 B|but mostly it was just because she kind of gave up.|sd
 A|Um.|b
 B|And they got her going again.|sd
 A|Yeah.|b
-B|So I guess as far as looking,do things with them and treat them, treat  like they're , |sd
+B|So I guess as far as looking, do things with them and treat them, treat  like they're , |sd
 A|Uh-huh.|b
 A|Yeah.|b
 A| And I'm sure  it's, it's expensive.|sv
@@ -69,11 +69,11 @@ B|Uh-huh.|b
 A|and then they have, uh, where the bus picks them up and takes them where they need to go|sd
 A|and she, she, she really does love that|sd
 B|Uh-huh.|b
-A| And she's just wondering well what's going to happen to me|sd
+A| And she's just wondering well  what's going to happen to me|sd
 B| When she can't take care of herself. |^2
 A|and, and I,|%
 A|you know, it's, I guess it's so normal to start to wonder about that even if she doesn't need that,|sd
-A|butyou know|qy
+A|but you know|qy
 B|Uh-huh.|b
 B|Now|%
 A|she's kind of asking questions about what, well what's going to happen, this can't last forever|sd
@@ -115,7 +115,7 @@ A|I'm really proud of her.|sd
 A|She's doing really well,|sd
 A|so we haven't had to do anything,|sd
 A|but then again, she has a lot of support|sd
-A|soI mean, she's got her mother in town too and things like that|sd
+A|so I mean, she's got her mother in town too and things like that|sd
 B|Yeah.|b
 B| Yes. |b
 B|Well, I, I think that that's the thing that's a little bit scary, you know, a little bit tough about putting them in a rest home is it's, it's almost like|sv

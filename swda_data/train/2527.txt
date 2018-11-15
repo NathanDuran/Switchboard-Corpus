@@ -28,7 +28,7 @@ B|Yeah.|b
 A|What about you,|qo
 A|where have you, uh,|qw
 B|Oh, I've been camping for years, not on a regular basis|sd
-B|but, uh, I first started camping out in the desert in California.And then sometimes in the mountains also in California|sd
+B|but, uh, I first started camping out in the desert in California. And then sometimes in the mountains also in California|sd
 A|Uh-huh.|b
 B|and, uh, then I moved to North Carolina|sd
 B|and I, I didn't camp for a long time,|sd
@@ -49,7 +49,7 @@ B|Uh, well, it's, it's, uh, in terms of north, south I would say it's, uh, a lit
 A|Okay.|bk
 B|So what|%
 A|Are you kind of away from the Blue Ridge Mountains,|qy
-B|Well, it,it's, uh,|no
+B|Well, it, it's, uh,|no
 A|an area.|%
 B|actually the, the Blue Ridge in Virginia are closer to Raleigh.|sd
 B|They're about three hours away if you go due north.|sd
@@ -71,8 +71,8 @@ A|but I didn't know how much, how much camping areas there were along there.|sd
 B|I think there's quite a few.|sd
 B|I can't say I've checked them all out though.|sd
 A|What, what's it like camping in the desert and California,|qo
-A|that seems,like a challenge.|sv
-B|It's, uh,it's actually kind of incredible,|sd
+A|that seems, like a challenge.|sv
+B|It's, uh, it's actually kind of incredible,|sd
 B|it's really, really nice.|sd
 B|Um, I like it better than almost anything I've ever done.|sd
 B|Just the sky is so amazing.|sd
@@ -124,15 +124,15 @@ B|Well, that would be, that would be pretty nice.|sd
 B|I've been, I have been camping on the south rim the Grand Canyon.|sd
 B|That's okay.|sd
 B|A lot of people like to go down and camp down inside,|sd
-B|I was just too lazy that trip to do all that walking,especially with my gear.|sd
+B|I was just too lazy that trip to do all that walking, especially with my gear.|sd
 A|Uh-huh.|b
 A|I'll bet .|ba
 A|That one, one thing you said about the stars is really true|sd
 A|it's,|%
-A|when you're close to a big city like Dallas, the, the lights kind of wash,wash off the star|sd
+A|when you're close to a big city like Dallas, the, the lights kind of wash, wash off the star|sd
 B|Oh, yeah.|b
 A|so it's nice to, to get away.|sd
-A|It's just amazing,how, how much you miss.|sd
+A|It's just amazing, how, how much you miss.|sd
 B|Yeah,|b
 B|it,|%
 B|Yeah,|b

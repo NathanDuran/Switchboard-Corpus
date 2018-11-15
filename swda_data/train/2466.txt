@@ -35,7 +35,7 @@ A|Um, as far as dealing with divorce?|qy
 B|Oh, I'm kind of getting that one past me, but a good self help book.|ng
 A|Good self help.|b
 B|Yeah.|b
-A|Well, um probably the best one that I, I know of and I work with all the time is called SEARCH FOR SIGNIFICANCEby Robert McGee|sd
+A|Well, um probably the best one that I, I know of and I work with all the time is called SEARCH FOR SIGNIFICANCE by Robert McGee|sd
 B|Um, that sounds good.|ba
 B|Uh-huh.|b
 A|and it's one that we use in our work.|sd
@@ -57,7 +57,7 @@ A|Right now some of the things I'm working with are kids that are dealing with s
 A|so a lot of the books I've been reading have to do with helping them get through those issues.|sd
 B|Oh, I would imagine helping them feel good about themselves|sv
 B|they're at a bad stage anyway,|sv
-B|and then to have to deal with sexual abusewould be terrible, as a teen.|sv
+B|and then to have to deal with sexual abuse would be terrible, as a teen.|sv
 A|Uh-huh.|b
 B|That's, uh, that must be a wonderful feeling to be in that profession and be able to make a contribution like that.|qy^d
 A|Well, sometimes it's rewarding,|arp_nd
@@ -68,7 +68,7 @@ B|Uh, what|%
 B|is, is that just the only type of reading you've been doing,|qy
 B|or do you, have you read any good novels lately?|qrr
 A|Um, I guess I've got so many books like that that I need to read|sd
-A|it's, it's hard for me to do a lot of, uh,reading, yeah, reading just for enjoyment.|sd
+A|it's, it's hard for me to do a lot of, uh, reading, yeah, reading just for enjoyment.|sd
 B|just joy reading.|^2
 B|Yeah.|%
 B|I hear you there,|ba
@@ -85,9 +85,9 @@ B|Um, she, she's not, didn't enjoy it much,|sd
 B|so I didn't get much satisfaction trying to discuss it with her.|sd
 B|But I thought it was real interesting.|sd
 A|Yeah,|b
-A|I've always wanted to go back and read some of my literature texts from collegeum, because I enjoyed some of those stories so much,|sd
+A|I've always wanted to go back and read some of my literature texts from college um, because I enjoyed some of those stories so much,|sd
 B|Uh-huh.|b
-A|but I never seem to have the time to dothat kind of reading.|sd
+A|but I never seem to have the time to do that kind of reading.|sd
 B|I know.|aa
 B|Yeah.|b
 B|Um, I trying to think of some of my other favorite books,|^h
@@ -111,7 +111,7 @@ B|Yeah.|b
 B|I, I bought that one,|sd
 B|and I didn't get into, involved in that one as well.|sd
 B|There's another one he wrote that even sounds better,|sv
-B|and it's kind of the whole concept of global peace, you know, like, and communitiesbuilding communities.|sd
+B|and it's kind of the whole concept of global peace, you know, like, and communities building communities.|sd
 A|Uh-huh.|b
 B|Someone just recently said something really neat about that.|sd
 B|Uh, I got involved in, uh, Beginning Experience Weekends,|sd
@@ -154,10 +154,10 @@ B|and right now, my list of books to be read have to do with, uh, the art of sel
 A|Oh, uh-huh.|b
 B|So.|%
 A|It's just, I was just thinking, at, at Rossa|sd
-A|they tend to come out with a new book every couple of weeksjust to help us deal with all the things that we have to deal with.|sd
+A|they tend to come out with a new book every couple of weeks just to help us deal with all the things that we have to deal with.|sd
 B|Uh-huh.|b
 A|So, I keep getting stacks of books I need to read,|sd
-A|and,I don't know when I'm going to get to them all.|sd
+A|and, I don't know when I'm going to get to them all.|sd
 B|Never,|sv
 B|never|sv
 B|there's never going to be enough hours in the day.|sv
@@ -197,7 +197,7 @@ B|I think so, too.|aa
 B|And I thank you for calling.|fc
 A|Yeah,|fc
 A|nice talking to you, Linda.|fc
-B|And, uh, I'll have to check out that book you,told me about.|fc
+B|And, uh, I'll have to check out that book you, told me about.|fc
 A|Okay,|fc
 A|great.|fc
 B|Okay,|fc

@@ -13,14 +13,14 @@ A|Instead of being carried|bf
 B|Yes,|aa
 B|well, they were,|sd
 B|they really wanted something teeny tiny,|sd
-B|and I, uh, really wanted that retriever's disposition.Uh, the ultimate to tolerant, trainable disposition,|sd
+B|and I, uh, really wanted that retriever's disposition. Uh, the ultimate to tolerant, trainable disposition,|sd
 A|Yeah.|b
 A|Really.|b
 B|so I called four or five dog trainers because I don't like the little dogs.|sd
 A|Uh-huh.|b
 B|And, and I asked them, you know, these are the ages of the kids, what do I get.|sd
 B|And they all said, Golden Retriever|sd
-B|and I said okay,put it under twenty pounds.|sd
+B|and I said okay, put it under twenty pounds.|sd
 B|And the only thing that they could come up with was a Bichon Frize which is a,|sd
 A|Huh.|b
 B|Do you know what that is?|qy
@@ -55,12 +55,12 @@ B|And the ones that are shown, they are inside that weight allowance.|sd
 A|Uh-huh.|b
 B|You cannot show your retriever if it's, you know, a hundred plus pounds.|sd
 A|Oh, huh.|b
-B|So don't say she's small,just say she's perfect.|ad
+B|So don't say she's small, just say she's perfect.|ad
 A|Yeah.|b
 A|She's perfect.|b^m
 A|Well, she's got a brown nose instead of black too.|sd
 B|Uh-huh.|b
-A|Which makes her, I guess, unshowable,even if she had papers which she doesn't|sd
+A|Which makes her, I guess, unshowable, even if she had papers which she doesn't|sd
 B|Yep.|aa
 A|but, but we love her anyway.|sd
 A|She's just a lot of company to us.|sd
@@ -69,7 +69,7 @@ A|we haven't had any kids|sd
 A|and we're expecting a baby this summer,|sd
 A|but up until then, she's been our substitute kid|sd
 A|and she was a lot of fun.|sd
-B|Well, they are, they are the ultimate dog to have around kids so long as your kid is not scared of a big dog,Which is a really nice animalbecause I had a retriever, actually I had a retriever Irish Setter cross.|sd
+B|Well, they are, they are the ultimate dog to have around kids so long as your kid is not scared of a big dog, because I had a retriever, actually I had a retriever Irish Setter cross. Which is a really nice animal|sd
 A|Right.|b
 A|Oh.|b
 B|and fortunately it was just like a retriever|sd
@@ -80,24 +80,24 @@ B|It was just gorgeous. I mean just gorgeous.|sd
 B|Um, and they both, you know,|sd
 B|both the half breed and the pure breed had the, uh, what I consider the, the, the perfect disposition.|sd
 B|But you know what, you know what scares me about Golden Retrievers?|qh
-B|Since they've become so popular you get what I call backyard breeders.Which is probably where yours came from. People that don't know what they're doing, and they breed them, you know, for a certain characteristic.|sd
+B|Since they've become so popular you get what I call backyard breeders. Which is probably where yours came from. People that don't know what they're doing, and they breed them, you know, for a certain characteristic.|sd
 B|And in the retrievers it happens to be they like them big, for somehow big is perceived as the better.|sd
 B|And when you start doing that you really tamper with, you know, the, all the, the years of, uh, culling litters|sd
 B|and, and, uh, you tamper with what the dog innately is.|sd
 A|Yeah.|b
 B|We|%
 B|when I was,|%
-B|when I bought my last purebred retriever I mean I looked all over because I wanted one that still looked like a retriever, you know, the short to the ground, stocky, golden, uh, trainable, tractable, quietanimal that could hunt and still be in the house.|sd
+B|when I bought my last purebred retriever I mean I looked all over because I wanted one that still looked like a retriever, you know, the short to the ground, stocky, golden, uh, trainable, tractable, quiet animal that could hunt and still be in the house.|sd
 A|Right.|b
-B|And I ended up getting one that, uh, came out of a, a, a hunting stockbecause I wanted one that could still perform like a retriever did.|sd
+B|And I ended up getting one that, uh, came out of a, a, a hunting stock because I wanted one that could still perform like a retriever did.|sd
 A|Oh.|b
-B|And I've seen an awful lot of lately really dumb,dumb retrievers|sd
+B|And I've seen an awful lot of lately really dumb, dumb retrievers|sd
 B|and I'm, and I really fear for the breed because I love that breed,|sd
 A|Yeah.|b
 B|but I really figure right when it becomes really popular that it's going to be ruined.|sd
 A|We have some friends with a brother and sister Golden retriever|sd
 A|and those dogs have been having seizures,|sd
-A|and I wonder since both of them are having them if it's some kind of breedingproblem.|sd
+A|and I wonder since both of them are having them if it's some kind of breeding problem.|sd
 B|Oh, yeah.|aa
 B|You bet you.|aa
 B|You bet you.|aa
@@ -112,7 +112,7 @@ B|and since it slept in the castle with its master, I mean it had, it had to be 
 B|But they would go through all the litters and destroy the puppies if they were anything other than perfect.|sd
 B|Now, you know, that seems like a cruel thing to do.|sd
 A|Yeah.|b
-B|On the other hand, you sure, you know, they sure created a, a wonderful breed,I mean a wonderful breed.|sv
+B|On the other hand, you sure, you know, they sure created a, a wonderful breed, I mean a wonderful breed.|sv
 A|Yeah.|aa
 A|They did.|sv
 A|I, I had never really had a Golden retriever before.|sd
@@ -123,8 +123,8 @@ B|Uh-huh.|b
 A|And we went to a pen of a little bit bigger dogs|sd
 A|and all the others were standing there barking and jumping up and down.|sd
 A|And one dog would stand there wagging her tail and smiling|sd
-A|And that,was mine.|sd
-B|Well, I tell you,you know the, the German shepherd is the classic case of what I'm talking about because in America that's called a Rin Tin Tin phenomena.|sd
+A|And that, was mine.|sd
+B|Well, I tell you, you know the, the German shepherd is the classic case of what I'm talking about because in America that's called a Rin Tin Tin phenomena.|sd
 A|Uh-huh.|b
 B|Only in America is there a dog called a German Shepherd.|sd
 A|Oh, really?|bh
@@ -143,13 +143,13 @@ B|That said anything that is a Skutzhund, a, a Tervurien and, uh, Alsatian that'
 A|Huh.|b
 B|And what happened is, is that people wanted this shepherd to shepherd and protect.|sd
 B|And they bred a dog that I it's called a, an animal's critical span which basically translates to how much shit will it take before it bites you.|sd
-B|That German shepherd, the American German Shepherd here was a, a, a such an unreliable animal that the American Seeing Eye Institutebecause they would turn on on their handlers.refused to use them,|sd
+B|That German shepherd, the American German Shepherd here was a, a, a such an unreliable animal that the American Seeing Eye Institute refused to use them, because they would turn on on their handlers.|sd
 A|Uh-huh.|b
 A|Huh.|b
 A|Uh-huh.|b
 B|And even, um, uh, police corps which started, you know, finding other breeds to use because this thing, this, this thing known as a German shepherd here, its personality and its dependability and its reliability was just terrible.|sd
 B|So about fifteen years ago the German Shepherd Club of America decided amongst themselves that they were going to change this.|sd
-B|So they went back to Europe and brought back some good examples of each of the three breedsand bred to a standard what they wanted an American German shepherd to be. Which is a very heavily now Skutzhund and Alsatian,|sd
+B|So they went back to Europe and brought back some good examples of each of the three breeds and bred to a standard what they wanted an American German shepherd to be. Which is a very heavily now Skutzhund and Alsatian,|sd
 A|Uh-huh.|b
 B|and it's the Alsatian that's the kid's dog.|sd
 B|It's just,|%
@@ -157,7 +157,7 @@ B|you see them in Europe|sd
 B|and they're just lovely.|sv
 A|Huh.|b
 B|But you'll see,|sd
-B|I mean, if you ever start looking in papers now and you start seeing these ads for German Shepherds, they will say on them, bred for disposition, A K C conformingwhich means that their advertising that this is no longer an indiscriminate dog.|sd
+B|I mean, if you ever start looking in papers now and you start seeing these ads for German Shepherds, they will say on them, bred for disposition, A K C conforming which means that their advertising that this is no longer an indiscriminate dog.|sd
 A|Huh.|b
 B|This is bred for,|sd
 B|and they had to go through and destroy a, for a while there, about seventy-five percent of their puppies that they bred.|sd

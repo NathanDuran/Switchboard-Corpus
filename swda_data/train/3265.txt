@@ -1,4 +1,4 @@
-A|Well, I've been real, um, thinking I'd love to buy a new car,right now, if I could afford it.|sd
+A|Well, I've been real, um, thinking I'd love to buy a new car, right now, if I could afford it.|sd
 B|Oh|b
 A|But we have two cars right now|sd
 A|and we're still paying on them,|sd
@@ -10,7 +10,7 @@ B|right now my car is terminally ill|sd
 A|Oh|b
 B|so I am really looking at, uh, facing the purchase of a car.|sd
 B|And,|%
-B|uh, what I would like to have is so totally impractical for me that,I won't do it.|sd
+B|uh, what I would like to have is so totally impractical for me that, I won't do it.|sd
 B|But|%
 A|What is it?|qw
 B|Uh, well, I would like for one time in my life to have a convertible.|sd
@@ -54,18 +54,18 @@ B|Well, yeah,|aa
 B|and that's minimum.|sv
 A|Oh,|aa
 A|definitely|aa
-B|It, you know it's,now.it's a major purchase,|sd
-B|What we used to pay for homes is now what a car,can cost.|sv
+B|It, you know it's, it's a major purchase, now.|sd
+B|What we used to pay for homes is now what a car, can cost.|sv
 A|I cannot imagine that, you know, somebody,|sv
-A|I heard a commercial or something about a sixty thousand dollar car about, oh, it would, how,exciting it is to make that kind of a purchase,|sd
+A|I heard a commercial or something about a sixty thousand dollar car about, oh, it would, how, exciting it is to make that kind of a purchase,|sd
 A|and I thought, I don't think I'd find that exciting|sv
 A|I'd be wondering, you know, here I am buying this expensive of a car and my house isn't worth that much money|sd
 B|If they held their value, that would be one thing.|sv
 A|That's true.|aa
-B|But when you consider that when you drive them off of the show lot,they're immediately two thousand dollars depreciated.|sv
+B|But when you consider that when you drive them off of the show lot, they're immediately two thousand dollars depreciated.|sv
 A|Yeah.|b
 B|And, you know, that,|qy
-B|I don't know that,I'll go with,|sd
+B|I don't know that, I'll go with,|sd
 B|I've bought a new car the last three that I've bought|sd
 B|and I don't know that I'll buy a brand new one again.|sd
 A|Yeah.|b

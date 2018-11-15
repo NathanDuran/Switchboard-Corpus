@@ -5,7 +5,7 @@ B|Seems like wanting to go to the Peace Corps was something that I had really wa
 A|Yes.|b
 B|But, uh, I don't believe they accept you after you, you know, after you're married|sv
 B|and you have, uh, kids and all that|sv
-B|so I got into,that|sd
+B|so I got into, that|sd
 A|Uh,|b
 B|and then I wasn't able to, to, uh, participate.|sd
 A|But they will accept you later in life also.|sd
@@ -26,7 +26,7 @@ B|I really had no idea.|sd
 A|Yeah,|b
 A|but, so, do you think that people should be required to give a couple years for the good of the country?|qy
 B|Well, I don't , I don't really think that they they should be, it should be mandatory.|sd
-B|I mean,well, I don't know,|h
+B|I mean, well, I don't know,|h
 A|Why?|qw
 B|I,|%
 B|it's,|%
@@ -44,7 +44,7 @@ A|but yuppies, now, are interested in one thing and one thing only|sv
 A|and that's themselves.|sv
 B|That's true.|aa
 B|Well,  I don't, I don't think that, |sd
-A| And at least if you legislated, giving for a couple years of their lives or, or, uh, a honestly purely giving but, but some sort of equitable exchange, then at least the country would have gotten two years from them where, um, they would have given something to the country instead of take, taking away all their lives.|sv
+A| And at least if you legislated,  giving for a couple years of their lives or, or, uh, a honestly purely giving but, but some sort of equitable exchange, then at least the country would have gotten two years from them where, um, they would have given something to the country instead of take, taking away all their lives.|sv
 B|Yeah,|b
 B|are, are you suggesting then that if, if, uh, if I have to go and, and do something for the country for two years that the country will compensate me in some way.|qy
 A|Uh,|%
@@ -65,27 +65,27 @@ A|Okay, currently in our country, especially in some regions, there's an employm
 A|You're aware of that I'm sure.|qy^d
 B|That, that, that's true.|aa
 B|But in, even in our region there's an employment problem.|sd
-B|There's a lot of, uh, people gotten laid off lately. You know, from just companies like General Dynamics, and,and Texas Instruments,|sd
+B|There's a lot of, uh, people gotten laid off lately. You know, from just companies like General Dynamics, and, and Texas Instruments,|sd
 A|And Texas Instruments.|^2
 B|Thousands, and thousands of people are out there looking for jobs.|sd
-A|You know in , in another time we had the W P A,though I can't see why it was great.during the great depression,Works Progress Administration,|sd
+A|You know in , in another time we had the W P A, Works Progress Administration, during the great depression, though I can't see why it was great.|sd
 B|no,|ar
-B|I'm not,I'm not familiar with that.|sd
+B|I'm not, I'm not familiar with that.|sd
 B|Oh.|b
-A|Uh, that gave people pay that was halfway between relief which was welfare,and the minimum wage.|sd
+A|Uh, that gave people pay that was halfway between relief which was welfare, and the minimum wage.|sd
 B|Uh-huh.|b
 B|I see,|b
-B|and that was, that was that was some, some program where people gave their time,for money,in trade for,|bf
-A|In trade for,and, and living.money,|^2
+B|and that was, that was that was some, some program where people gave their time, in trade for, for money,|bf
+A|In trade for, money, and, and living.|^2
 B|okay.|bk
 B|Uh-huh.|b
 A|They gave them food and uniforms|sd
-A|and,uh, here in Colorado you'll find a great many things.|sd
-A|Public roads that were worked on by the W P A, uh, dams that were built by the W P A,uh, scenic overlooks, parks,|sd
+A|and, uh, here in Colorado you'll find a great many things.|sd
+A|Public roads that were worked on by the W P A, uh, dams that were built by the W P A, uh, scenic overlooks, parks,|sd
 B|uh-huh.|b
 B|Uh-huh.|b
 A|We are road, our road system's falling apart.|sv
-A|Our our national road system, system of highways,and roads, is falling apart.|sv
+A|Our our national road system, system of highways, and roads, is falling apart.|sv
 B|Uh-huh.|b
 B|Well, then I guess there are a lot of, a lot of things that people could do to contribute to the good of the country.|sv
 A|there's a lot of work to be done.|bf
@@ -94,7 +94,7 @@ B|I, I really don't see anything wrong with it,|sd
 B|I just don't think that it should be mandatory that every person have to do that.|sv
 A|I, I can't see the problem in it for a year.|sd
 B|Well,|%
-A|what, what I'm saying is that if it were mandatory,would give a year, well, or, not give a year but, but trade a year,that were able-bodied,that every person, right after graduation from high school,|sd
+A|what, what I'm saying is that if it were mandatory, that every person, right after graduation from high school, that were able-bodied, would give a year, well, or, not give a year but, but trade a year,|sd
 B|uh-huh.|b
 B|Uh-huh.|b
 B|Uh-huh.|b
@@ -118,7 +118,7 @@ B|With, with, uh, recent generations I, I know exactly what you are talking abou
 B|I, I mean, I know several people who do not wish to work.|sd
 A|Uh, they wish only for the paycheck.|bf
 B|Well, they wish for the money|sd
-B|and they, they decide that they're going to get the money anyway they can with, you know, without, uh,without, without working in the, the traditional American job market.|sv
+B|and they, they decide that they're going to get the money anyway they can with, you know, without, uh, without, without working in the, the traditional American job market.|sv
 A|Really producing.|^2
 A|Yeah,|aa
 A|be it selling drugs or whatever.|bf

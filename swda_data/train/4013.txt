@@ -1,7 +1,7 @@
 A|Okay,|fo_o_fw_"_by_bc
 A|so you have eight children.|bf
 A|Um, what type of things do you do as a family to spend time together.|qo
-B|Oh, we spend a lot of time outdoors jogging, bicycling, uh, going to the park, um, some time watching V C Rum, generally cheap thingsmovies|sd
+B|Oh, we spend a lot of time outdoors jogging, bicycling, uh, going to the park, um, some time watching V C R movies um, generally cheap things|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Uh-huh.|b
@@ -14,7 +14,7 @@ A|So, um, let's see, uh,|^h
 A|some of the things we do together as a family, we like to play games a lot,|sd
 A|and you may think this is funny,|sv
 A|but one of our funnest games we like to play together is hide and seek,|sd
-A|and we just have a hoot playing hide and seek when it's darkin our house,|sd
+A|and we just have a hoot playing hide and seek when it's dark in our house,|sd
 B|Yeah.|b
 A|and that is so fun.|sd
 A|The kids just get a crack out of that.|sd
@@ -35,7 +35,7 @@ B|Yes.|ny
 A|Oh, so you like to go there for the holidays|qy^d
 A|and.|%
 B|Oh, we don't go very often for holidays.|arp_nd
-B|Generally we try to get all of our kids back home for the holidaysand let Grandma and Grandpa come and visit us.|arp_nd
+B|Generally we try to get all of our kids back home for the holidays and let Grandma and Grandpa come and visit us.|arp_nd
 A|Uh-huh.|b
 A|Oh, uh-huh.|b
 A|Uh, what are the ages of your kids then?|qw
@@ -47,7 +47,7 @@ B|How old are your children?|qw
 A|We have,|%
 A|ours start at twelve|sd
 A|and then they go down to four.|sd
-B|I think the hardest thing for us has been, is to find you know, leisure time activities that all of our kids can enjoy togetherwith the age span that we have, you know,|sd
+B|I think the hardest thing for us has been, is to find you know, leisure time activities that all of our kids can enjoy together with the age span that we have, you know,|sd
 A|I bet,|ba
 A|yeah.|%
 B|like the older kids love playing board games and that kind of thing|sd
@@ -109,14 +109,14 @@ B|Oh, definitely.|na
 B|When we tell people how many kids we have they look at us like we didn't have good sense.|sd
 A|Oh, dear|ba
 B|But, uh.|%
-A|Well, out here in Utah, five is about thethe average,|sd
+A|Well, out here in Utah, five is about the the average,|sd
 B|Average.|^2
 A|yeah.|%
-B|My wife and I were in Utah untilI guess we were about twenty-four.|sd
+B|My wife and I were in Utah until I guess we were about twenty-four.|sd
 A|Oh.|b
 A|Uh-huh.|b
 B|Never been back, since then,|sd
-B|but,We have kids up there now,|sd
+B|but, We have kids up there now,|sd
 A|Oh.|b
 B|so we get up occasionally.|sd
 A|Oh.|b
@@ -129,9 +129,9 @@ A|I'm trying, Aberdeen?|t1
 B|Huh.|br
 A|Is, is that close to Dallas?|qy
 B|I don't have any idea.|no
-B|I've neverheard of it.|sd
+B|I've never heard of it.|sd
 A|Oh.|bk
-B|Must be alittle town.|sv
+B|Must be a little town.|sv
 A|Don't you.|%
 A|It's, I guess it's out there, clear out.|sd
 A|They have a ranch that has like five hundred acres,|sd

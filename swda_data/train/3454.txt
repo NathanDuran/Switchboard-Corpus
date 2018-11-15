@@ -3,7 +3,7 @@ B|Well,|%
 A|What age, uh, if you don't mind me asking.|qw
 B|Well, I'm, I'm, uh, thirty-one.|sd
 A|Oh, well, you're, you're young.|sv
-A|I'm in myearly fifties|sd
+A|I'm in my early fifties|sd
 B|Yeah,|b
 B|right|b
 A|so you should take my word|ad
@@ -37,15 +37,15 @@ B|Uh-huh.|b
 A|I think, one, the women, uh, in the work force.|sv
 B|Uh-huh.|b
 A|And I think the fact that they're becoming, uh, more, uh, how do I want to say, not necessarily politically inclined,|sv
-A|but they're more apt to be in political officesnow.|sv
+A|but they're more apt to be in political offices now.|sv
 B|Uh-huh.|b
-A|I think, you know, we've made great stridesin that respect.|sv
+A|I think, you know, we've made great strides in that respect.|sv
 B|Uh-huh.|b
 A|I think that it, thirty years ago, when, uh, I was newly married, family was very, very important.|sv
 B|Uh-huh.|b
 A|Then I think we veered where the family was not as important a unit.|sv
 A|And I think now it's revolving back full circle.|sv
-A|I thinkthe family unit is becoming much more important than it was.|sv
+A|I think the family unit is becoming much more important than it was.|sv
 B|Uh-huh.|b
 B|Oh, I think it's, that's probably for two reasons.|sv
 B|Uh, you know, the number one is, women wanted to get out of the house.|sv
@@ -54,22 +54,22 @@ A|That's true,|aa
 A|that's true|aa
 A|Well, I know that economically, uh, a wife almost has to work anymore.|sv
 B|Uh-huh.|b
-A|And yet, I'm also noticing, uh, in the areas that I'm working and stuff, more and more women are wanting now to stay home with the children where fifteen years agothey didn't.|sd
+A|And yet, I'm also noticing, uh, in the areas that I'm working and stuff, more and more women are wanting now to stay home with the children where fifteen years ago they didn't.|sd
 B|Uh-huh.|b
 A|I mean, you know, they wanted children,|sv
 A|but they still wanted to be their own person out in the work force.|sv
 B|Uh-huh.|b
-A|But I see, I am seeing women now wanting to stay homemore, at least until the children are up to, you know, school age.|sd
+A|But I see, I am seeing women now wanting to stay home more, at least until the children are up to, you know, school age.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
-A|And, uh, I find that very interesting that, thatit's sort of reverting back.|sv
+A|And, uh, I find that very interesting that, that it's sort of reverting back.|sv
 B|Yeah.|b
 B|Yeah,|aa
 B|I, I've, I've, I've found that, too, you know, where the wife is married and, and,|sv
 B|I mean, not, not married,|ar
 B|sorry,|fa
 B|wrong word.|sd
-B|Where the wife has gone to school, you knowand gotten a degree, spent five years out in the work force, found, you know, the, the, their husband, either at college, or whatever,|sv
+B|Where the wife has gone to school, you know and gotten a degree, spent five years out in the work force, found, you know, the, the, their husband, either at college, or whatever,|sv
 A|Uh-huh.|b
 B|but still, you know, after five years, it's like, first kid|sv
 A|Uh-huh,|aa
@@ -91,7 +91,7 @@ A|yeah,|aa
 A|it is.|aa
 A|It, uh, I, I note that I had, taken care of my grandchildren recently while my daughter and her husband had been out of town.|sd
 B|Uh-huh.|b
-A|And I do not envy these mothersget them to their piano lessons.or these fathers that have these, the children that they have to rush home from work and pick them up at day care, get them through their homework, get them to their soccer practice|sd
+A|And I do not envy these mothers or these fathers that have these, the children that they have to rush home from work and pick them up at day care, get them through their homework, get them to their soccer practice get them to their piano lessons.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|I mean, that's tough.|sv

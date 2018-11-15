@@ -3,7 +3,7 @@ A|I was thinking about camping and different people's ideas about it.|sd
 B|Uh-huh.|b
 A|We've even seen people with these campers|sd
 A|and they got the big old antennas up so they can watch their T V when they're going.|sd
-B|Right or  their satellite dish|aa
+B|Right or  their  satellite dish|aa
 A| That's not, |%
 A|Yeah|b
 A|A satellite dish?|qy
@@ -13,7 +13,7 @@ A|That's not the kind we do.|sd
 A|Do you go camping?|qy
 B|Yeah.|ny
 B|We have a little bit|sd
-B|and we've just gotten one of those little tentsthat we throw out on the ground|sd
+B|and we've just gotten one of those little tents that we throw out on the ground|sd
 B|and that's what we camp in.|sd
 B|So we kind of rough it.|sd
 A|Well, so do we.|sd
@@ -29,7 +29,7 @@ A|And one time we went to Yellowstone|sd
 A|and we were doing the same thing.|sd
 A|We couldn't find a place to camp|sd
 A|and so we were on top of a picnic table with our, our sleeping bags I guess.|sd
-A|And this ranger comes up with this light, shines it on us and said that we're just bear bait out there. We had our  food and told us to get inside our car.you know.|sd
+A|And this ranger comes up with this light, shines it on us and said that we're just bear bait out there. We had our  food  you know. and told us to get inside our car.|sd
 B| Oh. |b
 B|Uh-huh.|b
 B|Gosh. Bear bait|b^m
@@ -38,7 +38,7 @@ B|That would make me nervous|sd
 A|Yeah.|b
 B|Have you done any camping around here?|qy
 A|Yeah.|ny
-A|We've got some land at Holly Lakeoutside of Tyler.|sd
+A|We've got some land at Holly Lake outside of Tyler.|sd
 B|Uh-huh.|b
 A|And we go up there fairly often|sd
 A|Sometimes we get a lot of people together to do it.|sd
@@ -65,7 +65,7 @@ B|Uh-huh.|b
 A|And they even, they had a library at one time out there.|sd
 B|Oh.|b
 A|So that's really not roughing it so much |bf
-A|but we have gone on trips where we bathed in streams.|sd
+A|but  we have gone on trips where we bathed in streams.|sd
 B| Yeah. |ny
 B|Uh-huh.|b
 A|That's kind of different.|ba
@@ -75,14 +75,14 @@ A|And a pool to go to.|sv
 B| Uh-huh. |aa
 A| That would be  nice.|ba
 B|Yeah.|aa
-B|We've, uh,In the Fallwe camped at the DeGray State Park in Arkansas.|sd
+B|We've, uh, we camped at the DeGray State Park in Arkansas. In the Fall|sd
 A|Uh-huh.|b
-B|and there was nobody else,aroundhardly,|sd
+B|and there was nobody else, hardly, around|sd
 B|and it was just really nice, that time of year.|sd
-B|We had taken our electric,blanket too, just in case it was unbearable|sd
+B|We had taken our electric, blanket too, just in case it was unbearable|sd
 B|but we didn't need it|sd
 B| Yeah . |fo_o_fw_"_by_bc
-A| Well my  husband has even camped at Lake Lavon with one of his friends |sd
+A| Well my  husband has even camped at Lake Lavon  with one of his friends |sd
 B| Oh really? |bh
 A|he just decided to take the kids out there.|sd
 B|Yeah.|b
@@ -94,7 +94,7 @@ B|Uh-huh.|b
 A|It wasn't bad.|ba
 B|That sounds nice.|ba
 A|Yeah.|b
-A|And we've taken,our tents though, loaded them up in car carrier and decided we were going to tent most of the way.|sd
+A|And we've taken, our tents though, loaded them up in car carrier and decided we were going to tent most of the way.|sd
 A|And it ended up, when it came time for us to pull in for the night, we'd take a vote.|sd
 A|And most of the time we decided we wanted to stay in a hotel.|sd
 B|Yeah.|b
@@ -127,7 +127,7 @@ B|Oh.|bk
 B|we were looking at those in a magazine.|sd
 B|Last time we went, we took our vacuum cleaner with us|sd
 A|I didn't know you could do that.|qy^d
-B|And, yeah, you can, if you can reverse the,nozzle on your vacuum cleaner|sd
+B|And, yeah, you can, if you can reverse the, nozzle on your vacuum cleaner|sd
 A|Yeah.|b
 B|and it blows air out instead of sucking it in|sd
 B|and you can fill them up that way|sd
@@ -136,7 +136,7 @@ A|No joke|ba
 A|I hope you didn't have a big vacuum cleaner.|qy^d
 B|No.|nn
 B|Uh-huh.|%
-B|We have a,my husband and I, we have a pickup truck|sd
+B|We have a, my husband and I, we have a pickup truck|sd
 B|so there's plenty of room to hold things.|sd
 A|Yeah.|b
 A|Now we've used a hair dryer before.|sd
@@ -181,7 +181,7 @@ B|But it seemed like it rained every weekend for about a the year we were really
 A|You mean that you put on a truck or what?|qy
 B|No.|nn
 B|It's a little trailer you pull behind your car|sd
-B|and, uh, you  know, you, the lid pops off,|sd
+B|and, uh,  you  know, you, the lid pops off,|sd
 A|Oh yeah,|b
 A| yeah. |b
 B|the little tent comes up the top|sd
@@ -199,7 +199,7 @@ B|Where they're doing this program. The Voice Recognition Program.|sd
 A|And what exactly are they going to do?|qw
 B|Oh, they turn them over to somebody|sd
 B|and they're going to, I guess they're going to try to teach computers how to recognize voices and search for specific words and stuff.|sd
-A|So any voice, no matter what the speech pattern or the  dialect or anything.|bf
+A|So any voice, no matter what the speech pattern or the  dialect  or anything.|bf
 B| Right. |aa
 B|Yeah.|aa
 A|Um. I wonder if these are going to be speaking The computers,|qy^d
@@ -250,7 +250,7 @@ B|even when you're eating,|sd
 B|it, it was in your bed|sd
 A|I've done it in a shelter.|sd
 B|Uh-huh.|b
-A|It was in Padre Island and  in a but not in a tent.truck off Corpus, not,|sd
+A|It was in Padre Island and  in a  truck off Corpus, not, but not in a tent.|sd
 B| Oh. |b
 B|Uh-huh.|b
 A|Oh well, that's about all .|fc

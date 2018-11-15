@@ -23,7 +23,7 @@ A|Well, did you get good results?|qy
 B|Well, no,|nn
 B|not really.|ng
 B|I need to,|sd
-B|it, it looks so,bad you can see where those spackling marks were.|sd
+B|it, it looks so, bad you can see where those spackling marks were.|sd
 A|Yeah.|b
 B|I need to, uh, either paper back over it or do something|sd
 A|But it just didn't, it didn't, it didn't cover it?|qy
@@ -69,11 +69,11 @@ B|that's an awful lot.|ba
 A|Have you, have you tried getting outside estimates to see what it costs to have something painted?|qy
 B|Not inside.|ng
 B|Now, uh, when we bought the house that we live in right now we had a company that came out and painted it.|sd
-B|That was one of the requirements from, you know, F H Athat the house be painted before we bought it|sd
+B|That was one of the requirements from, you know, F H A that the house be painted before we bought it|sd
 A|Yeah.|b
 B|and it was fairly reasonable.|sd
 B|We have a brick house|sd
-B|but all the trimaround the house was, uh,|sd
+B|but all the trim around the house was, uh,|sd
 A|Yeah.|b
 B|if I remember right, it was like five hundred dollars.|sd
 A|Oh, that's quite reasonable.|ba
@@ -101,9 +101,9 @@ A|and, uh, and, in fact she put some right|sd
 A|she got,|sd
 A|they mixed, uh, a gallon of it|sd
 A|and, uh, it's just remarkable how close it will match the paint, uh,|sd
-A|and it does it, uh, oh, electronically some, something, magic. |sd
+A|and it does it, uh, oh, electronically some, something,  magic. |sd
 B| Oh,|b
-B|so, they did do a good job?|qy^d
+B|so,  they did do a good job?|qy^d
 A|Yeah,|ny
 A|you know, they,|sd
 A|but it's electronic.|sd
@@ -114,7 +114,7 @@ A|and it, it's really remarkable.|sd
 A|Uh, the problem they had|sd
 A|and then they wanted some gray to do the, to do the trim.|sd
 B|Uh-huh.|b
-A|And, uh, but they didn't, didn't occur to them that, um, that they could have taken a sampleum, from,|sd
+A|And, uh, but they didn't, didn't occur to them that, um, that they could have taken a sample um, from,|sd
 B|Uh-huh.|b
 A|I forgotten, *listen|sd
 A|this is Sherwin Williams Paint or something|sd
@@ -122,14 +122,14 @@ A|but anyway. It's, it's remarkable.|sd
 A|That's one of the problems though when you start painting to try to get the, you know,|sd
 A|you want this, you want this to look like this|sd
 A|and you want that to look like that|sd
-A|and,of course, if it's all white you're all right|sv
+A|and, of course, if it's all white you're all right|sv
 B|Uh-huh.|b
 A|but when you start getting into colors,|sv
 A|have you had problems getting colors to match?|qy
 B|Yeah.|ny
 B|Yeah.|ny
 B|As a matter of fact, uh, what we've got ours painted now is kind of a light creamy color and a, uh, a blue|sd
-B|and the blue, even so many years, two years later or so it doesn't match,you know,|sd
+B|and the blue, even so many years, two years later or so it doesn't match, you know,|sd
 A|Um.|b
 A|So,|%
 B|it's the very same type of paint and everything,|sd
@@ -143,7 +143,7 @@ B|I repainted the whole thing.|sd
 A|Oh, my|ba
 A|Well, at least you'll get very good at it, right?|qy
 B|Yeah.|ny
-A|You could go back and, and paint,the whole thing over|sv
+A|You could go back and, and paint, the whole thing over|sv
 B|Yeah.|aa
 A|that's, uh, this is an interesting topic that they would bring up painting|sv
 A|because it, uh, it seems like everybody has a, you know, to go in and do,|sv
@@ -162,7 +162,7 @@ A|I think, I think we left most of it because it gets to be, uh,|sd
 A|they don't do that in the newer houses now|sd
 A|we don't,|%
 B|Yeah.|b
-A|the mold ,everything is white .|sd
+A|the mold , everything is white .|sd
 A|In a new house everything is white.|sd
 B|White,|aa
 B|yeah.|aa
@@ -174,27 +174,27 @@ A|Actually, I, I don't know whether it made,|sd
 A|actually it does,|sv
 A|it's interesting that the white, um, makes the rooms look bigger.|sv
 A|One of the,|%
-A|in our down stairs in our dining room we have a formal dining room, it has molding, uh, like picture frames, I don't know what you call thatthat actually, that are along the walls, you know, up a couple of feet.|sd
+A|in our down stairs in our dining room we have a formal dining room, it has molding, uh, like picture frames, I don't know what you call that that actually, that are along the walls, you know, up a couple of feet.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|And my wife painted those, the insides of those dark blue.|sd
 B|Oh, I see.|ba
 A|And, uh, it makes the room look remarkably smaller.|sd
-B|Huh. She painted the insides dark blue and then the trim,what color ?|qw^d
-A|The trim,is still white.|sd
+B|Huh. She painted the insides dark blue and then the trim, what color ?|qw^d
+A|The trim, is still white.|sd
 B|Okay.|bk
-A|The,the molding|%
+A|The, the molding|%
 B|White.|b^m
 B|Uh-huh.|b
 A|but by,|%
 A|and she did that all the way around the room which makes it look very attractive,|sd
 B|Yeah.|b
-A|but it makes the room look smaller which is, uhuh, which is,|sd
+A|but it makes the room look smaller which is, uh uh, which is,|sd
 B|Yeah.|b
 A|it explains why they, why they have everything white|sv
-A|but I,you wouldn't think that I,|sv
+A|but I, you wouldn't think that I,|sv
 B|Yeah.|b
-A|well, maybe,maybe that understands colors would know all of that stuff|sv
+A|well, maybe, maybe that understands colors would know all of that stuff|sv
 B|Yeah.|b
 A|but,|%
 B|Well, uh, what about the lighting?|qw
@@ -206,7 +206,7 @@ A|uh, it has|%
 A|the, the, the living room has four, uh, good size windows|sd
 A|and, uh, well, of course, at night|sd
 A|but with the,|%
-A|we have, we have a soccer fieldthat's, um, oh, about a hundred yards from our house|sd
+A|we have, we have a soccer field that's, um, oh, about a hundred yards from our house|sd
 B|Uh-huh.|b
 A|and the lights shine right at our house.|sd
 A|It's kind of,|%
@@ -220,11 +220,11 @@ A|We have a lot of light,|sd
 A|yeah.|ny
 A|And, well, it, it, it, um, well, it's just, uh, I think it's just the, the, the dark blue to about three feet|sd
 A|and then above that we left it white|sd
-A|so. Anyway, it didn't,it didn't change|sd
+A|so. Anyway, it didn't, it didn't change|sd
 B|I see .|ba
 A|but the, the interesting thing is that paint we wound up having to go back and scrape some of that away|sd
 A|it didn't,|%
-A|it kind of bled under the masking tape which, I guess, is probably the topic we'rewe're really on to that, that the masking is,|sd
+A|it kind of bled under the masking tape which, I guess, is probably the topic we're we're really on to that, that the masking is,|sd
 B|Uh-huh.|b
 A|you have to do that very, very carefully.|sd
 B|And it takes a long time,|sd

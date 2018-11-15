@@ -1,9 +1,9 @@
 A|Okay.|fo_o_fw_"_by_bc
 A|Go ahead.|ad
 B|Well, uh, a friend of mine actually works for McDonald Douglas in the, uh, in the space station program|sd
-B|soI get to find out a lot of information about what's going on there|sd
+B|so I get to find out a lot of information about what's going on there|sd
 A|Oh.|b
-B| and it sure sounds like that's going to be a really viable program if it continues to be funded at current levels.|sv
+B| and  it sure sounds like that's going to be a really viable program if it continues to be funded at current levels.|sv
 A| Sure. |b
 A|Uh-huh.|b
 B|Uh, they're, they're going to be doing a lot of interesting things.|sv
@@ -11,7 +11,7 @@ B|Uh, I think one of the big things he's involved with is the micro gravity payl
 B|And that has a direct impact on a lot of things that we really can't do down here on earth including, uh, some new pharmaceutical techniques.|sv
 A|Oh, you're kidding.|ba
 A|Yeah.|b
-B|So, you know,  there's there's a big opportunity for us to explore, uh, what sorts of things you can do in a zero gravity environment.|sv
+B|So, you know,  there's  there's a big opportunity for us to explore, uh, what sorts of things you can do in a zero gravity environment.|sv
 A| Huh. |%
 A|Uh-huh.|b
 A| Sure. |b
@@ -41,17 +41,17 @@ A|and, uh, you know, who would have cared about earth?|qh
 A|It would have been another planet to kind of take over and, uh, continue on.|sv
 A|So, you know, and that|%
 A|when I look at the space program itself, I think of it, you know, as being in terms of it's, it's interesting to learn but it's also, it's, it brings down the fact that this earth is it.|sd
-A|It's it for us, you know what I mean?Uh, unless technology makes the decision that we are all going to live in space or whatever.|sv
+A|It's it for us, you know what I mean? Uh, unless technology makes the decision that we are all going to live in space or whatever.|sv
 B|Right.|b
 A|But I would love to, uh, go into the space shuttle some day and, uh, just see, uh, you know, the earth and the different planets and things like that.|sd
 A|I, I think it would be very interesting to do but whether it would be feasible to do I don't know.|sd
-B|Well, uh, as far as the practical aspects go, I suspect that the space station may actually be a good compromisebecause we have the opportunity to off load some things to the space station.and, uh, and not doing anythingbetween, you know, deep space I'm sorry, deep space exploration|sd
+B|Well, uh, as far as the practical aspects go, I suspect that the space station may actually be a good compromise between, you know, deep space I'm sorry, deep space exploration and, uh, and not doing anything because we have the opportunity to off load some things to the space station.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Sure.|b
 A|Exactly.|aa
 A|Uh-huh.|b
-B|And, uh, you know, perhaps we can find better techniques for doing things that, uh, we'd normally do down herethat are damaging to the environment.|sd
+B|And, uh, you know, perhaps we can find better techniques for doing things that, uh, we'd normally do down here that are damaging to the environment.|sd
 A|Uh-huh.|b
 A|Exactly.|aa
 A|Yeah,|b
@@ -73,6 +73,6 @@ B| Right. |b
 A|It's like, God if I don't get to see the sun I'm going to be in this bad mood all this entire time|sv
 A|and this is how I see people reacting.|sd
 A|You know, when is the sun going to come out?|qh
-A|So I wonder how, you know, somebody living up in space is going to be able to tolerate never seeing the sun You know, in the aspect that we see it.Uh, and never seeing, uh, you know, light, bright days, you know.|sd
+A|So I wonder how, you know, somebody living up in space is going to be able to tolerate never seeing the sun You know, in the aspect that we see it. Uh, and never seeing, uh, you know, light, bright days, you know.|sd
 B|Right.|b
 A|And,|%

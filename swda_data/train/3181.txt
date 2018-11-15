@@ -7,11 +7,11 @@ B|And so basically at this point I'm, I'm a real walker.|sd
 A|I am, too.|sd
 B|Are you?|bh
 A|Yes.|ny
-B|I don't do that, oh, I guess I'll call it that fancy type walking where they kind of move their hips, you know, andkeep their arms up.|sd
+B|I don't do that, oh, I guess I'll call it that fancy type walking where they kind of move their hips, you know, and keep their arms up.|sd
 A|Uh-huh.|b
 B|I don't do that.|sd
 B|I mostly just take a, a walk around the block or with my baby|sd
-B|or, you know, and I have to do that at least once a day. If it,If it's going to make any effect on, since I have to eat the same as I did before.|sd
+B|or, you know, and I have to do that at least once a day. If it, If it's going to make any effect on, since I have to eat the same as I did before.|sd
 A|Oh, that's good.|ba
 B|I can't neglect that because of the baby either.|sd
 A|And how old is your baby?|qw
@@ -27,9 +27,9 @@ A|and he lost sixty-two pounds|sd
 A|and I lost twenty-one.|sd
 B|Oh, my goodness.|ba
 A|So we've decided to maintain our weight, that we will do this exercise walking program|sd
-A|and we walk our dog every nightand go up around the elementary school.|sd
+A|and we walk our dog every night and go up around the elementary school.|sd
 B|Uh-huh.|b
-A|We have a little path that we do.which it hasn't beenAnd, uh, except if it's raining or real cold|sd
+A|We have a little path that we do. And, uh, except if it's raining or real cold which it hasn't been|sd
 B|Uh-huh.|b
 B|Yeah.|b
 B|Exactly.|b
@@ -37,7 +37,7 @@ A|we try to get out, uh, every, every night.|sd
 B|Uh-huh.|b
 A|And he plays racquetball twice a week,|sd
 A|but I'm not into that,|sd
-A|soI think the walking is enough to help us stay in shape and toned.|sv
+A|so I think the walking is enough to help us stay in shape and toned.|sv
 B|Well, I think that is just wonderful.|sv
 B|Now, as far as I'm concerned, I have several other children|sd
 B|and so, uh, I think at this point to fit it into, to other things, it's kind of a task.|sv
@@ -58,7 +58,7 @@ B|Oh, see, now that's really nice.|ba
 A|Yes.|aa
 B|Because mine's at meetings sometimes|sd
 B|and, and he's not really into it|sd
-B|soI have to,|%
+B|so I have to,|%
 A|No|%
 A|my husband never was either until he lost the weight.|sd
 B|Uh-huh.|b
@@ -75,7 +75,7 @@ B|I think that's really, really good.|sv
 B|And, and, you know, I think this, after you've done it a certain amount of time, it kind of does get to be a routine.|sv
 A|Yes.|aa
 B|It's not,|%
-B|like when I first started, it, you know, that was the hardest thing wasto get ready and get out there.|sd
+B|like when I first started, it, you know, that was the hardest thing was to get ready and get out there.|sd
 A|Making time for it.|^2
 B|But now if I haven't done it in a day or two or something, I really notice that I haven't done it in a ...|sd
 A|Yes.|b
@@ -85,7 +85,7 @@ B|And when they don't, I, I really notice, you know, how fun it can be when they
 B|So, uh, I like to have somebody come with me.|sd
 A|I know,|aa
 A|I do, too.|sd
-B|Uh, I know most of, enough of the people that if anything ever happened I could go to a homearound this block area.|sd
+B|Uh, I know most of, enough of the people that if anything ever happened I could go to a home around this block area.|sd
 A|Right.|b
 B|So it, it's not real dangerous,|sd
 B|but still, I don't like to go alone.|sd
@@ -105,7 +105,7 @@ B|I was on an exercise program before where it was more like an aerobics type th
 A|Uh-huh.|b
 B|Uh, I found real quick that wasn't for me.|sd
 A|Me, too.|sd
-A|I did the dance step when I lived up inMichigan|sd
+A|I did the dance step when I lived up in Michigan|sd
 B|Uh-huh|b
 A|and it just wore me out.|sd
 A|I would leave totally exhausted.|sd
@@ -119,10 +119,10 @@ B|Right|aa
 B|right.|aa
 B|And it gives me time to think.|sd
 B|So I think, not only does it help my body,|sd
-B|but I think it helps my mindtoo.|sd
+B|but I think it helps my mind too.|sd
 A|Yes.|aa
 B|So I like that.|sd
-A|That's the one time in the day my husband and I can get away and talkwithout having the kids jump in and ...|sd
+A|That's the one time in the day my husband and I can get away and talk without having the kids jump in and ...|sd
 B|Uh-huh.|b
 B|Yeah,|aa
 B|need something|^2

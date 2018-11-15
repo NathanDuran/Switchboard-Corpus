@@ -9,13 +9,13 @@ B|the history of our country has been inches|sv
 B|and I don't think there's a big advantage in going to the metric system.|sv
 A|Uh-huh.|b
 B|It, it's going to disorient and confuse a lot of people for years and years|sv
-B|and there are going to be people who die because of it because they don't understand, uh, you know, simple things from the amount of medicine they should take to how fast they can driveand you know how far away something is|sv
+B|and there are going to be people who die because of it because they don't understand, uh, you know, simple things from the amount of medicine they should take to how fast they can drive and you know how far away something is|sv
 A|Yeah.|b
 B|and it's, it's not in our national consciousness to do it.|sv
-B|We've always measured things in the English systemand, you know, everything, you know,|sd
+B|We've always measured things in the English system and, you know, everything, you know,|sd
 A|Yeah.|b
 B|our land is in acres,|sd
-B|our people aren't going to understand whatan amount of something is.|sv
+B|our people aren't going to understand what an amount of something is.|sv
 A|Right.|b
 A|Yeah,|aa
 A|I, I agree with you.|aa
@@ -43,35 +43,35 @@ B|and if it's necessary to translate back and forth between them, it can be done
 A|Yeah.|b
 B|because I'm a mechanical engineer|sd
 B|and I've had to work when I was designing packages for people,|sd
-B|I mean I had to, to work both systemsback and forth|sd
+B|I mean I had to, to work both systems back and forth|sd
 A|Uh-huh.|b
 B|and it was not hard|sd
 B|and you get, you can get a CAT CAM system that can take any design you want|sd
 B|and you can push a button|sd
-B|and it'll convert every measurement on therein seconds.you know, from one system to the other|sd
+B|and it'll convert every measurement on there you know, from one system to the other in seconds.|sd
 A|Right.|b
-A|There's a lot ofpeople,|sd
+A|There's a lot of people,|sd
 A|like you're educated,|sd
 A|I'm educated,|sd
 A|my husband is,|sd
 A|but, I mean, a lot of people are flat not educated|sd
-A|and if I have a hard time, you knowputting that into my life, can we put that off on the other eighty percent of the population that doesn't have any college|sv
+A|and if I have a hard time, you know putting that into my life, can we put that off on the other eighty percent of the population that doesn't have any college|sv
 B|Really.|aa
-A|or I don't know how much of theyou know,|h
+A|or I don't know how much of the you know,|h
 B|Yeah.|b
-A|but a large percentage probably over half of the rest of the populationthey don't have any college probably much at all|sv
+A|but a large percentage probably over half of the rest of the population they don't have any college probably much at all|sv
 B|Absolutely.|aa
-A|and if we can't take it and use it easily, well, how can you put that on, like, elderly people andyou know, just people that maybe just aren't blessed with as, as much sharpness and mental acuity,|sv
+A|and if we can't take it and use it easily, well, how can you put that on, like, elderly people and you know, just people that maybe just aren't blessed with as, as much sharpness and mental acuity,|sv
 B|Oh, yeah,|b
 B|it's just,|%
-B|Or, or even have had the ability, you know, the chance to, to go to college or to, toto learn about,|sv
+B|Or, or even have had the ability, you know, the chance to, to go to college or to, to to learn about,|sv
 A|Yeah.|b
 B|I think it's still good they do cover the system.|sv
 B|I think it should still be taught in schools.|sv
 A|Yeah.|b
 B|And they do,|sd
 B|I know now because I,|sd
-B|even when I was in elementary school years agobasically the other alternate forms of measurements, things like that.they were, you know, we learned what a centimeter was and a decimeter and the various, you know|sd
+B|even when I was in elementary school years ago they were, you know, we learned what a centimeter was and a decimeter and the various, you know basically the other alternate forms of measurements, things like that.|sd
 A|Uh-huh.|b
 A|Right.|b
 A|Yeah.|b
@@ -81,7 +81,7 @@ A|I think it failed, too,|sv
 A|because like what you said of just, you know, hey this is ridiculous.|sv
 A|The thing Americans have so much stress on them right now.|sv
 B|Yeah|b
-A|I mean if you look at the average family it's, like, man, they barely have time to stop and get gas, much less to try and figure out how much gas they're really getting anddo all this.|sv
+A|I mean if you look at the average family it's, like, man, they barely have time to stop and get gas, much less to try and figure out how much gas they're really getting and do all this.|sv
 B|Really|aa
 A|It's like, I mean come on let's take the pressure,|sv
 B|You know you need twenty gallons, but do you need how many liters|sv
@@ -91,10 +91,10 @@ B|Yeah.|b
 A|the American family doesn't need any more pressure.|sv
 A|Just leave them alone,|sv
 A|let them measure their drinking water in cups|sv
-A|andleave them alone|sv
+A|and leave them alone|sv
 B|Yeah.|b
 B|And it, it just doesn't, it just doesn't make that much difference in the average life|sv
-B|and the scientific community and places where it's neededyou know, that's fine|sv
+B|and the scientific community and places where it's needed you know, that's fine|sv
 A|Yeah.|b
 B|and the rest of the world, I mean, we are,|sv
 B|it's not,|%
@@ -109,7 +109,7 @@ B|That's kind of the way I feel about it.|sd
 B|We can convert,|sv
 A|And, and if they don't like the way we do it just get off our, don't worry about it. And I think,|sv
 B|Yeah,|b
-B|it, it's kind of like expecting everyone to suddenly speak German.You know.|sv
+B|it, it's kind of like expecting everyone to suddenly speak German. You know.|sv
 A|Right,|aa
 A|it is|%
 A|because it is another language,|sd

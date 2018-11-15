@@ -56,7 +56,7 @@ B|I mean, I'm talking about the really rich.|sd
 A|Well, they should just tax everybody the same amount no matter what you make.|sv
 B|Right.|b
 A|That would be fair.|sv
-B|Now I'll go along with that.You know,|aa
+B|Now I'll go along with that. You know,|aa
 A|Yeah|b
 A|no loopholes or anything.|sv
 A|Everybody pays ten percent or fifteen or whatever.|sv
@@ -81,7 +81,7 @@ B|they withhold what they're supposed to and at the end of the year it's not eno
 A|Oh, great,|ba
 A|so you ought to be saving up some every month to make up for all what they should be taking out.|sv
 B|Right,|aa
-B|so now, you know, when you sign your W-Four form or whatever, W-TwoWhich is ridiculous,whatever that is, then they always say, do you want a extra amount for state.|sd
+B|so now, you know, when you sign your W-Four form or whatever, W-Two whatever that is, then they always say, do you want a extra amount for state. Which is ridiculous,|sd
 A|Uh-huh.|b
 B|but it's been that way for the last probably ten years.|sd
 A|Yeah,|b

@@ -1,5 +1,5 @@
 A|So what are your feelings on the topic today as far as crime in America today?|qo
-B|Well, I think some of the blame can be placed on plea bargaining and people getting less time and not serving any of the, or a lot less of the,given by the court system,time than they're|sv
+B|Well, I think some of the blame can be placed on plea bargaining and people getting less time and not serving any of the, or a lot less of the, time than they're given by the court system,|sv
 A|Yeah.|b
 B|but, I don't know,|h
 B|with the economy the way it is, I think crime can't do much but go up.|sv
@@ -11,7 +11,7 @@ A|and then when he gets caught, he'll be sentenced to something like five to sev
 A|but he gets five days credit for every day he serves.|sd
 A|I mean, it's like a bonus to go to jail.|sv
 B|Right.|b
-A|So,subsequently, a five year sentence means he's going to be out in, uh, a year on probation.|sd
+A|So, subsequently, a five year sentence means he's going to be out in, uh, a year on probation.|sd
 A|I mean, what he does, the chief said is he just merely goes back to his, his stash where he has it hidden and continues to operate|sd
 A|and, uh, when he uses up all that and spends all that money, then he, uh, starts robbing houses again or whatever and gets caught again and goes through the same thing.|sd
 B|Well, there was an article in our paper Sunday that the average person sentenced to seven to ten years in North Carolina, the average serves six weeks|sd
@@ -30,7 +30,7 @@ A|It's just, uh, it's terrible the way it is right now.|sv
 B|I think the general public is so overwhelmed by things right now, so many different things coming in so many different directions that they've just decided to become apathetic towards it all because they realize there's|sv
 B|or they think that there's absolutely nothing they can do about it.|sv
 A|Yeah,|aa
-A|as far as steps to reduce crime, if it's, uh, crimes like we're just been discussing, obviously we, we need more prisons and more corrective facilities to put these people into, uh, take them off the streets,|sv
+A|as far as steps to reduce crime, if it's, uh, crimes like we're just been discussing, obviously we, we need more prisons and more corrective facilities to put these people in to, uh, take them off the streets,|sv
 B|Yeah.|b
 A|but I don't think that's going to happen because, just like you said,|sv
 A|and our state's a good example,|sv
@@ -38,7 +38,7 @@ A|your state's a good example|sv
 A|and, it's just not going to happen.|sv
 A|As far as the murderers, and people that commit rape and things like that, I'm not sure what's right,|sd
 A|but I know it,|sd
-A|it's not right to put them in there and let them live for years and years and leers, years before you do execute them or whatever because it's, has to be very costly to feed a prisoner and toclothe him|sv
+A|it's not right to put them in there and let them live for years and years and leers, years before you do execute them or whatever because it's, has to be very costly to feed a prisoner and to clothe him|sv
 B|Yeah.|b
 A|and, you know, to, I'm sure he gets to watch a lot of T V|sv
 A|and I'm sure they have, uh, exercise facilities and movies|sv
@@ -53,12 +53,12 @@ A|it's a big problem|sv
 A|and hopefully something will come out of it.|sd
 A|So, I don't know.|h
 B|Uh,|%
-A|I'm, uhI'm pretty much of a hard person,|sd
+A|I'm, uh I'm pretty much of a hard person,|sd
 B|I hope so.|sd
 A|uh, I believe in capital punishment,|sd
 A|I mean, you know, a person rapes a kid or shoots someone or kills someone,|sd
 A|I mean, you know, if it's just downright, outright,|sd
-B|Oh, I definitely believe in capitalpunishment.|sd
+B|Oh, I definitely believe in capital punishment.|sd
 A|Oh.|b
 A|You bet,|aa
 A|I mean, that's the only way to,|sv

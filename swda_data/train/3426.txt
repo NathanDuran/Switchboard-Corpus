@@ -2,24 +2,24 @@ A|All right.|fo_o_fw_"_by_bc
 A|I, I like keep forgetting to make these calls.|sd
 A|I've been on this list for two months.|sd
 B|Oh, really,|b
-B|I just,Oh, I just got mine last week,|sd
+B|I just, Oh, I just got mine last week,|sd
 A|I think I've made four calls|sd
-B|and I haven't started yet because I wanted to get one firstsee how it worked.|sd
+B|and I haven't started yet because I wanted to get one first see how it worked.|sd
 A|Right.|b
 A|Well there are some kind of nice prizes,|sd
 A|and it's worth doing it.|sv
 A|I so mad I think I've had this for two months|sd
 A|and, like I've said, I've made four calls,|sd
-A|and lot of times we don't answer the phone, probably when I get mineearly in the evening|sd
+A|and lot of times we don't answer the phone, probably when I get mine early in the evening|sd
 B|Really.|b
 B|Yeah.|b
 A|Well, we're supposed to talk about movies.|ad
 A|Have you been to any lately?|qy
 B|I have, I was trying to think of the one I went to a couple of weeks ago,|sd
 B|but I forgot it already.|sd
-A|Uh, I haven't really seen one since probably August because, uh, every weekend in, in the Fall we go to our high school football game on Fridaythen we go out with friends after,|sd
+A|Uh, I haven't really seen one since probably August because, uh, every weekend in, in the Fall we go to our high school football game on Friday then we go out with friends after,|sd
 B|Oh.|b
-A|and that's kind of thefor the,our social|sd
+A|and that's kind of the our social for the,|sd
 B|That's your weekend.|^2
 B|Yeah|b
 B|really.|b
@@ -85,7 +85,7 @@ B|Right,|b
 A|So.|%
 B|but I didn't think they were great for my daughter|sv
 A|No,|aa
-A|it'll teach a great lesson, because she endedup so, in so|sv
+A|it'll teach a great lesson, because she ended up so, in so|sv
 B|No.|aa
 B|Really,|b
 B|really.|b
@@ -140,7 +140,7 @@ A|Where are you from?|qw
 B|I'm from New York.|sd
 A|Oh, I was going to|sd
 A|well my husband's from New Jersey,|sd
-A|andwe lived there for five years when we first got married|sd
+A|and we lived there for five years when we first got married|sd
 B|Is he really.|b
 B|Oh.|b
 A|and so, it sound kind of nice,|sd
@@ -151,18 +151,18 @@ B|it's so close,|sd
 B|I'm from Long Island|sd
 A|Oh.|b
 B|so that's close, you know,|sd
-B|that'smore related to New Jersey than it is to like Rochester, New York, those, that kind of thing.|sd
+B|that's more related to New Jersey than it is to like Rochester, New York, those, that kind of thing.|sd
 A|Right.|b
 A|I don't know up there.|sd
 B|Yeah,|b
 B|different,|^2
-B|it'sit's different,|^2
+B|it's it's different,|^2
 A|Just, uh,|%
 A|different,|aa
 A|uh-huh.|aa
 B|yeah,|%
 B|I guess.|h
-A|Well, see the accents up there fascinated me, because even in his family alone, there were several different accentsthe way they would pronounce words differently.|sd
+A|Well, see the accents up there fascinated me, because even in his family alone, there were several different accents the way they would pronounce words differently.|sd
 B|Oh.|b
 B|Really.|b
 A|And, and his family, they lived in the same house there,|sd
@@ -195,7 +195,7 @@ A|I knew it was easier back here.|sd
 B|Are you from Texas?|qy
 A|Well, sort of.|na
 A|I'm an Air Force brat,|sd
-A|butI was real familiar with Texas.|sd
+A|but I was real familiar with Texas.|sd
 B|Oh, yeah,|bk
 A|I went to college here and everything.|sd
 B|Oh, yeah.|b

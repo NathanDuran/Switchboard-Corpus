@@ -3,7 +3,7 @@ A|where does she live?|qw
 B|Uh, on Rutherford.|sd
 A|Rutherford.|b^m
 A|I don't know that.|sd
-B|It's, uh, corner of New Yorkuh, just west of Mayfield.|sd
+B|It's, uh, corner of New York uh, just west of Mayfield.|sd
 A|Uh-huh.|b
 A|It's, oh, oh, south and, okay,|bk
 A|yeah,|b
@@ -11,13 +11,13 @@ A|I know where you, I know the area.|sd
 B| Uh. |%
 A| Right, |b
 A|that's kind of on the other side of town,|sd
-A|soour kids probably never went to school together or anything|sd
+A|so our kids probably never went to school together or anything|sd
 B|Oh, okay.|bk
 B|Oh, they're, they're little ones  |sd
 A| Oh, well,  I've got one in college|sd
 B|Oh.|b
 A|By now.|fo_o_fw_"_by_bc
-B|Let's see, we're on government, whether  we think it's honest  or can be. |sd
+B|Let's see, we're on government,  whether  we think it's honest  or can be. |sd
 A| Right. |aa
 A| Whether it is  possible to have an honest government. I'm beginning to think it's not.|sd
 A|What about you?  |qo
@@ -30,7 +30,7 @@ A|Yeah,|aa
 A|it seems like, uh, maybe more of them come in with good intentions,|sv
 A|but it's just so enticing,|sv
 A|and a lot of corners being cut and the special deals available, because they're in on the know , you know|sv
-B|I don't know  if, you know X amount of money to keep them honest.there is enough money that you could pay them  just, |sd
+B|I don't know  if,  there is enough money that you could pay them  just,  you know X amount of money to keep them honest.|sd
 A| Oh. |b
 B|I just, I just don't, uh,|sd
 A|Right.|aa
@@ -42,7 +42,7 @@ A|So maybe it's just man's nature|sv
 B|We had, uh, here in Oklahoma we had a few years ago a major, uh, corruption on, on our county commissioners|sd
 A|Uh-huh.|b
 B|and there were several counties, uh, including the one I was in, that lost every one of their county commissioners|sd
-B|and,I mean, it was to the point of not just losing their job, but going to jail.|sd
+B|and, I mean, it was to the point of not just losing their job, but going to jail.|sd
 A|Oh, my word.|ba
 A|Oh, wow.|ba
 A|What were they doing  taking some, |qw
@@ -69,7 +69,7 @@ B|I don't know, you know,|h
 B|I really don't know what could be done.  Uh, |sd
 A| I don't,  I don't either. Uh, to make it totally honest.|sd
 A|Uh, I think there's, there's always going to be some way somebody can cut a corner, uh.|sv
-A|However, the things that have gone, gone on in the last couple of years, we can't afford too many of those, you  know, the the HUD mess or the S and L.|sv
+A|However, the things that have gone, gone on in the last couple of years, we can't afford too many of those, you  know, the  the HUD mess or the S and L.|sv
 B| That's  right.|aa
 A|We could almost not afford such terrible corruption.|sv
 B|The cover-ups and,|sv
@@ -81,7 +81,7 @@ A|but,  uh, |%
 B| I,  uh, I don't know.|h
 B|I just, uh, I'd like to believe that there is some way that our political people would really go there and look out for our interests.|sd
 A|Right.|b
-B|I think that's what upsets me worse than, that they're getting a little, you know, uh, on the sidethan this is the way my constituents want it. it seems that when they  get up there it's, it's what, if I vote your way, what it'll do for me  rather, that, that,|sd
+B|I think that's what upsets me worse than, that they're getting a little, you know, uh, on the side that, that,  it seems that when they  get up there it's, it's what, if I vote your way, what it'll do for me  rather,  than this is the way my constituents want it.|sd
 A|Uh-huh,|b
 A|uh-huh.|b
 A|That's right, |aa
@@ -95,11 +95,11 @@ A|I don't know.|h
 A|I guess that's where they stay in, uh, in,|sv
 A|they try to stay in office.|sv
 A|But they always please the money people too.|sv
-A|They need money so much, because they're constantly having to  run, for office again.|sv
+A|They need money so much, because they're constantly having to  run,  for office again.|sv
 B| run, |^2
 A| And, |%
 B| Maybe |arp_nd
-B|and then you think, well, if it was longer termsthen they would never have to try to please the people at home  |sv
+B|and then you think, well, if it was longer terms then they would never have to try to please the people at home  |sv
 A|Uh-huh.|b
 A|  That's true.|aa
 A|Boy, it is a big problem,|sv
@@ -112,4 +112,4 @@ A|I mean, there was a time, I mean where, I remember when I was real young, I ju
 A|I thought he was great|sd
 A|Oh, you know, I had,|%
 A|some of them seemed like kind of, uh, heroic people.|sd
-B|Well I wonder if they really were, or if we just  really didn't,|sd
+B|Well I wonder if they really were,  or if we just  really didn't,|sd

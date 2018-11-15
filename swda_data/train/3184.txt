@@ -5,7 +5,7 @@ A|Okay,|b
 A|right.|b
 B|Uh, I mean I, I live in a nice area|sd
 B|and I rent my home|sd
-B|andIn, uh, Texas,uh, we aren't sure we're going to buy a house yet because we don't know if we're going to be staying here.|sd
+B|and uh, we aren't sure we're going to buy a house yet because we don't know if we're going to be staying here. In, uh, Texas,|sd
 A|Uh-huh.|b
 A|Sure,|b
 A|uh-huh.|b
@@ -16,24 +16,24 @@ A|We're out of the cities quite a ways,|sd
 A|so it's kind of more of a country setting|sd
 A|and, uh, it's just a typical, uh, three bedroom type of home.|sd
 A|It's, it's nothing, you know, elaborate where it has, uh, this or this or, you know.|sd
-A|It's, it'sjust a typical home with, uh, three bedrooms, uh, two story type home.|sd
+A|It's, it's just a typical home with, uh, three bedrooms, uh, two story type home.|sd
 B|Uh-huh.|b
 A|Uh, and I think as far as if it's, for put it into standards of, uh, what other homes are around here, it would be just about fitting right into the middle part of where the homes are.|sd
 A|Uh, there's a river across from us which has more elaborate homes|sd
 A|and yet there's,|%
 A|where we can view the river from that distance, there's still homes within our area that are, you know, pretty typical of what our home is,|sd
-A|soit's, uh, pretty much that, uh, type of, uh, home|sd
+A|so it's, uh, pretty much that, uh, type of, uh, home|sd
 B|Uh-huh|b
 A|so,|%
 B|Yeah.|b
-B|Well, ourour house, we, we're renting it from an individual who bought it|sd
+B|Well, our our house, we, we're renting it from an individual who bought it|sd
 B|and he lives in Korea.|sd
 A|oh, really?|bh
 B|And, uh, he's recently moved here|sd
-B|and he's owns eight or nine propertiesuh, near here|sd
+B|and he's owns eight or nine properties uh, near here|sd
 A|Sure.|b
 A|Uh-huh.|b
-B|and, uh, so,to me.Which is just, uh, in trouble|%
+B|and, uh, so, Which is just, uh, in trouble to me.|%
 A|Yeah.|b
 A|Oh, yeah,|b
 A|yeah.|b
@@ -90,21 +90,21 @@ B|No,|nn
 B|huh-uh.|nn
 B|I've, well, I've gotten several calls.|sd
 A|Uh-huh.|b
-B|Uh, but, uh,Yeah.|%
+B|Uh, but, uh, Yeah.|%
 A|I'm always the one that initiates the calls because I kind of like it because it's like I can get it done with|sd
 A|I don't have to wait until somebody calls me even though I have a feeling what's going to happen is I'll probably get tons of calls, you know, so, sooner or later.|sd
 B|Yeah,|b
 B|yeah,|b
 B|well, they've, I've talked to some people from Cleveland|sd
-B|and I did talk to someonein the same city I do,else who lives here|sd
+B|and I did talk to someone else who lives here in the same city I do,|sd
 A|Uh-huh.|b
-B|sothat was kind of interesting|sd
+B|so that was kind of interesting|sd
 A|Yeah,|b
 A|yeah.|b
 A|Yeah,|b
 A|sure.|b
 B|They're, they're sure getting their people out,|sv
-B|so, wellit was nice to talk to you, anyway|fc
+B|so, well it was nice to talk to you, anyway|fc
 A|Yeah.|fc
 B|and,|fc
 A|Okay,|fc

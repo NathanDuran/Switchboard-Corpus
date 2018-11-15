@@ -11,7 +11,7 @@ B|and I have a Sheltie.|sd
 A|Schnauzers.|b^m
 A|Is it a miniature or a standard Schnauzer?|qy
 B|It, it's a miniature.|sd
-A|Uh.I'm going into all this because I used to I just got done working at a pet shop actually.|%
+A|Uh. I'm going into all this because I used to I just got done working at a pet shop actually.|%
 B|Uh-huh.|b
 B|Oh, okay.|b
 A|Yeah.|b
@@ -21,7 +21,7 @@ A|Uh.|b
 B|and I'm taking care of his dog|sd
 B|and, uh, and I had just got the kitten when he asked me that|sd
 B|and he says, well, my dog doesn't like cats,|sd
-B|and I said, well, we won't tell him it's a we won't tell her it's a cat,because it was a kitten,|sd
+B|and I said, well, we won't tell him it's a we won't tell her it's a cat, because it was a kitten,|sd
 B|and, you know, they just, they just love kittens.|sv
 A|Yeah.|b
 B|They just are fascinated.|sv
@@ -58,7 +58,7 @@ B|they,|%
 B|I think they have a good head on their shoulders.|sv
 B|I think they have a, a higher level of intelligence than other, uh, dogs that I have encountered.|sv
 A|Schnauzers, in particular probably.|sv
-B|Well,yeah,|aa
+B|Well, yeah,|aa
 B|but also some poodles, uh|sv
 A|Oh, yeah.|b
 B|they're kind of,|sv
@@ -74,17 +74,17 @@ A|they're bred down so much.|sv
 A|It's,|%
 B|Uh-huh.|b
 A|They aren't the best pets.|sv
-B|I, I'd, I really don't knowwhat the best pet is.|sd
+B|I, I'd, I really don't know what the best pet is.|sd
 A|Yeah.|b
-B|I guess it's up to the individual and how they relate to their animal.And bull dogs|sv
+B|I guess it's up to the individual and how they relate to their animal. And bull dogs|sv
 A|Yeah,|b
-A|I mean, some people seem fairly well suited forfor, uh, miniature poodles and such.|sv
-B|But I don't know about these, uh, these, uh, uh, these pincers, these, now, what are they called. Pit bulls, pit bullsthat are so vicious.|sd
+A|I mean, some people seem fairly well suited for for, uh, miniature poodles and such.|sv
+B|But I don't know about these, uh, these, uh, uh, these pincers, these, now, what are they called. Pit bulls, pit bulls that are so vicious.|sd
 A|Pit bull.|^2
 A|They might,|%
 A|they're actually very friendly dogs.|sv
 B|Are they really?|bh
-B| I don't think I've ever  seen one. |sd
+B| I don't think I've ever   seen one. |sd
 A| Uh, they're   really nice. |sv
 A|I, I've dealt with quite a few of them.|sd
 A|People, uh, customers that bring them into the shop and ask me like, they, uh, fit collars and stuff on them|sd
@@ -98,9 +98,9 @@ B|Oh, okay.|bk
 A|You really can't get a pit bull from birth that's that way.|sd
 B|Oh, okay.|bk
 A|Yeah,|b
-A|it takes a lot of training and a lot of abuse to get a dog to really respond. |sd
+A|it takes a lot of training and a lot of abuse to get a dog to really  respond. |sd
 B| Oh, dear,|ba
-B|so the the poor animal is doing it in self protection.|bf
+B|so the  the poor animal is doing it in self protection.|bf
 A|Right.|aa
 B|Oh, dear.|ba
 A|Yeah,|aa
@@ -110,14 +110,14 @@ B|Uh-huh.|b
 A|and so once you get them going, it's not good to to deal with, but, they, I, I really like them. *two utts?|sv
 A|I was, I was impressed by them.|sd
 A|They're, they're real sturdy little critters|sd
-A|and they aren't that big.And, uh, just really friendly.|sd
+A|and they aren't that big. And, uh, just really friendly.|sd
 B|Uh-huh.|b
 B| Well, that's unusual. |ba
-A| I was, I was overwhelmed.|sd
+A| I was, I was  overwhelmed.|sd
 B|I,|%
 B|Huh, well, I suppose you were surprised.|bf
 A|Yeah.|b
-B|Afterthe reputation that, you know|sd
+B|After the reputation that, you know|sd
 A|Yeah,|b
 A|right now,|%
 B|they have quite an, uh, uh, notable reputation as far as, you know,|sd
@@ -131,7 +131,7 @@ B|You know, that,|%
 B|they must have just targeted that breed and said, boy, we're going|sv
 A|Well, yeah,|b
 A|it's, when,|%
-A|in my hometown, they just outlawed ferretsin a house.because they had one incident of a ferret, uh, attacking a a child|sd
+A|in my hometown, they just outlawed ferrets because they had one incident of a ferret, uh, attacking a a child in a house.|sd
 B|Oh, okay.|b
 B|Oh, okay.|b
 B|Uh-huh.|b
@@ -147,10 +147,10 @@ A|it, it bit him.|sd
 B|Uh-huh.|b
 A|And that was, that was not a good thing,|sv
 A|but I think it was probably a, an individual ferret thing, because it was it was a fairly wild ferret.|sv
-B|Well, theSure, lookout for that. the people that owned him should have been on the|sv
+B|Well, the the people that owned him should have been on the  lookout for that.  Sure,|sv
 A|Hadn't, they hadn't,|%
 A|Yeah,|b
-A| I mean And taken the precautions.they really should have, should have expected it.|%
+A| I mean  they really should have, should have expected it. And taken the precautions.|%
 A|They didn't.|sd
 B|yeah.|aa
 A|It's too bad it happened, though.|sv

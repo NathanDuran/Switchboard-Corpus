@@ -147,7 +147,7 @@ B|Yeah.|b
 A|So it's, it's not too bad,|sd
 A|it's pretty easy to get the hang of, I think|sd
 A|and, uh, generally, everybody I've, I've known has kind of gotten into it,|sd
-A|but some people are more motorboaters, you knowwhich is fine.|sv
+A|but some people are more motorboaters, you know which is fine.|sv
 B|Yeah.|b
 B|Well, that's about all we have|sv
 A|Yeah,|b
@@ -162,7 +162,7 @@ B|I didn't know that.|sd
 A|Yeah,|b
 A|they get pretty quick,|sd
 A|but|%
-B|Thatthat would be something.|ba
+B|That that would be something.|ba
 A|uh,|%
 A|Yeah,|aa
 A|yeah,|aa
@@ -199,7 +199,7 @@ A|Well that,|%
 B|they have a, you know, worldwide,|sd
 B|but|%
 A|Right.|b
-B|all we do here is make transformerselectronics and stuff like that.|sd
+B|all we do here is make transformers electronics and stuff like that.|sd
 A|Oh, okay.|b
 A|Great.|ba
 A|Yeah,|%

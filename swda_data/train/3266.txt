@@ -16,7 +16,7 @@ A|And it's been quite a few years since I've had to think about that.|sd
 B|Do they go to a day-care center|qy
 B|or do they stay at,|qrr
 A|No.|nn
-A|Uh, my daughter that has three stays homewith her children,|sd
+A|Uh, my daughter that has three stays home with her children,|sd
 B|Oh, that's nice.|ba
 A|and one of my daughters has one|sd
 A|but an aunt keeps the baby.|sd
@@ -25,12 +25,12 @@ A|But I would, I would not really know how to go about selecting one nowadays,|s
 A|but I would imagine it's very hard.|sd
 B|I, I think so.|sv
 B|I think it's hard to find a good day care.|sv
-B|I have worked in at some other ones that were not very goodin my opinion.|sd
+B|I have worked in at some other ones that were not very good in my opinion.|sd
 A|Uh-huh.|b
 B|But this one that I'm in now is, is very good.|sd
 B|And one of the key things is how many adults are there in ratio to the children.|sd
 A|Uh-huh.|b
-B|And like in Pennsylvania for babies, that's what I work with, there has to be a one to four ratio at the most.No more than four babies per care giver.|sd
+B|And like in Pennsylvania for babies, that's what I work with, there has to be a one to four ratio at the most. No more than four babies per care giver.|sd
 A|Uh-huh.|b
 B|But we keep it down to like two to one.|sd
 A|Oh, well, that's good.|ba
@@ -42,7 +42,7 @@ B|Oh, I know.|aa
 B|We,|%
 A|You would have to be able to have enough,|sv
 A|you know, you'd have to be able to get them all out.|sv
-B|What we do is we have these cribs in the back roomwhere they sleep that are, um, low to the ground|sd
+B|What we do is we have these cribs in the back room where they sleep that are, um, low to the ground|sd
 A|Uh-huh.|b
 B|and they're reenforced real strong|sd
 B|and they'll sit four babies.|sd
@@ -100,7 +100,7 @@ B|you have to be real careful all the, everything is baby proof.|sd
 B|You know, all the doors have latches and stuff so they can't get into anything|sd
 B|but they try.|sd
 A|Uh-huh.|b
-A|Do youthink there's very many really good day-care centers around your area?|qy
+A|Do you think there's very many really good day-care centers around your area?|qy
 B|But, yeah,|b
 B|In my area|b^m
 B|because I live in a college town in Penn State University|sd
@@ -108,7 +108,7 @@ A|Uh-huh.|b
 B|so I,|%
 B|there is a lot of, a lot of college educated people and stuff that are in the centers that really seem to have an idea of what's going on.|sd
 A|Uh-huh.|b
-B|And, uh, in general though I've, I've been really disappointed with a lotof other centers I've worked at, and it, all and all|sd
+B|And, uh, in general though I've, I've been really disappointed with a lot of other centers I've worked at, and it, all and all|sd
 A|Uh-huh.|b
 B|it's not my choice for when, when I have children|sd
 B|but, but some people don't have a choice.|sd

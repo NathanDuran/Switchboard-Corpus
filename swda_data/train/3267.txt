@@ -22,13 +22,13 @@ B|is that correct?|qy
 B|I have read that when we were in that area,|sd
 B|and it is a splendid newspaper.|sd
 A|Uh-huh.|b
-B|So, what more do we need to discusstonight?|qw
+B|So, what more do we need to discuss tonight?|qw
 B|That seems like a very short one.|sv
 A|Right.|aa
 A|I think that, you know, we, we've resolved the issue|sv
 A|and that's what we were asked to do.|sd
 B|Well, I can discuss a lot of the news that we have,|sd
-B|but, uh, I feel that that's not part of ourresponsibility.|sd
+B|but, uh, I feel that that's not part of our responsibility.|sd
 A|Right.|b
 A|Right.|b
 B|So thank you for calling.|fc

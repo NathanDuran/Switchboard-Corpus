@@ -15,7 +15,7 @@ A|Good luck on that one, then.|fo_o_fw_"_by_bc
 B|What is that?|br
 A|I said good luck on that one, then.|sd
 B|Well, we've got a pretty good situation, my wife and I, since our property is already paid for.|sv
-B|You know, the main things that I like about the uh, in the job benefitswould be the, uh, the availability of the health insurance and the availability of, uh, you know, being able to transfer around, inside the organization without having, you know, when they cut off a system and they don't just can everybody that is working on it, like some companies I know of.|sd
+B|You know, the main things that I like about the uh, in the job benefits would be the, uh, the availability of the health insurance and the availability of, uh, you know, being able to transfer around, inside the organization without having, you know, when they cut off a system and they don't just can everybody that is working on it, like some companies I know of.|sd
 A|Huh-uh.|b
 B|You know, they give you an opportunity to either transfer into an on going, on going project.|sd
 A|So you work for it T I then|qy^d
@@ -154,13 +154,13 @@ A|What did you get your degree at?|qw
 B|Industrial Marketing.|sd
 A|And what's your job now?|qw
 B|Well, actually I'm selling computer software.|sd
-B|But, the two are mutually exclusive. Because, the, the experience that got me the job that I got now, was my experience in the construction field, prior to going to collegenot my degree, which is I think kind of bizarre.|sd
+B|But, the two are mutually exclusive. Because, the, the experience that got me the job that I got now, was my experience in the construction field, prior to going to college not my degree, which is I think kind of bizarre.|sd
 A|Huh-uh.|b
 A|Maybe.|aap_am
 A|All right,|%
 A|what else could we change?|qo
-A|Oh, I'd like to see flexible hours. And teaching,more of that.shared, job sharing,|sd
-B|Well uh,we've, we've already got that.We've,|sd
+A|Oh, I'd like to see flexible hours. And teaching, shared, job sharing, more of that.|sd
+B|Well uh, We've, we've, we've already got that.|sd
 A|Well, see, we've got a little bit of it, but not much.|sd
 A|It would be nice if you had full insurance coverage if you were doing job sharing.|sv
 A|What else.|t1
@@ -179,7 +179,7 @@ B|I run the whole show.|sd
 B|And when I need something, I tell my boss|sd
 B|and he gets it for me, because he knows, that I know, what I'm doing.|sd
 A|Yeah.|b
-B|You know, and uh, that, that is something that I think needs to be expanded on, specially in the large market place. You know, the major corporation, because so often, you know, you get a guy who's got eight or nine or ten people working for him in separate areasso to speak.|sv
+B|You know, and uh, that, that is something that I think needs to be expanded on, specially in the large market place. You know, the major corporation, because so often, you know, you get a guy who's got eight or nine or ten people working for him in separate areas so to speak.|sv
 A|Yeah.|b
 B|You know, it's, it's hard for me to, you know, especially since I'm in marketing sales, you know,|sd
 B|I make more than my boss. Because he's salary and I'm not.|sd

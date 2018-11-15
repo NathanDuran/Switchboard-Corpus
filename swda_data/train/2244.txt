@@ -19,11 +19,11 @@ B|Um, it's kind of like made out of skirt steak|sd
 B|and you marinate it.|sd
 A|Uh-huh.|b
 B|You can buy marinating mixes here|sd
-B|I don't know,get it up there.|sd
+B|I don't know, get it up there.|sd
 A|Oh.|b
 B|Uh, you can, you know, marinate it in any kind of barbecue sauce you like|sd
 B|and then you, uh, you quick fry it real fast with, in hot, hot grease. You know, not a not, not deep frying it|sd
-B|but you can either barbecue it which is really good,with, uh, green beans, not green beans but green peppers and red peppers and onions.|sd
+B|but you can either barbecue it which is really good, with, uh, green beans, not green beans but green peppers and red peppers and onions.|sd
 B|And, uh, then you put it on a flour, like, you know,|sd
 B|you make your meat real, uh, thin, you know, bite-size pieces.|sd
 A|Uh-huh.|b
@@ -37,7 +37,7 @@ A|Okay.|b
 B|So.|%
 A|Well, that's nice.|ba
 B|So, what kind of cooking do you do up there?|qw
-A|Oh, well, basically, um, because I lived in the Middle East for a while I tend to fix Middle Eastern foods when I have,have people over.|sd
+A|Oh, well, basically, um, because I lived in the Middle East for a while I tend to fix Middle Eastern foods when I have, have people over.|sd
 A|And so, um, some of the dips are like chick peas mashed with, um, sesame.|sd
 B|Uh-huh.|b
 A|And, uh, cold um,|%
@@ -59,13 +59,13 @@ A|it ends up with a barbecued taste.|sd
 A|I,|%
 A|although we usually bake it in the oven|sd
 A|or if we have, uh,|%
-A|those of us that have gas stoves bake it on top just like putting it in the gas flame and sort of getting it black,on the outside but mushy on the inside.|sd
+A|those of us that have gas stoves bake it on top just like putting it in the gas flame and sort of getting it black, on the outside but mushy on the inside.|sd
 B|Oh.|b
 B|Oh, that's unusual I'd never heard of anything like that, you know.|sd
 B|Here in Texas it's all, you know, Tex-Mex cooking and barbecue|sd
 B|and,|%
 A|But barbecue is it like steaks|qy
-A|or is it,uh, turkey?|qrr
+A|or is it, uh, turkey?|qrr
 B|Yeah,|b
 B|you barbecue|%
 B|Pardon me?|br
@@ -77,7 +77,7 @@ B|but my, I cook my turkeys inside, you know,|sd
 B|it|%
 B|you can buy smoked turkeys.|sd
 A|Uh-huh.|b
-B|And or, uh, but most the stuff that we barbecue is like steak and chicken and hamburgers, hot dogs,you know,|sd
+B|And or, uh, but most the stuff that we barbecue is like steak and chicken and hamburgers, hot dogs, you know,|sd
 A|Uh-huh.|b
 B|the simple things like that,|sd
 A|Uh-huh.|b
@@ -91,7 +91,7 @@ B|no,|nn
 B|this is more like hickories, hickory type, you know,|sd
 A|Uh-huh.|b
 B|depending on the|sd
-B|it's like a smokey flavor,if you've ever, you know, had stuff like that.|sd
+B|it's like a smokey flavor, if you've ever, you know, had stuff like that.|sd
 A|Uh-huh.|b
 B|Yeah,|%
 B|it's totally different.|sd

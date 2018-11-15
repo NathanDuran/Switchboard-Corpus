@@ -9,14 +9,14 @@ B|how I met him was through, uh, the aerobics class that he used to teach.|sd
 A|Uh-huh.|b
 A|You're a student?|qy
 B|Yeah,|ny
-B|so.I'm, I'm an avid aerobics, uh, person and just very, very athletic.|sd
+B|so. I'm, I'm an avid aerobics, uh, person and just very, very athletic.|sd
 A|Uh-huh.|b
 B|Enjoying a you know, uh, anything dealing with sports.|sd
 A|Uh-huh,|b
 A|uh-huh.|b
 B|So, and how do you feel about it?|qo
 A|Uh, I'm, I am a person who wishes I had more time to exercise.|sd
-A|I,I don't feel like I,|%
+A|I, I don't feel like I,|%
 A|I don't very often do things for the sake of exercise.|sd
 A|I don't feel well unless I am exercising|sd
 A|and I try to do things that involve exercise,|sd
@@ -35,7 +35,7 @@ B|Yeah,|b
 B|well I, I've,|%
 B|my,|%
 B|that's the way my mother stands on it.|sd
-B|She feels like if it's something that you have to do, you know,then it becomes, it becomes a chore,if you look at it as if you have to do it,|sd
+B|She feels like if it's something that you have to do, you know, if you look at it as if you have to do it, then it becomes, it becomes a chore,|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Yes,|aa
@@ -47,14 +47,14 @@ A|Uh-huh,|b
 A|uh-huh.|b
 B|you're a you know|%
 B|calculated down|sd
-B|and do your calisthenics,you know, three times a week|sd
+B|and do your calisthenics, you know, three times a week|sd
 A|Uh-huh.|b
-B|or,but, but I do try and, um, I do try and regulate how much exercise I get a week.|sd
+B|or, but, but I do try and, um, I do try and regulate how much exercise I get a week.|sd
 A|Uh-huh,|b
 A|uh-huh.|b
 A|Yeah,|b
 A|yeah.|b
-A|Is that why you like aerobics classes, because you're not, sort of, someone else is doing the counting for you, so,it makes it less of a chore?|qy
+A|Is that why you like aerobics classes, because you're not, sort of, someone else is doing the counting for you, so, it makes it less of a chore?|qy
 B|Yeah.|ny
 B|And, it's got,|%
 B|and I've always enjoyed dance.|sd
@@ -71,10 +71,10 @@ A|Uh-huh,|b
 A|uh-huh.|b
 B|So, it, it is like dance,|sv
 B|and it's structured like that,|sv
-B|but you have the music, and someone, like you said, someone else is counting,so, it makes it easier for me.|sv
+B|but you have the music, and someone, like you said, someone else is counting, so, it makes it easier for me.|sv
 A|Yeah.|b
 A|Uh-huh.|b
-B|And, someone else is telling me, okay, you know, let's move this way, let's move that way,instead of me having to think about it so much.|sd
+B|And, someone else is telling me, okay, you know, let's move this way, let's move that way, instead of me having to think about it so much.|sd
 A|Uh-huh,|b
 A|uh-huh.|b
 A|Right.|aa
@@ -86,7 +86,7 @@ B|But, I'm like you,|sv
 B|I also, um, like to participate in, uh, things like,|sd
 B|well, we just went to the, uh, Myererson Symphony Run this past weekend,|sd
 B|and, and that was a lot of fun|sv
-B|and you get to meet different people,out and about,and, um, just get out, you know,|sv
+B|and you get to meet different people, and, um, just get out, you know, out and about,|sv
 A|Uh-huh,|b
 A|uh-huh.|b
 A|Uh-huh,|b
@@ -94,7 +94,7 @@ A|uh-huh.|b
 B|and it's, it, it's something you can all,|sv
 B|like our,|%
 B|we did it as a family,|sd
-B|so,it was, it was quite a lot of fun.|sv
+B|so, it was, it was quite a lot of fun.|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|and, biking|sd
@@ -111,12 +111,12 @@ B|Well, I'm in Texas.|sd
 B|I, I just assumed that I had,|sd
 B|this is the first call I've done,|sd
 A|Uh-huh.|b
-B|and, I didn't realize that they were going to reach out to people from,all over the country.|sd
+B|and, I didn't realize that they were going to reach out to people from, all over the country.|sd
 B|You wouldn't know that|sd
 B|Oh, I,|%
 A|So, it's the, it's, it's the, the well it's actually,|%
 A|it's interesting, because there are real regional differences.|sv
-A|Um, in California there's, uh, almost an assumption,um, unless you're, sort of, clearly of an older generation, or something, you know, in your sixties, or something like that,|sd
+A|Um, in California there's, uh, almost an assumption, um, unless you're, sort of, clearly of an older generation, or something, you know, in your sixties, or something like that,|sd
 A|I'm, I'm, I'm not. Uh,|sd
 A|there's an assumption that you do something for your physical fitness, and, and, at least in urban California.|sd
 A|And, maybe not,|aap_am
@@ -128,15 +128,15 @@ A|but they, you know, the craze really picked up big here|sd
 A|and before that there was the running craze.|sd
 A|And, they,|%
 A|California gets, you know, tends to be a bit faddish,|sv
-A|but,the remarkable thing is how well the fads catch on elsewhere.|sv
+A|but, the remarkable thing is how well the fads catch on elsewhere.|sv
 B|Uh-huh.|b
 A|So, there must be something to some of them.|sv
 A|And, uh,|%
 B|Well, I think people are, are more um, um,|sv
 B|people from California seem to be more health motivated all around. I mean, as far as the diet, and everything. Uh, the diet and, uh, just your health consciousness,|sv
-B|and, I mean, it just,seems like, uh, a lot of those ideas generate out of California.|sv
+B|and, I mean, it just, seems like, uh, a lot of those ideas generate out of California.|sv
 A|Uh-huh.|b
-B|Not just exercise, but,health, health related ideas.|sv
+B|Not just exercise, but, health, health related ideas.|sv
 A|Yeah.|b
 B|And, I,|%
 B|it's curious, I don't know why, don't know if it's,|sv
@@ -146,14 +146,14 @@ A|Well, there's a sense of it being a package,|sd
 A|I think. There, there is a sense of, you know, whole,|%
 A|there's a lot of, you know,|%
 A|you'll get organizations, like institutes for the whole health, or whatever.|sd
-A|And, uh, oh the, the, the University of California at Berkeley puts out THE WELLNESS LETTER. Which is, uh, turned into a fairly well subscribed to, uh, newsletter,monthly or biweekly newsletter or something like that|sd
+A|And, uh, oh the, the, the University of California at Berkeley puts out THE WELLNESS LETTER. Which is, uh, turned into a fairly well subscribed to, uh, newsletter, monthly or biweekly newsletter or something like that|sd
 B|Uh-huh.|b
 A|and, and, it doesn't deal with just exercise, or just stress management, or just diet, or anything.|sd
 A|It, it's on fairly solid scientific ground.|sd
 A|Uh, it's just dispensed with these distinctions.|sd
 A|It says all sorts of factors go into health and there's no reason to talk about one rather than another, so that they, they combined them all together.|sd
 A|And, uh, so it's had that orientation for quite some time.|sd
-A|Um, there's been some progressive medical schools out here,that have taken that approach.|sd
+A|Um, there's been some progressive medical schools out here, that have taken that approach.|sd
 B|Uh-huh|b
 A|And, um,|%
 B|Now do you think that's because they've realized that for whole health, that, the, you know, you have to have that combination, or that people are motivated that way so that they've incorporated that into their program.|qy
@@ -177,7 +177,7 @@ B|so,|%
 A|Yeah,|aa
 A|yeah.|aa
 A|Exactly.|aa
-A|And, part of it is California,you know, in, back in the sixties, had a lot of alternative movements|sv
+A|And, part of it is California, you know, in, back in the sixties, had a lot of alternative movements|sv
 A|and some of them fizzled out|sd
 A|and some of them were disastrous|sd
 A|and others of them, um, had an impact on the society around here.|sd
@@ -192,7 +192,7 @@ B|Uh-huh.|b
 A|and, uh, and exercise is, is strongly considered one of them.|sd
 A|The irony is, is its people in the cities, in my experience, that are most oriented towards doing the exercise.|sv
 A|And, I guess because they spend all day in back of their desks.|sv
-A|The average person out on the farm, at least traditionally, now they drive fancy tractors as much as anythingbut at least traditionally,  the laborers,|sv
+A|The average person out on the farm, at least traditionally, now they drive fancy tractors as much as anything but at least traditionally,  the laborers,|sv
 B|Yeah.|b
 A|last thing, |%
 B| Or they're older. |sv
@@ -200,14 +200,14 @@ A|Pardon me.|br
 B|Well, don't you think they tend to be older in the rural|sv
 B|I, I sometimes think that it's almost frantic effort on the part of the people in the city.|sv
 A|Oh,  like everything else. |bf
-B| I live in a rural area,  you know, I see that.  *sd|sd
+B| I live in a rural area,   you know, I see that.  *sd|sd
 A| Yeah,|aa
 A|yeah.|aa
 A|The rat race to exercise |bf
 B|It's, yeah, it's, it's like it's frantic, to,|sv
 A|Uh-huh.|b
 A|Yeah,|aa
-A|well I,I think so.|sv
+A|well I, I think so.|sv
 B|as a fit person|sd
 A|I mean you, you've,|%
 A|if you look at if you look at other cultures,|sd
@@ -228,7 +228,7 @@ A|and, a lot of that is diet.|sv
 A|That's true.|aa
 B|Yeah.|b
 A|Yeah,|b
-A|I mean, they eat, they eat a lot of carbohydrates, and not much fat.Um, for economical reasons, not for preference.|sd
+A|I mean, they eat, they eat a lot of carbohydrates, and not much fat. Um, for economical reasons, not for preference.|sd
 B|Uh-huh.|b
 A|Um,|%
 B|Yeah|b
@@ -258,7 +258,7 @@ B|it's such a it's such a trouble here.|sd
 B|I mean, you just have to eat at home basically.|sd
 A|I was wondering that,|sd
 A|because I was actually applying for a job in Texas,|sd
-A|and, and, and, uh, it occurred to me, |sd
+A|and, and, and, uh,  it occurred to me, |sd
 B| Well of course in the cities, |sv
 B|yeah,|b
 B|well, in the cities,|%
@@ -266,16 +266,16 @@ B|we live close to Dallas,|sd
 A|Uh-huh.|b
 B|so, uh, which, you know,|%
 B|you get, uh, an influx of a lot of people from all over the country,|sv
-B|so,you're going to have a lot of more choices,|sv
+B|so, you're going to have a lot of more choices,|sv
 A|Uh-huh,|b
 A|uh-huh.|b
-B|but,but, in urban areas it's, you know, steak places,|%
+B|but, but, in urban areas it's, you know, steak places,|%
 A|Yeah.|b
 A|Yeah.|b
-B|an,and it's not a, you know,|%
+B|an, and it's not a, you know,|%
 A|Yeah.|b
 B|it's, uh, it's definitely,|%
-B|it, it's, it's changing to a degree,and foods and things.And, even, even with health food stores and stores where you can buy natural products or, uh, organic, you know, materials,|sv
+B|it, it's, it's changing to a degree, And, even, even with health food stores and stores where you can buy natural products or, uh, organic, you know, materials, and foods and things.|sv
 A|Yeah.|b
 A|Uh-huh,|b
 A|uh-huh,|b

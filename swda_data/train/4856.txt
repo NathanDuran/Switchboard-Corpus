@@ -6,7 +6,7 @@ A|I don't know.|h
 A|A lot of people don't feel that way either|sd
 A|but I just feel that|sd
 B|Well I don't know how much publicity it's gotten outside of the state|sd
-B|but California we just put somebody to deathuh, for, I think it was a double murder.|sd
+B|but California we just put somebody to death uh, for, I think it was a double murder.|sd
 A|Uh-huh.|b
 B|Uh, to be honest, I didn't pay that much attention, uh, to the details of it. Uh,|sd
 B|but it had a lot of controversy out here.|sd
@@ -23,12 +23,12 @@ B|And, I mean, that's, that's ridiculous.|sv
 B|I mean if you can, you know, the trial is supposed to prove, you know, within a reasonable doubt that the person is guilty,|sd
 B|and then they have appeals.|sd
 B|Well, that's fine|sv
-B|but it shouldn't take more,than a few years.|sv
-B|I mean, I  should think two or three years maximum, you should be able to know|sv
+B|but it shouldn't take more, than a few years.|sv
+B|I mean, I  should think  two or three years maximum, you should be able to know|sv
 A| Right. |b
 B|and you should be able to either put the guy to death|sv
 B|or he's innocent.|sv
-B| I mean you know.it's, if he's guilty for, for, you know, multiple murders or whatever the case may be|sv
+B| I mean  it's, if he's guilty for, for, you know, multiple murders or whatever the case may be you know.|sv
 A| Right. |b
 A|Uh-huh.|b
 A|Well maybe that's something that needs to be worked on.|sv
@@ -40,15 +40,15 @@ A|was that the man that, that claimed he was abused|qy
 A|or,|%
 B|Yeah,|ny
 B|he was like, uh,|sd
-B| the pregnant with himdefense, the defense they're were giving, given was that, uh, like his mother had, had been an alcoholic when,  when she was  the |sd
+B| the   the  defense, the defense they're were giving, given was that, uh, like his mother had, had been an alcoholic when,  when she was  pregnant with him|sd
 A| And that he had |qy^d
 A| he , |%
 A| Oh, yeah. |ba
-B|and so he, he wasn't, you know, mentally competent or anything else.Which is ridiculous,|sd
+B|and so he, he wasn't, you know, mentally competent or anything else. Which is ridiculous,|sd
 A|Yeah.|b
 B|and, and the court found him competent, uh,|sd
 B|and he knew what he was doing and everything else.|sv
-B|I meanyou know, it was, it was the best defense they could come up with.|sv
+B|I mean you know, it was, it was the best defense they could come up with.|sv
 A|Yeah.|b
 A|And how long had he been appealing|qw
 A|How long was that?|qw
@@ -60,7 +60,7 @@ B|It was, it was something really outrageous.|sv
 A|Yeah|b
 A|Boy. Well, I mean|ba
 A|and it seems like it, it rarely does happen.|sv
-A|You know, it's not, it's not used that oftenyou know. At least here in Texas|sd
+A|You know, it's not, it's not used that often you know. At least here in Texas|sd
 B|Yeah.|b
 A|but I think it's something that needs to stay.|sv
 A|I really do|sv
@@ -68,7 +68,7 @@ B|I think in general, uh, punishment in the United States is a lot weaker than i
 B|I mean, it needs to be, you know,|sv
 B|it's kind of like the, the justice system in the United States is kind of like the dog poops on the carpet|sv
 B|and you wait three months|sv
-B|and then you put his nose in it and spank him for it.You know.|sv
+B|and then you put his nose in it and spank him for it. You know.|sv
 A|Yeah.|b
 B|I mean there, there's no connection between the two.|sv
 A|Right,|aa
@@ -83,7 +83,7 @@ B|And to say, you know, well if I kill somebody then a decade from now, I might 
 A|Yeah.|b
 B|That's not real.|sv
 B|It doesn't have any real impact on them.|sv
-A|My sister and I were wondering about this recently because a, an old friend of ours in California,this happened about a week ago.|sd
+A|My sister and I were wondering about this recently because a, an old friend of ours in California, this happened about a week ago.|sd
 B|Uh-huh.|b
 A|Uh, her husband just killed her|sd
 A|and we're wondering if that has an effect.|sd
@@ -95,7 +95,7 @@ B|Uh, largely depends on the circumstances|sd
 B|and generally, you know, from what I understand, it's, it's only the most brutal types of things usually.|sd
 B|Where it's multiple, you know.|sd
 A|I think you're right.|aa
-B|If, if they can say things like, you know, well he was just, you know, temporarily insane because of,you know, they'll, they'll give him, you know, twenty years with, with parole in, in twelve or something like thatsome domestic squabble then|sd
+B|If, if they can say things like, you know, well he was just, you know, temporarily insane because of, some domestic squabble then you know, they'll, they'll give him, you know, twenty years with, with parole in, in twelve or something like that|sd
 A|Uh-huh.|b
 A|Yeah.|b
 A|Yeah.|b

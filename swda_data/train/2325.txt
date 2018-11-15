@@ -30,13 +30,13 @@ B|Pretty much,|na
 B|pretty much.|na
 B|Uh, I work part-time|sd
 B|but, uh, my husband's able, you know, mostly to take care of them when I'm working.|sd
-B| So. But, uh, we adopted these two little guys|sd
+B| So.  But, uh, we adopted these two little guys|sd
 A| Yeah. |b
 A|Oh, how neat.|ba
 B|and that was another reason why I really wanted to be here because, you know, they have had a couple foster homes already.|sd
 A|How old were they when you adopted?|qw
 B|The baby was eleven weeks old|sd
-B| and his brother was twenty, twenty-two months.|sd
+B| and his brother was  twenty, twenty-two months.|sd
 A| So he probably doesn't remember. |sv
 A|Oh.|b
 B|Yeah.|b
@@ -44,7 +44,7 @@ B| So. |%
 A| Yeah,|aa
 A| definitely needed.|aa
 A|Well, that's, that's pretty interesting.|ba
-A|Well, I have always wanted to be able to stay home with my kidsyou know.|sd
+A|Well, I have always wanted to be able to stay home with my kids you know.|sd
 B|Yeah.|b
 A|That was always my dream, you know.|sd
 A|I wasn't necessarily a career person|sd
@@ -61,7 +61,7 @@ A|So I've had to deal a lot with child care|sd
 A|and course, we're hoping within, hopefully, the next two years I'll be able to quit and stay home.|sd
 B|Yeah.|b
 A|But, uh, I started out, uh,|sd
-A|my best friend kept my kids from the time my daughter was born until she  went to work last year in August|sd
+A|my best friend kept my kids from the time my daughter was born  until she  went to work last year in August|sd
 B| Oh, that's neat. |ba
 A|and it worked out pretty good.|sd
 A|You know, we had always said from the beginning that if it gets in the way of the friendship then I'll take them somewhere else.|sd
@@ -70,14 +70,14 @@ B| Yeah,|b
 B|yeah. |b
 A| And, uh,  it was a wonderful experience for my kids because she really loved them, you know.|sd
 A|She loved them like they were hers|sd
-A|and II knew, you know,|sd
+A|and I I knew, you know,|sd
 B|Yeah.|b
 A|I had good peace of mind.|sd
 A|I knew that they were taken care of|sd
 A|and,|%
-B|That's the hardest thing I think,  you know kids.to, to deal with is that people love your,|sv
+B|That's the hardest thing I think,  you know  to, to deal with is that people love your, kids.|sv
 A| Yeah. |b
-B|I put, uh, my oldest in a preschool program just for him to have the experience ofthat kind of thingtwo mornings a week of being with other kids and starting to learn some taking turns and,  you know |sd
+B|I put, uh, my oldest in a preschool program just for him to have the experience of two mornings a week of being with other kids and starting to learn some taking turns and,  you know  that kind of thing|sd
 A|Uh-huh.|b
 A| Yeah. |b
 B|and, uh, he was in there for three months when I pulled him out|sd
@@ -106,7 +106,7 @@ A|Yeah.|b
 B|And she just kept saying how wild he was.|sd
 B|Well, you know, there was kind of a connotation there of him being, you know, it being a problem.|sd
 B|Like he ran back from the bathroom singing and skipping she said.|sd
-B|Well, you know, at three  years old You knowI don't find that to be a behavioral problem  |sv
+B|Well, you know, at three  years old  I don't find that to be a behavioral problem   You know|sv
 A| Jeez. |ba
 A| I don't either |aa
 A|So.|%
@@ -114,18 +114,18 @@ B|I mean, it's kind of like she was, there was so much going on that she felt li
 A|Yeah.|b
 B|and it's really hard to|sd
 B|you can't control eleven three year olds with  one person, you know. |sv
-A| You have to let them  have some wild time if that's considered  wild|^2
+A| You have to let them  have some wild time  if that's considered  wild|^2
 B| Yeah, you know. |aa
 B|So I just finally took him out. Plus financial reasons.|sd
 A| Yeah. |b
 B| It was expensive. |sd
 B|But I was real careful and visited and everything ahead of time.|sd
-B|But I still felt like even after all the checking I did, you know, you really can't know everythingabout what's going to happen.|sv
-B|I felt safe that the kids weren't going to be left alone somewhere in a room where a teacher could do something inappropriate with them, you know, becausethere was enough classrooms close together that it was like a house with different classrooms.|sd
+B|But I still felt like even after all the checking I did, you know, you really can't know everything about what's going to happen.|sv
+B|I felt safe that the kids weren't going to be left alone somewhere in a room where a teacher could do something inappropriate with them, you know, because there was enough classrooms close together that it was like a house with different classrooms.|sd
 A|Right.|b
-B| And I felt like that was a big factor for me.|sd
+B| And I  felt like that was a big factor for me.|sd
 A| Right. |b
-B|That they would would be safekind of thing.you know, from any kind of abuse or  that |sd
+B|That they would would be safe you know, from any kind of abuse or  that  kind of thing.|sd
 A|Yes.|b
 A| Yeah. |b
 A|Well, when, when my friend decided to go back to work, and whenever we had problems, it worked out okay because she would come and tell me|sd
@@ -152,7 +152,7 @@ A| and I was,  like, gosh.|sd
 A|And then, you know, my own furniture and stuff was like, you know,|sd
 A|the kitchen table, the, I'd find peanut butter and jelly all over the table and the chairs|sd
 A|and the,|%
-B|You had to come home and  clean before you could even do anything probably.|bf
+B|You had to come home and  clean before you could  even do anything probably.|bf
 A| and clean,|sd
 A|and I was like, |sd
 A|Yeah.|b
@@ -188,26 +188,26 @@ A|Thursday I took them to another Kindercare|sd
 A|and then Friday my husband and I split.|sd
 A|But on Thursday I didn't like the Kindercares.|sd
 B|I didn't either.|aa
-B| I had one bad, I had two bad experiences just that one day with medicine that my son was supposed to have for a cold that they never gave him.|sd
+B| I had  one bad, I had two bad experiences just that one day with medicine that my son was supposed to have for a cold that they never gave him.|sd
 A| They, |%
 A|They didn't give him.|b^m
-B|And the other one was that the, the younger one got bitreally badly by another child|sd
+B|And the other one was that the, the younger one got bit really badly by another child|sd
 A|Oh.|b
 A|Oh, that's horrible.|ba
 A| And doing  something with him.|sd
 B|Yeah.|b
-A|Well, not only was it going to cost me like a hundred and fifty dollars more a month, which I didn't haveyou know. I didn't, I, you know,|sd
+A|Well, not only was it going to cost me like a hundred and fifty dollars more a month, which I didn't have you know. I didn't, I, you know,|sd
 B|Yeah.|b
 A|we're, we're a Christian family|sd
-A|and, you know, they, because they're, you know, like public, they're not privateyou know. They can't pray,|sd
+A|and, you know, they, because they're, you know, like public, they're not private you know. They can't pray,|sd
 B|Yeah.|b
 A|they can't talk about God.|sd
 A|They can't do anything like that|sd
-A|and I don't want them  indoctrinated you know,|sd
+A|and I don't want them  indoctrinated  you know,|sd
 B| So you feel like  your values aren't getting,|bf
 B|yeah,|b
 B|yeah.|b
-A|but I'd like them to be able to say, gee, God made the flowers,  you know, and  things like that. |sd
+A|but I'd like them to be able to say, gee, God made the flowers,  you know, and   things like that. |sd
 B| Yeah,|b
 B|yeah. |b
 B| God loves you. |^q
@@ -242,16 +242,16 @@ A|and she said she's going.|sd
 A|You can bring your kids Monday|^q
 B|Oh, what luck.|ba
 A|I know.|ba
-A|I was just like, God set this,up for me.|sd
+A|I was just like, God set this, up for me.|sd
 B| Really |b
 A| He knew I needed  this|sd
 A|and, uh, so since October then, they have been going there|sd
 A|and|%
 A|I love it.|sd
-A| I have been at such peace with myself.|sd
+A| I have been at  such peace with myself.|sd
 B| Oh, that's great. |ba
 A|It's just been better than even when they were with my best friend because we don't have the little day to day hassles|sd
-A|andthe cost was not near as much as the Kindercares were going to be.|sd
+A|and the cost was not near as much as the Kindercares were going to be.|sd
 B|Yeah|b
 B| Oh, really?|bh
 B|Wow. |ba
@@ -259,7 +259,7 @@ A| Did you hear my printer  in the background.|qy
 A|I'm sorry.|fa
 A|I hope you can understand what I  |sd
 B| That's okay |bd
-B|I got the dryer goingin the background|sd
+B|I got the dryer going in the background|sd
 A|Yeah.|b
 B|so|%
 A|I was only about twenty dollars more a month than I was paying because being a private institution they're nonprofit.|sd
@@ -268,7 +268,7 @@ A| So,  they don't have to charge as much.|sd
 B| Oh, that's great. |ba
 A| And the hours are wonderful|sd
 A| and I just, I think it's the best thing.|sd
-A|I told Russ that we should have done this a long time agoyou know|sd
+A|I told Russ that we should have done this a long time ago you know|sd
 B|Yeah.|b
 A|It's great.|ba
 A|So I guess as long as I have to work, I feel good that they're there.|sd
@@ -278,10 +278,10 @@ A|They teach them, you know, the alphabet, the numbers, the things which, you kn
 A|If they don't, they don't.|sd
 A|I don't feel like I have to indoctrinate them by age three|sd
 B|Yeah.|b
-A|but it's kind of neat when  they come home with it, you know.|sd
+A|but it's kind of neat when  they  come home with it, you know.|sd
 B| Yeah. |b
 B|They think it's fun.|bf
-B|It's not a big, you knowtrauma to them to learn something.|bf
+B|It's not a big, you know trauma to them to learn something.|bf
 B| Yeah. |%
 A| Oh, and  the teachers.|sd
 A|Well, Taylor got bit several times|sd
@@ -295,18 +295,18 @@ A|and, you know, they mark it all down|sd
 A|and they let you know|sd
 A|and, and, you know, they get over it real quick|sd
 A|and he doesn't do it anymore|sd
-A|andthey work at the potty|sd
+A|and they work at the potty|sd
 B|Yeah.|b
 A|I just, just|%
 A|so mu,|%
 A|I don't know.|h
 A|I just feel like a big burden was lifted|sd
 B|Really.|b
-B|Because sometimes it is a burden having them all day because I can't do anything  with them here.|sd
+B|Because sometimes it is a burden having them all day because I can't  do anything  with them here.|sd
 A| It is. |aa
-B|I can't even go grocery shopping  right now with the two of them because the baby is so into everything|sd
+B|I can't even go grocery shopping  right now  with the two of them because the baby is so into everything|sd
 B|and the older brother is you know, running around all over the place|sd
-B|so it is, it's hard. |sd
+B|so  it is, it's hard. |sd
 A| and that's hard. |sd
 B|Yeah.|b
 A| Yeah|b
@@ -314,10 +314,10 @@ B| Yeah.|b
 B|So. |%
 A|Well, and it, it, you know,|%
 A|but I|%
-A|I, I, I wish you could find a good Mother's Day Out because that would be good for your peace of mind also. |sd
+A|I, I, I wish you could find a good Mother's Day Out because that would be good for your  peace of mind also. |sd
 B| Yeah,|b
 B|I need to. |sd
-B|Even for just a couple days a, mornings a week or somethingto have something like that,|sd
+B|Even for just a couple days a, mornings a week or something to have something like that,|sd
 A|Yeah.|b
 B|so I, I think I'm going to look for that.|sd
 B|Remind me of that now that you mention it  |sd
@@ -329,7 +329,7 @@ B| For a  couple times|sd
 A|And that's usually like, you know,|sd
 A|I don't know when mine were going to Mother's Day Out,|sd
 A|it was like from nine to three|sd
-A|so that was a pretty goodpretty good time, you know.|sd
+A|so that was a pretty good pretty good time, you know.|sd
 B|Yeah.|b
 A|My baby-sitter would take them and then pick them up.|sd
 B|Yeah|b
@@ -337,7 +337,7 @@ A|So, that worked out real good.|b
 B|That's sounds good.|ba
 A|Well, I'm tickled to death.|sd
 A|I hope you find something|sd
-A|and it was good talking  to you.|fc
+A|and  it was good talking  to you.|fc
 B| Well, thanks. |fc
 B|Did we cover everything we need to?|fc
 A|Well, I guess.|fc

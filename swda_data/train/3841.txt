@@ -7,7 +7,7 @@ A|My wife's a school teacher|sd
 A|so|%
 B|Well, then, I'll, uh, I'll walk softly.|oo_co_cc
 A|No.|ar
-A| You go right ahead because I, have a lot of strong opinions on it, too.|ad
+A| You go right ahead because I,  have a lot of strong opinions on it, too.|ad
 A|My wife teaches seventh grade,|sd
 A|and, you know, there is a lot of serious things wrong with the school system today and the teaching system.|sv
 A|I think the,|sv
@@ -39,7 +39,7 @@ B|But once you're in, uh, they have, they have self-paced programs,|sd
 B|and so you have students that want to learn|sv
 B|and, uh, you have teachers that want to teach,|sv
 B|and you have parents that are really interested in the children,|sv
-B|and basically, uh, there's probably some discrimination if you want to say thatuh, because most of the people that are in the academy system, uh, are Caucasian, and, because you have to test into the system.|sv
+B|and basically, uh, there's probably some discrimination if you want to say that uh, because most of the people that are in the academy system, uh, are Caucasian, and, because you have to test into the system.|sv
 A|Sure.|b
 A|Sure.|b
 B|And most of,|sv
@@ -65,7 +65,7 @@ B|Yeah.|b
 B|I think what we've done is, um, um, especially looking at, um, the South Dallas area, is that we're trying to bring the education level down to the lowest level so that the lowest level can succeed.|sv
 A|Yeah,|b
 A|I think we have that problem dealing in most areas, which is unfortunate.|sv
-B|And, um, that also probably crosses over into business, because now, businesses also say that if you're not, don't have the proper education, uh, including, uh, exposure to high tech fieldsyou know.such as computer technology, if you can't use a computer today and do word processing and do, uh, data base management and do, I forget all the other stuff, financial management and all this other kind of stuff in your regular job, uh, you can't function|sv
+B|And, um, that also probably crosses over into business, because now, businesses also say that if you're not, don't have the proper education, uh, including, uh, exposure to high tech fields such as computer technology, if you can't use a computer today and do word processing and do, uh, data base management and do, I forget all the other stuff, financial management and all this other kind of stuff in your regular job, uh, you can't function you know.|sv
 A|You bet.|aa
 A|You bet.|aa
 B|So I think that the school system proliferates over to the business world|sv

@@ -2,13 +2,13 @@ A|Okay.|fo_o_fw_"_by_bc
 A|What do you think of the public school system?|qw
 A|First off, do you have children that are in it?|qy
 B|I have children that are in the Plano Public School systems|na
-B|and I am a substitute teacher at this point looking for a full-time job in the public school, system|sd
+B|and I am a substitute teacher at this point looking for a full-time job in the public school,  system|sd
 A| Oh, okay |bk
 B|So, |%
 A|Well then, you should be a good one to know because I, my children are grown now.|sv
-A|I now have grandchildren, in the  school system|sd
+A|I now have grandchildren,  in the  school system|sd
 B| Oh. |b
-A|so, uh, I don't have firsthand experience right now, with it. |sd
+A|so, uh, I don't have firsthand experience right now,  with it. |sd
 B| Uh-huh,|b
 B|uh-huh. |b
 A|So what do you think?|qo
@@ -38,7 +38,7 @@ A|and, and I know the fourth grader is doing stuff that our children was doing, 
 B|Oh, yeah.|b
 B| Oh, yeah. |b
 B|I tutor a girl that's in eighth grade|sd
-B|and her pre-algebra book is higher then some of my Algebra Two,when I was in high school.|sd
+B|and her pre-algebra book is higher then some of my Algebra Two, when I was in high school.|sd
 A| Is that scary?|qy
 B| And it's like, oh, I going to take this home and study it  before I can help you.|sd
 A| Right. |b
@@ -56,16 +56,16 @@ B|Yes,|ny
 B| that's a, |%
 A| And, and |%
 A|are you, do you find that?|qy
-B|Well, filling out the forms and also all of these, uh, statewide and national wide testing, things  so that they compare|sd
+B|Well, filling out the forms and also all of these, uh, statewide and national wide testing,  things  so that they compare|sd
 A| Uh-huh. |b
 B|and . You know, you can as far as I'm concerned you can make a survey or test scores say anything you want it to say.|sv
 A|Uh-huh.|b
 B|And it's just a matter of how you're going to interpret it.|sd
-B|And you waste so much time quote, unquote teaching to the test to make sure that your scores are the very best they're possibly going to be, you know,  that I think it's, uh, I think it's crazy personally|sv
+B|And you waste so much time quote, unquote teaching to the test to make sure that your scores are the very best they're possibly going to be,  you know,  that I think it's, uh, I think it's crazy personally|sv
 A| Be,|%
 A|uh-huh. |b
 B|You know, the the whole first nine weeks of school is, is used as a review|sd
-B|but more than a review they're getting those kids primed and ready for the tests that are coming up in, October.  So that you know, your school district shines throughout the United States.|sd
+B|but more than a review they're getting those kids primed and ready for the tests that are coming up in,  October.  So that you know, your school district shines throughout the United States.|sd
 A| Coming up,|^2
 A|uh-huh. |b
 B|And I think that's totally useless.|sv
@@ -78,7 +78,7 @@ B|and nobody else's children are going to ever live up to this,|sv
 B|and that's great.|sd
 B|But that's what they're doing with the school systems|sv
 B|and they're wasting too much time on that,  I think. |sv
-A| Well, I,  I know that this again this, this friend,uh, is in the Plano School District,|sd
+A| Well, I,  I know that this again this, this friend, uh, is in the Plano School District,|sd
 B| Uh-huh. |b
 A| and  she teaches, uh, uh, it uh, emotionally disturbed children.|sd
 B| Uh-huh. |b

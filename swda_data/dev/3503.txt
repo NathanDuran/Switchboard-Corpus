@@ -42,10 +42,10 @@ B|And last year there were six|sd
 B|and this guy is indicted on three of them.|sd
 A|Really?|bh
 B|Yeah,|ny
-B|soyou have to wonder you know.|sv
+B|so you have to wonder you know.|sv
 A|Wow|ba
 A|Yeah,|b
-A|well, the cases like that, theyshould,|sv
+A|well, the cases like that, they should,|sv
 B|Yeah.|b
 A|I mean, if he's going to be drastic, somebody has to be drastic back.|sv
 B|Yeah,|b
@@ -54,7 +54,7 @@ B|You know, he, he has no concept of what he has done.|sv
 A|Really?|bh
 B|He just, well,|%
 B|from what I can tell. I mean, I didn't talk to the guy or anything,|sd
-B|butI mean, he doesn't seem to have any regard for anybody's life including his own.|sd
+B|but I mean, he doesn't seem to have any regard for anybody's life including his own.|sd
 A|Right.|b
 A|Wow.|ba
 B|So, it's, it's kind of strange that, you know,|sv
@@ -62,10 +62,10 @@ A|Uh-huh.|b
 A|No, no remorse whatsoever, huh.|qy
 B|No,|nn
 B|huh-uh.|nn
-A|Well, I guess in cases like that, you know, where the guy would, obviously, go out and do it againI mean, you've got to do something.|sv
+A|Well, I guess in cases like that, you know, where the guy would, obviously, go out and do it again I mean, you've got to do something.|sv
 B|Yeah.|b
 B|Yeah,|b
-B|well, it's funny because when, you know, they interview you before you go on the juryand for capital murder, I was interviewed by four attorneys for about five hours.|sd
+B|well, it's funny because when, you know, they interview you before you go on the jury and for capital murder, I was interviewed by four attorneys for about five hours.|sd
 A|Right.|b
 A|Wow.|ba
 B|And I,|%
@@ -80,12 +80,12 @@ B|I guess I could convict him,|sd
 B|but I can't imagine you ever making me that sure of something.|sd
 A|Right.|b
 B|But they really did.|sd
-B|It was, it wasreally amazing.|sd
+B|It was, it was really amazing.|sd
 A|Really?|bh
 A|Well, I guess if the police came out and saw him fire the gun,|sd
-B|Well, that was a subsequent case that we didn't know about.And those jurors don't know about.|sd
+B|Well, that was a subsequent case that we didn't know about. And those jurors don't know about.|sd
 A|Oh, really?|bh
-B|But this particular case, I mean, they had a complete confession from the guywith a lot of things that, that the police hadn't released|sd
+B|But this particular case, I mean, they had a complete confession from the guy with a lot of things that, that the police hadn't released|sd
 A|Okay.|b
 B|so no one else would have known.|sd
 A|Oh.|b
@@ -94,14 +94,14 @@ A|Wow.|ba
 A|What,|%
 B|Educational.|sd
 A|I guess cases like that, I don't see why they wouldn't bring in the new evidence from the other case.|sd
-B|Well, they can't, they can, I think in the punishment phasebut not in the guilt or innocence because he hasn't been, he hasn't been found guilty of it.|sd
+B|Well, they can't, they can, I think in the punishment phase but not in the guilt or innocence because he hasn't been, he hasn't been found guilty of it.|sd
 A|Okay.|b
 A|Of that crime|^2
 B|Right.|b
 A|but he was found guilty of|sd
 A|okay.|b
 B|Right,|b
-B|soto prove that.you know, it's, although, it's not going to take much|sd
+B|so you know, it's, although, it's not going to take much to prove that.|sd
 A|That works.|^2
 A|Right.|b
 B|So,|%
@@ -119,12 +119,12 @@ A|So,|%
 B|So there is a lot of outs,|sd
 B|but the only result is, otherwise he gets life in prison.|sd
 A|Yeah,|b
-A|and I'm really kind of against life in prison anywaybecause it costs so dog gone much.|sv
+A|and I'm really kind of against life in prison anyway because it costs so dog gone much.|sv
 B|Yeah|b
 B|Right,|b
 B|and, and to me, I mean, you take away a person's freedom, you've taken away most of their life.|sv
 A|That's true.|ba
-A|I mean, if you're going to put him in prison for lifewith no chance for parole,|sv
+A|I mean, if you're going to put him in prison for life with no chance for parole,|sv
 B|Yeah,|b
 B|but,|%
 B|But then you have to look at reality.|sd
@@ -157,7 +157,7 @@ A|But, yeah,|fo_o_fw_"_by_bc
 A|they have a death penalty.|sd
 A|I hear of one every now and then.|sd
 B|Uh-huh.|b
-A|And I visited the prison up hereand, at Parchman|sd
+A|And I visited the prison up here and, at Parchman|sd
 B|Uh-huh.|b
 A|and I've been,|%
 A|I haven't,|%

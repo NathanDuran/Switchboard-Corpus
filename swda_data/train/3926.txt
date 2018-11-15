@@ -14,7 +14,7 @@ B|and the judge should be able to rule one way or the other.|sv
 A|so you're saying you think the judge should actually have the final say?|bf
 B|I think he should.|sv
 B|And I think that there should be more than one judge.|sv
-B|There should be maybe two, at leastthat sit in and listen so that there's no way that you could have like a crooked judge.|sv
+B|There should be maybe two, at least that sit in and listen so that there's no way that you could have like a crooked judge.|sv
 A|Huh.|%
 B|Do you know what I mean?|qy
 A|Yes.|ny
@@ -25,10 +25,10 @@ B|As long as it's not used to delay the trial so much.|sv
 B|They need to have a fair jury|sv
 B|but they only you know, would cover forty-nine percent of the decision or fifty percent|sv
 B|and then the two judges would go ahead and make the final decision.|sv
-A|Well,I hadn't, uh, thought of it from that point of view before.|sd
+A|Well, I hadn't, uh, thought of it from that point of view before.|sd
 B|How do you feel about that?|qo
 A|I have been in a fairly important trial,|sd
-A|and, uh, what bothers me is I was concerned of the ability of some of the people in the jury to adequately understandwhat was being presented so that they themselves could make a proper and, uh, accurate decision.|sv
+A|and, uh, what bothers me is I was concerned of the ability of some of the people in the jury to adequately understand what was being presented so that they themselves could make a proper and, uh, accurate decision.|sv
 B|Right.|b
 A|That's the part that bothered me about it.|sd
 A|Um, I really think that the, the, the jury ought to have more say so in the selection or in the determination of whether they are guilty or not.|sv
@@ -44,16 +44,16 @@ B|I just had a thought come as you were talking.|sd
 B|What if they used law students and had that be credit hours to sit in trials?|qw
 A|That would be certainly nice|sv
 A|let's say|ad
-A|we, we would have fifty percent of them law students, Yeah.  anyway . |sd
+A|we, we would have fifty percent of them law students,  anyway .   Yeah. |sd
 B| Yeah,|aa
 B|at least. |aap_am
-B| At least, on the jury.|bf
+B| At least,  on the jury.|bf
 A| Yeah. |aa
-B| And that  would give them, experience  in the courtroom,|sv
+B| And that  would give them,  experience  in the courtroom,|sv
 A| Uh-huh. |b
 B|and it could count as some aspect or hours going into their major.|sv
 A|That's a very neat idea,|sv
-A|and they would learn a lot about being lawyers later in lifewhen they see what it is like to be in the jury side of a trial.|sv
+A|and they would learn a lot about being lawyers later in life when they see what it is like to be in the jury side of a trial.|sv
 B|Right.|b
 B|That's right.|aa
 B|That would be a really good thing to do.|sv
@@ -73,20 +73,20 @@ B|And this expensive, big company that owned these motorcycles, um, railroaded t
 B|and she had a son that was just only two years old when it happened|sd
 A|Uh-huh.|b
 B|and they were following him home in the car. Saw the whole thing happen.|sd
-A|Oh, they saw the husband, get, |qy^d
+A|Oh, they saw the husband,  get, |qy^d
 B|That's right.|na
 B| They  were following him home from the motorcycle shop.|sd
 A|Yeah.|b
 B|And they railroaded this whole trial into mistrials, um, this and that and the other.|sd
-B|Every time she'd get a verdict that would be in her favor of her, of a  settlement,|sd
+B|Every time she'd get a verdict that would be in her favor of her,  of a  settlement,|sd
 A| Uh-huh. |b
 A|They would find something wrong with it.|^2
-B|Until finally they won and, said that  it was the drunk driver's fault|sd
+B|Until finally they won and,  said that  it was the drunk driver's fault|sd
 A| Did they really? |qy
 A|Uh-huh.|b
 B|but I just felt like justice wasn't served because they had the money, the big lawyers, and she didn't,|sv
 A|That is a shame.|sv
-A|You'd think there would be enough, uh, people who saw the accident other than his wife, to,  to also, uh, make statements,|sv
+A|You'd think there would be enough, uh, people who saw the accident other than his wife,  to,  to also, uh, make statements,|sv
 B| Right. |b
 A|and they have nothing to gain one way or the other.|sv
 A|So if they say a certain way, then why not believe them.|sv

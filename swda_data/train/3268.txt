@@ -1,5 +1,5 @@
 A|Well, the types of vacations that I usually take,|sd
-A|I usually come back more tired after my vacation,then I do, you know, before I take it.|sd
+A|I usually come back more tired after my vacation, then I do, you know, before I take it.|sd
 A|Um, I need to definitely take a vacation where all, all I do is rest.|sd
 A|And I guess to do that I'd probably have to take it at home.|sd
 B|Oh|b
@@ -33,7 +33,7 @@ A|but I really don't like to get in the water, the ocean.|sd
 A|I prefer a swimming pool|sd
 B|Well, I, I love to go and play around.|sd
 B|At least I always did but although actually, my, I like the mountains.|sd
-B|I, uh,I don't really like hot weather|sd
+B|I, uh, I don't really like hot weather|sd
 A|Uh-huh.|b
 B|that's my biggest gripe about living here.|sd
 A|Uh-huh.|b
@@ -43,7 +43,7 @@ A|I can understand that.|ba
 B|Oh.|b
 B|I, my dream vacation is Alaska.|sd
 A|Uh-huh.|b
-B|This isjust someplace I've always wanted to go|sd
+B|This is just someplace I've always wanted to go|sd
 A|That would be nice.|ba
 B|and someday I hope we can afford to just take a humdinger of a vacation up there.|sd
 A|Uh-huh.|b
@@ -66,9 +66,9 @@ A|That's right.|aa
 A|That's right.|aa
 A|You got that.|aa
 B|Oh, I'm,|%
-B|we usually go up to Wisconsin at least once a yearbecause this is where my husband and I are both from.|sd
+B|we usually go up to Wisconsin at least once a year because this is where my husband and I are both from.|sd
 A|Uh-huh.|b
-B|And my mother and his mother live up there feelinglost and alone because we moved down here|sd
+B|And my mother and his mother live up there feeling lost and alone because we moved down here|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|And, uh, we've got one of our, our kids lives out on the east coast|sd
@@ -79,7 +79,7 @@ B|but I'm tired of them|sd
 A|Right.|b
 B|I want to go someplace different up there.|sd
 A|That's right.|aa
-B|Uh, my, my idea I guess of the ideal vacation would be to begin with, uh, money be no object.and not worry if somebody says, well, let's take this little side trip, you know, and not have to sit there and figure out, um, you know, again we, we fit that in there or not.Uh, you know, just the, really the nicest hotels and stuff like that andYou know, so just absolutely, you know, first class fly where I want to, rent a car if I want to.|sv
+B|Uh, my, my idea I guess of the ideal vacation would be to begin with, uh, money be no object. You know, so just absolutely, you know, first class fly where I want to, rent a car if I want to. Uh, you know, just the, really the nicest hotels and stuff like that and and not worry if somebody says, well, let's take this little side trip, you know, and not have to sit there and figure out, um, you know, again we, we fit that in there or not.|sv
 A|Right.|b
 A|Uh-huh.|b
 A|Uh-huh.|b
@@ -92,7 +92,7 @@ B|To me why somebody would want to ride around on a boat for a few days is mind 
 A|It would be sort of,|%
 A|I feel like it would be confining.|sv
 B|Yeah.|b
-A|You know I would rather much rather get on a plane and get thereand then enjoy myself.|sd
+A|You know I would rather much rather get on a plane and get there and then enjoy myself.|sd
 B|Uh-huh|b
 B|Yeah,|b
 B|I just, uh,|%
@@ -106,7 +106,7 @@ A|Yes.|aa
 A|I, I agree.|aa
 A|I can, I can do that too,|sd
 A|and, uh, you know, I think if I had, if I had the money, I would probably go to Europe every year.|sd
-A|Because, you know, I think that they have, they have it all over there in just a few tiny,two, two miles.|sd
+A|Because, you know, I think that they have, they have it all over there in just a few tiny, two, two miles.|sd
 B|Uh-huh.|b
 A|You know, there's mountains|sd
 A|and there's beaches|sd
@@ -116,10 +116,10 @@ B|Yeah.|aa
 B|Uh, I, I guess I've never really thought about it that way.|sd
 B|Our, uh,|%
 B|we have a daughter who's almost thirteen|sd
-B|but she's, uha very picky eater|sd
+B|but she's, uh a very picky eater|sd
 A|Uh-huh.|b
-B|and our, our standard excuse for not going someplace like that is, you know, gee, Holly would starve to death if we, you know, we took herinto the country|sd
+B|and our, our standard excuse for not going someplace like that is, you know, gee, Holly would starve to death if we, you know, we took her into the country|sd
 A|Oh.|b
-B|soSo, but I, I would like if, you know it was anywhere in the world to go, I guess, even though it's hot,|sv
+B|so So, but I, I would like if, you know it was anywhere in the world to go, I guess, even though it's hot,|sv
 A|Right.|b
 B|I would like to go to Africa.|sd

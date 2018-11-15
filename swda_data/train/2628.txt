@@ -1,6 +1,6 @@
 A|Okay,|fo_o_fw_"_by_bc
 A|what do you think about it?|qo
-B|Well, uh, the roles have definitely changedin the last generation or so.|sv
+B|Well, uh, the roles have definitely changed in the last generation or so.|sv
 A|Oh, yeah.|aa
 B|Um, I think a lot of it has to do with women working.|sv
 A|Uh-huh,|aa
@@ -20,9 +20,9 @@ B|right. |aa
 A| They can't  even afford to take off, you know, to have children it seems like.|sv
 B|And it, and it seems, if you're going to have kids, uh, that you are, you know, society has decided for you how many you can really have and make it.|sv
 A|Yeah.|b
-B|And, uh, because if you have, you know, two, well, if you go to work, you're, just working to pay for day care, two  or three, you know, um.|sv
+B|And, uh, because if you have, you know, two, well, if you go to work, you're, just working to pay for day care,  two  or three, you know, um.|sv
 A| Right. |b
-A|Now, I was real lucky because my husband had a good enough job where when my kids were, you know, when I had them and when they were small, until  they got in junior high school, my youngest got in junior high, I didn't have to work.|sd
+A|Now, I was real lucky because my husband had a good enough job where when my kids were, you know, when I had them and when they were small,  until  they got in junior high school, my youngest got in junior high, I didn't have to work.|sd
 B| Uh-huh. |b
 B| Oh, that is good. |ba
 A| I mean I didn't  work,|sd
@@ -54,7 +54,7 @@ A|I have two,|sd
 A|I have a son and a daughter,|sd
 A|and my youngest one is going to be graduating from college soon,|sd
 B| Oh! |ba
-A| and  if I had a third one, I  just don't know where it would come from.|sd
+A| and  if I had a third one,  I  just don't know where it would come from.|sd
 B| |b
 B|Yeah.|b
 A|Because I work now,|sd
@@ -69,7 +69,7 @@ B|Oh, yeah,|aa
 B|I mean, just the, you know, the cost of living and loans don't pay for groceries and stuff.|sd
 A|Right,|aa
 A|and cars and all their books,|sd
-A|and the books are outrageous.I mean, absolutely outrageous,|sv
+A|and the books are outrageous. I mean, absolutely outrageous,|sv
 B|Oh, I know,|aa
 B|I know.|aa
 A|and they're getting worse.|sv
@@ -91,7 +91,7 @@ B|Yeah.|b
 A|If I'd of had that many, I'd of had to work in order for my kids to,|sd
 A|you know, even though he brings in a real good living and everything, in order for me to keep up, I would have had to work.|sd
 B|Yeah.|b
-A|But I think it's getting more and more like, when  you have one child now, that's it, you know,|sv
+A|But I think it's getting more and more like,  when  you have one child now, that's it, you know,|sv
 A|then you go to work|sv
 A|and you work,|sv
 B| Yeah. |b
@@ -113,10 +113,10 @@ A|And I think it just, it revolutionized an, where a woman thinks that a way, yo
 A|now my daughter, there's no way that she can imagine herself married at the age that she's at now|sd
 A|To her everything is, you've got to go through college, you've got to get a job, you know.|sd
 A|And then when everything's set up, then you look for somebody that you want to spend the rest of your life with,|sd
-A|but.I mean it is so far down the road,|sd
+A|but. I mean it is so far down the road,|sd
 B|Right.|b
-A|where, now when I graduated high school, the thing,|sd
-B| That's, you did, that's what you did. Uh.|^2
+A|where, now when I graduated high school,  the thing,|sd
+B| That's, you did, that's what you did.  Uh.|^2
 A|uh-huh,|aa
 A|and then you got  married|sd
 A|and then you had a family.|sd
@@ -204,11 +204,11 @@ A|and it really is,|sv
 A|I know,|sd
 A|just like now, you know, there's, there's so much more now.|sd
 A|All my income goes for things like luxuries,|sd
-A|I mean, it really does. Accept  for what we give to my daughter, to, you know, put her through college and stuff. * Spellingusage: "Accept" should be "Except"|sd
+A|I mean, it really does.  Accept  for what we give to my daughter, to, you know, put her through college and stuff. * Spellingusage: "Accept" should be "Except"|sd
 B| Uh-huh. |b
 A|But the rest of it|sd
 A|we just buy things like boats,|sd
-A|or we go on trips, or, you know, justthe more or less like entertainment stuff,|sd
+A|or we go on trips, or, you know, just the more or less like entertainment stuff,|sd
 B|Right.|b
 A|but.|%
 B| Yeah,|b
@@ -222,7 +222,7 @@ A|And, uh, I got to stay home with my kids, which I really wanted to do,|sd
 A|but now I could not go back and do it.|sd
 B|Yeah.|b
 A|And I mean, I did stuff|sd
-A|but, to  me it feels like I must have done nothing.|sd
+A|but,  to  me it feels like I must have done nothing.|sd
 B| Right. |b
 A|And I think it's just the new way that people are thinking.|sv
 B|Yeah,|aa
@@ -231,7 +231,7 @@ A|But, uh,|%
 B|I think it would be neat if, if they could incorporate into small and large businesses both a built in day cares where the children were there in the facility but not necessarily right there with you.|sv
 A|Well you know more and more of them are,|sd
 A|I don't know if it is up there where you are|sd
-A|but where I am, the, just like all the hospitals, they're  getting day care.|sd
+A|but where I am, the, just like all the hospitals,  they're  getting day care.|sd
 B| Uh-huh. |b
 B|Are they?|bh
 A|But the reason they had to do this was because so many people, you know, so many women could not afford,|sd

@@ -3,21 +3,21 @@ B|so. |%
 A| Okay,|%
 A| we're going to talk about lawn and garden today.|sd
 B|Right.|aa
-B|Whatwhat,|%
+B|What what,|%
 A|Okay|b
 A|um, where do you work at|qw
-A|ordo you, you wish to discuss that?|qrr
+A|or do you, you wish to discuss that?|qrr
 B|Uh.|b
 B|No,|nn
 B|I, I'm in, uh, well|sd
-B|I live in, uh, Richardson, Texas, |sd
+B|I live in, uh, Richardson,  Texas, |sd
 A|Oh,  okay. |bk
 B|and, uh,|%
 A|Yeah,|b
 A|we're neighbors.|sd
 B|Yeah.|b
 A|Okay|b
-B|And, uh, but grew up in, uh, Iowa on a farm with a considerably different philosophy in terms of lawn and gardenwork.|sd
+B|And, uh, but grew up in, uh, Iowa on a farm with a considerably different philosophy in terms of lawn and garden work.|sd
 A|Hi to someone in|t3
 B|Uh, and uh,|%
 A|Can you hang on just a minute?|ad
@@ -40,12 +40,12 @@ B| Uh, |%
 A| I have his book,  too.|sd
 B|Yeah?|bh
 A|Uh-huh.|ny
-B|Don't do any, uh,any gardening in the sense of, uh, vegetable gardening|sd
-B|but, uh,and, uh, uh, have a, have a lawn service.flowers, and, and, uh, bushes and stuff,  tried some, tried some different,|sd
+B|Don't do any, uh, any gardening in the sense of, uh, vegetable gardening|sd
+B|but, uh,   tried some, tried some different, flowers, and, and, uh, bushes and stuff, and, uh, uh, have a, have a lawn service.|sd
 A|Not in  Texas. |sd
-B|There was one when,we, when we bought the house|sd
+B|There was one when, we, when we bought the house|sd
 B|and we just continued with them for a long time and then switched to a different one,|sd
-B|but in terms of the fertilizing and, uh,mainly leave that up to them.weed control,|sd
+B|but in terms of the fertilizing and, uh, weed control, mainly leave that up to them.|sd
 A|Uh-huh.|b
 B|What about you?|qo
 A|Well, no,|nn
@@ -57,7 +57,7 @@ A|I can do it much  cheaper and better. |^q
 B| Yeah. |b
 A|And so what I did, I switched to liquid,|sd
 A|and I do it with an applicator with my hose,|sd
-A|and it's so much easier than taking that lawn spreader and  walking all over the territory.|sd
+A|and it's so much easier than taking that lawn spreader and  walking all over  the territory.|sd
 B| Yeah. |b
 B|Yeah.|b
 A|I was surprised how easy it was.|sd
@@ -86,27 +86,27 @@ B|is this some sort of a disease,|qy
 B|or is  it a pest? |qrr
 A| Yes, |ny
 A|it's a disease that it's got,|sd
-A|and I don't know,what happened to it, uh,|sd
-B|What,what kind of trees are they? Well, what kind |qw
-A|and  then it it, um|sd
+A|and I don't know, what happened to it, uh,|sd
+B|What,  Well, what kind  what kind of trees are they?|qw
+A|and  then it  it, um|sd
 A|Well, one is a maple,|sd
-A|one is, uma maple,|sd
+A|one is, um a maple,|sd
 B|Huh.|b
 A|but I would much prefer,|sd
 A|I think it's not a native Texan tree.|sd
 B|Yeah.|b
 A|And, uh, the one that, the ones that really do well are the ones that are on the city property,|sd
-A|and they don't,get any care,|sd
+A|and they don't, get any care,|sd
 B| Uh-huh. |b
 A| and they're  cedar elm,|sd
 A|and they're just beautiful.|sd
 B|Uh-huh|b
 A|So I mean, it, it's, you know, these things that you pamper,|sd
 A|some people have really a green thumb,|sv
-A|and, you know,and, um, although I don't have too serious a problem,|sd
+A|and, you know, and, um, although I don't have too serious a problem,|sd
 B|Yeah.|b
 A|but, I don't know if it was from the, the, the late freezes that were, or the early freezes we had, that caused this tree damage,|sd
-A|and you know, Sperry said, you know, that's what happened to the Crepe Myrtles,the last two years that, you, we are looking at all the freeze damage from the prior two years.|sd
+A|and you know, Sperry said, you know, that's what happened to the Crepe Myrtles, the last two years that, you, we are looking at all the freeze damage from the prior two years.|sd
 B|Yeah.|b
 B|Yeah.|b
 A|So, I kind of think that maybe that, uh, happened to these large trees that I have.|sd
@@ -118,7 +118,7 @@ B| yeah. |b
 A| Because I, |%
 B|Well, that's, that's one thing that we we've had very poor luck with, with, is, in, in our yard is, is trees|sd
 A| Uh-huh. |b
-B| but  the, uh, what, what trees were, were there when we moved in,uh, uh, were, had been put in by the developer when he built the house,|sd
+B| but  the, uh, what, what trees were, were there when we moved in, uh, uh, were, had been put in by the developer when he built the house,|sd
 B|and he just put in whatever was cheapest that he could  claim was a tree I think. |sd
 A| Right,|aa
 A|the quick growing,|sv
@@ -134,38 +134,38 @@ A| Can I pick your brain  about how you got rid of those trees?|ad
 A|Did,|%
 A|are they still there,|qy
 A|did you cut them down at the, at the ground level,|qy
-A|or did you pull them,up by the roots,|qrr
+A|or did you pull them, up by the roots,|qrr
 A|or how did you get rid of them?|qy
 A| Because if I |%
 B| Well, |%
 A|I, I don't know how to get rid of these big trees, because one has a circumference of about ten inches,|sd
 A| and, |%
 B| Yeah,|b
-B| we didn't we didn't have any that were that,that big when they, uh, went.|sd
+B| we didn't we didn't have any that were that, that big when they, uh, went.|sd
 A|Oh.|b
-B|two two of them, uh, the wind, the wind blew overuh, in, in terms of getting them down.|sd
+B|two two of them, uh, the wind, the wind blew over uh, in, in terms of getting them down.|sd
 A|Uh.|%
 A|Uh-huh.|b
-B|Uh the, |%
-A|Because I don't  want stubs in my lawn.|sd
-A| Because  you still have to |sd
+B|Uh  the, |%
+A|Because I don't  want  stubs in my lawn.|sd
+A| Because   you still have to |sd
 B| Yeah. |b
 B| Yeah.|b
-B| Now the one that, the one that we lost, the last one that we lost a, a year ago uh,  up until then, they hadn't been big enough|sd
+B| Now the one that, the one that we lost, the last one that we lost a, a year ago  uh,  up until then, they hadn't been big enough|sd
 A| Uh-huh. |b
-B|but what I just used a hand saw and sawed them off at, at, helps rot the, got some chemical that drill holes and pour in that helpsand then, uh,  got  close to ground  level as I could, as close, |sd
+B|but what I just used a hand saw and sawed them off at, at,  as close,   close to ground  level as I could, and then, uh,  got  got some chemical that drill holes and pour in that helps  helps rot the, |sd
 A| The base? |^2
 A| To the ground? |^2
 A|Uh-huh.|b
 A| Bore? |^2
 A|I see|bf
 A|uh,  a stump killer.|bf
-B|stump yeah,stump killer, and stump, stump rotter,|b^m
+B|stump yeah, stump killer, and stump, stump rotter,|b^m
 A|Yeah.|b
 A|Uh-huh.|b
 B|But, uh, this last one had a fair sized root|sd
 B|and some guy was doing a job in the neighborhood, uh,|sd
-B|and, and saw it and stopped in and asked,if I didn't want the stump dug out on the spot for thirty-five bucks,|sd
+B|and, and saw it and stopped in and asked, if I didn't want the stump dug out on the spot for thirty-five bucks,|sd
 B|and I said fine.|sd
 B|He had, he had a trailer with a machine on it that was specifically for that,|sd
 B| and it |%
@@ -173,16 +173,16 @@ A| Yeah,|b
 A| and they get that saw,|sd
 A|and I think it's a, some kind of a a screwing thing that  just rips it right out. |sd
 B| yeah,|b
-B|and it, it just,  it just ripped itright out,|sd
+B|and it, it just,  it just ripped it right out,|sd
 A|Right out,|^2
 A|yeah.|%
 B|and, uh, I took the,|sd
 B|it left the, it left, he left the chips,|sd
-B|and I  put them up and, uh, uh, had, had a pile of dirt from various things, uh, back by the garage that I filled in with mulch around,  around the other shrubs,|sd
+B|and I  put them up   mulch around,  around the other shrubs, and, uh, uh, had, had a pile of dirt from various things, uh, back by the garage that I filled in with|sd
 A| Used those for,  uh,  mulch,|^2
 A|sure. |%
 A|Sure.|b
-B|and,and it's filling in with, with grass, uh, nicely this year, so that, that was, that was worth it|sd
+B|and, and it's filling in with, with grass, uh, nicely this year, so that, that was, that was worth it|sd
 A|Uh-huh.|b
 B|but, uh,|%
 A|A blessing in disguise.|bf
@@ -193,7 +193,7 @@ B|Yeah|aa
 B|but, uh,|%
 B|Yeah,|%
 B|well|%
-B|do you do your own, uh, lawn in terms of,  uh, mowing?|qy
+B|do you do your own, uh,  lawn in terms of,  uh, mowing?|qy
 A| Lawn?|^2
 A|Yes,|ny
 A|Uh-huh. |ny
@@ -201,7 +201,7 @@ A|Yes,|ny
 A|I have a, I have a self-propelled, uh, Snapper.|sd
 B|Yeah.|b
 A|Because I'm sitting on a hill,|sd
-A|and it, uh,and it's very difficult to address.|sd
+A|and it, uh, and it's very difficult to address.|sd
 B|Oh, yeah.|aa
 B|Yeah,|b
 B|I,|%
@@ -214,7 +214,7 @@ B|and, uh, and, uh, I do it  my, do it myself. |sd
 A| Well, that's good |ba
 A|They're very expensive.|sv
 B|But, uh, yeah,|b
-B|a year, a year ago I took into,took it into Sears to have it tuned up for the season|sd
+B|a year, a year ago I took into, took it into Sears to have it tuned up for the season|sd
 B|and they said, no, it's, it's too old,|sd
 B|we won't even work on it.|^q
 A|Oh, booey|ba

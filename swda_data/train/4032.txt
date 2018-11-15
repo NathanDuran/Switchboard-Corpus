@@ -6,10 +6,10 @@ B|Uh, I like to, uh, play basketball and weight lifting.|sd
 B|Those are probably the two main things I like to do.|sd
 A|Uh-huh.|b
 A|Um, so those are more or less indoor sports.|qy^d
-A|How's theweather out there in Georgia?|qw
+A|How's the weather out there in Georgia?|qw
 B|Yeah.|ny
 B|Um, in, in, in the winter, you, typically it's, it's probably too cold to go out and do things like tennis.|sd
-B|Um, I like to play tennis in thesummer time or in the spring, fall,|sd
+B|Um, I like to play tennis in the summer time or in the spring, fall,|sd
 A|Uh-huh.|b
 B|but in the winter it gets pretty cold.|sd
 A|Oh.|bk
@@ -19,11 +19,11 @@ A|Uh-huh.|b
 B|Um, how about yourself?|qo
 A|Well, yeah,|^h
 A|I'm on a exercise program.|sd
-A|I'm riding my Aerodyne bike, umhalf an hour every morning,|sd
+A|I'm riding my Aerodyne bike, um half an hour every morning,|sd
 B|Uh-huh.|b
 A|and I'm just about ready to up it to up to forty-five minutes a morning,|sd
 A|and I feel like that's been a real nice exercise in the winter time.|sd
-A|It'sit's kind of kept me from getting cabin fever and, um, has seemed to be a real nice aerobic exercise.|sd
+A|It's it's kind of kept me from getting cabin fever and, um, has seemed to be a real nice aerobic exercise.|sd
 B|Uh-huh.|b
 B|Right.|b
 B|Do you do, uh, any anaerobic type, weight lifting or weight training type exercise?|qy
@@ -39,13 +39,13 @@ A|I don't know if you've heard of it,|qy^d
 A|but it's a, an aerobic video with, not necessarily bouncing around and jumping up and down,|sd
 A|but you're using weights,|sd
 A|and that is the most incredible aerobic workout I have ever done.|sd
-A|It'sit's  really fun. |sd
+A|It's it's  really fun. |sd
 B|Huh.|b
 B| Yes,|b
 B|it's,  it's, it's it's similar to aerobics with weights|sv
 A|Yes,|aa
 A|uh-huh.|aa
-B|but it's like low impact aerobics,  just with weights.|sv
+B|but it's like low impact aerobics,  just  with weights.|sv
 A| Uh-huh. |b
 A|Yes.|b
 B|Okay,|fo_o_fw_"_by_bc
@@ -58,19 +58,19 @@ A|Have you done that?|qy
 B|Uh, yes,|ny
 B|I have.|sd
 B|In, in Atlanta that's, um,|%
-B|most of the health clubsare all,|sv
+B|most of the health clubs are all,|sv
 A|Oh.|b
 B|that's the, that's the in thing.|sv
 A|That's the big thing, huh?|bh
 B|At first it was just regular aerobics,|sv
-B|but now bench or step aerobics havekind of taken over.|sv
+B|but now bench or step aerobics have kind of taken over.|sv
 A|Oh.|bk
 A|So how is that?|qw
 B|Um, it, they call it a low impact aerobics,|sd
-B|and it's supposed to burn off more caloriesat the same time.|sd
+B|and it's supposed to burn off more calories at the same time.|sd
 A|Oh.|bk
 B|And from when I've done it, it does give you a good, a real good workout.|sd
-B|But only thing I'm concerned about is potential for injury to your kneesyou know, that could create a problem.you know, that and movement of going up on the step|sv
+B|But only thing I'm concerned about is potential for injury to your knees you know, that and movement of going up on the step you know, that could create a problem.|sv
 A|Oh.|b
 A|Uh-huh.|b
 A|Yeah.|b
@@ -87,7 +87,7 @@ A|Uh-huh.|b
 B|and, um, wearing that I haven't had any problems in the past year or so.|sd
 A|Oh, that's good.|ba
 A|Well that sounds, you sound just like my husband.|sd
-A|Hehe injured his ankle about seven months ago playing volleyball,|sd
+A|He he injured his ankle about seven months ago playing volleyball,|sd
 B|Yeah.|b
 A|and, oh, he's just had a heck of a time getting that ankle healthy.|sd
 B|Yeah,|b
@@ -97,11 +97,11 @@ A|he wears his, his brace and his high tops|sd
 A|and,|%
 B|Uh-huh.|b
 B|Yeah,|b
-B|I did, I injured mine so many times thatrehabilitating became quite easy.|sd
+B|I did, I injured mine so many times that rehabilitating became quite easy.|sd
 A|Oh.|b
 A|Oh, .|b
 B|I mean, it would only take three or four days|sd
-B|and I could play again on itto play that way.because after a while you just learn how to rehabilitate yourself|sd
+B|and I could play again on it because after a while you just learn how to rehabilitate yourself to play that way.|sd
 A|Wow|ba
 A|Uh-huh.|b
 A|Oh, dear.|ba
@@ -113,7 +113,7 @@ A|and I would, once I start my I'd like to do the forty-five minutes a day on th
 A|and then, every other day I'd like to incorporate the video, and then the bike on the other day.|sd
 B|Uh-huh.|b
 A|But, it is really amazing how fast the inches come off,|sd
-A|and the muscle buildsreal fast.|sd
+A|and the muscle builds real fast.|sd
 B|Uh-huh.|b
 A|Um, you can start,|%
 A|they recommend doing the video without weights for the first month|sd
@@ -126,10 +126,10 @@ B|So it's a good workout.|bf
 A|It is,|aa
 A|yeah,|aa
 A|I really enjoy that,|sd
-A|so I'm looking forward to losing this weight andbeing firm and healthy|sd
+A|so I'm looking forward to losing this weight and being firm and healthy|sd
 B|Uh-huh.|b
 B|So, in the winter, I guess, there's a lot of,|qy^d
-B|it's quite cold andsnow.|qy^d
+B|it's quite cold and snow.|qy^d
 A|Yes.|ny
 A|Yes.|ny
 A|Now this one has been quite mild.|sd

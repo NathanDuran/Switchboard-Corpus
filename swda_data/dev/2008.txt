@@ -4,7 +4,7 @@ B|Um, let's see.|^h
 B|What did I wear to work today?|t1
 B|Um, actually I wore corduroy shorts with a white blouse, um, and flat shoes.|sd
 A|So, can you dress pretty casually?|qy
-B|Um, on occasion.On occasion.|na
+B|Um, on occasion. On occasion.|na
 A|Yeah.|b
 B|Um, I do vary.|sd
 B|Um, you know, I wear suits,|sd
@@ -13,7 +13,7 @@ B|On occasion I can wear jeans.|sd
 B|Um, how about you?|qo
 A|Well, I, um, run a business out of my home.|sd
 B|Uh-huh.|b
-A|So I tend to get up in the morning, put on,And then come home and get back into regular clothes againdo whatever I want to do with the kids, then whenever I have a meeting with a client, I'll put a suit on.sweats, um,|sd
+A|So I tend to get up in the morning, put on, sweats, um, do whatever I want to do with the kids, then whenever I have a meeting with a client, I'll put a suit on. And then come home and get back into regular clothes again|sd
 B|Yes.|b
 B|Uh-huh.|b
 B|Uh-huh.|b
@@ -26,14 +26,14 @@ A|Yeah.|b
 B|So, I predominantly wear flat shoes.|sd
 B|Um, you know, in the winter I wear sweaters,|sd
 B|in summer I, you know, I like one piece dresses, short sleeves, things like that.|sd
-A|I've recently, um, tried to update my wardrobe, trying to put suits together that I can interchange, the,jackets and the blouses and all that a lot.|sd
+A|I've recently, um, tried to update my wardrobe, trying to put suits together that I can interchange, the, jackets and the blouses and all that a lot.|sd
 B|Right.|b
 B|Right.|b
 A|That's helped me a lot with having,|sd
-A|I can only have a, a limited wardrobe, since I'm only,working part-time right now.|sd
+A|I can only have a, a limited wardrobe, since I'm only, working part-time right now.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
-A|Um, but still, it gives it some variety.Add different blouses and scarves and belts and things like that.|sd
+A|Um, but still, it gives it some variety. Add different blouses and scarves and belts and things like that.|sd
 B|Uh-huh.|b
 B|Right,|b
 B|right,|b
@@ -43,7 +43,7 @@ A|What about your casual wear?|qo
 A|Do you like to wear jeans most of the time?|qy
 B|Um, yeah|ny
 B|mostly.|na
-B|I mean, at home I predominantly wear laughs while saying remainder of sweatpants and things like that,also.|sd
+B|I mean, at home I predominantly wear laughs while saying remainder of sweatpants and things like that, also.|sd
 A|Yeah.|b
 A|It's nice you can wear shorts, especially on a day like today when it's so hot.|sd
 B|Yeah,|b
@@ -57,7 +57,7 @@ B|and I get really a lot of compliments on them.|sd
 B|Um, where I work is predominantly male.|sd
 A|Yeah.|b
 B|So, you know, they,|%
-B|their attire is always the same, you know. Suits or slacks,you know, jeans, whatever.|sd
+B|their attire is always the same, you know. Suits or slacks, you know, jeans, whatever.|sd
 A|Yeah,|b
 A|but ,|%
 B|And, um, but I'm really the only woman, I guess, at work that does that,|sd
@@ -110,7 +110,7 @@ A|but, uh, at least, we,|%
 A|you know, it, it, it feels good,|sd
 A|it gets, uh,|%
 A|everybody doesn't have cabin fever today.|sd
-A|It's nice to get,out and about.|sd
+A|It's nice to get, out and about.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|I guess we've discussed everything there is about clothing|sv

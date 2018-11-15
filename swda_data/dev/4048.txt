@@ -39,7 +39,7 @@ B|I work in the office,|sd
 B|so, uh, it's pretty, pretty safe environment.|sv
 A|Uh-huh.|b
 A|Yeah|b
-A|see, I work in the automotive air bag industry, where we make the safety bagsfor the cars,|sd
+A|see, I work in the automotive air bag industry, where we make the safety bags for the cars,|sd
 B|Uh-huh,|b
 B|uh-huh.|b
 A|and we work around a lot of explosives.|sd
@@ -63,7 +63,7 @@ A|Now do they fire them, or do they?|qy
 B|Well, see, this is it,|^h
 B|this is where I start having my problems with my company.|sd
 B|I work for a private company,|sd
-B|andand the policy is something like, see if I can state this correctly now. If you turn yourself in as having a drug related problem, then you're eligible for company counseling.|sd
+B|and and the policy is something like, see if I can state this correctly now. If you turn yourself in as having a drug related problem, then you're eligible for company counseling.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|But if they catch you, if you test positive for a, a controlled substance, then you get fired.|sd
@@ -79,7 +79,7 @@ B|it's one of those things that you read once,|sv
 B|and then, if you, if you're not worried about it, you just forget about it|sv
 A|That's right.|aa
 A|But I know, they do have counseling, and that they do give you a second chance,|sd
-A|but I'm not sure ifif it's if you get caught or if you turn yourself in.|sd
+A|but I'm not sure if if it's if you get caught or if you turn yourself in.|sd
 B|Yeah.|b
 B|Yeah,|b
 B|yeah,|b
@@ -96,7 +96,7 @@ B|Uh, so I you know, I guess it works, uh, much like, uh, well, shoot, like any 
 B|I mean, everybody's got an equal chance to get picked.|sd
 A|Uh-huh.|b
 B|So, uh, I'd rather have that than, you know, say well, this week the A and B are going to be in|sv
-B|and next week,C and D are going to come in|sd
+B|and next week, C and D are going to come in|sd
 A|You could time it just right.|sv
 B|Yeah,|aa
 B|right,|aa

@@ -2,7 +2,7 @@ A|Well, Patricia, I was just about to get on my tread mill,|sd
 A|and then I remembered that I didn't make a call last night,|sd
 A|and I thought I'd make one tonight.|sd
 B|Well, I have an exercise bicycle in my bedroom, but it usually's holding clothes|sd
-A|That's what I did with mine,for a long time, put it on the handlebars so I can hang them up.|sd
+A|That's what I did with mine, for a long time, put it on the handlebars so I can hang them up.|sd
 B|Right|b
 A|And sometimes she just flops them all over the seat.|sd
 B|Well, that's not why I got it,|sd
@@ -18,7 +18,7 @@ A|I read a book while I'm doing it.|na
 B|Oh.|b
 A|But I was doing that on the exercise bike.|sd
 B|Well, I do that too.|sd
-A|I feel like I'm getting a little better of a workout, and I'm losing more weight on thisthan on the other.|sd
+A|I feel like I'm getting a little better of a workout, and I'm losing more weight on this than on the other.|sd
 B|Really.|b
 B|Are you?|bh
 A|And my legs, you know,|%
@@ -46,7 +46,7 @@ A|I didn't buy it really.|sd
 A|My husband bought it because we, we'd never get out and go walking or anything,|sd
 A|and we go to the lake|sd
 A|and we ski and swim in the summer|sd
-A|but besides that,|%
+A|but  besides that,|%
 B| During the year. |^2
 A|uh-huh. |b
 B|Yeah,|b
@@ -92,7 +92,7 @@ B|Oh,|b
 A|And she was,|%
 B|A school administrator.|^2
 A|Uh-huh,|b
-B|Well that could,That would have been interesting.|sv
+B|Well that could, That would have been interesting.|sv
 A|Retired, but.|sd
 A|Yeah,|b
 A|and then one night I talked to these two guys, no, one night I talked to one guy|sd
@@ -123,9 +123,9 @@ B|Does your husband work with T I.|qy
 A|Uh-huh.|nn
 B|Oh really.|bh
 A|Uh-huh.|aa
-A|I have a friend that had a roommatethat worked at T I|sd
+A|I have a friend that had a roommate that worked at T I|sd
 B|Uh-huh.|b
-A|and she saw it on the computer screenand they made copies of it.|sd
+A|and she saw it on the computer screen and they made copies of it.|sd
 B|Oh, so they wanted any, anybody,|sd
 B|don't have to work at T I.|sd
 A|Uh-huh.|b
@@ -169,7 +169,7 @@ B|I haven't quite figured that out.|sd
 B|I thought it was eight or nine,|sd
 B|but seems like too nice a prize for nine, just nine calls, isn't it?|qy
 A|Uh-huh.|b
-B|Says when we have enough calls from you,for gifts.you will receive in the mail a numbered certificate for your calls and and explanation how to redeem,|sd
+B|Says when we have enough calls from you, you will receive in the mail a numbered certificate for your calls and and explanation how to redeem, for gifts.|sd
 A|background saying Stephen did you start the|t3
 A|in background: pour some charcoal in|t3
 B|Are you listening to him?|qy
@@ -304,7 +304,7 @@ A|I just got my certification.|sd
 B|You're kidding.|ba
 A|Huh-uh.|b
 B|Oh, that's ,|%
-A|The test is a booger.The test, the exit test.|sv
+A|The test is a booger. The test, the exit test.|sv
 B|Hard.|bf
 A|It's hard.|aa
 B|Oh, no.|ba

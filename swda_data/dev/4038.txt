@@ -17,7 +17,7 @@ B|and I finally was.|sd
 B|So it was an interesting experience.|sv
 B|I was kind of boring. *listen; should I be "it"|sv
 A|Was it civil or criminal?|qy
-B|Uh, it was, uhuh, it was, uh, well, let's see, it was municipal court|sd
+B|Uh, it was, uh uh, it was, uh, well, let's see, it was municipal court|sd
 A|A grand jury or,|qrr
 A|Uh-huh.|b
 B|so it was a combination of, uh,|sd
@@ -36,15 +36,15 @@ B|the judge did.|sd
 B|Uh, I, uh, I had a hard time getting seated on a jury.|sd
 B|I kept getting, uh,|sd
 B|I'd be questioned, uh, for empaneling the jury,|sd
-B|andthey kept, uh, dismissing me.|sd
+B|and they kept, uh, dismissing me.|sd
 A|Uh-huh.|b
 A|Um.|%
 B|Course they don't have to give a reason,|sd
-B|but it's justwhether the prosecutor or the defense attorney feels like, you know,|sd
+B|but it's just whether the prosecutor or the defense attorney feels like, you know,|sd
 A|No.|aa
 B|they want to get the best, uh, mix for their case,|sv
-B|sothey ask all kinds of wild questions.|sv
-A|Thatthat's a science in itself.|sv
+B|so they ask all kinds of wild questions.|sv
+A|That that's a science in itself.|sv
 B|Yeah,|b
 B|well I kept getting called up for drunk driving questions,|sd
 B|and I think part of it was they didn't, uh, they didn't like the fact that I don't drink any more.|sv
@@ -54,7 +54,7 @@ A|I see.|b
 A|Because you'd probably be, uh, too puritanical|bf
 A|and|%
 B|Yeah,|aa
-B|that wasprobably it,|sv
+B|that was probably it,|sv
 B|although in my case I might have been more, uh, sympathetic with the person who got caught,|sv
 B|I don't know.|h
 A|Uh-huh.|b
@@ -103,7 +103,7 @@ A|I know on a|sd
 A|getting to this unanimous thing, whether, you know, a jury should be unanimous or not, or not, in a court martial case it doesn't require the jury to be unanimous.|sd
 A|It's a simple majority, you know, rules.|sd
 B|Yeah. |b
-B|Well, let's see,|h
+B|Well, let's  see,|h
 B|is it on, uh, capital crimes that they have to be unanimous|qy
 B|and,|%
 A|Probably on capital,|na

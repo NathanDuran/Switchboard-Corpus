@@ -8,7 +8,7 @@ A|it took forever to find somebody.|sd
 B|Oh, well I'm glad you found me.|sd
 A|Good,|ba
 A|well I'm, my name's Gail,|sd
-A|and I guess we have to,talk about credit cards.|qy^d
+A|and I guess we have to, talk about credit cards.|qy^d
 B|Yes.|ny
 B|My name is Carolyn.|sd
 A|Okay,|b
@@ -32,13 +32,13 @@ B|But, um, I would love to just take some scissors and cut them in half.|sd
 A|Yeah,|aa
 A|me too.|sd
 B|I think sometimes when you look at the interest that you're paying on them, um, that's what gets to be the really scary part, you know, if you think, when it comes around to income tax time, and you look at how much money you paid out just in interest all year,|sv
-B|you could really get a lot more stuffif you were just able to pay outright for it.|sv
+B|you could really get a lot more stuff if you were just able to pay outright for it.|sv
 A|Uh-huh.|b
 A|Yeah,|aa
 A|that's true,|sv
 A|that's true.|sv
 A|Seems just like our society is so, um, pushes so hard for, you can have it, you know, and then no interest, no payments for a year, and stuff like this,|sv
-A|they're really trying to get you into that situation, because they know they've really got youthen,|sv
+A|they're really trying to get you into that situation, because they know they've really got you then,|sv
 A|so.|%
 B|all I know is some of my credit cards,|sv
 B|like, um, we have a Sears one,|sd
@@ -56,7 +56,7 @@ A|and now that's real irritating.|sv
 B|It sure is.|aa
 B|We eventually did,|sd
 B|one time we just borrowed, took a personal loan and paid off all our credit cards,|sd
-B|and the interest on the loan was cheaperthan it was, you know, to just have that.|sd
+B|and the interest on the loan was cheaper than it was, you know, to just have that.|sd
 A|Uh-huh.|b
 B|We haven't done it lately.|sd
 B|We probably need to do it again.|sv
@@ -64,7 +64,7 @@ A|Well, we did, you know,|sd
 A|one time, we wanted to buy a truck, a used truck,|sd
 A|and so we went down to the bank,|sd
 A|and they said, Sure we'll give you a personal loan.|sd
-A|It was only a thousand dollars that we neededfor the truck.|sd
+A|It was only a thousand dollars that we needed for the truck.|sd
 B|Uh-huh.|b
 A|And they said, sure that's no problem, but, you know, why don't we consolidate your bills,|sd
 A|and at the time we thought, Oh, that would be great, you know, we could,|sd
@@ -91,15 +91,15 @@ A|We just,|sd
 A|as a matter of fact, this, it's real interesting the subjects I get.|sv
 A|They always seem to be so pertinent.|sv
 A|But we just discussed this last night at church, talking about debt and things like that.|sd
-A|It's so, so alluring, anduh, so easy to get,|sv
+A|It's so, so alluring, and uh, so easy to get,|sv
 B|Uh-huh.|b
 A|uh, sometimes,|%
 B|I know,|aa
-B|they really encourage you not to go into debt for anything except for maybe your house andyour car.|sd
+B|they really encourage you not to go into debt for anything except for maybe your house and your car.|sd
 A|Uh-huh.|b
 A|Yeah,|b
 A|yeah,|b
-B|And, uh, if you could stick to that, you know, we'd get rid of a lot of indigestion andeverything else.|sv
+B|And, uh, if you could stick to that, you know, we'd get rid of a lot of indigestion and everything else.|sv
 A|Yeah.|b
 A|That's true.|aa
 A|Oh, I just picked up my daughter|sd
@@ -109,7 +109,7 @@ A|Yeah.|b
 A|What a mess you are.|t3
 A|Oh, so I don't know, if I, if I, I just feel kind of.|h
 A|My big thing was my husband really wanted to get rid of our Visa card,|sd
-A|and I just thought, you know, if we ever had something go wrong with our refrigerator or something, you knowand we had to, had to buy one, then we would really need that,|sd
+A|and I just thought, you know, if we ever had something go wrong with our refrigerator or something, you know and we had to, had to buy one, then we would really need that,|sd
 B|Uh-huh.|b
 A|and so he said, Okay we'll keep it,|sd
 A|and then we weren't smart enough to not use it,|sd

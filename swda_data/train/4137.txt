@@ -58,9 +58,9 @@ A|The nice thing about autocrossing is you can, you can do both.|sd
 B|Autocrossing is,|bf
 B|what kind of track is that?|qw
 A|Uh, just like a, uh, set up a lot of times|sd
-A|and it's like really large, uh, parking lots.and things.And pylons|sd
+A|and it's like really large, uh, parking lots. And pylons and things.|sd
 B|Okay.|bk
-B|And you put up, set up thetrack, pylons.|qy^d
+B|And you put up, set up the track, pylons.|qy^d
 B|Okay.|bk
 A|Tight turns, hard acceleration.|sd
 A|I've seen a lot of Mustangs, uh, compete|sd
@@ -71,10 +71,10 @@ A|Yeah.|aa
 B|Yeah,|aa
 B|I would guess so.|sd
 A|Uh, what are you thinking about buying?|qw
-B|Uh, I think I'd like to get, uh, B M W or if I go the German route, which I'm kind of leaning towards right now, but, uh, or maybe a, I mean, a, a Acura Legend.Uh|sd
+B|Uh, I think I'd like to get, uh, B M W or if I go the German route, which I'm kind of leaning towards right now, but, uh, or maybe a, I mean, a, a Acura Legend. Uh|sd
 A|The Legend.|b^m
 A|Uh.|%
-B|a Lexus, uh, S C three hundred maybe.Something on that order.|sd
+B|a Lexus, uh, S C three hundred maybe. Something on that order.|sd
 A|Uh-huh.|b
 A|Yeah.|b
 B|You know, because your B M W your German cars have good reputations, I think.|sv
@@ -83,13 +83,13 @@ A|well, I was, I was actually in, uh,|sd
 A|a lot of the B M W are produced in, uh, uh, Stutgardt and, uh, and Munich|sd
 B|Yes.|b
 A|and I was, I was there this, uh, summer|sd
-A|and, uh, I was really impressed by the, uh, the, uh, factory, uh, tours andsuch for B M W.|sd
+A|and, uh, I was really impressed by the, uh, the, uh, factory, uh, tours and such for B M W.|sd
 B|The,|%
 B|Yeah,|b
 B|they, their, they have the whole philosophy,|sv
-B|I mean, they, they kind of even brainwash themselves into thinking they're better,which is kind of hard to take|sv
+B|I mean, they, they kind of even brainwash themselves into thinking they're better, which is kind of hard to take|sv
 A|Yeah.|b
-B|I meanas you're walking through that little tour in, uh, Munich, it's kind of they're trying to brainwash you, too|sd
+B|I mean as you're walking through that little tour in, uh, Munich, it's kind of they're trying to brainwash you, too|sd
 A|Uh,|b
 A|Oh, of course,|aa
 A|of course they are.|aa
@@ -118,7 +118,7 @@ B|No,|aa
 B|it's not realistic.|sv
 A|Unless, it's, it's a toy.|sv
 B|Yeah,|b
-B|if you canafford that kind of a toy, then, I guess, uh|sv
+B|if you can afford that kind of a toy, then, I guess, uh|sv
 A|Let's face it.|h
 A|Yeah,|aa
 A|yeah,|aa
@@ -139,15 +139,15 @@ A|that's good.|ba
 A|I also, I was impressed by, uh, by the Mercedes, too.|sd
 B|Oh, yeah.|b
 A|I really, I really like the Mercedes.|sd
-B|But,But if, if you have a problem with a Mercedes, you take it into a shop, they're going to, they're going to hit you up for just all kinds of things|sv
+B|But, But if, if you have a problem with a Mercedes, you take it into a shop, they're going to, they're going to hit you up for just all kinds of things|sv
 A|The factory was nice|sd
 A|and,|%
 A|And is it different for the, for the B M W?|qy
 B|Uh, I think, well, something on the order of a three series, it's probably different.|sv
-B|Once you get upin the five series and higher, then, all your repair costs go up significantly|sv
+B|Once you get up in the five series and higher, then, all your repair costs go up significantly|sv
 A|Probably.|aa
 A|Right,|b
-A|I canimagine that.|ba
-B|SoI'm kind,|%
+A|I can imagine that.|ba
+B|So I'm kind,|%
 B|yeah,|%
 B|I'm not sure if I really want,|sd

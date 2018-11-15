@@ -38,7 +38,7 @@ A|Now GHOST,|%
 A|yeah,|aa
 A|I love tearjerker movies.|sd
 A|But that wasn't too bad on tearjerker|sv
-A|but,It was, oh, it was good movie,|sv
+A|but, It was, oh, it was good movie,|sv
 B|Not too awful bad.|ba
 B|Yeah.|b
 A|Because that was just so good.|sv
@@ -101,7 +101,7 @@ A|That, oh, that's horrible,|sv
 A|that is horrible|sv
 A|and their, their, the language on that's filthy.|sv
 B|I don't see why they have to do that,|sv
-B|I mean,use different words instead, I think.I mean everybody knows that it, that the, the language is there so they could just ignore it and, you know,|sv
+B|I mean, I mean everybody knows that it, that the, the language is there so they could just ignore it and, you know, use different words instead, I think.|sv
 A|Yeah.|b
 A|Yeah.|b
 A|Yeah,|aa
@@ -121,7 +121,7 @@ A|Just a second.|ad
 A|the phone and talks to Sorry,|fa
 A|now, you're glad you ain't got a four year old.|sv
 B|That's okay|bd
-B|Now,Molly Ringwald? *brNow I haven't seen PRETTY IN PINK,|sd
+B|Now, Now I haven't seen PRETTY IN PINK, Molly Ringwald? *br|sd
 A|It this is the first time he's interrupted my phone calls.|sd
 A|Molly Ringwald.|^2
 A|Yeah.|aa
@@ -188,7 +188,7 @@ A|Oh.|b
 B|And I think, you know, around here, it's all ready quit playing.|sd
 B|But I don't, I don't know if it's still playing any where else.|sd
 A|Well I, I think,|%
-B|But it was, it was,it was one of those that kept you on the edge of your seat.|sd
+B|But it was, it was, it was one of those that kept you on the edge of your seat.|sd
 A|Real good.|^2
 A|I want to see that.|sd
 A|Yeah,|b
@@ -196,7 +196,7 @@ A|I seen the, uh, previews for it on T V down here,|sd
 A|but it's just been down here a couple weeks, I think.|sd
 B|Oh, okay,|b
 A|Yeah.|b
-B|because we saw it, probably,four or five months ago.|sd
+B|because we saw it, probably, four or five months ago.|sd
 A|A month|sd
 A|Well I know it hasn't been that long since I've seen the previews for it,|sd
 A|but yeah,|%
@@ -222,7 +222,7 @@ B|No,|nn
 B|it was,|%
 B|I didn't like the way it ended.|sd
 A|I know,|aa
-A|well the only reason I know why it ended is on ARSENIO HALL one night, Christopher Reeves told,that, you know,|sd
+A|well the only reason I know why it ended is on ARSENIO HALL one night, Christopher Reeves told, that, you know,|sd
 B|Uh-huh.|b
 A|I can't believe they killed them.|sd
 A|Or, or who was it|qw
@@ -281,7 +281,7 @@ B|and it just left you with this kind of uneasy feeling, you know.|sd
 A|Eerie feeling,|bf
 A|or, I want to see it though.|sd
 A|I'd like to see that and, uh, THE NEVER ENDING STORY, came out on Disney this month, I think.|sd
-B|II've heard about that|sd
+B|I I've heard about that|sd
 A|I wanted to see that.|sd
 B|but I don't know what it's about.|sd
 A|THE NEVER ENDING STORY?|br
@@ -291,7 +291,7 @@ A|but, oh, it's good,|sd
 A|I enjoyed it.|sd
 B|I love Disney movies.|sd
 A|Yeah,|aa
-A|I do tooYeah,|aa
+A|I do too Yeah,|aa
 B|I mean, they're some of the best of, that are made.|sv
 A|yeah.|b
 A|And, uh, well it's about this little boy who, uh,|sd

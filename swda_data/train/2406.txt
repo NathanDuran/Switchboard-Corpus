@@ -3,7 +3,7 @@ B|Okay|b
 B|movies.|sd
 B|I haven't seen too many lately.|sd
 B|I have kids|sd
-B|and we went and saw THE RESCUERS DOWN UNDER, Under,over the, the break.|sd
+B|and we went and saw THE RESCUERS DOWN UNDER, Under, over the, the break.|sd
 A|Uh-huh.|b
 B|Do, do you have kids you take to movies|qy
 B|or,|%
@@ -51,20 +51,20 @@ A|yeah,|aa
 A|chop them up,|b^m
 A|exactly.|aa
 A|And,|%
-B|This is supposed to be the, the guy that's, uh, replaces Bruce Lee or whatever or,or the next Chuck Norris type of guy.|sd
+B|This is supposed to be the, the guy that's, uh, replaces Bruce Lee or whatever or, or the next Chuck Norris type of guy.|sd
 A|Yeah.|b
 A|Or he's singular I guess, you know.|sd
-A|You know how they can make any of, any single one of them in a movie to be asuperstar of any sort, you know,super|sv
+A|You know how they can make any of, any single one of them in a movie to be a super superstar of any sort, you know,|sv
 B|Uh-huh.|b
 B|Superstar.|^2
 B|Uh-huh.|b
-A|but Chuck Norris, of course, could be just about equal,if not more|sv
+A|but Chuck Norris, of course, could be just about equal, if not more|sv
 B|Uh-huh.|b
-A|or, and all of them, I guess, could be in that fashion,or category.|sv
+A|or, and all of them, I guess, could be in that fashion, or category.|sv
 B|Hum.|%
 B|Uh-huh,|b
 B|uh-huh.|b
-A|It was about, uh, a,French Foreign Legion fellow who deserts to go help his brother's wife who got, who became a widow because he was selling drugs|sd
+A|It was about, uh, a, French Foreign Legion fellow who deserts to go help his brother's wife who got, who became a widow because he was selling drugs|sd
 B|.|%
 A|and he got killed.|sd
 B|Really uplifting, huh|qy
@@ -136,7 +136,7 @@ A|Right.|b
 B|Really gory.|sv
 A|Yeah,|aa
 A|that seems to be the norm of most movies,|sv
-A|butwhat the hey.|fo_o_fw_"_by_bc
+A|but what the hey.|fo_o_fw_"_by_bc
 B|Yeah.|b
 A|This is America.|fo_o_fw_"_by_bc
 B|Let me see.|^h
@@ -157,7 +157,7 @@ A|I always wait for the movie.|sd
 A|I don't have time to read the book.|sd
 B|Yeah.|aa
 B|I don't,|sd
-B|I read about one or two thick novels like that a year.You know,|sd
+B|I read about one or two thick novels like that a year. You know,|sd
 A|Uh-huh.|b
 B|that's about all the time I can, I can spare.|sd
 B|But that was a good show I thought, you know.|sd
@@ -167,7 +167,7 @@ B|It was, it was all done in studio with smoke and mirrors and all the Hollywood
 A|Yeah.|b
 B|All those underwater scenes.|sd
 B|I thought, you know,|%
-B|it looked to me like it was a real submarine,that was in the water, you know.|sd
+B|it looked to me like it was a real submarine, that was in the water, you know.|sd
 A|They ,|%
 A|That's the magic of Hollywood, special effects.|sv
 B|Yeah.|b
@@ -192,7 +192,7 @@ A|And, uh,|%
 B|To, to fool people|bf
 B|and ,|%
 A|Right,|aa
-A|and using makeup and using theall the props and whatever to get to where he needs to go.|sd
+A|and using makeup and using the all the props and whatever to get to where he needs to go.|sd
 B|All the tricks.|^2
 B|Uh-huh.|b
 B|That sounds like an interesting concept.|sv
@@ -201,22 +201,22 @@ B|To understand what's going on in the second?|qy^d
 A|Uh, if, if that is that the second one follows the first.|sd
 A|I don't know if they have the, uh, original actors on that first one to that one.|sd
 B|Uh-huh.|b
-B|They're supposed to be coming out with all these Desert Storm movies,this summer, too|sd
+B|They're supposed to be coming out with all these Desert Storm movies, this summer, too|sd
 A|Oh.|b
 A|I expected those.|sd
 B|Yeah.|b
 A|I mean, Hollywood, I mean they were doing their dealings with that before they even got over there, I think.|sv
 B|Yeah.|b
 B|Well, they had some,|%
-B|in some of those, you know, they, I guess they retitled some movies that were going to be about Lebanese and, and, you know, and,and Americans|sd
+B|in some of those, you know, they, I guess they retitled some movies that were going to be about Lebanese and, and, you know, and, and Americans|sd
 A|Uh-huh.|b
 B|and they decide, oh, make it Iraqis and Americans, you know,|sd
 B|and they just change the title and, uh, and reshot a few parts, you know, where they, yeah, you know, where they could.|sd
 B|I guess they figured we wouldn't, can't tell the difference between an,|sv
-A|Actual names,will not be used.|bf
+A|Actual names, will not be used.|bf
 B|Yeah.|b
 B|Right.|b
-A|Eventually I'm sure they will come out with the,the, the proper names.|sv
+A|Eventually I'm sure they will come out with the, the, the proper names.|sv
 B|Yeah.|b
 B|Right .|aa
 B|It was such a,|sv
@@ -224,7 +224,7 @@ B|it,|%
 B|I guess they, they'll probably come out with a lot of movies, you know.|sv
 B|It was, it was such a rout though, you know.|sv
 B|I don't know, you know,|h
-B|they probably do the story of someone who was shot down early in the war or something and how he survived or,or about, or about those two newsmen or whatever that got captured.|sd
+B|they probably do the story of someone who was shot down early in the war or something and how he survived or, or about, or about those two newsmen or whatever that got captured.|sd
 A|Latest story,|^2
 A|Uh-huh.|b
 A|Kevin Costner I understand is supposed to be play Schwartzkopf, supposedly.|sd
@@ -241,7 +241,7 @@ B|yeah,|aa
 B|it's been about five minutes.|sd
 B|It's been nice talking with you.|fc
 A|Same.|fc
-A|And, uh, we'llTalk to you on the next go around.|fc
+A|And, uh, we'll Talk to you on the next go around.|fc
 B|Keep on watching those movies, huh?|ad
 B|Okay.|fc
 B|Bye-bye.|fc

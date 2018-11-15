@@ -2,7 +2,7 @@ A|Capital punishment, uh, I guess, out in California is, has had a lot of, uh, a
 A|Uh, apparently, you know, there's, they haven't, uh, executed anybody since nineteen sixty-seven, I believe.|sd
 B|Uh, yeah.|b
 B|That's, that's as far back as I can remember|sd
-B| Well, that's before my time actually.|sd
+B| Well, that's before  my time actually.|sd
 A| Yeah,|b
 A|they, |%
 A|Well, I, we were, we, uh, we just started, we lived in Redwood City when we were out there.|sd
@@ -25,10 +25,10 @@ B|And nothing is being done about it.|sv
 B|Uh, the laws exist and are frequently upheld in, in, uh, in Appeals Court just because of technicalities and because of maybe small little holes that their defending attorney can find.|sv
 B|And it's, it's really getting out of hand in many states.|sv
 A|Well, the term technicality .|sv
-A|The law enforcement community,uh, uh, you know, has to, has to separate the difference between somebody who is being set up in which, uh, grievous acts are done to, uh, to, you know, to get somebody into a, a situation where they're going to be guilty of, of a crime.|sv
+A|The law enforcement community, uh, uh, you know, has to, has to separate the difference between somebody who is being set up in which, uh, grievous acts are done to, uh, to, you know, to get somebody into a, a situation where they're going to be guilty of, of a crime.|sv
 A|Or whether, uh, and whether the rights of that individual are been, have been, you know, impuned.|sv
 A|Uh, but or whether there's just, you know, a policeman has just made a, uh, a, you know, a non, a noncritical error, though be it not the right way to do it|sv
-A|but, but, you know, the, the merits of the case in terms of, you know,the guy was a law breaker, as being supportive.|sv
+A|but, but, you know, the, the merits of the case in terms of, you know, the guy was a law breaker, as being supportive.|sv
 A|Now, I, I'm, at this juncture|h
 A|I, you know, I'm, I'm not sure, you know, what constitutes a, a technicality.|sd
 A|You know, that, that's what all these, these hearings are about|sv
@@ -49,4 +49,4 @@ B|Well, it seems like well it, it seems as if in the past typically there have b
 B|and the whole idea behind the current criminal process system is to protect those who actually didn't the crimes, albeit it seems that we are failing in that, in that ultimate goal because there are times when people who are guilty are getting off.|sv
 B|Um, for instance, um there's a case a few years back where, uh, someone, uh, someone who's being convicted for, was under a was going to trial for murder, was let off because of a technicality in that. The the arresting officer, uh, did not read the defendant their rights.|sd
 A|Uh-huh.|b
-B|And where his,old evidence was there, the witnesses were there, the, everything was conclusively pointing to this individual yet|sd
+B|And where his, old evidence was there, the witnesses were there, the, everything was conclusively pointing to this individual yet|sd

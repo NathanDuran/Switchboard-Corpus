@@ -3,7 +3,7 @@ A|Do you want to go ahead?|qy
 B|Sure.|na
 B|We pay far too much in taxes.|sv
 B|Well, far too much for what we get.|sv
-B|I meanI don't know, it just seems too much of the money is just lostit's just,|sv
+B|I mean it's just, I don't know, it just seems too much of the money is just lost|sv
 A|Uh-huh.|b
 A|I agree.|aa
 A|Uh-huh.|aa
@@ -35,14 +35,14 @@ A| Exactly. |aa
 B| It takes  you know, very little to just shop around and,|sv
 A|Exactly.|aa
 A|And I know a lot of, uh, corporations now are looking at their amount of money that's being spent|sv
-A|and  they're looking at what's the best buy.|sv
+A|and  they're looking  at what's the best buy.|sv
 B| That's true |aa
 A|It used to be you could go, if you had a company you had to go through certain people|sv
 A|and you didn't care what you paid.|sv
 B|Yep.|b
 A|I mean you just got it done.|sv
 A|Now people are putting in bids for things and are looking at things.|sv
-A|Going to actually shop at Best Buy for, Best Buy is one of our electronic storesfor fax machines, things like that, instead of going through these office supply companies that mark up their amounts and say, you know, I'll give you a legal pad for five bucks,|sv
+A|Going to actually shop at Best Buy for, Best Buy is one of our electronic stores for fax machines, things like that, instead of going through these office supply companies that mark up their amounts and say, you know, I'll give you a legal pad for five bucks,|sv
 B|Right.|b
 A|and you can go to another shop and get it for maybe sixty cents or or ninety cents|sv
 B|Yeah.|b
@@ -51,15 +51,15 @@ A|so.|%
 B|I'm also wondering why our taxes are still so high considering like the world's probably in better shape now than it has been in the last fifty years|qh
 A|Except for everything keeps going up,  you know. |sv
 A|And I know as a middle class, uh, you know,|%
-A|and also I have one dependent hasmy daughter|sd
+A|and also I have one dependent has my daughter|sd
 B|Uh-huh.|b
-A|and I keep looking at well where's the tax, so-called tax, uh, relief for having  children.|sd
+A|and I keep looking at well where's the tax, so-called tax, uh, relief  for having  children.|sd
 B| Yeah,|aa
 B|I know. |aa
 A|I mean, there is none|sv
-A|I mean, I think I paid just as much  as when I didn't have her,|sd
+A|I mean, I think I paid just as much  as when  I didn't have her,|sd
 B| Oh, I know,|aa
-B|I mean  I don't even,You know, I don't even get to see half my paycheck.|sd
+B|I mean  I don't even, You know, I don't even get to see half my paycheck.|sd
 A|so|%
 A|Uh-huh.|b
 B|Between Four Oh One K and, and the thirty-four percent they're taking out for taxes.|sd
@@ -91,7 +91,7 @@ A| and |%
 B| I don't,|%
 B| in the first place, you know, there's also like taxation without representation.|sv
 B|Well I don't feel represented anymore in our government.|sd
-B|I mean, itit's certainly not a government for me.|sd
+B|I mean, it it's certainly not a government for me.|sd
 A|Yeah,|b
 A|Yeah.|b
 B| It doesn't take care of my needs |sd
@@ -110,9 +110,9 @@ A|It's candidates that have money|sv
 B|Yep.|aa
 A|and it's backed by big business.|sv
 A|And big business says well we don't care about the little person|sv
-A|and, uh, you know, you're not going to get anymore Abe Lincolnsaround.|sv
+A|and, uh, you know, you're not going to get anymore Abe Lincolns around.|sv
 B|No,|aa
-B|but little people who  buy everything,but that, that's going to backfire because|sv
+B|but but that, that's going to backfire because  little people who  buy everything,|sv
 A|Uh-huh.|aa
 A| Well who knows, uh,|qh
 A|yeah. |%
@@ -135,7 +135,7 @@ B|I'm not|sd
 B|I don't know,|h
 B|I can't think of any easy answers to it|sd
 B|but something has to happen,|sv
-B|I meanI'm certainly fed up with it.|sd
+B|I mean I'm certainly fed up with it.|sd
 A|Uh-huh,|aa
 A|yeah.|aa
 A|Yeah|aa

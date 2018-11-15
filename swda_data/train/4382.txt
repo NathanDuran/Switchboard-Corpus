@@ -7,7 +7,7 @@ B|We're, uh, we're in kind of a basin|sd
 B|And, uh, Seattle is on Puget Sound which is a inland waterway between two mountains.|sd
 B|And, uh, there's been a lot, a lot of growth, population growth around here|sd
 B|And, uh, it's, uh, it's getting worse|sv
-B| I think most of it is from cars.|sv
+B| I think  most of it is from cars.|sv
 A| Yeah. |b
 A|Yeah.|aa
 A|Definitely.|aa
@@ -17,7 +17,7 @@ A|we get a lot of pollution|sd
 A|and it's like seventy percent of it is from cars.|sd
 B|Uh-huh|b
 A|And, uh, it always really hits hard during the winter when we get the inversion|sd
-A|And when we get,get cold air down in the valleys and warm air up above|sd
+A|And when we get, get cold air down in the valleys and warm air up above|sd
 A|and it just sits and sits and sits|sd
 A|and we're starting to hit pollution levels now on the Wasatch front which match that of L A a few years ago.|sd
 B|Oh.|b
@@ -26,7 +26,7 @@ A|Because when I grew up here, it was just always the crisp air up in the mounta
 A|and now it's not in the mountain valleys.|sd
 B|Yeah.|b
 B|Yeah,|b
-B|I live in the,university district|sd
+B|I live in the, university district|sd
 B|and, uh, uh, it's supposed to have about the worst air pollution|sv
 B|I think probably due to, uh, a lot of students going back and forth to school.|sv
 A|Huh.|%
@@ -44,7 +44,7 @@ B|We have that here|sd
 B|and, uh, they're, they're expanding it to, uh, more counties here. Uh, as the population spreads out|sd
 B|and I think they're also going to be making it, uh, mandatory for more cars.|sv
 B|there was, uh, something in the law about if your car was over a certain age, like over twenty years old, you didn't have to get it done anymore.|sd
-B| And  that loophole.I think they're eliminating that, uh|sv
+B| And  I think they're eliminating that, uh  that loophole.|sv
 A| Yeah. |b
 A|Yeah.|b
 A|They're  eliminating that out here. |sd
@@ -53,7 +53,7 @@ A|They're also talking very seriously about the thing called a dirt gun. Where t
 A|Kind of like a radar gun.|sd
 A|And ...|%
 B|Oh, really, |b
-B|You mean they could do that remotely?|qy
+B|You mean they could  do that remotely?|qy
 A| Yes. |ny
 A|Yeah.|ny
 A|Do it remotely just looking at the, what they do,|sd
@@ -66,12 +66,12 @@ B|Huh.|%
 A|And ...|%
 B|Now where does the source light go?|qw
 A|Like across the street.|sd
-A| They'll set up like a trap or something like that in some sense.|sd
+A| They'll set up  like a trap or something like that in some sense.|sd
 B| Oh, I see. |bk
 A|And they're also looking at, uh, other, you know, ways of monitoring this and, cause they've found out something basically that, uh,|sd
 A|and a poorly tuned car can emit something,|sd
 A|it's an incredible amount.|sd
-A|It was like four hundred times as muchuh, of certain pollutants, and it was like unburned hydrocarbons, then a properly tuned car.|sd
+A|It was like four hundred times as much uh, of certain pollutants, and it was like unburned hydrocarbons, then a properly tuned car.|sd
 B|Jeez.|ba
 A|And, and the idea being that if you just tuned up all the cars, well if you tuned up this ten percent of the cars that were producing like fifty percent of the, the pollution then, you know, you, it'd be one way to cut the pollution in half.|sd
 B|Yeah.|b
@@ -85,7 +85,7 @@ A|Uh-huh.|b
 B|But if I, uh, if I take the bus, it requires several transfers|sd
 B|and it takes over an hour.|sd
 A|Huh.|%
-B|So  so it it's, it's not hard to see why, why I keep driving.|sv
+B|So  so it  it's, it's not hard to see why, why I keep driving.|sv
 A| Yeah.|b
 A|And they're  ...|%
 B|And you know, I feel guilty cause I'm driving a|sd

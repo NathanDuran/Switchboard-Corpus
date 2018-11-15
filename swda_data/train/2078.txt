@@ -21,7 +21,7 @@ B|But I think, let's see,|^h
 B|the teams that were there last year were, see, somebody from California,|sd
 B|I don't even know who won the pennant last year.|qw^d
 A|Beats me.|no
-A|I mean, I know Yankees have won a lot gamesthrough the years.|sv
+A|I mean, I know Yankees have won a lot games through the years.|sv
 B|Yeah|b
 B|Not lately though|sv
 A|We have been talking about this,|sd
@@ -78,7 +78,7 @@ B|and it's going to have little shopping centers in it and little like a lake or
 B|And, uh, they're going to try to make it a real community center out there.|sd
 A|And your going to be able to buy your,|qy
 A|what was, no, wait about the liquor?|qy
-B|That's, that's in, uh, Texas stadium where the football players,play|sd
+B|That's, that's in, uh, Texas stadium where the football players, play|sd
 A|Oh, yeah,|b
 A|so you,|%
 B|and they're never going to let liquor in there.|sd
@@ -174,7 +174,7 @@ A|Uh, this is my eleventh year.|sd
 B|Ugh, that's about, uh, ten too many.|sv
 A|No,|ar
 A|actually it's,|%
-A|now my job's good,because I'm Chapter One,much better than a lot,|sd
+A|now my job's good, much better than a lot, because I'm Chapter One,|sd
 B|Yeah.|b
 B|Uh-huh.|b
 B|Yeah.|b
@@ -199,9 +199,9 @@ A|We don't even know where one is.|^q
 B|Oh, God|ba
 A|And so I go, okay, I mean, you just, you did what you wanted to do,|sd
 B|How funny.|ba
-A|and now they tell you what to teach and how long and, you know, what day,what period.|sd
+A|and now they tell you what to teach and how long and, you know, what day, what period.|sd
 B|Yeah,|b
-B|you don't know which is,you don't know, which is worse.|sv
+B|you don't know which is, you don't know, which is worse.|sv
 A|Yeah.|b
 A|No,|ar
 A|I know which is worse.|sd
@@ -289,13 +289,13 @@ B|you|%
 B|that's,|%
 A|Don't you?|qy
 A|Just massive rental.|qy^d
-B|well heck, that's a lot cheaper then, uh,taking them out to the show.|sv
+B|well heck, that's a lot cheaper then, uh, taking them out to the show.|sv
 A|Going to,|%
 A|I know.|aa
 B|Especially if you get them for a couple of nights you don't have to watch them all in one one time.|sv
-A|That's what we do, especially when it's bad weather, man, just,plug it in.|sd
+A|That's what we do, especially when it's bad weather, man, just, plug it in.|sd
 B|Yeah.|b
-B|Of course, you have to get there early if you want to get anything,decent.|sv
+B|Of course, you have to get there early if you want to get anything, decent.|sv
 A|I know in|aa
 A|It's good when you go to Tom Thumb though|sv
 A|and they're cheap|sv

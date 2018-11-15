@@ -21,17 +21,17 @@ A|Oh, from Texas.|bk
 B|Uh-huh.|ny
 B|And, uh|%
 A|I heard they had some flooding down there.|sd
-B|Um, they had some flooding in Houston the other day, real, real badover, I think it was over the weekend.|sd
+B|Um, they had some flooding in Houston the other day, real, real bad over, I think it was over the weekend.|sd
 A|Uh-huh.|b
 A|Um.|b
-B|The radar just looked nastywith a bunch of red splotches all across it.|sd
+B|The radar just looked nasty with a bunch of red splotches all across it.|sd
 A|Uh-huh.|b
 A|Well, the last couple of years, we're, um, we're over as far as our rainfall goes.|sd
 A|Before that it was really dry,|sd
-A|and, uh,everybody was, you know, talking about rationing water and doing this and doing that.|sd
+A|and, uh, everybody was, you know, talking about rationing water and doing this and doing that.|sd
 A|Not really rationing water, but just cutting down.|sd
-B|that's,that's right.|aa
-A|And, uh,and across,it seems like, uh, you know, the weather pattern is just shifting, and, uh, that, uh, jet stream is moving, uh, into our area, North Carolina|sd
+B|that's, that's right.|aa
+A|And, uh, it seems like, uh, you know, the weather pattern is just shifting, and, uh, that, uh, jet stream is moving, uh, into our area, North Carolina and across,|sd
 B|There|%
 A|but it's, uh, changing latitude.|sd
 B|Uh-huh,|b
@@ -91,7 +91,7 @@ A|and they're still, uh, rebuilding from that storm,|sd
 A|and so the, the beaches here just get really beat up|sd
 A|and it usually comes this way|sd
 B|Yeah.|b
-A|It comes up from, uh, Miamiuh, down around, or, you know, around the Bahamas,|sd
+A|It comes up from, uh, Miami uh, down around, or, you know, around the Bahamas,|sd
 B|Uh-huh.|b
 A|and it usually travels, uh, northwest,|sd
 A|and, uh, it'll go up the coast quite a ways before it finally hits.|sd
@@ -132,7 +132,7 @@ B|Um, they took a bunch of film of it.|sd
 B|It, uh, kind of chased them.|sd
 B|It was a few hundred yards away|sd
 B|and it chased them under an underpass,|sd
-B|and it was tossing around the carright before it got there,|sd
+B|and it was tossing around the car right before it got there,|sd
 A|Oh, gosh.|ba
 B|and it tore up the people inside the car.|sd
 A|Oh, did it?|bh
@@ -168,7 +168,7 @@ B|And it, and, and usually it's not even raining when it starts.|sd
 B|It's just.|%
 A|Yeah,|aa
 A|you'd be amazed at how clear the sky was,|sd
-A|but the clouds are just really, uh, uh, rollingkind of just real pillowy, I guess.|sd
+A|but the clouds are just really, uh, uh, rolling kind of just real pillowy, I guess.|sd
 B|Uh-huh.|b
 B|That's right,|aa
 B|and they're black,|sd

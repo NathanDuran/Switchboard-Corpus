@@ -59,10 +59,10 @@ B|or,|%
 B|yeah,|%
 B|I think it was BATTLE CRY OF FREEDOM.|sd
 A|BATTLE CRY OF FREEDOM .|b^m
-B|It's kind of like a historical compendium,of the Civil War,|sd
+B|It's kind of like a historical compendium, of the Civil War,|sd
 A|Yeah.|b
 B|and it's not a story of the Civil War,|sd
-B|it's a story of all the politics and, uh, lobbying and just basically state by state events,that lead to the events that brought about the Civil War.|sd
+B|it's a story of all the politics and, uh, lobbying and just basically state by state events, that lead to the events that brought about the Civil War.|sd
 A|Uh-huh.|b
 B|And it's fascinating because I had always, you know, been raised on this, you know, Emancipation Proclamation with the Civil War.|sd
 A|Uh-huh.|b
@@ -117,7 +117,7 @@ A|and they were cut off at the pass more or less, at Eagle Pass.|sd
 A|And they didn't get across the river there|sd
 A|so they're, the last,|%
 A|and that was actually after the war was over|sd
-A|but it was the last,organized battle between the two units was in Texas,|sd
+A|but it was the last, organized battle between the two units was in Texas,|sd
 B|Yeah.|b
 A|so.|%
 B|Oh.|b
@@ -137,18 +137,18 @@ A|Well, I'm from New Mexico|sd
 A|so, you know, I was|%
 B|That's a beautiful state.|ba
 B|That's a beautiful state.|ba
-B|See I was raised in the Midwest which,you know, hell, we didn't even, you know, we didn't even know where the Mason Dixon Line was,|sv
+B|See I was raised in the Midwest which, you know, hell, we didn't even, you know, we didn't even know where the Mason Dixon Line was,|sv
 A|Uh-huh.|b
-B|and besides, you know, if corn didn't grow there,it didn't matter.|sv
+B|and besides, you know, if corn didn't grow there, it didn't matter.|sv
 A|Huh.|b
 A|It sounds like Iowa or something.|sv
 B|Iowa and Nebraska.|sd
 A|Uh-huh.|b
 B|Yep.|b
 B|And then I had probably lived the last eleven years in Massachusetts|sd
-B|so, you know.What does that make me, an honorary Yankee|qh
+B|so, you know. What does that make me, an honorary Yankee|qh
 A|Uh-huh.|b
-B|or,God knows what.|qh
+B|or, God knows what.|qh
 A|Yeah,|b
 A|on,|%
 A|yeah.|b
@@ -157,7 +157,7 @@ A|so|%
 B|Well then, she's going to come out well rounded.|sv
 A|Yeah.|b
 B|But outside of those kind of things, you know, the other thing that I've really gotten into reading,|sd
-B|and I think this is because the kids are getting to me,is science fiction.|sd
+B|and I think this is because the kids are getting to me, is science fiction.|sd
 A|Uh-huh.|b
 A|I've always kind of enjoyed it.|sd
 A|I, I used to read a lot more than I do now.|sd
@@ -172,7 +172,7 @@ B|In the last six weeks he's been on the road a lot.|sd
 A|I just turned around and looked at my brief, at my briefcase, my, uh, bookcase up here|sd
 A|and I see ARMAGEDDON up there.|sd
 A|And, uh, the SHADOW OF BLOOMING GROVE and TWO THOUSAND AND TEN and GRANT TAKES COMMAND and THE WAR IN THE YEAR oh, SPACE that was the one I was trying to wade through was SPACE, James Michener. Didn't get very far on that.|sd
-B|You know, I think I read HAWAII,when I was about ten years old|sd
+B|You know, I think I read HAWAII, when I was about ten years old|sd
 A|Yeah.|b
 B|or so.|%
 A|Yeah.|b
@@ -205,8 +205,8 @@ A|And they had a centennial here awhile back.|sd
 A|I read the GRANT TAKES COMMAND,|sd
 A|that was pretty good.|sd
 B|Well,|%
-A|That was part of that trilogy that, uh,Bruce Canton did.|sd
-B|Now that's one that,That's one|%
+A|That was part of that trilogy that, uh, Bruce Canton did.|sd
+B|Now that's one that, That's one|%
 B|I don't know.|h
 B|See, I had never really been into science fiction that much until, uh, somebody gave me MIST OF AVALON probably about five or six years ago.|sd
 A|Yeah.|b
@@ -220,13 +220,13 @@ B|Well, I loved that novel.|sd
 B|And then somebody said, oh, God, this would have been even long ago because I was in Boston|sd
 B|and it was raining all night,|sd
 B|and I had a hole in my roof|sd
-B|and I was waiting for the whole house to collapse,Which seeming rather ironic.and, uh, I was reading DUNE.|sd
+B|and I was waiting for the whole house to collapse, and, uh, I was reading DUNE. Which seeming rather ironic.|sd
 A|Oh.|b
 A|Yeah.|b
-B|And I read the whole damn book while I was home hauling out, you know, like ten-gallon buckets of, of water and waiting for the roof to collapse and,reading about these guys wearing their little free man still suits|sd
+B|And I read the whole damn book while I was home hauling out, you know, like ten-gallon buckets of, of water and waiting for the roof to collapse and, reading about these guys wearing their little free man still suits|sd
 A|Uh-huh,|b
 A|you're reading DUNE.|b
-B|and,I think that's probably my favorite of, of any piece of science fiction that I've ever read.|sd
+B|and, I think that's probably my favorite of, of any piece of science fiction that I've ever read.|sd
 A|That was a movie too, wasn't it?|qy
 B|And the movie was awful.|na
 A|Was it?|bh
@@ -244,21 +244,21 @@ B|I just remember Sting was in it.|sd
 A|Oh, really?|bh
 B|Yeah,|ny
 B|and if you were trying to follow any type of, uh, plot, it, it|sv
-B|even having read the book, and I've read that book probably three times,at all.what they were talking about,watching that movie, I couldn't figure out,|sd
+B|even having read the book, and I've read that book probably three times, watching that movie, I couldn't figure out, what they were talking about, at all.|sd
 A|Uh-huh.|b
 A|Couldn't,|%
 A|Yeah.|b
 B|I was real disappointed in that.|sd
 B|Well, I'll tell you another good book,|^h
 B|do you like scary things?|qy
-A|Um, well, some history,books are pretty scary,|^h
+A|Um, well, some history, books are pretty scary,|^h
 B|Have you,|%
 A|but,|%
 A|yeah|ny
 B|That's true.|aa
 B|Have you read, THE SILENCE OF THE LAMBS?|qy
 A|No.|nn
-A|Somebody who,saw the movie here the other day told me it was the most terrifying thing they'd ever seen,|sd
+A|Somebody who, saw the movie here the other day told me it was the most terrifying thing they'd ever seen,|sd
 B|Oh.|bk
 A|they didn't sleep all night.|sd
 B|Well, see I, I am debating whether or not I want to go see the movie after having read the book.|sd
@@ -282,7 +282,7 @@ B|Yes.|ny
 A|Even better than JAWS and some of that?|qy
 B|Yes,|ny
 B|because the the, the character that is so horrible is another human being.|sd
-B|And you're just drawn into his, his horror,begin to kind of like him.of him that you,|sd
+B|And you're just drawn into his, his horror, of him that you, begin to kind of like him.|sd
 A|Yeah.|b
 A|Oh.|b
 B|I mean,|%
@@ -291,7 +291,7 @@ B|No,|nn
 B|no.|nn
 B|This guy's smart|sd
 B|and he's suave|sd
-B|and he's all the all the,characteristics,|sd
+B|and he's all the all the, characteristics,|sd
 A|Oh the worst kind,|^2
 A|yeah,|%
 A|yeah.|b

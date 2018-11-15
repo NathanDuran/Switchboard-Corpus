@@ -6,7 +6,7 @@ A|And why didn't it work last time?|b^m
 B|Well, I'm all for it.|sd
 A|Yeah,|b
 A|well, I, I am too.|sd
-A|I wish, uh, it had started a long time ago, is the problem, because we're so wound up in thein the system that we've got that, you know, trying to convert over,|sv
+A|I wish, uh, it had started a long time ago, is the problem, because we're so wound up in the in the system that we've got that, you know, trying to convert over,|sv
 B|Yeah.|b
 A|and I guess, what'd they try, they tried what'd the call it, soft conversion and hard conversion|sd
 B|Yeah,|aa
@@ -46,7 +46,7 @@ A|so you can figure out what you're actually paying for it.|sv
 B|Right.|aa
 B|It's kind of hard for me to believe that this day and age,|sd
 B|I don't know,|h
-B|when I was growing up, we were talking metric system in school.I mean, not, not at first,|sd
+B|when I was growing up, we were talking metric system in school. I mean, not, not at first,|sd
 A|Uh-huh.|b
 B|but by the time I was in fifth or sixth grade anyway.|sd
 A|Yeah.|b
@@ -61,7 +61,7 @@ B|Yeah.|b
 A|So, you,|%
 A|it's almost like, uh,|%
 A|course this country isn't a dictatorship,|sv
-A|but, you know, it's like somebody said, okay as of such and such a date, you know, anybody caught talking in the English, you know,will be shot or something like that, you know.|sv
+A|but, you know, it's like somebody said, okay as of such and such a date, you know, anybody caught talking in the English, you know, will be shot or something like that, you know.|sv
 A|But, uh,|%
 B|Well, thing is, it's a global, global market place these days,|sv
 B|and, you know, we're like, what, one of two backwards countries in the world, as far as,|sv
@@ -77,11 +77,11 @@ A|Uh-huh.|b
 B|I don't, you know,|h
 B|I work for T I,|sd
 B|we're all around the world,|sd
-B|you have toperform this conversion anyway.|sv
-A|Yeah, uh, I,Yeah, I do, too.|sd
+B|you have to perform this conversion anyway.|sv
+A|Yeah, uh, I, Yeah, I do, too.|sd
 B|And.|%
 A|And one of the things that we've run into a problem,|%
-A|course you're familiar with the T I drawing, well, with any drawing systemin parts of inches, you know, half, fourth, you know, this sort of thing.you end up with, you end up with things in inches|qy^d
+A|course you're familiar with the T I drawing, well, with any drawing system you end up with, you end up with things in inches in parts of inches, you know, half, fourth, you know, this sort of thing.|qy^d
 B|Right.|na
 B|Mils and microns.|sd
 B|Right.|b
@@ -120,9 +120,9 @@ A|It's a strange looking can.|sd
 A|But my daughter in law's from Panama,|sd
 A|and she has, they have had Americans down there for so long, you know, that they're kind of into both systems,|sv
 A|but, uh, she gets real confused on distances|sd
-A|and temperature is the big thingfor which she says Celsius.the Centigrade|sd
+A|and temperature is the big thing the Centigrade for which she says Celsius.|sd
 B|Yeah.|b
-B|I would have more problemmore problem with the temperature, except that, you know, working in engineering, we do everything in Centigrade, or Celsius.|sd
+B|I would have more problem more problem with the temperature, except that, you know, working in engineering, we do everything in Centigrade, or Celsius.|sd
 A|Well, I had kind of gotten used to centigrade temperature, you know,|sd
 A|if it's between zero and ten, it's cold,|sv
 A|and if it's ten and twenty it's not too bad,|sv
@@ -138,7 +138,7 @@ A|but the difference thirty and thirty-five degrees is, quite a bit.|sd
 B|Is about twice as much, what it works out to.|sd
 A|Yeah,|aa
 A|five|sd
-B|One point eight times as manypoints.|sd
+B|One point eight times as many points.|sd
 A|Yeah,|aa
 A|something like that.|aa
 B|Yeah,|%
@@ -169,11 +169,11 @@ A|or who, you know,|%
 A|that was even before American Motors,|sd
 A|but Nash, essentially, in the U S somewhere.|sd
 A|And that thing had the darndest combination of metric and Wentworth and, uh, S A E.|sd
-A|He ended up with about three sets of toolsin order to work on that fool thing.|sd
+A|He ended up with about three sets of tools in order to work on that fool thing.|sd
 B|He just get one more .|%
 A|Because I think the Wentworth and the S A E bolt sizes were the same,|sd
 A|but the threads were different,|sd
-A|and, uhit was a total mess.|sd
+A|and, uh it was a total mess.|sd
 B|Oh, that would be a mess.|ba
 A|And on my Chevy van that's a couple of years old.|sd
 A|Part of it's built in Canada.|sd
@@ -191,7 +191,7 @@ A|Yeah.|b
 B|Because you're never going to get to one, one system if you still got a, got a mix.|sv
 B|And of course, here that, that would involve changing road signs all across the country, you know, miles per hour to kilometers per hour, and the whole nine yards.|sv
 B|Kind of hard to do gradually.|sv
-A|I thought maybe they would convert to, uh, metric back when they went to the fifty-five mile an hour speed limit, because what is itfifty-six or fifty-seven's a hundred, uh, a hundred kilometers,|sd
+A|I thought maybe they would convert to, uh, metric back when they went to the fifty-five mile an hour speed limit, because what is it fifty-six or fifty-seven's a hundred, uh, a hundred kilometers,|sd
 B|Yeah.|b
 A|and you know|%
 B|Hell, you'd have people doing a hundred miles an hour.|sv
@@ -225,5 +225,5 @@ B|You know, now cars, they have both.|sv
 B|Sooner or later they'll start putting the miles on the inside and the kilometers in big numbers so people start thinking that way.|sv
 A|I know the only other place that I was ever at where they really had it mixed was, was in Panama, where's a lot of the road signs and everything are in, in miles per hour|sd
 A|and some are in kilometers.|sd
-A|And you got to know where you arebecause anything that was the old canal zone is going to be miles per hour,|sd
+A|And you got to know where you are because anything that was the old canal zone is going to be miles per hour,|sd
 B|Yeah.|b

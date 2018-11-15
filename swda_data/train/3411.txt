@@ -20,7 +20,7 @@ B|Yeah.|b
 A|That's a sharp looking car.|sv
 B|Yeah.|b
 A|That really is.|sv
-A|It, it always has been though.You know,|sv
+A|It, it always has been though. You know,|sv
 B|Yeah,|aa
 B|they have been.|sv
 A|it doesn't have the Coup de Ville or the Sedan de Ville squareness.|sv
@@ -35,7 +35,7 @@ B|Right.|aa
 A|I thought, now that looks sharp|sd
 B|Yeah.|b
 A|that looks real sharp.|^q
-B|Well, I think the ones now with all of the, uh, fancy gold letteringand all, you know, I think they're very pretty.|sv
+B|Well, I think the ones now with all of the, uh, fancy gold lettering and all, you know, I think they're very pretty.|sv
 A|Uh-huh.|b
 B|And course the top, now the what is it, a vinyl top, I think those are pretty.|sv
 A|Yeah,|aa
@@ -47,7 +47,7 @@ A|Just a nice comfortable ride.|sv
 B|Yeah,|aa
 B|they are,|sd
 B|and, uh, they, they're just always,|%
-B|they, they look like they're sturdyyou know,|sv
+B|they, they look like they're sturdy you know,|sv
 A|Uh-huh.|b
 B|they look like they're very sturdy,|sv
 B|and you don't have to worry that much about, um, getting, you know, hurt like you would in a small one.|sv
@@ -83,7 +83,7 @@ A|Those are real nice riding cars too.|sv
 B|Oh, yeah.|aa
 B|That's what we have now,|sd
 B|but of course if I have a choice I'd still have the Cadillac|sd
-B|but, uh,I've been very satisfied with the, with the Oldsmobiles.|sd
+B|but, uh, I've been very satisfied with the, with the Oldsmobiles.|sd
 B|We've driven them for about probably twenty years.|sd
 A|Has that been the Cutlass or the Sierra?|qy
 B|Uh, no,|nn
@@ -103,29 +103,29 @@ A|Has a little V Six?|br
 B|Uh-huh.|aa
 A|Okay.|bk
 B|But it's a very good car.|sd
-B|It's ahad, not had one minute's problem with it,|sd
+B|It's a had, not had one minute's problem with it,|sd
 A|It,|%
 B|and I've had, now I have twenty-three thousand miles on it.|sd
 A|Oh, that's great|ba
 B|Yeah.|b
 A|that's great.|ba
-A|That's always nice to get, uh, reliability in a product. Especially when you're spending, you know, anywhere from fifteen to twenty-five thousand dollars for, for a single item.You know,|sv
+A|That's always nice to get, uh, reliability in a product. Especially when you're spending, you know, anywhere from fifteen to twenty-five thousand dollars for, for a single item. You know,|sv
 B|Right.|b
-A|you just don't want any hassleswith it.|sv
+A|you just don't want any hassles with it.|sv
 B|No.|aa
 A|You just, you expect it to do its, its job,|sv
-A|and I think a lot of, a lot of car manufacturers don't really keep that into don't take that into considerationyou know.|sv
+A|and I think a lot of, a lot of car manufacturers don't really keep that into don't take that into consideration you know.|sv
 B|Yeah.|b
 B|Yeah,|aa
 B|that's true.|aa
 A|They just expect you to buy their product,|sv
-A|but that's always been something that's been a key factor in me, is how reliable is this car going to beyou know.|sd
+A|but that's always been something that's been a key factor in me, is how reliable is this car going to be you know.|sd
 B|Uh-huh.|b
 A|Price is, is an issue,|sv
 A|but it's not the most important issue.|sv
 B|No,|aa
 B|it really isn't, because now you can get like five year financing on them|sv
-B|andso, um,|%
+B|and so, um,|%
 A|Right.|b
 B|but I, I, I would go with the General Motors any time.|sd
 A|Well, I've always been a Ford man, myself.|sd
@@ -135,7 +135,7 @@ B|Oh.|%
 A|But that's all right.|sd
 B|Yeah,|aa
 B|well sure.|aa
-A|You know, it's American made toowhich is good.|sd
+A|You know, it's American made too which is good.|sd
 B|Right.|b
 B|Uh-huh.|b
 A|Um, but I, I've,|%
@@ -146,7 +146,7 @@ B|Uh-huh.|b
 A|and my Ford trucks have just,|sd
 A|I've, I've just never had problems with them.|sd
 B|Uh-huh.|b
-A|I honestly think I would die before my truck would,keel over on me.|sd
+A|I honestly think I would die before my truck would, keel over on me.|sd
 B|Yeah.|b
 A|So.|%
 B|Well, I,|%

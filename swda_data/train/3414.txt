@@ -10,7 +10,7 @@ B|I see.|b
 A|But now Plano has quite an elaborate system, don't they?|qy
 B|Yeah,|ny
 B|they do.|sd
-B|Uh, it started out several years ago when they put these, uh, collection sitesthey, uh, near a WalMart, near a football stadium and the like,|sd
+B|Uh, it started out several years ago when they put these, uh, collection sites they, uh, near a WalMart, near a football stadium and the like,|sd
 A|Uh-huh.|b
 B|and they just couldn't believe how many people were going out of their way to fill these things up.|sd
 B|These huge dumpsters were being filled up in a, in a matter of a week.|sd
@@ -70,11 +70,11 @@ A|That, that is interesting.|ba
 A|You know, will you be penalized if you don't.|qh
 A|Will you, uh.|qh
 B|Yeah,|b
-B|that, that seems farfetched only because it, it, there's no law that says you have to buy a newspaperor pop cans or milk jugs.|sv
+B|that, that seems farfetched only because it, it, there's no law that says you have to buy a newspaper or pop cans or milk jugs.|sv
 A|Right,|aa
 A|right.|aa
 B|So there, there's, it's possible that there is a person in Plano that doesn't buy any of those three things, and therefore wouldn't have.|sv
-A|That's true, except that it's hard to imagine, you know, when you have, uh, cans, you know, from the, the market and, uhyou know, vegetable cans, and et cetera.|sv
+A|That's true, except that it's hard to imagine, you know, when you have, uh, cans, you know, from the, the market and, uh you know, vegetable cans, and et cetera.|sv
 B|Right.|b
 B|No,|ar
 B|they won't take vegetable cans.|sd
@@ -98,22 +98,22 @@ B|Uh-huh.|aa
 B|So tell me your feelings on recycling.|ad
 B|Is it, do you think this is a good thing, or silly.|qy
 A|I think it's a very good thing.|sv
-A|I think that, uh, I think it helps if the city is giving you a nudge to do itbecause I think there are a lot of people that don't do it,|sv
+A|I think that, uh, I think it helps if the city is giving you a nudge to do it because I think there are a lot of people that don't do it,|sv
 B|Yes.|b
 A|and I can't say that my husband and I are real, real conscientious.|sd
-A|We got started on the aluminum cans because our, uh, grandson was collecting them, uh, to raise moneyand stuff for an organization he was in.|sd
+A|We got started on the aluminum cans because our, uh, grandson was collecting them, uh, to raise money and stuff for an organization he was in.|sd
 B|Yes.|b
 A|So we started collecting them,|sd
 A|and now he's through,|sd
 A|so we've just, we've kept on|sd
 B|Yeah.|b
-A|and it's interesting, too, that we have to drive, we drive to Plano at Plano Road to, uh, just inside your city limits, to, you knowto dump them in.turn them in|sv
+A|and it's interesting, too, that we have to drive, we drive to Plano at Plano Road to, uh, just inside your city limits, to, you know turn them in to dump them in.|sv
 B|Dump them off.|^2
 B|Yeah,|aa
 B|and that is interesting.|aa
 A|I'm sure there's bound to be some here in Richardson|sv
 B|Right.|b
-A|but we just haven't really seen them advertised oryou know, something.|sd
+A|but we just haven't really seen them advertised or you know, something.|sd
 B|Yeah.|b
 B|Well, the|%
 B|yeah,|%

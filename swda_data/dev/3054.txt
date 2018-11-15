@@ -2,7 +2,7 @@ A|Okay|fo_o_fw_"_by_bc
 A|wow, I don't know what that was.|sd
 B|What was that?|qw
 A|I don't know|sd
-B|And, uh, to, uh, the Brazos Rivernear Dinosaur Valley State Park.|sd
+B|And, uh, to, uh, the Brazos River near Dinosaur Valley State Park.|sd
 A|Uh-huh.|b
 A|Oh, yes.|b
 B|Uh-huh.|b
@@ -73,7 +73,7 @@ A|and you did not have to, to be hauling things out of your, the trunk of you ca
 B|Trunk  of your car all time, right. |^2
 A| and that was nice. |sd
 A|So, uh, do you have plans for, for any other camping trips in the near future?|qy
-B|Uh, maybe, uh, maybe back to Caddo, or,Uh, Purdis Creek.|na
+B|Uh, maybe, uh, maybe back to Caddo, or, Uh, Purdis Creek.|na
 A|Uh-huh.|b
 A|Right.|b
 B|Or, I like Bob Sandlin too,|sd

@@ -69,7 +69,7 @@ B| Like to have  one thing, you know,|sd
 B|one likes chicken nuggets, the other one like hot dogs,|sd
 A| Oh my gosh,|ba
 A|I couldn't |sd
-B| and then she makes noodles with,  uh, with,  soy sauce or whatever,|sd
+B| and then she makes noodles with,  uh, with,   soy sauce or whatever,|sd
 A| Yeah. |b
 B|so, all things.|%
 A|Boy, I couldn't do that,|sd
@@ -79,7 +79,7 @@ B|our favorite,|%
 B|let me think,|^h
 B|I was thinking of the one recipe that, uh, that we made.|sd
 B|I guess the thing that always turned out the best for us was something we thought looked really fancy but was real easy,|sd
-B|and that was, um, uh, scallops,  uh, scallop, um,|sd
+B|and that was, um,  uh, scallops,  uh, scallop, um,|sd
 A| What's that. |qw
 A| Oh really. |b
 B| it has  a French name,|sd
@@ -94,7 +94,7 @@ B|Yeah,|b
 B|I can't even remember what the recipe's name is anymore,|sd
 A| Yeah,|b
 A|yeah. |b
-B| but, uh,  it was basically just ground up Swiss cheese and then, uh, standard cream sauce base and then, uhthe scallops.|sd
+B| but, uh,  it was basically just ground up Swiss cheese and then, uh, standard cream sauce base and then, uh the scallops.|sd
 A|Really,|b
 A|with scallops.|^2
 B|An, and it sounds sort of funny|sv
@@ -119,7 +119,7 @@ A| and  it was really fun|sd
 A|and so we, we were thinking we wanted to do, you know, we were going to try doing it ourselves,|sd
 A|but we're trying to decide what can we serve because at this one the hostess was pretty busy running around trying to get stuff ready for the table|sd
 A|and that kind of interrupted the game,|sd
-A|so, so I  was thinking there's this Beef Bourguignonne recipe that I've tried before that's pretty good|sd
+A|so,  so I  was thinking there's this Beef Bourguignonne recipe that I've tried before that's pretty good|sd
 B| Right,|b
 B|yeah. |b
 A|and then you can make that ahead|sd
@@ -133,7 +133,7 @@ A| Yeah. |b
 B| she,  uh, she likes to, um, she doesn't like the beef dishes.|sd
 B|She likes the chicken and fish,|sd
 A| Uh, yeah. |b
-B| and, like  I said, we always ate beef and, uh, pork, you know,  a lot,|sd
+B| and, like  I said, we always ate beef and, uh, pork,  you know,  a lot,|sd
 A| Oh, yeah. |b
 B|so|%
 A|I know,|ba
@@ -154,7 +154,7 @@ B| My dad  wouldn't know what to do.|sd
 A|Oh, gosh,|ba
 A|so do you,|%
 B|Course, she grew up Catholic|sd
-B|so you know, they, they sort of come  with the,|%
+B|so you know, they,  they sort of come  with the,|%
 A| Oh, they did the, |%
 B|there's a certain amount of meatless meals you have to have|sv
 A|That you do,|aa

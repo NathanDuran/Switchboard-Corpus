@@ -1,6 +1,6 @@
 A|Okay,|fo_o_fw_"_by_bc
 A|so we've got to talk about music.|ad
-B|Okay.Well, no that's really when I grew up,|aa
+B|Okay. Well, no that's really when I grew up,|aa
 A|And, um, do you like classic rock, or modern rock, or which kind?|qy
 A|No,|ba
 A|not a seventies baby.|qy
@@ -58,7 +58,7 @@ A|have you heard of them?|qy
 B|Yes|ny
 A|Okay.|bk
 A|And, stuff like that.|sd
-A|That's, that's,that's not really hard rock.|sv
+A|That's, that's, that's not really hard rock.|sv
 B|Well, okay.|b
 B|Okay,|ba
 B|I guess I didn't really consider that heavy metal.|sv
@@ -107,7 +107,7 @@ B|is that what you said?|br
 A|Okay,|b
 A|well, no.|ar
 A|I said Queen's Reich,|sd
-A|but,but, oh, but you got to like Queen also.|sv
+A|but, but, oh, but you got to like Queen also.|sv
 B|Oh, oh, oh, okay,|bk
 B|Right.|b
 A|So because,|%
@@ -118,7 +118,7 @@ A|especially, uh, oh God, what is it, A Night At The Opera?|h
 A|Don't they have a,|qy
 A|no|ar
 A|let's see, the one that they have the, the whole opera singing in the background.|qw^d
-B|Oh!Right,|ba
+B|Oh! Right,|ba
 A|Bo, Bo, Bohemian Rhapsody.|sd
 B|right,|aa
 B|yeah,|aa
@@ -149,7 +149,7 @@ B|Yeah.|aa
 B|I agree.|aa
 B|That's the|%
 B|the older stuff is the best of it.|sv
-B|The, the new stuff's kind of more like, today's rock and roll, which I,don't really care for today's rock and roll too much.|sv
+B|The, the new stuff's kind of more like, today's rock and roll, which I, don't really care for today's rock and roll too much.|sv
 A|Yeah.|b
 A|Well, for example, I used to like old Phil Collins.|sd
 B|Right.|b
@@ -182,7 +182,7 @@ B|Have you seen it yet?|qy
 A|Yeah.|ny
 A|I saw it when it opened.|sd
 B|Was it really good?|qy
-A|Yeah.you know, like those guys that criticize movies?|ny
+A|Yeah. you know, like those guys that criticize movies?|ny
 B|Uh-huh.|b
 B|Right.|na
 A|And, they both loved the movie, right?|sd
@@ -217,7 +217,7 @@ B|Well, that's true|aa
 B|That's true.|aa
 B|But, I was more in the late|sd
 B|well, I|%
-B|like mid to late seventies, like between seventy-five and,and, seventy-nine, was more my era.|sd
+B|like mid to late seventies, like between seventy-five and, and, seventy-nine, was more my era.|sd
 A|Yeah,|b
 A|yeah.|b
 A|Did, did you go to college?|qy
@@ -229,7 +229,7 @@ B|I didn't go then.|sd
 B|But see, I graduated high school in seventy-eight,|sd
 A|Okay.|b
 B|so, you know, in seventy-eight, you know rock was starting to get really heavy, you know,|sd
-B|and real, um,I don't know,|h
+B|and real, um, I don't know,|h
 A|Yeah,|b
 A|yeah.|b
 B|disco was pretty much dead by then.|sd
@@ -246,7 +246,7 @@ A|So, it's like, nothing happened during the seventies.|sd
 A|Everything happened during the sixties,|sd
 A|the seventies I don't know what they're called, you know,|sd
 A|it's like, like|%
-A|the, the eighties are called, like the progressive years, or the, or, you know, like the technology years,because of all the computers and stuff.|sd
+A|the, the eighties are called, like the progressive years, or the, or, you know, like the technology years, because of all the computers and stuff.|sd
 B|Uh-huh.|b
 A|But the seventies got nothing.|sd
 A|I mean, nobody cared to name it|sd
@@ -254,7 +254,7 @@ B|That's kind of funny|ba
 A|So.|%
 B|You're right.|aa
 B|I never thought of that.|sd
-B|The disco years, that's what they're calling them,are gone.|sd
+B|The disco years, that's what they're calling them, are gone.|sd
 A|Yeah,|aa
 A|I know.|aa
 A|Can you imagine the, like a big picture of John Travolta, ta-da, what is it SATURDAY NIGHT FEVER?|qo
@@ -274,7 +274,7 @@ B|That's true.|aa
 B|Well, except for Vietnam.|arp_nd
 A|Yeah,|aa
 A|really.|aa
-A|And, that's,that's why I guess, everybody,|%
+A|And, that's, that's why I guess, everybody,|%
 B|You know with,|%
 A|yeah,|b
 A|it's like they don't want to talk about that,|sv
@@ -310,11 +310,11 @@ B|I just got it today.|sd
 A|Oh, okay.|bk
 B|And so, you know, it's okay.|bd
 B|I, I told them I'd be available during this time,|sd
-B|so,anyway.|%
+B|so, anyway.|%
 A|Okay.|fo_o_fw_"_by_bc
 A|All right.|fo_o_fw_"_by_bc
 A|So then, uh, have fun doing this.|fc
-A|It is not, that bad.|fc
+A|It is not,  that bad.|fc
 B|Okay,|fc
 B|thanks.|fc
 A|Bye, bye. |fc

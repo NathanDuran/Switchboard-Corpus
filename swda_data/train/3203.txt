@@ -59,11 +59,11 @@ A|and then upstairs I have three bedrooms|sd
 A|and I have,|sd
 A|I'm a writer|sd
 A|and I work in my home|sd
-A|so,above the garage area I have a studio.|sd
+A|so, above the garage area I have a studio.|sd
 B|Oh, uh-huh.|bk
 A|So, it's not really a bedroom.|sd
 A|It doesn't have a closet|sd
-A|and it,and it's the size of a three car garage.|sd
+A|and it, and it's the size of a three car garage.|sd
 B|Uh-huh.|b
 A|So, that's where I work.|sd
 B|That's a pretty good size room.|sv
@@ -72,7 +72,7 @@ A|yes.|aa
 B|That's neat.|ba
 A|So we,|%
 A|this is our dream home,|sd
-A|and we just absolutely,love it.|sd
+A|and we just absolutely, love it.|sd
 A|I,|%
 B|Well, it sounds like a real nice one.|ba
 A|Yeah,|b
@@ -88,9 +88,9 @@ A|and,|%
 B|Uh-huh.|b
 B|Do you like the Dallas area?|qy
 A|Oh, we love it.|sd
-B|And I would imagine that you have found that the homes down here are, uh, a much better value down here,aren't they, than they are,|qy^d
+B|And I would imagine that you have found that the homes down here are, uh, a much better value down here, aren't they, than they are,|qy^d
 A|Yes,|ny
-A|and they're much,much better constructed down south than they are up north too.|sd
+A|and they're much, much better constructed down south than they are up north too.|sd
 B|Oh, really?|bh
 A|The,|%
 B|Now that's interesting.|ba
@@ -105,7 +105,7 @@ B|And, uh, so that's interesting.|ba
 A|Yes.|b
 A|Well, the carpenter and painter and, you know, everybody the marble man were just there in the house everyday when we would come to check on it as it was being built,|sd
 A|and they'd say just look at this,|sd
-A|and you know,they seemed so proud of everything they did.|sd
+A|and you know, they seemed so proud of everything they did.|sd
 B|Well, that's good.|ba
 A|And it really made a difference to us.|sd
 B|Well, I know as I, as I said our house is about seventeen years old|sd
@@ -113,10 +113,10 @@ B|and, uh, we've been very pleased with it.|sd
 B|We've had no major problems with it.|sd
 B|Knock on wood|sd
 A|Yes.|b
-B|And, uh, you know, it is with, uh, with the, you know, two children growing up and now three grandsons roaming through it,all the time.|sd
+B|And, uh, you know, it is with, uh, with the, you know, two children growing up and now three grandsons roaming through it, all the time.|sd
 A|Oh.|b
 B|So, and we like our neighborhood.|sd
-B|It, it,has, has grown|sd
+B|It, it, has, has grown|sd
 A|Yes.|b
 B|and the majority of the people, you know, keep up the neighborhood.|sd
 A|Uh-huh.|b
@@ -132,23 +132,23 @@ A|Yes.|b
 B|It seems to have leveled off and actually dropped back down a little bit,|sd
 A|Yeah,|b
 B|but we're still fine.|sd
-A|ours is pretty much level in the two yearsthat we've been there.|sd
+A|ours is pretty much level in the two years that we've been there.|sd
 B|Uh-huh,|b
 B|uh-huh.|b
 A|We're hoping it takes off again,|sd
-A|butI don't know with the E D S building and Penny's and everything going in up on Legacy, we're hoping that brings in more people.|sd
+A|but I don't know with the E D S building and Penny's and everything going in up on Legacy, we're hoping that brings in more people.|sd
 B|Yes|b
 B|It should bring up your property values a little bit.|sv
-A|That's what we're hoping because,we're, we're just real close to, to where that is.|sd
+A|That's what we're hoping because, we're, we're just real close to, to where that is.|sd
 B|Your pricing.|sv
 B|Uh-huh.|b
 A|So,|%
-B|I think once the economic situation in the Dallas areaimproves, I think the housing will go up.|sv
+B|I think once the economic situation in the Dallas area improves, I think the housing will go up.|sv
 A|Uh-huh.|b
 A|I hope so too.|sd
-B|You know. Right now there's a lot on the market for sale because of people having lost their jobs,and everything|sv
+B|You know. Right now there's a lot on the market for sale because of people having lost their jobs, and everything|sv
 A|Yes.|b
-B|so that's, you know, that keeps prices downand value down|sv
+B|so that's, you know, that keeps prices down and value down|sv
 A|Yeah.|b
 B|and I'm sure the packs , uh, or|sv
 B|would like for it to go up.|sv
@@ -156,5 +156,5 @@ A|Yes,|aa
 A|I'm sure|ba
 A|For that reason it can stay the same,|sv
 B|That's right|ba
-A|butBut we love being where we are.|sd
+A|but But we love being where we are.|sd
 B|That's right|ba

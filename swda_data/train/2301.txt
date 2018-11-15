@@ -2,7 +2,7 @@ A|So, do you have any credit cards?|qy
 B|Yes,|ny
 B|I do.|sd
 B|I keep, uh, I have an American Express, and a Visa card that I keep, you know, kind of for emergency purposes,|sd
-B|and I have, you know, I use a gasoline credit card which I, you know, pay offevery, every month.|sd
+B|and I have, you know, I use a gasoline credit card which I, you know, pay off every, every month.|sd
 A|Uh-huh.|b
 A|Okay.|b
 B|But I've, I've gotten rid of all of the credit cards, you know, that I possibly could,|sd
@@ -20,7 +20,7 @@ A|I have one card.|sd
 B|Uh-huh,|b
 B|that's, that's probably enough.|sv
 A|And I try not to use it,|sd
-A|butright now, it's maxed out|sd
+A|but right now, it's maxed out|sd
 B|Absolutely.|aa
 B|It's, it's very easy to, you know, to do that or, you know, to abuse it,|sv
 B|it really is.|sv
@@ -32,11 +32,11 @@ A|Um, I have, uh,|sd
 A|the thing that bothers me worse than the credit cards, I think, is, uh, you mentioned the gasoline credit card.|sd
 B|Uh-huh.|b
 A|I don't have that,|sd
-A|but I've got, you know, one of the the, the instant teller cardsthat you can use for point of sale purchases.|sd
+A|but I've got, you know, one of the the, the instant teller cards that you can use for point of sale purchases.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|And we use that usually to buy gasoline,|sd
-A|and it's justit's really amazing how quickly that goes.|sd
+A|and it's just it's really amazing how quickly that goes.|sd
 B|Uh-huh.|b
 B|Uh-huh.|aa
 B|I'm sure you're right.|sv
@@ -52,14 +52,14 @@ A|that's what they've, they've talked about it.|sd
 B|Yeah.|b
 A|Course it eliminates any waiting period.|sd
 B|It certainly does.|aa
-A|God help those people who have to float checks occasionallybecause you won't be able to with that.|sd
+A|God help those people who have to float checks occasionally because you won't be able to with that.|sd
 B|Absolutely.|aa
 B|That's right.|aa
 B|Do you get any sort of discount when you use a card like that?|qy
 A|No.|nn
 B|I see.|bk
 A|Oh, it was, well,|%
-A|they consider it to be the same as cashwell, cause it actually is.|sd
+A|they consider it to be the same as cash well, cause it actually is.|sd
 B|I see,|bk
 B|I see.|bk
 B|It certainly is,|aa
@@ -93,12 +93,12 @@ B|that would cause you think a little while, wouldn't it.|qh
 B|That may not be a bad idea.|sv
 B|But I'm kind of getting a little more leery of credit cards, you know, as time goes by.|sd
 B|Unless you just absolutely have to.|sd
-B|Now, there are times when you'dat least think you do, anyway.|sd
+B|Now, there are times when you'd at least think you do, anyway.|sd
 A|Yeah.|b
 A|Yeah.|b
-A|I, I want to still have just onejust in case.|sd
+A|I, I want to still have just one just in case.|sd
 B|Yeah.|b
-A|But, I'dnot use it for a whilesure want to get the, get it paid down and|sd
+A|But, I'd sure want to get the, get it paid down and not use it for a while|sd
 B|Uh-huh.|b
 B|Yeah.|b
 B|That's right.|aa

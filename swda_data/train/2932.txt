@@ -128,7 +128,7 @@ A|and you can play catch across the back yard|sd
 A|and you've got plenty of room to even play a small game of baseball, but, don't do it around here.|sd
 B|No,|aa
 B|the one,|%
-B|that's sort of what drove me to Dentonwhen I first came out here in eighty-five.|sd
+B|that's sort of what drove me to Denton when I first came out here in eighty-five.|sd
 B|I started looking|sd
 B|and it seemed like the further I got away from Dallas, center, uh, the more lot came with the house and, and the lower the price, at the same time.|sd
 B|And it just seemed like there was a ten thousand dollar drop for each city.|sd

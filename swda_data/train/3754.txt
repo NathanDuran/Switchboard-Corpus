@@ -41,7 +41,7 @@ A|So,|%
 B|Well, what is the most, uh, you know the nicest island?|qw
 A|Uh, I like Maui.|sd
 B|Maui.|b^m
-B|I think that is what usually people, uhsay they do, they like the best.|sv
+B|I think that is what usually people, uh say they do, they like the best.|sv
 A|Yeah.|b
 A|Well, I like it because the beach is nice and white|sd
 A|and you know it is like Oahu,|sd
@@ -140,7 +140,7 @@ A|And we really had a good time.|sd
 B|Uh-huh.|b
 A|Well they, they had this cruise director dress up like Santa Claus,|sd
 A|and we went to the beach|sd
-A|and they had put a Christmas tree on the beachdecorated it up.|sd
+A|and they had put a Christmas tree on the beach decorated it up.|sd
 B|Uh-huh.|b
 A|It was, it was a lot of fun.|sd
 B|Well, that's nice.|ba

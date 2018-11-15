@@ -2,7 +2,7 @@ A|Okay,|fo_o_fw_"_by_bc
 A|what kind of house do you live in?|qw
 B|Well, uh, we live in a, a brick home in far north Dallas|sd
 B|and it's, uh, four bedrooms and three and a half baths and swimming pool in the back|sd
-B|and,It's about thirty-five hundred square feet.|sd
+B|and, It's about thirty-five hundred square feet.|sd
 A|Uh-huh.|b
 A|Well, it sounds like ours are pretty similar.|sv
 A|I live in one,|sd
@@ -18,14 +18,14 @@ A|I've been in the house|no
 A|I'm in here right now about twelve and a half years.|sd
 B|So you've been there longer.|sd
 B|We built this one about, uh,|sd
-B|it's been let's see it's been six yearssix and a half years ago,|sd
+B|it's been let's see it's been six years six and a half years ago,|sd
 A|Uh-huh.|b
 B|and we subcontracted it out ourselves.|sd
-B|We boughtthe lot and, uh, had an architect draw the plans based on our specifications|sd
+B|We bought the lot and, uh, had an architect draw the plans based on our specifications|sd
 A|Oh, really?|bh
 A|Uh-huh.|b
 B|and then we subbed it out,|sd
-B|so, we've been here a little over six years now. Andwe built what we wanted to have to live in.uh, have really enjoyed it because|sd
+B|so, we've been here a little over six years now. And uh, have really enjoyed it because we built what we wanted to have to live in.|sd
 A|Uh-huh.|b
 A|Well, I bet you,|ba
 A|Uh-huh.|b
@@ -41,10 +41,10 @@ A|because|%
 A|kind of hard to find one prebuilt that 's kind of fits those specifications.|sv
 B|It is,|aa
 B|and that's why we decided to build.|sd
-B|We lookedat things that were already, uh, built|sd
+B|We looked at things that were already, uh, built|sd
 A|Uh-huh.|b
-B|and the garages were always, if the house was large, it seemed like the garages were small even if they were three car garages which iswhat we have.|sd
-A|Well, then, mostof them don't have a three car garage.|sd
+B|and the garages were always, if the house was large, it seemed like the garages were small even if they were three car garages which is what we have.|sd
+A|Well, then, most of them don't have a three car garage.|sd
 B|Uh-huh.|b
 A|They're kind of rare.|sd
 B|So we put a three car garage in.|sd
@@ -52,7 +52,7 @@ A|Uh-huh.|b
 B|But, even if they had three car garages, they didn't have a work space.|sd
 B|All of it was taken up with just car space.|sd
 A|Uh-huh.|b
-B|And so he has a big landing area that's between where the cars are in the garage and where the house startsthat he can work on.|sd
+B|And so he has a big landing area that's between where the cars are in the garage and where the house starts that he can work on.|sd
 A|Uh-huh.|b
 A|Well that,|%
 A|my, we've just got a two car garage,|sd
@@ -68,7 +68,7 @@ A|It really is.|aa
 B|Uh-huh.|b
 A|Because, you know, they have a lot of things of their own,|sv
 A|and I, you know, I wouldn't mind having,|%
-A|and I at one time was going to fix up when one of my daughters left, a bedroom to where I had a room to just put all of my craft stuff andsewing machine and all that kind of stuff,|sd
+A|and I at one time was going to fix up when one of my daughters left, a bedroom to where I had a room to just put all of my craft stuff and sewing machine and all that kind of stuff,|sd
 B|Uh-huh.|b
 A|but I, someone,|%
 A|I don't know,|h
@@ -79,44 +79,44 @@ B|Well, we still have a, a son and daughter in college that come home.|sd
 A|Uh-huh.|b
 B|And the other room we use as a guest bedroom because my husband's family come.|sd
 B|His parents come|sd
-B|and also the kids have friends who comeand stay|sd
+B|and also the kids have friends who come and stay|sd
 A|Uh-huh.|b
-B|and soit seems like it's always used as a bedroom.|sd
+B|and so it seems like it's always used as a bedroom.|sd
 A|Uh-huh.|b
 A|Well, I still,|%
 A|all three of my daughters are married,|sd
 A|but, I don't know,|h
-A|I just still have need for the four bedrooms just having company from time to time.And some of them coming back home and things, you know.|sd
+A|I just still have need for the four bedrooms just having company from time to time. And some of them coming back home and things, you know.|sd
 B|Right.|aa
 B|Oh, I understand|aa
 A|And we've got grandchildren now,|sd
-A|sowhen they come, they have to have a place.|sd
+A|so when they come, they have to have a place.|sd
 B|Well, we,|%
 B|That's true|aa
 B|and you don't want them to not be able to come because there's no room.|sv
 A|That's right,|aa
 A|you sure don't.|aa
 A|At times I keep thinking, though, that might be kind of nice.|sd
-B|Well,I I haven't reached that point yet.|sd
+B|Well, I I haven't reached that point yet.|sd
 B|I've heard people say that.|sd
 B|But, uh, my middle son is engaged,|sd
 B|my oldest son has been going with the same girl for a while.|sd
 A|Uh-huh.|b
-B|He's out of collegeand has a good job,|sd
+B|He's out of college and has a good job,|sd
 A|Uh-huh.|b
-B|so he could afford to get marriedbut, is not engaged yet,|sd
+B|so he could afford to get married but, is not engaged yet,|sd
 A|Uh-huh.|b
 B|and my daughter's been going with the same boy for a while,|sd
 B|but she's still in college|sd
-B|and we're just as happy for her to finishher education first.|sd
+B|and we're just as happy for her to finish her education first.|sd
 A|Uh-huh.|b
-B|That'swhat she plans to do.|sd
+B|That's what she plans to do.|sd
 A|Well, I don't blame you for that.|ba
 B|So, I hope so.|sd
 A|Well, I have the three girls|sd
 A|and then we ended up with four grandsons.|sd
 B|Oh, ho-ho.|ba
-A|And little boys are around the housea whole lot more than girls.|sd
+A|And little boys are around the house a whole lot more than girls.|sd
 B|A whole new world.|ba
 B|Uh-huh.|b
 A|And, uh, I enjoy them coming, but for short doses|sd

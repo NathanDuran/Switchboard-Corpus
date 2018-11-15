@@ -6,11 +6,11 @@ B|Uh-huh|b
 A|Probably the most popular one but, uh, one that is not typically recognized as such is the Boy Scouts.|sv
 B|Huh|%
 A|Uh, I know that because my son is a, a scout now and, uh, is thinking about his Eagle|sd
-A|and, uh, in order to get Eagle, you have to have merit badges in, uh, citizenship in the communitycitizenship in the nation, citizenship in the world|sd
+A|and, uh, in order to get Eagle, you have to have merit badges in, uh, citizenship in the community citizenship in the nation, citizenship in the world|sd
 B|Right .|b
-A|and you have to do a public service project.Uh, in which leadership is the key element.|sv
+A|and you have to do a public service project. Uh, in which leadership is the key element.|sv
 B|Uh-huh.|b
-A|I, uh, I think the question is posed somewhat strangely because, uh, it's talking about a requirement forpublic service|sv
+A|I, uh, I think the question is posed somewhat strangely because, uh, it's talking about a requirement for public service|sv
 B|Uh-huh|b
 A|and, of course, the Peace Corps, the Boy Scouts is a, is a voluntary activity.|sd
 B|Right.|b
@@ -26,12 +26,12 @@ B|Huh . Right,|b
 B|right.|b
 A|Uh,|%
 A|but I agree with you, that probably is not what was comprehended.|aa
-A| There are other uh, which many people, uh, are lifelong employees ofthings such as civil service|sd
+A| There are other  things such as civil service uh, which many people, uh, are lifelong employees of|sd
 B| Well, |%
 B|Uh-huh.|b
 B|Right.|b
 A|but I suspect that was not what they had in mind either.|sv
-A| More of a voluntary kind  of thing|sv
+A| More  of a voluntary kind  of thing|sv
 B| Yeah. |b
 A|or, uh, |%
 B| Yeah,|b
@@ -50,9 +50,9 @@ B|And they have, uh, you know, in, in some cases they have a greater self-esteem
 B|and it, it's a good lesson for a lot of young men to learn. That they don't need to be, you know, cowboys.|sv
 B|They don't need to be out there and, uh, you know, constantly flaunting their ego to get things accomplished.|sv
 B| And, you know,  for some, for some young men, that's good.|sv
-B|For me, it would have been lousy idea, uh,  because I, I did have the personal discipline.|sd
+B|For me, it would have been lousy idea, uh,  because  I, I did have the personal discipline.|sd
 A| Why? |qo
-B|And  I went to college for four years and got out, you know,|sd
+B|And  I went  to college for four years and got out, you know,|sd
 A| Why is that? |qo
 B|so. But, uh, you know, for some people that's good.|sv
 B|I, I don't particular like the fact that it's the military, you know,|sd
@@ -64,7 +64,7 @@ A|It's to defend the nation against external evils.|sv
 B|Well, that's one view|sv
 B|And, and, you know, and that, that's another debate.|sd
 B|But, uh, it's, uh,|%
-A|Well, it depends on whether you, whether we figure that we have that we have a defense oriented military oran aggressive, aggression oriented military.|sv
+A|Well, it depends on whether you, whether we figure that we have that we have a defense oriented military or an aggressive, aggression oriented military.|sv
 B|Uh-huh.|b
 B|Right,|b
 B|right|b

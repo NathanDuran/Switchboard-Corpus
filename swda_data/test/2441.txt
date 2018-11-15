@@ -1,17 +1,17 @@
 A|Well, I haven't heard anything about the proposal myself,|sd
-A|but, uh,Uh, I don't know if its their proposal or one that's being seriously kicked around.|sd
+A|but, uh, Uh, I don't know if its their proposal or one that's being seriously kicked around.|sd
 B|No,|b
 B|I haven't either.|sd
 A|I've, I've always felt for a long time that I, I think that all young kids ought to do a stint, uh, primarily in the military.|sv
 B|Yeah.|b
 A|Uh.|%
 B|Most countries require that now,|sd
-B|theyat least the young men,you know, they have, uh, it mandatory for, for the, the uh|sd
+B|they you know, they have, uh, it mandatory for, for the, the uh at least the young men,|sd
 A|Yeah,|b
 A|yeah.|b
 A|Uh-huh.|b
 B|I don't know about the young women,|sd
-B|I don't know if they have to  serve in the military, too.|sd
+B|I don't know if they have to  serve in the military,  too.|sd
 A| Yeah,|b
 A|a lot,|%
 A|yeah,|%
@@ -20,7 +20,7 @@ A|I mean, everybody does.|sd
 B|Yeah.|b
 A|I don't think it's a bad idea,|sv
 A|teaches, teaches a lot.|sv
-A|I mean, I went in the service when I was eighteen,And, uh, stayed in for ten years.|sd
+A|I mean, I went in the service when I was eighteen, And, uh, stayed in for ten years.|sd
 B|Uh-huh.|b
 B|Is that right?|bh
 A|Yeah,|ny
@@ -37,7 +37,7 @@ A|Yeah.|b
 B|He came from a poor immigrant family,|sd
 B|and he didn't have a chance to, uh, you know,|sd
 B|the family wasn't wealthy,|sd
-B|so he had to do something to, put himself through  school,|sd
+B|so he had to do something to,  put himself through  school,|sd
 A|Do  it himself. |^2
 B|and he did.|sd
 B|And he was very successful.|sd
@@ -63,17 +63,17 @@ B|I don't know.|h
 B|There's other kinds of service to the country that could be done, you know,|sv
 A|Yeah,|b
 A|I mean if you don't like,|sd
-B|I mean, working in the national parks,Uh, working, clean up the roadsides|sd
+B|I mean, working in the national parks, Uh, working, clean up the roadsides|sd
 A|Sure.|b
 A|Exactly.|ba
-B|I mean, I've always felt that people on welfare should be required to spend at least part of their time, *why no slash?You know,not all the time because that takes away from their opportunity to look for a job, but at least some of their time to look for, to go out and clean up the roads.|sv
-A|Oh yeah,Absolutely.|aa
+B|I mean, I've always felt that people on welfare should be required to spend at least part of their time, *why no slash? not all the time because that takes away from their opportunity to look for a job, but at least some of their time to look for, to go out and clean up the roads. You know,|sv
+A|Oh yeah, Absolutely.|aa
 B|I mean,|%
 A|All these, all this money that we're throwing away to pay people to go out and do things when we're paying all these welfare recipients,|sv
-A|and if they're able-bodied people, I don't see any problem at all with having them go out there and, and, if nothing else, get a group of them together and take them around to old folks places  and let them cut the yards, paint the houses.|sv
+A|and if they're able-bodied people, I don't see any problem at all with having them go out there and, and, if nothing else, get a group of them together and take them around to old folks  places  and let them cut the yards, paint the houses.|sv
 B| Yeah. |b
 B|Yeah,|b
-B|we'd learn service  to other people  in this  country.|sv
+B|we'd learn service  to other people   in this  country.|sv
 A| Sure  ,|b
 A| sure. |b
 A|So I'm,|%
@@ -93,7 +93,7 @@ A|and he, he had all kinds of horror stories.|sd
 A|You know, these guys go down there and get their unemployment checks,|sd
 A|and, back, back in those days they also use to give you, uh, booklets good for, uh, clothing and gas, and things like this|sd
 B|Yeah.|b
-A|They get all this stuff together and sit down and have poker gamesyou know,|sd
+A|They get all this stuff together and sit down and have poker games you know,|sd
 B|Yeah.|b
 A|and I'm, I I have a hard time dealing with that.|sd
 B|What I hear one time, I think it was on Paul Harvey's, uh, radio segment, that he said that if the money that goes into welfare each year was to be given directly to the people without all the middle people in the government bureaucracy, each person would receive like forty-five thousand dollars.|sd
@@ -129,7 +129,7 @@ A|it's pathetic.|sv
 A|I mean, there's got to be a different way.|sv
 A|There's got to be a better way.|sv
 A|But it'll never happen.|sv
-A|I mean, thesethese people out here getting that money are big voting blocks.|sv
+A|I mean, these these people out here getting that money are big voting blocks.|sv
 B|Yeah.|b
 B|Yeah.|b
 B|What would happen if the required young people to do service to the country,|qw
@@ -142,11 +142,11 @@ A|Give an incentive.|sd
 B|Educational or vocational training or something.|^2
 A|Yeah.|aa
 A|Something that's going to help them along the way.|sd
-B|And they'll help the country eventually, too,because rather than having a bunch of uneducated people we can have educated people,|sv
+B|And they'll help the country eventually, too, because rather than having a bunch of uneducated people we can have educated people,|sv
 A|Sure,|aa
 A|I mean,|%
 A|Well, this,|%
-A|I meanI mean, look at the statistics,|ad
+A|I mean I mean, look at the statistics,|ad
 B|and that's only going to help.|sv
 A|I mean, it's sad.|sv
 A|One in five Americans can't read|sd
@@ -172,7 +172,7 @@ B|which is good for them,|sv
 B|but on the other hand, we kind of lose out.|sv
 A|Yeah,|aa
 A|it's terrible for us.|sv
-B|I think that if, uh, young people had service to the country might give them more ambition.Because they learn that serving other people is a good thing.|sv
+B|I think that if, uh, young people had service to the country might give them more ambition. Because they learn that serving other people is a good thing.|sv
 A|Yeah.|b
 A|Yeah,|b
 A|and, and it can be good for them, too.|sv
@@ -202,7 +202,7 @@ B|I mean, I talked with somebody else about that another time,|sd
 B|and, you know, when I's in graduate school working on my master's degree in math, I was, uh, teaching as part of my, part of the program.|sd
 B|And I just love teaching.|sd
 B|That was a lot, that's probably the most fun I had.|sd
-B|And, uh, it helped me out because I learnedthings and learned how to do things differently.|sd
+B|And, uh, it helped me out because I learned things and learned how to do things differently.|sd
 A|Yeah.|b
 A|Uh-huh.|b
 B|And when, uh, when come time to get out of school, I thought, Boy, I'd like to teach.|sd
@@ -214,7 +214,7 @@ B|I mean, that, that's a sad thing to think,|sv
 B|and that's kind of selfish on my part,|sv
 B|and I admit that,|sd
 A|Well, in a way it is,|aap_am
-A|but you have to look out for yourselfyou know,|sv
+A|but you have to look out for yourself you know,|sv
 B|Yeah,|aa
 B|that's right.|aa
 A|I mean, that's|%
@@ -267,7 +267,7 @@ B|so they went bankrupt.|sd
 A|Yeah.|b
 B|And, and they all lost their jobs.|sd
 A|Sure, |b
-A|and, and  and that's  really what happened to the steel industry in this country.|sv
+A|and, and   and that's  really what happened to the steel industry in this country.|sv
 B| And it's like  ,  you know. |%
 B|Yeah.|b
 A|So many times, I mean, you had the, uh, the coal miners and steel workers going out at the same time.|sd
@@ -284,7 +284,7 @@ A|Yeah,|b
 A|I mean, here it is,|%
 A|and we've got, we've got to go into partnership with the Japanese to build cars.|sv
 B|Yeah.|b
-A|You know And they only did it because they, I guess they were embarrassedthat they're so good at it|sv
+A|You know And they only did it because they, I guess they were embarrassed that they're so good at it|sv
 B|Yeah.|b
 B|That's about right.|aa
 A|Gosh.|ba
@@ -297,7 +297,7 @@ B|It teaches them pride in their country.|sv
 A|Yeah,|aa
 A|and pride in themselves, too.|sv
 B|That's right.|aa
-A|They could, they could, I mean, you could organize something just within your community.same old thing.|sv
+A|They could, they could, I mean, you could organize something just within your community. same old thing.|sv
 B|Yeah,|b
 A|I mean,|%
 B|that's right.|aa

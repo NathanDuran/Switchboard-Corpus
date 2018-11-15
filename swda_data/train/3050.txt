@@ -40,7 +40,7 @@ A|about five or six years ago, my dad , who plays every now and then took me out
 A|and, and I basically, um, I had a horrible slice or hook,|sd
 A|I forget which one it was.|sd
 B|Yeah.|b
-A|It wound up tossing the ball into the trees,virtually every time.|sd
+A|It wound up tossing the ball into the trees, virtually every time.|sd
 B|Yeah.|b
 B|Yeah,|b
 B|the slice goes to the right|sd
@@ -49,17 +49,17 @@ B|I think.|h
 A|Yes,|aa
 A|I was slicing, actually.|sd
 B|Yeah.|b
-A|And,as it turns out, uh, I went and took some lessons for awhile, because I just, I would lose so many balls, and, uh, make it a horrible time for everybody.|sd
+A|And, as it turns out, uh, I went and took some lessons for awhile, because I just, I would lose so many balls, and, uh, make it a horrible time for everybody.|sd
 B|Yeah.|b
 B|Yeah.|b
 A|I went and took some lessons,|sd
 A|and a I got a little bit better,|sd
 A|but I but then I sort of, you know, went, went back to school and did not have time and this and that,|sd
 A|and, and the only thing I do now is I occasionally go out to a driving range and hit a couple of balls and see what I can do.|sd
-A|And I,And I still have this slice ,|sd
+A|And I, And I still have this slice ,|sd
 B|Yeah,|b
 B|I think that's really a good thing to do.|sv
-B|So, where,are you in your life,|qw
+B|So, where, are you in your life,|qw
 B|I mean, are you in school?|qy
 A|I'm a graduate student,|sd
 A|yeah.|%
@@ -75,33 +75,33 @@ A|so I hang around this way,|sd
 A|and I,|%
 B|Sure.|b
 A|Occasionally, uh, uh,|%
-A|a bunch of us were pretty avid golfers.Golfers, so we will go out|sd
+A|a bunch of us were pretty avid golfers. Golfers, so we will go out|sd
 B|Uh-huh.|b
 A|and we will, we will, we will play, you know.|sd
-B|And you don't,you don't have the length of the playing time that we do.|qy^d
+B|And you don't, you don't have the length of the playing time that we do.|qy^d
 A|I have, I have very at the moment I have very little playing time.|sd
-A|When I, when I go on vacation, my father and I, uhplay a little bit.|sd
+A|When I, when I go on vacation, my father and I, uh play a little bit.|sd
 B|Yes.|b
 A|But, I don't, you know,|sd
 A|we play a par, a par three, nine hole course.|sd
-A|Because,.|%
+A|Because, .|%
 B|Oh, that's my favorite kind to play.|sd
-B|Because, for a woman, it's really nice to play a par three course because,that's my, I can't hit a driver very far|sd
+B|Because, for a woman, it's really nice to play a par three course because, that's my, I can't hit a driver very far|sd
 A|Yeah.|b
 B|and, in fact, I don't even like to use a driver,|sd
-B|I use a three iron off the teebecause, I have more control over it.|sd
+B|I use a three iron off the tee because, I have more control over it.|sd
 A|Um.|%
 A|Uh-huh.|b
 B|And, I can, I can just have better contact with the ball that way.|sd
 B|So, I'm still using a three iron|sd
-B|and my husband is trying to get me into using a, you,instead.know, like a high number wood|sd
+B|and my husband is trying to get me into using a, you, know, like a high number wood instead.|sd
 A|Right.|b
 A|But, those are, uh, still not you favorite, huh?|qy
 B|No,|nn
 B|it's not my favorite,|sd
 B|but, I, I, uh, I enjoy,|sd
 B|I, I really do,|sd
-B|I think I'm going to like golf the older I get,and the more time I have to play.|sd
+B|I think I'm going to like golf the older I get, and the more time I have to play.|sd
 B|I, we have three teenage daughters.|sd
 A|Uh, wow, .|ba
 B|One is,|sd
@@ -145,7 +145,7 @@ A|We have a very good one called Locust Hill though.|sd
 A|There, uh, the|%
 B|Locust Hill?|br
 A|Yeah,|aa
-A|the L P G A comes here every yearthe Rochester International.|sd
+A|the L P G A comes here every year the Rochester International.|sd
 B|Uh-huh,|b
 B|right.|b
 A|And then we had a P G A, actually, a very big P G A, uh, tour stop here, last year.|sd
@@ -163,14 +163,14 @@ A|but, they keep saying it's just wonderful, uh,|sd
 A|the course is so well maintained|sd
 A|and, you know, it, it, it rained through half the um, tournament, so people had to ,|sd
 A|but, they still,|sd
-A|the grounds keepers were absolutely wonderful about,getting things back up again.|sd
+A|the grounds keepers were absolutely wonderful about, getting things back up again.|sd
 B|Oh, yeah.|ba
 A|And this,|%
-A|actually, when, when the, um, when the L P G A came hereI guess that was about a week and a half ago, it was just, it, it takes over the whole town.|sd
+A|actually, when, when the, um, when the L P G A came here I guess that was about a week and a half ago, it was just, it, it takes over the whole town.|sd
 B|Uh-huh.|b
 B| Oh, sure. |aa
 A| You know.  It's all over the news,|sd
-A|andplay.to go an watch the, the, uh, ladies like some loss of wordsto golots and lots of people take off work,|sd
+A|and lots and lots of people take off work, to go to go an watch the, the, uh, ladies like some loss of words play.|sd
 B|Yes.|b
 B|Yeah.|b
 B|To watch them,|^2
@@ -189,26 +189,26 @@ A|It seems to be.|aa
 A|It seems a lot of people are really, you know,|sv
 A|either, um, either you have not played it, or, or you, you have played it|sv
 A|and you sort of stink, like me,|sd
-B|Well,it's, it's just such a difficult thing.|sv
+B|Well, it's, it's just such a difficult thing.|sv
 A|and you sort of play every now and then.|sv
 B|I mean it's, I just, I watch my husband|sd
 B|and he's, he was a professional athlete,|sd
 B|he, he's a very good athlete|sd
 B|and he's got the coordination, that God given coordination,|sd
-B|and he just struggles,you know, all the time, to um, to master this game.|sd
+B|and he just struggles, you know, all the time, to um, to master this game.|sd
 A|Yeah.|b
 A|Yeah,|b
 A|well, same here, I mean, I'm a brown belt in Karate at this point in time.|sd
-A|And, uh,And, and I can not, and I can not hit a golf ball|sd
+A|And, uh, And, and I can not, and I can not hit a golf ball|sd
 B|Oh my, really!|ba
 B|Yeah.|b
 A|You know I,|%
 B|Because it,|%
 B|well, I watch my husband swing|sd
 B|and his swing, you know, like compared to the pros, is so, it's ridged.|sd
-B|It's like he's trying so hard, it's not that flowing movement.You know.|sd
+B|It's like he's trying so hard, it's not that flowing movement. You know.|sd
 A|Right.|b
-A|That's because he's probably doing what I do, worrying about,is my head straight, is my arm right,|sd
+A|That's because he's probably doing what I do, worrying about, is my head straight, is my arm right,|sd
 B|Yeah.|b
 B|Yeah.|b
 B|Or, how far he's going to hit it, I think, you know.|bf
@@ -221,11 +221,11 @@ A|Yeah.|b
 B|So.|%
 A|Yeah.|b
 B|Yeah.|b
-A|I have this nasty habit of of turning my head at the last second, or,or just keeping my arm wrong.|sd
+A|I have this nasty habit of of turning my head at the last second, or, or just keeping my arm wrong.|sd
 B|Yep,|b
 B|or,|%
 B|Yeah,|aa
-B|turning your head is probably the most common thing for women,they say.|sd
+B|turning your head is probably the most common thing for women, they say.|sd
 A|Is it?|qy
 B|And you are always so anxious to see where it goes.|sv
 A|Right,|aa
@@ -237,15 +237,15 @@ A|I have .|sd
 A|It took me a long time to learn to wait until the ball was in the air before I looked up.|sd
 B|Yeah,|aa
 B|yeah,|aa
-B|I have to that, especially, even more so, with a short iron than a long you know,than with a driver or something.|sd
+B|I have to that, especially, even more so, with a short iron than a long you know, than with a driver or something.|sd
 A|Oh, driver.|^2
-B|Because, those short irons, it's just, you want to look upcause you are getting close to the green|sv
+B|Because, those short irons, it's just, you want to look up cause you are getting close to the green|sv
 A|Yeah.|b
 B|and you want to see it hit the green. |sv
 B|And you know that's why, |sv
 A| Watch where it's going. |bf
 B|Yeah,|b
-B|so.I I don't know what I'm supposed to ask questions about,|sd
+B|so. I I don't know what I'm supposed to ask questions about,|sd
 A|That, that is certainly true|aa
 A|thank you .|ft
 B|am I supposed to ask questions about this whole procedure,|qy
@@ -262,26 +262,26 @@ A|I believe so.|sd
 B|Okay,|b
 B|well I really did not know  so I, |sd
 A| I, I,  I actually don't know,|sd
-A|I get a random reimbursement every now and then and don't really until  afterwarddon't really figure it out,|sd
+A|I get a random reimbursement every now and then and don't really don't really figure it out,  until  afterward|sd
 B|Yeah.|b
 B| Okay. |b
 B|Cause this is only my second day doing it|sd
 B|and I just did not, I did not know |sd
-B|and that was . the details,|sd
+B|and that was .  the details,|sd
 A| Oh,  really.|b
 B|we, I just started yesterday.|sd
 A|I have been doing this for awhile, actually.|sd
 B|Have you?|bh
 A|It seems like it's been a while.|na
 B|Yeah.|b
-A|And they just,  I just, get these random checks in the mail every now and then|sd
+A|And they just,  I just,  get these random checks in the mail every now and then|sd
 B| I had a , |sd
 A|and,|%
 B|I see.|bk
 A|My wife and I both do it, as a matter of fact.|sd
 B|I see.|bk
 A|And we both just, sort of, get these random checks in the mail|sd
-A|and,To be honest, I, I really have not been accounting,|sd
+A|and, To be honest, I, I really have not been accounting,|sd
 B|Yeah.|b
 A|I just sort of figured, well, it's going to work.|sd
 B|Uh-huh.|b

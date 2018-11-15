@@ -34,10 +34,10 @@ A|How about yourself?|qo
 B|Well, uh, since, uh,|%
 B|well, I guess since this time last year I've changed, uh, jobs within the firm I'm with|sd
 A|Uh-huh.|b
-B|and, uh, I now am learning to be a sys admin on, on, not only P C but, uh, uh, professional work stationsas well.|sd
+B|and, uh, I now am learning to be a sys admin on, on, not only P C but, uh, uh, professional work stations as well.|sd
 A|Wow.|ba
 A|All right.|ba
-B|And these are the big mamas, i. e. sons, uh, Hewlett Packards, uhuh, uh, oh, the big Solburns and, and so forth.|sd
+B|And these are the big mamas, i. e. sons, uh, Hewlett Packards, uh uh, uh, oh, the big Solburns and, and so forth.|sd
 A|Uh-huh.|b
 A|Yeah.|b
 B|And, uh,|%
@@ -83,7 +83,7 @@ B|So, uh, I don't mind, because seems like the more we do, there's, there's the 
 A|Oh, yes.|aa
 B|And,|%
 A|Definitely agree with that.|aa
-B|So, uh, rather than being niggardly and, and, chintzy, uh, we've just said, you bet, boss, seeing as he was the one that, uh,enabled us to get the money to buy the Four Eighty-Six.|sv
+B|So, uh, rather than being niggardly and, and, chintzy, uh, we've just said, you bet, boss, seeing as he was the one that, uh, enabled us to get the money to buy the Four Eighty-Six.|sv
 A|Uh-huh.|b
 B|Because the top of the line we've got,|sd
 B|well, we've got a compatible.|sd
@@ -106,7 +106,7 @@ B|and then, uh, it, it, it likes to live on about a hundred and fifty megabyte h
 A|Right|b
 B|So the next size up was a Two Hundred and Eleven|sd
 B|and so rather than just have one, we went ahead and got two.|sd
-B|Uh, at some point in time I'm going to do the mirroring, uh, experiment to where one disk mirrors the other forfault tolerance.|sd
+B|Uh, at some point in time I'm going to do the mirroring, uh, experiment to where one disk mirrors the other for fault tolerance.|sd
 A|Yeah.|b
 A|Wow,|ba
 A|okay.|b

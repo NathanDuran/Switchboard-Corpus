@@ -55,10 +55,10 @@ B|and so we have to plan anywhere from six, well really probably a year ahead of
 A| Schedule vacation  time|b
 A|and yeah.|b
 A|We|%
-A|uh, Sat, uh, Sunday afternoonor, uh, sometimes it has been like on a Saturday afternoon.|sd
+A|uh, Sat, uh, Sunday afternoon or, uh, sometimes it has been like on a Saturday afternoon.|sd
 B|Uh-huh.|b
 A|Usually, it is like Sunday afternoon|sd
-A|and most people do not have more than you know a couple of hours drive at topsto get there and back.|sd
+A|and most people do not have more than you know a couple of hours drive at tops to get there and back.|sd
 B|Yeah.|b
 B|Yeah,|b
 B|is that one of your, uh,|qy
@@ -66,7 +66,7 @@ B|I mean, uh,|%
 A|Well, where I am calling from is southern Mississippi.|sd
 A|So, we have got, uh, uh, my wife and I have, uh, a bit longer ways to go than most.|sd
 B|But, you also manage to make them.|qy^d
-A|uh, actually, we, we have only made one of them since we got married about four years ago.One of the family reunions.|arp_nd
+A|uh, actually, we, we have only made one of them since we got married about four years ago. One of the family reunions.|arp_nd
 B|Yeah.|b
 A|But we are both in school|sd
 A|so that makes it kind of tough.|sd
@@ -79,7 +79,7 @@ A|That was before I started school|sd
 A|and she took that summer off.|sd
 A|But, uh,|%
 B|Well, now that we have been talking about it, I, uh, I am kind of getting home sick now.|sd
-B|Because it has been over three years since I have been home to see  my grandparents.|sd
+B|Because it has been over three years since I have been home  to see  my grandparents.|sd
 A|Oh  goodness. |ba
 B|Well, my, my grandfather is the only one that is still around.|sd
 A|Yeah.|b

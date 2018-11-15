@@ -42,7 +42,7 @@ A|no we don't have the|sd
 A|we decided not to get the which is actually another loaner one too that we picked up for a consulting job that my husband was doing|sd
 A|and,|%
 B|What kind of consulting do you do?|qw
-A|Um, well, I actually do some work, working at M I T and at NIST, National Institute of Standards and Technologyin Washington,|sd
+A|Um, well, I actually do some work, working at M I T and at NIST, National Institute of Standards and Technology in Washington,|sd
 B|Uh-huh.|b
 A|and then I worked for Dragon Systems for a while.|sd
 B|What kind of work do you do when you're consulting?|qw
@@ -54,15 +54,15 @@ A|Yeah,|ny
 A|yeah.|ny
 A|Program related, research related,|sd
 A|and I work in the speech field,|sd
-A|and I do a lot metacoustic phonetics andlooking at the acoustic characteristics of speech,|sd
+A|and I do a lot metacoustic phonetics and looking at the acoustic characteristics of speech,|sd
 B|Uh-huh.|b
 A|and I do that type of stuff typically for other people,|sd
 A|and we, like here we use the P C to do that.|sd
 A|Mostly I use it for writing papers and things like that.|sd
 B|Word processing.|bf
 A|Well, more, uh,|ar
-A|do you know Latek?Word text processing,|qy
-B|No I'mnot familiar with that.|ng
+A|do you know Latek? Word text processing,|qy
+B|No I'm not familiar with that.|ng
 A|so I don't, I don't use, I mean,|sd
 A|you can call it word processing,|sd
 A|but I don't usually use a word processor to do it|sd
@@ -75,7 +75,7 @@ A|and we connect to other computers to read our net mail and things like that.|s
 B|So, you've got, you've got a modem in it then.|bf
 A|Uh, neither one has a modem,|ng
 A|but we have a modem.|sd
-B|At homeyou have a modem that you can connect to each of them?|qy^d
+B|At home you have a modem that you can connect to each of them?|qy^d
 A|Neither one,|sd
 A|Right.|na
 B|Uh, and so it's an external modem.|qy^d
@@ -99,7 +99,7 @@ A|Do you hear, the, the beep in the background.|qy
 B|Yes.|ny
 A|Oh, that's a, an ambulance or something going on here, I think.|sv
 B|Okay.|aa
-B|Where,Where are you,|qw
+B|Where, Where are you,|qw
 A|I haven't ever noticed the thirty second warning actually.|sd
 B|and, uh,|%
 A|In Manhattan.|sd
@@ -116,7 +116,7 @@ A|I can't talk on can't do this much later than now, between sort of like six, f
 B|What time is it now where you are?|qw
 A|Uh, about twenty after four.|sd
 B|So you're an hour ahead of where I am.|sd
-B|I'm in CentralCentral time zone.|sd
+B|I'm in Central Central time zone.|sd
 A|Okay,|b
 A|yeah|%
 A|we're Eastern.|sd
@@ -172,7 +172,7 @@ B|and both of those seem very easy to use compared to D Base.|sv
 A|Uh-huh.|b
 A|Do you think you D Base is more flexible or allows you to do more.|qy
 A|Or do you think the others are pretty much compatible these days?|qrr
-B|Um, I wouldn't say compatible, butcertainly comparable.|sv
+B|Um, I wouldn't say compatible, but certainly comparable.|sv
 A|But, uh|%
 A|yeah,|b
 A|I didn't mean compatible,|sd
@@ -180,7 +180,7 @@ A|I meant comparable.|sd
 A|My brain is going to mush.|sd
 B|Uh-huh.|b
 A|And what do you work on at T I?|qw
-B|I'm a computer programmeron the I B M main frames.|sd
+B|I'm a computer programmer on the I B M main frames.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|I do, uh, mainly business data processing.|sd
@@ -188,6 +188,6 @@ A|Uh-huh.|b
 B|I also handle production support for the systems in my area of responsibility.|sd
 A|Uh-huh.|b
 B|Um, sometimes I get called late at night at home because there's a production problem,|sd
-B|and that gives me the opportunity to, uh, come in to work and fix it, if I can't think ofsome thing to tell the trouble shooter while we're on the phone.|sd
+B|and that gives me the opportunity to, uh, come in to work and fix it, if I can't think of some thing to tell the trouble shooter while we're on the phone.|sd
 A|Right.|b
 B|Um, I also, uh, handle most of the calls from our users and other programmers who need to find out something connected,|sd

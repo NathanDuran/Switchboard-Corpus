@@ -31,7 +31,7 @@ B|well, there's a lot of them, um,|sd
 B|it depends on what issue you're talking about.|sd
 B|But Democrats are, on a lot of issues are more liberal than Republicans,|sd
 B|and well it used to be, it's kind of hard to say now, especially after Desert Storm,|sd
-B|but, um, I think back in the times when, uh, my political opinions were being formed like in during the Vietnam war and stuff,and pro aggressionthe Republicans were more, you know, what they called Hawks, which is more like aggressive in war and more pro war,|sd
+B|but, um, I think back in the times when, uh, my political opinions were being formed like in during the Vietnam war and stuff, the Republicans were more, you know, what they called Hawks, which is more like aggressive in war and more pro war, and pro aggression|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|and, um, the Democrats were the Doves,|sd
@@ -48,7 +48,7 @@ B|and Democrats usually are more supportive of public assistance programs,|sd
 A|Uh-huh.|b
 B|and, and programs to, um,|%
 B|the big Republican thing is that they don't, they vote for less government,|sd
-B|they want less government involvement,in society|sd
+B|they want less government involvement, in society|sd
 A|Uh-huh.|b
 B|and so they're more, less apt to vote in, you know, more aid to people,|sd
 B|or more, uh, they're less apt to vote in programs that involve the government running things.|sd
@@ -68,10 +68,10 @@ A|well, I don't know that much about it.|sd
 B|Uh-huh,|b
 B|uh-huh.|b
 A|I don't keep up on it|sd
-A|and I don't feel like I have enough knowledge on it to even, you know,to pick the right person.|sd
+A|and I don't feel like I have enough knowledge on it to even, you know, to pick the right person.|sd
 B|Yeah.|b
-B|Yeah,Uh-huh.|b
-A|So that's what they need, well,it, uh, they said something to improve voting.|sv
+B|Yeah, Uh-huh.|b
+A|So that's what they need, well, it, uh, they said something to improve voting.|sv
 B|Uh-huh.|b
 A|If they could make it more, oh, easier to find out, you know, what's going on.|sv
 A|Do you know what I mean?|qy
@@ -82,7 +82,7 @@ A|I can't even remember who ran for president against Bush.|sd
 A|I think it was, uh, that woman,|sd
 A|wasn't it a woman.|qy
 B|No,|nn
-B|it was Dukakis,from Massachusetts.|sd
+B|it was Dukakis, from Massachusetts.|sd
 A|Dukakis.|b^m
 A|Okay,|bk
 A|didn't he have a woman,|qy
@@ -115,7 +115,7 @@ A|That's what I mean,|sd
 A|if they had some kind of public programs where you can just go out and,|sv
 B|Uh-huh.|b
 A|I don't know,|h
-A|like you know, in school they didn't teach you about uh, the government,not really.|sd
+A|like you know, in school they didn't teach you about uh, the government, not really.|sd
 B|Right.|b
 B|You didn't get any government classes?|qy
 A|Huh-uh.|nn
@@ -145,7 +145,7 @@ B|or let me see,|^h
 B|I try to look at what, if some of the newspaper articles, or the,|sd
 B|I don't trust T V as much,|sd
 B|but newspaper articles can show how they voted in the past|sd
-B|and,but you get, you know,|%
+B|and, but you get, you know,|%
 A|Right.|b
 B|it all depends again on who's writing it and who they're for, because they can slant that too.|sv
 A|Right,|b
@@ -161,7 +161,7 @@ B|So,|%
 A|Well anyway, I'm sorry|fa
 A|I didn't, I didn't have much knowledge.|sd
 B|Well that's okay.|bd
-B|Do you think,do you think, um,|%
+B|Do you think, do you think, um,|%
 A|I don't even remember this being on there.|sd
 B|I mean, what would it take,|%
 B|like, God, this is really good actually, for to talk to somebody who hasn't voted,|sv
@@ -171,7 +171,7 @@ B|how would it, how, what kind of stuff would they, would you like them to do so
 B|Like send stuff in the mail or have it at the library|qy
 B|or,|%
 A|I guess that would be good,|aap_am
-A|now I'm sure they've got it at the library,you know.|sd
+A|now I'm sure they've got it at the library, you know.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|I mean if I get to the library.|sd
@@ -183,10 +183,10 @@ B|that will tie you down a little bit.|sv
 A|But I,  I don't know. |h
 B| Or do you  just not, do you feel like it's not really going to make that much difference if you don't vote|qy
 B|or,|%
-A|Oh, I know if enough people think like that it, you know, would make a difference,if people stopped thinking like that.|sd
+A|Oh, I know if enough people think like that it, you know, would make a difference, if people stopped thinking like that.|sd
 B|Yeah.|b
 B|Yeah.|b
-A|Um, well a lot of people, they'll vote the way their family votes, you know,Then like your kids or whatever will follow you and just vote Democrat,|sd
+A|Um, well a lot of people, they'll vote the way their family votes, you know, Then like your kids or whatever will follow you and just vote Democrat,|sd
 B|Uh-huh.|b
 B|Uh-huh,|ny
 B|yeah.|ny
@@ -208,11 +208,11 @@ A|I don't know,|h
 A|if I did understand politics I probably would vote more,|sd
 B|Uh-huh.|b
 A|But like I said if I voted for Bush,|%
-A|or like when, uh, Garya lot of women would have voted for him just because he was nicer looking,Hart was running,|sd
+A|or like when, uh, Gary Hart was running, a lot of women would have voted for him just because he was nicer looking,|sd
 B|Hart?|^2
 B|Uh-huh.|b
 A|not that I think he was good looking,|sd
-A|but,he was young.|sd
+A|but, he was young.|sd
 B|Yeah.|b
 B|Yeah.|b
 A|And then, I didn't think that was right, because he may have been a good president, or whatever.|sv
@@ -229,19 +229,19 @@ A|and,|%
 B|Uh-huh,|b
 B|yeah.|b
 A|Which I guess if you got turmoil in your personal life, you're going to let it come into work|sv
-A|but,I'm sure there's a lot of people that have had,|%
+A|but, I'm sure there's a lot of people that have had,|%
 B|Uh-huh.|b
 B|I think everybody does,|sv
 B|it just depends on how well you can hide it.|sv
 A|Yeah.|b
 B|You know, and I,|%
 B|that's very true,|aa
-B|I, I think that doesn't really have that much to do with, um, unless they've done something really horrible, you know,or something real abnormal.|sv
+B|I, I think that doesn't really have that much to do with, um, unless they've done something really horrible, you know, or something real abnormal.|sv
 A|Well,|arp_nd
 A|Well, criminal or something like that's different,|sv
 B|Yeah,|aa
 B|right,|aa
-A|but,if him and his wife weren't getting along,|sv
+A|but, if him and his wife weren't getting along,|sv
 B|but otherwise.|%
 B|Uh-huh.|b
 A|I mean, what is, what effect does that have on him running for president.|qh
@@ -249,9 +249,9 @@ A|Do you know what I mean?|qy
 B|Yeah,|ny
 B|yeah.|ny
 A|It's all so secretive,|sv
-A|see we really don't see the,the true person anyway.|sv
+A|see we really don't see the, the true person anyway.|sv
 B|That's right.|aa
-B|I think that's, that's having a big effect on how poorly that the country is being run, is that, um, the, the election, the people that want to get elected are turning it into a popularity contest by advertising the things that,you know, that really don't have anything to do with how well they do the job.|sv
+B|I think that's, that's having a big effect on how poorly that the country is being run, is that, um, the, the election, the people that want to get elected are turning it into a popularity contest by advertising the things that, you know, that really don't have anything to do with how well they do the job.|sv
 A|Right.|b
 B|But see they're trying to find an excuse not to deal with what, you know, the issues that people really want to know about, because on those issues you have to say yes or no.|sv
 B|And if they don't say yes or no, then maybe somebody will vote for them that wouldn't have if they had come down on the wrong side.|sv

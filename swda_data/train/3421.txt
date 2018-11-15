@@ -21,7 +21,7 @@ B|did you, have you seen that one?|qy
 A|Yes,|ny
 A|and, and, and, and the regular NAKED GUN and AIRPORT and, you know.|sd
 B|Yeah,|b
-B|it's exactly like AIRPLANEwasn't it|qy
+B|it's exactly like AIRPLANE wasn't it|qy
 A|Yes.|aa
 B|But it was silly.|sv
 A|Right.|b
@@ -43,7 +43,7 @@ A|Um, I believe that all the language is as Shakespeare wrote it, except it's be
 A|and there might be a word or two changed.|sd
 B|Right.|b
 A|Uh, but it's, it's, it's a glorious movie|sv
-B|Um.Such as|br
+B|Um. Such as|br
 A|um, and I like, as you know, these, these, these silly movies,|sd
 A|and I also like just some strange movies.|sd
 A|Do you have any.|qy
@@ -55,7 +55,7 @@ A|That made me go out and watch every David Lynch movie I could lay my hands on.
 B|Oh, really.|b
 B|I haven't seen any of those.|sd
 A|Oh.|b
-A|Umwell, I don't, I don't especially recommend,|sd
+A|Um well, I don't, I don't especially recommend,|sd
 B|They're really good?|qy^d
 A|I mean, you have, you have to just sort of like this thing,|sv
 A|you have to like,|sv
@@ -67,8 +67,8 @@ A|so, okay.|%
 A|So, if you weren't, if you weren't drawn to watch that, you, maybe you wouldn't be drawn to these movies, either.|sv
 B|Uh-huh.|b
 A|They're, they're just strange.|sv
-B|Are they, I mean, is it, like mystery, orsuspense|qy
-A|Well, uh.I think suspense is the right word.|sv
+B|Are they, I mean, is it, like mystery, or suspense|qy
+A|Well, uh. I think suspense is the right word.|sv
 B|or,|%
 A|Uh, and, but, but, a little bit strange and esoteric|sv
 A|and, uh, in the case of TWIN PEAK a little, there's some elements of the supernatural in it, too.|sd
@@ -93,7 +93,7 @@ B|but, just recently I've been to a couple|sd
 A|Do, do you rent them,|qy
 A|or.|%
 B|Um, no,|nn
-B|we, I just go to like the dollar movie theater around heregenerally,|sd
+B|we, I just go to like the dollar movie theater around here generally,|sd
 A|Yes.|b
 B|but, I don't know,|h
 B|I just, I usually fall asleep|sd
@@ -103,7 +103,7 @@ A|Yeah,|b
 A|that's what my wife does too, um,|sd
 A|I mean, she falls asleep|sd
 B|Uh-huh.|b
-A|So we have to, we have to pick just the right kind of movieto, to, to, to appeal.|sd
+A|So we have to, we have to pick just the right kind of movie to, to, to, to appeal.|sd
 B|Yeah.|b
 B|Right,|b
 B|that's exactly right.|ba

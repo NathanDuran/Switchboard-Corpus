@@ -19,7 +19,7 @@ B|Well, uh, we, we do a lot of canoeing when we go camping|sd
 A|Oh.|bk
 B|and we, uh, we also, uh, carry all our equipment with us|sd
 A|Uh-huh.|b
-B|and so we canoe down the river and then,get up the next morning, cook our breakfast, and go down the river again.sleep on the river on one of the, um, sand bars and then|sd
+B|and so we canoe down the river and then, sleep on the river on one of the, um, sand bars and then get up the next morning, cook our breakfast, and go down the river again.|sd
 A|Oh.|bk
 A|Oh, my word.|ba
 A|Well that sounds adventuresome  |ba
@@ -60,7 +60,7 @@ B|so lots of times we don't even take tents.|sd
 A|Oh, is that right?|bh
 B|We just use trail tarps.|sd
 A|Oh, and what does that consist of?|qw
-B|Uh, it's just a piece of material that has, uh, that has a lot of places where you can tie off to ituh, like a, uh,and make it into a tent|sd
+B|Uh, it's just a piece of material that has, uh, that has a lot of places where you can tie off to it and make it into a tent uh, like a, uh,|sd
 A|Oh.|bk
 A|Uh-huh.|b
 B|they're very light weight|sd
@@ -69,7 +69,7 @@ B|So we go backpacking fifteen or twenty miles, then, uh,|sd
 B|they're not very heavy, see|sd
 A|Uh-huh.|b
 B|so you carry them with you,|sd
-B|andthey'll keep you dry or whatever.|sd
+B|and they'll keep you dry or whatever.|sd
 A|Oh.|bk
 A|Yes,|b
 A|well, see, when, when we go camping here,|sd
@@ -82,24 +82,24 @@ B|Uh-huh.|b
 A|Um, so, have you had any adventures on your camping trips, with, encounters with wild animals or anything like that?|qy
 B|yes,|ny
 B|in fact, uh, um, last month we went camping,|sd
-B|we saw a lot of deerjust deer everywhere.uh, in the morning and the afternoon|sd
+B|we saw a lot of deer uh, in the morning and the afternoon just deer everywhere.|sd
 A|Oh.|bk
 A|My word.|ba
 A|Gee.|ba
 B|Uh-huh,|b
 B|so, uh, but, it, even though, uh, it wasn't hunting season,|sd
 B|and we were with Boy Scouts,|sd
-B|soof course we don't, uh, want to go  hunting. |sd
+B|so of course we don't, uh, want to go  hunting. |sd
 A|Uh-huh.|b
-B|But we got to see a lot of deerum, out and about|sd
+B|But we got to see a lot of deer um, out and about|sd
 A|Oh.|bk
 B|and there's,|%
 B|of course, we see smaller animals all the time,|sd
-B|and, uh, one thing that is a big concern in the evening, at night, uh, is, uh, make sure that all the food's put away and so forthbecause, uh, we have, uh, armadillos.|sd
+B|and, uh, one thing that is a big concern in the evening, at night, uh, is, uh, make sure that all the food's put away and so forth because, uh, we have, uh, armadillos.|sd
 A|Oh.|b
-B| Do you know what armadillo is?|qy
+B| Do you know what  armadillo is?|qy
 A| Oh. |b
-A|Uh, they're covered like with a heavy armortype stuff,|na
+A|Uh, they're covered like with a heavy armor type stuff,|na
 B|Uh-huh.|b
 A|uh-huh.|ny
 B|And possums, and, uh, raccoons.|sd
@@ -110,7 +110,7 @@ B|And so that, that, uh, that can be a problem if you don't put all your equipme
 A|But they won't necessarily attack a human or bite you or anything.|qy
 B|They will if you attack them.|sd
 A|Oh.|bk
-B|But most time they run away from youif they, if they see you're up, you know|sd
+B|But most time they run away from you if they, if they see you're up, you know|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|but they don't have any problem walking right by you if you're asleep.|sd

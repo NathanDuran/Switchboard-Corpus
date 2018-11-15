@@ -1,9 +1,9 @@
 A|What was one of the latest ones that you've seen, actually?|qw
-B|Oh, I I think we rented PRETTY WOMANa couple weeks, months ago.|sd
+B|Oh, I I think we rented PRETTY WOMAN a couple weeks, months ago.|sd
 A|Uh.|b
 A|Right.|b
 A|The last two years, I have done more theater movie going than I have actually watched videos at home.|sd
-A|I've, uh, uh,  become available to come and go more often,|sd
+A|I've, uh,  uh,  become available to come and go more often,|sd
 B| Uh-huh. |b
 A|so I said "hey, it's worth it,|sd
 A|I'll just go at the matinee hour|^q
@@ -13,7 +13,7 @@ A|It's no more costly than renting one.|sd
 A|The last,|%
 A|see I went about two or three weeks ago and saw F X TWO|sd
 A|and that is a really good movie, if you like special effects,|sv
-A|kind of gory and lots of, you knowaction.|sd
+A|kind of gory and lots of, you know action.|sd
 B|Uh-huh.|b
 B|I have not done that one,|sd
 B|I don't know if I have even heard of that one.|sd
@@ -41,7 +41,7 @@ B|Okay.|b
 A|And, that one was just a very poignant story,|sv
 A|it, it, it had people,|sd
 A|it was, it was you know, a lot of people said it was a really funny movie,|sd
-A|but it was, a  very, it was a poignant humor|sv
+A|but it was,  a  very, it was a poignant humor|sv
 B| Uh-huh. |b
 A|and there was, it was like, uh, uh, STEEL MAGNOLIAS.|sv
 A|The characters played very well off one another.|sv
@@ -51,11 +51,11 @@ A|but the story was a very dramatic story,|sv
 A|and I enjoyed it very much.|sd
 A|What are some others that you have seen lately?|qw
 B|Oh, I'm trying to think, uh,|^h
-B|just the other night on H B O we watched THE HUNT FOR RED OCTOBER, again|sd
+B|just the other night on H B O we watched THE HUNT FOR RED OCTOBER,  again|sd
 A| Oh, whoa,|ba
 A|yes. |b
 B|and that's  one that,|%
-A|That's one I can watch, over  and over and over again.|sd
+A|That's one I can watch,  over  and over and over again.|sd
 B| Yeah. |aa
 B|I was going to read while it was on,|sd
 B|but then when it started, I just couldn't, you know, read.|sd
@@ -65,12 +65,12 @@ A|And, you know, the second time you see it, you understand more subtleties in i
 A|There are a number of good movies like that.|sv
 B|Yeah,|b
 B|there's quite a few, uh, movies out now that I would like to go see.|sd
-B|My husband, is  not a real big movie goer,|sd
+B|My husband,  is  not a real big movie goer,|sd
 A| Uh-huh. |b
 A| Uh-huh. |b
 B| and  I guess, more than anything, that is why we don't go.|sd
 A|Yeah.|b
-B|Plus, by the time you get a baby-sitter, and then pay to go to the moviesit just gets pretty expensive.|sv
+B|Plus, by the time you get a baby-sitter, and then pay to go to the movies it just gets pretty expensive.|sv
 A|Uh-huh.|b
 A|Right.|b
 A|You don't work?|qy^d
@@ -98,14 +98,14 @@ A|And, the first five minutes or ten minutes of the movie was, I was very well p
 A|there was more gore than I was interested in seeing.|sd
 B|Uh-huh.|b
 A|But, as the movie settles down to a comfortable action, uh, I can't really that it would have gotten more than a star and a half from me either.|sd
-A|But, uh,  the action was comfortable|sd
+A|But,  uh,  the action was comfortable|sd
 B| Yeah. |b
 A|and, of course, I enjoyed those good guy, bad guy type conflicts things.|sd
 A|So, I enjoyed that movie, after the first few minutes of gore.|sd
 A|And there were some others,|sd
 A|but they were done a little more tastefully.|sv
 B|Yeah.|b
-A|But, uh, in the first scene, the warlock chopped off a guy's finger because he wanted the ring and thenbit his tongue out and spit it off in the omelet|sd
+A|But, uh, in the first scene, the warlock chopped off a guy's finger because he wanted the ring and then bit his tongue out and spit it off in the omelet|sd
 B|Uh.|b
 A|and I could not handle that.|sd
 A|I said "whoa, I'm glad I have not had dinner".|sd
@@ -143,11 +143,11 @@ B|Oh, you haven't,|qy^d
 B|I've heard that is wonderful.|sd
 A|Uh-huh,|b
 A|I've heard it's wonderful too,|sd
-A|but I, it's just that they are both very longuh, movies,|sd
+A|but I, it's just that they are both very long uh, movies,|sd
 B|Yeah.|b
 A|and the matinee starts before I can get away from work.|sd
 B|Oh.|b
-A|And, after, after that I get involved in other things and don't want todon't want to go back.|sd
+A|And, after, after that I get involved in other things and don't want to don't want to go back.|sd
 B|Yeah.|b
 B|Yeah,|b
 B|I've heard that's,|sd
@@ -208,6 +208,6 @@ B|like, BACK TO THE FUTURE then was the last one .|sd
 A|No,|ar
 A|no,|ar
 A|no,|ar
-A|it was called, uh, HARD WAY, where he was an actor, trying to portraytrying to portray, portray a policeman.|sd
+A|it was called, uh, HARD WAY, where he was an actor, trying to portray trying to portray, portray a policeman.|sd
 B|Oh, okay,|b
 A|And that,|%

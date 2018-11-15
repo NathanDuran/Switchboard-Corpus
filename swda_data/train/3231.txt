@@ -1,6 +1,6 @@
 A|Do you or your husband work for T I,|qy
 A|or|%
-B|I'm a contract person at T Iin fact involved with, uh, Data Switchboard|na
+B|I'm a contract person at T I in fact involved with, uh, Data Switchboard|na
 A|Oh, are you,|bk
 A|Oh, I see.|bk
 A|Well, that's neat.|ba
@@ -8,7 +8,7 @@ B|and, uh, do you work for T I?|qy
 A|Uh-huh.|ny
 B|Uh-huh.|bk
 A|So, I've worked for them for several years, like twelve now, I guess.|sd
-B|Oh, you sound very younglike just out of college|sd
+B|Oh, you sound very young like just out of college|sd
 A|Right,|b
 A|I try to,|sd
 A|I try to think of myself as young,|sd
@@ -19,13 +19,13 @@ A|Oh, did you?|bh
 B|and, uh, have you seen that one?|qy
 A|No,|nn
 A|I haven't,|sd
-A|Ihave, have a hard time with movies that are real long.|sd
+A|I have, have a hard time with movies that are real long.|sd
 B|That was excellent.|sv
 A|I don't know.|%
 B|Well, so oddly enough, I do too,|sd
-B|I get tired of sitting there, andso does my husband,|sd
+B|I get tired of sitting there, and so does my husband,|sd
 A|Yeah.|b
-B|but we both just thoroughly, you knowenjoyed it, just really liked it|sd
+B|but we both just thoroughly, you know enjoyed it, just really liked it|sd
 A|Yeah.|b
 A|Well, I've heard a lot of good things about it.|sd
 B|and, uh, I'm trying to think,|^h
@@ -50,7 +50,7 @@ A|we have small children, so we don't get to see too many, but we've seen I gues
 B|My husband doesn't enjoy the shows as much going to them,|sd
 B|he likes to rent them|sd
 A|Uh-huh.|b
-B|and so we watch a lot of them, you know, at homeas they come out,|sd
+B|and so we watch a lot of them, you know, at home as they come out,|sd
 A|Right.|b
 B|and, uh,|%
 A|Have you seen GHOSTS yet?|qy
@@ -66,20 +66,20 @@ B|and, uh, I was really disappointed in it,|sd
 B|it|%
 B|one,|%
 B|I don't think it was as funny as what I was anticipating,|sv
-B|and I guess I was expecting it to be kind of funnyyou know, at all,and, uh, and it wasn't|sd
+B|and I guess I was expecting it to be kind of funny and, uh, and it wasn't you know, at all,|sd
 A|Oh, yeah,|b
 A|well,|%
 A|Yeah.|b
 B|it was, it was more of a love story|sv
 A|Yeah,|b
-B|and, uh, so I was really disappointed in that because I like himreal well.|sd
+B|and, uh, so I was really disappointed in that because I like him real well.|sd
 A|Uh-huh.|b
-B|We just got through watching one with, uh, uh, is it Claude Van Dammeyeah, and, uh, enjoyed it,|sd
+B|We just got through watching one with, uh, uh, is it Claude Van Damme yeah, and, uh, enjoyed it,|sd
 A|Uh, Van Damme,|^2
 A|yeah,|aa
 A|I think,|sd
 B|I can't think what the name of|sd
-B|it was a, uh, of course, one of the typicaltype movie,lots of blood and guts and all thatyou know, kicking, fighting|sv
+B|it was a, uh, of course, one of the typical you know, kicking, fighting lots of blood and guts and all that type movie,|sv
 A|Right.|b
 A|Right.|b
 A|Uh-huh.|b
@@ -93,7 +93,7 @@ B|Wasn't that excellent?|qy
 A|Yeah,|ny
 A|I really enjoyed that a lot.|sd
 B|Yeah,|b
-B|that was one that, that stayed with meyou know, for a month,|sd
+B|that was one that, that stayed with me you know, for a month,|sd
 A|Uh-huh.|b
 B|I just,|%
 B|I kept thinking about it, you know,|sd
@@ -119,7 +119,7 @@ B|Hopkins,|b^m
 B|uh-huh.|b
 A|Hopkins,|b
 A|yeah.|b
-A|I always get thosemixed up.|sd
+A|I always get those mixed up.|sd
 B|I know|b
 B|I know.|b
 B|It, uh, well,|%
@@ -141,7 +141,7 @@ A|that's not why I go|sd
 B|No,|aa
 B|no|aa
 A|so,|%
-B|I like a good suspensefulstory,|sd
+B|I like a good suspenseful story,|sd
 A|Right,|b
 A|and that one was.|sv
 B|and that one very definitely kept you on the edge of the seats,|sv
@@ -151,7 +151,7 @@ A|Oh, he didn't see it?|qy
 B|he won't go see that,|ng
 B|no,|nn
 A|Oh.|bk
-B|I went with, uh, our daughterand, uh, so, you know, saw it with her, and, uh, enjoyed it.|sd
+B|I went with, uh, our daughter and, uh, so, you know, saw it with her, and, uh, enjoyed it.|sd
 A|Uh-huh.|b
 B|My all time favorite is WEEKEND AT BERNIE'S.|sd
 A|Oh, really?|bh
@@ -164,7 +164,7 @@ B|and then we've rented it several times|sd
 A|Uh-huh.|b
 B|and, we just love it,|sd
 B|in fact we have a ten year old grandson that,|sd
-B|he and my husband and I, we just sit there and cackleyou know, just get hysterical.|sd
+B|he and my husband and I, we just sit there and cackle you know, just get hysterical.|sd
 A|Uh-huh.|b
 A|Yeah,|b
 A|I've seen that.|sd

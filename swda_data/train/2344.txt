@@ -32,13 +32,13 @@ A|I don't,|ar
 A|I, I suspect they're not our biggest threat anymore.|sv
 B|Probably not,|aa
 B|no.|aa
-A|I suspect it's probably some crazy man like Saddam Husseinwho's our biggest threat,|sv
+A|I suspect it's probably some crazy man like Saddam Hussein who's our biggest threat,|sv
 B|Right.|b
 A|but, um, I wonder if they're, I wonder how much of a threat they are.|qw^d
 A|I agree with you that, that they'll always be somewhat of a threat given that they have, that there's just, it's just so big,|aa
 A|and there's just so much military machine there.|sv
 B|Uh-huh,|aa
-B|and, and it's recognized that the two great powersare us and them,|sd
+B|and, and it's recognized that the two great powers are us and them,|sd
 A|Right.|b
 B|and, and the great powers are always pitted against each other.|sv
 A|But I wonder how much longer they're going to be a them.|qw^d
@@ -50,7 +50,7 @@ B|I don't believe they're a large threat right now.|sv
 B|I think there's always some threat.|sv
 A|Yeah,|aa
 A|oh, I agree.|aa
-A|I mean, if we were to, if, if something were to happen, I'm sure they would all of a sudden band together just for the sake of, for the sake of, uh, of, of unity against us or somethingif, if, if need be.|sv
+A|I mean, if we were to, if, if something were to happen, I'm sure they would all of a sudden band together just for the sake of, for the sake of, uh, of, of unity against us or something if, if, if need be.|sv
 B|Yeah,|b
 A|But,|%
 B|Actually I feel kind of sorry for them right now, because the people are, are, are, uh, wanting things that we have that they're not|sd
@@ -58,10 +58,10 @@ B|I mean, just some basic freedoms,|sd
 B|and, and their government is not allowing it,|sd
 B|and Gorbachev seems to be going back on some of the things that he's been trying to push.|sv
 A|Yeah,|aa
-A|actually I noticed this I mean, this, this, this most recent scare of his, where he said, or he just decided that instead of having, uh, instead of having, I can't think of the word now,if there are any demonstrations for, in favor of Boris Yeltsin, he decided, well, I'll just cancel all demonstrations altogether.|sd
+A|actually I noticed this I mean, this, this, this most recent scare of his, where he said, or he just decided that instead of having, uh, instead of having, I can't think of the word now, if there are any demonstrations for, in favor of Boris Yeltsin, he decided, well, I'll just cancel all demonstrations altogether.|sd
 B|Uh-huh.|b
 A|So, I, I, I think that, he, he, he's actually,|sv
-A|he, I think, is becoming very dangerousbecause he's making those people angry at him,|sv
+A|he, I think, is becoming very dangerous because he's making those people angry at him,|sv
 B|Yeah.|b
 A|and he's also, I think he's also making, um, the military angry at him.|sv
 B|Yeah.|b
@@ -72,7 +72,7 @@ A|like with the Baltic states when they just go in there|sd
 B|Yeah.|b
 A|divvy the people up.|sd
 B|See, I'm concerned that, that since he's banned demonstrations altogether, that he's going to do the type of thing that happened in Tiananmen Square,|sv
-B|and he's going to wipe out, no telling how many of hisown countrymen, uh, right in the middle of Red Square,|sv
+B|and he's going to wipe out, no telling how many of his own countrymen, uh, right in the middle of Red Square,|sv
 A|Uh-huh.|b
 B|and, uh, it's going to cause a, more civil war than is already occurring.|sv
 A|That's interesting.|ba
@@ -106,7 +106,7 @@ B|I guess as long as, uh, they're fighting each other, we don't have to worry ab
 A|Yeah,|aa
 A|but wouldn't it be nice if no one had to fight anybody else.|qy
 B|Well, sure,|na
-B|that, but that's a, that's an impossibility, I thinkgiven the differences in the world,|sv
+B|that, but that's a, that's an impossibility, I think given the differences in the world,|sv
 A|Yeah.|b
 B|and people are just too different.|sv
 A|Well, I don't, I don't know.|ar
@@ -140,7 +140,7 @@ A|basically they said, everything happened in kindergarten,|sd
 A|and in kindergarten we learned to share,|^q
 A|and we learned to, um, play with each other,|^q
 A|we learned to take nap, and to take naps,|^q
-A|and whenever we'd start a fight we'd all apologize and hug each otheryou know,|^q
+A|and whenever we'd start a fight we'd all apologize and hug each other you know,|^q
 B|Yeah.|b
 A|and that would be all.|^q
 A|If we could just do the same thing sort of, with, with, with everybody else, I suspect we'd, we'd be fine.|sv
@@ -173,23 +173,23 @@ B|they, and they, there's nothing that they can do.|sv
 A|Yeah,|aa
 A|that's, that's|%
 A|and the ones I even feel somewhat worse for, even, um,|sd
-A|the ones in like the Baltic stateswhere they don't have a strong leader, then, you know,|sd
+A|the ones in like the Baltic states where they don't have a strong leader, then, you know,|sd
 B|Uh-huh.|b
 A|at least, at least Russia has some sort of strong leader.|sv
 A|I mean they have Yeltsin who may, who may yet sort of help Russia.|sv
 B|Yeah.|b
 A|But, um, I mean, the Baltic states, I think, are just sort of trapped.|sv
-A|I mean, they were taken over couple, you know, not too long agoand then just sort of told, well, you're here now,|sv
+A|I mean, they were taken over couple, you know, not too long ago and then just sort of told, well, you're here now,|sv
 B|Yeah.|b
 A|you're part of our country.|^q
 A|You be this way.|^q
 A|It's a, I think it's a sad state of affairs,|sv
 A|but.|%
-B|It's, it's probably not dissimilar from the, uh, what are they, the, the, the, I'm trying to think of the name of the, the , something like that in Northern Iraqwho are actually countrymen of,|sv
+B|It's, it's probably not dissimilar from the, uh, what are they, the, the, the, I'm trying to think of the name of the, the , something like that in Northern Iraq who are actually countrymen of,|sv
 A|Oh, yeah,|aa
 A|yeah.|aa
 B|I mean, some of them were split off into Israel, I believe,|sd
-B|and some of them are in Turkeywhen actually they, they don't, they're their own people and their beliefs and their own culture system.|sd
+B|and some of them are in Turkey when actually they, they don't, they're their own people and their beliefs and their own culture system.|sd
 A|Uh-huh.|b
 A|Right.|b
 B|And they were split up into three different countries.|sd
@@ -206,7 +206,7 @@ A|and now they just want to sort of speak up and say Hey,|sv
 A|we want our piece.|^q
 B|Yeah.|b
 A|And they have like a problem,|sv
-A|they have Muslims to deal withas well as Saddam Hussein.|sv
+A|they have Muslims to deal with as well as Saddam Hussein.|sv
 B|Uh-huh.|b
 A|I, I mean I think their big problem up there is, you know, unfortunately,|sv
 A|not only are they|sv
@@ -217,7 +217,7 @@ A|We just want this little tiny piece of land.|^q
 B|Yeah.|aa
 B|The, the one that I think,|%
 B|one of the women that I work for is married to an Iranian,|sd
-B|and so she has a lot of insight, because she knows a lot of the historyof the countries over there,|sd
+B|and so she has a lot of insight, because she knows a lot of the history of the countries over there,|sd
 A|Uh-huh.|b
 B|and within five or six countries there are probably ten cultures of people,|sd
 A|Yes,|aa

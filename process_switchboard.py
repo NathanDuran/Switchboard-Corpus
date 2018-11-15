@@ -5,8 +5,14 @@ from swda_utilities import *
 # Processed data directory
 data_dir = 'swda_data/'
 
-# Corpus object for iterating over the whole corpus
+# Corpus object for iterating over the whole corpus in .csv format
 corpus = CorpusReader('raw_swda_data/')
+
+# File for all the utterances in the corpus
+all_text_file = "all_swda_text.txt"
+# Remove old file if it exists
+if os.path.exists(data_dir + all_text_file):
+    os.remove(data_dir + all_text_file)
 
 # Load training, test, validation and development splits
 train_split = read_file(data_dir + 'train_split.txt')
@@ -21,14 +27,16 @@ excluded_chars = {'<', '>', '(', ')', '-', '#'}
 
 # Process each transcript
 for transcript in corpus.iter_transcripts(display_progress=False):
+
+    # Process the utterances and create a dialogue object
     dialogue = process_transcript(transcript, excluded_tags, excluded_chars)
 
     # Write all utterances to file
-    with open(data_dir + "full_swda_text.txt", 'w+') as file:
+    with open(data_dir + all_text_file, 'a+') as file:
         for utterance in dialogue.utterances:
             file.write(utterance.speaker + "|" + utterance.text + "|" + utterance.da_label + "\n")
 
-    # Determine which set this dialogue belongs to
+    # Determine which set this dialogue belongs to (training, test or evaluation)
     set_dir = ''
     if dialogue.conversation_num in train_split:
         set_dir = data_dir + 'train/'
@@ -41,7 +49,7 @@ for transcript in corpus.iter_transcripts(display_progress=False):
     if not os.path.exists(set_dir):
         os.makedirs(set_dir)
 
-    # Write dialogue to train, test and validation folders
+    # Write dialogue to train, test or validation folders
     with open(set_dir + dialogue.conversation_num + ".txt", 'w+') as file:
         for utterance in dialogue.utterances:
             file.write(utterance.speaker + "|" + utterance.text + "|" + utterance.da_label + "\n")

@@ -13,7 +13,7 @@ B|I think exercise is extremely important|sv
 B|and I I do exercise on a regular basis.|sd
 A|You do?|bh
 A|What type of exercise do you do?|qw
-B|Well, I do, uh, jazzercisewhich is an aerobic, uh, program that,|sd
+B|Well, I do, uh, jazzercise which is an aerobic, uh, program that,|sd
 A|Oh you do.|bf
 B|are you familiar with it?|qy
 A|Yes.|ny
@@ -58,13 +58,13 @@ B|Most of the people that are in the classes are young mothers. You know, with w
 A|Oh yeah|aa
 A|young mothers or,|b^m
 B|Young mothers.|sd
-B|You know, young women,are the ones that I find.with small children|sd
+B|You know, young women, with small children are the ones that I find.|sd
 A|Uh-huh.|b
 B|Well, what do you do?|qw
 A|Uh, I really don't have a routine.|sd
 A|I like playing basketball.|sd
 A|We just bought a new home with a basketball hoop|sd
-A|andthat's what I do every day.|sd
+A|and that's what I do every day.|sd
 B|Oh, great.|ba
 B|Yeah.|b
 B|Do you play every day?|qy
@@ -88,12 +88,12 @@ B|Well see, that's, that's really good|sv
 B|and I think that keeps a lot, some people from exercising.|sv
 A|Uh-huh.|b
 B|I mean, I don't have a problem with weight either,|sd
-B|but I think I don't have a problem because I exercise. You know |sd
+B|but I think I don't have a problem because I exercise.  You know |sd
 A|You  do exercise. |bf
 B|I mean, people are always saying to me, how do you stay thin|sd
 B|and it's because I exercise|sd
 A|You do it|bf
-B|but I also watch what I eat.You know,|sd
+B|but I also watch what I eat. You know,|sd
 A|Uh-huh.|b
 B|but you'll come,|sv
 B|being twenty-seven, you don't really have to worry about your heart rate and that yet|sv
@@ -106,7 +106,7 @@ B|Well, it might not|sv
 B|Mine,|%
 B|because everybody's been telling me that too|sd
 B|and so far it hasn't happened, you know,|sd
-B|and I, I just feel like, you know, you have to constantly weigh yourselfand just keep an eye on it and cut back if it starts to get you know, too high.|sv
+B|and I, I just feel like, you know, you have to constantly weigh yourself and just keep an eye on it and cut back if it starts to get you know, too high.|sv
 A|Uh-huh.|b
 A|Yeah,|b
 A|I guess I enjoy sports a lot|sd
@@ -139,7 +139,7 @@ B|and they ski.|sd
 B|I guess there's a place where you can ski,|sd
 B|well is it Tahoe? Where you ski from,|qy
 B|no|ar
-B|that's Nevada to  California I guess.|sd
+B|that's Nevada to  California  I guess.|sd
 A| That's in Nevada. |sd
 A|Uh-huh.|b
 B|Yeah,|b

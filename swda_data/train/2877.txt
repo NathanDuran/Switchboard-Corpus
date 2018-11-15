@@ -13,7 +13,7 @@ A|Oh, my|ba
 B|It's a mud dog.|sd
 A|I beg your pardon.|br
 B|It's a mud dog.|sd
-B|It's, uh,a cross between a catfish and, uh, I don't know what, a salamander.|sd
+B|It's, uh, a cross between a catfish and, uh, I don't know what, a salamander.|sd
 A|Oh.|b
 A|Well did you all catch it,|qy^d
 A|or, uh,|%
@@ -38,7 +38,7 @@ B|Oh really,|b
 B|what kind?|qw
 A|An English setter, you know,|sd
 A|that's the white dog with the feathers|sd
-A|and it has,uh, yellow spots on it which they call, I think, uh, liver spots.|sd
+A|and it has, uh, yellow spots on it which they call, I think, uh, liver spots.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|And that's a male.|sd
@@ -49,7 +49,7 @@ A|Quite a long time, uh, probably five or six years|sd
 A|and unfortunately the black lab that's a female, it, it's, it's the most wonderful animal we've ever had,|sd
 A|an,|%
 A|when she was about three years old we noticed that she was having uh, problems limping and so forth|sd
-A|and,she has hip dysplasia.|sd
+A|and, she has hip dysplasia.|sd
 B|Uh-huh.|b
 B|Oh no.|ba
 A|And it's in that breed.|sd
@@ -73,7 +73,7 @@ A|Uh-huh,|b
 A|but she's wonderful.|sd
 B|Um, our dog, Joey, has, uh, a back problem.|sd
 A|Um, like|%
-A|what are thewhat are the symptoms?|qw
+A|what are the what are the symptoms?|qw
 B|Uh, he, he's got a bad back|sd
 B|but he's seven, uh,|sd
 B|I guess he's almost eight years old.|sd
@@ -124,7 +124,7 @@ A|And, uh, after the, the second shot she was significantly better.|sd
 A|Then I didn't notice any improvement till the, after the sixth one.|sd
 B|Uh-huh.|b
 A|And ever since,|%
-A|and he said, uh, a booster, uh, every year or two,I mean, maybe every six months or, or something like that|sd
+A|and he said, uh, a booster, uh, every year or two, I mean, maybe every six months or, or something like that|sd
 B|Uh-huh.|b
 A|and when I notice in the winter, when it's worse, you know, it's cold weather and so forth then I have, uh, gotten a booster for her.|sd
 A|But not many people in this part of the country know anything about .|sd
@@ -146,7 +146,7 @@ B|or does he just run out in the backyard?|qrr
 B|Is he fenced in?|qy
 A|Um, um, well we're living now in an area where we, we, we're in the woods|sd
 A|and we take walks.|sd
-A|I just don't let them,uh, uh, go away from me,|sd
+A|I just don't let them, uh, uh, go away from me,|sd
 B|Oh, yeah,|b
 B|uh-huh.|b
 A|but we take walks through the woods twice a day.|sd
@@ -165,7 +165,7 @@ B|uh, both, uh, Joey and, uh, Stripper get treats|sd
 B|And, uh, let's see,|^h
 A|And is, um, Stripper an inside cat, or outside?|qy
 B|Oh, well he's outside|sd
-B|and, uh,he's got a way to get in,|sd
+B|and, uh, he's got a way to get in,|sd
 A|Uh-huh.|b
 B|he's got free access of a window we like to keep open.|sd
 A|Yes.|b
@@ -225,7 +225,7 @@ A|and I think it's been probably about five and a half minutes or something.|sd
 A|But one day I was talking to a lady about gardening|sd
 A|and I'm, I love gardening|sd
 A|and she did too,|sd
-A|an, and,the recording came on and said that was the end of the tapeafter, after about twelve minutes or something,|sd
+A|an, and, after, after about twelve minutes or something, the recording came on and said that was the end of the tape|sd
 B|Uh-huh.|b
 B|Oh, well, at least you know you did your part.|sv
 A|Uh-huh,|b

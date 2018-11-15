@@ -1,5 +1,5 @@
 A|So, how do you feel about capital punishment?|qo
-B|Well, I, I'm not really certain how I, uh, I'm not certain that, that it does a lot of good. I mean, that it ends up, ends up effectively, uh, uh, uh, avoiding a lot of the crimes that have capital punishment penalties. |sd
+B|Well, I, I'm not really certain how I, uh, I'm not certain that, that it does a lot of good. I mean, that it ends up, ends up effectively, uh, uh, uh, avoiding a lot of the crimes that have capital punishment  penalties. |sd
 A|Right,|b
 A| you don't think, |%
 B|Yet, on the other hand, uh, I don't know,|h
@@ -21,7 +21,7 @@ B|I mean, like the Arab societies and stuff end up, uh, having effective, effect
 B|and, and they're extremely severe.|sv
 B|Uh, I, you know, I think to a certain degree, the reason that it, it doesn't serve as a deterrent, uh, may be because you never know if it's going to be applied. Right,|sv
 B|unlike, uh, like in, in Arab societies. If you get, get caught stealing, they chop off your hand|sv
-B|and and you walk around  the rest of your life with one hand|sv
+B|and  and you walk around  the rest of your life with one hand|sv
 A| Right. |b
 B|and everybody knows exactly what, what for.|sv
 A| Right. |b
@@ -31,19 +31,19 @@ A|Uh-huh.|aa
 A|And also, it doesn't seem like it does that many harm,|sv
 A|I mean, sure, their life is taken,|sv
 A|but they'd spend the rest of their life in jail anyway,|sv
-A|soI think sometimes they'd prefer just to get it over with|sv
-A|so it's more of the easy way out thanyou know, what they've done.making them pay for the for the|sv
+A|so I think sometimes they'd prefer just to get it over with|sv
+A|so it's more of the easy way out than making them pay for the for the you know, what they've done.|sv
 B|some people,|%
 B|Yeah.|b
 B|Except that, I mean, the, the average cost to to society of having somebody in jail for all their life is, is extremely high. I mean, something, I, I was amazed at. Uh, uh, per year,|sv
-B|it's something like twenty thousand dollars per inmate per year.To keep people in jail.|sd
+B|it's something like twenty thousand dollars per inmate per year. To keep people in jail.|sd
 A|Yeah.|b
-B|Uh, you know, and it's sort of a sort of a crass perspectiveon the usage of capital punishment,|sv
+B|Uh, you know, and it's sort of a sort of a crass perspective on the usage of capital punishment,|sv
 A|Uh-huh.|b
 B|but on the other hand, uh, uh, you know, I don't, I don't know if it's that is, that is that serious that they're really never going to be out of jail, uh ...|sd
 A|Right,|aa
 A|but then again, also, you can't bring back lives that have been taken anyway,|sd
-A|souh, it's,|%
+A|so uh, it's,|%
 B|Uh-huh|b
 A|it doesn't,|%
 A|it seems by, that by,|%
@@ -51,7 +51,7 @@ A|I don't know,|h
 A|doesn't ever really, uh ...|%
 B|Oh, I know,|aa
 B|I mean, you can't,|%
-B|it doesn't, Taking  , taking one more life doesn't, doesn't, doesn't  get things back the way they were, right. |sv
+B|it doesn't,  Taking  , taking one more life doesn't, doesn't, doesn't  get things back the way they were, right. |sv
 A| Yeah. |b
 A| Right.|aa
 A|It doesn't bring back every, |aa

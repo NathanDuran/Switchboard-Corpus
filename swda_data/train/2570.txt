@@ -22,7 +22,7 @@ B|I would love to, I would like to get back to it.|sd
 A|Yeah,|b
 A|uh-huh.|b
 A|Uh, clothes are getting so expensive now in, in the stores|sv
-A|and the, the quality is, is sometimes so poor that,uh, it, it really is worth while to sew.|sv
+A|and the, the quality is, is sometimes so poor that, uh, it, it really is worth while to sew.|sv
 B|Yeah.|b
 B|It is, you know, an even back then,|sv
 B|I remember you could make something for, you know, half what it cost to buy|sd
@@ -39,10 +39,10 @@ A|I'm not.|sd
 B|See I can remember paying seventy-five cents for a pattern|sd
 A|Huh-uh,|b
 A|no,|%
-A|the, the cheapest ones now are like maybe, uh, four or five dollars,six, seven|sd
+A|the, the cheapest ones now are like maybe, uh, four or five dollars, six, seven|sd
 B|Uh-huh.|b
 A|and then you get into the Vogues,|sd
-A|they get up into twelve and fifteen and,on like that.|sd
+A|they get up into twelve and fifteen and, on like that.|sd
 B|Good night.|ba
 B|Well do you have kids and a husband,|qy
 B|are you sewing for a whole family|qy
@@ -57,7 +57,7 @@ A|and, uh, I didn't like the way it looked so I'd never wear anything.|sd
 B|Yeah.|b
 A|But now I, I have bought some, uh, new, sewing equipment.|sd
 A|I bought the Singer machine|sd
-A|and,uh, it really makes it look professional|sd
+A|and, uh, it really makes it look professional|sd
 B|Uh-huh.|b
 A|and I've taken some classes here in, in, uh, Dallas.|sd
 B|Well and that always is helpful for starters.|sv
@@ -78,11 +78,11 @@ B|She makes things for the kids for Christmas and nephews and nieces|sd
 B|and I look at them|sd
 B|and I think, God, you know, I, I should be able to do things like this|sd
 A|Right.|b
-A|I have a sister that can, can, uh, crochet real well,or, or knit, I, I guess I mean knit.|sd
+A|I have a sister that can, can, uh, crochet real well, or, or knit, I, I guess I mean knit.|sd
 B|Yeah.|b
-A|And she knits things like hats,and, uh, sweaters, an, you know .|sd
+A|And she knits things like hats, and, uh, sweaters, an, you know .|sd
 B|Yeah.|b
-B|Well, when my sister, oh, when my sister had her first, uh, child, my niece,and this is, we're talking fifteen years ago. I was, it was my last year of college,|sd
+B|Well, when my sister, oh, when my sister had her first, uh, child, my niece, and this is, we're talking fifteen years ago. I was, it was my last year of college,|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|and I asked my roommate if she would teach me how to crochet granny squares.|sd
@@ -178,7 +178,7 @@ A|Uh-huh,|b
 A|well I'm not that great either.|sd
 A|I used to be a lot better than I am now.|sd
 A|I, I have played for, uh, the church choir,|sd
-A|and, uh,I played for the choral club in high school|sd
+A|and, uh, I played for the choral club in high school|sd
 B|Yeah.|b
 A|and, but, I, you know, I don't practice a lot anymore,|sd
 A|and, uh, you know, you get rusty.|sv
@@ -216,9 +216,9 @@ B|so she laid out the material|sd
 B|and I cut it and sewed it|sd
 B|and she paid me I think like two dollars a pair to make her some pants.|sd
 A|Yeah.|b
-B|But I, I hate laying out material and trying to get the most out of the material and,make sure it's on the right lines and not on the bias.|sd
+B|But I, I hate laying out material and trying to get the most out of the material and, make sure it's on the right lines and not on the bias.|sd
 A|Yeah,|b
-A|on the, on the,and all that stuff,right on the straight grain,|^2
+A|on the, on the, right on the straight grain, and all that stuff,|^2
 B|Yes,|aa
 B|on the grain of the fabric.|sd
 A|uh-huh.|%
@@ -255,7 +255,7 @@ B|So it has the ability to do just about any type of sewing you want to do.|bf
 A|Well, yes,|aa
 A|but you, you have to use it in combination with a sewing machine.|sd
 A|You can't throw your sewing machine away.|sd
-A|you, you need it to do things like button holes,and, uh, seams that need to be really strong, need to be done on the sewing machine.|sd
+A|you, you need it to do things like button holes, and, uh, seams that need to be really strong, need to be done on the sewing machine.|sd
 B|Uh-huh.|b
 B|So the Serger is not a sewing machine, itself.|qy^d
 B|It's something that goes with it?|qy^d

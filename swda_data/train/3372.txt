@@ -15,7 +15,7 @@ B|Well, see we have the testing already here.|sd
 B|We've had it for, oh, about five years.|sv
 A|Uh-huh.|b
 B|It used to just be for new employees. |sd
-B|And now it's for all employees.|sd
+B|And now  it's for all employees.|sd
 A| And now, |b^m
 B|They, uh, randomly select employee numbers|sd
 B|and, uh, the day that they select you is when you have to go and, and be tested.|sd
@@ -43,7 +43,7 @@ B|No,|nn
 B|but one thing that to, to me was, um, going on, stretching it a little too far was that they also check, um, if you are taking somebody else's prescription drug.|sv
 B|You know, it happens a lot of times|sd
 B|like some member of the family gets the flu or whatever|sd
-B|and, you know then  they give it to everybody else in the family and don't always go back to the, you know, doctor and get another prescription.|sd
+B|and, you know  then  they give it to everybody else in the family and don't always go back to the, you know, doctor and get another prescription.|sd
 A| Well , |%
 B|Well, according to what they do at T I, if you take a prescription drug it has to be in your name.|sd
 B|It, you know, it can't be in your spouse's name|sd
@@ -69,20 +69,20 @@ A| So what they are  asking you to tell them is all the prescription drugs you a
 B|Right,|aa
 B|right.|aa
 B|You pretty much, you know, put down what you remember even if it was just Contact or something like that.|sd
-B|But afterwards, uh, maybe if you had a controlled  substance Well,  |sd
-A| Is Contact a,  |qy
+B|But afterwards, uh, maybe if you had a controlled  substance  Well,  |sd
+A| Is Contact a,   |qy
 B|you, you probably put down, you know, you had Drixoral or Contact if you would remember that you did it.|sd
 A|Okay.|b
-A|Is Contact a, substance? |qy
+A|Is Contact a,  substance? |qy
 B|No.|nn
-B| I'm,  anything  you have taken.just saying you probably put down on the sheet|sd
+B| I'm,  just saying you probably put down on the sheet  anything  you have taken.|sd
 A|Okay.|bk
 A| Okay. |b
 B|But if they had a controlled substance, maybe they would ask you then to show that you had that prescription in your name.|sv
-B|I know I had one contract employee through Manpower was not a T I person,but was a contract person,|sd
+B|I know I had one contract employee through Manpower was not a T I person, but was a contract person,|sd
 A|Uh-huh.|b
 B|and they test them too even if you are not a real, uh, T I|sd
-B|If you are a contract employee here they test  you too.|sd
+B|If you are a contract employee here  they test  you too.|sd
 A| Uh-huh. |b
 B|And he had taken some kind of, um, oh, you know, uh,|sd
 B|just, he had some kind of flu or something.|sd

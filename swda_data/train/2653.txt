@@ -26,7 +26,7 @@ B|So, uh, I learned to repair one|sd
 B|but you know I never really learned to operate one.|sd
 A|Oh, that's a key thing.|sv
 A|Well, actually that's a,|%
-A|there's really two issues to that that there's so many software packages available today.That just require no programming.|sv
+A|there's really two issues to that that there's so many software packages available today. That just require no programming.|sv
 B|Yes.|aa
 A|So that|%
 A|in other words when someone built that software packet they had to use the programming|sv
@@ -78,7 +78,7 @@ B|Well, see of not being particularly interested I don't keep track of prices on
 B|but I'm, I'm, that does amaze me.|sd
 A|Yeah,|b
 A|the prices had plummeted,|sd
-A|you can buy the computer the guts just the guts with the power supply, the  box and the mother board of a type of computer called an eighty, eighty-eight, for about two hundred dollars.|sd
+A|you can buy the computer the guts just the guts with the power supply,  the  box and the mother board of a type of computer called an eighty, eighty-eight, for about two hundred dollars.|sd
 B| Uh-huh. |b
 B|Huh.|b
 A|And then the keyboard is another fifty,|sd
@@ -91,7 +91,7 @@ A|so there's,|%
 A|probably the way to do it if you really wanted to buy one is there's a magazine called COMPUTER SHOPPER.|sd
 B|Uh-huh.|b
 A|It's a big magazine,|sd
-A|it's twelve inches narrow, the narrow side andseventeen inches the tall side|sd
+A|it's twelve inches narrow, the narrow side and seventeen inches the tall side|sd
 B|Oh, wow.|ba
 A|and it's probably an inch thick a thousand pages.|sd
 A|But the book is, the magazine is full of these mail order, computer mail-order houses|sd
@@ -143,7 +143,7 @@ B|Uh-huh.|b
 A|Uh, now I I type that one,|sd
 A|but I don't use it anymore.|sd
 B|Uh-huh,|b
-B|well I just recently started using one. In  connection with my work.|sd
+B|well I just recently started using one.  In  connection with my work.|sd
 A| Uh-huh. |b
 A|Yes.|b
 B|Uh, I keep track of an inventory here.|sd
@@ -153,7 +153,7 @@ A|Yes,|aa
 A|I agree.|aa
 B|And, well I, it's my responsibility to see that equipment is sent off to be calibrated.|sd
 A|Oh, yeah.|b
-B|See I'm with the Q R A lab.Qualification and evaluation|sd
+B|See I'm with the Q R A lab. Qualification and evaluation|sd
 A|Oh, I see|b
 A|that's fascinating.|ba
 B|so naturally our equipment has to be in top condition and is constantly calibrated,|sd

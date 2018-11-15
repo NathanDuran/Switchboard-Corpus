@@ -17,18 +17,18 @@ B|I think in some cases it doesn't matter if it's a deterrent or not.|sv
 A|Uh-huh,|aa
 A|yeah,|aa
 A|you still have to do it.|sd
-A|I,I,|%
-B|I meanI mean, I'm thinking of an extreme case like a serial murderer|sd
+A|I, I,|%
+B|I mean I mean, I'm thinking of an extreme case like a serial murderer|sd
 A|Uh-huh.|b
 B|or,|%
 A|So you're in, you're in favor of capital punishment, then.|bf
 B|Well, for some things.|aap_am
 A|Right.|b
-B|I think for serial murderblood,it is warranted because if a person who would do something like that in cold|sv
+B|I think for serial murder it is warranted because if a person who would do something like that in cold blood,|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Needs to be punished or, uh, eliminated from society.|sv
-B|I mean,and do it again.from prisonyou can't guarantee that they wouldn't escape|sv
+B|I mean, you can't guarantee that they wouldn't escape from prison and do it again.|sv
 A|Right.|b
 A|And then do it all over again.|^2
 A|Uh-huh.|b
@@ -41,12 +41,12 @@ A|but, I tend to agree with you that, uh, we should have it|sd
 A|I just, I don't know that it's always effective|sv
 A|but I guess we, uh, we're kind of stuck with it.|sv
 A|It's, it's a difficult, uh, problem, isn't it, to determine how you're going to punish somebody for a particular crime, uh,|sv
-B|But, then, you know, I think that, that some murderers don't really warrant capital punishment.who abused themjust, like, for example, uh, you know, you hear about cases where women have killed their husbandsYou know,|sv
+B|But, then, you know, I think that, that some murderers don't really warrant capital punishment. You know, just, like, for example, uh, you know, you hear about cases where women have killed their husbands who abused them|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Right,|b
 A|uh-huh.|b
-B|and I don't think,that would really warrant capital punishment.|sv
+B|and I don't think, that would really warrant capital punishment.|sv
 A|Uh-huh,|b
 A|huh. Do you think they should be punished at all, or, uh, like go to prison, uh,|qy
 A|because they're not really a danger to society.|sv
@@ -57,7 +57,7 @@ B|but I think,|sv
 B|I don't know because,|h
 A|I know they put, uh, put them in jail sometimes, I guess. Uh,|sd
 B|I think in|sv
-B|and it,available.and, and if another alternative wasand, and the extent of the abusejust would depend upon the circumstances|sv
+B|and it, just would depend upon the circumstances and, and the extent of the abuse and, and if another alternative was available.|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Um.|b
@@ -74,21 +74,21 @@ A|Right.|b
 B|And,|%
 A|Might make you feel better|sv
 A|but|%
-B|But, one thing, I think that if there is a chance for rehabilitationthen that chance should be investigated.|sv
+B|But, one thing, I think that if there is a chance for rehabilitation then that chance should be investigated.|sv
 A|Uh-huh.|b
 A|Right.|b
-B|But, like I said, if, if someone is, is just pathologicallysociety.then I think they should be eliminated fromgoing to murder people no matter what|sv
+B|But, like I said, if, if someone is, is just pathologically going to murder people no matter what then I think they should be eliminated from society.|sv
 A|Uh-huh.|b
 A|Right.|b
 A|Uh-huh.|b
 A|Right,|aa
 A|because they're a danger to everybody else.|sv
 A|Huh, that's interesting.|sv
-A|I have to, uhagree with that.|aa
+A|I have to, uh agree with that.|aa
 B|But,|%
 A|There's a lot of folks, probably, that are in prison that, uh, that aren't really a danger to society, huh,|sv
 A|and, uh,|%
-B|And a lot of people that are a dangerto society that aren't in prison.|^2
+B|And a lot of people that are a danger to society that aren't in prison.|^2
 A|Right.|aa
 A|Right,|aa
 A|probably more of them then the other way around|sv

@@ -44,7 +44,7 @@ B|They don't need to be masters of it,|sv
 A|Right,|aa
 A|right.|aa
 A|That's true. Uh,|aa
-B|Everything I learned about ancient Rome has not helped me anywhere in,my adult life.|sv
+B|Everything I learned about ancient Rome has not helped me anywhere in, my adult life.|sv
 A|Yes,|aa
 A|I definitely agree.|aa
 A|There's no doubt about that.|aa
@@ -58,12 +58,12 @@ B|What, what type of history class is it that you're having to take?|qw
 A|Uh, American History.|sd
 A|We have to take, um, like this is like early seventeen hundreds through, I don't know, I think like mid eighteen hundreds.|sd
 A|And then we have to take another one that's mid eighteen hundreds on up, to basically present.|sd
-B|Well, the early ones they could actually combine two, two,levels of it, the one from seventeen hundred til say, the end of the Civil War.|sv
+B|Well, the early ones they could actually combine two, two, levels of it, the one from seventeen hundred til say, the end of the Civil War.|sv
 A|Yeah.|b
 B|Combine that into one. And then from eighteen sixty-five to present,|sv
-B|and make that your second step because,to a point the bottom, you know, the early parts of it, you're giving the foundations of the nationTo a point,|sv
+B|and make that your second step because, To a point, to a point the bottom, you know, the early parts of it, you're giving the foundations of the nation|sv
 A|Yeah.|b
-A|That's, well that's,basically what they're doing.|sd
+A|That's, well that's, basically what they're doing.|sd
 B|and, but even then they're skimming over,|sv
 B|they're very, almost trivial with it.|sv
 A|Yeah,|aa
@@ -116,7 +116,7 @@ B|the as a part of the revamping of the entire education system on that the publ
 B|When I was brought up, if you crossed the line and you broke a rule bad enough, you were going to get spanked.|sd
 A|Right.|b
 B|Well, then the extreme came in,|sv
-B|and now we can no longer,spank them,|sv
+B|and now we can no longer, spank them,|sv
 A|Right.|b
 B|so we now isolate them.|sv
 A|Yep.|b
@@ -125,7 +125,7 @@ B|Okay,|b
 B|we've swung the pendulum both ways.|sv
 B|Let's find a middle ground.|sv
 B|Instead of, there has to be some sort of discipline,|sv
-B|and there has to be some sort of punishment.Short of physically isolating the child, and short of physically hitting the child.|sv
+B|and there has to be some sort of punishment. Short of physically isolating the child, and short of physically hitting the child.|sv
 A|Right.|b
 A|Well,|%
 B|Let's put him into a situation where, okay, you crossed the line, you broke the rule, you're going to have to pay for it.|sv

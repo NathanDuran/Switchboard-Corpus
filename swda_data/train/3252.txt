@@ -22,14 +22,14 @@ A|Do you have a pet now?|qy
 B|Yeah,|ny
 B|I have a cat now.|sd
 B|He just turned seven, also,|sd
-B|and he's, I, um, got him in Arizonaand, when I used to live there,|sd
+B|and he's, I, um, got him in Arizona and, when I used to live there,|sd
 A|Oh.|%
 B|and he is huge.|sd
 B|He is eighteen pounds.|sd
 A|What kind of cat is it?|qw
 B|Just,|%
 B|um, I got him,|sd
-B|he was, um, he was born in the wild, like in a, in a shedand had never been in a building when I got him.|sd
+B|he was, um, he was born in the wild, like in a, in a shed and had never been in a building when I got him.|sd
 A|Uh-huh.|b
 B|So he,|%
 B|and he's, he, he must be part, cross part with some kind of desert animal, because he's very long and lanky,|sd
@@ -46,7 +46,7 @@ B|So, but he's really big,|sd
 B|so, lots of times he, it, he seems to get in fights,|sd
 B|and when he was younger I think he started them,|sd
 B|and now, I think he barely makes it.|sd
-B|I think he gets beat up even though he's big, because he'scomes home with a few scratches now and then,pretty much overweight, and|sd
+B|I think he gets beat up even though he's big, because he's pretty much overweight, and comes home with a few scratches now and then,|sd
 A|Sure.|b
 A|And older|^2
 B|yeah.|b
@@ -63,7 +63,7 @@ B|yeah,|aa
 B|I have seen them.|sd
 B|They, um, weren't they, they were|%
 B|actually, I can't remember,|sd
-B|they were used to be used on ships and in, for, for mousersyou know,|sd
+B|they were used to be used on ships and in, for, for mousers you know,|sd
 A|Oh.|b
 B|so they're very nautical, too|sd
 A|I'll be darned.|ba

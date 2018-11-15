@@ -50,9 +50,9 @@ B|Uh-huh.|b
 A|I think that, uh, I think that, uh, uh,|sv
 A|if, uh,|%
 A|I, I, I heard a story a while back|sd
-A|something to the effect that if they could just pay to get twenty percent, or, take all the cars off the road that have been, uh, manufactured say before nineteen seventy-five,that they could cut the automobile pollution by over fifty percent just by getting rid of those cars that are still left remaining.|sd
+A|something to the effect that if they could just pay to get twenty percent, or, take all the cars off the road that have been, uh, manufactured say before nineteen seventy-five, that they could cut the automobile pollution by over fifty percent just by getting rid of those cars that are still left remaining.|sd
 B|Uh-huh.|b
-B|You mean, uh, fifty percent pollution totalfrom that comes from,|qy
+B|You mean, uh, fifty percent pollution total from that comes from,|qy
 A|Yeah.|ny
 A|From, from cars|^2
 A|that is, not, not total but just from cars,|sd
@@ -142,7 +142,7 @@ A|and she spot checks people's trash.|sd
 B|No kidding,|ba
 B|really,|b
 B|oh.|b
-A|And if they find a bottle or a can or anything like that in your trash,they'll fine you fifty bucks I think the first time and two fifty the second time.|sd
+A|And if they find a bottle or a can or anything like that in your trash, they'll fine you fifty bucks I think the first time and two fifty the second time.|sd
 B|Is that right.|bh
 B|Well, we need to do something,|sv
 B|we need to get serious about it.|sv
@@ -249,7 +249,7 @@ B|and, uh,|%
 A|Uh-huh.|b
 B|if you don't get it tested you don't necessarily know what you're, what you're drinking|sd
 B|and I, I know a lot of people, you know, have that|sd
-B|and, you know, you have to wonder if that, you know could have an adverse affect on them too,if they don't, they don't get it checked.|sv
+B|and, you know, you have to wonder if that, you know could have an adverse affect on them too, if they don't, they don't get it checked.|sv
 A|Yeah.|b
 A|Yeah,|b
 A|I'm absolutely for drinking water out of wells as long as you first of course, have it checked|sd

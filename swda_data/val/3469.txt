@@ -2,12 +2,12 @@ A|Okay.|fo_o_fw_"_by_bc
 A|What do you think about it?|qo
 B|Uh, well, immigration,|sd
 B|I know they're really strict right now because my husband is from out of the country|sd
-B|and, uh, we had to go through a whole, very long process to, uh, to, assure the government that he was, uh, marrying meand not to be a resident here.|sd
+B|and, uh, we had to go through a whole, very long process to, uh, to, assure the government that he was, uh, marrying me and not to be a resident here.|sd
 A|Uh-huh.|b
 A|That's|sv
 A|yeah,|b
 A|I think that's, uh, I think it's a little crazy.|sv
-A|I worked with Spanish peoplefor about two years|sd
+A|I worked with Spanish people for about two years|sd
 B|Uh-huh.|b
 A|and just, it was incredible to me to see the things that they had to go through when they were really some of the best workers.|sv
 B|Yeah,|aa
@@ -22,7 +22,7 @@ B|Not a good, not a good easy way to get in.|sv
 A|Yeah,|b
 A|I think, you know, I think in a lot of ways the law is good because it tries to, to protect, you know, the people who are in the states.|sv
 B|Exactly.|aa
-B|My mother, uh, actually knew a woman in another state that used to marry menjust,|sd
+B|My mother, uh, actually knew a woman in another state that used to marry men just,|sd
 A|Uh-huh.|b
 B|she'd never even meet them|sd
 B|and she'd just get money for it.|sd
@@ -33,7 +33,7 @@ A|Sounds like a lot of fun.|sv
 A|Yeah,|%
 A|it's amazing to me how, how many things they would allow to occur before, you know, you can come in.|sv
 B|Exactly.|aa
-B|But, I mean, with the new laws, it'sit's tough now.|sv
+B|But, I mean, with the new laws, it's it's tough now.|sv
 A|Right.|b
 A|Yeah,|b
 A|it's kind of frustrating, too, for those who are legitimate now.|sv
@@ -51,7 +51,7 @@ B|I agree.|aa
 A|And I just,|%
 A|I don't know,|h
 A|I have, personally I have a problem with it,|sd
-A|I think, that, you know, if someone wants to come in and they can prove that they're going to work and they're going to be a good citizen thatwe shouldn't close our door.|sv
+A|I think, that, you know, if someone wants to come in and they can prove that they're going to work and they're going to be a good citizen that we shouldn't close our door.|sv
 B|Exactly.|aa
 B|If they're not going to be on welfare or, or, or whatever.|sv
 B|They're going to be a productive citizen Zen.|sv
@@ -65,7 +65,7 @@ A|and that's, that's what I think.|sv
 A|You know, I, I have to laugh|sd
 A|because, like I said, I worked with a lot of those|sd
 A|and they'd been deported two or three times|sd
-A|and just basically what they do is they get caught when they wanted to go home for Christmas.Or for any other time.|sd
+A|and just basically what they do is they get caught when they wanted to go home for Christmas. Or for any other time.|sd
 B|That's right,|sv
 B|that's our money.|sv
 B|Yes,|aa
@@ -76,7 +76,7 @@ A|but, but there could be some work done in the area.|sv
 B|I, I think|%
 B|I, I agree.|aa
 A|Well good|ba
-A|Anyway, do you have anything else in the, the subject, uhthat you might want to talk about?|qy
+A|Anyway, do you have anything else in the, the subject, uh that you might want to talk about?|qy
 B|Uh, I, uh,|%
 B|boy|ba
 B|this is spur of the moment, uh,|h
@@ -89,7 +89,7 @@ A|because if you, if you have connections, it's a lot easier to get in.|sv
 B|Exactly.|aa
 B|Connections and money.|^2
 A|Yeah,|aa
-A|and I think, you know, it should be more of a thing that's based upon someone's intent, you know.And that it should be equal to all|sv
+A|and I think, you know, it should be more of a thing that's based upon someone's intent, you know. And that it should be equal to all|sv
 B|Yeah.|b
 A|and then not like the United States,|sv
 A|basically, it's not who you know,|sv
@@ -100,7 +100,7 @@ B|Yeah|b
 B|Well, we got him past that,|sd
 B|but, uh,|%
 A|Well, great.|ba
-B|I know there's a lot of other people out there,would probably do a good job here.|sv
+B|I know there's a lot of other people out there, would probably do a good job here.|sv
 A|Yep.|b
 A|Well, let's see,|^h
 A|is there anything I believe in|qy
@@ -112,7 +112,7 @@ A|but, I've enjoyed it.|sd
 A|It's good hearing your, your point of view|sd
 A|and I think that's neat.|sv
 A|I think we agree a lot on that|sv
-A|andI've learned something from it.|sd
+A|and I've learned something from it.|sd
 B|I did, too.|aa
 B|Well, it was nice talking to you.|fc
 A|Well, thanks,|ft

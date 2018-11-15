@@ -35,7 +35,7 @@ B|she's in her late forties.|sd
 B|You were expected to stay home and take care of the kids|sd
 B|and I've never faced that at all.|sd
 A|Uh, no,|aa
-A|I think now, you go to work when they're six weeks old,you know,|sv
+A|I think now, you go to work when they're six weeks old, you know,|sv
 B|Uh-huh.|b
 A|and you stay there.|sv
 A|And I feel like the next generation, you'll probably just work right along with your husband, you know.|sv
@@ -53,7 +53,7 @@ B|And I know at least in the medical field, it seems like they've come out with 
 A|Uh-huh.|b
 B|I don't think that men really took the time to work on that sort of thing.|sv
 A|Yeah,|b
-A|even in Washington, you know,there seems to be a lot more women involved.|sv
+A|even in Washington, you know, there seems to be a lot more women involved.|sv
 B|Yeah.|b
 B|Hopefully, the next generation, it won't even be an issue,|sv
 B|I mean people will just look at you as a person and not as a man or a woman,|sv
@@ -87,7 +87,7 @@ A|And then if you get it, you know then,|sv
 B|Uh-huh,|aa
 B|also, with, uh, women in the work force they've gotten a lot more options as far as, you know, what's it called, job sharing.|sd
 A|Uh-huh.|b
-B|Like if you and another lady were to share the same full time job,or,|sd
+B|Like if you and another lady were to share the same full time job, or,|sd
 A|Oh, yeah.|b
 A|As a matter of fact, that's what I'm doing.|sd
 B|Is it.|bh
@@ -97,7 +97,7 @@ B|That would be great.|sv
 A|It sure is.|aa
 B|Or, a lot of women I know now and my, uh, one of my supervisors, when she went on L O A to have her baby, we hooked up, uh, uh, a terminal at her house|sd
 B|and she, you know, we could send her messages,|sd
-B|and, and she kept in touch like that,and basically, just worked out of her house.|sd
+B|and, and she kept in touch like that, and basically, just worked out of her house.|sd
 A|Oh.|b
 B|I would just take her the actual paperwork once, uh, every week or two,|sd
 B|and that worked out great too.|sd
@@ -128,10 +128,10 @@ A|we get the full benefits.|sd
 B|Oh, that's wonderful.|ba
 A|But we've just really got a wonderful system that we're working under.|sd
 B|Yeah,|aa
-B|especially with children, and so many things going on,that would be great.|sv
+B|especially with children, and so many things going on, that would be great.|sv
 A|Yeah.|b
 A|It really is,|sd
-A|and that way we're not really missing any thing out, you know,of children,|sd
+A|and that way we're not really missing any thing out, you know, of children,|sd
 B|Either way,|^2
 A|uh-huh.|%
 B|yeah,|aa
@@ -171,7 +171,7 @@ B|That's been real helpful too,|sd
 B|like my doctor stays open til nine in the evening.|sd
 B|So that's real helpful,|sd
 B|so you don't, you know, have to do it during office hours, run out on your lunch hour.|sd
-B|I don't know how many times I've done that to do something,post office or the bank or any kind of errand,|sd
+B|I don't know how many times I've done that to do something, post office or the bank or any kind of errand,|sd
 A|To do,|b^m
 A|yeah.|b
 B|so.|%
@@ -197,7 +197,7 @@ A|Oh, I do too.|aa
 B|but I think that's improving.|sv
 B|It's such a slow process|sv
 B|it's frustrating,|sv
-B|but,you can see that it's wrong|sv
+B|but, you can see that it's wrong|sv
 A|Yes,|b
 A|yes.|b
 B|and you just want to make it right,|sv

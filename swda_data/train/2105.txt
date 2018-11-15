@@ -23,7 +23,7 @@ A|Uh, yeah.|b
 B|But, I think they're doing better.|sv
 A|Well, I do to, uh,|aa
 A|I have boys, you know, like eight and eleven|sd
-A|and we go quite often,to watch the Rangers.|sd
+A|and we go quite often, to watch the Rangers.|sd
 B|Yeah,|b
 B|I can imagine.|ba
 B|I used to love to play baseball when I was a kid.|sd
@@ -71,7 +71,7 @@ B|Some of them are not too happy about it|sv
 B|but there, there's no hold outs.|sd
 A|Yeah,|b
 A|yeah|b
-A|at least,that should help,|sv
+A|at least, that should help,|sv
 B|So that should help.|sv
 A|it sure should.|sv
 B|Yeah,|aa
@@ -122,7 +122,7 @@ A|and, uh, that, I mean they really are.|sv
 A|Uh, now Incavalia I don't know how familiar you are with him|qy^d
 A|but, last year I was kind of thinking he sure did get in a slump.|sv
 B|Yeah.|b
-A|But they're saying this year, their predictions is that he's really going to come out of it and,be on top.|sd
+A|But they're saying this year, their predictions is that he's really going to come out of it and, be on top.|sd
 B|Uh-huh,|b
 B|yeah.|b
 B|Uh-huh,|b
@@ -153,7 +153,7 @@ A|oh you never know.|sv
 B|That's right,|aa
 B|it's a long way away.|sv
 A|That's sure|%
-A|if you offer them money, I'm sure they'll,they'll do a little bit of everything.|sv
+A|if you offer them money, I'm sure they'll, they'll do a little bit of everything.|sv
 B|That's right.|aa
 B|That's right,|aa
 B|unfortunately the Rangers don't spread it around quite as big as some of the other teams do.|sv

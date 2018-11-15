@@ -7,7 +7,7 @@ A|Oh, I'm a,|sd
 A|I play golf|sd
 A|but I don't actually play golf.|sd
 B|Well, I'm the same way.|sd
-B|I, I go out there  and hit the ball.|sd
+B|I,  I go out there  and hit the ball.|sd
 A| Yeah. |b
 A|Hack it all over the place?|bf
 B|Yeah.|aa
@@ -23,7 +23,7 @@ B|uh, uh, a friend of mine goes golfing a lot|sd
 B|and he drags me out every now and then|sd
 B|and I, uh, I don't have a, I don't really even have a game.|sd
 B|I usually|%
-B|when I go out and play golf it's usually like at a, at one of these par threes that,you know, you,|sd
+B|when I go out and play golf it's usually like at a, at one of these par threes that, you know, you,|sd
 A|Yeah.|b
 B|but, um, I like watching it on T V.|sd
 A|Yeah,|b
@@ -113,7 +113,7 @@ B|Well, it, it, it usually takes me about probably two, two or three to get it t
 B|and, and then, that's according to the hole|sd
 B|and it|%
 B|uh, uh, maybe one or two putts.|sd
-B|It's, according to  where I'm at on the green.|sd
+B|It's,  according to  where I'm at on the green.|sd
 A| Yeah. |b
 A|That's good.|ba
 B|But the friends I play with, uh, they play all the time|sd

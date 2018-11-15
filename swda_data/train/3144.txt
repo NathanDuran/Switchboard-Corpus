@@ -2,7 +2,7 @@ B|You ready?|qy
 A|Yeah.|ny
 B|Okay.|bk
 B|What have you seen lately?|qw
-A|Well, uh, it's funny, when I tried,to make the call the other days,|^h
+A|Well, uh, it's funny, when I tried, to make the call the other days,|^h
 A|I thought,|sd
 A|I hadn't seen anything since DANCES WITH WOLVES|sd
 A|but today I went to see REGARDING WITH HENRY.|sd
@@ -15,7 +15,7 @@ B|Uh-huh|b
 A|and, uh, Jeff and Deeanna went and another friend in the neighborhood,|sd
 A|and, uh, we all liked it.|sd
 A|We had both moms and, uh, fifteen year olds and a twelve year old|sd
-A|andeveryone enjoyed it.|sd
+A|and everyone enjoyed it.|sd
 B|Oh, my goodness.|ba
 A| And, uh, |%
 B| Oh, well  I am just dying to see it.|sd
@@ -24,10 +24,10 @@ B|and they said get a baby-sitter|sd
 B|and we'll all go see REGARDING HENRY|^q
 A|Yeah.|b
 B|and I said, ooh, I want to see it so bad.|sd
-A|Well, my son had gotten to see a lot of movies this summer, on, choir tour andvisiting friends and one thing and another. A lot of the ones I had wanted to see|sd
+A|Well, my son had gotten to see a lot of movies this summer, on, choir tour and visiting friends and one thing and another. A lot of the ones I had wanted to see|sd
 B|Oh.|b
 A|and so since he had this friend up from Houston, uh, and his friend had already seen so many and I thought they decided on this and I thought well, I want to see this one, too.|sd
-A|So,  we, uh, I|%
+A|So,  we, uh,  I|%
 B| Yeah. |b
 A|finally, it's my first summer movie|sd
 B|Oh my.|ba
@@ -49,15 +49,15 @@ A| Oh,  was that good?|qy
 A|Cause,|%
 B|Oh, hysterical.|sv
 B|We laughed so hard,|sd
-B|it was just, you couldn't hear half the dialogue because everyone in the audience was  laughing  so hard. |sd
+B|it was just, you couldn't hear half the dialogue because everyone in the audience was  laughing   so hard. |sd
 A| Yeah. |b
 A| Well, I want  to see that and CITY SLICKERS both. |sd
-A|I love  comedies.|sd
+A|I love   comedies.|sd
 B| Yeah |b
 A|But, that's what I was |sd
 B| that's the other one that we went to that night. |sd
 A|Oh, was it?|bh
-B|And, my face hurt so bad,because I love Billy Crystal.from laughing|sd
+B|And, my face hurt so bad, from laughing because I love Billy Crystal.|sd
 A|Oh|b
 B|And course, growing up on, on the back of a horse, you know, and being on ranches and stuff, so much of that was so true|sv
 B|and I was absolutely rolling in the aisles.|sd
@@ -68,10 +68,10 @@ A|I'm, I'm glad to hear that  because they, |sd
 B| Oh, they are,  are|aa
 B|we just laughed so hard.|sd
 B|And like I said, with CITY I mean with SOAPDISH, it is so cornball|sv
-B|and it is so overacted that you're just hystericalyou know.|sv
+B|and it is so overacted that you're just hysterical you know.|sv
 A|Uh-huh|b
-B|Just, they just carried it off,to the tee.|sv
-A|Well, I don't, I don't know if you got to see WEEKEND, um, AT BERNIE'S that  was out a couple of years ago.|qy^d
+B|Just, they just carried it off, to the tee.|sv
+A|Well, I don't, I don't know if you got to see WEEKEND, um, AT BERNIE'S  that  was out a couple of years ago.|qy^d
 B| No. |nn
 A|They had a free showing at the Berkeley, um, United Artist.|sd
 B|How neat.|ba
@@ -95,7 +95,7 @@ A|Um, cause it's, it's just a fun summer light comedy,|sv
 A|make your cheeks hurt laughing.|sv
 A|Especially in the theater it was contagious, you know|sd
 B|Yeah.|b
-A|I, I imagine the way SOAPDISH was, but,  with  everyone laughing. |sv
+A|I, I imagine the way SOAPDISH was, but,  with   everyone laughing. |sv
 B| Oh gosh |ba
 B| I never laughed. |sd
 B|And people were just screaming and applauding|sd
@@ -127,7 +127,7 @@ B|I just can't get over this.|^q
 B|He says, in two weeks you can go back to doing your crazy normal things.|sd
 B|If you want to play ball, you can go play ball.|^q
 B|He says, now I'm not going to say you're going to feel like playing ball|sd
-B|but you canif you want to.|^q
+B|but you can if you want to.|^q
 A|Yeah|b
 B|And, uh, you know, he was teasing me|sd
 B|and he says, yeah,|sd
@@ -158,27 +158,27 @@ A|Uh, and that's what he would have liked to have seen REGARDING HENRY, too,|sd
 A|but knew that, uh,|%
 A|we've, we've got a lot of company this summer, which is wonderful.|sv
 A|We're really enjoying it|sd
-A|but some of the different things we're doing, uh there's  just not a time, enough time to do it all|sd
+A|but some of the different things we're doing, uh  there's  just not a time, enough time to do it all|sd
 B| Uh-huh. |b
-A|and he said, well, realistically You know, he  knew he couldn't get them all in.|sd
+A|and he said, well, realistically  You know, he  knew he couldn't get them all in.|sd
 B| Yeah. |b
 A|But, uh, Jay really liked ROBIN HOOD.|sd
 A|Um, when the choir group went to see BACKDRAFT and they thought that was, uh, it was funny cause he sounded like the critics.|sd
 A|He said, you know the plot line and the characters, uh, you know aren't real big|sd
-A|but the, the fire scenes and the  you know that action part is fantastic.|sd
+A|but the, the fire scenes and the  you know  that action part is fantastic.|sd
 B| Uh-huh. |b
 A|But, he thought ROBIN HOOD was great.|sd
 A|It was real different then you'd expect, |sv
-A|but but he enjoyed it|sd
+A|but  but he enjoyed it|sd
 B| Oh  really?|bh
 A|and  so, |%
 B| Well I went, |sd
 B|course I am a Kevin Costner fan.|sd
 A|Yeah,|b
 A|me too.|sd
-A| And yeah,|b
+A| And  yeah,|b
 B| Supreme. |sd
-A|I really, uh, like him a lot. Which is why, DANCES WITH WOLVES was the last movie we had  seen  for several months|sd
+A|I really, uh, like him a lot. Which is why, DANCES WITH WOLVES was the last movie we had  seen   for several months|sd
 B| Uh-huh. |b
 A|but, |%
 B| Gosh, was that wonderful. |sv

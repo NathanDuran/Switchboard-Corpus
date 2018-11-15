@@ -72,7 +72,7 @@ A|Yeah,|b
 A|well, I mean, with Detroit, I mean, they can get away with one guy like that.|sd
 A|I mean, if I, if I were in Detroit, I would start building the team around Fielder.|sd
 B|Oh, yeah.|b
-A|But that doesn't mean get three other guys who hit, all they can do is hit home runs and strike outyou know, which they did.|sd
+A|But that doesn't mean get three other guys who hit, all they can do is hit home runs and strike out you know, which they did.|sd
 B|Right.|b
 B|Yep.|b
 A|So.|%
@@ -83,7 +83,7 @@ A|I, I like them a lot.|sd
 A|I think they're going to go all the way.|sd
 A|Um, and, and, I mean, by saying I like them, I like their chances.|sd
 A|I, I actually don't like the Dodgers,|sd
-A|I'm a Giants fanfrom way back.|sd
+A|I'm a Giants fan from way back.|sd
 B|Right,|b
 B|right.|b
 B|Well, picking up Darrell Strawberry didn't hurt.|sd
@@ -138,7 +138,7 @@ A|I mean, I've been to like thirty or forty games each of the last few years.|sd
 B|Wow.|ba
 A|Yeah,|b
 A|hope I'm going to do it this year because, um, uh, having a kid this fall,|sd
-A|so it's likeso much for going to lots of baseball games.|sd
+A|so it's like so much for going to lots of baseball games.|sd
 B|All right.|ba
 B|So, so do it while you can.|sd
 A|Yeah,|b

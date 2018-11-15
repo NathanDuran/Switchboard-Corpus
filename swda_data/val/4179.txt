@@ -1,5 +1,5 @@
 A|A, uh, Golden Retriever.|sd
-B|Ooh, that'sone of my favorite kinds of dogs.|sd
+B|Ooh, that's one of my favorite kinds of dogs.|sd
 A|Yeah.|b
 A|Is it really?|bh
 B|How long have you had it?|qw
@@ -30,7 +30,7 @@ A|It's, uh, just me and my wife|sd
 A|and, uh, he's kind of our temporary substitute for having kids.|sd
 A|We treat him like our kid right now so he's spoiled rotten.|sd
 B|Yeah,|b
-B|I canunderstand that|sd
+B|I can understand that|sd
 A|Because I,|%
 A|Get away with that a little bit more with pets than you can with kids|sv
 B|Uh-huh.|b
@@ -79,13 +79,13 @@ A|although our next door neighbors have a dog, too|sd
 A|and, uh, she, she is good friends with my dog.|sd
 B|Oh, yeah?|bh
 A|And so he often gets to smelling her scent and will go over there to sniff around and stuff|sd
-A|but,he's pretty good.|sd
+A|but, he's pretty good.|sd
 A|He stays out of the street|sd
 A|and, uh, if I catch him I call him|sd
 A|and he comes back.|sd
-A|So he, he's pretty good about taking to commands andand things.|sd
+A|So he, he's pretty good about taking to commands and and things.|sd
 B|Um.|b
-B|Did you bring him to a doggy obedience school ortrain him on your ownjust|qy
+B|Did you bring him to a doggy obedience school or just train him on your own|qy
 A|No|nn
 A|we never did.|sd
 B|and,|%
@@ -96,9 +96,9 @@ A|We've had kid, or we've had dogs when I was a kid,|sd
 A|but this, this is the first one that I, uh, took in,|sd
 A|so I wasn't sure if I'd be able to get it all right the first time,|sd
 A|but, uh, he, he seems to have picked it up pretty well.|sv
-A|Inever really to hit him or anything.|sd
+A|I never really to hit him or anything.|sd
 B|Uh-huh.|b
-A|Just, you knowsorts of things.firm tone of voice and those|sd
+A|Just, you know firm tone of voice and those sorts of things.|sd
 B|Huh.|b
 B|Really?|bh
 A|I, I see other people out there|sd
@@ -110,10 +110,10 @@ A|Invisible fencing,|sd
 A|have you heard of that?|qy
 B|No,|nn
 B|what is that?|qw
-A|It's, uh, it's a system you can put in your yard where you bury these little, uh, transducers or emitters in your yardat the perimeter|sd
+A|It's, uh, it's a system you can put in your yard where you bury these little, uh, transducers or emitters in your yard at the perimeter|sd
 B|Oh.|b
 A|and then they wear a collar with a special little attachment on it|sd
-A|and if they get too close to that perimeter, itit zaps them.|sd
+A|and if they get too close to that perimeter, it it zaps them.|sd
 B|Oh.|b
 B|Boy.|ba
 A|Yeah|b
@@ -126,15 +126,15 @@ A|and he walked out to the perimeter.|sd
 A|He said it was a good jolt.|sd
 B|Oh, really?|bh
 A|Yeah,|ny
-A|and so, I, I don't take too well to, to thosesorts of training techniques.|sv
+A|and so, I, I don't take too well to, to those sorts of training techniques.|sv
 B|Um.|b
 A|I don't think they're always necessary.|sv
 A|If you put enough patience into,|sv
 B|Yeah,|aa
-B|just be consistent and diligentwith it|bf
+B|just be consistent and diligent with it|bf
 A|Uh-huh.|aa
 B|and, um,|%
-A|It's, uh, is your cat an indoor cat or anoutdoor cat?|qy
+A|It's, uh, is your cat an indoor cat or an outdoor cat?|qy
 B|Yeah|ny
 B|he's indoor and all declawed because I know the, uh, average life span of an outdoor cat is eighteen months.|sd
 A|Somebody just told me that|sd
@@ -150,6 +150,6 @@ B|Yeah.|aa
 A|What, uh, what kind of climate do you have?|qw
 B|Well, uh, it's, we just moved recently|sd
 B|so now we're in the, uh, Dallas area|sd
-B|and it's veryvery nice|sd
+B|and it's very very nice|sd
 A|Oh.|b
 B|and,|%

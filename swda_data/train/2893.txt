@@ -9,7 +9,7 @@ B|Okay,|bk
 B|I love to ride a bicycle.|sd
 A|I live right near White Rock Lake,|sd
 A|so I used to, I try to ride, about ten to twenty miles a day.|sd
-A|But, Ihaven't been doing so well this year,|sd
+A|But, I haven't been doing so well this year,|sd
 B|Oh, that's good.|ba
 A|but,|%
 B|I went an, last year I went an was exercising on a bike for a while|sd
@@ -63,7 +63,7 @@ B|I guess it's a task 'cause I can't make myself do it lately.|sd
 A|Yeah,|bk
 A|I think I, uh, I enjoy it sometimes|sd
 A|and there's other times when I just get tired of it|sd
-A|and,and I feel like I'm obligated to do it, because I've been doing it|sd
+A|and, and I feel like I'm obligated to do it, because I've been doing it|sd
 B|Yeah.|b
 A|so I should keep up.|sd
 B|You don't want to lose yourself.|sv
@@ -179,7 +179,7 @@ A|Right.|b
 B|He can eat like a horse, too.|sd
 B|And he don't, you know, he don't gain it like I do.|sd
 B|But, uh,|%
-A|Uh, especially having a kid, I guess, tends to just gain weight because you have to, to,to, uh,|sv
+A|Uh, especially having a kid, I guess, tends to just gain weight because you have to, to, to, uh,|sv
 B|Yeah,|aa
 B|you have to.|sd
 B|Well you can gain too much weight.|sv
@@ -203,15 +203,15 @@ A|some people are a little bit fanatical about it.|sv
 A|You know, I,|%
 B|About weight?|br
 A|Well yeah,|ny
-A|and about,working out and fitness, you know,|sd
+A|and about, working out and fitness, you know,|sd
 B|Exercise.|^2
 A|I like to, to work out to look good and stay in shape|sd
 A|and, you know, I know it's good for me,|sd
-A|but people that live for it and, you know, eat a bunch of different pills, and,all that kind of stuff, it gets a little bit obsessive.|sv
+A|but people that live for it and, you know, eat a bunch of different pills, and, all that kind of stuff, it gets a little bit obsessive.|sv
 B|Well that's what my friend did.|sd
 B|Well, she was, she was with the wheat germ and all the vitamins and everything else|sd
 B|and really, we was, you know,|%
-B|even with her taking all those expensive vitamins and stuff,you know, developing and everything.we stayed right on the same track with each other,|sd
+B|even with her taking all those expensive vitamins and stuff, we stayed right on the same track with each other, you know, developing and everything.|sd
 A|Yeah.|b
 A|Yeah.|b
 B|Now there,|%
@@ -240,7 +240,7 @@ A|Yeah,|b
 A|I had a friend whose brother did steroids|sd
 A|and as soon as he stopped working out he just ballooned out.|sd
 A|It all turned to fat|sd
-A|and he just,really looked bad.|sd
+A|and he just, really looked bad.|sd
 B|Really.|bh
 B|Ugh.|ba
 A|But, uh,|%
@@ -254,7 +254,7 @@ B|but I've been wanting to get me a bicycle, or a bike.|sd
 B|I've been wanting to get a ten speed to ride around.|sd
 B|I'm scared to run, for dogs.|sd
 B|Course I know dogs can get you on a bike too,|sd
-B|but,seems like it,|%
+B|but, seems like it,|%
 A|Yeah.|b
 A|At least you got a chance to out run them that way.|sv
 B|Yeah|b
@@ -272,7 +272,7 @@ B|And it, it just makes stuff move down.|sv
 A|Yeah.|b
 B|And, uh, but I, I, I like jogging,|sd
 B|I don't mind that.|sd
-B|I can get out and do that,as long as it's not hot.|sd
+B|I can get out and do that, as long as it's not hot.|sd
 A|Uh, I can't.|sd
 B|If it's hot, you can't do that.|sv
 B|But in the rain, oh, I love to run in the rain,|sd
@@ -284,7 +284,7 @@ A|you can't,|sd
 A|it's dangerous.|sv
 B|You slide.|sd
 A|At least maybe some of these mountain bikes you could|sv
-A|but a regular ten speed with those skinny tires,you slide all over the place.|sd
+A|but a regular ten speed with those skinny tires, you slide all over the place.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 B|Oh, I, when I did ride my friend's bike, that one time, I had, uh, I don't know what I was trying to do.|sd

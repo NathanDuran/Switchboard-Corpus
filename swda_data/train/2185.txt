@@ -61,7 +61,7 @@ B|we're just using latex,|sd
 B|and it's not too bad to get it off once it's dried even.|sd
 B|It, it, it, uh, comes off with like a mild abrasive pad, like a scotch-brite pad or something like that and and soap and water.|sd
 B|So, we got pretty lucky on that.|sd
-A|And it's not scratching your floor,because it's so thick.|qy^d
+A|And it's not scratching your floor, because it's so thick.|qy^d
 B|No,|nn
 B|not really.|ng
 A|Oh, that's pretty good.|ba
@@ -91,7 +91,7 @@ A|That was horrendous.|sd
 A|I mean, I, I couldn't stand the back side going up that high on the ladder.|sd
 A|I could get up on the roof and do that.|sd
 B|Yeah.|b
-A|But,I dread that the next time.|sd
+A|But, I dread that the next time.|sd
 B|Yeah,|b
 B|I, uh,|%
 B|Yeah,|aa
@@ -101,7 +101,7 @@ B|But I've, I, I grew up on a farm,|sd
 B|so I, I've, I've messed with outdoor painting a little bit, uh,|sd
 B|but most of that, it was done with a sprayer and, uh, up in the bucket of a loader tractor, or something like that,|sd
 B|so, it took a lot of the hassle out.|sd
-B|And thenthey're,|%
+B|And then they're,|%
 A|Uh-huh.|b
 B|we're not, you know, you're not nearly as concerned with a barn or a grainery, or something like that as you would be with your own house.|sd
 A|No,|aa
@@ -206,7 +206,7 @@ B|In fact, we were, we were planting flowers this weekend|sd
 B|So, uh, I was pretty tied up,|sd
 B|but.|%
 A|Yeah,|b
-A|well, I've never tried any other kinds of painting besides on a surface like the houselike to paint a picture or anything.|sd
+A|well, I've never tried any other kinds of painting besides on a surface like the house like to paint a picture or anything.|sd
 B|Uh-huh.|b
 A|I don't know,|h
 A|I can't think of anything else to say about painting.|sd
@@ -250,7 +250,7 @@ A|You don't have any carpet down in your house?|qy^d
 B|No|nn
 B|there's no carpet in the house right now.|sd
 A|See, we've got carpet,|sd
-A|and, I haven't figured out how you're supposed to paint it, on down, so that you won't see where you stopped offand still not get it on the carpet.|sd
+A|and, I haven't figured out how you're supposed to paint it, on down, so that you won't see where you stopped off and still not get it on the carpet.|sd
 B|Um,|b
 A|Because every time you move that edger then it gets the carpet into it.|sd
 B|Well, you know, um.|%

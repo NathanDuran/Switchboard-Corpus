@@ -6,8 +6,8 @@ B|Are you a hacker?|qy
 A|You bet.|na
 A|I'm fifty years old,|sd
 A|I've been a hacker,|sd
-A|I think, I think I played better golf when I was fifteen, John, thanI play right now.|sd
-B|I know I,Oh, I know I did,|sd
+A|I think, I think I played better golf when I was fifteen, John, than I play right now.|sd
+B|I know I, Oh, I know I did,|sd
 B|I know I did.|sd
 A|And, uh,|%
 B|Course, I know I watch my thirteen year old play now, you know,|sd
@@ -30,8 +30,8 @@ B|Yeah.|b
 A|That was their deal,|sd
 A|they,|%
 B|That's what it takes,|ba
-B|you, you need to play that oftento get a really good handicap .|sv
-A|But, uhI just, I just never could do it.|sd
+B|you, you need to play that often to get a really good handicap .|sv
+A|But, uh I just, I just never could do it.|sd
 A|I have a brother-in-law who is, uh, an ex-college coach and like a pro|sd
 A|and he has a very good handicap and plays good golf|sd
 A|sort of like the non golfer golfer of the family.|sd
@@ -39,12 +39,12 @@ B|Well, I went to,|sd
 B|I decided this past year that I was going to get out and start playing a lot more|sd
 B|and I, I went after it|sd
 B|and did, and I really didn't find much improvement.|sd
-B|Fact, ever time I'd start trying to correct something, it seemed like the score would *listengo, go back up,|sd
+B|Fact, ever time I'd start trying to correct something, it seemed like the score would *listen go, go back up,|sd
 A|Oh, really?|bh
 B|yeah,|ny
-B|I, Ithink I need to, uh,|sv
+B|I, I think I need to, uh,|sv
 A|Yeah.|b
-B|I probably need to take some, some more lessons, uh, more currentand, uh, and practice more often.|sv
+B|I probably need to take some, some more lessons, uh, more current and, uh, and practice more often.|sv
 A|Yeah.|b
 B|Spend more time on the,|sv
 A|I think I'm probably the same way.|sv
@@ -57,7 +57,7 @@ A|and I buy in, in Austin, Texas,|sd
 A|I go down to Austin,|sd
 A|I live in the Dallas area, but I go down to Austin and go with my good customer and friend of mine|sd
 B|Uh-huh.|b
-A|and we always buy this weekend at a, at a country club in the hill country.You know, at, uh, Horseshoe Bay.|sd
+A|and we always buy this weekend at a, at a country club in the hill country. You know, at, uh, Horseshoe Bay.|sd
 B|Oh, yeah.|b
 B|Oh, yeah,|aa
 B|I'm familiar with it.|sd
@@ -121,7 +121,7 @@ A|And, uh, I still remember that watching myself and my son|sd
 A|so, but I think the key is you just need to, you need to play more often than I play.|sv
 B|Yeah,|b
 B|well, I, I read recently here, they say, if you're playing, if you're scoring well, you should play more.|sv
-B|If you're scoring poorly, you should spend more time on the practiceuh, range.|sv
+B|If you're scoring poorly, you should spend more time on the practice uh, range.|sv
 A|Right.|b
 B|Uh, I think there is less frustration factor there, too, uh,|sv
 A|Makes good, makes good sense.|ba
@@ -136,9 +136,9 @@ B|And, but, and his accuracy is what's so startling with it.|sd
 B|And I,|%
 B|and it, but it's an iron that he's really practiced with.|sd
 B|He has used a lot,|sd
-B|and, uh, it would be fun to get that good at awith an iron. Uh, distance iron.|sv
+B|and, uh, it would be fun to get that good at a with an iron. Uh, distance iron.|sv
 A|You bet.|ba
-A|My my challenge of the game is just, if I can get off the first tee when everyone's standing around watching you, I'd begreat after that|sd
+A|My my challenge of the game is just, if I can get off the first tee when everyone's standing around watching you, I'd be great after that|sd
 A|That, boy,|%
 A|I just,|%
 A|if I get off the tee box and I, and I've, you know, you know, anything from a hundred fifty to two hundred yard drive through a straight, I just want to get down and kiss the ground, you know|sd

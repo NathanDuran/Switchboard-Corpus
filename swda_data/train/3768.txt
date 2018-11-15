@@ -1,6 +1,6 @@
 A|Well, what kind of vacations do you like to take? .|qw
 B|Well, we've, uh, we've been fortunate enough to take a couple of trips over to Europe|sd
-B|soSo, I, I guess those are the types I like|sd
+B|so So, I, I guess those are the types I like|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|We've really enjoyed them.|sd
@@ -21,19 +21,19 @@ A|Let's see, um,|^h
 A|mostly Germany and France.|sd
 B|Uh-huh.|b
 A|I lived in France for a year and a half|sd
-A|soI was able,|%
+A|so I was able,|%
 B|Oh, how neat.|ba
 A|but, I, once when I had a chance in France to go on vacation instead of travelling around France I went to Germany|sd
 B|Uh-huh.|b
 A|because, uh, I've got relatives there|sd
-A|and I just like it there. |sd
+A|and I just  like it there. |sd
 B|Oh,  that's neat. |ba
 B|Uh-huh.|b
-A|So, but, um, Austria, I found really prettyand Switzerland,|sd
+A|So, but, um, Austria, I found really pretty and Switzerland,|sd
 B|Uh-huh.|b
 A|yeah,|%
 A|and I, I lived in the Alps in France|sd
-A|so Ianything in the mountains over there I just love.|sd
+A|so I anything in the mountains over there I just love.|sd
 B|Oh, how neat.|ba
 B|Oh, yeah.|b
 A|Then I finally made it to England, too, uh, on my way home, um,|sd
@@ -55,18 +55,18 @@ A|That's the one thing.|sv
 B|It really is.|aa
 B|It just, it's, it's,|%
 B|I love to go over there,|sd
-B|but it's so darn expensiveto go over.|sv
+B|but it's so darn expensive to go over.|sv
 A|Yeah.|b
 A|Yeah,|b
 A|actually now you can get some really good deals flying over,|sd
 A|but it's|%
 B|Yeah.|b
-A|once you're there you still have to spend moneyUnless you know people, you know|sd
+A|once you're there you still have to spend money Unless you know people, you know|sd
 B|Oh, I know,|aa
 B|just.|%
 B|Right.|aa
 B|Then you can stay with them,|sd
-B|and yeah. |%
+B|and  yeah. |%
 A|Uh-huh.|b
 A| That helps  a lot.|sv
 B|Yeah.|b
@@ -74,7 +74,7 @@ A|But.|%
 B|You know there's a lot of places in the states that we haven't even gone.|sd
 A|Uh-huh.|b
 B|You know, I'd like to go to Hawaii some time,|sd
-B|andand, uh, we made it,|%
+B|and and, uh, we made it,|%
 A|Yeah.|b
 B|we've, we've at least gone to the Grand Canyon and Niagara Falls.|sd
 B|So.|%
@@ -92,7 +92,7 @@ B| The, oh, the|%
 B| it's, oh,|%
 B|I've always wanted to go there.|sd
 B|I've seen pictures,|sd
-B|and, andit looks gorgeous.|sv
+B|and, and it looks gorgeous.|sv
 A|Yeah.|b
 B|We, um, we made a trip up the East Coast.|sd
 B|It was, uh, in the summer|sd
@@ -110,7 +110,7 @@ B|Yeah.|b
 A|I think Tennessee has been the furthest east I've been.|sd
 B|Uh-huh.|b
 A|Yeah.|b
-B|Well, you'll just have to plan a vacation some timeand, and go over there.|ad
+B|Well, you'll just have to plan a vacation some time and, and go over there.|ad
 A|Yeah,|aa
 A|I guess so.|aap_am
 B|Yeah,|b
@@ -119,7 +119,7 @@ A|Uh-huh.|b
 B|but I just love going over to Europe because it's so, their way of life is just so different than ours.|sd
 A|Yeah.|b
 B|You know, we're so fast paced here,|sv
-B|and over there, you know, every time we'd go and, and eat dinner or lunch or whatever we'd always have to ask for the checkyou know|sd
+B|and over there, you know, every time we'd go and, and eat dinner or lunch or whatever we'd always have to ask for the check you know|sd
 A|Uh-huh.|b
 A|Yeah.|b
 B|they're so leisurely over there|sv
@@ -132,7 +132,7 @@ B|Well, usually a bunch of different places.|sd
 A|Yeah,|b
 A|mainly probably because you want to see everything.|sv
 B|Right,|aa
-B|see as much asyou can while you're there.|sd
+B|see as much as you can while you're there.|sd
 A|Yeah.|b
 A|Yeah,|aa
 A|I know.|aa
@@ -144,7 +144,7 @@ A|I was working in Cameroon, Africa|sd
 B|Uh-huh.|b
 A|and it's not a, it's not a place for tourists,|sd
 A|I mean, they're not used to having tourists there,|sd
-A|soit's,|%
+A|so it's,|%
 B|Uh-huh.|b
 A|you're kind of roughing it.|sd
 A|But, um, I liked it,|sd
@@ -155,7 +155,7 @@ A|and.|%
 B|What type of work?|qw
 A|Um, I was working with an organization that does Bible translation.|sd
 B|Oh, okay.|bk
-A|So I was doing linguistic work actually, travelling around, finding out about languages, anduh, what they call survey work.|sd
+A|So I was doing linguistic work actually, travelling around, finding out about languages, and uh, what they call survey work.|sd
 B|Oh, uh-huh.|b
 B|Uh-huh.|b
 A|Find out where the languages are.|sd
@@ -175,7 +175,7 @@ B|Um, but I've always thought it would be neat to go on a safari over there.|sv
 A|Yeah,|b
 A|my cousin came over while I was there,|sd
 A|and she came to Cameroon|sd
-A|and then she went over to Nairobi and took a safari aroundyou know, close to Nairobi  in Kenya. |sd
+A|and then she went over to Nairobi and took a safari around you know, close to Nairobi  in Kenya. |sd
 B|Uh-huh.|b
 B| Oh how  neat.|ba
 A|So, she'd always dreamed of doing that too.|sd

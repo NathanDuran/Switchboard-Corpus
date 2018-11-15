@@ -41,7 +41,7 @@ A|Yeah|b
 B|It drives me crazy.|sd
 B|I'm thinking, you know, everybody is sitting here screaming about, we don't want a state income tax,|sv
 B|but yet they allow the sales tax to go up and up and up and up|sv
-B|and they don't do anything about it.You know.|sv
+B|and they don't do anything about it. You know.|sv
 A|Right.|aa
 A|Where are you at?|qw
 A|What state?|qw
@@ -82,10 +82,10 @@ A|Where, what did they say to, uh,|%
 A|I can't think of the scripture.|sd
 A|Render unto Caesar's what is Caesar's. *listen|^q
 B|That's right.|aa
-A|So, you know, even, even in the story where they had to pay the taxes, the disciples,and, uh, Jesus said the money in the fish's mouth or in the fisher, inside the fish.|sd
+A|So, you know, even, even in the story where they had to pay the taxes, the disciples, and, uh, Jesus said the money in the fish's mouth or in the fisher, inside the fish.|sd
 B|Yeah.|b
 A|And, uh, I thought of those two things when I was, I was holding for a long time.|sd
-B|Oh, were you really,trying to find someone at home?|qy
+B|Oh, were you really, trying to find someone at home?|qy
 A|Yeah.|ny
 A|Yeah.|ny
 B|Well, you know, um, back then what they tried to do, you know,|sd
@@ -127,7 +127,7 @@ B|Did you notice that when they passed the new simplified tax act, it seemed lik
 A|Yeah.|ny
 A|It really did.|sd
 A|I, I saw, that, too.|sd
-B|I didn't notice anything simplified about it, except that they took away the deductions,other thingsthe interest and,|sd
+B|I didn't notice anything simplified about it, except that they took away the deductions, the interest and, other things|sd
 A|Right.|b
 A|Right.|b
 A|We're looking at buying a house,|sd
@@ -150,9 +150,9 @@ A|I know I get paid twice a month, every two weeks,|sd
 B|Huh-uh.|b
 A|that's once a month.|sd
 B|Huh-uh.|b
-A|Well, I get twenty six paychecks,which would come out to be in thirteen months.|sd
+A|Well, I get twenty six paychecks, which would come out to be in thirteen months.|sd
 B|That's right.|aa
-A|So if you pay your rent or your house payment every two weeks,Instead of once a month, you'll come out paying a, uh, one month extra every year.|sv
+A|So if you pay your rent or your house payment every two weeks, Instead of once a month, you'll come out paying a, uh, one month extra every year.|sv
 B|Huh-uh.|b
 B|That's right.|aa
 A|And it will, if have you a thirty year note, it will take like seven or plus years off of your note.|sv
@@ -163,7 +163,7 @@ B|They thought their payment was automatically taken out like every other Wednes
 A|Oh, yeah.|b
 B|And that's exactly right.|aa
 B|Everyone,|%
-B|though the note is thirty years, she said it's going be paid off in twenty or twenty one years,or something like that.|sd
+B|though the note is thirty years, she said it's going be paid off in twenty or twenty one years, or something like that.|sd
 A|Right.|b
 A|Yeah.|b
 B|Just because of exactly what you said,|sd
@@ -171,10 +171,10 @@ A|Right.|b
 B|You're making one more month's payment every year.|sd
 A|And that's going on the principle,|sd
 A|it doesn't pay any interest,|sd
-B|Yeah.That's a good way to do it. *ba|b
-A|or,usually it doesn't.|sd
+B|Yeah. That's a good way to do it. *ba|b
+A|or, usually it doesn't.|sd
 A|Yeah.|b
-B|And when we bought this house, we looked at doing a fifteen year note, because it added more to the payment,but not significant amounts, you know,|sd
+B|And when we bought this house, we looked at doing a fifteen year note, because it added more to the payment, but not significant amounts, you know,|sd
 A|Huh-uh.|b
 B|it was a good payoff for being able to pay it off sooner.|sv
 A|Right.|aa
@@ -248,7 +248,7 @@ B|I, I did all of their capital and financial planning for about eight years.|sd
 A|Oh, wow.|ba
 B|And then I have been in Human Resources for the last two years|sd
 B|and I work with those same people all those nine years,|sd
-B|so,I feel kind of part of the staff .|sd
+B|so, I feel kind of part of the staff .|sd
 A|Yeah.|b
 A|Yeah.|b
 A|Yeah,|b
@@ -289,7 +289,7 @@ A|He's gotten us into a linear flow that we've never been in before.|sd
 B|Well, good.|ba
 A|That's been a real big plus.|sv
 B|Good.|ba
-A|He's broadened, our, um, the devices that we're making, too,which has made us as lot more stable.|sd
+A|He's broadened, our, um, the devices that we're making, too, which has made us as lot more stable.|sd
 B|Oh, okay.|b
 B|Well, that's good.|ba
 A|Anyway, well, it was nice to talk to you.|fc

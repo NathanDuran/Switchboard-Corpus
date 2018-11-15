@@ -93,7 +93,7 @@ A|I, I, I meant, I meant down, like, in the elementary schools.|sd
 B|Oh, in the elementary schools.|bf
 B|I don't know.|no
 B|I wouldn't think so.|sd
-B|I remembera ways back we did like conversions,|sd
+B|I remember a ways back we did like conversions,|sd
 A|I mean, I think,|%
 B|but we never actually went out and measured anything or did anything on one system.|sd
 A|Yeah,|b

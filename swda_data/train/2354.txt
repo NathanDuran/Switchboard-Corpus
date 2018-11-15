@@ -1,9 +1,9 @@
 A|Okay,|fo_o_fw_"_by_bc
-A|what kind of books do you like to read,for enjoyment?|qw
-B|Uh, mainly,or self improvement.the, the books I read are, uh, business related,|sd
+A|what kind of books do you like to read, for enjoyment?|qw
+B|Uh, mainly, the, the books I read are, uh, business related, or self improvement.|sd
 A|Uh-huh|b
 B|Um, I've got a, a, uh, small company on the side that I, that I do things with,|sd
-B|so, uh, a lot of the reading that I, I do has to do with, um, how can I, uh, do better at, at my small-time business uh, important issues such as a,business expenses and all those kind things.you know taxes and,|sd
+B|so, uh, a lot of the reading that I, I do has to do with, um, how can I, uh, do better at, at my small-time business uh, important issues such as a, you know taxes and, business expenses and all those kind things.|sd
 A|What kind of business is it?|qw
 A|Uh-huh.|b
 A|Well, that sounds that sounds fun|ba
@@ -34,7 +34,7 @@ A|I, personally, I like mostly um,|sv
 A|if I had a book of my choice, I like books, I go to the library a lot|sd
 A|and it seems like I always, I never go to the fiction section,|sd
 A|I mean that to me is just ridiculous,|sv
-A|it's like,life is to interesting to read fiction|sv
+A|it's like, life is to interesting to read fiction|sv
 B|Uh-huh.|b
 A|but I always get books like, um,|sd
 A|I like to quilt,|sd
@@ -59,7 +59,7 @@ A|I don't read the Bible as much as I should|sd
 A|but but I think I would always think that no matter what I did|sd
 A|so, but I do enjoy reading that|sd
 A|and, so pretty much we have different interests, I think, in reading,|sv
-A|like a but,and I have a neighbor with a big motorbike|sd
+A|like a but, and I have a neighbor with a big motorbike|sd
 B|Sounds like it.|aa
 A|and he likes to run down the street with it|sd
 A|and you, you can probably hear him.|qy^d
@@ -72,16 +72,16 @@ B|and I did, uh, had my own garden|sd
 B|and I did canning, all those kind of things.|sd
 B|That was when I was about, uh, ten years younger|sd
 B|and uh, I had,|%
-A|Thirty or younger,Is that what you said?|br
+A|Thirty or younger, Is that what you said?|br
 B|About ten years younger,|sd
 B|yeah.|%
 A|Oh, ten years younger,|b^m
 A|oh, that's funny.|ba
-B|And, uh, uh, the problem that I've had in the past with, uh, my children growing up and moving out of the house and, and still having three left at home,out of the five,|sv
+B|And, uh, uh, the problem that I've had in the past with, uh, my children growing up and moving out of the house and, and still having three left at home, out of the five,|sv
 A|Uh-huh.|b
 B|um, I've tried to devote more time to them and trying to get them interested in, in reading more and, and spending more time at the library|sd
 B|and it,|%
-B|I've been moderately successful,uh, with my daughter and with my son, they both have different interests in books|sd
+B|I've been moderately successful, uh, with my daughter and with my son, they both have different interests in books|sd
 A|Uh-huh.|b
 B|but, um, they, they, uh, they do read them.|sd
 B|Um, I have some books on, on health that I read all the time.|sd
@@ -119,13 +119,13 @@ A|LIFE EXTENSIONS?|br
 B|Uh, yeah,|ny
 B|he's probably about forty years old now,|sd
 A|Uh-huh.|b
-B|I saw him probably seven years ago,on Johnny Carson show|sd
+B|I saw him probably seven years ago, on Johnny Carson show|sd
 A|Uh-huh.|b
 A|Oh, really?|bh
 B|and, uh, I was pretty impressed.|sd
 B|He had a,|sd
 B|he,|%
-B|before he started out on his experiments he had a battery of tests done on his body to determine the age of each one of his organsyou know based on how well it was performing,|sd
+B|before he started out on his experiments he had a battery of tests done on his body to determine the age of each one of his organs you know based on how well it was performing,|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|and then he embarked on this, uh, vitamin treatment|sd
@@ -140,7 +140,7 @@ B|I mean, she's, you know, she appeared to me to be very petite|sv
 B|and um, she took a horse shoe and, and turned it, turned it into an S,|sd
 A|Oh, really?|bh
 B|and, uh, it was all from taking the right vitamins and things that, that give you the strength,|sv
-B|and, of course, doing Isometric exercises, uh, together they both exercised about five minutes a day,doing Isometrics rather than, you know physical strenuous exercises.|sv
+B|and, of course, doing Isometric exercises, uh, together they both exercised about five minutes a day, doing Isometrics rather than, you know physical strenuous exercises.|sv
 A|Really?|bh
 A|I know there's not any food that you can get,|sv
 A|and it's grown on good soil hardly anymore,|sv
@@ -191,14 +191,14 @@ B|It's a,|%
 A|Oh.|b
 B|I don't know if your on city water,|qy^d
 B|city water has chlorine in it,|sd
-B|chlorine,causes cancer,|sv
+B|chlorine, causes cancer,|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|they know that,|sv
 B|they've proven that.|sv
-B|Um, yet their saying well we're putting such low doses in there, that, well,you don't have to worry about dying from it.|sv
+B|Um, yet their saying well we're putting such low doses in there, that, well, you don't have to worry about dying from it.|sv
 A|Uh-huh|b
-B|The problem is that I've, that I've read books that,uh, have proven that there is a link between the ingestation of chlorine and arteriosclerosis, which is heart attack,|sv
+B|The problem is that I've, that I've read books that, uh, have proven that there is a link between the ingestation of chlorine and arteriosclerosis, which is heart attack,|sv
 A|Uh-huh|b
 A|Um.|b
 B|and if you look at the history of hear attacks, heart attacks were nonexistent prior to nineteen twenty, *typo hear heart|sv
@@ -225,7 +225,7 @@ A|they live in Grand Prairie,|sd
 A|but it's,|%
 A|they live kind of in a, the planes go right over from D F W,|sd
 A|so it's not real developed,|sd
-A|and so they have a,probably half an acre,|sd
+A|and so they have a, probably half an acre,|sd
 B|Yeah,|b
 B|I'm very familiar with the area.|sd
 A|and, yeah,|%

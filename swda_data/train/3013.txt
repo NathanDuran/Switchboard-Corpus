@@ -34,12 +34,12 @@ B|but, but it's really good.|sv
 A|Um.|%
 B|And I like that one.|sd
 A|Yeah.|b
-A|Usually when we entertain we do something really simple, because I like to visit with my company,and not be scurrying around in the kitchen,|sd
+A|Usually when we entertain we do something really simple, because I like to visit with my company, and not be scurrying around in the kitchen,|sd
 B|Yeah.|b
-A|so,a lot of times, we'll barbecue|sd
+A|so, a lot of times, we'll barbecue|sd
 B|Exactly.|b
 A|like, uh, for Memorial Day we had some friends over|sd
-A|and we just bought a brisket and marinated it overnight in one of those like Adolph's meat marinate,and put it on the smoker and cooked it.|sd
+A|and we just bought a brisket and marinated it overnight in one of those like Adolph's meat marinate, and put it on the smoker and cooked it.|sd
 B|Uh-huh.|b
 B|Oh, that sounds good.|ba
 A|And it was real good.|sd
@@ -67,12 +67,12 @@ B|Because, um, I don't know,|h
 B|I have a real thing about being hot in the, in the summertime.|sd
 A|Uh-huh.|b
 B|I guess.|b
-A|Well I think when you heat your kitchen up it really makes a big difference,in your whole house.|sv
+A|Well I think when you heat your kitchen up it really makes a big difference, in your whole house.|sv
 B|Yeah.|b
 B|Yeah,|aa
 B|I think that's right.|sv
 B|And, um, we don't entertain that often,|sd
-B|but when we do, I'm like you. I like it to be fast and easy.and not have to worry about being in the kitchen all the time.And something so that we can talk and not|sd
+B|but when we do, I'm like you. I like it to be fast and easy. And something so that we can talk and not and not have to worry about being in the kitchen all the time.|sd
 A|Uh-huh.|b
 A|Yeah.|b
 A|Most,|%
@@ -119,7 +119,7 @@ A|I don't like to come home and stand in the kitchen and spend an hour fixing so
 A|and by then it's eight thirty or nine o'clock at night,|sd
 A|so.|%
 B|Yeah.|b
-B|Well I usually start about six and, an, and cook and then eat at seven.I mean, cook at five and eat at six, rather.|sd
+B|Well I usually start about six and, an, and cook and then eat at seven. I mean, cook at five and eat at six, rather.|sd
 A|Yeah.|b
 A|Eat at six, yeah.|b^m
 B|Yeah,|b
@@ -129,7 +129,7 @@ B|Uh, yeah,|b
 B|I don't like the run in and out part.|sd
 A|Yeah.|b
 B|And I like to be able to sit down after school and have them talk with me an, and my husband about what's happened|sd
-B|and,I think I, that was ingrained in me during my family time at home.|sd
+B|and, I think I, that was ingrained in me during my family time at home.|sd
 A|Yeah,|b
 A|that's neat.|ba
 A|Uh-huh.|b
@@ -192,7 +192,7 @@ B|I like it a lot.|sd
 A|How old is he?|qw
 B|He's eleven.|sd
 A|Eleven,|b^m
-A|wow,that's good.|ba
+A|wow, that's good.|ba
 B|Uh-huh.|b
 B|Yeah,|b
 B|so|%
@@ -200,10 +200,10 @@ A|Do you cook like you cook a breakfast every morning|qy
 A|or,|%
 B|Uh, not every morning, uh,|ng
 B|mostly during the summer it's hit and miss|sd
-B|and,we usually have like, uh, cold cereal or something like that.|sd
+B|and, we usually have like, uh, cold cereal or something like that.|sd
 A|Yeah.|b
 A|Yeah.|b
-B|Um, during the during wintertime when they're in school, um, then I try to vary it so that we only eat that like a twice a, twice a week or something and then have like, when it's really cold, I even cook oatmeal,Because I like oatmeal|sd
+B|Um, during the during wintertime when they're in school, um, then I try to vary it so that we only eat that like a twice a, twice a week or something and then have like, when it's really cold, I even cook oatmeal, Because I like oatmeal|sd
 A|Uh-huh.|b
 B|and the they like it all right.|sd
 A|Yeah.|b
@@ -223,7 +223,7 @@ A|or,|%
 B|Um.|%
 A|I've never tried it.|sd
 B|It it depends.|no
-B|If you let them cook too longthen they'll turn a little bit gray.|sd
+B|If you let them cook too long then they'll turn a little bit gray.|sd
 A|Uh-huh.|b
 B|You can tell if they've gone to long because they'll turn a little bit gray|sd
 B|and they will be a little harder,|sd
@@ -239,10 +239,10 @@ A|Huh.|b
 B|Yeah,|b
 B|an, and that turns out okay.|sd
 A|Yeah.|b
-B|And it's funny 'cause if I turn them out on to a on to like a plate, for them to take what they want,they don't know I've ever done it in a microwave.|sd
+B|And it's funny 'cause if I turn them out on to a on to like a plate, for them to take what they want, they don't know I've ever done it in a microwave.|sd
 A|Uh-huh.|sd
 B|It's really funny,|sv
-B|it's very deceiving, you know, 'cause if they see it with their eyes they go, uh, I don't like want that,you know,|sd
+B|it's very deceiving, you know, 'cause if they see it with their eyes they go, uh, I don't like want that, you know,|sd
 A|Yeah|b
 B|and yet if they don't ever see it, then it's like, oh this tastes okay, you know,|sd
 B|so.|%

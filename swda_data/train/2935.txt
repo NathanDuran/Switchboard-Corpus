@@ -32,7 +32,7 @@ A|And, um, the, the peonies have been out for now about three weeks|sd
 B|Oh, wow.|ba
 A|and the roses have been blooming for two weeks,|sd
 A|and the grass is, uh, this lush green,|sd
-A|and of course I've got lots of weeds in mine because,I don't use any poison either.|sd
+A|and of course I've got lots of weeds in mine because, I don't use any poison either.|sd
 B|Yeah.|b
 A|But, um, you know, I just keep looking at,|sd
 A|and I say, Jeez, you know, this is the first year it's been so perfect.|sd
@@ -52,7 +52,7 @@ B|and you'd have to.|sd
 A|Well, that's it.|ba
 A|Last year, I think it was, you know, my peonies were, were, budding in January,|sd
 A|and, you know, there was no way that was going to make it,|sd
-A|and sure enough, you know, we had really mild weather untilI think it was May or something|sd
+A|and sure enough, you know, we had really mild weather until I think it was May or something|sd
 B|Wow.|ba
 B|Uh-huh.|b
 A|and then, you know, everything just got hit hard|sd
@@ -100,9 +100,9 @@ B|but again, it's just like the sun scorch.|sd
 A|Oh.|b
 B|We've tried them in kind of halfway in the shade and halfway in the|sd
 B|I mean it's just,|%
-B|you really, reallyhave to be prepared to water constantly during the Summer.|sv
+B|you really, really have to be prepared to water constantly during the Summer.|sv
 A|Uh-huh.|b
-B|People that have been successful out here have done this drip irrigationand installed that,|sd
+B|People that have been successful out here have done this drip irrigation and installed that,|sd
 A|Oh.|b
 B|and um, that's really what makes the most sense,|sv
 B|because you don't have to use so much water,|sv
@@ -118,7 +118,7 @@ A|Uh-huh.|b
 B|It's just too distracting right now with these little ones in our lives,|sd
 B|so maybe when I get older I'll find, uh, some joy in that|sd
 A|Well, I would assume, too,|sv
-A|I mean, you've got three or four months you're talking aboutof, of bad weather.|sv
+A|I mean, you've got three or four months you're talking about of, of bad weather.|sv
 B|Yeah.|b
 B|Yeah,|b
 B|it just gets so hot so fast here.|sd
@@ -129,7 +129,7 @@ B|So, that's one thing I miss about living up north, as I remember, um, you know
 B|It was really nice.|sd
 A|Uh-huh.|b
 B|We always had gardens when I was, uh, living in Chicago.|sd
-B|In fact, my mother once tore up our entire back yardand redid it.|sd
+B|In fact, my mother once tore up our entire back yard and redid it.|sd
 B|I'll never forget.|sd
 B|Got my stepfather to put in, uh, a waterfall and a little pond in one corner.|sd
 B|I mean, that was like the most energy invested in anything in the whole time I ever knew him|sd
@@ -157,7 +157,7 @@ A|And, you know, gardening isn't, isn't high on the list,|sv
 A|but it's not off the list.|sv
 B|Yeah,|b
 B|well, it's very therapeutic,|sv
-B|I think, really to get out there and dig in the dirt,you know.|sv
+B|I think, really to get out there and dig in the dirt, you know.|sv
 A|Uh-huh.|b
 B|They certainly enjoy that part of it|sd
 B|It's just trying to keep anything.|sd

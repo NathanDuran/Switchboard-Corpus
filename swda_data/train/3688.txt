@@ -3,8 +3,8 @@ A|do you have any pets now?|qy
 B|Well, we don't right now,|ng
 B|no.|nn
 B|We've, uh,|%
-B|I grew upwith, uh, with pets.|sd
-B|My folks and I always had a dog and a cat,birds, some, |sd
+B|I grew up with, uh, with pets.|sd
+B|My folks and I always had a dog and a cat,  some,  birds,|sd
 A| Yeah. |b
 B|but, uh, right now we don't have anything.|sd
 A|Oh, okay.|bk
@@ -12,16 +12,16 @@ A|Um,  that, |%
 B| What about  you?|qo
 A|a matter of choice, or compulsion?|qy
 B|Well, we've just, uh,|%
-B|it seems like,we've always been at a place where we'd have to go away for the summer or something|sd
-B|and, uh,  it was, never convenient to have anything.|sd
+B|it seems like, we've always been at a place where we'd have to go away for the summer or something|sd
+B|and, uh,  it was,  never convenient to have anything.|sd
 A| Yeah. |b
 B|we were thinking about getting a dog if we get into a house.|sd
 A|Yeah.|b
 B|Uh, someplace where there, you know,|sd
 B|we can take care of it and everything.|sd
-B|We've  got, some children who would just really, uh, enjoy having an animal, you know, a dog, I think|sd
+B|We've  got,  some children who would just really, uh, enjoy having an animal, you know, a dog, I think|sd
 A| Yeah. |b
-B|and,What about you all?|qo
+B|and, What about you all?|qo
 A|Yeah.|b
 A|Well, right now I'm a student,|arp_nd
 A|and campus housing does not even allow thinking about that|sd
@@ -39,7 +39,7 @@ A|our house when I, when I was growing up there was almost never, uh, at least o
 B| Uh-huh. |b
 A| It was  almost always at least one cat, sometimes, you know, like fifteen or twenty. But, uh, always cats in the house.|sd
 B|Oh, yeah.|b
-B|We,  we, enjoyed them.|sd
+B|We,  we,  enjoyed them.|sd
 A| Oh. |b
 B|We like, we like pets,|sd
 B|but, uh, you know, you've got to deal with, uh, taking care of them and, and feeding them and everything like that.|sv
@@ -77,7 +77,7 @@ B|Uh-huh.|ny
 A|Okay,|bk
 A|in the north end of the state, you've got that little narrow strip of West Virginia going up between Ohio and Pennsylvania|sd
 B|Uh-huh.|b
-A|Right at the base of that northern peninsulais my hometown.|sd
+A|Right at the base of that northern peninsula is my hometown.|sd
 B|Uh-huh|b
 B|Well, that's, yeah, that's interesting.|ba
 B|So it's really up north in the country, really,  . |bf
@@ -85,7 +85,7 @@ A| Yeah, |aa
 B|I guess  so. |b
 A| yeah. |aa
 A|It's,|%
-A|well, um, my parents' house is like three miles south of where the Mason-Dixon Line would have hit the Ohio River had itcontinued that far.|sd
+A|well, um, my parents' house is like three miles south of where the Mason-Dixon Line would have hit the Ohio River had it continued that far.|sd
 B|Gosh.|ba
 B|I see.|b
 A|So,|%
@@ -94,7 +94,7 @@ A|Oh, it's beautiful.|na
 B|Hills, or what?|qy
 A|Uh, well, from my neck of the woods, it's hilly.|sd
 B| Uh-huh. |b
-A| Um,  you know, uh, maybe three hundred, four hundred feet elevation,  uh, type variations from the valleys up to the hills, the hilltops.|sd
+A| Um,  you know, uh, maybe three hundred, four hundred feet elevation,  uh,  type variations from the valleys up to the hills, the hilltops.|sd
 B| Uh-huh |b
 B|Is it farmland?|qy
 A|Um, not a lot of farmland there.|ng
@@ -122,7 +122,7 @@ B|I hope that works out well.|sd
 A|Yeah,|b
 A|it's a big change.|sd
 B|Yeah.|b
-A| I spent, twenty years as a mechanic|sd
+A| I spent,  twenty years as a mechanic|sd
 B| What's, |%
 A|so,|%
 B|Oh, did you?|bh
@@ -143,7 +143,7 @@ A|Uh, it seems to me, from what I've been able to find out.|na
 B| Yeah,|b
 B|good. |ba
 A| That's  considered a pretty good program.|sd
-A|It's nice and small, which means, you know, if you don't get the class this semester, then you've got to wait or three or four you know, anywhere from two to four semesters to  get, it again.|sv
+A|It's nice and small, which means, you know, if you don't get the class this semester, then you've got to wait or three or four you know, anywhere from two to four semesters to  get,  it again.|sv
 B| Huh |b
 A|But, uh, it's worth it once you get it.|sv
 B|Well, yes,|aa
@@ -164,7 +164,7 @@ B|Uh-huh.|b
 A|Um, our last, we've, we've had a couple of cats before we moved on campus.|sd
 B|Uh-huh.|b
 A|Uh, had a hamster or two,|sd
-A|and they,  they got, to be a lot of fun.|sd
+A|and they,  they got,  to be a lot of fun.|sd
 B| A hamster. |b
 B|Oh, yeah.|b
 A|Uh, it's amazing how much character,|sv

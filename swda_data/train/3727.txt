@@ -71,7 +71,7 @@ A|a|%
 A|what they call peace group.|sd
 A|I don't know if you have gotten into that with your kids,|qy^d
 A|but that is where the, kind of,|sd
-A|well it is a program forAdvanced kids.|sd
+A|well it is a program for Advanced kids.|sd
 B|Advanced.|^2
 B|Yeah.|b
 B|Yeah.|b
@@ -96,12 +96,12 @@ B|Huh, well so does she go actually out into a different classroom with, with, u
 A|Well, uh, yes,|ny
 A|but they, well they have,|%
 A|well you probably know a peace group that, uh, that they are advanced type. That they are special, well, uh, classes for peace classes.|sd
-A|I think that, uhthis happens to be, uh, uh,|%
+A|I think that, uh this happens to be, uh, uh,|%
 B|Yeah.|b
 A|history is what their peace class is this year.|sd
 A|But, uh, so.|%
 B|Oh. Uh-huh.|b
-A|They, uh, she enjoys that kind of stuffand, uh, does well with it.|sd
+A|They, uh, she enjoys that kind of stuff and, uh, does well with it.|sd
 B|Oh, how neat.|ba
 A|So yeah.|%
 B|Challenging, huh?|qy
@@ -144,7 +144,7 @@ B|Yeah|b
 B|You would like that, huh?|qy
 A|Well, I grew up in Wisconsin,|arp_nd
 A|I, I had plenty of snow,|sd
-A|andwhen I was a kid,|sd
+A|and when I was a kid,|sd
 B|Oh.|bk
 A|and we have lived here about seventeen years,|sd
 A|but we use to take all of the kids tobogganing and ice skating, and all of that kind of stuff|sd
@@ -171,7 +171,7 @@ A|Yes.|aa
 B|You know, I get ready, that,|%
 B|come about this time of year I am kind of ready for it to start getting spring,|sd
 B|and, it is too early yet.|sd
-A|Well, you have got,You have got five months before you will see that|sd
+A|Well, you have got, You have got five months before you will see that|sd
 B|Yeah,|aa
 B|we do, we do.|aa
 B|We have had a few early springs though in the last few years.|sd

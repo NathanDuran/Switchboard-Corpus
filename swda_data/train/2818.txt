@@ -8,7 +8,7 @@ A|They,|%
 B|I think that may be the key word.|sv
 A|I think that's correct.|aa
 A|They're, uh, relatively nonexistent from, uh, from what I hear from my friends.|sd
-A|It seems like, uh, even when they have consulted day care centers that are quote unquote reputable, that are sort of like a chain, if I can use that worduh, still you have to deal with the people that, you know, happen to be operating it locally|sd
+A|It seems like, uh, even when they have consulted day care centers that are quote unquote reputable, that are sort of like a chain, if I can use that word uh, still you have to deal with the people that, you know, happen to be operating it locally|sd
 B|Right.|b
 A|and, uh, it's just a matter of, of trust, you know,|sd
 A|I think they feel that these people are, um, under qualified basically and underpaid,|sd
@@ -19,19 +19,19 @@ A|Huh-uh.|b
 B|Uh, indeed we've,|%
 B|our children are now eleven and nine.|sd
 A|Huh-uh.|b
-B|And we moved away from institutionalized child careAnd found that, uh, more creative avenues were the right answer for us.like that. Uh, by that name.if we can call those chain kind of things ,|sd
+B|And we moved away from institutionalized child care if we can call those chain kind of things , like that. Uh, by that name. And found that, uh, more creative avenues were the right answer for us.|sd
 A|Huh-uh.|b
 A|Right.|b
 A|Right.|b
 A|Huh-uh.|b
 A|Huh-uh.|b
-B|Uh, at one point in time we've had au pairs,by trading services with them,|sd
+B|Uh, at one point in time we've had au pairs, by trading services with them,|sd
 A|Huh-uh.|b
 A| Huh-uh. |b
 B| and  that worked for a while,|sd
 B|but they were really, adequate ones were really tough to find.|sd
 A|I'm sure that's true.|ba
-B|It takes that mixture of a very mature college student,and the interest to the children. who  wants to do something and yet is willing to give the time,|sd
+B|It takes that mixture of a very mature college student,  who  wants to do something and yet is willing to give the time, and the interest to the children.|sd
 A| Huh-uh. |b
 A|Right.|b
 A|Right.|b
@@ -66,13 +66,13 @@ A|so it's, uh, such a responsibility.|sd
 B|Well, it certainly is. Uh,|aa
 B|if I can the other side of the coin for a moment.|ad
 A|Huh-uh.|b
-B|It is such an honor and a thrill, that  most of the time, it's worth it. to be  a parent,|sd
+B|It is such an honor and a thrill,  to be  a parent,  that  most of the time, it's worth it.|sd
 A| Oh, yeah. |b
 A| Huh-uh. |b
 A|Yeah|b
 A|Most of the time|sv
 B|Well, I just have to be honest about it.|sd
-B|It's not always, worth it. |sd
+B|It's not always,  worth it. |sd
 A| Yeah.|b
 A|Oh, sure. |ba
 A|Sure.|b
@@ -99,7 +99,7 @@ B|Well, we were lucky when our children were that age,|sd
 B|and having lived in a community for a while and we knew the person to whom we were entrusting our children.|sd
 A|Huh-uh.|b
 A|That's a big plus .|ba
-B|And felt that, that , and  feeling of safety.|sd
+B|And felt that, that ,  and  feeling of safety.|sd
 A| Right. |b
 A|Right.|b
 B|And were leaving them small children.|sd
@@ -108,7 +108,7 @@ B|But, we also learned something from that experience as our children got older.
 A|Yeah.|b
 B|It's that care givers are not omniscient|sd
 A|Huh-uh.|b
-B|they are not all things to all peopleor all children.|sd
+B|they are not all things to all people or all children.|sd
 A|Right.|b
 A|Right.|b
 A|Right.|b
@@ -133,7 +133,7 @@ A|since they're both in school, you don't have to worry about a full-time person
 B|Oh, you don't know what happens after they get in school.|sd
 A|That's something altogether different, uh.|sv
 B|Oh, yes.|aa
-B|Now we have, uh, one takes piano lessons, somewhere  on one afternoon|sd
+B|Now we have, uh, one takes piano lessons,  somewhere  on one afternoon|sd
 A| Huh-uh. |b
 B|and the other one, of course can't do the same thing.|sd
 A|Oh, of course not.|ba
@@ -228,7 +228,7 @@ A|And so they just sort of, you know, adopted me as their eleventh child|sd
 A|so that worked out pretty well.|sd
 A|She never had to worry about taking anybody to child care because there was always somebody there older to deal with them,|sd
 A|so I guess, that's an alternative.|sd
-A|If you could just, um, have a  whole bunch|sd
+A|If you could just, um,  have a  whole bunch|sd
 B| Have enough. |^2
 A|By the time the youngest ones are there, you'll have older one to take care of them.|sd
 B|That's true.|ba
@@ -245,6 +245,6 @@ A|Huh-uh.|b
 A|Huh-uh.|b
 B|And then you don't really know what happened.|sd
 A|Yeah.|b
-B|We gave up on one baby sitter because we came home one night and found pieces of, um, ribbon,tied in a chair. Where obviously she had, had,you know, hair ribbon|sd
+B|We gave up on one baby sitter because we came home one night and found pieces of, um, ribbon, you know, hair ribbon tied in a chair. Where obviously she had, had,|sd
 A|Huh-uh.|b
 A|Huh-uh.|b

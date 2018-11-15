@@ -29,7 +29,7 @@ A|Yeah,|aa
 A|like pay, the payroll|sv
 A|and,|%
 B|Exactly,|aa
-B|and there are,lots of them on the market.|sd
+B|and there are, lots of them on the market.|sd
 A|yeah,|b
 A|basically payroll.|sd
 A|Yeah.|b
@@ -43,7 +43,7 @@ A|It's an, uh, I B M P C Junior, I think.|sd
 B|Oh, well, that's a nice computer.|ba
 A|Yeah|aa
 A|she, she, uh, she uses it now, uh, my sister, to,|sd
-A|actually, she movedbecause she needed it to do,She took it with her, *sd|sd
+A|actually, she moved She took it with her, *sd because she needed it to do,|sd
 B|Uh-huh,|b
 B|so she took it with her|bf
 B|Yeah,|b
@@ -60,15 +60,15 @@ B|and I teach writing|sd
 B|and we use the computers a great deal for word processing, you know, because students really do seem to be freer when they write on the computer, as you probably found out yourself,|sd
 A|Yeah.|b
 B|but, um, I also am sponsoring a literary magazine,|sd
-B|and we're doing our entire layout on the computer uh, because of the graphics program and a page maker program that we have,a publishing program|sd
+B|and we're doing our entire layout on the computer uh, because of the graphics program and a page maker program that we have, a publishing program|sd
 A|Oh, yeah,|b
 A|that's, that's neat,|ba
-A|that's,a very good use.|ba
+A|that's, a very good use.|ba
 B|So, it is wonderful,|sv
-B|once you get into some of the programs that are out now, you can do so much with them,that you don't do until you really make yourself use them.|sv
+B|once you get into some of the programs that are out now, you can do so much with them, that you don't do until you really make yourself use them.|sv
 A|Yeah.|b
 A|Well, I know there, there's got to be a lot of uses,|sd
-A|but it's just you have,to have a need.|sv
+A|but it's just you have, to have a need.|sv
 B|You have to make yourself do it,|sv
 B|yeah.|aa
 A|Yeah,|aa
@@ -81,7 +81,7 @@ A|and we have a powerful computer down at work.|sd
 B|Oh|b
 B|so, you don't need a personal one|bf
 A|No,|aa
-A|and I,I still really don't do that much, as you say, play games on it|sd
+A|and I, I still really don't do that much, as you say, play games on it|sd
 B|Yeah.|b
 B|Yeah,|b
 B|yeah.|b
@@ -95,8 +95,8 @@ B|Um, and I guess it,|%
 B|if you're doing that sort of thing it's really useful,|sv
 B|but, um, unless it is, I guess it's kind of a waste.|sv
 A|I know some people who just,|%
-A|they just went through a course, uh, and took the electronic grafting course,but drafting course,drafting, not grafting,|sd
-B|Oh, that's,fascinating.|ba
+A|they just went through a course, uh, and took the electronic grafting course, drafting, not grafting, but drafting course,|sd
+B|Oh, that's, fascinating.|ba
 B|Uh-huh.|b
 B|Yeah,|b
 A|the C A D.|sd
@@ -149,36 +149,36 @@ B|Um, because you can get|%
 B|because you're, they're, uh,|%
 B|the ones that were made a few years ago, uh, have come down in price significantly, um,|sd
 B|you can get them, I've seen them for five, and six hundred dollars,|sd
-B|but they 're much less, um, have much less memory, and capable,of much less.|sd
+B|but they 're much less, um, have much less memory, and capable, of much less.|sd
 A|Yeah,|aa
-A|they can't do your, um,and all of that.your drafting and your graphs,|bf
+A|they can't do your, um, your drafting and your graphs, and all of that.|bf
 B|no,|aa
 B|you can't do very much on them.|sd
 B|Right.|aa
 B|Right.|aa
 B|Um, well, it's just that you have to have, uh, you have to be able to get your program in,|sd
-B|and, and,many of the programs are so big, uh,|sd
+B|and, and, many of the programs are so big, uh,|sd
 B|they take up so much space that you don't have any place then to work.|sd
-B|You don't have any,bytes left|sd
+B|You don't have any, bytes left|sd
 A|Yeah?|bh
 B|but, um, if you, um, if, if you want to go into one that's really useful, you're going to have to go over a thousand dollars,|sd
 B|and even for a personal computer it's probably smart to spend that much,|sd
 B|and we've,|%
 B|ours is not quite that powerful,|sd
-B|and so, you know, we are, we are limited,which may be one reason why,|sd
-A|You do runyou do run into limitations on yours?|qy
+B|and so, you know, we are, we are limited, which may be one reason why,|sd
+A|You do run you do run into limitations on yours?|qy
 B|Oh, yeah,|ny
 A|Oh, wow.|ba
 B|uh-huh,|b
 B|some things we can't do,|sd
-B|but, but then we haven't needed to either,you know, um,|sd
+B|but, but then we haven't needed to either, you know, um,|sd
 A|Yeah.|b
 B|but we've been able to do what we can.|sd
 A|Wow, that's neat that you you even reach the limits of yours.|ba
 A|I haven't even begun to reach the limits,|sd
 B|No,|aa
 B|but I,|%
-B|mine is not as good as a P C, uh,uh, Junior,|sd
+B|mine is not as good as a P C, uh, uh, Junior,|sd
 A|Junior,|^2
 A|yeah.|b
 B|yeah.|b
@@ -187,7 +187,7 @@ B|ours is a Commodore One Twenty-eight.|sd
 A|Yeah.|b
 B|And it, it's not quite as, um, as useful, not quite as powerful.|sd
 A|Yeah.|b
-A|They,say that Commodore has made a good, um, P C for the price, though.|sd
+A|They, say that Commodore has made a good, um, P C for the price, though.|sd
 B|So,|%
 B|They did,|aa
 B|yeah,|aa
@@ -197,13 +197,13 @@ B|they did.|aa
 A|Very competitive.|aa
 A|I don't even, I don't even know much money my sister spent on hers,|sd
 A|but I, I just thought I, it's, it's going to be a waste,|sd
-A|she's not going to do it,not going to use it.|sd
+A|she's not going to do it, not going to use it.|sd
 A| Oh, well. |%
 B|Sounds like he, that you were right|bf
 A|Yeah.|aa
 A|Well, she likes it,|sd
 A|she gets to write her reports,|sd
-A|but like I say,she could have bought a much cheaper model and done what she wanted.|sv
+A|but like I say, she could have bought a much cheaper model and done what she wanted.|sv
 B|Yeah.|b
 B|And she could have bought a typewriter also|sv
 A|Yeah,|aa
@@ -212,7 +212,7 @@ B|Yeah,|b
 A|it's all she uses it for.|sd
 B|yeah.|b
 A|Um, I think it might have a spelling editor on it,|sd
-A|I'm not sure.Yeah. *b|sd
+A|I'm not sure. Yeah. *b|sd
 B|Yeah,|b
 B|it,|%
 B|yeah,|%
@@ -243,10 +243,10 @@ A|And I don't even have to look my, my words up anymore.|sd
 B|Yeah,|aa
 B|they're great,|ba
 B|you're right|aa
-B|Well,I guess we've spent our time.|fc
+B|Well, I guess we've spent our time.|fc
 A|Oh,|fc
 B|I need to go help my daughter do something,|fc
-B|sothis has been fun talking to you.|fc
+B|so this has been fun talking to you.|fc
 A|Okay,|fc
 A|good.|fc
 A|Okay.|fc

@@ -27,24 +27,24 @@ A|Uh-huh.|b
 A|Yeah,|b
 A|it's the,|%
 A|this,|%
-A|the car I had before this one was a Thunderbirdas a matter of fact,|sd
+A|the car I had before this one was a Thunderbird as a matter of fact,|sd
 B|Uh-huh.|b
 A|and, uh, I loved it,|sd
 A|I really did.|sd
 A|But, uh, um, I finally decided to go check out what the, uh, what the, uh, foreign cars were.|sd
-A|So I bought myself a, a, a Nissana two forty S X.|sd
+A|So I bought myself a, a, a Nissan a two forty S X.|sd
 B|Uh-huh.|b
-A|But even though I love the car I've got now, I think my next car will probably be American againbecause if I can at all do it, I'd like to stay American,|sd
+A|But even though I love the car I've got now, I think my next car will probably be American again because if I can at all do it, I'd like to stay American,|sd
 B|Uh-huh.|b
 A|I always have, up until now.|sd
 A|I just for one time decided to go outside.|sd
 A|So.|%
-B|Well, my wife drives a, still has a, a HondaAccord,|sd
+B|Well, my wife drives a, still has a, a Honda Accord,|sd
 A|Uh-huh.|b
-B|and it's a very, it's an excellent automobile.And, uh, but, you know, price and so forth,|sd
+B|and it's a very, it's an excellent automobile. And, uh, but, you know, price and so forth,|sd
 A|Uh-huh.|b
 B|I'm not a real car fan.|sd
-B|So, I, I, I do not, uh, opt for, uh, something that would be, you know, expensiveyou know,|sd
+B|So, I, I, I do not, uh, opt for, uh, something that would be, you know, expensive you know,|sd
 A|Right.|b
 B|I want, I want something that's serviceable, serviceable, something that I can use|sd
 A|Uh-huh.|b
@@ -55,11 +55,11 @@ B|and it's, you know,|%
 B|you're talking when you think about price, it's several thousand dollars lower than the comparable Honda or Nissan or something along those lines.|sd
 A|Uh-huh.|b
 B|And as I said, as far I'm concerned, it, it has been extremely, uh, uh, serviceable and everything I wanted.|sd
-A|Well, Ford's done a real good job in the last, uh, say, ten yearsor at least the last five to six years, so, of really turning around their, um, quality, I think, um.|sv
+A|Well, Ford's done a real good job in the last, uh, say, ten years or at least the last five to six years, so, of really turning around their, um, quality, I think, um.|sv
 B|Uh-huh.|b
 B|Oh, I think so too.|aa
 B|Now, I, you know,|%
-B|in travel and renting automobilesuh, in,|sd
+B|in travel and renting automobiles uh, in,|sd
 A|Uh-huh.|b
 B|I've driven, you know, Chevrolet automobiles and so and Dodge,|sd
 B|and I,|%
@@ -72,7 +72,7 @@ A|those were not good cars.|sv
 B|And, uh, I was ready to get rid of it two months after I bought it,|sd
 A|Uh-huh.|b
 B|And, uh, so I, I shopped around,|sd
-B|and I would, I probably, if I had thought I, uh, wanted to pay the amount of money, I probably would have gone with, uh, uh, an Accordor Toyota,or even a, a Civic, or something comparable from Nissan|sd
+B|and I would, I probably, if I had thought I, uh, wanted to pay the amount of money, I probably would have gone with, uh, uh, an Accord or even a, a Civic, or something comparable from Nissan or Toyota,|sd
 A|Uh-huh.|b
 A|Right.|b
 B|and, uh, but it was just,|%
@@ -97,7 +97,7 @@ B|But those are my criteria,|sd
 B|and I, I probably in another six months to a year or something will probably start looking around again,|sd
 B|and if there's something out there that, uh, is comparable to what I have now, I'll go ahead and get it.|sd
 A|Uh-huh.|b
-A|You know, the only thing I'm looking,at right now, um,|sd
+A|You know, the only thing I'm looking, at right now, um,|sd
 A|I just, I just bought, you know, the Nissan that I've got about, uh, say, nine months ago,|sd
 A|I guess it was|%
 A|So the only thing that, that would get me to change cars right now would be if,|sd
@@ -105,7 +105,7 @@ A|see, at the moment I'm single,|sd
 A|and if I were to get married and have a family that would have to have something to do with it.|sd
 A|But, uh, I don't have any plans for probably another two, three years of even looking, you know.|sd
 B|Uh-huh.|b
-A|Uh, cars are too expensive right now to, uhto even think about buying new cars every couple of years, you know|sv
+A|Uh, cars are too expensive right now to, uh to even think about buying new cars every couple of years, you know|sv
 B|I,|%
 B|yeah.|b
 A|it's|%
@@ -113,9 +113,9 @@ B|In our parking lots, uh, two or three days ago I saw one of the new Honda spor
 A|Uh-huh.|b
 B|Uh, I, I can't remember what the name is.|sd
 B|It's the thirty-five or forty thousand dollar one, whatever it is,|sd
-B|and it looked, it resembled a Mazaratti ofvery, very closely.|sd
+B|and it looked, it resembled a Mazaratti of very, very closely.|sd
 A|Um.|%
-B|And it's an absolutely beautiful automobileand well appointed and so forth,|sd
+B|And it's an absolutely beautiful automobile and well appointed and so forth,|sd
 A|Uh-huh.|b
 B|but to pay that much money for an automobile, uh, is just,|sd
 B|I can't, I can't conceive of doing that|sd
@@ -136,7 +136,7 @@ B|That's true. Well,|ba
 A|That doesn't seem likely.|sv
 B|The difference there is, too, uh, is between us is that I am not really crazy about driving.|sd
 A|Uh-huh.|b
-B|I never have been, since, you know, my parents had to force me to get my driver's license when I was youngwhen I was sixteen.|sd
+B|I never have been, since, you know, my parents had to force me to get my driver's license when I was young when I was sixteen.|sd
 A|Uh-huh.|b
 B|So I've never really cared.|sd
 B|Now, what I was, you know,|%
@@ -145,7 +145,7 @@ B|I never, it was never my own car|sd
 A|Uh-huh.|b
 B|it was always someone else's.|sd
 B|And that sort of thing I enjoy,|sd
-B|but to go out and drive, uh, never has really been, had any appeal to mein that regard.|sd
+B|but to go out and drive, uh, never has really been, had any appeal to me in that regard.|sd
 A|Uh-huh.|b
 B|So Well I guess we've discussed that enough|sv
 B|don't you think.|qy^d

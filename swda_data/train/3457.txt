@@ -32,7 +32,7 @@ A|And it's really hard.|sv
 B|Well, with them being as young.|sv
 B|It was much, much harder when mine were young.|sv
 A|Yeah.|b
-B|And, uh, I really didn't have that much of a choice because my husband was trying to finish his, uh, college workand so forth,and his Master's degree|sd
+B|And, uh, I really didn't have that much of a choice because my husband was trying to finish his, uh, college work and his Master's degree and so forth,|sd
 A|Yeah.|b
 A|Yeah.|b
 B|and so it was a matter of somebody had to have a job.|sd
@@ -56,7 +56,7 @@ B|We,|%
 A|It's an adjustment to make, also.|sv
 B|Well, I think that, uh, we need to spend more family time together with, with children today.|sv
 B|Uh, we made a point to spend a lot of quality time|sd
-B|and the activities that we were involved in were the activities the kids wereyou know, anything like thatinvolved in, you know, like, uh, through scouting or|sd
+B|and the activities that we were involved in were the activities the kids were involved in, you know, like, uh, through scouting or you know, anything like that|sd
 A|Uh-huh.|b
 A|Yeah.|b
 B|we participated.|sd
@@ -68,16 +68,16 @@ B|when, uh, the kids were in high school, it was harder to always have supper to
 B|but we did always have breakfast together.|sd
 A|Uh-huh.|b
 B|So, we, we had supper together as much as possible,|sd
-B|but when it wasn't feasible, you know, we kind of kept a master calendarand when it wasn't feasible, well, that was understandable,|sd
+B|but when it wasn't feasible, you know, we kind of kept a master calendar and when it wasn't feasible, well, that was understandable,|sd
 A|Uh-huh.|b
-B|butuh, we've always tried to spend time to talk and, uh, have some time, together time|sd
+B|but uh, we've always tried to spend time to talk and, uh, have some time, together time|sd
 A|Yeah.|b
 B|and we sat around the table,|sd
-B|we didn't sit in front of a T V orthat kind of thing.|sd
+B|we didn't sit in front of a T V or that kind of thing.|sd
 A|Wow, that's great.|ba
 B|So I think that's been important, because we do have a close family|sd
 A|Uh-huh.|b
-B|and even though the kids are basically, uh, grown, uh, they still like to sit down at the table and us all eat together when they're here anduh, have spoken before of, they want that kind of, you know, situation for them when, you know, and their children when they marry and have children.|sd
+B|and even though the kids are basically, uh, grown, uh, they still like to sit down at the table and us all eat together when they're here and uh, have spoken before of, they want that kind of, you know, situation for them when, you know, and their children when they marry and have children.|sd
 A|Uh-huh.|b
 A|Yeah,|b
 A|kind of goes on.|sv
@@ -85,7 +85,7 @@ B|Uh-huh.|b
 A|They do what they see, you know.|sv
 B|That's right.|aa
 B|They model|aa
-B|and, with the dysfunctional families today, I'm sure, with a, as a schoolteacher also, you seeall those kinds of problems that they havewhen these families never communicate or they're dysfunctional as far as the, between, uh, oh, second families, uh, one parent families orwhat happens to these kids|qy^d
+B|and, with the dysfunctional families today, I'm sure, with a, as a schoolteacher also, you see what happens to these kids when these families never communicate or they're dysfunctional as far as the, between, uh, oh, second families, uh, one parent families or all those kinds of problems that they have|qy^d
 A|Uh-huh.|b
 A|Yeah.|b
 A|Uh-huh,|b

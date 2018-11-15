@@ -1,8 +1,8 @@
 A|Uh, advice on son or daughter going to college.|fo_o_fw_"_by_bc
 B|Right.|b
-A|Uh, that's advice that I will need in time futurefor my children, rather than one that I have, uh, personal experience with|sd
+A|Uh, that's advice that I will need in time future for my children, rather than one that I have, uh, personal experience with|sd
 B|Uh-huh.|b
-A|Uh, I suppose I would ask what the child wants to do in life and what the child hopes to, to get out of collegeand what sort of college would best meet, meet those needs.|sd
+A|Uh, I suppose I would ask what the child wants to do in life and what the child hopes to, to get out of college and what sort of college would best meet, meet those needs.|sd
 B|Uh-huh.|b
 B|Right,|b
 B|uh, let's see,|^h
@@ -13,7 +13,7 @@ B|Uh, again what, uh, how serious a person is according to, uh, uh, you know, wh
 B|Uh, let's see, uh,|^h
 B|now what was the question,|qw
 B|what, what's the criteria for picking a college?|qw
-A|What advicewould you give?|qw
+A|What advice would you give?|qw
 B|What advice.|b^m
 B|Oh, okay, uh,|bk
 A|I guess one clear-cut piece of advice is by all means visit the college campus.|sv
@@ -29,7 +29,7 @@ B|The people are different|sv
 B|and, uh, you have to be more flexible and more willing to, uh, uh, adjust to other people's mannerisms and customs or ways of doing things.|sv
 B|You know, you have to be a flexible person to be able to go all the way across country to something totally different than what you're used to. Uh,|sv
 A|Yes,|aa
-A|I'm thinkingwhat, what problems my children might have in that, uh,|^h
+A|I'm thinking what, what problems my children might have in that, uh,|^h
 B|You think so|qy
 A|but I agree with you.|aa
 B|Uh, let's see,|^h
@@ -42,13 +42,13 @@ B|if, uh, if it's something different than the one they're used to, I guess, uh,
 B|if they're used to the northern weather then the southern weather they might kind of feel like they need to go out and play all the time, not be in studying If you're in Florida or California. Uh,|sv
 B|I, I'd also advise them that, uh, if mom and dad paid for their college, that, uh, if they decided to drop a course or decided that they need another year, then they'd have to get a loan to continue.|sd
 A|Yeah.|b
-A|Well, course it, it is a big factor in having an understanding of how much parents will pay and how much has to come from other sources and your willingness, one, to, to work during the summer or, orAnd two, uh, to, to take out loans to assume, uh, debt after college.part time.|sv
+A|Well, course it, it is a big factor in having an understanding of how much parents will pay and how much has to come from other sources and your willingness, one, to, to work during the summer or, or part time. And two, uh, to, to take out loans to assume, uh, debt after college.|sv
 B|That's right.|aa
 B|There's,|%
 B|The, the responsibility of that.|sv
 B|And, uh, uh, uh, they could, they could work and earn money towards college.|sv
 B|Also if they stay within their state, you get a lot more financial aid|sv
-B|or it's a lot cheaper if you stay within your statethan if you go out of state to a private school, uh,|sv
+B|or it's a lot cheaper if you stay within your state than if you go out of state to a private school, uh,|sv
 A|Yes.|aa
 B|and, like I said, if they was willing to work, uh, in the summers and also maybe then the parents could pay a third|sv
 B|and then maybe they could take out a loan for a third depending on how expensive it is.|sv
@@ -70,18 +70,18 @@ B|I'm here.|fo_o_fw_"_by_bc
 A|Oh, yeah, uh,|b
 A|yes,|b
 A|I didn't have a car in college.|sd
-A|Ithink it's more an a burden to, to provide for.|sv
+A|I think it's more an a burden to, to provide for.|sv
 B|No.|b
 B|I think so, too.|aa
 B|I think, I think because most kids don't have a car at college, the ones that do get taken advantage of|sv
 B|and, you know, there is just, I think it's just trouble waiting to happen.|sv
 B|So I would advise they didn't, they didn't take a car|sd
-B|and, uhthey didn't take a television|sd
+B|and, uh they didn't take a television|sd
 A|Is it,|%
 B|and they didn't take a refrigerator|sd
 B|Maybe that,|%
 A|Uh, I didn't do any of those, though,|sd
-A|Ifeel less strongly about the T V and refrigerators.|sd
+A|I feel less strongly about the T V and refrigerators.|sd
 B|No,|b
 B|I, I,|%
 B|Yeah,|b

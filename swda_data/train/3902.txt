@@ -23,23 +23,23 @@ B|I have seen my family age.|sd
 A|Right.|b
 B|I have seen them in the,|sd
 B|she's been there ten years now.|sd
-B|And I have seen them age twentyin the time and, and with the expense and everything,|sd
+B|And I have seen them age twenty in the time and, and with the expense and everything,|sd
 A|Yeah.|b
 B|I I still think it is worth it if you, if you had a good nursing home|sv
 B|and they needed some quality care,|sd
-B|I wouldput someone in a nursing home.|sd
+B|I would put someone in a nursing home.|sd
 A|Right.|b
 A|My mother-in-law finally.|sd
 A|They had to make a family decision.|sd
 A|There's seven children in my husband's family|sd
 A|and fortunately four of them live in the same home town|sd
 A|and she has Alzheimer's.|sd
-A|It was getting where she was getting dangerous. I meanletting strangers in and things like this,|sd
+A|It was getting where she was getting dangerous. I mean letting strangers in and things like this,|sd
 B|Uh-huh.|b
 A|but they were very fortunate.|sv
 A|It's a small town|sd
 A|and she happens to room with one of the doctor's mothers|sd
-A|andthen she's got a lot of family there and that go and see her all of the time|sd
+A|and then she's got a lot of family there and that go and see her all of the time|sd
 B|Oh, well that's good.|ba
 A|but she really doesn't.|sd
 A|Nobody thought she would adjust,|sd
@@ -72,7 +72,7 @@ A|Where if you need help you can get it,|sd
 A|but basically people kind of have a small apartment|sd
 A|and doctors are available if they need them.|sd
 B|Uh-huh.|b
-B| I, I to that in Austin.know a lady that lives in a place similar|sd
+B| I, I  know a lady that lives in a place similar to that in Austin.|sd
 A| And allows, |%
 A|Yeah.|b
 A|Yeah.|b
@@ -82,7 +82,7 @@ A|but,|%
 B|And the bad thing about it, before you can get any kind of government help, you just practically have, well you have to be a pauper.|sv
 A|Right.|b
 B|It, it takes every penny.|sv
-B|They want you to spend every dime you havebefore the government will pay for your your care.|sv
+B|They want you to spend every dime you have before the government will pay for your your care.|sv
 A|Yeah.|b
 A|Right.|b
 B|And that's the sad part about it.|sv
@@ -103,14 +103,14 @@ B|You just have to give it, everything away.|sv
 A|Yeah.|aa
 A|It's  unfortunate. |sv
 B| I, I  work at a brokerage firm|sd
-B|and I have seen so many people that just have to gift, you know, their belongingsas much as they can each year in anticipation of having to move to a nursing home.|sd
+B|and I have seen so many people that just have to gift, you know, their belongings as much as they can each year in anticipation of having to move to a nursing home.|sd
 A|Right.|b
 A|Yeah.|b
 A|It's frightening.|sv
 A|And I guess, uh, I don't know how old you are.|sd
 A|I'm forty-six.|sd
 A|You know, we're the generation moving into this|sd
-A|and I don't know how our kids are going to take care of us.You know.|sd
+A|and I don't know how our kids are going to take care of us. You know.|sd
 B|I can't imagine.|ba
 B|I'm twenty-nine.|sd
 A|Yeah.|b
@@ -119,7 +119,7 @@ B|we don't have any children.|sd
 B|Everybody that has, has them later in life.|sd
 A|Yeah.|b
 B|So, my, my mother and my father are in their late sixties.|sd
-B|So, I mean, they're notthat far away.|sv
+B|So, I mean, they're not that far away.|sv
 A|Right.|b
 A|I also see on my generation a squeeze between looking to having to help my parents and still having to help my son because things are so rough out there job wise|sv
 A|and he's still living at home|sd
@@ -129,7 +129,7 @@ A|And so, it's kind of,|%
 A|you feel squeezed in the middle of having both generations,|sv
 A|but it, something will have to change as more and more of us get older.|sv
 A|Uh, luckily, if we could be like your grandmother, I, uh you know, I would love to live to a hundred and two if I were okay.|sd
-A| But you see these people in their seventies|sd
+A| But  you see these people in their seventies|sd
 B| It,|%
 B|but yeah. |b
 B|Most people aren't.|sv
@@ -139,5 +139,5 @@ A|That's the problem.|sv
 B|And that's the bad thing.|sv
 B|I would hate to have lived so long.|sd
 B|She lived by herself.|sd
-B|My grandfather passed away before I was born so she lived by herself up until she was ninety, ninety-one.And just did everything,|sd
+B|My grandfather passed away before I was born so she lived by herself up until she was ninety, ninety-one. And just did everything,|sd
 A|That's incredible.|ba

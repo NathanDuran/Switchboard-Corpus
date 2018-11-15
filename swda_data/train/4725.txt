@@ -9,7 +9,7 @@ B|Uh, well yeah|ny
 B|I know it's, it's a lot, you know that, uh, that I feel like, you know, just like you said, that, there's just so much that you can do yourself. That you take care of your own self that you don't need the money for|sv
 B|but they're giving it to other people that don't really need it either,|sv
 B|but yet they accept it.|sv
-A|Well, the thing of it is,  look for, uh, look for people to, uh, take care of me.if I wanted to just, uh, you know, permanently become a book reader, I guess I could just, uh, you know, uh, go on public assistance, uh, you know|sv
+A|Well, the thing of it is, if I wanted to just, uh, you know, permanently become a book reader, I guess I could just, uh, you know, uh, go on public assistance, uh, you know   look for, uh, look for people to, uh, take care of me.|sv
 B|Like so many people  do. |sv
 B|Uh-huh.|b
 A|And, uh, probably a good woman,|sv
@@ -22,13 +22,13 @@ A|But, uh, but taxes are, are very difficult kind of thing|sv
 A|and everybody really hates it.|sv
 A|It was very timely.|sv
 A|I, I, I always over pay my, my deductions|sd
-A|so I wind up with my,getting money back on my, uh, from my, uh, withholding.|sd
+A|so I wind up with my, getting money back on my, uh, from my, uh, withholding.|sd
 B|Uh-huh.|b
 A|So, uh, you know, that, that's always a smile.|sd
 A|But, of course, you know, I've, I've paid it in|sd
 A|and I should calculate it better.|sd
 B|Right|b
-B| You are you in business for yourself?|qy
+B| You  are you in business for yourself?|qy
 A|No.|nn
 A|I, I, I work for the F B I.|sd
 A|So I, I'm a federal employee.|sd
@@ -37,13 +37,13 @@ A|Yeah.|b
 A|Guess I don't sound like it huh?|qy
 B|Uh, well, I|%
 B|no|nn
-B|I think that people that work for the government are just as against taxes as, as everybody else,  you know. Unless you work for Internal Revenue|sv
+B|I think that people that work for the government are just as against taxes as, as everybody else,  you know.  Unless you work for Internal Revenue|sv
 A| Yeah,|b
 A|I belong . |%
 A|Oh I, I've got all four feet in the trough, you know, being a federal employee.|sv
 B|Yeah.|b
 A|And, and so, but, but I can understand that, uh, that, you know, the, uh, who gets benefits.|sd
-A|Like every, every time there is a, a bond issueyou know, I vote no on every one of them.|sd
+A|Like every, every time there is a, a bond issue you know, I vote no on every one of them.|sd
 B|Uh-huh.|b
 B|Right.|b
 A|I'm, I,|%
@@ -55,7 +55,7 @@ B|Yeah.|b
 A|So, you know, it's not exactly that kind of a place that, that you want to, you know, get into a tax revolt situation.|sv
 B|Right.|b
 A|But, uh, uh, the, uh, the local taxes here, I, I,|%
-A|in this particular area, uh, you know, I've, uh, I think I pay about, uh, oh thirty-five hundred for, for taxes on my four bedroom house, you know.And which is a lot of money.|sv
+A|in this particular area, uh, you know, I've, uh, I think I pay about, uh, oh thirty-five hundred for, for taxes on my four bedroom house, you know. And which is a lot of money.|sv
 B|Right.|b
 A|and, uh, and so as, as people get older and older, uh, you know, they think about retirement and that sort of thing|sv
 B|Uh-huh.|b
@@ -69,7 +69,7 @@ B|that's right.|sd
 A|You know. In, in, instead, it's, it's the taxes here|sd
 A|so.|%
 B|Yeah.|b
-A|Course I don't know whether I want to go to Bulverde or not, you knowor Seguin or someplace like that.|sv
+A|Course I don't know whether I want to go to Bulverde or not, you know or Seguin or someplace like that.|sv
 B|Yeah.|b
 B|Yeah.|b
 A|But, uh, there's certainly lots of inexpensive places where the services are poorer.|sv
@@ -82,7 +82,7 @@ B| After you retire,|bf
 B|yeah. |b
 A|It's too expensive.|sv
 B|Yeah.|b
-A|I'm going to have go out and, you know, in, you know, East Fork someplace.And, and, do my thing, you know.|sd
+A|I'm going to have go out and, you know, in, you know, East Fork someplace. And, and, do my thing, you know.|sd
 B|Right.|b
 B|My parents are in the same situation, you know.|sd
 B|They, their home is paid for|sd

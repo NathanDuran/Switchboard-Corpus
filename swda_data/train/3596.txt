@@ -17,7 +17,7 @@ B|and I've, uh,|%
 B|the weather's been terribly unusual every where I've been.|sd
 A|Oh, you do|bh
 B|Yeah.|ny
-A|so you, you, you probably go everywhereand have all sorts of weather.|qy^d
+A|so you, you, you probably go everywhere and have all sorts of weather.|qy^d
 B|Yeah.|ny
 A|I imagine it's kind of an experience also trying to land and take off in the weather.|qy^d
 B|Well, it was around here last night,|na
@@ -58,7 +58,7 @@ A|Oh, I guess so,|sv
 A|yeah.|aa
 B|Yeah,|b^m
 B|the, the air systems are reasonably calm.|sd
-B|We don't have, uh, the turbulencehave a, uh, little bit of chop,|sd
+B|We don't have, uh, the turbulence have a, uh, little bit of chop,|sd
 A|Uh-huh.|b
 B|but it's not like it is in the spring time.|sd
 A|Oh, yes.|aa
@@ -73,7 +73,7 @@ A|Lights up the whole sky and even on a, on a,|sd
 A|actually I've, I've seen it where there's not a cloud in the sky,|sd
 A|it's a cloudless night,|sd
 A|and the rain isn't falling,|sd
-A|but you can see the thunder, and, excuse me, see the lightening going horizontally across the skyand back and forth, and what a light show.|sd
+A|but you can see the thunder, and, excuse me, see the lightening going horizontally across the sky and back and forth, and what a light show.|sd
 B|Oh, yeah,|aa
 B|yeah.|aa
 B|Yeah|b
@@ -87,15 +87,15 @@ A|and that's a very arid climate, from, uh, Salt Lake City area|sd
 B|Uh-huh.|b
 A|and there's always a lot of snow.|sd
 A|In fact, where I grew up we were about an hour's drive from seven to, uh, twelve different major ski resorts,|sd
-A|and sothere was an awful lot of snow,|sd
+A|and so there was an awful lot of snow,|sd
 B|Oh.|b
-A|and because it was an arid climate, the snow was always a crisp, powder, light snowwhich made it fantastic for skiing and, and sleigh riding and everything else.|sd
+A|and because it was an arid climate, the snow was always a crisp, powder, light snow which made it fantastic for skiing and, and sleigh riding and everything else.|sd
 B|Oh, yeah.|b
 B|Oh, yeah.|b
 A|So, we had a great time.|sd
 B|Were you near, near the Park Cities area.|qy
 A|Um, yeah,|ny
-A|in, uhall those areas.and Brighton and yes,in Snowbird and Solitude and|sd
+A|in, uh in Snowbird and Solitude and and Brighton and yes, all those areas.|sd
 B|Beautiful area.|sv
 B|Uh-huh.|b
 A|So I imagine, have you skied before?|qy
@@ -104,9 +104,9 @@ B|I have not skied that area.|sd
 A|Uh-huh.|bk
 B|I've driven through it several times.|sd
 B|Uh, I skied, we skied California a bunch when we lived out there,|sd
-B|andand, uh, um, and, of course, grew, we grew up in Minnesota,|sd
+B|and and, uh, um, and, of course, grew, we grew up in Minnesota,|sd
 A|Uh-huh.|b
-B|and we do some skiing therelot of cross country skiing there.|sd
+B|and we do some skiing there lot of cross country skiing there.|sd
 A|Oh, yeah,|b
 A|Yeah,|b
 A|great.|ba
@@ -115,13 +115,13 @@ B|Well, not really,|ng
 B|I, you know,|%
 B|Minnesota's gotten just hammered with snow, um,|sd
 B|the, um, uh,|%
-B|we've gotten a fair amount of rain for this time of year alreadyI think|sd
+B|we've gotten a fair amount of rain for this time of year already I think|sd
 A|Yes.|aa
 A|Yeah.|b
 B|and, uh, I've been surprised that we haven't seen more of the temperatures that we've got today, you know, that moved in last night.|sd
 A|Yeah,|b
 A|it's been, it's been cold.|sv
-A|There was a time, though, in the, uh, middle part of November that got really cool, really, reallyunseasonably cool|sv
+A|There was a time, though, in the, uh, middle part of November that got really cool, really, really unseasonably cool|sv
 B|Yes.|aa
 B|Yes,|aa
 B|it did.|sv
@@ -139,7 +139,7 @@ B|Yeah,|%
 B|but that was very unseasonable for us down here.|sv
 A|And, uh, but, uh, I've really enjoyed the weather down here, too,|sd
 A|because, uh, two years ago we were the day after Christmas able to go out in shorts and play tennis in the nice sunny weather,|sd
-A|and it's not as severe, I should sayas the weather that I've experienced up in northern Utah.|sd
+A|and it's not as severe, I should say as the weather that I've experienced up in northern Utah.|sd
 B|Yeah.|b
 B|Oh, yeah,|aa
 B|that's, that's real true.|sv
@@ -155,10 +155,10 @@ B|no,|nn
 B|no|nn
 B|no.|nn
 A|I have a brother-in-law that lives in Minnesota|sd
-A|and they say, boy, six months out of the year it's bitter cold, andand the wind and the blowing snow and everything.|sd
+A|and they say, boy, six months out of the year it's bitter cold, and and the wind and the blowing snow and everything.|sd
 B|Oh, it is,|aa
 B|it is.|aa
 B|Well, and they've had, uh, you know,|%
-B|usually in Minnesota they get their snow in Januaryand February,|sd
+B|usually in Minnesota they get their snow in January and February,|sd
 A|Uh-huh.|b
 B|and they're up over sixty-five or|sd

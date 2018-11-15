@@ -7,10 +7,10 @@ A|Well, wonderful.|ba
 A|I am too, one hundred percent.|sd
 B|My Dad retired from the federal prison of bureaus.|sd
 A|Uh-huh.|b
-B|And I've been raised around prisonprisons all my life.|sd
+B|And I've been raised around prison prisons all my life.|sd
 A|All your life.|^2
 A|Uh-huh.|b
-B|And I believe if you don't have a punishment befitting the crime, there'snot any deterrent|sv
+B|And I believe if you don't have a punishment befitting the crime, there's not any deterrent|sv
 A|There's no deterrent.|^2
 A|That's right.|aa
 A|There's just no deterrent.|sv
@@ -30,7 +30,7 @@ B|Well, see we were under, uh, the state's prisons were under a mandate to, uh,|
 B|it was over crowded|sd
 B|and the federal came in and said, hey, you know, you have either got to build more prisons or let people go.|sd
 A|Well, that's what ours did, same thing.|sd
-B|And finally our governor at the time which who is not in office now came in and said, okay, where we draw the line is no sex offenders will be let loose.get out.or early, uhUnder early bail, you know|sd
+B|And finally our governor at the time which who is not in office now came in and said, okay, where we draw the line is no sex offenders will be let loose. Under early bail, you know or early, uh get out.|sd
 A|Uh-huh,|b
 A|uh-huh.|b
 A|Uh-huh.|b
@@ -51,10 +51,10 @@ A|You know if they've been convicted and given an appeal and they're still convi
 B|Right.|b
 B|Of course, you know, they're, they're entitled to a speedy trial.|sv
 A|That's right.|aa
-B|But then they're, they're also entitled to drag it through the courtsand years on appeals.for years and years|sv
+B|But then they're, they're also entitled to drag it through the courts for years and years and years on appeals.|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
-B|Sosomehow, you know, it doesn't really balance out too much.|sv
+B|So somehow, you know, it doesn't really balance out too much.|sv
 A|Yeah.|b
 A|That's right.|aa
 A|Somehow it just doesn't,|sv
@@ -103,9 +103,9 @@ B|I just feel like their crime and punishment|sv
 B|and if, if you don't have the punishment, you double your crime.|sv
 B|And the, you know, that is just personal feeling.|sd
 B|It's not going on facts.|h
-B|I thinkthe facts would probably back it up|sv
+B|I think the facts would probably back it up|sv
 A|It could be supportive.|^2
-A|It, it'sit's supported with facts though.|sv
+A|It, it's it's supported with facts though.|sv
 B|but,|%
 B|What?|br
 A|It could very easily be supported with facts.|sv

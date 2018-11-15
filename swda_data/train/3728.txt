@@ -20,24 +20,24 @@ A|and, uh|%
 B|Oh, uh-huh.|b
 A|there's a,|%
 A|the library has a paper.|sd
-A|And so I often drop in on a break andand read it.|sd
+A|And so I often drop in on a break and and read it.|sd
 B|Yeah.|b
 A|And I keep the radio on quite a bit when I'm home.|sd
 B|Uh-huh.|b
-A|And then I, I figure if there's big, big news, I'll hear it from my husband when he gets home or,someone else, you know.|sd
+A|And then I, I figure if there's big, big news, I'll hear it from my husband when he gets home or, someone else, you know.|sd
 B|Yeah,|b
 B|yeah.|b
 B|Now I also,|sd
 B|I get it from all over.|sd
 B|I watch the news every day,|sd
 B|and I we have a news,|sd
-B|you know, we get the newspaper, and, uhum, magazines, anything.|sd
+B|you know, we get the newspaper, and, uh um, magazines, anything.|sd
 A|Uh-huh.|b
 B|You know, I'm,|%
 B|I read a lot,|sd
 B|so I get,|%
 B|um, you know, I'm, I'm really up on, uh, current affairs.|sd
-B|I get, you knowthe news and, and everything.|sd
+B|I get, you know the news and, and everything.|sd
 A|Uh-huh.|b
 A|Yeah,|b
 A|what's your favorite news,|qw
@@ -48,7 +48,7 @@ B|no,|nn
 B|I'm not getting any news magazines|ng
 A|Uh-huh.|b
 B|but, um, you know, as, as I said, I do,|sd
-B|it's, uh, it's easy to keep up on current you knowyou know, you get a paper every day.you know, especially when you, umon|sv
+B|it's, uh, it's easy to keep up on current you know on you know, especially when you, um you know, you get a paper every day.|sv
 A|Yeah.|b
 A|Yeah,|b
 A|we've got.|%
@@ -63,7 +63,7 @@ B|Is there anything missing?|bh
 B|I, you know,|%
 A|Yeah,|aa
 A|it's kind of hard to know.|sv
-B|And I don't know, you know, what, what's, I mean, what are we supposed to, uh, compare it toyou know, I mean, the quality, uh,|sd
+B|And I don't know, you know, what, what's, I mean, what are we supposed to, uh, compare it to you know, I mean, the quality, uh,|sd
 A|Uh-huh.|b
 B|whatever they tell you,|sv
 B|you know, I, uh, I guess I, I, you know, I'm satisfied.|sd
@@ -82,7 +82,7 @@ A|I don't ever hear it in the news here.|sd
 B| Oh. |b
 A|  Um.|%
 B|Well, uh, sometimes it's such a,|%
-B|you know, it's, it's so, um, slight, you know likepaper.the tremors are so slight that they don't even bother putting it in the|sv
+B|you know, it's, it's so, um, slight, you know like the tremors are so slight that they don't even bother putting it in the paper.|sv
 A|Yeah.|b
 A|Yeah.|b
 B|But most of the the times I find that even if there are, you know, they do have like tremors out there, you know, there'll be a small article in the paper about it.|sd
@@ -91,8 +91,8 @@ B|But, uh.|%
 A|yeah,|b
 A|yeah.|b
 A|I sometimes feel like, um, the Dallas paper and the DALLAS NEWS, um, the top headlines are always a murder, you know.|sv
-B|Oh, well. That's what sells papers. |sv
-A|That that's because there's a high  crime rate.|sv
+B|Oh, well.  That's what sells papers. |sv
+A|That  that's because there's a high  crime rate.|sv
 A|Yeah.|b
 A|Yeah.|b
 B|That's, um, that's been like that since they, the first newspaper, you know|sv
@@ -110,7 +110,7 @@ B|We don't get a, you know.|%
 A|That's true.|ba
 A|We certainly get enough coverage.|sv
 A|I mean, we, we can get news,|sd
-A|you know, I mean, there's even the C N N channelwhere we can get world news twenty-four hours a day.|sd
+A|you know, I mean, there's even the C N N channel where we can get world news twenty-four hours a day.|sd
 B|Oh, yeah,|b
 B|I was going to.|%
 B|Sure,|b
@@ -136,8 +136,8 @@ B|I don't, I don't, uh,|%
 A|Uh-huh.|b
 A|I guess we're not supposed to|sv
 B|I don't know,|h
-B|we'reI guess we're supposed to wait|sv
-B|orI don't know.|h
+B|we're I guess we're supposed to wait|sv
+B|or I don't know.|h
 A|Yeah.|b
 A|Uh-huh.|b
 B|I,|%
@@ -160,7 +160,7 @@ A|Interesting.|ba
 A|Yeah.|b
 B|You know, I mean, some topics,|%
 B|really now, you know, now, this topic, this is, I mean,|%
-B|there really isn't much to say afteryou know, you, uh, you know, you, you tell the person what, uh, news there, uh, you know, where their, where they find their sources of information from|sv
+B|there really isn't much to say after you know, you, uh, you know, you, you tell the person what, uh, news there, uh, you know, where their, where they find their sources of information from|sv
 A|Uh-huh.|b
 A|Yeah.|b
 B|and then, you know, if it's, uh, if they're satisfied,|sv

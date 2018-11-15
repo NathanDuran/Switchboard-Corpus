@@ -1,7 +1,7 @@
 A|Okay,|fo_o_fw_"_by_bc
 A|I'll let you start this time.|ad
 B|Well, how much do you like lawn and garden work?|qw
-A|Well, uh, even though it's totally out of my, uh, my degree training, I've been working as, as, in the horticultural aspect, soUh, I'm,the last, I don't know, fifteen, twenty years, so|arp_nd
+A|Well, uh, even though it's totally out of my, uh, my degree training, I've been working as, as, in the horticultural aspect, so the last, I don't know, fifteen, twenty years, so Uh, I'm,|arp_nd
 B|Oh.|bk
 B|Oh, for goodness sakes.|ba
 B|What do you do?|qo
@@ -10,16 +10,16 @@ B|Uh-huh,|b
 B|well, that's interesting.|ba
 B|Um, so, at this time of the year are you doing much garden work?|qy
 A|No,|nn
-A|mostly snow removal,which we've had a lot of,|sd
+A|mostly snow removal, which we've had a lot of,|sd
 A|but, uh, I don't know,|h
 A|I, I guess, uh, growing up on the farm and, and that, I, I've always had a big interest, uh.|sd
 B|Right.|b
-A|I have a, uh, when I have an area to do, I, I always had a big gardenand enjoy working on lawns and, and everything.|sd
+A|I have a, uh, when I have an area to do, I, I always had a big garden and enjoy working on lawns and, and everything.|sd
 B|Uh-huh.|b
 B|Well I love to work outside, really,|sd
 B|and I enjoy flowers and stuff.|sd
 B|I don't do a whole lot of it, um, at this exact point in my life, um, because I have two teenage boys,|sd
-B|and so they do all the lawnall the lawn care|sd
+B|and so they do all the lawn all the lawn care|sd
 A|Okay.|b
 B|but I still take care of the, you know, flower beds and things like that.|sd
 B|I was even planning to go out and to, uh, dig up some hibiscus plants that will not make it through the winter here, but, you know, were planted in the ground since last spring|sd
@@ -27,11 +27,11 @@ A|Uh-huh.|b
 B|and I was going to dig them up for a friend and for some starters for me,|sd
 B|and lo and behold, about five days ago, we had a freeze down to about, oh, twenty-three degrees or something|sd
 A|Uh-huh.|b
-B|so thehibiscus plants no longer exist|sd
+B|so the hibiscus plants no longer exist|sd
 A|Oh, that's terrible.|ba
 A|Twenty-three|%
 B|And I really feel bad about it,|sd
-B|it's a plant that we've had for probably twenty-five years that thesewere cuttings off of, you know.|sd
+B|it's a plant that we've had for probably twenty-five years that these were cuttings off of, you know.|sd
 A|Yeah.|b
 A|Yeah.|b
 B|So, they're all gone at this point.|sd
@@ -59,7 +59,7 @@ B|uh-huh.|aa
 A|yeah,|b
 A|those two.|sv
 B|Yeah.|aa
-B|Some people have, I think it's fescuethat stays green all winter,|sd
+B|Some people have, I think it's fescue that stays green all winter,|sd
 A|Yeah.|b
 B|but they really have a heck of a time keeping it going in the middle of the summer.|sd
 B|They have to water an incredible amount.|sd
@@ -81,7 +81,7 @@ B|that's true.|aa
 B|Yeah,|aa
 B|Houston is a lot, um, a lot wetter than, than Dallas, Dallas area,|sd
 B|that's where Plano is,|sd
-B|and, um, and just humidityyou know, just all the time, it's an awfully lot more humid.|sd
+B|and, um, and just humidity you know, just all the time, it's an awfully lot more humid.|sd
 A|Uh-huh.|b
 A|Are, are you, uh, able to get, uh, sometimes a double crops of, of certain things in your garden?|qy
 B|Yes,|ny

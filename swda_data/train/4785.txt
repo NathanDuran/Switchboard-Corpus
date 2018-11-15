@@ -48,12 +48,12 @@ B|And, and, of course, we try to spend a lot of time on the weekend.|sd
 B|You know, there's a lot of times my house may not be as clean as I particularly like it|sd
 B|but it's neat,|sd
 B|it's straight|sd
-B|and I can live with it  because I do stuff with my kids, you know.|sd
+B|and I can live with it  because  I do stuff with my kids, you know.|sd
 A| Yeah. |b
 A|Right.|b
 A|Well, you know, with kids you're not going to have a neat house.|sv
 B|Well, I've accepted that too|aa
-A| And, you know especially with both of them working.it, it's tough to find time.|sv
+A| And, you know  it, it's tough to find time. especially with both of them working.|sv
 B| That's true. |aa
 B|It is.|aa
 B|Yeah.|aa
@@ -68,7 +68,7 @@ A|Right.|b
 B|And, and we do a lot of family things together.|sd
 B|We're, we're kind of going the other direction this weekend.|sd
 B|We're planning a trip, just he and I.|sd
-B|This is the first time we've gone anywhere without the kids since she was born  four and a half years ago.|sd
+B|This is the first time we've gone anywhere without the kids  since she was born  four and a half years ago.|sd
 A| Well that's good too. |ba
 A|Yeah,|b
 A|that's good that way too|ba
@@ -77,7 +77,7 @@ B|and, and I do think that if you plan it and spend that and make it quality tim
 A|Yeah.|aa
 A|Well, that, they say it, it, all it takes is about five, ten minutes a day.|sv
 B|Yeah.|b
-A|And, you know, and as the kids got older I made them, you know, help me cut the grass andOr whateverkind of made that a project too.|sd
+A|And, you know, and as the kids got older I made them, you know, help me cut the grass and kind of made that a project too. Or whatever|sd
 B|Sure.|b
 B|Sure.|b
 A|and,|%
@@ -93,7 +93,7 @@ A|Yeah.|b
 A| Just keep them talking that way. |sv
 B| Absolutely.|aa
 B|Yeah |aa
-A|But, uh, another thing we used to do is have family councils.Every Sunday night.|sd
+A|But, uh, another thing we used to do is have family councils. Every Sunday night.|sd
 B|Uh-huh.|b
 B|And what would you do,|qw
 B|what?|qw
@@ -104,9 +104,9 @@ A|And everyone would get one vote.|sd
 A|And I always thought we'd get outvoted five to two|sd
 B|Yeah.|b
 A|but it never worked that way.|sd
-B|So they would just pick whatever issue  kind of was at a head that week|bf
+B|So they would just pick whatever issue  kind of was at a  head that week|bf
 A| Yeah.|aa
-A|Well and we could bring up and we could bring up stuff too.|sd
+A|Well and we could bring up  and we could bring up stuff too.|sd
 B|and then,|%
 B|Oh.|b
 A|And that was always good time.|sd
@@ -114,7 +114,7 @@ A|Boy, we really got to know the kids well.|sd
 B|I imagine.|ba
 B|And I imagine you still have a very close relationship with them.|qy^d
 A|Oh, yeah.|ny
-A| In fact, they were all in, uh, over the weekend for Easter.|sd
+A| In  fact, they were all in, uh, over the weekend for Easter.|sd
 B| I, |%
 B|Oh, that's wonderful.|ba
 B|See I was raised in that type of family where, you know, you don't disobey me, you mind me|sd
@@ -133,8 +133,8 @@ B|You don't think of it that way do you  |qy
 A| No. |nn
 A|But that, that was always good quality time for us.|sd
 B|Now that's good.|ba
-B| I like that idea.|sd
-A| And then never attend,|%
+B| I like  that idea.|sd
+A| And then  never attend,|%
 A|but if, if they missed it, they had to abide by the rules.|sd
 B|Whatever was voted on, huh.|qy
 A|Yeah|ny
@@ -149,7 +149,7 @@ A|And they loved it.|sd
 B|I, I think that's true.|aa
 B|I can remember times my parents would say well what do you think would be a fair punishment.|sd
 A|Yeah.|b
-B|And we would always come up with something that was harder than what they would have doneyou know.|sd
+B|And we would always come up with something that was harder than what they would have done you know.|sd
 A|Yeah.|b
 B|So I do think it's right that they're harder on themselves,  you know. |sv
 A| Yeah. |aa

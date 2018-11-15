@@ -2,7 +2,7 @@ A|Okay.|fo_o_fw_"_by_bc
 A|uh, we're going to talk about our lawn and garden chores,|sd
 A|do you have either one?|qy
 B|Well, I don't do anything with the lawn really,|ng
-B|but I do gardening, both flowers  and vegetable gardening.|sd
+B|but I do gardening,  both flowers  and vegetable gardening.|sd
 A| Do you . |b
 A|Oh, really?|bh
 B|Um, I,|%
@@ -43,7 +43,7 @@ B|and to help other people too, that's neat.|sv
 A|Yes,|aa
 A|it has really nothing to do with, uh, actual gardening or flower arranging or anything like that,|sv
 B| Uh-huh. |b
-A| it  was just that I happened to organize this group, that  was about seventy people.|sd
+A| it  was just that I happened to organize this group,  that  was about seventy people.|sd
 B| Right. |b
 B|That's wonderful.|ba
 A|That,|%
@@ -56,7 +56,7 @@ A|but it,|%
 B|Yeah,|b
 B|well, I think it sounds good.|ba
 B|I've never belonged to a garden club because I've always been more interested in just doing what I can do on my own,|sd
-B|I've never had, the  time really to get involved in the organized sort of format,|sd
+B|I've never had,  the  time really to get involved in the organized sort of format,|sd
 A| Yes. |b
 B|but I know people who do it and, and enjoy it very much.|sd
 A|Well, and actually, I think that most women's garden clubs that I've been aware of in the past, uh, are only flowers,|sd
@@ -77,7 +77,7 @@ B|they're, they're women.|sd
 B|But, um, and usually they're the tea type things, you know, where they have a little luncheon|sd
 B|and they do their thing.|sd
 A|Uh-huh.|b
-B|But, um, flowers are primarily the emphasis, um, whereas I enjoy vegetable  gardening almost more, I do flowers sort of look pretty|sd
+B|But, um, flowers are primarily the emphasis,  um, whereas I enjoy vegetable  gardening almost more, I do flowers sort of look pretty|sd
 A| Yes,|aa
 A|I think so too. |sd
 B|but I, I really like to do the vegetables.|sd
@@ -99,9 +99,9 @@ B|Okay.|aa
 B|Well, uh, the flowers I'm just,|sd
 B|in fact, I was going to go out today to buy some plants so I could put them in,|sd
 B|I, I always have geraniums|sd
-B|and, um,  and then I have a shady area that I need to, uh, be concerned about not getting something that has to have sun,|sd
+B|and,  um,  and then I have a shady area that I need to, uh, be concerned about not getting something that has to have sun,|sd
 A| Uh-huh. |b
-B|so I've discovered that, uh, impatiens that tried and true is, turns out to be about the best thing to use there along with coleus.Because they, uh, look pretty and, in my front garden, uh,|sd
+B|so I've discovered that, uh, impatiens that tried and true is, turns out to be about the best thing to use there along with coleus. Because they, uh, look pretty and, in my front garden, uh,|sd
 A|Uh-huh.|b
 B|but I like the vinca which is something I hadn't,|sd
 B|they look sort of like impatiens,|sd
@@ -156,7 +156,7 @@ A|My mother,|sd
 B|Well, my mother doesn't think they have any flavor the way I cook them|sd
 A|Well, and I know I love them,|sd
 A|well, that's the yankee way.|sd
-A|But I think, that's like another  vegetable.|sd
+A|But I think,  that's like another  vegetable.|sd
 B| Oh, of course. |ba
 A|I love them that way just, just the thrill of,|sd
 B|Yeah,|aa
@@ -186,10 +186,10 @@ A|isn't that wonderful.|ba
 B|Oh, it is,|aa
 B|it's great.|sd
 B|It's, it's really her joy|sd
-B|and I suppose that's why I enjoy gardening, because, you know, growing  up with it.|sd
+B|and I suppose that's why I enjoy gardening,  because, you know, growing  up with it.|sd
 A| I think so too. |sd
 A|Yeah.|b
-B|We also grow, um, yellow and green squash, um,  much to my children's chagrin,|sd
+B|We also grow, um, yellow and green squash,  um,  much to my children's chagrin,|sd
 A| Uh-huh. |b
 A| Right. |b
 B| and,  uh, we grow a lot of tomatoes, uh,|sd

@@ -13,7 +13,7 @@ B|let me think here.|^h
 B|Favorite,|sd
 B|I haven't been watching much T V lately|sd
 A|Yeah,|aa
-A|you knowyou get so busy.|sv
+A|you know you get so busy.|sv
 B|I used to.|sd
 B|Yeah,|aa
 B|I have, uh, I have one favorite soap opera.|sd
@@ -22,7 +22,7 @@ B|and I tape because I'm not home|sd
 A|Oh,|%
 B|And, uh, let's see,|^h
 B|that's GENERAL HOSPITAL,|sd
-B|and then, uh, at night, uh, I don't, uh, when I sit down, I don't usually sit down till almost nine o'clockwhen my kids get in bed|sd
+B|and then, uh, at night, uh, I don't, uh, when I sit down, I don't usually sit down till almost nine o'clock when my kids get in bed|sd
 A|I know.|aa
 B|and, and, uh, then I watch,|sd
 B|uh, what do I watch at nine o'clock.|t1
@@ -43,7 +43,7 @@ B|Uh-huh.|b
 A|so I don't, I don't know some of those shows now, like I used to|sd
 B|Yeah,|b
 B|yeah.|b
-B|Uh, other than that, uh, oh, gosh. I watch KNOTS LANDING on Thursday nights,for pure entertainment, nothing else.|sd
+B|Uh, other than that, uh, oh, gosh. I watch KNOTS LANDING on Thursday nights, for pure entertainment, nothing else.|sd
 A|Right.|b
 B|Yeah.|b
 A|Well I, I like the comedies.|sd
@@ -51,7 +51,7 @@ A|They're just light, too.|sd
 A|I have to watch MURPHY BROWN|sd
 A|I really like,|sd
 B|Oh, now that is a good one.|sv
-A|I make a point ofthat.|sd
+A|I make a point of that.|sd
 B|That is.|sv
 B|Yeah,|b
 B|if I'm home on Mondays, then I, I definitely watch her.|sd
@@ -84,7 +84,7 @@ B|Now, I never see that.|sd
 B|Well, I've got a friend that says that is just wonderful show.|sd
 A|Oh, it's fabulous.|sv
 A|Really, you should never miss that.|sv
-A|It, they are just gems of shows.I mean, they really, fabulous in every way|sv
+A|It, they are just gems of shows. I mean, they really, fabulous in every way|sv
 B|Oh, nice.|ba
 B|What, now what night is that on now?|qw
 A|Oh, that's Wednesday at, uh, seven thirty.|sd
@@ -92,16 +92,16 @@ B|Wednesday at seven thirty,|b^m
 B|oh, okay.|bk
 B|Yeah,|%
 B|Wednesdays I, I go to church choir,|sd
-B|soThat's my one night out and about,|sd
+B|so That's my one night out and about,|sd
 A|Oh, yeah.|b
 B|so,|%
 A|Sure,|b
 A|yeah,|b
 A|well, maybe, maybe your husband could tape it for you sometime.|ad
 B|Yeah,|aa
-B|I should get him to do that. Because I know, |sd
+B|I should get him to do that.  Because I know, |sd
 A|Just so you get the idea.|sd
-A| It wouldn't take, Wouldn't take much to get hooked on those|sv
+A| It wouldn't take,  Wouldn't take much to get hooked on those|sv
 B|Yeah,|b
 B|yeah,|b
 B|uh-huh.|b
@@ -140,18 +140,18 @@ A|Well then, it will be mostly reruns, I guess|sd
 B|Yeah,|b
 B|yeah.|b
 A|And by the end of February, the way they do it nowadays.|sd
-B|Gosh.Well, we used to watch a lot of DESIGNING WOMEN,|sd
+B|Gosh. Well, we used to watch a lot of DESIGNING WOMEN,|sd
 A|But, uh,|%
-B|but, uhbrought on the new ones.Since they got rid of, uh, Delta Burke and, uhI haven't seen that much lately.|sd
+B|but, uh I haven't seen that much lately. Since they got rid of, uh, Delta Burke and, uh brought on the new ones.|sd
 A|Yeah.|b
 A|Yeah,|b
 A|I've seen that.|sd
-A|Was she the, was she the best one?Was she the best one on that old show?|qy
+A|Was she the, was she the best one? Was she the best one on that old show?|qy
 B|Oh, she was just funny.|sd
 A|Really?|bh
 B|She was really funny.|sd
 B|And her character was good.|sd
-B|I don't know that it was her in particularbut just the character.|sd
+B|I don't know that it was her in particular but just the character.|sd
 A|Right,|b
 A|right.|b
 B|So, uh,|%
@@ -181,16 +181,16 @@ A|And I think he's guilty as the devil.|sv
 B|Well, I don't see how he couldn't be, you know.|sd
 A|I know,|aa
 A|what's in it for her.|qh
-A|There's never anything for you to go to trial as a witness in a case like that.high powered lawyers.Because you know they tear you to shreds, especially those rich|sv
+A|There's never anything for you to go to trial as a witness in a case like that. Because you know they tear you to shreds, especially those rich high powered lawyers.|sv
 B|Yeah,|aa
 B|that's right.|aa
-B|Oh, and they saidthis lawyer is unbelievable.|sd
+B|Oh, and they said this lawyer is unbelievable.|sd
 A|Um.|%
 B|But, they said she held up so well yesterday.|sd
 A|I know,|aa
 A|everybody was saying that|sd
 A|and then, in the paper said it|sd
-A|so,It should be interesting.|sv
+A|so, It should be interesting.|sv
 B|Yeah.|b
 B|Oh, God.|ba
 A|Well, the NATIONAL ENQUIRER says|sd
@@ -198,7 +198,7 @@ A|I was reading that in the supermarket line.|sd
 A|I never have the nerve to buy the thing.|sd
 A|Uh,|%
 B|Oh, shoot,|ba
-B|well, do you watch any, uhany sports or anything like that|qy
+B|well, do you watch any, uh any sports or anything like that|qy
 A|Says he,|sd
 B|or,|%
 A|No,|nn

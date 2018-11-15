@@ -14,8 +14,8 @@ B|Um, I think that, uh, it's kind of discouraging to, uh,|sv
 B|I have been involved in some political campaigns and that kind of thing,|sd
 B|and it's really discouraging to be in a phone bank and call people and not,|sv
 B|a lot of them are so ill informed they have no idea, you know, even that there's an election|sv
-B|or,and these are people that are registered.|sv
-A|I,It, I have worked in some campaigns|sd
+B|or, and these are people that are registered.|sv
+A|I, It, I have worked in some campaigns|sd
 A|and it's the most discouraging thing in the world.|aa
 A|I'm originally from Oklahoma,|sd
 A|and up there if they miss three elections, then they have to reregister.|sd
@@ -61,7 +61,7 @@ B|I think that's an excellent idea because then people really have to think abou
 A|Of course,|aa
 A|what do you think and this is not one of our questions but what do you think of this no excuse absentee balloting?|qo
 B|No excuse.|^h
-B|Uh, I'm not sure if I'm familiar with that,or not.|qw^d
+B|Uh, I'm not sure if I'm familiar with that, or not.|qw^d
 A|Okay.|bk
 A|I'm sure all over the State of Texas now you have three weeks to go for absentee balloting.|qy^d
 B|Uh-huh.|ny
@@ -79,7 +79,7 @@ A|But that is an excuse and that would, I could live with.|sd
 B|Uh-huh.|b
 A|But this idea of anyone|%
 A|I I am so bitterly opposed to this.|sd
-A|If you're busy, that has always been a legitimate excuse.If you are incapacitated, ill health,|sv
+A|If you're busy, that has always been a legitimate excuse. If you are incapacitated, ill health,|sv
 B|Uh-huh.|b
 A|but to have the expense of,|%
 A|let's see.|^h
@@ -87,7 +87,7 @@ A|They have five, six people at my polling place.|sd
 A|They can come from all over the city,|sd
 A|and I don't know why we couldn't have duplicate voting on some of this.|sd
 B|Well, hopefully once they have, uh, you know, once they've checked them off the list|%
-B|they, they do have to check them off a listwhen they vote|sd
+B|they, they do have to check them off a list when they vote|sd
 A|Yes,|aa
 A|I know.|aa
 B|so hopefully they couldn't.|sv

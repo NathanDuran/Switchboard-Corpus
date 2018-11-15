@@ -12,7 +12,7 @@ A|Are you being smart,|qy
 A|or are you serious?|qrr
 B|I'm being facetious.|sd
 B|I'm being very comical.|sd
-B|Uh, we have a budget, umthat works well.|sd
+B|Uh, we have a budget, um that works well.|sd
 A|Uh-huh.|b
 B|I kind of look at it for more of a,|sd
 B|we have a financial, uh, analyst, a finance administrator, I guess, that, that, uh,|sd
@@ -22,10 +22,10 @@ A|Uh-huh.|b
 B|Got our businesses and, and, and our life in line, how to manage credit cards, how to put away, say for, you know, money markets and this kind of thing.|sd
 A|Yeah.|b
 B|And, there's some freebies out there are|sd
-B|you should put ten to fifteen percent of your monthly bring homein some sort of savings account.|ad
+B|you should put ten to fifteen percent of your monthly bring home in some sort of savings account.|ad
 A|Uh-huh.|b
 A|Yeah.|b
-B|That being money market, uh, bonds, , savings, uh, or just a liquid accountwhich, which we do.|sd
+B|That being money market, uh, bonds, , savings, uh, or just a liquid account which, which we do.|sd
 A|Uh-huh.|b
 B|Um, you should always have three months of your salary in a savings account in case there's a major need for that.|ad
 A|Uh-huh.|b
@@ -33,13 +33,13 @@ B|Okay.|b
 B|You should always have an umbrella permit that bridges your life insurance and your medical and your, uh, uh, car insurance in case you run into a lawyer and you break his arm.|ad
 B|He's going to sue the pants off of you.|sd
 B|These kind of things are about a hundred dollars a year.|sd
-B|Soyou know, these are all equivalent to the monthly budget things.|sv
+B|So you know, these are all equivalent to the monthly budget things.|sv
 A|Uh-huh.|b
 B|Some of them are there to pacify situations.|sd
 B|And some of them are there to prevent things from happening.|sd
 A|Uh-huh.|b
 B|But, uh, I guess we kind of got away from about the last sixteen months as far as saying, two hundred dollars for food and three hundred dollars for this and two hundred for that because we had a child which is about a year old,|sd
-B|and thenuh, we've just been kind of working on,|sd
+B|and then uh, we've just been kind of working on,|sd
 A|Uh-huh.|b
 B|I've been developing it,|sd
 B|but it's kind of hard.|sv
@@ -54,7 +54,7 @@ A|and, uh, he was a little late graduating,|sd
 A|so we're, you know, uh,|%
 A|and we have a nine and a half year old son,|sd
 A|and it's because, you know, we were eighteen when we had him,|sd
-A|so, we're, we're kind of looking at this from the other aspect of,we, you know, we have a lot for, to be our age and, you know, just everything, and having the responsibilities we've had on us for, at such a young age.|sv
+A|so, we're, we're kind of looking at this from the other aspect of, we, you know, we have a lot for, to be our age and, you know, just everything, and having the responsibilities we've had on us for, at such a young age.|sv
 A|You know, we have a, like a nice house.|sv
 A|People, you know, are really shocked at how nice everything is in our house.|sv
 A|But, we don't, you know, live in a brand new house, either, maybe a ninety, hundred thousand dollar house|sd
@@ -65,7 +65,7 @@ A|So, you know, we have trade-offs.|sd
 A|So we're more, we have a monthly budget with this, this, this, this.|sd
 A|But, we have no savings, which isn't real wise,|sd
 A|but we just, we don't have the income at this time really to have any, because we have three debts that we're trying to pay off from both of our student loans.|sd
-A|We're still payingtrying to pay those off.|sd
+A|We're still paying trying to pay those off.|sd
 B|Uh-huh.|b
 A|And we have one car payment that we don't, I think we have about thirteen months left on it.|sd
 B|Uh-huh.|b
@@ -83,16 +83,16 @@ B|Thing about the credit union is, it's, the way it's set up is if you have two 
 A|Uh-huh.|b
 B|If you go up there and write them a two thousand dollar check it doesn't all go towards principal.|sd
 A|Uh-huh.|b
-B|They take out for the, for the financesthe finance charge, which is kind of, you know,|sd
+B|They take out for the, for the finances the finance charge, which is kind of, you know,|sd
 B|it's like one of these lose or swim type of credit,|sd
 B|one of those loans is. Not really the best in the world,|sv
-B|but.But, you know, they're, uh,|%
+B|but. But, you know, they're, uh,|%
 B|since your husband is, is, is, um, a T I|sd
-B|but doesn't have the loans with the credit union, they're offering something that might be worthtaking a gander at.|sv
+B|but doesn't have the loans with the credit union, they're offering something that might be worth taking a gander at.|sv
 A|Really.|b
 B|I don't know what your percent is on your, on your car payments|sd
 A|Uh-huh.|b
-B|but they are, they'll take any T I non-credit union loanlike if you have a fourteen percent loan for a new car.|sd
+B|but they are, they'll take any T I non-credit union loan like if you have a fourteen percent loan for a new car.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Oh, really.|b
@@ -102,7 +102,7 @@ A|Uh-huh.|b
 B|And she's doing it.|sd
 B|I mean, it's not like, it's like.|%
 A|Does she have to pay to have it refinanced?|qy
-B|I think they even cover that because they want youthey want the T I to be part of the credit union.as a|ng
+B|I think they even cover that because they want you as a they want the T I to be part of the credit union.|ng
 A|Uh-huh.|b
 A|T I to,|^2
 A|See,|ad
@@ -151,7 +151,7 @@ A|so next time we'll do that different.|sd
 A|We want to next time pay cash for our car, too.|sd
 A|We want to pay cash for everything we can possibly do.|sd
 A|When we buy a house, we attended a Bill financial seminar,|sd
-A|and he has a lot of wisdom on that, just on Biblical, you know, principles tofinance.|sv
+A|and he has a lot of wisdom on that, just on Biblical, you know, principles to finance.|sv
 B|Uh-huh.|b
 A|He runs a big, the largest real estate company in Fort Worth debt free.|sd
 A|And we really believe in debt free living and debt free car buying and debt free house buying.|sd
@@ -162,7 +162,7 @@ B|You save a lot.|sv
 A|Right.|b
 B|If, if, if, if,|%
 B|and you need to be very careful,|sv
-B|if the loan is set up to have bi, they call it a yuppie loan, if it's set up for bimonthlypayments.|sd
+B|if the loan is set up to have bi, they call it a yuppie loan, if it's set up for bimonthly payments.|sd
 A|Right.|b
 B|If you,|%
 B|because you'll save fifteen to seventeen years off the end of the loan.|sd
@@ -186,7 +186,7 @@ B|it's not, a lot of the firms that offer,|sd
 B|mortgage loan firms, aren't offering, um, that loan.|sd
 A|Uh-huh.|b
 B|You can ask and you can wheel and deal,|sd
-B|but it's not asopen as it should be.|sv
+B|but it's not as open as it should be.|sv
 A|Yeah.|b
 B|It's a great idea.|sv
 B|Hell, I'd love to cut ours in half,|sd
@@ -195,7 +195,7 @@ A|Uh-huh.|b
 B|man.|ba
 B|And if you figure, get with a financial person.|sd
 A|Yeah.|b
-B|And you can figure up exactly when like the eighteenth month of a loan, if you make like a four hundred dollar payment over and above your house paymentit'll make, uh,|sd
+B|And you can figure up exactly when like the eighteenth month of a loan, if you make like a four hundred dollar payment over and above your house payment it'll make, uh,|sd
 A|Uh-huh.|b
 B|it has a magic with numbers.|sv
 B|It, I, it'll shave almost, you know, X number of dollars off,|sd
@@ -238,7 +238,7 @@ A|and I found they locally serviced it.|sd
 A|And we just stopped payment on the check.|sd
 A|So I hope they don't sue us over it|sd
 A|But we never received any merchandise either,|sd
-A|so I don't think it would holdAnyway.|sd
+A|so I don't think it would hold Anyway.|sd
 B|Oh, okay,|b
 B|well|%
 B|probably something like that,|sv

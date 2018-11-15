@@ -3,9 +3,9 @@ A|what do you like to cook?|qw
 B|I like, well I like to cook foods I like to eat.|sd
 B|I like to eat Italian food best.|sd
 A|Uh-huh.|b
-B|And I find that I, that's pretty easy to cook because a lot of it is one dish meals, type things and,they're kind of convenient.|sv
+B|And I find that I, that's pretty easy to cook because a lot of it is one dish meals, type things and, they're kind of convenient.|sv
 A|Uh-huh.|b
-A|That would be good for a dinner party, that, you know, to cook that because you don't have to deal with eight different things,coming out at once.|sv
+A|That would be good for a dinner party, that, you know, to cook that because you don't have to deal with eight different things, coming out at once.|sv
 B|Right.|aa
 A|Is that what you usually cook when you have a party.|qy
 B|Um, I usually have parties that are smaller groups.|arp_nd
@@ -13,7 +13,7 @@ B|I don't have, I've never had a real big dinner party except at traditional hol
 A|Uh-huh.|b
 B|And so, um, yeah,|%
 B|I guess I usually do.|na
-B|I like to cook, um, heavy sauces, and, um,noodles and pasta and such.|sd
+B|I like to cook, um, heavy sauces, and, um, noodles and pasta and such.|sd
 A|Really,|b
 A|that sounds good.|ba
 A|Um, fattening|ba
@@ -29,7 +29,7 @@ A|our senior pastor and his wife came over.|sd
 B|Uh-huh.|b
 A|And I catered to their diet is the only thing, though,|sd
 A|so it wasn't something I really wanted to make.|sd
-A|I really wanted to make red beans and rice and with .you know, sausage,|sd
+A|I really wanted to make red beans and rice and with . you know, sausage,|sd
 B|Oh yeah.|b
 A|because I'm from New Orleans originally.|sd
 B|Uh-huh.|b

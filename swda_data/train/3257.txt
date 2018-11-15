@@ -10,45 +10,45 @@ A|Uh-huh,|b
 A|uh-huh.|b
 A|Well we have cable,|sd
 A|but we only have Cinemax,|sd
-A|anduh, I think our favorite night is, uh, Monday night,|sd
+A|and uh, I think our favorite night is, uh, Monday night,|sd
 B|Uh-huh.|b
-A|and we start out with EVENING SHADEand MAJOR DAD,|sd
+A|and we start out with EVENING SHADE and MAJOR DAD,|sd
 B|Uh-huh.|b
-A|andI think that's the one night that we really try to watch television.|sd
+A|and I think that's the one night that we really try to watch television.|sd
 B|Uh-huh.|b
-A|You knowmy husband's always got it on.|sd
+A|You know my husband's always got it on.|sd
 B|Yeah.|b
 A|I'm not always sitting down,|sd
 A|and,|%
-B|Monday night's pretty good with MURPHY BROWNand DESIGNING WOMEN.|sv
+B|Monday night's pretty good with MURPHY BROWN and DESIGNING WOMEN.|sv
 A|Yes.|aa
 A|Yes,|aa
 A|yes.|aa
 A|I just, I love that, all those, that two hours|sv
 B|Uh-huh.|b
 A|and, uh, now tonight I just finished up with that A WOMAN CALLED JACKIE,|sd
-A|did you watchdid you watch it?|qy
+A|did you watch did you watch it?|qy
 B|Uh-huh.|b
 B|We had watched it, uh, I guess Sunday night and Monday night,|na
 B|but we didn't get to watch it tonight.|sd
 A|Yeah,|b
 A|it, it was pretty good,|sv
 A|it, uh, sometimes I like a dramatization,|sd
-A|and I like, uh, U S A, when they had their, uh, uh, mystery movies and things, theirmade for T V movies|sd
+A|and I like, uh, U S A, when they had their, uh, uh, mystery movies and things, their made for T V movies|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|and, uh, I like those.|sd
 A|We very seldom watch any, uh, Public Television, Channel Thirteen.|sd
 A|Do you watch it much?|qy
 B|The only night we tend to watch some of that is on Sunday nights, starting fairly late, like I'm talking ten o'clock and maybe toward midnight.|sd
-B|They have some British comedythat we've, we've really liked,|sv
+B|They have some British comedy that we've, we've really liked,|sv
 A|Yes.|b
 B|and there's a variety.|sd
 B|Some of them is, uh, BLACK ADDER or GOOD NEIGHBORS or YES, PRIME MINISTER and ARE YOU BEING SERVED?|qy^d
 B|They, they rotate those around,|sd
 B|and, um, we like that British comedy.|sd
 B|British comedy is very fast,|sv
-B|you really have tolisten|sv
+B|you really have to listen|sv
 A|Yes|aa
 B|but.|%
 A|Now we haven't watched any of those.|sd
@@ -61,7 +61,7 @@ A|now we have watched some things on that.|sd
 B|And I'm amazed sometimes what I see on there.|sd
 B|But I'm very intrigued.|sd
 B|I, one time I was watching an operation,|sd
-B|and I thought, Gee,I don't believe I'm watching.|sd
+B|and I thought, Gee, I don't believe I'm watching.|sd
 A|Yeah,|b
 A|we had, uh,|%
 A|I don't know,|h
@@ -70,37 +70,37 @@ A|so, you know, and he's sit in front of it|sd
 A|and, and he went by|sd
 A|and he said, Whoops,|sd
 A|and he backed up,|sd
-A|and, you know, there's this surgery going on as we're eating our dinneryou know,|sd
+A|and, you know, there's this surgery going on as we're eating our dinner you know,|sd
 B|Yeah.|b
 A|and I'm saying let's move right on|sd
 B|Yeah,|b
 B|right,|b
 B|right,|b
-A|But our grandchildren like that Discovery Channelif they're over here, because lots of times it will have things on, uh, animals|sd
+A|But our grandchildren like that Discovery Channel if they're over here, because lots of times it will have things on, uh, animals|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|and they just thoroughly, you know, enjoy that|sd
 B|Uh-huh.|b
-A|in fact, I think they were watching something on, uh, whales, or killer sharks, one or the othercouple of weeks ago over here|sd
+A|in fact, I think they were watching something on, uh, whales, or killer sharks, one or the other couple of weeks ago over here|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|and, uh, so we have watched that|sd
 B|Uh-huh.|b
 A|and, uh, otherwise, of course my husband's into the football|sd
 B|Oh.|b
-A|and, you know, I will watch that some if I'm reading or doing something else, you knowwith him.|sd
+A|and, you know, I will watch that some if I'm reading or doing something else, you know with him.|sd
 B|Right.|b
 B|Yeah,|b
 B|I'm not into watching sports.|sv
 B|Now my husband likes to watch football,|sd
 B|he's not really into, uh, baseball or basketball too much,|sd
-B|but, uh, football, soon as it's fall, then he likesto watch college on Saturday, and then of course Cowboys on Sunday.|sd
+B|but, uh, football, soon as it's fall, then he likes to watch college on Saturday, and then of course Cowboys on Sunday.|sd
 A|Yes.|b
 A|Yes,|b
 A|and sometimes now we're getting that, uh, the other football where they play it inside,|sd
 A|and you know, this is a, you know, this is too much|sv
 A|Saturdays and Sunday, this is fine,|sv
-A|but do we have to carry this on into the summer and the springyou know, all of that,|qh
+A|but do we have to carry this on into the summer and the spring you know, all of that,|qh
 B|Yeah.|b
 A|and, uh, but he will, uh, he'll flip around,|sd
 A|I think the other night we had on, uh, uh, it was a, it was car races, some kind of car races where they were bumping over hills and flying into the air and coming down.|sd
@@ -124,7 +124,7 @@ B|you mean talking about the funny home videos and stuff|qy^d
 A|Yeah,|ny
 A|uh-huh|ny
 B|yeah,|ny
-B|those are pretty goodbut true to life,|sv
+B|those are pretty good but true to life,|sv
 A|that are sometimes so dumb|^2
 B|I mean, some of the,|sv
 A|But very true to life,|sv

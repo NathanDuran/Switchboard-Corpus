@@ -32,7 +32,7 @@ A|Uh, U T D.|sd
 A|University of Texas, Dallas.|sd
 B|Well, yeah,|b
 B|I guess, everybody's in Dallas that I talk to.|sv
-B|I'm in,North Carolina.|sd
+B|I'm in, North Carolina.|sd
 A|I know.|aa
 A|That's where Texas Instruments is.|sd
 B|Yeah,|aa
@@ -70,7 +70,7 @@ B|I mean, that's, that's where I wanted to be,|sd
 B|but I didn't want to go through the, uh, the hassle that the law schools put you through, because I never did want to be a practicing attorney.|sd
 B|I just wanted a law degree.|sd
 A|Uh-huh.|b
-B|And I've since discovered that I would be far better off being in the paralegal field.Because that's the nuts and bolts of the law, and that's what I like,|sd
+B|And I've since discovered that I would be far better off being in the paralegal field. Because that's the nuts and bolts of the law, and that's what I like,|sd
 A|Yeah.|b
 B|and you don't have to put up with all the B S that the lawyers have to.|sd
 A|Right.|b
@@ -89,11 +89,11 @@ B|that's probably very useful.|sv
 A|Yeah,|aa
 A|it's, it's actually turning out to be more, more useful than what I thought.|sd
 B|Uh-huh.|b
-A|And, um, I also have a good languages background, linguistics.And some psychology.|sd
+A|And, um, I also have a good languages background, linguistics. And some psychology.|sd
 B|Uh-huh.|b
 A|So, it's all working together.|sd
 B|Yeah.|b
-A|The only field I'm not familiar with really is education, which is required, requires about four or five different fieldsreally.|sd
+A|The only field I'm not familiar with really is education, which is required, requires about four or five different fields really.|sd
 B|Oh, good grief.|ba
 A|So it's a,|%
 B|Yeah,|b
@@ -119,7 +119,7 @@ A|yeah,|b
 A|there is,|%
 A|I, I, I think, uh, law would be a fine field, a fine profession, fine field to go into.|sv
 A|Um, I know one time I was in a political science class,|sd
-A|and you know, talking about fields, people going into different fields, I made an off, off the cuff remark about lawyers,about their integrity being questionable.|sd
+A|and you know, talking about fields, people going into different fields, I made an off, off the cuff remark about lawyers, about their integrity being questionable.|sd
 A|And I mean, oh, that was like a can of worms.|sd
 B|Probably, you probably got everybody on you, because they were probably all going to law school.|sv
 A|No,|ar
@@ -156,12 +156,12 @@ B|you going,|%
 A|You know, all of her dreams will be dispelled|sv
 B|Oh, yeah.|aa
 B|Yeah,|aa
-B|if, if, if you've ever seen the program PAPER CHASEit's very much like that, except worse.|sd
+B|if, if, if you've ever seen the program PAPER CHASE it's very much like that, except worse.|sd
 A|Yeah.|b
 A|Yeah,|b
 A|it's I, I think it's probably more embarrassing and very painful.|sv
 B|It is.|aa
-A|I seeI see that happening.|sd
+A|I see I see that happening.|sd
 B|Yeah,|aa
 B|very much so.|aa
 B|Yeah,|aa
@@ -185,7 +185,7 @@ A|Yeah,|b
 A|I went to a language school,|sd
 A|and, and that was a, it was a, an I guess, uh, United States institution.|sd
 A|I was military at the time|sd
-A|And I, I thinkprobably the biggest.|sv
+A|And I, I think probably the biggest.|sv
 B|What branch were you in?|qw
 A|Huh?|br
 B|What branch were you in?|qw
@@ -222,17 +222,17 @@ A|I sort of washed out.|sd
 B|Well,|%
 B|Well.|%
 A|Yeah|b
-A|after about eighteen months of talking about theyear and a half training, you know, it's, it's something, you know,|sd
+A|after about eighteen months of talking about the year and a half training, you know, it's, it's something, you know,|sd
 B|Uh-huh.|b
-A|I think that's why, you know, children really need to think about the field they're going to, going into, and I mean, spend a lot of seriousthinking about.reading before they, I mean, not just|sv
+A|I think that's why, you know, children really need to think about the field they're going to, going into, and I mean, spend a lot of serious reading before they, I mean, not just thinking about.|sv
 B|Yeah.|b
 B|Yeah.|b
 A|They actually should do some reading|sv
 B|That's right,|aa
-B|and it,do it.And if it's possible even get some experience at it or at least watch some people|sv
+B|and it, And if it's possible even get some experience at it or at least watch some people do it.|sv
 A|and they should study it.|^2
 A|Yeah.|b
-A|I, I, I, I think, I think there's a lot to be said for kids workingafter school.|sv
+A|I, I, I, I think, I think there's a lot to be said for kids working after school.|sv
 B|Uh-huh,|aa
 B|sure.|aa
 A|I mean, they, they find out whether, just how much of a people person they are.|sv
@@ -252,13 +252,13 @@ B|Yeah,|aa
 B|yeah|aa
 B|I was the same way too.|sd
 B|I'm not a people person.|sd
-B|I, I, I hate, um, having to play such a nice guy.Especially when you got some, uh, jerk coming in.You know, especially when it's all phony.|sd
+B|I, I, I hate, um, having to play such a nice guy. You know, especially when it's all phony. Especially when you got some, uh, jerk coming in.|sd
 A|Yeah.|b
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|I,|%
 B|it's just not for me.|sd
-B|I'm, uh, I deal much better in research and books, and stuff like thatwhich is why I'm going to enjoy the paralegal field a lot.|sd
+B|I'm, uh, I deal much better in research and books, and stuff like that which is why I'm going to enjoy the paralegal field a lot.|sd
 A|Uh-huh.|b
 A|Yeah,|b
 A|that's good.|ba

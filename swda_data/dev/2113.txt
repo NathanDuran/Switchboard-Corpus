@@ -1,7 +1,7 @@
 A|Uh, the last movie that I saw,|sd
 A|I, I don't go to that many|sd
 A|so I'll just have to talk about the ones that I went to see,|sd
-A|but,uh, it was AWAKENINGS with, uh, Robin Williams and, uh, Peter DeNiro.|sd
+A|but, uh, it was AWAKENINGS with, uh, Robin Williams and, uh, Peter DeNiro.|sd
 B|Okay.|b
 B|Yes,|b
 B|uh-huh.|b
@@ -88,7 +88,7 @@ A|when he was riding back to the settlement and they shot his horse out from und
 B|Oh, yeah.|b
 A|And then he, uh, the next day he looked out there and saw those buzzards, you know|sd
 B|Uh-huh.|b
-A|And that horse has been such a pal to him,when he was alone.|sd
+A|And that horse has been such a pal to him, when he was alone.|sd
 B|Yeah.|b
 A|You can tell I'm an animal lover,|sv
 A|you can hear my dog|sv
@@ -102,7 +102,7 @@ B|there was a lot of pretty scenery, too, in that movie.|sv
 A|Uh-huh,|b
 A|uh-huh.|b
 B|What did you think about the buffalo scenes.|qw^d
-A|Oh, I thought it was awful,and so graphic,|sv
+A|Oh, I thought it was awful, and so graphic,|sv
 B|That was,|aa
 B|Yeah.|b
 A|I mean I hadn't even imagined it, you know.|sd

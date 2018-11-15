@@ -18,7 +18,7 @@ A|I think it was the black hills of South Dakota.|sv
 B|Could be.|aap_am
 B|I, I haven't been to South Dakota.|sd
 B|Have, have you been up to that?|qy
-A|Well, I lived in Omaha for five,winters,|no
+A|Well, I lived in Omaha for five, winters,|no
 B|Oh.|b
 B|Okay.|bk
 A|and that rolling kind of, uh,|sd
@@ -28,7 +28,7 @@ A|Is, is fairly .|sd
 A|The thing that I thought was interesting was that the critics,|sv
 A|apparently it's going to win everything.|sv
 B|Really?|bh
-A|Uh, and I had been told, you know, you wouldn't notice that it was three hours long, and all this,kind of,|sd
+A|Uh, and I had been told, you know, you wouldn't notice that it was three hours long, and all this, kind of,|sd
 B|That's true.|aa
 B|I agree with that.|aa
 B|Um, I, I noticed yesterday in the paper, something said that it,|sd
@@ -37,7 +37,7 @@ B|and, and all the critics initially said that, you know, it wouldn't go anywher
 B|So, it, it has surprised everybody.|sv
 A|Well, the interesting thing was is I had heard that,|sd
 A|and I, I, I tend to, I think, overreact occasionally when somebody tells me it's that great.|sd
-A|And, andit was, the thing is, it was, it was a good story.|sv
+A|And, and it was, the thing is, it was, it was a good story.|sv
 B|Uh-huh.|b
 B|Right.|aa
 A|And, and, and I guess that's what I really like.|sd
@@ -92,7 +92,7 @@ A|it's interesting.|sd
 A|You listen to him|sd
 A|and then you, you go watch the movie.|sd
 A|In fact, they had, people had just seen,|%
-A|I was listening Sunday night a little bit when,I was going to pick up my daughter.|sd
+A|I was listening Sunday night a little bit when, I was going to pick up my daughter.|sd
 B|Uh-huh.|b
 A|But, anyway, it was, uh, the,|%
 A|it, it's interesting, though,|sv
@@ -119,10 +119,10 @@ B|I don't know who that guy is.|sd
 A|He, he plays on MURPHY BROWN.|sd
 B|Oh, he does?|qy
 A|Yes.|ny
-A|He's,he's Eldon, her housepainter.|sd
+A|He's, he's Eldon, her housepainter.|sd
 B|As a recurring character every week?|qy
 B|Oh.|bk
-A|Can you,believe that?|qy
+A|Can you, believe that?|qy
 B|No,|nn
 B|now see, I'd, I'd a never put those two together.|sd
 A|That's, that's one of those interesting pieces of trivia that somebody said, did you notice that?|qy
@@ -131,7 +131,7 @@ A|I thought, no, it's really funny.|sd
 A|But I thought, it, it,|sd
 A|you think back,|sd
 A|and yeah,|sd
-A|it was him, but with ayou know, with the beard and all that stuff.|sd
+A|it was him, but with a you know, with the beard and all that stuff.|sd
 B|Yeah.|b
 A|I mean, it's, uh,|%
 B|Yeah,|b
@@ -150,13 +150,13 @@ B|I mean, I haven't been watching my watch.|sd
 B|Um, I guess,|%
 B|yeah.|%
 B|Does it usually cut off?|qy
-B|Is that what,it does?|qy
+B|Is that what, it does?|qy
 A|Well, I don't know.|no
 A|Why do we end this thing?|qw
-B|It used to,it used to just automatically cut off|sd
+B|It used to, it used to just automatically cut off|sd
 A|I think it just says hang up.|sd
 B|but it says when the conversation is over just say your good-byes and hang up.|sd
-B|So,I, I guess so.|h
+B|So, I, I guess so.|h
 A|Why don't we do that?|qw
 B|Okay.|fo_o_fw_"_by_bc
 A|Good-bye Sharon.|fc

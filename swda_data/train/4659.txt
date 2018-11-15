@@ -15,7 +15,7 @@ B|you go into a, a business today|sd
 B|and, you, you try to imagine the whole thing except running off of carbon paper|sd
 B|and it's almost inconceivable now because the Xerox machines and, and everything have become such, you know, such a, a a part of the way we live.|sv
 A|Right.|aa
-A| We fax everything.|sd
+A| We fax  everything.|sd
 B| And , |%
 B|Yeah.|b
 A|We don't even wait for the mail anymore.|sd
@@ -25,7 +25,7 @@ B|Yeah, uh,|b
 B|a business associate of mine was, was talking about how it used to be where you would send things through the mail|sd
 B|and you had to do something,|sd
 B|this was concerning the S E C,|sd
-B|and so if they had business to do, they had to finish it, you know, three days in advance so they could get it through the mail.you know, through a fax machinein, in a matter of minutesBecause you can get it there, you know *"Because" as connector; sd|sd
+B|and so if they had business to do, they had to finish it, you know, three days in advance so they could get it through the mail. Because you can get it there, you know *"Because" as connector; sd in, in a matter of minutes you know, through a fax machine|sd
 A|Right.|b
 A|Uh-huh.|b
 A|Uh-huh|b
@@ -68,7 +68,7 @@ A|and not very many of my daughter's friends really are on their original mother
 A|You know, I'm wondering what this is going to do in ten and twenty years.|sd
 B|Well, there's that|aa
 B|and there's the fact that, you know, nowadays fewer and fewer couples are deciding to have kids which generally tends to happen.|sd
-B|I mean the U S would be actually declining in population slightly if it weren't for the fact that we,have continuation, large scale immigration into the country.|sd
+B|I mean the U S would be actually declining in population slightly if it weren't for the fact that we, have continuation, large scale immigration into the country.|sd
 A|You're probably right|aap_am
 A|And I'm an O B nurse|sd
 A|and that's never really occurred to me but that's, that's interesting.|sd
@@ -82,9 +82,9 @@ A|Yeah,|aa
 A|yeah.|aa
 A|That's true.|aa
 A|When is this good or not good. *listen|%
-B|Well, uh,In terms of the long term effect, effect on, on America, in terms of the culture and everything, I don't know. |sd
+B|Well, uh, In terms of the long term effect, effect on, on America, in terms of the culture and everything, I don't know. |sd
 A|We don't know that yet|sv
-B|Uh, extremely large part of the next generation is going to be, you know, second generation, uh, from immigrant parents.Most of the, of the next generation is going to be in, or, or an,|sv
+B|Uh,  Most of the, of the next generation is going to be in, or, or an, extremely large part of the next generation is going to be, you know, second generation, uh, from immigrant parents.|sv
 A| Yeah.|aa
 A| I don't know either.|sd
 A| That's true. |aa
@@ -103,7 +103,7 @@ A|it's just very, very different|sv
 A|and I guess every ten years it's just been very different.|sv
 B|Yeah|b
 A|So. And I don't know what's going to happen.|sd
-A|Uh, I know what I'm seeing here at my job is that people are having their children much later in life so  that they're establishing careers|sd
+A|Uh, I know what I'm seeing here at my job is that people are having their children much later in life  so  that they're establishing careers|sd
 B|Yeah,|aa
 B| |%
 A|and they've got their homes|sd

@@ -23,7 +23,7 @@ A|Which, which Billy Crystal movie?|qw
 B|Oh, this is the,|sd
 B|uh, just the one, oh,|sd
 B|gosh,|ba
-B|it was the, uh,CITY SLICKERS,|sd
+B|it was the, uh, CITY SLICKERS,|sd
 A|Oh, CITY SLICKERS,|^2
 B|right.|aa
 A|That's a real good show.|sv
@@ -32,7 +32,7 @@ A|Yeah,|ny
 A|it's great.|sv
 A|Uh, it says a lot about, uh, uh, you know,|sv
 A|I, I'm young,|sd
-A|but it says a lot about middle lifeyou know,|sv
+A|but it says a lot about middle life you know,|sv
 B|Uh-huh.|b
 A|and, uh, uh, it's a really good show.|sv
 B|Yeah,|b
@@ -59,7 +59,7 @@ B|Yeah,|b
 B|there's, there's been a, a fair number of, of pretty good movies out recently.|sv
 A|Yeah.|b
 B|I mean it kind of runs in, in batches,|sv
-B|I mean, for a while, sometimes they come in a whole bunch of them that just, I don't even, you knowdoesn't even sound like something I want to see.|sd
+B|I mean, for a while, sometimes they come in a whole bunch of them that just, I don't even, you know doesn't even sound like something I want to see.|sd
 A|Yeah.|b
 A|Uh-huh.|b
 B|What, what kind of movies in general do you like to watch?|qw
@@ -79,7 +79,7 @@ A|Uh, it's a, it's a,|%
 A|has Robert DeNiro in it.|sd
 A|Uh, he plays one of the main characters|sd
 A|and, uh, it's about, uh, Jesuit community in, uh, at the Inca Falls in, in, uh, South America, Northern Argentina.|sd
-B|Oh, uh-huhNo,|b
+B|Oh, uh-huh No,|b
 A|Uh, really, really good show.|sd
 B|in fact, I, I, I'll, I'll look for it because I|sd
 A|Yeah,|b
@@ -89,14 +89,14 @@ A|The cinematography is just beautiful and really beautiful scenes and real good
 B|Actually yeah,|b
 B|my wife's from down in that region around the the, called the, the Seven Missions which are, which are right down in this, where I'm sure where it was filmed at.|sd
 A|Oh.|b
-B|And, uh,I'm sure that, that would make it worth, worth her watching.|sd
+B|And, uh, I'm sure that, that would make it worth, worth her watching.|sd
 A|Yeah.|b
 B|She,|%
 B|my, my, uh, my movie watching has, has, severely, uh, has, has changed a lot since I got married.|sd
 A|Oh, yeah?|bh
 B|Yeah,|ny
 B|she, she likes, uh, action movies and, uh, and, and comedies|sd
-B|and so anything that's, has anythingis boring to herlittle, is a little, little bit less than sort of mainstream Hollywood is|sd
+B|and so anything that's, has anything little, is a little, little bit less than sort of mainstream Hollywood is is boring to her|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Oh.|b
@@ -115,7 +115,7 @@ B|it's funny because most women aren't really,|sv
 B|she's sort of Schwarzenegger fan type of.|sd
 A|Oh, really?|bh
 B|Yeah,|ny
-B|she really likes all these goryshoot them up films.|sd
+B|she really likes all these gory shoot them up films.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|Keep her on the edge of her seat.|sd
@@ -125,21 +125,21 @@ A|Yeah,|aa
 A|they are.|sv
 A|Sometimes you're in the mood for it even.|sv
 B|But, uh, so it, it, it varies,|sd
-B|I don't seem to get, you know, as much variety these days latelyas I used to.|sd
+B|I don't seem to get, you know, as much variety these days lately as I used to.|sd
 A|Uh-huh.|b
 A|I found when, when I get, when I get with my, uh, old college buddy, we, we usually rent, uh, good gladiator movie or two|sd
 A|Uh, I still enjoy watching those.|sd
-A|You can't just watch them by yourself or else,it's not bearable.|sv
+A|You can't just watch them by yourself or else, it's not bearable.|sv
 A|But it's, it's fun to,|sv
 B|Well, yeah,|aa
 B|on the other hand, you know, given that my wife likes those, I, I, say, I occasionally like to watch them|sd
 B|and, and so, uh, you know, so it's, you can always count on her to watch something like that|sd
-B|And she'll even watch things like karate movies and stuff like that.won't,You know, which most, most women now|sd
+B|And she'll even watch things like karate movies and stuff like that. You know, which most, most women now won't,|sd
 A|Oh, yeah?|bh
 A|Yeah,|aa
 A|yeah,|aa
-A|that's, that's,The ones where they dub in, dub in the English.|bf
-B|they won't come within ten feet of,All the sounds of the karate chops flying through the airAll the, all the ya|sv
+A|that's, that's, The ones where they dub in, dub in the English.|bf
+B|they won't come within ten feet of, All the, all the ya All the sounds of the karate chops flying through the air|sv
 B|A-cha! .|ba
 A|That's great.|ba
 A|Uh, uh, on foreign films did, uh, did you, did you watch,|qy
@@ -154,7 +154,7 @@ B|No,|nn
 B|I, I,|%
 A|I don't either.|sd
 A|I, I feel foolish sometimes because I, I don't speak another language fluently|sd
-A|but I do enjoy watchingyou know, subtitles.|sd
+A|but I do enjoy watching you know, subtitles.|sd
 B|Yeah.|b
 B|I mean, for some people, that's just, you know, that's out of the question, you know.|sv
 B|You give it subtitles, they won't watch,|sv

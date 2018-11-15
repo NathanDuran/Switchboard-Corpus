@@ -1,12 +1,12 @@
 A|They suggested some sort of a recipe, uh, for, uh, company, for entertaining.|sd
 A|Did you have anything in mind that, uh, you'd like to share?|qy
-B|Well, I, uh, just had a Christmas Around The World partythe other night and had some hors d'oeuvres.|sd
+B|Well, I, uh, just had a Christmas Around The World party the other night and had some hors d'oeuvres.|sd
 A|Ooh.|bk
 A|Oh.|bk
 B|And I fixed, uh, a crab meat spread that is real good and real easy.|sd
 A|Ooh, that sounds good.|ba
 A|What,|%
-B|It's, uh, it's like, uh, eight ounces of cream cheesesoftened,|sd
+B|It's, uh, it's like, uh, eight ounces of cream cheese softened,|sd
 A|Uh-huh.|b
 B|and you mix it with one tablespoon onion juice and one tablespoon lemon juice, one tablespoon worcester sauce and mix it and spread it out onto a plate.|ad
 B|And,|%
@@ -35,8 +35,8 @@ B|well, it doesn't make quite as much as you think,|sd
 B|but, yeah,|%
 B|spread it out because you keep the cream cheese kind of thin.|ad
 A|And how much crab meat did you use?|qw
-B|One tin.Of the flake.|sd
-A|One,One can of flake.|b
+B|One tin. Of the flake.|sd
+A|One, One can of flake.|b
 B|Uh-huh.|%
 B|And drain it real good.|ad
 B|Uh-huh.|b
@@ -58,7 +58,7 @@ A|I went back to the store|sd
 A|and they said it is a fish product.|sd
 B|Uh-huh,|b
 B|uh-huh.|b
-A|So, therefore, you really don't have a very long life, you knowonce you buy it.|sv
+A|So, therefore, you really don't have a very long life, you know once you buy it.|sv
 B|Right.|b
 B|Right.|b
 A|I thought, so, you know, they should put some directions on some of these new things they're making that you really don't know what the shelf life is.|sv
@@ -81,7 +81,7 @@ B|Yeah,|bk
 B|okay,|bk
 B|that's where I picked it up.|sd
 B|It comes out of Chicago|sd
-B|and they're very goodcheesecakes.|sd
+B|and they're very good cheesecakes.|sd
 A|Oh.|b
 A|Oh, that sounds good|ba
 B|Yeah.|b
@@ -97,7 +97,7 @@ A|Oh, hey, that sounds,|%
 B|And I think they're, what, about nine dollars and something.|sd
 A|Right.|b
 A|And it's something good to have on hand, too.|sv
-A|It's frozenplace, right?in the first|qy
+A|It's frozen in the first place, right?|qy
 B|Yes.|ny
 B|Yes.|ny
 B|Yes.|ny
@@ -131,7 +131,7 @@ A|It's trying to think,|sd
 A|and then we just, uh, built a new home|sd
 A|and I have one of these kitchens that's the center of the house|sd
 B|Uh-huh.|b
-A|and so no matter where they're at, your company can see you cooking.Which is funny.|sd
+A|and so no matter where they're at, your company can see you cooking. Which is funny.|sd
 B|That's right.|aa
 B|And your mess|sv
 A|This, well, this is what everyone has said.|sd
@@ -139,7 +139,7 @@ A|They said it's okay for you because you keep a real neat kitchen.|sd
 A|And I said, yes,|sd
 A|I decided it looks better in BETTER HOMES AND GARDENS than it does in practicality.|sv
 B|Yeah|b
-A|But, uh, what I have learned in the, uh, ten months we've lived here, is it that when I entertain, I have to have my foods all prepared and in the oven with all the, everything through, readyBecause with the open area, you don't want someone from your dining room seeing your mess, like you said.to serve.|sd
+A|But, uh, what I have learned in the, uh, ten months we've lived here, is it that when I entertain, I have to have my foods all prepared and in the oven with all the, everything through, ready to serve. Because with the open area, you don't want someone from your dining room seeing your mess, like you said.|sd
 B|Right.|b
 B|Right.|b
 B|That's, that's right.|aa
@@ -151,14 +151,14 @@ B|You know.|b
 A|And you know the funny thing is, now that I have a large kitchen with a big island and that, I still have people trying to come, you know,|sd
 A|they'll come in the kitchen|sd
 A|and I said, out,|sd
-A|we have the chairs on the other side of the counterfor guests.|^q
+A|we have the chairs on the other side of the counter for guests.|^q
 B|Correct|b
 A|You're not allowed to trespass into my kitchen|^q
 B|Sounds,|%
 A|And it, it has worked out.|sd
-A|But at our point of life we know many of the people we're entertaininguh, well enough that they know, you know, it's very much at home type situation.|sd
+A|But at our point of life we know many of the people we're entertaining uh, well enough that they know, you know, it's very much at home type situation.|sd
 B|Right.|b
 B|Well, a lot of our entertaining anymore with the couples, again, that we've known a long time like you, they, uh, we all bring things|sd
-B|and it sure makes it a whole lot easier.Anymore.|sd
-A|Well, we evenhave a better one.|sv
+B|and it sure makes it a whole lot easier. Anymore.|sd
+A|Well, we even have a better one.|sv
 A|Now we decided that we all meet, we have it worked,|sd

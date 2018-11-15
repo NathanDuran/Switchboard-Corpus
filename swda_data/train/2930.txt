@@ -13,7 +13,7 @@ B|Well, it is.|na
 B|I enjoy hiking and camping.|sd
 B|We went to the|sd
 B|. I have, uh, some land there,|sd
-B|and so it's, it's handy to, to station yourself there on the landand then make trips up into the mountains for backpacking and hiking and, and overnight camping.|sd
+B|and so it's, it's handy to, to station yourself there on the land and then make trips up into the mountains for backpacking and hiking and, and overnight camping.|sd
 A|Uh-huh.|b
 A|Well, that sounds fun.|ba
 B|Do you do most of yours in tents?|qy
@@ -25,13 +25,13 @@ A|And one of them I don't really consider camping.|sd
 B|Um.|b
 A|It was on the edge of the lake|sd
 A|and it was at a camp.|sd
-A|I don't like those camping groundswhere, you know, you got R V beside you and then another people in tents beside you.|sd
+A|I don't like those camping grounds where, you know, you got R V beside you and then another people in tents beside you.|sd
 B|Uh-huh.|b
 B| Uh-huh. |b
 A| I  just don't care for that.|sd
 B|No,|aa
 B|I agree with you.|aa
-B|I think it's much nicer when you can really get out far enough away where,right out the window. that  you can't see people|sv
+B|I think it's much nicer when you can really get out far enough away where,  that  you can't see people right out the window.|sv
 A| Uh-huh. |b
 A|Right.|b
 B|But,|%
@@ -46,10 +46,10 @@ A|And we had a ball.|sd
 B|Uh-huh.|b
 A|Just sat out there with our,|sd
 A|we didn't even use tents then,|sd
-A|we just had, uh, sleeping bagsand fire going.|sd
+A|we just had, uh, sleeping bags and fire going.|sd
 B|Uh-huh.|b
 A|And we fried potatoes and bacon and everything for breakfast the next morning.|sd
-B|Doesn't that always taste so much better, when you're out like that.|qy^d
+B|Doesn't that always taste so much better,  when you're out like that.|qy^d
 A| Oh, it did,|na
 A|it did. |na
 B| Yeah.|%
@@ -60,7 +60,7 @@ A|And she's good.|sd
 A|She'd think about bringing a rake so you can rake your area out.|sd
 A|And, yeah.|b
 B|That's right.|b
-B|If you don't you'll find every rock on it when youput your when you put your bag down.|sv
+B|If you don't you'll find every rock on it when you put your when you put your bag down.|sv
 A|Uh-huh.|b
 A|Well,|%
 A|yeah,|%
@@ -83,7 +83,7 @@ A|Yeah,|b
 A|we're still waiting to go again.|sd
 B|Uh-huh.|b
 B|Well if you get a chance,|sd
-B|now there are some really nice camping areas, uh, up in the Wichitas, which is in Oklahomaand, uh, Arkansas.|sd
+B|now there are some really nice camping areas, uh, up in the Wichitas, which is in Oklahoma and, uh, Arkansas.|sd
 A|Uh-huh.|b
 A|Arkansas.|b^m
 B|I can't remember the name.|sd
@@ -97,14 +97,14 @@ B|They have some wonderful camping areas there.|sd
 A|Pretty.|qy^d
 B|Beautiful, beautiful country.|na
 A|Well, I love to swim,|sd
-A|so I like to get out by a lakewhere we can swim.or a, uh, you know, somewhere close|sd
+A|so I like to get out by a lake or a, uh, you know, somewhere close where we can swim.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 B|Right,|b
 B|well, Lake, Lake Tawakoni is a pretty nice place|sd
 A|Uh-huh.|b
 B|and we had a two bedroom mobile home there,|sd
-B|but the boys still liked to throw their sleeping bags out by the lake andand then they came in.build a little fire and roast their marshmallows until the mosquitos bit|sd
+B|but the boys still liked to throw their sleeping bags out by the lake and build a little fire and roast their marshmallows until the mosquitos bit and then they came in.|sd
 A|Uh-huh.|b
 A|Yeah.|b
 A|How old are your boys?|qw
@@ -125,7 +125,7 @@ B|There's much less for them to get hurt on camping than there is elsewhere.|sv
 A|Think so?|qy
 B|Uh-huh.|ny
 A|Well, it's the water he's not scared of.|sd
-A|He'll go out into it until it's up to his noseand then try to tread back|sd
+A|He'll go out into it until it's up to his nose and then try to tread back|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Well, it's easy to keep him occupied though on land.|sd
@@ -133,11 +133,11 @@ B|I know that I took my kids, we'd go out,|sd
 B|and I've them walk with me along the lakefront|sd
 A|Uh-huh.|b
 B|and we'd have a little contest finding the tiniest shell, and finding the biggest shell.|sd
-B|And, or we'd hunt pine conesor we climbed some, uh, pinon pines one year and gathered the cones so that we could eat the pine nuts.|sd
+B|And, or we'd hunt pine cones or we climbed some, uh, pinon pines one year and gathered the cones so that we could eat the pine nuts.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|And, we did a lot of naturalist work when we were out.|sd
-B|We, you know, we, we  searched for|sd
+B|We, you know, we,  we  searched for|sd
 A| Uh-huh. |b
 B|and we ate the wild plants|sd
 B|and we gathered wild berries,|sd

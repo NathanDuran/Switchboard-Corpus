@@ -10,7 +10,7 @@ A|I have heard someone else, uh, say that, uh, the Canadian health insurance is 
 B|It's wonderful.|sv
 A|and one of the ways that they're financing it is they have an exorbitant tax on their cigarettes.|sd
 B|Oh,|b
-A|This isevidently this is one of the ways that they're paying for the program plus discouraging the people to quit smoking so they don't have to pay out as many, uh, benefits on like lung cancer and things like this.|sv
+A|This is evidently this is one of the ways that they're paying for the program plus discouraging the people to quit smoking so they don't have to pay out as many, uh, benefits on like lung cancer and things like this.|sv
 B|Well,|b
 B|Well, even if that's|%
 B|so, you know, really when you look at it, they have full coverage,|sv
@@ -55,7 +55,7 @@ A|and they had screwed up her appointment,|sd
 A|and when she went in, she had to take whichever doctor was available,|sd
 A|and they,|%
 A|she would have had to wait like two months to get the doctor she wanted.|sd
-B|Well, but that'sthat's a screw up in an appointment, you know,|sd
+B|Well, but that's that's a screw up in an appointment, you know,|sd
 A|But then again, I guess you can even do that in McCullum.|sv
 B|I'm going back to the days when I was pregnant|sd
 A|Uh-huh.|b
@@ -72,7 +72,7 @@ B|and, you know, if, um, I go to Townsend|sd
 A|Uh-huh.|b
 B|he's got a new partner.|sd
 B|I go to both of them now.|sd
-B|You know, I have no choiceif Dr. Howe or whatever his name is is on duty, I go to him.because when I want to go,|sd
+B|You know, I have no choice because when I want to go, if Dr. Howe or whatever his name is is on duty, I go to him.|sd
 A|Right.|b
 A|Well, you know, it, uh,|%
 A|how do you think we're going to pay for it?|qh
@@ -81,17 +81,17 @@ B|Well, no,|ar
 B|we need to cut some of our spendings, cut some of the fat off the top and whittle it down to the rest of us.|sd
 A|I know that it's getting to the point that the insurance doesn't pay that much on catastrophic illnesses.|sv
 B|No.|b
-A|They don't pay anything on, uh, implantsor transplants,|sd
+A|They don't pay anything on, uh, implants or transplants,|sd
 B|No.|b
 A|and, you know, people are needing these,|sd
-A|and the average person can't afford, you know, a heart or a kidneyon just their own.|sd
+A|and the average person can't afford, you know, a heart or a kidney on just their own.|sd
 B|Yeah.|b
 B|But you known, Ronnie, in Austin, went to a program and went to a social worker|sd
 A|Uh-huh.|b
 B|and at the same token there is something,|sd
 B|because he can get his pills for two dollars, when I'm paying fifteen on my medical insurance|sd
 A|Good grief.|ba
-B|and he can get free medical care, but he has to go to the city hospital instead of seeing Davidand so again, you know,|sd
+B|and he can get free medical care, but he has to go to the city hospital instead of seeing David and so again, you know,|sd
 A|Uh-huh.|b
 B|we went through it, Ronnie's home tonight,|sd
 B|and we talked about it and said, you know, is it worth it?|sd
@@ -99,7 +99,7 @@ B|Yeah,|b
 B|you know, he pays forty-five dollars a month for his prescriptions, where he could pay six dollars.|sd
 A|Uh-huh,|b
 A|uh-huh.|b
-B|So, thereare programs, you know, if you get on Medicare or Medicaid or one of those,|sd
+B|So, there are programs, you know, if you get on Medicare or Medicaid or one of those,|sd
 A|Very true.|ba
 A|Well, I know they have the Medicaid, you know, for those that have trouble,|sd
 A|and I know that like we have the, uh, prescription cards which,|sd

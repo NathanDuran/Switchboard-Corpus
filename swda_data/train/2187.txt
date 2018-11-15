@@ -14,7 +14,7 @@ A|they interrupt at the end.|sd
 A|Um, yeah,|%
 A|it says what you would have for a dinner party,|sd
 A|I just happen to plan one out for Saturday|sd
-A|I'll tell you,Um, if I can find it.what I'm going to have.|sd
+A|I'll tell you, what I'm going to have. Um, if I can find it.|sd
 B|Oh, that's wonderful.|ba
 B|Okay.|b
 A|Well, I have this new fondue pot|sd
@@ -31,7 +31,7 @@ A|the cheese fondue I make,|sd
 A|some people like swiss, um,|sd
 A|I prefer cheddar.|sd
 A|And I'll mix,|sd
-A|I won't make, I won't have a sharp cheddar because it, for fondue I think it should be a little calmer than real sharp,cheddar.|sd
+A|I won't make, I won't have a sharp cheddar because it, for fondue I think it should be a little calmer than real sharp, cheddar.|sd
 B|Right.|b
 B|Yeah.|b
 A|And then I was going to make other things like potato skins.|sd
@@ -56,14 +56,14 @@ A|and they always, about every party they do is they have a vegetable tray.|sd
 A|I think they try and suggest it.|sd
 B|Uh-huh.|b
 A|What I've been doing when I get invited someplace and bring something, I make, uh, food kabobs.|sd
-A|You take little toothpicks and cut up,and even banana if you can do it just before you leave.uh, pineapple and strawberry,|sd
+A|You take little toothpicks and cut up, uh, pineapple and strawberry, and even banana if you can do it just before you leave.|sd
 B|Oh.|b
 B|Yes.|b
 B|Right.|b
 A|It stays nice and fresh.|sd
 B|Right,|aa
 B|that's true.|sv
-B|Or even have you ever seen where they, they'll take a watermelon and just cut the top out of it and then hollow that out,and then put the fruit in the watermelon that is really neat .|qy
+B|Or even have you ever seen where they, they'll take a watermelon and just cut the top out of it and then hollow that out, and then put the fruit in the watermelon that is really neat .|qy
 A|Yeah.|ny
 A|Yeah,|b
 A|I like those|sd
@@ -75,7 +75,7 @@ A|I never made one for myself though.|sd
 A|But they look easy enough to make|sv
 A|it's not,|%
 B|Oh, I think it would, it would be a lot of work|sv
-B|but, um,you know, because it's, you know,|h
+B|but, um, you know, because it's, you know,|h
 A|Yeah.|b
 B|you have to cut each thing or, you know, use the melon baller and stuff|sv
 B|but, but I think they're really neat|sv
@@ -110,7 +110,7 @@ A|so. But they're really reasonably priced,|sd
 A|they're coming up from Florida,|sd
 A|so.|%
 B|Oh, well, that's good|ba
-B|because I know they've been really expensive lately.Because they weren't in season,|sd
+B|because I know they've been really expensive lately. Because they weren't in season,|sd
 A|Yeah.|b
 B|of course, they had to be, be, uh, grown in greenhouses and stuff and in ,|sd
 A|Yeah,|b
@@ -169,7 +169,7 @@ A|and it does an excellent job,|sv
 A|or just hand beat it.|sd
 A|I guess you could use a hand mixer|sd
 A|but I don't think it I don't think it gets it good enough.|sv
-B|Uh-huh.Huh.|b
+B|Uh-huh. Huh.|b
 A|And then before the milk gets too hot, um, I add two beaten eggs and I really mix them in good. And then about a half a cup of sugar|sd
 A|and I let it pretty much,|sd
 A|I beat it like every minute for about ten seconds|sd
@@ -185,7 +185,7 @@ A|and someone who's just going to make it first time, it's,|sd
 A|you'll have much better luck if you had one of these little blenders.|sd
 A|And then you can add cocoa powder to it to make chocolate|sd
 A|or after it's thickened I cook it for a good,|sd
-A|once it starts boiling, I just, I cook it for a good seven minutes,seven to ten minutes|sd
+A|once it starts boiling, I just, I cook it for a good seven minutes, seven to ten minutes|sd
 B|Uh-huh.|b
 A|and then you can make chocolate|sd
 A|or you can take it off and let it cool|sd
@@ -225,7 +225,7 @@ A|and I'm like, oh,|sd
 A|this is kind of groedy .|^q
 B|Well, how did you get a recipe for pudding on your own?|qw
 A|Um, actually I found it in one of my mother's, um, homemade cookbooks,|sd
-A|I mean,something she had collected out of WOMAN'S DAY or something.|sd
+A|I mean, something she had collected out of WOMAN'S DAY or something.|sd
 B|Is that right?|bh
 B|Oh, neat,|ba
 A|So,|%
@@ -261,7 +261,7 @@ A|like, my husband really likes it thick|sd
 A|he says, I can stick the spoon right in this.|sd
 B|Oh.|b
 A|Because I'm always worrying it won't firm up because it, when you take it out of the saucepan it's like, boy, I hope this thickens a little more because it's not like real package thick, you know,|sd
-A|when you cook a package,it's, it's a little less,|sd
+A|when you cook a package, it's, it's a little less,|sd
 B|Uh-huh.|b
 A|but I put it in a nice glass bowl|sd
 A|and, um, some people don't like that, that, film on the pudding|sv

@@ -49,11 +49,11 @@ A|no|%
 B|and, uh, and if you get that you can,|sv
 B|and if you do well, you can, you can learn a job,|sv
 A|Yeah,|b
-A|but they, you know, if they learn the job and they can go into graduate schoolusually a company, it will, if it's worth it's weight, will subsidize,|sv
+A|but they, you know, if they learn the job and they can go into graduate school usually a company, it will, if it's worth it's weight, will subsidize,|sv
 B|That's exactly right.|aa
 B|That's right.|aa
 A|And,|%
-B|So the advice we gave to themdescribe first of all, the size school that you might be interested inthat you're thinking aboutwas, number one, visit the colleges|sd
+B|So the advice we gave to them was, number one, visit the colleges that you're thinking about describe first of all, the size school that you might be interested in|sd
 A|Uh-huh.|b
 A|This, this is true,|aa
 A|Yes.|b
@@ -70,7 +70,7 @@ B|but he did not want to be in a swim factory.|sd
 A|Okay.|b
 A|So he wouldn't have gone to something like where we're at, they'd, in Austin, Texas, University of Texas,|bf
 B|That's right,|aa
-B|that's the University of Texas at Austin, orso he didn't even consider those.Stanford or something like that|sd
+B|that's the University of Texas at Austin, or Stanford or something like that so he didn't even consider those.|sd
 A|Right.|b
 A|Texas|b^m
 A|yeah,|b
@@ -84,7 +84,7 @@ A|um, sounds like your son has academically the standing to get into that type o
 B|He is very, very strong academically,|sd
 B|yeah,|%
 B|so, we've just,|%
-B|but, you know, he had to look to seewhat kind of environment he liked,|sd
+B|but, you know, he had to look to see what kind of environment he liked,|sd
 A|Uh-huh.|b
 B|and yet he, he did wind up having to make a choice.|sd
 B|He did apply to a large, you know, large group,|sd
@@ -95,7 +95,7 @@ A|University of Pennsylvania,|sd
 B|It's got about nine thousand undergraduate.|sd
 A|Yeah,|aa
 A|that's strong,|sv
-A|I mean that'syou know|%
+A|I mean that's you know|%
 B|Yeah,|b
 B|Yeah.|b
 A|and it's, it's, well, it's a little bit, I don't want to use the word wilder, that's not the word I want. Um, more diverse|sv
@@ -112,10 +112,10 @@ A|Right.|b
 B|um, and it's a total of two thousand.|sd
 A|Well that's not bad.|ba
 B|Yeah,|aa
-B|so he knew the feeling because my other son is at Amherst which isfifteen hundred|sd
+B|so he knew the feeling because my other son is at Amherst which is fifteen hundred|sd
 A|Which is a lot,|^2
 A|Yeah.|b
-B|and he had visited his brother at Amherst and knewthat he liked the environment|sd
+B|and he had visited his brother at Amherst and knew that he liked the environment|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|but he did go on college visits,|sd
@@ -150,12 +150,12 @@ B|we went|sd
 B|and he was, you know, impressed by the clean air|sd
 B|and he, he met the students at both schools|sd
 B|and he liked them.|sd
-A|Well you know, um, my husband's an engineer and a strong , a strong liberal arts background with, uh, a graduate degree in a technical fieldon top of it.will get him much further than say like a, a strong, um, business administration degree than with another M B A|sd
+A|Well you know, um, my husband's an engineer and a strong , a strong liberal arts background with, uh, a graduate degree in a technical field will get him much further than say like a, a strong, um, business administration degree than with another M B A on top of it.|sd
 B|Uh-huh.|b
 B|That's it.|aa
-B|The thing is if, if a person really knows very early on with a good  technical program,in a technical field, than you're not, then it's probably good to go to, you know, to apply to a  school that they want to go|sv
+B|The thing is if, if a person really knows very early on that they want to go in a technical field, than you're not, then it's probably good to go to, you know, to apply to a  school   with a good  technical program,|sv
 A|Uh-huh.|b
-A|and they usually, Yeah,|^2
+A|and they usually,  Yeah,|^2
 A|  but they usually don't. |sv
 B|but, uh, for, if you're going into,|sv
 B|if you know engineering is the thing if, then you've got to at least take engineering.|sv
@@ -163,10 +163,10 @@ A|Right,|aa
 A|but they,|sd
 A|no|%
 A|but who does.|qh
-A|I mean, I think, I think  all, I think the majority of people just don't know.|sv
+A|I mean, I think,  I think  all, I think the majority of people just don't know.|sv
 B| That's right. |aa
 A|No|%
-A|he looked at criteria such as location, size of schooluh,|sd
+A|he looked at criteria such as location, size of school uh,|sd
 B|Uh-huh.|b
 B|No|%
 B|he didn't apply to any school further,|sd
@@ -188,17 +188,17 @@ B|Yeah,|aa
 B|and he will,|sd
 B|and if, it came down I mean, as he, he came,|sd
 B|he's been talking to them|sd
-B|and,and he came down|sd
+B|and, and he came down|sd
 B|and one of the things that he said is, he went to Pennsylvania this weekend|sd
 B|and he had an absolutely marvelous time|sd
 A|Uh-huh.|b
 B|he had a great time|sd
 B|but then he said, you know, it was such a good time that I almost got the feeling that their emphasis is on having fun.|sd
 A|That could very well be|sv
-A|and,So he's developing his, his, uh, internal instincts right now.|sv
+A|and, So he's developing his, his, uh, internal instincts right now.|sv
 B|and he said it almost|sd
 B|I think it backfired.|sd
-A|That's good becauseI mean I'm sure what he said was true, that, uh, you,|sv
+A|That's good because I mean I'm sure what he said was true, that, uh, you,|sv
 B|So.|%
 A|well actually that's one of the reasons I went to ,|sd
 A|Kenyon, he he made a good choice.|sv
@@ -206,9 +206,9 @@ A|I went,|sd
 A|I, well I was supposed to,|sd
 A|but I spent a year in Vermont, my freshman year,|sd
 A|it was just too far away,|sd
-A|it was too differentuh, the level of income of lot of the students|sd
+A|it was too different uh, the level of income of lot of the students|sd
 B|Uh-huh.|b
-A|and their attitudes was just, um, beyond my, um, in  terms of drugs, et cetera, which I thought was shocking.|sd
+A|and their attitudes was just, um, beyond my,  um, in  terms of drugs, et cetera, which I thought was shocking.|sd
 B| Yeah,|b
 B|yeah. |b
 B|Of course, that period too was probably difficult.|sv
@@ -217,13 +217,13 @@ A|yeah,|aa
 A|you're right|sv
 A|but then I went,|sd
 B|But I did, uh,|sd
-B|my advice to him,and my was that, uh, he had to really decide what he wanted out of college.|sd
+B|my advice to him, and my was that, uh, he had to really decide what he wanted out of college.|sd
 A|Yeah.|b
 B|He had to look at himself.|sd
 B|Uh, in a larger school he had to realize that if he was going to screw around it, he could probably slip|sd
-B|and it wouldn't be caught up until it was too late where in a smaller schoolwhere, especially in a Kenyon or a Williams, where you see the professors around town all the time, you skip class in the morning and they see you,|sd
+B|and it wouldn't be caught up until it was too late where in a smaller school where, especially in a Kenyon or a Williams, where you see the professors around town all the time, you skip class in the morning and they see you,|sd
 A|Uh-huh.|b
-A|And you're going to get a little bit more input thandiscipline|sd
+A|And you're going to get a little bit more input than discipline|sd
 B|That's,|%
 B|yeah,|aa
 B|yeah.|aa
@@ -232,7 +232,7 @@ B|And a swim coach is going to be right on top of you, uh, so that,|sd
 B|and he will know the professors in a small,|sd
 A|Well I don't know how to put this either in this way|h
 A|and then it doesn't sound like your sons would need this|sv
-A|but I just think the other thing is with the way a lot of the youth is today, I think the refinement that they getYou knowbecause I just don't think at that age I just don't think that young people know what they want to do.I don't mean specifically or culture but just what you're saying, just a solid background|sv
+A|but I just think the other thing is with the way a lot of the youth is today, I think the refinement that they get I don't mean specifically or culture but just what you're saying, just a solid background because I just don't think at that age I just don't think that young people know what they want to do. You know|sv
 B|Uh-huh.|b
 B|Yeah,|b
 B|yeah.|b
@@ -243,13 +243,13 @@ B|And, um, and it's just the personal contact where if you need help|sd
 A|That's right.|aa
 B|he had,|%
 B|I told him to look to yourself.|sd
-B|Are you the kind of person that will go into a large college and if the professor says I've got office hours but you really don't feel that you know him because you're in a class of a hundred that you're really  going to look him up|^q
+B|Are you the kind of person that will go into a large college and if the professor says I've got office hours but you really don't feel that you know him because you're in a class of a hundred  that you're really  going to look him up|^q
 A| Right . |b
 A|Yeah.|b
-B|but if it's a class of fifteenand you need help, you know that it's much easier to do it and especially in the large schools they have lectures|^q
+B|but if it's a class of fifteen and you need help, you know that it's much easier to do it and especially in the large schools they have lectures|^q
 A|This is very, very,|sv
 A|Oh.|b
-B|and even though they may break it up into smaller groups Penn is known for having graduate assistance teaching. |sd
+B|and even though they may break it up into smaller groups Penn is known for having  graduate assistance teaching. |sd
 A| They have video lectures. |^2
 A|Yeah.|b
 A| Video lectures. |b^m
@@ -282,9 +282,9 @@ B|He,|%
 B|the moment he knew, he, he decided early on that Amherst was the school.|sd
 B|He's a classical guitarist|sd
 A|Oh, wonderful.|ba
-B|and he decided, he also got into the graduate school of music as an undergraduatefor classical guitar,|sd
+B|and he decided, he also got into the graduate school of music as an undergraduate for classical guitar,|sd
 A|Uh-huh.|b
-B|but he decided he was going to go to the, umthe smaller now, and then graduate school later.|sd
+B|but he decided he was going to go to the, um the smaller now, and then graduate school later.|sd
 A|The smaller and the,|^2
 A|And they'll do fine in their studies,|sv
 A|and I'm sure they'll go on to graduate school,|sv
@@ -294,8 +294,8 @@ B|and he had thought about economics,|sd
 B|and he took a couple of courses in economics and decided that wasn't,|sd
 A|or is this early admissions?|qrr
 B|He's, um, he's going to be a junior.|sd
-B|He'll be, he's finishing his sophomore yearso he's double majoring.|sd
-A|So he's,So he's, yeah,|bf
+B|He'll be, he's finishing his sophomore year so he's double majoring.|sd
+A|So he's, So he's, yeah,|bf
 A|well sounds like you have two talented sons.|sv
 B|Well, you know, see the advice we give is to not limit yourself, especially this, you know, go to a school where you're not forced to make too many irrevocable decisions your first year or two.|sd
 A|I think, and a lot of people talk about,|sv
@@ -312,7 +312,7 @@ A|No,|b
 A|and I agree,|aa
 A|I mean, my husband and I,|sd
 A|in fact, I'm taking my L S A T um,|sd
-A|I'm thirty somethingand taking my L S A T on June tenth.|sd
+A|I'm thirty something and taking my L S A T on June tenth.|sd
 B|Oh, good,|ba
 B|that's wonderful.|ba
 B|Oh, that's great.|ba

@@ -8,14 +8,14 @@ A|and, um, the best thing we found to do with him is to walk around.|sd
 A|So my wife and I kind of take turns.|sd
 A|At one time I had a fairly regular exercise program.|sd
 A|But, in the last couple of months I've changed to a new residence and everything has gotten kind of turned a little upside down.|sd
-A|All this space that normally would be dedicated towards the,exercise area, is covered in boxes.|sd
+A|All this space that normally would be dedicated towards the, exercise area, is covered in boxes.|sd
 B|Yeah.|b
 B|Um, what did you do when you did exercise regularly?|qw
 A|Well, I had, uh, a little routine that I did for warm ups.|sd
 B|Huh-uh.|b
 A|And then I did some very mild, say, light weight lifting.|sd
 A|Nothing,|sd
-A|I'm not trying to make big bulging muscles,just trying to try and stay as firm as I can stay in my old age|sd
+A|I'm not trying to make big bulging muscles, just trying to try and stay as firm as I can stay in my old age|sd
 B|Huh-uh.|b
 B|Yeah|b
 B|Um, right now, um, I try when it's nice out,|sd
@@ -24,7 +24,7 @@ B|but I try to, uh,|sd
 B|I have a bicycle|sd
 B|and I like to cycle a lot.|sd
 B|And, uh, my husband and I, we have entered a few rallies, that's pretty popular in Texas,|sd
-B|I don't know,if it's up north,|sd
+B|I don't know, if it's up north,|sd
 A|Huh-uh.|b
 B|but every weekend a small town will sponsor a rally|sd
 B|and thousands of people come with their bikes and ride over hilly terrain for thirty or forty miles, which that's a lot of fun.|sd
@@ -80,7 +80,7 @@ B|He's, he's, kind of, he's pretty much the innovator of the whole exercise thin
 B|Um, he was talking about the three things you could, that cause aging smoking are inactivity, * mistranscribed? listen|sd
 B|and what was the other one, I think was, yeah, obesity.|sd
 B|If you can control those three areas, then are you going to live longer, you know, cause those are risk factors,|sd
-B|so anyway,it's kind of a tip.|sd
+B|so anyway, it's kind of a tip.|sd
 A|Yeah.|b
 A|Oh, I've done a lot of study over the years|sd
 A|and I found that probably one of the worst things that anybody can ingest is chlorinated water.|sd
@@ -93,7 +93,7 @@ A|And, it's amazing, that, uh, you know, prior to like nineteen-twenty there wer
 B|Huh-uh.|b
 A|There were none prior to nineteen-hundred.|sd
 A|Well, in nineteen-three they started experimenting with chlorinating the water. In nineteen-thirteen most of the major cities,|sd
-A|and after that we,we started having the hearts attacks|sd
+A|and after that we, we started having the hearts attacks|sd
 A|and, uh, Dr. Price wrote a book CORONARY, CHOLESTEROL, AND CHLORINE.|sd
 A|You can usually find it in a health food store.|sd
 B|Huh-uh.|b
@@ -112,7 +112,7 @@ A|and he points out that people in, uh, England|sd
 A|and, uh, or even diets that quadrupled the amount of cholesterol that we're ingesting now,|sd
 A|and they weren't dropping dead of heart attacks.|sd
 A|Yeah.|b
-A|He did some experiments on chickens whose arteries are very similar to ours.clogging of the arteries.And, uh, proved that ingestion of chlorine causes arteriosclerosis, which is the,|sd
+A|He did some experiments on chickens whose arteries are very similar to ours. And, uh, proved that ingestion of chlorine causes arteriosclerosis, which is the, clogging of the arteries.|sd
 B|Huh-uh.|b
 B|Yeah.|b
 A|And, uh, you know, he's,|%
@@ -156,10 +156,10 @@ A|Yeah.|b
 A|I actually eat pretty much anything that I want.|sd
 B|Huh-uh.|b
 A|And I've had my cholesterol checked and, uh, a few times|sd
-A|and I've never been above, like, you know, one-hundred and fifty,never.|sd
+A|and I've never been above, like, you know, one-hundred and fifty, never.|sd
 B|Huh-uh.|b
 A|And, uh, uh, I mean, I,|%
-B|You have a good ratio of good to bad.Cholesterol.|sv
+B|You have a good ratio of good to bad. Cholesterol.|sv
 A|but, I mean, you know, everything is like within five to ten percent and all that kind of thing|sv
 A|You know, they leave themselves wide open so they can't be sued.|sv
 B|Yeah.|b
@@ -171,6 +171,6 @@ A|and we've had a few of the health fairs up here|sd
 A|and, um, you know, I've always come out aces.|sd
 B|That's good.|ba
 A|You know, I'm not really that big on watching what I eat,|sd
-A|but I do eat, you know, some health cookies that are high in fiber,low in fat and all that kind of stuff.|sd
+A|but I do eat, you know, some health cookies that are high in fiber, low in fat and all that kind of stuff.|sd
 B|Yeah.|b
 A|But, I mean as far as really being concerned about ingesting too much chlorine, I'm not, cholesterol, I'm not worried about it.|sd

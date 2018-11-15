@@ -51,9 +51,9 @@ A|and the brakes go out fairly rapidly on those|sd
 A|and what I was surprised at is that on my little Nissan I bought the truck with about sixty thousand, I have almost one hundred and ten,|sd
 A|so I drove on those brake pads for, uh, you know, forty-five thousand miles|sd
 A|and there was hardly any wear to them.|sd
-A|So those small little trucks and cars like that, they just the longevity of the brake pads is really good.Exactly,|sv
+A|So those small little trucks and cars like that, they just the longevity of the brake pads is really good. Exactly,|sv
 B|You know, they've gotten to the point that where they don't weigh very much|sd
-B|and the thesurface materials on the pads is so good.|sv
+B|and the the surface materials on the pads is so good.|sv
 A|so I, you know, I just did it anyway.|sd
 A|I like to, I like to stay up on it.|sd
 A|You know, like I just kind of stay up on it|sd
@@ -61,14 +61,14 @@ A|and then if you go and like, just about any point, any you know point in time 
 A|You know, it's not dirty.|sd
 A|I, I, I keep it that way because that's, that is the key to the longevity.|sv
 B|Right.|b
-B| Well it sounds like you've had some good experiences with that|sv
+B| Well  it sounds like you've had some good experiences with that|sv
 A| So, so how, |%
 A|Uh-huh.|b
 B|uh, and my experiences have been kind of contrary to that.|sd
 A|Oh,|b
 A|oh.|b
 B|Uh, I, I get a little more involved in the maintenance of my car |sd
-B|and, uh that I've, uh, beefed up a little bitand in fact I have an eighty-seven Mustang with a three O two in it|sd
+B|and, uh  and in fact I have an eighty-seven Mustang with a three O two in it that I've, uh, beefed up a little bit|sd
 A| Uh-huh. |b
 A|Uh-huh.|b
 A|Okay.|b
@@ -78,7 +78,7 @@ B|uh, the only catch was the first set of under drive pulleys that I put on it w
 B|They were just pressed aluminum.|sd
 A|You're talking about the vibration dampener?|qy^d
 B|Well, there's three, there's three pulleys that you change.|^h
-B|You change the crank pulleythe alternator pulley and, uh, the water pump pulley.|sd
+B|You change the crank pulley the alternator pulley and, uh, the water pump pulley.|sd
 A|That's the vibration dampener,|sd
 A|yeah.|aa
 A|Okay.|bk
@@ -86,7 +86,7 @@ B|So, when I changed those over, I put on these, these pressed aluminum things|s
 A|Um.|%
 B|and, uh, probably about four months ago the water pump decided to go out.|sd
 A|Uh, oh.|ba
-B|So in the process of seizing, the belt spun on the pulley and woreBut not far enough to notice.through the water pump pulley almost all the way.|sd
+B|So in the process of seizing, the belt spun on the pulley and wore through the water pump pulley almost all the way. But not far enough to notice.|sd
 A|Um.|%
 A|Uh, oh.|ba
 A|Huh.|%

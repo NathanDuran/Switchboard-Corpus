@@ -1,20 +1,20 @@
 B|I don't know what you drive now.|sd
 B|I mean, what do you drive now?|qw
 A|Uh, I have a Ford pickup|sd
-A|and, uh, the family car is a, uh, a Dodge Caravan.And, uh, because we have three kids and they're under thirteen|sd
+A|and, uh, the family car is a, uh, a Dodge Caravan. And, uh, because we have three kids and they're under thirteen|sd
 B|Oh, okay.|bk
 A|so, uh|%
 B|Throw them in the back.|^2
 A|they sort of fit our requirement.|sd
 A|Yeah,|b
-A|I have a, one of those, uh, pickups with the, uh,  seat with a seat in the back.|sd
+A|I have a, one of those, uh, pickups with the, uh,  seat  with a seat in the back.|sd
 B| Cab. |^2
 B|Oh, yeah?|bh
 A|And so they just fit in there.|sd
 A|When they get to be teenagers with long legs, it may not work.|sd
 B| Yeah |b
 A| Right now,  I can, right now, I can throw them all in the back when we have room|sd
-A|and, uhand since I do a lot of projects, I throw things in the back|sd
+A|and, uh and since I do a lot of projects, I throw things in the back|sd
 B|There you go.|ba
 A|and I kind of like having a pickup truck.|sd
 B| Yeah,|b
@@ -37,7 +37,7 @@ B|You're just like me.|sv
 B|I've never bought a new vehicle in my life.|sd
 A|And, uh, yeah,|b
 A|I don't, I don't need to pay for the glitz.|sd
-A|I'lllet somebody else, uh, have the showroom shine|sd
+A|I'll let somebody else, uh, have the showroom shine|sd
 B|No.|aa
 A|and I'll  pay for the rest of it. |sd
 B|  Let somebody else break it in,|sv
@@ -49,7 +49,7 @@ A|We, we could probably do with a, a, something just a little bit larger than a 
 A|I'm not sure.|sd
 B|Yeah.|b
 A|We have to, we, we'll have to face it in a couple of years |sd
-A|but, uh, I, I guess, we had a small Toyota wagon|sd
+A|but, uh,  I, I guess, we had a small Toyota wagon|sd
 B|Right.|b
 A|and we were real happy with that because, uh, my, my second requirement after price is, uh, low maintenance.|sd
 B|Right.|b
@@ -67,22 +67,22 @@ B|I mean, it, it'll tow three thousand pounds|sd
 B|so I can tow everything|sd
 B|and it,|%
 B|I can throw,|sd
-B|I've had eleven people in it beforeBelieve it or not.|sd
+B|I've had eleven people in it before Believe it or not.|sd
 A|Uh-huh.|b
 B|And, uh, it's real reliable,|sd
 B|I, I mean I've had it for almost four years now|sd
 B|and up until, oh, say two weeks ago, it had never had anything wrong with it.|sd
 A|Uh-huh.|b
-B|And then, of course, two weeks ago,it decided,|sd
+B|And then, of course, two weeks ago, it decided,|sd
 B|I don't know,|h
 B|it's the strangest, weirdest thing in the world,|sd
 B|but it blew a head gasket.|sd
 A|Uh-oh.|ba
 B|Didn't do any damage to it.|sd
-B| Uh, I caught it real early.|sd
+B| Uh, I caught  it real early.|sd
 A| How,|%
-A|at how at how many miles?|qw
-B|Uh, oh ninety-seventhousand.|sd
+A|at how  at how many miles?|qw
+B|Uh, oh ninety-seven thousand.|sd
 A|Huh.|b
 B|So it's not real early|sd
 A|You didn't overheat it?|qy^d
@@ -97,10 +97,10 @@ A|Huh.|b
 A| Well that was, , |%
 B| And that was it |sd
 B|because I, I have that|sd
-B|and then I have a, a Kawasaki motorcycle.Which is, actually, the, usually my preferred mode of transportation if I can take it and it's not raining.|sd
+B|and then I have a, a Kawasaki motorcycle. Which is, actually, the, usually my preferred mode of transportation if I can take it and it's not raining.|sd
 A|Uh-huh.|b
 A|Yeah.|b
-B|I mean that's, that's sort of my,hobby though more than a vehicle.|sd
+B|I mean that's, that's sort of my, hobby though more than a vehicle.|sd
 B|It, it's a|%
 B|I don't know,|h
 B|people who buy motorcycles for transportation I think are kidding themselves|sd
@@ -118,7 +118,7 @@ B|So, you know,|%
 B|when was the last time you took out, took your truck out just to, just to go driving?|qh
 B|Yeah.|b
 A|No|aa
-B|And I go out twice a week on the bike, so.the enjoyment.At least.  Just for |sd
+B|And I go out twice a week on the bike, so. At least.  Just for  the enjoyment.|sd
 A|Yeah.|b
 A| Uh . |%
 A|Yeah|b
@@ -149,9 +149,9 @@ B|though I think the Chevies,|sv
 B|I don't think the|sv
 B|I don't like the Chevies as much as I like the Fords.|sv
 A|Yeah.|b
-B|I think they, I think the Fords tend to last a little longer. At  least until recently|sv
+B|I think they, I think the Fords tend to last a little longer.  At  least until recently|sv
 A|Right.|b
-A| I I kind of like mine,|sd
+A| I  I kind of like mine,|sd
 A|yeah,|b
 A|so, mine's a Ford|sd
 B|A friend of mine just bought , bought like a year ago. It, it's a really nice truck.|sd

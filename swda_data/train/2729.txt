@@ -5,9 +5,9 @@ A|Uh, she was, uh, uh,|%
 A|a person lives across the street from me, uh, brought her home from work because a coworker of hers, uh, had this dog appear on its front doorstep,|sd
 B|Uh.|%
 A|somebody, somebody abandoned her|sd
-A|and,she's only about, oh, between six and eight, six to eight weeks old|sd
+A|and, she's only about, oh, between six and eight, six to eight weeks old|sd
 B|Uh-huh.|b
-A|and,uh, uh, I can't understand why anyone would abandon this dog, though.|sd
+A|and, uh, uh, I can't understand why anyone would abandon this dog, though.|sd
 B|Oh.|b
 A|She's, I mean she's that, this young|sd
 A|and she's almost housebroken.|sd
@@ -39,7 +39,7 @@ A|now this one was purebred|sd
 A|and, uh, he, when he was about seven months old got a gastrointestinal virus and was just about on death's door|sd
 A|but, uh, managed to get him to a veterinarian in time,|sd
 B|Uh-huh.|b
-A|and, uh, and on huge doses of antibiotics,and he actually got over it with, seven hundred dollars in vet bills,|sd
+A|and, uh, and on huge doses of antibiotics, and he actually got over it with, seven hundred dollars in vet bills,|sd
 B|Um.|%
 B|Wow.|ba
 A|um, but he had actually was able to get him over that.|sd
@@ -59,7 +59,7 @@ A|so they just felt absolutely awful.|sd
 B|Oh, I bet.|ba
 A|And I felt, felt probably worse for them than, than for me|sd
 A|because, oh gosh they, the, uh, this fellow's wife who was, uh, watching the dog, she, I think she loved that dog more than I did|sd
-A|and, uh.She was really attached to it,|sd
+A|and, uh. She was really attached to it,|sd
 B|Oh gosh.|ba
 A|but, uh, it's unfortunate,|sd
 A|but now, I've got another one,|sd
@@ -95,7 +95,7 @@ B|Yeah.|b
 A|And she, she turned out to be a great dog|sd
 A|and we had her for six years until she just passed away recently|sd
 A|and again dad went through the whole thing,|sd
-A|but,mom went an,|sd
+A|but, mom went an,|sd
 B|Okay,|b
 B|yeah.|b
 B|Well you just do,|sv
@@ -118,7 +118,7 @@ A|Oh.|b
 B|And, uh, and her nose is that pink, you know,|sd
 A|Uh-huh.|b
 B|she doesn't have a brown nose,|sd
-B|and her she's sort of unicolor, you know,eyes are the same color and everything,|sd
+B|and her she's sort of unicolor, you know, eyes are the same color and everything,|sd
 A|Yeah.|b
 B|so. I named her Rosebud,|sd
 B|and, uh, a friend of mine said, she, that she|sd
@@ -163,7 +163,7 @@ B|Really.|b
 A|But he jumped in, in the, the river.|sd
 B|Did puppy go to?|qy
 A|Well the puppy jumped in the, into some of the pools but not into the,|sd
-A|I was careful to keep her away from the,the fast moving water,|sd
+A|I was careful to keep her away from the, the fast moving water,|sd
 B|Oh, that's good,|ba
 B|yeah.|b
 A|'cause if she fell in then I'd of been, had to go in after her.|sd
@@ -172,7 +172,7 @@ B|Ugh,|ba
 B|ugh.|ba
 A|And I would not have been fun trying to retrieve her,|sd
 A|but, uh, this dog, Dennis jumped in and got this look on his face like what do I do now, as he's floating down the river then finally discovered that he could swim and, uh, actually paddled up against the current and, uh, made it back to the shore and climbed up|sd
-A|and then,he, he jumped in again,|sd
+A|and then, he, he jumped in again,|sd
 A|and he was swimming for quite a bit, all afternoon.|sd
 A|He loved it.|sd
 B|Yeah,|b
@@ -187,7 +187,7 @@ B|we, we had a little pool,|sd
 A|Uh-huh.|b
 B|and, uh, she was, she did not want any part of swimming|sd
 B|but she liked to, to get in the pool on the first step.|sd
-B|She'd just get on the first step and lay down.You know in the summertime when it's really, really hot.|sd
+B|She'd just get on the first step and lay down. You know in the summertime when it's really, really hot.|sd
 A|Uh-huh.|b
 A|Yeah.|b
 B|And she'd just lay there on that step and just, you know, cool off|sd
@@ -198,7 +198,7 @@ A|and I'm wondering if, uh, if she'll want to go out there and go swimming next 
 A|I mean, I've got,|sd
 A|the yard's all fenced in|sd
 A|so she doesn't run loose,|sd
-A|but, uh,she could go in sometime when, if I'm watching her,|sd
+A|but, uh, she could go in sometime when, if I'm watching her,|sd
 B|Uh-huh.|b
 A|so.|%
 B|Yeah|b
@@ -210,7 +210,7 @@ B|oh baths.|sd
 B|Oh gee, she hated baths worse than anything.|sd
 B|It was, it was just really a fight to, you know, get her clean.|sd
 A|Yeah.|b
-B|Have you seen, uh, CANINE.The movie, oh,|qy
+B|Have you seen, uh, CANINE. The movie, oh,|qy
 A|No,|nn
 A|no.|nn
 B|you've got to see it. Especially since you have a German,|ad
@@ -272,7 +272,7 @@ A|the,|%
 B|Oh, yeah,|aa
 B|there's just,|sd
 A|uh,|%
-A|what's the, what's the word I'm looking for, uh, lots of affection, nounconditional affection from the, from the dog.|sv
+A|what's the, what's the word I'm looking for, uh, lots of affection, no unconditional affection from the, from the dog.|sv
 B|Right,|aa
 B|that's it.|aa
 A|Yeah,|b

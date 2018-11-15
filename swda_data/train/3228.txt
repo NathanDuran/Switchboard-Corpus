@@ -4,15 +4,15 @@ B|well, there's two.|sd
 B|I took my kids to see A HUNDRED AND ONE DALMATIANS|sd
 B|of course they wanted to see it.|sd
 B|They had the Disney|sd
-B|bookand they thought that was wonderful|sd
+B|book and they thought that was wonderful|sd
 A|Uh-huh.|b
 B|and they loved the dogs,|sd
-A|It's one of myfavorite even,|sd
+A|It's one of my favorite even,|sd
 B|we went with some friends of ours,|sd
 B|and I was a little worried about my son.|sd
 B|He's about two and a half|sd
 A|Uh-huh.|b
-B|and he's going through a stage right now where he's kind of afraid of dogs barking if he canhear them and can't see them|sd
+B|and he's going through a stage right now where he's kind of afraid of dogs barking if he can hear them and can't see them|sd
 A|Yeah,|b
 A|yeah.|b
 A|Yeah.|b
@@ -49,7 +49,7 @@ A|I guess so,|na
 A|I guess so,|na
 A|I guess so.|na
 A|We're not real big movie goers ourselves,|sd
-A|but we did try to go see about a month ago that, um, DEAD AGAINthat black and white one,|sd
+A|but we did try to go see about a month ago that, um, DEAD AGAIN that black and white one,|sd
 B|Yeah.|b
 A|and I was not real impressed with it.|sd
 A|In fact we kept sitting there all through the theater going now what, what did that mean,|sd
@@ -64,7 +64,7 @@ A|And I'm sorry|fa
 B|Oh, no.|bd
 A|We're just not real big movie goers.|sd
 B|Well, I like to watch the movies,|sd
-B|but it's gotten so expensive that wewait until they come out on video|sd
+B|but it's gotten so expensive that we wait until they come out on video|sd
 A|Yeah.|b
 A|Well, that's us too|sd
 B|and we rent them|sd
@@ -86,15 +86,15 @@ B|That's true.|aa
 A|and I thought they could learn a lot of lessons from that.|sv
 A|The little guy is so cute,|sd
 A|and he's terribly rich by now.|sd
-B|I hope he stays cutenot spoiled, you know,|sv
+B|I hope he stays cute not spoiled, you know,|sv
 A|Yeah,|aa
 A|me too|aa
-B|you get to wheregoes to something, you know,the money goes to their heads or|sv
+B|you get to where the money goes to their heads or goes to something, you know,|sv
 A|Oh, that's right.|aa
 A|That's right.|aa
 B|they grow up too fast,|sv
 B|so. But, uh, there's a lot I want to see, you know,|sd
-B|what I try to do when they come out is just make a list of them that look goodso that when they come out in video.|sd
+B|what I try to do when they come out is just make a list of them that look good so that when they come out in video.|sd
 A|That's right.|b
 B|You know, I'd like to see GREEN CARD,|sd
 B|I want to see AWAKENING.|sd
@@ -106,13 +106,13 @@ A|AWAKENING is supposed to be wonderful|sd
 B|Yeah.|b
 A|my mom saw that|sd
 A|and she said that was an excellent movie.|sd
-B|And see, I've had somebody tell me that REGARDING HENRY, you know, the Harrisonsupposed to be really good,Ford movie is|sd
+B|And see, I've had somebody tell me that REGARDING HENRY, you know, the Harrison Ford movie is supposed to be really good,|sd
 A|Yes.|b
 A|Yes.|b
 B|I'd like to see that.|sd
 A|I think that's supposed to be good,|sv
 A|and I, uh, we have some doctors at church who said that DOCTOR was just wonderful.|sd
-B|I've heard that'sgood,|sd
+B|I've heard that's good,|sd
 A|Uh-huh.|b
 B|yeah.|%
 B|So I think there's a bunch of good movies coming out.|sd
@@ -120,7 +120,7 @@ B|My kids want to see RESCUER'S DOWN UNDER|sd
 A|Uh-huh.|b
 B|so I'm going to|%
 B|my V C R went on the blitz about two weeks ago,|sd
-B|so I'm getting it fixed right nowand stuffbecause they have their little movies, their little, you know, Disney movies they watch all the time|sd
+B|so I'm getting it fixed right now because they have their little movies, their little, you know, Disney movies they watch all the time and stuff|sd
 A|Oh, dear.|ba
 A|Uh-huh.|b
 B|and,|%
@@ -130,10 +130,10 @@ A|uh, HUNDRED AND ONE DALMATIANS|sd
 B|Yeah.|b
 A|um, did you all ever think about purchasing that one, when it comes out?|qy
 B|You know, I look at those,|^h
-B|like CINDERELLA came outwas for sale,|sd
+B|like CINDERELLA came out was for sale,|sd
 A|Uh-huh.|b
 B|and, I don't buy them,|ng
-B|I, now I will copy them and rent themand keep them at home|sd
+B|I, now I will copy them and rent them and keep them at home|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|but I just have a problem paying twenty five dollars for a movie that I can go down and rent for a dollar|sv
@@ -146,14 +146,14 @@ A|they had HOME ALONE offered for like,|sd
 A|I think with the rebate you could get it for nine dollars|sd
 B|Oh, that's pretty good,|ba
 A|and I thought well, now that's, that's close enough to being several, you know,|sv
-A|you could rent itmore than four times and watch that.more than|sv
+A|you could rent it more than more than four times and watch that.|sv
 B|Yeah.|b
 B|Yeah.|b
 B|That, that makes it worth it, uh,|sv
 B|but, a lot of the Disney movies, it's just too expensive,|sv
 B|and I can rent them|sd
-A|Well, I I understandI understand,|aa
-B|or I can make a copyyou know,|sd
+A|Well, I I understand I understand,|aa
+B|or I can make a copy you know,|sd
 B|my daughter's in love with the LITTLE MERMAID|sd
 A|Oh, yeah,|b
 A|of course.|b
@@ -166,21 +166,21 @@ B|in fact she told me, Mom if we have a little girl and she has red hair we're n
 A|Oh, sweet|ba
 B|Now, I'm not pregnant, mind you,|sd
 B|but this is,|%
-A|But that's, in her plans. |^2
+A|But that's,  in her plans. |^2
 B| she's planning ahead, |sd
 B|Yeah,|aa
 A|Well, it's hard, it's hard to find a movie any more these days that you can take your kids|sv
 B|Yeah.|b
 A|and even the ones that we rent at home, the trouble with some of them I know,|sd
-A|we rented ADVENTURES IN BABY-SITTINGthinking that would be so cute,|sd
+A|we rented ADVENTURES IN BABY-SITTING thinking that would be so cute,|sd
 B|Oh, I know.|ba
 A|and it's a precious movie,|sd
 A|but the language in it is just for no reason, has to stick in,|sd
 B|Now, see, I remember thinking it's a wonderful movie,|sd
-B|but it's been so long since Iwatched it,|sd
+B|but it's been so long since I watched it,|sd
 A|Uh-huh.|b
 B|I don't remember the language.|sd
-A|Well, you watch, it differently  when your kids are in the room, you know|sv
+A|Well, you watch,  it differently  when your kids are in the room, you know|sv
 B| Was it bad? |qy
 B|Well, that's true.|aa
 A|and I was just sitting there going, Oh, my goodness,|sd
@@ -191,7 +191,7 @@ B|you're right,|aa
 B|I watched it without them.|sd
 A|Uh-huh,|b
 A|yeah,|b
-A|it's, it's a little different, because you see things from a differentdifferent angle.|sv
+A|it's, it's a little different, because you see things from a different different angle.|sv
 B|Huh.|b
 B|Huh.|b
 A|Uh, we rented,|sd

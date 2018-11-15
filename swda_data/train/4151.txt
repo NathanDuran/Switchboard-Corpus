@@ -17,7 +17,7 @@ B|Oh, it's a, uh, it's a question of your, your gut reactions to something like 
 A|Right,|aa
 A|exactly.|aa
 B|Uh, and that was the thing that, uh, killed Dukakis back, uh, four years ago when someone asked him a similar question|sv
-B|and he, he thought for a second and gave a thoughtful well reasoned reply when, uh, people wanted to see if he was going to go for an emotionuh, a gut level reaction.|sd
+B|and he, he thought for a second and gave a thoughtful well reasoned reply when, uh, people wanted to see if he was going to go for an emotion uh, a gut level reaction.|sd
 A|Uh-huh.|b
 B|And I think that the people who are strongly in favor of the death penalty are really working from that gut level.|sv
 B|Uh, you know, whether it be a biblical force, uh, you know, the eye for an eye, a tooth for a tooth, a life for a knife, life type logic or just, uh, uh, some sort of anger at putting putting, uh, murderers up in federal pens for the rest of their life, uh, while we foot the bill.|sv
@@ -32,7 +32,7 @@ A|Um, the death penalty surely fits in well with, uh, in a penal situation where
 A|Uh, perhaps not in the manner that we do it|sv
 A|but, but it, in, in theory it fits in.|sv
 A|In system, in a reformatory, I mean|%
-A|if you, if you put someone to death you obviously,can't reform them.|sd
+A|if you, if you put someone to death you obviously, can't reform them.|sd
 B|That's true.|aa
 A|So.|%
 B|Uh, the other argument is that the death penalty is a deterrent|sd
@@ -40,13 +40,13 @@ B|and I really don't, uh, agree with that.|sv
 B|I don't think anyone who would commit a, uh, a crime that would get them the death penalty would stop at the moment and say, well, I was about to kill and dismember this person|sv
 B|but, oh, if they catch me they're going to kill me|^q
 B|so I better not do it.|^q
-B|I, I just, don't  think that, uh, that it works that way.|sv
+B|I, I just,  don't  think that, uh, that it works that way.|sv
 A| Yeah. |b
 A|I don't think it's done.|sv
 A|I don't think we run it as a deterrent.|sv
 A|I mean people say that,|sd
 A|but, I mean, if it was really a deterrent, I mean I think like horse thieves in the old west, you know,|sv
-A|they saw other horse thieves hanging by the necksevery once in a while.|sd
+A|they saw other horse thieves hanging by the necks every once in a while.|sd
 B|Uh-huh.|b
 A|And if we really if it was really seriously going to be a deterrent, I would think that it would be public.|sv
 A|I mean I don't think it would be this private thing because nobody ever, nobody ever sees it.|sv

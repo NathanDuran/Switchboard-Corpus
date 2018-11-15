@@ -13,7 +13,7 @@ B|I, I feel like that child molestation and murder|sv
 B|I don't see any sense in someone living that does things like that.|sv
 B|I, I don't feel like they're a benefit to society in any way,|sv
 B|and of course Texas has it, but they very seldom, you know, put it into effect.|sd
-B|So instead all of our prisons are full of people on, you knowa lot of people on death row.|sv
+B|So instead all of our prisons are full of people on, you know a lot of people on death row.|sv
 A|Okay, well,|b
 A|Uh, Texas uses it as, about as much as any other state.|sv
 B|Well, uh, yeah|b
@@ -23,7 +23,7 @@ B|Right.|b
 A|Um, here in Maryland to the capital punishment law,|%
 A|people are sometimes sentenced to capital punishment, but no one, no one has, actually has the sentence carried out.|sd
 A|Uh, I'd certainly,|%
-B|What do they do, just keep them on death rowfor the rest of their life.|qy
+B|What do they do, just keep them on death row for the rest of their life.|qy
 A|Uh-huh.|ny
 A|I think so.|sd
 B|Uh-huh.|b
@@ -45,7 +45,7 @@ B|and there are extenuating circumstances on certain types, um, but I have to sa
 A|Um.|%
 B|uh, almost that eye for an eye and a tooth for a tooth.|sv
 A|Okay,|b
-A|you're, you're certainly in the majorityuh, at least in this country.|sd
+A|you're, you're certainly in the majority uh, at least in this country.|sd
 B|Yes.|b
 A|Uh, we are, I guess, the only one of the major Western nations currently with capital punishment.|sv
 B|I know they use it very, um,|%
@@ -82,6 +82,6 @@ B|I would have said that it was more prevalent here in the United States.|sv
 B|That's an interesting theory.|sv
 B|I'm not that familiar, you know,|sd
 B|I've only been over there a couple of times|sd
-B|and I'm not that familiarwith, that,|sd
+B|and I'm not that familiar with, that,|sd
 A|Me, too.|sd
 B|all I know is that, for instance we were in Germany in, uh,|sd

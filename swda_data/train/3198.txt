@@ -1,6 +1,6 @@
 A|Okay.|fo_o_fw_"_by_bc
 A|Did you want me to go ahead?|qy
-B|I'll let you go ahead and start, yeah.of that kind of stuff|aa
+B|I'll let you go ahead and start, yeah. of that kind of stuff|aa
 A|Okay.|bk
 A|Well, one thing,|%
 A|I, I guess both of us are very much aware of the equality.|sv
@@ -22,7 +22,7 @@ B|Yeah.|b
 A|It doesn't bother him at all to do the laundry verses, uh, men from way back.|sd
 A|There is that,|%
 A|well, if you did that you were henpecked or whatever.|sv
-A|But,men are starting,|sv
+A|But, men are starting,|sv
 B|Yeah,|b
 B|yeah.|b
 B|There are still some that aren't cooperating|sv
@@ -37,7 +37,7 @@ B|Yeah.|b
 A|And it's, it's hard enough to be a woman out there trying to do everything, uh, you know, and then kind of real light pay.|sv
 A|There's just no way that we can be happy trying to do it all.|sv
 A|So it's, it's kind of a, uh, neat thing to see as far as equality in the households,|sv
-A|and I think that's even going to get better. Even, you know,even more so.|sv
+A|and I think that's even going to get better. Even, you know, even more so.|sv
 B|Yeah.|b
 A|I think it's just going to be where men will do as much cleaning as women do and that it won't be your job description instead of your role definition is this.|sv
 A|It will be, uh,|%
@@ -54,14 +54,14 @@ A|you don't have to be,|sd
 B|Yeah.|b
 A|so.|%
 B|Yeah.|b
-B|Well, I feel like, um, to an extent that is really important,that they can do that.uh, or are in a position that they want toyou know, that, that, um, it is important for women who need to work|sv
+B|Well, I feel like, um, to an extent that is really important, you know, that, that, um, it is important for women who need to work uh, or are in a position that they want to that they can do that.|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|If they want to, right.|^2
 A|Uh-huh.|b
 B|Um, but I also think it is important for them to be with the children.|sv
 A|I do too.|aa
-B|I,I think there, there are some things that women just are designed to do better than men.|sv
+B|I, I think there, there are some things that women just are designed to do better than men.|sv
 A|You know, there's a certain part of me,|sd
 A|Uh-huh.|b
 B|And there are some things that men are designed to do better than women.|sv
@@ -70,7 +70,7 @@ B|I don't think it should ever be totally equal.|sv
 A|Yeah.|b
 B|You know that's not, uh,|%
 B|we're not made like that.|sv
-A|Well, emotionally I think, uh,women do a little bit, uh,|sv
+A|Well, emotionally I think, uh, women do a little bit, uh,|sv
 B|That's right.|ba
 A|I, I think that's, the gap is coming closer as, um, what I've learned in, uh, just, just being out there.|sv
 A|It seems that men are now starting to get into groups called men's gatherings,|sv
@@ -79,16 +79,16 @@ A|and they talk about issues of marriage, talk about manhood, talk about what th
 B|Huh.|b
 A|Are expressing more emotions, learning what emotions are.|sv
 A|It may be in the future that men, you know, some men may be better parent or mothers than mothers themselves.|sv
-A|UmI, I know of some mothers that I, I guess I'd rather be with the father because the father is maybe more understanding, more, um, low key, more apt to be a better father than some mothers that I have seen that have been raised, you know, to develop whatever skills that they have,|sv
+A|Um I, I know of some mothers that I, I guess I'd rather be with the father because the father is maybe more understanding, more, um, low key, more apt to be a better father than some mothers that I have seen that have been raised, you know, to develop whatever skills that they have,|sv
 B|Yeah.|b
 A|and some of the men are developing, uh, very good too.|sv
-A|So,and not by sex.it may come down to where it's, it's individual basis. Where everybody is treated an as individual,|sv
+A|So, it may come down to where it's, it's individual basis. Where everybody is treated an as individual, and not by sex.|sv
 B|Yeah.|b
 B|Yeah.|b
 A|If you want to stay home and take care of the kids, honey, that's fine.|sd
 A|I will go out and make the, uh, take care of the, uh, money making.|sd
 A|And it, it wouldn't matter if it's a woman or a man saying that.|sv
-B|One of the frustrations that I have with the way things have developed is that, and for some it's not a problem, but there's more and more, it's difficult for a family to make a living on oneincome.|sv
+B|One of the frustrations that I have with the way things have developed is that, and for some it's not a problem, but there's more and more, it's difficult for a family to make a living on one income.|sv
 A|On one income,|^2
 A|uh-huh.|b
 B|It can be done,|sv
@@ -100,5 +100,5 @@ B|You know, and, and it's, um,|%
 A|Kind of like what, uh, my husband and myself are doing right now.|sd
 A|My daughter's three, even though at this current time she's ready to get involved with,|sd
 A|she's an only child.|sd
-A|I don't know, if you've  only got one,|sd
+A|I don't know,  if you've  only got one,|sd
 B| Yeah. |b

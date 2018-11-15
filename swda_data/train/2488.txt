@@ -1,7 +1,7 @@
 A|Okay, Deanna, uh,|fo_o_fw_"_by_bc
 A|on capital punishment in our state, they give the death penalty for shooting of a policeman,|sd
 B|Uh-huh.|b
-A|and I believe also in shooting of, uh, rape, I mean killing a rape victim.I mean someone in the process of rape,|sd
+A|and I believe also in shooting of, uh, rape, I mean killing a rape victim. I mean someone in the process of rape,|sd
 B|Uh-huh.|b
 A|and I don't know what I don't really remember what else.|sd
 B|Uh-huh.|b
@@ -32,7 +32,7 @@ B|and so, and then you call this number|sd
 B|and you press like one for yes and two for no.|sd
 A|Right,|b
 A|uh-huh.|b
-B|And one of the things, the questions the other day, this last paper, and I haven't seen the results of it, I'm anxious to, was do you think that, um, capital punishment ought to apply to drug dealers.Which I thought was a real interesting question|sd
+B|And one of the things, the questions the other day, this last paper, and I haven't seen the results of it, I'm anxious to, was do you think that, um, capital punishment ought to apply to drug dealers. Which I thought was a real interesting question|sd
 A|Oh I think,|%
 A|Right,|b
 A|right,|b
@@ -62,14 +62,14 @@ A|I think you're right.|aa
 B|It's going to take, uh, it's going to take all of us getting together,|sv
 B|I'm sorry, I'm trying to,|%
 B|my kid is asking for a kiss and a hug so he can go to bed|sd
-B|It's going to take all of us, you know getting together and just saying,we are not going to take it any more.|sv
+B|It's going to take all of us, you know getting together and just saying, we are not going to take it any more.|sv
 A|Right.|b
 A|We won't allow this in our neighborhood.|sd
 B|That's right,|aa
 B|that's right.|aa
 A|And it said they're going to other neighborhoods from there,|sd
 B|Uh-huh.|b
-A|and then quite often they'll get shot,because they're horning in on somebody else's territory.|sd
+A|and then quite often they'll get shot, because they're horning in on somebody else's territory.|sd
 B|Uh.|b
 B|That's right,|aa
 B|that's right, uh.|aa
@@ -105,7 +105,7 @@ B|So once, they've gotten the penalty and there is no doubt, do it, you know,|sv
 B|just,|%
 A|Right.|b
 B|I I guess, I mean that may sound, that sounds cold,|sv
-B|but gosh, you know, we're keeping, you know we're, we're keeping these men in prison for fifteen or twenty years on death row,and not doing anything with them,|sv
+B|but gosh, you know, we're keeping, you know we're, we're keeping these men in prison for fifteen or twenty years on death row, and not doing anything with them,|sv
 A|Uh-huh,|aa
 A|that's right.|aa
 B|and it's costing us a heck of a lot of money|sv
@@ -145,7 +145,7 @@ B|and I don't know,|h
 B|the same thing goes with some of these insanity pleas, you know.|sv
 A|Right,|aa
 A|yeah.|aa
-B|Well, if you're insane enough that you can go cut twelve people up into little bitty pieces and bury them in your back yard,then are can, can you be helped, you know,|qh
+B|Well, if you're insane enough that you can go cut twelve people up into little bitty pieces and bury them in your back yard, then are can, can you be helped, you know,|qh
 B|I have, I have my doubts, you know.|sd
 A|That's right,|aa
 A|yeah,|aa
@@ -163,9 +163,9 @@ B|No.|nn
 A|No.|b^m
 B|No,|nn
 B|huh-uh.|nn
-A|it was, I think it was the south east area,from Dallas.|sd
+A|it was, I think it was the south east area, from Dallas.|sd
 B|Oh, really.|b
-A|My daughter,my daughter lives down in Rowlett|sd
+A|My daughter, my daughter lives down in Rowlett|sd
 B|Yeah.|b
 A|and she was telling me about it.|sd
 B|Oh really.|bh
@@ -178,7 +178,7 @@ B|there were several of them in North Dallas|sd
 B|and then it started kind of happening a couple of places in South Dallas|sd
 B|and that's maybe what you were talking about.|qy^d
 B|Men breaking in, uh, to houses and taking, or a man,|sd
-B|they, they think it's the same person, taking, uh, little girls right straight out of their beds at night.And taking them out, putting them in a car and driving them out and taking them out and molesting them and then bringing them back and throwing them back in their own front yards.you know, the little girl's bedroom.because they're breaking into the right window,And, you know, breaking in, obviously watching them in the house,|sd
+B|they, they think it's the same person, taking, uh, little girls right straight out of their beds at night. And, you know, breaking in, obviously watching them in the house, because they're breaking into the right window, you know, the little girl's bedroom. And taking them out, putting them in a car and driving them out and taking them out and molesting them and then bringing them back and throwing them back in their own front yards.|sd
 A|Oh gosh.|ba
 A|And that's the last they|%
 A|Yeah.|b
@@ -187,7 +187,7 @@ A|Is that right.|bh
 B|Yes,|ny
 B|that is happened,|sd
 A|I hadn't heard about that.|sd
-B|I think there's been, I think there's been like six or seven of them,over the last like probably eight or nine months.|sd
+B|I think there's been, I think there's been like six or seven of them, over the last like probably eight or nine months.|sd
 A|Gosh.|ba
 A|They don't kill them?|qy
 A|They just|qy
@@ -200,7 +200,7 @@ A|Gosh.|ba
 B|And he's taken them and, and raped them and then brought them right back and just kind of thrown them out of the car in their front yard.|sd
 A|Boy that's scary, isn't it.|bh
 B|Oh, can you imagine, because it, it happens in the middle of the night,|sd
-B|so the parent,you know, these parents didn't know this, the, the kid was gone until the kid is knocking on the door screaming, let me in.|sd
+B|so the parent, you know, these parents didn't know this, the, the kid was gone until the kid is knocking on the door screaming, let me in.|sd
 A|Yeah.|b
 A|Oh, boy.|ba
 B|You know, can you imagine.|bh
@@ -238,13 +238,13 @@ A|Uh-huh,|b
 A|yeah.|b
 B|And and I looked down both directions of the alley|sd
 B|and I saw neither one of them|sd
-B|and, uh.you know, screaming, J DAnd she was like oh God, he does this all the time, you know, where are you|sd
+B|and, uh. And she was like oh God, he does this all the time, you know, where are you you know, screaming, J D|sd
 A|Oh.|b
 A|Oh boy|ba
-B|And you know,you know,my heart was in my throat,|sd
+B|And you know, my heart was in my throat, you know,|sd
 A|And he's five?|qy
 A|Shoo, I guess so.|ba
-B|and, uh, he, Brian was two houses down.You know,|sd
+B|and, uh, he, Brian was two houses down. You know,|sd
 A|Gee.|ba
 B|and he, you know,|%
 B|I don't know,|h
@@ -256,7 +256,7 @@ A|there was a little girl picked up in Rowlett from, uh, from her front yard|sd
 A|and her dad was working in the back yard, and had just left her few minutes in the front yard|sd
 A|and somebody apparently drove up and took her|sd
 A|and they never saw her again|sd
-B|Oh, man, this is too scary,that is just too scary.|ba
+B|Oh, man, this is too scary, that is just too scary.|ba
 A|Yeah.|b
 B|You know, I let Brian play here in the back yard|sd
 B|and we've got, there's two gates that go into the back yard|sd
@@ -281,10 +281,10 @@ A|yeah,|b
 A|yeah|b
 A|I don't blame you.|ba
 B|It's really scary that you have to be that scared about your kids|sv
-B|but,I mean you do,|sv
+B|but, I mean you do,|sv
 A|Uh-huh.|b
 B|better safe than sorry.|sv
-A|And if they find who's doing that to those little girls, as far as I'm concerned he could,fry|sd
+A|And if they find who's doing that to those little girls, as far as I'm concerned he could, fry|sd
 B|He could fry.|^2
 B|Yes,|aa
 B|to put it very bluntly, he could fry,|aa
@@ -309,7 +309,7 @@ B|it seems like there's no room in jails to put them in jail|sv
 B|and when they do put them in there, you know,|sv
 B|I'm taking a business law class at night|sv
 B|and the guy that teaches it is a practicing criminal attorney|sv
-B|and,so he comes in and tell us all these bizarre cases, you know|sd
+B|and, so he comes in and tell us all these bizarre cases, you know|sd
 A|Oh, gosh.|ba
 B|and he said you can pretty much, you know if you ever get on a jury, you know, you're not told this, but if you ever get on a jury you can pretty much guess, whatever you sentence them to,|sd
 B|they're going to serve about a quarter.|^q
@@ -320,7 +320,7 @@ B|They'll serve, they'll serve a quarter of it,|^q
 A|Yeah.|b
 B|so, if you want them to stay in prison for fifteen years, don't sentence them to fifteen years, sentence them to a hundred.|sv
 A|Yeah.|b
-B|You know, because then they'll serve fifteen or twenty, so.Which is really,|sd
+B|You know, because then they'll serve fifteen or twenty, so. Which is really,|sd
 A|Yeah.|b
 B|I don't know,|h
 A|It's just not, it just doesn't seem right.|sv
@@ -329,13 +329,13 @@ B|it doesn't, it doesn't.|aa
 B|They just get out, you know,|sv
 B|there was a thing on,|%
 A|Well what are we going to do about it?|qh
-A|How, I mean how can it be changed.Unless the legislature will do something|qh
+A|How, I mean how can it be changed. Unless the legislature will do something|qh
 B|I don't know.|no
 A|and they don't seem to,|sv
 B|That's the thing,|sv
 B|we're just going to have to adopt a completely different attitude,|sv
 A|Uh-huh.|b
-B|and we're going to have to say, if you commit this crime and if we're sure you commit this crime, you are going to be sentenced to death period,period,|sv
+B|and we're going to have to say, if you commit this crime and if we're sure you commit this crime, you are going to be sentenced to death period, period,|sv
 A|Yeah.|b
 B|and do it, you know.|sv
 A|Yeah.|b
@@ -345,7 +345,7 @@ B|We're not going to say we're going to put you there for the rest of your life 
 B|we're really going to do it, you know.|sv
 B|It's just the system has just,|sv
 B|and I understand they're doing it because the prisons are full,|sv
-B|but somewhere we've got to come up with some money to build, to build more,you know, and keep these people in them, you know.|sv
+B|but somewhere we've got to come up with some money to build, to build more, you know, and keep these people in them, you know.|sv
 A|Right,|aa
 A|I think so.|aa
 A|Yeah,|aa

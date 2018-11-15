@@ -28,7 +28,7 @@ A|I just mean that, that, the world in general|sv
 B|We've got to talk so it's just, just as well we argue.|sv
 A|Yeah.|aa
 A|Um, I don't know,|h
-A|I think we should have helped the, the innocent people in Iraq out a little bit more,than, rather than just quitting where we did.|sv
+A|I think we should have helped the, the innocent people in Iraq out a little bit more, than, rather than just quitting where we did.|sv
 B|I agree.|aa
 B|Wouldn't it have been wonderful if we could have freed the country.|qy
 A|Yes|ny
@@ -39,12 +39,12 @@ B|I heard Mister Bush say, excuse me, President Bush say that he, uh, wanted to 
 A|Oh, see, I haven't really been keeping up with them|sd
 A|so I really don't know what he said.|sd
 A|What did he say about it?|qw
-B|Oh, he wanted to take the current secondary highway systemand turn it into interstates like the rest of the country.|sv
+B|Oh, he wanted to take the current secondary highway system and turn it into interstates like the rest of the country.|sv
 A|Uh-huh.|b
 A|We don't have the money for that.|sv
 B|But wouldn't it be wonderful.|qy^d
 A|It would be really nice because I'm kind of tired of driving in pot holes|na
-B|And back east,you all drive at fifty-five, don't you?|qy
+B|And back east, you all drive at fifty-five, don't you?|qy
 B|What's that?|qw
 A|I'm sorry, I dropped the phone|fa
 B|Oh, okay, um,|bk
@@ -66,7 +66,7 @@ A|No,|nn
 A|huh-uh.|nn
 B|How far west have you been?|qw
 A|Only in Ohio.|sd
-B|Oh, you've never,You've never seen the great American desert.|qy^d
+B|Oh, you've never, You've never seen the great American desert.|qy^d
 A|I've never been past Ohio.|sd
 A|No,|nn
 A|huh-uh.|nn
@@ -91,7 +91,7 @@ A|Oh, my.|ba
 B|Uh, know, virtually nothing else.|sd
 A|Uh-huh.|b
 B|Uh, yeah.|b
-B|I got my four year,got my B S in General Science.|sd
+B|I got my four year, got my B S in General Science.|sd
 A|Uh-huh.|b
 A|Really.|b
 B|Yeah,|ny
@@ -99,7 +99,7 @@ B|I know,|sd
 B|it's a funny degree|sd
 B|Anyway, uh, I know nothing other than the west.|sd
 A|Yeah.|b
-B|In fact, uh, down in east Texasthere's streams and water and things I don't understand. Trees and the gulfwhere the company's located|sd
+B|In fact, uh, down in east Texas where the company's located there's streams and water and things I don't understand. Trees and the gulf|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|and it's really interesting.|sv
@@ -121,12 +121,12 @@ A|I have no clue.|sd
 B|Close to sea level?|qy^d
 A|I would say it's closer to sea level.|na
 B|Okay,|b
-B|uh, right here in Colorado Springs where I liveit's over six thousand foot.|sd
+B|uh, right here in Colorado Springs where I live it's over six thousand foot.|sd
 A|Uh-huh.|b
 B|Um, yes|b
 B|when I lived in Texas, every year I had to drive, you know.|sd
 B|I drove every year to the gulf|sd
-B|and, you know, so I could have a feast of fresh seafoodYou know, just, just for fresh.six, eight, twelve hours away.|sd
+B|and, you know, so I could have a feast of fresh seafood six, eight, twelve hours away. You know, just, just for fresh.|sd
 A|Um.|%
 B|I, I'm really interested in the basic concept differences between west and east coast and the central parts of America.|sd
 A|Uh-huh.|b
@@ -137,12 +137,12 @@ A|I'd say five or six.|sd
 B|Oh, yeah.|b
 A|Uh-huh.|ny
 B|Uh, now when I was growing up in the Panhandle of Texas,|sd
-B|look at your map later and see the, the town of Amarillofifty miles north of that up in the Panhandle.|sd
+B|look at your map later and see the, the town of Amarillo fifty miles north of that up in the Panhandle.|sd
 A|Uh-huh.|b
 B|To just go buy a pair of jeans, we'd drive an hour.|sd
 A|Oh, my|ba
 A|Oh, my Gosh.|ba
-B|When I was growing up,Now things are different|sd
+B|When I was growing up, Now things are different|sd
 A|Uh-huh.|b
 B|and people buy jeans in town,|sd
 B|but uh, we thought nothing at all of wake up, waking up in the morning hopping into your car, grabbing the fishing poles and driving four hours.|sd
@@ -156,7 +156,7 @@ A|It's smaller than Butler|sd
 A|and, um, Butler, Butler is about an hour north east of Pittsburgh.|sd
 A|So that will give you some idea of where I'm at.|sv
 B|Okay.|b
-A|And I'm about,I'm about two hours north east of Pittsburgh.|sd
+A|And I'm about, I'm about two hours north east of Pittsburgh.|sd
 B|Okay,|b
 B|I'll look at my map later.|oo_co_cc
 B|Wow.|ba
@@ -198,7 +198,7 @@ A|Oh, really.|b
 B|Yes.|ny
 B|The, uh, new employer is in the city.|sd
 A|Uh-huh.|b
-B|So we're expecting our local economy toWell, maybe not a boom, but, uh, at least, recover to where we can all hold regular forty hour jobs still.|sd
+B|So we're expecting our local economy to Well, maybe not a boom, but, uh, at least, recover to where we can all hold regular forty hour jobs still.|sd
 A|Take a boom a little bit.|^2
 A|Well, well what would be the unemployment rate out there?|qw
 B|Uh, unemployment runs approximately six percent.|sd

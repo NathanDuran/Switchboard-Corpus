@@ -26,7 +26,7 @@ A|And, uh, we kind of have the same plan.|sv
 A|Uh, we have one credit card|sd
 A|and every month we put, uh, you know, the same amount in for retirement.|sd
 A|Uh, and we budget, we're, our, our new thing to our budget is we just had a baby.|sd
-A|So we're,starting now.budgeting, uh, each month, uh, an allowance for his education|sd
+A|So we're, budgeting, uh, each month, uh, an allowance for his education starting now.|sd
 B|Right.|b
 B|Right.|b
 A|So that's in our budget every month now.|sd
@@ -34,10 +34,10 @@ A|That's the newest addition.|sd
 A|But we too do the same thing as far as, uh,|sd
 A|we have a set amount|sd
 A|we take, oh, one big vacation a year and then maybe, you know, three small vacations.|sd
-A|So we, you know, an,exact amount that we spend on that each year.|sd
+A|So we, you know, an, exact amount that we spend on that each year.|sd
 B|Right.|b
 A| And, |%
-B| Uh,  we have found that we spend less money if we pull out the money.  Uh instead of just writing checks for things.|sd
+B| Uh,  we have found that we spend less money if we pull out the money.  Uh  instead of just writing checks for things.|sd
 A| Uh-huh. |b
 A|Uh-huh.|b
 B|If we actually pull it out and keep it in a safe here.|sd
@@ -61,7 +61,7 @@ A|I see.|b
 B|That money is put into each month.|sd
 A|Uh-huh.|b
 A|Does your husband deal in, uh, stocks and bonds and mutual funds and all that kind of stuff?|qy
-A|does he invest in that  and for long-term?|qy
+A|does he invest in that  and  for long-term?|qy
 B| He does somewhat. |no
 B|Yeah.|ny
 B|He does somewhat.|sd
@@ -78,13 +78,13 @@ A|Because you're, you've, you've sat down with a piece of paper and said well le
 A|so what goes into that, that particular thing?|qw
 A|It's vacations, Christmas.|bf
 B|Christmas, birthdays, uh, car maintenance, dental, medical,|sd
-B|we just averaged out how much last year we used per month on medical and  how much we used on dental|sd
+B|we just averaged out how much last year we used per month on medical and  how much  we used on dental|sd
 A| Uh-huh. |b
-B|and, uh, and so now when we have to come up with that deductible that our insurance doesn't coverrather than wondering where it's going to come from,|sd
+B|and, uh, and so now when we have to come up with that deductible that our insurance doesn't cover rather than wondering where it's going to come from,|sd
 A|Right.|b
 B|we have it,  you know. |sd
 A| Uh-huh. |b
-B|And when, when we see something on sale, uh, instead of just looking in our checking account and saying well we've got enough and getting it, and then when something comes up, you know, kind of scrimping to pay for a  medical bill. Everything's taken care of.|sd
+B|And when, when we see something on sale, uh, instead of just looking in our checking account and saying well we've got enough and getting it, and then when something comes up, you know, kind of scrimping to pay for a  medical bill.  Everything's taken care of.|sd
 A| Uh-huh. |b
 B|And we're finding that we even have more money than we thought.|sd
 A|Really.|bh
@@ -100,7 +100,7 @@ A|And how,  what's that?|br
 B|All the money is turned over to me.|sd
 A|Uh-huh.|b
 A|Do you have a set amount that, that you spend each month|qy
-A| or or how do you work that?|qo
+A| or  or how do you work that?|qo
 B| Yes. |ny
 B|I have a set amount.|sd
 B|It's very generous|sv
@@ -109,10 +109,10 @@ A|Uh-huh.|b
 B|And so then that can go, uh, you know, either back into our checking account|sd
 B|or I can just carry it over.|sd
 A|Uh-huh.|b
-B|Uh, you know, there are certain months of the year that you'll spend more on food than other months.  And certain times when that will be left over.|sd
+B|Uh, you know, there are certain months of the year that you'll spend more on food than other months.  And  certain times when that will be left over.|sd
 A| Uh-huh. |b
 B|But that's completely up to me how I do that.|sd
-B| And then, uh, because I don't work. I stay home.|sd
+B| And  then, uh, because I don't work. I stay home.|sd
 A| Uh-huh. |b
 A|I do too.|sd
 A|I stay home  also. |sd

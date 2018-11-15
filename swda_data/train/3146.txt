@@ -16,7 +16,7 @@ B|One of our favorite places here in, in the Dallas area is Atlantic Cafe.|sd
 B|I don't know if you, have you ever been there?|qy
 A|I've heard of that|sd
 A|but I haven't been there.|ng
-A|Um, where,about is that?|qw
+A|Um, where, about is that?|qw
 B|Um, well actually there's the Atlantic Cafe and Cafe Pacific,  and, uh, |sd
 A| Oh, okay. |bk
 A|I, I've been to Cafe Pacific.|sd
@@ -28,9 +28,9 @@ B|Did you like it?|qy
 A|Yes.|ny
 A|Uh|%
 B|Oh, I love it|sd
-A|Before we moved to,the area, my brother, uh, lived in Dallas for a number of years|sd
+A|Before we moved to, the area, my brother, uh, lived in Dallas for a number of years|sd
 A|and we came up one time when my father was visiting|sd
-A|andwe all ate there|sd
+A|and we all ate there|sd
 B|Uh-huh.|b
 A|and, oh, their seafood was wonderful.|sd
 B|Oh, it is, it's fabulous.|sv
@@ -56,7 +56,7 @@ B|You have, you have to expect to wait at least an hour.|sd
 A|Oh.|b
 B|So you have to go knowing you're going to be sitting there there for an hour waiting to get in.|sd
 B|And, as long as you know that it's okay.|sd
-B|But they have, I think, one, just about the best prime ribin the area.um, anywhere|sd
+B|But they have, I think, one, just about the best prime rib um, anywhere in the area.|sd
 A|Oh.|b
 A|Oh, okay.|bk
 B|I love it.|sd
@@ -72,8 +72,8 @@ B| I know  right away what we, what we want.|sd
 B|Yeah.|aa
 B|Yeah.|aa
 A|Well, we really enjoy prime rib, too,|sd
-A|and, uh, actually the, the Steak And Ale out here,uh, we've gone to, uh,|sd
-A|my in-laws also enjoy prime rib, when  they've had some of their specials on Sunday, Monday, or Tuesday  night |sd
+A|and, uh, actually the, the Steak And Ale out here, uh, we've gone to, uh,|sd
+A|my in-laws also enjoy prime rib, when  they've  had some of their specials on Sunday, Monday, or Tuesday  night |sd
 B| Uh-huh. |b
 B| Uh-huh. |b
 A|and, uh, the time we went the prime rib was really good.|sd
@@ -87,7 +87,7 @@ B|yeah.|%
 A|Yeah,|b
 A|yeah|b
 B|Oh, that's great.|ba
-B|That's,great.|ba
+B|That's, great.|ba
 B|Another nice place for, for prime rib is Baby Doe's|sd
 A| Oh, I've heard about that, too |sd
 B| Maxwell's nice, |sd
@@ -99,13 +99,13 @@ B|See!|fo_o_fw_"_by_bc
 B|Baby Doe's is nice.|sd
 A|Oh|b
 B|And, one place I'd never been that I would really like to go to, uh, is Lawry's.|sd
-B|I've heard that's real good, Lawry's  Prime Rib?|sd
+B|I've heard that's real good,  Lawry's  Prime Rib?|sd
 A| Yeah. |b
 A|Yes,|aa
 A|I'd, I had heard that, too. Um,|sd
 B|I've, I've never been there|sd
 B|but I've heard it's real good.|sd
-A|Have you been to the little, uh, not for prime rib but the Cafe De France, um, right  here Oh, okay. *slash error should be bkon Central Expressway? *slash error|qy
+A|Have you been to the little, uh, not for prime rib but the Cafe De France, um, right  here  on Central Expressway? *slash error Oh, okay. *slash error should be bk|qy
 B| Yes. |ny
 B|Yes,|ny
 B|actually they have one in Richardson that I've been to.|sd
@@ -115,11 +115,11 @@ B|Or,|%
 A|Yes, uh|ny
 B|Yeah.|b
 A|primarily lunch, well, and breakfast sometimes|sd
-A|but, uh, during the week they often have, a, a limited menu choice but, uh, very reasonable complete dinners for six ninety-nine that  included entrees and accompaniments and dessertthe soup or salad|sd
+A|but, uh, during the week they often have, a, a limited menu choice but, uh, very reasonable complete dinners for six ninety-nine that  included  the soup or salad entrees and accompaniments and dessert|sd
 B| Really? |bh
 B|Really?|bh
 A|and, uh, the,|%
-A|my husband and I like veal,  uh a lot|sd
+A|my husband and I like veal,  uh  a lot|sd
 B| Uh-huh. |b
 A|and their veal dishes have been good.|sd
 A|We've tried different ones when they've had them as one of the|sd
@@ -148,41 +148,41 @@ B|I've been there.|sd
 A|Oh, I, we just|%
 B|That was nice|sd
 A|It was|aa
-A|and we had the,uh, we both enjoy mushroom soup|sd
+A|and we had the, uh, we both enjoy mushroom soup|sd
 A|and Linda had told me they had the best mushroom soup|sd
 A|and they did.|sd
 A|It was wonderful|sd
-A|but, uh, and we just had soup and salad so we could make room for the dessert  which was a chocolate sack.|sd
+A|but, uh, and we just had soup and salad so we could make room for the dessert   which was a chocolate sack.|sd
 A|I don't know if you tried|qy^d
-A|but or |%
+A|but  or |%
 B| Oh |%
 B|I've heard of it.|sd
 B|Where, where it's made,|sd
 B|it's like, it's like a,|%
 B|it's all chocolate, like made like a paper bag|sd
-A| Yes! and whip cream|aa
-B| and  it's filled with what, whip cream and, and strawberries and something? |qy^d
+A| Yes!  and whip cream|aa
+B| and  it's filled with what, whip cream  and, and strawberries and something? |qy^d
 B|Yeah.|b
-A|and it had strawberries, kiwis, and raspberriesin a raspberry, uh, puree|sd
+A|and it had strawberries, kiwis, and raspberries in a raspberry, uh, puree|sd
 B|Oh.|b
-A|and,and we shared one, the three of us|sd
+A|and, and we shared one, the three of us|sd
 B|Oh.|b
 A|and it was plenty because it was very rich|sd
-A|but, uhI wished I'd had a camera.|sd
+A|but, uh I wished I'd had a camera.|sd
 B|Oh.|b
 A|It was beautiful|sd
 B|Oh, I bet it was.|ba
 B|I bet it was.|ba
 A|Uh|%
 B|The last time we went to Cafe Pacific, it was Father's Day,|sd
-B|andwe took another friend with us|sd
+B|and we took another friend with us|sd
 A|Oh.|b
 B|and, uh, for dessert we thought we had just stuffed ourselves|sd
 B|And so we had, they had, uh, like a berry assortment.|sd
-B|It was, it was raspberriesand blueberries and, and strawberries on a plate with like a custard on the bottom.|sd
+B|It was, it was raspberries and blueberries and, and strawberries on a plate with like a custard on the bottom.|sd
 A|Oh.|b
 B|And, you know, they did, like the raspberry puree, just kind of like in a, in a decoration on the,|sd
-B|you know, how they do the plates real fancy with the decorations and thenpiled the berries and shaved chocolate on top of it|sd
+B|you know, how they do the plates real fancy with the decorations and then piled the berries and shaved chocolate on top of it|sd
 A|Yes.|b
 A|Yeah|b
 A|Oh.|b
@@ -195,7 +195,7 @@ A|Well, that's, uh, one of the things that I do enjoy when you get a good restau
 A|Uh, I love fresh berries.|sd
 A|And, their, their fruits are always exceptional.|sd
 A|I don't, I'm, know|sd
-A|they must have a special source for getting them because even at the Farmer's Market, uh,like that you can't  find them|sd
+A|they must have a special source for getting them because even at the Farmer's Market, uh,  you can't  find them like that|sd
 B|You can't  find them. |^2
 B|Yeah.|b
 A|and,|%
@@ -215,11 +215,11 @@ B|I guess there's so much competition that they, really have to be good.|sd
 A|Uh-huh.|b
 B|And, I thought I would really miss that.|sd
 A|I would, too,|aa
-A|because,well, because we don't go out very often.|sd
+A|because, well, because we don't go out very often.|sd
 A|When we do go out, um, in a way it's like a little mini vacation I guess,|sd
 A|and, uh, it is, it's a whole experience.|sd
 A|Of course you want the food to be good|sv
-A|but the atmosphere and service I think, are important, uhtoo.|sv
+A|but the atmosphere and service I think, are important, uh too.|sv
 B|Uh-huh.|b
 B|And, you know, in order to survive in this area I think they have to be good.|sv
 A| Yeah. |b

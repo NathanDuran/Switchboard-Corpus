@@ -35,7 +35,7 @@ A|now, do you work outside of the home?|qy
 B|I have just retired.|sd
 A|You've just retired.|bf
 B|Yes.|aa
-A|Oh, oh, what a greathobby|sv
+A|Oh, oh, what a great hobby|sv
 B|No,|arp_nd
 B|it's not,|sd
 A|I,|%
@@ -57,7 +57,7 @@ A|So, in my spare time, I love to sew.|sd
 A|There aren't too many people around anymore that really enjoy sewing,|sd
 A|but I do make all my own clothes|sd
 A|and we recently purchased a new home,|sd
-A|so I enjoy doing my, uh, toppers for my window applicationsand things like that.|sd
+A|so I enjoy doing my, uh, toppers for my window applications and things like that.|sd
 B|Oh, uh-huh.|b
 A|But, uh, just when I thought I really enjoyed my hobby, yours sounds great|sd
 B|Well, my sister is the seamstress of the two of us.|sd
@@ -103,7 +103,7 @@ B|So I have put it aside for a little while,|sd
 B|but I'm, I have just found me an instructor to get started again,|sd
 B|uh-huh.|b
 A|Oh, isn't that great.|ba
-A|And you'll probably really, uh, regain your enthusiasm for itonce you get into a, a class again.|sd
+A|And you'll probably really, uh, regain your enthusiasm for it once you get into a, a class again.|sd
 B|Uh-huh.|b
 B|Of course, I just have one beautiful with peonies, uh, umbrella stand,|sd
 B|and I have two daughters|sd

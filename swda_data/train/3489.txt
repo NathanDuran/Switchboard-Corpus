@@ -1,7 +1,7 @@
 A|Okay, Jerry,|fo_o_fw_"_by_bc
 A|I guess tonight's topic is about recycling.|sd
 B|Uh-huh.|b
-A|And I'd like to tell you first of all what's happening in our communityhere in Plano.|sd
+A|And I'd like to tell you first of all what's happening in our community here in Plano.|sd
 B|All right.|b
 A|Right now we have a pretty nice recycling program where a lot of the recyclable materials can be picked up by the, by the collection agency or the, the city along with your garbage can.|sd
 A|Uh, you can put out newspaper,|sd
@@ -33,7 +33,7 @@ B|Yeah,|b
 B|I mean, uh, I'm out in, I'm out in the wilderness.  Literally. |sd
 A| Well, I like it. |sd
 B|And, uh, well, give you an idea,|sd
-B|it's three and a half miles of dirt road to the concrete,I mean, to the asphalt,|sd
+B|it's three and a half miles of dirt road to the concrete, I mean, to the asphalt,|sd
 B|we're out there.|sd
 A|Uh-huh.|b
 B|And, uh, we, I do some interesting recycling things.|sd
@@ -43,7 +43,7 @@ B|and I'm going to incorporate into my, uh, garage area a weight activated, uh, 
 A|Oh, okay.|b
 B|So when I drive the car in the, in the driveway in the afternoon, it, it will just drive it up on a ramp that actually puts me on top of the, the, uh, pressure side of a, uh, hydraulic cylinder.|sd
 A|Uh-huh.|b
-B|And the weight of the car will crush,what's ever in the disposer.|sd
+B|And the weight of the car will crush, what's ever in the disposer.|sd
 A|Oh.|b
 B|hopefully, it's not my wife.|sd
 A|Well, let's hope not.|ad
@@ -66,15 +66,15 @@ A|until you release it.|qy^d
 B|Until you pull the pin,|arp_nd
 B|yeah.|%
 A|All right.|b
-B|AnywayI have another, uh, recycling method I use.|sd
+B|Anyway I have another, uh, recycling method I use.|sd
 A|I think,|%
 A|Yes.|b
 B|You know all that junk mail you get?|qy
 A|Oh, yes,|ny
 A|I sure do.|sd
-B|The glossy paper that says, buy this, and send off for that andyou have won and all that.|sd
+B|The glossy paper that says, buy this, and send off for that and you have won and all that.|sd
 A|Uh-huh.|b
-B|Well, anytime they send me a return envelopeplus the other stuff that I, you know, happen to gather up.I put all that stuff back in the envelope|sd
+B|Well, anytime they send me a return envelope I put all that stuff back in the envelope plus the other stuff that I, you know, happen to gather up.|sd
 A|Uh-huh.|b
 A|Oh.|b
 B|Because, uh, well, like I say, we live a way|sd
@@ -108,7 +108,7 @@ B|If it's metal, it's all out of metal.|sd
 B|It's, he's a design, he's a engineer, designing stuff.|sd
 A|Well, that's a great idea,|ba
 A|that's a great idea.|ba
-B|And, and, incorporating, you know, reusable materials into your, uh, you know, youris the only way to really do it on a, on a broad scale.assembly line into your actual scheme of product operations is|sv
+B|And, and, incorporating, you know, reusable materials into your, uh, you know, your assembly line into your actual scheme of product operations is is the only way to really do it on a, on a broad scale.|sv
 A|Products.|^2
 A|Yes.|aa
 B|Make it financially, uh, attractive to recycle|sv

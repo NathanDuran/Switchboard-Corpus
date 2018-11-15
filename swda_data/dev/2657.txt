@@ -53,7 +53,7 @@ A|Yeah,|aa
 A|I think that is an excellent program,|sv
 A|I really do.|sv
 A|I like that.|sd
-A|And it's, it's beneficial to the small towns too because,they really, really have, have a disadvantage that we wouldn't understand because we're in the Metroplex.|sv
+A|And it's, it's beneficial to the small towns too because, they really, really have, have a disadvantage that we wouldn't understand because we're in the Metroplex.|sv
 B|Yeah.|b
 B|As far as yeah, getting doctors and all that stuff, yeah.|^2
 A|Right,|aa
@@ -70,7 +70,7 @@ B|you know, I, I, I think of the Peace Corps, you know, more like the sixties an
 A|It's still in existence.|sd
 B|Yeah.|b
 B|And don't they go into other countries and stuff?|qy
-A|I want to believe they go into other countries and teach them how to do things like farm,their schools.uh, dig their own wells, set up,|na
+A|I want to believe they go into other countries and teach them how to do things like farm, uh, dig their own wells, set up, their schools.|na
 B|Uh-huh.|b
 B|Things that make the,|%
 B|yeah.|b
@@ -90,15 +90,15 @@ B|But it definitely would give a lot of the kids now that have everything given 
 A|Right.|b
 A|Right.|b
 A|Um, I think I, I've singled out my grandchildren|sd
-A|and but actually they're, they're pretty good,along those lines as compared to what I have seen from other people's children and grandchildren, mine aren't really that bad,|sd
+A|and but actually they're, they're pretty good, along those lines as compared to what I have seen from other people's children and grandchildren, mine aren't really that bad,|sd
 B|Uh-huh.|b
 A|but at the same time I think it would do them a world of good.|sd
 B|Yeah.|b
 A|But there's a,|%
-B|I don't, I don't know that you could require everyone to,or two years or something like that,to do it for a whole year,do that for, yeah,|sd
-A|Mandatory just like,like the draft.|^2
+B|I don't, I don't know that you could require everyone to, do that for, yeah, to do it for a whole year, or two years or something like that,|sd
+A|Mandatory just like, like the draft.|^2
 A|No.|aa
-B|I don't know that that would work if,somebody's, was, didn't really want to be there and didn't have,|sd
+B|I don't know that that would work if, somebody's, was, didn't really want to be there and didn't have,|sd
 A|Every time you,|^2
 A|They could buy their way out.|sv
 B|Yeah,|aa
@@ -117,11 +117,11 @@ A|and teach them to farm and teach them|qy
 A|and it doesn't do any good.|sv
 B|Yeah.|b
 A|I don't know that it does.|sd
-A|I, I,don't know that, um, if you step back from the current issue and look at it more intellectually, there are forever over, as long as we know there are races of people that are dropping out.|sd
+A|I, I, don't know that, um, if you step back from the current issue and look at it more intellectually, there are forever over, as long as we know there are races of people that are dropping out.|sd
 B|Yeah.|b
-A|You know, we're losing certain,races of people.|sv
+A|You know, we're losing certain, races of people.|sv
 B|Uh-huh.|b
-A|There are people now that are obsolete point and fact just, just like endangered species of animals, so there are quote tribes of people,that are endangered or obsolete.|sv
+A|There are people now that are obsolete point and fact just, just like endangered species of animals, so there are quote tribes of people, that are endangered or obsolete.|sv
 B|Uh-huh.|b
 A|And I'm just wondering if you're fighting a natural process there of being winnowed out.|sv
 A|There's a German word for it that's elegant,|sd
@@ -142,9 +142,9 @@ B|Yeah.|b
 A|But I don't think there's any way you could go, uh, the Peace Corps could go in and rescue those people,|sv
 A|and I don't think you could have done it fifty or a hundred years ago either.|sv
 B|Yeah.|b
-A|So, I, I'm wondering if the Peace Corps is,really an effective tool.|sv
+A|So, I, I'm wondering if the Peace Corps is, really an effective tool.|sv
 B|Well,|%
-B|Down here with the Peace Corps we're talking about all these people that aren't even in our own country when there's enough people here that I think probably need help and,could be helped.|sd
+B|Down here with the Peace Corps we're talking about all these people that aren't even in our own country when there's enough people here that I think probably need help and, could be helped.|sd
 A|Good point.|ba
 A|We've got enough without without a passport|sv
 A|there's plenty.|sv
@@ -163,12 +163,12 @@ B|but I think that it wouldn't really be half bad for everybody not to do someth
 B|and|%
 B|I'm not saying just give them money|sd
 B|but, I mean, because they have to be taught to be,|sd
-A|That's the last thing you want,to do.|sv
+A|That's the last thing you want, to do.|sv
 B|Yeah|b
 B|I mean, I know that's what my father-in-law was talking about, you know, when you give these people money|sv
 B|or, what was it|^h
 B|they were bringing up points asking as far as whether they need to give, um, more money to these people,|sd
-B|I mean, and that's not really the answer, I mean , because if they're alcoholics they'll just go out and spend,it on, you know, booze or something like that,|sv
+B|I mean, and that's not really the answer, I mean , because if they're alcoholics they'll just go out and spend, it on, you know, booze or something like that,|sv
 A|Yeah,|aa
 A|that's exactly it.|sv
 B|but.|%
@@ -182,7 +182,7 @@ B|I mean, I guess we're getting kind of off the subject, here,|sv
 B|but.|%
 A|No,|ar
 A|we're not I don't think.|sv
-A|I think,that's more realistic than making them go in the Peace Corps.|sv
+A|I think, that's more realistic than making them go in the Peace Corps.|sv
 B|Yeah,|b
 B|I mean it's,|%
 B|True.|ba

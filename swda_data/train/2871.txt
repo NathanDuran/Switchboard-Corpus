@@ -5,7 +5,7 @@ A|the last movie I saw was the FIVE HEARTBEATS|sd
 A|and I liked it a lot because it had a lot of music in it.|sd
 B|FIVE HEARTBEATS?|b^m
 A|Yeah|ny
-A|it's,It's, it's, uh, Robert Townsend movie.|sd
+A|it's, It's, it's, uh, Robert Townsend movie.|sd
 B|Who, who was in that.|qw
 B|Okay.|bk
 A|Um, I, I don't know all the actors or anything,|sd
@@ -17,7 +17,7 @@ A|It's about a Black singing group.|sd
 A|It,|%
 A|and, uh, it was called the DELLS,|sd
 B|Uh-huh.|b
-A|And, uh, it was kind of like just about their,their life, and their, uh, history and things like that and the way they went from, from, how they went from stardom to nonstardom.|sd
+A|And, uh, it was kind of like just about their, their life, and their, uh, history and things like that and the way they went from, from, how they went from stardom to nonstardom.|sd
 B|Yeah.|b
 A|And, uh, that was pretty good.|sd
 A|I enjoyed,|sd
@@ -69,20 +69,20 @@ A|Yeah,|b
 A|that's it,|sd
 A|okay.|b
 B|DEFENDING YOUR LIFE,|fo_o_fw_"_by_bc
-B|and it's, it's an excellent movie,uh,|sd
+B|and it's, it's an excellent movie, uh,|sd
 A|Uh-huh.|b
 B|it's pretty entertaining, uh.|sd
 B|Let's see,|^h
 B|what else have I seen lately, um.|t1
 A|One of my favorite movies, it's not one that I haven't seen,|sd
 A|I,|%
-A|it's not a late movie.FATAL ATTRACTION|sd
+A|it's not a late movie. FATAL ATTRACTION|sd
 B|HOME ALONE.|^2
 B|Okay,|b
 B|yeah.|%
 A|It's probably my all time,|sd
 A|well not all time favorite,|sd
-A|but one of my favorites,that I can watch over and over.|sd
+A|but one of my favorites, that I can watch over and over.|sd
 B|well, did you ever see HOME ALONE?|qy
 A|No,|nn
 A|I never did,|sd
@@ -134,7 +134,7 @@ A|Somehow,|%
 A|I mean it's hard for me to get to movies now because it's getting so expensive, you know,|sd
 A|I'd, I'd rather rent.|sd
 B|I know|ba
-B|it's it's obnoxious,because you go in there and you spend six bucks a ticket,|sd
+B|it's it's obnoxious, because you go in there and you spend six bucks a ticket,|sd
 A|Yeah.|b
 B|but then you end up spending another six dollars on food.|sd
 A|Yeah|b
@@ -147,13 +147,13 @@ A|God forbid you should want something to drink with it,|sd
 A|but, uh.|%
 B|Yeah|b
 B|like if I,|%
-B|so if I take a date,it, it cost me, you know, twenty bucks, easy.|sd
+B|so if I take a date, it, it cost me, you know, twenty bucks, easy.|sd
 A|Uh-huh.|b
 A|Oh, yeah|aa
 A|easily.|aa
 B|And, uh, I don't know.|h
 A|And you're usually going to do, you're usually going to go to a dinner, go to dinner or something with that.|sv
-B|I was going to say, you, you know, you can find certain restaurants that are nice,and have good food for eat for thirty dollars.|sd
+B|I was going to say, you, you know, you can find certain restaurants that are nice, and have good food for eat for thirty dollars.|sd
 A|Yeah.|b
 A|It's almost more fun really,|sv
 A|yeah,|%
@@ -193,7 +193,7 @@ B|whose in that?|qw
 A|It looks, it looks pretty suspenseful.|sd
 B|Uh-huh.|b
 B|Another one I saw is called the OBJECT OF BEAUTY.|sd
-B|I don't recommend that,as much as, uh, DEFENDING YOUR LIFE,|sd
+B|I don't recommend that, as much as, uh, DEFENDING YOUR LIFE,|sd
 B|but, it was, it was all right, kind of funny.|sd
 B|Um, but, um, what else has been on and about.|qh
 A|Are you looking in the paper?|qy
@@ -241,7 +241,7 @@ B|Has he had, has he had very many other movies out?|qy
 A|He's had OUT FOR JUSTICE|na
 A|and there was one right before that with a similar title|sd
 A|like, uh, I don't know some, I don't know, some macho title.|sd
-A|That's why, I,I just don't like the,|sd
+A|That's why, I, I just don't like the,|sd
 B|Because it's a macho movie.|bf
 A|yeah,|%
 A|it is,|%
@@ -259,7 +259,7 @@ B|uh, they just, they're action filled, and a little bit of humor,|sd
 A|Uh-huh,|b
 A|uh-huh.|b
 B|and, uh.|%
-A|I guess, I'm not fond of the action packed movie,where they're always chasing or fighting,|sd
+A|I guess, I'm not fond of the action packed movie, where they're always chasing or fighting,|sd
 A|or, you know,|sd
 B|Yeah.|b
 A|I like the more, movies that make you think.|sd
@@ -275,7 +275,7 @@ A|Uh-huh.|b
 B|I just remember when it first came out that it had kind of mixed reviews.|sd
 A|Yeah,|b
 A|a friend of mine saw it|sd
-A|and she said it was okay,you know,|sd
+A|and she said it was okay, you know,|sd
 B|Yeah.|b
 A|it wasn't anything spectacular.|sd
 B|You expect more out of, uh, Julia Roberts, though.|sv
@@ -335,16 +335,16 @@ A|exactly.|aa
 B|it's, it's, it's hard to say.|sd
 B|An,|%
 B|and I know I don't,|%
-B|you, know, I don't keep up with it,you know.|sd
+B|you, know, I don't keep up with it, you know.|sd
 A|Right.|b
 B|But, uh, I don't try to|sd
 B|just for that reason, it is a, it does cost a lot,|sd
 A|Uh-huh.|b
 B|so why go out and see something right away, you know,|qh
 B|you kind of wait|sv
-B|and if something gets really good reviews, maybe you'd finally go spend the twelve bucks,you know to go to it.|sv
+B|and if something gets really good reviews, maybe you'd finally go spend the twelve bucks, you know to go to it.|sv
 A|Right,|b
 A|right,|b
 A|uh-huh.|b
-B|But, um, you know, I haven't been to a to an opening for, oh, you know ages,Just because.|sd
+B|But, um, you know, I haven't been to a to an opening for, oh, you know ages, Just because.|sd
 A|Uh-huh.|b

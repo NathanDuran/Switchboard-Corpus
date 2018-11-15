@@ -14,7 +14,7 @@ B|do you work for Texas Instruments?|qy
 A|No,|nn
 A|I do not.|sd
 B|Okay.|bk
-B|Well, at T I we have to use what's called a tex tellerif we want to get cash out|sd
+B|Well, at T I we have to use what's called a tex teller if we want to get cash out|sd
 A|Uh-huh.|b
 B|and those are only available at T I.|sd
 A|Oh, okay.|b
@@ -32,7 +32,7 @@ B|me too.|aa
 A|So that's, uh,|%
 A|as far as using them outside that I'm not, I don't use them too much|sd
 A|but I, I think my wife is sort of like you|sd
-A|she uses a credit card, most  of the time.|sd
+A|she uses a credit card,  most  of the time.|sd
 B|Yeah|b
 A|So she does most of the shopping for our household|sd
 A|so she'll use them more than I will.|sd
@@ -59,7 +59,7 @@ A|so we're both beginners then.|sv
 B|Yeah.|b
 A|I've had this for a couple weeks|sd
 A|and I've been out of town|sd
-A|so this is my first time to, to use it. |sd
+A|so this is my first time to,  to use it. |sd
 B| Oh, okay. |b
 B| Okay. |b
 A| So, |%
@@ -110,7 +110,7 @@ B|That's right.|b
 B|Well, yeah,|b
 A|Oh, you bet it's|ba
 A|it's an absolute savings.|sd
-B|Or if you travel for work and you get your reimbursement before the bill comes in, you get to  keep the money.|sd
+B|Or if you travel for work and you get your reimbursement before the bill comes in,  you get to  keep the money.|sd
 A| You bet. |ba
 A|That's, that's very handy.|sd
 B|Yeah.|aa

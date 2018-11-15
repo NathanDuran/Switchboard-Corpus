@@ -45,10 +45,10 @@ A|I'm not sure what the difference in light years between the new generation and
 B|I think it's a hundred years.|sd
 A|Huh.|b
 B|Somewhere in that range.|sd
-B|Considering that Spock was on an, uh, you know, couple weeks agoand that the, the very first episode of NEXT GENERATION, they had McCoy.|sd
+B|Considering that Spock was on an, uh, you know, couple weeks ago and that the, the very first episode of NEXT GENERATION, they had McCoy.|sd
 A|Oh, that's right.|aa
 A|Is that right?|bh
-A|He wasstill?a doctor|qy
+A|He was a doctor still?|qy
 B|And,|%
 B|Uh-huh.|ny
 B|Yeah,|ny
@@ -98,7 +98,7 @@ B|Yeah,|ny
 B|I saw James Doohan, you know, the guy that plays, uh, Scotty.|sd
 A|Huh, did you get to talk to him?|qy
 B|No|nn
-A|It wascrowded.|sd
+A|It was crowded.|sd
 B|Not in a crowd like that.|qy^d
 B|Huh-uh.|b
 A|No.|nn
@@ -122,7 +122,7 @@ A|Right,|b
 A|so he kind of was a cowboy type, too.|qy^d
 B|Uh-huh|ny
 A|Made all the decisions|qy^d
-A|but, uh, Jean Luke does more of a, a,committee type of management.|sv
+A|but, uh, Jean Luke does more of a, a, committee type of management.|sv
 B|Uh-huh,|aa
 B|yeah,|aa
 B|uh, it's definitely a lot better A lot more realistic really.|sv
@@ -155,7 +155,7 @@ B|Yeah,|%
 B|he was just kind of walking around.|sd
 A|Didn't he used to?|qy
 B|Not really.|ng
-B|He was alwaysin the box before.|sd
+B|He was always in the box before.|sd
 A|Oh.|bk
 A|Oh, that's, yeah, that's, okay.|bk
 B|Yeah.|b

@@ -1,6 +1,6 @@
 A|Okay,|fo_o_fw_"_by_bc
 A|I'll just go with you first.|sd
-A|What kind ofeating out do you enjoy?|qo
+A|What kind of eating out do you enjoy?|qo
 B|Okay.|b
 B|Well, I like dining out.|sd
 B|Of course, it means that I don't have to cook.|sd
@@ -12,9 +12,9 @@ B|and, you know, when, when we dine out we go to like medium priced restaurants.
 A|Uh-huh.|b
 B|I don't, I don't particularly,|%
 B|I think it's sort of a waste of money to go real, to a real high priced restaurant.|sv
-A|Do you go like home cooking, like Black-Eyed Pea and that kind of thing orcafeteria?|qy
-B|Um,Not really.|ng
-B|We go more for the, uh, Chinesethat I can't cookand stuff like that. Mexican, stuffand Italian|sd
+A|Do you go like home cooking, like Black-Eyed Pea and that kind of thing or cafeteria?|qy
+B|Um, Not really.|ng
+B|We go more for the, uh, Chinese and Italian and stuff like that. Mexican, stuff that I can't cook|sd
 A|Me too|sd
 A|Uh-huh.|b
 A|Mexican,|b^m
@@ -25,7 +25,7 @@ B|Yeah.|b
 A|What are your favorite places?|qw
 B|Um, well, I like Chinese food.|sd
 A|Uh-huh.|b
-B|Um, there's a little place down on, what is that? Coit Road, um, Chinese Pavilion or something.That is really good|sd
+B|Um, there's a little place down on, what is that? Coit Road, um, Chinese Pavilion or something. That is really good|sd
 A|Uh-huh.|b
 B|and I like it.|sd
 B|And, um, I do, I do like Chinese buffets.|sd
@@ -46,7 +46,7 @@ A|We go, very, very often we go out for fajitas.|sd
 A|That's|%
 A|my husband has just gotten stuck.|sd
 B|Oh|b
-A|And we go to On the Border.And lots of places that have, uh, I think|sd
+A|And we go to On the Border. And lots of places that have, uh, I think|sd
 B|Uh-huh.|b
 A|and some of those and get fajitas,|sd
 A|and he'll just eat chips until we've got three or four baskets coming back.|sd
@@ -58,7 +58,7 @@ B|uh-huh.|b
 B|Uh-huh.|b
 A|So, we went to El Sorrento.|sd
 B|yeah,|%
-B|have you ever, umtried Pappasito's?|qy
+B|have you ever, um tried Pappasito's?|qy
 A|It was fun.|sd
 A|You know, what?|qh
 A|This is, that's real funny you said that because we were coming back Sunday on Central from church|sd
@@ -82,7 +82,7 @@ B|Uh-huh.|aa
 B|And have you ever tried, um, the Macaroni Grill up on,|qy
 A|Yes,|ny
 A|we did.|sd
-A|Now, my kids didn't like it because they just wanted to get plain old spaghettior lasagna,|sd
+A|Now, my kids didn't like it because they just wanted to get plain old spaghetti or lasagna,|sd
 B|Uh-huh.|b
 A|and most of those things were a little more northern Italy.|sd
 B|Right.|b
@@ -97,14 +97,14 @@ B|Right.|b
 A|The place of the seventies|sv
 B|Yeah,|aa
 B|yeah,|aa
-B|but my little girl likes, uh, Spaghetti Warehousereal well|sd
+B|but my little girl likes, uh, Spaghetti Warehouse real well|sd
 A|Uh-huh.|b
 A|Yeah,|b
 A|most kids do.|sv
 B|It's real entertaining for her.|sd
 A|do you ever go for steak? Just a steak and potato and salad bar, that kind of thing.|qy
 B|Um, not really.|ng
-B|That's, a steak is something that I cook at home.You know, that you grill out|sd
+B|That's, a steak is something that I cook at home. You know, that you grill out|sd
 A|Uh-huh.|b
 A|Yeah.|b
 B|and I really don't particularly, um,|%
@@ -132,36 +132,36 @@ A|It was over in Addison.|sd
 B|Huh.|b
 A|And then they, uh, closed up|sd
 B|Yes.|b
-A|So most of these places are pretty much just, uh, theme restaurantsaround here.|sv
+A|So most of these places are pretty much just, uh, theme restaurants around here.|sv
 B|Right.|aa
-B|I think that's whatgoes, you know, really goes right now in the, in the Dallas area.|sv
+B|I think that's what goes, you know, really goes right now in the, in the Dallas area.|sv
 A|Uh-huh.|b
-B|Of course, you know, down, next to downtown up around McKinney and everythingthat I can't even touch.of restaurants up thereyou know, there's just a, there's a different class|sv
+B|Of course, you know, down, next to downtown up around McKinney and everything you know, there's just a, there's a different class of restaurants up there that I can't even touch.|sv
 A|Uh-huh.|b
 A|Well, that's exactly true|aa
 A|That's right.|aa
 A|That's right.|aa
 A|Yeah.|aa
 A|That's right.|aa
-B|You know, it would probably take my whole paycheck just to go in andup therehave one meal|sv
+B|You know, it would probably take my whole paycheck just to go in and have one meal up there|sv
 A|That's|%
 A|yeah,|aa
 A|that's right.|aa
 A|Uh-huh.|b
 B|but, um,|%
-A|I had a friend who was taken to Lawry's downtownfor prime rib|sd
+A|I had a friend who was taken to Lawry's downtown for prime rib|sd
 B|Uh-huh.|b
 A|and I haven't been.|sd
 A|We usually don't go for beef really anymore.|sd
 B|Uh-huh.|b
 A|Where,|%
-A|we've gotten so used to doing chicken and things at home that that's, that's usually the way we'll goif we're not going lasagna.|sd
+A|we've gotten so used to doing chicken and things at home that that's, that's usually the way we'll go if we're not going lasagna.|sd
 B|Right.|b
 B|Uh-huh.|b
 B|Yeah,|b
 B|when, when I go out, it's, it's normally to get, um, some specialty type of food|sd
 A|Uh-huh.|b
-B|besides, you know, because chicken andsteaks and everything I grill at home.|sd
+B|besides, you know, because chicken and steaks and everything I grill at home.|sd
 A|Uh-huh.|b
 A|I know.|ba
 A|Well, I understand.|ba
@@ -186,7 +186,7 @@ A|They like to go pretty much where we like to go|sd
 A|and they'll|%
 B|Uh-huh.|b
 A|and then our favorite thing on Fridays, we generally order pizza in|sd
-A|sonot Pizza Inn, but pizza to our house.|sd
+A|so not Pizza Inn, but pizza to our house.|sd
 B|Right.|b
 B|Right,|b
 B|uh-huh.|b

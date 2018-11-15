@@ -4,7 +4,7 @@ A|What have you seen?|qo
 B|The latest movie I've seen that I thought was fantastic was DANCES WITH  WOLVES. |sd
 A| That's, |%
 A|I knew you were going to say that.|sd
-A| I wanted, I want to go see that.|sd
+A| I wanted, I want  to go see that.|sd
 B| Oh, man. |ba
 B|like water I, I just finally ended up going to see it, uh,|sd
 B|and one day my husband had the kids|sd
@@ -21,21 +21,21 @@ B|Yeah.|b
 B| Yeah. |b
 A| Uh,  but he, he, he did pretty good on that one.|sv
 B|That was quite a, like ping|%
-B|the buffalo scene in that  thing was so real.|sv
+B|the buffalo scene in that  thing  was so real.|sv
 A| Yeah. |b
 B| It's like,|%
-B|I mean it just blew me away.|sd
+B|I mean it just  blew me away.|sd
 A| Yeah,|b
 A|I'd, I bet. |ba
 A|Yeah.|b
 A|There're several of them that are out right now that I want to see.|sd
-A| Uh, DANCES. Uh, SILENCE OF THE LAMBS.|sd
+A| Uh,  DANCES. Uh, SILENCE OF THE LAMBS.|sd
 B| Yeah. |b
 B|Uh, I'm, I'm afraid to go see that one.|sd
-B|That one looks so scary  just, from the previews.|sv
-B| I thought gosh I'd probably have nightmares for the next six months |sd
+B|That one looks so scary  just,  from the previews.|sv
+B| I thought gosh  I'd probably have nightmares for the next six months |sd
 A| Nay. |ar
-B|It's supposed to be good though.|sd
+B|It's supposed to  be good though.|sd
 A| Nay.|ar
 A|That's what people said, |sd
 B|I know some friends who went to see it.|sd
@@ -67,7 +67,7 @@ B| Oh, boy. |ba
 A|Yeah.|b
 A|And, of course, I was, I was living alone at the time|sd
 A|and it was late at night and  scary and, you know|sd
-A|You start hearing noises you know.|sd
+A|You start hearing noises  you know.|sd
 B| Gosh.|ba
 B|Call the crisis line. |ba
 B|Yeah,|aa
@@ -88,13 +88,13 @@ B|well I ended up at the theater|sd
 B|and there was, didn't seem to be anything else on  I wanted to see,|sd
 B|so I'll try that. |sd
 B|But it wasn't worth anything.|sv
-B| I didn't care for that at all.|sd
+B| I didn't care  for that at all.|sd
 A| No. |aa
 A|I, I don't much care for Michael J Fox anyway.|sd
 B|Yeah.|b
 B|Well, the last two I saw him in, one of those BACK TO THE FUTURE, PART THREE deals|sd
 B|and that was crummy  also.|sv
-B|I didn't think that was any good |sd
+B|I  didn't think that was any good |sd
 A| Yeah. |b
 B|so |%
 A| I saw the original  BACK TO THE FUTURE|sd
@@ -113,7 +113,7 @@ B|so |%
 A| Yeah.|aa
 A|No,|aa
 A|nobody  could figure it out.|sv
-A| I mean the, the book was so much, uh,|sv
+A| I mean  the, the book was so much, uh,|sv
 B| Yeah. |b
 A|there's just things,|%
 A|all you can do is put it in words.|sv
@@ -141,7 +141,7 @@ B|and it's not like cutesy.|sd
 B|It's just, uh, it's just so realistic. Everything they do.|sd
 B|You wonder how in the world they ever got them to do some of these things.|sd
 A|Huh.  Oh, those |%
-B| And it was, catA real dog  and |sd
+B| And it was,  A real dog  and  cat|sd
 A|a real dog and cat?|qy
 A| Huh. |b
 B|and all the other animals.|sd
@@ -159,7 +159,7 @@ B|It was pretty wild|sd
 B|and . Of course, the only sound is Dudley Moore narrates it.|sd
 A|Uh-huh.|b
 B|But there's no, you know, nothing else to keep it going.|sd
-B|But it really keepskeeps me going.|sd
+B|But it really keeps keeps me going.|sd
 A|Huh.|b
 B|I, I've seen it  twice now |sd
 A| Yeah.|b
@@ -175,14 +175,14 @@ A|I mean,  I, I, I was raised on Walt Disney films. You know.|sd
 B|Yeah.|b
 A|OLD YELLER. Uh,  BIG RED. |sd
 B| Yeah.|b
-B|All those  old good ones that you, you know, wish they  had on more now,|sv
+B|All those  old good ones that you, you know, wish they  had on  more now,|sv
 A| Yeah. |b
 B|but.|%
 A|When I was a little kid, I saw the INCREDIBLE JOURNEY on Christmas Eve|sd
-A| and that it was Christmas Eve.it was so good that I had  forgotten |sd
+A| and  it was so good that I had  forgotten  that it was Christmas Eve.|sd
 B| Oh, boy. |ba
 B| Huh. |b
-A| I mean that's something for a kid.|sv
+A| I mean  that's something for a kid.|sv
 B| That's pretty good. |ba
 B|Really.|ba
 A|And that was something for greedy old me at Christmas time,  I'll tell you. |sd
@@ -197,7 +197,7 @@ B|That is a riot.|sd
 A|Is it?|bh
 B|Yeah.|ny
 B|The first one was really good.|sd
-B|But the second  one is really good too.|sd
+B|But the second  one  is really good too.|sd
 B| I was really surprised. |sd
 A| Yeah.|b
 A|I didn't much care  for the first one.|sd
@@ -209,11 +209,11 @@ A| Well, I, I'll have to go get that one I guess. |oo_co_cc
 B|It's hard to find movies that aren't terrible violent or terribly bunch of sex going on anymore.|sv
 B|And I'm just, I guess I'm just middle America or something.|sv
 B|I just go to be entertained|sd
-B|and and not really  interested in some of the, like the TERMINATOR or some of the  Schwarzenegger stuff.|sd
-A|Yeah. Yeah. *b|aa
+B|and  and not really  interested in some of the, like the TERMINATOR or some of the  Schwarzenegger stuff.|sd
+A|Yeah.  Yeah. *b|aa
 B|I just. |%
 A|I get so tired  of, you know, these, you know, sequels.|sd
-A|Number nine, number ten,  number fourteen.|sd
+A|Number nine, number ten,  number  fourteen.|sd
 B| Yeah. |b
 B| FREDDY'S REVENGE PART TWENTY-FIVE or whatever. |sd
 A| Yeah, you know.|aa
@@ -225,7 +225,7 @@ A| I, I'm just,|%
 A|I'm so sick and tired of that. |sd
 A|I just can't believe it.|^h
 A|It's like  ROCKY films.|sv
-A|I I haven't seen a one.|sd
+A|I  I haven't seen a one.|sd
 B| Yeah.|aa
 B| Yeah.|aa
 B|I've never seen any of those.|sd
@@ -234,7 +234,7 @@ B|Yeah.|aa
 B|I can't either.|sd
 B|He seems so macho I just|sv
 A|Yeah.|aa
-A|And I, I was afraid that RAMBO was going to do the same thing that ROCKY was going to do, you know. Go into  fourteen hundred episodes.|sd
+A|And I, I was afraid that RAMBO was going to do the same thing that ROCKY was going to do, you know.  Go into  fourteen hundred episodes.|sd
 B| Yeah. |b
 B|Yeah.|b
 A|Now I don't, I hardly ever watch T V.|sd
@@ -249,7 +249,7 @@ A|I, I figure if I find a movie I like, I'll buy it.|sd
 A|Cause I just watch them over and over again.|sd
 B|That's like,|%
 B|my husband does that.|sd
-B|He can  watch them over and over.|sd
+B|He can  watch  them over and over.|sd
 A| Yeah.|b
 A|I, |%
 B|And I'm,|%
@@ -288,12 +288,12 @@ A|Yeah.|%
 A|It wasn't, |%
 B| Oh, really |ba
 B|Well, when I was in England years ago.|sd
-B|And I went to, to like Shakespeare's and, you know,  Stratford-On-Avon and all that|sd
+B|And I went to, to like Shakespeare's and, you know,  Stratford-On-Avon  and all that|sd
 A| Oh, yeah. |b
 B|and it was like you couldn't stand up inside of it|sd
-B|because it  was so short.|sd
+B|because it  was so  short.|sd
 A| Yeah. |b
-B|The  ceilings were so short.|sd
+B|The  ceilings  were so short.|sd
 A| Yeah. |b
 B|But Yeah.|%
 A|Yeah.|b
@@ -302,7 +302,7 @@ B|Yeah.|b
 A|I, I spent four years traveling around and didn't see, you know, hardly anything.|sd
 A| I just, |%
 B| Oh, boy. |ba
-A|I need, Go around all the places. to go over there and stay about twenty years so I can just travel.|sd
+A|I need, to go over there and stay about twenty years so I can just travel.  Go around all the places. |sd
 B| Yeah. |b
 A|Stonehenge, of course, you know.|sd
 A|Every, everybody makes the obligatory trip to Stonehenge.|sv
@@ -322,7 +322,7 @@ A| I, come to think of it, I don't think I went to the movies one time.|sd
 B|Yeah.|b
 B|Cause when you're touristing, you probably don't want to take the time to go see a movie.|sv
 A|I, uh,|%
-A|where I lived. Uh, it was a little town called Newmarket.About seventy miles north of London.|sd
+A|where I lived. Uh, it was a little town called Newmarket. About seventy miles north of London.|sd
 B|Huh.|b
 B|Oh, boy|ba
 A|And there was another town called Barry Saint Edmunds about twenty miles away from us.|sd
@@ -335,7 +335,7 @@ A|A really nice place.|sd
 A|You know, amateurs but really quite good.|sd
 B|Yeah.|b
 A|Uh, but that was interesting.|sd
-A| Course go to London quite a lot and see shows down there.|sd
+A| Course  go to London quite a lot and see shows down there.|sd
 B| That  sounds great.|ba
 B|Yeah.|b
 A|Uh, but other than that I just didn't have time to go to the movies,  you know. |sd
@@ -344,7 +344,7 @@ A|Never any, anyway, anything that I ever wanted,|sd
 A|I rented a lot of videos|sd
 B|Uh-huh|b
 A|Cause the closest movie theater was Barry Saint Edmunds |sd
-A|and who wants who wants to drive twenty miles to go to the movies  |sv
+A|and who wants  who wants to drive twenty miles to go to the movies  |sv
 B| Oh, boy. |ba
 B|  Probably some of them did|sv
 A|A lot of, a lot of people did.|sd
@@ -356,12 +356,12 @@ A|Yeah.|b
 B|Because sometimes the reviews you just can't go  by. |sv
 A| Yeah.|b
 A| I, I|%
-A|they, they, they have all these neat phrases.You know, you know, you know. Like critically acclaimed.|sv
+A|they, they, they have all these neat phrases. You know, you know, you know. Like critically acclaimed.|sv
 B|Yeah.|b
 A|That's what they when the thing hasn't won any award. *listen|sv
 B|Oh, I see|ba
 A|You know.  They can't, |%
-B| It's kind  of like waterfront property or something if you're,  you know, if you're two miles away from water|sv
+B| It's kind  of like waterfront property or something  if you're,  you know, if you're two miles away from water|sv
 A| Yeah,|b
 A|yeah. |b
 A|Yeah,|b

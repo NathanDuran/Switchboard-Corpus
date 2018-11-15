@@ -71,7 +71,7 @@ A|Oh, really.|b
 B|Yeah,|ny
 B|so I am,|%
 B|we are sort of, we are the Middle East peace talks at home. Um.|sd
-B|And, uh, pardon me, I'm just sort of putting away some things from dinner nowin the background.|sd
+B|And, uh, pardon me, I'm just sort of putting away some things from dinner now in the background.|sd
 A|Yeah.|b
 B|But we, um, we,|%
 B|she has sort of friends and family in Saudi Arabia, who are some friends in Saudi Arabia.|sd
@@ -86,7 +86,7 @@ B|I think it's, um, for her not really relevant, because she is second generatio
 A|Oh, okay.|bk
 B|Her parents who were born here would like to go see it, though, I think.|sd
 B|They would like to go to Syria,|sd
-B|but they recognize that Syria's not the place that one wants to visitright about now.|sd
+B|but they recognize that Syria's not the place that one wants to visit right about now.|sd
 A|No.|nn
 A|No|nn
 B|You know, something about the place makes it not, not quite enjoyable.|sd
@@ -141,7 +141,7 @@ A|and I used to have to go with rolls of, not, pocketful of change to buy all th
 B|Bought up all the bread from|^2
 B|That's good.|ba
 B|Well, you've, you've, you've really got a handle on this stuff I've noticed.|sv
-A|Not, not,Not, uh,|bd
+A|Not, not, Not, uh,|bd
 B|Got the vocabulary down and everything.|sv
 A|just, just enough to get by|bd
 B|That, that, that makes you real good.|sv

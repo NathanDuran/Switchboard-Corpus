@@ -11,7 +11,7 @@ A|Um, I run occasionally.|sd
 A|Let's see what else do I do. Play golf some,|sd
 A|and I work out on a, on a hanging bag.|sd
 A|I'm brown belt in karate,|sd
-A|so Ikeep up with that a little bit.|sd
+A|so I keep up with that a little bit.|sd
 B|Uh-huh.|bk
 B|Oh, yeah.|bk
 A|How about you.|qo
@@ -78,13 +78,13 @@ A|Uh-huh.|b
 B|And we, I have two friends, that we walk.|sd
 B|They have babies that are about the same ages as, as mine,|sd
 B|and we've been walking every morning at, going|sd
-B|when it was cold we would go to the mall because you can't take the babies outvery easily.|sd
+B|when it was cold we would go to the mall because you can't take the babies out very easily.|sd
 A|Yeah.|b
 B|So we, when we go, we have about, do about fifteen miles a week,|sd
 B|but the last little while, for one reason or another, we haven't been real consistent.|sd
-B|So it's a little harder when you're depending on other people to do it with youbecause you have to meet their schedules as well,|sv
+B|So it's a little harder when you're depending on other people to do it with you because you have to meet their schedules as well,|sv
 A|Uh-huh.|b
-B|butbut I enjoy doing it more when I've got other people with me.|sd
+B|but but I enjoy doing it more when I've got other people with me.|sd
 A|Sure.|aa
 B|You know, I usually do it because I want to, because I know it's good for me, not because, I don't feel obligated to do it.|sd
 B|I enjoy it.|sd
@@ -140,7 +140,7 @@ B|And so for us it was educational as well as exercise beneficial.|sd
 B|So,|%
 A|At least its something you enjoy.|sd
 A|I know a lot of people that talk about exercise and say, Well, I don't want to exercise, it's too much work.|sd
-A|But there's a lot of different things you can do that are enjoyable that you don't have to strain yourself or sweator be real sore afterwards.|sv
+A|But there's a lot of different things you can do that are enjoyable that you don't have to strain yourself or sweat or be real sore afterwards.|sv
 B|That's right.|aa
 B|Yeah.|aa
 B|And sometimes if you get a little soreness you feel like, Well I've done a good job because I got, worked myself to that point.|sv
@@ -154,7 +154,7 @@ B|Okay,|fc
 B|well it's been good talking to you.|fc
 A|Been good talking to you as well.|fc
 B|Okay,|fc
-B|I hope your baby goes wellcomes out well.|fc
+B|I hope your baby goes well comes out well.|fc
 A|Thanks.|fc
 A|Yours too.|fc
 B|Bye-bye.|fc

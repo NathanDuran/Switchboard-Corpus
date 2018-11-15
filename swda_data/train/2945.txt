@@ -16,13 +16,13 @@ B|Taylor my youngest is,|sd
 B|or my oldest is in school|sd
 B|and so she has a lot of school programs and things like that.|sd
 A|Oh.|b
-B|was it a big change in your life, to, uhhave a child.|qy
+B|was it a big change in your life, to, uh have a child.|qy
 A|Oh yeah|ny
 A|Um, yeah,|ny
 A|it's really nice, uh,|sv
 A|my husband, uh, is working you know, most of the time.|sd
 A|He's working long hours,|sd
-A|but, uh,I'm staying home.|sd
+A|but, uh, I'm staying home.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|Uh, I'm just working a couple days a month,|sd
@@ -40,7 +40,7 @@ B|what do, what do you do?|qw
 A|I'm a nurse.|sd
 B|Oh, are you?|bh
 A|So, yeah,|ny
-A|so it's, it's, it's real easy to work out my schedule,an, and to have enough time to spend with Matthew.you know, to, uh, get in, to, to still stay in with that,|sd
+A|so it's, it's, it's real easy to work out my schedule, you know, to, uh, get in, to, to still stay in with that, an, and to have enough time to spend with Matthew.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 B|Yeah.|b
@@ -63,7 +63,7 @@ B|so.|%
 A|That's right,|aa
 A|and I think a lot of people are, um, are turning to, well, I think, I think a lot of people are realizing that|sv
 A|but still there are so many people that are, you know, have their careers first|sv
-A|and,it's, uh, I think it's really hurting, uh, the kids, you know,|sv
+A|and, it's, uh, I think it's really hurting, uh, the kids, you know,|sv
 B|Yeah,|b
 B|yeah.|b
 A|but.|%
@@ -72,10 +72,10 @@ B|I agree with you,|aa
 B|I, I, I think that my wife leaned that way|sv
 B|and I'm really glad she did|sd
 B|and, you know, I'm glad she's staying home,|sd
-B|but, you know, I know there are some days when sheshe wishes she was back at work.|sd
+B|but, you know, I know there are some days when she she wishes she was back at work.|sd
 A|I know,|aa
 A|That's why I like to to, to work a couple days,|sd
-A|I think it's, uh,it gives me a break.|sv
+A|I think it's, uh, it gives me a break.|sv
 B|Yeah.|b
 B|Yeah,|b
 B|well see that's, that's why I'm glad my wife did too,|sd
@@ -92,7 +92,7 @@ A|and, um, I think that was really ideal, uh.|sv
 B|Yeah,|aa
 B|I do to,|sd
 B|I agree,|sd
-B|but then when you start having two of them, it's, you know, a little bit tougher,because you've got to make a little more money, to make that payoff and stuff.|sv
+B|but then when you start having two of them, it's, you know, a little bit tougher, because you've got to make a little more money, to make that payoff and stuff.|sv
 A|It's,|%
 A|yeah.|b
 A|Yeah,|b
@@ -139,19 +139,19 @@ A|an, and it takes a lot of time.|sd
 B|Oh, yeah,|b
 B|I'm sure it does.|ba
 A|But, um, it, you know,|%
-A|we take walks,and try to fill our day with things like that,and go to the library,|sd
+A|we take walks, and go to the library, and try to fill our day with things like that,|sd
 B|Uh-huh.|b
 B|Yeah.|b
 A|but, um.|%
 B|Yeah,|b
 B|what, uh,|%
-B|my wife did some teaching at like, uh, like a private tutoring place.A Sylvan Learning Center this year|sd
+B|my wife did some teaching at like, uh, like a private tutoring place. A Sylvan Learning Center this year|sd
 A|Oh.|b
-B|and so that, that got me to to be able to spend more time with the kids at night and stuff,No matter what it is,you know, 'cause normally if, if they need something they just go to mom.|sd
+B|and so that, that got me to to be able to spend more time with the kids at night and stuff, you know, 'cause normally if, if they need something they just go to mom. No matter what it is,|sd
 A|Oh.|b
 A|Yeah|b
 B|I mean, I I'm perfectly capable of doing it for them,|sd
-B|but,it's so much easier to go to mom,|sd
+B|but, it's so much easier to go to mom,|sd
 A|Right.|b
 B|I guess they get used to it.|sv
 B|So,|%
@@ -171,7 +171,7 @@ A|He was, I was working in the evening,|sd
 B|Uh-huh.|b
 A|and he was coming home|sd
 A|and I, I could go to work,|sd
-A|but, uh,their relationship, uh, when I was able to work in the evenings, uh, really grew.|sd
+A|but, uh, their relationship, uh, when I was able to work in the evenings, uh, really grew.|sd
 B|Yeah.|b
 B|Uh-huh.|b
 A|He, you know,|%
@@ -212,7 +212,7 @@ A|That's right.|aa
 B|So, yeah,|b
 B|that that's a tough situation,|sv
 B|but then, then again, you know, some,|%
-B|you got to do what you got to do,you know to get along, too,|sv
+B|you got to do what you got to do, you know to get along, too,|sv
 A|Yeah.|b
 B|so.|%
 A|Yeah,|b
@@ -225,10 +225,10 @@ B|there are days when, uh, I come home and she says here take these kids,|sd
 B|I'm getting out.|^q
 A|I know|ba
 B|So she's, she's had about enough during those days,|sd
-B|but.But, for the most part, I, you know, I've really feel like that's led,|sv
+B|but. But, for the most part, I, you know, I've really feel like that's led,|sv
 A|I know.|ba
 B|the way that, you know,|%
-B|like what you said with the cost of living and everything, I think a lot of people can't afford to get by on just one salary anand won't.|sv
+B|like what you said with the cost of living and everything, I think a lot of people can't afford to get by on just one salary an and won't.|sv
 A|Yeah.|b
 A|Yeah.|b
 B|And so I think that's tended to lead to a decline in, in families and family values especially.|sv
@@ -253,7 +253,7 @@ B|it's amazing how your whole focus on life changes after you've had a child.|sv
 A|Oh, it, it really does,|aa
 A|I,|%
 A|just the whole, uh, you know,|%
-A|seeing how you really are are, are forming this,you know, the mind|bf
+A|seeing how you really are are, are forming this, you know, the mind|bf
 B|Uh-huh.|aa
 B|Well, you know, in the next year or so, you'll see so many instances where, you know, he'll mimic something that you've done,|sd
 B|and you see, you know, everything I'm doing, he's learning from.|sv
@@ -265,7 +265,7 @@ B|And I think a lot of people either, don't care, or don't realize it, you know.
 B|That's,|%
 A|Or, or they just put it in the back of their mind and let it slide.|^2
 B|Yeah.|aa
-A|I, I've seen a lot of people just say well, you know, he'll learn everything when he gets into,uh, you know,|sd
+A|I, I've seen a lot of people just say well, you know, he'll learn everything when he gets into, uh, you know,|sd
 B|Yeah|b
 B|eventually.|^2
 B|Yeah,|aa
@@ -273,7 +273,7 @@ B|it's true.|sv
 A|but it, um,|%
 A|I, I know,|sd
 A|even just this first year, that I've been with, uh, my son, here, um, he's,|sd
-A|I can just see how much,instead of, uh,of, of a difference it makes staying home with him,|sd
+A|I can just see how much, of, of a difference it makes staying home with him, instead of, uh,|sd
 B|Uh-huh,|b
 B|Yeah.|b
 B|Yeah,|b

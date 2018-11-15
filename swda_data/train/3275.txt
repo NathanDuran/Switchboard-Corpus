@@ -22,7 +22,7 @@ B|Now I carry one.|sd
 B|I have a gas card and a Visa card.|sd
 B|And I never use them unless I need to|sd
 A|Really?|bh
-B|Sobut they,|%
+B|So but they,|%
 A|That's good.|ba
 A|yeah,|b
 A|I, I made a rule with myself when I got one that if I couldn't pay it in full every month that I'd have to rip it up,|sd
@@ -39,7 +39,7 @@ B|and we have a bunch of college kids around here going to Tech,|sd
 B|and they seem to get in trouble with them a lot.|sd
 A|Uh-huh.|b
 A|I have, I have a couple friends too that have about three of them maxed out|sd
-A|And theythey can't do anything but work to try to pay them off.|sd
+A|And they they can't do anything but work to try to pay them off.|sd
 B|Yeah.|b
 A|And, and, and like one of my friends she has, hers is up to nine hundred dollars|sd
 A|and she she only earns like two hundred dollars a month because she's going to school.|sd
@@ -117,9 +117,9 @@ B|All right.|b
 A|it does kind of get in the,|%
 A|when you want something that,|%
 A|like last weekend was homecoming|sd
-A|and I neededa pair of shoes|sd
+A|and I needed a pair of shoes|sd
 B|Oh.|b
-A|so I just went out and bought them andon my credit card.|sd
+A|so I just went out and bought them and on my credit card.|sd
 B|Yeah.|b
 A|I didn't really have the money to do it|sd
 A|but,|%

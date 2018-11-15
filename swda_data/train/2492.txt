@@ -11,7 +11,7 @@ B|for three years.|na
 A|Really?|bh
 A|What have you done?|qw
 B|Killing lots of fire ants.|sd
-B|I was firmly convinced the entire,front yard was nothing but one gigantic ant mound.|sd
+B|I was firmly convinced the entire, front yard was nothing but one gigantic ant mound.|sd
 A|Uh-huh|b
 B|Because it was like, you could, you couldn't even stand still out there.|sd
 A|You know, I can barely hear you|sd
@@ -33,14 +33,14 @@ A|yeah,|b
 A|Dursban will get rid of just about anything, I think.|sv
 A|But um, so you haven't had a problem with that, since?|qy
 B|Um, not bad.|no
-B|Every,once in a while you'll have a mound pop up,|sd
+B|Every, once in a while you'll have a mound pop up,|sd
 A|Yeah.|b
 B|but that's, to be expected.|sv
 A|What else did it , did it kill anything else it wasn't supposed to?|qy
 B|Um,|^h
 A|Not really.|qy^d
 B|as far as I can tell it hasn't killed anything it wasn't supposed to.|ng
-B|Even the area of the grass that was underneath and around the moundsit didn't kill it.|sd
+B|Even the area of the grass that was underneath and around the mounds it didn't kill it.|sd
 A|Yeah.|b
 A|Really?|bh
 A|Well, that's pretty wild.|ba
@@ -69,17 +69,17 @@ A|Right|na
 A|Uh-huh.|ny
 A|We were getting,|%
 B|Uh, I found one thing that, it's kind of a weird thing to say to put out on the lawn,|sv
-B|but,every time I've done it, it's it, it drives the fleas completely out of the area.|sd
+B|but, every time I've done it, it's it, it drives the fleas completely out of the area.|sd
 A|What?|qw
 B|Powdered sulphur.|sd
 A|Oh, really?|bh
 A|Hm, I wonder why it does?|qw
 B|You, you don't have to put a whole lot out,|sd
-B|just if you've got a broadcast spreaderI think it comes in a forty-pound bag,|sd
+B|just if you've got a broadcast spreader I think it comes in a forty-pound bag,|sd
 A|Uh-huh.|b
 B|and it's real fine, like flour|sd
 A|Uh-huh.|b
-B|and you justgo out, and do the entire yard,|sd
+B|and you just go out, and do the entire yard,|sd
 A|Yeah.|b
 B|and you, I mean, you don't have to put clumps of it,|sd
 B|just very lightly cover the entire yard.|sd
@@ -143,7 +143,7 @@ A|I have a feeling I'll be out there all the time taking care of that,|sd
 A|but that's our next thing|sd
 A|Do you have a garden?|qy
 B|I've got, the,|%
-B|this is the neat thing about the place we ended up at.Sitting on about a two acre lot now,|^h
+B|this is the neat thing about the place we ended up at. Sitting on about a two acre lot now,|^h
 A|Uh-huh.|b
 B|and half of it's,|%
 B|the back half is my garden.|na
@@ -178,11 +178,11 @@ A|It sounds like we've covered all the bases|fc
 A|so I guess we'll let you go,|fc
 A|and, um, do you have anything else you wanted to say?|fc
 B|Uh, no,|fc
-B|it's just,I've had an very enjoyable conversation with you.|fc
+B|it's just, I've had an very enjoyable conversation with you.|fc
 A|Okay.|fc
 A|I know, you too.|fc
 A|I hope you have a nice day,|fc
-A|andwe'll talk to you later.|fc
+A|and we'll talk to you later.|fc
 B|Okay,|fc
 B|you too.|fc
 B|Okay.|fc

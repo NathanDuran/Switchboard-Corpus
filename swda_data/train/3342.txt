@@ -18,7 +18,7 @@ B|there's not a whole lot of different kinds.|sd
 A|That's about the only kind I know how to do.|sd
 B|I don't do a lot of deep sea fishing,|sd
 B|I, because I get seasick,|sd
-B|butwe have a lot of lakes here in this area|sd
+B|but we have a lot of lakes here in this area|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|and I do a lot of fishing for, uh, bass.|sd
@@ -26,7 +26,7 @@ B|We have a lot of, uh, uh, couple of lakes in our area that are just filled wit
 A|Uh-huh.|b
 B|And then when I get tired of them outwitting me, I fish for catfish|sd
 A|Uh-huh.|b
-B|and we use worms and shiners, which is pretty much like minnowsa little bit bigger than minnows,|sd
+B|and we use worms and shiners, which is pretty much like minnows a little bit bigger than minnows,|sd
 A|Uh-huh.|b
 B|and then I also use spinner baits and plastic worms.|sd
 A|Uh-huh.|b
@@ -34,7 +34,7 @@ B|It all depends on what I'm fishing for, and the time of day.|sd
 A|Well, it sounds like you do quite a bit of it.|bf
 B|I do.|aa
 B|Uh, there's a lake like maybe two or three miles from here,|sd
-B|andit's very convenient on afternoons when I want to just get away and sit and think.|sd
+B|and it's very convenient on afternoons when I want to just get away and sit and think.|sd
 A|Uh-huh.|b
 B|Fishing's a good way to do that,|sd
 B|and I have a lot of friends who like to go fishing.|sd
@@ -42,7 +42,7 @@ A|Do you have a boat?|qy
 B|No,|nn
 B|I don't.|sd
 B|I have a friend who has a little inflatable raft,|sd
-B|and weuse that sometimes.|sd
+B|and we use that sometimes.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|I wish I had a boat,|sd
@@ -65,15 +65,15 @@ B|Right.|aa
 A|and then the, the, uh, turtles try to eat up all my bait|sd
 B|Oh.|b
 A|So it's, it's so close to the dock that I think all I do is feed them a little bit|sd
-B|We don't have,We don't have a big problem with turtles,|sd
+B|We don't have, We don't have a big problem with turtles,|sd
 A|but it's kind of fun.|sd
 B|but we do have a awful lot of snakes in our lakes.|sd
-A|UmI would be afraid of that.|sd
-B|And I,Well, I can't think of a time that I've been fishing that I haven't run into one or two of them.|sd
+A|Um I would be afraid of that.|sd
+B|And I, Well, I can't think of a time that I've been fishing that I haven't run into one or two of them.|sd
 A|Do they ever get on your hook?|qy
 B|No,|nn
 B|we, uh,|%
-B|occasionally I'll catch an eelon a, on a hook, but never the snakes.|sd
+B|occasionally I'll catch an eel on a, on a hook, but never the snakes.|sd
 A|Uh-huh.|b
 B|They just kind of,|%
 A|Are they poisonous snakes?|qy

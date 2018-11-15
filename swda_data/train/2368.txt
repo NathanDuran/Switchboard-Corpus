@@ -1,7 +1,7 @@
 A|Uh, what kind of house do you live in?|qw
 B|Uh, we live in a one story, just like a style home, you know, the standard Texas, uh, Fox and Jacobs.|sd
 A|Oh, yeah.|b
-A|With,with a yard and fence.|qy^d
+A|With, with a yard and fence.|qy^d
 B|How about you guys?|qo
 B|Are you in a apartment or a home?|qy
 A|I'm in an apartment in, uh, Plano.|sd
@@ -25,17 +25,17 @@ B|well, Plano,|sd
 B|most, most complexes in Plano are pretty nice,|sd
 B|so you're probably in a, you know,|sd
 A|Well, they vary, from place to place,|sd
-A|it's hard to tell, you know, how well they've been kept uphow old they are,|sd
+A|it's hard to tell, you know, how well they've been kept up how old they are,|sd
 B|Uh-huh.|b
 A|and these are probably, oh, one of the nicest that I found,|sv
-A|and, uh, they're almost five hundred a month fora one bedroom place.|sd
-B|Oohthat does get high,|ba
+A|and, uh, they're almost five hundred a month for a one bedroom place.|sd
+B|Ooh that does get high,|ba
 B|yeah,|%
 B|I mean,|%
 A|Yeah,|b
-A|it does, considering that, you know, uh, house payments are,not a whole lot more than that,|sd
+A|it does, considering that, you know, uh, house payments are, not a whole lot more than that,|sd
 B|Yeah,|b
-B|I was going to say,our mortgage is, is between, depending on,|sd
+B|I was going to say, our mortgage is, is between, depending on,|sd
 B|you know, it drops, um,|sd
 B|seems like in the last six months we, um, got lucky|sd
 B|and we refinanced,|sd
@@ -44,7 +44,7 @@ B|but it was like eight hundred and something,|sd
 B|but it went down to like seven hundred and twenty|sd
 A|Yeah.|b
 B|so that's really not,|sd
-B|I have friends that pay about nine hundred dollars for a town housein,|sd
+B|I have friends that pay about nine hundred dollars for a town house in,|sd
 A|Wow, that's a lot for a townhouse.|ba
 B|yeah,|%
 B|in,|%
@@ -58,11 +58,11 @@ A|and, I guess they know they're going to get it,|sv
 B|And then I think that, um, nobody was really buying houses there for a long time there because of just,|sv
 B|I mean, we've been in ours for about ten years,|sd
 B|but, uh there's no investment in it,|sd
-B|you knowyeah,on your taxeson yourall it allows you to do is itemize,|sv
+B|you know all it allows you to do is itemize, on your on your taxes yeah,|sv
 A|Yeah.|b
 A|Yeah,|aa
 A|that's true,|aa
-A|you justtake off your mortgage interest|sv
+A|you just take off your mortgage interest|sv
 A|and that's about it,|sd
 B|that's really about it,|aa
 B|it's, uh,|%
@@ -90,16 +90,16 @@ A|I used to live in Wylie|sd
 B|Uh-huh.|b
 A|and I could see downtown Dallas,|sd
 A|and now there's this brown haze over it,|sd
-A|andit's moving north.|sd
+A|and it's moving north.|sd
 B|Yeah,|b
-B|it's reallyit's really sad because they're not doing anything,|sv
+B|it's really it's really sad because they're not doing anything,|sv
 B|well we're getting off the subject, I guess,|sv
 B|but just like with housing, I mean, they're not doing anything about pollution,|sv
 B|they're not doing anything about,|sv
 B|it's going to look like,|sv
 B|have you ever been to Houston?|qy
 A|Oh, yeah.|ny
-B|You know, um, I used to think that Dallas was better than Houston because their zoningfor where you can put a house next to a,|sv
+B|You know, um, I used to think that Dallas was better than Houston because their zoning for where you can put a house next to a,|sv
 A|Yeah,|b
 B|now it looks just like Houston to me.|sv
 A|Yeah,|aa
@@ -129,7 +129,7 @@ B|and we didn't think it was that clean,|sd
 B|but then after you're gone for a while, it looks cleaner, you know|sv
 A|Oh, yeah|b
 B|uh,|%
-A|well, you know, a lot of these people that I've talked to that are coming down from, uh, like what I call, the back Eastespecially from J C Penney, uh, are selling two and three hundred thousand dollar houses up there and buying a hundred and fifty, hundred and seventy-five thousand dollar houses down here,|sd
+A|well, you know, a lot of these people that I've talked to that are coming down from, uh, like what I call, the back East especially from J C Penney, uh, are selling two and three hundred thousand dollar houses up there and buying a hundred and fifty, hundred and seventy-five thousand dollar houses down here,|sd
 B|Yeah,|b
 A|and they've wound up getting better houses here than they had there|sv
 A|so in a way, I guess it works both ways.|sv
@@ -164,7 +164,7 @@ A|and we never did,|sd
 A|and it's just like Dallas area, it was tornado alley up there,|sd
 A|and every spring mom would drag me up at three o'clock, four o'clock in the morning and pajamas and teddy bear across the street,|sd
 A|and we'd go into the cellar,|sd
-A|and Ito this day, I don't care if I go or not,|sd
+A|and I to this day, I don't care if I go or not,|sd
 B|Yep.|b
 A|you know, if it's going to get me, it's get me.|sv
 B|That's exactly, uh,|aa
@@ -194,7 +194,7 @@ A|with T I it's like anybody else, you never know how long you're going to be he
 B|Yeah,|b
 B|it's real tough,|ba
 B|I mean, the economy any more,|sd
-B|I mean, I think everybody just lives under an umbrella, the uncertainty with housingand everything,|sv
+B|I mean, I think everybody just lives under an umbrella, the uncertainty with housing and everything,|sv
 A|Yeah.|b
 B|you know, it's,|sd
 A|Do you work?|qy
@@ -221,13 +221,13 @@ B|and she's got a, uh, a live out nanny. Um,|sd
 B|but any rate, I don't have any of that, um,|sd
 B|I don't know,|h
 B|it's really not too difficult with no children and just two people, you know.|sd
-A|You basicallycan take care of everything yourself,|qy^d
+A|You basically can take care of everything yourself,|qy^d
 B|We have a,|sd
 B|Yeah,|ny
 B|we have a dog,|sd
 B|and we're pretty,|sd
 B|I mean, we're not fanatically neat,|sd
-B|but, um, we keep things up, you knowby the time you need to, um, get around to fertilizing and cutting in the spring.not like where there is three feet of weeds or anything in the yard|sd
+B|but, um, we keep things up, you know not like where there is three feet of weeds or anything in the yard by the time you need to, um, get around to fertilizing and cutting in the spring.|sd
 A|Yeah,|b
 A|Yeah.|b
 A|What about home repairs and stuff,|qw
@@ -235,10 +235,10 @@ A|do you have to do all that yourself,|qy
 A|or,|%
 B|Um, no,|nn
 B|we're pretty much, um,|sd
-B|we, we've been around long enough as a couple that we learned a long time ago not to wall paper togetherand things like that.|sd
+B|we, we've been around long enough as a couple that we learned a long time ago not to wall paper together and things like that.|sd
 A|Oh, you too.|aa
 B|Uh, we pretty much hire,|sd
-B|we subcontract mostly everythingI mean other than anything that's not a, um,|sd
+B|we subcontract mostly everything I mean other than anything that's not a, um,|sd
 A|Yeah.|b
 B|I mean, I know how to fix a running toilet|sd
 A|Oh, yeah.|b
@@ -258,9 +258,9 @@ B|Uh-huh.|b
 A|but puts a lot of strain on things.|sd
 B|Getting to agree to things, I'm sure,|sd
 B|and I also think that once you get to be, um, you know, certain,|sv
-B|when you get to be thirty something and thirty something gets to be a little bit olderyou start, um,|sv
+B|when you get to be thirty something and thirty something gets to be a little bit older you start, um,|sv
 A|Yeah.|b
-B|the dollar value on thingsI,|sv
+B|the dollar value on things I,|sv
 A|You bet.|aa
 B|you know, I think people that own homes a lot in North Dallas are very materialistic.|sv
 A|Oh, you bet.|aa
@@ -268,7 +268,7 @@ B|I know I'm supposed to talk about homes,|sd
 B|but people that, the people that own them are the homes themselves,|sv
 B|and you know, um, spending sixteen dollars a yard for custom draperies, for custom drapes just doesn't|sv
 A|Oh, yeah.|b
-A|Well, to some of them I guess it doesn't matter, you know, that maybethey've got enough coming in to take care of it,|sv
+A|Well, to some of them I guess it doesn't matter, you know, that maybe they've got enough coming in to take care of it,|sv
 B|Yeah,|b
 B|that's,|%
 B|I mean, and, and you know, you see a lot of these people that came east from, uh, west, from, uh, from New York with Exxon or J C Penney,|sd
@@ -283,14 +283,14 @@ B|so, well was it hard to adjust living in an apartment after being in a house.|
 A|Oh, yeah,|ny
 A|because you're uh, confined by space,|sd
 A|you know, I had a,|sd
-A|I came out of a thirty-one hundred square foot two storyhouse.|sd
+A|I came out of a thirty-one hundred square foot two story house.|sd
 B|Oh, my goodness|ba
 B|yeah.|b
 A|And I had room for everything,|sd
 A|in fact I had more room than knew what to do with.|sd
 A|I don't know|h
 B|Uh-huh.|b
-A|just seems like room, stuff always expands to fill available space,uh.|sv
+A|just seems like room, stuff always expands to fill available space, uh.|sv
 B|Yeah.|b
 B|Well, in a way you can travel light.|sv
 A|you can,|%
@@ -313,7 +313,7 @@ A|oh I remember in school,|sd
 A|there's just,|%
 A|seem like there was a fight or a party or something going on every night|sd
 B|Yeah.|b
-A|You don't run into that up here, I think, I think because there's so many, uh, professional people, if you want to call them thatthat go spend all day at work|sd
+A|You don't run into that up here, I think, I think because there's so many, uh, professional people, if you want to call them that that go spend all day at work|sd
 B|Uh-huh.|b
 A|and they want to come home|sv
 A|and they want some quiet,|sv
@@ -342,7 +342,7 @@ B|it's just real,|sd
 B|nowadays, with the way the income tax, I think housing is strictly to itemize.|sv
 A|Oh, you bet,|aa
 A|and the thing that, that gets me is, uh, you never really catch up, you never really finish doing things,|sv
-A|and, uhyou're always paying for something.|sv
+A|and, uh you're always paying for something.|sv
 B|Yeah,|aa
 B|exactly,|aa
 B|we,|%

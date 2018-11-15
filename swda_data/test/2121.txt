@@ -5,14 +5,14 @@ B|I mean, while it's certainly the case that things like automobiles and factori
 B|What do you think?|qo
 A|Um, well, you talked about, uh, volcanos.|sd
 A|I'm not sure how many active volcanos there are now, and, and what the amount of material that they do, uh, put into the atmosphere.|sd
-A|I think probably the greatest cause is, uh, vehicles,especially around cities.|sv
+A|I think probably the greatest cause is, uh, vehicles, especially around cities.|sv
 B|Uh-huh.|b
 A|Um, uh, do you live right in the city itself?|qy
 B|No,|nn
 B|I'm more out in the suburbs,|sd
 B|but I certainly work near a city.|sd
 A|Okay,|bk
-A|soCan you notice,|qy
+A|so Can you notice,|qy
 B|How about you?|qo
 A|well it's, it's,|%
 A|I live in a rural area.|sd
@@ -23,7 +23,7 @@ A|I live in Rhode Island.|sd
 B|Oh, I see.|b
 A|And, it's in the north,|sd
 A|I live up in the, uh, northeast corner|sd
-A|and Attleboro sits in just over the line,where T I's plant is,|sd
+A|and Attleboro sits in just over the line, where T I's plant is,|sd
 B|Uh-huh.|b
 A|but there isn't a lot of heavy industry.|sd
 A|There's the freeways|sd
@@ -37,13 +37,13 @@ A|they're swinging wider so that now they are coming over, over our homes.|sd
 B|Uh-huh.|b
 A|And, it seems like, uh, we're catching all that residue.|sv
 A|I'm not sure if it's kerosene or what that's dropping.|sd
-A|But, other than that, you know, we don't have the, unless we're catching it from the midwest, the emissions.You know from the power plants. Um.|sd
+A|But, other than that, you know, we don't have the, unless we're catching it from the midwest, the emissions. You know from the power plants. Um.|sd
 B|Yeah.|b
 B|You mean like from the coal.|bf
 A|Yeah,|ny
 A|yeah,|ny
 A|we generate,|sd
-A|one of our, our biggest electrical plants in Rhode Island uses coal to, uh,generate electricity.|sd
+A|one of our, our biggest electrical plants in Rhode Island uses coal to, uh, generate electricity.|sd
 B|Um,|%
 A|Um, there doesn't seem to be much emission from them,|sv
 A|but I'm not sure about the rest of the country.|sd
@@ -56,7 +56,7 @@ A|Okay,|b
 A|well, is that right?|bh
 B|Yeah,|ny
 B|people get up in the morning in that neighborhood|sd
-B|and they've got this black ash on their cars,which, you know, seems to be,|sd
+B|and they've got this black ash on their cars, which, you know, seems to be,|sd
 A|Yeah,|b
 A|surprise, surprise.|ba
 B|Yeah,|b
@@ -65,10 +65,10 @@ A|Yeah.|b
 A|There, there must be, uh, uh, some of the, some of the, uh, larger plants up, uh, up around one hundred twenty-eight.|sv
 B|Uh-huh.|b
 A|Um, we've got reports that, uh,|sd
-A|during the night seems like they'd blow off their, their stacks from, uh,the warehouses, for powerhouses,|sd
+A|during the night seems like they'd blow off their, their stacks from, uh, the warehouses, for powerhouses,|sd
 B|Right.|b
 B|Uh-huh.|b
-A|and, they do that at night too, because,employees been complaining that the cars have been pitted, and, you know, spots all over them.|sd
+A|and, they do that at night too, because, employees been complaining that the cars have been pitted, and, you know, spots all over them.|sd
 B|Right.|b
 B|Yeah,|b
 B|yeah.|b
@@ -95,7 +95,7 @@ A|no.|aa
 A|Didn't they just have an article, oh, on, uh,|qy
 A|they were dumping lime.|sd
 B|Up here?|b
-A|Up, upstate New York somewhere,over huge areas,|sd
+A|Up, upstate New York somewhere, over huge areas,|sd
 B|I haven't read that.|sd
 B|Oh yeah.|b
 A|and they thought that was more beneficial because, you know it, it, some of it does soak in|sd
@@ -108,7 +108,7 @@ A|and I can't remember where.|sd
 B|Yeah,|b
 B|that's|ba
 A|But I, I thought it was up there.|sv
-A|So, that's interesting because New Hampshire,and parts of Vermont, um, they showed pictures of, of extensive tree damage that they attributed to acid rain.|sv
+A|So, that's interesting because New Hampshire, and parts of Vermont, um, they showed pictures of, of extensive tree damage that they attributed to acid rain.|sv
 B|Uh-huh.|b
 B|Um.|%
 A|Um, you kind of think it's something else then?|qy
@@ -130,15 +130,15 @@ A|Uh, we can demand, uh, more efficient automobiles for one thing.|sv
 A|I still think that's, that's, uh, one of our major causes of pollutants.|sv
 B|Uh-huh.|b
 A|Uh, how we go about that, it's uh, uh, it's a little bit difficult.|sv
-B|I think it's up to individuals too, to ask automakers for,for less pollutant vehicles.|sv
+B|I think it's up to individuals too, to ask automakers for, for less pollutant vehicles.|sv
 A|Yeah,|b
 A|Yeah,|b
-A|you I think you need a, a vehicle something like, uh, Ralph Nader, Nader's Raiders, or,Uh, if you can get those types of groups.where, uh, or, uh, uh, A A R P, which has a lot of members.|sv
+A|you I think you need a, a vehicle something like, uh, Ralph Nader, Nader's Raiders, or, where, uh, or, uh, uh, A A R P, which has a lot of members. Uh, if you can get those types of groups.|sv
 B|Yeah.|b
 B|Uh-huh.|b
 B|Do you really think that new vehicles though is a big problem.|qy
 B|I mean, I remember reading an article that said like, it's, uh, the older polluters,|sd
-B|the, the twelve and fifteen year old cars, you know, contribute like ninety percent,of the automobile pollution|sd
+B|the, the twelve and fifteen year old cars, you know, contribute like ninety percent, of the automobile pollution|sd
 A|Yeah,|b
 B|and the new cars it's hardly is, hardly anything.|sv
 A|Yeah,|aa
@@ -165,12 +165,12 @@ A|This country seems to be a little behind on that.|sv
 B|Yeah.|b
 B|On the other hand most people don't use rapid transit because it's so inconvenient.|sv
 A|Um, yeah,|b
-A|but only because we got used to, uh, single person, single car,driving.|sv
+A|but only because we got used to, uh, single person, single car, driving.|sv
 B|Uh-huh.|b
 A|A lot of people don't even like to carpool.|sv
 B|Uh-huh.|b
 A|But we could that.|sd
-A|That'll help,pollution, air pollution,|sv
+A|That'll help, pollution, air pollution,|sv
 B|Uh-huh.|b
 A|The, uh, United States and Canada are I guess, is, is, going into, uh, some types of agreements to limit, uh, what's being given out by power plants,|sd
 B|Uh-huh.|b
@@ -208,7 +208,7 @@ A|if you can take a muffler off and only replace,|sd
 A|well not unless it was built into every muffler.|sd
 B|Right.|b
 A|And that's .|%
-B|But if you was talking about something which was more or less universal that, uh, busses and any kind of vehicle,had to pay a pollution tax, uh, this would penalize the heavy polluters and not penalize the light polluters,|sd
+B|But if you was talking about something which was more or less universal that, uh, busses and any kind of vehicle, had to pay a pollution tax, uh, this would penalize the heavy polluters and not penalize the light polluters,|sd
 A|That's a, that's quite a concept.|ba
 A|You should, uh, pursue that I think, or patent it, you know.|sv
 B|Yeah,|aa

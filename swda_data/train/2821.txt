@@ -12,7 +12,7 @@ A|is that good?|qy
 B|Yeah.|ny
 B|Well, do you really like Italian food?|qy
 A|it's not my favorite|sd
-A|but, I like  it's okay.|sd
+A|but,  I like  it's okay.|sd
 B| Then don't, |%
 B|Then this will probably,|sv
 B|I mean this isn't really excellent Italian food,|sv
@@ -28,12 +28,12 @@ B|actually it's very good it's all of these run adult males,|sv
 A|Uh-huh.|b
 B|which I'm not Italian,|sd
 B|no,|^h
-B|it's , it's all the garlic bread and all the, salads  you can eat with an entree.|sd
+B|it's , it's all the garlic bread and all the,  salads  you can eat with an entree.|sd
 A| Oh. |b
 A|Oh, that sounds really good.|ba
 B|So it wasn't too bad it really wasn't|sv
 B|but I was more in the mood for french toast any way|sv
-B|so, so  I really like Italian food though,|sd
+B|so,  so  I really like Italian food though,|sd
 A| Yeah. |b
 B|but do you have any favorite?|qy
 A|Well are there just the two of you?|qy
@@ -47,9 +47,9 @@ A|For us when we go out with the kids obviously we want to go somewhere that we 
 A|the fast food ones are probably the ones they like the best.|sd
 B|Oh, sure.|ba
 A|But we don't like to go there because that's the most expensive,|sd
-A|so we like to go to a pizza place where you can buy a pizza for one price and feed the whole family, and  like that.|sd
+A|so we like to go to a pizza place where you can buy a pizza for one price and feed the whole family,  and  like that.|sd
 B| Yeah. |b
-B|You can usually get a variety of what you're looking for, like  at Gatti's or something like that.|sd
+B|You can usually get a variety of what you're looking for,  like  at Gatti's or something like that.|sd
 A| Right. |b
 A|Right,|b
 A|but when my husband and I go out we like to go somewhere with a little atmosphere|sd
@@ -66,7 +66,7 @@ A|we love to go there. |sd
 B| We went there on my birthday  in March it's great.|sd
 A|You know it always kills me cause I don't like the, the decorations so much|sd
 A|it's too,|%
-B|too much like a bar naturally, and Mexico, |^2
+B|too much like a bar naturally,  and Mexico, |^2
 A| Yeah|b
 B|yeah,|aa
 B|I know,|ba
@@ -79,7 +79,7 @@ B|but it's probably the best tasting,|sd
 B|I don't know would you classify that as Tex-Mex?|qy
 A|Yeah,|ny
 A|uh-huh.|ny
-B|Um, the shredded beef the type of, spices  or sauces they use.|sd
+B|Um, the shredded beef the type of,  spices  or sauces they use.|sd
 A| Yeah. |b
 A|Uh-huh,|b
 A|I like to get that, uh,|sd
@@ -99,7 +99,7 @@ A|yeah.|b
 B|Even though we don't have kids we've been married long enough to, um, be around not be around that.|sd
 A|Yeah.|b
 B|Um, I'm trying to think of what else we like to eat.|^h
-B|The one thing I notice is it's just, um, about dining out that you probably can relate to with four children and two of us getting ready to adopt, I mean we find prohibited, just to  cost any more?|sd
+B|The one thing I notice is it's just, um, about dining out that you probably can relate to with four children and two of us getting ready to adopt, I mean we find prohibited,  just to  cost any more?|sd
 A| Uh-huh. |b
 A|Yeah.|b
 B|I mean lunch today was eighteen dollars.|sd
@@ -114,15 +114,15 @@ A|Sometimes it's hard isn't it to keep a,|qy
 B|Yeah,|ny
 B|it is I don't know, um,|h
 A|No,|fo_o_fw_"_by_bc
-A|sometimes Mark and I, that's my husband Mark, um,  go to the August Moon which is down there|sd
+A|sometimes Mark and I, that's my husband Mark,  um,  go to the August Moon which is down there|sd
 B| Uh-huh. |b
-A|it's a Chinese, uh, restaurant with the lions in  the front,|sd
+A|it's a Chinese,  uh, restaurant with the lions in  the front,|sd
 B| Oh, yeah,|b
 B|my husband likes that. |sd
 B|yeah,|b
 B|off of Arapaho down there?|qy^d
 A|yeah,|ny
-A|and,Oh, it's pretty good as far as Chinese,|sv
+A|and, Oh, it's pretty good as far as Chinese,|sv
 B|Yeah,|b
 B|August Moon,|b^m
 B|uh-huh.|b
@@ -144,21 +144,21 @@ A|Um.|%
 B|Well, we haven't been in years down near Presby ,|sd
 B|and I had a meeting down there today|sd
 B|and I saw that|sd
-B|and I said, gee I remember that they offer you, um, authentic Japanese feeding, or  American or piano bar,|sd
+B|and I said, gee I remember that they offer you, um, authentic Japanese feeding,  or  American or piano bar,|sd
 A| Oh. |b
-B|and I remember when we went we  were married with another couple that was just dating|sd
+B|and I remember when we went  we  were married with another couple that was just dating|sd
 B|and, um, I had never had saki.|sd
 A|Uh-huh.|b
 B|It made all raw fish tastes great|sd
 B|but if you're looking for a very, uh,|sd
 B|it's very pretty inside,|sd
 A| Is it? |bh
-B| and the  girls wear kimonos and,You know, if you're ever looking for that.|sd
+B| and the  girls wear kimonos and, You know, if you're ever looking for that.|sd
 A|Oh, how nice.|ba
 A|Yeah.|b
 B|Um, but what other kind of foods,|t1
 B|gee I don't know|h
-B|we went to a place called Grishman's in Greenville, which was really over priced. |sd
+B|we went to a place called Grishman's in Greenville,  which was really over priced. |sd
 A| I don't know that place. |sd
 A|Was it?|qy
 B|Uh-huh.|ny
@@ -170,11 +170,11 @@ A|No,|b
 A|there's a lot of nice barbecue places here,|sd
 A|now, I like barbecue okay, Texas barbecue.|sd
 B|Yeah,|b
-B|I like, barbecue,|sd
+B|I like,  barbecue,|sd
 A| It's good. |sd
 B|have  you ever been to I think it's called Spring Creek Barbecue?|qy
 A|Yeah,|b
-A|now, they're real good. |sd
+A|now,  they're real good. |sd
 B| That's real good, |sd
 B|Yeah.|b
 A|They are good.|sd
@@ -186,13 +186,13 @@ A|free ice cream,|b^m
 A|yeah.|b
 B|I didn't know they had that.|sd
 A|Yeah.|b
-B|I can't talk I had chocolate bavarian tort, for desert, today,  which I never eat at lunch|sd
+B|I can't talk I had chocolate bavarian tort, for desert,  today,  which I never eat at lunch|sd
 A| Oh. |b
 B|and it was wonderful.|sd
 A|Just to die for exactly.|sv
 B|It was,|aa
 A| Oh. |b
-B| in  fact if I could pick my, um, restaurants on how their coffee is and how their french bread is and the butter and the desert I would be, yes, I  would be in hog heaven.|sd
+B| in  fact if I could pick my, um, restaurants on how their coffee is and how their french bread is and the butter and the desert I would be,  yes, I  would be in hog heaven.|sd
 A| In heaven |^2
 B|And how are your kids at an age where they can contribute to what they want|qo
 B|or do you still order for them?|qrr
@@ -202,7 +202,7 @@ B| Oh, congratulations. |ba
 A| and she's  six months|sd
 A|and then my four year old he, he still,|sd
 A|but my other older two they can.|sd
-A|So, they're  they're kind of,|%
+A|So,  they're  they're kind of,|%
 B| Uh-huh. |b
 A|my littlest girl she's still like wants McDonald's, McDonald's, McDonald's|sd
 B|Yeah,|b
@@ -211,7 +211,7 @@ A|Oh, I'm telling you.|ba
 B|It's really sad isn't it cause it's hard to get them away from junk then.|sv
 A|Well, it's kind of funny is sometimes we're like we all want different things,|sd
 B| Uh-huh. |b
-A| and  so there's a H Avenue down here, and along are these fast  food restaurants|sd
+A| and  so there's a H Avenue down here,  and along are these fast  food restaurants|sd
 B| Uh-huh,|b
 B|I know where that, |sd
 B|Right|b
@@ -224,7 +224,7 @@ B|I was going to say because with six people how do you, um,|sd
 B|cause with two we have a problem,|sd
 B|I mean I can't even imagine, you know, trying to, um,|sd
 B|you sound like you're doing pretty well with four children.|sv
-A|Well, five of them, they're good,kids.|sd
+A|Well, five of them, they're good, kids.|sd
 B|That's the way the,|%
 B|Yeah,|b
 B|well, we're getting ready to|sd
@@ -241,7 +241,7 @@ B|this is food so I can say this,|sd
 B|but they, you have to bring a formula,|sd
 B|and I said what's that|sd
 B|They laughed|sd
-B|and I said well, you know, I'm. thirty something, |sd
+B|and I said well, you know, I'm.  thirty something, |sd
 A| Food's, food. |^2
 A| Yeah. |b
 B| and  I think that that would make them drool any way.|sv
@@ -249,12 +249,12 @@ A|Yeah,|b
 A|yeah.|b
 B|You, know, I guess are you is it a little bit of constricted, because a lot of restaurants don't take,|qy
 B|in terms of talking about restaurants, I mean are a lot of restaurants, how are they when you have children let alone three or four children?|qo
-A|You have to be careful if you go to a, a restaurant that, with  the atmosphere and everything, that  really is more adults you know,|sd
+A|You have to be careful if you go to a, a restaurant that,  that  really is more adults you know,  with  the atmosphere and everything,|sd
 B| Uh-huh. |b
 B| Sure. |b
 A|they,|%
 A|if you're,|%
-A|like we could probably take our oldest son and, and  our oldest daughter.|sd
+A|like we could probably take our oldest son and,  and  our oldest daughter.|sd
 B| Uh-huh. |b
 B|Uh-huh.|b
 A|And they know how to act,|sd
@@ -293,14 +293,14 @@ B|it was just terrible.|sd
 A|Oh dear.|ba
 B|I mean I was shocked,|sd
 B|I mean the dish was dirty, um,|sd
-A|It was one of these you have bad experience and, say I don't think I'll  come back here.|sv
+A|It was one of these you have bad experience and,  say I don't think I'll  come back here.|sv
 B| Yeah,|b
-B|where you felt like, like when you're in a bad part of Italy or something.|sv
+B|where you felt like,  like when you're in a bad part of Italy or something.|sv
 A|Oh dear.|ba
 B|Um.|%
 A|Oh.|b
 B|Boy,|b
-B|but other then that I don't know we, we do our share of pizza eating too, but more like go get it and carry it in cause we're too, cheap  to pay the delivery|sd
+B|but other then that I don't know we, we do our share of pizza eating too, but more like go get it and carry it in cause we're too,  cheap  to pay the delivery|sd
 A| Oh. |b
 A|Yeah,|b
 A|yeah,|b
@@ -323,7 +323,7 @@ B|no|%
 A|Yeah,|b
 A|there you go.|ba
 B|Well, I enjoyed talking to you,|fc
-B|and I guess, you know,Maybe we'll see you in the restaurants somewhere.|fc
+B|and I guess, you know, Maybe we'll see you in the restaurants somewhere.|fc
 A|Well, good luck.|fc
 A|Yeah,|fc
 A|maybe.|sd

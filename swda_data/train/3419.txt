@@ -28,10 +28,10 @@ A|uh-huh.|b
 B|yeah,|b
 B|but, um, oh, we've tried places, you know, down, uh, by the Collin Creek Mall,|sd
 B|the, uh, you know, Alvarez,|sd
-B|and, um, gosh we tried, what was across the street, El Paso'sEl Chico's or something,|sd
-A|Oh, El Chico's or El Fenixone,|^2
+B|and, um, gosh we tried, what was across the street, El Paso's El Chico's or something,|sd
+A|Oh, El Chico's or El Fenix one,|^2
 B|yeah,|aa
-B|somethingsomething like that,|aap_am
+B|something something like that,|aap_am
 A|uh-huh|b
 B|uh-huh,|b
 B|uh-huh.|b
@@ -45,7 +45,7 @@ A|Uh, Mother Mesquite's is one of our favorites|sd
 A|but then fajitas are one of my, uh,|sd
 A|I like it better than just about anything|sd
 B|Oh, yes.|aa
-A|and they make very good fajitas therein their own, uh, homemade flour tortillas that are just absolutely wonderful.|sv
+A|and they make very good fajitas there in their own, uh, homemade flour tortillas that are just absolutely wonderful.|sv
 B|Yes.|aa
 B|Oh.|b
 A|Especially with butter and honey on them|sv
@@ -72,7 +72,7 @@ B|Yes.|ny
 B|I have eaten there.|sd
 B|Now the only problem, *note the setup for a negative comment|sd
 B|I love the food.|sd
-B|It's a lot of cajun food andgood seafood,|sd
+B|It's a lot of cajun food and good seafood,|sd
 A|Uh-huh.|b
 B|but, uh, the service has always been so strange, every time I've been in there.|sd
 B|Mostly it's been at lunch time|sd
@@ -85,21 +85,21 @@ A|Oh, I, we like, uh, uh, for the cajun, the spicy, we like Atchafalaya's out on
 B|Uh-huh.|b
 A|and it's a good restaurant.|sd
 B|Oh, well that sounds great.|ba
-A|And fish, for one of the best fish restaurants in town is either Vincent'sin Addison, which is absolutely wonderful.or, uh, I believe it's a Rusty Scupper over on, uh, uh, Dallas Parkwaythere in Plano|sd
+A|And fish, for one of the best fish restaurants in town is either Vincent's there in Plano or, uh, I believe it's a Rusty Scupper over on, uh, uh, Dallas Parkway in Addison, which is absolutely wonderful.|sd
 B|Uh-huh.|b
-B|Uh-huh.Uh-huh.|b
+B|Uh-huh. Uh-huh.|b
 A|The service is great.|sd
 A|They have every kind of fish that you could imagine you'd want|sd
 B|Uh-huh.|b
 A|and the, the atmosphere is wonderful too.|sd
-A|If you want a really special night out and fish foodthat's a good place to go.|sv
+A|If you want a really special night out and fish food that's a good place to go.|sv
 B|Uh-huh.|b
 B|Oh well, I, uh, I have children and, and work,|sd
 B|and so we, uh, we can eat a lot of fast food|sd
 A|I can remember when our children were small.|sd
 B|Uh-huh.|b
 A|We lived in the Chicago area at the time,|sd
-A|and we had a lot of McDonaldswhen they were first coming out.|sd
+A|and we had a lot of McDonalds when they were first coming out.|sd
 B|Yeah|b
 B|I know.|ba
 A|I can't look a McDonalds in the face now.|sd
@@ -114,7 +114,7 @@ A|and cheap.|b
 B|Yeah,|b
 B|but, but the kids, they've got those expensive tastes|sd
 B|so, uh, they like Tia's|sd
-B|so they can sit downand all that good kind of stuff.|sd
+B|so they can sit down and all that good kind of stuff.|sd
 A|Yes,|b
 A|yes|b
 A|yes.|b
@@ -122,7 +122,7 @@ A|Sounds like my grandchildren.|ba
 B|Yeah,|b
 B|I know.|ba
 B|They, they, they're just spoiled rotten,|sd
-B|but, uh,but, no,|%
+B|but, uh, but, no,|%
 B|I, uh, uh, we love to eat out,|sd
 B|of course, it's just so much easier and simpler|sv
 A|Oh, yes.|aa
@@ -150,7 +150,7 @@ B|Yeah,|b
 B|now I, we've been there twice and, and both times I, just, oh, the food just didn't quite settle with me|sd
 A|Oh.|b
 B|and I don't know what it was.|sd
-A|Oh, now that's surprisingbecause normally they're just, they're real good.|sv
+A|Oh, now that's surprising because normally they're just, they're real good.|sv
 B|Uh-huh,|b
 B|uh-huh.|b
 B|Yes,|aa
@@ -160,7 +160,7 @@ B|Uh-huh.|b
 A|um, don't have to wait forever for a table.|sd
 B|Uh-huh,|b
 B|yeah.|b
-A|And we also like Owens, uhcountry|sd
+A|And we also like Owens, uh country|sd
 B|Oh, family restaurant.|^2
 A|yeah|aa
 B|Uh-huh.|b

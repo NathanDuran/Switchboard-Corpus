@@ -6,7 +6,7 @@ A|Huh.|%
 B|How about you?|qo
 A|Uh, no,|nn
 A|we're not being tested for drugs at all, uh,|sd
-A|our policies and procedures manual, uh, the furthest it goes about drugs is in the, kind of the miscellaneous section, orit's reasons for immediate dismissal,|sd
+A|our policies and procedures manual, uh, the furthest it goes about drugs is in the, kind of the miscellaneous section, or it's reasons for immediate dismissal,|sd
 B|Uh-huh.|b
 A|it says, use of narcotics on company premises.|sd
 B|Um.|%
@@ -17,7 +17,7 @@ A|and I'm an engineer there,|sd
 A|but I do go on a lot of hazardous waste sites,|sd
 A|but I don't operate any machinery.|sd
 B|Yeah.|b
-A|Now, people for our company that do operate machinery like drill rigs and things like thatare under a, a medical monitoring program,|sd
+A|Now, people for our company that do operate machinery like drill rigs and things like that are under a, a medical monitoring program,|sd
 B|Uh-huh.|b
 A|because they're at a higher risk of exposure|sd
 A|and blood screening is part of that|sd
@@ -34,7 +34,7 @@ B|So, a lot of our clients are oil companies, big oil companies,|sd
 B|and they go out to,|sd
 B|we have engineers who, uh, go out to the oil well, to the, to the client's oil well, and, and work with a lot of heavy equipment and put tools down the oil well and stuff,|sd
 B|so the clients are very concerned that, you know, the engineers who go out there are adhering to their drug policy, because they're on their, their, you know, territory and everything,|sd
-B|butthe thing that's interesting is that I I'm an engineer and, a software engineer|sv
+B|but the thing that's interesting is that I I'm an engineer and, a software engineer|sv
 A|Um.|%
 B|and I work in the software, uh, house,|sd
 B|and everybody there, you know, are all software engineers.|sd
@@ -59,7 +59,7 @@ A|and people will just get,|sd
 A|I mean, I've,|%
 A|my brother lives where I work,|sd
 A|and I have many a time called him to come get me, you know.|sd
-A|And, uh, uh, but, you know, they don't think twice about serving beer by the keg.You know,|sd
+A|And, uh, uh, but, you know, they don't think twice about serving beer by the keg. You know,|sd
 B|Yeah|b
 A|but, uh, I think drug testing,|sv
 A|and I, I don't know,|h
@@ -95,7 +95,7 @@ B|and, uh, actually beforehand they told me they were going to, uh, do drug scre
 B|but I had forgotten about that,|sd
 B|and so, basically, I'd already peed off that morning|sd
 B|and, and when I got in there, I didn't, I wasn't, like, able to give a full sample,|sd
-B|and sobefore I went to any of the interviews and go in there again,they made me sit and wait for forty-five minutes, drink a whole ton of water|sd
+B|and so they made me sit and wait for forty-five minutes, drink a whole ton of water before I went to any of the interviews and go in there again,|sd
 A|Oh.|b
 A|Right.|b
 B|and the, and the, the procedure is utterly humiliating.|sv

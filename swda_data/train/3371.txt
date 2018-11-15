@@ -18,12 +18,12 @@ A|there's,|%
 B|How many square feet do you have?|qw
 A|We have got about, uh, twenty, I'd say about twenty-four hundred.|sd
 B|Four bedrooms?|qy
-A|Uh, we've got five bedrooms,because we built onto our garage.|sd
+A|Uh, we've got five bedrooms, because we built onto our garage.|sd
 B|Five bedrooms.|b^m
 B|Uh-huh.|b
 A|A, a bedroom for my mother,|sd
 A|and, uh,|%
-B|I made a, I made a fourth bedroom out of, uh, a made a fourth bedroom out of one of our, out of our living room and then added a, uh, what we call a sunroomto get the, you know,|sd
+B|I made a, I made a fourth bedroom out of, uh, a made a fourth bedroom out of one of our, out of our living room and then added a, uh, what we call a sunroom to get the, you know,|sd
 A|Oh.|b
 B|when, when we added four hundred square feet to our house|sd
 A|Oh, that's great.|ba
@@ -65,7 +65,7 @@ A|Yeah,|b
 A|I, I've heard a lot of people say that.|sd
 A|That's for sure.|ba
 A|Uh, we have an attic that we've just put, you know, plywood over the beams and things up in the attic|sd
-A|and so that,has replaced it to some extent|sd
+A|and so that, has replaced it to some extent|sd
 B|So you,|%
 A|but certainly not,|sd
 B|Can you stand up in it?|qy
@@ -82,7 +82,7 @@ B|So, five bedrooms and two living, two family|bf
 A|Two living areas.|b^m
 A|We have a living room and dining room at the front of the house,|sd
 B|Uh-huh.|b
-A|and then we have a, the, uh, family room, kitchen, and playroomat the rear of the house which has been really nice.|sd
+A|and then we have a, the, uh, family room, kitchen, and playroom at the rear of the house which has been really nice.|sd
 B|Uh-huh.|b
 A|In fact, I really enjoy the playroom that,|sd
 A|you would think that would not be a real bonus, you know, to a house,|sd
@@ -102,7 +102,7 @@ A|Yeah.|b
 B|Strange.|sv
 A|Well, that's kind of the way our living room and dining room is,|sd
 B|Uh-huh.|b
-A|but it is nice to have it because there's, uh, with our size of family it's nice to know that there's one that's always straight and clean if you have someone comejust on the spur of the moment.|sd
+A|but it is nice to have it because there's, uh, with our size of family it's nice to know that there's one that's always straight and clean if you have someone come just on the spur of the moment.|sd
 B|Right,|b
 B|right.|b
 B|Uh-huh.|b
@@ -137,7 +137,7 @@ B|I know,|aa
 B|he's not a handy,|sd
 B|right?|^g
 A|worst thing in life is to have to repair something.|sd
-B|I, on the other hand,uh, do a lot too much of it|sd
+B|I, on the other hand, uh, do a lot too much of it|sd
 A|So,|%
 B|and, uh, I've gotten good at it which in a, in a way is bad because then you, uh, you start to take pleasure in it|sd
 A|Well, uh, that's great.|ba

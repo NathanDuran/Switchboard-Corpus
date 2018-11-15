@@ -5,8 +5,8 @@ B|Uh, we, we take books every once in a while in our Sunday school class and go 
 B|Uh, I love Scott Peck and his ROAD LESS TRAVELED.|sd
 A|Huh, yeah,|b
 A|I've heard of that one.|sd
-A|Idon't think I've read it.|sd
-B|Oh, it isit is wonderful.|sd
+A|I don't think I've read it.|sd
+B|Oh, it is it is wonderful.|sd
 B|I, I thoroughly enjoyed that.|sd
 B|What do you read?|qw
 A|Well, uh, I'm a Tom Clancy fan.|sd
@@ -14,7 +14,7 @@ B|Okay.|bk
 A|And I read,|sd
 A|I just finished a book on Novelle Netware, uh,|sd
 A|that's computer stuff.|sd
-A|I do a lotof computer reading|sd
+A|I do a lot of computer reading|sd
 B|Oh, yes.|b
 A|and, uh, I'm just finishing another one up on, uh, statistical sampling,|sd
 A|so, I do more work kind of related reading than, uh, just for enjoyment.|sd
@@ -43,19 +43,19 @@ B|Uh, well, I guess they're, they're a type of mystery.|sd
 B|They're usually some|%
 B|he's a ex-lawyer|sd
 B|so, or, he, he's a lawyer who no longer practices,|sd
-B|buthis are all, have some part of the law, uh, enveloped in them.|sd
+B|but his are all, have some part of the law, uh, enveloped in them.|sd
 A|So, you kind of learn something as well as enjoy yourself.|sd
 B|Right,|b
 B|and then, uh, the new author that came out with, uh, oh, the one that, uh, Harrison Ford starred in.|sd
 A|RAIDERS OF THE LOST ARK stuff.|^2
 B|No,|ar
 B|no,|ar
-B|it wasthe, uh,|sd
+B|it was the, uh,|sd
 A|Oh.|b
 B|it's late,|sd
 B|I'm tired,|sd
-B|so I'm notthinking too well.|sd
-A|What,what time is it there, ten thirty?|qw
+B|so I'm not thinking too well.|sd
+A|What, what time is it there, ten thirty?|qw
 B|Uh-huh.|b
 A|Uh, it's nine thirty here.|sd
 B|Oh, it's, uh, it was his first book.|sd
@@ -70,8 +70,8 @@ B|Uh, a sequel to it.|sd
 B|And both of those I've enjoyed real well.|sd
 B|But I, I like that.|sd
 B|I love Danielle Steele|sd
-B|and, and, you know, if I want to get a fantasy andget away from it all.|sd
-A|Is sheis she kind of racy?|qy
+B|and, and, you know, if I want to get a fantasy and get away from it all.|sd
+A|Is she is she kind of racy?|qy
 B|No,|nn
 B|no,|nn
 B|she isn't at all.|sd

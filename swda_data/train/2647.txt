@@ -5,16 +5,16 @@ A|I like large colleges because I went to University of Texas at Austin,|sd
 A|they have fifty thousand students there.|sd
 A|And I feel like that now if I went, if I had gone to a small college that only had a couple of thousand that I wouldn't have, have gotten as much exposure to different people and different, uh, I don't know, different languages, different cultures, and things like that just by being around those fifty thousand students.|sd
 B|That's interesting,|ba
-B|I went to a smaller school,  of probably three thousand, thirty-five hundred.|sd
+B|I went to a smaller school,   of probably three thousand, thirty-five hundred.|sd
 A| Uh-huh. |b
 A|Uh-huh.|b
 B|And I, I thought that was the best experience in that we had more one-on-one since we seemed to know everyone on campus,|sd
 A| Huh. |b
-B| and  we had a broad spectrum of languages and cultures and backgrounds, and so forth,|sd
+B| and  we had a broad spectrum of languages and cultures and backgrounds,  and so forth,|sd
 A| Huh. |b
 B| so, I thought it was wonderful to be a bigger fish and not so much a number,|sd
 A| Uh-huh. |b
-B| um,  one of fifty thousand, I was one of three thousand, different perspectives,  and,  and, you know,|sd
+B| um,  one of fifty thousand, I was one of three thousand,  and,  and, you know,  different perspectives, |sd
 A| Right. |b
 A| Uh-huh. |b
 A| Yeah. |b
@@ -23,7 +23,7 @@ B|but  it sounds like we were both kind of looking at the same sort of, sort of 
 A|Yeah,|b
 A|I, I could see, I could see that point, I could see how it would be.|sd
 A|I'm sure your classes were a lot smaller, um, because like we would have biology classes that did, main courses that everyone has to take, I mean, hundreds of students in this class,|sd
-A|so, actually,  yes, you were a number.|sd
+A|so,  actually,  yes, you were a number.|sd
 B| Yeah. |b
 A|But, um, I, I just,|%
 A|I don't know,|h
@@ -48,21 +48,21 @@ A|I can still function, in my own kind of area, in my own group.|sd
 A|I have a job,|sd
 A|I have my friends,|sd
 B| Uh-huh|b
-A| and I'm  really not as, as concerned about the entire city, so when you go to a big, a big university, you're not as concerned about the entire university, but  your group of friends, your classes, your interests, your clubs and things like that.|sd
+A| and I'm  really not as, as concerned about the entire city, so when you go to a big, a big university, you're not as concerned about the entire university,  but  your group of friends, your classes, your interests, your clubs and things like that.|sd
 B| Yeah. |b
-B|I think that's probably keyed to me is not so much the size the school, but  what, what is the particular needs of the students|sd
+B|I think that's probably keyed to me is not so much the size the school,  but  what, what is the particular needs of the students|sd
 A| Uh-huh. |b
-B|and whereas some would immediately feel very comfortable in this, um, larger university setting, some  of the students, um, when I was, when I was teaching school would not have been comfortable with that.|sv
+B|and whereas some would immediately feel very comfortable in this, um, larger university setting,  some  of the students, um, when I was, when I was teaching school would not have been comfortable with that.|sv
 A| Uh-huh. |b
 A|Uh-huh.|b
-B|They needed, uh, at least at first, from,  from teachers, professors and so forth, and then after a year or two move on to a little bit bigger pond where, where, when they had a little more self-confidence built up, oh, yes, I can do this, oh, I've done this before, it's just in a bigger setting, they needed  a smaller setting that, that was more like family where they could get one-on-one,|sd
+B|They needed, uh, at least at first,  they needed  a smaller setting that, that was more like family where they could get one-on-one,  from,  from teachers, professors and so forth, and then after a year or two move on to a little bit bigger pond where, where, when they had a little more self-confidence built up, oh, yes, I can do this, oh, I've done this before, it's just in a bigger setting,|sd
 A| Uh-huh,|b
 A|right. |b
 A| Right. |b
 A| Right. |b
 B| and  so maybe to me the key would be what is a the, the students needs,|sd
 A| Uh-huh. |b
-B|but it's these other things that you and I are, are keying off on, that,  that are really more of an education that,|sv
+B|but it's these other things that you and I are, are keying off on,  that,  that are really more of an education that,|sv
 A| Uh-huh. |b
 B|but they're the things that don't show up in,|sv
 A|On paper.|^2
@@ -80,11 +80,11 @@ A|I strived to be an A student|sd
 A|but it wasn't like a real priority.|sd
 B|Right.|b
 A|To my, my priority was just being as worldly as I could possibly be getting into as many organizations as I possibly could,|sd
-A|and, and one other point I was going to make, was that I can I can see that probably if I had gone to a smaller school, I would probably have more friends, because  you, like you said, you know, you know, everybody knows everybody,|sd
+A|and, and one other point I was going to make, was that I can I can see that probably if I had gone to a smaller school, I would probably have more friends,  because  you, like you said, you know, you know, everybody knows everybody,|sd
 B| Huh. |b
 B| Yeah. |b
 A| and  so, you probably come out of it knowing, and by friends, I mean, like contacts for when you get out of school, um, you know,|sv
-A|you just, you may walk into a company and see someone you went to school with, more  so at a small college then a large college.|sv
+A|you just, you may walk into a company and see someone you went to school with,  more  so at a small college then a large college.|sv
 B| Uh-huh. |b
 B|Yeah.|b
 A|You may have gone to school with them|sv
@@ -109,7 +109,7 @@ B| and  it's, it's neat to know that we have that contact that goes back that so
 A| Uh-huh. |b
 B| you  know, we weren't all out to be teachers or, or whatever|sd
 B|so we didn't have the same classes,|sd
-B|but we had a common thread, twenty  odd years later. something  that still ties us together,|sd
+B|but we had a common thread,  something  that still ties us together,  twenty  odd years later.|sd
 A| Right. |b
 A| Wow. |ba
 A|That's great.|ba
@@ -121,17 +121,17 @@ A|That's great,|ba
 A|that's great.|ba
 A|Yeah,|%
 A|that's what I, that's basically what I, and, when I first,|sd
-A|I've been out of college only two years now, so it's still pretty fresh on my memory, um,|sd
+A|I've been out of college only two years now, so it's still pretty fresh on my memory,  um,|sd
 B| Uh-huh. |b
 A| but now that I'm out,|sd
 A|when I went into school, my parents told, well,|sd
 A|my,|%
-A|okay, let me, let me go back to my, my sister now is in college, and  so forth, and  my father was really interested in getting her in a school that would look good on her, on her, uh, diploma, etcetera,|sd
+A|okay, let me, let me go back to my, my sister now is in college,  and  my father was really interested in getting her in a school that would look good on her, on her, uh, diploma, etcetera,  and  so forth,|sd
 B| Uh-huh. |b
 B| Uh-huh. |b
 A|and, and I kept pushing her towards just kind of U T or a larger school,|sd
 A|and it was just a big conflict between us because my father wanted the academics|sd
-A|and I wanted her to get the life experience, out  of it,|sd
+A|and I wanted her to get the life experience,  out  of it,|sd
 B| Uh-huh. |b
 A|and so it was, you know,|sd
 A|she went the academic way because she's a straight A student, which is,|sd
@@ -142,27 +142,27 @@ A|so, she, you know,|%
 A|that's probably,  you know, what she, what she wants anyway|sd
 A|but that was the big deal|sd
 A|and,|%
-B|In, in that case, uh, regardless of what you or your father pushed for it sounds like she was going for what she needed, and,  and made the best fit for her. and  finding a school that, that met her specific requirements,|sv
+B|In, in that case, uh, regardless of what you or your father pushed for it sounds like she was going for what she needed,  and  finding a school that, that met her specific requirements,  and,  and made the best fit for her.|sv
 A| Right. |b
 A| Right. |b
-A|And that, that's another point is that, the, a parent should tell their child to be or, or to give their child the leeway to choose their school, not  so much choose the school for them but, you know, kind of guide them along but let them more or less choose what they need and what they're going to do.|sv
+A|And that, that's another point is that, the, a parent should tell their child to be or, or to give their child the leeway to choose their school,  not  so much choose the school for them but, you know, kind of guide them along but let them more or less choose what they need and what they're going to do.|sv
 B| Yeah. |b
 B|I think it helps,|sv
-B|a, now my grandfather was going to pay if I went to, uh, what's now U T Arlington, because  it was there in my hometown,|sd
+B|a, now my grandfather was going to pay if I went to, uh, what's now U T Arlington,  because  it was there in my hometown,|sd
 A| Uh-huh. |b
 B|I could live at home.|sd
 A|Right.|b
 B|But I chose to go to another school|sd
 B|and even though he was pleased that it was a church related school, he was not willing to pay any at all even the same amount of money,|sd
-A| Huh. Right,|b
+A| Huh.  Right,|b
 B| and  I think I value my, my education more because I had to work for it.|sd
 A|uh-huh.|b
-B|And because I knew all along that's what I wanted, even though  I had to buck the family in order to, to do what I needed to do.|sd
+B|And because I knew all along that's what I wanted,  even though  I had to buck the family in order to, to do what I needed to do.|sd
 A| Uh-huh. |b
 B|So,|%
 A|Right.|b
 A|Well, that was pretty courageous|sv
-B|Um, I guess, I guess it was, it was my mother's support that got me through it, after I got  out that  and ten years of, of, uh, loans|sd
+B|Um, I guess, I guess it was, it was my mother's support that got me through it,  that  and ten years of, of, uh, loans  after I got  out|sd
 A| Yeah. |b
 A| Oh, yeah,|ba
 A|yeah. |b
@@ -183,14 +183,14 @@ A|yeah.|aa
 A|Okay.|%
 B|If, if nothing else because I work in training at T I now,|sd
 A| Uh-huh. |b
-B| if  nothing else just those experiences beyond and, and including your educational classes that help give you the self-esteem to do and achieve, whatever  you set your mind on,|sv
+B| if  nothing else just those experiences beyond and, and including your educational classes that help give you the self-esteem to do and achieve,  whatever  you set your mind on,|sv
 A| Uh-huh. |b
 A| Uh-huh. |b
 B| and the, you,  you made the right choice in going to a school that met all of your needs to make, to give you the, the potential to do whatever you wanted.|sv
 A|Right,|aa
 A|because when you, when you do want, when you do finally graduate that, that's what you need the most.|sv
 A|I'm finding out now that what I'm needing the most now is not smarts, not what I can do on paper, it's stamina, courage, uh, ,|sd
-B| Young lady, you have gotten your education then,|sv
+B| Young lady,  you have gotten your education then,|sv
 A| words, it, |sd
 B|that, that's right.|aa
 A|Yes,|aa

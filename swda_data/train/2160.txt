@@ -12,7 +12,7 @@ B|Where in North Carolina?|qw
 A|In Raleigh.|sd
 B|Raleigh,|b^m
 B|great.|ba
-A|Yeah,My name is Fernando. *sd|b
+A|Yeah, My name is Fernando. *sd|b
 B|Well, my name's Mary.|sd
 B|Fernando, glad to know you.|fo_o_fw_"_by_bc
 A|So, um, do you, well,|%
@@ -31,7 +31,7 @@ A|because I'm down at N C State.|sd
 B|Yeah,|b
 B|uh-huh.|b
 A|And so I took a class,|sd
-A|and he said, sign up and get some moneyand just talk for five minutes.|sd
+A|and he said, sign up and get some money and just talk for five minutes.|sd
 B|Right|ba
 A|So are you ready?|qy
 B|I'm ready.|na
@@ -94,7 +94,7 @@ A|and so. |%
 B| Well, but you know, the,  the strange thing, uh, perhaps, not strange, but something that many people don't realize, is that you can go back as far as nineteen fifty-one and fifty-two and find that there were drug dealers at that time trying to influence the high school kids,|sv
 B|because, uh, I'm a retired educator.|sd
 A|Okay|bk
-B|And, in fifty-one and fifty-two, the police came to the high school where I was and were telling us how to recognize when kids were on drugs, how to recognize the pushersoutside the one entrance, that they were giving their drugs away in order to get the kids started, and so on, and so on.|sd
+B|And, in fifty-one and fifty-two, the police came to the high school where I was and were telling us how to recognize when kids were on drugs, how to recognize the pushers outside the one entrance, that they were giving their drugs away in order to get the kids started, and so on, and so on.|sd
 A|Yeah.|b
 B|So it's a problem that's been around for over forty years,|sv
 B|and we're just really, uh, uh, now, trying to, uh, figure out how to cope with the problem because it has grown so huge.|sv
@@ -106,14 +106,14 @@ A|I mean it's like, compared to, you know, compared to, weapons or stuff like th
 A|What you're doing is, you, you know,|%
 A|it's like, you have other things, you know,|sv
 A|you have the AIDS|sv
-A|we're going to solve, try to solvethe AIDS problem while, while, you know, some people are getting killed here and there|sv
+A|we're going to solve, try to solve the AIDS problem while, while, you know, some people are getting killed here and there|sv
 B|Uh-huh.|b
 A|and then|%
 B|Yeah|b
-B|and another one of the problems is that the people who are the dealers, the big dealers in drugs,may be, may be part of the power structure that's keeping us from spending the money in that direction.|sv
+B|and another one of the problems is that the people who are the dealers, the big dealers in drugs, may be, may be part of the power structure that's keeping us from spending the money in that direction.|sv
 A|Uh-huh.|b
 A|But those people never get caught.|sv
-A|The people thatthat, that I,|%
+A|The people that that, that I,|%
 B|That's right,|aa
 B|they'll never get caught.|sv
 A|see, their theory is that if I'm surrounded, and I'm going to be caught, I'm going to try to find my way through,|sv
@@ -125,13 +125,13 @@ B|But they'll,|%
 A|You know, it's like,|sv
 A|of course, I mean I might be, you know, the the leading drug dealer here,|sv
 A|but you won't find me dealing in drugs,|sv
-A|I mean, there's no connectionbetween me and the people that were caught, you know.|sv
+A|I mean, there's no connection between me and the people that were caught, you know.|sv
 B|That's right.|aa
 B|That's right,|aa
 B|and, they,|%
 B|one person doesn't know the other person down the line.|sv
 A|Right.|aa
-B|But the guy at the very top, the one who's, who's really making the millions and the millions is the one who also many times is part of the power structure, uh, the, uh, and had the politicaluh, pull to keep things from, uh, keep the interest or the emphasis in some other direction, other than on the drug dealing,|sv
+B|But the guy at the very top, the one who's, who's really making the millions and the millions is the one who also many times is part of the power structure, uh, the, uh, and had the political uh, pull to keep things from, uh, keep the interest or the emphasis in some other direction, other than on the drug dealing,|sv
 A|Yeah.|b
 B|because it sure is monstrous in this country.|sv
 A|Yeah,|b
@@ -155,7 +155,7 @@ B|Nope,|nn
 B|I only heard about it.|sd
 A|Okay,|bk
 A|in one part, the guy goes out of jail,|sd
-A|and within, uh, two months, he has all his house payments goneeverything paid, you know,|sd
+A|and within, uh, two months, he has all his house payments gone everything paid, you know,|sd
 B|Uh-huh.|b
 A|and he had enough money to, you know,|sd
 A|it's like, those guys, at one point, you know, they had so much money that they didn't know what to do with it|sd

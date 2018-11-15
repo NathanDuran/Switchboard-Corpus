@@ -9,12 +9,12 @@ B|I buy, I try to buy as simple a car as possible.|sd
 A|Yeah,|b
 A|I know what you mean.|ba
 B|So, you know, changing the oil, changing the spark plugs|sd
-B|and most of them now, you know, you don't go through the ignition stuff anymore because that's all solid state or,or fuel injected|sv
+B|and most of them now, you know, you don't go through the ignition stuff anymore because that's all solid state or, or fuel injected|sv
 A|Yeah,|aa
 A|or fuel injected,|^2
 A|and so there's,|%
 B|so there goes the carburetor|sv
-B|and if the fuel injection system breaks down, there's  no way in the world you're going to work on that.|sv
+B|and if the fuel injection system breaks down,  there's  no way in the world you're going to work on that.|sv
 A| Yeah. |b
 A|No|aa
 A|there's no way.|aa
@@ -28,14 +28,14 @@ A| You know, they've gotten so complicated  or so high tech that, uh, the guys, 
 B|Yeah,|aa
 B|I've got, uh, an eighty-four Chevy van that's, uh, a one ton van with a camper conversion on it.|sd
 A|Yeah.|b
-B|It's got the, the, the good old three fifty, standard  engine in it.|sd
+B|It's got the, the, the good old three fifty,  standard  engine in it.|sd
 A| Absolutely. |aa
 B|Regular gas engine,|sd
 B|and that engine I understand,|sd
 B|I can, I can actually work on that engine.|sd
 A|Yeah,|b
 A|I used to have, uh, Chevy van,|sd
-A|it was a short van, that  had the, the three fifty in it.|sd
+A|it was a short van,  that  had the, the three fifty in it.|sd
 B| Yeah. |b
 B| Uh-huh. |b
 A| And  basically it, it was a motor|sd
@@ -64,9 +64,9 @@ B|And, uh, I bought it when we were living in Lubbock,|sd
 B|when I came back here, I brought the car back here|sd
 B|and, uh, I don't know, diesels got pretty unpopular|sv
 B|and you couldn't sell the|sv
-B|I mean, though for what you could get for one, you might  as well drive it over a cliff.|sv
+B|I mean, though for what you could get for one,  you might  as well drive it over a cliff.|sv
 B|And, uh, the injector pump went bad|sd
-B|so I found a outfit down here to rebuild it.And, uh, reinstalled that|sd
+B|so I found a outfit down here to rebuild it. And, uh, reinstalled that|sd
 B|and that was probably one of the most miserable things I had gotten into in a long time.|sd
 A|I don't think I'd know where to start with a diesel.|sd
 B|Oh, well, it, you know,|%
@@ -122,12 +122,12 @@ B|yeah|ny
 B|the three fifty regular gas engine.|sd
 A|Yeah,|b
 A|that's what I like because, they've got plenty of power,|sv
-A|and, uh,if you treat them right, they're not the gas guzzlers I think that they've got the reputation to be.|sv
+A|and, uh, if you treat them right, they're not the gas guzzlers I think that they've got the reputation to be.|sv
 B|Uh-huh.|b
-A|I'm convinced that, uh, Detroit or whoever it is made a major mistake, years ago when  they stopped putting the small V eights in and went to the fours and some of the sixes.|sv
+A|I'm convinced that, uh, Detroit or whoever it is made a major mistake,  years ago when  they stopped putting the small V eights in and went to the fours and some of the sixes.|sv
 B| Yeah|b
 B|Uh-huh.|b
-A|I'm convinced that the small V eight like the, the Mustang's original two eighty-nine or some of the Chevy two eighty-threes, were  good little V eight engines that were not gas guzzlers|sv
+A|I'm convinced that the small V eight like the, the Mustang's original two eighty-nine or some of the Chevy two eighty-threes,  were  good little V eight engines that were not gas guzzlers|sv
 B| Uh-huh. |b
 A|but they had enough power pull all this weight.|sv
 B| Yeah. |b
@@ -143,7 +143,7 @@ A|Oh, yeah.|b
 B|The two little cars I've got now,|sd
 B|bought a Mitsubishi Mirage here a couple of years ago|sd
 B|and, and it was normally carbureted|sd
-B|and it's fairly easy to work with because there's not just a whole lot in it to go wrong, and you know changing the  plugs and stuff.|sd
+B|and it's fairly easy to work with because there's not just a whole lot in it to go wrong,  and you know changing the  plugs and stuff.|sd
 A| Yeah,|b
 A|that's kind of like, |%
 A|the, the first, well my first car was a fifty-six Mustang|sd
@@ -154,7 +154,7 @@ A|it was a three oh, seven or something like that,|sd
 B| Yeah. |b
 A| but,  uh, I remember working on those cars,|sd
 A|you'd open the hood|sd
-A|and there was basically nothing in there but an engine,and a few things.|sd
+A|and there was basically nothing in there but an engine, and a few things.|sd
 B|Uh-huh,|b
 B|uh-huh.|b
 A|Now, you open the hood and it's scary.|sv
@@ -189,9 +189,9 @@ B|started with the newer engines, you know,|sv
 B|when they started putting all that pollution control stuff on the older engines is where they started getting into so much, you know, trouble. Because the three fifty with all the, you know,|sv
 B|like well, actually, I guess,|%
 B|within a couple of years ago anyway was the last I've paid any attention to it.|sd
-B|The three oh five was that, that, V  eight that they put in the, the three quarter and, and half ton van.|sd
+B|The three oh five was that, that,  V  eight that they put in the, the three quarter and, and half ton van.|sd
 A| Uh-huh. |b
-B|And it had all the air pump and, uh, uh,I don't know, all that, all that stuff.|sd
+B|And it had all the air pump and, uh, uh, I don't know, all that, all that stuff.|sd
 A|Right.|b
 A|Yeah|b
 A|the anti-smog pumps.|sd
@@ -216,7 +216,7 @@ B| Yeah. |b
 A| And,  uh, I had to struggle with that for a while to figure which belt goes where.|sd
 B|Yeah,|b
 B|it's kind of like the inside dual on a truck.|sv
-B|You know, when one of them breaks, it's not  the outside one,|sv
+B|You know, when one of them breaks,  it's not  the outside one,|sv
 A| Oh man. |ba
 B|it's, it's the, it's usually that power steering|sv
 B|or something that's way back in there.|sv

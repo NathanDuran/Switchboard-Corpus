@@ -20,7 +20,7 @@ B|and,|%
 A|Oh, sure,|na
 A|yeah,|ny
 A|and it's, it's really great.|sd
-A|I, I,I like different types of food.|sd
+A|I, I, I like different types of food.|sd
 B|So where are your, what are the places, you know, memorable places you've eaten?|qw
 A|Uh, oh you okay you name it.|sd
 A|Let's see,|^h
@@ -33,7 +33,7 @@ A|Yep,|b
 A|okay.|b
 B|It's a great place.|sd
 A|It's, it's great.|b^m
-A|There's a, a restaurant in, um, right outside of Reading, Pennsylvania, it's called Alfredo'sthat does not look like a restaurant that you would really want to recommend to a lot of people.|sd
+A|There's a, a restaurant in, um, right outside of Reading, Pennsylvania, it's called Alfredo's that does not look like a restaurant that you would really want to recommend to a lot of people.|sd
 B|Uh-huh.|b
 A|But it is fantastic.|sd
 A|Uh, there's a restaurant, and I don't recall the name of it, uh, in, uh, Panama City.|sd
@@ -42,7 +42,7 @@ B|Oh, okay,|bk
 B|because I was thinking,|sd
 B|well, I, I grew up in Panama City.|sd
 A|No|ar
-A|this is the countrythis is the country Panama, all right?|sd
+A|this is the country this is the country Panama, all right?|sd
 B|I get it.|aa
 B|Right.|b
 A|And, uh, but I have gotten to quite a few.|sd
@@ -53,7 +53,7 @@ A|but I, lot of times I don't remember the names.|sd
 A|I'd have to go back through some expense reports.|sd
 B|Uh-huh.|b
 A|But particularly, down in your area, I'm looking for some, some more restaurants.|sd
-A|So, I, you know, I don't know what's, what's down there, the ones out in Addison. |sd
+A|So, I, you know, I don't know what's, what's down there,  the ones out in Addison. |sd
 B| Do you like Mexican? |qy
 B|Do you like Mexican food.|qy
 A|Not particularly|ng
@@ -90,7 +90,7 @@ A|Well, I like the food,|sd
 A|but I don't care for the clowning around.|sd
 B|See, uh, uh,|%
 B|yeah,|b
-B|I, I,when I went, I thought the food was not good.|sd
+B|I, I, when I went, I thought the food was not good.|sd
 A|Oh, really?|bh
 A|Oh I've had,|sd
 B|Magic Time Machine is the place you're thinking of,|bf
@@ -98,7 +98,7 @@ A|That's it,|aa
 A|that's it.|aa
 A|I've had excellent food there.|sd
 B|See, I, when I went, I thought,|sd
-B|the people drove me crazyfirst of all|sd
+B|the people drove me crazy first of all|sd
 A|True.|aa
 A|True.|aa
 B|but then I just thought the food was over priced for what it was.|sd
@@ -111,7 +111,7 @@ A|Italian is fine.|sd
 A|I make it a habit of always going out to Pasta Oggi's which is right down there in|sd
 B|Do you like, like Southwestern?|qy
 A|Oh, yeah.|ny
-B|Well, now there's a good place in Addison too called Blue Mesa Grillthat's on Belt Line that's close to Houston's, as a matter of fact.|sd
+B|Well, now there's a good place in Addison too called Blue Mesa Grill that's on Belt Line that's close to Houston's, as a matter of fact.|sd
 A|All right.|b
 A|Really?|bh
 B|And, um, it's great,|sd
@@ -124,17 +124,17 @@ B|So that's, that's a very good place to eat, The Blue Mesa Grill.|sd
 A|Good.|ba
 B|And, um,|%
 A|Well, this is great.|sd
-A|This is going to give me some more places to go. |sd
-B|A whole new, dining experience. |^2
+A|This is going to give me  some more places to go. |sd
+B|A whole new,  dining experience. |^2
 A|Okay,|b
 A|fine.|b
 A|I guess our time's about up,|sd
 A|so.|%
 B|Well, they haven't beeped us, have they?|qy
 A|Uh, well, they don't always.|sd
-B|Oh, I thought sometimes they say, you knowthis is three minutes or whatever.|sd
+B|Oh, I thought sometimes they say, you know this is three minutes or whatever.|sd
 A|Yeah,|b
-A|Ithey've been doing that when, uh, the circuits are busy|sd
+A|I they've been doing that when, uh, the circuits are busy|sd
 B|Oh, okay.|bk
 A|and other than that, they, you know, leave you go about five minutes,|sd
 A|and then, that, that's about it.|sd
@@ -142,7 +142,7 @@ A|I guess that's what they need for their machines to get everything down pat,|s
 A|so.|%
 B|Okay,|b
 A|It was a pleasure talking to you.|fc
-B|Well, thanks for callingfor helping us out.|ft
+B|Well, thanks for calling for helping us out.|ft
 A|Okay.|fc
 A|You bet,|fc
 B|Bye-bye.|fc

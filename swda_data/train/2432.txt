@@ -7,7 +7,7 @@ B|Well, she wanted me to just wait and let her dump them off tomorrow.|sd
 A|Uh-huh.|b
 B|But they were filled with beer cans|sd
 A|Hm|b
-B|and I hated to take a big old sack, I mean, one time, I mean, like a lawn bagfull of them.|sd
+B|and I hated to take a big old sack, I mean, one time, I mean, like a lawn bag full of them.|sd
 A|Uh-huh.|b
 B|Like I,|%
 B|no,|%
@@ -21,7 +21,7 @@ B|and they're taking the money that they earn to plant trees.|sd
 A|Oh, that's a good idea.|ba
 B|Yeah,|b
 B|and they've got their bins that stay there,|sd
-B|and they've decorated real cute, you know, with a bunch of big old flowersand stuff.|sd
+B|and they've decorated real cute, you know, with a bunch of big old flowers and stuff.|sd
 A|Uh-huh.|b
 B|So they're getting into it.|sd
 B|I don't know what they get for the tickets, though.|sd
@@ -83,7 +83,7 @@ B|A little boy that had died of leukemia, I think,|sd
 B|and he had started this, um, save the environment club.|sd
 A|Oh.|b
 B|And his mother is carrying this on.|sd
-B|And you can get the information to set it up, you knowand join,|sd
+B|And you can get the information to set it up, you know and join,|sd
 A|Uh-huh.|b
 B|you don't have to join it as a group or anything, I don't guess.|sd
 A|Oh, that'd be|%
@@ -97,14 +97,14 @@ B|No.|bk
 A|Huh-uh.|b
 B|That's a department store.|sd
 A|Oh.|b
-B|Kind of like K Martexcept it's a little better than what K Mart sells, I think.|sd
+B|Kind of like K Mart except it's a little better than what K Mart sells, I think.|sd
 A|Uh-huh.|b
 A|Oh.|b
 A|I would like,|sd
 A|let's start up a Target.|sd
 A|No.|%
 A|Um, I don't really know any other recycling that they do.|sd
-B|So, you're not you're not having it picked upat your houses or anything.|qy^d
+B|So, you're not you're not having it picked up at your houses or anything.|qy^d
 A|No.|nn
 A|No,|nn
 A|huh-uh.|nn
@@ -133,7 +133,7 @@ B|in I|%
 B|a big old bin,|sd
 B|and you just feed your cans slowly into the slot,|sd
 B|and your money comes out, you know, every once in a while, for however much poundage you've got.|sd
-B|And if you keep feeding it until the light goes off.And you get instant cash.|sd
+B|And if you keep feeding it until the light goes off. And you get instant cash.|sd
 A|Oh my gosh.|ba
 B|But they had one that I was putting my stuff in,|sd
 B|and I went to take some today,|sd
@@ -160,7 +160,7 @@ B|They publish it in the newspaper if you wanted to get into it.|sd
 A|Uh-huh.|b
 B|I don't know.|b
 B|I'm trying|sd
-B|but,I just can't recycle everything.|sd
+B|but, I just can't recycle everything.|sd
 A|Yeah,|b
 A|yeah|b
 B|I'm not that dedicated.|sd
@@ -206,7 +206,7 @@ B|I went to Europe, nineteen seventy-three.|sd
 A|Uh-huh.|b
 B|And, you know, they go all the time.|sd
 B|It's like they would go almost every day to the store.|sd
-B|And they had their little bagsway back then, and fill it up.|sd
+B|And they had their little bags way back then, and fill it up.|sd
 A|Uh-huh.|b
 B|And they had this little bitty old teeny refrigerators.|sd
 A|Oh, my.|ba
@@ -248,7 +248,7 @@ B|doesn't seem like it work to take it away when we're using it.|sv
 B|But maybe,|%
 B|I know we're not using it so wisely.|sv
 A|Uh-huh.|b
-B|We have too many administratorsin some of these big districts.|sv
+B|We have too many administrators in some of these big districts.|sv
 A|Yeah.|b
 A|Uh-huh.|b
 B|But other than that. Well, can you think of anything else we need to talk about.|qy
@@ -279,7 +279,7 @@ B|I think I have too been to Pennsylvania.|sd
 B|Gettysburg?|qy
 A|Yeah.|ny
 B|Yeah,|b
-B|we went up there. Now that I think about it. On one of our long tripswe take off on.|sd
+B|we went up there. Now that I think about it. On one of our long trips we take off on.|sd
 A|Uh-huh|b
 A|Oh, well|%
 B|Shboom.|fo_o_fw_"_by_bc

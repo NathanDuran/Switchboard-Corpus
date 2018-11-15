@@ -33,7 +33,7 @@ A|he claimed, he had, he didn't have to pay income tax|sd
 A|and he thought, you know,|%
 A|there's some people are living pretty, pretty good life styles,|sv
 A|but they're not paying income tax.|sv
-A|And that's not fair,to me.|sv
+A|And that's not fair, to me.|sv
 B|No.|aa
 A|And there's, you know, some people, you know, who are abusing the systems that we pay taxes to support|sv
 A|and all that makes us feel bad.|sv
@@ -42,7 +42,7 @@ A|And I'm willing to pay extra to live here and to enjoy the services that I enj
 A|How do you feel?|qo
 B|Well, yeah.|b
 B|I agree that you have to pay taxes for the services you get|aa
-B|and,and I think that, you know, I don't think that there's any really, any system that everybody would think is fair, as far as, being taxed.|sv
+B|and, and I think that, you know, I don't think that there's any really, any system that everybody would think is fair, as far as, being taxed.|sv
 A|Huh-uh.|b
 A|Huh-uh.|b
 B|So, I guess, in Texas with,|%
@@ -59,14 +59,14 @@ B|and, the first year we were there it was kind of like, eight hundred dollars,|
 A|Oh, no.|ba
 B|And we're like .|sd
 B|My husband says I used to complain to pay sixty dollars to get licensed in Texas|sd
-B|and now,you know,|%
+B|and now, you know,|%
 A|Huh-uh.|b
 B|So, I mean, that was kind of different|sd
 B|and then to file a, a state income tax, was also kind of tough, too.|sd
 B|I guess, since we've been married, we've moved a lot,|sd
 B|so it always seems like, you know, we're always paying taxes for something.|sd
 B|And it was kind of nice this year to finally be able to get a little money back.|sd
-B|But,I, um, have a accounting background,|sd
+B|But, I, um, have a accounting background,|sd
 A|Huh-uh.|b
 B|so I then, have also done tax returns in the past for other people when I worked for an accounting firm.|sd
 A|Huh-uh.|b
@@ -74,7 +74,7 @@ B|And, uh, you know, it is kind of sad to see how the people that have the resou
 A|Right.|b
 B|Or to buy something that loses money so that they can offset the income that they get or whatever.|sv
 A|Yeah.|b
-B|So, you know, I think, if, I can understand why the rich people don't want to pay,you know, a large, large percent|sd
+B|So, you know, I think, if, I can understand why the rich people don't want to pay, you know, a large, large percent|sd
 A|Huh-uh.|b
 B|because, you know, that's not really fair, either.|sv
 B|If they've earned money by themselves, well, you know, people just kind of given the money,|sv
@@ -89,13 +89,13 @@ B|Yeah.|b
 A|And so, I think, you know, in that way, we're compensated, um, just by our society. Um,|sv
 A|yet, you know, they don't pay you, um, what, just what it would take,|sv
 A|and if you pay taxes on it, you wouldn't have any money left over.|sv
-A|And, and, um, but some of the people that make a great deal of money and everything I wish that they would, I guess, because I'm not one of themI wish that they would, you know, realize that they, they couldn't make this kind of money,|sv
+A|And, and, um, but some of the people that make a great deal of money and everything I wish that they would, I guess, because I'm not one of them I wish that they would, you know, realize that they, they couldn't make this kind of money,|sv
 B|Well, yeah,|aa
 B|that's true|aa
 A|they couldn't live that kind of life style anywhere else.|sv
 B|Yeah.|b
 A|In that,|%
-A|even if they made that kind of money, there's some countries that have like, fifty percent income tax, you know, that have,socialized medicines and things that,|sd
+A|even if they made that kind of money, there's some countries that have like, fifty percent income tax, you know, that have, socialized medicines and things that,|sd
 B|Yeah.|b
 A|they, um, they wouldn't be able to enjoy the in that.|sd
 A|So that, you know, they need to be willing to pay a little bit more for it.|sv
@@ -112,17 +112,17 @@ A|is that why we don't have|qy
 A|industry here is able to, to fund the state because we have oil here and things,|qy^d
 A|I mean, that's what I've always heard.|sd
 A|Is that, um,|%
-B|They must have enough other stuff because the way the oil has been the last few years, that, that really has not been,the industry that is bringing in the money for the taxes, I wouldn't think.|ng
+B|They must have enough other stuff because the way the oil has been the last few years, that, that really has not been, the industry that is bringing in the money for the taxes, I wouldn't think.|ng
 A|Big boom.|^2
 A|Yeah.|b
-A|There's something about, um, the industry in the state,That, um,|sv
+A|There's something about, um, the industry in the state, That, um,|sv
 B|Yeah.|b
 A|there's enough.|sv
 A|I know, we moved here from Houston|sd
 A|and the city had enough money.|sd
 A|It was really nice that they had, um, that|sd
 A|they began to cut back because of the oil problems,|sd
-A|but, um, they would have, um, so many community outdoor theaters and,And like, uh, community country club type things.|sd
+A|but, um, they would have, um, so many community outdoor theaters and, And like, uh, community country club type things.|sd
 B|Huh-uh.|b
 A|That the,|%
 A|it was such nice services to offer the residents in the city|sd
@@ -139,14 +139,14 @@ A|the property tax that we pay is so much higher than my parents pay in Missouri
 A|But, um, I'm, I'm comfortable at least in this year, with, with,|sd
 A|we have some good schools.|sv
 A|The school thing might be changing|sv
-A|but,I'm willing to pay for that for my children.|sd
+A|but, I'm willing to pay for that for my children.|sd
 B|Yeah.|b
 A|And I'm willing to sacrifice, I guess.|sd
 A|I'm not going to be the type of person that's going to grumble about the taxes, even though we're paying a pretty high percentage.|sd
 A|I feel like you get what you pay for|sv
 A|and I want to be here|sd
 A|and I enjoy, I enjoy living here in this country|sd
-A|and having seen other countries, I'd much rather live here and pay taxes,than live somewhere else and not|sd
+A|and having seen other countries, I'd much rather live here and pay taxes, than live somewhere else and not|sd
 B|Huh-uh.|b
 A|Anyway, well, I guess, I better let you go.|fc
 B|Well, it was nice talking to you.|fc
@@ -159,7 +159,7 @@ B|or,|fc
 A|No.|fc
 A|No.|fc
 A|They just define it to you|fc
-A|and so,you get what, uh, get luck of the draw|fc
+A|and so, you get what, uh, get luck of the draw|fc
 B|Oh.|fc
 B|I see.|fc
 A|but,|%

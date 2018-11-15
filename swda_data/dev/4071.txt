@@ -12,7 +12,7 @@ A|No income tax and no sales tax.|sd
 B|Huh.|b
 A|Uh, we tax business, uh, eight percent,|sd
 A|businesses are taxed eight percent|sd
-A|and we have what we call the five B s. Uh, for our taxes. Booze, uh, butts, cigarettes, beds, uh, hotel room taxbellies, a meal tax and bets, gambling.|sd
+A|and we have what we call the five B s. Uh, for our taxes. Booze, uh, butts, cigarettes, beds, uh, hotel room tax bellies, a meal tax and bets, gambling.|sd
 B|Uh-huh.|b
 B|Oh.|b
 A|So, uh, we do have a very low tax rate,|sd
@@ -23,7 +23,7 @@ B|Yeah,|b
 B|I, I agree|aa
 B|and I, think it's about the time of the year when you just start getting,|sv
 B|well if you do get money back from like jobs,|sv
-B|I'm still a studentso, uh, I only work part time,|sd
+B|I'm still a student so, uh, I only work part time,|sd
 A|Uh-huh|b
 B|so I, I get a check back|sd
 B| so |%
@@ -46,7 +46,7 @@ B|Yeah.|b
 A|You know what I mean?|bh
 B|Yeah.|ny
 A|Uh, it, it really, uh,|%
-A|I should say one arm giving another arm a transfusion through a leaky tube  because, Right because, uh, there's an old saying in amongst taxes and politicians that there's a fly paper effect|sv
+A|I should say one arm giving another arm a transfusion through a leaky tube  because,  Right because, uh, there's an old saying in amongst taxes and politicians that there's a fly paper effect|sv
 B| Yeah. |b
 B|There you go|ba
 A|and that is that money tends to stick where it lands first|sv
@@ -108,7 +108,7 @@ B|that's for sure.|sv
 A|Right.|b
 B|Huh.|%
 B|I will agree to that.|aa
-A|I think your taxes in Wisconsin are pretty high. I, I, if I am not mistaken, aren't they? Imean for your state.|qy
+A|I think your taxes in Wisconsin are pretty high. I, I, if I am not mistaken, aren't they? I mean for your state.|qy
 B|Uh,|%
 A|What is, do you know what your state income tax rate is?|qy
 B|Um, no|nn

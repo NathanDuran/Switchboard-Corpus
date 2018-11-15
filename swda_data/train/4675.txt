@@ -5,7 +5,7 @@ B|Yeah.|ny
 B|I sure do.|sd
 B|Uh, I have, it's pretty much a ledger sheet|sd
 B|and I just write down all my bills, how much I'm going to have to pay|sd
-B|and I do it per paycheck for mewhich is every other week.|sd
+B|and I do it per paycheck for me which is every other week.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|Uh, I mean I include everything from groceries to insurance to car payments to credit card payments, you know, everything.|sd
@@ -16,7 +16,7 @@ B|I usually try to guesstimate|sd
 B|and then when the bill actually comes in, I go ahead and fill in the actual amount.|sd
 A|Uh-huh,|b
 A|uh-huh.|b
-B|That way I know how much pocket change I'm going to have left  at the end of the month or at the end of the paycheck anyway.|sd
+B|That way I know how much pocket change I'm going to have left  at the end of the month  or at the end of the paycheck anyway.|sd
 A| Uh-huh,|b
 A|uh-huh. |b
 A|Uh-huh|b
@@ -38,7 +38,7 @@ B|Uh-huh.|b
 A|And, uh, but I don't have any, you know, small children to have anything extra come up, you know, like, uh, running to the doctor or something like that with them.|sd
 B|Right.|b
 B|Luckily I don't either.|sd
-B|I mean, you know,maybe my cat would get sick|sd
+B|I mean, you know, maybe my cat would get sick|sd
 B|but, I mean, usually that's not so much that it would throw me off|sd
 A|Yeah,|b
 A|yeah,|b
@@ -60,14 +60,14 @@ A| Yeah,|b
 A| uh, I'm not working right now.|sd
 A|I worked for P I E|sd
 A|and then, uh, they went bankrupt|sd
-A|soI just went ahead and took my early pension.|sd
+A|so I just went ahead and took my early pension.|sd
 B|Uh-huh.|b
 B|Oh, uh-huh.|b
 A|But I only get that once a month.|sd
 B|Oh, that's tough.|ba
 A|Yeah|b
 B|My roommate only gets paid once a month|sd
-B|andthat last week's pretty lean generally speaking|sd
+B|and that last week's pretty lean generally speaking|sd
 A|Yeah.|b
 A|So,|%
 B|so.|%
@@ -105,7 +105,7 @@ A|last year I didn't.|sd
 B|Uh-huh.|b
 A|Then, so then, naturally, Christmas comes along|sd
 A|and that puts you behind too, you know.|sv
-A|So this year, now I have them taking out fifty dollars a month  out of my checking account for my Christmas club.|sd
+A|So this year, now I have them taking out fifty dollars a month  out of my  checking account for my Christmas club.|sd
 B| Oh that's, |%
 B|Yeah.|b
 A|So I figure, you know, that's going to help some.|sv
@@ -136,21 +136,21 @@ A| I know. |aa
 A|I even bought myself a Surgery , you know,|sd
 A|and I just love it.|sd
 A|I haven't learned everything to do on it yet|sd
-A|but I figure that will help me saveyou know.|sv
+A|but I figure that will help me save you know.|sv
 B|Yeah.|b
 B|My, uh, roommate does sew some|sd
 B|and, and, uh, she hasn't sewed anything in a long time|sd
 B|but I, I'm sure that she could pick it up again.|sv
 B|My mother always sewed.|sd
-B|She tried to teach me when I was young butnot interested  |sd
+B|She tried to teach me when I was young but not interested  |sd
 A|Uh-huh.|b
 A| Yeah.|b
 A|Well,  see, some people are, some aren't |sv
-A|because I have some sisters, I have three sisters|sd
+A|because  I have some sisters, I have three sisters|sd
 B| Yeah. |b
 A|and none of those are really interested in sewing.|sd
 B|Yeah.|b
-B|But that's a real good way to save money,though by doing that.|sv
+B|But that's a real good way to save money, though by doing that.|sv
 A|Yeah,|b
 A|and then I can also, you know, do some crafts and sell those at garage sales.|sd
 B|Uh-huh,|b
@@ -165,7 +165,7 @@ A|Oh, really?|bh
 B|Yeah.|ny
 A|Oh.|b
 B|I had not, uh, done |sd
-B|I, I guess today even do it.today's my first day that I  could |sd
+B|I, I guess today  today's my first day that I  could  even do it.|sd
 A| Well, have you called? |qy
 A| Oh. |b
 A|Oh, it is?|qy^d
@@ -179,7 +179,7 @@ B|so that was great.|sv
 A|Yeah.|b
 A|Well I guess that's about all I can talk to about budgets.|sd
 A|When I was working, I, uh, bought a bond a month out of my, you know,|sd
-A|they automatically took it out of  my out of my payroll.|sd
+A|they automatically took it out of  my  out of my payroll.|sd
 B| Yeah. |b
 B|Yeah.|b
 B|I take, have some money taken it and put in a Four Oh One K,|sd

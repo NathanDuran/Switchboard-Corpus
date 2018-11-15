@@ -8,7 +8,7 @@ B|I don't know.|h
 A|So you think if, if trials were held by judges or experts, that they, they would tend not to, uh, admit, not to convict people on circumstantial evidence?|qy
 B|I think so.|na
 A|You know, I, I attended a trial in, uh, Germany when I was a student|sd
-A|and, uhthat's the sort of system they have.|sd
+A|and, uh that's the sort of system they have.|sd
 B|Uh-huh.|b
 A|The trials are held by a panel of three, uh, three or four judges who are, well,|sd
 A|they're like lawyers I guess.|sd
@@ -17,7 +17,7 @@ B| Right. |b
 A| and, uh,  there, there really isn't a jury|sd
 A|and, uh, uh, they do the questioning also.|sd
 A|The judges do the questioning|sd
-A|and, uhthey,|%
+A|and, uh they,|%
 B|Uh-huh.|b
 A|uh,|%
 A|I think it's a lot harder to get off on technicalities also because they, uh, uh, the judge is also sort of a jury, uh,|sv
@@ -27,7 +27,7 @@ B| You think you  prefer the jury?|qy
 B|You think your chances are better?|qy
 A|Uh, well, actually I think in most criminal cases it wouldn't make any difference whether it was a couple of judges or jury|arp_nd
 A|What, what I worry about is cases where it's the government against the individual.|sd
-A|That's where you really need a jury of peers.Because, uh, anytime the government, uh, is the government against the individual you need you need the protection of ordinary citizens.|sv
+A|That's where you really need a jury of peers. Because, uh, anytime the government, uh, is the government against the individual you need you need the protection of ordinary citizens.|sv
 B|Well, that's true.|aa
 A|I think that's really the only thing. I guess where I would like to see the system change is, uh, uh, there ought to be a, a well|sv
 A|I guess I don't think that, uh, uh, juries need to decide sentencing all the time.|sv
@@ -40,7 +40,7 @@ B|but, but, I'm like you,|sd
 B|in a case like that, most of the time its,|%
 B|I don't know,|h
 B|maybe I'm too, too, uh, uh, conservative when it comes to that.|sv
-B|the sentencing is really light compared to what I think they should be in a lot of casesyou know, uh,|sv
+B|the sentencing is really light compared to what I think they should be in a lot of cases you know, uh,|sv
 A|Yeah.|b
 A|Well if you drag twelve people into a courtroom, I trust them to make the right decision as to whether someone's guilty or innocent.|sd
 A|That's usually a matter of who to believe and what facts to believe.|sv
@@ -61,7 +61,7 @@ B| Yeah. |b^m
 B|That's, that's not a bad system.|ba
 B|But I, I do think it needs to be shaken up a little bit.|sv
 A|Yeah.|b
-B|But, the thing is too, maybe they need more of a, I don't know, more of a expert typesand call them in.to, to be on some of these jury cases because most time you just pick, you know, Joe Blow or whoever and a good citizen or whoever|sv
+B|But, the thing is too, maybe they need more of a, I don't know, more of a expert types to, to be on some of these jury cases because most time you just pick, you know, Joe Blow or whoever and a good citizen or whoever and call them in.|sv
 A|Yeah.|b
 A|Right.|b
 A|And lawyers blow sand in their eyes.|sv
@@ -72,7 +72,7 @@ B|exactly.|aa
 A|Insurance cases and things like that.|sd
 B|Yeah.|b
 A|Where|%
-A|and, uh, there would be more honest settlements instead of this, uh, tugging of people's heart strings and, uhor giving them two million dollars to make up for the pain and sufferingmaking them cry and feel like they're doing somebody good by  giving them |sv
+A|and, uh, there would be more honest settlements instead of this, uh, tugging of people's heart strings and, uh making them cry and feel like they're doing somebody good by  giving them  or giving them two million dollars to make up for the pain and suffering|sv
 B|Uh-huh|aa
 B|Exactly|aa
 B|exactly.|aa

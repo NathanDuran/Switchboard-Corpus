@@ -4,7 +4,7 @@ B|Uh, I'm at a little bit of a loss,|sd
 B|you know, I don't know,|h
 B|ten years ago,|%
 B|see I'm what, I'm about, uh, twenty-eight now|sd
-B|sowhen I was eighteen,|sv
+B|so when I was eighteen,|sv
 A|Uh-huh.|b
 B|things haven't changed a whole lot.|sd
 A|Really.|b
@@ -33,12 +33,12 @@ B|Oh.|b
 A|How long, how long you been in Dallas?|qw
 B|Oh, about eight years.|sd
 A|Oh, really?|bh
-B|In fact in the eight years I've been here it seems to me it gets more and more, gets to be more and more restrictive place to live.I think,|sv
+B|In fact in the eight years I've been here it seems to me it gets more and more, gets to be more and more restrictive place to live. I think,|sv
 A|Yeah, uh|b
 A|you know, uh, as you're talking like police and stuff like that it's definitely a tough job to do.|sv
 B|Yeah,|b
 B|I think it's,|%
-B|crime has gone, got a lot worse in the lastlast ten, fifteen years,|sv
+B|crime has gone, got a lot worse in the last last ten, fifteen years,|sv
 A|Oh, yeah,|aa
 A|I agree.|sd
 B|and maybe that has a lot to do with it.|sd
@@ -54,7 +54,7 @@ A|But, uh,|%
 B|I'd say my own personal lifestyle has improved|sd
 A|Yeah.|b
 B|but that's more a matter of,|%
-B|you knowI'm no longer a teenager in high school.|sd
+B|you know I'm no longer a teenager in high school.|sd
 A|Yeah.|b
 A|Yeah,|b
 A|I think there's more pressure like on both parents to work, and things like that than there used to be|sd
@@ -77,7 +77,7 @@ A|Yeah,|b
 A|without it hardly,|%
 A|that's right.|ba
 B|I guess, when I was growing up, it was, it was still the ideal to get a, get a home and buy house,|sd
-B|and these days you see a lot of people living in apartmentsforever|sd
+B|and these days you see a lot of people living in apartments forever|sd
 A|Yeah.|b
 A|Yeah|b
 B|you know, you just don't buy a house,|sv
@@ -85,7 +85,7 @@ A|just because they can't get into one,|^2
 A|yeah,|aa
 A|that's right.|ba
 A|Yeah,|b
-A|the ways our tax laws and stuff are structured, you can't ever catch a break until you can get into a housein a lot of ways,|sv
+A|the ways our tax laws and stuff are structured, you can't ever catch a break until you can get into a house in a lot of ways,|sv
 B|Yeah.|b
 A|so. Yeah,|b
 A|that's, that's a good point|ba
@@ -102,7 +102,7 @@ A|Well, I hope so, you know, at some point|sd
 A|but I don't know at what point,|sd
 B|But I think it's going to be at the expense of the middle class, uh|sv
 A|Yeah,|b
-B|so, usually isI think.|sv
+B|so, usually is I think.|sv
 A|Yeah.|b
 A|It's, uh,|%
 B|It's hard for me to say.|sd
@@ -166,14 +166,14 @@ A|Lubbock is,|sd
 A|I don't know,|h
 A|I guess if this is the only place you've lived, Lubbock is a lot different than Dallas.|sv
 B|Yeah,|b
-B|flat, dryand dirty,|sd
+B|flat, dry and dirty,|sd
 A|Yeah.|b
 A|Yeah,|b
 A|but the people all seem to be a lot more laid back, too,|sd
 A|I mean, here in Dallas everything is just real rush, rush.|sd
 B|Yeah,|b
 B|I lived in the country for several years,|sd
-B|and living in the city is a whole differentuh, social structure|sd
+B|and living in the city is a whole different uh, social structure|sd
 A|Oh yeah.|b
 B|but, uh,|%
 A|Well, I got some friends that, uh,|sd
@@ -204,7 +204,7 @@ A|Really.|b
 A|Well, let's see,|^h
 A|how, how long are we supposed to talk here?|qw
 B|I don't know,|no
-B|I think we ran out of social,social changes to talk about,|sv
+B|I think we ran out of social, social changes to talk about,|sv
 B|so.|%
 A|Yeah,|b
 A|well my kids are probably needing me to go|sd

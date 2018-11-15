@@ -5,9 +5,9 @@ B|San Antonio!|ba
 A|Uh-huh.|b
 B|Well, uh, I live in Garland|sd
 B|and we're just beginning to,|%
-B|we, we just built a real big recycling center,that recycles everything imaginable|sd
+B|we, we just built a real big recycling center, that recycles everything imaginable|sd
 A|Uh-huh.|b
-B|but, as far as, uh, trash pick up and stuff that a lot of the communities are doing,they're testing that.|sd
+B|but, as far as, uh, trash pick up and stuff that a lot of the communities are doing, they're testing that.|sd
 A|Uh-huh.|b
 B|So, they're really not full, full force into it,|sd
 B|but they're trying,|sd
@@ -16,7 +16,7 @@ B|but I wish we could do more.|sd
 A|Yeah,|b
 A|there's, there's been no emphasis on recycling at all in San Antonio.|sd
 A|I used to work for the power company here|sd
-A|and there was discussion for a while about, uh, building a garbage burning, uh,electric generation plant|sd
+A|and there was discussion for a while about, uh, building a garbage burning, uh, electric generation plant|sd
 B|Uh-huh.|b
 A|but it just wasn't cost effective,  at the time. |sd
 B| Oh. |b
@@ -39,19 +39,19 @@ A|Yes.|ny
 B|And I really like that because that makes it real convenient because they're in almost every shopping center,|sd
 B|and you can just stop by.|sd
 B|Now everything else like the uh, paper and plastic and stuff you still have to go to the centers|sd
-B|but,but for aluminum that's real nice|sv
+B|but, but for aluminum that's real nice|sv
 A|Uh-huh.|b
 B|and I started doing that at work.|sd
 B|Um, I put out a, a trash can and, and for people to put their aluminum cans in,|sd
 A|Uh-huh.|b
 B|and that's really helped a lot,|sd
 B|I mean, everybody's pitched in|sd
-B|and,you know, it doesn't bother them to walk little bit farther put their aluminum in a can rather than just throwing it in their trash can.|sd
+B|and, you know, it doesn't bother them to walk little bit farther put their aluminum in a can rather than just throwing it in their trash can.|sd
 A|Yeah.|b
 A|Yeah.|b
 B|So, I really, I really like that,|sd
 B|but, people are really concerned,|sv
-B|it's just that sometimes it's not the right people,which is really, really sad because, I wish we would do more|sv
+B|it's just that sometimes it's not the right people, which is really, really sad because, I wish we would do more|sv
 A|Yeah.|b
 B|At work we started, uh, all the recycling stuff.|sd
 B|They're really trying,|sd
@@ -84,7 +84,7 @@ A|Yeah.|b
 B|Yeah|b
 B|I know a lot of companies that waste so much that,|sd
 B|I'm even trying,|%
-B|you know that was one thing we noticed last week that we had some new people move into our buildingAnd they were just used one time and thrown in the dumpster|sd
+B|you know that was one thing we noticed last week that we had some new people move into our building And they were just used one time and thrown in the dumpster|sd
 A|Yes.|b
 B|and I thought, I don't understand this, you know.|sd
 A|Yeah.|b
@@ -93,7 +93,7 @@ B|and, and here we are wasting.|^q
 B|And I don't understand, sometimes, the way, the thinking, the logic behind it.|sd
 A|Well the last time, uh, someone moved offices in my building|%
 A|and, uh, the, uh, properties people came in with all, with the good cardboard boxes.|sd
-A|Not the cheap ones of course.And packed everything up and moved them and left them lying around,|sd
+A|Not the cheap ones of course. And packed everything up and moved them and left them lying around,|sd
 B|Uh-huh.|b
 A|I, I took several home because I'm moving pretty soon|sd
 A|and they're good boxes.|sd
@@ -118,10 +118,10 @@ A|so.|%
 B|Right,|aa
 B|right,|aa
 A|I thought, well I was doing them a favor by taking them.|sd
-B|I found about five, uh, about nine of them that had not even been folded into boxes,that were in the dumpsters.|sd
+B|I found about five, uh, about nine of them that had not even been folded into boxes, that were in the dumpsters.|sd
 A|Yeah.|b
 B|Oh gosh,|ba
-B|so many people need, so many people go to the grocery store and stuff and get those boxes,when, you know, these are perfect,|sd
+B|so many people need, so many people go to the grocery store and stuff and get those boxes, when, you know, these are perfect,|sd
 A|Uh-huh.|b
 B|so.|%
 A|Yeah,|b
@@ -210,7 +210,7 @@ B|and I just think it's such a hassle,|sd
 B|it seems like it would be, it would be easy to take it all,|sv
 B|I don't know,|h
 B|of course, I don't know all that about recycling|h
-B|so,it probably is a hassle.|sv
+B|so, it probably is a hassle.|sv
 A|Uh-huh.|b
 B|But I do get tired of having to separate paper, you know.|sd
 A|Uh-huh.|b

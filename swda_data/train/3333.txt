@@ -26,7 +26,7 @@ B|Right,|aa
 B|especially, uh, you, since you're in the same metroplex,|sd
 B|you know, there's so much going on here.|sv
 A|I think the drive by shootings are getting to be so common, that's really a, something you got to protect yourself from.|sd
-B|Well, that, and in the schools, toostarting to put metal detectors in,|sv
+B|Well, that, and in the schools, too starting to put metal detectors in,|sv
 A|Uh-huh,|b
 A|golly|ba
 A|I know.|aa
@@ -39,11 +39,11 @@ A|Now, um,|%
 B|I just heard, you know, last week at that one school, they started putting them in because there was that one shooting|sd
 A|Right.|b
 B|so, um,|%
-A|Well, we had a vice principal shot at herelast year on the, you know, on the school grounds after school.|sd
+A|Well, we had a vice principal shot at here last year on the, you know, on the school grounds after school.|sd
 B|Is that right?|bh
 A|And the one boy killed himself a few years ago, in the, in a grade school,|sd
-A|soin any neighborhood, doesn't seem like.you know, these kids don't have any trouble getting a hold of guns in any|sv
-B|Uh-huh.Yeah,|b
+A|so you know, these kids don't have any trouble getting a hold of guns in any in any neighborhood, doesn't seem like.|sv
+B|Uh-huh. Yeah,|b
 B|yeah.|b
 A|So. Yeah,|b
 A|it's kind of scary to think, you send your child to school|sd
@@ -59,14 +59,14 @@ A|Right,|aa
 A|and, you know, we can't really depend on the police to solve all this,|sv
 A|they just can't do it.|sv
 B|Yeah.|b
-A|I think it goes all the way back to the break up of the familyto a certain extent|sv
+A|I think it goes all the way back to the break up of the family to a certain extent|sv
 B|Right.|b
 A|and, uh, and how we going to bring that back together.|sv
 B|Yeah,|aa
 B|that's,|%
 B|I|%
 B|I agree,|aa
-B|I think that's where it stems from, is that and, um, you know, you've got a lot of, a lot more women that are working nowadaysthat aren't home with the children|sv
+B|I think that's where it stems from, is that and, um, you know, you've got a lot of, a lot more women that are working nowadays that aren't home with the children|sv
 A|Uh-huh.|b
 A|Right|b
 A|and,|%
@@ -77,7 +77,7 @@ B|Right,|aa
 B|right.|aa
 A|These, some of these young kids you read about, just doesn't bother them to kill someone at all|sv
 B|Yeah|aa
-A|I thinkwouldn't kill somebody in cold blood.I think years past maybe our criminals had a little more morals, you know|sv
+A|I think I think years past maybe our criminals had a little more morals, you know wouldn't kill somebody in cold blood.|sv
 B|they don't think twice about it.|sv
 B|Yeah.|b
 B|Either that or I don't know if it happened and it wasn't as highly publicized as it is now, or what the, what the,|h
@@ -97,7 +97,7 @@ A|I'm the one,|%
 B|Himself and her?|qy
 A|Yeah,|fo_o_fw_"_by_bc
 A|that must have been at least fifty years ago or more,|sd
-A|butthe point of the story is that, that was so unbelievable a thing in those days that it was in all the papers, all over the country for weeks|sd
+A|but the point of the story is that, that was so unbelievable a thing in those days that it was in all the papers, all over the country for weeks|sd
 B|Oh, wow,|ba
 B|I bet.|ba
 A|but now, you know, you wouldn't probably read about it here in Texas|sv
@@ -108,7 +108,7 @@ B|I was watching some show the other day,|sd
 B|and they were talking about, uh, mass murderers|sd
 A|Uh-huh.|b
 B|and they brought up what happened in Killeen here recently,|sd
-B|andand T V and everything,all the newspapersthey were saying, you know, that these guys want attention, and that when it happens they're glorified because all the newspaper, it's on|sd
+B|and they were saying, you know, that these guys want attention, and that when it happens they're glorified because all the newspaper, it's on all the newspapers and T V and everything,|sd
 A|Um.|b
 A|Uh-huh.|b
 A|Uh-huh.|b
@@ -120,7 +120,7 @@ B|Oh, they came from a broken family|sd
 A|Uh-huh.|b
 B|oh this person had mental problems|sd
 A|Right.|b
-B|oh duh, duh, duhyou know,|^q
+B|oh duh, duh, duh you know,|^q
 A|Right.|b
 A|I know, how we and straighten up all these twisted people before they do something terrible,|qh
 B|Yeah.|b
@@ -148,7 +148,7 @@ B|he, um, had her in the car in front of a Taco or something|sd
 A|Taco Bueno,|sd
 A|right,|aa
 A|uh-huh.|b
-B|and he just shot themhimself and her.|sd
+B|and he just shot them himself and her.|sd
 A|Uh-huh.|b
 A|Right.|aa
 B|I remember seeing that.|sd

@@ -13,7 +13,7 @@ A|but it was a drug,|sd
 A|so they got turned down|sd
 A|and, uh, turns out it was a prescription. Or people getting somebody else's blood test.|sd
 B|Uh-huh.|b
-A|Same sort of problem that happenssometimes is these, some of these, uh, like AIDS tests and such.|sd
+A|Same sort of problem that happens sometimes is these, some of these, uh, like AIDS tests and such.|sd
 B|Okay.|b
 B|Uh-huh,|b
 B|yeah,|b
@@ -31,13 +31,13 @@ B|so, uh, we, we do a, let me think, do we, yeah, everyone coming in.|sd
 B|I guess I did three years ago.|sd
 A|Yeah.|b
 B|Everyone coming in, uh, goes through the drug testing procedure|sd
-B|andthey talk about it as a, you know, as, as better for the country and better for the working conditions.|sd
+B|and they talk about it as a, you know, as, as better for the country and better for the working conditions.|sd
 A|Uh-huh.|b
-B|Soif they, uh, they test for drugs.|sd
+B|So if they, uh, they test for drugs.|sd
 A|Yeah.|b
 B|I, I'm, I can't even remember if we do random sampling anymore.|sd
 B|I know we did in the military,|sd
-B|butI don't know if once your in they continue to do it,|sd
+B|but I don't know if once your in they continue to do it,|sd
 A|Yeah|b
 B|but I guess you're always on call for it.|sd
 A|Yeah,|b
@@ -48,9 +48,9 @@ A|It's, it's not a random|sd
 B|Uh-huh.|b
 A|through the|%
 A|it,|%
-A|as each employee comes inpart of the hiring procedure is a, a blood test Uh,|sd
+A|as each employee comes in part of the hiring procedure is a, a blood test Uh,|sd
 B|Uh-huh.|b
-A|butI think the big problem, though, is, is they send these off to large labs|sv
+A|but I think the big problem, though, is, is they send these off to large labs|sv
 B|Uh-huh,|b
 B|right.|b
 A|and then they have thousands and thousands of samples that, uh, going through it in a day and bottles get mixed up, things like that.|sd
@@ -61,12 +61,12 @@ B|but like you said the drug testing procedures need to be defined a little bett
 A|Yeah.|b
 B|Make sure it's a lot safer because a couple of people are going to be discriminated against unfairly or whatever.|sv
 B|Yeah,|b
-B|II, I tend to agree with you David.|sd
+B|I I, I tend to agree with you David.|sd
 A|Yeah.|b
 B|Yeah,|b
 B|my brother, uh, brother used to work for Wal-Mart|sd
 B|and then, I don't know if he still does or what because I don't know if Sam's is actually part of it,|sd
-B|but he, you knowis working at Sam's now.|sd
+B|but he, you know is working at Sam's now.|sd
 A|Yeah.|b
 A|Yeah,|ny
 A|Sam's is part of Wal-Mart.|sd
@@ -78,14 +78,14 @@ A|Yeah.|b
 B|Good company, uh,|sv
 A|Oh, yeah.|ba
 B|You all, uh, have some,|%
-B|he'stelling me about good profit sharing and all that,|sd
+B|he's telling me about good profit sharing and all that,|sd
 A|Company's, that was a great place to work.|sv
 B|so.|%
 A|Uh-huh.|b
 B|It's good news|ba
 A|Yeah,|b
 A|they got to had two or three years in with them you can start buying stock|sd
-A|and you have a, have a little taken out of your check each, each payday toUh, not portfolio, just, you know, against Wal-Mart stock.put against, uh, uh, stock portfolio.|sd
+A|and you have a, have a little taken out of your check each, each payday to put against, uh, uh, stock portfolio. Uh, not portfolio, just, you know, against Wal-Mart stock.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|But, uh, you can build a pretty fair amount of stock after a while.|sd
@@ -125,7 +125,7 @@ B|so it's hard for me to remember where I was when all that happened.|sd
 B|But, uh, I guess, just like other companies, other friends I've been hearing about that have been moving around,|sd
 B|it's, it's before.|sd
 B|They have to wait for the drug test to come in before you actually get employment,|sd
-B|so I'msure that happened to me, too.|sd
+B|so I'm sure that happened to me, too.|sd
 A|Yeah.|b
 A|Yeah.|b
 B|What, what about, oh,|qo

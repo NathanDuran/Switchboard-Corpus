@@ -5,7 +5,7 @@ A|I didn't know we had one either|sv
 B|Yeah.|b
 B|I was going to say it's kind of hard to have, have an opinion.|sd
 B|We seem to, uh,|sv
-B|whoever screams the loudest regard whether  it's a democracy or a anarchy, or anything else.or whoever we happen to give the most money to at that particular time we seem to support, without,|sv
+B|whoever screams the loudest or whoever we happen to give the most money to at that particular time we seem to support, without,  regard whether  it's a democracy or a anarchy, or anything else.|sv
 A|Yeah.|b
 A| I don't, |%
 A|Yeah|b
@@ -26,8 +26,8 @@ B|I'm just kind of surprised we did that.|sv
 A|Yeah,|b
 B| But, uh, |%
 A| that is,  that is pretty, uh, risky.|sv
-A|I,mean,|%
-B|Especially,after our friend Jimmy Carter gave it away anyway.|aa
+A|I, mean,|%
+B|Especially, after our friend Jimmy Carter gave it away anyway.|aa
 A|Uh-huh.|b
 B|But I guess they had to finally do something.|sv
 B|Actually Bush has been better at that than I thought.|sv
@@ -45,14 +45,14 @@ A|It seems that the, the policies of pretty much anywhere, not just in Central A
 A|But, you know, we, we back up what we what we say with actions.|sv
 B|Uh, yeah.|b
 B|We have so far,|sv
-B|but we, really haven't, |sd
-A| I don't know,how long it's going to last.|sd
+B|but we,  really haven't, |sd
+A| I don't know, how long it's going to last.|sd
 B|Of course, we really haven't taken on the drug lords, yet.|sv
 A|Yeah.|b
 B|I'd be interested to see if we do that.|sv
 A|Well, I don't think it's possible because, even though, you know, we're against them, I don't think we can go into another country and do something about the other country's problem.|sv
 B|Well, we did in Panama.|sv
-B|We did in, Saudi Arabia. |sv
+B|We did in,  Saudi Arabia. |sv
 A| Yeah.|b
 A|But, |%
 A|no,|ar
@@ -89,7 +89,7 @@ A|so they're going to have to go to the source.|sv
 B|Um, yeah.|b
 B|I think we realize it's failed.|sv
 B|We just don't, we just don't,|%
-B|nobody, wants to make the, nobody wants  to make the unpopular decision of going in and invading,|sv
+B|nobody,  wants to make the, nobody wants  to make the unpopular decision of going in and invading,|sv
 A| Don't want to admit it yet. |^2
 A|Right.|b
 B|We still, there's still there's still too many Kennedys and and all up there.|sv
@@ -106,9 +106,9 @@ B|Of course, these are the same people that also drown the Chappaquiddic, and st
 A|Huh.|b
 B|But I guess it|%
 B|I guess it's automatic respective.|sv
-A|Depends on how much power you have, and who you  know.|sv
+A|Depends on how much power you have,  and who you  know.|sv
 B| Yeah.|b
-B|You know, the people have a right to know except about what it, about what concerns them.|sv
+B|You know,  the people have a right to know except about what it, about what concerns them.|sv
 A|Yeah.|b
 B|And these are the people that make the foreign policy|sv
 B|and it, it's probably basically, uh,|%
@@ -125,9 +125,9 @@ B|I quit drinking Scotch when I found out about that,|sd
 B|but, anyway.|%
 B|But, uh, as far as, as far as, you know, Central and South America, we, our policy pretty much, uh, it depends on who we're, what government we're buying down there at the particular time.|sv
 A|Yeah.|b
-A|I, think  we're trying to stay, uh, stay friendly with uh, the, uh, the Brazilian and, and Argentinean governments because they're producing so much, uh, agricultural exports.|sv
+A|I,  think  we're trying to stay, uh, stay friendly with uh, the, uh, the Brazilian and, and Argentinean governments because they're producing so much, uh, agricultural exports.|sv
 B| We, |%
-A|We,don't want to piss them off and have them over produce|sv
+A|We, don't want to piss them off and have them over produce|sv
 B|Yeah.|b
 B|Although we do need to do something about, you know,|sv
 B|of course, in Nicaragua and around there with the Sandinistas and the Contras, that's been going on for years.|sd
@@ -136,14 +136,14 @@ B|It'll still be the same thing.|sv
 B|Those people down there don't really,|sv
 B|I mean,|%
 A|I think it's going to have to get worse before it gets better,|sv
-A|you know, the same old cliche. |sd
-B| Well, I think basically, they can't figure out what they want down there.|sv
+A|you know,  the same old cliche. |sd
+B| Well, I think basically,  they can't figure out what they want down there.|sv
 A|Right.|b
 B|If you give everybody what they wanted there is a complete democracy, those people wouldn't know how to react because they have no education.|sv
 A|Right.|b
 A|And they'll just pick crooked people again.|sv
 A|And then people, the, the wrong people will just fight their way up to the top again,|sv
-A|and it'll all, be for nothing. |sv
+A|and it'll all,  be for nothing. |sv
 B| It's all tradition. |sv
 B|It's all traditional.|sv
 B|They have to,|sv
@@ -151,13 +151,13 @@ B|you have the ruling class|sv
 B|and you have everybody else.|sv
 A|Yeah.|b
 A|Well, I guess that's about five minutes.|fc
-A|Appreciate talking, to you. |fc
+A|Appreciate talking,  to you. |fc
 B| was very pleasant)).|fc
 B|All righty.|fc
-B|Good, talking to you. |fc
+B|Good,  talking to you. |fc
 A| Hey, what was that book,|qw
-A|what was that book that you were saying to read,again?|qw
-B|Tom,Clancy.|sd
+A|what was that book that you were saying to read, again?|qw
+B|Tom, Clancy.|sd
 B|It's called A CLEAR AND PRESENT DANGER.|sd
 A|A CLEAR AND PRESENT DANGER.|b^m
 B|Uh-huh.|aa

@@ -9,14 +9,14 @@ A|but|%
 B|No,|aa
 B|I agree with that. As, as far as the, as far as the mess that's developing as a result, um, you know,|aa
 B|as a country, the United States, uh,|sv
-B|I think our hands are tied until  the U N sanctions it.as far as, as, as any further involvement,|sv
+B|I think our hands are tied as far as, as, as any further involvement,  until  the U N sanctions it.|sv
 A|Uh-huh.|b
 A| Yeah. |b
 B|In fact, it really was to begin with.|sv
 A|Yeah.|b
 B|And, uh, I just, I heard a comment on the radio this morning that, uh, you know, it, it gets to a point where, uh, if enough people are, are going to be slaughtered over there over the, the, the internal problems, um, somebody may step in again.|sd
 A|Uh-huh.|b
-B|But, uh, I really think it's, it's a U N issue, at  that point because it is internal.|sv
+B|But, uh, I really think it's, it's a U N issue,  at  that point because it is internal.|sv
 A| Yeah. |b
 A|Well, you know the funny thing I find about American opinion is that when we have gone in to destabilize a government before, the American public goes crazy.|sv
 B|Uh-huh.|b
@@ -37,7 +37,7 @@ B|I mean these, these types of internal things go on  all over the world all the
 A| All the time.|aa
 A|I mean, yeah,|aa
 A| I mean,|%
-B|Some of them have been going on for, for tens of years, if,  if I understand it right in places like the Sudan and,|sv
+B|Some of them have been going on for, for tens of years,  if,  if I understand it right in places like the Sudan and,|sv
 A| Yeah. |b
 A|Yeah,|aa
 A|and it's certainly, and it's certainly been going on over there for hundreds of years.|sv
@@ -59,7 +59,7 @@ B|it was just, you know, it was,|%
 B|it's a very opportune moment for them to try. |sv
 B|You know you, |%
 A| Sure,|aa
-A|and, and,  and I don't have any doubt that through some back channels that we encouraged it.You know.|sv
+A|and, and,  and I don't have any doubt that through some back channels that we encouraged it. You know.|sv
 B|Oh, yeah.|b
 B|Yeah.|b
 A|But, I'm not real sure that we promised them anything.|sd
@@ -85,7 +85,7 @@ A|It, it's happened so many times,|sv
 A|this is, this is really nothing special. Uh,|sv
 B|Uh-huh.|aa
 B|Well, and, and, and so many of the, so many of the conflicts, um, really don't have a basis in, in, uh, politics or, or human  rights or anything like that.|sv
-B|It,  It's, it's religious  based|sv
+B|It,   It's, it's religious  based|sv
 A| That's right,|aa
 A|it's   it's mostly religious anyway. |^2
 B|and, uh, you know, by, by self-proclamation this is a holy war|sv
@@ -113,23 +113,23 @@ B|Absolutely.|aa
 A|You know, uh, we sit there|sv
 A|and, and we think that they think the way we think.|sv
 B|Uh-huh.|b
-A|And that's a big mistake, because they  don't.|sv
+A|And that's a big mistake,  because they  don't.|sv
 B| You bet. |ba
 B|You bet.|ba
 B|Well, yeah,|aa
 B|because there's no, uh, you know, there's, there's, there's a complete different set of values.|sv
 A| Uh-huh. |b
-B| Um,  there's, there's different value placed on human life, and,  uh, right down the list, you know, possessions and, and everything else.|sv
+B| Um,  there's, there's different value placed on human life,  and,  uh, right down the list, you know, possessions and, and everything else.|sv
 A| Yeah. |b
 A| Yeah. |b
 B| And, uh,  what's right is wrong and what's wrong is right in some cases.|sv
 A|That's, that's it a lot of the time.|aa
 A|I, I was stationed in, in Turkey for, for a year and a half.|sd
 B|Okay.|b
-A|And it, it was tough, understanding  those folks.|sd
+A|And it, it was tough,  understanding  those folks.|sd
 B| Yeah |b
 B|Yeah.|b
-A|You know, it, they, they're, they're so completely different culturally and socially andand religiously,|sd
+A|You know, it, they, they're, they're so completely different culturally and socially and and religiously,|sd
 B|Uh-huh.|b
 A|it's just, it was very strange.|sd
 B| I believe it. |ba
@@ -172,12 +172,12 @@ B|right,|na
 B|that's an everyday occurrence.|sd
 A|Yeah.|b
 A|It's, it's like our car industry,|sv
-A|the only reason our car industry hasn't gone down the tubes is because the Japanese, you know, came into it and helped, us  out.|sv
+A|the only reason our car industry hasn't gone down the tubes is because the Japanese, you know, came into it and helped,  us  out.|sv
 B| Uh-huh. |b
 B|Uh-huh.|b
 B|I agree.|aa
 B|Yeah,|aa
-B|it's, it's, uh, there, there is, there is, it's an overall problem in, in, in this country understanding, uh, foreign cultures, or  even accepting them.|sv
+B|it's, it's, uh, there, there is, there is, it's an overall problem in, in, in this country understanding, uh, foreign cultures,  or  even accepting them.|sv
 A| Uh-huh. |b
 A|Uh-huh.|b
 B|And, uh, it, it, it bites us over and over|sv
@@ -191,7 +191,7 @@ A| I mean looks  who's, looks who's getting the engineering degrees and the, the
 B| That's right. |aa
 A| It's not  us.|sv
 B|That's right.|aa
-A|You know, we, we've got folks running around here who get, who get degrees in basket weaving and or  some, some ridiculous stuff  like that. you know, underwater psychology,|sv
+A|You know, we, we've got folks running around here who get, who get degrees in basket weaving and you know, underwater psychology,  or  some, some ridiculous stuff  like that. |sv
 B|Uh-huh.|b
 B| Absolutely. |aa
 A|And, and where are the engineers coming from?|qh
@@ -218,7 +218,7 @@ A|You know, uh, but I, I see it all too often.|sd
 A|I mean we've got loads of foreign students|sv
 B|Uh-huh.|b
 A|and they're coming here, going after the hard degrees|sv
-A|and then they're going back to Korea and Japan, and  Hong Kong and everywhere else|sv
+A|and then they're going back to Korea and Japan,  and  Hong Kong and everywhere else|sv
 B| Absolutely. |aa
 A|and they're applying it there.|sv
 B|That's right.|aa
@@ -261,9 +261,9 @@ B|Okay.|b
 A|but I'm sorry I got it.|sd
 B|Yeah.|b
 A|It's slow,|sd
-A|it's, uh, there are many better machines on the market right nowfor a,|sv
+A|it's, uh, there are many better machines on the market right now for a,|sv
 B|Yeah.|b
-A|the only reason I got it is because I got it through an educational purchase planthrough the school|sd
+A|the only reason I got it is because I got it through an educational purchase plan through the school|sd
 B|Okay.|b
 B|Okay.|b
 A|and I saved forty-eight percent,|sd
@@ -276,7 +276,7 @@ A|But|%
 B|That's absolutely right,|aa
 B|yeah.|aa
 A|now you watch,|ad
-A|just sure as anything, the Japanese are going to come out with a laptop at half the pricewith more stuff on it.|sv
+A|just sure as anything, the Japanese are going to come out with a laptop at half the price with more stuff on it.|sv
 B|Uh-huh.|b
 B|Uh-huh.|aa
 B|Yeah,|aa
@@ -286,20 +286,20 @@ A| Uh-huh. |b
 B| um, |b
 A|It's already outdated.|^2
 B|it, it's, it's obsolete,|sv
-B|and, uhwe're, we, we fight that battle every day  here at work, |sd
+B|and, uh we're, we, we fight that battle every day  here at work, |sd
 A|Yeah.|b
 A| Yeah,|b
 A|yeah,|b
 A|  I, I can imagine. |ba
 B| and, uh, |%
-A|I, uh, years ago, I remember when I had a T I ninety-nine.Put all the money into the expansion box and all this, that and the other|sd
+A|I, uh, years ago, I remember when I had a T I ninety-nine. Put all the money into the expansion box and all this, that and the other|sd
 B|Uh-huh.|b
 A|and, uh, things just kept changing so much|sd
 A|and I kept getting rid of them,|sd
 A|and I finally said, well, you can't do this|sd
 B|That's right.|aa
 A|You've got to buy something and stick with it,|^q
-A|so Iso I just,|%
+A|so I so I just,|%
 B|That's right.|aa
 A|at an opportune time I got one that, that suited my needs|sd
 A|and I've just stuck with it.|sd
@@ -320,5 +320,5 @@ B|And, uh, if it does the job, then that's, that's what you need.|sv
 A|Yeah,|aa
 A|now my roomie, on the other hand, he is a power user.|sd
 A|He's, he's looking now to get rid of his.|sd
-A|He's got a three eighty-six and wants to get a four eighty-six.You know, this kind of stuff.|sd
+A|He's got a three eighty-six and wants to get a four eighty-six. You know, this kind of stuff.|sd
 B|Uh-huh.|b

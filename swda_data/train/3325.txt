@@ -1,6 +1,6 @@
 A|Okay,|fo_o_fw_"_by_bc
 A|well, do you have a pet?|qy
-B|I have two cats.And do, and, oh, and two fish.|na
+B|I have two cats. And do, and, oh, and two fish.|na
 A|Two cats,|b^m
 A|you're lucky.|ba
 A|Your two fish.|sd
@@ -12,14 +12,14 @@ A|My husband is a hunter, fisherman, outdoorsman, Marlboro type person who had t
 A|So we have a black Labrador.|sd
 B|Ooh.|bk
 A|Beautiful, gorgeous black Labrador,|sd
-A|but to me, he belongs up in the field, you know, in theranch, in the farm|sd
+A|but to me, he belongs up in the field, you know, in the ranch, in the farm|sd
 A|and,|%
 A|Well, because we finally negotiated that I was losing my mind, uh, he sleeps in the laundry room|arp_nd
 A|and then he goes out for the day.|sd
 A|But this, this is a beautiful dog|sd
 A|and he is wonderful with our little girls|sd
 A|and he is, he's, comes from a purebred line|sd
-A|and there's nothing you could say bad about him, except that I was more of a cat or a small dog personthat you could sit in the chair and cuddle.|sd
+A|and there's nothing you could say bad about him, except that I was more of a cat or a small dog person that you could sit in the chair and cuddle.|sd
 B|Right.|b
 B|Right.|b
 A|And this is huge.|sd
@@ -28,7 +28,7 @@ A|he doesn't know that he's tearing up things,|sd
 A|but he does.|sd
 B|Yeah,|b
 B|yeah.|b
-A|And the worst part that I had with him, he's, he's three nowwas when he was, uh, about eight months old|sd
+A|And the worst part that I had with him, he's, he's three now was when he was, uh, about eight months old|sd
 B|Uh-huh.|b
 A|and I did not know what to expect from a dog having not had one,|sd
 A|and I left him in the kitchen with the little baby gates up while I was gone for about an hour.|sd
@@ -39,7 +39,7 @@ A|And it was in the floor|sd
 A|and I just about lost it|sd
 A|and I called|sd
 A|and I said, come home and get your dog.|sd
-A|And so, he said, well, puppies just chew when they're nervous and I, well, I wish you had told meyou know,|sd
+A|And so, he said, well, puppies just chew when they're nervous and I, well, I wish you had told me you know,|sd
 B|Oh, dear.|ba
 A|and it was about eight months later, he ate a piece of the linoleum.|sd
 A|He kept picking at it|sd
@@ -65,7 +65,7 @@ B|I got her when I lived in Hawaii.|sd
 A|Oh.|b
 B|Before I even got married I had my cat.|sd
 A|She's old.|qy^d
-B|Well, she, IJune.had to have her put to sleep last|sd
+B|Well, she, I had to have her put to sleep last June.|sd
 A|Isn't she?|^g
 A|Oh, I started to say|%
 A|then you broke your heart.|qy^d
@@ -84,7 +84,7 @@ B|but the bad thing was, though, she would pee in my husband's shoes.|sd
 A|Yeah.|b
 A|Oh, no|ba
 B|You know, and she just liked his shoes|sd
-B|and he'd have these dresshundred dollar shoes.|sd
+B|and he'd have these dress hundred dollar shoes.|sd
 A|Oh.|b
 A|Oh, no|ba
 B|Oh, it was just bad.|sd
@@ -99,11 +99,11 @@ A|Uh-huh.|b
 B|She must have known he didn't like her or something.|sv
 A|Or the smell or something.|sv
 B|Oh, anyway, I, I,|%
-B|and I would shut, I would bar the closet doors,and would uh, clean the carpets|sd
+B|and I would shut, I would bar the closet doors, and would uh, clean the carpets|sd
 B|and|%
 A|Uh-huh.|bd
 B|oh, dear, it was just awful.|sv
-A|Well, now, doesyour cat sleep in the house?|qy
+A|Well, now, does your cat sleep in the house?|qy
 B|That was very funny.|sd
 A|They are, they are house cats.|qy^d
 B|I, uh, well, I have two cats right now.|sd
@@ -112,20 +112,20 @@ B|And, of course.|%
 A|Oh, yeah,|b
 A|good.|ba
 B|They sleep with my kids.|na
-B|My kids, my, my fourteen year old son has an extra pillow on his bedjust for the cat.|sd
+B|My kids, my, my fourteen year old son has an extra pillow on his bed just for the cat.|sd
 A|Oh.|bk
 A|But the cat doesn't destruct does it?|qy
 A|See, it doesn't do anything.|sv
-B|Oh, no, II'm not going to have a dog.|sd
+B|Oh, no, I I'm not going to have a dog.|sd
 A|See.|b
 B|We've had two dogs|sd
-B|and, uh, they both got ran over.After we had them for several years, just nice little outside dogs|sd
+B|and, uh, they both got ran over. After we had them for several years, just nice little outside dogs|sd
 A|Oh, no.|ba
 B|but|%
 A|Yeah.|b
 B|were just my kids' friends,|sd
 B|they would go they would go with me when I would go running|sd
-B|andand the last one got hit, uh, as she was following my, one of my sons across the road to the school.|sd
+B|and and the last one got hit, uh, as she was following my, one of my sons across the road to the school.|sd
 A|Oh.|b
 A|Oh, no.|ba
 B|It was awful.|sd
@@ -134,7 +134,7 @@ A|Oh, that is.|aa
 B|And it just, it's too heartbreaking|sd
 B|but they do dig up|sv
 B|and they just, they just wreck things|sv
-B|and I'm not adog person.|sd
+B|and I'm not a dog person.|sd
 A|They do wreck things.|aa
 A|Well, I'm not either.|sd
 B|Ooh.|b
@@ -144,7 +144,7 @@ B|I wouldn't want a Lab.|sd
 B|It sounds beautiful,|sv
 B|but,|%
 A|He's beautiful|aa
-A|but it's just one of those concessions,I just had to make,|sd
+A|but it's just one of those concessions, I just had to make,|sd
 A|but I kind of ignore him.|sd
 A|Now today's the first cold we've had in Texas|sd
 A|and it's really cold and drizzly|sd
@@ -159,7 +159,7 @@ B|Oh.|b
 A|And I, I,|%
 B|And how old are your girls?|qw
 A|They're eleven and eight|sd
-A|and Igave in at Christmas|sd
+A|and I gave in at Christmas|sd
 B|Oh, yeah.|b
 A|and they have, they keep their cages real clean.|sd
 A|It always smells of cedar|sd
@@ -179,7 +179,7 @@ B|I've, I've got incoming calls|sd
 B|and I don't know why, calling.|sd
 A|Oh, okay.|b
 B|I, I hate to cut it off,|sd
-B|I thinkthey would cut us off,|sd
+B|I think they would cut us off,|sd
 A|I understand.|ba
 B|so we'll just wait.|ad
 A|Okay,|aa
@@ -196,7 +196,7 @@ B|My older boy. He never likes to come home from school.|sd
 B|Anyway that's what we have,|sd
 B|and I have, I've tried to start a fish tank|sd
 A|How does,|%
-B|and I keeplosing all my fish.|sd
+B|and I keep losing all my fish.|sd
 A|In the salt water?|qy
 A|Salt water or,|qy^d
 B|No|nn

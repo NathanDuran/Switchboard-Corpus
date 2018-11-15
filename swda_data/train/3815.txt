@@ -18,7 +18,7 @@ B|Well, not so much that as it is,|ng
 B|I've had so many times when, uh, uh, you know, I'll have a friend next to me or I see somebody, uh, guy broken down on the side of the road and try to lean over and roll down the window.|sd
 A|Oh.|b
 B|It is just a real pain,|sd
-B|or, you know, if I'm driving along and there's somebody next to me and, uh, somebody that I know and you try to talk to themit's real difficult to drive, reach over, and try to roll down the window.|sd
+B|or, you know, if I'm driving along and there's somebody next to me and, uh, somebody that I know and you try to talk to them it's real difficult to drive, reach over, and try to roll down the window.|sd
 A|Uh-huh.|b
 A|Right,|b
 A|right.|b
@@ -26,7 +26,7 @@ B|And, uh, so, power locks, power windows are just, just things that, uh, just r
 A|Uh-huh,|b
 A|uh-huh.|b
 B|What about you?|qo
-A|Well, I guess I'm, uh, more traditional in that I don't like power windows or power locks,because the people that I know who have them always seem to have trouble with them.|sd
+A|Well, I guess I'm, uh, more traditional in that I don't like power windows or power locks, because the people that I know who have them always seem to have trouble with them.|sd
 B|Oh.|b
 A|And, uh, so I don't, I just don't like anything that I can't figure out why it doesn't work|sd
 B|Sure.|b
@@ -83,7 +83,7 @@ B|Uh-huh.|b
 A|Uh,|b
 B|It's hard to find stick shift cars anymore.|sv
 A|I found that out.|aa
-A|I mean, you know, the people would just sort of look at me like, you must be crazy when I,went in to, and asked and that was a requirement|sd
+A|I mean, you know, the people would just sort of look at me like, you must be crazy when I, went in to, and asked and that was a requirement|sd
 A|so,|%
 B|Huh,|b
 B|yeah.|%
@@ -98,9 +98,9 @@ B|Huh.|b
 A|And so why do you like stick shift?|qw
 B|Uh, I guess I, I grew up on it and it's fun.|sd
 B|It's, it's an enjoyable part of driving.|sd
-B|I do feel like I have, uh, more controlover the car|sd
+B|I do feel like I have, uh, more control over the car|sd
 A|Uh-huh.|b
-B|and it, it, to me, it gives me more, a lot more control in snow and iceand slick conditions.|sd
+B|and it, it, to me, it gives me more, a lot more control in snow and ice and slick conditions.|sd
 A|Uh-huh.|b
 A|Right.|b
 B|Uh, it, it does, uh,|%
@@ -113,4 +113,4 @@ B|Yeah,|b
 B|yeah|b
 A|So,|%
 B|Yeah,|b
-B|uh, of course, I like gadgets and, and, uh, fun things,on the cars, which are all the things, course, the|sd
+B|uh, of course, I like gadgets and, and, uh, fun things, on the cars, which are all the things, course, the|sd

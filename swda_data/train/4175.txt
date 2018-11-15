@@ -18,9 +18,9 @@ A|They pick up newspapers and, uh, you know, milk jugs and aluminum and tin cans
 B|Uh-huh.|sd
 A|They pick up everything.|sd
 B|During the summers, like the, around where I live the, uh, homeless people|sd
-B|I mean, they all have like shopping carts andstuff|sd
+B|I mean, they all have like shopping carts and stuff|sd
 A|Uh-huh.|b
-B|and they're go around and collect cansand aluminum and stuff,|sd
+B|and they're go around and collect cans and aluminum and stuff,|sd
 A|Uh-huh.|b
 B|and so we used to just save them up|sd
 B|and then they'd come around|sd
@@ -30,7 +30,7 @@ B|But, when,|%
 B|during the winter time I think they, they move south or something|sd
 A|Yeah|b
 B|so, I don't do that anymore.|sd
-B|And the, the recycling at Georgia Tech, like that, uh, outside the, uh, student centerthey never empty those things.|sd
+B|And the, the recycling at Georgia Tech, like that, uh, outside the, uh, student center they never empty those things.|sd
 A|Uh-huh.|sd
 A|I know it,|aa
 A|I know it.|aa
@@ -57,7 +57,7 @@ A|Oh, yeah.|ny
 B|Yeah,|b
 B|I'm kind of, I'm kind of bad about it.|sd
 A|The ,|%
-B|If I, if see a, if I see a pile of cans or bottles or somethingI'll throw it in there|sd
+B|If I, if see a, if I see a pile of cans or bottles or something I'll throw it in there|sd
 A|Uh-huh.|b
 B|but I don't really, I don't ever take anything.|sd
 A|Well, I mean, it's real,|%
@@ -91,7 +91,7 @@ A|Oh, yeah,|b
 A|they have, uh,|sd
 A|uh, what I, what I used to, uh,|sd
 A|now that I don't go to the grocery store much, it's kind of moot,|sd
-A|but I used to just save up the ones that I got one timeand then go and hand them to them the next time and use them over and over.|sd
+A|but I used to just save up the ones that I got one time and then go and hand them to them the next time and use them over and over.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|but, also most places, like Big Star does|sd
@@ -105,13 +105,13 @@ A|Can bring them in.|sd
 B|Those petroleum products are going to kill us.|sv
 A|I know it,|aa
 A|I know it.|aa
-B|The hostile planet, I think,Julie.|sv
-A|It really is a small,  hostile planet|sv
-B|The petroleum pretty much, I mean, those petroleum products I think are the big, uh, you knowthe great Satan of the recycling.|sv
+B|The hostile planet, I think, Julie.|sv
+A|It really is a small,   hostile planet|sv
+B|The petroleum pretty much, I mean, those petroleum products I think are the big, uh, you know the great Satan of the recycling.|sv
 A|Did you know that,|qy
 A|No,|ar
 A|really not.|sd
-A|Did you know that, like, something like fifty percent of the world's landfills is like paper?Filled with paper.|qy
+A|Did you know that, like, something like fifty percent of the world's landfills is like paper? Filled with paper.|qy
 B|Um.|%
 B|Paper just seems so innocuous.|sv
 A|Huh?|br
@@ -124,7 +124,7 @@ B|They treat it with chemicals or something?|qy^d
 B|Why can't trees break down?|qw
 B|I don't get it.|sd
 A|Well, they do treat paper with chemicals|sd
-A|like yellow paper, you knowtakes something like twenty times as long to decompose.|sd
+A|like yellow paper, you know takes something like twenty times as long to decompose.|sd
 B|Yep.|b
 B|Oh|b
 A|You know, you can bury a piece of yellow paper,|sd
@@ -133,15 +133,15 @@ B|Really?|bh
 A|Yeah|aa
 B|Huh.|%
 A|it will be whole.|sd
-A|You'll be able to read off of it. |sd
-B|I'm  going to switch from those yellow legal pads, then.|oo_co_cc
+A|You'll be able to read  off of it. |sd
+B|I'm  going to switch  from those yellow legal pads, then.|oo_co_cc
 A|Yeah, um.|b
 B|I'm glad you told me that, because I use those at work, where I work|sd
-B|and, uh,forget that from now on.But I can just|sd
+B|and, uh, But I can just forget that from now on.|sd
 B|I'm going I'm going to switch to the white ones.|oo_co_cc
 A|Well, white paper's bad too.|sd
 A|They, they treat it, too.|sd
-B|Well, what about, uh, papyrus, you know, made out of you know, bamboo stuff, from the banks of  the Nile.from the|qo
+B|Well, what about, uh, papyrus, you know, made out of you know, bamboo stuff, from the from the  banks of  the Nile.|qo
 A|I'm sure that's fine.|sd
 A| I'm sure. |sd
 A|Maybe we ought to just start carving in stone again.|ad
@@ -149,15 +149,15 @@ B|You think so?|bh
 A|Maybe.|no
 B|Tablets?|qy
 A|Yeah.|ny
-B|I think we should just abandon the, you know, the written wordaltogether, you know.|sv
+B|I think we should just abandon the, you know, the written word altogether, you know.|sv
 A|You think?|bh
 A|I don't know,|aap_am
-A|well, I mean,I think we've kind of, you know,|sv
+A|well, I mean, I think we've kind of, you know,|sv
 B|What do you think?|qo
-A|I mean, everybody, everybodyeverybody has a computer.|sv
+A|I mean, everybody, everybody everybody has a computer.|sv
 B|Kind of radical, I know|sv
 B|but,|%
-A|We would no longer needpaper at all.|sv
+A|We would no longer need paper at all.|sv
 B|That's true.|aa
-B|Everyone had a two way wrist watch T V on their wrist,like, uh, Dick Tracy.|ad
+B|Everyone had a two way wrist watch T V on their wrist, like, uh, Dick Tracy.|ad
 A|I would love that.|sd

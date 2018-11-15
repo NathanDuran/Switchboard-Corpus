@@ -11,7 +11,7 @@ B|uh, you name it, they tax it.|sd
 A|Oh, so you get the whole smorgasbord.|bf
 B|That's right|aa
 B|we,|%
-A|Well, I, I actually live in New HampshireUh-huhtax free or die.|sd
+A|Well, I, I actually live in New Hampshire tax free or die. Uh-huh|sd
 B|Uh-huh.|b
 B|Right.|b
 B|Which is probably pretty nice,|sv
@@ -23,7 +23,7 @@ A|No,|nn
 A|what there is, is very high property taxes because that's how they fund schools and everything.|sd
 B|Uh-huh.|b
 A|The only problem is I work in Massachusetts,|sd
-A|so theythey hit me up for the five percent there.|sd
+A|so they they hit me up for the five percent there.|sd
 B|Right.|b
 B|Taxachusetts|sd
 A|Yep,|b
@@ -47,12 +47,12 @@ B|I mean, I don't utilize all, you know, it really, any government welfare servi
 B|Of course, I drive on the roads|sd
 B|and I, you know, went to the schools and stuff,|sd
 B|but I really feel that, that I'm just getting overtaxed.|sv
-A|Oh, I, I mean, I, I'd consider twenty percent lucky because just on, I mean, you know, when you figure out just on feds, you know, I actually hit the thirty-one bracket this year,  which was no fun.|sd
+A|Oh, I, I mean, I, I'd consider twenty percent lucky because just on, I mean, you know, when you figure out just on feds, you know, I actually hit the thirty-one bracket  this year,  which was no fun.|sd
 B| Uh-huh. |b
 B|No|aa
-B|that's,that's not any fun.|aa
+B|that's, that's not any fun.|aa
 A|Right,|b
-A|and also, you know, then you figure out seven or eight percent for F I C Awherewhich is taxes|sd
+A|and also, you know, then you figure out seven or eight percent for F I C A which is taxes where|sd
 B|Uh-huh.|b
 B|Right.|b
 A|most people forget about them, because you've you know, you can't always get your F I C A back at the  end of the year. |sv
@@ -64,17 +64,17 @@ B|and a lot of it,|%
 B|and if you look at the way the government is run these days, it just seems like a lot of it's going to waste.|sv
 A|Yeah,|b
 A|well, I, I mean, I think there's some people, there, certainly are some things where you need infrastructure|sv
-A|and you needyou you know,|sv
+A|and you need you you know,|sv
 B|Right.|b
 A|things government does better, you know,|sv
-A|I government does a better space programthan you're going to get out of private individuals,|sv
+A|I government does a better space program than you're going to get out of private individuals,|sv
 B|Right.|b
-A|but, you know, I think, you know, you look at things like, you know, tax subsidies to tobacco farmersbecause Jesse Helms wants it that way|sv
+A|but, you know, I think, you know, you look at things like, you know, tax subsidies to tobacco farmers because Jesse Helms wants it that way|sv
 B|Right|b
-A|or,You know, and, and just tremendous amounts of, you know,|sv
+A|or, You know, and, and just tremendous amounts of, you know,|sv
 B|That's right,|aa
 B|got to keep those farmers happy.|sv
-A|so much of it, is now just going to service debt oryou know, is going in, into, into programs that, you know,|sv
+A|so much of it, is now just going to service debt or you know, is going in, into, into programs that, you know,|sv
 B|Uh-huh.|b
 A|yeah,|%
 A|they are, they are a fat.|sv
@@ -82,7 +82,7 @@ A|You know, I think the military is really fat.|sv
 A|I think that a lot of the, the H E W services, although they're providing necessary services, have too much fat in them.|sv
 B|Right.|aa
 B|there is just way too much bureaucracy|sv
-B|and so much of that tax money is going just to keep that bureaucracy running, keep the paper shuffling aroundinstead of real, you know, good programs.|sv
+B|and so much of that tax money is going just to keep that bureaucracy running, keep the paper shuffling around instead of real, you know, good programs.|sv
 A|You know, like we,|%
 A|Yeah,|aa
 A|I mean, we, we spend a fortune for things like V A hospitals|sv
@@ -95,14 +95,14 @@ B|Just, I just, I really, especially in the election year, I mean, I'm really th
 B|it seems like everything is really screwy right now as far as the economy, uh, the government goes and our, our whole economy in general|sv
 B|and our taxes just are going to keep rising no matter what happens|sv
 B|and especially when you've got the Bush administration who has increased government expenditures, uh, beyond what any other President since World War Two has done|sd
-B|and yethe supposedly,|sd
-A|Well,between him and Reagan,|aa
+B|and yet he supposedly,|sd
+A|Well, between him and Reagan,|aa
 A|yeah.|aa
 B|Right|aa
 B|right,|aa
 B|yeah.|aa
 A| great |sd
-B| I mean, I just read  something that, two thirds or three quarters, I'm not exactly sure of our national debt are, was created during the Reagan Bush era who are supposedly  fiscally conservative.|sd
+B| I mean, I just read  something that, two thirds or three quarters, I'm not exactly sure of our national debt are, was created during the Reagan Bush era  who are supposedly  fiscally conservative.|sd
 A| Oh, oh, yeah,|aa
 A|they think, |sv
 A|Oh, yeah,|aa
@@ -125,10 +125,10 @@ A|So, you know, it's, it's very hard to say, you know, this is what we should cu
 B|Yeah,|aa
 B|it's really,|%
 B|that is the,|%
-B|especially that defense, cuts in the defense is really a Catch twenty-twodouble whammy, because like you say, if you cut defense, well, that's great,|sv
+B|especially that defense, cuts in the defense is really a Catch twenty-two double whammy, because like you say, if you cut defense, well, that's great,|sv
 B|that's going to lower our national expenditures,|sd
 B|but then you're going to have people on welfare|sd
-B|and they're not putting taxes in. |sd
+B|and they're not  putting taxes in. |sd
 A| Who aren't contributing. |^2
 A|Right,|aa
 A|yeah.|aa
@@ -138,7 +138,7 @@ A|And, uh, in our,|%
 B|I'm glad I'm not the one who has to come up with these policies.|sd
 A|Right.|b
 A|But, what's very funny is in our town meeting they were|sd
-A|this, this guy had, both for our school district meeting and our town meeting had this proposal which, unfortunately violates New Hampshire constitutionfor our local town to do it to, uh, have you, have people line item their taxes.|sd
+A|this, this guy had, both for our school district meeting and our town meeting had this proposal which, unfortunately violates New Hampshire constitution for our local town to do it to, uh, have you, have people line item their taxes.|sd
 B|Uh-huh.|b
 B|Right.|b
 A|They say I want to pay for this and this and this and this and this.|sd

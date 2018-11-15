@@ -4,7 +4,7 @@ B|Well, uh, I think the weather lately has been a bit warmer than I would expect
 A|I think that's true.|aa
 A|The, uh, the Bermuda grass is greening up in March,|sd
 A|and sometimes doesn't really start doing that until the first part of April.|sd
-A|So.So I think we're a little ahead of schedule on that.|sv
+A|So. So I think we're a little ahead of schedule on that.|sv
 B|Yeah.|b
 B|Yeah,|b
 B|I was out in my yard yesterday afternoon,|sd
@@ -63,7 +63,7 @@ A|Uh-huh.|b
 B|they said that we had a freeze and some kind of bad weather. You know|sd
 A|Right.|b
 B|it wasn't just a super bad storm,|sd
-B|but it wasit was that sort of thing that we never like to see in the, the late spring time.|sd
+B|but it was it was that sort of thing that we never like to see in the, the late spring time.|sd
 A|Right.|b
 A|Yeah.|b
 A|One of the weirdest things I saw, I think it was around this time last year was a twenty-six degree lightening storm.|sd
@@ -91,7 +91,7 @@ A|I, I'm really enjoying this now.|sd
 A|Well, this has been interesting.|sv
 B|Yeah, well.|aa
 A|Not too challenging to the brain.|sv
-B|Not, not a real in depth topic, butenjoyed talking to you.|sv
+B|Not, not a real in depth topic, but enjoyed talking to you.|sv
 A|Nope.|aa
 A|All right, Ellen,|fo_o_fw_"_by_bc
 A|well you have a good day.|fc

@@ -11,10 +11,10 @@ A|I can hear it at the, uh, uh, oh, the college town nearby when I'm in Stillwat
 A|but the F M signal doesn't reach this far.|sd
 B|Uh-huh.|b
 A|Uh, I'll listen to shortwave quite a bit.|sd
-A|It gives you a whole different perspective on the news, uh, when you hear it from, say, a Europeanpoint of view, or from the country of origin.|sv
+A|It gives you a whole different perspective on the news, uh, when you hear it from, say, a European point of view, or from the country of origin.|sv
 B|Uh-huh.|b
 A|Uh, I agree with you, too, on the, uh, uh, the cable channel, C N N and HEADLINE NEWS.|sd
-A|Uh, I'm not too satisfied with our local newspapercable, C N N.uh, which is why I rely on shortwave and, and then the cable,|sd
+A|Uh, I'm not too satisfied with our local newspaper uh, which is why I rely on shortwave and, and then the cable, cable, C N N.|sd
 B|Uh-huh.|b
 B|I'm, uh, interested in the, in the shortwave aspect of it.|sd
 B|Uh, how do you find that the, the coverage from other places in the world uh, compares with the American coverage of,|qo
@@ -24,7 +24,7 @@ A|or, or it's not happening in your backyard|sv
 B|Uh-huh.|b
 A|so it's, it's more of a, it's not as a personal, uh, the news isn't as personal in what we receive domestically than, than what's on shortwave.|sv
 A|It's, B B C is, uh, oh, I don't know the right word, is, is almost, uh,|sv
-A|they almost take all emotions out of it when theyreport it|sv
+A|they almost take all emotions out of it when they report it|sv
 B|Uh-huh.|b
 A|and it just,|%
 A|they seem to give more of just the facts than opinions.|sv
@@ -32,7 +32,7 @@ B|Do you think, then, that, uh, the American media is presenting an opinion alon
 A|Uh, very much so,|na
 A|very much so,|na
 A|and I, I think a lot of it is, uh, especially T V news,|sv
-A|they don't really have the time and a lot of them don't have the education and the background to,uh, oh, to really decipher the news and to really explain it.|sv
+A|they don't really have the time and a lot of them don't have the education and the background to, uh, oh, to really decipher the news and to really explain it.|sv
 A|I mean, I, you know, I think it's important to interpret it,|sv
 A|but a lot of times the person doesn't have the experience to, to do the interpreting.|sv
 B|Uh-huh.|b
@@ -51,7 +51,7 @@ B|Uh, there was a, there was, uh, a piece where he was showing a bombed out buil
 B|and while he was being severely, uh, censored and could not make any judgment call on this, it was fairly obvious that it was a piece of propaganda,|sd
 B|but people were really down on him for reporting the fact that, you know, this isn't a baby milk factory,|sd
 B|how could he say it was, uh,|qh
-B|I, I think that,that to me showed that the Americans were really getting used to having the, not just the facts, but also the conclusions and opinions spoon fed to them.|sv
+B|I, I think that, that to me showed that the Americans were really getting used to having the, not just the facts, but also the conclusions and opinions spoon fed to them.|sv
 A|Yeah,|aa
 A|I, I think people are, people have that opinion.|sv
 A|They, they want to sit down in front of the TV and, uh, or at a, read a magazine or U S A TODAY and read in four paragraphs, uh, and, and find out|sv

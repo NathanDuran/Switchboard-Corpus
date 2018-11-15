@@ -11,7 +11,7 @@ B|Um, well, I don't know if you know,|sd
 B|but Garland has got a real big recycling center that, in fact, we went to it yesterday.|sd
 B|You drive up|sd
 B|and you take the stuff out of your trunk,|sd
-B|and they have different bins for the different materials, like clear,glass and colored glass and plastics|sd
+B|and they have different bins for the different materials, like clear, glass and colored glass and plastics|sd
 B|and, uh, they have all the different plastics separated by those little symbols on the bottom.|sd
 B|That's pretty neat.|sd
 B|My, my daughter is four,|sd
@@ -23,7 +23,7 @@ B|Uh, does Dallas have a curbside recycling program yet?|qy
 A|Um, well, I don't know Dallas,|no
 A|in Richardson does.|sd
 B|Oh, okay.|bk
-A|Um, they started with newspapers and, uh, of course aluminum cans, andand bottles and plastic.|sd
+A|Um, they started with newspapers and, uh, of course aluminum cans, and and bottles and plastic.|sd
 B|Yeah.|b
 A|I didn't know there were different types of plastic, though.|sd
 B|Yeah,|aa
@@ -31,7 +31,7 @@ B|um, like soda bottles are one one type of plastic,|sd
 B|and milk jugs are one type of plastic.|sd
 B|You can|%
 B|it's got little,|sd
-B|most of the recyclable containers have the little symbol on the bottom with the, with the arrows around itthat tells whether it's a one or a two or a three.|sd
+B|most of the recyclable containers have the little symbol on the bottom with the, with the arrows around it that tells whether it's a one or a two or a three.|sd
 A|Uh-huh.|b
 A|Oh.|b
 B|It's, it's just different kinds of plastics, like the clear plastic is different from that milky looking plastic.|sd
@@ -52,13 +52,13 @@ B|You can drive up,|sd
 B|and they have one of the clerks up there, no, the bag boys out there, um, that will take the papers, newspaper out of your car,|sd
 B|and they'll put it in their little bin,|sd
 B|and they do the recycling,|sd
-B|I mean, they collect the newspapers and their their plastic grocery bagswhich I think is pretty neat.|sd
+B|I mean, they collect the newspapers and their their plastic grocery bags which I think is pretty neat.|sd
 A|Yeah.|b
 A|.|%
 B|That's something since we all seem to have an abundance of those plastic grocery bags|sv
 A|That's right.|aa
 A|Yeah.|aa
-B|I know we use them for trash can liners anda lot of other things.|sv
+B|I know we use them for trash can liners and a lot of other things.|sv
 A|Uh-huh.|b
 A|Lunch bags.|bf
 B|Yeah,|aa
@@ -79,7 +79,7 @@ B|They did a program,|sd
 B|or one of their articles was on recycling,|sd
 B|and, uh, it was actually on a town that has a dump that they charge other cities, or towns to come in and dump their trash there.|sd
 B|They have made so much money from that, that they built, they bought a brand new fire engine,|sd
-B|and when the fire engine was delivered the fire house wasn't big enough, so they bought a new, or built a new oneand paid for it in cash with the money that they've earned from this landfill.|sd
+B|and when the fire engine was delivered the fire house wasn't big enough, so they bought a new, or built a new one and paid for it in cash with the money that they've earned from this landfill.|sd
 A|.|%
 A|Yeah.|b
 B|They have built up one mountain.|sd
@@ -125,7 +125,7 @@ B|my daughter thinks that any time she sees newspapers bundled up, they're being
 A|Uh-huh.|b
 B|So, it's like, well, no, Honey.|sd
 B|So that, like,|%
-B|so that was one reason we went to show her what people did with their, their stuff when they recycled itand try to explain well, yeah, you melt down the cans|sd
+B|so that was one reason we went to show her what people did with their, their stuff when they recycled it and try to explain well, yeah, you melt down the cans|sd
 A|Right.|b
 B|and you make them into new things,|^q
 B|and you get the paper all wet|^q
@@ -140,7 +140,7 @@ B|Well, yeah,|aa
 B|she,|%
 B|that was her next question, was, how do you grow paper?|sd
 A|How do you grow paper?|b^m
-B|Was like, well, from treesum. That's why you have to cut down trees and why you have to plant more trees.|sd
+B|Was like, well, from trees um. That's why you have to cut down trees and why you have to plant more trees.|sd
 A|Uh-huh.|b
 A|And how do you grow aluminum?|^q
 B|Yeah,|aa

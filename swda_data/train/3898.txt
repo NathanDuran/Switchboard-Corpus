@@ -6,7 +6,7 @@ A|Our lives are, are built around foods that we like and, nutritionally good for
 B|Yes, sir.|ba
 A|What kind of dining out do you like?|qw
 B|Well, there is two kinds.|sd
-B|One I guess I'd say is with my wife where we enjoy, uhoh, I guess we usually enjoy a good seafood restaurant.|sd
+B|One I guess I'd say is with my wife where we enjoy, uh oh, I guess we usually enjoy a good seafood restaurant.|sd
 A|Oh.|b
 B|Uh, you know, something nice.|sd
 A|Yeah.|b
@@ -15,7 +15,7 @@ B|Uh, recently we have been hitting Pancho's up.|sd
 B|It's a local Mexican restaurant.|sd
 A|Uh-huh.|b
 B|because they have got a good rate on, you know, good prices and everything.|sd
-A|Pancho's, that's, a new  one.|qy^d
+A|Pancho's, that's,  a new  one.|qy^d
 B| Yeah. |b
 B| Yeah, |ny
 A| Uh-huh. |b
@@ -29,7 +29,7 @@ A|And, uh, we had a restaurant called La Bamba|sd
 A|but it's just, it closed recently.|sd
 A|But Chi Chi's is a national restaurant, I think.|sv
 A|Isn't it Mexican?|qy
-B| I think, think it might be.|sv
+B| I think,  think it might be.|sv
 A| Do you  have it there?|qy
 B|I've I think I've seen it around.|sd
 B| Yes, sir. |ny
@@ -43,7 +43,7 @@ B|Oh, we, we do too.|sd
 B|We, uh, we enjoy Mexican food.|sd
 B|I'm just not impressed with the quality of it.|sd
 B|It's just primarily the price that's, uh, satisfying at this point. |sd
-B|But the kids, seem to enjoy it.|sv
+B|But the kids,  seem to enjoy it.|sv
 A| Is that right? |qy
 A|Uh-huh.|b
 B|Uh, and, uh, let's see.|^h
@@ -69,8 +69,8 @@ B|I used to go there when I was in college.|sd
 A|Uh-huh.|b
 A|Where did you go to college?|qw
 B|Uh, I went to the Naval Academy.|sd
-A|Oh, the  U S , Naval Academy?|br
-B| And we used to, And have some liberty.we use to go up there on, uh, for football games sometimes.|sd
+A|Oh, the  U S ,  Naval Academy?|br
+B| And we used to,  we use to go up there on, uh, for football games sometimes. And have some liberty.|sd
 A|Uh-huh.|b
 B|And,|%
 B|yeah,|%
@@ -120,7 +120,7 @@ B|Yes, sir.|%
 B|Uh, I don't know if we are particularly adventurous,|sv
 B|we find something we like, uh, like cashew shrimp or something that's got a good, uh, at a particular restaurant|sd
 B|and then we usually stick by it.|sd
-B| But do you, What about you?|qo
+B| But do you,  What about you?|qo
 A| Uh-huh. |b
 A|Well, I, uh, enjoy the Szechuan type of, uh, Chinese food.|sd
 B|Hot?|br

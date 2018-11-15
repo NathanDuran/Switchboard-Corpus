@@ -5,7 +5,7 @@ A|I have, I have one,|sd
 B|Okay.|bk
 A|and it's a real pet peeve of mine.|sd
 A|It seems I, I do work during the day|sd
-A|and when I'm home, uh, you know I'm either cooking or running doing,things or, uh, laundry or stuff.|sd
+A|and when I'm home, uh, you know I'm either cooking or running doing, things or, uh, laundry or stuff.|sd
 B|Uh-huh.|b
 A|And I hate when the phone rings and it turns out to be a telephone salesman.|sd
 B|Oh|b
@@ -17,10 +17,10 @@ A|And I|%
 A|and if I want something, I will get it.|sd
 B|Uh-huh.|b
 A|I will go out and get it myself.|sd
-A|And I will never, I never buy anything from a telephone,salesperson.|sd
-B|Oh, I wouldn't,either,|aa
+A|And I will never, I never buy anything from a telephone, salesperson.|sd
+B|Oh, I wouldn't, either,|aa
 B|no.|aa
-A|So, I really feel that it is a real invasion, they're invading my time and my spaceby, you know, interfering in whatever I'm doing|sd
+A|So, I really feel that it is a real invasion, they're invading my time and my space by, you know, interfering in whatever I'm doing|sd
 B|Uh-huh.|b
 A|and I,|%
 A|it really bothers me.|sd
@@ -43,7 +43,7 @@ A|but I just feel that's my big thing on the invasion of, my thing on invasion o
 B|Uh-huh.|b
 A|And, um, I have, uh, I sort of have a sort like|sd
 A|you can prevent yourself from getting junk mail by getting yourself off of mailing lists.|sd
-A|I wish that there were a way that you could, um, get your you know, submit your telephone number to the phone company and have a penalty for anyone who calls you to sell things,from a|sd
+A|I wish that there were a way that you could, um, get your you know, submit your telephone number to the phone company and have a penalty for anyone who calls you to sell things, from a|sd
 B|Uh-huh,|b
 B|well, how do you get your name off the junk mailing list?|qw
 A|Uh, you, you, you, you do that by, uh, um,|sd
@@ -65,7 +65,7 @@ B|Oh, wow.|ba
 A|And I wish there were something like that where you can call the telephone company|sd
 B|Yeah.|b
 A|and you could say that, uh, have your your number put in a registry.|sd
-A|And then anyone making these calls have to check that registry for that areaand could not, should, and is not allowed under penalty of, you know, being reported or something to call you.|sd
+A|And then anyone making these calls have to check that registry for that area and could not, should, and is not allowed under penalty of, you know, being reported or something to call you.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 A|So that would be one way of doing it.|sd
@@ -80,8 +80,8 @@ A|because I've called and there really wasn't any significant message|sd
 A|and I, and I wasn't going to be available to be called back.|sd
 B|Uh-huh.|b
 A|And it was sort of like, oh, the hell,|sd
-A|I'm not going to spend the time giving,leaving a message,|sd
-A|and, uh, I'll call later,if I'm available.|sd
+A|I'm not going to spend the time giving, leaving a message,|sd
+A|and, uh, I'll call later, if I'm available.|sd
 B|Yeah.|b
 A|The other thing that, um, that there is recourse to and that's another thing, is when you, you use your credit card and then they ask for a telephone number.|sd
 B|Uh-huh.|b
@@ -103,7 +103,7 @@ A|Um, but it was,|sd
 B|I don't like how they|sd
 B|the,|%
 B|I, I realize that this is your identification|sd
-B|but I worked with someone that got hold of his,and his social security number.charge cards,|sd
+B|but I worked with someone that got hold of his, charge cards, and his social security number.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Yeah,|b
@@ -112,13 +112,13 @@ A|It was the charge card and social security number.|sd
 B|And, you know, I don't, I don't like, I don't ever get anything over the phone because I don't want to give my social security number out.|sd
 A|Well, you should never give the social security number.|sd
 A|Uh, if sometimes, if you charge,|sd
-A|sometimes I charge theater ticketsover the phone.|sd
+A|sometimes I charge theater tickets over the phone.|sd
 B|Uh-huh.|b
 A|And then, you know, because they pick them up at the box office we'll call.|sd
 A|But, um, that's the only thing I would ever have ever used it for the phone|sd
 A|and that was because I initiated it.|sd
 B|Yes.|b
-A|Uh, and occasionally I do order things from catalogsover the phone.|sd
+A|Uh, and occasionally I do order things from catalogs over the phone.|sd
 B|Uh-huh.|b
 A|But again it's, I initiate it not the company.|sd
 A|The other thing is though you do not have to,|sd
@@ -134,7 +134,7 @@ A|I mean|%
 A|a|%
 A|the credit cards company's responsibility.|sd
 B|Uh-huh.|b
-B|Well, is there any,like pet peeves that you have that don't necessarily invade your privacy?|qy
+B|Well, is there any, like pet peeves that you have that don't necessarily invade your privacy?|qy
 A|So in this ,|%
 A|Um, well, this would, this is limited to the privacy issue, the invasion of privacy.|sd
 B|Oh, okay.|bk
@@ -144,7 +144,7 @@ A|I've got little pet peeves, you know, with my family.|sd
 A|You know. But of course,|%
 A|I guess that just comes with the, uh, with the territory with a family that|sv
 A|does a mother can do some privacy.|%
-B|I really,you know.can't think of any that would invade my privacy|sd
+B|I really, can't think of any that would invade my privacy you know.|sd
 A|But, uh,|%
 A|Uh-huh.|b
 A|Nothing that you felt that, you know,|qy^d
@@ -190,7 +190,7 @@ A|I mean I do want my pilot to be sober|sv
 B|Yeah.|b
 B|Because I know,|%
 B|I worked at a still mill in this summer.|sd
-B|And I know,that, um, I've covered for people that came in drunk, you know, on the late shift or something,|sd
+B|And I know, that, um, I've covered for people that came in drunk, you know, on the late shift or something,|sd
 A|Uh-huh.|b
 A|Yeah,|b
 A|yeah.|b

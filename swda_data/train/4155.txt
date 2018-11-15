@@ -19,11 +19,11 @@ A|Right.|b
 B|And I pay a lot of property taxes.|sd
 A|Oh, sure.|b
 B|I don't have any, um, I don't, you know, I don't use an awful lot of city services.|sd
-B|It, it, you knowjust to make enough money to pay the taxes.it's like I have to work I have to work all the time|sv
+B|It, it, you know it's like I have to work I have to work all the time just to make enough money to pay the taxes.|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Right.|b
-B|And, um, there's so many people who want a, a of the federal moneyor the state money or whatever it is|sd
+B|And, um, there's so many people who want a, a of the federal money or the state money or whatever it is|sd
 A|Uh-huh.|b
 B|and I just,|%
 B|sometimes, many times I end up feeling like I'm paying too much in taxes.|sd
@@ -35,8 +35,8 @@ A|I can't really complain.|sv
 A|I'm a student, um,|sd
 A|and I I work as a co-op at, uh, Georgia Tech Research Institute.|sd
 A|And, uh, I'm going to get back most of what I earned, I mean most of what I pay in taxes|sd
-A|and, uh, and, uh, one of  my parents is still claiming me.|sd
-B| Well, when you it, it changes quickly.when you go out into the, uh, when you go out into the working world|sv
+A|and, uh, and, uh,  one of  my parents is still claiming me.|sd
+B| Well, when you  when you go out into the, uh, when you go out into the working world it, it changes quickly.|sv
 A|Huh?|br
 A|Uh-huh.|b
 A|I'm sure|aa
@@ -48,7 +48,7 @@ B|have you been out working and then gone back to school|qy
 B|or are you, did you go directly from high school into, into college?|qrr
 A|I went,|sd
 A|well I did work, um, just very for some time|sd
-A|but I didn't make enough money to really make, too much of a  difference.|sd
+A|but I didn't make enough money to really make,  too much of a  difference.|sd
 B| To worry about it. |^2
 A|Right.|aa
 B|Have you, have you been active in, in politics trying to, concerning this?|qy
@@ -65,10 +65,10 @@ B|and I guess it went defunct recently.|sd
 A|Uh-huh.|b
 B|And one of the Congressmen has, has written in the last three years about a thousand bad checks.|sd
 A|Huh.|%
-B|And we, we the taxpayers float him a loan for all all those bad checks, no  interest, no repayment schedule.|sd
+B|And we, we the taxpayers float him a loan for all all those bad checks,  no  interest, no repayment schedule.|sd
 A| Oh. |b
 A|Really?|bh
-B|And, um, it's causing quite a stir up here, because  we're so close to D C anyway.|sd
+B|And, um, it's causing quite a stir up here,  because  we're so close to D C anyway.|sd
 A| Uh-huh. |b
 A|Uh-huh.|b
 B|It's really kind of curious to watch this thing occur.|sv
@@ -114,15 +114,15 @@ B|or is it more, um, applied physics?|qrr
 A|Um, I haven't, I haven't gotten too terribly much into my major yet.|sd
 A|Actually, um, the, the degree I'm getting is physics.|sd
 A|There's a different one for applied physics|sd
-A|so I guess you could call it more straight stuffthan applied.|sd
+A|so I guess you could call it more straight stuff than applied.|sd
 B|Okay.|bk
-B|Well maybe, maybe you can figure out how we can stop this inertia that's,come rolling towards, whatever it's rolling toward.|sd
+B|Well maybe, maybe you can figure out how we can stop this inertia that's, come rolling towards, whatever it's rolling toward.|sd
 A|I doubt about that.|sv
 A|Are, are, is America, I mean are we pretty, pretty steep compared to most countries?|qy
 B|Actually, I don't think we are.|ng
 A| No,|aa
 A|I don't think so either. |sd
-B| Um, like, like  Europe,I know the taxes are a lot higher. um,  England.|sd
+B| Um, like, like  Europe,  um,  England. I know the taxes are a lot higher.|sd
 A| Uh-huh. |b
 A|Uh-huh.|b
 A|Uh-huh.|b

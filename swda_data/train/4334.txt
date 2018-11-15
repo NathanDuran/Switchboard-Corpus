@@ -4,7 +4,7 @@ B|I know what's hot down here with me,|sd
 B|so that's about all I can feel apt to discuss with you since I just know,|sd
 B|I don't ever listen to the radio|sd
 B|and that's usually what's hot around here|sd
-B|so,So, what kind of music do you like?|qw
+B|so, So, what kind of music do you like?|qw
 A|Oh, okay.|bk
 A|Uh, mostly folk music.|sd
 B|Folk music.|b^m
@@ -13,15 +13,15 @@ A|I find myself, uh, listening to a lot of, uh, uh, either old timer or New Engl
 B|Uh-huh.|b
 B|Well, we're on totally different wavelengths.|sv
 A|Okay.|b
-B|I'm more, uh, old rock and roll, uh, some new, newer, I guess you would call it heavy metal rock and roll typeyou know, uh, Van Halen, that kind of thing.|sd
+B|I'm more, uh, old rock and roll, uh, some new, newer, I guess you would call it heavy metal rock and roll type you know, uh, Van Halen, that kind of thing.|sd
 A|Uh-huh.|b
 A|Yeah,|b
 A|what about, uh, classic rock type stations.|qw
 B|Uh, I don't listen to the radio at all.|sd
 B|We live in a fairly small town,|sd
-B|souh, classic rock for me is what I have, which is like, uh, Doors, Eagles, Jimmy Hendrix.|sd
+B|so uh, classic rock for me is what I have, which is like, uh, Doors, Eagles, Jimmy Hendrix.|sd
 A|Oh, okay.|bk
-A|So, somesome of the older Eagles stuff was good.|sv
+A|So, some some of the older Eagles stuff was good.|sv
 B|Uh,|b
 B|Yeah.|b
 A|I, I didn't like, uh,|sd
@@ -54,7 +54,7 @@ A|Well, there, there's a Conway Twitty twang,|sd
 A|then there's the, uh, Dolly Parton, uh, Hollywood sound.|sd
 B|Yeah,|aa
 B|yeah,|aa
-B|that's more, even more commercialized for ofcountry music.|sv
+B|that's more, even more commercialized for of country music.|sv
 A|Yeah.|b
 B|But, uh, it's getting, uh, uh, getting pretty big everywhere, as I see it.|sv
 B|Garth Brooks is outselling Guns and Roses|sd
@@ -71,9 +71,9 @@ A|Hey,|ba
 A|I, I, I think most artists are in to make a few bucks.|sv
 B|Yeah,|b
 B|and that's all it,|%
-A|But they're not in it to say anything or give a messagewhich is what they were|sv
+A|But they're not in it to say anything or give a message which is what they were|sv
 B|Yeah.|b
-A|late, late sixties, early seventies, they werethey were definitely pushing a message.|sv
+A|late, late sixties, early seventies, they were they were definitely pushing a message.|sv
 B|That's what it,|%
 B|Yeah,|aa
 B|that's what, what you say,|aa
@@ -93,14 +93,14 @@ B|You hear a, you hear a Paula Abdul song|sd
 B|and you,|%
 B|and I think, if somebody else were to play that, you know, they wouldn't, they, nobody, everybody would think, that's lousy,|sv
 B|but because she did it, it's supposed to be good, you know,|sv
-B|it comes to the point where it's your name, not what you domore than anything.|sv
+B|it comes to the point where it's your name, not what you do more than anything.|sv
 A|Right.|b
 B|Madonna can do anything|sv
 B|and it would be considered good because it's Madonna, you know.|sv
 A|Right.|b
 B|Madonna could start playing folk music|sd
 B|and folk music would be huge just because Madonna does it,|sv
-B|soit's, it's, it's really backwards how things are working now|sv
+B|so it's, it's, it's really backwards how things are working now|sv
 A|Uh-huh|b
 B|but,|%
 A|Yeah,|aa
@@ -109,7 +109,7 @@ B|Yeah,|aa
 B|exactly.|aa
 B|So, I don't know, I, I don't know that that's, I don't think that's a good thing at all,|sv
 B|but that's that's what the, point we've reached,|sv
-B|so I don't know howhow much farther we can digress before we have to turn it around and go the other way, at least.|sd
+B|so I don't know how how much farther we can digress before we have to turn it around and go the other way, at least.|sd
 A|Yeah.|b
 A|Well, I don't know,|h
 A|I know for myself that, uh, for the most part, I don't know which artist is which,|sd
@@ -137,7 +137,7 @@ A|so you keep buying the same artists until you don't like an album, then you st
 B|Uh,|%
 B|yeah,|ny
 B|generally,|sd
-B|or, about the only new music I hear is somebody else that I knowwill buy something new that I haven't heard|sd
+B|or, about the only new music I hear is somebody else that I know will buy something new that I haven't heard|sd
 A|Yeah.|b
 B|and I listen to it that way,|sd
 B|but as far as,|%

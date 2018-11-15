@@ -8,7 +8,7 @@ A|well how old are you?|qw
 B|Twenty-five,|sd
 B|so,|%
 A| Okay|bk
-A|so you you have been to some family reunions, perhaps.|qy^d
+A|so you  you have been to some family reunions, perhaps.|qy^d
 B| I just got married. |sd
 B|Right,|na
 B|every four years on one side of my family they plan on having, uh, like my grandparents and all their brothers and sisters and then all their kids and grandkids.|sd
@@ -40,7 +40,7 @@ B| Uh-huh. |b
 A| and  they don't ever plan it as, like you do.|sd
 B| Uh-huh |b
 A| I think  if you can count on it every four years then people have it in mind|sv
-A|so they have to start talking about it, or getting their act together about six months ahead to get in touch with everybody, because  they're rather socially active too.|sd
+A|so they have to start talking about it, or getting their act together about six months ahead to get in touch with everybody,  because  they're rather socially active too.|sd
 B| Uh-huh. |b
 B| Yeah. |b
 A| And  so it has, it seems by doing it about six months ahead, they can pretty much get everybody there.|sd
@@ -57,7 +57,7 @@ A|I haven't known many of those people,|sd
 A|but, uh, in the last few years it really has just been our immediate family|sd
 A|and that's been very nice,|sd
 A|with, uh,|%
-A|I have one sister, and  three brothers|sd
+A|I have one sister,  and  three brothers|sd
 B| Uh-huh. |b
 A|and they're only three out of five of us who have children.|sd
 B|Oh.|b

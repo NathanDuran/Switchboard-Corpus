@@ -13,7 +13,7 @@ A|it's big.|sd
 B|Oh really,|b
 B|what kind of square footage?|qw
 A|Oh, I wouldn't know,|h
-A|I measured it one time, because  I was, uh, we had saw some termites|sd
+A|I measured it one time,  because  I was, uh, we had saw some termites|sd
 B| Uh. |%
 A|and we thought about getting it sprayed.|sd
 A|I think it was like,|sd
@@ -54,7 +54,7 @@ B|Right,|aa
 B|right|aa
 B|Also I lived in Georgia for about four years,|sd
 B|so the, uh,|%
-B|there's a difference too, between east and west, in the south. And,  uh, the way in which people speak.|sd
+B|there's a difference too, between east and west, in the south.  And,  uh, the way in which people speak.|sd
 A| Uh-huh. |b
 B|Anyway, my home is, um, I guess it's about twenty-five hundred square foot|sd
 B|and I have, uh, four bedrooms at the present.|sd
@@ -116,7 +116,7 @@ B|I do,|sd
 B|the house is about, um, I'd say almost thirty years old.|sd
 A| Uh-huh. |b
 B| So  it's not a new home,|sd
-B|it's, it's seen some wear and tear.You know.|sd
+B|it's, it's seen some wear and tear. You know.|sd
 A|Ours has too.|sd
 A|When we moved in the man that sold it to us had said that he remodeled it,|sd
 B| Uh-huh. |b
@@ -128,7 +128,7 @@ A|but like this tile's come loose off the wall,|sd
 A|the whole bathroom is covered from ceiling to foot in tile|sd
 A|and I don't like that at all.|sd
 B|Um, that is awful.|ba
-A|With that, uh, the great big tiles, square tiles like, that you put on the floor, the, the huge one.|sd
+A|With that, uh, the great big tiles, square tiles like, that you put on the floor,  the, the huge one.|sd
 B| Uh-huh,|b
 B|he did it in that? |qy
 A|Yeah,|ny
@@ -164,7 +164,7 @@ B|but our plumbing is awful.|sd
 B|There is there is a shut off valve that's outside that doesn't work,|sd
 A| Um. |b
 B| and  there's no other real shut off valves inside the house,|sd
-B|so if something breaks, we have to shut it off from the main, in the street, you  know,|sd
+B|so if something breaks, we have to shut it off from the main, in the street,  you  know,|sd
 A| Yeah. |b
 B|and, oh, it's, it can be really bizarre.|sd
 A|Yeah.|b
@@ -187,7 +187,7 @@ B|Um.|b
 A|But on the east side of the house it runs fine.|sd
 B|Oh boy, you do have a strange wiring problem there.|ba
 A|He put new wiring in,|sd
-A|it's all new wiring up in the attic, or  I guess crawl space,|sd
+A|it's all new wiring up in the attic,  or  I guess crawl space,|sd
 B| Uh-huh. |b
 B|Uh-huh.|b
 A|but, uh, oh, no,|fo_o_fw_"_by_bc
@@ -215,7 +215,7 @@ B|he says, looks like a bunch of spaghetti up there.|sd
 B|And we had squirrels in our attic when we first moved in because the roof was so sorry,|sd
 A|Uh, was a what,|%
 B|The roof was really sorry.|sd
-B|I mean when we moved in, we  had no idea how bad it was.|sd
+B|I mean when we moved in,  we  had no idea how bad it was.|sd
 A| Uh-huh. |b
 B|It was a wood shingle roof,|sd
 B|and we,|%
@@ -245,7 +245,7 @@ B|And a house full of snow, and rain,|sd
 A| Uh-huh. |b
 B| and  it came down,|sd
 B|it did this in the middle of the night.|sd
-B|We have plastic, you know, just tied down on everything, you know, as best we could, real  thick edge stuff, I mean,|sd
+B|We have plastic, you know, just tied down on everything, you know, as best we could,  real  thick edge stuff, I mean,|sd
 A| Uh-huh. |b
 B|and the wind came in from the north|sd
 B|and it just blew everything off in the middle of the night|sd
@@ -309,9 +309,9 @@ B|and they had it,|sd
 B|one room they completely cut up the floor in and removed it.|sd
 B|We had to call the insurance company.|sd
 B|I mean the insurance company was paying for the new roof|sd
-B|but they also ended up having to pay for the damage when the roof was being repaired.You know, which really wasn't our fault.|sd
+B|but they also ended up having to pay for the damage when the roof was being repaired. You know, which really wasn't our fault.|sd
 A|Uh-huh.|b
-B| I mean  we'd done everything we could to keep out the weather.You know, and stuff|sd
+B| I mean  we'd done everything we could to keep out the weather. You know, and stuff|sd
 A|That's right.|ba
 A|That's right.|ba
 B|and,|%

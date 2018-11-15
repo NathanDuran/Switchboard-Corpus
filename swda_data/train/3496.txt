@@ -62,8 +62,8 @@ B|Did you go there?|qy
 A|Uh-huh.|ny
 B|That was wonderful|sv
 A|Yeah.|b
-B|and we both enjoyed itvery much.|sd
-A|That wasThat was nice,|sv
+B|and we both enjoyed it very much.|sd
+A|That was That was nice,|sv
 A|uh-huh.|b
 A|You know, I've been to Nassau, too.|sd
 B|Have you?|bh
@@ -82,7 +82,7 @@ A|Well, I, got sick.|sd
 B|Oh, did you?|bh
 A|Yeah,|ny
 A|I did the first night.|sd
-A|I wentjust, uh, a couple years agowith my sister|sd
+A|I went with my sister just, uh, a couple years ago|sd
 B|Ooh.|b
 B|Uh-huh.|b
 A|and, and we both, the first night, just had to leave dinner.|sd
@@ -103,12 +103,12 @@ B|Yeah.|ny
 B|We went, the first time we went to London, Europe and touched a little bit of Scotland|sd
 B|And second time we went to Munich, Germany and were there a week, and loved Germany.|sd
 A|Oh.|b
-B|Itwith the mountainsis just absolutely gorgeous|sv
+B|It is just absolutely gorgeous with the mountains|sv
 A|Wow.|ba
 A|I'll bet it is.|b
 B|and we were there in the fall before the snows, you know, started|sd
 B|and it was wonderful.|sd
-B|It, uhit was just, it was marvelous.|sd
+B|It, uh it was just, it was marvelous.|sd
 A|Oh.|b
 B|And we would love to go back there|sd
 B|and we'd love to go back to London.|sd
@@ -138,7 +138,7 @@ A|Huh.|b
 B|And, uh, I would like to go to Ireland.|sd
 A|Would you?|bh
 B|Uh-huh.|ny
-A|Now, now I don't know if I'd like to go there just fromthe problems.the|sd
+A|Now, now I don't know if I'd like to go there just from the the problems.|sd
 B|Well, the|%
 B|there is|%
 B|uh-huh,|b
@@ -178,7 +178,7 @@ A|we,|%
 B|Now that's a pretty city.|sv
 A|Yes,|aa
 A|we, we like it.|sd
-B|Very clean.You know.|sd
+B|Very clean. You know.|sd
 A|Yeah.|b
 A|It is.|sd
 B|Utah is a pretty state from what I remember of it.|sd
@@ -205,7 +205,7 @@ A|Uh-huh.|b
 B|and, uh, it's hot down here|sd
 B|and camping is not near as much fun.|sd
 A|Oh.|b
-B|And, uh, so, and then the kids were getting older and, and were involved in activities so the camping sort of went by the wayside.And, uh, although our son loves to fish|sd
+B|And, uh, so, and then the kids were getting older and, and were involved in activities so the camping sort of went by the wayside. And, uh, although our son loves to fish|sd
 A|Huh.|b
 B|and, uh, and our daughter and her husband are talking now about starting camping with their boys now that they have gotten older.|sd
 A|Uh-huh.|b

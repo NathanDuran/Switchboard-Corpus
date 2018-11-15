@@ -19,7 +19,7 @@ B|So, you think their quality control's going down over there, kind of ?|qy
 A|Well, you,|%
 A|it's, it's kind of funny, um,|^h
 A|I know a lot,|sv
-B|Well, I, I, I think we're going to see that I think, uh, that the quality that the Japan carmakers had is slipping a little bit,put together,while American carmakers are trying to get their,|sv
+B|Well, I, I, I think we're going to see that I think, uh, that the quality that the Japan carmakers had is slipping a little bit, while American carmakers are trying to get their, put together,|sv
 A|Oh.|b
 A|Yeah.|b
 B|so.|%
@@ -85,7 +85,7 @@ A|and I have kids,|sd
 A|so.|%
 B|I'm not sure I'm real familiar with the body style on that.|qw^d
 A|They're a lot,|%
-A|I don't like the new style, like of the Toyota van,and the, the new Chevy Lumina van,|sd
+A|I don't like the new style, like of the Toyota van, and the, the new Chevy Lumina van,|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|I don't like those styles, um, the M P V is more of, uh, uh, just, uh, I don't know what you, normal,|sd
@@ -96,7 +96,7 @@ A|I mean it looks, I guess, kind of like, uh, the Chevy Aerostar or Arrow,|sd
 B|Yeah.|b
 A|no,|ar
 A|what|%
-A|Astro, Astro, I guess,is what it, something like that,|sd
+A|Astro, Astro, I guess, is what it, something like that,|sd
 B|Oh, okay,|bk
 B|yeah .|%
 A|but I used to really like the looks of the M P V because it looks more like a mini van rather than I think,|sd
@@ -108,7 +108,7 @@ B|well, that's probably influenced maybe a little bit .|sv
 A|Oh, yeah,|aa
 A|definitely.|aa
 A|But, I know that it's got to have a radio, it's got to have air conditioning,|sd
-A|I'm sure you can, uh, relate to air conditioningUm, living in Arizona,|qy^d
+A|I'm sure you can, uh, relate to air conditioning Um, living in Arizona,|qy^d
 B|Oh, yeah.|ny
 A|but, and cruise control and tinted windows, that's about it,|sd
 A|I mean, it's got to have those things, otherwise, I don't care.|sd
@@ -121,14 +121,14 @@ B|The only gripe I have is performance.|sd
 B|I probably, uh,|%
 B|a few girls that I've gone out with, I've had, uh, like Mazda R X sevens and stuff|sd
 B|and they're, they're pretty fun to drive,|sd
-B|so,I keep, I keep holding offso, I think that's what, uh, I, I'm going to have to get next time around,|sd
+B|so, so, I think that's what, uh, I, I'm going to have to get next time around, I keep, I keep holding off|sd
 A|Yeah.|b
 A|Oh, really?|bh
 B|and then I could, I could upgrade now if I wanted to|sd
 B|but I just, I,|%
 B|it's just such a huge expense|sv
 B|and, and, uh, I, I'm just going to keep holding off|sd
-B|but I'm definitely going to look for something, uh, in the, you know, nice,you know,|sd
+B|but I'm definitely going to look for something, uh, in the, you know, nice, you know,|sd
 A|Sports car|^2
 A|I'd like to have a sports car too,|sd
 A|but it's not practical for me,|sd
@@ -149,17 +149,17 @@ B|Wonder what happened.|qw
 A|I don't know,|no
 A|it sounds funny though, doesn't it?|qy
 B|Huh,|b
-B|anyway,um, but I'll probably, um,|%
+B|anyway, um, but I'll probably, um,|%
 A|Huh.|b
 B|it just depends,|sd
 B|I know that's what I want,|sd
 B|but I don't know if I'll get myself to spend that kind of money,|sd
 B|you're looking at, you know, for a new R X seven or, a Supra or something,|sv
-B|you're looking at twenty-five K or something,that like|sv
+B|you're looking at twenty-five K or something, that like|sv
 A|Oh, at least,|aa
 A|yeah,|aa
-B|and so,Anyway my ultimate car though, the, the one that I really want is, uh, five sixty or so, Mercedes,anyway but,|sd
-A|I know,well, new cars aren't cheap anyway,|sv
+B|and so, anyway but, Anyway my ultimate car though, the, the one that I really want is, uh, five sixty or so, Mercedes,|sd
+A|I know, well, new cars aren't cheap anyway,|sv
 A|but,|%
 B|so,|%
 A|Huh.|b
@@ -174,7 +174,7 @@ A|Yeah.|ny
 A|This is strange.|sv
 B|Hello.|qy
 A|Hello,|qy
-A|I think,something's wrong with this.|sv
+A|I think, something's wrong with this.|sv
 B|Okay.|b
 A|I hope it's recording|sd
 B|I hope it's not my ,|sd
@@ -220,11 +220,11 @@ B|hello,|qy
 A|Yeah.|ny
 B|okay,|bk
 B|yeah,|%
-B|I got off my pace or my cordless phone,anyway, uh, hope it's not going bad,|sd
+B|I got off my pace or my cordless phone, anyway, uh, hope it's not going bad,|sd
 A|Oh.|b
 B|it's going to bump me out.|sd
 B|Um, but he, I think he, he only spent, you know, the low twentys|sd
-B|so,I don't know.|h
+B|so, I don't know.|h
 A|Really?|bh
 A|Now, see, I would have never figured that, I would have figured that to be a lot more than that for something that's limited edition.|sv
 B|Well, I don't know,|h
@@ -235,12 +235,12 @@ B|and the, the Miata was first introduced, uh,|sd
 A|And, well , they weren't really that bad though when they were introduced were they?|qy
 B|yeah,|ny
 B|the demand is so, high that, uh, you know, they were going to retail them around like you know, thirteen standard, you know,|sd
-B|and you get your options,fifteenyour looking at fifteen or|sd
+B|and you get your options, your looking at fifteen or fifteen|sd
 A|Yeah.|aa
 A|That's true.|aa
 B|but there were, you know, people were buying them for nineteen and twenty,|sd
 A|Uh-huh.|b
-B|and, um,they, they may have gone down a little bit|sd
+B|and, um, they, they may have gone down a little bit|sd
 A|Huh.|%
 B|but I,|%
 B|they're still pretty much in demand.|sd
@@ -254,22 +254,22 @@ B|so.|%
 A|Yeah,|aa
 A|it really is.|aa
 B|But,|%
-A|Have you seen the new, uh, Dodge Stealth? real nice one The, the,|qy
+A|Have you seen the new, uh, Dodge Stealth? The, the,  real nice one |qy
 B|Oh, yeah.|ny
 B|yeah, |ny
-B|and the Mitsubishi, is the same, same.three thousand G T ,|sv
+B|and the Mitsubishi,  three thousand G T , is the same, same.|sv
 A|Yeah.|b
 A|Yeah,|aa
 A|the Mitsubishi is real nice looking too,|sv
 B|Yeah,|aa
-B|well, that's, that's,that's the same manufacturer|sd
+B|well, that's, that's, that's the same manufacturer|sd
 A|now those are nice|sv
-B|andso , they just market them.|sd
+B|and so , they just market them.|sd
 A|Right.|b
 A|Right.|b
 B|But, uh, yeah,|b
-B|those are and those are supposed to be very performance power, I mean, they're,there is, yeah, big time.|sd
-A|The expensive ones,they have a cheaper model too that you can get for about seventeen thousand,|sd
+B|those are and those are supposed to be very performance power, I mean, they're, there is, yeah, big time.|sd
+A|The expensive ones, they have a cheaper model too that you can get for about seventeen thousand,|sd
 A|but those are pretty stripped,|sd
 A|and there's nothing,|sd
 A|there's really,|%
@@ -290,7 +290,7 @@ A|like I said it's, it's still not practical for me|sd
 A|I have a hard time looking at cars like that because I think, now, there's no way I can do that|sd
 B|Yeah,|b
 B|I'm being single|sd
-B|and no other responsibilities for yourself, I guess, you know, it's, I can,I can, I've been pretty happy,|sd
+B|and no other responsibilities for yourself, I guess, you know, it's, I can, I can, I've been pretty happy,|sd
 A|Right.|b
 B|I've, I've, haven't tried to upgrade myself right now,|sd
 B|that's, uh, you know, I could, I could have, you know, get something nice and upgrade|sd

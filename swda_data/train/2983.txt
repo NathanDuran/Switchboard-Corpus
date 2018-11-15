@@ -9,7 +9,7 @@ A|he's, uh, I guess he'd be a fanatic if he thought he could get away with it|sd
 A|But he, he limits it pretty good.|sd
 A|I, um, have tried to go out and play golf.|sd
 A|He would love it if I would go out and play with him,|sd
-A|butI stand there and swing and swing,|sd
+A|but I stand there and swing and swing,|sd
 B|Uh-huh.|b
 A|and I can't even hit the ball|sd
 B|I can't even play miniature golf well.|sd
@@ -32,11 +32,11 @@ A|Yeah.|b
 B|But golf was one that I developed a working knowledge of a lot of the golfers,|sd
 B|and therefore I enjoyed following those particular players.|sd
 A|Right,|b
-A|more because of their personalitiesthan their sportsman|qy^d
+A|more because of their personalities than their sportsman|qy^d
 B|Uh-huh.|b
 B|Well part of it was the personality and their sportsmanship.|arp_nd
 B|Another part of it was I'd pick one out that was different than what my husband was rooting for|sd
-B|soyou know, the competitor,|sd
+B|so you know, the competitor,|sd
 B|and I became involved in following his career.|sd
 A|Right|b
 B|And, uh, I know that, that my husband,|sd
@@ -54,7 +54,7 @@ B|We both followed Lee Trevino into the Seniors.|sd
 A|Oh, he's interesting.|sv
 B|He is.|aa
 A|I like to watch him.|sd
-B|He is a characternot just a golfer,|sv
+B|He is a character not just a golfer,|sv
 A|Yeah.|b
 B|but he's quite a character.|sv
 A|Yeah.|b
@@ -62,12 +62,12 @@ B|And there are some really, really wonderful people in the game of golf who do 
 A|Yeah,|aa
 A|yeah,|aa
 A|I think you're right.|aa
-B|And I think it's critical, it's critical to have a good role modelin any field, any sports.|sv
+B|And I think it's critical, it's critical to have a good role model in any field, any sports.|sv
 A|Yeah.|b
 A|I like to watch those skins games.|sd
 B|Uh-huh.|b
 A|Do you ever watch those where they just play for a certain you know,|qy
-A|for each hole they win they get the moneyfor it.|sd
+A|for each hole they win they get the money for it.|sd
 B|Uh-huh.|ny
 A|I think those are pretty exciting.|sv
 B|Well, I myself, really have not seen a whole lot of point to the game of golf.|sd
@@ -80,7 +80,7 @@ A|yeah.|aa
 B|And I know the whole point is to get it in that little bitty hole,|sv
 B|but seems to me like if they made the hole bigger it'd be easier.|sv
 A|Oh really|b
-A|I sometimes wonder why men like it so much because they get so frustratedwhen they don't do well.and mad at themselves|sd
+A|I sometimes wonder why men like it so much because they get so frustrated and mad at themselves when they don't do well.|sd
 B|Oh, I know.|aa
 B|Oh, yeah.|b
 A|My husband and his buddies are not very good.|sd
@@ -103,9 +103,9 @@ A|Right.|b
 B|But it is a good healthy, wholesome lifestyle, uh,|sv
 B|anything can be warped.|sv
 A|Yeah.|b
-B|But I think that that is one of the sports that's a good healthy way to, to move into maturitysafely.|sv
+B|But I think that that is one of the sports that's a good healthy way to, to move into maturity safely.|sv
 A|Uh-huh.|b
-A|Something to stay active atfor a long time.|sv
+A|Something to stay active at for a long time.|sv
 B|Uh-huh,|aa
 B|uh-huh.|aa
 B|That's right,|aa
@@ -120,7 +120,7 @@ B|that's absolutely right.|aa
 B|And it's something that,|%
 A|Well, maybe that's what I'll do when I have time later on,|sd
 B|Yeah,|b
-B|when you're too old to do anything elsego play golf,|sv
+B|when you're too old to do anything else go play golf,|sv
 A|Yeah|b
 B|yeah|%
 B|But it's, it's also something that husband and wife can participate in|sv
@@ -138,12 +138,12 @@ A|Or my favorite,|sd
 A|just ride around in the cart with him|sv
 B|You bet,|ba
 B|you get a lot of exercise that way.|sv
-A|Go somewhere really nice, like Hawaii, and justlook at the golf course.|sv
+A|Go somewhere really nice, like Hawaii, and just look at the golf course.|sv
 B|Uh-huh,|aa
-B|well, I'll tell you what, ifif they're not real good golfers, sometimes it is not fun to ride around and listen to their exclamations all day long.|sv
+B|well, I'll tell you what, if if they're not real good golfers, sometimes it is not fun to ride around and listen to their exclamations all day long.|sv
 A|Oh, yeah.|aa
 A|But my husband's pretty tolerant,|sd
-A|so he's not too badto watch.|sd
+A|so he's not too bad to watch.|sd
 B|Uh-huh.|b
 B|Oh, mine had a very short fuse.|sd
 B|If he did something bad, he's liable to take that club and throw it as far as he can throw it.|sd
@@ -154,7 +154,7 @@ B|I mean, just get so mad, he'd just wham that club up against a tree and break 
 A|Gosh.|ba
 A|Now my husband has a temper,|sd
 A|but he doesn't seem to show it on the golf course.|sd
-A|He's, because he'll talk about the other guys he plays with doing thatand how immature he thought it was and stuff.|sd
+A|He's, because he'll talk about the other guys he plays with doing that and how immature he thought it was and stuff.|sd
 B|Uh-huh.|b
 B|Uh-huh,|b
 B|uh-huh.|b
@@ -169,7 +169,7 @@ A|Yeah,|aa
 A|this one, on this one hole|^q
 A|Did you have to listen to long stories about, now on the seventeenth hole I hit it and went this way|qy
 B|Uh-huh.|ny
-A|those are, it's hard for me to,act nice about that when it goes on and on,|sd
+A|those are, it's hard for me to, act nice about that when it goes on and on,|sd
 B|Well, one thing that is a, is a drawback about it, I think, is the cost.|sv
 A|Yes.|aa
 B|Membership in the clubs is expensive,|sv
@@ -185,7 +185,7 @@ B|That's right,|aa
 B|that's right.|aa
 A|It really is high.|sv
 B|It can get very expensive,|aa
-B|and I can imagine what kind of costs are involved if you're going to try to go pro, because you spend hours and hours and hourspracticing.|sd
+B|and I can imagine what kind of costs are involved if you're going to try to go pro, because you spend hours and hours and hours practicing.|sd
 A|Oh, yeah.|b
 A|Yeah.|b
 B|And they don't give those sessions away.|sd
@@ -197,7 +197,7 @@ B|I'll have to try it and see.|^q
 B|I've always watched it.|^q
 A|Uh-huh.|b
 B|And he said, well, fine,|sd
-B|he said, we'll just take you over to the course, he lives near Brookhavenwe'll just take you over to the course and get you some lessons and let you see if you like it.|sd
+B|he said, we'll just take you over to the course, he lives near Brookhaven we'll just take you over to the course and get you some lessons and let you see if you like it.|sd
 A|Uh-huh|b
 B|If you do, then we can go golf together.|^q
 A|Uh-huh.|b
@@ -211,18 +211,18 @@ A|Uh-huh.|b
 B|And you really begin to develop an interest in it.|sv
 B|But I am not an athlete at all.|sd
 A|Me either.|sd
-B|You know, I'm always the one that got hit by the bat in baseball,and, hung my fingernails in the net in volleyball.|sd
+B|You know, I'm always the one that got hit by the bat in baseball, and, hung my fingernails in the net in volleyball.|sd
 B|So I am not an athlete.|sd
 B|Maybe golf is a forgiving sport.|sd
 B|I don't know.|h
 A|Yeah|b
-A|at least you're justyou're competing against yourself, I guess, more than everybody else out there.|sv
+A|at least you're just you're competing against yourself, I guess, more than everybody else out there.|sv
 B|It doesn't appear to be|sv
 B|Uh-huh.|aa
 B|I really, I, I haven't really acquired an interest in it,|sd
-B|but I'm open to try anything,you know.|sd
+B|but I'm open to try anything, you know.|sd
 A|Yeah|b
-A|that's,kind of the way I feel.|sd
+A|that's, kind of the way I feel.|sd
 B|The one thing that is also detrimental as far I'm concerned, my skin is very fair|sd
 A|Oh.|b
 B|so I'm going to have to golf in the evening|sd

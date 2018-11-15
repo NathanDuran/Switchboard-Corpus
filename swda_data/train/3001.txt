@@ -34,7 +34,7 @@ B| Yeah,|b
 B|they're hospitals that they're, uh,  agreeing with, uh, T I that they'll be a certain rate, you know, for rooms and care and all that kind of stuff to keep you know, costs down.|sd
 A|Uh-huh.|b
 B|Now they're going to start to do the same kind of thing with doctors.|sd
-B|So it's almost like a, um, uh, an H M Oyou know, kind of thing that, uh, only certain doctors are you going to be allowed to go to and get the full coverage.|sd
+B|So it's almost like a, um, uh, an H M O you know, kind of thing that, uh, only certain doctors are you going to be allowed to go to and get the full coverage.|sd
 A|Yeah.|b
 B|If you go to a doctor who isn't in the network then it will be less benefits that you get.|sd
 A|Uh-huh.|b
@@ -78,10 +78,10 @@ B|Doesn't quite feel as good.|sv
 A|Yeah.|b
 B|And we you know, vacation normally after you're here for six months|sd
 B|and you start to get like five days every six months is kind of how they accrue it to you.|sd
-B|And it's, one nice thing about T I is after you've been here, uh, for five years, you  get three weeks.|sd
+B|And it's, one nice thing about T I is after you've been here, uh, for five years,  you  get three weeks.|sd
 A| Uh-huh. |b
 A|Oh, that's nice.|ba
-B|Which, a lot of places make you work like ten years or so, before  you get that much.|sv
+B|Which, a lot of places make you work like ten years or so,  before  you get that much.|sv
 A| Yeah. |b
 A|Uh-huh.|b
 B|And we get some, we get, uh, decent holidays.|sd
@@ -103,7 +103,7 @@ A|So the, the dental was very important, you know, to my dad.|sd
 B|Uh-huh.|b
 A|But, um, I think they took the dental away now.|sd
 A|He worked for United Telephone System,|sd
-A|it's, you know, it's  just another, you know telephone network.|sd
+A|it's, you know,  it's  just another, you know telephone network.|sd
 B| Um. |b
 B| Uh-huh. |b
 A| And  they took the dental away,|sd
@@ -119,7 +119,7 @@ B|and I'm not quite sure, there's certain places you can go to that have, uh, di
 A|Uh-huh.|b
 B|So you can get glasses and contacts and stuff through those particular stores or something like that.|sd
 A|Yeah,|b
-A|and now for his pension he pretty much just has the stock. for  everything he puts in they'll match it, up to a certain amount. he's on  that same kind of pension as what you said only,|sd
+A|and now for his pension he pretty much just has the stock.  he's on  that same kind of pension as what you said only,  for  everything he puts in they'll match it, up to a certain amount.|sd
 B|Yeah|b
 A|Like if he puts in a dollar they'll put in a dollar, you know.|sd
 B| Yeah. |b
@@ -145,7 +145,7 @@ A|and he has all, all the holidays off.|sd
 B|Right,|b
 B|and you get some extra ones.|sd
 B|Federal workers always seem to get,|sd
-B|you know, you get Columbus Day, and Veterans Day, and those ones  that you couldn't really care about so much but you get the day off anyhow.|sd
+B|you know, you get Columbus Day, and Veterans Day,  and those ones  that you couldn't really care about so much but you get the day off anyhow.|sd
 A| Right,|b
 A|right |b
 A|Yeah,|b
@@ -166,7 +166,7 @@ A|You know, it,|%
 B|Yeah,|b
 B|we're doing an H M O right now, um,|sd
 B|and when we go to get prescriptions it's five dollars,|sd
-B|but, you know, sometime,  sometimes when you go, you know, the prescription,|sd
+B|but,  you know, sometime,  sometimes when you go, you know, the prescription,|sd
 A| That's not bad either. |ba
 B|like my husband always takes which is kind of like, you know, Contact stuff, only better.|sd
 B|Um, you|%

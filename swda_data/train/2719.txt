@@ -7,7 +7,7 @@ A|Is mowing the lawn a new exercise|qy
 B|Yeah,|ny
 B|lawn,|b^m
 B|it's a forty year old house,|sd
-B|so,we are doing a lot of refurbish work,|sd
+B|so, we are doing a lot of refurbish work,|sd
 A|Oh, my.|ba
 B|and yeah,|%
 B|painting, lawn, gutters.|sd
@@ -193,7 +193,7 @@ B|Okay.|b
 A|And the guy that built it was weird,|sd
 A|I mean weird|sd
 B|Yeah.|b
-A|It's one of these really creative houses,that I grew up in that nothing was on the same level with anything else.|sd
+A|It's one of these really creative houses, that I grew up in that nothing was on the same level with anything else.|sd
 B|Okay.|b
 B|Oh, wow.|ba
 A|And I just loved the neighborhood.|sd
@@ -245,10 +245,10 @@ B|Uh-huh.|b
 A|We all know each other,|sd
 A|and the street doesn't go anywhere.|sd
 B|Right.|b
-A|If you are on the street, you better belong there.Because it's not a through street.|sv
+A|If you are on the street, you better belong there. Because it's not a through street.|sv
 B|That's right.|aa
 B|That's right.|aa
-A|And, still, I want to get up early in the morning and walk.Before this knee business.|sd
+A|And, still, I want to get up early in the morning and walk. Before this knee business.|sd
 B|Uh-huh.|b
 A|And my husband had a lot of heartburn with that.|sd
 B|Yeah.|b

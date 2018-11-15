@@ -8,7 +8,7 @@ B|it wasn't forty-eight,|ar
 B|it was, it was, uh, let's see, yeah, it was forty-eight.|sd
 B|I was in the Air Force.|sd
 A|Uh-huh.|b
-B|We did an air show out at, uh, out at, uh, Boone Greene, no out at, uhAndrews,|sd
+B|We did an air show out at, uh, out at, uh, Boone Greene, no out at, uh Andrews,|sd
 A|Andrews?|qy
 B|yeah.|ny
 B|So what's it been like up there?|qw
@@ -20,7 +20,7 @@ B|Uh, like September was hot and dry,|sd
 B|October.|%
 A|Um, September really was,|aa
 A|I'm not sure about October.|sd
-A|I think for about twelve months through September the, the average temperature has been higher than normalUm, lots of ninety degree days during the summer.each month.|sd
+A|I think for about twelve months through September the, the average temperature has been higher than normal each month. Um, lots of ninety degree days during the summer.|sd
 B|Really?|bh
 B|Huh.|b
 B|It really has been strange here this year,|sd
@@ -28,14 +28,14 @@ B|I mean, this whole course this whole year has been a different year in more wa
 A|Uh-huh.|b
 B|But, uh, we had, uh, you know, all these, we have all these, uh,|sd
 B|somebody said, you know, you're either a stranger or a fool to try to predict Texas weather,|sd
-B|but.Well, always, they were saying it was going to be the hottest summer ever,|sd
+B|but. Well, always, they were saying it was going to be the hottest summer ever,|sd
 A|Uh-huh.|b
 B|and we had all this rain,|sd
 B|and it really is not a bad summer at all, really cool.|sd
 B|But all of a sudden, in, in, uh, in October, uh, September, October it got real hot and dry and just stayed that way for a long time.|sd
 B|And, uh, then the end of October it started rain almost a week without stopping, just pouring down, you know.|sd
 B|There were flash floods everywhere, that kind of deal,|sd
-B|and thenuh, into of November, the first, like the second week, uh, you know, the first week actually, we had, we had a freeze,|sd
+B|and then uh, into of November, the first, like the second week, uh, you know, the first week actually, we had, we had a freeze,|sd
 A|Uh-huh.|b
 B|and the average, you know, the average, uh, first frost is like the fifteenth of November here|sd
 A|Oh, if you had it early.|qy^d
@@ -62,7 +62,7 @@ B|you know, the poor trees, said what|sv
 A|Yes,|b
 A|yeah,|b
 A|we had summer lasting long|sd
-A|and then it, then it, then it became winter like, uhtoday it's, today it's sort of change to warmer to sort of more typical autumn day.|sd
+A|and then it, then it, then it became winter like, uh today it's, today it's sort of change to warmer to sort of more typical autumn day.|sd
 B|Yeah,|b
 B|uh, it's,|%
 B|Yeah,|b
@@ -70,7 +70,7 @@ B|there, you, you know,|%
 B|usually there's, uh,|%
 B|I have a farm a hundred miles east of here in East Texas,|sd
 B|and you know, all these huge trees just like the eastern hard wood belt all the way up to Maine, you know,|sd
-B|it's that same trees, pines and, and hard woods, you knowhickories and oaks and stuff,|sd
+B|it's that same trees, pines and, and hard woods, you know hickories and oaks and stuff,|sd
 A|Yeah.|b
 B|and, uh, I was up there last weekend,|sd
 B|and there are trees that, that still have their leaves on,|sd
@@ -103,7 +103,7 @@ B|and you could, you know, you could be driving along in East Texas and looks ju
 B|It's almost, you know, identical kind of country.|sv
 A|Uh-huh.|b
 B|Beautiful.|ba
-A|Been that this yearfor the leaves.for the trees|sd
+A|Been that this year for the trees for the leaves.|sd
 B|Yeah.|b
 B|Oh.|b
 B|Yeah,|b

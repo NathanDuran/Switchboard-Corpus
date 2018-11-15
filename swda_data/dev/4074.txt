@@ -17,7 +17,7 @@ B|he's, uh, a one owner.|sd
 B|He likes one boy in the family and that's about it|sd
 A|That's odd.|ba
 A|How does he treat the other people?|qw
-B|Just, uh, stays away or runsusually.|sd
+B|Just, uh, stays away or runs usually.|sd
 A|Wow.|ba
 B|But he follows, he'll follow my oldest son around.|sd
 B|You know when he is in the house, he will come up and he'll jump on his lap,|sd
@@ -27,7 +27,7 @@ B|He's, he, we bought the cat for him|sd
 B|and so he's, uh, been the one that you know spent the most time with him.|sd
 B|But I, I've never owned a cat like that.|sd
 B|I've had cats growing up all the time|sd
-B|and you know they areusually either that way with everybody or friendly to everybody|sd
+B|and you know they are usually either that way with everybody or friendly to everybody|sd
 A|Uh-huh.|b
 A|Huh, that's  interesting. |ba
 B| So,  it's a weird cat|sd
@@ -39,13 +39,13 @@ A|Uh, some lady, she, uh,|sd
 A|a lot of people, uh, uh, drop off abandoned, abandoned pets at her house|sd
 B|Oh.|b
 A|and she use to work for a veterinarian|sd
-A|so she would uh, neuter themgive them all their shots|sd
+A|so she would uh, neuter them give them all their shots|sd
 B|Uh-huh.|b
 A|and we saw an ad saying it was free,|sd
 A|so we went down there and picked it up|sd
 A|and it's been an excellent dog,|sd
 A|but it's my first dog I've had|sd
-A|and we got it because my wife stays here at home  alone while I go to work|sd
+A|and we got it because my wife stays here at home  alone  while I go to work|sd
 B| Uh-huh. |b
 A|so that's mostly why we got it. To keep her company while I am away at work.|sd
 B|So that, is that, is that kind of your child right now?|qy^d
@@ -54,7 +54,7 @@ A|Right now  it, it is. |sd
 B| You feel like. |bf
 A|It's kind of good training.|sd
 A|I mean we have been trying for kids,|sd
-A|butright now we haven't had any,|sd
+A|but right now we haven't had any,|sd
 B|Oh, uh-huh.|b
 A|but it's pretty good training, I think really, keeps her on her toes|sd
 B|Have, have you had dogs before?|qy
@@ -69,7 +69,7 @@ A|But,|%
 B|Well, I just, uh, we've, you know|%
 B|when I was growing up I had, we always had a dog|sd
 B|and we had mostly mutts,|sd
-B|well not mutts, but mixesyou know like one or two mix|sd
+B|well not mutts, but mixes you know like one or two mix|sd
 A|Uh-huh.|b
 B|and those dogs always seem to be the best dogs.|sv
 A|That's what we found.|sd
@@ -87,7 +87,7 @@ B|No.|nn
 B|No,|nn
 B|it's just uh an accident|sd
 B|From a uh, from my, my son's friend down the street.|sd
-B|They'retheir cat was an outside cat and just end up with some kittens|sd
+B|They're their cat was an outside cat and just end up with some kittens|sd
 A|Uh-huh.|b
 B|and so,|%
 A|Would you ever want a dog in the family?|qy
@@ -95,7 +95,7 @@ B|Uh, we, I would.|na
 B|We, uh, we had a dog that was a, uh, mix between an Alaska Malamute and a Labrador|sd
 A|Uh-huh.|b
 B|and, uh, I should say a pup|sd
-B|and he was just too big for our kidswhen we got him|sd
+B|and he was just too big for our kids when we got him|sd
 A|Oh yeah.|b
 B|and we, when we moved into our house that was the first thing we wanted to get was, uh, you know, was a pet|sd
 B|and it was a dog that we gotten|sd

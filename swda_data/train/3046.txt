@@ -16,7 +16,7 @@ B|Yeah.|b
 B|Probably most people you talk to do, huh?|qy
 A|Most of them do.|na
 A|Now, I don't have anybody that works for T I,|sd
-A|but, uhmy son works for a computer company, the National Institute of something,|sd
+A|but, uh my son works for a computer company, the National Institute of something,|sd
 B|Huh.|b
 A|I don't know what|sd
 B|I see,|b
@@ -47,9 +47,9 @@ B|Well, uh, the thing that I found interesting,|sd
 B|my husband and I lived up in Washington State for awhile|sd
 A|Uh-huh,|b
 A|uh-huh.|b
-B|and up there, of course they ate a lot of sea food,and that kind of thing,|sd
+B|and up there, of course they ate a lot of sea food, and that kind of thing,|sd
 A|Oh, uh-huh.|b
-B|and down here, sea food is pretty expensive, because,you have to ship it a long way to get it|sv
+B|and down here, sea food is pretty expensive, because, you have to ship it a long way to get it|sv
 A|Right.|b
 A|Yeah,|aa
 A|and it's not as good as if it's fresh.|sv
@@ -60,24 +60,24 @@ B|and, um, up there there was no, no place that we went tasted like real Mexican
 A|Is that right?|bh
 B|Yeah,|ny
 B|it tasted like they were trying to do the best they could,|sd
-B|but it just,didn't taste right.|sd
+B|but it just, didn't taste right.|sd
 A|Yeah,|b
 A|well, they probably were trying to do the best they could.|aa
 B|Yeah.|b
 A|Yeah.|b^m
 B|and, uh, down here, we eat a lot more fried foods, I think.|sd
 A|Uh-huh.|b
-B|Like chicken fried steak,is a real big thing.|sd
+B|Like chicken fried steak, is a real big thing.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|Up there, uh, it was hardly ever heard of|sd
-B|and,we drink ice tea with every meal,|sd
+B|and, we drink ice tea with every meal,|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|and up there hardly anyone drank ice tea|sd
 A|Yeah,|b
 A|well they do in the summertime,|sv
-A|I think thattea is big in the summertime mostly.|sv
+A|I think that tea is big in the summertime mostly.|sv
 B|Really?|bh
 B|Yeah.|b
 A|Of course, you have warmer weather most of the time.|sv
@@ -94,7 +94,7 @@ B|Yeah.|ny
 B|I know that, um, I do a lot of planning with our church,|sd
 A|Uh-huh.|b
 B|and a lot of the times when we get together, well everybody will bring a Mexican dish|sd
-B|or.And Italian food is real big too.|sd
+B|or. And Italian food is real big too.|sd
 A|Uh-huh,|b
 A|uh-huh|b
 A|Uh-huh.|b
@@ -115,18 +115,18 @@ B|Oh.|bk
 A|But, basically, we tried, you know, included all the basic, uh, foods that you are supposed to have in a meal .|sd
 B|Uh-huh.|b
 A|Your, uh, bread family and your,|sd
-A|or least what it used to be the regular menu was followed and ,ham and bake potatoes, uh,|sd
+A|or least what it used to be the regular menu was followed and , ham and bake potatoes, uh,|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|uh, something from each, each area that you're supposed to choose from.|sd
 B|Uh-huh.|b
 A|And, uh, we, we, we ourselves are into the wok cooking,|sd
 A|you know they been advertising that|sd
-A|and,we've really been enjoying those, uh, meals.|sd
+A|and, we've really been enjoying those, uh, meals.|sd
 B|Uh-huh.|b
 B|Well, that's good.|ba
 A|They have a lot of vegetable to them,|sv
-A|and, uh,they really are very good.|sv
+A|and, uh, they really are very good.|sv
 B|Uh-huh,|b
 B|right.|b
 B|Oh, yes.|aa
@@ -138,13 +138,13 @@ B|They.|sd
 A|Well, all our family is, is gone.|sd
 A|They are out on their own.|sd
 B|Uh-huh.|b
-A|And, uh.It, it's much different|sd
+A|And, uh. It, it's much different|sd
 B|That probably makes it easier,|sv
 B|but.|%
 A|and, uh.|%
 B|Yeah.|b
 B|We find ourselves eating a lot of macaroni and cheese|sd
-B|and, uh,and of course ,|%
+B|and, uh, and of course ,|%
 A|Uh-huh,|b
 A|uh-huh.|b
 A|Well, my husband didn't like that,|sd
@@ -155,11 +155,11 @@ B|Right.|b
 A|that's what we had|sd
 B|Yeah,|b
 B|well, that's pretty much what we do,|sd
-B|if dad's not coming home, we have macaroni and cheese,or something.|sd
+B|if dad's not coming home, we have macaroni and cheese, or something.|sd
 A|Uh-huh.|b
 B|But, they like, uh, spaghetti.|sd
 A|Uh-huh.|b
-B|You know, that's one meal,I can fix|sd
+B|You know, that's one meal, I can fix|sd
 A|Uh, yeah.|b
 B|and the whole family eats.|sd
 B|But, uh, there are several things that,|%
@@ -169,12 +169,12 @@ B|Yeah,|aa
 B|the children love them,|sd
 A|Yeah.|b
 B|and, uh, they are real easy to cook|sv
-B|and,that way, whatever meat we have, if they don't like it, well,|sd
+B|and, that way, whatever meat we have, if they don't like it, well,|sd
 A|Yeah.|b
 B|and my girls don't like beef,|sd
-B|I,don't know,|h
+B|I, don't know,|h
 A|Oh really.|b
-A|Well maybe.that's good the way, way the things are going.|sv
+A|Well maybe. that's good the way, way the things are going.|sv
 B|I guess,|h
 B|Well, yeah,|aa
 B|it could be, they don't,|%
@@ -182,7 +182,7 @@ B|I think it's the texture of it,|sv
 A|Uh-huh.|b
 B|but it takes more chewing|sv
 A|Right.|aa
-A|Children usually they like the ham and the hamburgers,and that,|sv
+A|Children usually they like the ham and the hamburgers, and that,|sv
 B|Uh-huh.|b
 A|and it is easier to chew.|sv
 B|Right.|aa
@@ -196,12 +196,12 @@ A|We don't really have, uh, you know, entertain too much.|sd
 B|Uh-huh.|b
 A|I don't know if you do or not,|qy^d
 A|but we, we don't a whole lot,|sd
-A|we're more, once in a while, but mostly family,activities.|sd
+A|we're more, once in a while, but mostly family, activities.|sd
 B|Yeah.|b
 B|Well, most of the entertaining we do is church associated.|na
 A|Uh-huh.|b
 B|We have a real tiny little house,|sd
-B|we don't have room really,to have people here.|sd
+B|we don't have room really, to have people here.|sd
 A|Uh-huh.|b
 A|Uh-huh,|b
 A|uh-huh.|b
@@ -216,27 +216,27 @@ B|it is|aa
 B|and it's fun to, uh,|sd
 B|I like just having a pot luck meal where everyone brings their favorite dish.|sd
 A|Yeah,|b
-A|we do a lot of that take ,things to church|sd
+A|we do a lot of that take , things to church|sd
 B|Yeah.|b
 A|and our homemakers meet at the church also,|sd
-A|and, uh,most of the time for that.that's what we do mostly,|sd
+A|and, uh, that's what we do mostly, most of the time for that.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 B|Yeah.|b
 A|So, you don't really include any certain food groups,|sd
-A|you just bring,what you like|sd
+A|you just bring, what you like|sd
 B|Right.|b
 B|That's right|aa
 A|Sometimes you have all desserts,|sd
-A|sometimes,you have all vegetables|sd
+A|sometimes, you have all vegetables|sd
 B|Yeah|b
 B|Yeah,|b
 B|that's true,|aa
-B|that's the only problem with just letting you bring whatever,you, uh, like best.|sv
+B|that's the only problem with just letting you bring whatever, you, uh, like best.|sv
 A|Yeah.|b
 A|But, it doesn't happen very often,|sd
 A|usually you get a pretty wide variety|sd
-A|and you can, you can ,from one of those.have pretty good meals,|sd
+A|and you can, you can , have pretty good meals, from one of those.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 B|Yeah.|aa
@@ -249,16 +249,16 @@ A|Uh-huh.|b
 B|But it's the only time I can remember that,|sd
 B|I can't remember what food it was|sd
 B|I, it might have been the main dish that hardly anyone showed up with.|sd
-B|Several people were supposed to bring,and a main dish and a dessert.you know, each, like, uh, a, an appetizer,|sd
+B|Several people were supposed to bring, you know, each, like, uh, a, an appetizer, and a main dish and a dessert.|sd
 A|Uh, uh-huh.|b
 A|Uh-huh.|b
 B|And we had tons of desserts and tons of appetizers|sd
-B|and,there was only like two or threebut when we came to the main, main dish plate,|sd
+B|and, but when we came to the main, main dish plate, there was only like two or three|sd
 A|Oh, uh-huh|b
-A|,Oh.|b
+A|, Oh.|b
 A|Was there enough to go around?|qy
 B|Well, not really,|ng
-B|you know we all took real tiny little portions,and, uh, were kind of angry with whoever it was,|sd
+B|you know we all took real tiny little portions, and, uh, were kind of angry with whoever it was,|sd
 A|Uh-huh.|b
 B|we were not sure who didn't show up with the food|sd
 A|Yeah,|b
@@ -276,7 +276,7 @@ B|I know it.|b
 B|Well, that sounds neat,|ba
 B|I can't, uh, believe you're so far away,|sd
 B|but you sound so close.|sd
-A|They said that we could share, we share,a recipe|sd
+A|They said that we could share, we share, a recipe|sd
 B|It sounds like you're here in Dallas.|sd
 A|but, I'm up at my daughter's,|sd
 A|I don't even have any of my recipes with me.|sd
@@ -288,7 +288,7 @@ A|Oh.|b
 B|and we're waiting on my sister.|sd
 A|Oh, great.|ba
 B|Cara, hold on just a second another person in the|t3
-B|As a matter of fact, my,little one is hollering|sd
+B|As a matter of fact, my, little one is hollering|sd
 A|They are ready to go.|^2
 A|Well, we probably, have we talked long enough|fc
 A|I,|%

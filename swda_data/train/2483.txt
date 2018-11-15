@@ -44,7 +44,7 @@ A|I find it surprising. Because a lot of times, it, here, you know,|sd
 A|I'll talk to some people here|sd
 A|and I'll mention someone's, some talk host|sd
 A|and I'll expect them to have an opinion on why I don't like him and don't listen,|sv
-A|they don't even know,you know, what the guys name is, uh. Bruce Williams who does financial work all over the United States.|sd
+A|they don't even know, you know, what the guys name is, uh. Bruce Williams who does financial work all over the United States.|sd
 A|Most people haven't heard of Bruce Williams.|sv
 A|You probably haven't either unless you're a radio buff.|sv
 B|I'd, I'd have to say I haven't either.|aa
@@ -66,10 +66,10 @@ A|has three hours on Sunday and three hours on Saturday.|sd
 A|Of course that's not exactly current events.|sd
 A|But, I, I'm, I am kind of a radio buff.|sd
 B|I listen to the radio, uh, probably five or six hours a week,|sd
-B|but almost inevitably to a station that is a classical, uh, station here  , for music purposes.|sd
+B|but almost inevitably to a station that is a classical, uh, station here  ,  for music purposes.|sd
 A| For music? |^2
 B|We don't use the radio as a wake up,|sd
-B|we have our, a television connected to a, uh, uh, electronic alarm,uh, system that kicks in,|sd
+B|we have our, a television connected to a, uh, uh, electronic alarm, uh, system that kicks in,|sd
 A|Yeah.|b
 B|and it comes on with C N N in the morning.|sd
 A|Oh, yeah.|b
@@ -77,7 +77,7 @@ A|That's good.|ba
 A| Actually, |%
 B| That|%
 B|we,  we wake up to television news and, uh, uh, shower and dress, and whatever to that,|sd
-B|and then because of the fact that my wife and I ride to work together, uh, in a car,we, we chat at each other rather than, than something else.|sd
+B|and then because of the fact that my wife and I ride to work together, uh, in a car, we, we chat at each other rather than, than something else.|sd
 A|Oh, that's good.|ba
 B|Uh, and occasionally what we'll each do depending on whoever is driving is have the newspaper sort of on our lap on the way in, in the car,|sd
 B|so we have the advantage of being able to, uh, read and drive although there seems to be, from what I've seen on the freeway recently that a fair number of people are reading and driving|sd
@@ -86,12 +86,12 @@ A|she says, look at that person he's driving and reading at the same time|sd
 B|So, we, we rely pretty, pretty heavily, I think, on a combination of the, of the two.|sv
 B|I also, uh, use, uh, NEWSWEEK magazine. Uh,|sd
 A|Yeah.|b
-B|we tend to alternate between NEWSWEEK and TIME and whatever happens to be the,the, uh, news magazine of the year for us.|sd
+B|we tend to alternate between NEWSWEEK and TIME and whatever happens to be the, the, uh, news magazine of the year for us.|sd
 A|Right.|b
 A| we get, |%
 B| and, uh,  I read sporadically of commentary and a couple of other, you know, trade magazines, and, uh, uh, such as that, uh, where I might read the, the occasional social and even current event commentaries, and, and everything as diverse as A C M to, uh, uh, some of the, uh, some of the other tabloids I get.|sd
 B|So, uh, I guess I use about eighty percent written, is probably my input and twenty percent, uh, television.|sd
-B|I,I think I respect the, from a journalistic perspective current events.|sv
+B|I, I think I respect the, from a journalistic perspective current events.|sv
 A|Go ahead ,|ad
 B|I've always said that it, it's really not interesting unless it's three weeks old and found its way into a news weekly headline.|sv
 A|Good point.|aa
@@ -106,9 +106,9 @@ B|Little small weekly things,|sd
 B|but there's only one daily, uh, called the NEWS AND OBSERVER, fondly referred to here by some as the, uh, uh, sometimes the Noise and Observer.|sd
 A| Yeah. |b
 B| Uh, it  depends.|sd
-B|It, it's, has decent national coverage, but has an extremely focused political coverage, probably steeped in, the southern history  and the fact that this is a Democratic State.|sv
+B|It, it's, has decent national coverage, but has an extremely focused political coverage, probably steeped in,  the southern history  and the fact that this is a Democratic State.|sv
 A| Local you mean? |b^m
-B|And, uh, consequently everything is filtered through that, uh, Republican Democratic sort of,glass, almost unnecessarily|sv
+B|And, uh, consequently everything is filtered through that, uh, Republican Democratic sort of, glass, almost unnecessarily|sv
 A|Yeah.|b
 B|so.|%
 A|Yeah.|b
@@ -140,14 +140,14 @@ A|I can't even think of what it is offhand,|sd
 A|and she's always reading something,|sd
 A|and she says, why haven't you read that.|sd
 A|And, I say, I never have time to read it like you do.|sd
-A|But, I always get a lot of my information from the,newspaper through her.|sd
+A|But, I always get a lot of my information from the, newspaper through her.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|Uh, so, I guess we do get it from people too.|sd
 A|Oh, you mentioned C N N, of course I mentioned radio and the C N N T V news, you know?|qy^d
 B|Uh-huh.|ny
 A|It's the same thing that's on the radio, word for word.|sv
-B|Is that right?I'll heard there was some stuff on the, on the radio that was equivalent to C N N.|qy
+B|Is that right? I'll heard there was some stuff on the, on the radio that was equivalent to C N N.|qy
 A|Yeah|ny
 B|Okay.|b
 A|and it,|%
@@ -158,8 +158,8 @@ A|We have it in the break area, C N N.|sd
 A|And, but the reason I say that is on the radio they'll say and look at this, you know.|sd
 A|And when I first heard C N N, it only started about, uh, since the war, you know, or right before that.|sd
 A|And, they would always say and look at this,|sd
-A|and there would be a pause, you know,would be music and stuff|sd
-A|and I realized that it's the exact commentary that you haveon the, uh, the news.|sd
+A|and there would be a pause, you know, would be music and stuff|sd
+A|and I realized that it's the exact commentary that you have on the, uh, the news.|sd
 B|Oh,|b
 B| That didn't, uh, |%
 A| Yeah,|b
@@ -197,7 +197,7 @@ B|and then we would get the local coverage, uh,|sd
 B|and then I think the local coverage we would tend to watch the same station that would, would have better state coverage rather than local coverage.|sv
 B|Uh, three of the networks here, on their local news, uh,|sd
 B|that|%
-B|if, if you wish to listen at eleven o'clock you can find out who raped who, murdered who, or stole what.from whom.|sd
+B|if, if you wish to listen at eleven o'clock you can find out who raped who, murdered who, or stole what. from whom.|sd
 A|Oh, yeah.|b
 B|And, that was the sort of thing that I would say is the best MUMBLEx|sd
 B|and not news|%

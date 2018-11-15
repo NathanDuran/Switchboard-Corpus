@@ -9,12 +9,12 @@ B|Uh-huh.|b
 A|I try to.|sd
 B|What do you play?|qw
 A|Um, clarinet is my primary instrument,|sd
-A|and I also play a little bit of saxophone, flute and pianowhen I get the opportunity, which isn't very often.|sd
+A|and I also play a little bit of saxophone, flute and piano when I get the opportunity, which isn't very often.|sd
 B|Uh-huh.|b
 B|Really,|b
 B|that's too bad|ba
 A|How about yourself?|qo
-B|I play, uh, the violinand play trumpet|sd
+B|I play, uh, the violin and play trumpet|sd
 A|Uh-huh.|b
 A|Uh.|b
 B|and I run a municipal band|sd
@@ -23,13 +23,13 @@ A|Oh, wow.|ba
 B|So, I'm pretty busy too.|sd
 B|I play in three different symphony orchestras.|sd
 A|Wow.|ba
-B|We have aSymphony.nice big one here in State College, called the Nitny Valley|sd
+B|We have a nice big one here in State College, called the Nitny Valley Symphony.|sd
 A|That's great.|ba
 A|Uh-huh.|b
 B|I play in the Altoona Symphony,|sd
 B|was about forty-five miles away|sd
 A|Uh-huh.|b
-B|and I play in a slightly smaller one called the LockhavenSymphony and Community Orchestra.|sd
+B|and I play in a slightly smaller one called the Lockhaven Symphony and Community Orchestra.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|So are you a professional musician?|qy
@@ -39,7 +39,7 @@ A|Uh-huh.|b
 B|only I, I should, should have been.|sd
 B|I spend about half my time playing music or preparing for it somewhere.|sd
 A|Uh-huh.|b
-B|But, uh, I've been working at, uh, Penn Stateuh, going to these orchestra rehearsals and, and concerts and so forth.and weekendsand using up all my nighttimes,|sd
+B|But, uh, I've been working at, uh, Penn State and using up all my nighttimes, and weekends uh, going to these orchestra rehearsals and, and concerts and so forth.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Uh-huh,|b
@@ -52,16 +52,16 @@ A|We generally have a concert every other week|sd
 A|and,|%
 B|You have one that often.|qy^d
 A|Yeah|ny
-B|That's amazing becauseI, I, I have it set up here that we have at least six to seven rehearsals per concert.|sd
+B|That's amazing because I, I, I have it set up here that we have at least six to seven rehearsals per concert.|sd
 A|That's a lot.|sv
 A|No,|nn
 A|we sure don't.|sd
 B|Wow.|ba
 A|Well, one thing is, we have a summer summer series,|sd
-A|and every single Sunday night we play at the library to have a littleout, outdoor stage set up|sd
+A|and every single Sunday night we play at the library to have a little out, outdoor stage set up|sd
 B|Uh-huh.|b
 B|Oh.|b
-A|and so we do that every Sunday nightduring the summer,|sd
+A|and so we do that every Sunday night during the summer,|sd
 B|You are busy.|sv
 A|yeah,|aa
 A|and then, I don't know. We just have an awful lot of engagements,|sd
@@ -69,7 +69,7 @@ A|and we're just having to turn a lot of people down, um, because, you know, uh,
 B|Where do you get all this music,|qw
 B|I mean, you, you must back up and play some of the music twice.|qy^d
 A|Oh yes,|qy
-A|definitely,we really do.|sd
+A|definitely, we really do.|sd
 A|You know, you get your little Sousa book|sd
 A|and you just flip through it, and that sort of thing.|sd
 B|Oh, okay.|bk
@@ -79,7 +79,7 @@ B|Uh-huh.|b
 A|Um, and it's always a mystery,|sd
 A|because it actually doesn't matter who shows up,|sd
 A|it matters what instruments they brought,|sd
-A|because so manypeople switch instruments so often.|sd
+A|because so many people switch instruments so often.|sd
 B|Right.|b
 B|Uh-huh.|b
 A|But, um, yeah,|b
@@ -92,7 +92,7 @@ A|Yeah,|b
 A|there's a lot.|sd
 B|Holy mackerel,|ba
 B|that's.|%
-A|But, on any given night there's not seventyyou know,|sd
+A|But, on any given night there's not seventy you know,|sd
 B|Uh-huh.|b
 A|it alternates quite a lot.|sd
 B|Boy,|ba
@@ -100,7 +100,7 @@ B|that is a huge organization,|sv
 B|that's great.|ba
 A|Yeah,|aa
 A|it really is.|aa
-B|Because about the best I can normally hope for is about fiftyin, in the band I have here.|sd
+B|Because about the best I can normally hope for is about fifty in, in the band I have here.|sd
 A|Oh.|b
 A|Yeah,|b
 A|well.|%
@@ -110,7 +110,7 @@ A|Oh, okay.|b
 B|And so they want to play things that, uh, push them to do.|sd
 B|So that's why we have to work real hard when we get a concert together.|sd
 A|Uh-huh.|b
-B|We have about four concerts per year indoorsand two or three that we play outside.|sd
+B|We have about four concerts per year indoors and two or three that we play outside.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|And the last one we did was in a large, uh, mall close here,|sd
@@ -128,12 +128,12 @@ B|Uh-huh.|b
 A|and their concert schedule isn't as heavy,|sd
 A|but they have more in the summer,|sd
 A|I think they have ten in the summer, you know, one, one week after the other.|sd
-A|I think they're like Monday nightsand they don't have rehearsals during that time period.|sd
+A|I think they're like Monday nights and they don't have rehearsals during that time period.|sd
 B|Wow,|ba
 B|that.|%
 B|Are you just saying you, you sight read every concert?|qy
 A|Uh, well, it's not really sight reading when you've done it, you know, again and again and again,|arp_nd
-A|butsome people are,|sd
+A|but some people are,|sd
 B|Okay.|bk
 A|yeah|%
 B|Uh-huh.|b
@@ -149,13 +149,13 @@ B|That's amazing.|ba
 A|Yeah,|b
 A|well, it's more of a, I think it's very much more of a social group than anything else, you know.|sd
 B|Okay.|b
-A|And, and people always bring refreshments for after rehearsal andhang around for an hour or so|sd
+A|And, and people always bring refreshments for after rehearsal and hang around for an hour or so|sd
 B|Okay.|b
-A|and,That's probably why we get so many people.|sv
+A|and, That's probably why we get so many people.|sv
 B|Uh-huh.|b
 B|Do any of your, you, in your group get paid for any of this?|qy
 A|Um, well, the conductor gets paid a little bit, you know,|na
-A|we do get some money from the citybecause we do play at a lot of city events.|sd
+A|we do get some money from the city because we do play at a lot of city events.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|Um, I think he's the only one that gets paid.|sd

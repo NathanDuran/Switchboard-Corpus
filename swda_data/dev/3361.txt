@@ -13,11 +13,11 @@ B|Well, I,|%
 B|no,|nn
 B|I'm not familiar with those homes per se|sd
 A|Uh-huh|b
-B|but, um, they were in the area where I liveuh,|sd
+B|but, um, they were in the area where I live uh,|sd
 A|Oh, okay.|bk
 B|and it was really revealing to see some of the, you know, the things that go on, I guess, in some of these homes,|sd
 B|so I would definitely, you know, want to really check things out and, uh, go,|sd
-B|I guess that the big thing would be once you got someone in a home like that, to, to make sure that you went daily, you knowand made sure that they were cared for,|sv
+B|I guess that the big thing would be once you got someone in a home like that, to, to make sure that you went daily, you know and made sure that they were cared for,|sv
 A|Yeah.|b
 B|and,|%
 A|Well, from your point of view, how would you feel about actually sending someone that, that's, you know, means something to you to one of those homes.|qw
@@ -26,13 +26,13 @@ B|Uh-huh.|aa
 A|and, of course, that makes sense,|ba
 A|but how do you think they would feel, I should say, about moving from where they have lived most of their life into a whole new, new home situation?|qo
 B|Well, actually, I have that kind of situation, because my mother lives with me,|arp_nd
-B|and she'seighty-seven|sd
+B|and she's eighty-seven|sd
 A|Uh-huh.|b
 A|Oh, okay.|bk
 B|and, uh, from the time that we were tiny, she said, you know, I want you to promise that you'll never put me in a rest home.|sd
 A|Uh-huh.|b
 B|So I know how she feels about it.|sd
-B|You know, if I, uhshe got to the point where she was totally bedridden, and, and I mean, I just didn't have the skills or the strength to lift her or whatever it needed,if I ever had to put her there, I think, uh, it would be probably when I just could not handle it any more, you know, if I|sd
+B|You know, if I, uh if I ever had to put her there, I think, uh, it would be probably when I just could not handle it any more, you know, if I she got to the point where she was totally bedridden, and, and I mean, I just didn't have the skills or the strength to lift her or whatever it needed,|sd
 A|Yes.|b
 A|Uh-huh.|b
 B|I think that would be the,|sd
@@ -56,7 +56,7 @@ A|My mother lives in an apartment with my sister|sd
 B|Oh.|b
 A|and, uh, so I, except for the three or four months this summer,|sd
 A|that's the only time I ever spent with my mother,|sd
-A|and, of course, since I see her only once or twice a year, I was just thrilledto have her here with me,|sd
+A|and, of course, since I see her only once or twice a year, I was just thrilled to have her here with me,|sd
 B|Uh-huh.|b
 A|and I spent every minute I could to be with her and, uh, cooking foods for her, you know, just to make her, her life as though she were on vacation.|sd
 B|Uh-huh.|b
@@ -78,7 +78,7 @@ A|and now all of a sudden she's had to move off of her farm, into another home w
 B|Uh-huh.|b
 A|She's relatively happy,|sd
 A|but she doesn't like the food.|sd
-A|And when she complains about the foodthen they kind of get angry with her.|sd
+A|And when she complains about the food then they kind of get angry with her.|sd
 B|Huh.|b
 B|Uh-huh.|b
 A|So, that's another one of those things you have to solve.|sv
@@ -91,10 +91,10 @@ A|because in those early days, the food, they had to make it from scratch, so to
 B|Uh-huh.|b
 A|I mean, you raised your own chickens,|sd
 A|and you killed your own hogs, I suppose,|sd
-A|and then theythey had to store the meat in, uh,|sd
+A|and then they they had to store the meat in, uh,|sd
 B|Yeah.|b
 A|I don't want to say barns,|sd
-A|but they had regular little places they, they would hang it, you knowto cure it and so forth.|sd
+A|but they had regular little places they, they would hang it, you know to cure it and so forth.|sd
 B|Uh-huh.|b
 A|And, and now, all of a sudden, it, uh, comes in differently,|sd
 A|it tastes differently.|sd

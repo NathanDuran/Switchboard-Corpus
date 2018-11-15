@@ -12,7 +12,7 @@ B|I I have a few, you know, favorite shows that I try not to miss.|sd
 A|Uh-huh.|b
 B|L A LAW is one of them.|sd
 A|Uh-huh.|b
-B|Although this year's, it's a little easier to miss than last year.With the new cast and everything.|sd
+B|Although this year's, it's a little easier to miss than last year. With the new cast and everything.|sd
 A|Yeah.|b
 A|Yeah,|b
 A|it's hard to follow.|sv
@@ -33,7 +33,7 @@ B|HOME IMPROVEMENT.|sd
 A|Oh, we never miss that,|sd
 A|or we try not to miss that.|sd
 B|It's hysterical, isn't it?|qy
-A|Oh, we think it is,so funny.|na
+A|Oh, we think it is, so funny.|na
 B|Did you catch the Christmas?|qy
 A|Oh, just part of it|na
 B|I thought it was, you know,|sv
@@ -58,17 +58,17 @@ B|And it showed the latest, uh, developments from all the computer companies.|sd
 A|Uh-huh,|b
 A|I've never seen that program.|sd
 B|Well, you know, it's,|%
-B|unless you're really into computers, you and software, youprobably wouldn't be interested,|sv
+B|unless you're really into computers, you and software, you probably wouldn't be interested,|sv
 A|Uh-huh.|b
-B|butI don't know,|h
+B|but I don't know,|h
 A|Uh-huh.|b
 B|it just really gave me kind of an outlook of what was available out there.|sd
 A|Oh.|b
-B|And, uh, you know, what, they, they covered everything from entertainment to spreadsheets, you know, and then theyalso, the hardware.|sd
+B|And, uh, you know, what, they, they covered everything from entertainment to spreadsheets, you know, and then they also, the hardware.|sd
 A|Oh.|b
 A|Uh-huh.|b
 B|So you could see what the new developments were and what to look for|sd
-B|and,I enjoyed that.|sd
+B|and, I enjoyed that.|sd
 A|Uh-huh.|b
 B|It was just a thirty minute show with no commercials.|sd
 A|Oh, okay.|b
@@ -104,13 +104,13 @@ B|it's, it's, something I've done for the last probably twenty-five years.|sd
 A|Oh, and so you get to come home and watch them|qy^d
 B|Yes,|ny
 B|and I don't have anyone else at home,|sd
-B|so I have freedom to watchwhatever I want.|sd
+B|so I have freedom to watch whatever I want.|sd
 A|Yeah.|b
 A|Uh-huh,|b
 A|uh-huh.|b
 B|But I like, I like every, I like the, uh, the information shows|sd
 B|and I like the comedies|sd
-B|andyou know, and I, I do like good movies.|sd
+B|and you know, and I, I do like good movies.|sd
 A|Uh-huh.|b
 B|I prescribed, subscribe to H B O.|sd
 A|Yeah|b
@@ -130,10 +130,10 @@ A|Oh.|b
 A|Oh, yes,|b
 A|if you're up then|sv
 B|and you don't get good reception without cable|sd
-B|and it doesn'tchannels,cost that much more to have one of the pay|sd
+B|and it doesn't cost that much more to have one of the pay channels,|sd
 A|Yeah.|b
 A|Right.|b
-B|sothat's primarily why I have it right now.|sd
+B|so that's primarily why I have it right now.|sd
 A|Right.|b
 A|Yeah,|b
 A|yeah.|b

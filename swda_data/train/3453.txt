@@ -22,7 +22,7 @@ A|I travel|sd
 A|and, uh, my grandfather worked for Ford Motor Company|sd
 A|so he always said why don't you drive a Ford, or why don't you try a Lincoln|sd
 B|Uh-huh.|b
-A|so I finally tried oneafter fifty years|sd
+A|so I finally tried one after fifty years|sd
 B|My,|%
 A|and, uh, I've had, I guess, I guess four Cadillacs and, and one Suburban in my last five cars,|sd
 A|but I bought a Lincoln|sd
@@ -40,19 +40,19 @@ A|I travel on the road|sd
 A|so I like a little heavier car|sd
 A|but,|%
 B|I used to do that quite a bit myself.|sd
-A|So that's why I choose, you know, to drive a heavier carand more luxury car.|sd
+A|So that's why I choose, you know, to drive a heavier car and more luxury car.|sd
 B|Yeah.|b
 A|But, I tell you what,|fo_o_fw_"_by_bc
 A|I will probably get a Cadillac the next time quite honestly.|sd
 B|Really?|bh
 A|Yeah,|ny
 A|because I like the Lincoln|sd
-A|but, there's just something about that Cadillac that, whether it's a G M C product or whatever.Seems they handle better.|sv
-B|They seem to put,They seem to be put together a little bit better.|sv
+A|but, there's just something about that Cadillac that, whether it's a G M C product or whatever. Seems they handle better.|sv
+B|They seem to put, They seem to be put together a little bit better.|sv
 A|I think so, too.|aa
 B|And, you know, the buttons on the controls and things like that are a little easier to get to than Ford products|sv
 B|and I think that's one of the things that makes me shy away from, uh, imports is they put so much, you know, gadgetry on the dash|sv
-B|and, and the, the buttons are so smallto push|sv
+B|and, and the, the buttons are so small to push|sv
 A|Yeah,|aa
 A|they really do.|sd
 B|and G M doesn't seem to do that.|sv
@@ -62,7 +62,7 @@ A|You know, I'm a funny duck|h
 A|that came, it comes to the simple things like front end alignments|sd
 B|Uh-huh.|b
 A|I have never had to have a front end alignment on a Cadillac.|sd
-A|I don't know why, whywhether I just seem to drive them better or what,|sd
+A|I don't know why, why whether I just seem to drive them better or what,|sd
 B|Uh-huh.|b
 A|but, I've never had to have a front end alignment on a Cadillac.|sd
 A|They always appear to hold well.|sv
@@ -92,7 +92,7 @@ A|Yeah,|b
 A|now, I have the Town Car|sd
 A|and it's, it's a deep trunk, but not as broad as the, uh, the Cadillac.|sd
 B|Well, the Town Car, I noticed, uh,|sd
-B|or with the, with the Continental, uh, I was, rented one, one timeuh, we could, uh, put golf clubs in them.|sd
+B|or with the, with the Continental, uh, I was, rented one, one time uh, we could, uh, put golf clubs in them.|sd
 A|Uh-huh.|b
 A|Oh, good.|ba
 B|You know, straight across.|sd
@@ -105,7 +105,7 @@ A|That's good.|ba
 B|And we got three full sets in there and still had room for luggage.|sd
 A|Yeah,|b
 A|I sell sporting goods, uh, hunting related items,|sd
-A|I sell guns, gun casesand things like that|sd
+A|I sell guns, gun cases and things like that|sd
 B|I see.|ba
 B|Yeah.|b
 A|and I need to, you know,|sd
@@ -131,7 +131,7 @@ A|and it, it handled real well,|sv
 A|but, my main thing is space,|sd
 A|so if a Continental,|sv
 A|I might consider it the next time,|sv
-A|a Continental hasmore trunk space.|sd
+A|a Continental has more trunk space.|sd
 B|You might take a look at them.|ad
 B|They, they had a, a lot more trunk space.|sv
 B|As a matter of fact, they had more trunk space than my, uh, Sedan De Ville had.|sd
@@ -144,7 +144,7 @@ B|Uh, I had a eighty Eldorado, which was leather|sd
 B|and, uh, then my eighty-six was a touring sedan.|sd
 A|Uh-huh.|b
 B|And, uh, it had the gray leather package in it|sd
-B|and my Allante has, uhI guess saddle, saddle colored type thing.|sd
+B|and my Allante has, uh I guess saddle, saddle colored type thing.|sd
 A|That's a nice car.|sv
 A|You bet,|ba
 A|and I'll, I will say one thing about Cadillacs versus,|sd

@@ -7,10 +7,10 @@ A|Yeah.|b
 A|You know, I read, you know,|%
 A|when they first started doing that in the paper, and I read about that,|sd
 A|I was just praying that, that would be in our area, because we've been recycling for quite some time.|sd
-A|And, you know, we separate everything out, and then have to haul it up to a Metco ,you know, which is a real pain.|sd
+A|And, you know, we separate everything out, and then have to haul it up to a Metco , you know, which is a real pain.|sd
 B|Huh-uh.|b
-A|So if they would come up,curbside recycling,|sd
-B|they'll help you,recycle, because we, there is some bins, like behind Wal-Mart, that take some things.|^2
+A|So if they would come up, curbside recycling,|sd
+B|they'll help you, recycle, because we, there is some bins, like behind Wal-Mart, that take some things.|^2
 A|Well, now have they moved them behind Wal-Mart?|qy
 B|Yeah.|ny
 A|Oh, God.|ba
@@ -21,7 +21,7 @@ B|and I ask in Wal-Mart|sd
 B|and they said they moved it just behind.|sd
 A|Oh.|b
 A|That's really nice to know, because we were doing the same thing.|sd
-A|Because to take it to a Metco , you have to take it when they're open, you know,which is always a real pain.|sd
+A|Because to take it to a Metco , you have to take it when they're open, you know, which is always a real pain.|sd
 B|Huh-uh.|b
 A|And so when that thing came up in Wal-Mart parking lot, we thought, oh, this is great.|sd
 A|And we started taking them up there.|sd
@@ -44,19 +44,19 @@ B|Well, I guess, um, down in, kind of in North Dallas, there is a place that wil
 A|Oh, really.|b
 B|Uh, I don't, we just don't have the room to store all that much, you know,|sd
 A|I know.|ba
-B|I don't want to be running down there every week,or whatever.|sd
+B|I don't want to be running down there every week, or whatever.|sd
 A|I know.|ba
 A|I know.|ba
 A|We're kind of the same way.|sd
 A|You know, at first, you know, you,|%
 A|at first it was a real, it was a real hassle,|sd
 A|and I'm wondering are we really going to do this,|sd
-A|but you kind of get, I guess, into a little routine, you know, where it becomes, is automatic, now, to throw,different things in different places,|sd
+A|but you kind of get, I guess, into a little routine, you know, where it becomes, is automatic, now, to throw, different things in different places,|sd
 B|Yeah.|b
 A|you know. So I just go, you know,|%
 A|we have a pretty good size pantry in our kitchen|sd
 A|and I've just got three trash cans sitting in there,|sd
-A|you know, we just kind of dump things in each one, if, you know,if we get them,|sd
+A|you know, we just kind of dump things in each one, if, you know, if we get them,|sd
 B|Yeah.|b
 A|so.|%
 B|Those milk cartons take up so much room.|sd
@@ -68,15 +68,15 @@ A|so. You know,|%
 B|I guess we kind of started recycling after I moved here about a year and a half ago.|sd
 A|Oh, really.|bh
 B|We were using baby food|sd
-B|and there was so many baby food jars,kind of what started it.|sd
+B|and there was so many baby food jars, kind of what started it.|sd
 A|Yeah.|b
 A|Yeah.|b
 B|Some of our neighbors were doing it|sd
 B|and so, you know, when I found out some places to take it,|sd
 B|and, um, like, um, they also take some things at the Flower Mound dump behind the fire station there,|sd
-B|and I know that they're going to use, you know, the money for that to build some kind of multipurpose field and that type of thing.Put lights and stuff|sd
+B|and I know that they're going to use, you know, the money for that to build some kind of multipurpose field and that type of thing. Put lights and stuff|sd
 A|Oh, that will be good.|ba
-B|so, you know, if I'm not going to get the money for aluminum, I would just assume give it to the city of Flower Mound.to do something with, you know.|sd
+B|so, you know, if I'm not going to get the money for aluminum, I would just assume give it to the city of Flower Mound. to do something with, you know.|sd
 A|Sure.|b
 A|Let somebody get something out of it.|^2
 B|Yeah.|aa
@@ -89,7 +89,7 @@ A|Well, I was kind of hoping with,|sd
 A|you know, do you work for T I?|qy
 B|No,|nn
 B|I don't.|sd
-B|I have a friend,of mine told me about this program, is the reason that I'm,|sd
+B|I have a friend, of mine told me about this program, is the reason that I'm,|sd
 A|No.|b^m
 A|Yeah.|b
 A|There was a,|%

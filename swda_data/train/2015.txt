@@ -116,7 +116,7 @@ A|and do,|%
 A|well that would be technically illegal,|sd
 A|it would be harassment.|sd
 B|Oh gosh.|ba
-A|But, I consider an invasion of my privacy,a harassment in itself.|sv
+A|But, I consider an invasion of my privacy, a harassment in itself.|sv
 B|Yeah,|b
 B|yeah.|b
 B|Yeah,|aa

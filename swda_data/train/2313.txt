@@ -44,11 +44,11 @@ B|It's your risk,|sd
 B|do you trust, your, your son,|qh
 A|Yeah,|b
 A|to, to go run up a big bill|^2
-A|and, the thing is, there some advantages, if he got offsome place and stranded.|sv
+A|and, the thing is, there some advantages, if he got off some place and stranded.|sv
 B|Uh-huh.|b
-A|I, I'm, I'm leaning towards doing ita convenience,for, for|sd
+A|I, I'm, I'm leaning towards doing it for, for a convenience,|sd
 B|Uh-huh.|b
-B|I'd say, you know, have one with, you knowat least a thousand dollar credit limit or something.|sv
+B|I'd say, you know, have one with, you know at least a thousand dollar credit limit or something.|sv
 A|Yeah,|b
 A|and the idea that, you know, if he got in trouble, there's some, some ways of getting out, and that he doesn't have to carry cash.|bf
 A|The, uh,|%
@@ -63,7 +63,7 @@ A|and he had run up, uh, more than a years salary in, in various debts to,|sd
 A|and he wound up declaring bankruptcy|sd
 A|but there,|%
 A|it, it's hard to believe that you'd run up twenty, thirty thousand dollars of, uh,|sv
-A|well, it was a combination of thingshe had,|sd
+A|well, it was a combination of things he had,|sd
 B|Uh-huh.|b
 A|there were, there were several credit cards,|sd
 A|and then there were several other businesses,|sd
@@ -88,7 +88,7 @@ A|And they know that people own a car that new unless absolutely die of service 
 A|they're not going to keep on if the car were older.|sv
 B|Uh-huh.|b
 A|The interesting thing about it is is that from a, uh, uh, an economy standpoint or in economics,|sv
-A|I, I thinks it's, I think it's poor, poor, uh, economics to, to carry all that consumer debtat least from a tax standpoint,|sv
+A|I, I thinks it's, I think it's poor, poor, uh, economics to, to carry all that consumer debt at least from a tax standpoint,|sv
 B|Yeah.|b
 A|so. It's interesting that, that the American public is encouraged to incur all that debt and then next year none of it will be deductible,|sv
 A|and this year it's ten percent or so.|sd
@@ -102,7 +102,7 @@ B|I didn't know that.|sd
 A|Of your, of your consumer credit.|sd
 A|Oh, if you had a thousand dollars, that means there's another hundred dollar deduction I've given you.|sd
 B|I didn't think you could,|qy^d
-B|any thing on a loan or,I mean a mortgage I know you can,|sd
+B|any thing on a loan or, I mean a mortgage I know you can,|sd
 A|Yeah,|ny
 A|it's on, uh, yeah.|sd
 A|Yeah,|b
@@ -112,8 +112,8 @@ A|and then you take ten percent of it,|ad
 A|on the,|%
 B|Oh, I've never itemized yet.|sd
 A|Oh, okay,|b
-B|So maybe that's.Schedule A or,|h
-A|It's on schedule, um,Schedule A under, uh,|sd
+B|So maybe that's. Schedule A or,|h
+A|It's on schedule, um, Schedule A under, uh,|sd
 A|well, it's the same place, it's the same place you put, uh, interest.|sd
 A|But, but see that's what, that's what makes Texas squirrelly laws that you can't, you can't take out a, a second mortgage, like some states where you can take out the mortgage and declare that,|sv
 A|and so, uh, it's fully deductible.|sd
@@ -128,7 +128,7 @@ B|and I, and I use my Visa for, for as much as I can,|sd
 B|and I pay it all off,|sd
 B|and,|%
 A|Sounds like you're, you're very very financially responsible.|qy^d
-A|It's, uh,That's, uh,|%
+A|It's, uh, That's, uh,|%
 B|Uh-huh.|ny
 A|there're a lot of people who really run,|sv
 A|my boss drives quite a ways to work,|sd
@@ -151,10 +151,10 @@ A|It's, it's remarkable how many people as soon as they get out of college buy a
 A|and that, uh, apparently that's been going on for a really long time.|sv
 A|I didn't do it.|sd
 A|I, I bought a second hand car when I was, the middle of my senior year.|sd
-B|Well, you, you think you're starting out well, until you start paying all those bills.Uh, apartment rent,|sv
+B|Well, you, you think you're starting out well, until you start paying all those bills. Uh, apartment rent,|sv
 A|Yep.|b
 B|and,|%
-A|Miscellaneous things like food andother things,|^2
+A|Miscellaneous things like food and other things,|^2
 B|Yeah.|b
 A|these habits you get into, eating|sd
 A|and, and, uh, it's, it's, it's amazing how it, what you learn.|sv
@@ -180,10 +180,10 @@ B|none of these grocery stores take any credit cards,|sd
 B|so now I have to carry cash when I go to the grocery store, which is new to me, you know,|sd
 B|I got to have sixty bucks on me or something.|sd
 A|Yeah.|b
-B|So, uhthat was interesting, cause I always, you know,|sv
+B|So, uh that was interesting, cause I always, you know,|sv
 A|Carry all that cash with you.|bf
-B|youdidn't have to worry about carrying that much unless I knew I,|sd
-A|Well, you know they, theythey've started towards a little bit of the debit card,|sd
+B|you didn't have to worry about carrying that much unless I knew I,|sd
+A|Well, you know they, they they've started towards a little bit of the debit card,|sd
 A|have you seen the debit cards where they actually debit your account when you,|qy
 B|Yeah,|ny
 B|I've heard about them.|sd

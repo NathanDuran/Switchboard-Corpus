@@ -18,7 +18,7 @@ A|But, I like it all except, uh, really I don't, I don't really care that much f
 A|I think I had rather have a catfish than I would a trout|sd
 B|Well, I, I don't blame you.|sd
 B|I grew up in Nebraska and, uh, grew up fish, cat fishing in the Little Blue River|sd
-B|and then, uh, we moved to, uh, South Dakotaand, uh, did a lot of Walleye fishing on the Missouri River|sd
+B|and then, uh, we moved to, uh, South Dakota and, uh, did a lot of Walleye fishing on the Missouri River|sd
 A|Uh-huh.|b
 B|and, uh, now that we are down here, I think a lot of people do some, uh, bass fishing and strip bass fishing|sd
 B|but, uh, I still, uh, I am sort of a catfish man at heart.|sd
@@ -37,7 +37,7 @@ B|Oh yeah.|ny
 B|I like to fish.|sd
 B|The only problem is I just moved to Texas|sd
 B|so it's been a little over a year now|sd
-B|but, uhI, I am not quite sure what residency is for a fishing license here|sd
+B|but, uh I, I am not quite sure what residency is for a fishing license here|sd
 A|Uh-huh.|b
 B|and I, so really I haven't gone fishing for about two years now|sd
 A|Uh-huh.|b
@@ -77,7 +77,7 @@ A|so|%
 B|Well, that's how we do it too.|sd
 B|Uh, although we, uh, use to set some, uh, trout lines out|sd
 B|and we've caught, you know, fourteen, fifteen pound catfish|sd
-B|and sometimes those are good to, uh, do on a barbecue grilland just leave the skin on and, uh, do it with, uh, butter on, uh, on, on tin foil|sd
+B|and sometimes those are good to, uh, do on a barbecue grill and just leave the skin on and, uh, do it with, uh, butter on, uh, on, on tin foil|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Uh-huh.|b
@@ -91,7 +91,7 @@ A|Uh, most of them are just the small, you know, pan frying ones.|sd
 B|Yeah.|b
 A|So, uh,|%
 B|Well, I am hoping one of these days I'll have the opportunity to catch a big catfish like that on, uh, a rod and reel|sd
-B|but, uhso far it's just been on, uh, on the trout lines|sd
+B|but, uh so far it's just been on, uh, on the trout lines|sd
 A|Um.|b
 B|so,|%
 A|Wouldn't that be something?|qy
@@ -109,8 +109,8 @@ A|You moved there from where?|qw
 A|Nebraska?|^g
 B|Uh-huh.|ny
 B|Yeah.|ny
-A|So, it was just like the rivers and, uh, thelakes I suppose, huh?|qy^d
-B|In,In Nebraska?|qy
+A|So, it was just like the rivers and, uh, the lakes I suppose, huh?|qy^d
+B|In, In Nebraska?|qy
 A|Yeah.|ny
 B|Uh, yeah.|ny
 B|Most of the time, uh, we just fished, uh, in the river although there were a lot of sand pits and things like that, that we could fish in.|sd

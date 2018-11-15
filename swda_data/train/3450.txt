@@ -53,7 +53,7 @@ B|and my fingers exercise more than anything now.|sd
 A|Right,|b
 A|that's the way I am.|sd
 A|I just want to sit down and relax.|sd
-A|Too tired to exercise. *slash errorI did.|sd
+A|Too tired to exercise. *slash error I did.|sd
 B|Yes.|b
 B|Uh, do you ever ride a bike or anything like that?|qy
 A|I started riding my bike about a couple of months ago|sd
@@ -64,7 +64,7 @@ A|so I gave it up.|sd
 B|Here, about the, the most common exercise for people is to go to the malls and walk, uh,|sd
 A|Walk around.|^2
 B|Because they're enclosed|sd
-B|and no matter what the weather is they can walkat a pretty good clip and, and not have to worry about the weather summer or winter.|sd
+B|and no matter what the weather is they can walk at a pretty good clip and, and not have to worry about the weather summer or winter.|sd
 A|Right.|b
 A|Right,|b
 A|I've noticed people doing that down here, too.|sd
@@ -77,7 +77,7 @@ B|may be not safe going to the parking garage|sv
 A|Yeah,|aa
 A|certain parts of it.|sv
 B|I know a doctor once told me it, it,|sd
-B|a friend of mine, uh, suggested swimmingas being the best exercise there is.|sd
+B|a friend of mine, uh, suggested swimming as being the best exercise there is.|sd
 A|Right.|b
 A|Right,|b
 A|I used to do a lot of swimming,|sd
@@ -99,7 +99,7 @@ A|you can't do it year round.|bf
 B|Summertime only.|sd
 A|Right,|aa
 A|that's the way ours is.|sd
-B|You don't go out when it's twenty some odd degrees,go out to the swimming pool.|sv
+B|You don't go out when it's twenty some odd degrees, go out to the swimming pool.|sv
 A|Oh, no,|aa
 A|it's too cold.|sv
 B|Hot tubs are not, uh, not too bad,|sv

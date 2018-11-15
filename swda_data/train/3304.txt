@@ -9,7 +9,7 @@ B|Oh, I generically have, you know, millions of hobbies.|sd
 A|All right,|b
 A|that's an interesting assortment.|sv
 A|My husband is into cycling.|sd
-A|In fact, he's out there right nowbefore it gets dark trying to get in his miles for the, the time.|sd
+A|In fact, he's out there right now before it gets dark trying to get in his miles for the, the time.|sd
 B|Uh-huh.|b
 B|I'm not quite that bad.|sd
 B|I'm just a weekend cyclist.|sd
@@ -33,7 +33,7 @@ B|Oh, that's pretty good.|ba
 A|Uh, and I have, have done fairly well at them.|sd
 A|I've had|%
 A|a, a few of my little hobby projects have totally bombed,|sd
-A|but mostof them have worked out pretty good|sd
+A|but most of them have worked out pretty good|sd
 B|Yeah,|b
 B|they,|%
 B|my only craft work is kind of like computers and, you know, go off to the little computer club meetings,|sd
@@ -52,9 +52,9 @@ B|like half the members are really expert|sd
 B|and the other half are like really not.|sd
 A|Uh-huh.|b
 B|And, uh, we kind of help out the people who are really not|sd
-A|You don't, uh, you're notinto hacking or whatever|qy^d
+A|You don't, uh, you're not into hacking or whatever|qy^d
 B|Oh, I, I think I'm, I think I'm a hacker,|arp_nd
-B|but I'm not, not kind, not the, uh, the, you know, dial around randomly trying to break into computers typehackers,|sd
+B|but I'm not, not kind, not the, uh, the, you know, dial around randomly trying to break into computers type hackers,|sd
 A|Uh-huh.|b
 B|no,|nn
 B|that's one of those sports I don't go for.|sd
@@ -69,7 +69,7 @@ A|We,|%
 B|Yeah,|aa
 B|I belong to a, a Boy Scout troop.|sd
 B|It beats paying United Way.|sd
-B|I just, you knowdonate a whole bunch of my time to the Boy Scouts and have fun.|sd
+B|I just, you know donate a whole bunch of my time to the Boy Scouts and have fun.|sd
 A|Uh-huh.|b
 A|Well, that's, we have done that.|sd
 A|Uh, our two older boys were in Boy Scouts|sd
@@ -80,7 +80,7 @@ A|But, it,|%
 A|I,|%
 A|that's a great thing to do, you know, really.|sv
 A|Have you been backpacking anyplace exciting?|qy
-B|Uh, well, just last weekend went to Davy Crockett forestwhich is kind of out in east Texas.|sd
+B|Uh, well, just last weekend went to Davy Crockett forest which is kind of out in east Texas.|sd
 A|Oh.|%
 A|Uh-huh.|b
 B|And we go to, uh, places out in,|sd
@@ -130,17 +130,17 @@ B|Oh, yeah,|ny
 B|I rent my kids|sd
 A|Uh-huh|b
 A|Well, sometimes, uh,|%
-B|It's better than, you know, owning on them and making payments on them,and, you know, things like that.|sv
+B|It's better than, you know, owning on them and making payments on them, and, you know, things like that.|sv
 A|Sometimes I think that might not be a bad idea|sv
 A|Have,|%
 A|uh, you said you did it in the High Sierras.|sd
 A|Uh, do you ever, you know, just vacation someplace where you strictly backpack?|qy
 B|Oh, yeah,|ny
 B|yeah.|ny
-B|Uh, not recently because, you know, like the Boy Scouts makes it so that I go like once a month, you know.Someplace.|sd
+B|Uh, not recently because, you know, like the Boy Scouts makes it so that I go like once a month, you know. Someplace.|sd
 A|Uh-huh.|b
 B|But, uh, there's, uh, some, some stuff that I want to do with like Sierra Club and go down to Grand Canyon or something like that.|sd
-B|So, you know, they have lots of tours where they get a bunch of people together andoff you go.|sd
+B|So, you know, they have lots of tours where they get a bunch of people together and off you go.|sd
 A|Uh-huh.|b
 B|Which seems kind of reasonable because that means you don't have to take twenty thirteen year olds with you, which seems a, a, just a tad more relaxing|sv
 A|Well, I,|%

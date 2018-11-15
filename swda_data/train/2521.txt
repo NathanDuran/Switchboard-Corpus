@@ -2,7 +2,7 @@ A|Okay.|fo_o_fw_"_by_bc
 B|So, who is your favorite football team?|qw
 A|Guess.|ad
 A|I bet you can't guess|sv
-B|Well, I would say the Saints after ,since ,|sv
+B|Well, I would say the Saints after , since ,|sv
 A|You got it.|aa
 A|And I want to tell you something.|oo_co_cc
 B|What's that?|qw
@@ -11,21 +11,21 @@ B|Yeah?|bh
 A|Yeah.|ny
 A|I think they are because they're getting better every year.|sv
 B|Yeah.|b
-A|And, uh, they,got a lot,|sv
-B|Can't,call them the New Orleans Ain'ts any more.|sv
+A|And, uh, they, got a lot,|sv
+B|Can't, call them the New Orleans Ain'ts any more.|sv
 A|I don't think so.|aa
 B|No.|aa
 A|We went to the playoffs.|sd
 B|Yeah.|b
 A|Yeah|b
-B|Well, I'm a, I'm a Buffalo Bills fan.from a long time ago.from a,|sd
+B|Well, I'm a, I'm a Buffalo Bills fan. from a, from a long time ago.|sd
 A|Yeah,|b
 A|now I like them, too.|sd
 B|So, it's good to, it's good to see the Bills doing so well now|sd
 B|and,|%
 A|They are.|sd
 A|They are doing a whole bunch better.|sd
-A|Who's,their quarterback?|qw
+A|Who's, their quarterback?|qw
 B|Yeah.|b
 B|What's that?|br
 A|Who's their quarterback?|qw
@@ -53,12 +53,12 @@ B|and now the, uh, other team,|%
 B|so it seems to be, uh, moving around and, uh, to, to New Orleans' benefit,|sv
 A|Yeah.|b
 B|and, uh, you see how,|%
-B|look at the Cowboys nowAnd, uh,|ad
+B|look at the Cowboys now And, uh,|ad
 A|Uh-huh.|b
 A|Really bad.|ba
 B|Yeah.|b
 A|But they got so much bad publicity, too.|sd
-A|And I think that hurt a lot of, you know,people even wanting to play on their team.|sv
+A|And I think that hurt a lot of, you know, people even wanting to play on their team.|sv
 B|Yeah.|b
 B|well, yeah.|b
 B|Uh, firing Tom Landry and hiring Jimmy Johnson|sd
@@ -73,15 +73,15 @@ A|Yeah.|aa
 A|Yeah.|aa
 A|Because all the problems,|%
 A|I mean, if you think about those years that we had the losing season, of how bad,|sd
-A|I mean his players were constantly getting kicked off the team because of drugs, because of,uh, you know, messing with young children|sd
+A|I mean his players were constantly getting kicked off the team because of drugs, because of, uh, you know, messing with young children|sd
 B|Right.|aa
-A|and, I mean, it was just one thing it seemed like right after the other,with them.|sd
+A|and, I mean, it was just one thing it seemed like right after the other, with them.|sd
 B|Right.|aa
 B|And he|%
 B|and, uh, had a lot of trouble with injuries, too.|sd
 A|Yeah.|b
 B|You know, he'd, uh, never seem to be able to keep his guys healthy.|sv
-B|And then even like, uh, what is it, Eric Dickerson left,the team, you know,|sd
+B|And then even like, uh, what is it, Eric Dickerson left, the team, you know,|sd
 A|Uh-huh.|b
 B|you're right.|aa
 B|You know, like people were jumping ship right and left.|sv
@@ -102,21 +102,21 @@ A|because everything, I mean anything that Tom Landry wanted or had, he was goin
 B|Right.|b
 A|I mean it's,|%
 A|I mean, you know, that's the way I felt about it.|sd
-A|But,I tell you what,|fo_o_fw_"_by_bc
-B|Well,Yeah.|b
-A|if New Orleans ever gets a quarterbackisn't nobody going to beat us|sv
+A|But, I tell you what,|fo_o_fw_"_by_bc
+B|Well, Yeah.|b
+A|if New Orleans ever gets a quarterback isn't nobody going to beat us|sv
 A|There ain't nobody going to beat us then.|sv
 A|Because look how good we did without a quarterback this year|sv
 B|I know.|aa
 B|Who was the quarterback?|qw
-A|Well,had quite a few quarterbacks if you think about it. Uh, They, |sd
-B|See, I can't even think of who the New Orleans quarterback, is. |sd
+A|Well,  They,  had quite a few quarterbacks if you think about it. Uh,|sd
+B|See, I can't even think of who the New Orleans quarterback,  is. |sd
 A|Fourcade was for a while.|sd
 A|And then, um, I can't remember that guy's name, the one that held out for the money|sd
 A|and he was across the river|sd
 A|Uh, I can't think of the, I can't think of his name now,|sd
 A|but really we didn't have a quarterback.|sd
-A| That, was the whole problem.|sv
+A| That,  was the whole problem.|sv
 B| Yeah. |b
 A|We had one guy that couldn't throw|sd
 A|and we had one guy that couldn't run.|sd
@@ -126,17 +126,17 @@ A|We really didn't have a quarterback.|sd
 A|It was, uh, defense won all the games.|sv
 B|Did they, were they able to draft anybody this year?|qy
 A|I don't know|no
-A|because, you know, they gave away a lot of their drafts.you know, other places.For different people for,|sd
+A|because, you know, they gave away a lot of their drafts. For different people for, you know, other places.|sd
 B|Uh-huh.|b
 B|Right.|b
 A|So, I don't know.|no
 A|I hadn't heard, you know, whether they have a new one or not.|sd
-B|Well, when is the,N F L draft|qw
+B|Well, when is the, N F L draft|qw
 A|But, uh,|%
 B|hasn't, has the N F L draft even gone yet?|qy
 A|Uh-huh.|nn
 A|Not yet.|sd
-A|But, I mean, I don't know whether they have one of the first, you know,choices of somebody,|sd
+A|But, I mean, I don't know whether they have one of the first, you know, choices of somebody,|sd
 B|Right.|b
 B|Right.|b
 A|that would be real good.|sv
@@ -152,7 +152,7 @@ A|But, uh,|%
 B|Or even making the playoffs|sd
 B|so that doesn't, doesn't help you in the draft.|sv
 A|Right.|b
-A|But we,really, I mean, really and truly we just don't have a quarterback,|sv
+A|But we, really, I mean, really and truly we just don't have a quarterback,|sv
 B|Yeah.|b
 B|Yeah.|b
 A|that's all there is to it.|sv
@@ -166,7 +166,7 @@ A|Well, he was good.|sv
 A|But we, every time we'd get a real good player they'd treat him bad.|sv
 B|Uh-huh.|b
 A|And, of course, we had a different coach then, too.|sd
-A|But they'd treat him badOr either they'd trade him off to somebody else for two of these nobodies. *sd|sv
+A|But they'd treat him bad Or either they'd trade him off to somebody else for two of these nobodies. *sd|sv
 B|Uh-huh.|b
 B|Right.|b
 A|And it was weird.|sv
@@ -181,12 +181,12 @@ B|Huh.|b
 A|I mean, they were terrible.|sv
 A|They could not pitch.|sv
 A|You know, they couldn't even take handoffs.|sv
-A|It was,terrible|sv
+A|It was, terrible|sv
 B|Right.|b
-A|But, uh,I mean, our defense was unbelievable.all the other places,|sv
-B|Oh, that's one,it's one thing,|%
+A|But, uh, all the other places, I mean, our defense was unbelievable.|sv
+B|Oh, that's one, it's one thing,|%
 B|Yeah.|b
-B|Buffalo's, lucky though to have,  uh, Jim Kelly than,|sv
+B|Buffalo's,  lucky though to have,  uh, Jim Kelly than,|sv
 A| Did you get to watch any of their games? |qy
 B|now he's the number one rated quarterback in the N F L. I think,|sd
 A|Yeah.|b
@@ -202,16 +202,16 @@ B|I'm a, I'm a musician|sd
 B|and, uh, the band I play in, uh, I,|%
 B|this is just something on the side|sd
 B|and, uh, the band I play in, we tend to rehearse quite a bit on Sundays.|sd
-B|So I missed a lot of Sundays duringthis,|sd
+B|So I missed a lot of Sundays during this,|sd
 A|Um.|b
-A|Did you ever get to watch any of the, uh, New Orleans games?Um. *b|qy
+A|Did you ever get to watch any of the, uh, New Orleans games? Um. *b|qy
 B|I, I'd have to confess I don't really scope out the New Orleans games, per se.|sd
 B|New Orleans just isn't, isn't one of the areas,|sd
 B|I've lived in so many places.|sd
 B|I've lived in, uh, Denver|sd
 B|but I don't like the Broncos.|sd
-B|There's,no love for the Broncos.|sd
-B|But,I've lived in, uh, uh,|sd
+B|There's, no love for the Broncos.|sd
+B|But, I've lived in, uh, uh,|sd
 A|No.|b
 B|I was born in Buffalo|sd
 B|and I lived in, uh, outside of Boston for five years|sd
@@ -222,21 +222,21 @@ B|and I lived in Detroit, too.|sd
 B|So I like, uh,|%
 B|first of all, first and foremost the Bills games I want to see.|sd
 B|And then I'll, uh, normally check out the Eagles or the Patriots|sd
-B|and, Patriots were so depressing this last year thatI kind of gave up on them.yeah, that, uh,|sd
+B|and, Patriots were so depressing this last year that yeah, that, uh, I kind of gave up on them.|sd
 A|I know it|aa
 A|Yeah.|b
 A|Yeah.|b
 B|But, uh, first and foremost the Bills.|sd
 B|I even|%
 B|I went to, got to go to a Bills game this year, which was fun.|sd
-B|It was the, the Bills, Eagles game, which appropriately enoughthe Bills won.fortunately,|sd
+B|It was the, the Bills, Eagles game, which appropriately enough fortunately, the Bills won.|sd
 A|Oh,|b
 A|that's neat.|ba
 A|Yeah.|b
 B|And it was good weather.|sd
 A|Yes.|b
 B|We beat Buffalo in, in, uh, was it third of December?|qy
-B|And,it was sunny and forty-five degrees.|sd
+B|And, it was sunny and forty-five degrees.|sd
 A|Oh, my goodness.|ba
 B|So, we couldn't a done much better than that in Buffalo|sd
 A|No.|aa
@@ -253,7 +253,7 @@ A|It was like I was sitting on the edge of my chair, you know, going oh, no, no.
 A|And one, uh,|%
 A|I can't remember.|sd
 A|It was about, uh,|%
-A|it was right close to when we was going to find out if we was going to get to be in the playoffs,or not|sd
+A|it was right close to when we was going to find out if we was going to get to be in the playoffs, or not|sd
 B|Uh-huh.|b
 A|So, we're watching the game.|sd
 A|All right.|^h
@@ -268,13 +268,13 @@ A|We did not get to see the end of the game.|sd
 A|You talk about people calling in.|sd
 B|Oh, my gosh.|ba
 A|It was wild.|sd
-A|I mean, here everybody is sitting on the edge of their chair,you know,|sd
+A|I mean, here everybody is sitting on the edge of their chair, you know,|sd
 B|Sure,|ba
 B|and then they changed the game.|^2
 A|and they changed it and gave us another game in the middle of another, you know, one that was going on.|sd
 B|Right.|ba
 A|Cut us off right there the last few seconds.|sd
-A|The station finally, you know how they'll put the little message down at the bottom.you know,Started telling everybody that they were not the ones that had cut that off, that it was the national,|sd
+A|The station finally, you know how they'll put the little message down at the bottom. Started telling everybody that they were not the ones that had cut that off, that it was the national, you know,|sd
 B|Right.|b
 B|Right.|b
 B|It was the network.|fo_o_fw_"_by_bc
@@ -299,4 +299,4 @@ B|Yeah.|b
 B|Well, that's the, that's the guy that counts|sd
 A|Yes.|aa
 A|But, maybe we, maybe we'll get your guy.|sv
-B|Oh, I,I don't think Jim Kelly is about to be swayed away from the Bills any time.|sv
+B|Oh, I, I don't think Jim Kelly is about to be swayed away from the Bills any time.|sv

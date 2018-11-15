@@ -1,4 +1,4 @@
-A|We're supposed to talk about the Middle East Crisis, and should  we be involved and, uh, what's it going to cost us in the long run.|sd
+A|We're supposed to talk about the Middle East Crisis,  and should  we be involved and, uh, what's it going to cost us in the long run.|sd
 B| Oh, okay. |b
 B|Okay.|b
 A|Are you ready?|qy
@@ -15,7 +15,7 @@ B|and yet, and yet, I know that I, that,|h
 B|and I, I, when I was in school it was always the tired, the tired excuse that we went to war to save us against communism|sd
 B|but I'm not sure that that's the reason anymore. I mean, not sure that communism is, is as strong as it once was.|sv
 B|And I'm not sure that, that that's the reason why we're, like we were in Vietnam supposedly so.|sv
-A|Well, you realize why we were in the Middle East. Why we invaded Iraq, why we werein Saudi, why we attacked Kuwait and we we're, why we are still fighting Iraq.|qy^d
+A|Well, you realize why we were in the Middle East. Why we invaded Iraq, why we were in Saudi, why we attacked Kuwait and we we're, why we are still fighting Iraq.|qy^d
 B|Well, with the,|%
 B|Well, it's because of oil isn't it?|qy
 A|No.|nn
@@ -29,7 +29,7 @@ A|Anyone that would use chemical weapons to fight his own people,|sv
 B|Oh, yeah.|b
 B|Well, yeah,|b
 B|he's, uh, a bad person, very definitely,|sv
-A| And, obviously, that has something to do with it.|sv
+A| And,  obviously, that has something to do with it.|sv
 B| yeah. |b
 B|Oh, sure.|aa
 A|And, and if, you know,|%
@@ -44,7 +44,7 @@ B|Yeah,|b
 B|many years.|bf
 A|You know they've been our friends through thick and thin.|sd
 B|Uh-huh.|b
-A|They,And ready to storm into Saudi. were  at the Saudi border.|sd
+A|They,  were  at the Saudi border. And ready to storm into Saudi.|sd
 B| Well, |%
 B|Uh-huh.|b
 A|Shouldn't we try and help our friends?|qy
@@ -52,7 +52,7 @@ B|Certainly,|na
 B|but what at, at what cost, you know,|qh
 B|that's the, uh, the thing, it came out, it came out wonderfully supposedly|sv
 B|I mean everything is|%
-A|What did we lose, lives.  forty-one Americans, |qh
+A|What did we lose,  forty-one Americans,   lives. |qh
 B| and we won. |sd
 B| Yeah, |b
 B|and that, that's wonderful|sv
@@ -61,13 +61,13 @@ B|What if we would have lost thousands of young men.|qh
 B|Would that, would it have been too much of a price to pay for that?|qh
 B|I don't know.|sd
 B|See, and I think there are a lot of things that we don't know|sv
-B|but, that, |%
+B|but,  that, |%
 A| Oh, |b
-A|of course,our government is full of liars, thieves, and crooks.|sv
+A|of course, our government is full of liars, thieves, and crooks.|sv
 B|the American people,|%
 B|Oh, sure.|aa
-B|Well, and there's a lot, that we, |sv
-A| And that's, our own fault because we elected them.|sv
+B|Well, and there's a lot,  that we, |sv
+A| And that's,  our own fault because we elected them.|sv
 B|Yeah.|aa
 B|I think that's true|sv
 B|but I think there's a lot that we, the public doesn't need to know.|sv
@@ -78,20 +78,20 @@ B|but I also agree that there are a lot of crooks and liars too.|sd
 A|You know, it's, uh,|%
 A|I went on jury duty here not long back.|sd
 B|Uh-huh.|b
-A|And uh, one of the guys that was on the jury they were asking him if, if you could believe a lawyer or if a, lawyer's  reputation was so tainted that he couldn't be believed|sd
+A|And uh, one of the guys that was on the jury they were asking him if, if you could believe a lawyer or if a,  lawyer's  reputation was so tainted that he couldn't be believed|sd
 B| Uh-huh. |b
 A|and one guy being selected snickered and couldn't keep his head up, you know,|sd
 B| Uh-huh. |b
 A| and  the guy said, Well, can you share it with us what you, what you find so funny?|sd
 A|He says, Well, I already told you my sons a lawyer.|sd
-A|He said that when he graduated, the day after his bar examinethere in Houston.|sd
+A|He said that when he graduated, the day after his bar examine there in Houston.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|He told him, Dad, you know how to tell when a lawyers lying to you?|sd
 A|His lips are moving.|^q
 B|Oh, my gosh|ba
 B|Oh.|b
-A|And ninety percent of all politicians, and  lawyers,|sv
+A|And ninety percent of all politicians,  and  lawyers,|sv
 B| Uh-huh. |b
 B|Uh-huh.|aa
 B|Have a lawyer background,|bf
@@ -113,7 +113,7 @@ B|and,|%
 A|Well, we hit them with more in one month than we used in three years, the last three years of Vietnam.|sd
 B|I know.|sd
 B|Yeah.|aa
-A|And whenever you strike on open terrain with that sheer volumethere's nothing they can do about it.|sv
+A|And whenever you strike on open terrain with that sheer volume there's nothing they can do about it.|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Right.|b

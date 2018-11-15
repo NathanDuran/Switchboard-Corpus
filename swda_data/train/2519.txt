@@ -5,9 +5,9 @@ B|I'm definitely|sd
 B|I do like to walk.|sd
 A|Do you?|qy
 B|Yes.|ny
-B|Since T I has, uh, uh, instituted that, um, walkabout,and, uh, park out there, you know, way out there in the boondocks.I have gone out and started walking even more, bought me the, you know, the proper shoes and everything to get started,|sd
+B|Since T I has, uh, uh, instituted that, um, walkabout, I have gone out and started walking even more, bought me the, you know, the proper shoes and everything to get started, and, uh, park out there, you know, way out there in the boondocks.|sd
 A|Yeah.|b
-A|Wonderful.Uh-huh.|ba
+A|Wonderful. Uh-huh.|ba
 B|It was so funny the other day,|sv
 B|I took some guys to, to lunch|sd
 B|and when we came back they said "Oh, there's a parking space real close," and I parked way out in the boonies,|sd
@@ -18,13 +18,13 @@ B|Yeah.|aa
 A|I'm kind of like you,|sv
 A|I've never really gotten into it,|sd
 A|it's just a, it's just a chore, you know,|sd
-B|Um, um.Oh.|b
+B|Um, um. Oh.|b
 A|and I finally decided one semester, I'm in college and I'm taking night classes and I still don't have any of my P E classes,|sd
 A|and so one semester I thought, okay, that's what I'm going to do|sd
 A|and that will get me where I'll have to do it, you know,|sv
 B|Uh-huh.|b
-A|and they were offering a, a walking class,where you, you know, you have to walk, you know, that like for every mile you walk and every so many minutes, you get, you get points, you know,|sd
-B|Um, um.Um, um.|b
+A|and they were offering a, a walking class, where you, you know, you have to walk, you know, that like for every mile you walk and every so many minutes, you get, you get points, you know,|sd
+B|Um, um. Um, um.|b
 A|and then you have to go in once a week and log your points|sd
 A|so it's not like you can do the class like anytime you want, you know,|sd
 A|and, at the end of the semester you go back in and your, like your final exam is a three mile walk.|sd
@@ -41,17 +41,17 @@ B|Uh-huh.|b
 A|and, you know, I had, I did that,|sd
 A|and I just ended up having to drop the class.|sd
 B|Oh.|b
-A|you know, by the time the final came around, I wasn't even where I could wear a shoe yet,let alone walk three miles, you know.|sd
+A|you know, by the time the final came around, I wasn't even where I could wear a shoe yet, let alone walk three miles, you know.|sd
 B|Oh, no.|b
 B|Yeah.|b
-A|But, that was the only time I have ever been able to like start an exercise program and really stick to it,because then I had to, I had to go every week and log in what I had walked,|sd
-B|Um, um.Right.|b
+A|But, that was the only time I have ever been able to like start an exercise program and really stick to it, because then I had to, I had to go every week and log in what I had walked,|sd
+B|Um, um. Right.|b
 A|and, my teacher looked at it every week, you know.|sd
 B|Uh-huh.|b
-A|But, other than that I just, you know, I kind of get in the mood every once in awhile, say,okay, I'm going to start going to aerobics now, you know,|sv
+A|But, other than that I just, you know, I kind of get in the mood every once in awhile, say, okay, I'm going to start going to aerobics now, you know,|sv
 B|Uh-huh.|b
 B|There you go.|fo_o_fw_"_by_bc
-A|and, I'll go for like two weeks and go, this is for the birds,this is too much work.|sv
+A|and, I'll go for like two weeks and go, this is for the birds, this is too much work.|sv
 B|Well, you know, I have noticed too that, uh, when I started the exercise, uh, not the exercise but the walking program, uh, that I did tone up, you know, like all over,|sd
 A|Uh-huh.|b
 B|but it didn't get the upper part of my body,|sd
@@ -77,14 +77,14 @@ B|It sure does.|aa
 A|I was on, uh, Nutri Systems for a while,|sd
 B|Uh-huh.|b
 A|and, that is one of the things that they really stressed doing, you know,|sd
-A|when you come to your Nutri System meeting, don't park in the parking place outside the front door,park at the other end, you know,|sd
+A|when you come to your Nutri System meeting, don't park in the parking place outside the front door, park at the other end, you know,|sd
 B|Yeah|b
 B|Right.|b
 A|I mean, and they stretched, stressed things like that too.|sd
-A|You know, during, when you're sitting watching T V at night,but get up during every commercial. And, things like that.go to the living room and get a glass of water, go to the bedroom and make the bed, go do something,during every commercial get up off the couch,|sv
+A|You know, during, when you're sitting watching T V at night, during every commercial get up off the couch, go to the living room and get a glass of water, go to the bedroom and make the bed, go do something, but get up during every commercial. And, things like that.|sv
 B|Uh-huh.|b
 B|There you go.|sv
-A|And, you'd be surprised at how much just that little bit adds up,you know, just gives you a little more activity|sv
+A|And, you'd be surprised at how much just that little bit adds up, you know, just gives you a little more activity|sv
 A|so,|%
 B|That's true.|aa
 A|especially when you're like us and don't really want to do it anyway.|sv
@@ -109,7 +109,7 @@ B|Me too.|aa
 A|so, but, you know, I have found that with,|sv
 A|I have a two year old,|sd
 B|Uh-huh.|b
-A|and I have found really though, I'm kind of the opposite, I'm more active now with him, than I was before,because now, you know, he'll "I want to go outside" and I'll go outside with him|sv
+A|and I have found really though, I'm kind of the opposite, I'm more active now with him, than I was before, because now, you know, he'll "I want to go outside" and I'll go outside with him|sv
 B|Yeah.|b
 A|and we'll walk up and down the street,|sd
 A|and we'll go to the park|sd
@@ -121,7 +121,7 @@ A|so, I think, I think that has helped a little bit,|sv
 A|I don't know.|h
 B|Yeah,|b
 B|yeah,|b
-A|Just chasing him around the house, you know,will be plenty for you.|sv
+A|Just chasing him around the house, you know, will be plenty for you.|sv
 B|that's enough.|^2
 B|Well, mine are older now, doing, uh, their own things|sd
 B|so,|%
@@ -173,7 +173,7 @@ A|and like two nights a week I was going to school|sd
 A|and then the other two nights a week my husband worked,|sd
 A|so I had to pick Ryan up, you know,|sd
 B|Oh, yeah.|b
-A|there's always an excuse, you know,to not do it|sv
+A|there's always an excuse, you know, to not do it|sv
 B|Oh, yeah.|b
 A|so,|%
 B|And, it gets worse,|sv
@@ -183,7 +183,7 @@ A|oh, I'm sure,|aa
 A|I'm sure.|aa
 B|Yeah,|b
 B|because I'm constantly running my children around someplace|sd
-B|and that's where I actually get my exercise,in the car.is running them from here to there,|sd
+B|and that's where I actually get my exercise, is running them from here to there, in the car.|sd
 A|Yeah.|b
 A|here to here,|^2
 A|here,|%

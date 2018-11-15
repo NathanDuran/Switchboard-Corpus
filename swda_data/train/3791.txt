@@ -14,25 +14,25 @@ B|Just my husband and I and the two dogs.|sd
 A|Yeah.|b
 B|So what about yours?|qo
 A|Well, my wife and I and we've got a thirteen week old baby|sd
-A|sodon't do much cooking for him yet.|sd
+A|so don't do much cooking for him yet.|sd
 B|Uh-huh.|b
 A|Uh,|%
 B|So I guess it's supposed to be dinner party, is that what they said?|qy
 A|Uh, yeah|ny
 A|what kind of menu would you plan for a dinner party|sd
-A|and, uh, what kind of dishes you might have for it, orsome sort of thing like that.|sd
+A|and, uh, what kind of dishes you might have for it, or some sort of thing like that.|sd
 B|Uh-huh.|b
 B|Huh,|b
 B|we don't,|sd
-A|Let's see, a good dinner partymenu.|^h
+A|Let's see, a good dinner party menu.|^h
 B|Think you,|%
 A|I suppose it would just about depend on who was coming, I guess.|sd
 B|Uh-huh,|b
 B|uh-huh.|b
 A|You know, uh, something light and easy.|sd
-A|If it was pretty informalabout anything.|sd
+A|If it was pretty informal about anything.|sd
 B|Uh-huh.|b
-B|Sometimeswe'll have, uh, we'll have a bunch of people over and cook deer.|sd
+B|Sometimes we'll have, uh, we'll have a bunch of people over and cook deer.|sd
 A|Breast of chicken|sd
 A|Oh, gosh,|ba
 A|yeah.|%
@@ -41,7 +41,7 @@ B|Huh?|br
 A|How do you usually cook your deer?|qw
 B|How do we usually?|br
 A|Yeah.|ny
-B|On the grill, we'll take the back strap and soak it in Italian dressing for a couple of hoursand throw it on the grill|sd
+B|On the grill, we'll take the back strap and soak it in Italian dressing for a couple of hours and throw it on the grill|sd
 A|Yeah.|b
 B|and it is good.|sd
 A|I imagine.|ba
@@ -51,13 +51,13 @@ B|Either that or hamburgers, we really don't have dinner parties.|sd
 A|Yeah.|b
 A|Yeah,|b
 A|I understand.|ba
-A|We just had, uh, deer stew sort ofin kind of a mushroom gravy.uh, some deer steaksUh, well about a day, day and a half in the crock pot, uhuh, it was deer steak stew.|sd
+A|We just had, uh, deer stew sort of uh, it was deer steak stew. Uh, well about a day, day and a half in the crock pot, uh uh, some deer steaks in kind of a mushroom gravy.|sd
 B|Uh-huh.|b
 B|Ooh.|ba
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|Uh, some veggies in it.|sd
-B|Did you killthe deer?|qy
+B|Did you kill the deer?|qy
 A|No.|nn
 B|No.|b^m
 A|No,|nn
@@ -91,12 +91,12 @@ A|and they,|%
 A|about eight months ago they gave it to us.|sd
 B|Yeah.|b
 A|We, we either crock pot deer|sd
-A|or we'll, uh, you know, put it out on the grill so that, uhthe bulk of the tallow will dribble off of it.|sd
+A|or we'll, uh, you know, put it out on the grill so that, uh the bulk of the tallow will dribble off of it.|sd
 B|Uh-huh,|b
 B|uh-huh.|b
 B|Yeah.|b
 B|We|%
-B|we usually have most of it made into, uh, hamburger meat, though.And cook, you know, spaghetti with it.|sd
+B|we usually have most of it made into, uh, hamburger meat, though. And cook, you know, spaghetti with it.|sd
 A|Yeah.|b
 A|Yeah.|b
 B|Chili.|sd
@@ -105,13 +105,13 @@ B|So,|%
 A|Deer spaghetti is real good.|sv
 B|Uh-huh|aa
 A|Anyway, uh, no,|fo_o_fw_"_by_bc
-A|I think if I was going to have a dinner party, I'd probably have, uh, sandwiches or something along those lines andOr maybe have something roasting out on the fire.then, uh, uh, you know, just something light finger food sort of something or,|sd
+A|I think if I was going to have a dinner party, I'd probably have, uh, sandwiches or something along those lines and then, uh, uh, you know, just something light finger food sort of something or, Or maybe have something roasting out on the fire.|sd
 B|Uh-huh.|b
 B|Yeah,|b
 B|yeah.|b
-A|Oh, well, anyway.Uh, we don't do much in the way of entertaining.|sd
+A|Oh, well, anyway. Uh, we don't do much in the way of entertaining.|sd
 B|Um.|b
-A|Usually it's,one other couple come over for a dinner.|sd
+A|Usually it's, one other couple come over for a dinner.|sd
 B|Uh-huh.|b
 A|Let's see, what did we have the last time we had guests over.|t1
 A|Ah, yeah,|fo_o_fw_"_by_bc

@@ -112,7 +112,7 @@ A|and I, , uh, I can't remember who it is|sd
 A|but there's a really famous,|sd
 A|of dang,|ba
 A|I can't remember.|sd
-B|Politicians pushing it, or, uhOr Mitch Snider.or Mitch Snider.|bf
+B|Politicians pushing it, or, uh or Mitch Snider. Or Mitch Snider.|bf
 A|That proposed it,|sd
 A|I read something in PEOPLE about it.|sd
 A|Huh.|br
@@ -125,7 +125,7 @@ A|Yeah.|b
 B|Yeah,|b
 B|he started that|sd
 B|and that, that was basically a, you know, donate time and money to, uh, help the homeless,|sd
-B|but, uh.uh,|%
+B|but, uh. uh,|%
 A|What have your other topics been?|qw
 B|the other topic was, like I said, uh, something about politicians.|sd
 B|I can't remember exactly what it was.|sd
@@ -207,7 +207,7 @@ B|you don't work for Texas Instruments.|bf
 A|Huh-uh.|aa
 B|Oh, okay.|bk
 A|Let's see, one of my friends had a roommate that worked for T I|sd
-A|and she saw this on her computerand thought it might be neat,|sd
+A|and she saw this on her computer and thought it might be neat,|sd
 B|Oh.|b
 A|so she ran off copies of the thing.|sd
 B|Oh.|b

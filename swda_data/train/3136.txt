@@ -9,7 +9,7 @@ B|I do|sd
 A|But we lost our bushes in those and have been waiting to plant new ones.|sd
 A|And so, as far as our bushes, we don't have any|sd
 A|but we do have some blackberry bushes.|sd
-A| And and they were really hearty and stayed on|sd
+A| And  and they were really hearty and stayed on|sd
 B| Oh,  really.|b
 A|and we've done really well with them.|sd
 B|Did you plant those yourself?|qy
@@ -48,7 +48,7 @@ B| Oh,  I think I know what they,|sv
 B|I can't remember what the name of them are either.|sd
 A|No,|nn
 A|but I think they're real pretty when it rains because their petals don't soak the rain in.|sd
-A|They, they keep the, the rain on the outside, little raindrops|sd
+A|They, they keep the, the rain on the outside, little rain drops|sd
 B|Oh.|b
 A|and, and they look real pretty after the rain.|sd
 A|And so I really like them|sd
@@ -71,11 +71,11 @@ A|Uh-huh.|b
 B|It was just horrible.|sd
 B|And my neighbors on either side of me have beautiful lawns|sd
 B|and we have this God awful ugly  thing.|sd
-B|And  and I know they must think,  you know, I wish those people would do something about their yard.|sd
+B|And   and I know they must think,  you know, I wish those people would do something about their yard.|sd
 A| Crappy   I know,|^2
 A|we have that too. |sd
 B|But my husband got some new fertilizer and stuff, that, that seems to be helping|sd
-B|and he put it on the front yardto see how, you know, it would do and stuff before he put it on the backyard.|sd
+B|and he put it on the front yard to see how, you know, it would do and stuff before he put it on the backyard.|sd
 A|Uh-huh.|b
 B|But we've got a Great Dane in the back|sd
 A|Uh-huh.|b
@@ -86,7 +86,7 @@ B|I know,|ba
 B|and she's eaten the bushes.|sd
 B|I've tried to, I spent like eight hours planting this nice garden out there|sd
 A|No.|nn
-B|and I barricaded it up,so she couldn't get into it.|sd
+B|and I barricaded it up, so she couldn't get into it.|sd
 A|Uh-huh.|b
 B|And I went and took a shower and looked back out there|sd
 B|and she was already in it.|sd
@@ -123,13 +123,13 @@ B|But I've got two good size cottonwood trees out in my front yard. Uh, you know
 A|Uh-huh.|b
 B|And, and they're big|sd
 B|and they're real full and everything, you know, in the summer time|sd
-B|but it, it's killing everything underneathwhere the leaves are shading the tree|sd
+B|but it, it's killing everything underneath where the leaves are shading the tree|sd
 A|Yeah.|b
 B|but toward the end of the summer, you know, when everything starts dying off and whatnot and then the light can get through the tree, then the grass starts growing.|sd
 B|But, by then it's so late then the winter comes and it stops.|sd
-B|You know,  it's, it's it's a never ending  cycle. |sv
+B|You know,  it's, it's  it's a never ending  cycle. |sv
 A| Right. |b
-A| It's  a vicious cycle,isn't it?|qy
+A| It's  a vicious cycle, isn't it?|qy
 B|Yeah,|ny
 B| it really is. |sd
 A| It just really, |sd
@@ -137,7 +137,7 @@ B|So we've been trying to get something or to pull some grass underneath there a
 B|So,|%
 A|Well, I don't,|%
 A|we've never done anything like this|sd
-A|but we've been thinking, you know, if we built up, uh, you know, either a wood, wooden like trench thing around where our bushes were and filled it like with a nice dirtor, or some new bushes in there that would live.then maybe we could plant some either flowers,|sd
+A|but we've been thinking, you know, if we built up, uh, you know, either a wood, wooden like trench thing around where our bushes were and filled it like with a nice dirt then maybe we could plant some either flowers, or, or some new bushes in there that would live.|sd
 B|Uh-huh.|b
 A|And so I think that we're going to try that.|sd
 B| Huh. |b
@@ -169,7 +169,7 @@ B|I don't have anything to look at|sd
 B|so I look at theirs.|sd
 A|But it's funny because, uh, you try so hard I think sometimes to, to, anyway I do, to do our yard|sv
 B|Uh-huh|b
-A|and then it's like the wind blows everything whether the weeds from your yard to your neighbors or  yours to them|sd
+A|and then it's like the wind blows everything whether the weeds from your yard to your neighbors or  yours  to them|sd
 B| Yeah|b
 A|or and so even if you did get it under control, it seems like in just a few months it would all be back|sv
 A|and|%
@@ -181,12 +181,12 @@ A| It's hard  to get out a lot and do that yard work.|^2
 B|Yeah|b
 B|I'm,|%
 B|it's usually me and the kids that go out and mow the yard|sd
-B|andand I just I really do not appreciate having to go out there and do it.|sd
+B|and and I just I really do not appreciate having to go out there and do it.|sd
 A|Uh-huh.|b
 B|I hate to mow the yard, more than anything else.|sd
 B|I hate to mow that yard.|sd
 A|I know.|ba
-A|It is, it's not my favorite,thing in the world either.|sd
+A|It is, it's not my favorite, thing in the world either.|sd
 A|I'm glad I have an old enough son to do it for me now.|sd
 B|Yeah,|b
 B|well mine's getting there.|sd
@@ -197,7 +197,7 @@ A| Uh-huh. |b
 A|Yeah.|b
 A|Yeah|b
 A|Well that is one chore that we will pay him for, if he'll go do the yard work out,  outside,|sd
-B| Oh sure I'll be more then glad  to pay himand, and do it to where I don't have to go back out and redo it. if he'd  just go out there and do it|sv
+B| Oh sure I'll be more then glad  to pay him  if he'd  just go out there and do it and, and do it to where I don't have to go back out and redo it.|sv
 A| Right.|aa
 A|Exactly. |aa
 B| That,  that's my only thing with him.|sd

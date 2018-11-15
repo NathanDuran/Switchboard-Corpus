@@ -36,7 +36,7 @@ A|Yeah.|b^m
 B|It was sad.|sd
 B|It was really sad.|sd
 A|Oh.|b
-B|But, uh, his, it kind of shows how his, uh, best friend, this little girl, deals with his deathand how, I think, maybe, how children should deal with death.|sd
+B|But, uh, his, it kind of shows how his, uh, best friend, this little girl, deals with his death and how, I think, maybe, how children should deal with death.|sd
 A|Oh.|b
 A|Oh.|b
 B|Maybe.|b
@@ -59,25 +59,25 @@ B|Oh, really?|bh
 A|But, uh, it's just as suspenseful, I think.|sv
 B|Oh.|b
 A|And it, it was a real good movie.|sd
-A|And then we saw BEAUTY AND THE BEASTAnd FIEVEL GOES WESTBecause we have two kids.|sd
+A|And then we saw BEAUTY AND THE BEAST Because we have two kids. And FIEVEL GOES WEST|sd
 B|Oh, yeah.|b
 B|Uh.|b
 B|Oh, I've seen, uh, previews for them on T V,|sd
 B|but I,|%
 A|But, uh, those were, those were okay,|sd
-A|so,And then, oh, boy, it's been, it's been so long since we've been to the movies,|sd
+A|so, And then, oh, boy, it's been, it's been so long since we've been to the movies,|sd
 B|Yeah.|b
 A|but I, we've rented some videos.|sd
 B|Oh, yeah,|b
 B|I like to rent movies, too.|sd
-A|And I think the last one I rented was, uh, MORTAL THOUGHTSwith Demi Moore.|sd
+A|And I think the last one I rented was, uh, MORTAL THOUGHTS with Demi Moore.|sd
 B|Oh.|b
 B|Oh, I, I didn't see that.|sd
 A|And, uh, that, that, that's okay.|sd
 A|That's pretty good.|sd
 B|Yeah.|b
 A|Oh, and, uh, WHAT ABOUT BOB?|sd
-B|I have seen thatat the theatres,|sd
+B|I have seen that at the theatres,|sd
 A|Yeah.|b
 B|yeah.|%
 A|Yeah,|b^m
@@ -102,7 +102,7 @@ A|So, do you go to the movies often,|qy
 A|or,|%
 B|No,|nn
 B|not too often.|sd
-B|I, I hadn't been to the movies for a really long timesince last weekend.|sd
+B|I, I hadn't been to the movies for a really long time since last weekend.|sd
 A|Uh-huh.|b
 B|But, uh, there's been movies out that I've been wanting to see.|sd
 B|I just, you know, don't get a chance to get out and see them.|sd
@@ -111,13 +111,13 @@ A|yeah,|b
 A|well, we have two little kids,|sd
 A|so it's hard for us to get out and go to the movies.|sd
 A|We have to dig up a baby-sitter|sd
-A|andAnd that's only the only time we can go out,|sd
+A|and And that's only the only time we can go out,|sd
 B|Oh I see.|b
 A|so our time is scarce.|sd
 B|Yeah.|b
 B|Oh.|b
 A|But, uh, we, we, we we, you know, we're, we're big movie people|sd
-A|andwe try and do|sd
+A|and we try and do|sd
 B|Yeah.|b
 A|and I don't, I don't know about the last movie I've seen on T V that was real good. Uh,|sd
 B|Oh, I watched that movie with, uh, Barbara, uh, uh,|sd
@@ -128,7 +128,7 @@ B|and, uh, she had a baby.|sd
 B|The husband was a dentist|sd
 B|and he had murdered her.|sd
 A|Oh, yeah,|b
-A|uh,Bertinelli, or what's her name.|sd
+A|uh, Bertinelli, or what's her name.|sd
 B|That was, that was pretty good.|sv
 B|Yeah,|aa
 B|uh-huh,|aa
@@ -168,7 +168,7 @@ B|I saw that.|sd
 A|Guess a couple weeks ago or something like that.|sd
 B|Yeah,|aa
 B|that was pretty good.|aa
-A|Boywe, we see all the same movies.we have|sv
+A|Boy we have we, we see all the same movies.|sv
 B|I,|%
 B|Yeah.|aa
 B|I like, uh, the true stories.|sd
@@ -181,7 +181,7 @@ B|Some of them are pretty bad.|sv
 A|Yeah,|aa
 A|yeah.|aa
 B|But,|%
-A|Huh. WellWe sure do have a lot in common.|sv
+A|Huh. Well We sure do have a lot in common.|sv
 B|Yeah.|b
 A|If you're ever in town, we'll go see a movie|ad
 B|Okay|aa

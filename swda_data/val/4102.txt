@@ -22,7 +22,7 @@ B|Uh-huh.|b
 A|uh, I know they certainly don't want to be in a nursing home,|sd
 A|but my daddy keeps talking about it.|sd
 A|I don't,|%
-A|I couldn't possibly,couldn't never see him in a nursing home.|sd
+A|I couldn't possibly, couldn't never see him in a nursing home.|sd
 B|ery faint.|%
 A|And my grand daddy also doesn't like, wouldn't want to be in a nursing home.|sd
 A|He's ninety, I think right on ninety right now|sd
@@ -63,7 +63,7 @@ A|Right.|b
 A|So they are pretty limited.|bf
 B|Right.|aa
 A|Oh, another interesting thing,|sv
-A|another good friend of mine who got her degree in social gerontology well had a job for a while where she went around to to folks and had them, sort of kicked them in the pants to make them take good care of their older relatives.To make sure that they would take care of their responsibilities.|sd
+A|another good friend of mine who got her degree in social gerontology well had a job for a while where she went around to to folks and had them, sort of kicked them in the pants to make them take good care of their older relatives. To make sure that they would take care of their responsibilities.|sd
 B|Oh really.|b
 B|Uh-huh.|b
 A|I don't think that was mainly with Alzheimer's patients, but just patients, people in general who were not as independent as they use to be.|sv
@@ -71,7 +71,7 @@ B|Uh-huh,|b
 B|uh-huh.|b
 B|Well, it, it's, it's a really, day care programs are really neat, you know|sv
 B|and if the, if the people are able and and can get up and move and everything like that, that is one of the best things to do,|sv
-B|but I think the hardest thing to do is whenever you've got a person who's mentally very alert and activeand their body just hasn't kept up with them|sv
+B|but I think the hardest thing to do is whenever you've got a person who's mentally very alert and active and their body just hasn't kept up with them|sv
 A|Uh-huh ery faint.|b
 A|Right.|b
 B|and I think that's in a way it's more, some, an area where some of the day care, uh, programs have left off|sv
@@ -81,7 +81,7 @@ A|Right|b
 A|to, uh, get there and to participate in the activities.|sd
 B|Right.|b
 B|Cause I know, there's one not too far from from me here in Dallas.|sd
-B|Uh, and they have ceramics and pottery and needle workand sports.|sd
+B|Uh, and they have ceramics and pottery and needle work and sports.|sd
 A|Right.|aa
 A|Right.|aa
 B|But if your vision is gone and you have arthritis real badly,|sd
@@ -89,10 +89,10 @@ A|That's true.|aa
 A|You can't play those things.|bf
 B|Yeah,|aa
 B|you can't do it.|sd
-A|But you can sing songs and, uhand tell stories about the old times.|sv
+A|But you can sing songs and, uh and tell stories about the old times.|sv
 B|Well, that's true.|aa
 A|I guess, you know, you were talking about your,|sd
-A|was it your grand motheruh, being able to tell old stories.that was having Alzheimer|qy
+A|was it your grand mother that was having Alzheimer uh, being able to tell old stories.|qy
 B|Uh-huh.|ny
 B|Uh-huh.|ny
 A|You can perhaps get a group of people that aren't too far along with Alzheimer talking about the old times and enjoying it themselves that way.|sv

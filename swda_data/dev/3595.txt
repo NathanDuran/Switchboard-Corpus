@@ -4,9 +4,9 @@ B|Is that right?|bh
 A|Yeah.|ny
 B|Well, I never thought about that,|sd
 B|but there is an Arlington,|sd
-B|like I had a call the other day from Birmingham, Michiganyou know,|sd
+B|like I had a call the other day from Birmingham, Michigan you know,|sd
 A|Oh|b
-B|and I was thinkingyeah, and I was thinking|sd
+B|and I was thinking yeah, and I was thinking|sd
 A|Birmingham.|b^m
 B|the only Birmingham I could think of was Alabama.|sd
 A|Right.|aa
@@ -14,7 +14,7 @@ A|It's funny how many names have been used, uh, all over the country.|sv
 B|Yeah,|aa
 B|well, tell me what kind of books have you read?|qw
 A|Well, to tell you the truth, I've been going to college for the last four years|sd
-A|so mainly,text books.|sd
+A|so mainly, text books.|sd
 B|I was going to say, not fun kind, right?|qy
 A|No, um,|nn
 A|but, I, I really tend to like biographies a lot, not necessarily always heavy ones|sd
@@ -25,7 +25,7 @@ A|I love to read about real people.|sd
 A|To me, half the time it's more fascinating than some of these made up stories|sd
 B|Yeah,|aa
 B|it is,|sd
-B|because you know that's it's really and trulya true thing.|sd
+B|because you know that's it's really and truly a true thing.|sd
 A|Yeah,|aa
 A|it happened.|sd
 B|You know, I read one about Bob Hope that I liked.|sd
@@ -33,7 +33,7 @@ A|Really?|bh
 B|Yeah,|ny
 B|that was real good.|sd
 B|I'm like you,|sd
-B|if it's not a heavy biography, you knowI enjoy it.|sd
+B|if it's not a heavy biography, you know I enjoy it.|sd
 A|Right.|b
 A|I used to like to read about royalty a lot.|sd
 A|I, when I was younger I read about every king and queen that lived, I think, in Europe.|sd
@@ -65,7 +65,7 @@ A|I've heard that she's done you know, her books are really interesting,|sd
 A|and they always sell well.|sd
 B|Uh-huh.|b
 A|And, uh,|%
-B|Well, when you use real people like that, I thinkroyalty, especially, you know.|sv
+B|Well, when you use real people like that, I think royalty, especially, you know.|sv
 A|Yeah,|aa
 A|brings it to life.|sv
 A|I know, uh, the some of the British people laugh at us because we're so enthralled with their royalty.|sd
@@ -93,9 +93,9 @@ A|Isn't she fabulous?|qy
 B|Oh, she is wonderful.|na
 A|Oh, once you|sd
 A|I don't like to get one of her books|sd
-A|because,I, I just live to read.|sd
+A|because, I, I just live to read.|sd
 A|I'll, I'll skip everything just to get back to the book|sd
-B|I stayed up one night, I think until twoin the morning finishing one of hers because I I could not put it down.|sd
+B|I stayed up one night, I think until two in the morning finishing one of hers because I I could not put it down.|sd
 A|Oh, yeah.|ba
 A|She's just a,|sv
 A|I don't know,|h
@@ -107,7 +107,7 @@ B|She writes the same thing.|sv
 A|Well, she can, she can turn them out overnight, I swear.|sv
 B|Yeah,|aa
 B|and, and they're the same silly things,|sv
-B|I mean, if you've read one, I mean it's,It, it's practically the same thing over and over, you know.|sv
+B|I mean, if you've read one, I mean it's, It, it's practically the same thing over and over, you know.|sv
 A|Yeah,|aa
 A|I've never read a whole one of hers, I don't think.|sd
 A|And think how rich she is.|ad
@@ -124,11 +124,11 @@ B|You know, mini series and so forth,|sd
 B|and it seems to me like Susan Howatch does not write as often.|sd
 B|I have not seen as many of hers.|sd
 A|Well, hers are so involved,|sv
-A|and they're sosuch a higher intellectual level, because she quotes a lot, you know.|sv
+A|and they're so such a higher intellectual level, because she quotes a lot, you know.|sv
 B|Uh-huh.|b
 B|I think she does a lot of research, too.|sv
 A|I do too,|aa
-A|so she couldn't possibly turn them out like some of these popularwriters,|sv
+A|so she couldn't possibly turn them out like some of these popular writers,|sv
 B|Huh-uh.|aa
 A|but oh, her books are just incredible.|sv
 A|I don't think they've ever made a movie, do you?|qy
@@ -148,7 +148,7 @@ B|Maybe they're just too involved for the average person to go and sit through t
 A|They're so big|sv
 B|Uh-huh.|b
 A|they're such, you know,|sd
-A|it would be like another GONE WITH THE WIND, I guessanother three hour movie|sv
+A|it would be like another GONE WITH THE WIND, I guess another three hour movie|sv
 B|Yeah.|b
 B|And maybe that turns people off,|sd
 B|but look at GONE WITH THE WIND, you know.|ad
@@ -162,7 +162,7 @@ B|Yeah,|aa
 B|that's exactly what I was going to say.|sd
 B|I was amazed,|sd
 B|because I,|%
-B|in the beginning when it was on, you know, on route coming outkind of good and bad,I heard mixed publicity|sd
+B|in the beginning when it was on, you know, on route coming out I heard mixed publicity kind of good and bad,|sd
 A|Uh-huh.|b
 A|Right.|b
 B|and then when it came out, all I heard was just, oh, how bad it was, that I didn't even want to get it.|sd
@@ -172,5 +172,5 @@ B|Huh-uh.|nn
 A|No,|aa
 A|I haven't heard of anybody that's read it, either.|sd
 B|No.|b
-A|I think it was on the best-seller list, thoughfor a while.|sd
-B|Wellit wouldn't surprise me,|sd
+A|I think it was on the best-seller list, though for a while.|sd
+B|Well it wouldn't surprise me,|sd

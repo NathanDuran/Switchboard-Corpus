@@ -5,7 +5,7 @@ A|Uh-huh.|b
 B|And, uh, I also like to plant flowers and do do some gardening and do arts and crafts.|sd
 A|Uh-huh.|b
 A|Where do you play golf in this area?|qw
-B|Well, we live, uh, pretty close,to the Mesquite Golf Course.|sd
+B|Well, we live, uh, pretty close, to the Mesquite Golf Course.|sd
 A|Uh-huh.|b
 B|So, we will play either out there or at Firewheel.|sd
 B|That is usually where we play,|sd
@@ -58,10 +58,10 @@ B|it has got one through ten on it|sd
 B|and every time you go they just punch it for you.|sd
 A|Well, in the last two years, I have not played very much golf because I am involved in Boy Scouts.|sd
 B|Oh, okay.|bk
-A|So, I have, uh, I have,  uh, I have children Boy Scout age.|sd
+A|So, I have, uh, I have,  uh, I have children  Boy Scout age.|sd
 B| You must have a, a son. |qy^d
 A|I have two boys that are boy scout age,|na
-A|and, uh, soI am very active in Boy Scouts|sd
+A|and, uh, so I am very active in Boy Scouts|sd
 B|Oh, okay.|bk
 A|so I would have to say that camping and hiking and canoeing and Boy Scouts is my hobby.|sd
 B|Yeah.|b
@@ -80,12 +80,12 @@ A|Well, they would probably never make it then|ar
 A|because I don't think, uh,|sd
 A|I only took lessons for golf when I was in college.|sd
 B|Uh-huh.|b
-A|Uh, as a course for P E you knowso I could graduate.|sd
+A|Uh, as a course for P E you know so I could graduate.|sd
 B|Right,|b
 B|Right.|b
 B|Uh-huh.|b
 A|But, uh, that is the only time I think I have ever really taken golf lessons|sd
-A|and that was kind of a groupand not individual.scenario|sd
+A|and that was kind of a group scenario and not individual.|sd
 B|Uh-huh.|b
 B|Right.|b
 B|Right.|b
@@ -127,7 +127,7 @@ B|I didn't do anything to them|sd
 B|so they are, uh, they are good to plant in the winter time.|sd
 B|They last for a long time then.|sd
 B|So, if you start putting them, you know, you can put them out in the spring too,|sd
-B|but once it starts getting real hotthen it just kills them cause they can't stand the hot weather.|sd
+B|but once it starts getting real hot then it just kills them cause they can't stand the hot weather.|sd
 A|Uh-huh.|b
 A|Do they survive longer if you plant them in the winter time?|qy
 A|Will they make it through the summer sun?|qy

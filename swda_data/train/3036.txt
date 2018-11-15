@@ -2,7 +2,7 @@ A|Well, uh, if you had to pick a, a type of music that you like, would you be ab
 B|Well, I could pick country music. *answered as if to a qw|arp_nd
 A|Country music?|qy
 A|I,|%
-B|As I've gotten older, I've started listening more to the words of musicand to the softer melodies.|sd
+B|As I've gotten older, I've started listening more to the words of music and to the softer melodies.|sd
 B|Not originally.|ng
 A|Not originally.|b^m
 A|Where you from?|qw
@@ -48,7 +48,7 @@ B|I don't know.|no
 B|I'm not all that familiar with her work.|sd
 A|Uh, uh, let's see. Well, name some people that are country that I should listen to|ad
 A|That would be good.|sv
-B|Well, I kind of like, uh, I like groups like the Statler Brothers.And the Judds, certainly.|sd
+B|Well, I kind of like, uh, I like groups like the Statler Brothers. And the Judds, certainly.|sd
 A|Okay.|bk
 A|Oh, okay,|bk
 A|I, I must admit that's, yeah, they're fantastic,|sv
@@ -103,7 +103,7 @@ A|So, it's kind of funny the way we listened to the stuff,|sv
 A|but, I don't know.|h
 A|Well, you got any more?|qy
 B|Well, the big key is that, I think you've already stated, that all music is rooted in the classics|sv
-B|and it has grown from there.this short.|sv
+B|and it has grown from there. this short.|sv
 A|Well, that's,|%
 A|Okeydoke,|aa
 A|well, it was great.|sv

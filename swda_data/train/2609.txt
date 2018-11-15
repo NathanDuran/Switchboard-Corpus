@@ -28,7 +28,7 @@ B|That's right, um,|aa
 A|But it's funny because here in California things are getting, uh, increasingly democratically oriented, in, in the sense of people being able to vote for things.|sd
 A|I mean, we have these initiatives, state initiatives now.|sd
 B| Oh. |b
-A| The  first really popular, you know wide spread one was, uh, Proposition Thirteen which was a, uh, tax revolt, against property taxes. |sd
+A| The  first really popular, you know wide spread one was, uh, Proposition Thirteen which was a, uh, tax revolt,  against property taxes. |sd
 B| Right,|bk
 B|I |%
 A|Uh, and, you know, now we're,|%
@@ -84,10 +84,10 @@ B| It's a duty, right. |aa
 A| And in that country  it's a duty to pay taxes|sd
 A|and it's a duty to vote on how those taxes are spent.|sd
 A|And it's not clear to me that, that's so much less democratic.|sv
-A|Um.I don't know,|h
+A|Um. I don't know,|h
 B|Uh-huh.|b
 A|but part of me rebels against that,|sd
-B| I, it's, that's, it's complex question when you start thinking about it, isn't it|qy
+B| I, it's, that's,  it's complex question when you start thinking about it, isn't it|qy
 A| but then I'm  an American.|sd
 A|Yeah.|ny
 A|And some people don't vote,|sd
@@ -132,9 +132,9 @@ A|and so it's, it's a complicated situation,|sv
 A|but I would like to see,|%
 A|I don't know,|h
 A|I, I, I'm, I'm thinking of actually moving to Australia|sd
-A|and, and perhaps  I'll call you back and let you know what, how the Australian system works.|sd
+A|and,  and perhaps  I'll call you back and let you know what, how the Australian system works.|sd
 B| Is that |%
-A| I  mean, not because of the I mean I'm not thinking of moving there because of the voting, but just  because of a job opportunity.|sd
+A| I  mean, not because of the I mean I'm not thinking of moving there because of the voting,  but just  because of a job opportunity.|sd
 B| Not |%
 B|Oh, I see.|bk
 A|And, uh, I,|%
@@ -155,7 +155,7 @@ A|I kind of,|%
 A|part of me is wary|sd
 A|and part of me likes the idea of having it be more of a duty, um.|sd
 B|Well, uh, maybe they should,|sv
-B|perhaps that would be a solution if they were required to vote at least for their first three or four years after they become of voting age. Required to register  and vote for four years,|sv
+B|perhaps that would be a solution if they were required to vote at least for their first three or four years after they become of voting age.  Required to register  and vote for four years,|sv
 A| Uh-huh,|b
 A|uh-huh,|b
 A|uh-huh. |b
@@ -178,7 +178,7 @@ A|but technically people, most people, |%
 A|technically it's a privilege,|sd
 A|but most people think of it as a right.|sd
 A|I mean, in other words if the government denies you driving, denies you a driver's license, people get very upset.|sd
-A|But actually it's a privilege, which is  allowed to be revoked.|sv
+A|But actually it's a privilege,  which is  allowed to be revoked.|sv
 B| It is. |aa
 B|That's correct.|aa
 A|And, fortunately voting isn't that.|sv
@@ -197,7 +197,7 @@ A|But I, I also, I also, I don't know if you've, uh, read any of the, um, oh, wh
 B|No,|nn
 B|no,|nn
 B|I haven't.|sd
-A|Um, oh, I think it was Hamilton who wrote number ten or something, where he was arguing for a republican, not in the sense of the Republican party now, versus  a democratic, uh, government and, arguing successfully, why, the United States should be a republic, not a democracy. Which indeed it really is, a republic, not a democracy.|sd
+A|Um, oh, I think it was Hamilton who wrote number ten or something, where he was arguing for a republican, not in the sense of the Republican party now,  versus  a democratic, uh, government and, arguing successfully, why, the United States should be a republic, not a democracy. Which indeed it really is, a republic, not a democracy.|sd
 B| Right. |b
 A|Where he defines democracy as everyone votes for the issues and republic is people who vote for someone who then in turn votes for the issues.|sd
 A|In other words, you vote for representatives.|sd

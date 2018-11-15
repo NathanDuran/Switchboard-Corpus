@@ -20,10 +20,10 @@ A|Oh, yeah.|b
 A|I had been through Saint Joe,|sd
 A|but, um, just as far as watching the news and reading the papers and all that, it sounds like the crimes in the cities are really getting bad.|sv
 B|Well, you know, I've, I've seen those statistics and everything,|sd
-B|and you know, what frightens me, is that, you put a half a million people out in the middle of the desertwith high tech weaponry, you know,|sv
+B|and you know, what frightens me, is that, you put a half a million people out in the middle of the desert with high tech weaponry, you know,|sv
 A|Huh-uh.|b
 B|I mean, the Iraqis didn't have a lot of high-tech weaponry,|sd
-B|but they had mortars and machine guns,tanks and all that.|sd
+B|but they had mortars and machine guns, tanks and all that.|sd
 A|Oh, yeah.|b
 A|Sure.|b
 B|And, they didn't kill as many people in, in forty-five days,|sd
@@ -43,7 +43,7 @@ A|Yeah.|b
 B|and if they get convicted again, well, just kill them.|sv
 A|Yeah,|aa
 A|because, uh, most likely that will happen, won't it, that, you know,|sv
-B|Well, I think that the best hope to eliminate crime, as we know it todayis to eliminate the criminals from society.|sv
+B|Well, I think that the best hope to eliminate crime, as we know it today is to eliminate the criminals from society.|sv
 A|Huh-uh.|b
 A|Huh-uh.|b
 B|If someone is known to have been in prison, they can't get a job.|sv
@@ -76,7 +76,7 @@ A|but if they do it again and they really need to face the consequences then, uh
 B|Well, yeah,|aa
 B|use that|sv
 B|or, you know, there's other consequences rather than killing them, you know,|sv
-B|you could,always make them the slave of the people they committed the crime against.|sv
+B|you could, always make them the slave of the people they committed the crime against.|sv
 A|Oh.|b
 A|Huh-uh.|b
 B|You know.|%
@@ -96,7 +96,7 @@ A|because look how many years they've been doing that|sv
 A|and look|%
 A|I mean, yeah.|%
 B|Well, you look at places like Turkey.|ad
-B|Turkey has the death penalty,for just about everything.|sd
+B|Turkey has the death penalty, for just about everything.|sd
 A|Huh-uh.|b
 A|Huh-uh.|b
 B|I mean, if you get convicted of, uh, you know, drug trafficking, they just kill you.|sd
@@ -108,7 +108,7 @@ B|and the repeat offenders are very few.|sv
 B|You know, and you look at our society, almost everyone out on the street that has been in prison, has been in prison three or four times.|sv
 A|Three or four times,|aa
 A|yeah.|aa
-B|I mean,You know, the way to stop that kind of behavior is, is two-fold.|sv
+B|I mean, You know, the way to stop that kind of behavior is, is two-fold.|sv
 A|That is true,|aa
 A|I know.|aa
 A|Yeah.|aa
@@ -117,13 +117,13 @@ B|I, I think that's very important.|sv
 A|Oh, I'm, I agree very much so on that,|aa
 A|I,|%
 A|yeah.|aa
-B|And then, if a parent has proved to be unfit, for any reasontake the kids away from the parents.|sv
+B|And then, if a parent has proved to be unfit, for any reason take the kids away from the parents.|sv
 A|Huh-uh.|b
 A|Yeah.|b
 B|Because, you know, we are what we teach.|sv
 A|Huh-uh.|b
 B|Because that's what our society becomes.|sv
-B|We have,We have just a bunch of people,|sd
+B|We have, We have just a bunch of people,|sd
 A|comes,|aa
 A|yeah.|aa
 B|and I've, and I've, I've lived in that, that environment for quite a few years when I was doing construction work.|sd
@@ -144,7 +144,7 @@ A|Yeah.|b
 B|And I worked in a first grade classroom for one full semester|sd
 A|Huh-uh.|b
 B|and these kids were more foulmouthed than I've ever been.|sd
-B|I had one kid threaten my life,Threaten my life.|sd
+B|I had one kid threaten my life, Threaten my life.|sd
 A|In the first grade|ba
 B|Told me that daddy's going to whoop me to death.|sd
 A|Oh, know|sv

@@ -4,7 +4,7 @@ B|go ahead.|ad
 A|What kind of books do you like to read?|qw
 B|Oh , I like all kinds of books.|sd
 A|Yeah.|b
-B|Mostly, uh, something, I like like true life, not, uh ,  you know, documentaries or real stories about real people and that kind of stuff or dramas in real life.|sd
+B|Mostly, uh, something, I like like true life,  not, uh ,  you know, documentaries or real stories about real people and that kind of stuff or dramas in real life.|sd
 A| Uh-huh. |b
 A|Uh-huh.|b
 B|And, uh, I also like romantic novels.|sd
@@ -22,9 +22,9 @@ B|I wish I had in, in some senses|sd
 B|but I don't have time really as much as I would like to, to get into that kind of thing.|sd
 B|How about you?|qo
 A|Um, well, I like, like you said, real life, um,|sd
-A|I like biographies of people's lives, like,  especially like athletes,|sd
+A|I like biographies of people's lives,  like,  especially like athletes,|sd
 B| Uh-huh. |b
-A|for some reason it seems to interest me, like people that make a big comeback or, you  know, Orel Hershiser, things like that.|sd
+A|for some reason it seems to interest me, like people that make a big comeback or,  you  know, Orel Hershiser, things like that.|sd
 B| Sure. |ba
 B|Uh-huh.|b
 A|And, um, I like to read books on improve, like family, marriage, you know, things that are written by like Christian authors or, um, doctors about family and, you know, how to improve your home and all that kind of thing.|sd
@@ -39,7 +39,7 @@ A|but they usually have some good articles in it.|sd
 B|Uh-huh.|b
 A|But, uh, I don't know|h
 A|I haven't really found any romance type stuff I like to read.|sd
-A|I, I'm more true, you know, uh,  nonfiction.|sd
+A|I, I'm more true, you know,  uh,  nonfiction.|sd
 B| Yeah,|b
 B|yeah. |b
 A|I haven't found a lot of, uh, fiction books that I really like|sd
@@ -63,10 +63,10 @@ B|working a lot of hours at work|sd
 B|and,|%
 A|Really?|bh
 B|Yeah,|ny
-B|and then, of course, we have  a home|sd
+B|and then, of course,  we have  a home|sd
 A| I know. |aa
 B|so it's, you know,|%
-B|a lot time is spent doing things as far as the yard work or housework or, you  know, that type of thing.|sd
+B|a lot time is spent doing things as far as the yard work or housework or,  you  know, that type of thing.|sd
 A| Yeah. |b
 A|I, I set a goal for myself to read a book a month this year which is like about eleven more books than I would have read last year,|sd
 A|but so far I've only read like two books|sd
@@ -86,7 +86,7 @@ A|Yeah.|b
 B|I really do|sd
 B|and, um, I don't know|h
 B|it seems like you can get lost in a book, you know,|sv
-B|it, it, it's  like an escape for me.|sd
+B|it, it,  it's  like an escape for me.|sd
 A| Uh-huh. |b
 B|I don't know about you.|h
 A|Yeah.|b
@@ -96,7 +96,7 @@ B|and I, I look up at the clock and say, oh, my word, you know.|sd
 A|Uh-huh.|b
 B|In fact, I'd rather read sometimes than watch T V.|sd
 A|Yeah,|aa
-A|oh, I would too.Kind of train your mind. *sv^2|aa
+A|oh, I would too. Kind of train your mind. *sv^2|aa
 B|But I think you get out of the habit, like you say,|sv
 B|you have to like kind of set yourself,|sv
 B|Yep.|aa
@@ -114,7 +114,7 @@ A|just hurry up and go through without putting down, you know.|sd
 B|Yeah,|b
 B|right.|b
 B|See that's the other problem I have.|sd
-B|If I start into something and I really enjoy what I'm reading, then  I have a terrible time getting away from it too.|sd
+B|If I start into something and I really enjoy what I'm reading,  then  I have a terrible time getting away from it too.|sd
 A| Uh-huh. |b
 B|I'll stay up until two or three o'clock in the morning, you know, because I'm so engrossed in it|sd
 B|and then before you know it, it's time to get up and go to work.|sd
@@ -144,9 +144,9 @@ A|But, uh,|b
 B|I have a lot of craft books that I have too and, uh, magazines.|sd
 B|I like PEOPLE, you know, those things that are about real people.|sd
 A|Uh-huh.|b
-B|And, um, I, I like to, uh, read about people who have been a successful,To, to give you specific titles I, I can't. *sd you  know, who, who made a success of their lives.|sd
+B|And, um, I, I like to, uh, read about people who have been a successful,  you  know, who, who made a success of their lives. To, to give you specific titles I, I can't. *sd|sd
 A| Yeah. |b
-A|Which, what book have you read that is along those lines, that  was really good?|qw
+A|Which, what book have you read that is along those lines,  that  was really good?|qw
 A|Well, how about who,|qw
 B|Like I say, haven't done it in, in such a long time.|sd
 A|Do you know who it was about?|qy
@@ -192,7 +192,7 @@ B|see , I like it that way though.|sd
 B|I, I, I would, I don't want to change that part of me.|sd
 A|That's good.|ba
 B|That's funny,|sv
-B|even though I admire someone who isn't, like  I am, you know, and, and I wish I could be more that way|sd
+B|even though I admire someone who isn't,  like  I am, you know, and, and I wish I could be more that way|sd
 A| Yeah. |b
 B|but,|%
 A|There may be some schools you could read about and learn.|sd
@@ -209,7 +209,7 @@ A|Sometimes.|no
 A|Sometimes more than others.|sd
 A|But, yeah,|%
 A|I do.|sd
-B|Oh, that's, oh, that's important.|ba
+B|Oh, that's,  oh, that's important.|ba
 A| I've been there about three years. |sd
 B|Do you have  a family?|qy
 A|Yeah,|ny
@@ -230,7 +230,7 @@ A|Boy they, they have storms here|sd
 A|I've,|%
 B|Yes|aa
 B|they do.|aa
-B|And it, it, it's so surprising how  it just happens, you know.|sd
+B|And it, it,  it's so surprising how  it just happens, you know.|sd
 A| Hail and thunder and, |ba
 A|Yeah.|b
 B|Unpredictable.|ba
@@ -244,7 +244,7 @@ A|Yeah,|b
 A|boy I had thirty-three hundred dollars damage done on my car,|sd
 A|a lot of people had their cars totaled just from hail.|sd
 B|Oh, wow.|ba
-A|I think State Farm went bankrupt.Just about|sv
+A|I think State Farm went bankrupt. Just about|sv
 B|Oh, jeez.|ba
 A|But, uh,|%
 B|I know the whole situation is bad up here,|sd
@@ -277,7 +277,7 @@ A|How do I feel what?|br
 B|That, that books influence,|sd
 B|do you know how to use them in your life or to influence,|sd
 A|Uh-huh.|b
-B|I, I feel like it's important for young children to read too.And what you read to them.|sv
+B|I, I feel like it's important for young children to read too. And what you read to them.|sv
 A|Yeah.|b
 B|When my children were younger, of course,|sd
 B|they were all married and grown|sd
@@ -295,12 +295,12 @@ A| Oh, yeah. |b
 B| because, uh,  even today where people are so illiterate and they go off to school and really nothing happens, I mean, they don't learn anything.|sv
 B|It's because they can't read.|sv
 A|Yeah,|aa
-A|it's really surprising how many people graduate from high school, and  that I work with|sd
+A|it's really surprising how many people graduate from high school,  and  that I work with|sd
 B| Yeah. |b
 A|and people, I mean,|%
 A|I get memos all the time across my desk|sd
 A|and things are misspelled|sd
-A|and,It's pretty sad. it's really, |sv
+A|and,  it's really,  It's pretty sad.|sv
 B| Oh, it's unbelievable, |ba
 B|isn't it?|^g
 B|Yeah.|b

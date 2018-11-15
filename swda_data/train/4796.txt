@@ -8,7 +8,7 @@ A|Uh-huh.|b
 B|Uh, very exciting.|sv
 A|Yeah.|b
 B|The, uh, uh,|%
-B|I've I've always, uh, wanted very much, uh, to, uh, be somehow involved in all that.And, uh, to, uh, meet and, and to see, see it actually happen.|sd
+B|I've I've always, uh, wanted very much, uh, to, uh, be somehow involved in all that. And, uh, to, uh, meet and, and to see, see it actually happen.|sd
 A|Uh-huh.|b
 B|Of course, I've really wanted to actually manage to get into space someday.|sd
 A|Uh-huh.|b
@@ -33,9 +33,9 @@ A|I'm only twenty-two|sd
 A|and so, uh, uh, I'm not, you know,|%
 A|there's a lot that's happened in my lifetime as far as, uh, you know, with the space shuttle and all. Although plans to, uh, go to other planets have somewhat been thwarted in comparison to, uh, the sixties.|sd
 B|Uh-huh.|b
-A|Uh, although I have aand whatnot,|%
-B|Yeah.Yeah.|b
-A|it would  be great if we could find some way to, to, uh, use that to boost the economy.|sv
+A|Uh, although I have a and whatnot,|%
+B|Yeah. Yeah.|b
+A|it would  be great  if we could find some way to, to, uh, use that to boost the economy.|sv
 B|Well, the, uh, uh,|%
 B|I've always, uh, felt that, uh, uh, one of the long-term solutions that, at least a few of our problems would be to have, uh, some sort of, uh, solar power satellites up.|sv
 A|Uh-huh.|b
@@ -56,21 +56,21 @@ B|Yeah,|aa
 B|right.|aa
 A|Okay,|bk
 A|I understand.|sd
-B|Right.Right.|b
+B|Right. Right.|b
 A| Sure, |ba
 A|that makes a lot of sense.|ba
-B|The only problem is, of course, that, uh, that requires significant commitmentfrom people to actually decide they want to put things like that up there.|sv
+B|The only problem is, of course, that, uh, that requires significant commitment from people to actually decide they want to put things like that up there.|sv
 A|Uh-huh.|b
 A|Yeah.|b
 B|And they want to do the research |sv
-B|and uh, they're all you know,|%
+B|and  uh, they're all you know,|%
 A| Yeah. |b
-B|the only commitments that they're interested in making or even talking about are ones for flash value like, uh, the trip to Mars.Which is, would, would produce some useful scientific research and so forth,|sv
+B|the only commitments that they're interested in making or even talking about are ones for flash value like, uh, the trip to Mars. Which is, would, would produce some useful scientific research and so forth,|sv
 A|Right,|aa
 A|exactly.|aa
 B|but the same money could probably be far better spent on, uh, uh, lunar bases and solar power satellite research and, you know, so forth.|sv
 A|Uh-huh.|b
-B|It, it would it would be being done for the, uh, glitz and show factorto get politician votes instead of, instead of for, you know,|sv
+B|It, it would it would be being done for the, uh, glitz and show factor to get politician votes instead of, instead of for, you know,|sv
 A|Uh-huh.|b
 B|we should eventually send someone, people to Mars but not just because it's glitzy to do so.|sv
 A|Right.|b
@@ -84,10 +84,10 @@ B|but, uh|%
 A|Yeah.|b
 B|the downside of that is you, after you do one of those, people say well we did it.|sv
 A|Right.|b
-B|Now let'snow we're done|sv
+B|Now let's now we're done|sv
 A|Now we're done.|^2
 B|No need to use this to play around with this space stuff anymore.|sv
-B|That's what happened with Apollo.But, uh, I'd give almost anything to get into space *sd|sv
+B|That's what happened with Apollo. But, uh, I'd give almost anything to get into space *sd|sv
 A|Yeah.|aa
 A|I think you're right.|aa
 A|I would too.|aa

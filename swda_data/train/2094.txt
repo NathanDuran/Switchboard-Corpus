@@ -14,7 +14,7 @@ A|and, and you, so you understand smog|qy^d
 B|I understand it very well|na
 B|and in fact I was a private pilot there,|sd
 A|Uh-huh.|b
-B|and I can remember very etched, etched clearly in my mind, uh, flying and coming up above the smog layer at about three thousand feet and looking back down and, and really being unbelieving at,what looked like a, uh,|sd
+B|and I can remember very etched, etched clearly in my mind, uh, flying and coming up above the smog layer at about three thousand feet and looking back down and, and really being unbelieving at, what looked like a, uh,|sd
 A|Wow.|ba
 B|it just looked liked peanut butter.|sv
 A|My word.|ba
@@ -22,11 +22,11 @@ B|Thick and brown and so on.|sd
 A|And that was, a few years ago?|qy^d
 B|This was quite a few years ago.|na
 B|This was in the nineteen sixties.|sd
-A|I, I wonder if it's any better now.um, about emissions and so on.Because they, uh, California has such strict rules,|qy^d
+A|I, I wonder if it's any better now. Because they, uh, California has such strict rules, um, about emissions and so on.|qy^d
 B|People say that it is somewhat better.|sd
 B|Right.|b
 A|Um, I, I don't know if you heard about the, uh, recent legislation in, uh, Colorado, uh, against a power company, uh, that's actually on Indian land, I believe,|sd
-A|but, uh, it has been ruled against, uh, regarding air pollution because they think that it's causing terrible smog over the Grand Canyon.And, um, particularly in the winter months.|sd
+A|but, uh, it has been ruled against, uh, regarding air pollution because they think that it's causing terrible smog over the Grand Canyon. And, um, particularly in the winter months.|sd
 B|Um.|%
 A|So they,|%
 A|it was, uh, a landmark case because it's unusual to, um,|sd
@@ -39,14 +39,14 @@ A|so it's hard,|sv
 A|I never did see the full story,|sd
 A|so I don't know.|sd
 B|Yeah.|b
-A|But they said that, that it really caused so much smog over, uh, the Grand Canyon in the winter months that they couldn't do the, uh, piloting, uh, you know, the helicopter trips and that sort of thing.because the, there's nothing,Which would be horrible,|sd
+A|But they said that, that it really caused so much smog over, uh, the Grand Canyon in the winter months that they couldn't do the, uh, piloting, uh, you know, the helicopter trips and that sort of thing. Which would be horrible, because the, there's nothing,|sd
 B|Um.|%
 B|Yeah.|b
 A|I mean that's such a spectacle.|sv
 A|It would be a shame to ruin it.|sv
 B|Yeah.|b
 A|Uh, what do you think individuals could do, or society could do to alleviate this problem.|qw
-B|Uh, I don't, uh, I don't know whether we could do a whole lot as individuals. Uh, maybe just take good care of our cars,and make sure we keep our pollution devices clean and all that sort of thing. Um,|sv
+B|Uh, I don't, uh, I don't know whether we could do a whole lot as individuals. Uh, maybe just take good care of our cars, and make sure we keep our pollution devices clean and all that sort of thing. Um,|sv
 A|Right.|b
 B|apart from that, I, I don't know what we can do as individuals.|sd
 B|What do you think we can do?|qw
@@ -76,14 +76,14 @@ A|and that's probably how we ought to do it. Uh, being individually responsible 
 B|Yeah,|b
 B|I guess I'm, I'm to the point where I'm cynical enough that I really don't believe anything will happen unless, unless there's something economically justifiable about it.|sv
 A|Right.|b
-B|And in the case of air pollution, it simply might turn out at some point down the road, to be so costly to have to live with air pollution in terms of health problems,and everything else that we'll spend the money that's necessary to, uh, to get rid of the source of it.|sd
+B|And in the case of air pollution, it simply might turn out at some point down the road, to be so costly to have to live with air pollution in terms of health problems, and everything else that we'll spend the money that's necessary to, uh, to get rid of the source of it.|sd
 A|Uh-huh.|b
 A|I suspect that the that there's going to have to be a lot of pressure, uh, come to bear on the companies that deal with it|sv
 A|and probably the only way that can happen is for, um, governments to realize that they have to pay if companies don't.|sv
 B|Yeah.|b
 A|And, uh, I don't know how long that, that will take.|sd
 B|People also have to realize they can't have their cake and eat it.|sv
-B|So, if you don't want to burn coal for power,how about nuclear energy.|qh
+B|So, if you don't want to burn coal for power, how about nuclear energy.|qh
 A|Sure.|b
 B|Well we don't want that either.|sv
 A|Exactly,|aa
@@ -94,7 +94,7 @@ B|Well nobody wants to pay twenty-five cents a kilowatt hour, I don't think.|sv
 A|Right.|b
 B|Uh, I probably wouldn't mind if it really came down to it.|sv
 A|Well it's just the same thing with the car, uh, uh, the gasoline,|sv
-A|now is a wonderful time to smack a fifty cent a gallon tax on gasoline,so that we don't, uh, run into the kind of problems we recently had|sv
+A|now is a wonderful time to smack a fifty cent a gallon tax on gasoline, so that we don't, uh, run into the kind of problems we recently had|sv
 B|Oh yes,|aa
 B|yes,|aa
 B|yes.|aa
@@ -107,7 +107,7 @@ A|however, it might have had other causes.|h
 A|Certainly oil was a big factor.|sv
 B|Oh certainly,|aa
 B|yes.|aa
-A|Um, and I think that's probably going to happen with, with such things as air pollution,when we, when we get serious about cleaning, about our motors in our automobiles then, uh, then maybe, you know, we'll have a little bit of help. Um, uh,|sv
+A|Um, and I think that's probably going to happen with, with such things as air pollution, when we, when we get serious about cleaning, about our motors in our automobiles then, uh, then maybe, you know, we'll have a little bit of help. Um, uh,|sv
 B|Yeah.|b
 A|do you have any air pollution in your area?|qy
 B|There's not really a lot here in Raleigh.|ng
@@ -115,7 +115,7 @@ B|Uh, once in a while we'll get some, uh,|sd
 B|I think it kind of washes down from, uh, from your area Linda|sv
 A|Oh no.|ba
 B|That's what they, that's what they,|%
-A|You're talking about from, from the, uh, the middle, middle states,that, that have more factories and so on.|qy^d
+A|You're talking about from, from the, uh, the middle, middle states, that, that have more factories and so on.|qy^d
 B|Yeah.|ny
 B|Yeah,|ny
 B|yeah,|ny
@@ -124,7 +124,7 @@ B|but it's it's not, it's not very usual|sd
 B|and certainly we don't have the eye stinging variety that you get in the big cities.|sd
 A|Yeah,|b
 A|we really don't have that either.|sd
-A|Although I think I can tell a difference in, I lived in this area for about twenty-five years and I think I can tell a difference in the comfort level, uh, particularly in the summer. Uh, you know, when it gets hot,and you have, the, that kind of a pressure from the pockets of air, uh, usually they say caused by exhaust.|sv
+A|Although I think I can tell a difference in, I lived in this area for about twenty-five years and I think I can tell a difference in the comfort level, uh, particularly in the summer. Uh, you know, when it gets hot, and you have, the, that kind of a pressure from the pockets of air, uh, usually they say caused by exhaust.|sv
 B|Uh-huh,|b
 B|uh-huh.|b
 B|Yeah.|b
@@ -134,7 +134,7 @@ A|So I suspect that it's, it's an ever growing problem.|sv
 B|Yeah.|b
 A|Well I suspect that we've probably covered everything that we need to here.|sv
 B|Right,|aa
-B|I think,we've given them about seven minutes according to my watch|sd
+B|I think, we've given them about seven minutes according to my watch|sd
 A|It was nice talking to you.|fc
 B|and I enjoyed the conversation.|fc
 A|So did I.|fc

@@ -13,7 +13,7 @@ B|Well, I'm, I'm happy we got through.|sd
 A|I am, too.|aa
 A|Well, do you have any, uh, opinion on the subject?|qy
 B|Well, I'm, I'm especially interested with what, what's happening in the Soviet Union, uh,|sd
-B|the, the move to, uhuh, is quite a remarkable, counts,the, the, the, Ukraine's vote to, uh, basically to secede and set itself up independently|sv
+B|the, the move to, uh the, the, the, Ukraine's vote to, uh, basically to secede and set itself up independently uh, is quite a remarkable, counts,|sv
 A|Democracy.|^2
 A|Oh.|b
 B|is that, is that reported in the Texas papers?|qy
@@ -61,7 +61,7 @@ B|Yes.|ny
 A|So, now, uh, not that they may, that may matter,|sv
 A|I don't know, anymore.|h
 A|I, uh, fear for the Russians from what I read, you know,|sd
-A|I wonder how they're going to get through the winter.Food wise or any wise,|sd
+A|I wonder how they're going to get through the winter. Food wise or any wise,|sd
 B|Uh,|%
 A|sounds to me like they'll start rioting soon, or not that that would do any good,|sv
 A|but I guess people do that when they're desperate.|sv
@@ -84,7 +84,7 @@ A|Well, I don't understand economics that well.|sd
 A|I don't know,|no
 A|I, I know that we have a terrible situation with foreign trade and that other countries put a lot of restrictions that we don't|sd
 B|Yeah.|b
-A|and so I assume that that has some effect.Or a great effect.|sv
+A|and so I assume that that has some effect. Or a great effect.|sv
 B|Yeah.|b
 B|Uh-huh.|b
 A|And I do, uh, I mean, they said during the way, Reagan-Bush years, the rich got richer,|sd
@@ -106,7 +106,7 @@ B|Yeah.|aa
 A|Right.|b
 A|Well, I don't know.|sd
 A|What do you think has caused our horrible situation?|qw
-B|Uh, I don't think there's any onesimple answer to the whole thing.|sv
+B|Uh, I don't think there's any one simple answer to the whole thing.|sv
 A|One thing.|^2
 B|I mean it's, that's very complicated.|sv
 A|Right,|b

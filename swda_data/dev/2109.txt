@@ -23,13 +23,13 @@ A|well two, two of them actually.|sd
 A|Uh, the RAIN MAN was one.|sd
 B|Oh that was great one.|sv
 A|Wasn't that fabulous,|aa
-A|and,and DRIVING MISS DAISY.|sd
+A|and, and DRIVING MISS DAISY.|sd
 B|Oh, I loved it.|sd
 B|You know, I haven't seen that one yet,|sd
 B|and I need to go see it.|sv
 A|Oh, you need to see that.|aa
 B|Yeah.|b
-A|That is the most heart rendering story of relationships between two people.Two diametrically opposed people from the stand point that one was Jewish and one was black|sv
+A|That is the most heart rendering story of relationships between two people. Two diametrically opposed people from the stand point that one was Jewish and one was black|sv
 B|Uh-huh.|b
 A|and this all took place in the South.|sd
 B|Oh my.|ba
@@ -51,7 +51,7 @@ A|it did,|sd
 A|yes|aa
 A|it did.|sd
 B|Yeah.|b
-A|Just as RAIN MAN, uh, with Dustin Hoffman,uh, that, that was tremendous and Tom Cruise.|sd
+A|Just as RAIN MAN, uh, with Dustin Hoffman, uh, that, that was tremendous and Tom Cruise.|sd
 B|That was,|%
 B|yeah,|b
 B|I, I think it was more a lesson for Tom Cruise than anything else in terms of, uh, of how to act from Dustin Hoffman,|sv
@@ -61,7 +61,7 @@ A|uh, oh, that was, that was, uh, what the, much of the hype was that Tom Cruise
 B|Yeah,|b
 B|it must have been great just being with him on, on a daily basis and seeing how he prepares for his, for his lines and all that stuff.|sv
 A|Yeah|b
-A|and a good bit of that was filmed right in Cincinnati.Which is just forty-five miles from, from where I am, where I actually live in a suburb of Dayton.|sd
+A|and a good bit of that was filmed right in Cincinnati. Which is just forty-five miles from, from where I am, where I actually live in a suburb of Dayton.|sd
 B|Oh.|b
 B|Is, is the Kmart there?|qy
 A|Oh, we do have Kmart here,|na
@@ -82,7 +82,7 @@ B|and he was able to count the number of toothpicks just by a mental image.|sd
 A|Yes,|b
 A|yes.|b
 B|Unbelievable.|sv
-A|Well, you know there are people, uh, referred to as savants also,uh, who can do most phenomenal things|sd
+A|Well, you know there are people, uh, referred to as savants also, uh, who can do most phenomenal things|sd
 B|Yeah.|b
 A|and everyone feels they are totally retarded.|sd
 B|Yeah,|b
@@ -92,10 +92,10 @@ B|but, boy there's a lots going on in there|sv
 A|It's amazing|sv
 B|Yeah,|b
 B|yeah|b
-B|and I, the, the, I think the, the best thing about RAINMAN was the, uh, the way that they put together the, the real awfulness of the, of the, of the disease,only,|sv
+B|and I, the, the, I think the, the best thing about RAINMAN was the, uh, the way that they put together the, the real awfulness of the, of the, of the disease, only,|sv
 A|Yes.|aa
 B|an, and then they balanced it with the wonderfulness of it, you know,|sv
-B|and, and, and you need to, to work with it, uh, you know, certainly on, on a daily basis but then then again work with it toward a good end.Not, not toward winning in Las Vegas, for example.|sv
+B|and, and, and you need to, to work with it, uh, you know, certainly on, on a daily basis but then then again work with it toward a good end. Not, not toward winning in Las Vegas, for example.|sv
 A|Yes|aa
 A|and the,|%
 A|Right,|b
@@ -112,7 +112,7 @@ B|I can, I can tell you, oh, so much about that movie, just because it, it reall
 B|I, I have a, a brother myself that's, that's older|sd
 B|and, uh, he's not, you know,|sd
 B|nothing, nothing, of course, serious is wrong with him|sd
-B|but, uh, but we have gone through these, these lapses of, of a relationship,somewhat, sometimes,|sd
+B|but, uh, but we have gone through these, these lapses of, of a relationship, somewhat, sometimes,|sd
 A|Yes.|b
 B|and then, you know, uh, for, for, for no real, you know, direct reason, I guess, uh, we, we get into, uh, uh, a really good relationship for a while and then, you know, back and forth|sd
 B|so I, I was really able to, to relate to the, the relationship aspect of the movie between the brothers.|sd

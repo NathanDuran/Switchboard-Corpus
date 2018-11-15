@@ -24,7 +24,7 @@ A|I, I'm ready to go.|sd
 A|It just,|%
 A|it's, you know, hasn't worked out that way yet.|sd
 B|Right.|b
-A|You know, it's, uh, it looks good, you knowif you like thrillers, anyway.|sd
+A|You know, it's, uh, it looks good, you know if you like thrillers, anyway.|sd
 B|Yeah,|aa
 B|it is.|sv
 B|Right.|b
@@ -72,7 +72,7 @@ B|And she really enjoyed it,|sd
 B|but it was on a higher level, you know, where there were some things that kids didn't understand that adults did,|sd
 B|and I liked that.|sd
 A|Yeah,|b
-A|I think that's important if you're going, you know, if you're going, uh, kids are going to, uh, parents are going to have to goyou know, semi for them too.you ought to make it at least|sv
+A|I think that's important if you're going, you know, if you're going, uh, kids are going to, uh, parents are going to have to go you ought to make it at least you know, semi for them too.|sv
 B|Right.|b
 B|That's right,|ba
 B|that's right.|ba
@@ -118,15 +118,15 @@ A|I think he did an excellent job in not being too much of a cop.|sd
 B|Oh, okay.|b
 A|I mean, there, there were times when he was, like, he'd be running with a gun or whatever.|sd
 A|He didn't look like a cop when he did it.|sd
-A|And I was soimpressed with that because, you know, usually,|sd
+A|And I was so impressed with that because, you know, usually,|sd
 B|That's neat.|ba
 B|The part was hard, to do that.|^2
 A|Oh yeah,|aa
 A|because, I mean, everybody grows up looking at these cop movies and trying to, you know, to imitate them or whatever.|sd
 B|Right.|b
-A|And, uh, I thought he did such an excellent job of notgoing that far.|sd
+A|And, uh, I thought he did such an excellent job of not going that far.|sd
 B|Yeah,|b
-A|Now, by the end he was looking more like a cop.But at the beginning of the movie and all through the middle part, you know, he was trying to, trying to get it,|sd
+A|Now, by the end he was looking more like a cop. But at the beginning of the movie and all through the middle part, you know, he was trying to, trying to get it,|sd
 B|Right.|b
 A|but he wasn't there yet.|sd
 B|Right.|b
@@ -139,7 +139,7 @@ A|I mean,  you know, he just, |%
 B| Yeah,|b
 B|I like him. |sd
 A|Yeah,|b
-A|and there were, there were some definite, um, should I say, tense moments,with him in there.|sd
+A|and there were, there were some definite, um, should I say, tense moments, with him in there.|sd
 B|Probably the last comedy we saw, now that I think about it, is HOME ALONE.|sd
 A|Yes,|b
 A|I, I, I had seen it before Christmas,|sd
@@ -159,7 +159,7 @@ B|uh-huh.|b
 A|I really was, I was hoarse getting out of there.|sd
 B|Yeah.|b
 A|And maybe I just laughed so hard the first time that I didn't have it,|sd
-A|I mean, it just wasn't as funny the second timebecause I had just gone overboard the first time.|sd
+A|I mean, it just wasn't as funny the second time because I had just gone overboard the first time.|sd
 B|Right.|b
 A|I don't know|h
 A|but,|%
@@ -187,19 +187,19 @@ B|I do too.|sd
 A|I love those movies|sd
 B|I do too.|sd
 A|I really do.|sd
-B|So I'm looking forward to seeing thatas they all do.because that looks hilarious,|sd
+B|So I'm looking forward to seeing that because that looks hilarious, as they all do.|sd
 A|Yeah.|b
 A|Oh yeah.|b
-B|Well, we we try to go a couple times a month, I guessto see a movie.|sd
+B|Well, we we try to go a couple times a month, I guess to see a movie.|sd
 A|Uh-huh.|b
 B|It, it's just getting so expensive.|sd
 A|Oh, isn't it though.|ba
 A|You know, but that's at least the good thing about the Texas organization letting you buy the tickets cheaper.|sd
 B|But normally we don't think about it until,|sd
-A|That's exactly what,I was going to say.|sd
+A|That's exactly what, I was going to say.|sd
 A|I keep not doing it until after I'm there|sd
 A|and then all of a sudden I'm saying I wish I'd bought these things.|sd
-B|I know, because we can go spend fifteen dollarsthe three of us.just getting in|sd
+B|I know, because we can go spend fifteen dollars just getting in the three of us.|sd
 A|Easily.|ba
 A|Yeah,|b
 A|yeah,|b
@@ -230,7 +230,7 @@ B|really?|bh
 A|Don't.|ad
 A|That needs the big screen.|sv
 B|Oh.|b
-A|It really and truly does, because to get the feelingyou've got to be where you feel it.of like when the buffalos are, when they're chasing the buffalos and everything|sv
+A|It really and truly does, because to get the feeling of like when the buffalos are, when they're chasing the buffalos and everything you've got to be where you feel it.|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Oh really?|bh
@@ -280,9 +280,9 @@ A|Okay,|b
 A|no problems|ba
 A|It, it's just the idea that there is this one spot where the white man has come by and killed a bunch a buffalo and just stripped its hide, the hides.|sd
 A|So there's,|%
-B|See, that's the one, that is the honest to God the one reason I don't want to see the movieis because I love buffalos for some weird reason,|sd
+B|See, that's the one, that is the honest to God the one reason I don't want to see the movie is because I love buffalos for some weird reason,|sd
 A|Yeah,|b
-A|but, well,And, and, of course,|%
+A|but, well, And, and, of course,|%
 B|and I know they're fake.|sd
 A|and, well, yeah,|%
 A|that, and plus, I mean part of it is the idea that he goes with them on a buffalo hunt.|sd
@@ -307,7 +307,7 @@ B|that's true,|ba
 B|they said,|%
 A|I hadn't even thought of that.|sd
 B|Yeah,|b
-B|they said there's a lot that had been edited, because of the lengthand that they wanted in,|sd
+B|they said there's a lot that had been edited, because of the length and that they wanted in,|sd
 A|Uh-huh.|b
 B|so they're going to put it in the video.|sd
 A|Yeah.|b
@@ -325,7 +325,7 @@ B|True.|ba
 A|and so the idea of getting a little extra with it I think is a good idea. Because they, they make bundles of money off those things.|sd
 B|I know it|ba
 B|Isn't that ridiculous.|qh
-B|We have cable whichhelps a lot|sd
+B|We have cable which helps a lot|sd
 A|Oh, I do too.|sd
 A|Yeah,|b
 A|but not enough.|^2

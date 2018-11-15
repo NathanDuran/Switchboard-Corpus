@@ -25,7 +25,7 @@ A|And yet, I don't think we've ever quite decided who's really supposed to pay f
 B|Well, that's the thing, you know,|fo_o_fw_"_by_bc
 B|uh, unfortunately the ones that currently pay and pay the premiums for health insurance are, are paying for the people that don't have health insurance.|sv
 A|Which is why people are talking about|sv
-A|we ought to just admit it perhapsand then try and somehow subsidize it in a way that's more fair.|sv
+A|we ought to just admit it perhaps and then try and somehow subsidize it in a way that's more fair.|sv
 B|Yeah.|b
 B|I don't think you, uh,|sv
 A|You have health insurance?|qy
@@ -36,9 +36,9 @@ B|Uh, through my company,|sd
 B|yes.|ny
 B|But I have been in a situation, uh, recently where I was laid off from a position as a sales manager of a company and was off work for about a year|sd
 B|and my wife developed cancer.|sd
-B|We didn't have anyinsurance.|sd
+B|We didn't have any insurance.|sd
 A|Oh, my goodness.|ba
-B|And it was ago to Parkland type situation.|sd
+B|And it was a go to Parkland type situation.|sd
 A|That's must have been hard|fo_o_fw_"_by_bc
 A|How was your care at Parkland?|qo
 B|Uh, because it was a life threatening situation, it was very good.|sv
@@ -46,7 +46,7 @@ B|Uh, as it, as it turned out one of the top, uh, people, or one of the top doct
 A|But, yet, Parkland is not free, either.|sd
 B|No,|aa
 B|it's not free,|sd
-B|but, uh,It's, it's a situation that because I didn't have any insurance and I was on unemployment, it was paid by the county.|sd
+B|but, uh, It's, it's a situation that because I didn't have any insurance and I was on unemployment, it was paid by the county.|sd
 A|Is it affordable?|qy
 A|So you did have a good experience.|sv
 B|I had a bad experience as it turned out.|ar
@@ -60,11 +60,11 @@ B|That happens.|bd
 A|It does happen,|sd
 A|but it's very sad.|sv
 B|Yeah,|b
-B|but in any event, uh, I'm in favor of national health.to vote for it.If I had|sd
-A|Wellso am I.|sd
+B|but in any event, uh, I'm in favor of national health. If I had to vote for it.|sd
+A|Well so am I.|sd
 A|Actually, uh, I'm a pediatrician|sd
 B|Oh, is that right?|bh
-A|and I feel very strongly about, uh, children, and, uh, developed very strong feelings about this during our measles epidemicWhere we certainly proved that we're not doing a very good job with preventive health care among children and particularly the children who need it most.last year.|sd
+A|and I feel very strongly about, uh, children, and, uh, developed very strong feelings about this during our measles epidemic last year. Where we certainly proved that we're not doing a very good job with preventive health care among children and particularly the children who need it most.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|So, uh, I'm really quite active in trying to, uh, be proactive at least for children's issues.|sd
@@ -89,7 +89,7 @@ B|Uh-huh.|b
 A|So, well, I don't know,|h
 A|it's, it is interesting,|sv
 A|in case you didn't know, Texas leads the nation in uninsured children.|sd
-A|Thirty-one percent of all Texas childrendo not have insurance and are not on Medicaid.|sd
+A|Thirty-one percent of all Texas children do not have insurance and are not on Medicaid.|sd
 B|Did not know that.|sd
 A|So, uh, one out of every three children has nothing to reimburse them for their health care.|sd
 A|And I work in the children's Parkland system|sd

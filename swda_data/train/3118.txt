@@ -72,7 +72,7 @@ B|Yeah.|b
 A|Now, I'm not sure if the judge is allowed to do that in everyday life or what.|sd
 B|I think in some cases they are.|sd
 A|Uh-huh.|b
-B|But they know they get to decide how severe the sentence isif it's, you know,|sv
+B|But they know they get to decide how severe the sentence is if it's, you know,|sv
 A|Yeah.|b
 B|so that's another thing where they have the power,|sv
 B|but maybe juries could be less than twelve people|sd
@@ -88,12 +88,12 @@ A|but I just think it's really you know,|sv
 A|I mean, some cases go on for years, you know.|sd
 B|That's true,|aa
 B|and I've never been on jury duty,|sd
-B|but they have to keep going and going and going.And lose their, not lose their jobs, but not go to work.|sd
+B|but they have to keep going and going and going. And lose their, not lose their jobs, but not go to work.|sd
 A|Uh-huh.|b
 A|Yeah.|b
 A|I, I don't know how it could be more fair.|sd
 A|Course, I don't know.|h
-A|Maybemaybe they should be asking someone that's been on, on trial before.|sv
+A|Maybe maybe they should be asking someone that's been on, on trial before.|sv
 B|It could be,|sv
 B|Really,|aa
 B|I've never seen one in real life either|sd
@@ -103,7 +103,7 @@ B|I don't know how we could make it more fair.|sd
 B|I really don't.|sd
 A|Uh-huh.|b
 B|The unanimous vote is questionable, though.|sv
-B|And, and how, how many cases get juries mightwant to be reviewed, too.|sv
+B|And, and how, how many cases get juries might want to be reviewed, too.|sv
 A|Uh-huh.|b
 A|Yeah.|b
 B|Because, uh, I don't know if you should really have a jury for a small infraction.|sv
@@ -119,7 +119,7 @@ A|so that is fair.|sv
 B|Right.|b
 A|I don't, I, I don't think anyone's going to come up with a better way.|sv
 B|No,|aa
-B|whoever came up with this was pretty smart because it was pretty, uh, uniqueI think, when they started it.|sv
+B|whoever came up with this was pretty smart because it was pretty, uh, unique I think, when they started it.|sv
 A|Uh-huh.|b
 A|Yeah.|b
 B|So, how long do we need to talk?|qw
@@ -130,7 +130,7 @@ B|Uh, in, uh,|%
 B|what do I do now?|fc
 B|Do you know?|fc
 B|Anything,|fc
-B|or justwait for someone else.|fc
+B|or just wait for someone else.|fc
 A|No,|fc
 A|I don't|fc
 A|what else to say,|%

@@ -19,7 +19,7 @@ B|Because it, you know, uh, like, there was an incident several years ago where 
 A|Right.|b
 B|he crashed and killed some people because he was, uh, smoking some marijuana|sd
 B|and I guess air traffic controllers. I wouldn't want them to be on drugs. And airplane pilots.|sd
-B|But where it's not necessary, uh, in that regard, where it's not an immediate threat to life and limb or propertyuh, I, I'd, I would seriously question it.|sd
+B|But where it's not necessary, uh, in that regard, where it's not an immediate threat to life and limb or property uh, I, I'd, I would seriously question it.|sd
 A|Yeah.|b
 B|Uh, so.|%
 A|Yeah.|b
@@ -39,8 +39,8 @@ A|and our company has taken that and gone all the way.|sd
 A|Say,|%
 A|okay, uh,|%
 A|first off we don't, we don't have enough courage to, uh, pick out the people that, that have some sort of indication of possible drug usage, uh, because that would offend them, uh, if they, if they weren't.|sv
-A|So we'll just accuse everybody of using drugs and,make it all even.|sv
-A|Uh,  and and, uh|%
+A|So we'll just accuse everybody of using drugs and, make it all even.|sv
+A|Uh,  and  and, uh|%
 B| Yeah. |b
 B|Well,|%
 A|then, uh,|%
@@ -50,7 +50,7 @@ A|well it's random in the sense that you don't know when.|sd
 A|It is not random in the sense that they have said that within three years everyone in the company will be tested.|sd
 B|Huh.|%
 A|Uh, and, uh, you know, I, I sit at a terminal and, and write software all day.|sd
-A|It, it, uh, certainly has no life threatening, uh, capabilitiesuh, you know, in, in my job.|sd
+A|It, it, uh, certainly has no life threatening, uh, capabilities uh, you know, in, in my job.|sd
 B|Right.|b
 B|And,|%
 A|And, and, uh, yes|%
@@ -73,7 +73,7 @@ A|it's not quite that simple,|sd
 A|but it's fairly simple.|sd
 B|Kind of a coarse kind of test.|bf
 A|Coarse kind of test.|b^m
-A|And then there's a, a much more, uh, uh, refined test, uh, uh, spectrography or whatever it's called.  The uh, to determine exactly what the, what the things are.chemotography|sd
+A|And then there's a, a much more, uh, uh, refined test, uh, uh, spectrography or whatever it's called.  The  chemotography uh, to determine exactly what the, what the things are.|sd
 B| Is that done, |qy
 B|Right.|b
 A|And, uh,|%
@@ -82,7 +82,7 @@ B|Uh, at the time you hired on with this company, uh, was that prior to  any, |q
 A| No,|nn
 A|I,  I've been with this company for, uh, for sixteen years now.|sd
 B|Okay,|bk
-B|so thatthis is obviously not a condition of employment that you  subject yourself to this |qy^d
+B|so that this is obviously not a condition of employment that you  subject yourself to this |qy^d
 A|And, uh,|%
 A| No.|nn
 A|And it, and  it, and it has, it has, you know,|sd

@@ -9,7 +9,7 @@ A|Yeah.|b
 B|Well, what kind of car would you buy?|qw
 A|Well, it's kind of hard to say,|^h
 A|uh, because I don't think we're going to buy another car for about three years.|sd
-A|We justbought, uh, a car, uh, last year and then bought one in eighty-nine|sd
+A|We just bought, uh, a car, uh, last year and then bought one in eighty-nine|sd
 B|Oh, okay.|bk
 A|and, uh,|%
 A|wait a minute,|^h
@@ -68,7 +68,7 @@ A|Uh-huh.|b
 B|So,|%
 B|but I don't know,|h
 B|we'll, we're going to be in the market for a car, probably in the next year|sd
-B|and the financing is always something we consider, you know, the four percent or when theygive good financing through the, the motor company.|sd
+B|and the financing is always something we consider, you know, the four percent or when they give good financing through the, the motor company.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|But, I don't know what we're going to buy.|sd
@@ -84,7 +84,7 @@ B|Oh the,|%
 A|Was British racing green, with real wire wheels and a hard top and a soft top.|sd
 B|Ooh, boy.|ba
 A|And, uh, I drove it mostly.|sd
-B|I'll betit was hard to part with that.|sv
+B|I'll bet it was hard to part with that.|sv
 A|And,|%
 A|Yeah,|aa
 A|it really was.|aa

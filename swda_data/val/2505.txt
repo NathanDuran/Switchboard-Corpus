@@ -179,7 +179,7 @@ A|and, I, I just, you know, I just don't.|sd
 A|I know|%
 A|and, and now they've lost the desire.|sd
 A|Most of them don't even try to you know, to go out.|sd
-A|I just have two that drive me crazy,that I let out in the back, you know,|sd
+A|I just have two that drive me crazy, that I let out in the back, you know,|sd
 A|but I won't let them get,|sd
 A|if they start going in the front and stuff, I bring them in.|sd
 B|Oh.|b
@@ -194,7 +194,7 @@ A|just by touching a nose to another cat they can leukemia, feline leukemia,|sd
 A|so.|%
 B|Yeah.|b
 A|We know we try, try real hard to keep them healthy.|sd
-B|Uh, we just bought, uh, acre, a house with an acre to try to, so she'll have some room to walk around,and not off of a busy street.|sd
+B|Uh, we just bought, uh, acre, a house with an acre to try to, so she'll have some room to walk around, and not off of a busy street.|sd
 A|Oh, how neat.|ba
 B|We're, we're choosing our house for our cat.|sd
 B|Isn't that bad|qh
@@ -274,7 +274,7 @@ B|She's only five,|sd
 B|but I think she planned it|sv
 B|And she got all the attention from her dad.|sd
 A|Oh, see there,|ba
-A|she needed that,didn't she.|qy
+A|she needed that, didn't she.|qy
 B|oh yeah.|ny
 A|You know, it must be hard when you have a lot of children,|sv
 A|I, you know, to I was an only child,|sd

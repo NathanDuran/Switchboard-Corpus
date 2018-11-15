@@ -15,7 +15,7 @@ A|Uh-huh.|b
 A|Let's see,|^h
 A|who was in FISHER KING?|t1
 A|That was, um, Robin Williams|sd
-A|and, uhand, uh, I can't the last name.|sd
+A|and, uh and, uh, I can't the last name.|sd
 B|Right.|b
 B|How about you?|qo
 B|What are you?|qw
@@ -78,7 +78,7 @@ A|she's a housekeeper.|sd
 B|Uh, the nanny type.|bf
 A|Yeah,|aa
 A|she's a housekeeper|sd
-A|she.She was a, oh, now I can't say it, a Haitian.|sd
+A|she. She was a, oh, now I can't say it, a Haitian.|sd
 B|Housekeeper, uh-huh.|b^m
 A|Anyway, she, uh, she seemed to be that sort of person that seems half crazy,|sd
 A|but then again, she's got a whole lot on the ball,|sd
@@ -96,7 +96,7 @@ A|Yeah.|b
 B|And it's a, it's a mystery.|sd
 B|It was very predictable,|sd
 B|I mean, you knew, you knew when the murder was going to happen or something,|sd
-B|but it was still so well donethat it was enjoyable.|sd
+B|but it was still so well done that it was enjoyable.|sd
 A|Yeah.|b
 A|That, that takes a good bit to make one that's predictable that's still worth watching.|sv
 B|That's right.|aa
@@ -105,5 +105,5 @@ B|I like the, I think it's called the, uh, RAZOR'S EDGE,|sd
 B|but, no|nn
 B|no,|nn
 B|the JAGGED EDGE,|sd
-B| the JAGGED EDGE with, uh,|sd
+B| the JAGGED EDGE  with, uh,|sd
 A| Oh, okay  .|b

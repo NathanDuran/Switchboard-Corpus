@@ -4,10 +4,10 @@ A|I mean, what thoughts do you have on the subject?|qo
 B|Uh, you know, we even lived there for a, a while when my husband was in the Navy.|sd
 A|Oh, you did?|qy^d
 B|In fact the first year we were married, he was already over there, had been there two years when we got married|sd
-B|and so our, we  had a one year honeymoon.|sd
+B|and so our,  we  had a one year honeymoon.|sd
 A| Uh-huh. |b
 A|Uh-huh.|b
-B|Uh,Uh, it was very nice, um.|sv
+B|Uh, Uh, it was very nice, um.|sv
 A|That's wonderful.|ba
 A|Well do you have, you probably have a different sense than I have.|sv
 A|I went to an inner city high school in Chicago.|sd
@@ -15,7 +15,7 @@ B|Uh-huh.|b
 A|Um, and that's not where I am originally from.|sd
 A|It was a divorce situation of my parents.|sd
 B|Uh-huh.|b
-A|And it was a, a cultural shock to me. Uh, in  terms of what I went through.|sd
+A|And it was a, a cultural shock to me.  Uh, in  terms of what I went through.|sd
 B| I'm sure. |ba
 A|The high school is now called, in fact, it was called Tulley High School|sd
 A|and now it's called Roberto Clemente|sd
@@ -35,14 +35,14 @@ A|I didn't mean that in a totally negative sense.|sd
 B|No,|aa
 B|no,|aa
 B|it's just,|%
-B|if, if it's not part of your culture, uh,  the and  you come upon something that you're totally unprepared for,|sd
+B|if, if it's not part of your culture,  and  you come upon something that you're totally unprepared for,  uh,  the|sd
 A| Right. |b
 A| Uh-huh. |b
 B|I had gone to a very, uh, uh, um, conservative, uh, college|sd
-B|and when I started teaching school it was in an inner city situation, although  it was not Puerto Rican, it was, uh, a Mexican American and black students.|sd
+B|and when I started teaching school it was in an inner city situation,  although  it was not Puerto Rican, it was, uh, a Mexican American and black students.|sd
 A|Uh-huh.|b
 B|They weren't like any of the Mexican American or black people I had gone to school with|sd
-B|so it was, it was very, very, different. |sd
+B|so it was,  it was very, very, different. |sd
 A| Right,|b
 A|that you had ever been. |bf
 A|Right,|b
@@ -55,7 +55,7 @@ B|Oh, really.|bh
 A|Yeah,|ny
 A|and I mean, I had geometry,|sd
 A|the teacher was from Cypress Greece|sd
-A|and, it  was, Spanish and English,|sd
+A|and,  it  was, Spanish and English,|sd
 B| Huh. |%
 A|so if you can imagine how I even|sd
 B| Oh, my. |ba
@@ -66,7 +66,7 @@ A|I mean, I don't really have enough in terms of an argument, pro or con in term
 B|I'm not, so much against their making, uh, it a state.|sd
 A| Uh-huh. |b
 B| But  I would want a very, very, very clear majority,|sd
-B|because if the minority can be so, vociferous, whether you're talking this group, or, or, any  other group that, that has a stake in something.|sv
+B|because if the minority can be so, vociferous, whether you're talking this group, or, or,  any  other group that, that has a stake in something.|sv
 A| Uh-huh. |b
 A| Right,|aa
 A|that's exactly. |aa
@@ -93,9 +93,9 @@ A|I mean, I learned a lot about the, um, Island of Puerto Rico from talking to t
 A|You know, and you lived there|sd
 A|so you know that parts of it are beautiful and parts of it are squalor.|sv
 B|Same as, as  any other part of the world, |sv
-A| Like here, yeah, it's the same.|aa
+A| Like here, yeah,  it's the same.|aa
 B|really.|b
-B|I, I don't, I don't think it's really to their best interests, to,  uh, uh, attain statehood as it is right now,|sv
+B|I, I don't, I don't think it's really to their best interests,  to,  uh, uh, attain statehood as it is right now,|sv
 A| Uh-huh. |b
 B|they have the best of both worlds.|sv
 B|They have, uh, representation,|sd
@@ -111,7 +111,7 @@ A|I know what you're saying,|sd
 A|yeah,|%
 B| So, so you know, I, I would just  as soon,|sd
 B|an, an, and, if, if they voted to, for independence, I would back them a hundred percent.|sd
-B|And that's, that's,  because, I, I guess, because I'm not into territorialism or whatever, that we have been in the past.|sd
+B|And that's,  that's,  because, I, I guess, because I'm not into territorialism or whatever, that we have been in the past.|sd
 A| Uh-huh. |b
 A|Right,|aa
 A|right,|aa
@@ -131,12 +131,12 @@ B|uh-huh. |b
 A| So you always  pass through San Juan in going to places like or .|sd
 B| Uh-huh. |b
 A| I,  um,|%
-A|and it's just, it's, I think what they do need is an infusion of some of the United States, um, privileges, some of our resources. The educational, the teachers, the, um, academic  opportunity, you know,|sv
+A|and it's just, it's, I think what they do need is an infusion of some of the United States, um, privileges, some of our resources. The educational, the teachers, the, um,  academic  opportunity, you know,|sv
 B| Uh-huh. |b
 A|I don't think we do do enough of a resource transfer, if there is such a thing.|sv
-B|Part of that though has been, I think, uh, selected by, by them, in  that, that whereas they want the benefits of some of, of what the continentals can offer,|sv
+B|Part of that though has been, I think, uh, selected by, by them,  in  that, that whereas they want the benefits of some of, of what the continentals can offer,|sv
 A| Uh-huh. |b
-B|they, which,  which I understand. they  want to maintain that, um, culture of theirs,|sv
+B|they,  they  want to maintain that, um, culture of theirs,  which,  which I understand.|sv
 A| Uh-huh. |b
 A| Uh, |%
 A| Uh-huh. |b
@@ -144,12 +144,12 @@ B| And,  and so often when you, when you bring in the advantages, the resources 
 A|They'll lose their ethnicity as they say,|bf
 A|yeah.|%
 A|That's,|%
-B|Most of the people who that that I know about who really, uh, would, favor statehood, have  pretty much assimilated into the, the continental states already.|sd
+B|Most of the people who that that I know about who really, uh, would, favor statehood,  have  pretty much assimilated into the, the continental states already.|sd
 A| Uh-huh. |b
 A| See, |%
 B| Or  they have family here and this way they can go back and forth|sd
 B|and, and it's not that much of a strain,|sd
-B|and, At  least at the present time. you  know, they're kind of lackadaisical about it.|sv
+B|and,  you  know, they're kind of lackadaisical about it.  At  least at the present time.|sv
 A| Uh-huh. |b
 A| Uh-huh. |b
 B|That's the way, the way the pendulum seems to be swinging, right now.|sv
@@ -165,7 +165,7 @@ A|I just thought I'd ask that because I wondered what you thought they might thi
 B|Um.|%
 A|Because I really don't have any, um, personal or professional or familial ties down there.|sd
 A|I don't know, the the, the, the, that's just children, but the, the people that I went to high school with, um, I think the majority are in that, the, probably the generation, yours and mine|sv
-A|and the one right after us, that, um, their parents did not want to acclimate to the United States. Um,  in terms of retaining, um,|sv
+A|and the one right after us, that, um, their parents did not want to acclimate to the United States.  Um,  in terms of retaining, um,|sv
 B| Uh-huh. |b
 A|and my background's European heritage|sd
 A|and their background it would be, you know, the, I guess I would say the Latin or Latino heritage.|sv
@@ -177,7 +177,7 @@ A| Um,  and I always, that always bothered me|sd
 A|and then there were some children that I noticed as soon as all the kids were out of high school, I mean they went back to Puerto Rico to live.|sd
 A|You know, they had made enough money here.|sd
 B| And so |%
-A| But on the  other hand, I guess it's all about choicein everything.|sv
+A| But on the  other hand, I guess it's all about choice in everything.|sv
 B|Yeah.|b
 A|Um, was it,|qy
 A|I mean how were they toward,|qo
@@ -188,19 +188,19 @@ B|There really were three major, um, camps,|^h
 A| Uh-huh. |b
 B| and  there were those who, who, uh, were very friendly, very open, any, anything we can do for you, uh, uh,|sd
 B|either way, you know, was great.|sv
-B|And then there were those at the other end of the spectrum and those that, ho hum, whatever, you know, |sd
+B|And then there were those at the other end of the spectrum and those that, ho hum, whatever,  you know, |sd
 A| Yeah. |b
 B|and, and, uh, it, it was interesting,|sv
 B|the whole time we were there it was very, very political.|sd
-B|There was always some, on Sunday afternoons, uh, going through the, all the little urbanizations, the little neighborhoods with, uh, blow  horns, oh,|sd
+B|There was always some, on Sunday afternoons, uh, going through the, all the little urbanizations, the little neighborhoods with, uh,  blow  horns, oh,|sd
 A| Uh-huh. |b
 B|I can't think of the term|sd
 B|but, you know.|%
 A| I know what you're talking about|sd
 A|yeah. |%
-B| And with banners and, and a parade  of vehicles with their, with their colors of the, of  a particular party.|sd
+B| And with banners and, and a parade  of vehicles with their, with their colors of the,  of  a particular party.|sd
 A| Uh-huh. |b
-B|So they were very, very, um, passionate, about  their beliefs|sv
+B|So they were very, very, um, passionate,  about  their beliefs|sv
 A| Uh-huh. |b
 B|but it, it, it kind of broke down that you couldn't really see,|sv
 B|I couldn't see that there was a clear majority that, that stayed.|sd

@@ -14,7 +14,7 @@ A|made it all the way through four years of college playing ball,|sd
 B|Oh.|b
 B|Yes,|ny
 B|I'm actually a Met,|sd
-B|I'm, I'm one of these people who's actually a die hard Mets fan,and an avid Yankee hater.|sd
+B|I'm, I'm one of these people who's actually a die hard Mets fan, and an avid Yankee hater.|sd
 A|Oh, boy, it, I think it's like one or the other, isn't it. I mean,|qy
 B|Yeah,|ny
 B|it's, it's,|%
@@ -25,7 +25,7 @@ B|and real Yankee fans don't like the Mets for some reason.|sv
 A|Yeah.|b
 B|I never I never quite found a New York fan.|sd
 B|I always found a fan, you know, of either one or the other,|sd
-B|and so, that of course means that when it comes to the American League my favorite team is the Red Soxby default, because I went to college also in Boston.|sd
+B|and so, that of course means that when it comes to the American League my favorite team is the Red Sox by default, because I went to college also in Boston.|sd
 A|Oh, okay,|b
 A|I see,|ba
 A|yeah,|%
@@ -49,7 +49,7 @@ B|Um, I think they're okay,|sd
 B|I think they're,|sd
 B|you know, I think they have enough people who are, who are, who are still in their prime, you know.|sd
 A|Uh-huh.|b
-B|Um, I mean, certainly if you look at them compared to, let's say, you know, um, eight years ago or something, they'rethey're, they're, they're, you know, they're sort of in, in good standing, whereas, you know, um, I think, I certainly don't think they're the eighty-six team any more.|sv
+B|Um, I mean, certainly if you look at them compared to, let's say, you know, um, eight years ago or something, they're they're, they're, they're, you know, they're sort of in, in good standing, whereas, you know, um, I think, I certainly don't think they're the eighty-six team any more.|sv
 A|Yeah.|b
 A|Well, I was going to talk to you about that eighty-six team|sd
 B|Yeah,|b
@@ -58,7 +58,7 @@ A|That was, that was the year they beat Houston in extra innings,|sd
 A|right.|^g
 B|Right,|na
 B|they beat Houston in extra innings,|sd
-B|and then they actually won the series bye-bye sort of a sneaky route, um, against Bostonwhen there was the ball that was sort of hit to Buckner .|sv
+B|and then they actually won the series bye-bye sort of a sneaky route, um, against Boston when there was the ball that was sort of hit to Buckner .|sv
 A|Yeah.|%
 B|I felt real bad about that,|sd
 B|but hey, what can you do.|qh
@@ -153,7 +153,7 @@ A|It was just phenomenal.|sd
 A|That's, that's probably the pattern for the future of stadiums, I think.|sv
 B|Of stadiums, yeah,|aa
 B|well, I, I mean to get up there.|sd
-B|I mean, the, the best I've been up here so far, you know, up, in up state New Yorkis, uh, is, um, Rochester Red Wings game.|sd
+B|I mean, the, the best I've been up here so far, you know, up, in up state New York is, uh, is, um, Rochester Red Wings game.|sd
 A|Uh-huh.|b
 A|Now is Rochester,|qy
 A|where, where is Cornell University.|qw
@@ -169,7 +169,7 @@ B|Yeah,|ny
 B|we're about ten miles south of Lake Ontario.|sd
 A|Yeah,|b
 A|okay.|b
-B|Actually whoever built the city was an idiot, in my opinion,because they built it, they built it far enough from the city that it actually couldn't be a port city.|sv
+B|Actually whoever built the city was an idiot, in my opinion, because they built it, they built it far enough from the city that it actually couldn't be a port city.|sv
 A|Oh,|b
 B|Um, but they,|%
 A|Well, they say that from that space needle up in Toronto you can see the lights of Rochester on a clear night.|sv
@@ -177,7 +177,7 @@ B|Oh, really, I I hadn't actually known that.|sd
 A|Yeah.|b
 B|Well, um, but we have our own, um, our own triple A team here|sd
 A|Yeah.|b
-B|the Redwings, which arethey're a farm team for the Orioles.|sd
+B|the Redwings, which are they're a farm team for the Orioles.|sd
 A|Yeah,|b
 A|okay.|b
 A|Yeah.|b
@@ -226,7 +226,7 @@ B|I mean, um, you know, I can use a Met analogy here.|sd
 A|Uh-huh.|b
 B|If you'll think back a few years to when the Mets were just all this sort of young bunch of guys who really were raw talent but weren't very sort of, well trained|sd
 A|Yeah.|b
-B|you know, back to, you know, maybe eighty, eighty-four or eighty-threeor eighty-five, you know, when they were first, when they weren't quite the eighty-six team that, that, that they were.|sd
+B|you know, back to, you know, maybe eighty, eighty-four or eighty-three or eighty-five, you know, when they were first, when they weren't quite the eighty-six team that, that, that they were.|sd
 A|Uh-huh.|b
 A|Right.|b
 B|I, I,|%
@@ -242,7 +242,7 @@ A|I mean, they've got Ryan,|sd
 A|but, you know, who knows what he'll be able to do.|qh
 A|He's been,|sd
 A|last year he started having some nagging injuries,|sd
-A|andbut, it'll, it'll be interesting to watch.|sd
+A|and but, it'll, it'll be interesting to watch.|sd
 B|Right,|aa
 B|but.|%
 A|I hope to get up there.|sd
@@ -263,17 +263,17 @@ A|we, we've just got a freeway.|sd
 A|We just get right on the freeway and just go north.|sd
 B|Yeah,|b
 B|well, actually, we can, we can, I can take a highway the whole way down,|aap_am
-B|but it's still, it's someit's, it's almost four hundred|sd
+B|but it's still, it's some it's, it's almost four hundred|sd
 A|Well, it's so crowded up there.|sv
 B|I mean, I mean, it's almost four hundred,|sv
 B|you know, barring traffic, it's four hundred hours,|sd
 B|I mean, four hundred|sd
 B|four hundred hours,|sd
 B|right,|t1
-B|four hundred milesbarring traffic,|sd
+B|four hundred miles barring traffic,|sd
 A|Golly.|ba
 B|so, it's, um, it's, it's, you know, it's a heck of a drive.|sv
-B|We are substantially north of New York enough that, uhtoo often.we don't get to go play|sv
+B|We are substantially north of New York enough that, uh we don't get to go play too often.|sv
 A|Yeah.|b
 A|you're, you're like a boat ride from,|sd
 A|how far is it across the lake to Canada?|qw

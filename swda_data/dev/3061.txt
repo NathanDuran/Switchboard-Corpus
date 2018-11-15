@@ -16,7 +16,7 @@ A|I'm not sure|sd
 A|Yeah.|aa
 B|Well, that's interesting because we have a|sv
 B|we don't have cats|sd
-B|but we do have a dog,who is an indoor dog,|sd
+B|but we do have a dog, who is an indoor dog,|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|and she is going to be thirteen this summer|sd
@@ -38,7 +38,7 @@ A|I'll be darned.|ba
 B|Yes,|b
 B|she's a female|sd
 B|and she's, um, been, she's been a really, a really good companion for me.|sd
-B|Um,follows me around all the time,she's like a little shadow, you know, kind of,|sd
+B|Um, she's like a little shadow, you know, kind of, follows me around all the time,|sd
 A|Uh-huh.|b
 A|Oh.|b
 A|Yeah.|b
@@ -48,7 +48,7 @@ B|and,|%
 A|Uh-huh.|b
 B|she doesn't see very well|sd
 B|but she's,|%
-A|Well, that's to be expected at,their age.|sv
+A|Well, that's to be expected at, their age.|sv
 B|Yeah,|b
 B|at this age, I guess so.|sd
 A|Yeah.|b
@@ -65,7 +65,7 @@ B|yes.|aa
 B|Um, did you get yours as a pet for your|qy
 B|do you have children?|qy
 A|Uh, yeah,|ny
-A|we,have five.|sd
+A|we, have five.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Oh. Well, I was wondering if you got your dog originally as a pet for them or just because you'd had dogs before|qy^d
@@ -75,30 +75,30 @@ A|She was fifteen when she died.|sd
 B|My goodness.|ba
 A|And, uh, this one, we bought by accident,|sd
 B|Uh.|%
-A|a farmer called us and wanted us to call the animal shelter to or the dog catcher or somebody to come and get this puppy that,somebody,|sd
+A|a farmer called us and wanted us to call the animal shelter to or the dog catcher or somebody to come and get this puppy that, somebody,|sd
 B|Uh-huh.|b
-A|people drop things like that off,up there,|sv
+A|people drop things like that off, up there,|sv
 B|Yeah.|b
 B|Uh-huh.|b
 A|and I said, "Gee, she sounds like a cute little dog."|sd
 A|I told the kids, "Let's go look at her"|sd
 B|Oh, yeah.|b
 A|Go get her.|^q
-A|So that's how we got her,quite by accident.|sd
+A|So that's how we got her, quite by accident.|sd
 B|Isn't that,|b
 B|Yes.|b
 B|So that often happens that way.|sv
 B|Well, we had, um, intentionally, um, planned to get a dog.|sd
-B|We had just moved into this house and, um, decided to wait about a year and then went,then we went out then, and found one,|sd
+B|We had just moved into this house and, um, decided to wait about a year and then went, then we went out then, and found one,|sd
 A|Uh-huh.|b
 B|she was in the litter,|sd
 A|Uh-huh,|b
 A|uh-huh.|b
 B|and, um, she was so cute because all the other little puppies in that litter were just crazy.|sd
 B|I mean, they were all over the place,|sd
-B|and she was real docile and,came over and just kind of sat next to us,|sd
+B|and she was real docile and, came over and just kind of sat next to us,|sd
 A|Oh.|b
-B|and I thought,that's the dog for me|sd
+B|and I thought, that's the dog for me|sd
 A|Oh.|b
 A|She picked us|^q
 B|Yeah,|b
@@ -108,10 +108,10 @@ B|what was funny was that, um, our daughter must have been,|sd
 B|let's see,|^h
 B|she must have been about eight at the time, I guess,|sd
 A|Uh-huh.|b
-B|and, um, she just loved this little dog,to pieces|sd
+B|and, um, she just loved this little dog, to pieces|sd
 A|Oh.|b
 B|but I think she loved her too much because the dog has never been real comfortable with her.|sd
-B|I think,she was always a little bit leery of her.|sv
+B|I think, she was always a little bit leery of her.|sv
 A|Oh.|b
 A|Uh-huh.|b
 B|Our son, on the other hand, who was about eleven at the time, was, um, not very interested in pets,|sd
@@ -123,13 +123,13 @@ A|But they say it's real important for children to have pets because, uh, well, 
 B|Uh-huh,|b
 B|yes.|b
 A|they want to and tell them anything they want to|sv
-A|and,know their secretsnobody is going to, you know, reprimand them or,|sv
+A|and, nobody is going to, you know, reprimand them or, know their secrets|sv
 B|Yeah.|b
 B|That's right.|ba
 A|or|%
 B|That,|%
 B|yes,|b
-B|they're very,unjudgmental|sv
+B|they're very, unjudgmental|sv
 A|Yeah.|b
 A|Yes|b
 B|Oh, dear|ba
@@ -153,20 +153,20 @@ B|yes.|b
 B|It's funny how, um, how pets can kind of, um, oh, take on a certain status in certain areas.|sv
 A|Uh-huh.|b
 B|I mean, um, that made me think of, uh, when our daughter was looking at colleges, we visited a campus in, um, Saint Louis|sd
-B|and,um, there were several dogs on the campus|sd
+B|and, um, there were several dogs on the campus|sd
 A|Uh-huh.|b
-B|and,and, the,|%
+B|and, and, the,|%
 A|Oh, really?|bh
 B|what was interesting about it was that they were very friendly,|sd
 B|but they didn't appear to belong to anyone.|sd
-B|And, um,I'm sure someone, you know, fed them.|sd
+B|And, um, I'm sure someone, you know, fed them.|sd
 A|Oh.|b
-B|They were healthy,looking dogs.|sd
+B|They were healthy, looking dogs.|sd
 A|Yeah.|b
-B|But, um, our guide that day said that the , one woman many, many years ago had given a huge sum of money to, to the university, on the condition that there be, um, dogs just kind of left to roam around the campus.Which is the strangest thing I had ever heard|sd
+B|But, um, our guide that day said that the , one woman many, many years ago had given a huge sum of money to, to the university, on the condition that there be, um, dogs just kind of left to roam around the campus. Which is the strangest thing I had ever heard|sd
 A|Is that right?|bh
 A|Yeah|b
-A|because most campuses don't allow pets,you know,|sv
+A|because most campuses don't allow pets, you know,|sv
 B|I know.|b
 A|they just do not allow them.|sv
 B|Yes,|aa
@@ -181,11 +181,11 @@ A|Yes,|b
 A|yeah.|b
 B|But, um,|%
 B|I thought that was most unique.|sv
-B|And it just, you know, kind of goes along with what you were saying,about the dog having sort of free run of the, the nursing home.|sv
+B|And it just, you know, kind of goes along with what you were saying, about the dog having sort of free run of the, the nursing home.|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|So, um, but, uh, I,|%
-B|this is the only pet we've hadyou know,|sd
+B|this is the only pet we've had you know,|sd
 A|Um.|%
 B|in all our years of marriage, um,|sd
 B|and it's been, uh, sort of a, a change for my husband because as a, a, a boy growing up, his father had dogs|sd
@@ -206,10 +206,10 @@ B|So having a pet was a little bit different for him.|sd
 A|Well, we've had a lot of different pets.|sd
 A|We had, the kids had rabbits for pets,|sd
 B|Uh-huh.|b
-A|and we also raised them for food,at one time.|sd
+A|and we also raised them for food, at one time.|sd
 B|Yeah,|b
 B|Oh, yes.|b
-A|And we've had it . We've had a skunk for a pet.For more years than I want to think about|sd
+A|And we've had it . We've had a skunk for a pet. For more years than I want to think about|sd
 B|Oh, my golly.|ba
 A|She was in the house|sd
 B|Oh, gosh.|ba
@@ -243,14 +243,14 @@ A|Oh, my, how, how long?|bf
 A|Probably seven or eight years.|sd
 B|Goodness sake.|ba
 A|And finally, my children are the ones who said, "Mom, you've put up with that skunk long enough,"|sd
-A|so,we moved her to the basement,|sd
+A|so, we moved her to the basement,|sd
 A|and I don't think she was there a week till the men moved her, built her a pen outside|sd
 B|Oh, my gosh.|ba
 B|Isn't that funny?|bh
 A|And I thought, I put up with that all those years|sd
 B|Yes,|b
 B|and this is what it took finally|bf
-A|And,Different times.stay in the house.we've had, we've had cats,|sd
+A|And, we've had, we've had cats, stay in the house. Different times.|sd
 B|That is,|%
 B|Uh-huh.|b
 B|Yeah.|b
@@ -268,8 +268,8 @@ B|I'll be.|ba
 A|And he got huge down there.|sd
 B|My goodness.|ba
 A|He really grew|sd
-A|but he,he never came back.|sd
-B|That'sThat's interesting.|ba
+A|but he, he never came back.|sd
+B|That's That's interesting.|ba
 B|I, I wouldn't picture a Siamese as being an outdoor cat.|sv
 A|Well, he wasn't a whole lot.|sd
 B|Uh-huh.|b
@@ -282,10 +282,10 @@ B|Is that right?|qy
 A|Yeah.|ny
 A|The, the cats,|%
 A|my son has a cat,|sd
-A|and the vet had told us they get strange,if they're kept in the house all the time.|sd
+A|and the vet had told us they get strange, if they're kept in the house all the time.|sd
 B|Uh-huh.|b
 A|And their cat was not a friendly cat,|sd
-A|it was,it was not a good,|sd
+A|it was, it was not a good,|sd
 B|Well.|%
 A|I don't know,|sd
 A|it got,|%

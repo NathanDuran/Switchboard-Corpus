@@ -3,7 +3,7 @@ A|Okay.|fo_o_fw_"_by_bc
 A|Do you work with a company that, uh, gives drug testing|qy
 B|Sort of.|na
 B|I'm a, I'm a student|sd
-B|but, uh,I'm in the National Guard|sd
+B|but, uh, I'm in the National Guard|sd
 B|and they do a little bit of drug testing.|sd
 A|Oh, they do?|bh
 B|Yeah.|ny
@@ -28,22 +28,22 @@ B|Uh-huh.|b
 A|But, uh, actually, I think they should do it.|sv
 B|Yeah,|aa
 B|I, I believe they should too.|sv
-A|You know, uh, I don't think anybody needs anybody that's, to be working for them that's on drugsof any kind you know.|sv
+A|You know, uh, I don't think anybody needs anybody that's, to be working for them that's on drugs of any kind you know.|sv
 B|Uh-huh.|b
 B|Yeah,|aa
 B|definitely.|aa
 A|But, uh, I don't know whether I believe that they should just randomly do it.|sv
-A|I think they should kind of warn them, like, you know, well we're going to do that or maybe tell them before they do get hired, you know that  this is what is going to happen. |sv
+A|I think they should kind of warn them, like, you know, well we're going to do that or maybe tell them before they do get hired, you know  that  this is what is going to happen. |sv
 B| Oh. |b
-A|And then if you don't like it, why then, you know, you'll have to go look for a job someplace else.|^q
+A|And  then if you don't like it, why then, you know, you'll have to go look for a job someplace else.|^q
 B| Uh, |b
 B|But after you,|%
-B|you have,to do randomly otherwise people will cheat.|sv
+B|you have, to do randomly otherwise people will cheat.|sv
 A|Well, I suppose you are right there too, you know.|aa
 B|Yeah.|b
 A|Uh,  personally I, |%
 B| They,|%
-B|I know  when I was doing my, uh, basic training in A I Tthere was guys who would fool around|sd
+B|I know  when I was doing my, uh, basic training in A I T there was guys who would fool around|sd
 A|Uh-huh.|b
 B|and then when that urinalysis came around they would be all scared.|sd
 A|Uh-huh.|b
@@ -55,8 +55,8 @@ B|Yeah.|b
 A|Well, I suppose they fire you and everything right then, huh?|qy
 A|Or what do they do with you guys if, that you guys get,|qw
 B|Uh, we get counseling|sd
-B|and, uh, I think part of our pay is docked  if we're first time offenders.|sd
-A| Oh I, Oh, I see.|bk
+B|and, uh, I think part of our pay is docked  if we're  first time offenders.|sd
+A| Oh I,  Oh, I see.|bk
 B|I really don't,|%
 B|I, I haven't,|%
 B|I don't do any drugs|sd
@@ -83,39 +83,39 @@ B|Uh, what do you think about our, uh, like, uh, other government agencies testi
 B|Do you think our government agencies should test?|qy
 A|Yeah,|ny
 A|I think so.|na
-A|I think they all should test reallyyou know.|sv
+A|I think they all should test really you know.|sv
 B|Yeah.|b
-A|Uh, it just seems like there is so much more of it going on anymorethat, I don't know what's wrong with the people, uh,|sv
+A|Uh, it just seems like there is so much more of it going on anymore that, I don't know what's wrong with the people, uh,|sv
 B|Yeah.|b
 A|but I think that the, the government should do something about stopping it completely.|sv
 A|About it coming into our country.|sv
 A|You know, they just slap somebody's little hand,|sv
 A|and, you know, well, don't do that again|sv
-A|and and then  you know, they'll get out|sv
+A|and  and then  you know, they'll get out|sv
 B|Oh, I know,|aa
 B|yeah.|aa
 B| They aren't . |%
 A|and they're right back at it again.|sv
 B|Yeah.|aa
 B|Right now it is, it's too lucrative for the drug dealers|sv
-B|sothe risks are worth it for them.|sv
+B|so the risks are worth it for them.|sv
 A|Yeah.|b
 A|Uh-huh,|b
 A| uh-huh. |b
 B| Yeah. |b
 A|But, uh, other than that, why, I don't know.|sd
 A|Like I say, maybe one of these days I'll get a job because I am looking still for a part-time job, you know, since my company went bankrupt |sd
-A|and I'll see what they do, you know.|sd
+A|and  I'll see what they do, you know.|sd
 B| Yeah. |b
 A|But, like I say, I, I wouldn't care because I, I don't, I don't even smoke|sd
-A|sothey can test me all I want.|sd
+A|so they can test me all I want.|sd
 B|Yeah.|b
 A|I wonder what if you take medicine if that would effect it.|qy^d
 B|Oh see, that's,|b
 B|it is a problem.|sv
 B|Sometimes some medicines will give off a, a false positive.|sd
 A|Yeah,|b
-A|see  now that that would be really unfair then, huh?|qy
+A|see  now that  that would be really unfair then, huh?|qy
 B| I've heard  of, I've heard of that,|sd
 B|yeah.|%
 B|Yeah.|ny

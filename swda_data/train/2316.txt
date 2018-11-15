@@ -2,8 +2,8 @@ A|It's, it's hard topic because|sv
 A|is, is, is it doing a good job or a bad job|qh
 A|and you got to divide it two different categories whether you live in the city or whether you live in a more rural place like I do.|sv
 B|Yeah,|b
-B|and are you talking about public schools being lower level, high school level or state school. |qy
-A|Well, public school all the way up kindergarten  all the way up to, uh, uh, high school.|sd
+B|and are you talking about public schools being lower level, high school level or  state school. |qy
+A|Well, public school all the way up  kindergarten  all the way up to, uh, uh, high school.|sd
 B|Okay,|bk
 B|but you're excluding high-level education.|sv
 A|Yes,|aa
@@ -33,7 +33,7 @@ A|I mean we, our high school up here is like a junior college in Florida|sd
 B|Right.|b
 A|what we learned.|%
 B|Well, that was my experience going through junior high up there|sd
-B|when I came down south for high school I was just repeating what I'd already done.Because we were so far advanced.|sd
+B|when I came down south for high school I was just repeating what I'd already done. Because we were so far advanced.|sd
 A|Yeah.|b
 B|And, uh, you know, I'd been in a parochial school before junior high|sd
 B|and, you know, even the public schools are behind the parochial schools.|sd
@@ -50,7 +50,7 @@ B|and some of the, the better parts of the Metroplex, the, the suburbs that are 
 B|But, uh, you know,|%
 A|Yeah,|b
 A|it's like if, if your father owns a grocery store and you're really interested in that,|sv
-A|there's no reason that you should take college prep courses when you can get some general  business courses in high school.|sv
+A|there's no reason that you should take college prep courses when you can get some  general  business courses in high school.|sv
 B| Right. |aa
 B|Or if you're going to go the science route you can go to a target school that specializes in science or art.|sv
 B|You know, there's no point in, you know,|sv
@@ -64,14 +64,14 @@ A|I'm a, I'm a technician|sd
 A|and we had a vocational, uh, electronics in our high school.|sd
 B|Right,|b
 B|in high school.|b^m
-A|So when I went to my first year of tech school, I had a very easy time because our high schoolhad a, a good program.|sd
+A|So when I went to my first year of tech school, I had a very easy time because our high school had a, a good program.|sd
 B|Right.|b
 B|I think the schools today, you know, the public schools are just, they're just overrun, you know,|sv
 B|they don't know what to do,|sv
 B|there's too many kids and not enough teachers|sv
 B|and too many of the kids don't care.|sv
 A|Yeah,|aa
-A|I find thatnot really to learnthat the, that in the, in the cities, it's more like the kids go there so socialize|sv
+A|I find that that the, that in the, in the cities, it's more like the kids go there so socialize not really to learn|sv
 B|And,|%
 B|Right.|aa
 A|and the parents send them there because they're supposed to,|sd
@@ -96,7 +96,7 @@ B|I'm wondering with the boom down here.|sd
 B|It's, well, not at the moment,|%
 B|but a lot of the industry's moving southward.|sd
 A|Yeah,|b
-A|are they going to move to, uh Mexico? |qy
+A|are they going to move to, uh  Mexico? |qy
 B| So, |%
 B|Uh, I don't know about that,|no
 B|but a lot of the industry up in, uh, you know, the northern states is moving south|sd
@@ -109,10 +109,10 @@ B|If|%
 B|that might not turn around in the next, you know, fifteen, twenty years.|sd
 A|Yeah,|b
 A|maybe the, maybe they'll bring their good schools with them. You know,|sv
-A|if the industry comeshopefully they'll promote good schools.|sv
+A|if the industry comes hopefully they'll promote good schools.|sv
 B|Yeah.|b
 A|Because I know the town that I come from the, the, uh, the large I B M plant has something to do with the top rated high school because of their tax base for one|sd
-A|and plus for, for the type of student that's going to that school, it's going to raise the level of the schoolbecause your parents are engineers or chemists.|sv
+A|and plus for, for the type of student that's going to that school, it's going to raise the level of the school because your parents are engineers or chemists.|sv
 B|Right.|b
 A|They're, they're, you're most likely to do better in school.|sv
 A|They're going to help you.|sv
@@ -141,9 +141,9 @@ B|who, who's supposed to make the change, the, the state, the the federal govern
 B|where's the money supposed to come from.|qh
 B|Is it, you know|%
 A|I don't know.|sd
-A|Actually, I think it's, I think it should bea civic level, the city level and a, a system level really to find out, and to see what they need and not overinflate it,|sv
+A|Actually, I think it's, I think it should be a civic level, the city level and a, a system level really to find out, and to see what they need and not overinflate it,|sv
 B|what, what do you advocate, more taxes or better management of what they got?|qy
-A|like, if the teachers are getting six percent raises every year when people in industry have been getting cut back, and you're gettingraises every eighteen months you got to go now, hey, wait a minute,|sv
+A|like, if the teachers are getting six percent raises every year when people in industry have been getting cut back, and you're getting raises every eighteen months you got to go now, hey, wait a minute,|sv
 B|Yeah|b
 A|we're in a recession here.|sd
 A|We, uh, our town didn't pass the school budget this year and for the first time in many, many years just because people are, are in the recession|sd

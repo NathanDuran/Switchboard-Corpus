@@ -1,5 +1,5 @@
 A|Uh, well, I, I guess it's a subject I haven't thought too much about.|sd
-A|Uh, I don't know if there's so much wrong with the public schools, uh, as much as,we're expecting too much out of them.|sv
+A|Uh, I don't know if there's so much wrong with the public schools, uh, as much as, we're expecting too much out of them.|sv
 B|Uh, that might be a lot to do with it.|aa
 B|I know a lot of it here in my state,|sd
 B|I'm from Mississippi,|sd
@@ -18,10 +18,10 @@ A|Well, it's, it is getting very expensive to run schools,|sv
 A|so.|%
 B|Well it is.|aa
 A|They've got computers now that you got to train on.|sd
-A| There's just so much, uh, more and less money to do it with.|sv
+A| There's just  so much, uh, more and less money to do it with.|sv
 B| Right. |b
 B|That's true.|aa
-B|And a lot of it, lot of it has to do with, uh, salaries too,  speaking of money.|sv
+B|And a lot of it, lot of it has to do with, uh, salaries too,  speaking  of money.|sv
 A| Right. |b
 A|Yeah.|b
 B|Cause if you can't pay the right people, you know, they're not to be able to do, they're not, not going to get the people that can do a good job.|sv
@@ -29,7 +29,7 @@ A|Yeah,|aa
 A|yeah.|aa
 A|I, I, I guess that in, uh,|%
 A|talking on a lot of the things as far as the discipline in the schools, I, I think they're expecting schools to discipline the kids|sv
-A|and, uh, I think it should go right back to the parents.If you don't train your kids right then|sv
+A|and, uh, I think it should go right back to the parents. If you don't train your kids right then|sv
 B|Right.|aa
 B|Right.|aa
 B|I feel the same way.|sd
@@ -103,6 +103,6 @@ A|and, uh, as far as I know, it's still there.|sd
 A|They've expanded on it|sd
 A|but they've never built a new one|sd
 A|and it's probably fifty, sixty years old or, or better|sd
-A|andI don't foresee them, uh, building a new one for a long time because they can't afford it.|sd
+A|and I don't foresee them, uh, building a new one for a long time because they can't afford it.|sd
 B|Right.|b
 B|Exactly|aa

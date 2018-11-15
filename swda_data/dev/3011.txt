@@ -16,7 +16,7 @@ B|Yeah,|b
 B|we have a single family home in northern Virginia just outside of Washington.|sd
 A|Uh-huh.|b
 A|Well, I guess the best I can do is, is, uh, compare apartments|sd
-A|If it can compare the one that I have now,with the one that I had the last time, the one that I have now, uh, has a lot more amenities, I guess is the right word, than the one that I moved out of.|sd
+A|If it can compare the one that I have now, with the one that I had the last time, the one that I have now, uh, has a lot more amenities, I guess is the right word, than the one that I moved out of.|sd
 A|Uh, this one, you know, gave us free cable and, uh, ceiling fans|sd
 A|and, uh, it was practically new when I moved in here|sd
 A|and the carpet was new|sd
@@ -61,12 +61,12 @@ B|We've, we had sort of like a Dallas syndrome|sd
 A|Yeah.|b
 B|The past, uh, uh, year and a half prices have gone down which is totally new for northern Virginia.|sd
 A|Uh-huh.|b
-A|It just ,It's a real good ,|sv
+A|It just , It's a real good ,|sv
 B|It just never happened before.|sd
 B|So it's really surprising everybody.|sd
 B|All the developers don't know what to do|sd
 A|Yeah,|b
-A|it's a good time to buy,if you're in the market.|sv
+A|it's a good time to buy, if you're in the market.|sv
 B|Yeah,|b
 B|we're, uh, we actually have our house on the market because we have two kids|sd
 A|Uh-huh.|b
@@ -97,7 +97,7 @@ B|a friend of mine was thinking about coming down there,|sd
 B|and that's what he said was that, you know, it just wasn't something that people had down there.|sd
 A|No,|aa
 A|it's|%
-B|They put pools and garages on,but, uh, no basements|sd
+B|They put pools and garages on, but, uh, no basements|sd
 A|Right.|b
 A|I haven't, I haven't, I have yet to see a basement in a house.|sd
 B|Huh.|%
@@ -112,10 +112,10 @@ A|No,|ar
 A|no,|ar
 A|no,|ar
 A|you know, I don't see that kind of sand here. Um,|sd
-A|there are some areas though where, where they have a problem with, uh, the houses kind of sinking a little bitinto the, to the, uh,|sd
+A|there are some areas though where, where they have a problem with, uh, the houses kind of sinking a little bit into the, to the, uh,|sd
 B|Uh-huh.|b
 A|or the foundation is sinking or something. You know, just a little, just a little bit, some more than others.|sd
-A|But you, you have to know the right spot,to, to pick where that doesn't happen.|sd
+A|But you, you have to know the right spot, to, to pick where that doesn't happen.|sd
 B|Yeah.|b
 A|And, uh ,|%
 B|Well, out here we, um, we live in what used to be, uh, like a prairie or whatever a natural, you know, natural grasslands.|sd
@@ -142,7 +142,7 @@ B|Oh, yeah,|ny
 B|uh-huh.|ny
 B|Yeah.|ny
 B|My, uh, my folks used to live there.|sd
-B|Back before I was born,they lived there.|sd
+B|Back before I was born, they lived there.|sd
 A|Oh.|b
 A|Uh-huh.|b
 A|Well, different areas in Dallas have different kind,|sd
@@ -162,7 +162,7 @@ B|and anything instead that beltway, the highway, the real estate's forty thousa
 A|Yeah.|b
 B|So, you know, you really can't afford, I, I, I could never afford a house inside the beltway.|sd
 B|That's why we came out here.|sd
-B|This is called the, the, the country, you know, with only, you know, maybe twenty miles total from D C, twenty-fivefrom the city.|sd
+B|This is called the, the, the country, you know, with only, you know, maybe twenty miles total from D C, twenty-five from the city.|sd
 A|Huh.|%
 B|But, um, it's considered the country since it's, uh, you know, that far out.|sd
 A|Well ,|%
@@ -184,7 +184,7 @@ B|we're in a development.|sd
 A|it's not connected to another one?|qy^d
 B|There's, uh,|%
 B|yeah,|ny
-B|there's another one half an acre away,or a quarter acre away rather.|sd
+B|there's another one half an acre away, or a quarter acre away rather.|sd
 A|Oh.|%
 A|But it's not, they're not connected are they?|qy
 B|Oh, no.|nn
@@ -195,7 +195,7 @@ A|Yeah.|b
 B|Uh, my folks, um, had an apartment for a while when we were kids|sd
 B|but, um, for the most part they, they always had, you know,|sd
 B|and Pennsylvania always had a single family home|sd
-B|and so,you know, as soon as we could we, we got a single family home,|sd
+B|and so, you know, as soon as we could we, we got a single family home,|sd
 A|Uh-huh.|b
 B|and that's all I ever knew growing up,|sd
 A|Uh-huh.|b

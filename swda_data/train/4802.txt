@@ -30,7 +30,7 @@ A|Uh-huh.|b
 B|Have you seen that by Bly?|qy
 A|I don't think I have seen it.|ng
 B|Okay.|bk
-B|Well it's a book about,as well as, uh, man and interacting with other men and a book about, uh, men and how they mature through life.uh, uh, Greek gods and, and Greek, uh, mythology|sd
+B|Well it's a book about, uh, uh, Greek gods and, and Greek, uh, mythology as well as, uh, man and interacting with other men and a book about, uh, men and how they mature through life.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 A| Oh. |b
@@ -69,18 +69,18 @@ A|Uh-huh.|b
 A|Uh-huh.|b
 B|And I read a lot of books in the area of, uh, uh, psychology and self-help type, uh, materials.|sd
 A|Okay.|b
-B|Uh, always trying to understand peoplebetter and understand myself in relation to other people and try to understand where the people are coming from because I'm in a people business.|sd
+B|Uh, always trying to understand people better and understand myself in relation to other people and try to understand where the people are coming from because I'm in a people business.|sd
 A|Uh-huh.|b
 A|Okay.|b
 B|And, uh, so that, that's,|%
 B|my work is my hobby|sd
 A|Uh-huh.|b
-A| That sounds great|sd
+A| That  sounds great|sd
 B|  So I, I enjoy it.|sd
 A|Uh, who is your, whose your favorite religious author?|qw
-B|Well, I don't know if I have a favoriteuh, religious author.|sd
+B|Well, I don't know if I have a favorite uh, religious author.|sd
 A|Uh-huh.|b
-B|I would have to say that, uh, some of the ones that consistently put out good materials,uh, you know,|sd
+B|I would have to say that, uh, some of the ones that consistently put out good materials, uh, you know,|sd
 B|that, that's difficult because one person might write one book extremely well and some other ones might not write as well.|sv
 A|Uh-huh.|b
 B|Uh, I had to stop here and think a second.|^h
@@ -99,7 +99,7 @@ B|Yes.|b
 B|I know him,|sd
 B|yeah.|%
 A|Huh.|b
-B| But uh, there's other authors also that have uh, uh, that write good books from time to time, but not consistently put out the materials all the time|sv
+B| But  uh, there's other authors also that have uh, uh, that write good books from time to time, but not consistently put out the materials all the time|sv
 B|Uh, I'd say another, which is a local writer here in Plano, uh, is, uh,|sv
 B|I'm trying to think of his name.|^h
 B|He's with the Bible church.|sd

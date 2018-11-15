@@ -44,7 +44,7 @@ A| But  there's a lot of|%
 A|well, it's just it's something that anyone can watch and enjoy.|sv
 B|He's a good actor though.|sv
 A|Beg your pardon?|br
-B|Um, Gene Hackman's a good actor. I think. |sv
+B|Um, Gene Hackman's a good actor.  I think. |sv
 A|Yes,|aa
 A| he is. |sv
 B|Do you see HOOSIERS?|qy

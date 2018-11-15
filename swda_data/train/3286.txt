@@ -1,5 +1,5 @@
 B|So, what do you think about it?|qo
-A|Well, I found it interesting that they started off with a problems of immigration in America and then went back and said, well, if there is a problem,what should we do about it?|sd
+A|Well, I found it interesting that they started off with a problems of immigration in America and then went back and said, well, if there is a problem, what should we do about it?|sd
 B|Right|b
 B|Yeah,|b
 B|I guess that's so.|sd
@@ -14,7 +14,7 @@ A|That's interesting.|ba
 A|I was, I was wondering what your response would be.|sd
 A|I'm a first generation American.|sd
 B|Okay.|b
-A|So I'm,Or an immigrant mother anyway.from immigrant parents|sd
+A|So I'm, from immigrant parents Or an immigrant mother anyway.|sd
 B|Uh, where did you come from?|qw
 B|Okay.|b
 B|Okay,|b
@@ -29,7 +29,7 @@ B|Yeah.|b
 A|There needs to be more of an open policy.|sv
 B|Uh-huh.|b
 A|And you know we have to remember the Chinese came here and were our labor, you know, for the railroad, Transatlantic Railroad|sd
-A|and,did labor.our Irish came and, you know, built the towns and,|sd
+A|and, our Irish came and, you know, built the towns and, did labor.|sd
 B|Yep.|aa
 B|Uh-huh.|b
 A|But what do you think,|qw
@@ -41,8 +41,8 @@ A|Okay.|bk
 B|Yeah.|b
 A|Well, that will be interesting.|ba
 B|Right,|b
-B|and, uh,a lot of,|%
-A|Because we have just,and have become citizens now.had a Naturalization Act where the Mexicans that were residents in Texas, I'm from Texas|sd
+B|and, uh, a lot of,|%
+A|Because we have just, had a Naturalization Act where the Mexicans that were residents in Texas, I'm from Texas and have become citizens now.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 A|What do you think about that?|qo
@@ -60,7 +60,7 @@ B|okay.|%
 A|Because Texan philosophy is a little different.|sv
 B|Right.|b
 B|Well, a lot of the experience that I have with this problem has to do with my brother-in-law who's Chinese and immigrated from China.|sd
-B|And, um, you know he, um, got a green card is, and is in good standing in America and China, but only because he was always nice to the Chinese government,and all that,|sd
+B|And, um, you know he, um, got a green card is, and is in good standing in America and China, but only because he was always nice to the Chinese government, and all that,|sd
 A|Uh-huh.|b
 B|and he was always on pretty good terms with them.|sd
 A|Yeah,|b
@@ -79,7 +79,7 @@ A|Well, I wonder, you know, even with those that were involved with Tienamen's S
 B|Right.|b
 A|You know, did we really protect them?|qh
 B|Yeah,|b
-B|that's, and I think that's pretty crazy,because I mean those students who were in America when that was happening are almost certainly going to be in trouble if they go back,|sv
+B|that's, and I think that's pretty crazy, because I mean those students who were in America when that was happening are almost certainly going to be in trouble if they go back,|sv
 A|Yeah.|b
 B|and aside for that, they're the best and brightest of China|sv
 B|so it's certainly in our best selfish interest to keep them here if we can.|sv
@@ -87,14 +87,14 @@ A|That is true.|aa
 A|That is true.|aa
 A|Well, what do you think about,|qo
 B|Yeah.|b
-A|we have in Texas a large Vietnamese populationthat has been brought in.|sd
+A|we have in Texas a large Vietnamese population that has been brought in.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 A|What do you think about that?|qo
 B|Um,|^h
 A|And these are not the brightest.|sd
 B|See, these are refujees, you mean?|qy
-A|I mean wewe're talking boat people.|arp_nd
+A|I mean we we're talking boat people.|arp_nd
 B|Okay.|bk
 B|Right,|bk
 B|okay.|bk

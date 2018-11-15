@@ -3,14 +3,14 @@ A|Um, serious problems in the public education and what can be done about it.|sd
 B| Well,  what do you think?|qo
 B|Oh.|b
 A|And, um, I was a teacher for seven years in the public schools,|sd
-A|so I know a little bit about it not,a whole great deal.|sd
+A|so I know a little bit about it not, a whole great deal.|sd
 B|Well, tell me about it.|ad
-B| What are, what are the problems with public education?|qw
+B| What are,  what are the problems with public education?|qw
 A|Well, um, there, there's some.|sd
 A|There's several|sd
 A|It's such a, a broad, you know, topic that you need to boil it down.|sd
 B|Uh-huh.|b
-A|But, um, one that, um, I thought was a problem that , I thought it was a serious problem, that I'm not sure it's being taken care of right now, uh, was like bilingual educationum, minority groups and like Asians and, um, uh, Mexican Americans and, and just people in general that speak other languages that sometimes come from other countries or coming from different areas and they and in this area,for, um, different,|sv
+A|But, um, one that, um, I thought was a problem that , I thought it was a serious problem, that I'm not sure it's being taken care of right now, uh, was like bilingual education for, um, different, um, minority groups and like Asians and, um, uh, Mexican Americans and, and just people in general that speak other languages that sometimes come from other countries or coming from different areas and they and in this area,|sv
 B|Uh-huh.|b
 A|and, um, as the school district, I'm not sure how to go about it, because it's hard to get one teacher that speaks all these languages|sv
 B|Right.|b
@@ -29,7 +29,7 @@ B| Do  you find that those parents, um,|qy
 B|I've seen the same thing and heard the same things,|sd
 B|and at the same time I've heard that it's even harder when both parents are required to work and can't spend, you know, that, that time, you know|sv
 A|Yeah.|b
-B|typically the mother was at home with, uh, the children  and, and at least could kind of keep up on what's going on,|sd
+B|typically the mother was at home with, uh, the children  and,  and at least could kind of keep up on what's going on,|sd
 A| Yeah. |b
 B|and really society sort of dictates that, uh, you know, both the parents work.|sv
 A|Yeah.|b
@@ -45,21 +45,21 @@ A| Uh-huh. |b
 A|Uh-huh.|b
 B|And, you know, there are some students who are in the top ten percent of their class, even some who are maybe, you know, in the top ten of their class,|sd
 B|and their S A T scores are very low,|sd
-B|and a lot of it has to do with their, uh, their reading ability, you  know, their, their language |sd
+B|and a lot of it has to do with their, uh, their reading ability, you  know,  their, their language |sd
 A| Yeah. |b
 B|and, |%
 A| Oh,  definitely,|aa
 A|yeah.|aa
 B|It, uh, makes it tough because you know when they come in with scores that low, they may be, uh, good students,|sv
 B|but they just haven't achieved to their fullest potential|sv
-B|and they're  going, to fail unless some sort of remedial, uh, education is given to them |sv
+B|and they're  going,  to fail unless some sort of remedial, uh, education is given to them |sv
 A| Yeah. |b
-B|so, the junior highs.are they supposed to get that back in the high schools  and, And then it, then it comes into, well, who's supposed to give it to them, the colleges and universities  or, |qh
+B|so,  And then it, then it comes into, well, who's supposed to give it to them, the colleges and universities  or,  are they supposed to get that back in the high schools  and,  the junior highs.|qh
 A| Right,|aa
 A| right.|aa
 A| Yeah. |b
 A| Yeah. |b
-A|Well, I know Richardson school district has a, has a wonderful program in the remedial reading, um, where, you know,time portion of the yearof course, all the children are tested in some,|sd
+A|Well, I know Richardson school district has a, has a wonderful program in the remedial reading, um, where, you know, of course, all the children are tested in some, time portion of the year|sd
 A|and, and, uh, some children who need extra help are put into this, um, reading program,|sd
 A|and it is just excellent.|sd
 A| It is, |%

@@ -7,7 +7,7 @@ A|like, I don't think one test positive should, uh, be, uh, the end of it, you k
 B| Right. |b
 A| I,  I think they should test more than once.|sv
 B|Yeah,|aa
-B| it's, it's that has a similar opinion as mine.it's refreshing to hear somebody,|sv
+B| it's, it's  it's refreshing to hear somebody, that has a similar opinion as mine.|sv
 A| It, |%
 B|I mean, all these people that are against it that may, you know, they may not even be on drugs.|sv
 B|They, they call it an invasion of privacy.|sv
@@ -15,24 +15,24 @@ A|Uh-huh|b
 B|And I don't see that.|sv
 B|To me that just doesn't sound like a valid argument because this company is paying you good money that you're working for|sv
 A|That's right.|aa
-B|and they, I believe that,they have the right to know if you're using a, a dangerous substance|sv
+B|and they, I believe that, they have the right to know if you're using a, a dangerous substance|sv
 A|Uh-huh.|aa
 A|Uh-huh.|aa
 B| But, |%
-A| There's  so many jobs that, uh,really have other people's lives in their hands or even their own life|sv
+A| There's  so many jobs that, uh, really have other people's lives in their hands or even their own life|sv
 A|and, you know, and it's, uh|%
 B|Uh-huh.|b
 A|uh, how can you do anything about a problem besides if you don't know about it?|qh
 B|Right.|b
-A|You know, and I just, um, I,  I think there definitely needs to be some control to it.|sv
+A|You know, and I just, um, I,  I think  there definitely needs to be some control to it.|sv
 B| Right . |b
 A|I guess it is possible to have a false positive report.|sv
 B|Yes.|aa
 B|No,|ar
-B|I, I, I agree that, you know, you, there needs to be a, a well thought out, sane approach to,how to administer that program.|sv
+B|I, I, I agree that, you know, you, there needs to be a, a well thought out, sane approach to, how to administer that program.|sv
 A| Uh-huh. |b
 B| Just because  you, you, something can get mixed in the mail,|sv
-B|oruh, the chemicals could react incorrectly than, than what you would expect them to.|sv
+B|or uh, the chemicals could react incorrectly than, than what you would expect them to.|sv
 A|Uh-huh.|b
 B| And, yeah,|%
 B|you, you know |%
@@ -40,7 +40,7 @@ A| Or somebody's  test gets mixed up with somebody else's.|sv
 B| Right. |b
 A| I mean,  those things do happen.|sv
 B|Yeah.|b
-A|Uh, I certainly wouldn't want people's lives ruined uh, wrongly. |sd
+A|Uh, I certainly wouldn't want people's lives ruined  uh, wrongly. |sd
 B|Right,|aa
 B| and, you know, I've |%
 B|the, the, the company that I work for, uh, has just recently, well, you know, within the last couple of years, instituted for all new hired employees,|sd
@@ -52,15 +52,15 @@ B|And , it hasn't happened to me in the couple of years that, you know, it's bee
 A| Uh-huh. |b
 B| but, uh,  I, I fully agree with it|sd
 B|and there's, you know, there's all these memos going around about folks that are disgruntled and feel it's an invasion of privacy,|sd
-B|andI, I agree with you.|aa
+B|and I, I agree with you.|aa
 A|Uh-huh.|b
 B|If, if, if you feel it's an invasion of privacy, you've, you've probably got something you're trying to hide|sv
 A|Yeah|aa
-A|and you maybe need to look for some other type of job to do that,  uh, doesn't require the testing.|sv
+A|and you maybe need to look for some other type of job to do  that,  uh, doesn't require the testing.|sv
 B| Yeah. |b
 B|Right.|b
 A|Uh, to me, it's, to me it's not an invasion or privacy.|sv
-A|I think it's people have a right to know if, if, uh, their, their life maybe's in jeopardy or, uh,Yeah.|sv
+A|I think it's people have a right to know if, if, uh, their, their life maybe's in jeopardy or, uh, Yeah.|sv
 B|Or, the quality of their product.|^2
 A|Their work, the work they're doing for their company.|sv
 A|Uh, those things are all affected.|sv
@@ -71,16 +71,16 @@ A|It doesn't seem to, uh, bother the quality of work|sv
 B|Uh-huh.|b
 A|but eventually it does.|sv
 B|Right,|aa
-B|because it usually requires more and more of that substance that you're misusingto get the same effect.|sv
+B|because it usually requires more and more of that substance that you're misusing to get the same effect.|sv
 A|Uh-huh,|aa
 A|uh-huh.|aa
 A|Uh-huh.|b
 B|Um.|b
 A|Course, I feel the same way on the AIDS problem.|sd
 A|I, I don't think that's an invasion of privacy,|sv
-A|that's the only communicable disease that they're not allowed to test foryou know,|sd
-A|and it's destroying a  lot of  people's lives |sv
-B| and then  and one of the  few that they don't have a cure for|sd
+A|that's the only communicable disease that they're not allowed to test for you know,|sd
+A|and it's destroying a  lot of   people's lives |sv
+B| and then   and one of the  few that they don't have a cure for|sd
 A|Yeah,|aa
 A|and it's, you know, it's, it's destroying people's lives|sv
 A|and I, I think that person, plus anybody in danger should, should know about it and be aware of it.|sv
@@ -89,7 +89,7 @@ A|I don't know.|h
 A|It's, it's kind of hard to|sv
 A|I guess the gay movement has had a lot to do with considering that, that, uh, an invasion of privacy.|sv
 A|Of course, that's not supposed to be what we're talking about today, I guess.|sd
-A|So,I kind of get off on a tangent here.|sd
+A|So, I kind of get off on a tangent here.|sd
 B|Yeah|b
 A|Uh, do you work for, uh, Texas Instruments?|qy
 B|Yes,|ny
@@ -97,7 +97,7 @@ B|I do.|sd
 A|Uh-huh.|b
 B|And I'm, I'm down in the, the central,|sd
 B|but I don't know how familiar you are with Texas,|qw^d
-B|but I'm in a, we live in a town, uh, near a town called Temple.Which is right in between Waco and Austin on the freeway.|sd
+B|but I'm in a, we live in a town, uh, near a town called Temple. Which is right in between Waco and Austin on the freeway.|sd
 A|Um.|b
 A|Oh, that's probably why,|sd
 A|my brother did live in Grapevine, Texas.|sd
@@ -113,7 +113,7 @@ B|Oh my!|na
 A|Yeah|b
 B|It's, actually, we got about two inches of rain in about three hours, yesterday.|sd
 A|Oh, did you  really? |bh
-B| And it's  cooled things  down somewhat.|sd
+B| And it's   cooled things  down somewhat.|sd
 A| Oh, that's great. |ba
 B|It's getting more humid  now,|sd
 B|but, |%
@@ -127,7 +127,7 @@ B|It's been about three weeks since we've had any.|sd
 A|Yeah.|b
 A|It's kind of at a dangerous level here.|sd
 A|People hauling water,|sd
-A|and, uhit's getting real bad.|sd
+A|and, uh it's getting real bad.|sd
 B|Um.|b
 B|Wow.|ba
 A|So.|%
@@ -138,7 +138,7 @@ A|Um So do I|aa
 B|I|%
 A|Uh, I can't think of anything else, uh.|sd
 B|Yeah,|b
-B|I, I guess being in  agreement  you know kind of tends to limit the conversation|sv
+B|I, I guess being in  agreement  kind of tends to limit the conversation  you know |sv
 A| Uh-huh. |b
 A| Uh-huh. |b
 A|Uh, I can understand|ba
@@ -148,7 +148,7 @@ B|One of the things I found interesting,|sd
 B|it, it's funny that you mentioned that,|sd
 B|T I is pretty much a worldwide company|sd
 A|Uh-huh.|b
-B|and we have manufacturing plants all around the worldincluding some places where the use of certain drugs that are illegal here are not illegal.|sd
+B|and we have manufacturing plants all around the world including some places where the use of certain drugs that are illegal here are not illegal.|sd
 A|Uh-huh.|b
 A|Um. Uh-huh,|b
 A| uh-huh. |b
@@ -159,13 +159,13 @@ B|Yeah,|b
 B|I thought that was kind of interesting  too. |sd
 A| Yeah,|b
 A| yeah,|b
-A|the different cultures and that too, uh |sd
+A|the different cultures and that  too, uh |sd
 B|Yeah.|b
 B| I mean, uh, uh,  from a quality standpoint, that's not, I mean, just because it's not illegal doesn't mean it doesn't affect you the same way.|sv
 A|No,|aa
 A|no.|aa
 A|I'm sure it would have to affect you the same way.|sv
-A|I, I can't think that would make any difference whether  it was legal or not,|sv
+A|I, I can't think that would make any difference  whether  it was legal or not,|sv
 B| Yeah. |b
 B| Right. |b
 A| it,  it would still have to affect you the same way.|sv
@@ -177,16 +177,16 @@ A|Oh yeah.|aa
 A|You can't you go by their laws.|aa
 B|Yeah.|b
 A|The same way our people have to go by their laws when they're over there.|sv
-A|That's why a lot get in troublebecause they have to follow their rules|sv
+A|That's why a lot get in trouble because they have to follow their rules|sv
 B|Huh|b
-A|and, uhsome of the countries are very much against drugs|sv
+A|and, uh some of the countries are very much against drugs|sv
 B|Right.|b
 A|and you use them, you pay for it|sv
 B|Usually with you life in some  places. |sv
 A| Yeah,|aa
 A| a lot of them.|sv
 A|Yeah.|aa
-A| Where, where is it they lose the, if they steal they lose a  thumb or a finger? |qw
+A| Where, where  is it they lose the, if they steal they lose a  thumb or a finger? |qw
 B| That's right. |aa
 B| Yeah,|b
 B|from the Middle East. |sd
@@ -201,13 +201,13 @@ A|Yeah.|b
 A|Yeah.|b
 B|So, it's pretty strict over there|sv
 A|Yeah.|aa
-A|So I guess, you know, we, we have so many freedoms over here we sometimes forget about  how  great out country  really is.|sv
-B| Well,   people tend to you know, I could do anything I want toWhich, which meanstake the first amendment out of context.|sv
+A|So I guess, you know, we, we have so many freedoms over here we sometimes forget about  how   great out country  really is.|sv
+B| Well,   people tend to  take the first amendment out of context. Which, which means you know, I could do anything I want to|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|and you can't stop me,|^q
 B|and you know|%
-A|They, they abuse itis what they do.|sv
+A|They, they abuse it is what they do.|sv
 B|Yeah.|b
 B|Yeah.|b
 A|Yeah.|b^m

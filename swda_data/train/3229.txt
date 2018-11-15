@@ -1,26 +1,26 @@
 A|Okay,|fo_o_fw_"_by_bc
 A|while I was waiting for you to connect, I, I thought of a couple of menus,|sd
 A|so I decided it had to be in it, informal or not.|sd
-A|You knowbecause that's a lot of fun, especially this time of year where it's so nice out. *sv|sd
+A|You know because that's a lot of fun, especially this time of year where it's so nice out. *sv|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Yes.|aa
 A|Um, if it was formal I'd probably go with something like a chicken breast or lasagna or something.|sd
 A|I'm not I'm not into formal dinner parties,|sd
-A|butI'd probably go with lasagna, a green salad, and garlic bread.|sd
+A|but I'd probably go with lasagna, a green salad, and garlic bread.|sd
 B|I see.|b
 B|So what do you use for cookbooks?|qw
 A|Um, I have a PILLSBURY cookbook I got when I was married,|sd
-A|but, it's kind of the bible of cookingfor me.|sd
+A|but, it's kind of the bible of cooking for me.|sd
 B|Uh-huh,|b
 B|uh-huh.|b
-A|Then I have some from like church that are more family recipes that are more usefulYou know, budget cookbooks,|sd
+A|Then I have some from like church that are more family recipes that are more useful You know, budget cookbooks,|sd
 B|Uh-huh.|b
-A|butand, of course, you get a lot from when you're growing up.|sv
+A|but and, of course, you get a lot from when you're growing up.|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|Um, I cook a lot the same as, as my mom did,|sd
-A|of course I've added severaldifferent recipes,|sd
+A|of course I've added several different recipes,|sd
 B|Right.|b
 A|but, what you serve or what would you|qw
 B|Well, I, I, I think we come from, from different backgrounds, uh,|sd
@@ -29,7 +29,7 @@ A|Well, that's good|ba
 B|I, I, I,|%
 B|so, it you know,|%
 B|have different perspectives that you are.|sv
-B|I find the JOY OF COOKING to be a remarkably useful bookto, to fall back on,|sd
+B|I find the JOY OF COOKING to be a remarkably useful book to, to fall back on,|sd
 A|Uh-huh.|b
 B|because it has almost everything in it.|sd
 B|But on the other hand, it's not very inspiring, uh,|sv
@@ -44,22 +44,22 @@ B|and so she's|%
 A|that would be wonderful in these times|ba
 B|yeah,|b
 B|now, now, I, I find that the cutting up of the food, and all that really makes it take a little longer than thirty minutes.|sd
-A|Yeah,Uh-huh.|aa
-B|But they're, but they're, but they're interestingthey're interesting menus, um, combinations that you wouldn't have, nobody thought of.|sd
+A|Yeah, Uh-huh.|aa
+B|But they're, but they're, but they're interesting they're interesting menus, um, combinations that you wouldn't have, nobody thought of.|sd
 A|Uh-huh.|b
 B|Um.|%
 A|What's one of your favorites?|qw
 B|Um, gee,|^h
 B|the one I had most recently was, was one that, was,|sd
 B|she, she describes as Jim Beard's favorite, um, summer menu, or something,|sd
-B|and it consisted of, of grilled kielbasa sausageuh, a potato salad with olive oil, and uh, some tomatoes that had been chopped up with onions and curry powder and probably some yogurt was in there.|sd
+B|and it consisted of, of grilled kielbasa sausage uh, a potato salad with olive oil, and uh, some tomatoes that had been chopped up with onions and curry powder and probably some yogurt was in there.|sd
 A|Uh-huh.|b
 A|Wow,|ba
 A|sounds too good.|ba
 B|Uh, and that, and that was, you know, that's, that, that's certain you can do in thirty minutes.|sd
 A|Yeah.|b
 B|But there are a whole lot of, you know,|sd
-B|I mean, I, I would recommend you look at that bookif you're a busy person.|ad
+B|I mean, I, I would recommend you look at that book if you're a busy person.|ad
 A|Yeah,|aa
 A|that THIRTY MINUTE COOKBOOK.|aa
 B|THIRTY MINUTE COOKBOOK.|sd
@@ -68,7 +68,7 @@ A|I find a lot of the cookbooks that, I don't know, that you buy over the counte
 B|Uh-huh.|b
 A|and I have young children,|sd
 A|and our budget's set, you know, at this time,|sd
-A|but I want to use simple recipes thatI have things on hand,|sd
+A|but I want to use simple recipes that I have things on hand,|sd
 B|Uh-huh.|b
 A|I don't have to run to the store to buy or look for something I haven't heard of|sd
 B|Yes,|aa
@@ -85,7 +85,7 @@ B|what would I put together for a formal dinner.|^q
 B|We, we had some friends over as recently as Saturday night|sd
 A|Oh, wow.|ba
 B|and, and, um, put, here, here|%
-B|the inspiration was a combination of Julia Child for the dessert, you know, a chocolate mousse recipeum, which is this wonderful thing you can do, um,and a sort of cookbook which has a recipe for a thing called chicken marabella|sd
+B|the inspiration was a combination of Julia Child for the dessert, you know, a chocolate mousse recipe and a sort of cookbook which has a recipe for a thing called chicken marabella um, which is this wonderful thing you can do, um,|sd
 A|Uh-huh,|b
 A|that's good.|ba
 A|Uh-huh.|b
@@ -98,29 +98,29 @@ B|and it bakes up|sd
 B|and it's a delicious thing,|sd
 B|and it's easy|sd
 A|That sounds good.|ba
-B|comparatively.Um. I'm sorry,|sd
+B|comparatively. Um. I'm sorry,|sd
 A|That sounds really good.|ba
 B|I just love|sd
 A|It sounds like you guys are a little more gourmet than I am,|sv
 A|I'm pretty simple right now,|sd
 A|but.|%
-B|Well, maybe a little more leisure timeto do it.|sv
+B|Well, maybe a little more leisure time to do it.|sv
 A|Yes|aa
 B|I don't know,|h
 A|that's probably, that's true,|aa
 A|I have little ones|sd
-A|and we, and they won't eat, you know, too many different foodsright now.|sd
+A|and we, and they won't eat, you know, too many different foods right now.|sd
 B|Yeah.|b
-B|I found my kids were very frustrating when they were littlein terms of their tastes.|sd
+B|I found my kids were very frustrating when they were little in terms of their tastes.|sd
 A|Yes.|aa
 A|Yeah.|b
 B|Well, there again, sometimes it was easy,|sd
 B|they'd, you know,|%
-B|canned ravioli was,open a can of ravioli.one of their favorites, and so it was easy to|sd
+B|canned ravioli was, one of their favorites, and so it was easy to open a can of ravioli.|sd
 A|Yeah.|b
 A|Spaghetti's a pretty staple every other week or so|sd
 B|Yes.|b
-A|and it goes a long ways too.All righty.|sd
+A|and it goes a long ways too. All righty.|sd
 B|Well, nice talking to you Cheryl.|fc
 B|Okay.|fc
 A|Talk to you later maybe.|fc

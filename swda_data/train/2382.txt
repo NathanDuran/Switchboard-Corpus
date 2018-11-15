@@ -24,7 +24,7 @@ B|I mean even since I was like about two or three.|sd
 A|Oh.|b
 B|Then they diagnosed it,|sd
 B|and usually most people are just absolutely crippled,|sd
-B|and, uh, I do water aerobics.Religiously do water aerobics,|sd
+B|and, uh, I do water aerobics. Religiously do water aerobics,|sd
 A|Oh, I bet that helps.|ba
 A|Uh-huh.|b
 B|I used to do it about six times a week|sd
@@ -34,11 +34,11 @@ B|uh, I tried weight training|sd
 B|and I'm telling you, you just, I just can't lift the things.|sd
 A|Yeah.|b
 B|And the shock on the system is, is just too much,|sd
-B|so I have stuck to water aerobics basically, you know, the weightless thing and,trying to keep this shape that way|sd
+B|so I have stuck to water aerobics basically, you know, the weightless thing and, trying to keep this shape that way|sd
 A|Yeah.|b
 B|but, you know, it's hard to find.|sd
 B|I mean it's really hard to find a place that's going to offer water aerobics because what I'm finding is that if they do offer it, you get the crowd of women that are,|sd
-B|I think they feel this is going to be an effortless sweatless way,without having to spend anythingto get in shape,|sd
+B|I think they feel this is going to be an effortless sweatless way, to get in shape, without having to spend anything|sd
 A|That's right.|ba
 A|That's right.|ba
 B|or it's the geriatric crowd.|sd
@@ -111,7 +111,7 @@ A|Yes.|aa
 A|Yes.|aa
 B|and, uh, the reason I'm at home is when I had my kids, and I was scheduled to go back and I tell you how much in the dark ages it was. Um, I had been rated number one in the field|sd
 B|and then I took, uh,|%
-B|when I became pregnant I also got meningitis,and then delivered the first baby three months early,|sd
+B|when I became pregnant I also got meningitis, and then delivered the first baby three months early,|sd
 A|Oh.|b
 A|My gosh.|ba
 B|and they put the baby on a heart lung monitor when I took her home,|sd
@@ -125,7 +125,7 @@ B|And then they used to, uh,|%
 B|and then I had a second one eighteen months later,|sd
 B|they told me to put them back to back|sd
 B|and, of course, to maintain|%
-B|and I was flat on my back for the last five months with the second one,because that's when I go into labor four and a half months|sd
+B|and I was flat on my back for the last five months with the second one, because that's when I go into labor four and a half months|sd
 A|Wow.|ba
 B|and I don't even know it.|sd
 A|Of course it's real easy to take care of the first one when you're on your back.|sv
@@ -134,7 +134,7 @@ B|very easy,|aa
 B|very easy|aa
 B|and they, they put me on twenty-four hour fetal monitoring then to, to try to control the labor and see how far it was going,|sd
 B|and after the baby was born, since it wasn't premature, then they said they wouldn't cover the cost of the monitor.|sd
-B|I think that's kind of when my husband hit the roof,because it was a, uh, thirteen thousand dollar bill,|sd
+B|I think that's kind of when my husband hit the roof, because it was a, uh, thirteen thousand dollar bill,|sd
 A|Really.|b
 B|but after the second baby was born I was going to go back to work,|sd
 A|Yeah.|b
@@ -157,7 +157,7 @@ B|and so that we had just,|%
 B|you know, it was, this way we didn't have to layoff an active person|sd
 B|and we'd just let you go.|^q
 B|And it took me about a year of arguing,|sd
-B|I said, you know, I've got to put this in writing to me,and because until they put it in writing, I couldn't get my insurance benefits|sd
+B|I said, you know, I've got to put this in writing to me, and because until they put it in writing, I couldn't get my insurance benefits|sd
 A|Yeah.|b
 B|and I couldn't get my, uh, termination benefits either.|sd
 A|There you go.|ba
@@ -187,7 +187,7 @@ B|God, that's cheap.|ba
 A|Yeah,|aa
 A|it is.|sd
 B|That's really cheap.|sd
-B|Do you have to be an active T I employee to join Texans or,Or a|qy
+B|Do you have to be an active T I employee to join Texans or, Or a|qy
 A|Or, or a|^2
 A|or a dependent of one.|^2
 B|God, I am so dependent these days.|sd

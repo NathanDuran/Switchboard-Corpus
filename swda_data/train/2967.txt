@@ -1,6 +1,6 @@
 A|So what movies have you seen?|qw
 B|Uh, well, I have, uh, seen DANCES WITH WOLVES, which is probably the, the best movie that I have seen lately.|sd
-B|Uh, I do not go out to films very often.So, as far as out of the house.|sd
+B|Uh, I do not go out to films very often. So, as far as out of the house.|sd
 A|Uh-huh.|b
 B|So we do get a lot of videos that we bring in,|sd
 B|uh, and I see some that way.|sd
@@ -22,7 +22,7 @@ A|And he is up in the attic asleep because he got in trouble.|sd
 B|Oh, dear.|ba
 A|So she made him go sleep upstairs.|sd
 B|Uh-huh.|b
-A|And there is,there is a couple of burglars, uh, breaking into the houses in the neighborhood.|sd
+A|And there is, there is a couple of burglars, uh, breaking into the houses in the neighborhood.|sd
 B|Oh,|b
 A|And, uh,|%
 B|Oh, and he hears them or something|^2
@@ -66,7 +66,7 @@ A|When it was,|sd
 A|they,|%
 A|I do not think they were very good during that time.|sv
 B|Yeah.|b
-A|At leastthere were not as many good ones.|sv
+A|At least there were not as many good ones.|sv
 B|Did,|b
 B|Yeah.|b
 B|The quality I think maybe has improved in that respect.|sd
@@ -101,7 +101,7 @@ A|Yeah.|aa
 A|Especially JAWS.|sd
 B|Right.|b
 B|That was on Prime Time Television here, uh, recently at seven thirty in the evening.|sd
-B|And, uh, it was kind of shocking because that is a scary movie. And children, young children could see, could have seen that movie,uh, at that hour.|sv
+B|And, uh, it was kind of shocking because that is a scary movie. And children, young children could see, could have seen that movie, uh, at that hour.|sv
 A|Uh-huh.|b
 B|And I thought, that, you know, that would not have been the sort of thing I would have wanted my children to see at that age, uh, I mean when they were young.|sd
 B|And here it was quite easily seen by anybody that turned on the T V.|sd
@@ -116,7 +116,7 @@ A|Yeah.|b
 B|Uh,|%
 A|Just more of the same.|sv
 B|That is what people say.|sd
-A|In one of them they have a mother shark, uh, destroy a whole, uh, marina and aquarium.Which is kind of far fetched.|sd
+A|In one of them they have a mother shark, uh, destroy a whole, uh, marina and aquarium. Which is kind of far fetched.|sd
 B|Oh.|b
 B|Yeah.|aa
 B|It,|%
@@ -166,7 +166,7 @@ A|when the, when the anniversary came up|sd
 B|Uh-huh.|b
 A|that was around the time of anniversary, you know.|sd
 B|No kidding.|b
-A|And thenit was on the news.|sd
+A|And then it was on the news.|sd
 B|Oh, I did not realize that.|sd
 B|Yeah.|b
 B|Uh, you know, the character that, uh, James Earle Jones played?|sd
@@ -178,7 +178,7 @@ B|And I wondered if maybe he was patterned after him.|sd
 A|Yeah.|b
 B|Uh, I do not know,|h
 B|I had not heard anybody talk about it.|sd
-B|But, uh, he certainly could have been. Uh, which was kind of interesting.You know, someone who, uh, who was a real activist but then took up the cause. Uh, kind of gave up, you know, because he did not think anything was happening,|sv
+B|But, uh, he certainly could have been. Uh, which was kind of interesting. You know, someone who, uh, who was a real activist but then took up the cause. Uh, kind of gave up, you know, because he did not think anything was happening,|sv
 A|Yeah.|b
 B|and so, uh, it was kind of fun.|sd
 A|Yeah.|b
@@ -188,12 +188,12 @@ B|but there are certain, uh, qualities that suggest it could be he.|sv
 B|Because they were, uh, they were suggesting that this Ben was something of a recluse.|sd
 B|That he had stopped writing and had stopped, you know,|sd
 B|and that is true for Ellison.|sd
-B|He, he wrote that one book and a few essays and that is about it.And, uh, has pretty much dropped out of public life.|sd
+B|He, he wrote that one book and a few essays and that is about it. And, uh, has pretty much dropped out of public life.|sd
 A|Huh.|b
 B|But he is still alive|sd
 B|and that, you know, that is what makes it so interesting.|sv
 A|Uh-huh.|b
-B|And that book, have you ever read that book?INVISIBLE MAN.|qy
+B|And that book, have you ever read that book? INVISIBLE MAN.|qy
 A|Uh, I|%
 A|What is that?|br
 A|INVISIBLE MAN?|qy^d
@@ -224,7 +224,7 @@ B|so. Well, I guess we have talked probably our time limit, haven't we?|qy
 A|Oh, yeah.|aa
 B|Okay.|fc
 A|Okay.|fc
-A|It wasNice talking to you.|fc
+A|It was Nice talking to you.|fc
 B|Very good.|fc
 B|It was nice talking to you.|fc
 B|Okay.|fc

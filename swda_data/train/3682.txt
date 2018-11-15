@@ -1,24 +1,24 @@
 B|Okay|fo_o_fw_"_by_bc
-B|what  kind of foods would you have?|qw
+B|what  kind of  foods would you have?|qw
 A| Okay. |b
 A|Um, well, I like to cook, um|sd
 B|Oh, I do too|sd
-A|but I don't like getting too awfully fancy about it, justYou know,because, um, uh, it's too much pressure.|sd
+A|but I don't like getting too awfully fancy about it, just because, um, uh, it's too much pressure. You know,|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
-A|if I have people over for dinner, I like it to benice and relaxed.|sd
+A|if I have people over for dinner, I like it to be nice and relaxed.|sd
 B|Yeah,|aa
 B|you can't enjoy it.|sv
 B|Right.|b
 A|Yeah.|b
 A|And so I don't like to arrive, or, or when they arrive, for me to be completely worn out.|sd
 B|That's, that's what,|%
-B|I like doing things like making lasagna just because I can have it ready and bakingin the oven,|sd
+B|I like doing things like making lasagna just because I can have it ready and baking in the oven,|sd
 A|Yeah.|b
 B|it's,|%
 A|Exactly.|aa
 B|everybody just says how wonderful it is,|sd
-B|and it'sit's like, uh, yes,|sd
+B|and it's it's like, uh, yes,|sd
 A|Uh-huh.|b
 B|I.|%
 A|Yeah.|b
@@ -28,7 +28,7 @@ A|Uh-huh|b
 B|It's like, well, I can't really give you a recipe, uh|sd
 A|Uh-huh,|b
 A|you'd just do it.|bf
-B|I canI can just do it|^q
+B|I can I can just do it|^q
 A|.|%
 B|I like doing that kind of stuff.|sd
 A|Yeah.|b
@@ -41,7 +41,7 @@ A|Um. Boy I like that.|ba
 B|Uh, I do too, in fact|aa
 A|Yeah,|b
 A|well I'm planning a,|sd
-A|and naturally this is appropriate because I'm planning dinner for people tomorrow night andthen the next night.|sd
+A|and naturally this is appropriate because I'm planning dinner for people tomorrow night and then the next night.|sd
 B|Oh.|b
 B|Oh, good.|ba
 A|So Tuesday night there'll be eight people here altogether.|sd
@@ -51,7 +51,7 @@ A|uh-huh.|b
 B|And have, you know, like three or four couples come over,|sd
 B|and I'll do the potatoes and you know, like butter and cheese and stuff and have everybody else just bring a couple of toppings, whatever they like|sd
 A|Uh-huh.|b
-B|and it turns out great, becauseI mean, you've got like hot sauce and taco meat and barbecue and, you know, bacon and all that good stuff.|sd
+B|and it turns out great, because I mean, you've got like hot sauce and taco meat and barbecue and, you know, bacon and all that good stuff.|sd
 A|Yeah,|b
 A|that's fun.|sv
 A|Uh-huh.|b
@@ -64,11 +64,11 @@ A|that's a good idea.|sv
 B|It's, it's real easy,|sd
 B|I like doing that part.|sd
 A|Yeah.|b
-B|I'm in favor of very little clean up, um, verybecause we've got three or four couples that we get together with to play games,little planning|sd
+B|I'm in favor of very little clean up, um, very little planning because we've got three or four couples that we get together with to play games,|sd
 A|Uh-huh.|b
 A|Uh-huh,|b
 A|yeah.|b
-B|andit's,|%
+B|and it's,|%
 A|Uh-huh.|b
 B|we invariably end up at my house since I've got two kids.|sd
 A|Uh-huh.|b
@@ -81,7 +81,7 @@ A|Yeah.|b
 B|And it's pretty cool.|sd
 A|Yeah,|b
 A|that's good.|ba
-A|Well, one of my favorites if I don't want to have other people bring stuff, I just want to treat them isto make chicken and rice.|sd
+A|Well, one of my favorites if I don't want to have other people bring stuff, I just want to treat them is to make chicken and rice.|sd
 B|Uh-huh.|b
 B|Oh.|b
 A|It's very easy to.|sd
@@ -117,7 +117,7 @@ B|And every once in a while, I'll put in, I'll slice white grapes|sd
 B|and I'll put in there,|sd
 B|and, that's just because I'm not a real big wine person|sd
 B|but I like it,|sd
-B|itadds something to the chicken.|sd
+B|it adds something to the chicken.|sd
 A|Uh-huh.|b
 A|Yeah.|b
 B|And then just bake it,|sd
@@ -128,10 +128,10 @@ A|Yeah.|b
 B|It's, that was one of the first things I made for my husband, because I was like, um,|sd
 B|yeah|b
 A|Yeah.|b
-B|I could actually find something I could cook real easy that would be kind of sort of elegantkind of|sd
+B|I could actually find something I could cook real easy that would be kind of sort of elegant kind of|sd
 A|Uh-huh.|b
 A|Yeah,|aa
-A|you can get away with iteven having a semi nice dinner,|bf
+A|you can get away with it even having a semi nice dinner,|bf
 B|Oh, yeah.|aa
 A|or, you know semi .|sv
 B|But then, I hadn't thought about doing it with uncooked rice.|sd
@@ -152,7 +152,7 @@ A|I think it was three quarters cup rice to two cups water, two cups, um, broth.
 B|Yeah,|b
 B|yeah,|b
 B|I, I use that for for rice|sd
-B|and for when I cook pasta or something, I'll put a little bit of bouillon in there just togive it a little extra flavor.|sd
+B|and for when I cook pasta or something, I'll put a little bit of bouillon in there just to give it a little extra flavor.|sd
 A|Yeah,|b
 A|flavor.|^2
 A|Uh-huh.|b
@@ -166,16 +166,16 @@ A|I've done it in the microwave so often lately because, it's, it's really easy.
 B|I do, I do microwave too, a lot|sd
 A|Yeah.|b
 A|But, I think it's about an hour.|sd
-B|How long would it behow long would it be in the microwave?|qw
+B|How long would it be how long would it be in the microwave?|qw
 A|Or maybe it's only half hour.|sd
 A|Um, you just,|%
-A|until the rice looks fluffy, andYou know, before it gets overdone.and not overdone.|sd
+A|until the rice looks fluffy, and and not overdone. You know, before it gets overdone.|sd
 B|Oh, okay.|bk
 B|Okay.|b
 B|Do you just brown the chicken to get it colored|qy
 A|Yeah.|ny
 B|or do you go ahead and let it cook through?|qrr
-A|Um, I'd let it cook just a little bitjust so that the cooking goes a little faster.|sd
+A|Um, I'd let it cook just a little bit just so that the cooking goes a little faster.|sd
 B|Um.|%
 B|Ooh, this is a beneficial call.|sv
 B|I like this|sd
@@ -186,7 +186,7 @@ B|but that one's an easy one.|sd
 B|It's like, just put in,|sd
 B|a friend of mine makes it where she goes ahead and seasons up the, with the soup and the wine|sd
 A|Uh-huh.|b
-B|put in garlic and onion powderor chopped onions if you want to do that, you know. What ever, however much effort you feel like putting into it.|ad
+B|put in garlic and onion powder or chopped onions if you want to do that, you know. What ever, however much effort you feel like putting into it.|ad
 A|Yeah.|b
 A|Uh-huh.|b
 B|But it, it makes a great,|sd
@@ -194,5 +194,5 @@ B|I mean, I've got a two year old and a four year old|sd
 B|and they love it.|sd
 A|Uh-huh.|b
 B|And, because my daughter calls it her gravy|sd
-B|and I mean,she thinks it's wonderful,|sd
+B|and I mean, she thinks it's wonderful,|sd
 B|my, good, you're a picky eater, if I can get you to,|^q

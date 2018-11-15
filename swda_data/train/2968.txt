@@ -8,7 +8,7 @@ B|Uh, I like historical, uh, books, TIME magazine, newspaper, how, how to do it 
 A|Oh, I am not much into magazines.|sd
 A|I do read them.|sd
 A|I like GOOD HOUSEKEEPING and stuff like that.|sd
-A|I will getideas out for my own house and yard and stuff|sd
+A|I will get ideas out for my own house and yard and stuff|sd
 B|Uh-huh.|b
 A|Main thing, I like Pierce Anthony.|sd
 A|I love Pierce Anthony novels.|sd
@@ -24,25 +24,25 @@ A|Figures . What, like those, uh, magazines you get through the mail?|qy
 B|Yeah.|ny
 B|I will buy car magazines,|sd
 B|course I am an engineer|sd
-B|and I read the engineering magazines,and the money magazines.|sd
+B|and I read the engineering magazines, and the money magazines.|sd
 A|I,|%
 B|And, uh, well, I am reading historical, uh, not a novel, but historical book now about the, uh, Russia before, uh, the czar, not before the czar, during the czar's time and what it was like and everything.|sd
 A|Uh-huh.|b
 A|What about like those TIME books that they put out about, uh, uh, oh, ancient discoveries?|qo
 A|You know,|%
 A|how they found out like that, uh, ancient man, performed, uh, brain surgery successfully?|qy
-A|And stuff likethat.|sd
-B|Oh, youmean the ancient astronauts things?|qy
+A|And stuff like that.|sd
+B|Oh, you mean the ancient astronauts things?|qy
 A|Uh-huh.|ny
 B|I have read some of that.|sd
 B|I, I did not,|%
-B|some of that is, uh,it is very interesting, without question.|h
+B|some of that is, uh, it is very interesting, without question.|h
 A|Uh-huh.|b
 B|I, I do not really know that they have the answers in those books.|h
-B|they, make conclusions in them that may ormay not be true.|sv
+B|they, make conclusions in them that may or may not be true.|sv
 A|Yes.|b
 A|Oh.|b
-B|But they are very interesting.what they have discovered.that, they have,|sv
+B|But they are very interesting. that, they have, what they have discovered.|sv
 A|Uh-huh.|b
 A|Oh, I like far out facts or whatever.|sd
 B|Yeah.|b
@@ -70,8 +70,8 @@ A|Because you read it|^2
 B|when she ever there is something, I say, well, have you read the directions?|sd
 B|another "No,|^q
 B|I hate reading the directions."|^q
-B|I say, well, engineers, we, we are the few people in the worldthat read|sd
-A|You are anengineer?|qy
+B|I say, well, engineers, we, we are the few people in the world that read|sd
+A|You are an engineer?|qy
 A|Are you an engineer for T I?|qy
 B|Yeah.|b
 A|Okay, uh,|bk
@@ -94,7 +94,7 @@ B|Those are, oh, interesting.|sv
 B|Oh, you like science things?|qy
 B|Uh, I have not gotten them in a long time.|sd
 B|What is that, uh, one that is on T V?|qw
-B|That book, uh, NATIONAL GEOGRAPHIC is really a fascinating book, uh,uh, if you ever get those|sv
+B|That book, uh, NATIONAL GEOGRAPHIC is really a fascinating book, uh, uh, if you ever get those|sv
 A|Now.|%
 B|or|%
 A|Yeah,|b
@@ -105,7 +105,7 @@ B|they were kind of expensive.|sd
 B|I know people just collect them like they are,|sd
 A|Yeah.|b
 B|uh,|%
-B|They have wonderful photographs and just amazing photographs thatthey have done.|sd
+B|They have wonderful photographs and just amazing photographs that they have done.|sd
 A|Yeah.|b
 A|We used,|%
 A|my little sister was blind and going to school,|sd
@@ -113,11 +113,11 @@ A|and she would have to come home at night, cut out different,|sd
 A|she was not fully blind, just legally blind.|sd
 B|Yeah.|b
 A|But she would have to cut out different colors,|sd
-A|and that is the best book to go through, those NATIONALGEOGRAPHIC.|sd
+A|and that is the best book to go through, those NATIONAL GEOGRAPHIC.|sd
 B|It is.|ba
 B|It is.|ba
 B|They, they, they, uh,|%
-B|the photographers just gotfantastic pictures in those things. Uh,|sv
+B|the photographers just got fantastic pictures in those things. Uh,|sv
 A|And they are great.|ba
 A|I love reading about animals.|sd
 B|Uh-huh.|b
@@ -132,7 +132,7 @@ B|of course, was it all books and things|sd
 B|or was it any,|%
 B|did it say anything about newspapers?|qy
 B|I have forgotten what the question was exactly.|sd
-B|But, uh,what do you read, I guess, in general?|qw
+B|But, uh, what do you read, I guess, in general?|qw
 A|Oh, well,|%
 B|Or,|%
 A|Yeah.|b
@@ -140,17 +140,17 @@ A|Well, we can talk about anything we want.|sv
 B|Yeah.|b
 B|Uh, I, I glance at all newspapers.|sd
 B|I do like, uh,|sd
-B|since the since the economy is doing so bad, I never have read the, uh, uh, financial pages more often than now, you know. And trying to analyze and look for some good news in, in there, you know. Uh,to see if the,|sd
-A|Well, for methere is no|sv
+B|since the since the economy is doing so bad, I never have read the, uh, uh, financial pages more often than now, you know. And trying to analyze and look for some good news in, in there, you know. Uh, to see if the,|sd
+A|Well, for me there is no|sv
 A|well, you know,|%
 A|But like I said, I do not keep up on all that.|sd
 B|Well, I have only been more interested because of things are doing so bad and everything.|sd
-B|I thoughtwell, uh, see if there is anything in there that, uh, uh, would be positive, you know.|sd
+B|I thought well, uh, see if there is anything in there that, uh, uh, would be positive, you know.|sd
 A|Yeah.|b
 A|The,|%
-B|You always look for things with,to see if there is anywith this terrible recession that we are in, uh,|sd
+B|You always look for things with, with this terrible recession that we are in, uh, to see if there is any|sd
 A|Yeah.|b
-A|With everythinggoing down?|qy^d
+A|With everything going down?|qy^d
 B|Oh, yeah,|ny
 B|yeah.|ny
 B|It is, uh,|%
@@ -164,7 +164,7 @@ B|Right|b
 B|and he, he,|%
 B|yeah,|%
 B|I know,|%
-B|I do not really know if, uh, any one person knows, uh,uh, what some of the problems are.|sv
+B|I do not really know if, uh, any one person knows, uh, uh, what some of the problems are.|sv
 B|Uh, but there, there are some, there are some interesting things in the paper, really.|sv
 A|Yeah.|b
 A|Well, I like Ann Landers|sd
@@ -184,16 +184,16 @@ B|with the, so much, uh,|%
 B|you sound like you have a family too.|sv
 B|But with a family and everything, there is just so much going on that I, uh, actually I am more of a|sv
 B|not more of a radio buff|sd
-B|but, uh, it is easier to do when I do some chores,or yard work or anything, put the radio on and listen to that.|sd
+B|but, uh, it is easier to do when I do some chores, or yard work or anything, put the radio on and listen to that.|sd
 B|And,|%
-A|Well, I know at T I they have most of the stuff on the printout, don't they? I mean, on the computer where you can read the dailynews?|qy
-B|Oh,yeah.|b
+A|Well, I know at T I they have most of the stuff on the printout, don't they? I mean, on the computer where you can read the daily news?|qy
+B|Oh, yeah.|b
 B|I do,|sd
 B|every time I come in, uh, I will punch up,|sd
 B|but they call it T News and all that.|sd
 A|Uh-huh.|b
 B|And I, I do get, uh,|sd
-B|it gets a little bit of everything.you can read it in one minute, you know.you know, about,|sd
+B|it gets a little bit of everything. you know, about, you can read it in one minute, you know.|sd
 A|Uh-huh.|b
 A|Yeah.|b
 A|When I|%
@@ -210,7 +210,7 @@ B|Yeah,|b
 B|yeah.|b
 A|So,|%
 B|Oh, yeah.|b
-B|It is, it is, it is, uh, interesting, uh, with the computer to read the computer news and,all that.|sv
+B|It is, it is, it is, uh, interesting, uh, with the computer to read the computer news and, all that.|sv
 B|I, I guess that is a, that is a source of reading.|sv
 B|I hadn't thought about that in that respect, uh,|sv
 A|Yeah.|b
@@ -226,7 +226,7 @@ A|Yeah.|b
 B|I do not read everything on,|sd
 B|some of the stuff is pretty boring.|sv
 B|I, I skip over some of that.|sd
-B|But, uh,uh, it is,|%
+B|But, uh, uh, it is,|%
 A|Uh-huh.|b
 B|Yeah.|b
 B|Yeah,|b
@@ -271,7 +271,7 @@ B|Yeah.|b
 B|Yeah.|b
 B|No,|aa
 B|right, uh,|b
-B|who knows, uh,what he has really got.|h
+B|who knows, uh, what he has really got.|h
 B|But, uh, he was kind of an arrogant guy,|sv
 B|so I think the newsmen, uh, enjoyed, uh, writing about him on his way down, you know.|sv
 A|Yeah.|b

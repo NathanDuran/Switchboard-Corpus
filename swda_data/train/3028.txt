@@ -9,9 +9,9 @@ B|Right|b
 A|So, what are your thoughts on dining out?|qw
 B|Well, I, I really choose restaurants more for the quality of food than anything else.|sd
 A|Not for the price?|qy^d
-B|Well, a little bitfor the price,|na
+B|Well, a little bit for the price,|na
 A|Okay.|bk
-B|but, uh, I think that as far as quality of food goes the some of the most expensive places I've beenthe worst quality of food.had the the, really the,|sd
+B|but, uh, I think that as far as quality of food goes the some of the most expensive places I've been had the the, really the, the worst quality of food.|sd
 A|Uh-huh.|b
 A|The|%
 A|Really?|bh
@@ -30,7 +30,7 @@ B|Yeah.|qy
 A|Oh.|bk
 B|I'm serious.|sd
 A|Yeah.|b
-B|Um, a lot of, uh, one place that we went just recentlyuh, was to Atchafalaya.|sd
+B|Um, a lot of, uh, one place that we went just recently uh, was to Atchafalaya.|sd
 A|Uh-huh.|b
 B|No,|ar
 B|that's not right.|ar
@@ -58,7 +58,7 @@ B|It should be.|sd
 A|Do you know how to spell it?|qy
 B|Uh, it starts with a K.|sd
 A|Okay.|bk
-B|SoK A L A, I think, C H A N D.|sd
+B|So K A L A, I think, C H A N D.|sd
 A|Kalli , K A L L I?|qy
 A|Okay.|bk
 B|That should get you close enough to, to be able to find it.|sd
@@ -69,9 +69,9 @@ A|yes,|b
 A|uh-huh.|b
 B|But it's, uh, it's just fabulous food.|sd
 A|What about fast foods?|qo
-A|Do you have a preference if you were going to,eat a fast food?|qy
-B|Well, we like Arby's.fast food goes.As far as,|na
-A|You do,like Arby's?|bh
+A|Do you have a preference if you were going to, eat a fast food?|qy
+B|Well, we like Arby's. As far as, fast food goes.|na
+A|You do, like Arby's?|bh
 A|See I don't like Arby's.|sd
 B|Oh, really?|bh
 B|Why?|qw
@@ -87,7 +87,7 @@ B|no,|ar
 B|no.|ar
 B|Someone has been lying to you.|sv
 B|What they use is roast beef.|sv
-A|Well, that's not what I heard,from one of, somebody that was supposed to know what they were talking about.|sd
+A|Well, that's not what I heard, from one of, somebody that was supposed to know what they were talking about.|sd
 B|That's what,|%
 B|Oh, my goodness.|ba
 A|Uh-huh.|b
@@ -110,7 +110,7 @@ A|Uh-huh.|ny
 A|Health food, uh, restaurants that,|sd
 B|Like, like,|%
 B|name one|ad
-A|Wellwell, like, um, well, I can't really think of any off the top of my head right now because there's so few and far between.|aa
+A|Well well, like, um, well, I can't really think of any off the top of my head right now because there's so few and far between.|aa
 B|I'm not sure what you're talking about.|sd
 A|But they ought, there are restaurants that cater to the people that are very health conscious. You know, as far as their cholesterol levels and their, their fat content and, you know, the amount of calcium and so forth that are in each product|sd
 A|and they list them.|sd
@@ -120,7 +120,7 @@ A|over on Preston Road and Royal Lane I believe.|sd
 B|Huh.|b
 A|And they have very good food over there.|sd
 B|I don't guess I've ever been to anything like that|sd
-B|so,I really don't have anything to compare it to.|sd
+B|so, I really don't have anything to compare it to.|sd
 A|Uh-huh,|b
 A|uh-huh.|b
 A|They do list, um, you know, list the fat,|sd
@@ -139,29 +139,29 @@ A|Yes,|ny
 A|uh-huh.|ny
 B|A bit|sv
 A|Yeah.|aa
-A|Uh, but,um, you were served by maitre d's and, and, uh, um, men waiters.|sd
+A|Uh, but, um, you were served by maitre d's and, and, uh, um, men waiters.|sd
 B|Yeah,|b
-B|I, I won't really be interested in going to, in going there.I feel like I'm, I'm paying, you know, five dollars for the food probably and five dollars for something that I could get along quite well withoutBecause,|sd
-A|Well,if you're looking for a nice,|sv
+B|I, I won't really be interested in going to, in going there. Because, I feel like I'm, I'm paying, you know, five dollars for the food probably and five dollars for something that I could get along quite well without|sd
+A|Well, if you're looking for a nice,|sv
 A|Uh-huh.|b
-A|Well, I guess if you were having, if you were trying to impress somebody like taking somebody that you hadn't seen for a long time and wanted to show them a good restaurant.type thing.It's a special occasion,|sv
+A|Well, I guess if you were having, if you were trying to impress somebody like taking somebody that you hadn't seen for a long time and wanted to show them a good restaurant. It's a special occasion, type thing.|sv
 B|Yeah.|aa
-B|Maybe,maybe that.|aa
+B|Maybe, maybe that.|aa
 B|Yeah.|aa
 A| Yeah. |%
 B| Yeah.|aa
-B| I could see that,then maybe.|aa
+B| I could see that, then maybe.|aa
 A|Uh-huh.|b
 A|And now the Red Lobster I found is very nice at lunchtime.|sv
 B|Yeah,|aa
-B|I like the,the seafood that they, when they had it, you know, the broiled,|sd
+B|I like the, the seafood that they, when they had it, you know, the broiled,|sd
 A|Because they're,|%
 A|Well, they have lunch specials that|%
 A|you can't, you can't beat that price, uh, if you went to a cafeteria.|sv
 B|Yeah.|aa
 B|Probably that's true.|aa
-B|But I know a lot of their, a lot of their specials sometimes are fried things,that you can't really get away from the fried,|sv
-A|Well, I had the,I had a broiled chicken breast|sd
+B|But I know a lot of their, a lot of their specials sometimes are fried things, that you can't really get away from the fried,|sv
+A|Well, I had the, I had a broiled chicken breast|sd
 A|and it was excellent.|sd
 A|It was a marinated, broiled chicken breast|sd
 A|and it was|sd
@@ -174,17 +174,17 @@ A|and that was a no no.|sd
 B|Oh, really?|bh
 A|And I haven't gotten over that from the north.|sd
 B|Oh, catfish is wonderful.|sv
-A|I know they say that,that is,|sd
+A|I know they say that, that is,|sd
 B|Oh, really.|b
-A|but I'm,but they've got all these caution signs now on fish|sd
+A|but I'm, but they've got all these caution signs now on fish|sd
 B|Really.|b
 A|and so I kind of stay|sd
 B|Why?|qw
-A|Because of all the pollution in the lakes and the,everywhere. I mean there isn't any safe haven anymore for fish.|sv
+A|Because of all the pollution in the lakes and the, everywhere. I mean there isn't any safe haven anymore for fish.|sv
 B|Oh.|bk
 B|Huh.|b
 A|and especially, uh, in Wisconsin and Michigan they say, no, buying of our fish.|sd
-B|That's too bad,because I'm probably not going to stop eating it|sd
+B|That's too bad, because I'm probably not going to stop eating it|sd
 A|I,|%
 A|Well, yeah.|b
 A|So I am,|%
@@ -195,7 +195,7 @@ A|So I mean, we have to be on the lookout if we want to stay healthy.|sv
 B|That's true.|aa
 A|So I'm, I, you know, I,|%
 B|Oh, on one hand I see that|sd
-B|and on the other hand, uh, my older sisterhad a half-life of, oh, five years if they sit empty on dry land.and storing them in tin barrels which I guess,remembers when, uh, at one point they were taking radioactive wastes|sd
+B|and on the other hand, uh, my older sister remembers when, uh, at one point they were taking radioactive wastes and storing them in tin barrels which I guess, had a half-life of, oh, five years if they sit empty on dry land.|sd
 A|Uh-huh.|b
 A|Yeah.|b
 A|Corrode.|^2
@@ -212,15 +212,15 @@ B|so they shot holes in them to sink them.|sd
 A|Oh, dear.|ba
 B|And this is before I was born.|sd
 A|Wow.|ba
-B|So, I mean we're taking thirty years ago,this happened,|sd
+B|So, I mean we're taking thirty years ago, this happened,|sd
 A|Sure.|b
 A|Yeah.|b
-B|and, and who's, you know, the tuna is radioactiveto a certain extent.|sv
+B|and, and who's, you know, the tuna is radioactive to a certain extent.|sv
 A|That's right.|aa
 A|Everything we eat.|sv
-A|Everything,everything we eat should have a label on it|sv
+A|Everything, everything we eat should have a label on it|sv
 B|You can't get away from it|sv
-B|so I think,To some point,|%
+B|so I think, To some point,|%
 A| Yeah. |b
 B| yeah,|b^m
 B| you know. So there's, you know, there's some things I think we can we, you know we can't avoid for health purposes and some things that we just need to like, you know,|sv

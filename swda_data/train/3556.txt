@@ -1,14 +1,14 @@
 A|Okay,|fo_o_fw_"_by_bc
-A|Jerry, the topic was favorite T V shows, and what kind are you interested in, andhow they, and do they differ from like mine.|sd
+A|Jerry, the topic was favorite T V shows, and what kind are you interested in, and how they, and do they differ from like mine.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Well, okay, uh,|bk
 B|most of, most of the, uh, commercial television these days, I'm just a little bit sick of.|sd
 B|Uh, in fact, I don't watch hardly any, uh, television at all with, uh, my other activities.|sd
-B|Uh, between my family and my church et cetera, et cetera, wellI don't have time, I hardly any time to sit down and watch the news.|sd
+B|Uh, between my family and my church et cetera, et cetera, well I don't have time, I hardly any time to sit down and watch the news.|sd
 A|Right.|b
 B|Now I do watch the Discover channel and some on channel thirteen|sd
-B|but, uh, aside fromaside from that, I pretty well, uh, turn it off.|sd
+B|but, uh, aside from aside from that, I pretty well, uh, turn it off.|sd
 A|Oh, do you,|bh
 A|yeah.|b
 A|Oh, I'm sort of a, well,|sd
@@ -34,7 +34,7 @@ A|it's just that my kids are gone now,|sd
 A|and, and my wife's a school teacher|sd
 A|and sometimes, and she doesn't get home until about seven o'clock.|sd
 A|So, you know, I'll come in like five thirty or six,|sd
-A|and I'll turn on the tubeset there and have my coffee or Coke or whatever and a little T V|sd
+A|and I'll turn on the tube set there and have my coffee or Coke or whatever and a little T V|sd
 B|Uh-huh.|b
 A|and sometimes I set there all evening.|sd
 B|Yeah|b
@@ -50,7 +50,7 @@ B|in fact I'm glad that it's part of our, uh, basic cable package.|sd
 A|That's great.|ba
 B|But, uh,|%
 A|You know, I've, I've just never spent any time watching it|sd
-A|and, you knowI like my sports and everything|sd
+A|and, you know I like my sports and everything|sd
 B|Uh-huh.|b
 A|but I,|%
 B|Oh, oh, me too.|sd
@@ -58,7 +58,7 @@ B|Hello|fo_o_fw_"_by_bc
 A|Watch my Dallas Cowboys.|sd
 A|I watched them to halftime before I left|sd
 A|and I left at halftime|sd
-B|Well, they, they,they whooped up on them.|sd
+B|Well, they, they, they whooped up on them.|sd
 A|and started driving.|sd
 A|They sure did.|aa
 A|They just did an excellent job.|sv
@@ -88,30 +88,30 @@ A|He wanted to go out a winner though.|sv
 A|I think he would have stayed there four or five more years until he could have gone out|sv
 B|Yeah,|aa
 B|that's true,|aa
-B|and I wouldn't, I wouldn't have blamed him one bitbecause|sd
+B|and I wouldn't, I wouldn't have blamed him one bit because|sd
 A|Oh, no,|aa
-A|it's, you knowhe earned his stripes.|sv
+A|it's, you know he earned his stripes.|sv
 B|yeah,|b
-B|but, see, nobody remembers him as a loserto ever be thought of as anything but a you know, but a winner.because he's too, he's too far, he's far too much of a gentleman and a, and a practicing Christian to, uh|sv
+B|but, see, nobody remembers him as a loser because he's too, he's too far, he's far too much of a gentleman and a, and a practicing Christian to, uh to ever be thought of as anything but a you know, but a winner.|sv
 A|I know.|aa
 A|Oh, yeah.|ba
 A|Yeah,|aa
 A|he's a, he's a winner in anyone's book|sv
 B|Yeah.|b
-A|and I hope he's a winner in his own book, you know becausethat's the key there.|sd
+A|and I hope he's a winner in his own book, you know because that's the key there.|sd
 B|Oh, he is,|sv
 B|he is|sv
-B|because he has to like himselfbefore he can like other people. Uh,|sv
+B|because he has to like himself before he can like other people. Uh,|sv
 A|You bet.|aa
 A|Little things that disturb me,|sd
 A|and I know he's being a little hardnosed about it|sd
-A|but, uh, you know, this ring of honor thing, you know, he needs to be therebecause he's earned it.|sv
+A|but, uh, you know, this ring of honor thing, you know, he needs to be there because he's earned it.|sv
 B|Uh-huh.|b
 A|He deserves it,|sv
 A|and he was the Dallas Cowboys,|sv
-A|andhe won't do that yet.|sd
+A|and he won't do that yet.|sd
 B|Yes.|b
-A|So. I hope he makes up his mind to do it, becausehe needs to be remembered.|sd
+A|So. I hope he makes up his mind to do it, because he needs to be remembered.|sd
 B|Oh, he will.|sv
 B|Right.|aa
 B|Well, nobody's going to forget Tom Landry.|sv
@@ -121,7 +121,7 @@ A|no.|aa
 B|Shoot, come now|fo_o_fw_"_by_bc
 A|Absolutely not|aa
 A|That's true,|aa
-A|buthe needs to be honored,|sv
+A|but he needs to be honored,|sv
 B|I mean, I'd not a|%
 A|let's put it that way.|h
 B|you betcha.|aa
@@ -150,8 +150,8 @@ B|Uh-huh.|b
 A|she's getting married the month before in November,|sd
 A|so|%
 B|Oh, goodness.|ba
-A|I will have finished, be finishedwith that.|sd
-B|Well, we'rewell, we're finished with all but the last one, and trying to get him through his technical school|sd
+A|I will have finished, be finished with that.|sd
+B|Well, we're well, we're finished with all but the last one, and trying to get him through his technical school|sd
 A|Right.|b
 B|and, uh, we're, uh, he's over halfway,|sd
 B|so.|%

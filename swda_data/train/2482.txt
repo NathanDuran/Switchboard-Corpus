@@ -16,7 +16,7 @@ A|Stepdaughter.|sd
 B|Uh-huh.|b
 A|Ten.|sd
 B|Ten.|b^m
-A|And, uh, you know how they are at that age, I guess.yourself.you having been ten once,|qy^d
+A|And, uh, you know how they are at that age, I guess. you having been ten once, yourself.|qy^d
 B|Yeah.|aa
 B|Once upon a time I was.|sd
 B|Well, I have two dogs,|sd
@@ -88,7 +88,7 @@ A|I don't have any, children.|sd
 B|Uh-huh.|b
 B|So, how does she feel about going out and doing stuff with you all.|qw
 A|Uh, well it varies what it is, of course,|sd
-A|but usually,Mom and Dad are a curse.|sd
+A|but usually, Mom and Dad are a curse.|sd
 B|Uh-huh,|b
 B|uh-huh.|b
 A|You know, they, they'd much rather be with friends,|sv
@@ -99,7 +99,7 @@ B|huh-uh.|aa
 A|Well, I remember,|sd
 A|well I'm sure part of it is a male, female thing, you know,|sv
 B|Uh-huh.|b
-A|I, I remember whenever I was growing up, often times spent with my Dad was, oh, just wonderful, you know, go,or, or, oh, any number of things.go hunting, or go to the races,|sd
+A|I, I remember whenever I was growing up, often times spent with my Dad was, oh, just wonderful, you know, go, go hunting, or go to the races, or, or, oh, any number of things.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Uh-huh.|b
@@ -107,7 +107,7 @@ A|And we'd have, um, great times,|sd
 B|Oh, yeah.|ba
 A|and it seems that well now the bank's not available.|sd
 B|Yeah.|b
-B|Um.Uh-huh.|b
+B|Um. Uh-huh.|b
 A|And, entirely too much time is spent,|sd
 A|my wife and I were wondering what if,|sd
 A|and, and what if's always rough.|sv
@@ -115,10 +115,10 @@ B|Oh, yeah.|aa
 B|Yeah.|aa
 A|But, you know, we do have our trips|sd
 A|and we do have our fun|sd
-A|and,I don't know, little girls aren't interested in lot of the same things little boys are or were.|sv
+A|and, I don't know, little girls aren't interested in lot of the same things little boys are or were.|sv
 B|Uh-huh.|b
 B|Like fishing and ...|bf
-A|Hunting and, and,Looking for arrowheads, and ...|^2
+A|Hunting and, and, Looking for arrowheads, and ...|^2
 B|Yeah.|b
 B|My husband will say that he'd like to have a little boy to take hunting and fishing|sd
 B|and I said, well, you can take a little girl hunting and fishing just as easily.|sd
@@ -133,11 +133,11 @@ B|if my Dad had done that when I was a kid I probably wouldn't have liked it.|sd
 B|I go now, with my husband.|sd
 B|And, I enjoy it,|sd
 B|but ...|%
-A|Well, girls at that age,Video games, boys and malls.|sv
+A|Well, girls at that age, Video games, boys and malls.|sv
 B|Uh-huh.|b
 B|Yeah,|b
 B|yeah.|b
-A|Not necessarily in that order,and friends of course.|sv
+A|Not necessarily in that order, and friends of course.|sv
 B|Uh-huh.|b
 A|And, that's a little tough for fathers.|sv
 B|Uh-huh.|aa
@@ -161,7 +161,7 @@ B| Yeah|b
 B| , yeah.|b
 B|Well, that's good.|ba
 A|Getting up in the mountains and getting away from it all|sd
-A|and,that's somewhat fun.|sd
+A|and, that's somewhat fun.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 B| She  ...|%
@@ -180,7 +180,7 @@ B|don't they?|^g
 A|Well, yeah,|ny
 A|and amazingly a lot of times it's real easy.|sd
 B|Uh-huh.|b
-A|You know, a lot of times, whenever we head out of town on a trip or something,it's real easy to swing in there for breakfast.|sd
+A|You know, a lot of times, whenever we head out of town on a trip or something, it's real easy to swing in there for breakfast.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 A|Breakfast and run.|sd
@@ -201,11 +201,11 @@ B|They're always wanting to go on a diet or something.|sv
 A|Or, or something, yeah.|aap_am
 B|Uh-huh.|b
 A|Go on a diet or they, they have a, well,|sd
-A|to some extent the public schools, or the schools in general,the eating meat kick.influence them,|sv
+A|to some extent the public schools, or the schools in general, influence them, the eating meat kick.|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Yeah.|b
-A|You know, like it's really morally wrong to eat meat or something,I, I'm not sure.|sd
+A|You know, like it's really morally wrong to eat meat or something, I, I'm not sure.|sd
 B|Uh-huh.|b
 A|Of course, that's not the way I was raised, being raised in West Texas.|sd
 B|Yeah.|b
@@ -221,7 +221,7 @@ A|But it, but it is interesting,|sv
 B|Uh-huh.|b
 A|I, I will tell you,|^h
 A|yeah.|%
-A|Every person out there should have kids, at least once or, or have some they can borrow for a time,because everyone needs some torture in their lives.|sv
+A|Every person out there should have kids, at least once or, or have some they can borrow for a time, because everyone needs some torture in their lives.|sv
 B|That's the kind I like.|sd
 B|My Mother used to put that curse on my sister.|sd
 B|I hope you have kids just like yourself.|^q
@@ -234,7 +234,7 @@ A|And, yeah,|b
 A|we do do things,|sd
 B|Yeah.|b
 A|and, it, it's funny,|sd
-A|it's almost like a lot of things that were available to us as children,to go do,|sd
+A|it's almost like a lot of things that were available to us as children, to go do,|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|The money's not available.|sd
@@ -265,7 +265,7 @@ B|Oh, well ...|%
 A|Twenty bucks a whack now.|b^m
 B|Yeah,|aa
 B|or twenty-one.|sd
-A|But, at least once you pay your way in there, at Six Flags  ...|sd
+A|But, at least once you pay your way in there,  at Six Flags  ...|sd
 B| Yeah,|b
 B|yeah  .|b
 B|yeah,|b

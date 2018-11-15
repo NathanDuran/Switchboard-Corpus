@@ -1,10 +1,10 @@
 A|Okay,|fo_o_fw_"_by_bc
 A|so which, uh, what basketball teams are you interested in?|qw
-B|Well, I guess I'm a big Laker, L A Laker fan,when it comes to pros.|sd
+B|Well, I guess I'm a big Laker, L A Laker fan, when it comes to pros.|sd
 A|Uh-huh.|b
 B|Uh, the college ranks, um, I guess I really,|sd
 B|of course I try to follow my alma mater,|sd
-B|that's, uh, B Y U,in Utah.|sd
+B|that's, uh, B Y U, in Utah.|sd
 A|Uh-huh|b
 B|But they don't have much of a team usually.|sv
 A|No,|aa
@@ -21,7 +21,7 @@ B|the year that Danny Aines was there.|sd
 A|Uh-huh.|b
 B|That was about five, six years ago by now.|sd
 A|Huh.|%
-B|So, they made it to the sweet sixteen,in their history,once or twice,|sd
+B|So, they made it to the sweet sixteen, once or twice, in their history,|sd
 A|Um.|%
 A|That's not too bad.|sv
 B|and that's,|%
@@ -40,7 +40,7 @@ B|Yeah,|b
 B|the pro,|bf
 A|Um, as far as college teams, uh, I know it's really easy to say,|sd
 A|but I've been pulling for, uh, Duke for about four years now|sd
-A|so, uh,so, I finally am feeling better about myself as far as college teams. Although, I've, I've really, you know,|sd
+A|so, uh, so, I finally am feeling better about myself as far as college teams. Although, I've, I've really, you know,|sd
 B|Is that right?|bh
 A|again being from Saint Louis, I pull for Missouri.|sd
 B|Uh-huh.|b
@@ -51,7 +51,7 @@ B|no. |aa
 A| But, uh, |%
 B|So, did you watch the, uh, final four this year?|qy
 A|Oh, yeah.|ny
-A|I watched every, uh,I watched all three games of that.|sd
+A|I watched every, uh, I watched all three games of that.|sd
 B|Every game?|^2
 A|And, uh, I was very pleased with all three games, because Kansas, uh,|sd
 A|you know, I was pulling for Kansas on the other side,|sd
@@ -81,7 +81,7 @@ B|And that, uh, they didn't, couldn't,|sv
 B|aren't they more of a running gun team ?|qy
 A|U N L V,|b^m
 A|yeah,|ny
-A|they, they play the pro style, is,what I've always called it.|sd
+A|they, they play the pro style, is, what I've always called it.|sd
 B|Right.|b
 A|And, uh,|%
 B|Yeah,|aa
@@ -110,13 +110,13 @@ A|and, uh, that had to help them a lot.|sv
 B|I think, I think that, that probably was the difference in that game.|sv
 A|Uh-huh.|b
 B|Because it really could have gone either way. Down to the end, you know.|sv
-A|So do I take it that you think though that the Lakers will, uh, will  win|qy
+A|So do I take it that you think though that the Lakers will, uh,  will  win|qy
 B| Well, |%
 A|or,|%
 B|I don't know.|no
 B| Probably not. |nn
 A| I mean, Portland's pretty  good. Um,|sv
-B|Since Kareem's retired, they  haven't had a center.|sd
+B|Since Kareem's retired,  they  haven't had a center.|sd
 A| Yeah. |b
 B|And, uh, they've got Perkins,|sv
 A|Yeah.|b
@@ -126,7 +126,7 @@ A|Well, he's, uh,|%
 A|I don't,|%
 A|I,|%
 A|he, he to me is not a center,|sv
-A|he's more of a,a real tall forward|sv
+A|he's more of a, a real tall forward|sv
 B|Yeah.|b
 B|Right,|aa
 B|right.|aa
@@ -159,38 +159,38 @@ B|Yeah.|aa
 B|They have the, they have the play-off experience,|sd
 B|but,|%
 A|Oh, yeah.|b
-B|so does Detroit, I mean, so does Chicago. So all three of them do,with Larry Bird back, uh,|sd
+B|so does Detroit, I mean, so does Chicago. So all three of them do, with Larry Bird back, uh,|sd
 A|Oh, yeah.|b
-B|you can never count the Celtics out  when Larry Bird's, starting to click on all cylinders.|sv
+B|you can never count the Celtics out  when Larry Bird's,  starting to click on all cylinders.|sv
 A| That's true. |aa
 A|Uh-huh.|b
 B|They say he's starting to do, starting to  play, |sd
 A| He's, yeah  but he's been, yeah, but he's been kind of up and down all year.|sv
 B|Right.|b
 A|uh, one game and he'll be playing to where everything he throws up goes in|sv
-A|and then the next time he'll,you know, he can't seem to hit the side of a barn.|sv
+A|and then the next time he'll, you know, he can't seem to hit the side of a barn.|sv
 B|Right.|b
 A|So, I don't know,|h
 B|Right.|b
 A|I'm, I'm kind of, I'm not sure about him this year.|sd
 B|Last I've heard is that he's starting to peak right now.|sd
 A|Uh-huh.|b
-A|Well  that's when,  you do it. |sv
-B| He's,  starting to be  more consistent, you know, right at the right time of the year.|sd
+A|Well  that's when,   you do it. |sv
+B| He's,   starting to be  more consistent, you know, right at the right time of the year.|sd
 A|Yeah.|b
 B|Oh, any dark horses I, uh, you know,|sd
 A|Well,  the dark horses, |b^m
-B| San Antonio, San Antonio is the dark horse that could, could really flip in there,  I think. |sv
+B| San Antonio,  San Antonio is the dark horse that could, could really flip in there,  I think. |sv
 A|Yeah|b
 A|that's,|%
 A| Yeah. |aa
-A|Well, anybody who has David Robinson,has got to have a chance anyway.|sv
+A|Well, anybody who has David Robinson, has got to have a chance anyway.|sv
 B|Yeah.|b
 B|He's got to be pretty much, you know,|sv
 B|I use to say Akimo Lija was the dominant player, you know, when he,|sd
 A|Uh-huh.|b
 B|against any team he would dominate,|sd
-B|but Robinson's getting up there where ,every game, he's just,|sv
+B|but Robinson's getting up there where , every game, he's just,|sv
 A|That's right.|aa
 B|I mean, it looks like he's going in for a dunk|sd
 B|and they kind of just scoot out of his way or take a step back, you know,|sd
@@ -203,13 +203,13 @@ A|That's true.|aa
 B|With Roy Tarpley they're in big trouble.|sv
 A|Yeah.|aa
 A|Well then, he's gone now|sd
-A|so, they don't have to worry about that. |sv
+A|so,  they don't have to worry about that. |sv
 B| Yeah,|aa
 B|for awhile anyway. |sv
 A|Well, I thought he was gone period.|sd
 A|I, I didn't read the story,|sd
 A|but I, I, read that, uh,|sd
-B|I heard he was suspended. Because of his, |sd
+B|I heard he was suspended.  Because of his, |sd
 A|Well, that might have been what it was,|sd
 A| but I, I guess the  headlines said something about him, you know, that the Mavericks released him or something,|sd
 A|I, maybe I misunderstood what they meant.|sd
@@ -252,10 +252,10 @@ A|They've got two, the two Johnson brothers|sd
 A|or they're not brothers,|sd
 A|but I mean there's two guys named Johnson on their team that are really good or doing good or something,|sd
 A|I forget how that works.|sd
-A|But,um, like I said they're doing extremely good right now.|sv
+A|But, um, like I said they're doing extremely good right now.|sv
 B|Um.|%
 A|Phoenix isn't doing too bad.|sv
-A|So,It, it ought to be a real interesting play-off.|sv
+A|So, It, it ought to be a real interesting play-off.|sv
 B|Right.|aa
 B|Right.|aa
 B|Yeah.|b
@@ -267,7 +267,7 @@ B|I guess the two teams that you can't count out are the Celtics because of Bird
 A|Uh-huh.|b
 B|They are two guys that seem to find a way when they,|sv
 A|When it's on the line.|^2
-B|When it's on the line, they seem to find a way.You know,|sv
+B|When it's on the line, they seem to find a way. You know,|sv
 A|Uh-huh.|b
 B|uh, so, those are what makes a champion I guess.|sv
 A|Yeah,|aa

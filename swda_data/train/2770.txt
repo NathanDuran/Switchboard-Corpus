@@ -13,7 +13,7 @@ B|That's right,|aa
 B|that's like unconditional affection.|bf
 A|Right,|aa
 A|as a matter of fact, I was thinking that same thing, unconditional love.|sd
-A|They just give it,and don't expect too much.|sv
+A|They just give it, and don't expect too much.|sv
 B|Yeah.|b
 A|Anyway, do you have a pet?|qy
 B|I had a cat,|na
@@ -50,7 +50,7 @@ A|but, um, I don't know do you like,|sd
 A|I guess your cat was an indoor cat.|qy^d
 B|No|nn
 B|it was an kind of indoor, outdoor,|sd
-B|it,it was,|%
+B|it, it was,|%
 A|It kind of traveled around|^2
 A|travel .|%
 B|well yeah,|aa
@@ -73,7 +73,7 @@ B|And dogs take a lot of, a lot more care than cats do.|sd
 B|Cats are pretty independent, you know,|sd
 B|you feed them|sd
 B|and they keep themselves clean|sd
-B|and, if you,things like that.if you raise them right, you know, you don't have to worry about the litter box thing, where with dogs you really do have to let them out and take them for walks and|sd
+B|and, if you, if you raise them right, you know, you don't have to worry about the litter box thing, where with dogs you really do have to let them out and take them for walks and things like that.|sd
 A|Yeah,|aa
 A|that's true.|aa
 A|Take them for walks,|^2
@@ -96,15 +96,15 @@ A|Yeah.|b
 B|And, uh, kids kind of,|%
 B|they want the, they want the fun part and not the, not the work.|sd
 A|Yeah,|b
-A|I think it's really important to that, that if you get a pet that they're either spayed or neutered so that, you know, we're not just going on with this pet population and having to,just get rid of them.|sv
+A|I think it's really important to that, that if you get a pet that they're either spayed or neutered so that, you know, we're not just going on with this pet population and having to, just get rid of them.|sv
 B|Yeah.|b
 A|That, that kind of gripes on me some,|sv
 A|but, but I don't know.|h
-B| Well if you're, if you're going to have a pet, take care of the offspringand not have it neutered or spayed you need to be willing to, you know deal with the consequences,|sv
+B| Well if you're, if you're going to have a pet,  and not have it neutered or spayed you need to be willing to, you know deal with the consequences, take care of the offspring|sv
 A| More and more people are, |^2
 A|Right,|b
 A|right.|b
-B|and, and I think,you know,|sv
+B|and, and I think, you know,|sv
 A|But, uh,|%
 B|when I was growing up we had cats|sd
 B|and, you know, just seeing the cats, you know, the, the miracle of birth, you know, put that in quotes, is that's a, that's a neat thing to, to experience as a kid and understand,|sv

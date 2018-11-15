@@ -11,7 +11,7 @@ B|I don't think the general audience would, would go for it.|sv
 A|The most recent one that, uh, my wife and I have seen was the CITY SLICKER.|sv
 B|How was that?|qw
 A|That was excellent.|sd
-A|It wasjust a really, a really funny movie.|sd
+A|It was just a really, a really funny movie.|sd
 B|That is one I've been dying to see.|sd
 A|At the same time, it had a story line about people trying to find themselves.|sd
 A|There were parts that were sad.|sd
@@ -23,7 +23,7 @@ A|And, but it was just all around entertaining.|sd
 B|How long did that movie run?|qw
 A|Uh, it's still on, to the best of my knowledge.|sd
 B|But, I mean, time wise, how long,|qw
-B|was ittwo hour|qy
+B|was it two hour|qy
 A|Oh.|b
 B|or,|%
 A|Uh, it's, I think it's less than two hours.|sd
@@ -38,7 +38,7 @@ A|I, I'm guessing probably an hour and forty-five minutes, maybe.|sd
 B|Uh-huh,|b
 B|uh-huh,|b
 B|and, uh, it,|%
-A|But excellent acting by Billy Crystal andBruno Kirby,|sd
+A|But excellent acting by Billy Crystal and Bruno Kirby,|sd
 B|Was it, oh, good.|ba
 B|Uh-huh.|b
 A|uh, who was the,|sd
@@ -61,7 +61,7 @@ A|Uh, we generally rent a couple a week.|sd
 A|Uh, in order to get a decent movie to have on a weekend, you've got to rent it on Thursday.|sv
 B|Right.|b
 B|Right.|b
-A|They getthey get taken up at the store,|sd
+A|They get they get taken up at the store,|sd
 B|That's exactly right.|aa
 A|so,|%
 B|Uh-huh,|b
@@ -79,15 +79,15 @@ B|And we usually have, oh, we don't get out as much as we like.|sd
 B|We have two children,|sd
 B|so we occasionally get out to the movies|sd
 A|Yeah.|b
-B|but, uh, it's, it's fun, it's a fun thing to do to get out andbe entertained for once.|sd
+B|but, uh, it's, it's fun, it's a fun thing to do to get out and be entertained for once.|sd
 A|Yeah, well,|b
 A|Quite frequently, we have our grandchildren on the weekends|sd
 B|Uh-huh.|b
 A|and, uh, we'll try to rent something that they can see as well as something else that we can see|sd
-A|and,Uh, generally try to stay in the at least P G range.Uh,|sd
+A|and, Uh, Uh, generally try to stay in the at least P G range.|sd
 B|Uh-huh.|b
 B|What ages are they?|qw
-B|Have you foundtrouble finding movies for them|qy
+B|Have you found trouble finding movies for them|qy
 B|or,|%
 B|Right.|b
 A|The, uh, the oldest is nine,|sd
@@ -110,16 +110,16 @@ B|My husband took the kids to see that one|sd
 B|so,|%
 A|Yeah,|b
 A|my wife took, uh, I think the kids to see that one,|sd
-A|butwe can generally find something at the store for them to watch.|sd
+A|but we can generally find something at the store for them to watch.|sd
 B|Uh-huh.|b
 B|Yeah,|b
 B|yeah,|b
 B|well, that's a good deal.|ba
 A|The,|%
 A|uh, oh, we saw this movie,|sd
-A|PRESUMED INNOCENT was the one we rented, uhlast weekend.|sd
+A|PRESUMED INNOCENT was the one we rented, uh last weekend.|sd
 B|Okay,|b
-B|let me thinkif I have rented that one.|^h
+B|let me think if I have rented that one.|^h
 A|Harrison Ford.|sd
 B|Harrison Ford and, how does the story line go?|qw
 A|It's, uh, he is a prosecuting attorney|sd
@@ -128,7 +128,7 @@ B|Oh, okay,|bk
 B|we haven't seen that one.|sd
 A|and he's trying to find it,|sd
 A|but, course, it's one of these with a twist where it looks like he's the one that wound up killing her|sd
-A|so it's,And it's an extremely long movie.|sd
+A|so it's, And it's an extremely long movie.|sd
 B|Uh-huh,|b
 B|uh-huh.|b
 A|It's, it's over two hours long.|sd
@@ -136,7 +136,7 @@ B|Oh, gosh,|ba
 B|oh, gosh.|ba
 A|Which,|%
 A|uh, my wife she likes the suspense movies.|sd
-A|I enjoythem to a degree.|sd
+A|I enjoy them to a degree.|sd
 B|Uh-huh.|b
 B|I think that's the one I wanted to pick up the other day,|sd
 B|and then my husband wasn't going to be able to watch it with me,|sd
@@ -159,9 +159,9 @@ B|Uh-huh.|b
 A|It's one that, once you've seen it once and, uh, the suspense there is not really you really can't see it again|sd
 B|Right,|b
 B|okay.|b
-A|so you know all the story and who did whatand when it happened,|sd
+A|so you know all the story and who did what and when it happened,|sd
 B|Uh-huh.|b
-A|soonce, once you seen one that's a suspenseful type movie like that, then it's, it's not good for a second watching particularly.|sv
+A|so once, once you seen one that's a suspenseful type movie like that, then it's, it's not good for a second watching particularly.|sv
 B|Uh-huh,|b
 B|okay.|b
 B|Uh-huh,|b
@@ -179,7 +179,7 @@ B|Oh|b
 A|Sit there and laugh,|sd
 A|and, my one grandson and I,|sd
 A|my wife can't understand it,|sd
-A|but we like BILL AND TED'S EXCELLENT ADVENTUREwhich is another funny one|sd
+A|but we like BILL AND TED'S EXCELLENT ADVENTURE which is another funny one|sd
 B|Oh, gosh.|ba
 B|Yeah,|aa
 B|we've heard about that one,|sd
@@ -190,7 +190,7 @@ A|we like to laugh|sd
 B|Oh, God.|ba
 A|I, I have a theory.|sd
 A|I like movies for entertainment.|sd
-A|I don't want tofrom watching a movie.uh, go away depressed|sd
+A|I don't want to uh, go away depressed from watching a movie.|sd
 B|Right.|b
 B|Right,|b
 B|right.|b

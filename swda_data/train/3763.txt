@@ -10,16 +10,16 @@ B|but, uh, you know, since I live here so close to Arlington, uh, that's the tea
 A|Okay.|b
 A|I think it's a little bit late in the season for them to assign us|sv
 A|where do you think they're headed,|qw
-A|so we'll have to talk about the futurewith the Rangers.|ad
+A|so we'll have to talk about the future with the Rangers.|ad
 B|Uh-huh.|b
 B|Right.|aa
 A|What are your thinkings on what they can do, what they'll be able to do?|qo
 B|Well, I think that, uh, you know, with, uh, so much controversy over Ruben Sierra not signing and asking us for so much money, it's, um, you know, I think|sv
 B|I'm not real sure about|sd
 B|do you know anything about Ruben Sierra's,  uh, |qy
-A| Well,  I heard tonight on the news that he is willing to come down. on his, |arp_nd
+A| Well,  I heard tonight on the news that he is willing to come down.  on his, |arp_nd
 B|Yeah |b
-B|that, he was willing to come down a little bit  and, |bf
+B|that,  he was willing to come down a little bit  and, |bf
 A| Yes. |aa
 A| And the Rangers go up a  little bit,|b^m
 A|uh-huh.|b
@@ -41,7 +41,7 @@ A|That's right.|aa
 B|And then, uh, who knows,|qh
 B|if he produces next year, they may have to end up paying him anyway,|sv
 B|but if he doesn't, then his market value will go down|sv
-B|and they can pick him up for, for a lot less  than, than they would, uh, if they paid him the you know, the six million dollars a year this year.|sv
+B|and they can pick him up for, for a lot less  than,  than they would, uh, if they paid him the you know, the six million dollars a year this year.|sv
 A| . |%
 A|What I saw on the news today, that|sd
 A|Buechele was back just to visit.|sd
@@ -54,7 +54,7 @@ A|Oh, I'm sure it was.|aa
 B|Yeah,|b
 B|it was a great deal for him|sv
 B|and, and, uh, he just signed on, uh,|sd
-B|I think it was like a five year deal with, uhPittsburgh.|sd
+B|I think it was like a five year deal with, uh Pittsburgh.|sd
 A|Pittsburgh.|^2
 A|Yeah.|b
 B|So, you know, he's real happy there.|sd
@@ -65,7 +65,7 @@ A| Well, what  do you think of Howse, who is the coach for the pitchers?|qo
 B|The pitching coach?|br
 A|Yes.|aa
 B|Well, you know, I was just looking at the news tonight,|sd
-B|and they showed a, a, a black guy that was was helping out, uh,His assistant.|sd
+B|and they showed a, a, a black guy that was was helping out, uh, His assistant.|sd
 A|His assistant.|^2
 A|Uh-huh.|b
 B|And I think that's a, a great addition.|sv
@@ -76,8 +76,8 @@ B|Oh, you don't like Howse,  huh? |qy
 A| No,|nn
 A| no,|nn
 A|I really don't.|sd
-A| And I'm not  going to stand up, you know on  my, soapbox and say that,|sd
-A|but I'm,not fond of Howse|sd
+A| And I'm not  going to stand up, you know on  my,  soapbox and say that,|sd
+A|but I'm, not fond of Howse|sd
 A|and I'm not fond of Grieves.|sd
 B|Oh, Tom Grieve?|br
 A|Yeah.|aa
@@ -99,6 +99,6 @@ B|You know, it's too bad that, uh, it has to be a forty-two year old guy to, to 
 A|I understand.|aa
 B|They need to have some, some young guys that can take the lead|sv
 B|and, and,|%
-B|uh,Yeah.|%
+B|uh, Yeah.|%
 A|Well, I just oh, I have so many mixed emotions about all this.|sd
 A|But I think with their new stadium, they should go and let,|sv

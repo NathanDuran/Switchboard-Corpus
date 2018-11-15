@@ -1,6 +1,6 @@
 A|Okay.|fo_o_fw_"_by_bc
 B|So, what are your favorite shows?|qw
-A|Um, I like watching COLOMBO and, um, MATLOCK andQUANTUM LEAP,|sd
+A|Um, I like watching COLOMBO and, um, MATLOCK and QUANTUM LEAP,|sd
 B|Oh, really?|bh
 A|yeah.|ny
 B|QUANTUM LEAP?|qy^d
@@ -60,7 +60,7 @@ A|because he, he thinks the newer ones is like a soap opera and the other one is
 A|but,  I don't |sd
 B| No. |aa
 B|Not really.|sv
-B| It's not really like opera, a soap |sv
+B| It's not really like   a soap  opera,|sv
 A| Oh, I think, |%
 A| Yeah. |b
 B|but, but it's,|%
@@ -76,14 +76,14 @@ A|That's sort of how Matlock is,|sd
 A|but COLOMBO is way tricky|sd
 B| Yeah. |b
 A| I mean  he doesn't even try to let the person know he's getting onto them.|sd
-B| Well, it seems like they always you know what I'm saying, like that one where he goes to college,show COLOMBO, the same ones over and over, though|sd
+B| Well, it seems like they always  show COLOMBO, the same ones over and over, though you know what I'm saying, like that one where he goes to college,|sd
 A| Well, did you see the one. |qy
 A|Um.|%
 B|or is this, is there a series on.|qrr
 A|Um, yeah,|ny
 A|there's like one on,|sd
 A|well we see it Thursdays at seven,|sd
-A| and it was,|%
+A| and  it was,|%
 B| Okay. |b
 A|this last time it was about this, um, movie director,|sd
 A|did you|qy

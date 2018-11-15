@@ -9,7 +9,7 @@ A|were they far away,|qy
 A|were they close?|qy
 B|Well, I come from a family that was very large in Bell County|^h
 A|Uh-huh.|b
-B|and, and my grandfather came to Bell County on a covered wagonand had ten children,|^h
+B|and, and my grandfather came to Bell County on a covered wagon and had ten children,|^h
 A|Oh, how neat.|ba
 B|and so sometimes we would have a reunion with that group.|sd
 A|Uh-huh.|b
@@ -39,11 +39,11 @@ B|and we bought food there.|sd
 A|Oh, uh-huh,|b
 A|uh-huh.|b
 A|Well, I know on Sundays we all elect now to chip in|sd
-A|and we go get KentuckyFried Chicken and bring out.|sd
+A|and we go get Kentucky Fried Chicken and bring out.|sd
 B|Uh-huh.|b
 A|And, uh, but we kind of take our food for three days,|sd
 A|and, uh, now our grandchildren are participating in it|sd
-A|andabout once a yearjust love that they have all this little batch of cousins that they get to see|sd
+A|and just love that they have all this little batch of cousins that they get to see about once a year|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|enthused and with it|sd
@@ -53,14 +53,14 @@ A|So it's been kind of nice.|sd
 A|It started out when I was a youngster and watching my mother.|sd
 A|Now I'm to the mother was|sd
 B|Uh-huh.|b
-A|and, uh, I am, uh, now the older generation and doing more of the cooking and watching my daughteryou know, more and everything,|sd
+A|and, uh, I am, uh, now the older generation and doing more of the cooking and watching my daughter you know, more and everything,|sd
 B|Uh-huh.|b
 A|and, uh.|%
 B|Well, it's something I really miss, because I had twenty-seven first cousins|sd
 A|Oh, my word.|ba
 B|and, you know, we were very close family,|sd
 B|but our father's generation was enough older than I,|sd
-B|my father would be a hundred nowthat they're all dead,|sd
+B|my father would be a hundred now that they're all dead,|sd
 A|Oh, uh-huh.|b
 B|and, in fact, many of my first cousins are dead|sd
 A|Oh, are they?|bh
@@ -78,9 +78,9 @@ B|but as long as my oldest aunt lived we, we got together once a year.|sd
 A|I think, I do think, now we have noticed a waning of interest,|sd
 A|and I think as, as parents get older and start dying off, I think sometimes it is hard to keep the interest going.|sv
 B|Well, and, and folks have gotten so mobile,|sd
-B|I mean, like I have a son and a daughter and two nephews that are grownand a brother who has a new marriage and a younger son,|sd
+B|I mean, like I have a son and a daughter and two nephews that are grown and a brother who has a new marriage and a younger son,|sd
 A|Uh-huh.|b
-B|but my brother and his wife live in Nevada, my daughter lives in Colorado, one of my nephews lives in New York City, one nephew lives in Memphisand my son lives here,|sd
+B|but my brother and his wife live in Nevada, my daughter lives in Colorado, one of my nephews lives in New York City, one nephew lives in Memphis and my son lives here,|sd
 A|Uh-huh.|b
 B|but I think it's very unlikely we'll have a family reunion, you know.|sd
 A|Yeah,|b
@@ -109,19 +109,19 @@ B|Does it bother you if your children are not interested in it?|qy
 A|I beg you pardon?|br
 B|Does it bother you if your children are not interested in it?|qy
 A|Oh, a little bit.|na
-A|I, I wish that our son wasyou know,|sd
+A|I, I wish that our son was you know,|sd
 B|Uh-huh.|b
-A|and, uh, but, uh, the cousins are closer to our daughter's age, and, than to our son's and just totally different,interest group,|sd
+A|and, uh, but, uh, the cousins are closer to our daughter's age, and, than to our son's and just totally different, interest group,|sd
 A|and plus,|%
 A|and he's just, he's newly married and doesn't have children|sd
 B|Uh-huh.|b
-A|and, you know, I'm hoping,to want to go, you know, to it,married a little bit longer and have children that they may be more inclinedthat as they, you know, are,|sd
+A|and, you know, I'm hoping, that as they, you know, are, married a little bit longer and have children that they may be more inclined to want to go, you know, to it,|sd
 B|Uh-huh.|b
 A|I know that.|sd
 B|Well, what kinds of things do you do to try to get your children interested?|qw
 B|Just talk to them about it?|qy
 A|Well, talk to them about it, and, you know, tell them some of the things we're doing.|na
-A|Now when he was a uh, a young, oh, preteen, you know, when he was like ten or twelvehe loved going,|sd
+A|Now when he was a uh, a young, oh, preteen, you know, when he was like ten or twelve he loved going,|sd
 B|Uh-huh.|b
 A|he had another cousin he was close to and went,|sd
 A|but that cousin kind of quit going,|sd

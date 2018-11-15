@@ -19,13 +19,13 @@ A|Oh, I, uh, like sports type things too.|sd
 A|We like to get out and walk,|sd
 A|and we like the water sports too.|sd
 B|Uh-huh.|b
-A|But like you, unless you have a pool in your backyard, it is kind of hard to get to do thatvery often.|sd
+A|But like you, unless you have a pool in your backyard, it is kind of hard to get to do that very often.|sd
 B|I, know it.|aa
 B|It is.|aa
 B|Do you work full time?|qy
 A|Yeah.|ny
 A|Well, part time.|arp_nd
-A|Weare going to have a baby in July.|sd
+A|We are going to have a baby in July.|sd
 B|Part time.|b^m
 B|Oh.|b
 A|So part of my big hobby has been trying to put together a nursery and all that kind of stuff, lately.|sd
@@ -40,7 +40,7 @@ A|Yes.|ny
 A|Uh-huh.|ny
 B|Oh.|b
 A|I have been doing some cross-stitch for something I wanted to put in the nursery.|sd
-A|So, I have notdone that in years,|sd
+A|So, I have not done that in years,|sd
 B|Uh-huh.|b
 A|but I have kind of enjoyed that.|sd
 B|Yeah.|b
@@ -55,13 +55,13 @@ B|That is neat.|ba
 A|And I guess I kind of consider shopping a hobby|sd
 B|Yeah.|aa
 B|I do too.|sd
-A|I just go out just to, just to enjoy it and notjust look.really spend money sometimes,|sd
+A|I just go out just to, just to enjoy it and not really spend money sometimes, just look.|sd
 B|Yeah.|b
 B|Yeah.|b
 B|But you will probably find after your children get bigger, uh, like when they want things like tricycles, toys, things that cost quite a lot in the store, you can find that kind of stuff at garage sales for just a few dollars.|sd
 A|Yeah,|aa
 A|yeah,|aa
-A|webought some baby clothes, yeah, last weekend at a garage sale.|sd
+A|we bought some baby clothes, yeah, last weekend at a garage sale.|sd
 B|And,|%
 B|Yeah.|b
 A|Yeah.|b
@@ -70,14 +70,14 @@ B|I have become a garage sale shopper.|sd
 B|And it is fun.|sv
 A|Uh-huh.|b
 B|On the weekends I drive around, look to see, you know, who is selling what.|sd
-B|And I found my little daughter some tap shoes for her tap class.And just, you know, all kinds of things like that, that you would probably pay thirty dollars for,|sd
+B|And I found my little daughter some tap shoes for her tap class. And just, you know, all kinds of things like that, that you would probably pay thirty dollars for,|sd
 A|Oh|b
 B|and I got them for two dollars|sd
 A|Wow!|ba
 A|Yeah.|b
 B|Yeah.|b
 B|So,|%
-A|Yeah,at a lot of places.|b
+A|Yeah, at a lot of places.|b
 B|Yeah.|b
 B|Yeah,|aa
 B|it is.|aa
@@ -88,14 +88,14 @@ B|and|%
 A|Right,|aa
 A|yeah.|aa
 A|I think that is important too.|sd
-A|I am notafter the baby comes.going to work|sd
+A|I am not going to work after the baby comes.|sd
 B|Yeah.|b
-B|Well,Well, that is good.|ba
-A|So, Iguess, hopefully I will have more time for hobbies.|sd
+B|Well, Well, that is good.|ba
+A|So, I guess, hopefully I will have more time for hobbies.|sd
 B|I am glad,|ba
 A|I do not know|h
 B|Well, at first, when you first have a baby, you, uh, seems to take every moment of your time. Partly because you are not used to, you know, juggling your time around like that.|sd
-B|But,eventually the, you will, you will be doing lots of stuff.|sv
+B|But, eventually the, you will, you will be doing lots of stuff.|sv
 A|Right.|aa
 B|So,|%
 A|Yeah.|b
@@ -148,16 +148,16 @@ A|Huh.|b
 B|Do you and your husband like to work in the yard?|qy
 A|Oh, well, we like it once in a while but not as often as we have to do it|arp_nd
 B|Yeah.|b
-A|I like to put flowers out and, you know,a few little things like that.|sd
+A|I like to put flowers out and, you know, a few little things like that.|sd
 B|Uh-huh.|b
-A|But as far asit gets to be a chore.to get all that stuff done,mowing every week, and finding time|sd
+A|But as far as mowing every week, and finding time to get all that stuff done, it gets to be a chore.|sd
 B|Yeah.|b
 B|Yeah.|b
 B|Yeah.|b
 B|Yeah.|aa
 B|That is true.|aa
 A|Seems like sometimes hobbies do that.|sv
-A|They kind of take over and turn into work instead offun.|sv
+A|They kind of take over and turn into work instead of fun.|sv
 B|Yeah.|b
 B|Well, that is how sewing.|sd
 B|I love to sew,|sd
@@ -181,17 +181,17 @@ B|And it, it is fun for me to do that.|sd
 B|It is, it is something I enjoy doing.|sd
 B|It is funny though, it is like I do not really want to cook for us|sd
 B|It is kind of like when you are a kid and, and someone else's house was fun to clean,|sv
-B|butyou did not want to do your own|sv
+B|but you did not want to do your own|sv
 A|Yeah.|b
 A|Your,|%
 A|How funny.|ba
-A|I think I will enjoy cooking more when I am not working, when Ido not get home until five-thirty or six, and I have to cook and clean up,|sd
+A|I think I will enjoy cooking more when I am not working, when I do not get home until five-thirty or six, and I have to cook and clean up,|sd
 B|Yeah.|b
 B|Oh, yeah.|aa
 A|it is not, it is not fun.|sd
 A|But I think I will like it better.|sd
 B|Yeah.|aa
-B|When you are homeit's, it makes a difference.|sv
+B|When you are home it's, it makes a difference.|sv
 A|Yeah.|b
 B|It sure does.|sv
 A|Uh-huh.|b
@@ -200,7 +200,7 @@ A|Uh, yeah,|ny
 A|we have done a little bit of camping.|sd
 A|We like that.|sd
 A|It's,|%
-A|there again, it is just so hard to find time to get awayfor a whole weekend.|sd
+A|there again, it is just so hard to find time to get away for a whole weekend.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 B|Well, that is something that we are planning to do not this weekend, but the next.|sd
@@ -213,27 +213,27 @@ B|Yeah.|aa
 B|We are really looking forward to it.|sd
 B|The girls love it.|sd
 B|They have been a couple of times, and, uh, just getting to be outside, you know, all the time and sleep in a tent. And that is really fun to them.|sd
-B|So,We are looking forward to that.|sd
+B|So, We are looking forward to that.|sd
 A|Yeah.|b
 A|Well, that sounds nice.|ba
-A|I, I think that would be a good family thingmore often.to start doing|sv
+A|I, I think that would be a good family thing to start doing more often.|sv
 B|Yeah.|aa
-B|Ithink so.|sd
+B|I think so.|sd
 B|Yeah.|aa
 B|My, uh, my husband loves to fish.|sd
 B|I am not much into fishing,|sd
 B|but, uh, my daughter thinks she wants to learn how to fish|sd
-B|soI think it will be real good for them|sd
+B|so I think it will be real good for them|sd
 A|Uh-huh.|b
 B|They can go fishing.|sd
 A|Yeah,|b
 A|we have camped with some friends who have young children|sd
-A|and,uh, if you can find some place where those little sunfish are right around the shore where they can just pull in a line.|sd
+A|and, uh, if you can find some place where those little sunfish are right around the shore where they can just pull in a line.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|Oh, they have so much fun doing that.|sd
 B|Yeah.|b
-A|And they think they are really great fishermenbecause they are catching so many|sd
+A|And they think they are really great fishermen because they are catching so many|sd
 B|Yeah,|b
 B|yeah.|b
 B|Oh, I know.|aa
@@ -260,7 +260,7 @@ B|but I have never done any.|sd
 A|It is not too hard.|sv
 A|It is,|%
 B|Yeah.|b
-A|I do not think it is as hard as like knitting orcrochet or something like that.|sv
+A|I do not think it is as hard as like knitting or crochet or something like that.|sv
 B|Yeah.|b
 B|Yeah.|aa
 B|I, I crocheted when I was younger.|sd
@@ -277,7 +277,7 @@ A|And I got off on my rows somehow,|sd
 A|and so what should have been the back all of a sudden was on the front.|sd
 B|Oh, yeah.|b
 A|And then I tore it out and threw it down.|sd
-A|And I never have,picked it back up again,|sd
+A|And I never have, picked it back up again,|sd
 A|and now I can't remember anything about it|sd
 B|Yeah,|b
 B|well, I did the same thing.|sd
@@ -293,7 +293,7 @@ B|And I got about two, two-thirds of it done,|sd
 B|and then I just,|sd
 B|I had the baby|sd
 A|Yeah|b
-B|And then it was just likeI forgot all about it.|sd
+B|And then it was just like I forgot all about it.|sd
 A|Forget it.|^2
 B|And every once in a while I will be digging through the closet,|sd
 B|and I will find that thing.|sd

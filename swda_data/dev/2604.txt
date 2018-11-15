@@ -10,7 +10,7 @@ A|yeah,|%
 A|because it was, you know, took a couple tries before I found somebody.|sd
 A|Well, you know, I'm like, I'm not really sure what I think about this.|sd
 A|Um, uh, I mean, the first thing is, the uh, if it's going to be mandatory, it's got to be mandatory,|sv
-A|I mean, everybody, not just like, you know, poor people and all that, you know. But,you know, senators' sons and all that stuff too.|sv
+A|I mean, everybody, not just like, you know, poor people and all that, you know. But, you know, senators' sons and all that stuff too.|sv
 B|Right,|aa
 B|right.|aa
 A|I mean, everybody's got to do it.|sv
@@ -27,10 +27,10 @@ B|but when I was, uh, in high school, it was the beginning of Vietnam and so for
 B|And many of my peers were being drafted.|sd
 A|Uh-huh.|b
 B|And I could see that many of them had conscientious objections to war or whatever.|sd
-B|But I, I felt strongly then that even if they didn't feel like they could kill someone, or go into a military situation, that they could help the country in other ways. Be it cleaning out, uh, lots, in, in their neighborhood or,whatever kind of community or public service might be available.|sd
+B|But I, I felt strongly then that even if they didn't feel like they could kill someone, or go into a military situation, that they could help the country in other ways. Be it cleaning out, uh, lots, in, in their neighborhood or, whatever kind of community or public service might be available.|sd
 A|Uh-huh.|b
 B|And I guess I see that as, as not so much a demand but, but a privilege.|sd
-B|It's, it's kind of, uh, uh,It's something,|sv
+B|It's, it's kind of, uh, uh, It's something,|sv
 A|It is, uh,|aa
 B|it's, it's|%
 B|since we live here and we all benefit, rich, poor or in between, uh, there are benefits even for those who have it the hardest. I just see that as maybe a good idea.|sv
@@ -43,7 +43,7 @@ A|I mean, if, if you're talking about if you're talking about something that's l
 A|You're going to go and, and fill pot holes and, you know, and, you know, all that stuff.|^q
 A|I mean, I, you know, I don't know|h
 B|I could see a, a full, a a gamut of different kinds of opportunities.|sd
-B|Things that need to be done,uh, besides that.uh, a day, or several hours of the week. Like a half of a day on Saturday or something like that. In addition to what one does,that that could be done in an hour or two,|sd
+B|Things that need to be done, that that could be done in an hour or two, uh, a day, or several hours of the week. Like a half of a day on Saturday or something like that. In addition to what one does, uh, besides that.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Uh-huh.|b
@@ -65,29 +65,29 @@ B|and I, I don't see it just relegated to the young.|sd
 B|But I see, I, I see so much going on that, that's bad.|sd
 B|And this would give them a chance to have some positive self-esteem.|sv
 A|Uh-huh.|b
-B|Something that they turn,back.|sv
+B|Something that they turn, back.|sv
 A|Well,|%
-A|and also, you know, you, you feel more like, you know, you're actually part of the community if you've done something,in it.|sv
+A|and also, you know, you, you feel more like, you know, you're actually part of the community if you've done something, in it.|sv
 B|That's right.|aa
-B|You take pride in that, and, and get some, some positive feedback from those who benefit,besides yourself.|sv
+B|You take pride in that, and, and get some, some positive feedback from those who benefit, besides yourself.|sv
 A|Uh-huh.|b
 B|And I, I see it being most beneficial if it's in the neighborhood where or, or at least the area where the person lives.|sd
 A|Uh, definitely.|aa
 B|It might not be the same neighborhood, but the same city or county, because then you're, you're coming in contact with it.|sv
-B|It's not as meaningful for me to go to Minnesota and do something up there that I'll never be able to see again, unless I happen to go on vacation,up there.|sd
+B|It's not as meaningful for me to go to Minnesota and do something up there that I'll never be able to see again, unless I happen to go on vacation, up there.|sd
 A|Right.|b
 A|Yeah.|b
 B|It's, it almost needs to be something that has more impact for the individual, on going.|sv
 A|Yeah.|b
-B|But as far as putting that into work, I don't want to, I don't want to deal with the, with the heartache of, first of all, getting it started and figuring out how to do the logistics,of it.|sd
-A|Oh, that would,be a nightmare.|sv
+B|But as far as putting that into work, I don't want to, I don't want to deal with the, with the heartache of, first of all, getting it started and figuring out how to do the logistics, of it.|sd
+A|Oh, that would, be a nightmare.|sv
 A|And just, I mean, just getting, getting it going.|sv
 B|Yeah.|b
 A|Yeah.|b
-B|I, I, see a lot of things like, uh, scouting, uh,Boys Clubs, Girls Clubs, things like that, that kind of get into that citizenship, uh, the uh, looking after the environment sort of thing|sd
+B|I, I, see a lot of things like, uh, scouting, uh, Boys Clubs, Girls Clubs, things like that, that kind of get into that citizenship, uh, the uh, looking after the environment sort of thing|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
-B|And I guess, I don't see, uh, this being that different. But even more beneficial because it would be something that everybody participated in,and would take a turn in.|sd
+B|And I guess, I don't see, uh, this being that different. But even more beneficial because it would be something that everybody participated in, and would take a turn in.|sd
 A|Uh-huh.|b
 A|Uh-huh|b
 A|Yeah.|b
@@ -102,7 +102,7 @@ B|when I was teaching school I saw many, so many kids that were at loose ends an
 B|And I can see, you know, some, some really significant things coming out of it.|sd
 A|Uh-huh.|b
 B|I know you've got to get past that, that grudge attitude that many have,|sd
-B|but that's, uh, that would be a part of selling it to the community.uh, parish or however the state was divided up.|sv
+B|but that's, uh, that would be a part of selling it to the community. uh, parish or however the state was divided up.|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|Um, I may,|%
@@ -111,11 +111,11 @@ B|around here we have a number of community projects that folks just volunteer f
 B|Boy Scout troops or church groups or civic clubs will, uh, police a, uh a couple of miles of the highway and|sd
 B|and I, I've seen it in other states too.|sd
 A|Yeah.|b
-A|They have,that here. Um,|sd
+A|They have, that here. Um,|sd
 B|I don't know,|h
 B|um,|%
 A|they've got, um, in most of the states around here I think, uh.|sd
-A|You know, down in North Carolina, there was a big controversy for a while, because they, uh, the local chapter of the K K K wanted to, uh,uh, to participate in it|sd
+A|You know, down in North Carolina, there was a big controversy for a while, because they, uh, the local chapter of the K K K wanted to, uh, uh, to participate in it|sd
 A|and, uh,|sd
 B|and there were those that said, No,|^2
 B|you can't do that, I'm sure.|^q
@@ -137,16 +137,16 @@ A|and we just, we went to Indianapolis last weekend, and back.|sd
 A|And, um, I'm pretty sure I saw, yeah, stuff in Ohio and Indiana about it and Pennsylvania, maybe Pennsylvania,|sd
 A|I don't remember for sure now.|sd
 B|And I don't know about your part of the country,|h
-B|but, uh, down here in the last, oh, year plus, I, it was beginning with last year's Earth DayThere's just been more of a turn toward uh, environmental concerns,|sd
+B|but, uh, down here in the last, oh, year plus, I, it was beginning with last year's Earth Day There's just been more of a turn toward uh, environmental concerns,|sd
 A|Uh-huh.|b
 B|and I work for Texas Instruments.|sd
 A|Uh-huh.|b
 B|And they, they've started some recycling campaigns that a year before that had been turned down because they said, Well, it's not feasible,|sd
 A|Uh-huh.|b
 B|it's not a good idea.|^q
-B|And,I, I see that as being a, a, a change, uh, for the positive. Kind of along the same line as, as, as the mandatory thing.I see that as being,|sd
+B|And, I see that as being, I, I see that as being a, a, a change, uh, for the positive. Kind of along the same line as, as, as the mandatory thing.|sd
 A|Yeah.|aa
-A|And but then they lost,too much business|sd
+A|And but then they lost, too much business|sd
 B|It's just, thing, a part of everyone's consciousness.|sd
 A|Uh-huh.|b
 A|Well, the thing about that is though, it's got a,|sv
@@ -159,7 +159,7 @@ A|I'd ruther, rather spend, you know, fifty cents less on, uh, on, on such and s
 A|and even if it's not environmentally safe, who cares, you know.|^q
 B|I'm sure the pendulum will swing the other way.|sv
 B|Uh, there have been too many other things that it's done that for, just in my life.|sv
-B|And if you look at history at all, you see that, you know, uh, we go from one side to the other on just about any subject,that you, one might care to bring up.|sv
+B|And if you look at history at all, you see that, you know, uh, we go from one side to the other on just about any subject, that you, one might care to bring up.|sv
 A|Yeah.|b
 B|But, it is comforting to me to see, uh, more concern about some of these things that, that cost us money.|sd
 B|Especially when we have dwindling, uh, resources such as oil that's burning out of control in the Persian Gulf, and, and so forth.|sd
@@ -185,14 +185,14 @@ A|Yeah.|b
 B|Uh, or we'll suddenly be in the dark and say, Oh, my goodness, now we don't have the ability to go on to some new technology.|sv
 A|Right.|aa
 A|Well, my dad's in the, in the solar energy business,|sd
-A|so, uh,You know, we're acutely aware of a lot of this.|sd
+A|so, uh, You know, we're acutely aware of a lot of this.|sd
 B|Ah!|ba
 A|But, you know, on the other hand, he voted for George Bush,|sd
 A|so um, you know, I, I wonder sometimes if he knows what he's doing.|sd
 B|Well, I you know,|%
-B|just about anybody you could name, whether I voted for them or not,uh, makes, um, uh, decisions that I just can't go along with.|sd
+B|just about anybody you could name, whether I voted for them or not, uh, makes, um, uh, decisions that I just can't go along with.|sd
 A|Uh-huh.|b
 B|But that's why they're there and not me.|sd
-B|I don't want the,I don't want the stress.|sd
+B|I don't want the, I don't want the stress.|sd
 A|Yeah.|b
 A|Well, the, the thing with Bush ...|sv

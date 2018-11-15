@@ -8,7 +8,7 @@ A|Right.|na
 B|Okay.|bk
 B|So, I guess we're supposed to start talking.|sv
 B|Uh what kind of books do you read?|qw
-A|I read, uh, a lot of Steven King, Dean R Koontz, uhsome Danielle Steel.|sd
+A|I read, uh, a lot of Steven King, Dean R Koontz, uh some Danielle Steel.|sd
 B|Uh-huh.|b
 A|My aunt got me hooked on those|sd
 B|Uh-huh.|b
@@ -57,17 +57,17 @@ A|Okay.|b
 B|So that's, anyway,|%
 B|and, uh, I read a lot of non fiction books, too.|sd
 B|Uh, let's see,|^h
-A|I like to read a lot of non fiction history whenCivil War era and, and that kind of thing.|sd
+A|I like to read a lot of non fiction history when Civil War era and, and that kind of thing.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|I found that real interesting.|sd
 A|I'm reading THE LION AND THE WIND right now.|sd
 A|And that was on T V.|sd
 B|Now what's that?|qw
-A|It was, uh, during Teddy Roosevelt's time.And, uh, about a American woman that got kidnapped in, uh, Morocco.|sd
+A|It was, uh, during Teddy Roosevelt's time. And, uh, about a American woman that got kidnapped in, uh, Morocco.|sd
 B|Uh-huh.|b
 B|Yeah.|b
-A|Uh, this is when they were having their revolutionor whatever|sd
+A|Uh, this is when they were having their revolution or whatever|sd
 B|Uh-huh.|b
 A|and Teddy Roosevelt sent troops over and really portrays him as a, kind of a crazy man, you know.|sd
 B|Yeah|b
@@ -90,7 +90,7 @@ B|Yeah.|b
 B|Cool,|ba
 B|see, I also read a lot of books about music because I'm interested in that and fair number of stuff about science and also philosophy things.|sd
 A|Uh-huh.|b
-A|I like, I like to readsome of the philosophy stuff.|sd
+A|I like, I like to read some of the philosophy stuff.|sd
 B|Like,|%
 B|Uh-huh.|b
 B|Like, let's see,|^h
@@ -98,19 +98,19 @@ B|and even like reading some new age things, things that I don't quite believe i
 B|like here on my shelf I have a book called JOURNEYS OUT OF THE BODY.|sd
 A|Yeah,|b
 A|I think that,|%
-B|It's all abouthow to have out of body experiences and all that.|sd
+B|It's all about how to have out of body experiences and all that.|sd
 A|I'm fascinated by that.|sd
 A|Yeah,|b
 A|I'm fascinated by that.|sd
 B|Uh-huh,|b
 B|yep.|b
 A|That,|%
-A|and, and, uh, even stuff about, not like ghost stories, but real encounters with ghosts andsupposedly haunted houses.|sd
+A|and, and, uh, even stuff about, not like ghost stories, but real encounters with ghosts and supposedly haunted houses.|sd
 B|Uh-huh.|b
 A|I like,|%
 A|I'm kind of a doubting Thomas|sd
 A|and I like to read stuff like that.|sd
-A|Some of it reallyfreaks me out|sd
+A|Some of it really freaks me out|sd
 B|Yeah.|b
 B|Uh-huh|aa
 B|Right,|aa
@@ -131,5 +131,5 @@ A|one real interesting book I read recently was, when I was looking for a job,|s
 A|I read, HOW TO GET THE JOB THAT YOU WANTED|sd
 A|and, it, it had real good tips|sd
 A|and it,|%
-A|andI got the job that I wanted by applying the, the methods that, that,|sd
+A|and I got the job that I wanted by applying the, the methods that, that,|sd
 B|Uh-huh.|b

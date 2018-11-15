@@ -1,16 +1,16 @@
 B|So, what sort of car are you interested in getting next?|qw
 A|Well, actually, I love the car I have.|sd
 A|I have a Chrysler LeBaron convertible.|sd
-A| And I love it.|sd
+A| And  I love it.|sd
 B| Ah. |b
 A|And I would get another one in a minute.|sd
 A|Unless I could afford what I really like which would be a red Ferrari or, you know, a little Corvette or something like that.|sd
 A|And that's what would influence my decision to change because I like a really sporty car.|sd
 A|And I'd love an expensive one|sd
-A| but I probably, can never afford it|sv
+A| but I probably,  can never afford it|sv
 A|so|%
 B|Uh, well I understand and can sympathize with that because I also enjoy driving performance automobiles.|sd
-B|Uh, I currently have an eighty-seven, five liter Mustang G Tthat I've done a bunch of modifications to, to make it, uh, handle and perform better,|sd
+B|Uh, I currently have an eighty-seven, five liter Mustang G T that I've done a bunch of modifications to, to make it, uh, handle and perform better,|sd
 A|Uh-huh.|b
 B|and I suspect if I were to be able to get another car where object was, uh,|sd
 B|the best car I could get regardless of money, uh, I probably would be tempted by something along the lines of a Lotus or possibly a Ferrari.|sd
@@ -36,7 +36,7 @@ A|No,|nn
 A|I really haven't,|sd
 A|no,|nn
 A|huh-uh|nn
-A| I did test drive a Corvette last year. Maybe the year before.|sd
+A| I did  test drive a Corvette last year. Maybe the year before.|sd
 A|It was brand new, white,|sd
 A|it was like a big marshmallow.|sv
 A|When you sat in the seats, they adjusted to fit around you.|sd
@@ -48,7 +48,7 @@ A|and I was able to open that up pretty good|sd
 A|and that was really fun.|sv
 A|And I wanted it,|sd
 A|but I had a choice of that or my house|sd
-A|and  I thought that I'd continue, to live in my house|sd
+A|and  I thought that I'd continue,  to live in my house|sd
 A|so.|%
 B|Yeah,|b
 B|there, there's something about having a place to live, |sv
@@ -63,7 +63,7 @@ A|So,|%
 B|I find that, uh, that the Corvettes are, are becoming really, really nice cars.|sv
 A|They are, they're pretty aren't they lately|qy
 B|Yeah.|ny
-B| And the performance and the suspension such that they're actually a lot of fun to drive.they, they've improved,|sv
+B| And  they, they've improved, the performance and the suspension such that they're actually a lot of fun to drive.|sv
 A| They really  are.|sv
 A|Really.|b
 B|It's not like driving a, a Winnebago or something.|sv
@@ -74,7 +74,7 @@ A|See, I'm not into station wagons and vans and things that people are really bu
 A|and they go isn't that a nice van|sd
 A|and I go, um.|sd
 A|Not really, you know.|^q
-A| How about a Greyhound bus|^q
+A| How about  a Greyhound bus|^q
 B| Nice. |sd
 B|Yeah.|aa
 B|Nice isn't the word I'd choose.|sd
@@ -121,10 +121,10 @@ A| Twenty seconds,|sd
 A| yeah.|ny
 A|That's all it takes.|sd
 A|I mean, it's just a button, that's  it.|sd
-A|You release it right at the top,|sd
+A|You  release it right at the top,|sd
 B| Yeah,|b
 B|so |%
-A|so  you don't have to get out or anything.|sd
+A|so  you don't have to  get out or anything.|sd
 B| So you won't get, |bf
 B|Yeah|b
 B|and twenty seconds you probably won't get caught in anything too substantial.|sv
@@ -136,7 +136,7 @@ A|So I really did.|sd
 A|I mean I was soaking wet.|sd
 A|I thought I would drown in the seconds that it took me to pull over|sd
 B|Whoops.|ba
-A|But it all dried out, you know.  Didn't take long when the sun came out|sd
+A|But it all dried out, you know.  Didn't  take long when the sun came out|sd
 B| Yeah. |b
 A|but it was kind of funny.|sv
 A|I'm sure people around me really enjoyed it |sv

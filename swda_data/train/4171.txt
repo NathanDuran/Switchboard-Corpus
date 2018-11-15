@@ -28,7 +28,7 @@ A|It's probably a long time|sv
 A|I'm sure it's not till like twenty-five years, thirty years.|sd
 B|Yeah,|b
 B|the place I work at's, health insurance is kind of expensive.|sd
-B|It's like hundred bucks a, a month or somethingfor a family.|sd
+B|It's like hundred bucks a, a month or something for a family.|sd
 A|Yeah.|b
 A|Huh, well, I guess what we have is like a what they call a flex benefits plan where you, you get like a certain amount of dollars|sd
 A|and then you spend it on a cafeteria of whatever you want or need.|sd
@@ -51,7 +51,7 @@ B|Yeah,|b
 B|I guess,|aap_am
 B|uh, on the other hand, you know, I, I had a similar, had a similar health plan|sd
 B|and, uh, one of my kids was in a car accident|sd
-B|and, uhI had, wound up having to pay for, you know, a bunch of doctor visits and stuff out of my pocket because of, you know, no, no insurance policy happened to cover it, which is,|sd
+B|and, uh I had, wound up having to pay for, you know, a bunch of doctor visits and stuff out of my pocket because of, you know, no, no insurance policy happened to cover it, which is,|sd
 A|Um.|%
 A|Really?|bh
 A|You mean, not even your, your, your car insurance?|bf
@@ -69,7 +69,7 @@ B|yeah|b
 B|my place you get two weeks when you start|sd
 B|and then every, every year they give you an extra day until you've got four weeks.|sd
 A|Oh, that's nice.|ba
-A|We don't get them till, till your seventh year of service tillyou get an extra week.|sd
+A|We don't get them till, till your seventh year of service till you get an extra week.|sd
 B|Aye.|ba
 B|That's a long time.|sv
 A|Yeah,|b
@@ -93,7 +93,7 @@ A|So that's what,|%
 A|I think it's still based on the old model of,|sv
 A|and, and now they don't, uh,|%
 B|A lifelong job security|^2
-B|telephonepioneers of America,|bf
+B|telephone pioneers of America,|bf
 A|Yeah.|aa
 B|all that stuff, huh.|^g
 A|Yeah,|ny

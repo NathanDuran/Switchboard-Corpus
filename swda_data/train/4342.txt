@@ -12,7 +12,7 @@ B|Uh, it's a local radio station.|sd
 B|It's called, uh, K L I F, cliff.|sd
 A|Cliff, I see,|b^m
 A|so, uh, it's not affiliated with anything, is it.|qy
-A|Notit's not a network station.|qy^d
+A|Not it's not a network station.|qy^d
 B|No.|nn
 B|No.|nn
 A|Okay,|bk
@@ -30,7 +30,7 @@ A|so you have a paper or something or,|qy^d
 B|Yeah,|ny
 B|we have a well, we have, uh, DALLAS MORNING NEWS which is the big paper in Dallas.|sd
 A|Uh-huh.|b
-B|We read, I read it pretty muchfrom cover to cover.|sd
+B|We read, I read it pretty much from cover to cover.|sd
 A|Yeah.|b
 A|How do you like it?|qw
 A|It's been, it's been a while since I read the Dallas news.|sd
@@ -38,7 +38,7 @@ A|I, uh, fact, last time I read the Dallas, Dallas news I was in Arkansas.|sd
 A|I, uh ,|%
 B|The TIMES HERALD went out of business here|sd
 A|Oh, yeah?|bh
-B|and so we really only have one Dallas newspaper and one,Fort Worth newspaper.|sd
+B|and so we really only have one Dallas newspaper and one, Fort Worth newspaper.|sd
 A|Well, that must be pretty bad.|sv
 A|So, how did that happen, anyway?|qw
 B|Uh, financial trouble.|sd
@@ -54,7 +54,7 @@ B|So, how do you keep up?|qw
 A|Oh, me, I, uh, good grief, I read the TIMES, LOS ANGELES TIMES.|sd
 A|There's, quite a task if you've ever run into one.|sd
 A|They're, uh|%
-B|Yes, they're veryvoluminous.|aa
+B|Yes, they're very voluminous.|aa
 A|Yeah,|aa
 A|they're thick.|bf
 A|Uh, if there's something you want to know, it's, it's in the TIMES and then, and in detail. *repair bracketing wrong|sv
@@ -63,7 +63,7 @@ A|and then the HERALD EXAMINER collapsed about two years ago because of, oh, I d
 B|So there really is only one major L A now?|qy^d
 A|Yeah,|ny
 A|pretty much.|sd
-A|Uh, there used to be,fact, I think there still is, the, uh, the DAILY NEWS which runs out of the San Fernando Valley|sd
+A|Uh, there used to be, fact, I think there still is, the, uh, the DAILY NEWS which runs out of the San Fernando Valley|sd
 A|and, uh, they're not bad as far as a, uh, you know, as far as a local paper goes.|sd
 A|In fact, it was kind of weird, because I met the, uh, I met the, I met the editor, uh, while I was on, uh, while I was doing jury service in Santa Monica one time|sd
 A|It was like we just sat around and talk about newspapers and stuff.|sd
@@ -80,8 +80,8 @@ B|I used to read TIME magazine a lot,|sd
 B|but I don't read it much anymore.|sd
 A|Yeah,|b
 A|that's, that's kind of a problem for them.|sv
-A|There's a lot of people who fall into that,category.|sv
-B|And then we have a local rag here in town thatBecause we don't get an awful lot of coverage in the DALLAS MORNING NEWS.I pick up periodically and read just to see what's going on in our little community.|sd
+A|There's a lot of people who fall into that, category.|sv
+B|And then we have a local rag here in town that I pick up periodically and read just to see what's going on in our little community. Because we don't get an awful lot of coverage in the DALLAS MORNING NEWS.|sd
 A|Uh-huh.|b
 A|I see.|bk
 A|Yeah,|b
@@ -99,7 +99,7 @@ A|I mean, the way they, I mean, the way they've been handling it before, they pr
 B|Oh, I would imagine in, uh, you know, in, in Dallas they have plenty happening in Dallas to cover, that it gets hard covering all of the suburbs|sd
 B|and, of course, they tend to cover the county,|sd
 B|and we're not in Dallas county,|sd
-B|so theytend to ignore places outside of the county.|sd
+B|so they tend to ignore places outside of the county.|sd
 A|Oh, really?|bh
 A|Yeah,|b
 A|yeah,|b

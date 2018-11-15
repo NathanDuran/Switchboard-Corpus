@@ -5,7 +5,7 @@ A|What do I do,|t1
 A|uh, at the moment it's under chaos.|sd
 A|Uh, right now I'm just, uh,|sd
 A|I, I don't really have a budget per se.|sd
-A|I'm, I, uh, it's called living within your meansYou know, which means at the moment, paying off the VISA bill and keeping everything else under control and hoping the car doesn't collapse|sd
+A|I'm, I, uh, it's called living within your means You know, which means at the moment, paying off the VISA bill and keeping everything else under control and hoping the car doesn't collapse|sd
 B|Uh-huh.|b
 B|Yeah.|aa
 B|That's true.|aa
@@ -33,7 +33,7 @@ A|Yeah.|b
 B|But, we don't know how long it will be a dream.|sd
 B|We, we're kind of real, we're real happy that we don't have any debt,|sd
 B|but we're at the same time we're real scared about incurring it in this, uh, economy right now|sv
-B|sowe're stepping real careful and trying to see what's the best way to save what, the little bit that we do get, you know, on top of expenses every month.|sd
+B|so we're stepping real careful and trying to see what's the best way to save what, the little bit that we do get, you know, on top of expenses every month.|sd
 A|Yeah.|b
 A|So, what do you and your husband do?|qw
 B|We're missionaries actually.|sd
@@ -89,13 +89,13 @@ A|So, uh, what, what, uh, what languages do you speak besides English, of course
 B|Well, I have a smattering of about ten different ones,|sd
 B|but there's,|%
 B|I'm not bilingual in any of them because I kept switching from one area to the other, you know,|sd
-B|since I didyou know, complete a survey in one area, I'd switch to the other.|sd
+B|since I did you know, complete a survey in one area, I'd switch to the other.|sd
 A|Uh-huh|b
-B|So I know the greetings in about ten,and how to do market stuff,|sd
+B|So I know the greetings in about ten, and how to do market stuff,|sd
 B|but in about, uh, about five I guess, I can do better in it.|sd
 B|And my French is pretty good|sd
 B|but it's, uh, French|%
-B|so, uh, I'm terrified to speak in, uhin France.|sd
+B|so, uh, I'm terrified to speak in, uh in France.|sd
 A|In France.|^2
 B|Yeah,|aa
 B|because they're real snobby about their language|sv

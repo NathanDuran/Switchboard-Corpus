@@ -1,6 +1,6 @@
 A|I'm ready.|fo_o_fw_"_by_bc
 B|All right.|b
-A|Do you exercise, uh, during the day timeor go to a gym or anything?|qy
+A|Do you exercise, uh, during the day time or go to a gym or anything?|qy
 B|Oh.|b
 B|Yeah,|ny
 B|I, I used to go to a gym, um, last summer,|sd
@@ -17,7 +17,7 @@ B|Uh-huh.|b
 A|Um, it's really weird,|sv
 A|because I'll get down on the floor,|sd
 A|and I'll holler and tell my cat Nikki,|sd
-A|I'll say, Nikki, I'm going to do my exercises,now.|sd
+A|I'll say, Nikki, I'm going to do my exercises, now.|sd
 A|And she can be upstairs in the bedroom,|sd
 A|and I don't know.|h
 A|She knows what I'm talking about.|sd
@@ -25,7 +25,7 @@ A|You know, pretty soon, here she comes.|sd
 A|So, I lay out there in the living room floor and do my exercises, you know.|sd
 B|Uh-huh.|b
 A|Uh, I had a problem with my back,|sd
-A|so, when I went to physical therapythey gave me some exercises for my back.|sd
+A|so, when I went to physical therapy they gave me some exercises for my back.|sd
 B|Uh-huh.|b
 B|Oh.|b
 A|So, I just try to keep that up, because it seems like if I don't, then, then my back gives me a problem again.|sd
@@ -35,7 +35,7 @@ A| and uh. |%
 B| Oh, that's  good.|ba
 A|Yeah,|aa
 A|it seems like it's, you know,|%
-A|I can tell when I do it and when I don't do ityou know,|sd
+A|I can tell when I do it and when I don't do it you know,|sd
 B|Uh-huh.|b
 A|so you know it's got to be good for you.|sv
 B|Right|b
@@ -70,7 +70,7 @@ B|I go with my dad.|sd
 B|He exercises a lot more than I do, though.|sd
 A|Oh, really?|bh
 B|Oh, yeah,|ny
-B| he's always exercising.|sd
+B| he's  always exercising.|sd
 A| Uh-huh. |b
 A|Uh-huh.|b
 B|But, I'm not that energetic|sd
@@ -84,12 +84,12 @@ A|Do you like you try, try to get my stomach muscles toned up.|qy
 B|Oh, yeah,|ny
 B|that's what I like to do.|sd
 A|You know, because, boy, they seem like they really get out of shape,|sd
-A|and once you get out of shape it's hard to get back into shape you know.|sv
+A|and once you get out of shape it's hard to get back into shape  you know.|sv
 B|Uh-huh.|aa
 B| Yeah. |aa
-A| So, I've just been doing it, I try to do it every nightyou know,|sd
+A| So, I've just been doing it, I try to do it every night you know,|sd
 B|Yeah.|b
-A|like I say, you just, I'd rather do that than watch television anyhowyou know|sd
+A|like I say, you just, I'd rather do that than watch television anyhow you know|sd
 B|Oh.|b
 B|Wow|ba
 A|So it's just kind of nice, and especially when I have my cat that comes down and joins me.|sd
@@ -102,7 +102,7 @@ A|so I don't go swimming.|sd
 B|Yeah,|b
 B|um, I don't swim much, neither.|sd
 A|Uh-huh,|b
-A|but they do say that swimming is really, really good for youyou know, for every part of your body.|sd
+A|but they do say that swimming is really, really good for you you know, for every part of your body.|sd
 B|Yeah.|b
 B|Uh-huh.|b
 A|So I wished I, I wished I did know how to do that.|sd

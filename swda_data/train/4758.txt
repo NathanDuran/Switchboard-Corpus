@@ -13,19 +13,19 @@ A|he just started a woodwork|sd
 A|so he just sent away to get some woodworking books.|sd
 B|Oh.|b
 A| So  what kind do you, uh, get?|qw
-B|Well I have a bunch of computer journalsbecause I'm in computer science|sd
+B|Well I have a bunch of computer journals because I'm in computer science|sd
 A|Uh-huh.|b
 B|but beyond that, uh, lately I've been reading,|sd
 B|I've always liked the NEW YORKER.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
-B| my wife also gets a lot of the food magazines. BON APPETITE, and FOOD  AND WINE and GOURMET. |sd
+B| my  wife also gets a lot of the food magazines. BON APPETITE, and FOOD  AND WINE and GOURMET. |sd
 A| Is it, |qy
 A| Yeah,|b
 A|I used to  take that.|sd
 A|Right.|b
 B|Yeah.|b
-B|And she still likes to get TIMEwhich I've never liked very much|sd
+B|And she still likes to get TIME which I've never liked very much|sd
 A|Yeah.|b
 B|but she seems to.|sd
 A|Yeah.|b
@@ -35,8 +35,8 @@ A|if I, you know, if I happen to find it, I'll go ahead and read it someplace, y
 A|but other than that I never, I never liked that really.|sd
 B|Do you read a newspaper?|qy
 A|I read my newspaper.|na
-A| I can hardly  wait in the mornings for the  newspaper to get here, you know.|sd
-B| Yeah. larger computer ones.|b
+A| I can hardly  wait in the mornings for the  newspaper  to get here, you know.|sd
+B| Yeah.  larger computer ones.|b
 A|In fact, it puts it out on Tuesdays and Thursdays I can hardly wait to get that to get the local news|sd
 B|I haven't bought it now for about eight years.|sd
 B|But when I used to get it, it was about five hundred pages, about three hundred of them advertising.|sd
@@ -59,7 +59,7 @@ A|well I, I only, you know, subscribe to the things I'm interested in.|sd
 A|I used to be into coin collecting|sd
 A|so I used to get the coin magazine, the paper actually is what it was, you know.|sd
 A|I used to get that.|sd
-A|So now that I'm into dolls, that's aboutall I really, really want, you know.|sd
+A|So now that I'm into dolls, that's about all I really, really want, you know.|sd
 B|Uh-huh.|b
 B|Have you ever, uh, read or subscribe to CONSUMER REPORTS for any length of time?|qy
 A|No,|nn
@@ -72,14 +72,14 @@ B|one of the reasons I like just to pick up magazines in other fields is that yo
 A|Uh-huh.|b
 B|So I've always had this problem with CONSUMER REPORTS that in the areas that I know a lot about, I disagree with them.|sd
 A|Uh-huh.|b
-B|And I always wonder whether there are people who know a lot about every area disagreeing with them on everything,or, or what's going on|sd
+B|And I always wonder whether there are people who know a lot about every area disagreeing with them on everything, or, or what's going on|sd
 A|Uh-huh.|b
 B|So I, like I've picked up now a subscription to one of the travel agent, uh, organization magazines|sd
 B|and it's a ridiculous difference when you start reading from their perspective.|sd
 B|Uh, you know, their major interest is in commissions|sd
 B|and, you know, there's very little talk about the quality of places or airlines.|sd
 B|Their major talk is about, you know, commissions and commission rebates and how they won't suggest hotels to people if the commission's not a, the full ten percent or whatever it is|sd
-B|andit gives you a different perspective on what people do.|sd
+B|and it gives you a different perspective on what people do.|sd
 A|Uh-huh.|b
 A|Uh-huh,|b
 A|uh-huh.|b

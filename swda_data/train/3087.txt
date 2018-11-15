@@ -42,7 +42,7 @@ B|have you heard of Nat, heard of Nat King Cole?|qy
 A|Yes,|ny
 A|I have.|sd
 B|Okay.|b
-B|Well, um, um, do you play any musical instruments or anything.At, at the same time, or, *slash error should be qy|qy
+B|Well, um, um, do you play any musical instruments or anything. At, at the same time, or, *slash error should be qy|qy
 A|Um, I played the accordion for seven years|sd
 A|and I played the clarinet for seven years also.|sd
 A|No,|nn
@@ -54,7 +54,7 @@ B|Like, so you're in the marching band and stuff in high school.|qy^d
 A|I was,|na
 A|yes.|ny
 B|Yeah,|b
-B|I, I played the baritone hornin high school band and in college.|sd
+B|I, I played the baritone horn in high school band and in college.|sd
 A|Oh, okay.|bk
 B|So, and, my wife played flute in high school.|sd
 A|Uh-huh.|b
@@ -108,7 +108,7 @@ B|and he's been to see PHANTOM, and LES MISERABLES and bunch of other things up 
 B|so,|%
 A|I would love to be able to go see LES MISERABLES.|sd
 B|And he does it,|sd
-B|he can go if they get sixteen dollar ticketsto that thing,|sd
+B|he can go if they get sixteen dollar tickets to that thing,|sd
 A|Oh, my gosh.|ba
 B|yeah,|%
 B|yeah,|%
@@ -123,7 +123,7 @@ B|That's under his control,|sd
 B|and he said it was a great seat.|sd
 A|Holy smoke.|ba
 B|So, he, he's been to, they've been to see it several times.|sd
-A|Oh, I would love to go see that, and CATSCHORUS LINE|sd
+A|Oh, I would love to go see that, and CATS CHORUS LINE|sd
 B|Yeah.|b
 B|Yeah.|b
 A|I would love to be able to go see those.|sd
@@ -182,7 +182,7 @@ A|and I thought, Oh my gosh,|sd
 B|So he listens to New Wave|bf
 B|and you listen to the oldies.|bf
 A|Yeah|aa
-B|That's kindof different.|sv
+B|That's kind of different.|sv
 A|Well,|%
 B|Well, that's good though, you know.|sv
 B|It's good to cover all the bases there.|sv
@@ -196,7 +196,7 @@ B|but we just,|%
 B|at the same night we bought that Nat King Cole album, we bought Garth Brooks' album, No Fences.|sd
 A|Uh-huh.|b
 B|That is excellent.|sd
-B|We,Well, we, I've never, never listened.|ng
+B|We, Well, we, I've never, never listened.|ng
 A|Do you like Randy Travis?|qy
 B|I mean, I've, I've probably heard him,|sd
 B|but I've never bought any of his music.|sd
@@ -205,7 +205,7 @@ B|Garth Brooks is probably the only country album we have,|sd
 B|or, no wait, my wife bought an album of Hank Williams' greatest hits.|sd
 A|Oh, Hank Williams Junior?|qy
 B|Nope,|nn
-B|this is Hank Williamssenior,|sd
+B|this is Hank Williams senior,|sd
 A|Oh.|b
 B|so these are a bunch of old recordings.|sd
 A|Uh-huh.|b
@@ -230,20 +230,20 @@ B|Uh-huh.|b
 A|but, uh, I, you know, I, I really enjoy listening to his music.|sd
 B|Which album, which of his albums do you think is the best?|qw
 A|Oh, I don't know.|no
-A|If I were you, I would get the Greatest Hits albumif he had one, because you know, that would have a mixture of all his, you know, top songs on it.|ad
+A|If I were you, I would get the Greatest Hits album if he had one, because you know, that would have a mixture of all his, you know, top songs on it.|ad
 B|Okay.|b
 B|Uh-huh.|b
 A|But, um, we have, I think, four records of his.|sd
 A|I can't, you know, name the names of them off hand|sd
 B|Uh-huh.|b
 A|but we have, I think, all his records so far,|sd
-A|and all my brothers and sisters listen to them, even the ones that like the heavy metalthey really enjoy listening to him,|sd
+A|and all my brothers and sisters listen to them, even the ones that like the heavy metal they really enjoy listening to him,|sd
 B|Uh-huh.|b
 A|so.|%
 B|Uh-huh.|b
 A|You know, maybe if you did like Hank Williams and Garth, you know, maybe you would enjoy uh, Randy Travis.|sv
 B|Well, I, I think we'll probably get one, one of his albums, because we do kind of like it,|sd
-B|butyou know, it's kind of different.|sv
+B|but you know, it's kind of different.|sv
 A|Uh-huh.|b
 A|Yeah,|b
 B|So, so it's good.|sv

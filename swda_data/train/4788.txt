@@ -16,7 +16,7 @@ A|We did a lot of different things.|sd
 A|We'd stop when we wanted to, that kind of stuff.|sd
 A|So, we kind of did a little bit of hiking, sure, and a little bit of, uh, sightseeing, uh, different areas. Uh, sitting back at different areas and spending hours,|sd
 A|we never had really a time limit,|sd
-A|we just kind of did what we wantedto do for that day.|sd
+A|we just kind of did what we wanted to do for that day.|sd
 B|Um.|b
 A|Very comfortable,|sd
 A|so.|%
@@ -24,14 +24,14 @@ B|Were you up in, in Wisconsin|qy
 B|or would you go into|qrr
 B|where would you camp  ? |qw
 A| Well,  there's, uh, places in Wisconsin.|sd
-A|There's the Apostle Islands, uhwhich are in Bayfield which is a wonderful place.|sd
+A|There's the Apostle Islands, uh which are in Bayfield which is a wonderful place.|sd
 B|Uh-huh.|b
 A|And then there's also, uh, what we found, uh, in the state of, uh, South Dakota, the Black Hills.|sd
 B|Oh, yeah.|b
 B| That's beautiful. |sd
 A| And we just have this,  uh, really good time there.|sd
 A|One thing is they don't have mosquitoes|sd
-A|and, uh,  sorry to say, and, uh, in Wisconsin we do,|sd
+A|and, uh,  sorry to say,  and, uh, in Wisconsin we do,|sd
 A|so, that kind of puts a little bit of a hamper on your, uh, you know,|sd
 A|if, if you're going to go camping, who wants to deal with bugs|qh
 A|and, uh|%
@@ -42,21 +42,21 @@ A|and it's just wonderful not to be bugged all night long with a humming mosquit
 B|Oh, yeah.|b
 B|Well, most of my camping,|sd
 B|I haven't done much since I was a kid|sd
-B|but, uh, we'd, basically, take the tent up in the Sierras and, uh, usually just camp near some stream or some  lake.|sd
+B|but, uh, we'd, basically, take the tent up in the Sierras and, uh, usually just camp near some stream  or some  lake.|sd
 A| Uh-huh. |b
 A|Sure.|b
 B|And, uh, just,|%
 B|it wasn't even a, a full tent.|sd
-B|It would be more a tarp, uhstrung up between trees|sd
+B|It would be more a tarp, uh strung up between trees|sd
 A|Sure.|b
 A|Uh-huh.|b
 A|Sure.|b
 B|and, uh, we just thought it was absolute heaven.|sd
 A|Yeah,|b
 A|yeah.|b
-B|Uh, there was certainly nothing like a, a bathroom, a shower or anything,near by|sd
+B|Uh, there was certainly nothing like a, a bathroom, a shower or anything, near by|sd
 B|It was  dig your own hole|sd
-B|and, uh  that anymore,I'm not sure I'd do thatand I|sd
+B|and, uh  and I I'm not sure I'd do that  that anymore,|sd
 A| That was really called  roughing it,|^2
 A|yeah.|%
 A|I,|%
@@ -65,11 +65,11 @@ A| Yeah,|%
 A|see |%
 B| but it's, it, uh, uh,|%
 B|actually some friends of mine and I are planning to camp this summer, uh,  for four days.|sd
-B|Also going fishing, uh|sd
+B|Also  going fishing, uh|sd
 A| Uh-huh.|b
 A|Sure. |b
 A|Uh-huh.|b
-B|and I have a idea it's going to be a, a lot more equipment and a lot more stuff than before. |sd
+B|and I have a idea it's going to be a, a lot more equipment and a lot more stuff than  before. |sd
 A|Than you,|^2
 A|sure.|b
 A| Than it,  when you were younger,|^2
@@ -87,7 +87,7 @@ A|K O A are wonderful.|sd
 A|It's kind of it's kind of the, uh, yuppie type of camping because they have showers,|sd
 A|they have things for kids to do.|sd
 A|They have swimming pools, things like that.|sd
-A| If you can find, uh, some really nice, clean, uh, campgrounds versus, uh, if you go to state parks, uh,|sd
+A| If you  can find, uh, some really nice, clean, uh, campgrounds versus, uh, if you go to state parks, uh,|sd
 B| Oh, my. |ba
 A|we have found state parks, not that they're lacking|sd
 A|but, uh, they're certainly not up to a standard of a K O A where it's, you know, a little bit cleaner.|sd
@@ -97,6 +97,6 @@ A|State parks, you know, you get a little bit fearful too, uh, you know, things 
 A|but, uh, you know, it's, it's a little bit different.|sd
 A|But, so we've always kind of stayed with a K O A and then, uh, did other things besides just sit at the campground at night.|sd
 A|That's the only time you really use your campground.|sd
-A|If you're going to be gone all day long, walking someplace or doing tourism or whateveruh, you're camping really is just for like in the evening to start the fire, to sit back and watch a fire, uh, to enjoy that, you know, and then to get up in the morning and get a shower and get cleaned up, that kind of stuff.|sd
+A|If you're going to be gone all day long, walking someplace or doing tourism or whatever uh, you're camping really is just for like in the evening to start the fire, to sit back and watch a fire, uh, to enjoy that, you know, and then to get up in the morning and get a shower and get cleaned up, that kind of stuff.|sd
 B|Uh-huh.|b
 A|So we never really spent that much time at the campground as much as we did,|sd

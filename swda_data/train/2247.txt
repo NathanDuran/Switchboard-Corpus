@@ -37,13 +37,13 @@ A|Wow.|ba
 B|And that, I know that, uh, brings an eighty eighty-eight machine to its knees because I had taken it over from a friend who was working on it|sd
 B|and he had a two eighty-six machine,|sd
 A|Yep.|b
-B|and it brought it to its knees.Just in the ability to handle.|sd
+B|and it brought it to its knees. Just in the ability to handle.|sd
 A|Wow.|ba
-B|And then I have, uh, a three eighty-six F X a sixteen bit machine,at home.|sd
+B|And then I have, uh, a three eighty-six F X a sixteen bit machine, at home.|sd
 A|Uh-huh.|b
 B|And I'm really pleased with it.|sd
 A|Uh-huh.|b
-B|It manages to take care of all my home needs in terms of word processing and spreadsheets and,uh, databases, database searches.|sd
+B|It manages to take care of all my home needs in terms of word processing and spreadsheets and, uh, databases, database searches.|sd
 A|Sure.|ba
 A|Uh-huh.|b
 B|Uh, what I've gotten into more recently are the tools to use them.|sd
@@ -63,10 +63,10 @@ B|I used it on, uh, some other machines in days gone by and was real pleased to 
 B|It was a real memory hog when you started making large blot changes to it.|sd
 A|Uh-huh.|b
 B|The,|%
-B|at least the version I had tended to keep copies of that.Not a fun thing to try to recover from.Of what you were changing and deleting off in memory until all of, all of a sudden you got a disc full error.|sd
+B|at least the version I had tended to keep copies of that. Of what you were changing and deleting off in memory until all of, all of a sudden you got a disc full error. Not a fun thing to try to recover from.|sd
 A|Oh.|b
 A|Huh.|b
-A|I canI can believe that.|ba
+A|I can I can believe that.|ba
 B|Very frustrating.|sd
 B|Uh, but again I've been dealing with large files both data and, and otherwise.|sd
 B|Uh, that was a engineering spec on B two.|sd
@@ -74,7 +74,7 @@ B|You come here with the B level of specs?|qy
 A|No,|nn
 A|not really.|sd
 A|I'm not that up be on that sort of thing.|sd
-B|Well, it's just a huge file that tries to describe the requirements of what you're trying to build.Uh, to one level down from assistant description.|sd
+B|Well, it's just a huge file that tries to describe the requirements of what you're trying to build. Uh, to one level down from assistant description.|sd
 A|Oh, okay.|bk
 A|Oh, okay.|bk
 A|Okay.|bk
@@ -101,11 +101,11 @@ A|Okay,|bk
 A|okay.|bk
 A|Because I, I had done capital packages for two eighty-sixes and three eighty-sixes,|sd
 A|but I didn't know they had a four eighty-six just yet.|sd
-B|It does a few more things,uh, than had been available before.|sd
+B|It does a few more things, uh, than had been available before.|sd
 A|Uh-huh.|b
 A|Yeah.|b
 B|But I'm not sure that it's such a massive improvement. Uh, you know,|sd
-B|once you get passed thirty-three megahertz, all help is, kind of lost in the, in the translation.Because you no longer can think that fast anyway.|sv
+B|once you get passed thirty-three megahertz, all help is, kind of lost in the, in the translation. Because you no longer can think that fast anyway.|sv
 A|Sure.|ba
 A|Yeah.|b
 B|Well, okay.|fo_o_fw_"_by_bc

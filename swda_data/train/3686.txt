@@ -46,7 +46,7 @@ A|One starter will fit all of them.|sd
 A|So they've got a whole lot of torque,|sd
 A|but to do that, they did it,|sd
 A|use an underdrive system,|sd
-A|but they geared it down so the motor spins really fastso it's got, to spin for very long,|sd
+A|but they geared it down so the motor spins really fast so it's got, to spin for very long,|sd
 B|Uh-huh.|b
 A|it's kind of tough on the bushings.|sd
 B|Yeah.|b
@@ -116,7 +116,7 @@ B|Oh, wow.|ba
 A|Well, till you got crazy with it.|sd
 A|You know, you get the four barrel all worked up|sd
 A|and suddenly it, it, it drops off fast,|sd
-A|butlong as you didn't spin the tires too much or, or spend too much time with the secondaries kicked in it, it didn't do too bad on gas.|sd
+A|but long as you didn't spin the tires too much or, or spend too much time with the secondaries kicked in it, it didn't do too bad on gas.|sd
 B|Yeah.|b
 A|Didn't have to work too hard to move the car around.|sd
 B|Now, do you think since they started with electronic ignition that it improves the way the car runs?|qy

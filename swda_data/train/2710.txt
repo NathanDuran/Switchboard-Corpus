@@ -1,7 +1,7 @@
 B|I started when I was in college.|sd
 B|You know, they always offer credit cards for college students.|sd
 A|Yes.|b
-B|So I went ahead, and accepted every one that I was offered.Because I knew it would be easier to go ahead and get them and establish credit early.|sd
+B|So I went ahead, and accepted every one that I was offered. Because I knew it would be easier to go ahead and get them and establish credit early.|sd
 A|Uh-huh.|b
 A|Right.|b
 B|So, I I pack around a lot of them,|sd
@@ -35,7 +35,7 @@ A|I, uh, I'm trying my best right now to pay off some of mine.|sd
 A|I, I've, I've paid off about four credit cards this year.|sd
 B|Uh-huh.|b
 A|And, uh, but still I have some that are, are up to the limit.|sd
-A|And especially the Visa Cardthat you can go and get cash on|sd
+A|And especially the Visa Card that you can go and get cash on|sd
 B|Yeah.|b
 A|And it seems like every time I'm short of cash, I just go get, get it from Visa.|sd
 B|Now that's one, that's|%
@@ -45,7 +45,7 @@ B|Can you use it like at a bank machine|qy^d
 A|Uh,|b
 B|or,|%
 A|Well, uh, you can go in a bank and just hand them the Visa Card and say, "I want a cash advance."|sd
-A|Or if they've sent you a, uh, a number that you can use. You know, a, a personal identification number you can do  that.that you can use in the, uh, impact machines or whatever, you,|sd
+A|Or if they've sent you a, uh, a number that you can use. You know, a, a personal identification number that you can use in the, uh, impact machines or whatever, you,  you can do  that.|sd
 B|Yeah.|b
 B| Oh, okay. |bk
 A|Because I have one that I don't have a pin number for.|sd
@@ -70,13 +70,13 @@ B|But it's hard,|sv
 B|I mean, it's, it's tempting when you see something to say, "Well, I'll just charge it."|sd
 B|And sometimes I'll do that,|sd
 B|but usually I, I will try to pay everything off the next month|sd
-B|orthe ones that usually have an outstanding balance all the time, I'll, I'll pay more than the minimum payment.|sd
+B|or the ones that usually have an outstanding balance all the time, I'll, I'll pay more than the minimum payment.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|Just I I feel like even that little bit helps.|sd
 A|Right.|b
 A|Well, you know, the way the economy's going and inflation and the recession and all that, I think we, we really need to try to stay out of debt as much as possible.|sd
-A|That's, that's why I've, I've really started to try to, to pay off mine and get out of debt. Because we never know when we might, you know, get laid off orsomething.|sd
+A|That's, that's why I've, I've really started to try to, to pay off mine and get out of debt. Because we never know when we might, you know, get laid off or something.|sd
 B|I know it.|ba
 A|Especially me.|sd
 A|I work for Texas Instruments,|sd
@@ -88,14 +88,14 @@ A|Where are you?|qw
 B|In Johnson City, Tennessee.|sd
 A|Johnson City,|b^m
 A|uh-huh.|b
-A|Iknow they're selling out somebody in Colorado Springs.|sd
+A|I know they're selling out somebody in Colorado Springs.|sd
 B|Yeah.|b
 B|Yeah.|b
 B|They just, they just announced that, didn't they?|bf
 A|Yeah.|ny
 B|So, I mean, it's, it's kind of a bad time to be a slave to your credit cards.|sv
 A|It, it certainly is.|ba
-A|I've, uh, I have worked on a part, part time job, uh, where I was a collector.For, uh, uh, a jewelry company|sd
+A|I've, uh, I have worked on a part, part time job, uh, where I was a collector. For, uh, uh, a jewelry company|sd
 B|Uh-huh.|b
 A|People, uh, that|%
 A|they just had this jewelry account.|sd
@@ -110,13 +110,13 @@ A|Something, something happens,|sd
 A|you know, and you hear so many stories listening to them. Like, uh, you know, they lost their job|sd
 A|or, uh, they, they've signed for a friend.|sd
 A|You know, they got it in their name|sd
-A|but theygot it for a friend|sd
+A|but they got it for a friend|sd
 B|Oh.|b
-A|and then the friendwouldn't pay them.|sd
+A|and then the friend wouldn't pay them.|sd
 B|Didn't pay them.|^2
 A|and now they're stuck with the bill,|sd
 A|and it's ruining their credit|sd
-A|andyou really have to watch it, this you know.|sd
+A|and you really have to watch it, this you know.|sd
 B|Man.|ba
 A|Because,|%
 B|That's scary.|ba
@@ -125,7 +125,7 @@ A|Because every, every month all of these credit cards report to the credit bure
 B|I didn't realize that.|ba
 A|Yeah.|b
 A|And if you, if you're, uh,|%
-A|it's bad because if you, you know, your bill is due on the fifteenththen you're not past due until the fifteenth of the next month.|sd
+A|it's bad because if you, you know, your bill is due on the fifteenth then you're not past due until the fifteenth of the next month.|sd
 B|Yeah.|b
 B|Oh, okay.|b
 A|But, you know, if you, if you pay one day after that fifteenth, you're not one day late,|sd
@@ -148,7 +148,7 @@ A|You might even find somebody's been reporting on you|sd
 A|and you didn't even know it.|sd
 A|You know, you, I mean you might think you're paying something on time|sd
 A|or and you, by that day|sd
-A|and you're thirty days is not real bad though anyway. phone line that persists through the end of the recording. Sounds like a cordless phone is beingIf you've got a charge off on your credit report or something like that.|sd
+A|and you're thirty days is not real bad though anyway. phone line that persists through the end of the recording. Sounds like a cordless phone is being If you've got a charge off on your credit report or something like that.|sd
 B|Yeah.|b
 A|That's when it really gets bad.|sd
 A|Or something you haven't paid in sixty days or ninety days, you know. And things like that|sd
@@ -158,7 +158,7 @@ B|And since they don't have the yearly fee.|sd
 A|Do they charge a lot of interest on that card?|qy
 B|I don't know.|no
 A|I don't,|%
-B|I've never, I haven't gotten one.Just because it's, uh, uh,|sd
+B|I've never, I haven't gotten one. Just because it's, uh, uh,|sd
 A|Uh-huh.|b
 B|I felt like with Visa and Mastercard and American Express you didn't need another one.|sd
 A|Uh-huh.|b
@@ -170,13 +170,13 @@ A|Or there's a couple of other places that are able to charge us like twenty-one
 A|I know, I had a charge with, uh, Spiegel,|sd
 A|and I hadn't read the, uh, terms of the credit agreement really.|sd
 B|Yeah.|b
-A|And, uh, when I did, I, you know, I realized that, that it just looked, seemed like I was never paying the balance off,you know.|sd
+A|And, uh, when I did, I, you know, I realized that, that it just looked, seemed like I was never paying the balance off, you know.|sd
 A|And I looked at the credit card agreement one day,|sd
 A|and it was like twenty-three percent interest.|sd
 B|Holy cow!|ba
 A|And that's the one bill that I hurry up, hurried and paid up.|sd
 B|Definitely.|ba
-A| And, and I've always watched it since then.|sd
+A| And,  and I've always watched it since then.|sd
 B| That's awful. |ba
 A|You really have to watch those interest rates.|sd
 A|I mean,|%
@@ -184,7 +184,7 @@ B|I mean there's no point in giving them any more money than we have to.|sd
 A|That's true.|ba
 B|So,|%
 A|So anyway, they can't bill you any higher than eighteen percent, I think, in, in Texas.|sd
-A|Butthere, there are a couple of states that can.|sd
+A|But there, there are a couple of states that can.|sd
 B|Oh, that's great.|ba
 A|And one to watch out for is anybody that bills you out of Atlanta, Atlanta, Georgia.|sd
 B|I'll try to remember that one.|oo_co_cc

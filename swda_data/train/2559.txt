@@ -4,10 +4,10 @@ B|Well, I don't really like that very much.|sd
 A|Yeah, uh,|aa
 A|the special on channel thirteen that was broadcast, I think, last week or so ago, it detailed how this one person went about finding out this particular from this particular person his home mortgage, how much he pays for it, what his payments are, uh, his, uh, Social Security number, driver's license, any kind of records he may have. Uh, their credit card and the status of their credit.|sd
 B|What was the reason why somebody was trying to find out all that stuff?|qw
-A|It was just as a demonstration to showthose who were watching it how easily obtainable information is on any single person.|sd
+A|It was just as a demonstration to show those who were watching it how easily obtainable information is on any single person.|sd
 B|Oh.|bk
 A|And it was,|%
-A|mostly it dealt with, uh, marketing companies, these, uh, direct marketing, associations. |sd
+A|mostly it dealt with, uh, marketing companies, these, uh, direct marketing,  associations. |sd
 B| Oh, yeah. |b
 B|Uh-huh.|b
 A|That was the primary subject.|sd
@@ -22,7 +22,7 @@ A|Uh-huh.|b
 B|Something that I feel is a, is a, pretty much an invasion of privacy is something that's really so common that it's accepted as the norm now, is the the open office concept.|sv
 A|The open office?|qy
 B|Uh-huh,|ny
-B|where they have the, you know, the little partition dividers, throughout  a, a large room|sd
+B|where they have the, you know, the little partition dividers,  throughout  a, a large room|sd
 A| Yeah. |b
 B|and, and people have little cubicles.|sd
 B|Well, that's all fine and good,|sv
@@ -36,7 +36,7 @@ A|Yeah,|b^m
 A|there's, there is,|%
 B|And, and it's not, it's not just that,|sv
 B|it's, uh, the whole thing about, you know, if, if you're trying to concentrate, well, it's rather hard,|sv
-B|sometimes it's almost impossible to dobecause, um, you know, your, uh, your time , your space is, is not your own space.|sv
+B|sometimes it's almost impossible to do because, um, you know, your, uh, your time , your space is, is not your own space.|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|And I work in a situation like that|sd
@@ -57,7 +57,7 @@ A|So, yeah,|b
 A|but, um, I guess we're changing ever so rapidly in the devices of communications that anything can be obtained from anybody's record,|sv
 B| Yeah. |b
 A| or  the computers, the, the big advent of that, I believe, because it, they can all hold such large data bases on anybody that all you have to do is touch a button|sv
-A|and it appearsin front of them,|sv
+A|and it appears in front of them,|sv
 B|Uh-huh.|b
 A|and you don't have to,|sv
 A|I, I know the government sells information to private companies about individuals or families.|sv
@@ -81,7 +81,7 @@ A|Um, I don't know,|h
 A|it's, it's still a, a free, I suppose, country insofar as we're, we're able to obtain information.|sv
 A|And I wouldn't be for total banning of, uh, all information|sd
 A|or, it's mostly the private information that we're all concerned about.|sv
-A|But it's, it's hard to defineuh, a lot of those boundaries.|sv
+A|But it's, it's hard to define uh, a lot of those boundaries.|sv
 B|Yeah.|b
 B|It really is.|aa
 B|It's|%

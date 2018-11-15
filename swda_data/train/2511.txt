@@ -39,7 +39,7 @@ A|That makes sense.|ba
 B|I mean it's, um, I don't know whether I've, I've just reached a point, you know,|sd
 B|it's, it's real rough in the winter time.|sd
 A|Huh, yes.|b
-B|And, uh, so, I try to make sure that, uh, by the time fall runs around, because we actually have winters here on the east coast, um,that, uh, I have, you know, the car's in pretty good shape enough to last through the winter|sd
+B|And, uh, so, I try to make sure that, uh, by the time fall runs around, because we actually have winters here on the east coast, um, that, uh, I have, you know, the car's in pretty good shape enough to last through the winter|sd
 A|Right|b
 B|and, uh, then springtime I usually end up giving them, the, uh, a tune-up and make sure that they're running well,|sd
 B|and, uh, you know, it's like I had the muffler go out on my, on my car, shortly before it was required to go,|sd
@@ -86,7 +86,7 @@ A|Yeah.|b
 B|so, but, I think the difference is that, uh, when you own the car you take more care in what you're doing,|sd
 A|Uh-huh.|b
 B|and you want to make sure that it's done right and put back together right,|sd
-B|and, you know, I've, I've in the past I've had brake jobs done by someone that when I went back and looked at it some months later I'd find something drastically wrong with it,You know, those kind of things,you know, like a spring that was put in incorrectly which could have resulted in brakes failing and me having an accident.|sd
+B|and, you know, I've, I've in the past I've had brake jobs done by someone that when I went back and looked at it some months later I'd find something drastically wrong with it, you know, like a spring that was put in incorrectly which could have resulted in brakes failing and me having an accident. You know, those kind of things,|sd
 A|Right.|b
 A|Right.|b
 B|and when you have a vehicle that's being used by, you know, other members of your family, you know, you don't want that kind of a situation to come up.|sd
@@ -146,7 +146,7 @@ A|I don't feel the need to, um, you know, be a feminist on that issue and say I 
 A|I'm, I'm happy to let them run the cars because I have so, many other responsibilities that, um,|sd
 A|so, I haven't tried to do a lot myself.|sd
 B|Uh, I trained my, uh, my wife in the in, in doing things,|sd
-B|in fact, uh, when I, uh, first transferred down to, uh, Texas Instruments back in nineteen eighty-seven,because she was up here for a month or so, after I wasum, uh, when I left here, uh, she had to change a set of plugs on the car|sd
+B|in fact, uh, when I, uh, first transferred down to, uh, Texas Instruments back in nineteen eighty-seven, um, uh, when I left here, uh, she had to change a set of plugs on the car because she was up here for a month or so, after I was|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|and, uh, it was an interesting experience for her.|sd
@@ -160,7 +160,7 @@ B|Yeah,|b
 B|yeah,|b
 B|I think it's important that everyone know, you know, basically how, how the darn engine works,|sv
 A|Uh-huh.|b
-B|it helps you figure out what's wrong with it,you know,|sd
+B|it helps you figure out what's wrong with it, you know,|sd
 A|Uh-huh.|b
 B|I've, I've been out with my sister before when, you know, her car died on the highway|sd
 B|and I happened to be with her and managed to get her to the other side of the road because it was dark and all,|sd

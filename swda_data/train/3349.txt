@@ -4,7 +4,7 @@ B|I'm making T shirts and sweat shirts.|sd
 B|In fact that's what I was doing when you called.|sd
 A|Well, that sounds interesting.|sv
 A|What kinds of, uh, sweat shirts and T shirts do you make?|qw
-B|Um, right now I'm making Christmas ones with poinsettias and bears andall that kind of thing.|sd
+B|Um, right now I'm making Christmas ones with poinsettias and bears and all that kind of thing.|sd
 A|Okay.|b
 A|Is that silk screening, or,|qy
 B|Um, no,|nn
@@ -36,14 +36,14 @@ A|When I was growing up I was, was into coin collecting,|sd
 A|and that dropped off about the time I hit puberty, I guess,|sd
 A|and then, my hobbies in high school went just to the sports.|sd
 A|Now my latest one is classic cars.|sd
-A|I'veI had a sixty-six Mustang I was rebuilding.|sd
+A|I've I had a sixty-six Mustang I was rebuilding.|sd
 B|Um.|b
 A|Almost had it done,|sd
 A|and I went on, went ahead and sold it.|sd
 B|Oh, my gosh.|ba
 A|But it was fun.|sd
 A|I really enjoyed it.|sd
-B|Well, how'd you learn to do thatto fix them up?|qw
+B|Well, how'd you learn to do that to fix them up?|qw
 A|Oh, you just,|sd
 B|You just get a book that tells you how to do it or what?|qy
 A|No,|nn
@@ -53,7 +53,7 @@ A|and then, uh, you know, you can,|sd
 A|I, uh, was just in a supermarket|sd
 A|and I seen a, a magazine for, you know,|sd
 A|basically it, it was called MUSTANG MAGAZINE|sd
-A|andand so I bought it|sd
+A|and and so I bought it|sd
 B|Uh-huh.|b
 A|and they had, uh, some names, some companies that sold mustang parts,|sd
 A|and I just started ordering some parts|sd
@@ -140,7 +140,7 @@ B|So I'd like to go back, because we had, you know,|sd
 B|everything was rushed|sd
 A|I bet.|aa
 B|everything was like an hour or two hours at the Louvre, you know, things like that where you need the whole day,|sd
-B|butbut it really,|%
+B|but but it really,|%
 A|Right.|b
 A|That's where a camcorder would come in handy.|sv
 B|Exactly,|aa

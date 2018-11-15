@@ -26,7 +26,7 @@ B|like my mom likes flowers, so we have a lot of flowers too.|sd
 A|Yeah.|b
 A|I had a whole bunch of flowers and things.|sd
 A|Well, I don't have as many now.|sd
-A|We lived in the countryfor a long time,|sd
+A|We lived in the country for a long time,|sd
 B|Uh-huh.|b
 A|and I had a whole bunch.|sd
 A|But now, I work and I live in the city so, that sort a kind of hung it up.|sd
@@ -37,12 +37,12 @@ A|well my husband made a little garden out there with some tomatoes and stuff in
 A|but I decided that I don't like grass,|sd
 A|I don't like to have to have to pull grass|sd
 B|Uh-huh.|b
-A|so I decided that I would plant me a tomato plant in a flower potand see how it worked.|sd
+A|so I decided that I would plant me a tomato plant in a flower pot and see how it worked.|sd
 B|Uh-huh.|b
 A|And mine looks real good|sv
 B|You know, I've seen a lot of people that do that.|sd
 A|Yeah.|b
-B|I've seen, you know, like elderly peoplethat really can't get out too much sometimes.|sd
+B|I've seen, you know, like elderly people that really can't get out too much sometimes.|sd
 A|Uh-huh.|b
 B|Like we,|%
 B|I have a great aunt that lives in a,|sd
@@ -59,7 +59,7 @@ A|I had never thought about that.|sd
 A|I could probably plant one and bring it in, and just like I bring my plants in every year.|sd
 A|That'd be neat.|sd
 A|Well, I got a patio,|sd
-A|and I tried to talk my husband into just buying a whole bunch of potsto grow.And planting them all in it, you know, because that's favorite thing, is tomatoes|sd
+A|and I tried to talk my husband into just buying a whole bunch of pots And planting them all in it, you know, because that's favorite thing, is tomatoes to grow.|sd
 B|Uh-huh.|b
 A|And so, um, but he said, No,|sd
 A|he was going to plant in the earth, you know, like he always has,|sd
@@ -100,7 +100,7 @@ A|But, um, they look like orchids, is what they look like,|sd
 A|but they look like different color ones,|sd
 A|like I have, uh, yellow ones,|sd
 A|and I have red ones,|sd
-A|andI have purple ones|sd
+A|and I have purple ones|sd
 B|Uh-huh.|b
 A|and then they have like, you know, the real velvety looking stuff inside|sd
 B|Oh, yeah.|b
@@ -116,7 +116,7 @@ A|They were like, well,|sd
 A|the most expensive one that she gave me a bulb for was like thirty-two fifty for one bulb.|sd
 B|Oh, my gosh.|ba
 A|So what she would do is she would plant them, and they multiplied.|sd
-A|So the next year when she, you know, weeded them outso they wouldn't be as thick, then she'd give me some of the bulbs.|sd
+A|So the next year when she, you know, weeded them out so they wouldn't be as thick, then she'd give me some of the bulbs.|sd
 B|Uh-huh.|b
 A|And, I mean, I have some of the most beautiful day lilies that you've ever seen.|sd
 A|So, when we decided to move, it was really funny because, like I said, I had a whole bunch of different kinds of things,|sd
@@ -134,10 +134,10 @@ A|and I said, Yeah,|sd
 A|I think we will leave that.|^q
 B|That'd be funny.|ba
 A|But, I brought,|sd
-A|my kids, when they were little they had given me some azaleasso I brought all my azalea bushes.|sd
+A|my kids, when they were little they had given me some azaleas so I brought all my azalea bushes.|sd
 B|Uh-huh.|b
 B|Yeah.|b
-A|And you know, I brought, I brought as much as I could bringwithout, you know, really tearing up their place.|sd
+A|And you know, I brought, I brought as much as I could bring without, you know, really tearing up their place.|sd
 B|Uh-huh.|b
 A|But, just like, um, you know,|sd
 A|the people that bought ours, bought the place, but, um, I knew that they would, you know,|sd
@@ -149,7 +149,7 @@ B|Uh-huh.|b
 A|But, I just couldn't see it, you know, going off and leaving everything like that.|sd
 B|Yeah.|b
 A|Because this house, I really liked it and everything, but the yard was a lot to be desired.|sd
-A|Ohthere was nothing.|sd
+A|Oh there was nothing.|sd
 B|Oh.|b
 A|These people,|sd
 A|we have one ugly pine tree.|sd
@@ -222,11 +222,11 @@ B|but then there'll be like maybe two years in a row that we can't get anything.
 A|Now that's, I mean, that's something that grows like a weed here.|sd
 B|Oh, wow.|ba
 A|I mean, it grows like a weed.|sd
-A|We have to allow extra room for those, because, you know, I mean extra space, between the rows and all.|sd
+A|We have to allow extra room for those, because, you know, I mean extra space,  between the rows and all.|sd
 B| Yeah|b
 B|because they take up a lot. |sd
 A|Yes,|%
-A|but  I mean, we usually get,I mean, just pulling them as fast as you can.|sd
+A|but  I mean, we usually get, I mean, just pulling them as fast as you can.|sd
 B|Holy smoke.|ba
 A|We usually give them to everybody.|sd
 B|Uh-huh.|b
@@ -256,9 +256,9 @@ A|I know, we do that, too, you know,|sd
 A|and at the first year,|sd
 A|because I was from the city when we got married,|sd
 A|and the first year that we planted, I couldn't figure out, I mean, the,|sd
-A|well, the first year afterI mean, we planted them,|sd
+A|well, the first year after I mean, we planted them,|sd
 B|Uh-huh.|b
-A|but the first year, you know, after we'd had a cropall these little things like,|sd
+A|but the first year, you know, after we'd had a crop all these little things like,|sd
 B|Yeah.|b
 A|we had cucumbers coming up, you know, in the middle of our okra,|sd
 A|and I thought, how did this get here|sd

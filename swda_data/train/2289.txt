@@ -33,7 +33,7 @@ A|and there are paper mills within a couple of hundred miles of, uh.|sd
 A|Actually there is one in northern Vermont.|sd
 A|So there's probably a paper mill that's sixty miles from here.|sd
 A|I didn't think that,|sd
-A|you know, in the large city that if the next recycling, if the next mill is more like five hundred miles awayit's a lot of money to transport.|sv
+A|you know, in the large city that if the next recycling, if the next mill is more like five hundred miles away it's a lot of money to transport.|sv
 B|Well,|%
 B|Yeah,|b
 B|well see, that's,|%
@@ -74,15 +74,15 @@ A|see, a lot of the kids get the money from it,|sd
 A|and it's great for the boy scouts running around, they knock door to door and the collect the bottles sometimes.|sv
 B|Oh, that's it,|sd
 B|you'll, you'll,|%
-B|there is a down side to all this, you know, about no good deed going unpunished,that, uh, my mother sells, um, trees that they make paper out of,|sd
+B|there is a down side to all this, you know, about no good deed going unpunished, that, uh, my mother sells, um, trees that they make paper out of,|sd
 B|and so every time I recycle newspapers, in fact there's a, there's a, uh,|sd
-B|Kimberly and Clark, the makers of kleenex and suchhas a, uh, a big paper mill.|sd
+B|Kimberly and Clark, the makers of kleenex and such has a, uh, a big paper mill.|sd
 A|Yeah.|b
 B|In fact I almost went to work for them.|sd
 B|I was offered a job and turned it down because my mother got it for me.|sd
 B|It's twenty or thirty miles from my house.|sd
 B|Every time you recycle, that's one less tree my mother can sell,|sd
-B|and, uh. So, it's a question should I be diligent and, um,and, and recycle, and put my mother out of her livelihood.|sd
+B|and, uh. So, it's a question should I be diligent and, um, and, and recycle, and put my mother out of her livelihood.|sd
 A|And recycle.|^2
 A|Oh, yes,|b
 A|I see that.|ba
@@ -91,7 +91,7 @@ B|and I suppose it does provide some gainful employment,|sv
 B|but,|%
 A|But it takes away employment from the resource|^2
 A|and its .|%
-B|Well, but in general I think it's a good idea becauselike the glass, you can't argue that the glass,|sv
+B|Well, but in general I think it's a good idea because like the glass, you can't argue that the glass,|sv
 A|I do, too.|aa
 B|it doesn't biodegrade, and, and, uh, the plastics obviously,|sd
 A|They don't either|sd
@@ -157,7 +157,7 @@ B|you know, and there's a lot of, actually, it works pretty well,|sd
 B|and then we have a, uh, waste, uh, cans for aluminum in the, in the break areas at work.|sd
 A|Well, that's, that's a really good idea, because, um, like our, uh, fruit juices for some reason when they're in a can don't come with a deposit.|sd
 B|Yeah.|b
-A|And they're thinking about putting a deposit on them, because pretty much you have to, you're having a whole separate recyclable bin just for these fruit cans, where they'reso much easier just to put a deposit on it, because most, probably ninety percent of the aluminum cans do have deposits, because they're beer and soda,|sv
+A|And they're thinking about putting a deposit on them, because pretty much you have to, you're having a whole separate recyclable bin just for these fruit cans, where they're so much easier just to put a deposit on it, because most, probably ninety percent of the aluminum cans do have deposits, because they're beer and soda,|sv
 B|Yeah,|b
 A|but when they sell juice, it's some strange quirk in the law, you don't have to have a deposit on it.|sd
 A|And even like, the, a very fine juice jar does not have to have a deposit on it,|sd
@@ -173,7 +173,7 @@ A|they get a penny a can they handle.|sd
 A|They give you five cents when they return the can to the distributor.|sd
 A|I think they either get a penny or two pennies a can.|sv
 B|Well, see, well, see, those of us that don't have state income taxes,|sd
-B|yetthat's the big debate here in Texas, that the legislature wants to put one in,|sd
+B|yet that's the big debate here in Texas, that the legislature wants to put one in,|sd
 A|Yeah.|b
 B|and, it's interesting what people get upset about,|sd
 B|uh, it really is.|sd
@@ -183,7 +183,7 @@ A|Oh, yeah.|bk
 A|Well, we,|sd
 A|well, here you can't drink,|fo_o_fw_"_by_bc
 B|We're not civilized now, you can no longer, you cannot drink beer and drive,|sd
-B|butbut it was, it was actually legal.|sd
+B|but but it was, it was actually legal.|sd
 A|Well.|%
 A|Yes,|b
 A|well, I know, I was in Atlanta,|sd
@@ -193,9 +193,9 @@ A|So that was strange.|sd
 A|But, I think,|sv
 A|if some people they have,|sv
 A|they say, well, we're not going to start a can deposit because you have to get all these, um, the, the recycle center, you have to deal with the can and then you have to, to recycle it,|sv
-A|and, their problem's already solved because they can just come to states that do have bottle depositssee how they handle it,|sv
+A|and, their problem's already solved because they can just come to states that do have bottle deposits see how they handle it,|sv
 B|Yeah.|b
 A|and see if it's a good way,|sd
 A|and then do it that way. Because, as, like I say, people are making money on it.|sd
-B|Well, you know, the other,Well the other thing is, it also is, is a, is a, a good habit, uh, to, uh, just to conserve resources, you know, where they, you know, because you get in the habit of that, you think in terms of, of, uh, of, of things like saving|sv
+B|Well, you know, the other, Well the other thing is, it also is, is a, is a, a good habit, uh, to, uh, just to conserve resources, you know, where they, you know, because you get in the habit of that, you think in terms of, of, uh, of, of things like saving|sv
 A|The cans do, are worth something.|sd

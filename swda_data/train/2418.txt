@@ -12,8 +12,8 @@ A|and she's talked to students, uh,|sd
 A|so I guess they have, uh, sent this to their customers and people in colleges and things.|sd
 A|So they're,|%
 A|if you're a computer user,|sd
-A|so my daughter has talked to two students, uh, that were non,T I|sd
-B|Oh, I think that's a,that's a good idea.|sv
+A|so my daughter has talked to two students, uh, that were non, T I|sd
+B|Oh, I think that's a, that's a good idea.|sv
 A|So I guess,|sd
 A|Oh, yeah.|b
 B|All right.|b
@@ -61,7 +61,7 @@ A|Now monthly, no.|sd
 A|I'll tell you a funny story about budgeting,|sd
 A|and I've been married twenty-six years|sd
 A|and I did, you know, that the macho thing,|sd
-A|the man always did the bills for,I don't know, fifteen years or more,|sd
+A|the man always did the bills for, I don't know, fifteen years or more,|sd
 B|Uh-huh.|b
 A|and I got so sick of it, trying to balance the budget, uh, one,|sd
 A|and I always tried to show my wife, you know, here's how you,|sd
@@ -79,7 +79,7 @@ A|She does it all now for about ten years,|sd
 A|and I don't even,|sd
 A|she complains to me about it,|sd
 A|she threatens me to give it back to me,|sd
-A|and I said, I've been a happy man since I haven't,fooled with that checkbook, you know|sd
+A|and I said, I've been a happy man since I haven't, fooled with that checkbook, you know|sd
 B|Oh.|b
 A|So I know it's a big pain to try to do that.|sv
 B|It really is.|aa
@@ -87,7 +87,7 @@ B|It, it really is.|aa
 B|You know, that was always a, a major problem in our marriage.|sd
 B|What I have always identified is I am basically good with money.|sd
 B|It, I don't really need a budget to tell me not to spend it.|sd
-B|I,think that comes from never having enough.|sv
+B|I, think that comes from never having enough.|sv
 A|Right.|b
 B|You know, I'm always afraid of I'm going to need some and where will it be.|sd
 A|Right,|b
@@ -101,7 +101,7 @@ A|I think, uh, that that is a tough, uh,|sv
 A|we all,|%
 A|seems to seems to be that way.|sv
 B|I tried to hang onto a house that was way too expensive for me,|sd
-B|and,and so now that I've gotten, you know, I lost the house. Now that I've gotten past that, I can sit down and say, okay,|sd
+B|and, and so now that I've gotten, you know, I lost the house. Now that I've gotten past that, I can sit down and say, okay,|sd
 A|Yeah.|b
 B|this is the reality.|^q
 B|This is how much money I have each month.|^q
@@ -128,27 +128,27 @@ A|he's an entrepreneur|sd
 A|and he gives very practical financial advice about cars, very, you know, not, not nothing college level, basic stuff.|sd
 A|His name is Bruce Williams,|sd
 A|he's on national radio.|sd
-A|Uh, I don't know,what it would be down there.|sd
+A|Uh, I don't know, what it would be down there.|sd
 A|You might want to,|ad
 A|whatever your radio talk shows are down there, he's on that channel.|sd
-A|It's,uh, it's five seventy up here.|sd
+A|It's, uh, it's five seventy up here.|sd
 B|Well, I'll check that out.|aa
 B|Uh-huh.|b
 A|And I'd listen to talk shows for everything, for gardening and everything, just when I'm doing chores,|sd
-A|and, uh,he gives a wealth of information, very practical stuff|sd
+A|and, uh, he gives a wealth of information, very practical stuff|sd
 B|You've learned a lot.|qy^d
 A|and, and he will help you avoid a lot of little things, uh, financially.|sd
 B|Well, that's, that's good to know how,|ba
 A|Yeah,|aa
 A|there, there's a lot of advice out there for how to get a budget.|sv
-A|And I, I'm not expert, again, because,I don't really do it monthly.|sd
+A|And I, I'm not expert, again, because, I don't really do it monthly.|sd
 B|Uh-huh.|b
 B|Well, you must have done something.|sv
 B|You're, you're helping your children in school|sd
-B|and you'reyou know.|sd
+B|and you're you know.|sd
 A|Right.|aa
 A|I did start a college fund.|sd
-A|I'm not, uh, I have one again at U T down there now,her first year,|sd
+A|I'm not, uh, I have one again at U T down there now, her first year,|sd
 B|Uh-huh.|b
 A|and she's almost gone through her whole college fund, you know|sd
 B|Excuse me, Jim,|ad
@@ -177,14 +177,14 @@ A|Uh, there's all kinds of civic organizations that will give you, you know, one
 A|Uh, you get a president's award if you're, you're in, in high school doing|sd
 A|this up by, here in Arlington. Uh,|sd
 A|there's a lot of,|sd
-A|and, of course, you, if you, you score high on the S A T,you can get, you know, two thousand a year, you know, or more.|sd
+A|and, of course, you, if you, you score high on the S A T, you can get, you know, two thousand a year, you know, or more.|sd
 B|Uh-huh.|b
 B|Wow.|ba
 A|You can get yearly money as long as you keep up your grades.|sd
 A|She, she did very well in school|sd
 A|and, uh, but she only got first year money.|sd
 A|She got about two thousand dollars.|sd
-A|It was only five hundred,dollars at a clip from this organization.|sd
+A|It was only five hundred, dollars at a clip from this organization.|sd
 B|Uh-huh.|b
 A|We called.|sd
 A|There were, there were two or three people,|sd
@@ -192,8 +192,8 @@ A|there was some little civic organization in Dallas that gave money away|sd
 A|and only two or three people applied.|sd
 A|She applied and got five hundred dollars from that.|sd
 B|Wow,|ba
-A|So,look into that bit,|ad
-B|oh, I'm definitely going to beactively looking into that.|aa
+A|So, look into that bit,|ad
+B|oh, I'm definitely going to be actively looking into that.|aa
 A|The year that they graduate, you know, before, though, you know, while they're graduating , there's all kinds of little bitty money that little clubs will give away, churches and everything,|sd
 A|and they don't even have a dozen applicants because, uh, uh, the kids are going off after the big money.|sd
 B|Uh-huh.|b
@@ -202,7 +202,7 @@ A|but sometimes it's just, uh,|sd
 A|like our band gave money away.|sd
 A|We're a band booster club.|sd
 A|We gave, we give, uh, two five hundred dollar scholarships just to kids, uh, who we think were worthy, you know|sd
-A|so,There's money out there.|sd
+A|so, There's money out there.|sd
 B|Well, that's great to know.|ba
 B|Yeah,|b
 B|that's good.|ba
@@ -219,12 +219,12 @@ A|there were three managers jobs that were just dissolved|sd
 A|and so they put me on nights.|sd
 A|I, I call this my recession job.|sd
 B|Oh, goodness.|ba
-A|And I'm working nights just kind of covering, uh, shutdown equipment and everything,here.and just being available,|sd
+A|And I'm working nights just kind of covering, uh, shutdown equipment and everything, and just being available, here.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|I don't mind.|sd
 A|Uh, it beats being laid off and everything.|sd
-A|And, uh, you,you got to be a little flexible.|sv
+A|And, uh, you, you got to be a little flexible.|sv
 B|Oh, absolutely.|aa
 B|Yeah.|b
 A|Uh, in my old age I'm trying to just hang in there until I get my kids through school|sd
@@ -236,7 +236,7 @@ B|What, what I did is|sd
 B|I was approached|sd
 B|and, and I've, I went to T I just right at the time that, uh, my marriage was ending.|sd
 B|I had been a, a stay at home mom|sd
-B|and,and I, I was very fortunate in starting,|sd
+B|and, and I, I was very fortunate in starting,|sd
 A|Uh-huh.|b
 B|and I really enjoyed it while I was at T I,|sd
 B|but, you know, the cutbacks were really getting to be rather frightening|sd
@@ -262,9 +262,9 @@ B|Yes.|b
 A|They give you scholarship, a hundred percent, if you're, if you work for T C U.|sd
 B|They do?|bh
 A|Yes.|ny
-A|Socheck that one out, you know.|ad
+A|So check that one out, you know.|ad
 B|I'm going to check that.|aa
-B|I've got,I've got two friends that work at, at U T.|sd
+B|I've got, I've got two friends that work at, at U T.|sd
 B|I didn't know that all.|sd
 A|Ask them about it.|ad
 A|Call them.|ad

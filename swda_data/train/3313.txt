@@ -10,7 +10,7 @@ A|Okay,|bk
 A|so, that's a,|%
 B|Uh, and where you are?|qw
 A|I'm in Richardson,|sd
-A|soin Dallas.when I heard the topic I was thinking of the thing down at, uh, Maceo High School|sd
+A|so when I heard the topic I was thinking of the thing down at, uh, Maceo High School in Dallas.|sd
 B|Uh-huh.|b
 B|Right.|b
 B|Right,|b
@@ -19,7 +19,7 @@ A|It is, you know,|aa
 B|Uh, do you have children in school?|qy
 A|No,|nn
 A|mine are already in college now,|sd
-A|soI don't have to,|%
+A|so I don't have to,|%
 B|Yeah.|b
 A|at least when they were in high school, it was beginning but not like the rampages.|sd
 B|Well, I have,|%

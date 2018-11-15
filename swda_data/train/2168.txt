@@ -21,7 +21,7 @@ A|my children go to Garland,|sd
 A|and I teach in Dallas.|sd
 B|oh,|%
 B|okay,|bk
-B| well, I have a daughter that's in the, in, in the I B program at Garland.|sd
+B| well, I have a daughter that's in the, in,  in the I B program at Garland.|sd
 B|In the,|%
 B|are you familiar with the International Baccalaureate program.|qy
 A|Well, yeah,|ny
@@ -35,7 +35,7 @@ B|Oh, okay.|bk
 A|So, yeah.|b
 B|Well, there's a,|%
 B|it's, um,|%
-B|she went from Austin Academy when it opened up,over to, uh, to North Garland for ninth grade.|sd
+B|she went from Austin Academy when it opened up, over to, uh, to North Garland for ninth grade.|sd
 A|Uh-huh.|b
 B|But at North Garland, the, the difficulty I see with the education system is that, uh, is that, you can, you can, you can get some masses,|sv
 B|but unless, if the kid's really dedicated, it seems like they do all right.|sv
@@ -80,7 +80,7 @@ B|it's, it's less degree days,|sd
 B|you're right.|sd
 B|But I think, I think,|%
 A|And it's not like the kids are going to go a lot longer,|sv
-A|really, if you go year aroundthere's not thirty days difference.|sv
+A|really, if you go year around there's not thirty days difference.|sv
 B|Yeah.|b
 B|well how do they do it?|qw
 B|Do they put, uh, long,|qy
@@ -93,7 +93,7 @@ A|See, I don't know, because I've never seen it in action.|no
 B|Oh, you said you had some people from California.|sd
 B|Oh I thought you,|sd
 A|No,|nn
-A|the school system in Dallas has sent people thereto do that.|sd
+A|the school system in Dallas has sent people there to do that.|sd
 B|Oh, okay.|bk
 A|No.|nn
 B|But you didn't go.|qy^d
@@ -110,11 +110,11 @@ A|It's ridiculous.|sd
 B|Um. Then why the,|%
 B|the one they brought in, the new superintendent for Dallas schools, the um,|sd
 B|can't think of his name,|sd
-B|but the ideayeah, that he had suggested that, that maybe they could reduce the number of administrators and, and some of the people who were administrators saying, that, that, uh, that's not what he was hired for.|sd
+B|but the idea yeah, that he had suggested that, that maybe they could reduce the number of administrators and, and some of the people who were administrators saying, that, that, uh, that's not what he was hired for.|sd
 A|Marvin Edwards.|^2
 B|But they resented the fact that he would try to save some costs there.|sv
 A|Well, you know he did, supposedly cut administrators,|sd
-A|but what they've done is create other offices for those same people, and just renamed their jobsand, you know, opened up other other things.|sv
+A|but what they've done is create other offices for those same people, and just renamed their jobs and, you know, opened up other other things.|sv
 B|Um.|b
 A|One thing we've got going is called reading and initiative,|sd
 A|and they've hired all these administrators in on that, you know.|sd
@@ -123,7 +123,7 @@ A|Pass or no fail, what is it?|qw
 B|Yeah|b
 B|but the|%
 A|No play.|sd
-B|I can't think of the name of the school,that, that, uh,|sd
+B|I can't think of the name of the school, that, that, uh,|sd
 A|No play.|sd
 B|but in any event they, they, they kept arguing.|sd
 A|Carter High School.|^2
@@ -193,7 +193,7 @@ B|I think maybe there's too much responsibility put on the teachers to motivate 
 B|I had a, a friend that was administrator in Richardson said if the parents read books, then the kids probably would read books.|sd
 A|Right.|b
 B|But that a lot of the schools I would think the kids you're talking to, question of, of how much reading do those kids' parents do.|sv
-A|My children's parents aren't even there at night most of the timeto do anything with them.|sd
+A|My children's parents aren't even there at night most of the time to do anything with them.|sd
 B|Well.|%
 B|Well, but that's the point, as I would say, uh|sv
 A|Yeah.|b
@@ -223,7 +223,7 @@ B|right?|^g
 B|If you get graded on percent improvement.|sd
 B|But see, that.|%
 A|Yeah,|ny
-A|we're not working with the same type of studentsthat most of these kids in Garland are.|sd
+A|we're not working with the same type of students that most of these kids in Garland are.|sd
 B|Yeah.|b
 B|And unfortunately, the, uh, that's, that's tough,|ba
 B|that's a real challenge though.|sv

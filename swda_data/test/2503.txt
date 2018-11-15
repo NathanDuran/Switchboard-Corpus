@@ -18,7 +18,7 @@ B|but none, none right now.|sd
 A|How come, uh, you don't have any now?|qw
 A|You get tired of them?|qy
 B|Well, I, I live in an apartment building|sd
-B|and, and, uh, and, and, it, it, it's just not feasible you know. |sd
+B|and, and, uh, and, and, it, it, it's just not feasible  you know. |sd
 A| Yeah. |b
 B|I'd love to have a dog,  you know. |sd
 A| I've got  a little doggy, uh, that I've had quite, uh, quite a long time.|sd
@@ -33,7 +33,7 @@ A|Uh, a toy poodle, a toy poodle |sd
 A|and she's, |%
 B| Ah.|b
 B|Ah,|b
-B|my, I got  my mom a  teacup little mutt , not too long ago.|sd
+B|my, I got  my mom a  teacup little mutt ,  not too long ago.|sd
 A|This is a little bigger than a teacup.|sd
 B|Yeah.|b
 A|And, uh, it's funny how, uh, how I, I, uh, acquired this animal.|sd
@@ -42,7 +42,7 @@ A|uh, the woman needed someone to baby-sit|sd
 A|and, uh, this is what she had told the kids|sd
 A|and she even told me that.|sd
 A|And after the two week period was up, uh, she then informed me that the woman no longer wanted the little puppy and wanted to know if we wanted to keep it.|sd
-A|Well, after you had an animal for a couple of weeks, it's, uh,  you become you become attached to it.|sv
+A|Well, after you had an animal for a couple of weeks, it's, uh,  you become  you become attached to it.|sv
 B| Oh, for sure. |aa
 B|Oh, yeah.|b
 A|So, I've had this dog now for, for sixteen years|sd
@@ -61,7 +61,7 @@ B|and, uh, it's made such a difference for her.|sd
 B|But, you know, just, I, you know,|%
 B|the way my mom's presence countenance is, just, just for having a puppy|sd
 B|but, you know, having this dog|%
-B|she's had it for, I guess three years now.Oh, possibly four.|sd
+B|she's had it for, I guess three years now. Oh, possibly four.|sd
 A|Uh-huh.|b
 B|But, uh, it was, it, it's it's really made such a difference for her.|sd
 B|I really would like to, uh,|sd
@@ -78,7 +78,7 @@ B|Well, yeah,|b
 B|uh, I, I, I typically am not a cat person.|sd
 B|I have a friend that, uh, has on occasion, uh brought her cat over for me to keep for, you know, from time to time|sd
 B|And this cat is like no other cat I have ever seen.|sd
-B|And, uh, it would sleep on my chest,you know.|sd
+B|And, uh, it would sleep on my chest, you know.|sd
 A|Yeah.|b
 B|It's just, it's just a  great cat,|sd
 B|but. |%
@@ -86,14 +86,14 @@ A| Well, my, my personal  preference is, is a dog.|sd
 A|Uh, I don't know that, uh, that I would ever want a cat.|sd
 A|Oh, I like cats.|sd
 A|I just wouldn't want to own one.|sd
-A|Uh they're not, uh,  they're, they're affectionate|sv
+A|Uh  they're not, uh,  they're, they're affectionate|sv
 B| Well, you don't own cats. |sv
 A|but they,|%
 A|yeah|%
 A|I don't know,|h
 A|I can't seem to communicate with a cat like I can with my dog.|sv
 B|Yeah.|b
-B|You, they, they own yougrant you with you their presence,  you know. or, or, you know,|sv
+B|You, they, they own you or, or, you know, grant you with you their presence,  you know. |sv
 A|Yeah,|aa
 A|right|aa
 A| Yeah.|aa
@@ -104,11 +104,11 @@ A|we're supposed to appreciate them.|sd
 A|Well, my, my dog when I came home, uh, when I come home in the evenings, my dog greets me at the door.|sd
 A|I don't know that a cat would do that, uh|sv
 B|Yeah.|b
-B|I used to have,a cat that could read me better than any human being in my life.|sd
+B|I used to have, a cat that could read me better than any human being in my life.|sd
 A|Yeah.|b
 B|I could just walk in the door|sd
 B|and she knew whether to, to, to quietly come up to me or to just run and knock me over.|sd
-B| I mean she  really could pick up on my mood uh, the  way I walked in the door.|sd
+B| I mean she  really could pick up on my mood  uh, the  way I walked in the door.|sd
 A| Yeah,|b
 A|yeah. |b
 B|It was, uh, uncanny like a|sv
@@ -116,7 +116,7 @@ A|Huh. I, I think, uh, in a way we're able to read each other pretty well becaus
 A|So. |%
 B| Yeah. |b
 A|I know like when she has an accident, I know she's not doing it on purpose.|sd
-A|Whenwhen she was younger, she used to do that to get even with me,|sd
+A|When when she was younger, she used to do that to get even with me,|sd
 B|Yeah.|b
 A| Uh, and, and,  you know, some people might not believe that|sd
 A|but, but, but, uh, I do|sd
@@ -128,10 +128,10 @@ A|Yeah.|ny
 B|That's the way,|%
 B|well, I had that cat that I mentioned, Alfie .|sd
 B|One morning, you know, the first thing you do is you get up and you, you, you feed this cat something and, and you make sure that it can get to its litter box.|sd
-B|Well,for some reason during the night, the door was not quite wide enough for it to get through|sd
+B|Well, for some reason during the night, the door was not quite wide enough for it to get through|sd
 A|Uh-huh.|b
 B|and, uh, the next morning, uh, when my roommate got up and, and, uh, did not feed it right away, it decided that, that it was going to protest.|sd
-B|And so it jumped up on my bed and anointed my blanket, all the time while it was doing it.  for me. Looking, looking  at me eye to eye,|sd
+B|And so it jumped up on my bed and anointed my blanket,  for me. Looking, looking  at me eye to eye,  all the time while it was doing it. |sd
 B|All right.  Have I got your attention now? |^q
 A|  Oh, yes.|b
 A|Animals have a way of talking|sv
@@ -185,7 +185,7 @@ A|and she didn't get the cat back.|sd
 A|So, yeah,|%
 A|they had to pay for all the medical, uh, bills that the cat ran up plus the burial expenses.|sd
 A|And, uh, you know, she just brought the cat in because he wasn't feeling good|sd
-A| So that that was kind of a surprise |sd
+A| So that  that was kind of a surprise |sd
 B| Really. |b
 B|Geez.|ba
 A|At |%

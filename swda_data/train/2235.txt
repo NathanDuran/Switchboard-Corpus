@@ -19,7 +19,7 @@ A|Well,|%
 B|Master Charge.|sd
 A|I don't have a Master Charge,|ar
 A|thank you|fo_o_fw_"_by_bc
-B|But, see our whole system is built on owingnot borrowing.|sv
+B|But, see our whole system is built on owing not borrowing.|sv
 A|Right.|aa
 A|But, that's the problem, see.|sv
 A|Our system shouldn't be based on owing and borrowing and all that.|sv
@@ -41,7 +41,7 @@ A|It would be so much better.|sv
 A|It wouldn't be perfect,|sv
 A|but then, they could learn to live with what they could afford to save to buy.|sv
 A|And if you want a nicer car than that, well, you save a little longer.|sv
-B|Well, now I agree, uhI agree with you one hundred percent.|aa
+B|Well, now I agree, uh I agree with you one hundred percent.|aa
 A|Uh-huh.|b
 B|I'm just taking the other side so we'll have a discussion here.|sd
 B|Uh, but I still go to right back to what I said.|sd
@@ -80,10 +80,10 @@ A|And so and we don't want to cut back our services from the government, because
 B|Well, I have one way to suggest reducing the budget.|sd
 A|What?|qw
 B|Very simple.|sd
-B|Just take all these civil service employees,I mean, they, they get all these days off.and, uh, uh, take some of those holidays away from them, like Columbus Day, President's Day,|sv
+B|Just take all these civil service employees, and, uh, uh, take some of those holidays away from them, like Columbus Day, President's Day, I mean, they, they get all these days off.|sv
 A|I know.|aa
 A| Yeah. |b
-B| Now give them,  what a, a  week, I think we here at T I get a total of eleven a year.|sv
+B| Now give them,   what a, a  week, I think we here at T I get a total of eleven a year.|sv
 A| I know. |aa
 A|Uh-huh.|b
 B|And that's about, uh, three or four less than civil servants get.|sd
@@ -107,7 +107,7 @@ B|No.|nn
 A|It's not?|qy
 B|That's why the price of mailing a letter keeps going up.|sd
 A|That's why it keeps going up, uh?|b^m
-B|You know, I couldI can remember the days when it cost only three cents to mail, uh, uh, uh, a letter.|sd
+B|You know, I could I can remember the days when it cost only three cents to mail, uh, uh, uh, a letter.|sd
 A|That's another topic|sd
 A|Those stamps are valuable, now.|sv
 B|Yeah.|b
@@ -187,7 +187,7 @@ A|That's my opinion.|sd
 A|My opinion's the latter.|sd
 B|Uh-huh.|b
 B|Well, uh, I've got to respect your opinion.|sd
-B|You have somesolid ideas.|sv
+B|You have some solid ideas.|sv
 A|Uh-huh.|b
 A|I know.|aa
 A|What's yours?|qw

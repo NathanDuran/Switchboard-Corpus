@@ -10,7 +10,7 @@ B|this woman supposedly is, um, being mentally abused by her husband, you know,|
 B|he keeps her pretty much terrorized to stay in the house,|sd
 B|and she figures out this way to, um, to leave him secretly.|sd
 B|You know, she fakes her death kind of thing|sd
-B|andhe tracks her down|sd
+B|and he tracks her down|sd
 A|Uh-huh.|b
 A|Oh|b
 B|So, the, the end scenes are, are kind of suspenseful, you know, when she realizes he's in the house, you know, after her,|sd
@@ -25,7 +25,7 @@ B|But anyhow, um, what have you seen?|qw
 A|Well, last week, as a matter of fact, my children was on Spring Break|sd
 B|Uh-huh.|b
 A|and we went to two movies.|sd
-A|We went to see AWAKENINGSwith Robin Williams.|sd
+A|We went to see AWAKENINGS with Robin Williams.|sd
 B|Um.|b
 B|Uh-huh.|b
 A|And we went to see KINDERGARTEN COP.|sd
@@ -37,7 +37,7 @@ A|It really was,|sd
 A|and it would, it would be to anyone because, you know, they really don't know that much about it.|sv
 B|Uh-huh.|b
 B|So this is where the people have been kind of|bf
-B|I don't a better word to say than like asleep or in a coma,for a long time.|bf
+B|I don't a better word to say than like asleep or in a coma, for a long time.|bf
 A|Yeah.|aa
 A|Yeah,|aa
 A|yeah.|aa
@@ -58,7 +58,7 @@ A|Bad.|sd
 B|Oh.|b
 A|Yeah,|b
 A|yeah.|b
-A|They was actually went back like they were,you know,|sd
+A|They was actually went back like they were, you know,|sd
 B|Oh|b
 B|Um.|%
 A|yeah.|b
@@ -101,7 +101,7 @@ B|I even like some, I mean, some of the original stuff,|sd
 B|like I like THE TERMINATOR.|sd
 B|At first, you know, it was kind of strange,|sv
 A|Yeah.|b
-B|but I still like watching him in THE TERMINATOR.And, and some of the other things.|sd
+B|but I still like watching him in THE TERMINATOR. And, and some of the other things.|sd
 A|Uh-huh.|b
 B|Um, TOTAL RECALL last year I thought was really good, last summer.|sd
 A|Oh, yeah.|b
@@ -131,7 +131,7 @@ B|I said, now you better get out of the habit of watching those.|sd
 B|You shouldn't be watching them with your little girl,|^q
 B|and she says her little girl's into it now.|sd
 A|Oh, my goodness.|ba
-B|And she she watches these really gross things you know, like,junk.and, The, you know, that kind of,THE NIGHTMARE ON ELM STREET,|sd
+B|And she she watches these really gross things you know, like, THE NIGHTMARE ON ELM STREET, and, The, you know, that kind of, junk.|sd
 A|Yeah.|b
 A|Oh, uh-huh.|b
 A|Yeah,|b
@@ -145,7 +145,7 @@ B|and there was all these weird things going on in the basement, you know,|sd
 B|and I was scared to death of our house had a basement for years.|sd
 A|Oh, uh-huh.|b
 B|You know,|fo_o_fw_"_by_bc
-B|and I got a lot of really weird ideas,from that goofy movie.|sd
+B|and I got a lot of really weird ideas, from that goofy movie.|sd
 A|Yes,|b
 A|yes.|b
 A|Yes.|b
@@ -156,7 +156,7 @@ A|it really is,|aa
 A|yes.|aa
 B|I, I had a lot of things that I, I,|sd
 B|nobody told me that it was all fake.|sd
-B|I was just sitting there watching it,going a scared Oh, jeez|sd
+B|I was just sitting there watching it, going a scared Oh, jeez|sd
 A|yeah.|b
 A|Watching,|b^m
 A|yes, if a scared|b
@@ -172,7 +172,7 @@ A|Yes,|fo_o_fw_"_by_bc
 A|I know, uh,|fo_o_fw_"_by_bc
 A|I have two children.|sd
 A|I really try to watch what they watch,|sd
-A|I really do, because my youngest one, he watches something, you might as well just plan on staying up all night, because you knowHe'll come in,|sd
+A|I really do, because my youngest one, he watches something, you might as well just plan on staying up all night, because you know He'll come in,|sd
 A|Mama, I think the ghost is in the house,|^q
 A|Mama, I hear it,|^q
 A|don't you?|^q
@@ -188,7 +188,7 @@ B|and the little boy must have been, oh, maybe about ten.|sd
 B|And we rented CHARLOTTE'S WEB.|sd
 B|Okay.|%
 A|Oh, uh-huh.|b
-B|And he just bawled at the endand just a crying uh, she's not going to die.|sd
+B|And he just bawled at the end and just a crying uh, she's not going to die.|sd
 A|Oh,|b
 A|Oh.|b
 B|And we were trying to say, Kenny, it's okay,|sd
@@ -224,7 +224,7 @@ A|Do you?|bh
 A|Well, as far as,|%
 A|we could not call in last week.|sd
 B|Um.|%
-A|You know, from where I'm at.We couldn't call in.|sd
+A|You know, from where I'm at. We couldn't call in.|sd
 B|Uh-huh.|b
 A|They said it would be up Friday, the, March the fifteenth before it was prepared.|sd
 A|So I missed several days, because I was getting quite a few calls.|sd
@@ -235,7 +235,7 @@ B|My first one was the toughest,|sd
 B|it was something like discuss pollution.|sd
 A|Oh, uh-huh,|b
 A|oh.|b
-B|It was discuss air pollution,causes of it and cures.|sd
+B|It was discuss air pollution, causes of it and cures.|sd
 A|Yes.|b
 B|I was going, oh, well|sd
 A|Oh.|b

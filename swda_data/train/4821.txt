@@ -6,19 +6,19 @@ A|But, uh, it seems like I get most of my news from television.|sd
 A|I'm, we only get the paper on the weekends|sd
 A|and so I'm not much of a, of a paper reader|sd
 A|or but I, I and I'm don't, rarely listen to the, uh, radio|sd
-A|so I get most of my news like from documentaries like FORTY-EIGHT HOURS, TWENTY TWENTY, you know, the news at night.News in the afternoon, that kind of thing.|sd
+A|so I get most of my news like from documentaries like FORTY-EIGHT HOURS, TWENTY TWENTY, you know, the news at night. News in the afternoon, that kind of thing.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
-B|Well I get a,weekend paper as well|sd
+B|Well I get a, weekend paper as well|sd
 B|and, uh, in addition to that I get a local weekly.|sd
 B|I, I live in suburb of Milwaukee|sd
 A|Uh-huh.|b
-B|and they get, they have community newspapers around here so the local, their extremely local stuffuh, is in the local paper that comes out once a week|sd
+B|and they get, they have community newspapers around here so the local, their extremely local stuff uh, is in the local paper that comes out once a week|sd
 A|Uh-huh.|b
 B|and then I get the Sunday, uh, MILWAUKEE JOURNAL because I don't have time to read a paper.|sd
-B|Uh,  mostly that's my difficulty.|sd
+B|Uh,  mostly  that's my difficulty.|sd
 A| Right. |b
-B|I, uh, I get my news pretty much from the same sources as you do, although I do listen to N P R which has very good, and that's National Public Radio  which and does a pretty good job of  analysis as well. has very good, uh, coverage of the national and international news, I feel|sd
+B|I, uh, I get my news pretty much from the same sources as you do, although I do listen to N P R which has very good, and that's National Public Radio  which  has very good, uh, coverage of the national and international news, I feel and does a pretty good job of  analysis as well. |sd
 A| Uh-huh. |b
 A|Uh-huh.|b
 A| Are you in  the car quite a bit|qy
@@ -26,9 +26,9 @@ A|or,|%
 B|No,|nn
 B|I'm not actually. Uh,|sd
 B|but I can run my radio in my office.|sd
-B| I, I teach at the university|sd
+B| I, I  teach at the university|sd
 A| Oh. |b
-B|and when I'm notteaching, if I choose to have the radio on I can listen to that station,|sd
+B|and when I'm not teaching, if I choose to have the radio on I can listen to that station,|sd
 A|Oh.|b
 B|so.|%
 A|Uh-huh.|b
@@ -55,7 +55,7 @@ A|It's just that, uh, now that I've stayed home, I'm, I'm usually aware of when 
 B| Uh-huh. |b
 A|and it happened|sd
 A|and,|%
-B|Well, I, myself, uh, the reason why I listen to N P R and the reason why I watch MACNEIL LEHRER,uh, is that quite often it seems to me the national doesn't do a very good job of analysis.rather than the, than the network news shows at night, although I do watch a local ten o'clock in the evening news which carries over a lot of the national news stories|sd
+B|Well, I, myself, uh, the reason why I listen to N P R and the reason why I watch MACNEIL LEHRER, rather than the, than the network news shows at night, although I do watch a local ten o'clock in the evening news which carries over a lot of the national news stories uh, is that quite often it seems to me the national doesn't do a very good job of analysis.|sd
 A|Right,|b
 A|right.|b
 B|The local doesn't either|sd
@@ -63,13 +63,13 @@ B|but I feel that MACNEIL LEHRER get a little more deeply into some, some of the
 A|Uh-huh|b
 B|And perhaps newspapers do that|sv
 B|but as I said, I don't have time to sit down and read a newspaper|sd
-B|and frankly when I have read a newspaperI haven't noticed that kind of analysis either.|sd
+B|and frankly when I have read a newspaper I haven't noticed that kind of analysis either.|sd
 A|Uh-huh.|b
 A|Huh.|b
 B|So. Uh, there's, there is some danger to that, of course, too.|sv
 B|Because if the analysis is inaccurate or biased or whatever then, you know, how good is it.|qh
 B|But, uh, I like a little more indepth coverage|sd
-B|and I think that's what you're, maybe appealing to you too on something like TWENTY TWENTY orFORTY-EIGHT  HOURS. |sv
+B|and I think that's what you're, maybe appealing to you too on something like TWENTY TWENTY or FORTY-EIGHT  HOURS. |sv
 A|Right.|aa
 A| Right.|aa
 A| It kind of gives you the whole story or more of the story.|sv
@@ -77,7 +77,7 @@ B|Uh-huh.|b
 A|That kind of thing.|h
 B|Yeah.|b
 A|So. Uh,|%
-B|I'm more interested in trying to understand what's going on in the  world rather than simply being aware that, you know, there, that an event has occurred|sd
+B|I'm more interested in trying to understand what's going on in the  world  rather than simply being aware that, you know, there, that an event has occurred|sd
 A| Yeah. |b
 A|Yeah.|b
 B|I, I like to stand back and get a slightly bigger picture.|sd
@@ -112,7 +112,7 @@ B|Yeah,|b
 B| that's what, |%
 A| Unfortunately, |sd
 A|but that, that's what it seems like, ten o'clock at night.|sd
-B|I have older childrenand getting dinner on the table.|sd
+B|I have older children and getting dinner on the table.|sd
 A|Uh-huh|b
 B|I come from the east coast|sd
 B|and I was,|%

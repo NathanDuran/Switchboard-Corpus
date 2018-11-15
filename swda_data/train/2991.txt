@@ -15,7 +15,7 @@ B|well, that's not the right way to say it.|^h
 A|You mean instead of people|bf
 A|or,|%
 B|Well I think that, uh, some, some work places where I've been they, they set up|na
-B|like every body has their own P Cwhich a lot of times everybody doesn't need a P C,|sd
+B|like every body has their own P C which a lot of times everybody doesn't need a P C,|sd
 A|Uh-huh.|b
 B|and it really,|%
 B|without them knowing how to use it properly, it slows them down, more than it helps them accomplish something.|sv
@@ -34,14 +34,14 @@ B|and so they waste more time with their trying to, uh, figure out how to do, yo
 B|You know, like, uh, they want to, to format a report a certain way|sv
 A|Uh-huh.|b
 B|and if they really understood the capabilities of the package they could, they could do that in about, you know, half the time that they spend trying to figure out how to do it without spending the time to learn the package properly.|sv
-A|To set up the boundaries correctly, andhow many lines you're going to use in an,|^2
+A|To set up the boundaries correctly, and how many lines you're going to use in an,|^2
 B|Right,|aa
 B|exactly.|ba
 B|Uh-huh.|b
 B|A lot of times they, they, they do it manually on the computer, which just really is a waste of time,|sv
-B|and then, if they ever have to change anything in that, in that, in the document, they have to go back and redo it all manually, whereas if they had learned the package properly to start with and had set it up correctly, the package would do that for themwhenever they wanted to make a change,|sv
+B|and then, if they ever have to change anything in that, in that, in the document, they have to go back and redo it all manually, whereas if they had learned the package properly to start with and had set it up correctly, the package would do that for them whenever they wanted to make a change,|sv
 A|Uh-huh.|b
-A|Can't you, can't you put,Can't you put it on a disk and then just edit it, if you need to when you go back.|qh
+A|Can't you, can't you put, Can't you put it on a disk and then just edit it, if you need to when you go back.|qh
 B|so I, I've seen that as a problem.|sd
 B|Right,|b
 B|but in some, in some cases the with the formatting, what I'm talking about is that they would set up, they set up a certain document,|sd
@@ -49,8 +49,8 @@ B|and it may be eight pages long.|sd
 A|Right.|b
 B|And they set it up manually, so that they have all their spacings and formattings and tabs set manually.|sd
 A|Uh-huh.|b
-A|Andand um,|%
-B|And, um,and rewrite the whole thing instead of having the,then when they have to make a change, say they want to insert a paragraph. They got to go through the document and reset all the page breaks manually|sd
+A|And and um,|%
+B|And, um, then when they have to make a change, say they want to insert a paragraph. They got to go through the document and reset all the page breaks manually and rewrite the whole thing instead of having the,|sd
 A|Rewrite the whole thing.|^2
 B|if, if they had set up the formatting on the system itself, it would do that for them, and save them a lot of time.|sd
 B|But a lot of people don't spend the time to learn the package.|sd
@@ -100,10 +100,10 @@ B|well, it's a number of different things.|no
 B|Sometimes they don't, uh, they don't think that they can get any information out of the manual.|sv
 B|Some manuals aren't really designed very well.|sv
 A|Uh-huh.|b
-B|But some of them,are,|sd
+B|But some of them, are,|sd
 B|and more and more of them are coming out written in a way that it, that just a basic, general user can understand them.|sd
 B|So, I think, um, people think it's going to take them a lot longer to learn it properly than it really would,|sd
-B|and so they're really wasting time rather than saving themselves time, because they think, well, it's quicker just to do it myselfwhen it's really not.|sd
+B|and so they're really wasting time rather than saving themselves time, because they think, well, it's quicker just to do it myself when it's really not.|sd
 A|Right.|b
 A|Uh-huh.|b
 A|It's better to learn it directly from the manual.|sv
@@ -118,7 +118,7 @@ A|Have you worked mostly on I B M,|qy^d
 B|With P C they're either I B M or I B M compatible, mostly.|na
 A|Uh-huh.|b
 A|Yeah,|b
-A|that'sthat's all I've seen in offices, is I B M.|sd
+A|that's that's all I've seen in offices, is I B M.|sd
 B|That is the, you know, the industry standard.|sd
 B|Uh-huh.|b
 B|There's a lot of really good I B M compatibles, too.|sv

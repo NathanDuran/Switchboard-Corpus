@@ -3,9 +3,9 @@ A|Yeah.|ny
 B|It's, it's something that you can really talk about.|sv
 A|Yeah.|b
 B|Um, I don't know what we're going to do about it,|sd
-B|but, but  it's certainly something that has a lot of things to talk about.|sv
+B|but,  but  it's certainly something that has a lot of things to talk about.|sv
 A| Uh-huh. |b
-B|Um, you know, when they say the Middle East, it's  such a big area|sd
+B|Um, you know, when they say the Middle East,  it's  such a big area|sd
 A| Uh-huh. |b
 B|and there's so many different problems there.|sd
 B|Uh, what do you want to concentrate on.|qw

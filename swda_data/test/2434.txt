@@ -29,15 +29,15 @@ A|You have to get a permit from the police station in your local area to do that
 B|I've never heard of anything like that.|sd
 A|Yeah. Uh,|b
 B|That would be nice.|sv
-B| But, you know,|%
-B|the criminals that are going to get their guns  one way or the other.|sv
-A| I I, I agree.|aa
-A|I think, you know, one of the things that, that, that needs to happen is, uh, to, to stop the impulse buyer from, uh, buying it quickly and, and, uh,maybe putting a week's waiting period or something on it.|sv
+B| But,  you know,|%
+B|the criminals that are going to get their guns  one  way or the other.|sv
+A| I  I, I agree.|aa
+A|I think, you know, one of the things that, that, that needs to happen is, uh, to, to stop the impulse buyer from, uh, buying it quickly and, and, uh, maybe putting a week's waiting period or something on it.|sv
 A|But if someone's really determined to, to pick up a firearm you can pick it up any place.|sv
 B| Yeah|b
 A| And  you can get them really cheap.|sv
 B|I know|aa
-B|I, I had a waiting period on my pistol because I was down in, uh, Tennessee.And, uh, they had a waiting period|sd
+B|I, I had a waiting period on my pistol because I was down in, uh, Tennessee. And, uh, they had a waiting period|sd
 A|Uh-huh.|b
 B|and, uh, we bought it there.|sd
 B| And, |%
@@ -63,17 +63,17 @@ A|But I don't know, uh,|h
 A|I think you could recover from a pistol but not from a shotgun|sv
 B|No,|aa
 B|a shotgun's got too much of a spread.|sv
-B| Or at least ours does.|sd
+B| Or at  least ours does.|sd
 A| Yeah. |b
 B|Uh, it's, you know,|%
-B|you have a little, uh, thing on the bottom of on top of the barrelwhere you, you turn it,|sd
+B|you have a little, uh, thing on the bottom of on top of the barrel where you, you turn it,|sd
 A|Uh-huh.|b
 B|you can make it either tight or as loose as loose can get.|sd
 A|Oh.|b
 B|And the spread changes.|sd
 A|Uh, I've got a manual single shot|sd
 A|and I guess it doesn't have any, any automatic features to it.|sd
-A|The further away I get, the, the, uh, wider the shot getsfrom the target.|sd
+A|The further away I get, the, the, uh, wider the shot gets from the target.|sd
 B|Yeah.|b
 A|And the closer that I get, the tighter that it gets.|sd
 A|It's got a hell of a kick to it.|sd
@@ -90,7 +90,7 @@ B|He belonged to one awhile back.|sd
 B|Uh, since we moved,|sd
 B|we've only been here in Texas for about a year|sd
 A|Uh-huh.|b
-B|and, uh, we can't even find a place to shoot.  Just for target practice.|sd
+B|and, uh, we can't even find a place to shoot.  Just for  target practice.|sd
 A| No kidding. |ba
 B|I'd love to get used to that shotgun.|sd
 B|We traded his pistol for that shotgun.|sd
@@ -130,7 +130,7 @@ A|Wow.|ba
 A|He was fortunate.|sv
 A|He could, he could of hit something else  |sd
 B|  Well, he went tumbling down the steps along with, uh, shooting his foot almost off.|sd
-B|He broke his leg andMister Cowboy.collar bone and a couple of other things  I'm sure, being, |sd
+B|He broke his leg and collar bone and a couple of other things  I'm sure, being,  Mister Cowboy.|sd
 A|Wow.|ba
 B|I can't remember what the the term was going around.|sd
 B|It was about four or five years ago.|sd
@@ -139,18 +139,18 @@ A|About, uh, private citizens selling a weapons?|bf
 A|Like if you wanted to sell your pistol to me.|sd
 A|How do you feel about that?|qo
 A|Do you believe there ought to be legislation guiding the, uh, buyer and the seller?|qy
-A|And, or do you believe that you ought to be able to sell your system, uh,because you own it?|qrr
+A|And, or do you believe that you ought to be able to sell your system, uh, because you own it?|qrr
 B|Uh, that's a hard one because we did that.|h
 B|But, uh, I think there ought to be some rule against it.|sd
 B|I'll, uh, you know,|%
 B|the person who sells the gun ought to protect themselves because if that gun's registered to them and somebody else uses that gun in something, the cops are going to come to you.|sv
 A|Yeah.|b
-A| isn't there a way to, uh, to deregister yourself after you register a gun?|qy
+A| isn't  there a way to, uh, to deregister yourself after you register a gun?|qy
 B| Uh, |%
 B|I have no idea.|no
-B| I've only had one gun|sd
-A| Because I  have, |%
-B|and I've kept it,  you know, the one gun that was in my name.|sd
+B| I've only  had one gun|sd
+A| Because I   have, |%
+B|and I've kept it,  you  know, the one gun that was in my name.|sd
 A|Yeah.|b
 A|Is it registered?|qy
 B|Yeah.|ny
@@ -172,7 +172,7 @@ A|I guess that could happen.|aap_am
 A|It's just like the, uh, the social security system|sv
 A|Once they, uh, they gave everybody a number|sd
 A|and now they're making you, uh, uh, get one at, at birth.|sd
-A| And once they have your number, they have your identification.|sd
+A| And  once they have your number, they have your identification.|sd
 B| Yeah. |b
 A|And if you try to do anything, uh, like, uh, not identify yourself to the government, they know who you are.|sv
 B|Yeah.|aa
@@ -185,7 +185,7 @@ B|I was seeing what they was banging on.|sd
 B|Uh, I've lost my train of thought.|sd
 B|I'm sorry|fa
 A|That's all right.|bd
-A|You, you were talking about, uh, uh,what the Federal government knows about people.|bf
+A|You, you were talking about, uh, uh, what the Federal government knows about people.|bf
 B|Oh, the|%
 B|Yeah.|aa
 B|They, they probably know everything from, half the time what time you go to the bathroom.|sv
@@ -205,14 +205,14 @@ B|No.|nn
 A|No.|b^m
 A|I don't either.|sd
 A|I can, I can buy some, uh, today if I wanted to.|sd
-A| Just you know, put up the money.|sd
+A| Just  you know, put up the money.|sd
 B| Yeah.|b
 B|Yeah.|b
 B|Well, you can look in the, uh, the,|sd
 B|we got a thing down here called A SHOPPER.|sd
 A|Uh-huh.|b
 B|It's a, a it's a, it's a bargain thing.|sd
-B|Uh, you go and you know, always see guns in there.Five to seven guns a day.|sd
+B|Uh, you go and you know, always see guns in there. Five to seven guns a day.|sd
 A|Yeah.|b
 B|It comes out every Tuesday.|sd
 A|And there's, there's no waiting period on that.|qy^d

@@ -31,7 +31,7 @@ B|like tonight I only went for thirty minutes,|sd
 B|but I at least did something.|sd
 A|Do you work out on,|qy
 A|like, is it the weight machines or aerobics or what is it?|qrr
-B|Last night I did about thirty minutes of riding a bike and a few, like, three different types of, uh, uh, weight lifting for my legs and,and my hips|sd
+B|Last night I did about thirty minutes of riding a bike and a few, like, three different types of, uh, uh, weight lifting for my legs and, and my hips|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|and then I did a hour of aerobics.|sd
@@ -43,7 +43,7 @@ B|but then tonight I got into a, a,|sd
 B|it's sort of like an aerobics class|sd
 A|Uh-huh.|b
 B|but it's only thirty minutes|sd
-B|and it's for your abdominalsyour thighs, and your butt.|sd
+B|and it's for your abdominals your thighs, and your butt.|sd
 A|Uh-huh.|b
 A|Um.|b
 B|So, and that was,|%
@@ -73,16 +73,16 @@ A|if,|%
 A|you're easily tired|sv
 B|Uh-huh.|b
 A|and so that has made me,|sd
-A|but I, I'm not the kind of person that could go to a spaand work out,|sd
+A|but I, I'm not the kind of person that could go to a spa and work out,|sd
 B|Yeah.|b
 A|I just,|%
 A|if something like, uh,|%
-A|I mean I have so many chores and so manywould make me feel stressed.obligations every day for, to add another obligation|sd
+A|I mean I have so many chores and so many obligations every day for, to add another obligation would make me feel stressed.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 B|Uh-huh.|b
 A|And I wouldn't enjoy it.|sd
-A|But if I have something, some team sport or some activity, then it's kind of like having fun,playing|sd
+A|But if I have something, some team sport or some activity, then it's kind of like having fun, playing|sd
 B|Yeah.|b
 A|and then you, then you get some of the, uh, good exercise and some of the desired results,|sv
 A|but you, you're doing it for fun.|sv
@@ -101,10 +101,10 @@ B|and we'll go and, and just do what we want to do and then leave.|sd
 A|Well, that's nice.|ba
 B|But, yeah,|b
 B|and swimming is a, is a part that I, I'd like to get into as far as my you know,|sd
-B|just aerobic activitythey say that swimming is real good,|sd
+B|just aerobic activity they say that swimming is real good,|sd
 A|Uh-huh.|b
 B|so I'd like to try that as well.|sd
-B|And that's probably something that, that you could do, you knowincluded.family,|sv
+B|And that's probably something that, that you could do, you know family, included.|sv
 A|Yes.|b
 A|It is kind,|%
 A|It is family,|^2
@@ -112,10 +112,10 @@ A|and it's fun.|sd
 B|Uh-huh.|aa
 A|It's a fun thing|sd
 A|and kids enjoy that and and all.|sd
-A|And also, the nice thing about belonging to a club is that you can have some of the relaxation, you know, like saunas, orthey have that kind of is, kind of makes it fun and stuff, you know,you know, uh, hot Jacuzzis or whatever,|sv
+A|And also, the nice thing about belonging to a club is that you can have some of the relaxation, you know, like saunas, or you know, uh, hot Jacuzzis or whatever, they have that kind of is, kind of makes it fun and stuff, you know,|sv
 B|Yeah.|b
 B|Right.|b
-A|you can relax that way,afterwards and things.|sv
+A|you can relax that way, afterwards and things.|sv
 B|Uh-huh.|b
 B|Yeah.|aa
 B|I agree|aa

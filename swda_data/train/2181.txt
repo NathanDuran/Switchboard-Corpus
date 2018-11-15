@@ -1,8 +1,8 @@
 A|Yes,|fo_o_fw_"_by_bc
 A|I saw HOME ALONE with some friends just a couple days ago.|sd
-A|I wanted to see it, uh, because there was, uh, much recommended,for months and months and months|sd
+A|I wanted to see it, uh, because there was, uh, much recommended, for months and months and months|sd
 A|and it was a, a genre that I wasn't in the least bit interested in,|sd
-A|and I usually, when I hear about a movie that's supposed to be very goodeven if it's in a genre I don't like,|sd
+A|and I usually, when I hear about a movie that's supposed to be very good even if it's in a genre I don't like,|sd
 B|Uh-huh.|b
 A|I figure, well, I should go see it, because if this is, you know, the best of the genre and I should know about it, or something like that|sd
 B|Yeah,|b
@@ -16,12 +16,12 @@ B|and you always, you know, end up with expectations too high or whatever,|sd
 A|Yeah,|b
 A|yeah.|b
 B|Right.|b
-A|Well, the, the problem I had with the movie was the problem I've had with a lot of, uh, I guess, Hollywood movieswhich is they are, it's a formula movie,|sd
+A|Well, the, the problem I had with the movie was the problem I've had with a lot of, uh, I guess, Hollywood movies which is they are, it's a formula movie,|sd
 B|Uh-huh.|b
 A|and they're making the movie according to certain formula that's a good formula|sv
 B|Uh-huh.|b
 A|but they seem to fall short of, of being really creative with a lot of things,|sv
-A|I meanhere's the situation of this kid at home, you know,|sd
+A|I mean here's the situation of this kid at home, you know,|sd
 B|Yeah,|b
 B|uh-huh.|b
 A|it's a classic slapstick situation with these bungling burglars trying to get in|sd
@@ -38,7 +38,7 @@ A|Uh-huh,|b
 A|uh-huh.|b
 B|there's not as much slapstick anymore.|sv
 A|Well, I guess it was a, uh, a very successful movie financially,|sd
-A|sowe may see more slapstick.|sv
+A|so we may see more slapstick.|sv
 B|Uh-huh.|b
 B|Yeah,|aa
 B|well, that's true,|sv
@@ -56,7 +56,7 @@ B|Um, he's, uh,|%
 B|well, it's about a man, uh, that, uh, leaves his home and comes back to his wife,|sd
 B|and his wife's all excited|sd
 B|but the guy that comes back is not her original husband,|sd
-B|but, um.O'Gear um, I'm sure you've heard of it,|sv
+B|but, um. O'Gear um, I'm sure you've heard of it,|sv
 A|Um.|%
 B|it was a very famous, uh, popular movie.|sv
 B|Norman Gray,|sd
@@ -68,7 +68,7 @@ B|I'll remember the name.|sd
 B|But, uh, anyway, that was a French movie|sd
 A|Uh-huh.|b
 B|it was, um, that was the last one I saw downtown,|sd
-B|but I live in D Cwell, actually Falls Church, Virginia, outside the city|sd
+B|but I live in D C well, actually Falls Church, Virginia, outside the city|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|and, uh, so a lot of times they have the, the, the, international films downtown|sd
@@ -88,7 +88,7 @@ A|and that's what I find lacking in a lot of, you know, like HOME ALONE.|sd
 A|There was a lot of the human character when he was home alone and he was trying|sv
 B|Right.|b
 A|and there was a lot of human character there,|sv
-A|but when it was, the real slapstick moments, him versus the criminals kind of thing, it just sort of lost the human elementand became purely a caricature|sv
+A|but when it was, the real slapstick moments, him versus the criminals kind of thing, it just sort of lost the human element and became purely a caricature|sv
 B|Uh-huh.|b
 B|Right.|b
 A|does that make since to you?|qy
@@ -96,7 +96,7 @@ B|Yeah,|ny
 B|uh-huh,|ny
 B|yeah,|ny
 B|I see what you're saying,|sd
-B|there's less character development, rather just the, the, the funniness of the gag, rather than |bf
+B|there's less character development, rather just the, the, the funniness of the gag,  rather than |bf
 A| Yeah,|aa
 A|yeah. |aa
 A| Did you go with kids though? |qy
@@ -107,7 +107,7 @@ A|Did you take kids along?|qy
 B|No,|nn
 B|we went, uh, without the kids,|sd
 B|it's was a night out, away from the children.|sd
-A|Oh, I would have liked to have a kid with me, I think, preferably someone seven or eightespecially to come homejust, just to get a sense for, you know, how, how it affected them.|sd
+A|Oh, I would have liked to have a kid with me, I think, preferably someone seven or eight just, just to get a sense for, you know, how, how it affected them. especially to come home|sd
 B|Oh.|b
 A|and, you know, I would have gotten in trouble the next day,|sd
 A|I'm sure.|sd
@@ -134,7 +134,7 @@ B|I was worried|sd
 A|Yeah,|b
 A|isn't it amazing.|ba
 B|it's like golly,|sv
-B|if kids start imitating thatthey'll knock each others blocks off,|^q
+B|if kids start imitating that they'll knock each others blocks off,|^q
 A|Yeah.|b
 A|Yeah,|b
 A|it was all bloodless|sd
@@ -146,7 +146,7 @@ B|Yeah.|b
 A|they don't, they don't, you know, get, uh, epileptics, that sort of thing from getting hit on their head|sd
 B|Right.|b
 A|you know, it's a little disturbing the violence in these films,|sv
-A|partly it's supposed to be a little bit more okay because it's comic bookon the other hand it makes it seem like,|sd
+A|partly it's supposed to be a little bit more okay because it's comic book on the other hand it makes it seem like,|sd
 B|Uh-huh.|b
 A|I read an article one time talking about even the quote unquote realistic movies, don't have very realistic upsets of the violence.|sd
 A|The violence can seem very realistic,|sd
@@ -199,7 +199,7 @@ A|and they failed individually,|sd
 A|and then that was it,|sd
 A|then they had to have the Master beat him|sd
 B|Right.|b
-A|and the Master should, according to the classic myth, the sort of Joseph Campbell type myth, he, the Master should have died at the endbecause the, the lesson was passed to the young generation|sd
+A|and the Master should, according to the classic myth, the sort of Joseph Campbell type myth, he, the Master should have died at the end because the, the lesson was passed to the young generation|sd
 B|Right.|b
 A|and the older generation is not needed|sd
 A|and is reborn to the younger generation,|sd
@@ -209,8 +209,8 @@ A|and it still would have been every bit as accessible a movie for the kids if t
 A|it wouldn't have hurt the movie to do that,|sv
 A|and it would have make it, uh, broadened the audience that it could have been targeted for, I thought|sv
 B|Uh-huh.|b
-A|but, I, uh, I'm truly enough, you know, I'm truly an intellectual snob,to be going to these kinds of movies,|sd
-A|I realize that. I mean, to go to these movies and expect them to be, you know, other than just, just good entertainmentkind of thing.|sv
+A|but, I, uh, I'm truly enough, you know, I'm truly an intellectual snob, to be going to these kinds of movies,|sd
+A|I realize that. I mean, to go to these movies and expect them to be, you know, other than just, just good entertainment kind of thing.|sv
 B|Right.|b
 B|That's true.|sv
 B|Yeah,|aa
@@ -224,14 +224,14 @@ A|I, I, I'm actually originally from Hollywood,|sd
 A|and then, then, then|%
 A|and my father works in films|sd
 A|and such,|%
-A|and I tend to, tend to be hypercriticalof these things,|sd
+A|and I tend to, tend to be hypercritical of these things,|sd
 A|and then, perhaps, perhaps it's unfair, because I, I, I must admit I enjoy these movies|sd
 B|Yeah,|b
 B|right.|b
 A|and that's what they're for,|sv
 A|but I don't, don't remember them,|sd
 A|and I think it's, I think, I can think of movies I have less fun during|sd
-A|and then after the movie's over, I remember it so terribly wellbecause it, it had some, some meaning to me or something.|sd
+A|and then after the movie's over, I remember it so terribly well because it, it had some, some meaning to me or something.|sd
 B|Uh-huh.|b
 B|Right,|aa
 B|exactly,|aa
@@ -239,7 +239,7 @@ B|yeah,|aa
 B|there, there, there are several movies that hit home like that.|sd
 B|Of course the ones I always remember are the, the older ones|sd
 A|Uh-huh.|b
-B|I always like the musicals, and uh, those ones, that just stick  in your head.|sd
+B|I always like the musicals, and uh,  those ones, that just stick  in your head.|sd
 A|Yeah,|b
 A| yeah,|b
 A|they leave, |%
@@ -248,10 +248,10 @@ A|they leave, they leave some songs with you,|sd
 A|I don't know what it is|h
 B|Uh-huh.|b
 A|but it just,|%
-A|I mean, I don't know if this is old fart talking hereor something, because I'm not that old|h
+A|I mean, I don't know if this is old fart talking here or something, because I'm not that old|h
 B|No,|ar
 B|it could be.|aap_am
-A|you know, those old movies seemed to have had somethingthat, uh, that was memorable somehow,|sv
+A|you know, those old movies seemed to have had something that, uh, that was memorable somehow,|sv
 B|Uh-huh.|b
 A|I don't know what it was.|sd
 B|Um. Okay,|b

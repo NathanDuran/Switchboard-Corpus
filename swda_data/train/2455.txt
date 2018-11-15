@@ -5,13 +5,13 @@ B|yeah,|%
 B|this is, this is probably more interesting if it had been a male and a female|sv
 A|I was afraid we might get into an argument.|sd
 B|Right.|aa
-A|Well, uh, I guess uh, there have been certainly a lot of changes in the last couple of generations,for, uh, the roles of women|sv
+A|Well, uh, I guess uh, there have been certainly a lot of changes in the last couple of generations, for, uh, the roles of women|sv
 B|Uh-huh.|b
-A|and uh, I guess the most significant probably is that so many are working now,And trying to juggle job and home and family and all sorts of other possibilities, you know,|sv
+A|and uh, I guess the most significant probably is that so many are working now, And trying to juggle job and home and family and all sorts of other possibilities, you know,|sv
 B|Right.|b
 A|they may be going to school, or may have elderly parents, or you know all sorts of other things.|sv
 B|Yeah,|b
-B|it, it seems too me like though that women's roles are changing faster than the men and therefore, the women are spreading themselves thinner,than before.|sv
+B|it, it seems too me like though that women's roles are changing faster than the men and therefore, the women are spreading themselves thinner, than before.|sv
 A|Oh, I think so.|aa
 A|Absolutely.|aa
 A|I, I, I think it's extremely difficult to keep up with all that we have to these days.|sv
@@ -34,14 +34,14 @@ A|So, uh, yeah|%
 A|and for a while I was going to school too,|sd
 A|and it was tough.|sd
 B|Yeah,|b
-B|I uh, I think that while it's a good change for I think women to be able to fulfill their potential in whatever they feel, you know,their expertise may be.|sv
+B|I uh, I think that while it's a good change for I think women to be able to fulfill their potential in whatever they feel, you know, their expertise may be.|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|Uh, I think sometimes other things suffer and|sd
 B|I think it's hard to find a balance there.|sv
 A|But in some ways I think we are expected to do it all.|sv
 A|You're almost looked down upon if you don't try to do all of these things|sv
-A|andthat's where the problem is really.|sv
+A|and that's where the problem is really.|sv
 B|Right.|b
 B|Yeah,|b
 B|yeah,|b
@@ -54,13 +54,13 @@ B|and most of us do tend to stay home,|sv
 B|but when I run into people that, you know, just have recently had babies or have very young children and are working full time, I, there's almost a, uh, friction between us.|sd
 A|Uh-huh.|b
 B|Uh-huh,|b
-B|not people that are, you know, necessarily good friends,Even though that has happened too, uh,|sd
+B|not people that are, you know, necessarily good friends, Even though that has happened too, uh,|sd
 A|Yeah.|b
 B|it's almost as though it puts you on different sides of a fence.|sv
 B|You know|%
 B|if you decide to go back to work then you feel like you are always having to defend yourself.|sv
 A|Right.|b
-B|And if you don't then, sometimes you feel like you're looked down upon by people that go back to work and so you're just wasting your time ,at home.|sv
+B|And if you don't then, sometimes you feel like you're looked down upon by people that go back to work and so you're just wasting your time , at home.|sv
 A|Yeah.|b
 A|Yeah,|aa
 A|it's a tough one.|sd
@@ -93,7 +93,7 @@ B|it's a way for me to stay home.|sd
 A|Uh-huh.|b
 B|And I mean, I still, unfortunately have to be very disciplined in doing my work at five in the morning and ten o'clock at night,|sd
 A|Yeah.|b
-B|but, uh, but it, it's worked out for, for my family,to have my cake and eat it too, kind of thing.|sd
+B|but, uh, but it, it's worked out for, for my family, to have my cake and eat it too, kind of thing.|sd
 A|Yeah.|b
 A|Yeah,|b
 A|that's a good deal.|ba
@@ -109,10 +109,10 @@ B|I mean I'm just thinking of my circle of people that I know.|sd
 B|I know quite a few people who have decided to not have both, both, both, uh, couples, you know, both, uh, of the parents work.|sd
 A|Yeah.|b
 B|And yet, uh, I, I|%
-B|I hope to see employer based, you know, helping out.You know, child, uh, care centers at the place of employment and, and things like that, that will help out.|sd
+B|I hope to see employer based, you know, helping out. You know, child, uh, care centers at the place of employment and, and things like that, that will help out.|sd
 A|Uh-huh.|b
 B|What do you think,|qo
-B|do you think we are,setting a trend?|qy
+B|do you think we are, setting a trend?|qy
 A|I don't,|sd
 A|yeah,|ny
 A|I, well I see, I think some people wanting to stay home more and take care of the children.|sd

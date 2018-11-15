@@ -14,7 +14,7 @@ B|uh, you know, it, it really irks me to see so much effort put into preventing 
 A|That's true|aa
 A|I guess, well, there's, there's probably two or three different types of, of views as far as the controversy goes.|sv
 A|I can see where if a life was taken by accident or, uh, I don't know what you'd call it, not premeditated or, I guess primarily by accident, uh, there may be cases where the death penalty is not called for,|sv
-A|but I lean towards,if it's premeditated or if it's, uh, kind of a habitual or, or a habit that, uh, a tendency that people, uh, may get into, then I guess I don't really have a problem with it|sv
+A|but I lean towards, if it's premeditated or if it's, uh, kind of a habitual or, or a habit that, uh, a tendency that people, uh, may get into, then I guess I don't really have a problem with it|sv
 B|Oh, yeah.|b
 B|Yeah,|aa
 B|that's, that's kind of the way I feel.|sd
@@ -24,7 +24,7 @@ B|it's, it's not going to, it's just not going to get any better.|sv
 B|And, and the only thing, you know,|%
 B|a lot of people have the opinion that, you know, don't, don't have capital punishment,|sv
 B|but give them life in jail|sd
-B|and, you know, I could go along with that, if, if I could be assured that it would be their natural life in jail and not parole after ten,or twelve years.|sd
+B|and, you know, I could go along with that, if, if I could be assured that it would be their natural life in jail and not parole after ten, or twelve years.|sd
 A|Yeah.|b
 A|Yeah,|b
 A|I think that's what aggravates a lot of people, is somebody does get a life sentence in place of the death penalty,|sv
@@ -43,20 +43,20 @@ A| No. |aa
 B| Because,  you know, you,|%
 B|if like|%
 B|the State of Texas, for example, may, uh, you know, may execute somebody twice a year.|sd
-B|You know, that's, that's no kind of deterrent because we, we've got literally hundreds of people on death row, and, and many of them who have been there for literally for ten or fifteen yearson death row,|sv
+B|You know, that's, that's no kind of deterrent because we, we've got literally hundreds of people on death row, and, and many of them who have been there for literally for ten or fifteen years on death row,|sv
 A|Right.|b
 B|and that's, that's certainly no kind of deterrent,|sv
 B|and I would tend to agree with anybody who says right now that it, it's not a terrent, a deterrent, because it's not.|sd
 A|No,|aa
 A|it's not.|aa
 A|You think of your chances of getting the death penalty after uh, committing a crime are really pretty slim right now.|sv
-A|And you can,probably spend, uh, a lot of time, uh, or maybe eventually, uh, just waiting it out,|sv
+A|And you can, probably spend, uh, a lot of time, uh, or maybe eventually, uh, just waiting it out,|sv
 B|Oh, yeah.|b
 B|Uh-huh.|b
 A|and that's where a lot of aggravation comes, I think, is, is, uh, these guys spend so much time in the appeal process or just in the waiting process,|sv
 B|Uh-huh.|b
 A|they may spend years,|sd
-A|and, you know, the last I heard it was costing ten, twenty, thirty thousand dollars a year, uh,to keep these guys waiting.|sd
+A|and, you know, the last I heard it was costing ten, twenty, thirty thousand dollars a year, uh, to keep these guys waiting.|sd
 B|Yeah,|b
 B|it, it's amazing.|sv
 B|There's, uh, there's a girl I work with, our secretary, as a matter of fact,|sd
@@ -66,14 +66,14 @@ A|Yeah.|b
 B|And, you know, this, this was her father, uh, you know, that, that got killed, you know, just cold-blooded murder, him and three other people,|sd
 B|and, but still, for some reason, you know, this, this guy's sentence has not been carried out, you know,|sd
 B|he's sitting on death row for eight years after having killed four people,|sd
-B|and the State still can't bring itself to, to execute,this guy.|sd
+B|and the State still can't bring itself to, to execute, this guy.|sd
 A|To, yeah, to carry it out.|^2
 A|It sort of takes the justice out of the justice system.|bf
 B|It does,|aa
 B|it really does, you know.|aa
 B|She, and they have to go back, uh,|sd
 B|occasionally, you know, she has to write letters to the parole board and, you know, lawyers,|sd
-B|and just, just ever so often she mentions, well, she's got to do something else, you know, write another letter,or do something.|sd
+B|and just, just ever so often she mentions, well, she's got to do something else, you know, write another letter, or do something.|sd
 A|Yeah.|b
 B|It's just,|%
 A|It should be over and done with.|^2
@@ -83,20 +83,20 @@ B|you know, she should be getting on with her life, you know, getting, getting t
 B|but yet, it's, it's kind of tied to her the way it is now.|sd
 A|Yeah,|aa
 A|it is.|aa
-A|And she winds up being a, a victim,day after day after day.|sv
+A|And she winds up being a, a victim, day after day after day.|sv
 B|Yeah.|b
 B|Yeah,|aa
 B|right.|aa
 B|A victim,|sd
-B|not only of, indirectly of the crime, but also indirectly by that,indirect involvement.|sd
+B|not only of, indirectly of the crime, but also indirectly by that, indirect involvement.|sd
 A|Right.|b
-B|It's just, it's,it's ridiculous.|sv
-A|She,She's an emotional victim|bf
+B|It's just, it's, it's ridiculous.|sv
+A|She, She's an emotional victim|bf
 B|Yeah.|aa
 B|Yeah,|aa
 B|it, it's terrible, you know|sv
 B|and,|%
-A|And, you know, the, like you say, the cops are out doing the workbasically go out the window.day by day have got to have a lot of frustration when they see all their work,|sv
+A|And, you know, the, like you say, the cops are out doing the work day by day have got to have a lot of frustration when they see all their work, basically go out the window.|sv
 B|Yeah.|b
 B|Oh, that,|%
 B|oh, man, I, I couldn't be a cop for that, for that very reason, you know, because they do.|sd
@@ -106,7 +106,7 @@ A|Yes,|aa
 A|they are.|aa
 B|It's,|%
 A|Well, that's about five minutes,|sd
-A|sounless you've got something else, well,|qy^d
+A|so unless you've got something else, well,|qy^d
 B|Yeah.|b
 B|No|nn
 A|It's a pleasure talking with you.|fc

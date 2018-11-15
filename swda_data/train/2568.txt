@@ -32,7 +32,7 @@ B| I, I  guess one of my favorite, well two of my favorite movies is probably li
 A|Okay.|bk
 B|And those are, those are like two of my most favorite,|sd
 B|I mean they're just really good movies.|sv
-B|And I liked BIRD ON A WIRE.And movies like that.|sd
+B|And I liked BIRD ON A WIRE. And movies like that.|sd
 A|Yeah.|b
 A|Do you like suspense movies|qy
 A|or do you like, uh, just action|qrr
@@ -85,7 +85,7 @@ A|and it's got a good historical perspective to it.|sd
 B|That's probably something I need to see right now because I'm taking history in school|sd
 A|Oh, yeah.|b
 A|Actually, I just saw a movie, uh, called THE LOST CAPONE.|sd
-A|And it's about Al Capone's brothers.Primarily one of his brothers,|sd
+A|And it's about Al Capone's brothers. Primarily one of his brothers,|sd
 B|Oh, really.|b
 A|and I won't give the, the whole plot away|sd
 A|but it's, it's really a good movie. Uh,|sd
@@ -112,12 +112,12 @@ A|it is.|sd
 B|Okay,|bk
 B|I may have to do that. Go see it,|sd
 B|or go rent it.|sd
-A|And, a lot of times, what I wind up doing is, picking say an actor or an actress, and  seeing like all,|sd
+A|And, a lot of times, what I wind up doing is, picking say an actor or an actress,  and  seeing like all,|sd
 B| Yeah. |b
-A|I've seen all of James Dean's movies. Uh,  all of Mae West's movies.|sd
+A|I've seen all of James Dean's movies.  Uh,  all of Mae West's movies.|sd
 B| Uh-huh. |b
 A|And, just kind of, kind of go out and, uh, rent all the movies and, uh, uh, you know, just kind of go,|sd
-A|I guess you could do that, you know, get all of David Carradine's movies, or,  uh, uh, Segal,|sv
+A|I guess you could do that, you know, get all of David Carradine's movies,  or,  uh, uh, Segal,|sv
 B| Uh-huh. |b
 A|to,|%
 A|what's his first name.|qw
@@ -128,7 +128,7 @@ A|I don't know,|h
 A|he was on, uh, on, uh, uh, Arsenio, just recently.|sd
 B|Oh, I don't, I don't watch that|sd
 B|Um,|%
-A|It was really kind of interesting because, Arsenio  was asking him about, uh, what he thought of, uh, one of the other action guys.|sd
+A|It was really kind of interesting because,  Arsenio  was asking him about, uh, what he thought of, uh, one of the other action guys.|sd
 B| Really. |b
 A|God, I can't even remember the name.|sd
 A|He said well, he wouldn't really talk about it.|sd
@@ -158,7 +158,7 @@ A|Don't watch really very many horror films at all.|sd
 B|Yeah,|b
 B|I don't either|sv
 A|You know, I don't know,|h
-A|there's something about people coming up through the sofa to get you, or something, you know, coming out of the  T V that just doesn't make my day, you know.|sd
+A|there's something about people coming up through the sofa to get you, or something, you know,  coming out of the  T V that just doesn't make my day, you know.|sd
 B| Yeah,|aa
 B|you're right. |aa
 B|Well it's so,|%
@@ -270,7 +270,7 @@ A|It's from DANCES WITH WOLVES.|sd
 B|Really.|bh
 A|Yeah,|ny
 A|and he signed it.|sd
-A|He, he happens to be, uh, a friend of one of her, her business associates.And, or, not, not a friend, a cousin, a cousin.|sd
+A|He, he happens to be, uh, a friend of one of her, her business associates. And, or, not, not a friend, a cousin, a cousin.|sd
 B|Oh, wow, that's impressive.|ba
 B| Oh, neat. |ba
 A| So, uh,  uh, but anyhow we got, uh, we got a nice, uh, picture|sd

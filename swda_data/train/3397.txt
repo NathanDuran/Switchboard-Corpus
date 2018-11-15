@@ -79,7 +79,7 @@ A|Yeah,|b
 A|yeah.|b
 A|Um, I haven't really picked a field.|sd
 A|I haven't, I, I don't know, I've thought a lot about labor and delivery|sd
-A|butI don't know.|no
+A|but I don't know.|no
 B|Uh-huh.|b
 B|Try that.|ad
 B|That's what my mom does, labor and delivery.|sd

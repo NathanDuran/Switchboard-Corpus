@@ -37,9 +37,9 @@ A|Oh, that's wonderful.|ba
 A|Um, well, I likewise sang in high school and in college in choirs,|sd
 A|and then I didn't sing in a choral group, um, until after I was, uh, married,|sd
 A|and I sang in a couple of, uh, community choirs, and then um, waited for a while,|sd
-A|and now I've, for about the last eight years I've sung in a church choir here,in Texas.|sd
+A|and now I've, for about the last eight years I've sung in a church choir here, in Texas.|sd
 B|Oh, yeah.|b
-A|And, um, so I, I enjoy,as well.just the chorals singing a lot,|sd
+A|And, um, so I, I enjoy, just the chorals singing a lot, as well.|sd
 B|Uh-huh.|b
 A|Um, are you a soprano, alto, or,|qy
 B|Soprano.|sd
@@ -48,13 +48,13 @@ A|Yeah, so am I.|sd
 A|Do you,|qy
 A|and, uh, what kind of music do you like to sing?|qw
 A|Um, you were saying you had classical training.|sd
-A|Do you have a particular composer that you like or,a particular type ?|qy
+A|Do you have a particular composer that you like or, a particular type ?|qy
 B|Oh, well,|%
 B|as far as opera goes, I'm, I think most fond of Verdi.|sd
 A|Uh-huh.|b
 A|I've been listening to, um, some, uh, some advertisements for MADAM BUTTERFLY,|sd
 A|and I'm wondering if you, if you have ever done anything like that,|sd
-A|have you ever done any, uh, if,if you had done MADAM BUTTERFLY.|qy
+A|have you ever done any, uh, if, if you had done MADAM BUTTERFLY.|qy
 B|No,|nn
 B|no,|nn
 B|I haven't done, uh,|sd
@@ -65,17 +65,17 @@ B|right?|^g
 A|Uh-huh,|ny
 A|yes,|ny
 A|uh-huh.|ny
-A|Um, MADAM BUTTERFLY was, um,in Dallas,|sd
+A|Um, MADAM BUTTERFLY was, um, in Dallas,|sd
 A|it's been two or three years ago now,|sd
 A|and then I went to see that,|sd
-A|and,it was really wonderful.|sd
+A|and, it was really wonderful.|sd
 B|Uh-huh.|b
 A|It was particularly well,|sd
 A|the acting was particularly nice, I thought,|sd
-A|and, um, so,it was quite popular.|sd
+A|and, um, so, it was quite popular.|sd
 B|Yeah.|b
 A|Um, you don't play, um, an instrument|sd
-A|so,uh, um, have you ever wanted to, like guitar or piano or|qy
+A|so, uh, um, have you ever wanted to, like guitar or piano or|qy
 A|Yeah,|aa
 A|yeah.|aa
 A|That, I think that's always a good instrument for anybody who sings or does, you know, some other kind of instrument,|sv
@@ -93,7 +93,7 @@ A|so.|%
 B|Uh-huh.|b
 A|Um, but the,|%
 A|I, I think that the piano background is very, um, useful,|sv
-A|and, um, I'm sure that it, for you, it would have been great to be able to accompany yourself,just for practicing and so on.|sv
+A|and, um, I'm sure that it, for you, it would have been great to be able to accompany yourself, just for practicing and so on.|sv
 B|Oh, yeah.|aa
 A|Uh-huh.|b
 A|Do you have any other kind of music that you like?|qy
@@ -102,7 +102,7 @@ A|Uh-huh.|b
 A|I have a,|%
 A|I used to work with a fellow who had, um,|sd
 A|although this was a computer company, he had his, uh, P H D in musical, uh, I guess it was in composition, actually, from University of North Texas,|sd
-A|and, uh, yet when I would go into his,his office every now and then, you never knew what kind of music he'd be playing on the radio|sd
+A|and, uh, yet when I would go into his, his office every now and then, you never knew what kind of music he'd be playing on the radio|sd
 A|It may be country,|sd
 A|it might be classical,|sd
 A|it might be rock, you know|sd
@@ -124,28 +124,28 @@ B|or,|%
 A|Yeah.|b
 B|um|%
 A|I know that there are, if you're interested in choral singing,|sd
-A|I'm not sure where,you are in Texas,|sd
-A|but I do know that some communities have,uh, community choruses|sd
-A|and,uh, that's often a good way to get back into it again.|sv
+A|I'm not sure where, you are in Texas,|sd
+A|but I do know that some communities have, uh, community choruses|sd
+A|and, uh, that's often a good way to get back into it again.|sv
 B|Uh-huh.|b
 A|Um, it's not terribly demanding.|sv
 A|You might have to audition,|sd
 A|but that probably wouldn't be a problem,|sv
 A|but, um, there usually, you know,|sd
 A|that they take tours and things like that|sd
-A|and you get to knowyou know, people socially as well as, as in a musical setting,|sd
+A|and you get to know you know, people socially as well as, as in a musical setting,|sd
 B|Uh-huh.|b
-A|sothat's always fun.|sv
+A|so that's always fun.|sv
 B|Yeah.|b
 A|I think that's, well, that's one reason why I have enjoyed my choir so much, is that not only do we sing wonderful music,|sd
 A|but we've gotten to know each other quite well, um, in, on a, a social level,|sd
-A|and,and I think we sing better because of that.|sd
+A|and, and I think we sing better because of that.|sd
 B|Uh-huh.|b
-A|I think, you know,which is really nice.I think we sing more like, uh, people who trust each other|sd
+A|I think, you know, I think we sing more like, uh, people who trust each other which is really nice.|sd
 B|That's good.|ba
 B|Uh-huh,|b
 B|yeah.|b
-A|So, whereabouts in,Texas are you, if I could ask?|qw
+A|So, whereabouts in, Texas are you, if I could ask?|qw
 B|Oh, I'm in Flower Mound.|sd
 A|Flower Mound,|b^m
 A|okay.|bk
@@ -187,7 +187,7 @@ B|I think,|%
 A|I haven't paid, haven't been paying attention to the, to the clock.|sd
 A|But, uh, I'll bet we've done, we've done at least five minutes.|sd
 B|Probably|sd
-A|Well, I've enjoyed talking with you,uh, Becky,|fc
+A|Well, I've enjoyed talking with you, uh, Becky,|fc
 B|Okay.|fc
 A|and, um, maybe we'll talk again.|fc
 B|All right,|fc

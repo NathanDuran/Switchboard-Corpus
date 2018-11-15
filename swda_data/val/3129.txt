@@ -16,7 +16,7 @@ B|Oh.|b
 A|So I'll be faced with having to return that product and, uh, hoping that, uh, you know, that they will accept it,|sd
 A|although it's been removed from the box it's obviously not been really used.|sd
 B|Did you do the diagnosis, or was it just an assumption that that's probably the part that failed?|qy
-A|Uh, I had done what diagnosis I could, primarily by looking at a wiring diagram that I did have of the carand, uh, pretty much decided that that had to be the problem.|sd
+A|Uh, I had done what diagnosis I could, primarily by looking at a wiring diagram that I did have of the car and, uh, pretty much decided that that had to be the problem.|sd
 B|Uh-huh.|b
 A|I talked to one mechanic about it,|sd
 A|and he suspected the switch also.|sd
@@ -28,8 +28,8 @@ A|uh, it might be tied into the equation somehow,|sv
 A|but,|%
 B|Yeah, I know,|b
 B|uh, when working with the, uh, flashers, there is, uh, usually a, a special fuse that operates the flashers.|sv
-B|Do you have a separate fuse for your high beamas opposed to your low beam?|qy
-A|II don't know,|no
+B|Do you have a separate fuse for your high beam as opposed to your low beam?|qy
+A|I I don't know,|no
 A|I should look at that.|sv
 A|I don't remember seeing one in the, uh, in the diagram|sd
 B|Diagram.|^2
@@ -50,7 +50,7 @@ B|Is this a, a mail order parts house that specializes in, in parts for parts fo
 A|Right,|na
 A|exactly|na
 B|Who,|%
-A|it's out of Kansassomewhere.|sd
+A|it's out of Kansas somewhere.|sd
 B|Um|b
 B|so, it's not J C Whitney or somebody like that.|qy^d
 A|No,|nn
@@ -65,7 +65,7 @@ B|have you found any, uh, uh, reliable import service people in the metroplex?|q
 A|Well, I had one person that I used for years and years on this car,|na
 A|because I've owned this car since it was new,|sd
 A|and, uh,|%
-A|but it's over like in the Brook Hollow industrial district down on Stemmons andInwood area|sd
+A|but it's over like in the Brook Hollow industrial district down on Stemmons and Inwood area|sd
 B|Oh, yeah.|b
 B|Uh-huh.|b
 A|and I hadn't used him for some years,|sd
@@ -88,7 +88,7 @@ A|because I didn't take it in right away, and let a whole year go by.|sd
 A|Uh, some of the buttons didn't work right, where you had to actually physically hold them down to get it to record or to play,|sd
 A|and as it turned out, it had a full year's warranty,|sd
 A|and I could have gotten it repaired for free|sd
-A|butI had to take it in,|sd
+A|but I had to take it in,|sd
 B|Oh, my goodness.|ba
 A|while it was in the shop I ended up finding the receipt that I thought had long since been lost,|sd
 A|uh, but it didn't do me any good, because I had, I had missed the window by about a week or two.|sd
@@ -116,11 +116,11 @@ B|and the problem didn't go away,|sd
 B|so we ended up taking it back again,|sd
 B|and I don't know why they don't look at these things the first time around,|sd
 B|but the second time around they looked at their, uh, recall service and their service reports from region or headquarters whatever,|sd
-B|and, and they had a description of the exact problem we were experiencing that apparently was a programming errorin the, uh, computer control unit,|sd
+B|and, and they had a description of the exact problem we were experiencing that apparently was a programming error in the, uh, computer control unit,|sd
 A|Huh.|b
 B|which fortunately they replaced under warranty, because it was about a three hundred or three hundred and fifty dollar part|sd
 A|My goodness.|ba
-B|and, uh, so once they replaced it, then the, the car seemed to work finefor a considerable period of time,|sd
+B|and, uh, so once they replaced it, then the, the car seemed to work fine for a considerable period of time,|sd
 A|Huh.|b
 B|and now it seems to be,|sd
 B|we we're not experiencing the stalling,|sd

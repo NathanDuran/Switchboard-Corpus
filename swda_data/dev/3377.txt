@@ -11,7 +11,7 @@ A|I haven't gotten the chance lately though to play.|sd
 A|I'm trying to get back into it.|sd
 A|Uh, so, uh, I got to start all over again.|sd
 A|It's not like riding a bicycle.|sv
-A|You do tend to,forget.|sv
+A|You do tend to, forget.|sv
 B|No.|aa
 B|Well, I'm one of those rare left-handed golfers.|sd
 A|Oh.|b
@@ -90,7 +90,7 @@ A|Okay.|b
 A|I just moved into this small community|sd
 A|so I'm going to try and get into one of the golf courses here.|sd
 A|I'm hoping that won't be,|%
-A|I,twin cities area.was from the, uh,|sd
+A|I, was from the, uh, twin cities area.|sd
 B|That's some cold golf too, isn't it?|qy
 A|Yeah|ny
 A|Are you sure you guys aren't having the bad weather?|qy
@@ -103,7 +103,7 @@ B|Something is coming through now|sd
 B|so it's like in the low forties right now.|sd
 A|Oh.|b
 B|But, uh, it's supposed to leave early in the week and then be back in the sixties.|sd
-B|We have very windy wintersand very cold.|sd
+B|We have very windy winters and very cold.|sd
 A|Yeah|b
 B|But we don't get any snow anymore.|sd
 B|I don't, I don't know what changed that pattern.|sd
@@ -113,7 +113,7 @@ B|It's been probably five years since we've had any measurable snowfall.|sd
 A|I see.|b
 A|Well, at least it, that doesn't, uh, get in the way of golfing|sv
 A|so that|%
-B|No,Get out my orange golf ball and go out.|aa
+B|No, Get out my orange golf ball and go out.|aa
 A|Yeah.|b
 A|Yeah,|b
 A|that's what they do here sometimes.|sd

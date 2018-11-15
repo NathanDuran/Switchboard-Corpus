@@ -14,7 +14,7 @@ B|but, I've been going over to the fitness center.|sd
 A|Yeah,|b
 A|that's a good,|ba
 A|yeah,|b
-A|I,My husband's a T I in the unit here.|sd
+A|I, My husband's a T I in the unit here.|sd
 B|Yeah,|b
 B|three times,|%
 B|Well I try to go over there at least three times a week,|sd
@@ -45,7 +45,7 @@ A|Or is that what your into|qy
 A|or,|%
 B|No,|nn
 B|No,|nn
-B|well, I've used the Nautilus equipment.And the bikes, and stair climbers, and stuff like that mostly.|sd
+B|well, I've used the Nautilus equipment. And the bikes, and stair climbers, and stuff like that mostly.|sd
 A|Uh-huh.|b
 A|Yeah.|b
 B|I don't use the free weights|sd
@@ -63,9 +63,9 @@ A|Well, what I did was I went to a jazzercise class in a new location in Richard
 A|and long story short, I hadn't,|%
 A|this is really a stupid thing that happened,|sd
 A|but they have like the gymnasium flooring|sd
-A|and then like they had about three feet of linoleum around the perimeter in the back where I usually standin any class like that I go to.|sd
+A|and then like they had about three feet of linoleum around the perimeter in the back where I usually stand in any class like that I go to.|sd
 B|Uh-huh.|b
-A|Instead of having that level, you knowthey had a chrome strip that wasn't level,|sd
+A|Instead of having that level, you know they had a chrome strip that wasn't level,|sd
 B|Uh-huh.|b
 A|and it was about four inches deep and then about, oh a seventy degree angle.|sd
 B|Oh, my goodness.|ba
@@ -114,17 +114,17 @@ A|Yeah|aa
 A|really.|aa
 A|I enjoy aerobics,|sd
 A|and I do it because I like it,|sd
-A|I mean, I like the music andthat kind of stuff.|sd
+A|I mean, I like the music and that kind of stuff.|sd
 B|Yeah.|b
 B|I like the music,|sd
 B|but I've been unable to do that, because I hurt my foot about five years ago.|sd
-B|I broke my heel.No,|sd
+B|I broke my heel. No,|sd
 A|Oh|b
 A|that makes my foot,|%
 A|how'd you do that?|qw
 A|In aerobics?|qy
 B|no,|nn
-B|actually I was up on a ladder, and, uh, fell off.Leaned the wrong way.|sd
+B|actually I was up on a ladder, and, uh, fell off. Leaned the wrong way.|sd
 A|Oh goodness.|ba
 A|Uh-huh.|b
 B|And when I came down I hit with my full weight on my foot, but on concrete.|sd
@@ -135,7 +135,7 @@ B|they had, well they had to go in and do surgery.|sd
 B|They put a pin in it.|sd
 A|Oh, so the aerobics, the impact, would not be good.|bf
 B|Yeah,|aa
-B|as I permanently damaged the, the cushion under my heelthe normal cushion that you have there.|sd
+B|as I permanently damaged the, the cushion under my heel the normal cushion that you have there.|sd
 A|Oh, goodness.|ba
 A|Uh-huh.|b
 B|I can't do any jumping up and down because it makes it hurt.|sd
@@ -154,11 +154,11 @@ A|I'm always afraid they're going to fall over and have a coro, coronary.|sv
 B|Yeah|b
 A|And there was my ego when I went ahead|sd
 A|and I went, oh, I can do that|sd
-A|andhalf the time though I don't jump half as much as,|sd
+A|and half the time though I don't jump half as much as,|sd
 B|Uh-huh.|b
 A|I mean, like, I'm real tall,|sd
 A|and, you know, I'm not heavy,|sd
-A|but when you go easy a hundred seventy at my height, um, I'm five elevenyou need just take it easy.|sd
+A|but when you go easy a hundred seventy at my height, um, I'm five eleven you need just take it easy.|sd
 B|Um.|b
 B|Sure.|ba
 A|Um, but when I see some|%
@@ -264,7 +264,7 @@ A|and I just, uh,|%
 A|it's not that far of a drive|sd
 A|and I'm glad they did that.|sd
 A|Um, you're not missing anything at the Dallas renovated site.|sv
-A|It's notat all anything worth talking about.|sv
+A|It's not at all anything worth talking about.|sv
 B|Yeah.|b
 B|Yeah.|b
 B|I thought maybe one of these days I'll drive over there and check it out.|sd
@@ -300,7 +300,7 @@ A|but that's just,|^q
 A|they tried to put me in some kind of immobilized walker, because he doesn't like to put casts on when it's warm.|sd
 A|But I just,|%
 A|the more they tried to get my foot in the more I screamed,|sd
-A|I couldn't, you knowadjust that.|sd
+A|I couldn't, you know adjust that.|sd
 B|I know what you mean.|ba
 A|You know more about this stuff than I do, obviously then,|sv
 B|Not fun|ba

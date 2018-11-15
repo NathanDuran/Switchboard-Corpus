@@ -14,7 +14,7 @@ A|I remember they tried it in the seventies at one point or something|sd
 A|and,|%
 B|Right.|aa
 B|That's when I was in the elementary school years|sd
-B|and we all,We all learned that metric|sd
+B|and we all, We all learned that metric|sd
 A|Yeah,|aa
 A|me too.|sd
 B|and they were ready,|sd
@@ -27,23 +27,23 @@ B|Right.|b
 A|You know, they didn't sort of encourage, I mean businesses and things to use it,|sd
 A|so, you know, what, what I think they'd have to do would be to have both things on there for a while, and then, and then start phasing things out|sv
 A|so,|%
-B|So I think that's what they did at first,was that they had metric|sd
+B|So I think that's what they did at first, was that they had metric|sd
 A|Yeah.|b
 B|and, and I mean, and there's things that we've gone metric.|sd
 B|We have metric cola now,|sd
 A|Right,|aa
-A|I was just thinking,two liter bottles are what you buy and one liter bottles.|sd
+A|I was just thinking, two liter bottles are what you buy and one liter bottles.|sd
 B|you can buy that|sd
 B|and you can,|sd
 A|You don't buy quarts and gallons anymore of soda.|sd
 B|So that, you know, so that, we have little things that are metric,|sd
 B|but no one talks about, you know, uh,|sd
 B|you buy nine by twelve frames,|sd
-B|you don't buy centimeter length frames,and cooking pans.|sd
+B|you don't buy centimeter length frames, and cooking pans.|sd
 A|Right.|b
 A|And, and, and even though the car says miles and kilometers,|sd
 A|you don't say,|sd
-A|I went,You know.a hundred kilometers.|^q
+A|I went, a hundred kilometers. You know.|^q
 B|Uh-huh .|b
 B|Right,|b
 B|fifty-nine kilometers per gallon.|sd
@@ -51,12 +51,12 @@ A|Yeah.|aa
 A|I would, I would be total loss.|sd
 B|Yeah.|b
 B|That's,|%
-A|I think, I think, though, if there were some, you know, sort of government incentive program or somethingpeople would begin to switch over, you know,|sv
+A|I think, I think, though, if there were some, you know, sort of government incentive program or something people would begin to switch over, you know,|sv
 B|Right.|b
 A|and I think there would be the hard core older people who would get really pissed|sv
-A|and, pardon my expression there, but, uh,who would get really, you know, upset and start to complain and get all cranky and stuff.|sv
+A|and, pardon my expression there, but, uh, who would get really, you know, upset and start to complain and get all cranky and stuff.|sv
 B|Uh-huh.|b
-A|But I think in the end it would make life a lot easier forpeople coming up.|sv
+A|But I think in the end it would make life a lot easier for people coming up.|sv
 B|Yeah,|aa
 B|it really would.|sv
 B|It's, I, I, it's, because I think they had a good try there when they started with us in the elementary schools, trying to, you know, get that in our minds, so that we could I mean|sv
@@ -75,13 +75,13 @@ B|Right.|b
 A|Not like could use it comfortably right now,|sv
 A|but I could convert, you know,|sd
 A|I could carry around a little conversion card or something|sd
-A|and,I could handle it for a while, and then, and then eventually I'd learn,|sd
+A|and, I could handle it for a while, and then, and then eventually I'd learn,|sd
 B|Right|b
 A|and I think that before, it was just, you know, just a bunch of little kids using it.|sv
 B|Right.|b
 A|And now I think there are enough people,|sv
 A|you know, sort of as we get older, I think others that will bring more generations in on it, eventually they'll be able to make the switch,|sv
-A|and we're not going to start going crazy and yelling and saying,what are you, crazy, we can't understand you.|sv
+A|and we're not going to start going crazy and yelling and saying, what are you, crazy, we can't understand you.|sv
 A|We'll say oh, it's a pain in the neck,|sv
 A|but it's for the better|^q
 A|and we'll sort of deal with it, I think.|sv
@@ -96,7 +96,7 @@ B|and you'd have to change your height on your driver's license.|sd
 A|Right|b
 B|When you wouldn't be five foot eight anymore, uh, you'd be a hundred and seventy centimeters,|sd
 A|Centimeters.|b^m
-B|and then you'd be lighter in kilograms than you were inin pounds.|sd
+B|and then you'd be lighter in kilograms than you were in in pounds.|sd
 A|Yeah.|b
 A|But I wonder if, if,|sd
 B|So all the dieters would be happy|sv
@@ -108,13 +108,13 @@ A|Yeah.|b
 A|But I wonder if that's even something that, you know, they, they have to change immediately.|sd
 A|They could just, you know, sort of phase that in,|sv
 A|so start, you know, from now,|sv
-A|like from now on all licenses would have that,rather than going back and changing everything, you know, all new licenses as of nineteen ninety-two would have it or something.|sv
+A|like from now on all licenses would have that, rather than going back and changing everything, you know, all new licenses as of nineteen ninety-two would have it or something.|sv
 B|Right.|b
-B|And they'd have to change that little ruler that's on the door of the seven eleven that,to hold it up.tells you how tall the robbers are when they,|sv
+B|And they'd have to change that little ruler that's on the door of the seven eleven that, tells you how tall the robbers are when they, to hold it up.|sv
 A|That's right.|aa
 A|I know the,|sd
 A|and, oh, yeah,|%
-A|I know, though, at the, uh, at the amusement parks, they say if you're under forty-two,You can't walk in here.inches or something.|sd
+A|I know, though, at the, uh, at the amusement parks, they say if you're under forty-two, inches or something. You can't walk in here.|sd
 B|Right.|b
 A|You have to be under.|^q
 A|Well, I guess what, what, I bet what they do in that case, they, uh,|sd
@@ -128,7 +128,7 @@ B|Right.|aa
 B|Because isn't it pretty much everywhere in the world?|qy
 B|I know England is not metric.|sd
 A|But I don't know.|no
-B|I,I don't think they are, because our, um, our measurements started in England,|sd
+B|I, I don't think they are, because our, um, our measurements started in England,|sd
 A|England is not?|qy^d
 A|Oh.|b
 B|all that began back there,|sd
@@ -136,17 +136,17 @@ B|and I think they're the only part of the continent that hasn't changed over to
 A|Yeah,|b
 A|but I mean,|%
 A|but, but virtually the rest of the world is.|sd
-A|I mean, it seems likelike, like, like sort of stupid.|sv
+A|I mean, it seems like like, like, like sort of stupid.|sv
 B|Right.|b
 A|I mean, we are, of course, we are Americans|sd
 A|and we're supposed to be, you know,|sv
 B|We're the trend setters in the world.|^2
-B|I don't know why we,We haven't changed to the sensible system.|sd
+B|I don't know why we, We haven't changed to the sensible system.|sd
 A|That's right,|aa
 A|and, and now we're backwards.|sv
 B|I don't know.|h
 A|No,|fo_o_fw_"_by_bc
-A|I, I, I would think, I mean, a, a, a base ten system as compared to a base twelve systemmakes a lot more sense.|sv
+A|I, I, I would think, I mean, a, a, a base ten system as compared to a base twelve system makes a lot more sense.|sv
 B|Right.|b
 B|Well, and it's not even base twelve for everything,|sd
 B|is it?|^g
@@ -164,7 +164,7 @@ A|I don't even know how many ounces are in a pound.|sd
 A|I just sort of make it up.|sd
 B|See, and I don't understand liquid ounces and fluid ounces.|sd
 B|It's,|%
-B|I mean, I don't know that I have that much concrete knowledge in the current measuring system that wouldprevent me from,|sd
+B|I mean, I don't know that I have that much concrete knowledge in the current measuring system that would prevent me from,|sd
 A|Right|b
 A|Those, those wouldn't be a problem.|sv
 B|It's not like it's really entrenched other, you know.|sv
@@ -175,7 +175,7 @@ A|I, I have no idea.|sd
 A|I just, uh,|%
 A|I know things like, you know, a pint is a pound the world around or something.|sd
 B|Right|b
-B|I don't,I didn't even know that|sd
+B|I don't, I didn't even know that|sd
 A|That's all I know.|sd
 A|I, I learned that because, uh, a friend of mine,|sd
 A|I, I had two friends,|sd
@@ -196,8 +196,8 @@ A|And we, we didn't bother buying a scale,|sd
 A|and one of my friends was a physics, one of these guys was a physics major|sd
 A|and he said, well, just remember a pint is a pound the world around,|sd
 A|and he got the measuring cup and just measured, I think a cup or two cup, whatever is a pint.|sd
-B|Did you ever check it to see if it really was,a pint?|qy
-A|Gee, I think,I think he the calculation at home,|sd
+B|Did you ever check it to see if it really was, a pint?|qy
+A|Gee, I think, I think he the calculation at home,|sd
 A|and it turns out that he was actually pretty close.|sd
 B|Um.|%
 A|If anything, we were actually in favor of the consumer.|sd
@@ -209,18 +209,18 @@ B|you all are nice business|sv
 A|Yeah,|aa
 A|well, we were, you know, we were in,|sd
 A|it was, it was almost like we did it for the hell of it in school,|sd
-A|we really didn't,make, you know,|sd
+A|we really didn't, make, you know,|sd
 B|Right.|b
-A|I think we were only making seventy-five dollars each profit at the end of the year.You know, after, after an entire semester,|sd
+A|I think we were only making seventy-five dollars each profit at the end of the year. You know, after, after an entire semester,|sd
 B|Right|b
 A|but we had a hell of a lot of fun doing it.|sd
 B|Probably ate all your merchandise too.|sv
 A|Yeah,|aa
 A|we, we, we tended to eat a lot,|sd
 A|and our friends would just sort of walk by and just put their hands in it,|sd
-A|and we had another friend, um, the physics major again, he wasn'the wasn't aware of jelly bean physiology, I guess,|sd
+A|and we had another friend, um, the physics major again, he wasn't he wasn't aware of jelly bean physiology, I guess,|sd
 B|Uh-huh.|b
-A|and he got into a snowball fight,with the jelly beans nearby,|sd
+A|and he got into a snowball fight, with the jelly beans nearby,|sd
 A|and he just,|sd
 A|and, and some snow fell into one of the cartons.|sd
 B|Oh.|b

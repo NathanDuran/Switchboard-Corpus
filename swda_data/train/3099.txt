@@ -20,14 +20,14 @@ B|What is,|%
 A|I do not really know,|no
 A|excuse me,|fa
 A|too much about child care in New York|no
-B|Does the company you work for have,employees?child care on premises for,|qy
+B|Does the company you work for have, child care on premises for, employees?|qy
 A|Excuse me one second.|ad
 A|Huh-uh|nn
 A|No,|nn
 A|not at all,|sd
 A|in fact my situation is a little bit strange,|sd
 A|I was, uh, a student for many years, and then graduated and went and worked in France for awhile.|sd
-A|And, I,have just come back and was doing consulting work.|sd
+A|And, I, have just come back and was doing consulting work.|sd
 B|Oh.|bk
 B|Oh, my.|ba
 A|So I am just taking a little bit of time off right now.|sd
@@ -39,8 +39,8 @@ A|well hopefully I can do some consulting work at home.|sd
 A|And, if I can do that it will,|sd
 A|Yeah,|%
 B|Oh yeah,|b^m
-A|I'll be able to spend the time with my daughter, andnot have to worry too much about child care.|sd
-A|But,uh, I might start to go crazy with it too.|sd
+A|I'll be able to spend the time with my daughter, and not have to worry too much about child care.|sd
+A|But, uh, I might start to go crazy with it too.|sd
 B|Right.|b
 A|It is a little,|%
 A|I miss the intellectual stimulation.|sd
@@ -54,28 +54,28 @@ B|there's,|%
 B|and you just miss the little things,|sv
 A|Yeah.|b
 B|and, and, uh,|%
-A|Well, I think for me, the important concerns, I do not think I would put her in day care for joint ,situation right now, unless it was like one other child with a, with a person.|sd
+A|Well, I think for me, the important concerns, I do not think I would put her in day care for joint , situation right now, unless it was like one other child with a, with a person.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
-A|I would not want her to be into a, in a large day care situation so young.Because I think a little infant just does not get the stimulation they need.|sv
+A|I would not want her to be into a, in a large day care situation so young. Because I think a little infant just does not get the stimulation they need.|sv
 B|Uh-huh.|b
 B|That's right.|aa
 A|Maybe if I needed to work part time, like four hours a day, I might do that, cause like, you should get enough stimulation from you the rest of the time.|sd
 A|But, uh, I just think that, you know, when there's two year olds running around, the, whoever is taking care of, the care givers are going to pay attention to the two year olds.|sv
 B|That's right.|aa
-A|And only when the infant screams,are they going to go there,|sv
+A|And only when the infant screams, are they going to go there,|sv
 B|That's right.|aa
 A|and if not, the infant is going to lay in the crib all day, and maybe have a mobile above it to play with.|sv
 B|Right.|b
 A|And, you know, I play with her most of the time she is awake|sd
 A|and I think that is so important.|sv
 B|Right.|aa
-B|Well that, it is important for the bonding that they do it,with the mother.|sv
+B|Well that, it is important for the bonding that they do it, with the mother.|sv
 A|Yeah.|b
 A|Well, such as things for learning gives the child stimulation I think is important.|sv
 B|Right.|b
 A|And, uh,|%
-B|Our oldest grandson, when he was eighteen months old went into a, a Montessori,day care system.|sd
+B|Our oldest grandson, when he was eighteen months old went into a, a Montessori, day care system.|sd
 A|Uh-huh.|b
 B|And they took infants starting at six weeks,|sd
 B|and they have a program, uh, in, that was devised by this montessori person|sd
@@ -87,7 +87,7 @@ B|And, and, uh, they have different things they will, they will put them down on
 B|and of course, they never have more than like five,|sd
 B|and, and they will put them down on the floor|sd
 B|and they will have I think one of them was a little mirror|sd
-B|and some were just different objects that have, had a definite purposefor kids, you know,|sd
+B|and some were just different objects that have, had a definite purpose for kids, you know,|sd
 A|Uh-huh.|b
 B|and there's something about their eyes.|sd
 A|Yeah,|b
@@ -104,7 +104,7 @@ B|uh-huh.|b
 A|and so every days are different.|sd
 B|Uh-huh.|b
 A|And I think that, you know, I think child care for infants is much harder than when they are older,|sv
-A|and I will probably be going back to work around January,eight or nine months old.whereas she will be about,|sd
+A|and I will probably be going back to work around January, whereas she will be about, eight or nine months old.|sd
 B|Um.|b
 B|A little older .|^2
 A|And so I think, you know, she will be at a,|%
@@ -112,13 +112,13 @@ A|I have heard it's a rough age to put them into a,|sd
 B|It is because that's when they are clinging to mama,|aa
 A|Yeah.|b
 B|so you might have a real problem with that.|sv
-B| I think it, it hurts the parents to leave when the child is crying,|sv
+B| I think it,  it hurts the parents to leave when the child is crying,|sv
 A| But, but I think it, |%
 B|so it, you know, it would be ideal if you could get somebody in so you are not really leaving the child in a strange place.|sv
 A|Yeah.|aa
-A|We are just going to have,to see how things work out.|sd
+A|We are just going to have, to see how things work out.|sd
 B|But that's unusual.|ba
-A|Uh, but I am trying to, you know, leave her a fair amount, even at this young age, with her grandparents, just to,go to a movie and things like that. So that she is used to other people  taking care of her. |sd
+A|Uh, but I am trying to, you know, leave her a fair amount, even at this young age, with her grandparents, just to, go to a movie and things like that. So that she is used to other people  taking care of her. |sd
 B|Uh-huh.|b
 B| Is it your parents  or your husband's parents?|qy
 A|My parents,|sd
@@ -152,7 +152,7 @@ B|drop in at times that are unexpected.|ad
 A|Yeah,|aa
 A|well,|%
 B|The,|%
-A|right now the situation is so tight at many places,that it's even hard to have a choice.|sv
+A|right now the situation is so tight at many places, that it's even hard to have a choice.|sv
 B|Uh.|b
 B|Uh.|b
 A|Incredible,|ba
@@ -165,7 +165,7 @@ A|And my sister-in-law is going to have a baby very, very soon|sd
 A|and she is intending to stay home with the baby.|sd
 B|Oh.|b
 A|And, you know, maybe do some free lance type work at home.|sd
-A|And so, if I go back to work on a part time basis, I am hoping I can leave my daughter with her.Because, her daughter again will be a couple of months, my daughter will be about six months older than hers.|sd
+A|And so, if I go back to work on a part time basis, I am hoping I can leave my daughter with her. Because, her daughter again will be a couple of months, my daughter will be about six months older than hers.|sd
 B|Oh, that would be wonderful.|ba
 A|And,|%
 B|Uh-huh,|b
@@ -176,7 +176,7 @@ B|uh-huh.|aa
 A|but like when she is a month or so, my sister-in-law has had lots and lots of experience dealing with baby-sitting for large families.|sd
 B|Oh.|b
 A|And so, uh, she might be able to do it a couple of hours a day|sd
-A|and we might even be able to do it on a trade off basis. That I watch,Uh, and not be bothered,Even if she wants an afternoon just to work.or if she wants an afternoon off.their baby when they want to go out to dinner or to movies or whatever,|sd
+A|and we might even be able to do it on a trade off basis. That I watch, their baby when they want to go out to dinner or to movies or whatever, or if she wants an afternoon off. Even if she wants an afternoon just to work. Uh, and not be bothered,|sd
 B|Right.|b
 B|Right.|b
 B|Right.|b
@@ -185,16 +185,16 @@ B|uh-huh.|b
 A|we might be able to exchange that way.|sd
 B|Uh-huh.|b
 A|And so we will just have to see how things work out.|sd
-A|But I think the whole, you know, ideally I think, uh, business should have the,day care centers there, whether it's the parents who take turns watching the kids, or whether|sv
+A|But I think the whole, you know, ideally I think, uh, business should have the, day care centers there, whether it's the parents who take turns watching the kids, or whether|sv
 B|I do too.|aa
 A|they hire a couple of people|sv
-A|and, uh, you know, parents come down to supervise or,whatever.|sv
+A|and, uh, you know, parents come down to supervise or, whatever.|sv
 B|Really well trained people.|^2
 B|Right,|b
 A|Yeah.|b
-B|and have, have some kind of real good program,set up so that you, when you go you can be assured that if there's an emergency that person in charge knows C P R or first aid|sv
+B|and have, have some kind of real good program, set up so that you, when you go you can be assured that if there's an emergency that person in charge knows C P R or first aid|sv
 A|Yeah.|b
-B|or,and have some kind of program set up, like you say, to stimulate the kids, or educate them in some manner. And have the, you know, the right toys and the right setting and, uh, have, a, an organized type of program set up so that the kids have a schedule, you know,|sv
+B|or, and have some kind of program set up, like you say, to stimulate the kids, or educate them in some manner. And have the, you know, the right toys and the right setting and, uh, have, a, an organized type of program set up so that the kids have a schedule, you know,|sv
 A|Oh, yeah.|b
 B|that's real important to little kids.|sv
 A|Yeah,|aa
@@ -205,7 +205,7 @@ B|Uh-huh.|b
 A|But,|%
 B|They, they adjust to what the parents|sv
 A|Yeah,|aa
-A|well she's been staying up late at night and, you know,sleeping late in the mornings and things is just fine by me|sd
+A|well she's been staying up late at night and, you know, sleeping late in the mornings and things is just fine by me|sd
 B|Uh-huh.|b
 B|you know that works until they start school.|sv
 A|Right.|b

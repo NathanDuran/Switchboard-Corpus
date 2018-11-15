@@ -17,7 +17,7 @@ A|How many times have you called,|qw
 A|or have you been participating in this?|qrr
 B|Oh, about ten or eleven calls.|sd
 A|Oh, you got ten,|sd
-A|wellyou, you've passed me up.|sd
+A|well you, you've passed me up.|sd
 B|Right.|b
 A|This is about six times.|sd
 B|Oh.|b
@@ -55,7 +55,7 @@ B|and their test came back positive,|sd
 B|and normally we didn't retest them.|sd
 B|But there were a couple of people that we really thought that they were telling the truth|sd
 B|and we retested them like the next day,|sd
-B|and they came back negativethe second time.|sd
+B|and they came back negative the second time.|sd
 A|Oh, really.|b
 B|So that, that's the only thing, I think, that might be a little bit of a problem.|sv
 A|Oh, you're,|%
@@ -63,7 +63,7 @@ A|that's a good point,|sv
 A|but at T I they, before they had the testing, I've forgotten, seems like it's a year ago September, something like that, they told us that the agency that did it was the one that did it for the government.|sd
 A|And, of course, that's critical, just as the point that you brought up that whoever does your testing's got to be, you know, have a lot of quality control, that they keep track of everything.|sd
 A|They don't make mistakes.|sd
-A|That would be terribly embarrassingfor someone to really come back positive|sv
+A|That would be terribly embarrassing for someone to really come back positive|sv
 B|Right.|b
 A|and they were not.|sd
 A|And I haven't heard of any,|sd
@@ -117,7 +117,7 @@ A|And I think that those people that have that and however they got into it,|sv
 A|I have children,|sd
 A|I always worry about the, the classical thing that you see on T V, where the drug pushers give it to the kids for free, you know, and get them sucked in,|sd
 A|and then they sell it to them.|sd
-A|You knowthe classical thing is to give it away.|sd
+A|You know the classical thing is to give it away.|sd
 B|Right.|b
 A|I always worry about my teenage daughters going to some party|sd
 A|and they slip it to them.|sd
@@ -150,12 +150,12 @@ A|no,|ar
 A|I don't care about that,|sd
 A|she'll be on the phone all night.|sd
 B|Yeah,|b
-B|it seems if you watch what kind of crowd that start running around with and kind of keep up with who their friends arethat's best way to avoid trouble, from what I can gather.|sv
+B|it seems if you watch what kind of crowd that start running around with and kind of keep up with who their friends are that's best way to avoid trouble, from what I can gather.|sv
 A|Right.|b
 A|Do you have children?|qy
 B|No|nn
 B|not yet,|sd
-B|we're expecting a babyin July,|sd
+B|we're expecting a baby in July,|sd
 A|Oh, great,|ba
 B|so we're starting.|sd
 A|Fantastic experience.|sv
@@ -169,7 +169,7 @@ B|You know, one thing my husband believes is if you suspect your kids are having
 A|Yeah.|b
 B|If you're not too sure what's going on, he tells parents all the time, haul them into the doctor's office and get them checked.|sd
 A|The key thing that I think, that we try to do, is that bring all the friends over here.|sv
-A|Have our house as a place where they can come at any time, so that you always see their friendsrather than make them not welcome|sv
+A|Have our house as a place where they can come at any time, so that you always see their friends rather than make them not welcome|sv
 B|Right.|b
 A|and they're always over in someone else's house.|sv
 A|So our, we've been lucky that our house is usually the place where the kids could come, you know.|sd
@@ -188,7 +188,7 @@ B|Uh-huh.|b
 A|And we have one, of course, I say, in college driving. And one going to drive this summer,|sd
 A|so kids are, cost you practically nothing, because you always get so many things from your relatives and everything.|sd
 A|But you wait until they go and get a car, insurance, that's when they get expensive.|sd
-A|As they get olderyou know, they cost practically nothing from one to five,|sd
+A|As they get older you know, they cost practically nothing from one to five,|sd
 B|Yeah.|b
 A|and then slowly but surely starts to creep up when they start to take lessons,|sd
 A|but it's well worth it and everything.|sd

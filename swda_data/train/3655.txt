@@ -34,7 +34,7 @@ A|Well, I think they had a, they had two teachers|sd
 A|and I think there were twenty kids,|sd
 A|but I only had her going two days|sd
 A|and most of the other kids were going more days|sd
-A|so that was probably my own faultthat she didn't,|sd
+A|so that was probably my own fault that she didn't,|sd
 B|Oh.|bk
 B|She went,|b
 A|Oh, you know, one thing I noticed is, uh, uh, just, they were trying to get her to, teach her to write her name,|sd
@@ -53,7 +53,7 @@ A|yeah,|%
 A|she was, uh, it was last year|sd
 A|and, uh, then this summer I got the thing from the school that says things to work with the kids on|sd
 A|and I|%
-A|like I said, I didn't notice it till then.stuff like that.Because I hadn't worked with writing letters or anything and|sd
+A|like I said, I didn't notice it till then. Because I hadn't worked with writing letters or anything and stuff like that.|sd
 B|Oh.|b
 B|Uh-huh.|b
 B|Well, they'd never picked it out, though?|qy
@@ -63,19 +63,19 @@ A|They never,|sd
 B|Or just never said anything.|qrr
 A|Course, like I said, I took her two days a week|sd
 A|and maybe that was,|sd
-A|my main reason for taking her was, uh, just social skillsmore than anything else.|sd
+A|my main reason for taking her was, uh, just social skills more than anything else.|sd
 B|Yeah.|b
 B|Yeah.|b
 A|I felt she needed the|sd
 A|just, I didn't feel like she was mature enough socially|sd
 B|Yeah.|b
 A|and, uh,|%
-B|Well, one thing that's kind of different, too, though, a preschool than, than taking a, a infant ortaken care of.to at a day-care where they're|sv
+B|Well, one thing that's kind of different, too, though, a preschool than, than taking a, a infant or to at a day-care where they're taken care of.|sv
 A|Uh-huh.|b
 A|Oh, yeah.|b
 A|I think it would be hard to take them to people you don't know.|sv
 A|Preschool's a different thing,|sv
-A|but I think it's hard to take kids to somebody you don't know and, or unless you have awfully good references.Reliable, uh, people,|sv
+A|but I think it's hard to take kids to somebody you don't know and, or unless you have awfully good references. Reliable, uh, people,|sv
 B|Yeah,|aa
 B|yeah.|aa
 A|I don't know,|h
@@ -116,7 +116,7 @@ B|well, uh, the work never ends.|sv
 A|No.|aa
 B|That's for sure.|sv
 A|No,|aa
-A|it,It doesn't.|aa
+A|it, It doesn't.|aa
 B|So,|%
 B|Huh.|b
 A|But, I think for taking kids to a, probably people that take them to, uh, preschools and day-cares full time, oh,|sv
@@ -124,6 +124,6 @@ A|they would, I don't know, probably just feel a different, uh,|sv
 A|I think, I just think it would be hard to do that full time.|sv
 A|I feel such a responsibility, even when we go out for a few hours that,|sd
 A|are they driving the baby-sitter crazy|^q
-A|andyou know,|%
+A|and you know,|%
 B|Uh-huh,|aa
 B|or is everything okay.|sv

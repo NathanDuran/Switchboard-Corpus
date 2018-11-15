@@ -19,7 +19,7 @@ B|it's very, very generic.|sd
 A|What did you do, put it together?|qw
 B|Yeah,|ny
 B|and, and, uh, upgraded it and put things in there and dibbled and dabbled|sd
-B|andnow, now it's, now it's a fast machine|sd
+B|and now, now it's, now it's a fast machine|sd
 A|Well, that's,|%
 A|Yeah.|b
 B|That's all I got to say for it.|sd
@@ -34,12 +34,12 @@ A|What kind of programs do you,|qw
 B|Uh, anything|sd
 A|Okay,|b
 A|I mean like business programs|sd
-A|or,Man.|%
-B|Uh, I've done business programming, you know, scientific applications like, you know, petroleum science stuff and,Uh, uh, test equipment|sd
+A|or, Man.|%
+B|Uh, I've done business programming, you know, scientific applications like, you know, petroleum science stuff and, Uh, uh, test equipment|sd
 B|and I did the, I, I did one that was, the demonstration of a touch, touch screen for a company that sells, uh, touch screens.|sd
 B|It was kind of fun.|sd
 A|Uh-huh,|b
-B|Put a little bitty portable computer in there and a plasma display.all sorts of little things you'd want to put your finger on the screen for.And make it look like things like, uh, you know, attack simulators and , and|sd
+B|Put a little bitty portable computer in there and a plasma display. And make it look like things like, uh, you know, attack simulators and , and all sorts of little things you'd want to put your finger on the screen for.|sd
 A|Huh.|b
 A|Well, that's,|%
 A|Well, that sounds interesting.|ba
@@ -51,9 +51,9 @@ B|Uh, yeah,|b
 B|unfortunately the little portable P C that was plugged on the back was only a seven and a half megahertz, eighty, eighty-six.|sd
 B|It's like slow out the|sd
 A|Yep,|b
-A|that will, that will,slow you up|sd
+A|that will, that will, slow you up|sd
 B|Huh?|br
-A|Well, I, I do, uh, uh, programming for C N C turret presses anduh, cat cam system type things|sd
+A|Well, I, I do, uh, uh, programming for C N C turret presses and uh, cat cam system type things|sd
 B|Uh-huh.|b
 A|and, uh, really need a faster system.|sd
 A|Uh, I got a new line that I, I sell metal fabricating equipment, and cat cam systems, and tooling, et cetera.|sd
@@ -64,13 +64,13 @@ A|Who is that?|qw
 B|Uh, his name is T Q or something like that.|sd
 B|And my notebook is somewhere around here|sd
 B|See if I can make my telephone cord stretch far enough.|^h
-A|I've tried to do is get this outfit togive me one|sd
+A|I've tried to do is get this outfit to give me one|sd
 B|Uh, he's, uh, up in,|%
 B|Huh?|br
 A|That's how I got my other ones by selling their product for them.|sd
 A|They not only give me a demonstrator, but the hardware as well as the software.|sd
 B|Uh-huh.|b
-A|And as they,And as they go to the next one I just keep the,|sd
+A|And as they, And as they go to the next one I just keep the,|sd
 B|Oh, that works.|ba
 A|that's why I have so many different levels of P C around at the moment.|sd
 B|Uh, here it is.|sd
@@ -117,7 +117,7 @@ B|Uh-huh.|b
 A|Haven't been doing much of that for the last year or so.|sd
 A|So I, I don't know where those guys are at these days.|sd
 A|But I, ,|%
-B|Uh, they, they're up there in that mall. Uh, just below Campbell.Or that strip, strip, center.|sd
+B|Uh, they, they're up there in that mall. Uh, just below Campbell. Or that strip, strip, center.|sd
 A|Yeah.|b
 A|Yeah.|b
 B|They're still doing business. Big business, apparently.|sd
@@ -132,7 +132,7 @@ B|I'll go do that|sd
 A|I,|%
 B|And boy that thing screams now.|sd
 A|Yeah,|b
-A|I was kind of surprised how rapidly they bypassed,the three eighty-six.|sd
+A|I was kind of surprised how rapidly they bypassed, the three eighty-six.|sd
 A|That wasn't alive for but maybe two years.|sd
 B|Uh-huh.|b
 B|Well, I thought was funny that they kept pushing the three eighty-six S X even though the, the price difference is about ten dollars.|sd

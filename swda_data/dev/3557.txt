@@ -14,7 +14,7 @@ B|I think that|sv
 B|because, besides the fact that it's a deadly disease, that it's a contagious disease, so that it's, um,|sd
 B|although it is not killing that many people now, it still has the opportunity to get out of control and become a huge problem.|sv
 A|Yeah,|b
-A|they say a million people are infectedwith the H I V virus,|sv
+A|they say a million people are infected with the H I V virus,|sv
 B|Uh-huh.|b
 A|and, uh,  yeah,|%
 A|I think, |sv
@@ -39,7 +39,7 @@ B|Uh, I, I think they should, actually, although perhaps not a, an incredible am
 B|and I don't necessarily think that they should, uh, fund AIDS research and, in the process, neglect cancer research or whatever.|sv
 B|I think that it would be a good thing for the government to increase funding for medical research in general.|sv
 A|What do you think, Doug, of Mister Johnson?|qw
-B|Umwell, I, well, I am sorry that he has the virus.|sd
+B|Um well, I, well, I am sorry that he has the virus.|sd
 A|Magic?|qy^d
 B|I, um, I don't know,|h
 B|I don't, I think it's very strange that the media hasn't, um, questioned him more strongly to, about gay sex or intravenous drugs or anything like that, as they probably would for a lot of other people.|sv
@@ -55,7 +55,7 @@ B|Uh-huh.|b
 A|Uh.|%
 B|Well, that's good.|ba
 A|I'm glad that Mister Johnson's changed his tune on, uh, safe sex to abstinence,|sd
-A|orI was glad he did that, for young kids, because a lot of kids would have ended up dying because of what he was promoting.|sv
+A|or I was glad he did that, for young kids, because a lot of kids would have ended up dying because of what he was promoting.|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|Uh, let's see.|^h
@@ -67,7 +67,7 @@ A|I guess you might, might not.|qy^d
 B|Um, yeah,|ny
 B|I do.|sd
 B|My cousin, does, for instance.|sd
-A|Is it prettynasty?|qy
+A|Is it pretty nasty?|qy
 B|And, um,|%
 B|Yeah,|ny
 B|yeah|ny

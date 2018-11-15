@@ -15,7 +15,7 @@ A|Sure.|b
 B|and I think that we've got the, the people power to do it,|sv
 B|it's just, uh,|%
 B|we need to channel it and focus it on some things that, that need some fixing up.|sv
-B|Um,some examples are this, uh, some of the things, like Jimmy Carter's been involved in, uh, a little program to, you know, fix up housing for people.|sd
+B|Um, some examples are this, uh, some of the things, like Jimmy Carter's been involved in, uh, a little program to, you know, fix up housing for people.|sd
 A|Yeah.|b
 A|Uh-huh.|b
 B|And there's a lot of housing,|sd
@@ -63,10 +63,10 @@ A|Uh-huh.|b
 B|You know, it's|%
 B|like, you know, when I actually started working full time, and I, I got married shortly after getting out of high school.|sd
 B|I, uh, thought I was smart, ran away and got married,|sd
-B|and, uh, I remember there was a time, and within the first year of marriage, I said, boy wouldn't I give to get, be back in school,and just have to do homework, and, and go work my part time job.|sd
+B|and, uh, I remember there was a time, and within the first year of marriage, I said, boy wouldn't I give to get, be back in school, and just have to do homework, and, and go work my part time job.|sd
 A|Uh-huh.|b
 A|Yeah.|b
-B|Because, life, and the reality of working for a living, and trying to make ends meet, is just so overwhelming to someone,if they aren't prepared for it.|sv
+B|Because, life, and the reality of working for a living, and trying to make ends meet, is just so overwhelming to someone, if they aren't prepared for it.|sv
 A|Yeah.|b
 A|And, and most of them aren't.|sv
 B|That's true.|aa
@@ -93,7 +93,7 @@ A|and, and after traveling around the world a few times, I realized that, things
 B|Yeah.|b
 A|And I, I did a lot of growing up there, uh,|sd
 B|Yeah,|b
-B|I think once, once kids get out and see how other people really live,then they're probably be more inclined to work for it.if you're willing to work for it,and what it takes to have that good life,and know how bad off some people really are, and how good they've got it,|sv
+B|I think once, once kids get out and see how other people really live, and know how bad off some people really are, and how good they've got it, and what it takes to have that good life, if you're willing to work for it, then they're probably be more inclined to work for it.|sv
 A|Uh-huh.|b
 A|Yeah.|b
 A|That's right|ba
@@ -127,7 +127,7 @@ A|You know, it finally got to a point where she just had to sell it and move int
 A|And, uh, I, I'm not, I'm not saying that that wouldn't have happened anyway,|sd
 A|but it would have been nice if there had been somebody to come around and take care of the little things. You know, like the, like the yard work and little repairs, and painting and stuff like that.|sv
 B|Yeah.|b
-B|I think there'd, there'd be a, you know, a, uh, economic benefit for, you know, everyone concerned,those doing the work, and those receiving the, the, uh, the services.|sv
+B|I think there'd, there'd be a, you know, a, uh, economic benefit for, you know, everyone concerned, those doing the work, and those receiving the, the, uh, the services.|sv
 A|Oh yeah,|b
 A|sure.|b
 A|Sure,|aa
@@ -165,7 +165,7 @@ A|I, uh, in a way, I think it's a little bit inefficient,|sv
 A|but, but it's better than nothing.|sv
 B|Yeah.|b
 A|And, and at least I had the opportunity of seeing two families move into decent housing.|sd
-A|Um, course, on the other hand, I can start complaining very loudly about people on public assistance who are quite capable of doing something for themselves, but just won't.Because it's far more advantageous for them to sit there and just draw, uh, welfare money than it is to work.|sv
+A|Um, course, on the other hand, I can start complaining very loudly about people on public assistance who are quite capable of doing something for themselves, but just won't. Because it's far more advantageous for them to sit there and just draw, uh, welfare money than it is to work.|sv
 B|Yes.|b
 A|Uh, we did a, uh, a cost comparison in one of my courses,|sd
 A|and we took all the benefits that a family, that a, a married couple with two kids would get under welfare, and what they would be making at minimum wage.|sd
@@ -174,7 +174,7 @@ B|Yes.|b
 A|So there's no incentive for them to do anything.|sv
 A|Far better for them to sit on their butts and draw the money.|sv
 B|Yeah.|b
-B|One of the things they tried to push through in Maryland, and, uh, weren't very successful was that if you were an able-bodied person on welfare,you had to do some work.|sd
+B|One of the things they tried to push through in Maryland, and, uh, weren't very successful was that if you were an able-bodied person on welfare, you had to do some work.|sd
 A|You had to do something.|^2
 B|And,|%
 A|Yeah.|b

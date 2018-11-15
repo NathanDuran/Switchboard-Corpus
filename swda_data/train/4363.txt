@@ -1,4 +1,4 @@
-A| what's your, uh,|%
+A| what's  your, uh,|%
 B| Uh. |%
 A|are you into the Cowboys?|qy
 B|Oh, God, no|nn
@@ -9,7 +9,7 @@ B|I grew up in Dallas but I'm still not a Cowboys' man.|sd
 B|I like Philadelphia Eagles.|sd
 A|Oh, yeah?|qy
 B|Yeah.|ny
-A| Well, that that's all  right. |ba
+A| Well, that  that's all  right. |ba
 B| That's  my favorite team,|sd
 B|so.|%
 B| Uh,  now that Randall's coming back next season, I hope they'll be, do a little bit better.|sd
@@ -35,7 +35,7 @@ B|yeah.|%
 B|Seahawks are good.|sv
 B|They,|%
 B|now that Steve Largent is gone, I kind of lose a little bit for them|sd
-B|butyou know, he,|%
+B|but you know, he,|%
 A|Yeah.|b
 A|To be honest with you, I, I probably watch, uh, college a little bit more than I do pro.|sd
 B|Really?|qy
@@ -46,7 +46,7 @@ A|Quite a bit. |sd
 B| Yeah.|b
 B|That's kind of,  that's kind of strange.|sv
 B|It's too much running for me in, in college football.|sd
-B|I like I like  the pros.|sd
+B|I like  I like  the pros.|sd
 A| Is it? |bh
 B|They do, you know,|%
 B|it's more high tech,|sv
@@ -77,10 +77,10 @@ A| Well,  I can see, I can see definitely how you get into that.|sd
 A|I, to be honest with you, I find that too much running gets pretty boring as well|sd
 A|and.|%
 B|Yeah.|b
-B|It's just, it's four yards, three yardseight yards, tackle.|sv
+B|It's just, it's four yards, three yards eight yards, tackle.|sv
 A|Right.|b
 B|That's, you know, it gets kind of monotonous.|sv
-B|After awhile, I, I prefer forty, a nice forty yard flea flicker every now and then just, just  to juice it up a little bit|sv
+B|After awhile, I, I prefer forty, a nice forty yard flea flicker every now and then just, just  to  juice it up a little bit|sv
 A| Sure. |b
 B|and  but, |%
 A| Well,  I think they're starting to realize that.|sv
@@ -88,7 +88,7 @@ A|A lot of the, like the big eight teams that used to run so much. I think they'
 B|Yeah.|b
 B|It's high dollar.|sv
 B|You know, it's all, it's all money now.|sv
-B|Even college  is all can we get on T V|sd
+B|Even college  is all  can we get on T V|sd
 A| Right. |b
 B|so.|%
 A|Yeah.|b
@@ -102,7 +102,7 @@ A|Have you followed that very much|qy
 A|or,|%
 B|Uh, not really.|ng
 B|I, I don't think anything will ever take over the N F L.|sv
-B|I thinkit's basically, you know, it's, it's an institution.|sv
+B|I think it's basically, you know, it's, it's an institution.|sv
 A|Yeah.|b
 B|It's like if we tried to start something to take over major league baseball.|sv
 B|It's just, I just, you know.|%
@@ -126,17 +126,17 @@ A|But, when in reality, it's really Americans playing somewhere else  you know |
 B| Yeah,|aa
 B|yeah.|aa
 B| It's kind of, it's kind of strange.|sv
-B|Uh, I guess we're the only ones,who take it that far.|sv
+B|Uh, I guess we're the only ones, who take it that far.|sv
 B|Everybody else still nuts over soccer|sv
 B|but,|%
 A|Yeah.|b
 A|Actually, uh, I kind of like soccer.|sd
-A| I've never really played it|sd
+A| I've  never really played it|sd
 B| Yeah? |bh
 A|but, uh, I like the idea.|sd
 A|It's, it's an interesting game to watch.|sv
 A|That and rugby.|sv
-A|I've like to watch,rugby every  now and then. |sd
+A|I've like to watch, rugby every  now and then. |sd
 B| Yeah|b
 B|or  Australian rules football.|sd
 B|That's,|%
@@ -165,12 +165,12 @@ B| I could see the feel for that.|sv
 B|But it's, it's pretty, it's fun to play.|sd
 A|Yeah.|b
 B|I'll give it that.|sd
-B|It is fun to play.  If you don't value your  *listen--missing a word?very much.|sv
+B|It is fun to play.  If you don't value your  *listen--missing a word? very much.|sv
 A| You've played it then? |qy
 B|But, you know, I don't think rugby will ever be professional|sv
-B|but it, it's, it's, |%
+B|but  it, it's, it's, |%
 A|No I doubt it,  you know.|aa
-A|Not, at least not in this country anyway.|sv
+A|Not, at  least not in this country anyway.|sv
 B|No.|aa
 B|You can't stay healthy and do that.|sv
 B|That's a rough game.|sv
@@ -204,13 +204,13 @@ A|But I, I actually live in Florida.|sd
 B|Live in Florida.|b^m
 A|Yeah.|aa
 B|Like the Seahawks|sd
-A|Well, you know, I who  the heck is going to root for Tampa Bay, right I mean, who, who |qy
-B|Hey,  I, I I've only been to Philadelphia twice|sd
+A|Well, you know, I  I mean, who, who   who  the heck is going to root for Tampa Bay, right|qy
+B|Hey,  I, I  I've only been to Philadelphia twice|sd
 B|and I, you know, I, I  still like, |%
 B|Really,|aa
 B| really. |aa
 A| I mean,  I guess I could go for Miami|sd
-A|butI don't know.|h
+A|but I don't know.|h
 B|Yeah,|b
 B|but.|%
 A|I'm from,|%

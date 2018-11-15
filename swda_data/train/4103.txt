@@ -21,7 +21,7 @@ A|Uh-huh.|b
 B|Well, how to you handle that, the long range or medium range planning on finances?|qo
 A|Well, actually we haven't had to. Uh, until just recently.|sd
 A|I guess we've got a, a daughter who is eighteen months and another one on the way|sd
-A|sowe needed to start doing more of that just for, uh, you know, saving for college and things like that.|sd
+A|so we needed to start doing more of that just for, uh, you know, saving for college and things like that.|sd
 B|Uh-huh.|b
 A|We tried a way, try to put away two and four thousand a year just for that.|sd
 B|Yeah.|b
@@ -29,9 +29,9 @@ B|Well that's pretty good if you can do that.|sv
 B|I know.|sd
 B|I have a daughter who's ten|sd
 B|and we haven't really put much away for her college up to this point|sd
-B|but, uh, we're to the point now where our financial income is enough that we can consider putting some awayfor college,|sd
+B|but, uh, we're to the point now where our financial income is enough that we can consider putting some away for college,|sd
 A|Uh-huh.|b
-B|so we are going to be starting a regular payroll deductionin the fall|sd
+B|so we are going to be starting a regular payroll deduction in the fall|sd
 A|Um.|%
 B|and then the money that I will be making this summer we'll be putting away for the college fund.|sd
 A|Um. Sounds good.|ba
@@ -39,7 +39,7 @@ A|Yeah,|%
 A|I guess we're, we're just at the point, uh,|sd
 A|my wife worked until we had a family|sd
 A|and then, you know, now we're just going on the one income|sd
-A|so it'sa lot more interesting trying to, uh,|sv
+A|so it's a lot more interesting trying to, uh,|sv
 B|Uh-huh.|b
 A|find some extra payroll deductions is probably the only way we will be able to, uh, do it.|sv
 A|You know, kind of enforce the savings.|sd
@@ -47,7 +47,7 @@ B|Uh-huh.|b
 A|But, uh, it will be interesting to see|sv
 B|Well our situation is just a little bit, kind of the opposite of that cause my wife was not working for some time and was going to school and just recently, uh, took on a full time job, well almost full time.|sd
 A|Um.|%
-B|So, it's only recently that we've had the money where we could start putting away large sums of it for, uh, long range goals like college and sickness andtravel and that kind of thing.|sd
+B|So, it's only recently that we've had the money where we could start putting away large sums of it for, uh, long range goals like college and sickness and travel and that kind of thing.|sd
 A|Um.|%
 A|That sounds good.|ba
 A|But, uh, uh, I was just curious, what, uh, part of the country.|qw
@@ -57,7 +57,7 @@ B|How about you?|qo
 A|Uh, Cincinnati, actually.|sd
 A|I was kind of wondering if they would be collecting people with, uh, the western accents or something like that.|sd
 A|I don't know how many people are, uh, getting involved in this|sd
-A|butuh, well that's interesting.|sv
+A|but uh, well that's interesting.|sv
 B|Uh-huh.|b
 A|I'm, uh, uh, actually, uh, I was kind of interested if you found out about the study by, uh, reading TELECOM DIGEST|qy^d
 A|or was there another?|qrr
@@ -67,15 +67,15 @@ A|Yeah,|b
 A|that is how I got it as well|sd
 A|but, uh,|%
 B|And he just forwarded that on to me|sd
-B|and, uh, it sounded like it would be an interesting projectto participate in|sv
+B|and, uh, it sounded like it would be an interesting project to participate in|sv
 A|Uh-huh.|b
-B|so Isent back mail.|sd
+B|so I sent back mail.|sd
 A|Yeah,|b
-A|it will be interesting to see what,It would be interesting to see how the data base,|sv
+A|it will be interesting to see what, It would be interesting to see how the data base,|sv
 A|so, well, I guess we're talking about the experiment.|sd
 B|Uh-huh.|b
 A|Uh, probably need to try to get back on the topic|sv
-A|but, uh, it's hard to talk about finances without without getting to, uh, dollar figures I guessyou know,|sv
+A|but, uh, it's hard to talk about finances without without getting to, uh, dollar figures I guess you know,|sv
 B|Uh-huh.|b
 A|we could talk about some of the long range goals|oo_co_cc
 A|and,|%

@@ -12,7 +12,7 @@ A|Right.|b
 A|That's, uh, sounds like probably a tighter controlled budget than what I have|sv
 B|Uh-huh.|b
 A|I am single,|sd
-A|so.I guess, I don't know if that's an excuse for not having a tight budget,|sd
+A|so. I guess, I don't know if that's an excuse for not having a tight budget,|sd
 B|Uh-huh.|b
 A|but  I basically, |%
 B| Really don't  need to.|^2
@@ -38,13 +38,13 @@ B|Uh, I guess one interesting aspect of the budgeting I do now is that I set asi
 B|For instance, there are certain things that I know come up, uh, every so often.|sd
 B|Every six months I have to pay car insurance.|sd
 B|Uh, every six months I have to pay my taxes.|sd
-B|SoI take a set amount.|sd
+B|So I take a set amount.|sd
 A|Uh-huh.|b
 B|I've got a money market account that I do a lot of uh, uh, saving in|sd
 B|and I also have got a checking account besides that,|sd
 B|but, what I do on my money market account, my taxes for instance which amount to an average of two hundred and twenty dollars a month. I will just take two hundred and twenty out|sd
 B|and I put it in parenthesis.|sd
-B|I take it out of the right line totaland put it in parenthesis in there and let it build up.|sd
+B|I take it out of the right line total and put it in parenthesis in there and let it build up.|sd
 A|Uh-huh.|b
 B|Every month I add two hundred and twenty dollars to it.|sd
 B|Then when the tax bill comes in I've got that much set aside.|sd
@@ -72,9 +72,9 @@ B|but I figure that's got to be the story of my life anyway, is making car payme
 A|Uh-huh.|b
 B|So, uh, you know, I get one paid for|sd
 B|and, uh, actually I am saving up for another one besides|sd
-B|soit's you know, it's kind of a never ending thing,|sd
-A|Huh.Right.|b
-B|butI guess is what I am saying.you try to, you try to schedule those things so that, uh, you only, you're not paying for two of at the same time|sd
+B|so it's you know, it's kind of a never ending thing,|sd
+A|Huh. Right.|b
+B|but you try to, you try to schedule those things so that, uh, you only, you're not paying for two of at the same time I guess is what I am saying.|sd
 A|Right.|b
 A|Have you thought about, uh, leasing?|qy
 B|Well, uh, I have thought about it,|na
@@ -82,10 +82,10 @@ B|but leasing wouldn't,|sd
 B|you know, I don't use it for my business.|sd
 A|I see.|bk
 B|My wife uses hers just for pleasure|sd
-B|and I use mine just to go back and forth to workwhich is only ten miles away|sd
+B|and I use mine just to go back and forth to work which is only ten miles away|sd
 A|Right.|b
 B|so.|%
-A|But if you are rolling it over every three years,it might be advantageous to do that.|sv
+A|But if you are rolling it over every three years, it might be advantageous to do that.|sv
 B|Yeah,|aa
 B|I guess.|aa
 B|Uh,|%
@@ -111,7 +111,7 @@ A|So, I just went through that whole set last year.|sd
 B|Uh-huh.|b
 A|I hope that I only have a slow period before I do that again|sd
 B|Those things can really upset your budget when they, when they come in.|sv
-B|Uh, you know, it's nice to have a little bit set aside for the, for the unexpected shall we say.So that it doesn't, uh, kill you all in one month.|sv
+B|Uh, you know, it's nice to have a little bit set aside for the, for the unexpected shall we say. So that it doesn't, uh, kill you all in one month.|sv
 A|Right.|b
 A|Right.|b
 A|What line of work are you in?|qw

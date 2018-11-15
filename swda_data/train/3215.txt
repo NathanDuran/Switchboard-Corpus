@@ -1,4 +1,4 @@
-A|Well this is a subject that you never think you'll be assigned toOne that kind of comes up when you've lost it, the others, other subjects.|sv
+A|Well this is a subject that you never think you'll be assigned to One that kind of comes up when you've lost it, the others, other subjects.|sv
 B|No|aa
 A|Um, as I was sitting there, I thought, the weather's been perfect.|sd
 A|I don't know much to say about it.|sd
@@ -58,19 +58,19 @@ A|I don't know if I've been spoiled.|sd
 A|I've been thinking it's getting cold sooner than normal.|sv
 A|We've only lived here a couple of years.|sd
 B|I think it is,|aa
-B|and my family said that in Ohio there was just an article on, at the T V news that they are three weeks ahead of scheduleas far as the coldness of the temperatures and, uh, the first frost,|sd
+B|and my family said that in Ohio there was just an article on, at the T V news that they are three weeks ahead of schedule as far as the coldness of the temperatures and, uh, the first frost,|sd
 A|Huh.|b
 B|everything just happened three weeks early this year.|sd
 A|We'll have to see how it goes,|sv
 A|a couple of weeks ago we were cooler than normal,|sv
 A|but then we're back to being warmer than normal this week, or last week,|sv
 A|so.|%
-B|Just so we don't have one of those famous ice stormsin the spring.|sv
+B|Just so we don't have one of those famous ice storms in the spring.|sv
 A|I don't have to live through many, any of those really,|sd
 A|a bad,|%
 A|I mean, nothing comparable, I guess, to what you've had before.|qy^d
 B|Well, I've only been here just a short time, too,|arp_nd
-B|so I haven't been throughany of those either,|sd
+B|so I haven't been through any of those either,|sd
 B|so. I have in Michigan,|sd
 B|but in Michigan you can get twelve inches of snow|sd
 B|and life goes on.|sd
@@ -85,7 +85,7 @@ B|Right,|aa
 B|the real definition of ice|aa
 A|So, well, I think we've discussed it good enough today.|fc
 B|I think so.|fc
-A|It was,It was good talking to you.|fc
+A|It was, It was good talking to you.|fc
 B|It was nice talking with you.|fc
 A|Maybe we'll get the next time.|fc
 B|Okay.|fc

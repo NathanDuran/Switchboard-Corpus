@@ -10,7 +10,7 @@ B|Uh, it seems to be not difficult enough for students. Not challenging enough. 
 B|Uh, however, I, if it weren't for our needless, uh, competition with Japan, I, I'd, I'd think that, that, the school systems, system works at a pretty good pace.|sv
 A|I don't know.|sd
 A|Uh, I haven't,|%
-A|it's been, uh, well seventy-nine since I was at school.At high school.|sd
+A|it's been, uh, well seventy-nine since I was at school. At high school.|sd
 B|Uh-huh.|b
 A|And, uh, I've seen things change.|sd
 A|I don't know if I've seen things change enough that I can actually,|sv
@@ -27,7 +27,7 @@ A|And I begin to wonder if I'm really getting my money's worth.|sv
 B|Huh.|%
 A|I mean, I, I've seen so many different things. So, so many different bad reports coming out of the school system|sd
 A|and I recognize that there are good schools out there.|sv
-A|I mean,  somebody's continue to employ people.getting, getting a good education because we,|sv
+A|I mean,  somebody's  getting, getting a good education because we, continue to employ people.|sv
 B| Right. |b
 A|But, uh, I don't, I don't understand the, uh, I don't understand, I guess, why the schools seem to have such a high dropout rate in the big cities.|sd
 B|Uh, well, I don't pretend to understand that either.|sd
@@ -57,7 +57,7 @@ A|Not all school districts are well paid.|sd
 A|But there are some school districts out there that are very well paid.|sv
 A|I mean I know one family that's got,|sd
 A|they're both teachers,|sd
-A|and they both have,that they work in the afternoons.like second jobs|sd
+A|and they both have, like second jobs that they work in the afternoons.|sd
 B|Uh-huh.|b
 A|They both work all summer full-time.|sd
 A|And from their teaching job alone, they pull in forty grand each.|sd

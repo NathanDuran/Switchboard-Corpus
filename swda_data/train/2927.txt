@@ -25,7 +25,7 @@ B|How does it compare to the years past?|qw
 A|um, I don't know, I haven't lived here, let's see, we lived out of state in Wisconsin|sd
 A|and we just|sd
 A|we lived here ten years ago,|sd
-A|and when we first lived here, we we were in Garland, East Richardson,and, um, doesn't seem like it was quite as humid.|sd
+A|and when we first lived here, we we were in Garland, East Richardson, and, um, doesn't seem like it was quite as humid.|sd
 B|Uh-huh.|b
 B|Oh.|b
 A|And, I don't know, then we went, we lived in, uh, Madison, Wisconsin for five years, um, for my husband's schooling, graduate schooling,|sd
@@ -35,7 +35,7 @@ A|but, um, it's a lot colder too.|sd
 B|Huh.|b
 B|Well, what brought you guys down to Texas then?|qw
 A|Uh, his job, he came back to start work again for a different company,|sd
-A|so,  said,  Here, here's  a|sd
+A|so,  said,   Here, here's  a|sd
 B| How   about that. |bh
 A|here we are again.|^q
 B|That's great.|ba
@@ -43,7 +43,7 @@ A|It just seems a little more humid than it,|sd
 A|I don't ever remember, of course, you know, you only remember the good stuff,|sd
 A|but, um, I just don't remember the humidity.|sd
 B|Right.|b
-B| Well definitely, I'm sure, the winters are more mild here.|sv
+B| Well  definitely, I'm sure, the winters are more mild here.|sv
 A| This  much rain, and this much humidity.|sd
 A|Uh, yeah,|aa
 A|they are.|sd
@@ -69,17 +69,17 @@ B|Sure.|b
 A|Um, it's just like up there, when you hear it's forty below, it's probably really only five below.|sv
 B|Right.|b
 A|Um, and it's so dry, that it's, it's like going to|sd
-A|well, probably what Arizona used to be like, you know,it's just dry and cool,|sd
+A|well, probably what Arizona used to be like, you know, it's just dry and cool,|sd
 B|Uh-huh.|b
 A|so it's not, it's not what you think it is.|sv
 B|True.|aa
 A|Um, no,|ar
-A|there have been times, though, when it gets so frigid that youyou can't stand it.|sd
+A|there have been times, though, when it gets so frigid that you you can't stand it.|sd
 A|Where did you move here from?|qw
 B|Colorado.|sd
 A|Well, there,|%
-A|you could talk about that, that's, that's a strange state for, |sv
-B| Oh sure, I, I'm uh, I'm very familiar,|aa
+A|you could talk about that, that's,  that's a strange state for, |sv
+B| Oh sure, I, I'm uh,  I'm very familiar,|aa
 B|my grandparents and all my relatives are from Wisconsin.|sd
 A|Oh, there you go, okay.|bk
 B|So, I'm, uh, quite familiar with how it is up there,|sd
@@ -97,7 +97,7 @@ A|but I'd,|%
 A|used to go on,|sd
 A|I worked for a mortgage company in Wisconsin|sd
 A|and I did a lot of business in, uh, um, well, Denver,|sd
-A|and that's, that's probably one of the stranger things, when you see the air inversions,and then you go into the mountains|sd
+A|and that's, that's probably one of the stranger things, when you see the air inversions, and then you go into the mountains|sd
 B|Uh-huh.|b
 A|and it's snowy|sd
 A|and uh, it just was a very mixed bag in terms  of Colorado. |sd
@@ -113,7 +113,7 @@ A|are there tornadoes in Colorado, yes or I don't,|qy
 B|Uh, it's getting to be more and more of a possibility.|na
 A|Yeah.|b
 B|It used to be no problem, just because it was such a, a rugged terrain and with trees everywhere,|sd
-B|but now, as they start to clear  more things out.|sd
+B|but now,  as they start to clear  more things out.|sd
 A| The mountains,|bf
 A|yeah. |%
 A|Even, I mean,|%
@@ -127,7 +127,7 @@ B|Right.|b
 A|Um, so I don't know what's happening, if it's, you know, we are, the greenhouse, I don't really know.|sd
 B|Yeah,|aa
 B|me neither.|sd
-A|It's just, you know.It's definitely not as, um,|sv
+A|It's just, you know. It's definitely not as, um,|sv
 B|But,|%
 A|I know I associate the pollution with weather in general,|sd
 A|so I guess one thing we do miss, is that's a smaller town,|sd

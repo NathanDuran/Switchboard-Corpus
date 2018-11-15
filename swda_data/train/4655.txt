@@ -5,7 +5,7 @@ A|so I kind of know, from way back, uh, how things used to be run|sd
 A|and I think there has been definite changes of nursing homes|sv
 A|but I think, uh, if I had to personally put one of my parents in a nursing home, they would have to be pretty bad off to where I couldn't take care of them at all.|sd
 A|It would be something that, you know, I would certainly,|sd
-A|if they're forgetting things or whatever, I'd prefer to have them at home or have them in what they call now home carewhere somebody comes in|sd
+A|if they're forgetting things or whatever, I'd prefer to have them at home or have them in what they call now home care where somebody comes in|sd
 B|Uh-huh.|b
 A|and they cook meals|sd
 A|and they clean their house for them,|sd
@@ -19,7 +19,7 @@ A|I think the patients weren't given the quality of care that|sd
 A|I wouldn't have, you know,|sd
 A|I look at it and say thank God,|sd
 A|I got out of that kind of situation.|^q
-A|Butthey, they were not given the time|sd
+A|But they, they were not given the time|sd
 B|Yeah.|b
 A|and they were not given the money, basically, to staff, appropriately, people to help.|sd
 B|Uh-huh.|b
@@ -33,7 +33,7 @@ B|Yeah,|b
 B|I guess I haven't had that much experience.|sd
 B|I've only seen like my great grandparents in a nursing home|sd
 A|Uh-huh.|b
-B|butI have an aunt who lived on her own until she was well in her nineties|sd
+B|but I have an aunt who lived on her own until she was well in her nineties|sd
 A|Yeah.|b
 A|Sure.|b
 B|and then she, she got sick|sd
@@ -73,7 +73,7 @@ A|I mean he said what the hell are you think you're doing, you know,|sd
 A|and I laughed at it then|sd
 A|but then I'm thinking God, you know,|sd
 A|if I had to put my parents in that nursing home, I wouldn't want them there.|^q
-A| So I think there's laws now that kind of protect. That nursing homes either have to keep the mentally ill totally away from these people and not in the same type of facilities,|sd
+A| So  I think there's laws now that kind of protect. That nursing homes either have to keep the mentally ill totally away from these people and not in the same type of facilities,|sd
 B| Yeah. |b
 A|even though they're aging mentally ill, they are still mentally ill|sv
 A|and a lot of these older people have their, you know, they're not insane or anything like that.|sv
@@ -87,13 +87,13 @@ A|A small town.|sd
 B|Oh, really?|bh
 A|Yeah,|ny
 A| yeah. |ny
-B| Because  it seems like the small town nursing homes,  there's a lot more personal attention.|sv
+B| Because  it seems like the small town nursing homes,  there's a  lot more personal attention.|sv
 A| I don't know. |aap_am
 A|I don't know.|aap_am
 A|I, I kind of look at it this way.|sd
 A|I think if you have a big city area, I think there's more people to keep watch on it.|sv
 B|Uh-huh.|aa
-B| You have more options.|bf
+B| You have  more options.|bf
 A| And, |%
 A|Yeah,|aa
 A|yeah.|aa

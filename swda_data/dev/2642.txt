@@ -13,7 +13,7 @@ A|Yeah.|b
 B|What about you?|qo
 A|Well, we have this philosophy, we use it when we go off somewhere|sd
 A|but we pay for it as soon as we come back, you know,|sd
-A|as soon as we get our bills,we pay it off.|sd
+A|as soon as we get our bills, we pay it off.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|And we only have one.|sd
@@ -21,10 +21,10 @@ A|We tore all the rest of them up.|sd
 B|okay.|b
 A|Because I don't like credit cards for one thing, you know,|sd
 A|I mean, they're okay, I guess,|h
-A|if you're on a trip or something,you don't have to take a whole bunch of, you know, cash with you,|sd
+A|if you're on a trip or something, you don't have to take a whole bunch of, you know, cash with you,|sd
 B|Uh-huh.|b
 B|Right.|b
-A|but I don't like using them because I've seen too many people that used them and ended up bankrupt or on, chapter  thirteen and stuff like that.|sd
+A|but I don't like using them because I've seen too many people that used them and ended up bankrupt or on,  chapter  thirteen and stuff like that.|sd
 B| Huh. |%
 B|Uh-huh.|b
 A|Because they have this weird opinion that if you use that card, you don't have to pay for it.|sv
@@ -70,7 +70,7 @@ B|you've spent a heck of a lot of money on that thing.|sd
 A|Right.|b
 A|The only one that we, we have that we kept was the Discover card,|sd
 B|Uh-huh.|b
-A|and it pays you to use it. if you  don't ever have to pay any interest on it because they give you a certain amount every time that you use it, I mean,  if you pay your bill off right away,|sd
+A|and it pays you to use it.  I mean,  if you pay your bill off right away,  if you  don't ever have to pay any interest on it because they give you a certain amount every time that you use it,|sd
 B| Uh-huh. |b
 B| Uh-huh. |b
 A|and you make that money as long as you don't ever have to pay them any, uh, interest.|sd
@@ -108,7 +108,7 @@ A|you don't have to ever use it if you don't want to.|^q
 A|They'll send me any credit card,|sd
 A|I tear it up.|sd
 A| I just can't see it. |sv
-B| What I really hate  in the mail is like for the credit cards that I do have still,that they send you these things that look like checks,|sd
+B| What I really hate  in the mail is like for the credit cards that I do have still, that they send you these things that look like checks,|sd
 A|Uh-huh.|b
 A|Yeah.|b
 B|and they say, hey, you know, two thousand dollars, you know, free to you kind of thing, you know,|sd
@@ -183,7 +183,7 @@ B|and, you know, that's how I got started kind of with setting up a household al
 B|You know, you just have to have these things just, you know, have them at home, have to have them at my own place|sv
 B|and that's, you know, a big expenditure to start, um, buying all these things that you think or, or have to have|sv
 B|and actually they're kind of luxuries|sv
-B|or you should save up slowly and keep buying them and not just rush out and furnish the whole place, you know,  going in one big swoop, save up and then buy it.|sv
+B|or you should save up slowly and keep buying them and not just rush out and furnish the whole place,  you know,  going in one big swoop, save up and then buy it.|sv
 A| Right. |b
 A|yeah.|b
 B|But we're not into that.|sv
@@ -206,7 +206,7 @@ A|uh-huh.|b
 B|people go, oh, well, I'll just go buy it, put it on credit and they'll pay it off.|sd
 A|yeah.|b
 B|People aren't tuned in to like saving for it and then buying it,|sv
-B|they just put it on a charge card, put it on account,and then pay off the bill because they want it now.|sv
+B|they just put it on a charge card, put it on account, and then pay off the bill because they want it now.|sv
 A|Huh.|%
 B|It's always have to have it now.|sv
 A|Yeah,|b

@@ -4,7 +4,7 @@ A|Or you want salary too plus what?|qrr
 A|What's most important to you?|qw
 B|Well, as far as tangible benefits go I would say that, uh, health insurance of all forms is probably my next most important concern.|sv
 A|Right.|b
-B|I feel that a company that can provide good health benefits such as health care, dental and visionas well as good long-term and short-term disability plans, uh, goes a long way toward satisfying my needs.|sv
+B|I feel that a company that can provide good health benefits such as health care, dental and vision as well as good long-term and short-term disability plans, uh, goes a long way toward satisfying my needs.|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Well, I'll tell you.|oo_co_cc
@@ -25,7 +25,7 @@ A|and it was only for a cold, you know,|sd
 A|and they can't really do anything for you anyhow,|sv
 A|so you might as well not even go|sv
 B|Yeah,|b
-B|they look at you, say, well you're still breathing,  so, uh, Yeah.|sd
+B|they look at you, say, well you're still breathing,  so, uh,  Yeah.|sd
 A| Yeah,|aa
 A| right|aa
 A|Oh, you've got a cold.|^2
@@ -52,7 +52,7 @@ A| Um,  uh-huh.|b
 B|Have you heard of them?|qy
 A|No.|nn
 B|They,|%
-B|we do, uh, distributive system softwarefor Unix based workstations|sd
+B|we do, uh, distributive system software for Unix based workstations|sd
 A|Uh-huh,|b
 A|uh-huh.|b
 A|Uh-huh.|b
@@ -73,7 +73,7 @@ B|after the merger, uh, you see a lot of Ryder PIE stuff on the road.|sd
 A|Well, you did.|sd
 B|So, did, did Ryder get out of the business?|qy
 B|Is that what happened or?|qy
-A|Well Ryder and P I E went together you  know,|sd
+A|Well Ryder and P I E went together  you  know,|sd
 B| Right. |b
 A|and then, then that ended it|sd
 B|Huh.|b
@@ -121,7 +121,7 @@ A|so many people are lying about their things.|sv
 A|God, there's been big articles in the paper about that.|sd
 A|Uh, you know, they claim a back injury|sd
 A|and then someone goes out and spies on them|sd
-A|and they're lifting refrigerators into trucks andand everything else, you know.|sd
+A|and they're lifting refrigerators into trucks and and everything else, you know.|sd
 B|Right.|b
 A|So I don't know what's happening and what's going to happen.|sd
 A|But, uh|%

@@ -14,7 +14,7 @@ B|what, what benefits I think are most important?|qw
 A|Well, what, what do you think of the,|qw
 A|let's put it this way,|^h
 A|what do you think are the most important benefits for those working for you, other than, other than their present salary?|qw
-B|Um, I'd say in today's economy, besides basic benefits, uh, such as, um, health insurance and life insurance and the, some type of retirement planI'd say that, uh, most of the employees, uh, um, that we have really like a, a profit sharing plan.|sv
+B|Um, I'd say in today's economy, besides basic benefits, uh, such as, um, health insurance and life insurance and the, some type of retirement plan I'd say that, uh, most of the employees, uh, um, that we have really like a, a profit sharing plan.|sv
 A|Uh-huh.|b
 A|A profit sharing plan,|b^m
 A|that's interesting,|sd
@@ -28,7 +28,7 @@ A|Yes,|b
 A|because they they have a specific reason to do so, because they themselves benefit from doing a better job.|bf
 B|Right.|b
 B|I think most people, uh, don't want money, um,|sv
-B|it's been my experience, most people want, uh, to feel like they're participating in something that, uh, that is not a drudgery, you know, that they enjoy,  and that they can get some benefits out of.|sv
+B|it's been my experience, most people want, uh, to feel like they're participating in something that, uh, that is not a drudgery, you know, that they  enjoy,  and that they can get some benefits out of.|sv
 A|Uh-huh,|b
 A|And it's a contribution.|^2
 B|Right.|aa
@@ -47,7 +47,7 @@ B|Yes.|aa
 A|How many, uh.|qw
 B|You said you retired,|qy^d
 B|I just happen to have a person that I happened to do some planning for this morning,|sd
-B|but anyway,  uh, uh, we do, we deal with a lot of people that are retired or trying to retire|sd
+B|but  anyway,  uh, uh, we do, we deal with a lot of people that are retired or trying to retire|sd
 A| Uh-huh. |b
 A|Uh-huh,|b
 A|well.|%
@@ -67,7 +67,7 @@ A| Oh, okay.|bk
 A| Uh-huh.|b
 A|Even though they didn't bring it in, they help it once it's there.|sv
 B|Right|b
-B|wellsee, we have we have marketing people,|sd
+B|well see, we have we have marketing people,|sd
 A|Yeah.|b
 B|and then we have financial planners,|sd
 B|and, uh, then we have, uh, staff secretaries and administrative assistants,|sd
@@ -80,7 +80,7 @@ A| Yes,|b
 A|but it,  it might not be necessarily because he did a good or bad job,|sv
 A|but it might be whether the locality there, those people want that kind of support.|sv
 B|Well, and, and, but to,|%
-B|see the thing is that they give support to the financial planner that they're the assistant to, or that they usually have several people they report to that, you know, that they workit encourages them not to, uh, complain when they realize that they get a part of the, of the action based on their efforts and not based on being sitting back saying, well make me do it.together with|sv
+B|see the thing is that they give support to the financial planner that they're the assistant to, or that they usually have several people they report to that, you know, that they work together with it encourages them not to, uh, complain when they realize that they get a part of the, of the action based on their efforts and not based on being sitting back saying, well make me do it.|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Uh-huh.|b
@@ -90,7 +90,7 @@ A| Yeah. |b
 B|I think most people want to be, lack of better terminology, they want to be self-employed,|sv
 B|but they don't want to take the risk.|sv
 B|In other words, they like to control their own future,|sv
-B|but they also want to be somewhat content to go and come as they pleasewithout some real strict adherence,|sv
+B|but they also want to be somewhat content to go and come as they please without some real strict adherence,|sv
 A|That's true.|aa
 B|which,|%
 B|that's what we have.|sd

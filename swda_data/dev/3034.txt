@@ -20,7 +20,7 @@ A|Correct,|ba
 A|right.|b
 B|Right|b
 B|Oh, it's amazing.|ba
-A|They're so astronomical I can't even imaginethat kind of money.|sd
+A|They're so astronomical I can't even imagine that kind of money.|sd
 B|Right.|b
 A|You know it's just, uh, phenomenal|sd
 B|Well, fortunately the Red Sox, last time I saw the paper earlier this week, were in first place and doing quite well.|sd
@@ -37,7 +37,7 @@ B|But hopefully, hopefully next week I'll get back to my normal routine.|sd
 A|Okay.|b
 A|Uh, you are involved with T I uh, speech, um, recognition?|qy
 B|Well, not really.|ng
-B|I, umI work at laboratory.|sd
+B|I, um I work at laboratory.|sd
 A|How did you find out about it?|qw
 A|Oh, okay.|bk
 B|From, uh,|%
@@ -45,9 +45,9 @@ B|I'm an officer in the Air Force,|sd
 A|I see.|ba
 A|Interesting.|ba
 A|Oh, great.|ba
-B|And, uh, the speech laboratory does some work with, uh, T I,at, uh, not in my office|sd
+B|And, uh, the speech laboratory does some work with, uh, T I, at, uh, not in my office|sd
 A|I see.|ba
-B|but, uh, in my division they do,quite a bit of speech work.|sd
+B|but, uh, in my division they do, quite a bit of speech work.|sd
 A|Uh-huh.|b
 A|Well, that's good.|ba
 A|Well, that's interesting.|ba
@@ -70,7 +70,7 @@ B|I, I prefer to watch, um,|sd
 B|I guess I'm one of the few people that also prefers baseball to football.|sv
 B|And I, I'd much rather go to a baseball game than to a football game.|sd
 A|Well, I, I can relate to baseball because I used to play baseball.|sd
-A|But I can't relate to football because I've never,played football and, and don't, and have any interest,|sd
+A|But I can't relate to football because I've never, played football and, and don't, and have any interest,|sd
 B|Uh-huh.|b
 A|and I said if I ever had a son, he would not play football.|sd
 A|And, uh, I had four daughters|sd
@@ -86,9 +86,9 @@ A|I think the odds are cut down.|sv
 B|Uh-huh.|b
 A|You know, I, I know they can get hurt in baseball too.|sv
 A|The bat is a very heavy object, can do a lot of damage|sv
-A|but, uh, I think that they have a, a lower racial of injuries,ratio of injuries in baseball.|sv
+A|but, uh, I think that they have a, a lower racial of injuries, ratio of injuries in baseball.|sv
 B|it's true.|aa
-B|I, I would say that baseball tends to be one of the less,troublesome sports,|sv
+B|I, I would say that baseball tends to be one of the less, troublesome sports,|sv
 A|Because|%
 A|Yeah.|b
 B|but, uh, for some people it's just, uh, uh,|sd
@@ -98,10 +98,10 @@ B|not so much that|ar
 B|but, uh, even in baseball you can,|sv
 B|like when I played baseball when I was growing up, I had trouble, uh, uh, just throwing the ball because I very, I was always very strong|sd
 B|and I|%
-B|when I was young I could throw harder,than my, uh, like ligaments and all that should have been allowed to.|sd
+B|when I was young I could throw harder, than my, uh, like ligaments and all that should have been allowed to.|sd
 A|Uh-huh.|b
 A|I see.|ba
-B|And so I was always throwing my arm out and, uh,having trouble.|sd
+B|And so I was always throwing my arm out and, uh, having trouble.|sd
 A|Uh-huh.|b
 B|I, and I was a catcher|sd
 B|so I was constantly throwing back to the pitcher and then down to second base and all and that kind of stuff.|sd
@@ -124,9 +124,9 @@ A|uh-huh.|b
 B|so. Um, but I stood the, stood the injury wrestling,|sd
 B|but it,|%
 B|as long as I let it heal, it never really bothered me|sd
-B|then playing football this fall,I, it was just flag football too. I separated it again|sd
+B|then playing football this fall, I, it was just flag football too. I separated it again|sd
 A|Uh-huh.|b
-B|and it seemed to be,like the straw that broke the camels back,|sd
+B|and it seemed to be, like the straw that broke the camels back,|sd
 A|Oh, boy.|ba
 B|so.|%
 A|Uh-huh.|b
@@ -155,7 +155,7 @@ A|And I thought, no,|sd
 A|not|%
 A|I don't,|%
 A|my love wasn't there for the game.|sd
-A|I liked to as a, as a method of, uh, entertainment and I, uh,fellowship|sd
+A|I liked to as a, as a method of, uh, entertainment and I, uh, fellowship|sd
 B|Sure.|b
 A|but outside of that, no.|sd
 A|I didn't.|sd
@@ -170,7 +170,7 @@ A|No, uh,|nn
 A|at T I they have a sponsor, a junior league achievement|sd
 A|and, uh, it's true bowling|sd
 A|and I've never, uh, shared that with them.|sd
-A|I would have to brush up on my bowling before I even tried to, uh, win a lot of money for the junior achievement,uh, organization.|sd
+A|I would have to brush up on my bowling before I even tried to, uh, win a lot of money for the junior achievement, uh, organization.|sd
 B|Uh-huh.|b
 A|But that's the only thing that I would, you know, be to do.|sd
 B|Right.|b

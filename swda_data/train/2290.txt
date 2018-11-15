@@ -9,7 +9,7 @@ A|and I never really got into that too much, because you have to get in the boat
 A|and I didn't know anybody who had a boat now,|sd
 A|so I don't fish too much in saltwater.|sd
 B|Uh-huh.|b
-B|Most of my fishing has been in the saltwater.Uh, mostly deep sea fishing for grouper and bottom fish|sd
+B|Most of my fishing has been in the saltwater. Uh, mostly deep sea fishing for grouper and bottom fish|sd
 A|Oh, really,|b
 A|Oh, neat,|ba
 B|and, uh, I have caught one or two small sharks|sd
@@ -36,7 +36,7 @@ B|so, it's, they do a lot of shark fishing in that, you know, in the gulf|sd
 A|Right.|b
 B|and, um, there's a certain period of time during the year they have all along the gulf coast from, I guess from Galveston to Mayport they have, uh, shark tournaments,|sd
 B|and, you know, there's part,|%
-B|either as part of or separate from the, uh, bill fishing tournaments they usually haveand those sorts of things, but nothing,but, uh, maybe some what they call brimoh, for, you know, lake, lake fishing for bass and so forthso, I have not done, uh, much freshwater fishing|sd
+B|either as part of or separate from the, uh, bill fishing tournaments they usually have so, I have not done, uh, much freshwater fishing oh, for, you know, lake, lake fishing for bass and so forth but, uh, maybe some what they call brim and those sorts of things, but nothing,|sd
 A|Right.|b
 A|Oh, really.|b
 A|Right.|b
@@ -48,7 +48,7 @@ A|Uh, no|nn
 A|I haven't.|sd
 A|I don't know that I could do that.|sd
 A|That looks awful tiring|sv
-B|I've tried itonce,|sd
+B|I've tried it once,|sd
 A|Did you.|qy
 B|yes,|ny
 B|uh, a friend of mine|sd
@@ -72,7 +72,7 @@ B|Oh, no,|nn
 B|no,|nn
 B|no,|nn
 B|no.|nn
-B|I used, uh, when I was, uh, working in Florida, I used to do a lot of surf fishingmostly for relaxation|sd
+B|I used, uh, when I was, uh, working in Florida, I used to do a lot of surf fishing mostly for relaxation|sd
 A|Uh-huh.|b
 A|Right.|b
 B|you know, there are people who fish,|sv
@@ -84,7 +84,7 @@ B|That's right,|na
 B|I've never caught that much,|sd
 B|but, uh,|%
 A|Really.|b
-B|Oh, and occasionally we'd go out on a, you know, full day trip, you know, three or four other peopleor for grouperand do either, again, bottom fishing or|sd
+B|Oh, and occasionally we'd go out on a, you know, full day trip, you know, three or four other people and do either, again, bottom fishing or or for grouper|sd
 A|Right.|b
 A|Right.|b
 B|or, I used to catch you know, I've caught a few worthwhile snappers, red snappers and gray snappers and so forth.|sd
@@ -113,7 +113,7 @@ A|I want to say I did this,|sd
 A|I was out there for a reason|^q
 B|The last time I went, uh, bass fishing,|sd
 B|I was with my daughter, a friend of hers, and, well, a friend of mine and his daughter.|sd
-B|We, I was the only one who did not catch,a single fish|sd
+B|We, I was the only one who did not catch, a single fish|sd
 A|Really.|b
 B|my daughter caught fish,|sd
 B|his daughter caught fish,|sd
@@ -129,8 +129,8 @@ B|I I,|%
 A|Couldn't catch one to save your life. Huh.|bf
 B|That's right,|aa
 B|I would go from one side of the boat to the other,|sd
-B|and, uh,the, uh, the party boat captain could not understand, you know,|sd
-B|he even, even he started baiting my hookand holding, holding the, uh, the fishing rod.|sd
+B|and, uh, the, uh, the party boat captain could not understand, you know,|sd
+B|he even, even he started baiting my hook and holding, holding the, uh, the fishing rod.|sd
 A|How funny,|ba
 A|just hoping maybe, he could pull|bf
 B|Right,|aa
@@ -146,7 +146,7 @@ B|here in,|%
 B|we're only just a few, not a few minutes, we're, you know, forty five minutes to an hour away from the eastern shore here in Maryland|sd
 A|Right.|b
 B|and they do a lot of fishing there.|sd
-B|Of course what I used to like to do though is go snorkeling for scallopsin some of the bays, or uh, or for oysters.|sd
+B|Of course what I used to like to do though is go snorkeling for scallops in some of the bays, or uh, or for oysters.|sd
 A|Oh, yeah,|ba
 A|That would be fun.|sv
 B|And, uh, that I was able to do, when I could go in and go down and actually pick them off the bottom.|sd
@@ -181,7 +181,7 @@ A|and it looked archaic.|sd
 A|I, I had no idea what it was.|sd
 A|I called my father long distance just to describe the thing,|sd
 A|and it had the rock in its mouth, not the chicken,|sd
-A|but the rock itselfis what it had grabbed.|sd
+A|but the rock itself is what it had grabbed.|sd
 B|Um.|%
 A|They say it's a dog fish, from everything I've described,|sd
 A|it was brown with these little white dots|sd
@@ -190,7 +190,7 @@ A|and it made a loud, almost a croaking noise like a croaker does|sd
 B|Uh-huh.|b
 A|it, it was the strangest thing.|sd
 A|Oh, I'll never get over that.|sd
-A|To this day I don't want to get in the water,anywhere around salt water because I'm sure one of those fish are there.|sd
+A|To this day I don't want to get in the water, anywhere around salt water because I'm sure one of those fish are there.|sd
 B|Well, we used to,|%
 B|I guess the weirdest thing I've ever caught is, uh, in some of the inlets and the rivers around Delaware.|sd
 A|Uh-huh.|b
@@ -201,12 +201,12 @@ B|and it has a huge strong mouth,|sd
 B|and they actually, uh, use their teeth to open oysters.|sd
 A|That's where it gets its name, obviously, huh.|bf
 B|Uh-huh,|aa
-B|and this is the ugliest,fish I have ever seen,|sd
+B|and this is the ugliest, fish I have ever seen,|sd
 B|and I mean, and they come in all you know,|sd
-B|I've, I've caught them from, you know, three or four inches longup to, uh,|sd
+B|I've, I've caught them from, you know, three or four inches long up to, uh,|sd
 A|Uh-huh.|b
 B|I guess the largest one I ever caught was probably eight or ten inches long,|sd
-B|but just huge, ugly thingsjust terrible.|sd
+B|but just huge, ugly things just terrible.|sd
 A|Huh.|%
 A|Can you eat them?|qy
 B|No,|nn
@@ -221,7 +221,7 @@ B|Uh-huh.|b
 A|It was it really, it didn't look like, it looked like it was something out of the dark ages that just never died.|sd
 B|Well, the first time I went surf fishing was in ,|sd
 B|and I threw my line out|sd
-B|and the first thing I caught was a sand shark, which was probably a foot,and a half or, uh, two feet long,|sd
+B|and the first thing I caught was a sand shark, which was probably a foot, and a half or, uh, two feet long,|sd
 B|and scared me to death.|sd
 A|Oh.|b
 B|I had never seen anything,|sd

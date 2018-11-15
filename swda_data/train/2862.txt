@@ -13,7 +13,7 @@ A|because, uh, I saw just a little bit of the game today|sd
 A|and he was out there playing.|sd
 B|Oh, okay.|bk
 A|Although, uh, I, what I saw was at the end of the first quarter,|sd
-A|I think he only had like eight pointsat the end of the first quarter,|sd
+A|I think he only had like eight points at the end of the first quarter,|sd
 B|Uh-huh.|b
 A|they thought that was big news.|sd
 B|Oh, yeah.|b
@@ -37,9 +37,9 @@ B|Sure is.|aa
 A|Oh, man.|ba
 A|Now I, uh, I, I've always been pulling for the Lakers for a long time.|sd
 B|Oh, yeah.|b
-A|And, uh, not just,  not just because they always win,|sd
+A|And, uh,  not just,  not just because they always win,|sd
 B| They're consistent. |sv
-A|but, uh, when they had, uh, Akeemanybody who was old as that playing that well, you know, I just kind of had to go with them.|sd
+A|but, uh, when they had, uh, Akeem anybody who was old as that playing that well, you know, I just kind of had to go with them.|sd
 B|Uh-huh.|b
 A|Now they kind of got caught up with a lot of the other players and, uh, course, uh, all the people that follow the Lakers and everything out there in, in California.|sv
 A|Uh, and it also helps when they were winning|sv
@@ -61,7 +61,7 @@ A|But, uh,|%
 B|Yeah,|aa
 B|year in and year out, it's not like they have, you know,|sv
 B|a lot of teams will, will, will win in the playoffs|sv
-B|and then the next year they'll be allthey'll be too busy doing their endorsements and stuff, to, to concentrate on the game.|sv
+B|and then the next year they'll be all they'll be too busy doing their endorsements and stuff, to, to concentrate on the game.|sv
 A|Yeah.|b
 A|Well, I understand that, uh,|ba
 A|I guess Boston's really, uh, giving, uh,|%
@@ -83,7 +83,7 @@ B|and they do the same thing|sd
 B|and, and then they, and then they stay out for two or three weeks at a time.|sd
 B|So, it really gets, you know,|%
 B|I mean they're sleeping in different bed every night|sv
-B|andand I imagine that really helps his back.|sv
+B|and and I imagine that really helps his back.|sv
 A|Yeah,|b
 A|yeah.|b
 A|He ought to have his own bed come along with him, you know|sv
@@ -91,7 +91,7 @@ B|Uh-huh.|aa
 B|Yeah,|aa
 B|he said, he said the other night on the news that he hadn't done any extra shooting for six weeks,|sd
 B|so, you know, and he's the one that's always winning the, uh, the, the outside, the three point shot|sd
-B|andhe does that every year.|sd
+B|and he does that every year.|sd
 A|Oh, yeah,|b
 A|yeah.|b
 A|Yeah,|aa
@@ -107,7 +107,7 @@ B|Just, uh, just, just playing horse and stuff like that.|sd
 A|Yeah.|b
 B|Yeah,|b^m
 B|because it's, it kind of a violent game.|sv
-A|It really is for a noncontact sport, quote, unquote. |sd
+A|It really is for a noncontact sport,  quote, unquote. |sd
 B| And they |%
 B|Yeah,|aa
 B|and they don't wear any pads .|sd
@@ -135,7 +135,7 @@ A|and I came up spittering and sputtering for air|sd
 A|and they were all the basketball players there to play the Cavaliers|sd
 B|Uh-huh.|b
 A|they were all like, uh, like six eight and, uh, you know, six ten,|sd
-A|and they were standing in water that was like six foot, you know,|sd
+A|and they were standing in water that was like six foot,  you know,|sd
 B| Six foot,|b^m
 B|yeah. |b
 A|and  it was, uh, it was funny, I tell you.|sd

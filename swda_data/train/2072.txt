@@ -2,7 +2,7 @@ A|All righty .|fo_o_fw_"_by_bc
 A|Uh, I'll just hand it off to you|sd
 A|and hobbies in our spare time is what we've been selected to discuss today.|sd
 B|Well, uh, the hobbies that I pursue in my spare time, are crafts|sd
-B|and, uh, I've been involved in making, uh, hat stands and, uh, rag dolls and, uh, different type hats with, uh, flowers and roses, you know, and, uh, that kind of thing, straw hats and,all that kind of stuff.|sd
+B|and, uh, I've been involved in making, uh, hat stands and, uh, rag dolls and, uh, different type hats with, uh, flowers and roses, you know, and, uh, that kind of thing, straw hats and, all that kind of stuff.|sd
 A|Oh like typing noises in|b
 B|And I enjoy it,|sd
 B|it's relaxing.|sv
@@ -23,7 +23,7 @@ B|that's neat.|ba
 A|uh, I used to do that a lot|sd
 A|and then I like, um,|%
 A|we have a new child that will be a year old here next week,|sd
-A|so I'll take a lot of pictures of her,you know, and spoil them,|sd
+A|so I'll take a lot of pictures of her, you know, and spoil them,|sd
 B|Oh, that's great,|ba
 B|uh-huh.|b
 A|first one, you know how that is.|sv
@@ -38,7 +38,7 @@ A|I've,|%
 B|Oh, that sounds nice.|ba
 B|I like bluegrass, too.|sd
 A|yeah,|b
-A|I've done it before and when I was in in high school and college,and thoroughly enjoyed it,|sd
+A|I've done it before and when I was in in high school and college, and thoroughly enjoyed it,|sd
 B|Uh-huh.|b
 A|and it's really a, a blast.|sv
 A|My wife hates it,|sd
@@ -49,7 +49,7 @@ B|If you can do things together, that really helps a lot.|sv
 A|yeah,|b
 A|we, uh,|%
 A|she's, uh, into aerobics,|sd
-A|and, uh,and we did aerobics together for about a month and a half|sd
+A|and, uh, and we did aerobics together for about a month and a half|sd
 B|Oh, that's good, too.|ba
 A|and that went over real well,|sd
 B|Uh-huh.|b
@@ -74,12 +74,12 @@ A|with a child it's, kind of|sv
 A|she's,|%
 A|we have, uh,|%
 A|we're looking for a baby-sitter|sd
-A|so we've been out twice in in this year so far.By ourselves without the child|sd
+A|so we've been out twice in in this year so far. By ourselves without the child|sd
 B|Uh-huh.|b
 A|so it's kind of, uh, become an issue you could say.|sv
 B|Sure.|b
 A|Um, hobbies,|%
-A|I like, messing around in your house building things, and, you know,those kind of things, um,putting cabinets up, and,|sd
+A|I like, messing around in your house building things, and, you know, putting cabinets up, and, those kind of things, um,|sd
 B|Oh yeah,|aa
 B|that's great, too.|ba
 B|Uh-huh.|b
@@ -118,9 +118,9 @@ A|Well, we're all skinny farts|sd
 A|so, I,|%
 A|it,|%
 A|so when it comes to,|%
-A|I like to cook and eat and,to have, mainly, I guess, I get to|sd
+A|I like to cook and eat and, to have, mainly, I guess, I get to|sd
 B|Yeah.|b
-A|amount of people eat, *listenand then say, man this is really good,|sd
+A|amount of people eat, *listen and then say, man this is really good,|sd
 B|Uh-huh.|b
 B|Yeah,|aa
 B|it is.|sv
@@ -136,14 +136,14 @@ A|all that hoedown stuff.|sd
 B|Yeah,|b
 B|yep,|b
 A| All that stuff that's bad for you. |sd
-B| I, I lived in Abilene for  a little while,and, uh, worked in the Abilene plant,|sd
+B| I, I lived in Abilene for  a little while, and, uh, worked in the Abilene plant,|sd
 A|Oh, sure,|b
 A|yeah.|b
 B|and we used to go to Joe Allen's Barbecue,|sd
 B|and, uh, oh, that was great.|sv
 A|Oh, yeah.|b
 B|Really great,|sv
-A|That's, uh,only way to do it.|sv
+A|That's, uh, only way to do it.|sv
 B|they have some nice stuff down there.|sv
 B|I miss it|sd
 A|Well, yeah,|b

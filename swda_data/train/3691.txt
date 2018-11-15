@@ -9,7 +9,7 @@ A|Uh, my wife and I have a dog that soon be eight years old,|sd
 A|and we have a, a cat, which is, uh, I guess about five years old.|sd
 B|Oh, my goodness.|ba
 A|How about you guys?|qo
-B|We have three dogs andtwo birds at this point.|sd
+B|We have three dogs and two birds at this point.|sd
 A|Three dogs.|b^m
 A|And two|b^m
 A|what kind of birds do you have?|qw
@@ -21,10 +21,10 @@ A|You let them out and let them fly around and everything?|qy
 B|Well, no,|nn
 B|because my dogs chase them.|sd
 A|Okay.|bk
-B|So in order to have the birds not stuffed I have to keep them in theircages.|sd
+B|So in order to have the birds not stuffed I have to keep them in their cages.|sd
 A|You know, this is like a cruelty joke,|sv
 A|and I apologize if you're a bird lover,|fa
-A|but, uh, we had a parakeet.And never thought about it.And, my fault, put up our first electric fan.|sd
+A|but, uh, we had a parakeet. And, my fault, put up our first electric fan. And never thought about it.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|Knocked that parakeet right out of the air.|sd
@@ -34,7 +34,7 @@ B|because it's his well, the first one that we had was his bird,|sd
 B|and I had a ceiling fan put up,|sd
 B|and it, the bird got away from him one afternoon,|sd
 B|and I mean that sucker hit that fan and went flying up against the wall,|sd
-B|I thought, ohso much for the bird.|sd
+B|I thought, oh so much for the bird.|sd
 A|It killed him?|qy
 B|No,|nn
 B|he's still alive and  kicking. |sd
@@ -44,15 +44,15 @@ A|I'll be darned.|ba
 B|No,|nn
 B|I guess we didn't have it high enough or he didn't get hit in just the right spot,|sd
 B|but it threw him up against the wall, you know,|sd
-B|and he slid down the wall.Oh, I hate them. *sd|sd
+B|and he slid down the wall. Oh, I hate them. *sd|sd
 A|Well, speaking of pets, I'll tell you, my, my kids are older now,|sd
 A|my, both of them are either in or out of college,|sd
 A|but, but we had for years, about five years I guess, had a, my son had a Burmese boa constrictor,|sd
-A|andthat thing grew to be seven and a half feet in, in length,|sd
+A|and that thing grew to be seven and a half feet in, in length,|sd
 A|and finally my wife, wife, bless her heart, got rid of it, because I didn't really like it.|sd
 A|We also had a,|%
 A|one year down in Florida on a vacation, for Father's Day, my kids, years ago, maybe, uh, ten years ago, go, bought me a skunk from a exotic pet shop.|sd
-A|It'd be like, it'd been like deactivated as far assmell and everything,|sd
+A|It'd be like, it'd been like deactivated as far as smell and everything,|sd
 B|Oh, my goodness.|ba
 A|and we had that darn pet skunk for about five years,|sd
 A|and, and my son left, went to school,|sd
@@ -78,7 +78,7 @@ A|That was sort of fun, you know,|sd
 A|I tell everyone this story because my wife is a real pet lover.|sd
 A|I use to visualize my wife,|sd
 A|many times my wife would be lying there on the sofa,|sd
-A|and this snake honestly would be stretched across the top of her body and with his, with his head  right on her neck|sd
+A|and this snake honestly would be stretched across the top of her body  and with his, with his head  right on her neck|sd
 B| Oh, you're kidding. |ba
 B|Oh.|b
 A|and the skunk would be sitting at her feet,|sd
@@ -89,7 +89,7 @@ B|I can not|%
 B|I just, I don't,|%
 B|in fact my brother has a, uh, a exotic pet shop out in California,|sd
 B|and he keeps threatening to send a snake through the mail, you know,|sd
-B|I'm going don't do that,  because they won't come in my house.|sd
+B|I'm going  don't do that,  because they won't come in my house.|sd
 A| Oh, gosh. |ba
 A|Oh, my son bought this snake, uh,|sd
 A|someone gave it to him when he was in junior high school,|sd
@@ -100,11 +100,11 @@ B|Uh-huh.|b
 A|it's just, uh, too much.|sd
 A|That snake used to watch our cat walk around.|sd
 A|I always told my wife,|sd
-A|I says you know,  your friend's going to get our cat one of these days|sd
+A|I says  you know,  your friend's going to get our cat one of these days|sd
 B| Oh, my gosh. |ba
 B|Oh, my gosh.|ba
 B|That is wild.|ba
-B|Oh, I just can't do those, and the lizards and theall those those things,|sd
+B|Oh, I just can't do those, and the lizards and the all those those things,|sd
 A|Oh, me neither.|aa
 B|they, they need to stay outside, far away from me.|sv
 A|We're down to a simple dog and cat now,|sd
@@ -120,12 +120,12 @@ B| Oh, yeah,|aa
 B|they are so expensive. |sd
 B|Well, my son was just dying for a bird,|sd
 B|and I'm really allergic to them,|sd
-B|soI try to stay away from them, except I've gotten real attached to this one,|sd
+B|so I try to stay away from them, except I've gotten real attached to this one,|sd
 A|Are you?|bh
-B|and, and, uh, we went down to Canton one timeoh, gosh, two or three years ago now,|sd
+B|and, and, uh, we went down to Canton one time oh, gosh, two or three years ago now,|sd
 A|Uh-huh.|b
 B|and he'd saved up his allowance, you know, and picked him out a bird in a bird cage|sd
-B|and,and that stinking bird, when I brought it home tried to take it out of the little box that they give you|sd
+B|and, and that stinking bird, when I brought it home tried to take it out of the little box that they give you|sd
 A|Yes.|b
 B|clamped onto my finger and would not,|sd
 B|I mean, I had to literally shake him off to get him in the cage,|sd
@@ -141,7 +141,7 @@ A|Why, sure.|ba
 B|And I'm a substitute teacher|sd
 B|and one of my fifth graders last year came up to me and said, high-pitched like a child's my mom's making me get rid of the bird,|sd
 B|we have too many pets.|^q
-B|I thought, yeah, right come tell me about it,you know.|sd
+B|I thought, yeah, right come tell me about it, you know.|sd
 A|Come to my menagerie.|bf
 B|They knew the sucker when they saw one.|sd
 B|So now we have two parakeets.|sd

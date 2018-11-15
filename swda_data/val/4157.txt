@@ -23,7 +23,7 @@ A|Huh.|b
 B|Also, um, another thing that, that I noticed that was very strange,|sv
 B|I was, uh, I would go down all these, uh, uh,|sd
 B|I remember this one row of houses|sd
-B|and they were, uh, row houses or townhouses,all connected together so it was like lower middle-class housing.|sd
+B|and they were, uh, row houses or townhouses, all connected together so it was like lower middle-class housing.|sd
 A|Uh-huh.|b
 B|Well, it would be lower middle-class housing here.|sv
 B|It's probably middle-class housing there.|sv
@@ -40,7 +40,7 @@ B|And that, that didn't exist in Sweden.|sd
 A|Right.|b
 B|And, uh, overall I their, their health care suffered fair amount from just the fact that the doctor salaries were lower|sv
 B|and it was, it was less professional|sv
-B|and it was treated more,then a, then a doctor type job.like a, like a taxi driver type job,|sv
+B|and it was treated more, like a, like a taxi driver type job, then a, then a doctor type job.|sv
 A|Yeah.|b
 A|that is, uh, that is something I've heard.|aa
 A|Uh, I had a friend, uh, that I worked with that was from Sweden|sd
@@ -81,6 +81,6 @@ A|and you know, if people, you know,|%
 A|there are some people that I'm sure make mistakes because they just don't keep on top of it,|sv
 A|but there are other things that just happen that you can't, you know, you can't say, you know, well, if you had just done this, you know, things would have done differently,|sv
 A|and, um, I don't know.|h
-A|I, I think the fact that malpractice has gone up I think has raised our prices just dramatically. Um,in the, in the last number of years|sv
+A|I, I think the fact that malpractice has gone up I think has raised our prices just dramatically. Um, in the, in the last number of years|sv
 B|Yes.|aa
 A|and I think that's something that if, if they could work on the cause of that and,|sv

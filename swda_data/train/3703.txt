@@ -17,7 +17,7 @@ A|that way.|sd
 A|And the kids just love everything that's there,|sd
 A|so we're pretty fortunate.|sd
 A|Kind of, um, buffet style,  uh,|sd
-A|so you can go in and go out|sd
+A|so you can  go in and go out|sd
 B| Yeah,|b
 B|that's, that's good. |ba
 A|and the food's already served|sd
@@ -37,8 +37,8 @@ A|We tried a Bennigan's one time,|sd
 A|and it was terrible.|sd
 A|Course it was just probably one of the worst days to go anyway.|sd
 A|We, we waited almost forty-five minutes before everything was brought out,|sd
-A|and it was,  we were ready to go home.|sd
-B| And you had. And you had the kids with you?|qy
+A|and it was,  we were ready  to go home.|sd
+B| And you had.  And you had the kids with you?|qy
 A|Yeah.|ny
 B|And they waited forty-five minutes?|qy
 A|No|nn
@@ -99,11 +99,11 @@ A|I've seen it.|sd
 B|Yeah,|b
 B|it's Cajun type stuff.|sd
 A|Yeah.|b
-B|If you like it kind of hot, thatthat is good food,|sd
+B|If you like it kind of hot, that that is good food,|sd
 A|Yeah.|b
 B|that's good stuff.|ba
 A|We've been to, um, Chefalia's.|sd
-A|It's basically the same thing, seafoodCajun style.|sd
+A|It's basically the same thing, seafood Cajun style.|sd
 B|Yes.|aa
 B|Where's that place?|qw
 A|That's in Addison, off of Belt Line.|sd
@@ -111,7 +111,7 @@ B|Yeah,|bk
 B|okay.|bk
 A| Midway. |sd
 B| Belt Line  and what?|qw
-A|Like around, I think it's a little past or it's right before Midway, or it'sright at Midway.|sd
+A|Like around, I think it's a little past or it's right before Midway, or it's right at Midway.|sd
 B|Okay.|bk
 B|Yeah,|bk
 B|okay.|bk
@@ -122,9 +122,9 @@ B|We got this Premier Dining Card thing,|sd
 B|and we've, we've been going to all sorts of weird type places with it.|sd
 A|What, what is that?|qw
 B|Well, you get, uh, one free|sd
-B|and you, you, you pay for one now, andtype thing,|sd
+B|and you, you, you pay for one now, and type thing,|sd
 A|Oh, really.|b
-B|and, uh,We've been to from barbecue to,|sd
+B|and, uh, We've been to from barbecue to,|sd
 A|Oh.|bk
 B|there's a Swan Club which is out Central and Campbell.|sd
 A|Uh-huh.|b
@@ -144,7 +144,7 @@ A|Yeah.|b
 B|But it, it's a big, tall, it's the tallest building on the west side, northwest side of Campbell and, just before you get to Campbell|sd
 A|Uh-huh.|b
 B|and it's in the lower floor,|sd
-B|but it's really a nice restaurantif you like  Continental stuff. |sd
+B|but it's really a nice restaurant if you like  Continental stuff. |sd
 A|Really.|b
 A| Uh-huh. |b
 B|And, tell him to take you there for your anniversary,|ad
@@ -165,11 +165,11 @@ B|but I like that.|sd
 A|Uh-huh.|b
 B|And that's down in the, the Stoneleigh Hotel now.|sd
 A|Uh-huh.|b
-B|And that is really super kind of stuff, too. Take, if you like Continental at allthat kind of stuff|sd
+B|And that is really super kind of stuff, too. Take, if you like Continental at all that kind of stuff|sd
 A|Yeah.|b
 A|Yeah.|b
 B|either one of those two, you go through a hundred bucks without half trying,|sd
-B|but it, it'sit's nice, really nice place.|sd
+B|but it, it's it's nice, really nice place.|sd
 A|Oh, oh.|b
 A|Yeah.|b
 B|Oh, you don't have to spend that much,|sd

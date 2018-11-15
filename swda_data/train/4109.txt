@@ -1,12 +1,12 @@
 A|uh, some of my things,|%
-A|I, I'd like to have a short work weekyou know,|sd
+A|I, I'd like to have a short work week you know,|sd
 B|Oh, okay.|b
 A|and and we need, you know, better health insurance and you know,|sv
 B|Okay,|b
 B|we can start off there.|sd
 B|Let's just get started.|ad
 A|Okay.|aa
-B|If you don't want to, you know, uh, talk about it now and thenbe bored when we get to it|sd
+B|If you don't want to, you know, uh, talk about it now and then be bored when we get to it|sd
 A|Okay.|b
 A|Okay,|b
 A|so I just press one then|sd
@@ -27,7 +27,7 @@ A|and forty hours is just too long.|sv
 A|You just don't have any time to do anything.|sv
 A|It seems like, Saturday you get get off,|sv
 A|but Sunday you're getting ready for Monday.|sv
-A|And if we get have aif we could have a thirty-two hour work week, with that happen is that, for every four people we could give another job.|sd
+A|And if we get have a if we could have a thirty-two hour work week, with that happen is that, for every four people we could give another job.|sd
 B|Uh-huh.|b
 B|Right.|b
 A|And then that way everybody would have a three day holiday, okay.|sd
@@ -50,7 +50,7 @@ A|and it, it's too costly|sv
 A|and what, what is happening is that they're on a policy where they have X amount of users in it, okay.|sd
 A|So they get a specific rate.|sd
 A|Well what happens is that if people start becoming having chronic illness and, and things like that,|sd
-A|what happened and where they really have to spend out a lot of moneyfor one particular,|sd
+A|what happened and where they really have to spend out a lot of money for one particular,|sd
 B|Right.|b
 A|it's called a a group,|sd
 A|well what will, well what happens then is that they cancel, because they just can't cancel an individual.|sd
@@ -74,7 +74,7 @@ A|and my instructor thrives on that because he can just tell me what he wants|sd
 A|and he can give me access and tell me what to do and just turn me loose|sd
 B|Yeah.|b
 A|but in, in the same token, it's a very, really enjoyable for me because I don't have to have, you know, nobody breathing down my back|sd
-A|andand one of the things that I, I really hate about jobs. I don't, I don't like bosses that, that you know want to yell at you and you know are down on your back and all this and that.|sd
+A|and and one of the things that I, I really hate about jobs. I don't, I don't like bosses that, that you know want to yell at you and you know are down on your back and all this and that.|sd
 B|Uh-huh.|b
 A|I, I just really can't deal with that|sd
 A|so,|%
@@ -82,7 +82,7 @@ B|Yeah|b
 A|What kind of, what kind of jobs have you done?|qw
 B|Well, well, I do uh, research in computer science|sd
 B|and I've just been doing that for a few years now|sd
-B|souh, I, my job has most of the benefits I want.|sd
+B|so uh, I, my job has most of the benefits I want.|sd
 A|Uh-huh.|b
 B|Uh, what I really like is, I like being,|sd
 B|like they send me to conferences for instance, but probably not as much as I'd like|sd

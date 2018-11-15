@@ -10,7 +10,7 @@ A|very much.|sd
 B|Well, wouldn't you know|ba
 A|As a matter of fact, I prefer public television.|sd
 B|Uh-huh.|b
-A|And, uh, I have, particularly enjoy the English comedies,and the English mysteries.|sd
+A|And, uh, I have, particularly enjoy the English comedies, and the English mysteries.|sd
 B|Yeah,|b
 B|Yeah,|b
 B|I watch mysteries too.|sd
@@ -32,7 +32,7 @@ A|I'm, I'm not a great television watcher in any respect|sd
 A|but, uh, the watching,|%
 A|what I do watch is, uh, usually news and whatever is on public television.|sd
 A|Any kind of,|%
-A|I also uh, am very fond of great performances,in that regard.|sd
+A|I also uh, am very fond of great performances, in that regard.|sd
 B|Uh-huh,|b
 B|yeah.|b
 B|Me too.|aa
@@ -42,10 +42,10 @@ A|No|nn
 B|Oh, that was a scream.|sv
 A|no,|nn
 A|no|nn
-A|as a matter of fact, uh, Turner Broadcasting,every night this week,has been uh, broadcasting all of the James Bond movies,|sd
+A|as a matter of fact, uh, Turner Broadcasting, has been uh, broadcasting all of the James Bond movies, every night this week,|sd
 B|Uh-huh,|b
 B|Really.|b
-A|so I have concentrated on watching James Bond movies,this week|sd
+A|so I have concentrated on watching James Bond movies, this week|sd
 B|I used to like him too,|sd
 B|he was my hero.|sd
 B|In fact, I like Sean Connery to this day.|sd
@@ -58,7 +58,7 @@ B|Oh, he can never cut it|sv
 A|No,|aa
 A|no|aa
 A|that's true.|sv
-A|I was just thinking that today, he did,in his early movies.well, in some of the later movies he looks very effeminate,|sv
+A|I was just thinking that today, he did, well, in some of the later movies he looks very effeminate, in his early movies.|sv
 B|Yeah,|aa
 B|Yeah,|aa
 B|yeah,|aa
@@ -69,7 +69,7 @@ B|yeah.|aa
 B|I liked his accent too.|sd
 B|And, he can even be in movies that are not, uh, uh, sexually oriented,|sv
 B|and he still comes off great.|sv
-A|Well, you know he was, when was it, last year or year before last, he was voted the sexiest actor in movies,or something.|sd
+A|Well, you know he was, when was it, last year or year before last, he was voted the sexiest actor in movies, or something.|sd
 B|He is.|sv
 B|Yeah,|aa
 B|he had my vote double|sd
@@ -77,14 +77,14 @@ A|I mean the man is sixty-two years old.|sd
 B|I don't care|sd
 A|But, uh, but otherwise you know we,|%
 A|uh, with P B S and so forth.|%
-A|And I,I particularly enjoy, I don't know whether you've had a chance to watch it on P B S but uh, the series, uh, YES MINISTER?|sd
+A|And I, I particularly enjoy, I don't know whether you've had a chance to watch it on P B S but uh, the series, uh, YES MINISTER?|sd
 B|Yeah.|b
 B|Oh, what's that about?|qw
 A|That was about a, the Interior Minister,|sd
 A|it was a comedy,|sd
 B|Oh, yeah,|b
 B|yeah.|b
-A|the Interior Minister of, in England,and bureaucracy and all that.with the permanent secretary,|sd
+A|the Interior Minister of, in England, with the permanent secretary, and bureaucracy and all that.|sd
 B|Uh-huh.|b
 B|Right.|b
 B|Right,|b
@@ -94,20 +94,20 @@ B|but I have to go to bed,|sd
 B|I have to get up and, and work the next morning.|sd
 B|I wish they'd put those,|sd
 B|that's why I say, did you stay up late to watch this RED DWARF.|sd
-B|It came on after DOCTOR WHO,on Saturday nights, here at least.|sd
+B|It came on after DOCTOR WHO, on Saturday nights, here at least.|sd
 A|Uh-huh.|b
 B|And it should,|sv
 B|of course I|%
 B|really it was,|%
 B|I don't think they should show it during prime time,|sv
-B|but still,it was funny.|sv
+B|but still, it was funny.|sv
 A|Yeah.|b
 A|Yeah,|b
 A|I know.|b
 A|Well I, I, I'm not much of a television watcher.|sd
-A|I, I read as I said,and, uh, quite a bit.|sd
+A|I, I read as I said, and, uh, quite a bit.|sd
 B|Uh-huh.|b
-A|I read about two or three novels a week,in addition to all the technical stuff.|sd
+A|I read about two or three novels a week, in addition to all the technical stuff.|sd
 B|Yeah.|b
 A|What, what do you do?|qw
 A|What kind of work do you do?|qw
@@ -116,7 +116,7 @@ B|Just an accounting clerk.|sd
 A|At T I?|qy^d
 B|No, uh,|nn
 B|I have a friend who works for T I|sd
-B|and I work for a tire service,here in,|sd
+B|and I work for a tire service, here in,|sd
 A|Oh, I see.|bk
 B|I'm from Dallas.|sd
 A|Uh-huh.|b
@@ -133,7 +133,7 @@ B|really.|aa
 B|Do you work for T I?|qy
 A|No,|nn
 A|no,|nn
-A|I work for G T E.In Maryland,|sd
+A|I work for G T E. In Maryland,|sd
 B|Really?|bh
 A|yes.|ny
 B|How did you hear,|qw
@@ -147,7 +147,7 @@ A|And, that's my field of work also.|sd
 B|Oh!|b
 A|So I, I know the people at T I who are doing this|sd
 A|and I heard about it,|sd
-A|so I called them and asked if I could participate. And, uh,You know send in the forms et cetera and uh so forth.|sd
+A|so I called them and asked if I could participate. And, uh, You know send in the forms et cetera and uh so forth.|sd
 B|Oh.|b
 B|Right.|b
 A|We could go back to television shows.|oo_co_cc
@@ -171,7 +171,7 @@ A|So, in, as to those types of interpretations, uh, really made a difference in 
 B|Uh-huh.|b
 A|So that's, you know,|%
 A|you can look at it as though they are saying it's not true,|sv
-A|but there's too much historical fact involved just from the uh, the histories that are, were developed around that time, that are available.To deny that, at least the majority of it is true.|sv
+A|but there's too much historical fact involved just from the uh, the histories that are, were developed around that time, that are available. To deny that, at least the majority of it is true.|sv
 B|Yeah.|b
 A|So, you know, it depends on how you look at it.|h
 B|Yeah.|b
@@ -179,7 +179,7 @@ A|You can look at it, you know,|sv
 A|if you want to say that it's proven that it isn't true, then you can very much look at it that way.|sv
 B|I guess if you're looking for that, you're,|sv
 A|Yeah,|b
-A|well,Well, you can interpret that the, what the T V show, in the same way that you can interpret the Bible.|sv
+A|well, Well, you can interpret that the, what the T V show, in the same way that you can interpret the Bible.|sv
 B|that, uh,|%
 B|Uh-huh.|b
 A|So,|%
@@ -187,7 +187,7 @@ B|Really.|b
 A|But, uh, as, as far as that goes, I, we at least agree on what we enjoy.|sd
 B|Yeah,|aa
 B|that's right.|ba
-A|But, uh, I don't know if there is, there is a time limit on this,so, uh.|sd
+A|But, uh, I don't know if there is, there is a time limit on this, so, uh.|sd
 B|Yeah.|b
 B|Surely we've made it.|sv
 A|I think so too.|aa

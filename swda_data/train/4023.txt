@@ -7,15 +7,15 @@ B|and, uh, I guess it is a concern of mine, uh, you know, for my own safety.|sd
 A|Uh-huh.|b
 A|I mean, do you, do you find crime in Atlanta really|qy
 A|I live in Atlanta also.|sd
-B|Well that's right.Uh, I think it is bad in certain areas, *sv|ba
+B|Well that's right. Uh, I think it is bad in certain areas, *sv|ba
 A| Uh. |%
 B|however I think, the area that I live in it's not, uh, the crime level is not as high as it is in other areas of the, of the city.|sv
 A|Uh-huh.|b
-B|I think it seems that there's certain areas where, uh, the crime is focuseduh.|sv
+B|I think it seems that there's certain areas where, uh, the crime is focused uh.|sv
 A|Uh-huh.|b
 A|Well what do you think can be done about the crime in the city?|qw
 B|Well, I think it's, what's been happening over the last several years it seems they've been beefing up the police patrols, trying to put, put more guys, more cops, higher visibility,|sv
-B|and, uh,they've had some impact, but not a tremendous amount,|sv
+B|and, uh, they've had some impact, but not a tremendous amount,|sv
 A|Uh-huh.|b
 B|and probably, um, they need to try to increase community involvement, that sort of thing, I think .|sv
 A|I probably agree with that.|aap_am
@@ -30,7 +30,7 @@ A|that's probably true.|aap_am
 A|Um, so, um, well do you think Atlanta's as bad as most other cities?|qy
 B|Um, well, I've been to,|%
 B|I'd say it's, it's probably in the top, top ten in terms of crime.|na
-B|Um, it's nowhere near as bad as New York Cityfor example.|sd
+B|Um, it's nowhere near as bad as New York City for example.|sd
 A|Uh-huh.|b
 B|Probably not, not as bad as Detroit.|sv
 A|Uh-huh.|b
@@ -41,7 +41,7 @@ B|Yeah,|aa
 B|that seems to be true.|aa
 B|Um, yeah,|%
 B|if you've ever been to like New York City|%
-B|andyou can just, you can just, as you walk through the street on a given evening, you can see crimes being committed.|sd
+B|and you can just, you can just, as you walk through the street on a given evening, you can see crimes being committed.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|It's that obvious.|sd
@@ -50,10 +50,10 @@ A|I don't know,|h
 A|I came to the conclusion also that, you know, just, if you are walking in a downtown area, you know, where there's a lot of crime, a lot of that's going to just, just keeping your senses about you and, and trying not to look like a victim, you know.|sv
 B|Yeah,|aa
 B|that's true.|aa
-A|You know, walk you know, walk with, you know, withjust walk in a confidently,|sv
+A|You know, walk you know, walk with, you know, with just walk in a confidently,|sv
 B|With a big stick|^2
 B|or.|qy
-A|and, you know, don't, don't beand you have no idea where you are.looking around like you've never been there before|sv
+A|and, you know, don't, don't be looking around like you've never been there before and you have no idea where you are.|sv
 B|Right.|b
 B|Sure.|ba
 B|Right,|aa
@@ -75,14 +75,14 @@ B|but that was in a more of a, a setting where there was a number of people arou
 B|and I kind of got,|%
 B|I was much younger at the time|sd
 A|Uh-huh.|b
-B|and kind of a couple of people, they just took it from me without me knowing reallyand kind of passed it off, so I didn't know who had it.|sd
+B|and kind of a couple of people, they just took it from me without me knowing really and kind of passed it off, so I didn't know who had it.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|I've had that happen,|sd
 B|but that's, that's about it.|sd
 A|Yeah,|b
 A|I've been pretty lucky about getting mugged.|sd
-A| Um. Yeah,|%
+A| Um.  Yeah,|%
 B| Oh, yeah. |b
 A|I think I've only actually seen like one, you know, one actual robbery with a gun|sd
 B|Um.|%
@@ -108,7 +108,7 @@ A|yeah.|aa
 B|and, uh, there's a lot of car thefts in that area.|sd
 A|Yeah,|aa
 A|I've actually, I've known, known some people that have had their cars stolen.|sd
-A|Uh, and, uh, and, you know, about half the time they seem to, the A P D seems to recover them, you knowUp on blocks.in various states of disrepair|sd
+A|Uh, and, uh, and, you know, about half the time they seem to, the A P D seems to recover them, you know in various states of disrepair Up on blocks.|sd
 B|Right.|b
 B|Yeah|b
 A|My friend had a V W Rabbit,|sd
@@ -123,7 +123,7 @@ B|Yeah,|aa
 B|than most.|aa
 A|Uh-huh.|b
 A|Um, so like does insurance pay for the body damage,|qy
-A|orwas that all there was, body.|qy
+A|or was that all there was, body.|qy
 B|Right.|na
 B|It was about three grand to put everything together.|sd
 B|They cracked the steering column of course, to steal the car.|sd

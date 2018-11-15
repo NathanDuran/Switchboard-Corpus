@@ -5,7 +5,7 @@ B|My husband had an accident in my car a little over a week ago,|sd
 A|Uh-huh.|b
 B|and I drove a nineteen seventy-seven, um, B M W|sd
 B|and so I believe|%
-B|and I'll know the answer today,that they're going to total it.|sd
+B|and I'll know the answer today, that they're going to total it.|sd
 B|I think that it will cost more to fix it than it's probably worth.|sd
 A|Yeah.|b
 B|But I'm not interested in having any car payments,|sd
@@ -15,7 +15,7 @@ B|and we went and looked at used cars around town.|sd
 B|Uh, and I, you know, I found like a nineteen eighty-four Regency Ninety-eight with only forty-six thousand miles on it|sd
 B|and that was pretty good condition, uh.|sd
 A|Yeah|b
-B|But I also found a nineteen eighty Volvo, uh, station wagonthat was in just super condition.|sd
+B|But I also found a nineteen eighty Volvo, uh, station wagon that was in just super condition.|sd
 A|Right.|b
 B|I mean there's not a dent on the outside body,|sd
 B|the inside is clean|sd
@@ -37,12 +37,12 @@ A|and so we're, you know, enjoying not having that, that payment every, every mo
 A|and, but it's getting up in age, uh,|sd
 A|we're trying to hold out a little while longer, uh,|sd
 A|we've got a, a a daughter who's almost two now,|sd
-A|so,we're getting to the point where we really kind of need something a little bigger than what we've got,|sd
+A|so, we're getting to the point where we really kind of need something a little bigger than what we've got,|sd
 B|Um.|%
-A|but, uh,so I guess if we, when we do buy another car it'll, it'll be something that we can, uh, kind of grow into a little bit.|sd
+A|but, uh, so I guess if we, when we do buy another car it'll, it'll be something that we can, uh, kind of grow into a little bit.|sd
 B|Uh-huh.|b
-A|It's, it's tough on trips because, uh,anytime we, we're getting ready to go anywhere it's, uh, you know, it's, uh, try, like trying to put a puzzle together to make sure you get everything in the car, you know, cause it's,|sd
-B|Well not only that, needing the room, you know, we finally ended up buying a Dodge Caravan here about two and a half years ago,because I too, have very small kids.|sd
+A|It's, it's tough on trips because, uh, anytime we, we're getting ready to go anywhere it's, uh, you know, it's, uh, try, like trying to put a puzzle together to make sure you get everything in the car, you know, cause it's,|sd
+B|Well not only that, needing the room, you know, we finally ended up buying a Dodge Caravan here about two and a half years ago, because I too, have very small kids.|sd
 B|I, I have one that's now,|sd
 B|well she'll be four in September and then a little boy that's just turned two.|sd
 A|Uh-huh.|b
@@ -54,13 +54,13 @@ A|Right,|aa
 A|that's what,|%
 A|I, I ideally, I would like that, in fact, uh, you know, I, I've, I've thought of that possibly, uh,|sd
 A|I don't know that my wife would go for it,|sd
-A|butYou know, I would, I'd like to do that.|sd
+A|but You know, I would, I'd like to do that.|sd
 B|Well.|%
 B|Yeah.|b
 A|I, I have a truck myself|sd
 A|and I'll, I'll take, you know,|%
 A|a truck's a thing that you, you need when you need it,|sv
-A|but, you know,the rest of the time you wonder, you know, could I use something else.|sv
+A|but, you know, the rest of the time you wonder, you know, could I use something else.|sv
 B|Yeah.|b
 B|Yeah.|b
 A|So, I, I've still got a couple years payments on it.|sd
@@ -78,7 +78,7 @@ B|used to be you kept them three years.|sd
 A|Right.|b
 B|Well when they did all the tax law changes you had to keep them five.|sd
 A|Right.|b
-B|So I was trying to keep my B M W in tact, uh, for three more years.So that then I could take the van,|sd
+B|So I was trying to keep my B M W in tact, uh, for three more years. So that then I could take the van,|sd
 A|Um.|%
 B|and we'd trade my car in on a new car for his business.|sd
 A|Right.|b
@@ -86,7 +86,7 @@ B|And so basically that's what I'm looking for in a used car. Something that's g
 B|Well if I can pull a deal on this Volvo, you know, it will last me longer than that.|sd
 B|It will actually last me quite a while,|sd
 B|but I don't know how families afford two new car payments.|sd
-B|It's just,it's outrageous.|sv
+B|It's just, it's outrageous.|sv
 A|I don't either.|sd
 A|Well, my wife's car is probably around five years old now,|sd
 B|Uh-huh.|b
@@ -95,17 +95,17 @@ A|I guess it must have seventy or eighty thousand miles on it, you know,|sd
 A|and so it, it's getting,|sd
 A|it's not, not in bad shape|sd
 A|it's, it's, you know, she's kept it up real well,|sd
-A|but, uh, you know, it's, it's getting to the point where we really need to do something with it, you know,if we're going to get anything out of selling it.|sd
+A|but, uh, you know, it's, it's getting to the point where we really need to do something with it, you know, if we're going to get anything out of selling it.|sd
 B|Uh-huh.|b
 B|That's right.|aa
 A|So, I'm, I'm, uh, I'm, I'm hoping we that we can work something out here.|sd
-A|We've got other bills that kind of precede, or preclude us buying,something, buying something else.|sd
+A|We've got other bills that kind of precede, or preclude us buying, something, buying something else.|sd
 B|Know how that goes in singing whisper type|ba
 B|It's the pits,|sv
 B|isn't it?|^g
 A|It really is|na
 A|and, you know, and you can't, uh, you can't afford, you know, a, a car payment now.|sd
-A|It just,will wipe you out every month,|sd
+A|It just, will wipe you out every month,|sd
 B|That's right|aa
 A|it's almost getting to be like the house payment, you know.|sd
 B|I know,|aa
@@ -119,7 +119,7 @@ A|Right.|b
 B|So, I understand that, it's, it's kind of hard to go do.|sd
 B|Well if you do look at them, I really recommend the Dodge Caravan.|sd
 B|We've had wonderful,|sd
-B|it's the only, uh, minivan they make that's on a car chassis instead of a truck chassis so it doesn't,you know, shake you around like a a truck does.|sd
+B|it's the only, uh, minivan they make that's on a car chassis instead of a truck chassis so it doesn't, you know, shake you around like a a truck does.|sd
 A|Uh-huh.|b
 A|Oh, I didn't know that.|sd
 B|And we have had just wonderful luck with ours.|sd
@@ -127,7 +127,7 @@ B|I mean it's, we take it everywhere,|sd
 B|it it's been, it, it's so easy to get the kids in and out,|sd
 B|see my car was also a two door.|sd
 A|Uh-huh.|b
-B|And which drove me nuts trying to get car seats and kids,into a back seat, you know.|sd
+B|And which drove me nuts trying to get car seats and kids, into a back seat, you know.|sd
 A|Oh man,|ba
 A|yeah.|b
 B|And so it's wonderful to have the room and the space|sd
@@ -164,12 +164,12 @@ A|and, uh, we were trying to get back|sd
 A|and it took us a lot longer|sd
 A|and she was, you know, she was pretty good most of the way,|sd
 A|but then, get to a point where she just had to get out of her seat and we had to stop,|sd
-A|and,and we got out and played in the snow and put here back in *typo her|sd
+A|and, and we got out and played in the snow and put here back in *typo her|sd
 B|Sure,|aa
 B|it's a long time.|sv
 A|and she was fine,|sd
 B|Uh-huh.|b
-A|but, you know, if we had, if there was something to where she could kind of get up and move around, like you say on, on the highway, or where, where it wasn't,wasn't as bad, you know, just for a little brief period of time, it would be, would be okay,|sd
+A|but, you know, if we had, if there was something to where she could kind of get up and move around, like you say on, on the highway, or where, where it wasn't, wasn't as bad, you know, just for a little brief period of time, it would be, would be okay,|sd
 B|Right.|b
 A|so, I'm, I'm thinking maybe we can, voice in can do something like that later on.|sd
 B|Well that would be good.|ba
@@ -180,7 +180,7 @@ A|Well I|%
 B|Well, I appreciate talking to you.|fc
 B|Good luck in your car buying.|fc
 A|you too,|fc
-A|Ihope everything works out.|fc
+A|I hope everything works out.|fc
 B|Well, really I'm supposed to hear today|sd
 B|and I, I hope it,|sd
 B|I really would prefer the Volvo, I think,|sd

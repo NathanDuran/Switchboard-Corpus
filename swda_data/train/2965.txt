@@ -70,7 +70,7 @@ B|borrowed somebody else's jack|sd
 B|and I did this|sd
 B|and I went and bought everything,|sd
 A|Uh-huh.|b
-B|so after buying the filter and all the oil, you're looking at ten bucks at least,or somewhere in there an, and, uh, and then to go to the trouble, that I figured it's easier spending eighteen bucks at Jiffy Lube.|sv
+B|so after buying the filter and all the oil, you're looking at ten bucks at least, or somewhere in there an, and, uh, and then to go to the trouble, that I figured it's easier spending eighteen bucks at Jiffy Lube.|sv
 A|Uh-huh.|b
 A|Yeah.|b
 B|So that, that's, um, you know,|%
@@ -82,8 +82,8 @@ A|and I really hadn't had any, any trouble with it until that|sd
 A|and the car now has a hundred and thirty something thousand miles on it|sd
 A|and, uh, and this was just recent,|sd
 A|so I really can't complain about this one.|sd
-B|How did you put that many miles on it, in,four or five years?|qw
-A|Um, well, I used,I used to work, uh,|sd
+B|How did you put that many miles on it, in, four or five years?|qw
+A|Um, well, I used, I used to work, uh,|sd
 A|it was a seventy mile trip everyday, you know, two ways was seventy miles.|sd
 B|Oh, a hundred and forty mile trip?|qy
 A|No,|nn
@@ -109,7 +109,7 @@ A|Do you?|qy
 B|I was going to ask you, you know, as far as how we're getting compensated for what we're doing right now, um,|qw
 B|I don't work for T I|ng
 B|and I'm just, I get these green,|sd
-B|I don't know what you want to call them, fakepoint things,|sd
+B|I don't know what you want to call them, fake point things,|sd
 A|Points.|^2
 A|Uh-huh.|b
 B|and, uh, I just wondering how I go about getting the cash|qw^d
@@ -152,16 +152,16 @@ B|Huh, oh well.|b
 A|I,|%
 B|I was driving a sixty-six Plymouth Fury.|sd
 A|Wow.|ba
-A|I think those old carsmight, might be a pretty good bet because you|sv
+A|I think those old cars might, might be a pretty good bet because you|sv
 B|Yeah,|b
 B|yeah,|b
-B|and,Oh, that's when they made cars, though,|sv
+B|and, Oh, that's when they made cars, though,|sv
 A|I don't know,|h
 B|this things was, the body was in good condition|sd
 B|and you know, it ran fine.|sd
 B|It was starting to burn some oil.|sd
 A|Uh-huh.|b
-A|Um.Uh-huh,|b
+A|Um. Uh-huh,|b
 B|And, um, but I had to you know,|%
 B|you know, I, after about couple of months after I was out of college I finally splurged and bought my car|sd
 B|so.|%
@@ -175,7 +175,7 @@ A|Uh-huh.|b
 B|And they last a long time.|sv
 B|And they were simple too,|sv
 B|the engines were simple and durable|sv
-B|andsome people will still buy them, you know,|sv
+B|and some people will still buy them, you know,|sv
 A|Yeah.|b
 B|they'll,|%
 A|Yeah,|aa

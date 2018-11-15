@@ -1,5 +1,5 @@
 A|Well, I am new to Texas,|sd
-A|so I don't even know what the law is,in the state,|sd
+A|so I don't even know what the law is, in the state,|sd
 B|Uh-huh?|bh
 A|do you?|bh
 B|Well, yes,|ny
@@ -12,7 +12,7 @@ A|Um, you know, different things,|%
 A|is it restricted to certain crimes?|qy
 A|Or just,|%
 B|Yes,|ny
-B|it's certain crimes, uh, capital crimes, murder, of course, uh, rape,this sort of thing.|sd
+B|it's certain crimes, uh, capital crimes, murder, of course, uh, rape, this sort of thing.|sd
 A|Uh-huh.|b
 A|Um. Well.|%
 B|It seems to be a disproportionate number of blacks, you know, that get into the system.|sv
@@ -27,7 +27,7 @@ A|I just,|%
 A|I can't see that.|sd
 B|That happens on occasion,|sv
 B|it sure does,|sv
-B|maybe it just depends on, you know, how closely the crime, you know,has affected you personally.|sv
+B|maybe it just depends on, you know, how closely the crime, you know, has affected you personally.|sv
 A|Uh-huh.|b
 B|You know, I don't know,|h
 B|or a person personally.|sv
@@ -46,7 +46,7 @@ A|it's really sad.|sv
 B|Yeah.|b
 A|I don't know,|sd
 A|I just think, um,|sv
-A|somehow I hoped that as a people we could be better than, than, um, expecting,the feeling that it|sd
+A|somehow I hoped that as a people we could be better than, than, um, expecting, the feeling that it|sd
 B|Yes.|b
 A|with,|%
 A|someone is calling for someone else to be killed, you know.|sv
@@ -57,7 +57,7 @@ B|It's a tough, tough question.|sv
 B|It really is.|sv
 B|I suspect I would be, uh, you know, a lot more favor of it if, you know, one of my children were, you know, brutally killed, or something like that.|sv
 B|Like I say, I think it depends on how personally affected, you know, you might be by it.|sv
-A|and there really are criminals that are hard-core and,repeat, and never have any chance for,|sv
+A|and there really are criminals that are hard-core and, repeat, and never have any chance for,|sv
 B|Oh, absolutely.|aa
 B|that's right.|ba
 A|Oh, I don't know,|h
@@ -74,7 +74,7 @@ A|I don't know,|h
 A|sometimes I feel,|%
 A|I mean I do go to church and things.|sd
 A|I don't know how I would feel about it.|sd
-A|But like you say, if it hit you personally,feel differently.closer at home you would feel,|sv
+A|But like you say, if it hit you personally, closer at home you would feel, feel differently.|sv
 B|Uh-huh.|b
 B|Yes.|b
 B|That's a, it's a tough, tough question,|sv
@@ -99,7 +99,7 @@ B|I I don't know how they handle it|sd
 B|I was surprised to learn that so few countries have capital punishment.|sd
 A|Have that.|bf
 A|Well, and it doesn't seem like very many people, uh, are really, I mean,|sv
-A|there's a lot of people that are on death row.But there's not very many people that actually, um. do get killed.|sv
+A|there's a lot of people that are on death row. But there's not very many people that actually, um. do get killed.|sv
 B|Oh, yes.|b
 B|Yes,|aa
 B|a lot of them do get their sentences commuted to something else.|sv
@@ -116,7 +116,7 @@ B|Right,|b
 B|the first appeal is automatic,|sv
 B|so that delays it for a few years just right off the bat.|sv
 A|Yeah.|b
-B|There's, there's a lot of, you know, last minute, uh, things that happen cause a person not to,have to go through the whole thing.|sv
+B|There's, there's a lot of, you know, last minute, uh, things that happen cause a person not to, have to go through the whole thing.|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|So is it, uh,|%
@@ -159,22 +159,22 @@ B|Easiest way out maybe.|bf
 B|No,|nn
 B|I don't think it's a monetary thing.|sv
 A|Um. Well, um, and I notice that the crime rate was up in the Dallas area|sd
-A|It's,to think about itIt's kind of been scary,|sv
+A|It's, It's kind of been scary, to think about it|sv
 B|Yes,|b
 B|especially the murder rate, its just gone crazy.|sd
 B|Yes.|b
-A|and,And you're hoping there is something that will cut down on that.|sd
+A|and, And you're hoping there is something that will cut down on that.|sd
 B|Absolutely.|aa
 B|Yes,|aa
 B|I wish I had the answer for that,|sd
 B|everybody does.|sv
-A|You hate to have the dubious honor of being, you know, so high in the,in statistics,|sv
+A|You hate to have the dubious honor of being, you know, so high in the, in statistics,|sv
 B|Yes,|aa
 B|it's nothing to be proud of,|sv
 B|certainly not.|sv
 A|But I, you know,|%
 A|we have been really fortunate|sd
-A|our family,hasn't had any crime.|sd
+A|our family, hasn't had any crime.|sd
 B|Yes.|b
 B|Yes,|b
 B|so have we been very, very fortunate.|sd
@@ -182,7 +182,7 @@ A|And, so we don't,|%
 A|it's harder to think about the poor people that have suffered that way.|sv
 B|That's right.|ba
 B|Absolutely.|aa
-A|And how they would expect,how they would hope,|sv
+A|And how they would expect, how they would hope,|sv
 B|Uh-huh.|b
 A|I mean you, you hear of people who have, um, committed crimes, and then they get out of jail and they go, and they do the same thing again.|sv
 B|Absolutely.|b
@@ -212,7 +212,7 @@ A|I hate having to be in charge of someone else's life.|sd
 B|Sure,|aa
 B|it's, it's a big responsibility,|sv
 B|it really is.|sv
-A|And I would hate to have to hear any kind of case,involving a violent crime or anything.|sd
+A|And I would hate to have to hear any kind of case, involving a violent crime or anything.|sd
 B|Yes.|b
 B|So would I.|sd
 A|That would be really awful.|ba
@@ -222,7 +222,7 @@ A|Well, anyway, I sure have enjoyed, uh, talking to you about this. Although it 
 A|but, uh.|%
 B|It is, it's a tough subject,|sv
 B|it really is.|sv
-A|I'd hate to decide it, but I guess, uh, guess it's important,that we decide as a people what, what we're going to do.|sv
+A|I'd hate to decide it, but I guess, uh, guess it's important, that we decide as a people what, what we're going to do.|sv
 B|Right.|b
 B|That's right.|ba
 A|Anyway, well, you have a good day.|fc

@@ -6,7 +6,7 @@ B|I'm here.|sd
 A|All right.|bk
 A|Do you have any one that has been in a nursing home?|qy
 B|Uh, well, only my, um, my grandmother, but for a very short time.|sd
-B|Um, she, uh, she was just more or less in a, in a nursing home for, uh, recovery from a broken hipbecause she could receive more medical attention.|sd
+B|Um, she, uh, she was just more or less in a, in a nursing home for, uh, recovery from a broken hip because she could receive more medical attention.|sd
 A|Oh.|b
 A|Yes.|b
 B|But, um, that,|%
@@ -26,7 +26,7 @@ B|Though she's not, uh, she doesn't have to receive constant medical attention, 
 B|So, I guess, you know, there's that family commitment.|sd
 B|Um, I know that my parents, my mother is trying to let my grandmother stay in her house as long as she can. Um,|sd
 A|Well, I can|%
-A|of course I'mold enough to remember when the family or the church took care of all of this.|sd
+A|of course I'm old enough to remember when the family or the church took care of all of this.|sd
 B|Yeah.|b
 B|Right,|b
 B|yeah.|b
@@ -36,7 +36,7 @@ A|no, you tell me how you feel about,|ad
 B|Yeah,|b
 B|well probably, I think, as long as the person's able to, um, to understand what's going on around them|sv
 B|and I think, you know, my grandmother right now is still able to walk around,|sd
-B|and she's still able to, uh, to do some things for herself, though she gets Meals On Wheelswhich I think is a great thing, because, um, it saves people from having to prepare food for her, because you worry a little bit about her leaving a stove on, or whatever, although she does most things very well, it still makes a little bit easier for her.|sd
+B|and she's still able to, uh, to do some things for herself, though she gets Meals On Wheels which I think is a great thing, because, um, it saves people from having to prepare food for her, because you worry a little bit about her leaving a stove on, or whatever, although she does most things very well, it still makes a little bit easier for her.|sd
 A|Yeah.|b
 A|Certainly|aa
 B|Uh.|%
@@ -54,7 +54,7 @@ A|but we, we got, found a retirement center for her,|sd
 A|and it was beautiful|sd
 A|and they had all these, they didn't even have nursing care there.|sd
 A|So until,|%
-A|as long as mother was, you knowgot her food,mobile and|sd
+A|as long as mother was, you know mobile and got her food,|sd
 B|Uh-huh.|b
 B|Right.|b
 A|and she was with people with whom she enjoyed.|sd
@@ -69,13 +69,13 @@ B|yes, she's eighty-nine,|sd
 B|and she said that she would really like to stay in her house as long as possible, because it's her home.|sd
 A|Sure.|b
 B|But when the time comes, um, she, and she can't do things|sd
-B|and she has to be cared for, whatever, she would prefer, and she's actually said this, to move into some type of community where she has her own apartment, uh, probably with like a living space and a bedroomwith maybe a kitchenette, so that if she, you know, if she wants to fix herself something light, she can do that,|sd
+B|and she has to be cared for, whatever, she would prefer, and she's actually said this, to move into some type of community where she has her own apartment, uh, probably with like a living space and a bedroom with maybe a kitchenette, so that if she, you know, if she wants to fix herself something light, she can do that,|sd
 A|Yes, sir.|ba
 B|but if she wants to go to a meal, she can go down the hallway, uh, to a room where there's a cafeteria|sd
 A|Uh-huh.|b
 B|and there's other people there,|sd
 B|and she can mix with them and talk with them and enjoy their company.|sd
-A|Being a widowI have to do.I find that eating alone is one of the hardest things|sd
+A|Being a widow I find that eating alone is one of the hardest things I have to do.|sd
 B|Uh-huh.|b
 B|Yes.|b
 B|Uh-huh.|b
@@ -84,14 +84,14 @@ A|and I am finding it extremely hard to adjust to.|sd
 B|Right.|b
 A|So, uh, mother had the little kitchenette|sd
 B|Uh-huh.|b
-A|and she could do all these fine things that she just, had a microwave, had to popher popcorn.|sd
+A|and she could do all these fine things that she just, had a microwave, had to pop her popcorn.|sd
 B|Right.|b
 A|Now this is wonderful.|sd
 B|Uh-huh.|b
-A|But when it came time for a full meal, then mother was able to go with peopleand, and enjoy.|sd
+A|But when it came time for a full meal, then mother was able to go with people and, and enjoy.|sd
 B|Right,|b
 B|Yeah,|b
-B|I think, I think that probably, until, until they're really invalids, uh, the elderly are invalids, I think that they should be able to interact with other peoplein an environment that they choose, if they can, if the family can afford it.|sv
+B|I think, I think that probably, until, until they're really invalids, uh, the elderly are invalids, I think that they should be able to interact with other people in an environment that they choose, if they can, if the family can afford it.|sv
 A|Oh, I think so.|aa
 A|Well.|%
 B|I mean, um, see, I know that my grandmother would like to stay in her house,|sd

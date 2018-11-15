@@ -1,7 +1,7 @@
 A|What are your favorite programs?|qw
 B|Uh, it's kind of hard to put my finger on a, on a favorite T V program,|sd
 B|however, uh, one that I've been watching for a number of years is DALLAS.|sd
-B|And, uh,And, uh, it's going to be going off the air, uh, let's see, a week from a week from tonight.|sd
+B|And, uh, And, uh, it's going to be going off the air, uh, let's see, a week from a week from tonight.|sd
 A|Oh, how funny.|ba
 B|It's going to be its last show.|sd
 B|So I've, I've kind of enjoyed watching over the years.|sd
@@ -13,10 +13,10 @@ A|well I think I've seen it in the distance.|sd
 B|Uh-huh.|b
 A|But I have not even seen it.|sd
 A|And I have not seen the program.|sd
-B|Oh well,That's a shame.|fo_o_fw_"_by_bc
+B|Oh well, That's a shame.|fo_o_fw_"_by_bc
 A|So|%
 A|And, and, uh, I know when we went to London, it was really funny.|sd
-A|Uh, people recognized Dallas, Texas, by the, the Texas, uh, the, the cowboysand by that program.|sd
+A|Uh, people recognized Dallas, Texas, by the, the Texas, uh, the, the cowboys and by that program.|sd
 B|Uh-huh.|b
 B|Yes.|b
 A|And that's, that's the two things they associate with Dallas, Texas.|sd
@@ -66,7 +66,7 @@ B|Uh-huh.|b
 B|Yeah.|b
 B|Uh-huh.|b
 A|But that's one of the few that I just actually watch.|sd
-A|Becauseit's funny.|sd
+A|Because it's funny.|sd
 B|Yes.|aa
 A|I really enjoy that one.|sd
 B|Yes.|aa
@@ -116,18 +116,18 @@ A|But he just doesn't watch them on T V like he used to.|sd
 B|Well I think it was great when they were, you know, like world champs and they were doing real well.|sv
 B|I, uh, I|%
 B|personally, I, I came from the Washington area.|sd
-B|And soI was a big Washington Redskins fan.|sd
+B|And so I was a big Washington Redskins fan.|sd
 A|Uh.|b
 A|Oh, those people.|ba
 A|Yeah|b
 B|And, uh, when I came down to Dallas, it was, uh, you know, I found myself rooting for the home team.|sd
 B|I, uh,|%
-B|in fact I have a, uh, a baseball hat that was signed by Tony Dorsett and Hershel Walkerthe only year they played together on the Dallas Cowboys.|sd
+B|in fact I have a, uh, a baseball hat that was signed by Tony Dorsett and Hershel Walker the only year they played together on the Dallas Cowboys.|sd
 A|Oh, how neat.|ba
 A|Well, I actually got to go see them win in the Super Bowl when they went down to New Orleans.|sd
 B|Oh, wow.|ba
 A|And, I, I, I make the trip and did the whole New Orleans before the game and the game and everything|sd
-A|and, uh,  that was, that was a lot of fun.|sd
+A|and,  uh,  that was, that was a lot of fun.|sd
 A|But, I don't know, I haven't been as,|sd
 A|I'll tell you what I love to watch. And this is not, this is rarely on television.|sd
 A|But what is a lot of fun to go attend, is this arena football.|sd
@@ -148,7 +148,7 @@ B|uh. Gee, I'll have to try to catch that sometime.|sd
 B|It's,|%
 A|Uh, again I think it may be on cable more than anything else.|sd
 B|Yeah,|b
-A| We don't have cable.|sd
+A| We  don't have cable.|sd
 B| that's probably  true.|aap_am
 B|Yeah,|aa
 B|we don't either.|sd
@@ -163,7 +163,7 @@ B|And of course when we were living in Texas, it was real convenient with Tom Th
 A|Oh.|b
 B|You know, having movies, uh, back then it was ninety-nine cents.|sd
 B|I mean, go,|%
-A|They're everywhere, they'reon every corner.|sd
+A|They're everywhere, they're on every corner.|sd
 B|Yeah.|aa
 A|Everything you've ever wanted to see.|sd
 B|Um. You can see them a lot sooner than you can see them on any of the stations like H B O or Cinemax.|sd

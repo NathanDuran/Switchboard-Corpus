@@ -68,7 +68,7 @@ A|It's sad.|sv
 A|That is a sad situation.|sv
 A|I, I'd like to go down to Mexico, you know,|sd
 A|and I keep hearing that, you know, the government and, and the crime rates pretty high too,|sd
-A|that, that is sad.Uh, not that we can, uh, sell any great program we have with crime,|sv
+A|that, that is sad. Uh, not that we can, uh, sell any great program we have with crime,|sv
 B|Yeah.|b
 A|but, uh. I think, uh, I'm kind of like you,|sv
 A|I don't have any strong opinions on it.|sd
@@ -102,7 +102,7 @@ A|yes|b
 A|that, that, |%
 B| And they can stand on  their heads if they want too,|sv
 B| but  I don't think that they're going, they're going to change that,|sv
-B|and, and, and really, I  mean North Americans I think are, when you say that even, I I mean, I tend to think of Americans and Canadians.|sv
+B|and,  and, and really, I  mean North Americans I think are, when you say that even, I I mean, I tend to think of Americans and Canadians.|sv
 A| No,|aa
 A|no,|aa
 A|I know. |sd
@@ -179,7 +179,7 @@ B| Yeah. |b
 A| And  there's got to be trade.|sd
 A|I guess that's some of the answer, I guess is business, uh. Uh,|sv
 A|and I try to be an optimist and say, well that, that's one way is to help any problem whether it be crime, or certainly poverty obviously is to, is to get some business going between each other.|sv
-A|And we need, we need to do more of that, uh, somehow. And encourage more business, between  us.|sv
+A|And we need, we need to do more of that, uh, somehow. And encourage more business,  between  us.|sv
 B| Yeah. |b
 B|Yeah.|b
 A|They've got to have a lot of resources I would think. An enormous amount of, of well potential that way.|sv
@@ -217,7 +217,7 @@ A|I|%
 A|they've got to be analyzing with a, a voice recorder some how.|sv
 B|Yeah,|b
 B|well they record these|sd
-B|and then somebody transcribes them so that they, they  have, uh, they have a speech signal|sd
+B|and then somebody transcribes them so that they,  they  have, uh, they have a speech signal|sd
 A| Uh-huh. |b
 B|and what,|%
 B|and what is said.|sd

@@ -1,7 +1,7 @@
 A|So, Beverly, what do you think about drug testing?|qo
 B|I think in some professions it's, uh, essential. Things like pilots and things that involve the safety of other people particularly.|sv
 A|Yeah.|aa
-A|We've, we got a lot of mistakes here, uh, in the Maryland, Baltimore area because of, uh, train conductorsuh, on drugs.|sd
+A|We've, we got a lot of mistakes here, uh, in the Maryland, Baltimore area because of, uh, train conductors uh, on drugs.|sd
 B|Uh-huh.|b
 A|I think we've had two terrible accidents here recently,|sd
 A|and also on, um, just like, I bet you within five days a truck where the, uh, a dump truck, where the driver was, uh, high on marijuana,|sd
@@ -15,10 +15,10 @@ A|it was awful.|sd
 A|So, yeah,|%
 A|I think you're right,|sv
 A|I, I think I, if it's, if you're in a field,|sv
-A|but then you know, who would test all truck driversyou know,|qh
+A|but then you know, who would test all truck drivers you know,|qh
 B|They,|%
 B|that's, that is a problem|sv
-B|and every time before they get into a vehicleI mean.|qh
+B|and every time before they get into a vehicle I mean.|qh
 A|Right,|aa
 A|yeah|aa
 A|I think, I think, looking at athletes being drug tested|sv
@@ -28,17 +28,17 @@ A|even, I think the random drug testing, I don't know in my own mind if it has r
 B|Right.|b
 A|that make sense?|qy
 B|Yes,|ny
-B|uh, it may make a difference for some of themcareer.because they don't want to lose that lucrative, uh|sv
+B|uh, it may make a difference for some of them because they don't want to lose that lucrative, uh career.|sv
 A|Yeah,|aa
 A|and then, uh, I think,|sv
 A|Yeah.|b
 A|I, I, I think, in the long run I think it's, it would be good.|sv
 B|Uh-huh.|b
-A|I think in the short run they think because so many of those tested have gotten away with ityou know, the, the test hasn't come down hard on anyone|sv
+A|I think in the short run they think because so many of those tested have gotten away with it you know, the, the test hasn't come down hard on anyone|sv
 B|Right.|b
 B|Uh-huh|b
 A|I don't, I don't know.|h
-B|however, here in Dallasuh, we had a, a player, Roy Tarpley on the Mavericks team|sd
+B|however, here in Dallas uh, we had a, a player, Roy Tarpley on the Mavericks team|sd
 A|Yeah.|b
 A|Uh-huh.|b
 B|and he had been suspended a couple of times because of drug testing,|sd
@@ -50,10 +50,10 @@ B|but they couldn't afford to replace him and still pay his contract|sd
 A|Right.|b
 B|and, uh, just recently he was, uh, missing from practice|sd
 B|and whenever he missed like that, usually he had some kind of problem|sd
-B|andwas positive,so a mandatory drug test was done|sd
+B|and so a mandatory drug test was done was positive,|sd
 A|Uh-huh.|b
 A|Yeah,|b
-B|so they were able toget rid of him and not have to pay his contract.|sd
+B|so they were able to get rid of him and not have to pay his contract.|sd
 A|Get rid of him.|^2
 A|Right,|b
 A|yeah.|b
@@ -65,7 +65,7 @@ B|and talk about a terrible role model,|sd
 A|Right,|aa
 A|I, I think, that, that, that's a terrible you know,|sv
 A|it's really funny though, um,|sv
-A|I guess, my dad was hit by a, a drunk driver who was also highum, when I was probably eighteen, my senior year in high school|sd
+A|I guess, my dad was hit by a, a drunk driver who was also high um, when I was probably eighteen, my senior year in high school|sd
 B|Um.|%
 B|Oh, my goodness.|ba
 A|and, um, though he's alive today and everything worked out fine, it, it, it happened about two blocks from the high school|sd
@@ -75,7 +75,7 @@ A|and I could smell the dope,|sd
 A|and I could see the beer cans from the guy that hit him|sd
 B|Uh-huh.|b
 A|and nothing ever happened,|sd
-A|and fromnow I think people should be allowed to drink, I think that's an adult responsibility, whatever,from that point on, I became so anti drunk driving|sd
+A|and from from that point on, I became so anti drunk driving now I think people should be allowed to drink, I think that's an adult responsibility, whatever,|sd
 B|Oh, that's terrible.|ba
 B|Uh-huh.|b
 A|but I really, uh,|%
@@ -120,7 +120,7 @@ B|and one boy who had been drinking decided for some stupid reason to try to pla
 B|Well, he, the train missed him,|sd
 B|but, uh, a big mirror type thing sticking out, like a metal thing sticking out, hit him in the head|sd
 A|Yeah.|b
-B|he was in a coma forfour months,|sd
+B|he was in a coma for four months,|sd
 A|Uh-huh.|b
 B|he's out of the coma now,|sd
 B|and eventually they think he will come back,|sd

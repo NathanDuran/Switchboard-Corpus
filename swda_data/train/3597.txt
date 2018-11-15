@@ -22,7 +22,7 @@ A|Well, I think that society has come to a point where they're not responsible f
 A|Somebody else, uh, made them do it.|sv
 A|Uh, that's what I seem to see a lot of, that, uh, no one is willing to take responsibility for their life and their choices.|sv
 A|It's rather, sue these guys because they made a uh, a seat belt that didn't work right|sv
-A|oruh, that's what I think is a big one.|sv
+A|or uh, that's what I think is a big one.|sv
 B|Uh-huh.|b
 B|I tend to agree with you,|aa
 B|and I think there's a lot of that.|sv
@@ -45,7 +45,7 @@ B|but whenever something happens it's, you made me hit that,|sd
 B|you made me do this,|^q
 B|and so I try to tell her, , everything isn't always somebody else's fault.|sd
 B|You know, you have to watch where you're going|sv
-B|andand so it's what you just said, kind of hits home to me, just through her.|sd
+B|and and so it's what you just said, kind of hits home to me, just through her.|sd
 A|Sure.|b
 A|Yeah,|b
 A|and, another thing I think has changed quite a bit is, uh, the roles that men and women play.|sv

@@ -1,6 +1,6 @@
 A|So, do you, your privacy being invaded at any time?|qy
 B|Well, uh, one of the things that, uh, that I found to be, uh, an invasion is when I pay for something with a credit card and they ask me to put my telephone number on the, on the, uh, credit card bill.|sv
-B| That is something that is not required|sv
+B| That  is something that is not required|sv
 A| Well, |%
 A|Right.|b
 B|and, in fact, uh, it is actually prohibited|sd
@@ -14,7 +14,7 @@ A|I've always done that.|sd
 A|I started,|sd
 A|once I found out that that's really not necessary or legal then I just refuse|sd
 A|and I say what are you going to do.|sd
-A|You going to say you don't want to sell me this product  then that's fine.|^q
+A|You going to say you don't want to sell me this product  then  that's fine.|^q
 B| Uh-huh. |b
 A|I'll just buy it somewhere else or not buy it at all.|sd
 A|And then, ultimately, they say, no|sd
@@ -32,7 +32,7 @@ B|Uh-huh.|b
 A|And I think that, it, it's one thing to, uh, voluntarily give it because someone asks.|sv
 A|You can always refuse|sd
 A|but it's another thing where it's required by law|sv
-A|and then they go ahead and take that information and sell it to somebody. You know, |sd
+A|and then they go ahead and take that information and sell it to somebody.  You know, |sd
 B|Right.|b
 B| Uh, That, |%
 A|I don't think, I don't think they have the right to do that.|sv
@@ -47,12 +47,12 @@ B|enhancing revenue is the, uh, phrase they use.|sd
 B|And they were talking about selling the D M V lists|sd
 B|and there was a lot of, uh, a lot of, uh, consternation about that|sd
 B|and the last I heard they'd backed down from that idea.|sd
-B|But it really makes you wonder what other lists you're own that have been made, uh, public that you,don't know about.|sv
+B|But it really makes you wonder what other lists you're own that have been made, uh, public that you, don't know about.|sv
 A|Well, that's easy.|sv
 A|Whenever you donate money to someone?|sv
 B|Uh-huh.|b
 A|They, you become, put on something like a sucker list|sv
-A|and you start getting millions of calls orsolicitations.|sv
+A|and you start getting millions of calls or solicitations.|sv
 B|Right.|b
 A|And then you|%
 A|it kind of makes you feel from doing it again.|sv
@@ -61,7 +61,7 @@ A|Like, uh, National Public Radio or any of these, the public, uh, stations, you
 B|Uh-huh.|b
 A|I, I, I, I think I sent in, in money for, once to, uh, to public, uh, T V.|sd
 B|Uh-huh.|b
-A|And I started getting calls from all sorts of diseases and syndromes andeverything you could imagine.|sd
+A|And I started getting calls from all sorts of diseases and syndromes and everything you could imagine.|sd
 B|Huh.|%
 A|I,|%
 A|it's like|%
@@ -86,13 +86,13 @@ A|Who, how do you know that?|qy
 A|Why, why you even telling me this?|qw
 A|Is it any of your business?|qy
 A|I mean, it's one thing that I, and the college knows that|sd
-A|that's,just our business.|sv
-A|There's no need for  someone who is soliciting should know at all.|sv
+A|that's, just our business.|sv
+A|There's no need for  someone  who is soliciting should know at all.|sv
 B| Uh-huh. |b
 A|Just, uh,|%
 A|and that was very offensive too.|sv
 A|I,|%
 A|and so very|%
-B|Last year, the, uh, Lotus Development Company, the, uhwas planning on marketing a, uh, C D Rom with people's names sorted by number of different criteria.company that puts out One, Two, Three|sd
+B|Last year, the, uh, Lotus Development Company, the, uh company that puts out One, Two, Three was planning on marketing a, uh, C D Rom with people's names sorted by number of different criteria.|sd
 A|Uh-huh.|b
 A|Right|b

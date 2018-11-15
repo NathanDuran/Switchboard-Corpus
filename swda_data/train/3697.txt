@@ -1,13 +1,13 @@
 A|Okay,|fo_o_fw_"_by_bc
 A|now then you heard the question,|sv
-A| what what do you like to do for yourself in car automobile repairs?|^q
+A| what  what do you like to do for yourself in car automobile repairs?|^q
 B| Uh-huh. |b
 B|Well, I'll tell you, I used to do a lot more repairs when cars were easy to work on, than I do now.|sd
 A|Okay.|b
 B|I do, uh, I do the easy stuff now.|sd
 B|I change oil,|sd
 B|uh, and then what some people would consider a little more difficult, I, I'll change spark plugs|sd
-B|andI'll change, you know, points and, you, you know, do air filters, that kind of stuff.|sd
+B|and I'll change, you know, points and, you, you know, do air filters, that kind of stuff.|sd
 A|Um.|%
 A|Well.|%
 B|But, uh, I can't do as much as I used to,|sd
@@ -20,7 +20,7 @@ A|Uh.|%
 B|yeah,|aa
 B|part of it is, like you said, I don't have time.|sd
 A|Okay.|bk
-A|Well being a female and being alone, you, I don't do anything but put gasoline,in my car, and let someone else check the oil even.|sd
+A|Well being a female and being alone, you, I don't do anything but put gasoline, in my car, and let someone else check the oil even.|sd
 B|Uh-huh.|b
 A|But, uh, have you had any major repairs recently?|qy
 B|Well, um, on this car I've got now, no,|ng
@@ -41,17 +41,17 @@ A|Maybe I should have just traded the car in.|sd
 B|Yeah,|b
 B|sometimes it makes you wonder.|sv
 A|Oh, it just,|%
-A|well, I have a very comfortable carand I have a health problem that I need a large comfortable car.|sd
+A|well, I have a very comfortable car and I have a health problem that I need a large comfortable car.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|So, um, anyway, I have a new transmission,|sd
 A|and I'm sure that any of them would have cost or charged me almost the same amount.|sv
 A|But|%
 B|Yeah.|b
-A|it hurts,it hurts real bad.|sd
+A|it hurts, it hurts real bad.|sd
 B|Did you take it to a dealership?|qy
 A|No,|nn
-A|I took it to an independentout in Garland.|sd
+A|I took it to an independent out in Garland.|sd
 B|Uh-huh.|b
 B|Oh, I see.|bk
 A|I had, um,|%

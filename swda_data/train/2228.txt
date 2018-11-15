@@ -8,9 +8,9 @@ B|and then when they began to collapse one after the other I think almost like a
 A|Uh-huh,|b
 A|kind of like a domino's effect.|bf
 B|Right.|aa
-B|I don't have a, a field for whether or not this is the equivalent of what was called the teapot dome.Uh, scandal,|sd
+B|I don't have a, a field for whether or not this is the equivalent of what was called the teapot dome. Uh, scandal,|sd
 A|Oh, .|b
-B|are you familiar with that,from your histories lessons or whatever.|qy
+B|are you familiar with that, from your histories lessons or whatever.|qy
 A|No.|nn
 A|No.|nn
 B|Uh, I vaguely recall|sd
@@ -34,7 +34,7 @@ B|get rich quick is the wrong phrase|sv
 B|but, if it captures some of the, the feeling I have from the people making business decisions that if they failed it's sort of well no skin of my back|sv
 B|I'll move on to this other company,|^q
 A|Uh-huh.|b
-B|orI, I just since that they didn't have a commitment to the stability of the organizations they were, were making the decisions for.|sv
+B|or I, I just since that they didn't have a commitment to the stability of the organizations they were, were making the decisions for.|sv
 A|Uh-huh.|b
 A|Uh-huh|b
 B|And I don't know whether that's because they had other opportunities to which they could move, you know, that it was that easy for them to find new work that they didn't, weren't stuck to where they were|qy^d
@@ -42,7 +42,7 @@ B|and things begin to collapse|qy^d
 B|they just moved on.|qy^d
 A|I'm not sure.|no
 B|Or whether they had extracted enough money in a percentage base that they, that they didn't care any more,|qrr
-B|I, just, I'm rather puzzled about the,whole thing|sd
+B|I, just, I'm rather puzzled about the, whole thing|sd
 A|Uh-huh.|b
 A|I know, well, I'm, uh, I know a little bit about it|sd
 A|but I don't as much as I should know about it|sd
@@ -87,7 +87,7 @@ B|Do you think to possibly is that it will help with the regular banks?|qy
 A|I, I don't know.|no
 A|I I think it would be harder|sv
 A|but I think there are some regular banks that will go down with it.|sv
-B|It seems that I recall reading for the last oh, let's say starting three years a go but not so much in the last year of bank risks of relative to the loaning funds to third world countries like Mexico, Venezuela.Uh, and Argentina based on oil loans|sd
+B|It seems that I recall reading for the last oh, let's say starting three years a go but not so much in the last year of bank risks of relative to the loaning funds to third world countries like Mexico, Venezuela. Uh, and Argentina based on oil loans|sd
 A|Uh-huh.|b
 B|and then the price of oil had, had gone south resulting in those loans being very risky,|sd
 B|and I guess I read articles of various banks that have done the right thing to contain their risks given that they had made multiple billion dollar loans.|sd
@@ -111,7 +111,7 @@ B|Okay.|b
 A|They just totally wrote it off their book.|sv
 B|Do you think it is necessary to have the federal guaranty program|qy
 B|like my since is it was there to try to protect small investors|sv
-B|but it ended up protecting big investors.Which I don't think what it was meant to do,|sv
+B|but it ended up protecting big investors. Which I don't think what it was meant to do,|sv
 A|Oh.|b
 B|so I guess I, I feel like as long as we have the possibility for this large numbers of people to be protected the possibility exist for these sorts of problems.|sv
 A|Uh-huh,|ny
@@ -122,12 +122,12 @@ A|yeah,|%
 A|I don't, I|%
 A|yeah,|%
 A|as long as there's enough little companies we're going to have to have something.|sv
-B|Um, so your since is that the, that, uh, the loan guaranties which really were accounts guaranties,so the, so that the account holders that if something went wrong they would have their money.|bf
+B|Um, so your since is that the, that, uh, the loan guaranties which really were accounts guaranties, so the, so that the account holders that if something went wrong they would have their money.|bf
 A|Uh-huh.|aa
 A|Right.|aa
 B|And given that the S and Ls have had disasters then those account holders are, are, their money is still being protected.|bf
 A|Uh-huh.|aa
-B|And that is it's million of people with anywhere from thousands to tens of thousands I guess of,Of dollars being protected.|bf
+B|And that is it's million of people with anywhere from thousands to tens of thousands I guess of, Of dollars being protected.|bf
 A|Uh-huh.|aa
 B|It, it seems like, um, there was a lot of money being protected in multiple accounts, uh,|sv
 B|it's,|%
@@ -143,14 +143,14 @@ B|I guess I'm content with the need to have protection on, on accounts|sd
 B|but I feel likes it's on an individual basis.|sv
 B|Someone whose got accounts in thirty-five different S and Ls or thirty or forty thousand dollars|%
 B|and they're all protected by the government.|sv
-B|Seems to me like they've gotten around what wasintended to be the issue there.|sv
+B|Seems to me like they've gotten around what was intended to be the issue there.|sv
 B|Uh-huh,|b
-B|I guess I don't have a personal since of V on it since I,was not a heavy user of any S and Ls|sd
+B|I guess I don't have a personal since of V on it since I, was not a heavy user of any S and Ls|sd
 A|Uh-huh.|b
 B|and, and let alone any of them that went bankrupt.|sd
 B|And I guess that means that from my perspective it could happen again,|sv
 A|I think it could happen,|aa
-B|because that means,I'm not worried enough, uh,|sd
+B|because that means, I'm not worried enough, uh,|sd
 A|yeah,|b
 B|it's kind of thing where maybe we'll survive|sv
 B|and then I, then it will happen again because we don't pay attention to those kinds of things.|sv
@@ -162,6 +162,6 @@ A|because I mean, you're going to have to take some risk|sv
 A|and as long as their backed I think they're still going, you know, start taking on riskier loans,|sv
 A|and I think there is a chance of it possibly happen again but not until, you know, late, you know, in the future.|sv
 B|Uh-huh.|aa
-B|Well, perhaps if there are regulatory, uh, constraints put back in place.It will protect that|sv
+B|Well, perhaps if there are regulatory, uh, constraints put back in place. It will protect that|sv
 A|Uh-huh.|b
 B|maybe we have learned a little bit of a lesson here about what happens if you remove a little of the regulation, uh.|sv

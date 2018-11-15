@@ -103,7 +103,7 @@ A|everybody I speak to is in Texas, oh, oh,|sd
 A|yeah,|%
 A|but I'm, I'm in New York|sd
 A|and, uh, we seem, we seem to have, um,|sd
-A|I think the AMERICAN GLADIATORS is on Sunday afternoons actually around here as well,sometimes.|sd
+A|I think the AMERICAN GLADIATORS is on Sunday afternoons actually around here as well, sometimes.|sd
 B|Oh, really?|bh
 A|I think it's been on,|sd
 A|I think I've seen it during the day.|sd
@@ -175,7 +175,7 @@ A|yeah,|%
 A|and this guy's beating you up,|sd
 A|so, I don't know the beating up part.|sv
 A|I, I actually feel the tennis balls would hurt.|sv
-B|Oh, well, they,they come out with a lot of bruises too.|sd
+B|Oh, well, they, they come out with a lot of bruises too.|sd
 A|They look like,|sv
 A|Yeah,|b
 A|they seem like a tennis ball|sv
@@ -192,11 +192,11 @@ A|Okay.|b
 B|I like mysteries.|sd
 A|Oh, okay.|b
 B|I like mysteries.|sd
-B|I tape, um, FATHER DOWLING,because that's another mystery,|sd
+B|I tape, um, FATHER DOWLING, because that's another mystery,|sd
 A|Uh-huh.|b
 B|and I don't have to concentrate too hard on them.|sd
 A|But, I'm sure that's fun.|sv
-B|Um, most of the lawyer programs like, uh, LAW AND ORDER,they're not on the times that I've got, that I've watched because I haven't had T got, T V GUIDE around here in ages.|sd
+B|Um, most of the lawyer programs like, uh, LAW AND ORDER, they're not on the times that I've got, that I've watched because I haven't had T got, T V GUIDE around here in ages.|sd
 A|Uh-huh.|b
 A|Oh, okay,|b
 A|well, they seem to be on later,|sd
@@ -238,7 +238,7 @@ A|not, not even the news|sd
 A|but do they have like, um,|qy
 A|do like sort of all the regular sitcoms and so forth, start at seven o'clock?|qy
 A|You,|%
-A|so, like, you know, the regular television shows that are, that are very popular, do they start at,seven or, or at eight?|qy
+A|so, like, you know, the regular television shows that are, that are very popular, do they start at, seven or, or at eight?|qy
 B|I'm trying to think.|h
 B|Both,|na
 B|um, let's see they start, um,|^h

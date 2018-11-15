@@ -51,8 +51,8 @@ B|and if they do catch them, they don't get any monetary gain out of it, whereas
 A|Yeah.|b
 B|So where do you think they target their efforts?|qh
 A|That's true.|aa
-B|They target their efforts toward the citizensnot the criminals.|sv
-A|Well,How would you go about changing it?|qo
+B|They target their efforts toward the citizens not the criminals.|sv
+A|Well, How would you go about changing it?|qo
 B|You know, that's a,|%
 B|I've nailed the problem down|sv
 B|but I,|%
@@ -77,7 +77,7 @@ A|he fixes it,|sd
 A|he still charges you that hundred dollars.|sd
 A|So, maybe if we did that with the lawyers, so that, you know, whether it's a murder case or a, you know, a civil, uh, somebody suing somebody else, you get X dollars for that case|sv
 A|and that's it.|sd
-B|Now,I firmly believe in that|aa
+B|Now, I firmly believe in that|aa
 A|None of this,|%
 B|because when you get the most heinous of crimes, have you ever noticed you always get the most renowned defense attorney?|qy
 A|Oh, yeah.|ny
@@ -85,7 +85,7 @@ B|And here's this bum that didn't have a job|sd
 A|Yeah.|b
 B|and he's got a attorney that you and I could never afford.|sd
 A|That's true.|aa
-B|Who'spaying for that?|qh
+B|Who's paying for that?|qh
 A|Yeah.|b
 A|Um, well, you, you know, you're talking to part of them that's paying for that|sv
 B|Yeah,|b

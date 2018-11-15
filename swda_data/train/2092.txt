@@ -57,7 +57,7 @@ B|Yeah,|b
 B|so you call him collect?|qy
 A|No.|nn
 A|Because it is more expensive that way.|sd
-B|What makes you ,think so?|qo
+B|What makes you , think so?|qo
 A|Any, any, um,|%
 A|basically the United States is the cheapest country to call out of.|sd
 B|Yeah.|b
@@ -75,7 +75,7 @@ B|Okay.|bk
 A|So, it's basically, you know,|%
 A|it's like, it's not too much money,|sd
 A|and it's not too little money,|sd
-A|soI won't have to, you know, rush a letter to him or something,|sd
+A|so I won't have to, you know, rush a letter to him or something,|sd
 B|Yeah.|b
 A|because, um, he really wants me to concentrate on my studies.|sd
 B|Yeah.|b
@@ -92,7 +92,7 @@ B|or what's the specialty that your looking for?|fo_o_fw_"_by_bc
 A|Um, computer communications and data transmissions.|sd
 B|Oh, okay,|bk
 B|so you want to find a, uh, data transmissions,|qy^d
-B|you're looking for, uh, um, long distancetype stuff.|qy^d
+B|you're looking for, uh, um, long distance type stuff.|qy^d
 A|Right.|na
 A|Yeah,|ny
 A|you know, anywhere from, um, local area networks, metropolitan area networks, you know, all that,|sd
@@ -109,7 +109,7 @@ A|Oh, okay.|bk
 B|And she gets paid for that|sd
 B|so she brings some money in.|sd
 A|Yeah.|b
-B|She is trying to start her own business where she does that full time.Stuff for the publicAlterations and sewing.|sd
+B|She is trying to start her own business where she does that full time. Alterations and sewing. Stuff for the public|sd
 A|Okay.|b
 A|Yeah.|b
 B|and, uh, do that on a, on a full time basis here in town.|sd
@@ -144,9 +144,9 @@ A|Right,|aa
 A|because I, I needed a backpack.|sd
 A|So, he gave me a backpack,|sd
 A|and I, I knew he needed an alarm clock.|sd
-B|Yeah.Utilitarian.|b
+B|Yeah. Utilitarian.|b
 A|So, I bought him an alarm clock.|sd
-A|So,the thing was that, that,|%
+A|So, the thing was that, that,|%
 A|Right,|aa
 A|but|%
 B|Necessary things , no frivolous gifts.|bf
@@ -180,7 +180,7 @@ A|Yeah,|aa
 A|yeah.|aa
 B|I mean,|%
 A|Because it's like, you know, say, you know, it's like, we were saying, let's go eat out before spring break.|sd
-A|I go, let's not go eat out,before spring break.|sd
+A|I go, let's not go eat out, before spring break.|sd
 A|Let's see how much money we have afterwards.|^q
 B|Right, .|b
 A|And if I felt like I spent way to much then, um, I won't go out, you know,|sv
@@ -190,7 +190,7 @@ A|I went skiing in, over the Carolina Mountains which aren't anything,|sd
 B|Huh.|b
 A|but, um, but it was, you know, it was, I guess it was worth it,|sv
 B|Sure it is,|ba
-B|any time you can get away, and, and,get away from, from the daily grind.|sv
+B|any time you can get away, and, and, get away from, from the daily grind.|sv
 A|You know, it was a nice place.|sd
 A|Yeah,|aa
 A|yeah.|aa

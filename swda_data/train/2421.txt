@@ -1,6 +1,6 @@
 A|Okay.|fo_o_fw_"_by_bc
 A|So, uh, what do you think about it?|qo
-B|Well, um, I guess I, I'm more concerned about public safety than I am about the, um, the concern for the private, uh, the idea of,the individual, um,preserving privacy for,|sd
+B|Well, um, I guess I, I'm more concerned about public safety than I am about the, um, the concern for the private, uh, the idea of, preserving privacy for, the individual, um,|sd
 A|Privacy.|^2
 A|Right.|b
 B|because I can't really see why anyone, um, who has nothing to hide would object.|sd
@@ -12,7 +12,7 @@ A|And see that bothers me.|sd
 A|I'm, I'm a, I mean, I'm, I'm very much for drug testing,|sd
 B|Uh-huh.|b
 A|uh, I really am.|sd
-A|I mean, I'm going, I'm going to take the negative side just for a second,just to do it.|oo_co_cc
+A|I mean, I'm going, I'm going to take the negative side just for a second, just to do it.|oo_co_cc
 B|Sure.|b
 A|Um, see, I have to take, uh, medication for a, uh, for, for kidney transplant.|sd
 B|Uh-huh.|b
@@ -33,24 +33,24 @@ A|but I've missed it so far.|sd
 A|But I mean, it, in the back of my mind, it always bothers me.|sd
 A|And what happens if it, you know, if it, if they catch it,|sd
 A|they think that I'm, you know, I'm on drugs|sd
-A|and they send me and, and have me, uh, you know, go through this, this,thing, you know,|sd
+A|and they send me and, and have me, uh, you know, go through this, this, thing, you know,|sd
 B|Checked out or whatever.|^2
 A|yeah.|b
 B|But it seems to me that there are ways to accommodate that. Um,|sd
-B|I agree that, that some innocent person might be victimized,by a false test,|sd
+B|I agree that, that some innocent person might be victimized, by a false test,|sd
 A|Uh-huh.|b
 B|but I would think that, um, that some guidelines could be set up to avoid that.|sv
-B|For example, that one, uh, positive would not be, uh, accepted as an automatic, um, reason for whatever they might be going,to do if they found a positive, uh, dismissal or treatment or whatever, but that, that what it would do is it would trigger, perhaps, uh, one or two more stages where further tests could be uh, done.|sv
+B|For example, that one, uh, positive would not be, uh, accepted as an automatic, um, reason for whatever they might be going, to do if they found a positive, uh, dismissal or treatment or whatever, but that, that what it would do is it would trigger, perhaps, uh, one or two more stages where further tests could be uh, done.|sv
 A|Right.|b
 A|Uh-huh.|b
 B|Because, um, there are, there must be people like you, or in other circumstances, that could come up with, with, uh, false positives for certain kind of drugs.|sv
-B|On the other hand, um, I think there's certainly some professions that ought to be testedfor uh, you know, specifically.because of the, of their responsibility for the public welfare, and certainly people in, uh, industries, well, the transportation industry,|sv
+B|On the other hand, um, I think there's certainly some professions that ought to be tested because of the, of their responsibility for the public welfare, and certainly people in, uh, industries, well, the transportation industry, for uh, you know, specifically.|sv
 A|Oh, yeah.|b
 A|Uh-huh.|b
 A|Oh, yeah.|b
 B|But, um, in many, many cases whether or not an individual has a problem with drugs, it's not even going to effect anybody but his, uh, you know, himself and his own family, perhaps, um, depending on the kind of drug he might be on.|sv
 A|Right.|b
-B|But, um, and eventually that's going to show up anyway in the way he works,and so on.|sv
+B|But, um, and eventually that's going to show up anyway in the way he works, and so on.|sv
 A|Uh-huh.|b
 B|But there's so many things that it would make a difference.|sv
 B|I guess I, I, uh, I would not want to have anyone in my family, uh, victimized by someone who, you know, a, a bus driver or a train engineer or something like that, who, um, you know, hadn't been tested.|sd
@@ -60,18 +60,18 @@ A|and, and this is why.|sd
 B|Yeah.|b
 A|Uh, number one is I, I'm, I'm kind of,|sd
 A|I know this sounds like a slogan for the government,|sd
-A|but I, you know, we are in a war against,drugs.|sd
+A|but I, you know, we are in a war against, drugs.|sd
 B|Yeah.|b
-A|I meanit's, it's horrible.|sv
+A|I mean it's, it's horrible.|sv
 B|Sure.|b
-A|I mean, you don't know whether the person sitting next to youanywhere is on drugs or not,|sv
+A|I mean, you don't know whether the person sitting next to you anywhere is on drugs or not,|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|and it takes some drastic steps at this point.|sv
 A|And I think, personally, the drastic step has to be that, um, that you can't work if you continue taking drugs.|sv
 B|Yeah.|b
 A|I mean, it's as simple as that.|sv
-A|I mean, make it so,Well, make it, uh, not necessarily difficult,|sv
+A|I mean, make it so, Well, make it, uh, not necessarily difficult,|sv
 B|Make it difficult enough.|^2
 A|but make it so that it's not glamorous.|sv
 B|Yeah,|b
@@ -79,7 +79,7 @@ B|yeah.|b
 A|I mean, it's glamorous taking drugs,|sv
 A|or at least it seems that way.|sv
 B|Yeah,|b
-B|according to what you,you hear.|^2
+B|according to what you, you hear.|^2
 A|Yeah.|aa
 B|The people who, um, have serious problems, I mean,|sv
 B|we have, um,|%
@@ -113,7 +113,7 @@ B|Um, it's horrible.|sv
 A|Well, then,|%
 A|let's, let's answer the second half of the question.|ad
 A|What limits ought to be put on it, do you think?|qw
-B|Well, the limits, uh, uh, would, I think, have to do with what I'd alluded to before, that there needs to be a further, um, that, that one positive on a drug test,would not constitute, uh, dismissal or grounds for whatever the company or agency might, uh, have set up for those who genuinely have a problem.|sv
+B|Well, the limits, uh, uh, would, I think, have to do with what I'd alluded to before, that there needs to be a further, um, that, that one positive on a drug test, would not constitute, uh, dismissal or grounds for whatever the company or agency might, uh, have set up for those who genuinely have a problem.|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|In other words, there needs to be, um, more than,|sv
@@ -124,7 +124,7 @@ A|Yeah.|b
 B|there needs to be more than one test,|sv
 B|and there needs to be some, some measure of, uh, certainty before anything drastic happens.|sv
 A|Uh-huh.|b
-B|There are lots of things that are involved there, um, such as, perhaps, insuranceuh, you know, denial of insurance for someone, um,|sv
+B|There are lots of things that are involved there, um, such as, perhaps, insurance uh, you know, denial of insurance for someone, um,|sv
 A|Uh-huh.|b
 B|and undoubtedly there are people who would be victimized by this, um, that would, that, you know,|sv
 B|it would be unfair,|sv
@@ -133,14 +133,14 @@ B|and I'm not an advocate for that particular segment of society,|sv
 B|but, um, I think that there doesn't need to be fuel to the fire for discrimination|sv
 A|Right.|b
 B|because it makes a bigger problem. Um,|sv
-B|so it seems to me that, that, um, there needs to be some ground, you know, some rulesthat protect.|sv
+B|so it seems to me that, that, um, there needs to be some ground, you know, some rules that protect.|sv
 A|Uh-huh.|b
 B|I'm not sure, though, when we talk about what rules, if any, that we should say, well, certain segments should not have to be tested.|sv
 B|I really don't see why,|sd
-A|Personally, I think that's what I was about to sayis that everyone needs to be tested.|sd
+A|Personally, I think that's what I was about to say is that everyone needs to be tested.|sd
 B|And, yeah.|b
 B|Yeah.|b
-B|I don't,I don't know why it would be, you know, uh, bad to test just|sd
+B|I don't, I don't know why it would be, you know, uh, bad to test just|sd
 A|It, you know,|%
 B|and it may be, you know,|sv
 B|it's not feasible to do everyone,|sv

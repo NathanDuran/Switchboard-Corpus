@@ -20,7 +20,7 @@ B|Well, I know that I learned how to knit one time and, um, made a few things|sd
 B|but I haven't done it in so long that I probably wouldn't remember how|sd
 A|Do you make sweaters and things or just blankets?|qy
 B|Well, if I remember I think we made some, like Christmas stockings,|sd
-B|you could make the, like the granny squares or whatever,and sew them together and make Christmas stockings and maybe some slippers or something like that.|sd
+B|you could make the, like the granny squares or whatever, and sew them together and make Christmas stockings and maybe some slippers or something like that.|sd
 A|Uh-huh.|b
 A|Oh.|b
 A|I see.|ba
@@ -49,7 +49,7 @@ A|I'm in, uh,|%
 A|I work for channel six in Waco.|sd
 B|Oh, okay.|bk
 A|And so I do little news reports and things.|sd
-A|It's not as exciting as itas it sounds.|sd
+A|It's not as exciting as it as it sounds.|sd
 A|But, um,|%
 B|So you don't have too much time for hobbies?|qy
 A|No,|nn
@@ -70,10 +70,10 @@ A|Uh-huh|b
 B|But I've made a, um, few things, cross-stitch things.|sd
 B|I really enjoy doing that.|sd
 A|Uh-huh.|b
-B|And um, I made, uh, like stockings for both my children and a Christmas tree shirt and that,type of thing,|sd
+B|And um, I made, uh, like stockings for both my children and a Christmas tree shirt and that, type of thing,|sd
 A|Oh.|b
 B|and it just takes a long time to get it done|sd
-B|but, you know, once you've done something like that it kind of makes you feel good, to,to see it.|sd
+B|but, you know, once you've done something like that it kind of makes you feel good, to, to see it.|sd
 A|Right.|b
 A|I I showed mine to my boyfriend|sd
 A|and he was like, you didn't make that.|sd
@@ -104,11 +104,11 @@ A|and, um, I sang all through college and things like that|sd
 A|but I really haven't done anything really, professional per se.|sd
 B|Uh-huh.|b
 A|But I did one wedding last year|sd
-A|and, uh, I just now got some cards together, kind of, uh, business cards that say,singer,|sd
+A|and, uh, I just now got some cards together, kind of, uh, business cards that say, singer,|sd
 B|Uh-huh.|b
 A|and what does it say, a song makes beautiful wedding or something,|sd
 A|and I've been passing them out to different wedding shops,|sd
-A|I mean when someone comes in,and they, they might ask about it.you know, for a wedding, for a wedding dress,|sd
+A|I mean when someone comes in, you know, for a wedding, for a wedding dress, and they, they might ask about it.|sd
 B|Oh, that's a good place,|sv
 B|yeah.|%
 B|Uh-huh.|b
@@ -116,9 +116,9 @@ A|This one woman even wanted me to bring my tape in because I have a demo tape, 
 B|Yeah.|b
 A|And, uh, she wanted me to bring it in,|sd
 A|she's going to play it on Saturday|sd
-A|so that would be great,if someone came and heard it, and they were like, I want that voice,|sd
+A|so that would be great, if someone came and heard it, and they were like, I want that voice,|sd
 B|Yeah|b
-A|but,I haven't got any calls, yet|sd
+A|but, I haven't got any calls, yet|sd
 B|Well, that's good.|ba
 A|but I only just put them out this week|sd
 B|Yeah.|b
@@ -132,12 +132,12 @@ A|Then I could be getting paid for something I love to do.|sd
 B|Yeah|b
 A|Not that I don't like reporting,|sd
 A|but, I'd love it.|sd
-B|Did you have training in singing when you were,younger then|qy
+B|Did you have training in singing when you were, younger then|qy
 B|or,|%
 A|No,|nn
 A|I've never, I've never had, uh, formal training.|sd
 A|I've just been singing every chance I get.|sd
-A|I try, you know,in school|sd
+A|I try, you know, in school|sd
 B|Choirs and that kind of stuff?|qy
 A|and, yeah,|%
 A|choirs|b^m
@@ -178,7 +178,7 @@ A|so, I don't know.|h
 B| Oh, okay. |b
 A| But, uh,  okay|b^m
 A|well, it was nice talking to you|fc
-A|and, and good luck with your hobbies |fc
+A|and,  and good luck with your hobbies |fc
 B|It was nice talking to you, too,|fc
 B| good luck with your singing. |fc
 B|Okay,|fc

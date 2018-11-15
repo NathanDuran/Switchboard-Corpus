@@ -14,7 +14,7 @@ A|And why don't you like the Mustang?|qw
 B|It's, um,|%
 B|I've had one problem with it after the other.|sd
 A|I'll be darned.|ba
-B|The the paints peeling off of it,or find them road dead.|sd
+B|The the paints peeling off of it, or find them road dead.|sd
 A|Well, you know the old sayings about Fords, what they stand for.|fo_o_fw_"_by_bc
 A|There you go.|aa
 A|Well, uh.|%
@@ -29,7 +29,7 @@ B|It would have been like two thousand|sd
 A|Well, we've always, uh, we've always had Oldsmobiles, and, uh, been very, uh, happy with Oldsmobiles,|sd
 A|but, uh, my wife thought she wanted to get a Ford Mustang|sd
 A|and then she kind of changed her mind and thinks her next car ought to be one of those, uh, Mitsubishi Eclipses.|sd
-A|SheShe likes, uh, likes those.|sd
+A|She She likes, uh, likes those.|sd
 B|Those, those are nice cars.|sv
 A|She has a sister that lives in, uh, Phoenix that has one and, uh, really, uh, enjoys it.|sd
 A|Well, what, uh, what things do you consider when you buy a car?|qw
@@ -40,7 +40,7 @@ A|I see.|bk
 B|I, uh, I, I hate driving anyway,|sd
 B|and then, and changing gears at stop lights and stuff is really getting on my nerves now.|sd
 A|Yeah,|aa
-A|especially when you're in high traffic areasand have to mess with that all the time.|sv
+A|especially when you're in high traffic areas and have to mess with that all the time.|sv
 B|Yeah.|b
 B|And, you know, when you work nine to five, or eight to five, and you're in rush hour traffic to and from work, unfortunately.|sd
 A|That makes it very frustrating.|bf

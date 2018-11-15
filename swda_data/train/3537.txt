@@ -26,7 +26,7 @@ B|That's where I think most of the cost is coming.|sv
 A|Well, I, I think a lot of it is, uh,|sv
 A|I, I don't disagree totally with that,|arp_nd
 A|but, uh, my wife this last summer, uh, when we were on vacation tore up her knee,|sd
-A|and, uh, uh, it was ligaments, uh, in her  knee, as it turned out, uh,|sd
+A|and, uh, uh, it was ligaments, uh, in her  knee,  as it turned out, uh,|sd
 B| Uh-huh. |b
 A|she came back that, uh,|sd
 A|we were out at Cape Hatteras when this happened|sd
@@ -43,7 +43,7 @@ A|And my wife said, well, do I need that?|sd
 A|And he says, well, uh, you know, it, it'll help me diagnose this.|sd
 A|I mean, uh, you know, I, I suggest you go have this thing.|^q
 A|Insurance won't pick this up unless you're in the hospital.|sd
-A| Now, a, thousand, uh, uh, dollars for thirty-five minutes.|sd
+A| Now, a,  thousand, uh, uh, dollars for thirty-five minutes.|sd
 B| Oh, great. |ba
 A|I mean, doctors routinely send people in for anything.|sv
 A|Now, for years they didn't have this|sd
@@ -54,7 +54,7 @@ A|I said to her, well, look, you know, if you feel you got to go, go,|sd
 A|but I, I think a thousand dollars,|sd
 A|these guys,|%
 A|I don't know what it is,|sd
-A|but  there's, no doubt they get kickbacks to fill these machines up night and day.|sv
+A|but  there's,  no doubt they get kickbacks to fill these machines up night and day.|sv
 B| Uh-huh . |b
 A|And even if they cost a hundred, two hundred, five hundred thousand dollars, at, uh, roughly a thousand dollars every half hour, uh, that's ridiculous.|sv
 A|I, I don't care what anyone says.|sd
@@ -66,7 +66,7 @@ A|Fifty, a hundred dollars.|sd
 A|They don't have to pay them back in three months time.|sd
 B|No.|aa
 B|Yeah,|aa
-B|I'll have to  agree, with you there,|sd
+B|I'll have to  agree,  with you there,|sd
 A| You know . |%
 B|but there's another problem,|sv
 B|and that's the, how litigious our society is.|sv
@@ -77,7 +77,7 @@ A|And that, the government eventually will address too just, you know, because i
 A|I, I agree with you.|aa
 A|You know, uh, I was on a jury|sd
 A|or I, I didn't make the jury,|sd
-A|but there was a,deal where a doctor was going to be sued for malpractice on the death on an infant.|sd
+A|but there was a, deal where a doctor was going to be sued for malpractice on the death on an infant.|sd
 B|Uh-huh.|b
 A|Like it was three days after it was born,|sd
 A|and he was the one that delivered it.|sd

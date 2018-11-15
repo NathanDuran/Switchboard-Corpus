@@ -14,7 +14,7 @@ B|Uh, but my husband works|sd
 B|and they do have that at his place of employment|sd
 B|and neither of us have a problem with it.|sd
 B|We've, particularly, like you said with the things that the airlines and, and such.|sd
-B|It's, uh, it's a scary thing to know that, uh, you just don't know what people are doinguh, before they go to work.|sv
+B|It's, uh, it's a scary thing to know that, uh, you just don't know what people are doing uh, before they go to work.|sv
 A|Uh-huh.|b
 B|So, and the, the advertisements on television lately have been so, uh,|sv
 B|there have been so many. You know,|sv
@@ -39,7 +39,7 @@ A|And if they are trying to hide something, then I have to know that, because we
 A|Not only with themselves, but with other employees.|sd
 B|Uh-huh.|b
 A|And I really, you know,|%
-A|they, they're talking about sports and sports personalities and all this stuff that I, I would much, much prefer having doctors and airline pilots testedon a random basis.|sd
+A|they, they're talking about sports and sports personalities and all this stuff that I, I would much, much prefer having doctors and airline pilots tested on a random basis.|sd
 B|Yeah.|b
 A|I, I have a real fear,|sd
 A|but that at some point something's going to happen.|sv
@@ -50,10 +50,10 @@ A|So I really have no problem with it.|sd
 B|Yeah.|aa
 B|Well, it's, it's unfortunate, I think, that everyone doesn't have that opinion.|sv
 B|Uh, some people just, uh, I've heard some people just talking in our group of friends that they just feel it's an invasion of privacy and things like that,|sd
-B|but, uh, in the long run, it seems to me, it's kind of like what they keep talking about the, uh, the AIDS testing with doctors or dentists and thingsand how that, you know,|sv
+B|but, uh, in the long run, it seems to me, it's kind of like what they keep talking about the, uh, the AIDS testing with doctors or dentists and things and how that, you know,|sv
 A|Uh-huh.|b
 B|they feel that's not fair and whatever,|sd
-B|but, you know, those kind of things I'd like to knowmyself.|sv
+B|but, you know, those kind of things I'd like to know myself.|sv
 A|Yes.|aa
 B|It wouldn't be,|%
 B|in my opinion,|%
@@ -79,7 +79,7 @@ B|I, I would think,|sv
 B|but, with all the accidents, just with, with, uh, everything happening with,|%
 B|just|%
 B|airlines just drive me crazy.|sd
-B|People are afraid to fly now.You know, just because of, they don't know what their pilot's been doing and, and things like that|sv
+B|People are afraid to fly now. You know, just because of, they don't know what their pilot's been doing and, and things like that|sv
 A|Right.|b
 B|and,|%
 A|Uh-huh.|b
@@ -94,12 +94,12 @@ A|And I, I think it's great.|sv
 A|I, I would like, I would encourage it.|sd
 A|I'm pushing our company towards that. .|sd
 B|Well, and, you know, if they do find someone who, who is, uh, having a problem with drugs|sv
-B|and they can get them the help that they need.And whatever,As opposed to just letting the problem go on with, without any, uh, support.|sv
+B|and they can get them the help that they need. As opposed to just letting the problem go on with, without any, uh, support. And whatever,|sv
 A|Right.|aa
 A|Exactly.|aa
-B|because a lot of people, seems like, would probably obviously are trying to hide thatuh, from their employer and friends and family and things|sv
+B|because a lot of people, seems like, would probably obviously are trying to hide that uh, from their employer and friends and family and things|sv
 A|Uh-huh.|b
-B|and too many people are just dying.Particularly in our area.|sv
+B|and too many people are just dying. Particularly in our area.|sv
 A|Right.|b
 B|I don't know what the crime is like where you are,|qw^d
 B|but the crime rate here is just astronomical.|sd
@@ -116,7 +116,7 @@ B|I just got a piece of paper the other day, uh, that now they have these,|sd
 B|I have two little, very little children, under two|sd
 A|Uh-huh.|b
 B|and I got a piece of paper from, from my husband's office,|sd
-B|it's talking about these, uh, drug tattoos nowthat they have got.|sd
+B|it's talking about these, uh, drug tattoos now that they have got.|sd
 A|Really?|bh
 B|That look like, it looks like a sticker|sd
 B|and it's for kid,|sd

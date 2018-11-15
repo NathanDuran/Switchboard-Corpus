@@ -21,8 +21,8 @@ B|except I thought that there were too many in the home|sd
 B|and it just seemed like it was so hard to find, uh, really good child care.|sd
 B|She was wonderful,|sd
 B|it's just that I felt that there were too many in the home.|sd
-B|It wasin home child care.|sd
-A|Okay,Okay,|b
+B|It was in home child care.|sd
+A|Okay, Okay,|b
 A|so it was in home child care.|sd
 A|You took them to someone's home?|qy^d
 B|Uh-huh.|ny
@@ -66,7 +66,7 @@ A|Not just there, you know,|sd
 A|so he went like, uh, I think he went, well, five mornings a week, if I remember correctly.|sd
 B|Wow.|ba
 A|And, uh, you know, and it was supposed to be a base,|sd
-A|you know, starting to learn the colors and, and learning to associate with childrenand stuff,so that when he went to, you know, school|sd
+A|you know, starting to learn the colors and, and learning to associate with children so that when he went to, you know, school and stuff,|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|and, uh, she was most unhappy with it.|sd
@@ -80,7 +80,7 @@ A|And, uh, they had hot lunches|sd
 A|and, and they had classes that, you know, one class they'd do art.|sd
 A|They even familiarized the children with computers.|sd
 B|Oh.|b
-A|Uh, it was just, it was really a very excellentone.|sd
+A|Uh, it was just, it was really a very excellent one.|sd
 B|Uh-huh.|b
 B|And how old was he?|qw
 A|He's now five and a half.|sd
@@ -88,7 +88,7 @@ A|He's in kindergarten.|sd
 B|Oh.|b
 A|This was last year.|sd
 B|Uh-huh.|b
-A|And, uh, so, you know, it helped him and, and the first one, uh, he went to a, uh, church preschoolthat was very good.|sd
+A|And, uh, so, you know, it helped him and, and the first one, uh, he went to a, uh, church preschool that was very good.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|The Methodist Church in Richardson.|sd
@@ -107,15 +107,15 @@ B|Well, I've, I've heard that the Methodist ones are excellent.|sd
 A|Oh, really?|bh
 B|Uh-huh.|ny
 B|Even the even the Mother's Day Out programs, I heard, are real good.|sd
-A|Oh. I had, uh, I just assumed that most churches, going by, you knowexperience there, that, you know, that they were good.|sd
+A|Oh. I had, uh, I just assumed that most churches, going by, you know experience there, that, you know, that they were good.|sd
 B|Yeah.|b
-A|II didn't know that, uh, you know,|sd
+A|I I didn't know that, uh, you know,|sd
 B|Uh-huh.|b
 A|I'm not that familiar.|sd
-A|I just know that, you know, First United Methodist of Richardson wasjust a great program.|sd
+A|I just know that, you know, First United Methodist of Richardson was just a great program.|sd
 B|Uh-huh.|b
 B|Yeah,|b
-B|because this is First United Methodist in Garlandthat he goes to|sd
+B|because this is First United Methodist in Garland that he goes to|sd
 A|Uh-huh.|b
 B|and I'm real happy with that.|sd
 A|Yeah,|b
@@ -123,7 +123,7 @@ A|it's a pretty good size church, too, isn't it?|qy
 B|Uh-huh.|ny
 A|Uh-huh.|b
 B|Yeah.|b
-A|So,Well, are you enjoying staying home?|qy
+A|So, Well, are you enjoying staying home?|qy
 B|Well, that's a,|%
 B|Yes,|ny
 B|I am|sd
@@ -137,7 +137,7 @@ B|and it just seemed like they were sick more often|sd
 A|Uh-huh.|b
 B|and I just couldn't get the time off to,|sd
 B|so,|%
-A|Well, isn't it very hard to teach young children and then come home and dealAnd have enthusiasm.with young children.|qy
+A|Well, isn't it very hard to teach young children and then come home and deal with young children. And have enthusiasm.|qy
 B|Yeah,|ny
 B|it is.|sd
 B|It really is.|sd

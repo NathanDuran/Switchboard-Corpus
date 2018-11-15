@@ -27,7 +27,7 @@ A|we're going to have to do a lot of lawn and garden work there.|sd
 B|Yeah.|b
 A|Seems like it.|sd
 A|Uh, the place we've been living at, it's, uh, we're, we're just leasing it.|sd
-A|The, in Plano, and the soil has so much, has such a high clay content,socketsthat, uh, uh, I went to use my dad-in-law's tiller and it about for my arms off,|sd
+A|The, in Plano, and the soil has so much, has such a high clay content, that, uh, uh, I went to use my dad-in-law's tiller and it about for my arms off, sockets|sd
 B|Uh-huh.|b
 B|I'll bet.|ba
 B|I'll bet.|ba
@@ -70,7 +70,7 @@ A|Huh.|b
 B|um, anything like that is, is a, uh, major undertaking I guess, uh,|sd
 B|sprinkler systems or anything, uh, start to get real expensive because there's an awful lot of work that has to be done chopping through the rock.|sd
 B|But, uh,|%
-B|and it, you know, not even, consider, considering a pool or anything like that, that's, that's,practically has to be blasted in I guess.|sd
+B|and it, you know, not even, consider, considering a pool or anything like that, that's, that's, practically has to be blasted in I guess.|sd
 A|Oh.|bk
 B|But, uh,|%
 B|and it makes, it makes for a, a different challenge,|sv
@@ -127,7 +127,7 @@ B|they're, they're in pretty good condition.|sd
 A|Yeah.|b
 B|Uh, we've been, we've been pretty lucky on that.|sd
 A|Yeah,|b
-A|just if you want a lot of, you know, light for underneath,that may be the, all right because we had, because we have some, we have some old fruit trees.|sd
+A|just if you want a lot of, you know, light for underneath, that may be the, all right because we had, because we have some, we have some old fruit trees.|sd
 B|Uh-huh.|b
 A|We have a plum that's just about ready to go,|sd
 B|Uh-huh.|b
@@ -156,12 +156,12 @@ A|A lot of, a lot silt that comes in it just doesn't seem to hold it very well.|
 B|Yeah.|b
 A|But, uh, but the rye does really well. Especially during the wintertime.|sv
 B|Okay.|b
-A|But, uh, but, boy, once it gets over seventy, seventy-five degrees that, it just dries up,shrivels up and dies.|sv
+A|But, uh, but, boy, once it gets over seventy, seventy-five degrees that, it just dries up, shrivels up and dies.|sv
 B|Uh-huh.|b
 A|But anyway.|%
 B|Yeah,|b
 B|it's, uh,|%
-B|there's such a, there's such a difference,through the year. Uh,|sv
+B|there's such a, there's such a difference, through the year. Uh,|sv
 A|Yeah.|b
 A|My, my parents-in-law they're, they're building a house into the side of a hill, um,|sd
 A|well, it's already been built and everything.|sd
@@ -170,18 +170,18 @@ A|They've been living there for about three months now,|sd
 A|but, uh, this is out in west Texas,|sd
 B|Uh-huh.|b
 A|but the, the wind there, has been so bad that, I mean, they've tried to plant grass|sd
-A|and they just, have some problems,big time problems|sd
+A|and they just, have some problems, big time problems|sd
 B|that's it .|ba
-A|they just,so they just washing , uh, watching their lawn just blow away.|sd
+A|they just, so they just washing , uh, watching their lawn just blow away.|sd
 B|Yeah.|b
 A|But it's, it's quite an undertaking.|sd
-A|They have about two or three acres of land on lake front property,on a, on the side of a hill.|sd
+A|They have about two or three acres of land on lake front property, on a, on the side of a hill.|sd
 B|Oh, wow.|ba
 A|It's beautiful,|sd
-A|I mean,you can see the house from, you know, miles away,|sd
+A|I mean, you can see the house from, you know, miles away,|sd
 B|Uh-huh.|b
 A|but it's, you know, it's a pretty neat little job|sd
-A|but,they save a lot of, they save a lot of energy|sd
+A|but, they save a lot of, they save a lot of energy|sd
 B|Yeah.|b
 A|but just, uh, you know, for them, I mean, they, they're going to have to start gardening.|sv
 A|It's going to be from the ground up.|sv
@@ -190,10 +190,10 @@ A|The whole way.|sv
 B|Yeah.|b
 A|And they said, well, we just plan on spending the rest of our lives just, getting this property developed.|sd
 A|It's amazing,|sd
-A|I mean,they have, have the, all they have are uh, mesquite and cottonwoods,|sd
+A|I mean, they have, have the, all they have are uh, mesquite and cottonwoods,|sd
 B|Yeah.|b
 B|Yeah.|b
-A|and, uh, it's, it's all on Lake Greenbelt ,that property out there.|sd
+A|and, uh, it's, it's all on Lake Greenbelt , that property out there.|sd
 B|Okay.|b
 A|And, uh, I don't know, that what they have,|sd
 A|they have all the water they want,|sd
@@ -226,18 +226,18 @@ B|Uh-huh.|b
 A|But, um, the water usage, you know, they try to limit, even though there's three or four streams that flow into it, people still use it enough in, like in towns like Clarendon and other areas that, where they irrigate.|sd
 B|Uh-huh.|b
 A|They they, they still haven't gotten used to the dry land farming|sd
-A|but,the irrigation because it's gotten so bad the past few years,|sd
+A|but, the irrigation because it's gotten so bad the past few years,|sd
 B|Yeah,|aa
 B|that's true that,|aa
 A|but I don't know|h
 A|I just came back from there|sd
 A|and just the air is so dry.|sd
-A|I don't see how anything can survive out there,for long periods of time.|sd
+A|I don't see how anything can survive out there, for long periods of time.|sd
 A|Should say|%
 A|my father-in-law says the mesquite trees are, they're, they're pretty smart,|sd
 A|they're smart,|sd
 A|they're about the smartest tree around.|sd
-A|They don't, they don't even start growing until May,May or April, like after it's been raining for a few months.|sd
+A|They don't, they don't even start growing until May, May or April, like after it's been raining for a few months.|sd
 B|Yeah,|aa
 B|that's true.|aa
 B|That's true.|aa
@@ -247,7 +247,7 @@ A|Just a leafy,|%
 A|they don't do anything.|sd
 B|Uh-huh.|b
 B|Yeah,|b
-B|that's something I've been, uh, been looking around and noticed all the flowering trees and stuff are,at this time of the year|sd
+B|that's something I've been, uh, been looking around and noticed all the flowering trees and stuff are, at this time of the year|sd
 A|Uh-huh.|b
 B|and, you know, we're trying to decide what, what to, what to put on one side of the house and things like that,|sd
 B|but there's so many things that they, they last for just a couple of weeks|sd

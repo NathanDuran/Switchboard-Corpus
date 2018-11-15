@@ -39,7 +39,7 @@ A|and uh, I'm making a judgment here that may or may,|sd
 A|I think it is totally wrong,|sv
 A|well.|%
 B|Uh.|b
-A|I think that the people that are, have, um, a lower income, which you automatically equate with lower educationtend not to be registered.|sv
+A|I think that the people that are, have, um, a lower income, which you automatically equate with lower education tend not to be registered.|sv
 B|Right.|b
 B|Um.|b
 A|And they don't register,|sv
@@ -111,11 +111,11 @@ B|Right.|aa
 B|That's, that's true.|aa
 A|Total indifference, you know,|sv
 A|what difference does it make.|qh
-A|Backgone the full circle.|sd
+A|Back gone the full circle.|sd
 B|Right.|b
 B|Now if things go the way that, that, that they are there, I think that they'll keep voting,|sv
 B|but I think they'll wind up like us at some point, where people sort of, only half of them will end up voting, and sort of caring enough to really make a statement,|sv
-B|so. You know, I think, I think that, that the people who most need to vote sometimes are the, are the ones who, who are really out to make a statement, because, you know, when, when, when you've got an underdog candidate who represents something, and even if he doesn't win, a large number of people voting for that particular candidate does, I think, make a statementto everyone else.|sv
+B|so. You know, I think, I think that, that the people who most need to vote sometimes are the, are the ones who, who are really out to make a statement, because, you know, when, when, when you've got an underdog candidate who represents something, and even if he doesn't win, a large number of people voting for that particular candidate does, I think, make a statement to everyone else.|sv
 B|Yeah,|b
 B|I think|%
 B|and I think that's real important.|sv
@@ -126,7 +126,7 @@ A|I|%
 A|well, I know it's true.|sd
 A|You see a lot of that. You know, rally behind the female.|sd
 A|She may lose,|sd
-A|but by golly we're going to make a statement hereyou know.|sd
+A|but by golly we're going to make a statement here you know.|sd
 B|Um.|b
 B|That's good,|ba
 B|that's actually really good.|ba
@@ -175,13 +175,13 @@ B|Um.|b
 A|I honestly at this point,|sd
 A|it's, it's just too blown out of proportion for everyone.|sd
 A|You really,|%
-A|even the news. You cannot followwhat the the actual facts are at this point.|sd
+A|even the news. You cannot follow what the the actual facts are at this point.|sd
 A|I don't, I don't really know if some of the poor judges that are trying to decide how it should be divided.|sd
 B|Uh-huh.|b
 A|I wonder about them at some point.|sd
 B|Um, uh-huh.|b
 B|Well, they were elected as well,|sd
-B|so.So. So they're going to be,|sd
+B|so. So. So they're going to be,|sd
 A|That's correct.|ba
 A|And that's, and that's another interesting question.|sd
 A|Should judges be elected or appointed.|qh
@@ -194,7 +194,7 @@ B|But on the other hand,|sd
 A|Or you want to take the other side of it, you can argue,|^2
 A|that's one of those you can pick either side|sv
 B|Right.|aa
-A|and we could spend a lot of time on itbecause it's, it's difficult.|sv
+A|and we could spend a lot of time on it because it's, it's difficult.|sv
 B|That's right.|aa
 B|Uh-huh.|b
 A|It's situational, really.|sv
@@ -211,11 +211,11 @@ B|so if you have,|%
 B|so if, if,|%
 B|imagine a world where you have two real candidates and one idiot who goes out and makes, you know, anti, you know, sort of, um, anti women statements, anti semitic statements, anti black statements, et cetera, et cetera,|sv
 B|well then I suspect a lot of people would go out and choose a candidate to vote for just, just to spite that person.|sv
-B|But I don't thinkthat, that would actually ever work.|sv
+B|But I don't think that, that would actually ever work.|sv
 A|Um.|b
 A|Well, this is true,|aa
 A|this is true.|aa
-A|I was worrying along the lines of you get every time someone puts in a ballot in a ballot boxa dollar bill comes out the bottom.|sd
+A|I was worrying along the lines of you get every time someone puts in a ballot in a ballot box a dollar bill comes out the bottom.|sd
 B|Uh-huh.|b
 B|That's an interesting notion.|ba
 A|That might work in some places.|sv

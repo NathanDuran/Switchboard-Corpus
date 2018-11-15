@@ -5,13 +5,13 @@ B|and I, uh, had to leave.|sd
 B|Uh, in fact I, I think the Bulls were ahead when I, uh, when I left.|sd
 B|Who won the game?|qw
 A|They won in a squeaker.|sd
-A|They won bythey won by two points.|sd
+A|They won by they won by two points.|sd
 B|Is that right?|bh
 A|Uh, they were behind as they headed into each quarter|sd
 A|and then they came back in the second half|sd
 A|and at the end, I think they were, uh, looked, they looked like they were closing it out|sd
 A|and then Detroit kept coming back|sd
-A|andat the enduh, Isaiah missed a three point attempt,|sd
+A|and uh, Isaiah missed a three point attempt, at the end|sd
 B|Uh-huh.|b
 A|and, uh, I think the Bulls won by two.|sd
 A|I think they do, as a matter of fact.|na
@@ -25,7 +25,7 @@ B|They, they do,|aa
 B|and they, you know,|%
 B|I think by, uh, by relieving some of the pressure off of, uh, of, uh, uh,|sv
 B|Michael Jordan really helped them out.|sv
-B|You know, he doesn't have, they don't have to rely on him to score you know, thirty or forty points  at every at every game|sv
+B|You know, he doesn't have, they don't have to rely on him to score you know, thirty or forty points  at every  at every game|sv
 A| Right. |b
 B|so,|%
 A|Yeah,|b
@@ -45,7 +45,7 @@ A|Well, they traded away, uh, Mitch Richmond,|sd
 A|or is it Tim Hardaway.|t1
 A|One of the two, uh, who, along with, uh, Chris Mullen was, you know,|sd
 A|though three were three of the best in the N B A,|sv
-A|andand, they made a heck of a threesome|sv
+A|and and, they made a heck of a threesome|sv
 B|Uh-huh.|b
 A|and they traded either Richmond or Hardaway to Sacramento for Billy Owens|sd
 A|and, uh,|%
@@ -57,7 +57,7 @@ A|They've got the Warriors have got a team, uh,|sv
 A|and, uh, I think that will be real interesting to see what they can do.|sv
 A|They're ahead,|sd
 A|and the Lakers are down, I guess in fourth, uh, position in the west|sd
-A|andI don't know,|h
+A|and I don't know,|h
 B|Yeah.|b
 A|in the east, I don't know, uh,|sd
 A|is it Boston in, uh, first place?|qy
@@ -66,7 +66,7 @@ B|Uh, I, you know, I haven't kept up with any of the other, uh, teams.|sd
 B|I'm so depressed with the Dallas Mavericks, you know.|sd
 A|Boy,|ba
 A|they've had a hard time.|sv
-A|They said they've lost a lot of  squeakers.|sd
+A|They said  they've lost a lot of  squeakers.|sd
 B| Oh, man! |ba
 B|That,|%
 B|well, yeah,|b
@@ -75,7 +75,7 @@ B|and, uh, you know, they're going, I, I think they're going for an all time rec
 A|Yeah.|b
 B|It's unbelievable.|sv
 A|How do people in Texas deal with Dallas, Houston and San Antonio.|qw
-A|Do you, for example, like San Antonio  in Dallas?|qy
+A|Do you, for example, like San  Antonio  in Dallas?|qy
 B| Uh, |%
 B|Well, actually, actually, the, the, the Dallas area here, uh, pulls for Dallas.|sd
 B|Uh, San Antonio pulls for San Antonio,|sd
@@ -92,7 +92,7 @@ A|because San Antonio isn't that close to you, are they?|qy
 B|Really isn't,|ng
 B|uh-uh.|nn
 A|No.|aa
-B|It's, you know, it's, it's about the same, uh, same distance from here to to San Antonio as it isfrom there to Sacramento.|sd
+B|It's, you know, it's, it's about the same, uh, same distance from here to to San Antonio as it is from there to Sacramento.|sd
 A|Is it?|bh
 A|Yeah,|b
 A|so it's not something you'd drive,|bf
@@ -110,7 +110,7 @@ A|Yeah,|aa
 A|I mean, that's|%
 B|So,|%
 A|I think the way it, uh, I think that's the way it works now in basketball.|sv
-A|You, you know Magic was a franchise for the Lakersand, you know, uh, Bird for the, for the, uh, Celtics|sd
+A|You, you know Magic was a franchise for the Lakers and, you know, uh, Bird for the, for the, uh, Celtics|sd
 B|Yeah.|b
 A|and,|%
 B|And, you know, uh, you know, I used to think that, that one, one player really doesn't make a club,|sd
@@ -125,7 +125,7 @@ A|Well, I think you're right|aa
 A|and I think Isaiah Thomas would fit in Detroit|sv
 A|and I think those things do make a difference|sv
 A|and there are marquee players.|sv
-A|And  I think I think Jordan and the, and the Bulls have to be, uh, considered the likely favorites.|sv
+A|And  I think  I think Jordan and the, and the Bulls have to be, uh, considered the likely favorites.|sv
 B| Oh, yeah. |b
 A|I don't know who would meet them in the west.|sd
 A|Uh, I don't know how good Portland will turn out to be by the end of the year.|sd

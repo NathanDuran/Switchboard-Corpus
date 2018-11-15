@@ -81,13 +81,13 @@ A|So it's, it's,|%
 B|Everybody has got a pretty good size yard,|sd
 A| Yeah. |b
 B| I  mean, I got probably the biggest,|sd
-B|if not the biggest yard, I've got pretty close to it, in  the entire neighborhood.|sd
+B|if not the biggest yard, I've got pretty close to it,  in  the entire neighborhood.|sd
 A| Yeah. |b
 A|That's nice.|ba
 A|That is nice.|ba
 A|But, you know, too, the only bad thing, too, is that then you have to keep up, you know,|sv
-A|you have to, the yard  to deal with|sd
-B| Well, I, I enjoy that though.|sd
+A|you have to,  the yard  to deal with|sd
+B| Well, I,  I enjoy that though.|sd
 A|and,|%
 A|Do you.|bh
 A|You must have more time than, than I have.|sv
@@ -103,7 +103,7 @@ A|Well, um, I don't know, do we just terminate this or do you have to talk for a
 A|Do you know?|qy
 B|No,|nn
 B|we can,|%
-B|after you go to somewhere between five and ten minutes, they'll get a little master recording this. |sd
+B|after you go to somewhere between five and ten minutes, they'll get a little master recording  this. |sd
 A| Okay. |bk
 A|Okay.|b
 A|Well, can you tell me anything else about the house|qy
@@ -158,7 +158,7 @@ A|But I haven't planted anything yet|sd
 A|or, you know, I usually have gotten flowers coming out the|sd
 A|but I, I haven't done that, yet.|sd
 A|I've had finals this week.|sd
-A|So, uh, you  know, I'm just kind of trying to, trying to stick in with that,|sd
+A|So, uh,  you  know, I'm just kind of trying to, trying to stick in with that,|sd
 B| Huh-uh. |b
 A|but, uh, since that's over with now, maybe I can, I can get this yard in shape.|sd
 A|Do you do a lot of gardening?|qy
@@ -166,7 +166,7 @@ B|Uh, landscaping is more, than the gardening,|no
 A| Yeah. |b
 B|  the I've got my beans, peas,|sd
 A| Yeah. |b
-B| I've  got some onions out, tomatoes,|sd
+B| I've  got some onions out,  tomatoes,|sd
 A| Yeah. |b
 B| I'm not real sure what they're going to do this year.|sd
 A|I never have much luck with tomatoes.|sd
@@ -210,13 +210,13 @@ A|That's rough.|sv
 A|The house that I used to live in had one bath and a half.|sd
 A|And that was even just with two people.|sd
 A|That was a pain.|sv
-B|The only thing that saves it, with the schedule I work and the schedule my wife works, we're getting ready to go to work at totally different times.So that. It's not like we're tripping over each other in the morning.|sd
+B|The only thing that saves it, with the schedule I work and the schedule my wife works, we're getting ready to go to work at totally different times. So that. It's not like we're tripping over each other in the morning.|sd
 A|That's good.|ba
 A|Really.|b
 A|That could account for a lot of marital problems I think|sv
 A| You  get to know each other very well if you have to share a bathroom|sv
 B|It doesn't work if you're trying to shave and she's trying to put her eyeliner on|sv
-B|and, you're  both fighting over the mirror.|sd
+B|and,  you're  both fighting over the mirror.|sd
 A| No. |aa
 A|That's right.|aa
 A|It does not make for a happy situation.|sv

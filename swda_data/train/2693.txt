@@ -4,33 +4,33 @@ B|Well, it'll be real easy for us,|aa
 B|because we're both, my husband and I are vegetarians.|sd
 A|Oh, are you really?|qy
 B|So, yeah.|ny
-B|So that's the first thing we look for, is  if we can eat there or not.|sd
+B|So that's the first thing we look for,  is  if we can eat there or not.|sd
 A| Oh. |bk
 A|Are you strict vegetarians?|qy
 B|We're not vegan vegetarians.|ng
 B|We do, we're ovolacto.|sd
 B|We do eat, uh, eggs and, and milk products.|sd
 A|Uh-huh.|b
-B|I used to be a complete vegan vegetarian, where  I didn't eat any animal products at all.|sd
+B|I used to be a complete vegan vegetarian,  where  I didn't eat any animal products at all.|sd
 A| Uh-huh. |b
 A|Uh-huh.|b
 B|But, um, it was, it's really difficult in the area if you don't have, you know, the products that you can get.|sd
 B|And if you go out to dinner, there's virtually, you know, there's not a whole lot of things you can get.|sd
 A|There's very few places that you, I'll bet that you could, uh,|sv
 B|Yeah.|b
-B|I think maybe if you were somewhere like California, where they have a lot more vegetarian restaurantsand stuff.|sv
+B|I think maybe if you were somewhere like California, where they have a lot more vegetarian restaurants and stuff.|sv
 A|Uh-huh.|b
-B|But here, basically, you go to an Italian restaurant or you go to a Mexican restaurant, or  something.the corn meal, you know, you  know, where you can get foods that, you know, where you have a little bit more variety as far as the pastas or the|sd
+B|But here, basically, you go to an Italian restaurant or you go to a Mexican restaurant,  you  know, where you can get foods that, you know, where you have a little bit more variety as far as the pastas or the the corn meal, you know,  or  something.|sd
 A| Uh-huh. |b
 A|Uh-huh.|b
 A| Yeah. |b
-A|And youwouldn't have the meat products in that|sd
+A|And you wouldn't have the meat products in that|sd
 A|and some.|%
 A| Yeah. |b
 B| yeah,|b
 B| you have to watch that too.|sv
 B|All, you know, some of the restaurants here they will, you know,|sd
-B|you can ask them and they'll tell you whether or not they use like lard or, you  know, animal fat to cook with.|sd
+B|you can ask them and they'll tell you whether or not they use like lard or,  you  know, animal fat to cook with.|sd
 A| Uh-huh. |b
 A|Uh-huh.|b
 B|So, but, so that's, that|%
@@ -53,20 +53,20 @@ B|Because you, you have to be.|sv
 A|Uh-huh.|b
 B|I mean, you, you|sv
 B|I think you, you, you balance the foods, uh, you know,|sv
-B|you're more aware of what nutrient, you know, value each thing has, and  minerals.|sv
+B|you're more aware of what nutrient, you know, value each thing has,  and  minerals.|sv
 A| Uh-huh. |b
-B|And you're just more aware of food for energy, for  energy sake.|sv
+B|And you're just more aware of food for energy,  for  energy sake.|sv
 A| Uh-huh. |b
 A|I always thought it would be hard to figure what to eat if you were a vegetarian.|sd
 A|How, how,|%
 B|Well, that's just it,|sd
-B|you, you do have to figure it out.And, and, you know, to get proteins and things.|sv
+B|you, you do have to figure it out. And, and, you know, to get proteins and things.|sv
 A|Yeah.|b
 B|And when I was a vegan, it's, you know,|sd
-B|you have to consider calcium and iron andthings like that you, you're not even getting through your milk products,|sv
+B|you have to consider calcium and iron and things like that you, you're not even getting through your milk products,|sv
 A|Uh-huh.|b
 A| Uh-huh. |b
-B| your  egg products.If you don't eat any of those,|sv
+B| your  egg products. If you don't eat any of those,|sv
 A|Because you don't eat any of those things.|^2
 B|but actually you can get everything you need through vegetables.|sv
 B|I mean, there are there are, there are,|sv
@@ -82,29 +82,29 @@ A| Uh-huh. |b
 B| our, |%
 B|we, we tend to, uh,|sv
 B|what's it called?|qw
-B|We don't synthesize the, the calcium thesame way.|sv
-A|We, we throw more of it offour out, in other words.|sv
+B|We don't synthesize the, the calcium the same way.|sv
+A|We, we throw more of it off our out, in other words.|sv
 B|Yeah.|b
 B|We, we slough some of it,|sv
 B|we, we send, we send some of it out because it, our body doesn't accept some of it.|sv
 A|Uh-huh.|b
 B|So we're not utilizing, we're,|sv
-B|when it, when it gets rid of some of that, um, that we can't use, it get rids, it gets rid of some of the calcium.Whereas when we eat, say broccoli, you utilize all of it.|sv
+B|when it, when it gets rid of some of that, um, that we can't use, it get rids, it gets rid of some of the calcium. Whereas when we eat, say broccoli, you utilize all of it.|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|You|%
-B|your, your body acceptsall of the broccoli.|sv
+B|your, your body accepts all of the broccoli.|sv
 A|All that's in it.|^2
 A|Uh-huh.|b
-B|So, it's like, it's  like, say, a person using vitamins, as opposed to, uh, vitamin supplements as opposed to eating regular food.|sv
+B|So, it's like,  it's  like, say, a person using vitamins, as opposed to, uh, vitamin supplements as opposed to eating regular food.|sv
 A| Why? |qw
 A|Uh-huh.|b
-B|Your body just doesn't accept vitaminsand the minerals in the, the vitamins in, uh, supplements that it does in regular food,|sv
+B|Your body just doesn't accept vitamins and the minerals in the, the vitamins in, uh, supplements that it does in regular food,|sv
 A|Uh-huh.|b
 A| Uh-huh. |b
 B| you  know. So,|%
 A|That's interesting.|ba
-B|But we both, we both feel much healthier, much  healthier.|sd
+B|But we both, we both feel much healthier,  much  healthier.|sd
 A| Uh-huh. |b
 B|And I couldn't consider going back to eating,|sd
 A|After you have been on this.|^2
@@ -117,14 +117,14 @@ B|But he, he in the beginning, began for health reasons.|sd
 A|Uh-huh.|b
 B|But, um, now he, he feels like I do.|sd
 B|That he looks at the things that he eats|sd
-B|and he realizes what they arebefore he eats them.|sd
+B|and he realizes what they are before he eats them.|sd
 A|Uh-huh.|b
-B|And he, you  know,|sd
+B|And he,  you  know,|sd
 A| Uh-huh. |b
 A|He thinks more about them, then.|bf
 B|Yeah.|aa
 B|Plus he eats,|sd
-B|we both think more about, I thought more of about it as far as what it was I was eating, you know, as  a living creature.|sd
+B|we both think more about, I thought more of about it as far as what it was I was eating, you know,  as  a living creature.|sd
 A| Uh-huh. |b
 A|Uh-huh.|b
 B|And now we both think a lot of well, what is it we're eating in relation to what it's going to give to our bodies.|sd
@@ -132,22 +132,22 @@ A|Uh-huh.|b
 A|So you kind of have a combination.|sv
 B|Uh-huh.|b
 A|Uh-huh.|b
-A|Well see, we, I live in a farming community.So, of course we have a lot of animals and that type of thing raised in our area.|sd
+A|Well see, we, I live in a farming community. So, of course we have a lot of animals and that type of thing raised in our area.|sd
 B|Uh-huh.|b
 B|Well, we do too.|sd
 B|I mean, I was raised in, um,|sd
 B|we're in cattle country.|sd
 A|Uh-huh.|b
-B|And people here buy a half a cowand put it in their freezer,|sd
+B|And people here buy a half a cow and put it in their freezer,|sd
 A|Uh-huh.|b
 A| Oh, yeah,|b
 A|yeah. |b
 B| you know. And  that's, that's the way I,|sd
 B|and I,|%
-B|believe you me it wasn't easy to give up to  give up a hamburger.|sd
+B|believe you me it wasn't easy to give up  to  give up a hamburger.|sd
 B|That, that was one of my favorite foods, was, was a, a, was a good steak or a hamburger.|sd
 A|Uh-huh.|b
-B|But, you know, I suppose if you really believe in something it's,You, you adjust your life|sv
+B|But, you know, I suppose if you really believe in something it's, You, you adjust your life|sv
 A|You get adjusted to the taste.|^2
 A|Uh-huh.|b
 B|because your mind.|sv
@@ -156,18 +156,18 @@ B|You, your, you,|%
 B|inside yourself you just, it's not right.|sv
 A|Uh-huh.|b
 B|So, but, um,|%
-A|So you would have a little more trouble when you were looking for a dining area than what mostmost people would.|qy^d
+A|So you would have a little more trouble when you were looking for a dining area than what most most people would.|qy^d
 A|Now we wouldn't have that problem, because we're not vegetarians.|sd
 B|So what do you look for when you,|qw
-A|Uh, I think the main thing that I look for is, uh, cleanliness, uh, you know, the, in the appearance of the people that work there.And the, uh, quality of the food that they serve.|sd
+A|Uh, I think the main thing that I look for is, uh, cleanliness, uh, you know, the, in the appearance of the people that work there. And the, uh, quality of the food that they serve.|sd
 B|Uh-huh.|b
-B|Do you normally, when you're traveling, do you look for places that's established, that, that you've been to before orare you willing to try new places?|qy
+B|Do you normally, when you're traveling, do you look for places that's established, that, that you've been to before or are you willing to try new places?|qy
 A|Yes.|ny
 A|Oh, we try new places|sd
 A|but when we,|%
 A|a lot of times we do eat where we know.|sd
 B|Yeah.|aa
-B|Likeor something.a chain restaurant|sv
+B|Like a chain restaurant or something.|sv
 A|What,|%
 A|Uh-huh.|ny
 A|What the quality,|sd
@@ -177,7 +177,7 @@ A|And, uh, we do, do that a lot.|sd
 A|And I guess I'm getting old, older,|sd
 A|also I like to be served.|sd
 A|I like to sit down and have my, uh, order taken.|sd
-B|As opposed to like a cafeteriakind of situation?|qy^d
+B|As opposed to like a cafeteria kind of situation?|qy^d
 A|Right,|na
 A|yeah.|ny
 B|Yeah.|%
@@ -189,7 +189,7 @@ B|I don't think so.|sd
 B|I think it's just your,|sd
 B|because I, I prefer to be waited on too.|sd
 B|I just,|sd
-B|if you're going to go out to eat, why not have the whole service, you  know?|qh
+B|if you're going to go out to eat, why not have the whole service,  you  know?|qh
 A| Yeah, |ba
 A|Yeah.|b
 B|Why not get the whole,|qh
@@ -199,7 +199,7 @@ B| I  feel like it's a treat.|sd
 A|You should have a treat.|sd
 B|Yeah.|ba
 A|And I like the light meals.|sd
-A|Not all restaurants have light meals on their menu, you  know.|sd
+A|Not all restaurants have light meals on their menu,  you  know.|sd
 B| Uh-huh. |b
 A|And I,|%
 B|Oh.|b
@@ -212,10 +212,10 @@ A| that,  you get more, uh, fruit and maybe cottage cheese or a chicken breast o
 A|they're not breaded|sd
 A|and they're not fried|sd
 A|and they're not,|sd
-B|Not a lot of gravyand things like that.|^2
+B|Not a lot of gravy and things like that.|^2
 A|Yeah.|aa
-A|Uh, but it's not all rest, |sd
-B|You know, I, I like those  too.|sd
+A|Uh, but it's not  all rest, |sd
+B|You know, I,  I like those  too.|sd
 A|Uh-huh.|b
 B|I like those too, because, uh, some, seems like sometimes it's, you order a meal, you order their dinner meal, and it's like they're trying to find out how much you can eat.|sd
 B|Or|%
@@ -224,7 +224,7 @@ B|or|%
 A|it's too much,|sd
 A|yes.|aa
 B|Or, or like evidently people go in there and they're not satisfied that they'd been given enough and they complain|sv
-B|andcomplain or something.maybe they're afraid that people are going to,|sv
+B|and maybe they're afraid that people are going to, complain or something.|sv
 A|Uh-huh.|b
 A|I don't know what it is.|sd
 A|But, now for instance, we, we had a Scout dinner last night we went to.|sd
@@ -239,12 +239,12 @@ A|Uh-huh.|b
 B|I mean, I must admit, sometimes I do like a buffet.|sd
 B|But, uh, but I think that they just tend to make you, you say, Oh, well, I've have got all I can eat|sd
 A|Uh-huh.|b
-B|or, or, you know, it's one of these situations where nobody's going to restrain what you eat, the  amount that you eat.|sd
+B|or, or, you know, it's one of these situations where nobody's going to restrain what you eat,  the  amount that you eat.|sd
 A| Uh-huh. |b
 A|Uh-huh.|b
 B|And I think that that we just tend to eat, overeat.|sv
 A|Yeah.|b
-A|You can eatas much as you want and you like the food, you know.|sv
+A|You can eat as much as you want and you like the food, you know.|sv
 B|Yeah.|b
 B|Yeah.|b
 A|Uh, a lot of times the foods,|sv
@@ -270,7 +270,7 @@ A|And I like reasonable prices of course, too.|sd
 A|I don't like to, you know, go to anything that's real expensive.|sd
 B|Yeah.|b
 A|I think that's a waste of my money.|sd
-B|Just for food, it  does seem like it.|^2
+B|Just for food,  it  does seem like it.|^2
 A| Uh-huh. |b
 A|Uh-huh.|b
 B|Yeah.|b

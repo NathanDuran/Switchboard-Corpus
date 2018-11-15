@@ -28,7 +28,7 @@ A|not really.|bd
 B|You like it,|sv
 B|that's the main .|sv
 A|Yeah,|aa
-A|I, I have, you know, I inherited the genes that make me think I'm creative,but not the ones that give me the ability to be.|sd
+A|I, I have, you know, I inherited the genes that make me think I'm creative, but not the ones that give me the ability to be.|sd
 B|That's right.|aa
 A|So, I always try.|sd
 A|I, I do some sewing, mostly out of necessity.|sd
@@ -38,24 +38,24 @@ A|Yeah,|aa
 A|well, it isn't and it is.|aap_am
 A|It is, you know,|%
 A|actually the sewing isn't the hard part,|sd
-A|it's just being able to lay out the material and measure itbecause you need so much room.|sv
+A|it's just being able to lay out the material and measure it because you need so much room.|sv
 B|Measure it and get it to,|bf
 B|Well, if it, it depends on how elaborate you get it.|aap_am
 B|If you get pleats and all kinds of,|sv
 A|Yeah,|aa
 A|I've been doing that|sd
-A|and,That,|%
+A|and, That,|%
 B|That's a lot of work.|ba
 A|yeah,|aa
 A|that,|%
 A|but usually have to do the pleats by hand.|sd
-A|So that, at leastI can do, you know, watching T V or whatever|sd
+A|So that, at least I can do, you know, watching T V or whatever|sd
 B|Oh.|b
 A|but,|%
 B|Right,|b
 B|right.|b
 A|Yeah,|b
-A|and I've, I've gone and, you know, put the needle through my thumb a few timestrying to get it through|sd
+A|and I've, I've gone and, you know, put the needle through my thumb a few times trying to get it through|sd
 A|but,|%
 B|That feels really good.|ba
 A|Yeah,|aa
@@ -63,11 +63,11 @@ A|so that's not really my favorite thing to do or anything, but I, I need to do 
 B|To do it,|aa
 B|right.|aa
 A|I have, let's see, I have a dog, and a lot of fish.|sd
-A|Keeping fish, I guessis my biggest hobby.|sd
+A|Keeping fish, I guess is my biggest hobby.|sd
 B|Keeping fish .|b^m
 B|Well, they're probably easier than keeping dogs, though, aren't they.|sv
 A|Um, yes and no.|aap_am
-A|It depends on how frequently they die, andhow much that bothers you.|sd
+A|It depends on how frequently they die, and how much that bothers you.|sd
 B|Oh, no.|ba
 B|How much that bothers you,|b^m
 B|and you probably have to clean out the tank too.|sv
@@ -75,7 +75,7 @@ A|That's,|%
 A|you don't have to do as much as, as I thought.|arp_nd
 A|In fact, my problem,|%
 A|I had fish as a kid|sd
-A|and they always diedimmediately,|sd
+A|and they always died immediately,|sd
 B|Oh, no.|ba
 A|and, what, I'm, what I think now is the reason is I kept the tank too clean|sv
 B|Oh, you're kidding|ba
@@ -89,7 +89,7 @@ A|And I would just take everything out and just like, you know, wash it with sca
 B|Oh, no.|ba
 A|and it would kill all the bacteria,|sd
 A|and that would screw up all the chemical cycles again|sd
-B|And so you'd have toto build that up probably.start all over|bf
+B|And so you'd have to start all over to build that up probably.|bf
 A|so.|%
 A|Right.|aa
 A|That's right.|aa
@@ -98,14 +98,14 @@ B|Right,|aa
 B|right.|aa
 A|and I don't try and sterilize things|sd
 B|Don't go through the whole nine yards|bf
-B|andthey kind of need a little bit of that.|sv
+B|and they kind of need a little bit of that.|sv
 A|That's right.|aa
 A|That's right.|aa
 B|So you've had fish for a long time.|bf
 A|Well, I've had them,|%
 A|I guess it's been two years now I've had a, a tank here,|sd
 A|and then back at home I used to have a small, you know, five gallon tank.|sd
-A|But that never worked well.I have fifty-five gallons now. *sd|sd
+A|But that never worked well. I have fifty-five gallons now. *sd|sd
 B|What size do you have now?|qw
 B|Oh, that's a good size.|ba
 A|It's a lot easier.|sd
@@ -120,7 +120,7 @@ A|But, you know.|%
 B|Do you have all kinds of different fish|qy
 B|or,|%
 A|Yeah,|ny
-A|I just have, you know, what they call community fishguppies, and platies and, and basic things.|sd
+A|I just have, you know, what they call community fish guppies, and platies and, and basic things.|sd
 B|Uh-huh.|b
 A|I don't get into the|sd
 B|Real exotic.|^2
@@ -156,7 +156,7 @@ A|and you put the mother fish in there|sd
 A|and then it's got like a trough underneath her|sd
 B|Okay.|b
 A|so as the babies come out they fall down in the trough|sd
-A|and there's a hole in the middle so they fall into the bottom part of the chamberso the mother can't get to them either.|sd
+A|and there's a hole in the middle so they fall into the bottom part of the chamber so the mother can't get to them either.|sd
 B|Oh.|b
 A|And that's, you know,|%
 A|it kind of works,|sd
@@ -188,17 +188,17 @@ A|Oh, it's|%
 A|well, it makes you understand that, you know, things are different|sd
 B|Things are different in the animal kingdom, huh.|bf
 A|We might, right. We might decide what's proper and what isn't,|sd
-A|butyou know, that's the way it is for them.|sv
+A|but you know, that's the way it is for them.|sv
 B|Yeah.|b
 B|That's kind of the way they do it.|bf
 A|Yeah.|aa
 A|That's it.|aa
 B|Survival of the fittest or something.|bf
 A|Yes,|aa
-A|because if the baby is strong enough, it can swim away fast enoughand go hide.|sd
+A|because if the baby is strong enough, it can swim away fast enough and go hide.|sd
 B|Right.|b
 B|Go hide from them,|bf
-B|wellkind of trying to keep up with that,when these fish are in the tropicals or wherever they areand then, you think, well, how did they do it out in the real world anyway|qh
+B|well and then, you think, well, how did they do it out in the real world anyway when these fish are in the tropicals or wherever they are kind of trying to keep up with that,|qh
 A|So.|%
 A|Yeah.|b
 A|Yeah,|b

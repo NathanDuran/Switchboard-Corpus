@@ -7,7 +7,7 @@ A|Where do you live?|qw
 B|In Dallas.|sd
 A|Oh, okay|bk
 B|Uh, the air pollution isn't too bad in our area.|sd
-B|So, we're very fortunatebut I know in some areas, it's really, it, it really is bad.|sd
+B|So, we're very fortunate but I know in some areas, it's really, it, it really is bad.|sd
 A|Huh|b
 A|Um, I was trying to think, uh,|sd
 A|something we were watching the other day|sd
@@ -15,14 +15,14 @@ A|and they were doing an overview of Los Angeles, uh, from an area that was up h
 A|and you literally could see the band of smog.|sd
 A|That, uh,|%
 A|I've never been out there,|sd
-A|but,it was a real brown areait was, it was quite evident that,|sd
+A|but, it was, it was quite evident that, it was a real brown area|sd
 B|I haven't either.|sd
 B|Uh-huh.|b
 A|and,|%
 B|Well, I think it would be terrible to live in an area like that|sv
 B|and, unfortunately, I think there are a lot of areas that are, that, that bad.|sv
 A|Yeah.|b
-B|Particularly in the areas where there are industries, uh, where they are burning a lot of coal,up, more up north, I guess, uh, and oil |sv
+B|Particularly in the areas where there are industries, uh, where they are burning a lot of coal,  and oil  up, more up north, I guess, uh,|sv
 A| Yes. |b
 A|Yeah|b
 B|I think it's a bigger problem. With the car pollution, anti-pollution devices,|sv
@@ -44,7 +44,7 @@ A| Yes,|b
 A|and, |%
 B| It  just makes the rain fall on the acid side|sd
 B|and after a period of time, I think that accumulates in, uh, trees because they take it up through their roots, as well as it landing on the leaves, on surfaces,|sd
-B|like you've seen what it's done to buildings evenwhere it's really bad.|sd
+B|like you've seen what it's done to buildings even where it's really bad.|sd
 A|Yes.|b
 A|Yeah.|b
 B|What's interesting, several years ago, I took a course, uh, on, uh, well,|sd
@@ -85,15 +85,15 @@ A|and, uh, oddly enough I thought our part of the country was ideal.|sv
 B|I can't hear you at all for all  this static. |sd
 A| Oh.  I don't know what to,|sd
 A|usually it's the other phone I have trouble with.|sd
-A|It must just,be on the line.|sd
+A|It must just, be on the line.|sd
 A|Can you hear me?|qy
 B|Now I can again.|sd
 A|Okay.|b
 A|I don't know what, uh, I, I don't know what the problem is|sd
 A|but, uh, when we lived in Houston we had a solar water heater|sd
-A| and we had thought this part of the country would be ideal for solar homes and solar energy|sd
+A| and  we had thought this part of the country would be ideal for solar homes and solar energy|sd
 A|and we have enough clouds that, uh, there are other areas that would be better suited.|sd
-A|That surprised me because I think,we have a tremendous amount of, um, sunny days.|sd
+A|That surprised me because I think, we have a tremendous amount of, um, sunny days.|sd
 B|Uh-huh.|b
 A|And, and it,|%
 A|yes,|b
@@ -104,7 +104,7 @@ A|But,|%
 B|Oh yeah.|b
 B|It, it's still got a long way to go.|sv
 A| Well I, |%
-B| It's just,  you know, a possible solutionin the future, I think, maybe to help in some ways.|sv
+B| It's just,  you know, a possible solution in the future, I think, maybe to help in some ways.|sv
 A|Yes.|b
 B|It may not in all ways.|sd
 B|Maybe they'll come up with fusion. You know, be able to control it.|sd
@@ -125,13 +125,13 @@ B|I like to be optimistic,|sd
 B|I don't like to be pessimistic about these things.|sd
 A|Well, I do think, um,|%
 A|I mean, you've already mentioned several things, I think, uh, just the change in attitude and the fact that more people are aware there is a problem and more people are interested in, uh,|sv
-B|We have one earth,to live on|sv
+B|We have one earth, to live on|sv
 A|Yes|b
 B|and we got to take care of it.|sv
 A|Yes.|b
-A| Well, and, and for the future generations, too. Uh,|sv
+A| Well,  and, and for the future generations, too. Uh,|sv
 B| Uh-huh. |b
-B|I've noticed students are, are much more, you know, young, young people are much more receptive to ideas about the environment and  protecting the earth.|sd
+B|I've noticed students are, are much more, you know, young, young people are much more receptive to ideas about the environment  and  protecting the earth.|sd
 A| Yes. |b
 B|And so, if we can raise it, uh, you know, generations with those concerns, we'll solve a lot of our problems.|sv
 B|I'm afraid,|%

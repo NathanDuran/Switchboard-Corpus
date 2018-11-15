@@ -30,7 +30,7 @@ A|It's like, you know, if we can do it once every six months, we're doing well|s
 B|Oh, yes,|b
 B|yes.|b
 A|Yeah.|b
-A|So, I mean we originally started out, you know, when we were youngerand didn't have so much stuff going on with the kids. Um,|sd
+A|So, I mean we originally started out, you know, when we were younger and didn't have so much stuff going on with the kids. Um,|sd
 B|Uh-huh.|b
 A|then we would, we tried to do it every other month,|sd
 B|Yeah.|b
@@ -44,7 +44,7 @@ A|Oh.|b
 B|I don't remember if we were once a month|sd
 B|or anyway it was, it was difficult.|sv
 B|By the time we went around it was, uh, four couples|sd
-B|so, uh, by the time we got around, uh, to each of us and it was time again, we were almost tired, you know.Um, partly because, um, gourmet cooking is not particularly conducive for regular dining.|sd
+B|so, uh, by the time we got around, uh, to each of us and it was time again, we were almost tired, you know. Um, partly because, um, gourmet cooking is not particularly conducive for regular dining.|sd
 A|Really,|b
 A|really|b
 B|It's too rich.|sv
@@ -56,7 +56,7 @@ B|and then one of the couples, uh, moved|sd
 B|and so we sort of didn't, didn't continue it,|sd
 B|but, um, and I must admit that as you say when your children start taking up your time, then you, you don't have as much time for, uh, regular entertaining,|sd
 B|but, um, uh, uh, when, when we entertain I usually try to find something that will be, um, kind of good for everybody|sd
-B|and that's,because depending on who your guests are.that sometimes means you can't do gourmet,|sd
+B|and that's, that sometimes means you can't do gourmet, because depending on who your guests are.|sd
 A|Right.|b
 A|Oh, yeah.|b
 A|Well, yeah,|aa
@@ -73,7 +73,7 @@ B|Uh, she can't eat some cream cheese.|sd
 B|But that, that really limits,|sv
 A|It sure|aa
 B|um,|%
-A|it makes you, uh, keep looking for recipes every time you have an eye out,for something like,|sd
+A|it makes you, uh, keep looking for recipes every time you have an eye out, for something like,|sd
 B|Oh, yeah.|b
 B|Right.|b
 A|Right.|b^m
@@ -88,7 +88,7 @@ B|Yeah.|b
 A|Um, but it's fun.|sv
 A|I mean it took us four days to cook a stock and three days to make this stuff,|sd
 B|Oh, wow.|ba
-A|and,you know, you get all prepared|sd
+A|and, you know, you get all prepared|sd
 B|Yeah.|b
 A|but you're right.|sv
 A|It's very, very rich|sv
@@ -101,26 +101,26 @@ B|Sounds wonderful.|ba
 A|Right,|b
 A|but so, you like food|qy^d
 A|and I just love the, the community of food.|sd
-A|I just,think it's neat.|sv
+A|I just, think it's neat.|sv
 B|Oh, sure I do too.|aa
 B|Yeah.|b
-A|I just love sharing meals and,and whatever you can do, you know, to do that.|sd
+A|I just love sharing meals and, and whatever you can do, you know, to do that.|sd
 B|Right.|b
-A|I don't think you have to be, you know, more than hamburgers and hot dogs out,and the coleslaw and potato salad.in the backyard and the,|sd
+A|I don't think you have to be, you know, more than hamburgers and hot dogs out, in the backyard and the, and the coleslaw and potato salad.|sd
 B|Right.|b
 B|Right.|b
 A|But, but,|%
 B|Sure.|b
 B|Well, my, um, daughter is graduating, uh, Sunday|sd
-B|and so we're having,a, uh, few people in Sunday afternoon.|sd
+B|and so we're having, a, uh, few people in Sunday afternoon.|sd
 A|Oh.|b
 B|And I did a cop out on to it|sd
 B|I'm buying cold cuts|sd
-B|Well, I have to,make a cake|sd
+B|Well, I have to, make a cake|sd
 A|What are you providing ?|qw
 B|and I have to make hors d'oeuvres|sd
 B|and I have to make dessert|sd
-B|so,I figured for the main thing it's going to be sandwiches.|sd
+B|so, I figured for the main thing it's going to be sandwiches.|sd
 A|Right.|b
 A|Right.|b
 A|There you go.|ba
@@ -128,10 +128,10 @@ B|Uh, so, oh, I'm buying the little tiny rolls and so on.|sd
 B|But I can't do it, you know, working full-time|sd
 B|and, it's just too much.|sv
 A|I know.|ba
-A|We're all not built like, uh, what, what, oh,Martha Stewart, you know.|sd
+A|We're all not built like, uh, what, what, oh, Martha Stewart, you know.|sd
 B|Those people that try to do everything.|^2
 B|Yeah|b
-A|We all aren't Martha Stewart and have our coordinated glasses and tablecloths and,and time to, you know,|sd
+A|We all aren't Martha Stewart and have our coordinated glasses and tablecloths and, and time to, you know,|sd
 B|Ugh|ba
 B|Wouldn't that be nice?|qy
 A|Yeah.|ny
@@ -143,7 +143,7 @@ A|But it's, it's really kind of a neat thing.|sv
 A|I get a kick out of it.|sd
 A|I, I really do.|sd
 A|Everything, all parts of the food,|sd
-A|I meanMaking breadsI love to make things from scratch, you know.|sd
+A|I mean I love to make things from scratch, you know. Making breads|sd
 B|Uh-huh.|b
 B|Yeah.|b
 A|and, and you know people really pretty much appreciate it.|sv
@@ -155,14 +155,14 @@ B|or if you, if you do buy it, it's extremely expensive.|sv
 B|In fact, uh, I just got back from a shopping trip to purchase the cold cuts|sd
 B|and I, I bought turkey and pastrami and, and barbecued ham at a, an Amish market near here.|sd
 A|Oh.|b
-B|And I've never been there before.And found that there's, uh, individual vendors|sd
+B|And I've never been there before. And found that there's, uh, individual vendors|sd
 A|Oh.|b
 B|and the foods are wonderful.|sd
 B|And one of the, uh, the, um, vendors had cakes. All sorts of wonderful cakes. Uh, they, fresh strawberry cheesecake now and, and so on.|sd
 A|Oh.|b
 B|And it's like thirteen fifty for a whole strawberry cheesecake. Um, which is really not such a bad price.|sd
 B|I decided I, I just couldn't quite make myself, um, buy it because I do make cheesecake|sd
-B|and somehowI didn't want to do that because it,|sd
+B|and somehow I didn't want to do that because it,|sd
 A|There you go.|ba
 B|but I was very tempted because it looked wonderful,|sd
 B|and they had black forest cherry cake and all those things.|sd
@@ -174,7 +174,7 @@ B|so it, it's kind of interesting, uh,|sv
 B|it's out there if you want to pay the price|sd
 B|but,|%
 A|Oh, it is.|aa
-A|I mean, we have bakeries around here that, you know, you, you just gain weight going by the door,you know, just like that.|sd
+A|I mean, we have bakeries around here that, you know, you, you just gain weight going by the door, you know, just like that.|sd
 B|Right,|b
 B|just smelling the air|bf
 B|Yeah.|%
@@ -185,17 +185,17 @@ B|Uh-huh.|b
 A|Doing little hors d'oeuvre things that, I have a kick making that, I mean, you know|sd
 B|Yeah.|b
 A|I get off on strange little details of food, I guess.|sd
-A|Butum, gee, we have so much going on here because you know this is Dallas,|sd
+A|But um, gee, we have so much going on here because you know this is Dallas,|sd
 B|Yeah.|b
 A|this is the southwest,|sd
-A|this is,you know, chips and Picante sauce and anything hot.|sd
+A|this is, you know, chips and Picante sauce and anything hot.|sd
 B|Uh-huh.|b
-A|You know you can always make it hotter,and, and lots of stuff like that, you know,|sd
+A|You know you can always make it hotter, and, and lots of stuff like that, you know,|sd
 B|Right.|b
-A|so. That's, um, a really good party time,eating all that hot food|sv
+A|so. That's, um, a really good party time, eating all that hot food|sv
 B|Yeah.|b
 A|and, and they just love it, you know, down here.|sv
-A|It justjust, you know,|%
+A|It just just, you know,|%
 B|We like hot food too,|sd
 B|so.|%
 A|all the stuff that goes with that,|sd
@@ -205,10 +205,10 @@ B|You don't sound like you're from Texas originally though.|qy^d
 A|Oh, I'm not.|ng
 A|Thank you for noticing|ft
 A|I'm from Chicago.|sd
-B|I thought,I thought, that there was a slight difference in accent.|sd
+B|I thought, I thought, that there was a slight difference in accent.|sd
 A|And how I got,|%
 A|Really|b
-A|and how,and everything is a long story.of Virginia I'm,I got to Texas by way,|sd
+A|and how, I got to Texas by way, of Virginia I'm, and everything is a long story.|sd
 B|Right.|b
 A|But,|%
 B|I'll bet.|ba

@@ -6,11 +6,11 @@ A|but the, the humidity has hung around all of June.|sd
 B|Yeah.|b
 B|Are you native to this area?|qy
 A|No,|nn
-A|I grew up in Michigan,But I've been, I've been in Texas for fifteen years. *sd|sd
+A|I grew up in Michigan, But I've been, I've been in Texas for fifteen years. *sd|sd
 B|Oh, okay.|bk
 B|Uh-huh.|b
 A|So, uh, but, you know, I know the summers get hot|sd
-A|butit certainly, uh,|%
+A|but it certainly, uh,|%
 B|Uh-huh.|b
 A|this humidity has just really hung on there.|sd
 B|Yeah.|aa
@@ -21,7 +21,7 @@ B|Kind of like pushed the season back a little farther|sv
 B|and now it's kind of lingering with kind of still a bit of humidity|sv
 B|and it just tried to rain,|sd
 B|I mean, I was coming in from my car just a few minutes ago|sd
-B|and it was trying to rain whichseems strange to have it raining in July.|sd
+B|and it was trying to rain which seems strange to have it raining in July.|sd
 A|Yes.|aa
 B|Normally we don't have too much, uh, humidity or, or, uh, rainy time when it's past June.|sv
 A|Oh, that's right,|aa
@@ -37,7 +37,7 @@ B|Uh-huh.|b
 A|and it didn't rain,|sd
 A|I moved here like in late August|sd
 A|and it didn't rain from August until December|sd
-A|and,I went home and told it just doesn't rain in Texas.|sd
+A|and, I went home and told it just doesn't rain in Texas.|sd
 A|I mean it was great after growing up in Michigan and not, and you know, every day was cloudy,|sd
 A|almost every day was cloudy|sd
 A|and I, you sort of forget how much it did rain|sd
@@ -45,7 +45,7 @@ A|and coming here and then it didn't rain,|sd
 A|it was just wonderful.|sd
 B|Well, yeah,|b
 B|see I, I lived in, uh, Ohio mainly.|sd
-B|I lived in, uh, Pontiac just a little while before I camedown here|sd
+B|I lived in, uh, Pontiac just a little while before I came down here|sd
 A|Oh, yeah.|b
 B|and, you know, so many times when you were trying to schedule outdoor activities, you just never knew if it was going to be a go or not because of the weather.|sv
 B|It might rain on your little parade.|sv
@@ -57,11 +57,11 @@ A|Yeah.|b
 B|You could pretty much do whatever you wanted to do.|sv
 A|That's right.|aa
 B|What part of Michigan were you living in?|qw
-A|Oh, I grew up in Dearbornwhich is a suburb of, of Detroit.|sd
+A|Oh, I grew up in Dearborn which is a suburb of, of Detroit.|sd
 B|Okay.|bk
 B|Yeah,|b
 B|yeah.|b
-A|You probably know where that is because I know where Pontiac is,Anyway,|sv
+A|You probably know where that is because I know where Pontiac is, Anyway,|sv
 A|yeah.|%
 B|What brought you down here?|qw
 A|Oh, a teaching job.|sd
@@ -69,10 +69,10 @@ B|So you teach in Plano schools?|qy
 A|Yeah,|ny
 A|I did, I did for a while,|sd
 A|uh-huh.|ny
-A|So, I'm home with, home with two children,So,|sd
+A|So, I'm home with, home with two children, So,|sd
 B|Oh.|b
 B|Okay|bk
-A|New career.New career|sd
+A|New career. New career|sd
 B|Okay.|bk
 A|but, uh, anyway,|%
 A|so that kind of, uh,|%
@@ -109,13 +109,13 @@ A|Yeah.|sd
 B|That's enough to, uh, do some boating|sv
 A|That's right.|aa
 B|and it was lots of fun.|sd
-A|That's right.Which is,|aa
+A|That's right. Which is,|aa
 B|Um.|b
 A|well, I think it's, I think it's toward Ann Arbor,|sd
 A|so it's probably out in that direction,|sd
-A|but that's the only one I probably could nameafter all these years|sd
+A|but that's the only one I probably could name after all these years|sd
 B|Uh-huh.|b
-A|so,But, uh,|%
+A|so, But, uh,|%
 B|Yeah,|b
 B|yeah.|b
 B|But it was, yeah, just lots of little lakes|sd
@@ -129,7 +129,7 @@ B|I said I wasn't close to downtown Pontiac,|sd
 B|I was way out to the west maybe four or five miles from, from the city limits|sd
 B|and it was really nice out there.|sd
 A|Yeah.|b
-B|We had, uh, Pine Knoband stuff.you know, to go skiing|sd
+B|We had, uh, Pine Knob you know, to go skiing and stuff.|sd
 A|Oh.|b
 A|Right.|b
 A|Right.|b
@@ -146,11 +146,11 @@ A|That's right,|bk
 A|that's right.|bk
 A|I know, we used to,|%
 A|we, we didn't do a lot of it,|sd
-A|but we did.We did,|%
+A|but we did. We did,|%
 B|Yeah,|b
 B|yeah.|b
 A|so those are always fun.|sv
-A|And Alpine, was it Alpine was another ski slopeIt was nice.that we went to,|sd
+A|And Alpine, was it Alpine was another ski slope that we went to, It was nice.|sd
 B|Uh-huh.|b
 B|Uh-huh,|b
 B|uh-huh.|b
@@ -180,7 +180,7 @@ B|My first winter here,|sd
 B|I, I came down in, uh, early eighty-two|sd
 B|and there was just a freak snowfall early one morning in December couple days before Christmas.|sd
 B|It lasted only a few hours,|sd
-B|likeby noon it was gone.|sd
+B|like by noon it was gone.|sd
 A|Yeah.|b
 A|Yeah.|b
 B|And I remember getting up and somebody telling me, hey, better wait to go to work because the roads are all, you know, snow|sd
@@ -198,7 +198,7 @@ B|Course, when we get an ice storm, that's not too much fun.|sv
 A|No,|aa
 A|that's not fun either,|sv
 A|so, uh, I, I just as soon have all the slushy snow on the streets than have the ice on the streets|sv
-A|so,But, uh, well we have,|%
+A|so, But, uh, well we have,|%
 A|our house is kind of on a little hill,|sd
 A|so, uh, we get the sled out|sd
 A|and, uh, the kids go down the the hill on the sleds when it's icy,|sd

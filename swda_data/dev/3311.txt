@@ -41,7 +41,7 @@ B|Pretty hot isn't it, in the summer?|qy
 A|Yeah|ny
 A|but we keep cool just by going swimming|sd
 A|and it's fun to be with my cousins.|sd
-A|They're up there also, my grandparents andmy cousins.|sd
+A|They're up there also, my grandparents and my cousins.|sd
 B|That's good.|ba
 B|Uh-huh.|b
 A|So,|%
@@ -57,7 +57,7 @@ B|It's the longest,|%
 B|well actually I lived there,|sd
 B|so I was there longer,|sd
 B|but two weeks is the longest vacation I'll have ever taken there,|sd
-B|soI'm kind of looking forward to that one.|sd
+B|so I'm kind of looking forward to that one.|sd
 A|Wow.|ba
 A|Around Christmas time?|qy
 B|Uh, no,|nn
@@ -72,7 +72,7 @@ B|but it was rainy and icky.|sd
 A|Oh, really?|bh
 B|It was the coldest it's been there ever in January|sd
 B|I think. It's very cold.|sv
-A|So, do youtravel a lot|qy
+A|So, do you travel a lot|qy
 B|But, I would like to go to Tempe.|sd
 A|or,|%
 B|Do we travel a lot?|qy
@@ -106,20 +106,20 @@ B|It's yucky.|sd
 A|Um.|b
 B|But we've had some pretty nice weather.|sd
 B|We played tennis outdoors until last week,|sd
-B|sothat's a pretty good deal.|sv
+B|so that's a pretty good deal.|sv
 A|Um.|b
 B|So do you go to school in Provo, Utah?|qy
 A|I do.|na
 B|Do you use NuSkin skin care.|qy
-B|They're locatedin Provo.|sd
-A|I workfor NuSkin|arp_nd
+B|They're located in Provo.|sd
+A|I work for NuSkin|arp_nd
 B|Do you?|bh
 A|Yes.|ny
 B|I'm a NuSkin person.|sd
 A|Oh, really?|bh
 B|Yeah,|ny
 B|I sell NuSkin, too.|sd
-B|I,I am my only|%
+B|I, I am my only|%
 A|Oh, my goodness.|ba
 B|and best|%
 B|not only and best|%
@@ -129,7 +129,7 @@ B|Since we're not supposed to talk about this, though, is there anything more in
 A|Uh,|^h
 B|Do you know?|qy
 A|I don't,|no
-A|probably, maybe the rejuvenating cream is the onlyother thing I would use.|sd
+A|probably, maybe the rejuvenating cream is the only other thing I would use.|sd
 B|I have that, too.|sd
 B|I'm forty-two,|sd
 B|I need something,|sd
@@ -175,10 +175,10 @@ B|Ski,|%
 B|you probably ski very well in Utah.|qy^d
 A|No,|nn
 A|I don't|sd
-A|Actually since I grew up in Texas I've only been here about two years andhave gone skiing about three times. well, five times each season.|sd
+A|Actually since I grew up in Texas I've only been here about two years and have gone skiing about three times. well, five times each season.|sd
 B|Uh.|b
 B|Why did you move to Utah?|qw
-B|You're going, oh, you are going to school?At B Y U,|qy
+B|You're going, oh, you are going to school? At B Y U,|qy
 A|Yeah,|ny
 A|I,|%
 B|is that where B Y U is?|qy
@@ -197,8 +197,8 @@ A|And it's, it's kind of nice being up here just because it's all like a vacatio
 B|Sure.|b
 A|If you like that kind of thing|sd
 B|Sure,|b
-B|so you're a sophomore.Or junior?|qy
-A|I am actuallyBeginning of my junior year.a junior.|sd
+B|so you're a sophomore. Or junior?|qy
+A|I am actually a junior. Beginning of my junior year.|sd
 B|You're a junior.|b
 B|Good for you.|ba
 A|So,|%
@@ -207,7 +207,7 @@ A|Nursing.|sd
 B|Good for you.|ba
 B|You sound like a girl that has it together.|sv
 B|I would just encourage you to do a little traveling, though, before you get married.|ad
-B|Because when youget married, you won't have the money or the time.|sv
+B|Because when you get married, you won't have the money or the time.|sv
 A|You think,|b
 A|I know.|aa
 B|So just, you know,|%

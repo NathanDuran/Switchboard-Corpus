@@ -7,7 +7,7 @@ A|Uh, the guy called me,|sd
 A|when she called me, the computer called me, I thought that they were reading my mind.|sd
 A|I'm in the middle of, um, going out for bids to have my house painted.|sd
 B|Oh.|b
-A|Uh, painting is not hard to do, uh,as long as it's not in, not to the point of where it 's, uh, needs to be scraped and peeling,|sd
+A|Uh, painting is not hard to do, uh, as long as it's not in, not to the point of where it 's, uh, needs to be scraped and peeling,|sd
 B|No.|aa
 B|Right.|b
 A|and our house is not|sd
@@ -18,8 +18,8 @@ B|Yeah,|aa
 B|uh, I know.|aa
 B|is easy to find uh, painters to do this for you?|qy
 A|It's easier to find painters,|no
-A|but you have to be, you have to be aware of what, uh, how messy they can get and are they going to put on a good, a good two coats, and are they,going to caulk,|sd
-B|are you talking,outside or inside?|qy
+A|but you have to be, you have to be aware of what, uh, how messy they can get and are they going to put on a good, a good two coats, and are they, going to caulk,|sd
+B|are you talking, outside or inside?|qy
 A|Exterior.|sd
 B|Exterior,|b^m
 B|yeah.|b
@@ -28,12 +28,12 @@ A|Uh, interior's not so bad because it's more fun,|sv
 A|it's more,|%
 A|but yeah,|%
 B|Yeah.|b
-A|outside you have high peeks,and those kind of things,|sd
+A|outside you have high peeks, and those kind of things,|sd
 B|Yeah.|b
 A|it can be a real issue.|sv
 B|Well, when we've painted, um,|sd
 B|right now our house doesn't have to have the same kind of exterior painting there,|sd
-B|it's more trim because it has some of the old asbestos shingles,on the back and there's some sort of stone or something in the front|sd
+B|it's more trim because it has some of the old asbestos shingles, on the back and there's some sort of stone or something in the front|sd
 A|Uh-huh.|b
 B|so there isn't as much wood that has to be painted.|sd
 B|Um, but, it,|%
@@ -51,11 +51,11 @@ A|so they put up, uh, a quarter inch Masonite, basically,|sd
 A|and they painted it kind of like a spun of a sorts|sd
 A|so it's real cheap.|sd
 A|And, uh, uh, I've had thirteen hundred dollar bid and I, as low as five hundred and forty dollars|sd
-A|so it's,just a matter of,|%
-B|Wow.that's quite a range.|ba
+A|so it's, just a matter of,|%
+B|Wow. that's quite a range.|ba
 A|it's,|%
 A|Oh, there one guy brags about his piece of equipment he's using and the drop cloths and all that kind crap|sd
-A|and I'm so much worried about that as what,I don't want it all over the brick and windows|sd
+A|and I'm so much worried about that as what, I don't want it all over the brick and windows|sd
 B|Yeah.|b
 A|and,|%
 B|Yeah,|aa
@@ -95,7 +95,7 @@ B|But they had not,|sd
 B|either they had painted with the wrong kind of paint over top|sd
 B|or they hadn't really roughed it up or whatever they,|sd
 B|because it was woodwork|sd
-B|so it looked as if it had been painted,correctly with, you know, uh, an enamel or something,|sd
+B|so it looked as if it had been painted, correctly with, you know, uh, an enamel or something,|sd
 A|Uh-huh.|b
 B|but, um, it had not,|sd
 B|either that or it had not been prepared underneath|sd
@@ -105,7 +105,7 @@ B|it comes off in strips, I mean not even little bit.|sd
 B|So we still have some of that trim work to do because we put it off all this time,|sd
 A|Oh, no.|ba
 B|we know what a job it's going to be|sd
-B|because you almost have to strip the whole thing,in order to do it again.|sd
+B|because you almost have to strip the whole thing, in order to do it again.|sd
 A|Um.|b
 A|I wish you good luck.|fc
 B|Okay|fc

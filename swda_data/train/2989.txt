@@ -7,7 +7,7 @@ A|Yeah.|b
 B|one is two and a half|sd
 B|and one's nine months,|sd
 B|and, uh, that age, of course, everything you do they're trying to learn to do,|sv
-B|and so, uh, it's important for you to spend time doing the things that you want them to learn, you know, that, that they need to learn at the age, you knowreading, and, uh, reading and playing nice with others, and that sort of thing.|sv
+B|and so, uh, it's important for you to spend time doing the things that you want them to learn, you know, that, that they need to learn at the age, you know reading, and, uh, reading and playing nice with others, and that sort of thing.|sv
 A|Yeah.|b
 A|Yeah,|b
 A|we went through this with our children, and now with our grandchildren,|sd
@@ -32,13 +32,13 @@ A|So, uh, that's the type,|%
 B|Yeah,|aa
 B|it certainly does, because, uh, you know, the things in the books seem so dead to the kids, you know, unless they've actually been there or whatever,|sv
 B|because I remember our family, well, we, we, we went everywhere.|sd
-B|And, uh, seeing New England and, uh, being on Plymouth Rock and stuff like that wasreally made the whole thing more, uh, visual.|sd
+B|And, uh, seeing New England and, uh, being on Plymouth Rock and stuff like that was really made the whole thing more, uh, visual.|sd
 A|Yeah.|b
 A|Yes.|b
-B|And we could, uh, read the things in the history books and understand what they said, when it was like, we need food, we need to raise food quicklybecause this place gets very cold very soon.|sd
+B|And we could, uh, read the things in the history books and understand what they said, when it was like, we need food, we need to raise food quickly because this place gets very cold very soon.|sd
 A|Yeah.|b
 A|Yeah,|b
-A|we've, uh,gone through that, uh,|sd
+A|we've, uh, gone through that, uh,|sd
 A|I remember my parents didn't do all those type things,|sd
 A|and so I made a special effort with my children to do things like that.|sd
 A|And even now with my grandchildren, I feel it's a very important thing to be done.|sd
@@ -71,7 +71,7 @@ A|This is a very interesting program I, I heard about here on this,|sd
 A|and when I signed up for it, it, uh, looked like it could be, make a real contribution in participating.|sd
 B|Right.|aa
 B|Yeah,|aa
-B|I'm an electrical engineer by tradeuh, here in Virginia.|sd
+B|I'm an electrical engineer by trade uh, here in Virginia.|sd
 A|Yeah.|b
 B|Likewise, we, uh, we do some projects every now and then.|sd
 B|We like to get support from, uh, other, other companies as well.|sd
@@ -79,7 +79,7 @@ A|Yeah.|b
 A|I'm an accountant presently working as a contractor liquidating a failed savings and loan|sd
 A|So, Trying to work myself out of a job|sd
 A|But, it's been an interesting, uh, roughly, oh, nine months here,|sd
-A|and, uhagain, this is our home area.|sd
+A|and, uh again, this is our home area.|sd
 B|Oh.|b
 A|We've lived here about seventeen years,|sd
 A|and it's, uh,|%

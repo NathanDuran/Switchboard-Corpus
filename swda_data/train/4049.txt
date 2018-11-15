@@ -29,7 +29,7 @@ A|or,|%
 B|Uh, yeah,|ny
 B|I have been.|sd
 A|Yeah.|b
-B| I. I mean, I was very offended by, by the whole process.|sd
+B| I.  I mean, I was very offended by, by the whole process.|sd
 A| I  once too,|sd
 A|so.|%
 A|Yeah.|b
@@ -39,9 +39,9 @@ B|but I, uh, I am totally against that sort of a, uh,|sv
 B|I mean it's, it's a pretty personal thing when somebody says I want to look at your urine before I'm going to talk to you.|sv
 A|Yeah.|b
 A|I had it during a job interview,|sd
-A|and I just thought it was dumb of the company, at a point where they were trying to convince me to, to want to work for themto do this,|sv
+A|and I just thought it was dumb of the company, at a point where they were trying to convince me to, to want to work for them to do this,|sv
 B|Right.|b
-A|and I'm just like, well, uh, I'm not even going to think much about ityou've gotten to know me.if you're going to treat me with this much respect even before|sd
+A|and I'm just like, well, uh, I'm not even going to think much about it if you're going to treat me with this much respect even before you've gotten to know me.|sd
 B|Yeah.|b
 B|Right.|b
 B|Right.|b
@@ -54,13 +54,13 @@ B|I just,|%
 B|and I know people who have been drug tested and who have not, you know, been hired by a corporation which, uh, you know,|sd
 B|I really.|%
 B|The other side of it is, is, besides its being an invasion of personal privacy, as in my, it's my bodily fluid|sv
-B|and I don't really want you to look at it, oror something pretty basic like that,|sd
+B|and I don't really want you to look at it, or or something pretty basic like that,|sd
 A|Uh-huh.|b
 B|just to the fact that I don't know that it is a company's business to regulate what its employees are doing when they're not at work.|sv
 B|I mean, during the eight hours, during the day, when they're supposed to be there, I think they have every right to say this is, these behaviors are acceptable and these are not,|sv
 B|but when it enters into what they're doing when they're not at work, I find that to be fairly offensive also.|sv
 A|Yeah,|b
-A|well like you say, I mean, if it's not a critical kind of job where someone could get hurt, then really what people ought to be doing, I mean, the, the employer ought to be judging you on how well you do your workrather than on these other factors.|sv
+A|well like you say, I mean, if it's not a critical kind of job where someone could get hurt, then really what people ought to be doing, I mean, the, the employer ought to be judging you on how well you do your work rather than on these other factors.|sv
 B|Right.|b
 B|Right.|b
 A|And, I mean, if you are doing drugs and it's causing a problem, then they'll notice it for other reasons.|sv
@@ -75,7 +75,7 @@ B|Well, you know, I, I can see how they can say in the work place we, you don't 
 B|but when somebody leaves work, I don't think that it's the employer's right to regulate their life style at all.|sv
 A|Well, do you think it's, should be illegal for an employer to do this|qy
 A|or,|%
-B|Uh, I really think it should be, except as I've mentioned twice now, in the specified industriesor, or jobs, because there are certain things where it's just vital that a person is clear minded at all times.|na
+B|Uh, I really think it should be, except as I've mentioned twice now, in the specified industries or, or jobs, because there are certain things where it's just vital that a person is clear minded at all times.|na
 A|Yeah.|b
 B|And other than that I think, I do not think it should be allowable.|sv
 B|I think it should be illegal for them to, to want to do that.|sv

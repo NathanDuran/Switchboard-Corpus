@@ -11,7 +11,7 @@ A|Yeah,|aa
 A|I think, uh,|sv
 B|Crimes against children is one of them.|sd
 A|Oh, definitely.|aa
-A|Any, any crimes against person,and being sent to prison and being released in, uh, two or three years.uh, I feel, uh, there should be more than a slap on the hand,|sv
+A|Any, any crimes against person, uh, I feel, uh, there should be more than a slap on the hand, and being sent to prison and being released in, uh, two or three years.|sv
 B|Yeah.|b
 B|Uh-huh.|b
 B|Actually, I would like to see the system revert a lot back to some of the forms of punishment that exist in Middle Eastern countries.|sd
@@ -22,19 +22,19 @@ B|You know, uh, if you kill, you lose your life.|sv
 B|What's wrong with that?|qw
 A|I don't see a thing wrong with that.|sd
 B|Yeah.|b
-A|I believe that, uh,Well, it's just an, an example.|sd
+A|I believe that, uh, Well, it's just an, an example.|sd
 B|Uh,|%
-A|I think there's, uh, someone that's on trial right nowhere in the Dallas area,|sd
+A|I think there's, uh, someone that's on trial right now here in the Dallas area,|sd
 B|Uh-huh.|b
 A|and they were interviewing the, the,|sd
-A|a young lady was killed sometime back,a young girl.|sd
+A|a young lady was killed sometime back, a young girl.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|Well, how do you feel about this?|^q
 B|Uh-huh.|b
 A|And, you know|sv
 B|Uh-huh.|b
-A|and they want the person punished and punished,properly.|sv
+A|and they want the person punished and punished, properly.|sv
 B|Uh-huh.|b
 B|Uh-huh|b
 B|Deciding what that proper punishment is, is one thing.|sv
@@ -43,8 +43,8 @@ A|Yes.|aa
 B|Innocent people could do that,|sv
 B|but for every innocent person who would be executed, hopefully there would be ten guilty.|sv
 A|Yeah.|b
-A|Well,to keep someone in prison.a yearat like thirty thousand dollars,I feel like the, the cost of someone who's quoting figures made the cost,|sd
-B|Uh,Uh-huh.|b
+A|Well, I feel like the, the cost of someone who's quoting figures made the cost, at like thirty thousand dollars, a year to keep someone in prison.|sd
+B|Uh, Uh-huh.|b
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|To maintain a prison|bf
@@ -52,28 +52,28 @@ B|that's right.|aa
 B|That's stupid.|sv
 A|And, well, the problem there is they're not keeping the right ones in prison in many cases.|sv
 B|Uh-huh.|b
-A|There are more,and more instances being on the news,|sd
+A|There are more, and more instances being on the news,|sd
 B|Sure.|b
 B|Uh-huh.|b
-A|or this individual was out on the streets,seriously injured someone.Or,on probation or parole and killed someone else.|sd
+A|or this individual was out on the streets, on probation or parole and killed someone else. Or, seriously injured someone.|sd
 B|Uh-huh.|b
 B|Sure.|b
 B|Sure.|b
 B|Well, I don't have solutions to the problems,|sd
 B|but you know you have these,|sd
 B|this would be nice if|sv
-B|and there's probably thousands of holes in that theory,blinded her.|sv
+B|and there's probably thousands of holes in that theory, blinded her.|sv
 A|Yeah.|b
 B|I think then that a life sentence to restitution is appropriate.|sv
 A|Yes.|aa
-B|I think he should spend the rest of his life working to support that individualUh, who has been harmed you, you, you know.or the family of an individual.|sv
+B|I think he should spend the rest of his life working to support that individual or the family of an individual. Uh, who has been harmed you, you, you know.|sv
 A|Yes,|aa
 A|indeed.|aa
 A|Yeah.|b
-B|People who kill policemen.And I|sd
+B|People who kill policemen. And I|sd
 A|Yeah.|b
 A|No.|aa
-A|Here again, anytime anyone goes out with a gun in their hand and crime on their minduh, the opportunity exists for someone to get killed.|sv
+A|Here again, anytime anyone goes out with a gun in their hand and crime on their mind uh, the opportunity exists for someone to get killed.|sv
 B|Uh-huh.|b
 B|That's right.|aa
 A|Now I'm not in favor of gun control to the degree or anything because, uh, there are uses for guns which are noncriminal|sd
@@ -81,8 +81,8 @@ B|Uh-huh.|b
 A|but it seems that the criminal element are the ones that are using them. Uh, aside from domestic disputes, husbands shooting wives or vice versa.|sv
 B|Uh-huh.|b
 A|But these individuals, if they have a gun with them, I think that the, the sentence should be even longer than if they don't.|sv
-B|I don't, I don't agree with the length,of the sentence though.|ar
-A|Well,is that their appeals can take years and years.part of these costs like the people on Death RowWell, but here again, uh, if a matter of expediency,|sd
+B|I don't, I don't agree with the length, of the sentence though.|ar
+A|Well, Well, but here again, uh, if a matter of expediency, part of these costs like the people on Death Row is that their appeals can take years and years.|sd
 B|I think expediency is the answer.|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
@@ -92,20 +92,20 @@ A|I know there's a law, I believe, that it's automatic appeal if it's a death se
 B|Uh-huh.|b
 A|Well, I think that automatic appeal ought to take place, uh, within a reasonable length of time, say six months.|sv
 B|Uh-huh.|b
-A|And a decision be made and not drag out in the courts for years,there might be.because of misplaced commas or whatever technicalities,|sv
+A|And a decision be made and not drag out in the courts for years, because of misplaced commas or whatever technicalities, there might be.|sv
 B|Uh-huh.|b
 B|That's right,|aa
 B|technical,|b^m
 B|I think that there should be a statute of limitations on appeals.|sv
 A|Right,|aa
-A|there's got to be a,there's got to be a time limit.|sv
+A|there's got to be a, there's got to be a time limit.|sv
 B|you can appeal it once.|sv
-B|I think if it is appealed one time and the appeal is turned down or the sentence stands, then you might be allowed one more appeal if it is, if, if it is,contradictory.|sv
-A|A, a legit,if, and they're not arguing that the guy or woman committed the crime.of, uh,not a technicality,legitimate appeal,|^2
+B|I think if it is appealed one time and the appeal is turned down or the sentence stands, then you might be allowed one more appeal if it is, if, if it is, contradictory.|sv
+A|A, a legit, legitimate appeal, not a technicality, of, uh, if, and they're not arguing that the guy or woman committed the crime.|^2
 B|Yeah.|b
 B|That's right.|aa
 B|Uh-huh.|b
-A|They're arguing over, well, were his civil rights violated because, uhsomeone didn't file the proper paper at the proper time.|sd
+A|They're arguing over, well, were his civil rights violated because, uh someone didn't file the proper paper at the proper time.|sd
 B|Uh-huh.|b
 B|Uh-huh,|b
 B|uh-huh.|b
@@ -116,8 +116,8 @@ A|Yeah.|b
 B|I mean, uh, you know the guy is guilty.|sv
 B|You know he's done what he's done.|sv
 B|You, you may have stood there and seen it.|sv
-B|But because he wasn't read his rights whenever he was arrested, you know,he, he goes free.|sv
-A|He didn't see his,some Mickey Mouse type thing like that.or some,lawyer as quickly as he should have,|bf
+B|But because he wasn't read his rights whenever he was arrested, you know, he, he goes free.|sv
+A|He didn't see his, lawyer as quickly as he should have, or some, some Mickey Mouse type thing like that.|bf
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Yeah.|b
@@ -135,7 +135,7 @@ A|I,|%
 A|I'm an accountant|sd
 A|and I agree.|aa
 B|Yeah.|b
-A|We practice law ourselves because it's too expensive to hire lawyers,to a degree.|sd
+A|We practice law ourselves because it's too expensive to hire lawyers, to a degree.|sd
 B|Absolutely.|aa
 B|That's why you check books out from the library.|sv
 A|There you go.|aa
@@ -144,7 +144,7 @@ B|but it's not perfect,|sv
 B|and that doesn't mean that you leave it in tact. *in tact intact|sv
 A|Well, it's, it's a case that we have a, a legal system which the criminals have found a way to use and a way to benefit them rather than the public itself.|sv
 B|That's right.|aa
-A|Sosort of a catch twenty-two.that's how we get caught in this, uh|sv
+A|So that's how we get caught in this, uh sort of a catch twenty-two.|sv
 B|That's right.|aa
 B|Uh-huh.|b
 B|That's right.|aa
@@ -154,9 +154,9 @@ B|And, and, it,|%
 B|I don't know there just seems to be so many clever ways to avoid the real intent of the law by following the letter.|sv
 A|Yeah.|b
 B|And that just,|%
-B|that really does ruffle my feathers,at times.|sd
-A|Yesmost people.It does,|aa
-B|I mean I can just get so,aggravated about it.|sd
+B|that really does ruffle my feathers, at times.|sd
+A|Yes It does, most people.|aa
+B|I mean I can just get so, aggravated about it.|sd
 B|But, you know, it's, it's going to take smarter people than me to solve the problem|sv
-B|And I hope,not lawyers|sv
-A|Again one of ourone of our problems is that, uh, our legislature and the state and our national congress, the majority of the members thereof are lawyers.|sv
+B|And I hope, not lawyers|sv
+A|Again one of our one of our problems is that, uh, our legislature and the state and our national congress, the majority of the members thereof are lawyers.|sv

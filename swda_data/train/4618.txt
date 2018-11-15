@@ -23,7 +23,7 @@ A|Right,|aa
 A|right.|aa
 A|See I know of that too.|sd
 A|And I also know that things like antihistamines, Sudafeds, things like that, can really throw it off.|sd
-A|And you cannot get a job because of itUh-huh.|sd
+A|And you cannot get a job because of it Uh-huh.|sd
 B|Yeah,|b
 B|I, I had a friend,|sd
 B|it didn't cause her any problems with her job|sd
@@ -53,18 +53,18 @@ A|and I think that a person deserves a second chance with it or something becaus
 B|Yeah.|b
 A|And if you could show that,|sv
 A|I, I interviewed for a job recently|sd
-A|and I was taking Entex.And my doctor gave me a prescription for it.|sd
+A|and I was taking Entex. And my doctor gave me a prescription for it.|sd
 B|Uh-huh.|b
 A|And he said this way if it were to make the drug test positive, you have proof that your doctor ordered this for you, you know.|sd
 A|And it didn't come up that I needed to do it|sd
 A|but this could happen to anybody|sv
-A|and if they would just say oh, this person's drug test is positive we won't hire themyou know. Then you could lose out on a job when really you didn't do anything.|sv
+A|and if they would just say oh, this person's drug test is positive we won't hire them you know. Then you could lose out on a job when really you didn't do anything.|sv
 B|Yeah.|b
 B|Yeah.|b
 A| So I don't know. |h
-B| And I, I'm not  so sure they are that needed.*b|sv
+B| And I, I'm not  so sure they are that needed. *b|sv
 A|Yeah,|aa
-A| I'm not sure either.|sd
+A| I'm not  sure either.|sd
 A|The only way I can see it is that if they really suspect a person of using it, then they have the right to go ahead and prove it|sv
 A|because they say they can spot check.|sd
 B|if you're using it while at a job, I can see a problem.|sv
@@ -78,7 +78,7 @@ A|You know, as a health professional, I wouldn't want somebody to take care of m
 B|Yeah.|b
 A|You know, so as a patient, I feel well, yeah, we probably should be protected.|sv
 A|But, on the other hand, there's a lot of things I should be protected from that they don't test my patients for too.|sv
-A|Soyou know, I guess you sort of, you have to have trust some place along the way.|sv
+A|So you know, I guess you sort of, you have to have trust some place along the way.|sv
 B|Yeah.|b
 A|You can't go around testing everybody for everything.|sv
 B|Yeah|b
@@ -89,17 +89,17 @@ A|You know, they could keep on doing this to you or something, I guess.|sv
 A|I can see where it could become a problem.|sv
 B|And it, it's like, it seems like now they have tests|sv
 B|I guess they can test your hair|sd
-B|and they can find out if you use drugsup to several years ago.|sd
-A|Really.maybe you shouldn't be held responsible for something you did several years ago. *sv|b
+B|and they can find out if you use drugs up to several years ago.|sd
+A|Really. maybe you shouldn't be held responsible for something you did several years ago. *sv|b
 B| So, |%
 B|I know.|aa
 A|That's the other thing.|fo_o_fw_"_by_bc
 A|I mean a lot of, a lot of people as kids or, you know, young people get into some things that they get out of later on|sd
 A|and I don't think they should really have to pay for that forever.|sv
 B|Yeah.|aa
-B|There's a lot of things you do as a kid  that you wouldn't do as an adult|sd
+B|There's a lot of things you do as a kid  that  you wouldn't do as an adult|sd
 A| Yeah. |b
-B|but you can't say it was  wrong at the time.|sv
+B|but  you can't say it was  wrong at the time.|sv
 A| I think that's true. |aa
 A|Yeah,|aa
 A|yeah.|aa

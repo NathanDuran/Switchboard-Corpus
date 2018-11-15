@@ -34,7 +34,7 @@ B|Oh no,|ba
 B|I understand,|ba
 B|we, uh, we've gone through the same things with ours,|sd
 B|we've had, you know, they've been ill,|sd
-B|I mean I take off work,to take care of my cats, you know,|sd
+B|I mean I take off work, to take care of my cats, you know,|sd
 A|Oh yeah.|b
 B|my boss thinks I'm absolutely crazy.|sd
 B|And then we had a baby|sd
@@ -131,7 +131,7 @@ B|Right,|aa
 B|well I didn't realize my husband was such a sucker for animals until I brought one home one night.|sd
 B|We, I had one that had, we had, we had to put to sleep he got so sick.|sd
 A|Uh-huh.|b
-B|And, uh, well I fell in love with this, uh, it's a Chinchilla Persian,and, uh, brought him home,|sd
+B|And, uh, well I fell in love with this, uh, it's a Chinchilla Persian, and, uh, brought him home,|sd
 A|Ugh!|ba
 B|and oh, my husband just died.|sd
 A|Really.|b
@@ -194,7 +194,7 @@ B|Oh it just drives us nuts.|sd
 A|Oh, I just love cats.|sd
 A|I like dogs,|sd
 A|they're okay,|sv
-A|I had,I had a dog when I lived at home|sd
+A|I had, I had a dog when I lived at home|sd
 B|Um, yeah.|b
 A|but they're a lot more trouble than cats actually.|sv
 B|They really are.|aa
@@ -310,7 +310,7 @@ B|You can't be pregnant and have cats.|^q
 B|I'm like, uh, no, no, no.|sd
 A|Watch me.|^q
 B|Right,|aa
-B|the child will learn to like cats.and deal with them,|^q
+B|the child will learn to like cats. and deal with them,|^q
 A|Definitely.|aa
 B|I'm sorry,|^q
 B|we are not getting rid of the cats.|^q

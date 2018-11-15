@@ -32,7 +32,7 @@ A|and one of them broadcast every Twins game live, you know,|sd
 A|and, and the other one was country.|sd
 B|So you didn't really have a lot of choice, did you.|qy
 A|So, that's right.|na
-A|There's was Twins there, or, you knowSkip Williams.|sd
+A|There's was Twins there, or, you know Skip Williams.|sd
 B|Or country.|^2
 B|Yeah.|b
 B|Oh, uh, and I was routing for the Twins myself because, uh, they, a couple of Ranger players that I had watched when we first moved here, uh, went to Minnesota,|sd
@@ -42,10 +42,10 @@ B|but it was it certainly was an exciting Series, anyway.|sv
 A|It sure was,|aa
 A|it sure was.|aa
 B|What do you think going to happen to the Rangers?|qo
-A|Well, II would like to assume that they're going to do, do better this coming year,|sd
+A|Well, I I would like to assume that they're going to do, do better this coming year,|sd
 B|Or can we predict?|qrr
 A|I was sure hopeful anyway.|sd
-A|When we moved down, uh, I was able to go to my first, you know baseball game, andthought, this is great, this is incredible.|sd
+A|When we moved down, uh, I was able to go to my first, you know baseball game, and thought, this is great, this is incredible.|sd
 B|Uh-huh.|b
 A|So I became a Rangers fan.|sd
 A|I didn't really have one in South Dakota.|sd
@@ -56,7 +56,7 @@ A|and, uh, it was just exciting, you know,|sd
 A|you can watch baseball on T V|sd
 A|and they hit the long ball,|sd
 A|and it looks like wow, they really hit that ball.|sd
-A|But when you go to the ball park, it's really not all that faryou know,|sv
+A|But when you go to the ball park, it's really not all that far you know,|sv
 B|No.|aa
 A|and it's so much more exciting watching a ball come at you,|sv
 A|and.|%
@@ -71,23 +71,23 @@ B|in fact, on the news tonight, Nolan Ryan was on there.|sd
 B|He was being, he was put in the, which I never knew existed, the Restaurant Hall of Fame|sd
 A|The Restaurant|b^m
 B|The Restaurant Hall of Fame inducted him tonight,|sd
-B|andhe, uh, says he's coming back, you know, uh,|sd
+B|and he, uh, says he's coming back, you know, uh,|sd
 A|Huh.|b
-B|he doesn't know how many yearsI mean, to pitch.|sd
+B|he doesn't know how many years I mean, to pitch.|sd
 A|Right.|b
 B|He'll be at least one more,|sd
 B|and he said he's been saying one more, and it's been two and three, might be two and three more.|sd
 B|He likes it.|sd
 A|That's right|ba
 B|Yeah.|b
-A|and he's still doing greatstill doing excellent.|sv
+A|and he's still doing great still doing excellent.|sv
 B|That's right.|ba
 B|You know, and he said, I get a kick out of it, you know,|sd
 B|he's, he's such a nice man.|sv
 A|Well, didn't he just sign a twelve year contract with the Rangers?|qy
 B|Yeah,|ny
 B|and he,|%
-B|you know when he quits at being active, he will go into, you knowbeing a, managing and, yeah, you know, being a coach, I'm sure.|sd
+B|you know when he quits at being active, he will go into, you know being a, managing and, yeah, you know, being a coach, I'm sure.|sd
 A|Management.|^2
 A|Right.|b
 B|But, he's, uh, he certainly is a good example, uh, for the kids.|sv
@@ -96,7 +96,7 @@ B|You know, you like to have someone like that you could point to say, see what 
 A|You know, some of the,|%
 A|like, uh, Ivan Rodriguez wasn't even born when, when, uh, Nolan Ryan started pitching.|sd
 B|That's right.|ba
-A|And it's just incredible to think that there's, uh, there are players who are the sons of ball players that used to play against Nolanor with Nolan, you know,|sv
+A|And it's just incredible to think that there's, uh, there are players who are the sons of ball players that used to play against Nolan or with Nolan, you know,|sv
 B|Uh-huh.|b
 A|and now their sons are.|sd
 B|Oh, he's been a legend for so many years, you know,|sd
@@ -109,7 +109,7 @@ A|I wasn't.|sd
 B|Yeah,|b
 B|it was a,|%
 B|I think it was a little early part of the summer,|sd
-B|and uh,Nolan against.|sd
+B|and uh, Nolan against.|sd
 A|Was it Nolan against, uh|qy
 A|Ryan against Ryan, huh.|qy
 B|Ryan against Ryan,|na
@@ -119,7 +119,7 @@ A|Well that is neat.|ba
 B|and, uh, only, uh, Ryan didn't want too much publicity on it because he didn't want his son getting too nervous about this whole thing.|sd
 A|Uh-huh.|b
 B|A game is a game, you know.|sv
-B|Well, the Rangers really, uh, knocked the socks off of them, which you would expectyou know, anyway,|sv
+B|Well, the Rangers really, uh, knocked the socks off of them, which you would expect you know, anyway,|sv
 A|Right.|b
 B|but Nolan I think took himself out after a couple of innings or something, you know, of the game|sd
 B|so,|%

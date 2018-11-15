@@ -15,10 +15,10 @@ B|Uh-huh.|b
 A|Okay,|b
 A|we're supposed to talk about lawn and garden.|sd
 B|Yes,|aa
-B|I'm, I'm supposed to find out what you do for your lawnand garden.|sd
+B|I'm, I'm supposed to find out what you do for your lawn and garden.|sd
 A|What do I do?|qy
 B|Uh-huh.|ny
-A|Well, I, uh, I cut itoccasionally.|sd
+A|Well, I, uh, I cut it occasionally.|sd
 B|Good.|b
 B|Uh-huh,|b
 B|you're ahead of me.|sd
@@ -30,16 +30,16 @@ B|Oh, that's really good.|ba
 A|Yeah,|b
 A|see, am I good, or what?|qh
 B|Yeah.|b
-A|And, uh,Uh, much beyond that I don't do|sd
+A|And, uh, Uh, much beyond that I don't do|sd
 B|I don't do any of that.|sd
 B|Really,|b
-B|well, I call my lawn man, Eric, whatever his name is, I can't remember.Who's going to come and build me a fence, too.|sd
+B|well, I call my lawn man, Eric, whatever his name is, I can't remember. Who's going to come and build me a fence, too.|sd
 A|Uh-huh.|b
 A|Oh, he is going to build you a fence.|qy^d
 B|Well, he's giving me an estimate.|no
 A|Uh-huh.|b
-B|And for ten dollars a week, I don't see any reasonbe doing it.for me to|sv
-A|What, fora fence?|br
+B|And for ten dollars a week, I don't see any reason for me to be doing it.|sv
+A|What, for a fence?|br
 A|Oh, well, I thought, isn't he the same one?|qy
 B|he is.|sd
 A|Yeah.|b
@@ -59,7 +59,7 @@ B|Well, he won't pull weeds.|sd
 B|He says he'll spray them,|sd
 B|but he won't pull them.|sd
 A|Oh.|b
-B|Uh, he won't cut them is what he won't do.over the rocksthat it's too dangerous for him to take the, the trimmerBecause he said with the rocks|sd
+B|Uh, he won't cut them is what he won't do. Because he said with the rocks that it's too dangerous for him to take the, the trimmer over the rocks|sd
 A|Uh-huh.|b
 A|Yeah.|b
 A|Uh-huh.|b
@@ -69,9 +69,9 @@ B|That's true.|sv
 B|But he just says to keep spraying them so,|sd
 A|Well so,|%
 B|Anyway, Gene sprayed them once or twice for me|sd
-B|sothat was real,|sv
+B|so that was real,|sv
 A|Yeah,|b
-A|soyou haven't, you haven't pulled any weeds lately?|qy^d
+A|so you haven't, you haven't pulled any weeds lately?|qy^d
 B|No.|nn
 B|No.|nn
 B|There are two out front|sd
@@ -85,8 +85,8 @@ B|and there was dog dirt in it|sd
 A|Oh, oh, goody.|ba
 B|and I threw the gloves in the trash bag that was out there|sd
 B|and I left the whole thing|sd
-B|and that was about a month ago. |sd
-A| I thought you were going to say there I thought you were going to say there was a snake in the weeds|sd
+B|and  that was about a month ago. |sd
+A| I thought you were going to say there  I thought you were going to say there was a snake in the weeds|sd
 B|I would rather a snake,|sd
 B|no|ar
 A|Oh, God, oh|ba
@@ -115,7 +115,7 @@ B|They looked real pretty until about a week before Christmas,|sv
 B|then they started to die, too.|sd
 A|Oh.|b
 B|So, I don't think any of it comes back|sv
-B|butI don't know,|h
+B|but I don't know,|h
 A|Yeah.|b
 B|maybe these,|sv
 B|sometimes things do that aren't even supposed to.|sd
@@ -130,7 +130,7 @@ A|Yeah.|ny
 B|Well, that's good.|ba
 B|They're the best kind.|sv
 A|Yeah|b
-A|they,They're really pretty.|sv
+A|they, They're really pretty.|sv
 B|They, they're like indestructible.|sv
 B|They really grow nice|sv
 B|and sometimes, they're not supposed to come back,|sd
@@ -139,22 +139,22 @@ A|Uh-huh.|b
 B|So,|%
 A|Yeah|b
 B|We'll see.|sv
-B|They're letting us have a lot of time on thisaren't they?|qy
+B|They're letting us have a lot of time on this aren't they?|qy
 A|Yeah,|ny
-A|I meanisn't it supposed to be five minutes?|qy
+A|I mean isn't it supposed to be five minutes?|qy
 B|But that's because we didn't hit one for a long time.|sd
 A|We didn't disconnect, did we|qy
 B|I hope not|sv
-B|Neither one of usis getting paid for this.|sv
-A|Boy, I hate to thinkI hate to think I'd be talking to you without getting paid|sd
+B|Neither one of us is getting paid for this.|sv
+A|Boy, I hate to think I hate to think I'd be talking to you without getting paid|sd
 B|Yeah,|b
 B|really,|ba
 B|I know it.|sd
 B|I can't believe this.|sd
-B|I got somebody fromand somebody,Utah|sd
+B|I got somebody from Utah and somebody,|sd
 A|What?|br
 A|Uh-huh.|b
-B|where was the person last nightwas from far away.|sd
+B|where was the person last night was from far away.|sd
 A|You're kidding?|ba
 A|Really?|bh
 B|And we get each other down the street.|sd
@@ -164,7 +164,7 @@ A|I, I talked to someone woman from Oklahoma City and some woman from Dallas|sd
 A|and that was it.|sd
 B|Yeah,|b
 B|I've had Dallas, Arlington.|sd
-B|I've had, uh, one PlanoAnd then, uh, another state, son  lives in Plano on Ranier someplace.and then a lady from Brigham, Utah whose|sd
+B|I've had, uh, one Plano and then a lady from Brigham, Utah whose  son  lives in Plano on Ranier someplace. And then, uh, another state,|sd
 A|Uh-huh.|b
 A| Wow. |ba
 A|Really?|bh
@@ -173,7 +173,7 @@ B|but she told me about the Utah Jazz,|sd
 B|we talked about basketball.|sd
 A|Oh, really|bh
 B|And I don't remember what, what the place was last night,|sd
-B|butI'm thinking Colorado,|sd
+B|but I'm thinking Colorado,|sd
 A|Yeah.|b
 B|but I'm not sure|sd
 B|I'd know the place, anyway.|sd
@@ -185,9 +185,9 @@ A|Yeah.|b
 B|It,|%
 A|Well, there isn't really much to talk about as far as lawn and garden goes.|sv
 B|Not for me.|aa
-A|Not for meeither.|sd
-B|You know, notbecause all I have is rocks and weeds.not for me|sd
-A|Whatdo I,|qw
+A|Not for me either.|sd
+B|You know, not not for me because all I have is rocks and weeds.|sd
+A|What do I,|qw
 A|Yeah,|b
 A|but I don't, you know,|sd
 A|I, what do I do, cut it one, you know, and, and edge it|sd
@@ -213,5 +213,5 @@ A|Oh, oh, it's just suggested?|qy^d
 B|So, how's the baby, do you think|qo
 A|What?|br
 B|How's the,|qw
-A|We could talk,Let's talk about the baby.|oo_co_cc
+A|We could talk, Let's talk about the baby.|oo_co_cc
 B|Let's talk about the baby.|ad

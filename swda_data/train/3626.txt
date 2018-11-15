@@ -37,7 +37,7 @@ B|This one went on a credit card,|sd
 B|and we got a way out, while to pay it off yet.|sd
 A|Uh, I've, I've got one at home too.|sd
 A|It's a three eighty-six, thirty-three megahertz, forty, four meg ram and hundred and thirty meg drive|sd
-A|andsuper V G A|sd
+A|and super V G A|sd
 A|and, yeah, it's fun.|sd
 A|I do programming, too.|sd
 A|My job is, uh, E D P auditor,|sd
@@ -50,8 +50,8 @@ A|Yeah,|b
 A|I really enjoy it,|sd
 A|and it treats me well.|sd
 B|Yes.|b
-A|Uh, what are you studying in college computers? |qy
-B| Uh. Computer engineering.|sd
+A|Uh, what are you studying in college  computers? |qy
+B| Uh.  Computer engineering.|sd
 A|How nice.|ba
 B|Well, computer engineering technology, uh, which, uh, all I can understand is it's a slightly more hands on version of computer engineering.|sd
 B|But, I've got a ways to go yet.|sd
@@ -83,12 +83,12 @@ A|no,|nn
 A|in, uh,|%
 A|no,|nn
 A|just regular, uh,|sd
-A|but you have to take into account, you know, with any computer program all the type of things people can do to you to make your program crash or things younormally don't consider.|sd
+A|but you have to take into account, you know, with any computer program all the type of things people can do to you to make your program crash or things you normally don't consider.|sd
 B|Yeah.|b
 B|Entering bad information of one sort or another|sd
 B|and,|%
 A|Yeah,|aa
-A|pushing keys certain times and,Uh, messing up your files and things like that.|bf
+A|pushing keys certain times and, Uh, messing up your files and things like that.|bf
 B|Yeah.|b
 B|Uh-huh.|b
 A|And you're going to be an engineer, computer engineer type.|qy^d
@@ -100,6 +100,6 @@ B|you get, uh, more or less, uh, you get basic electronics courses that, uh, dea
 B|So, the idea is that, um, you can go in a variety of direction from C E T major,|sd
 B|but I I have more with the hardware than I do with the software,|sd
 B|so, yeah|%
-B|Ipretty much plan on, I mean, so far I'm planning to go in the engineering direction.|sd
+B|I pretty much plan on, I mean, so far I'm planning to go in the engineering direction.|sd
 A|I don't,|%
 A|That's good, uh,|ba

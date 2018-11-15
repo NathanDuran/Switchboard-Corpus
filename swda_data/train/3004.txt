@@ -13,7 +13,7 @@ A|So, you ready?|qy
 A|My children are all gone already.|sd
 B|Uh-huh.|b
 A|They're, they're all out on their own.|sd
-A|So, uh, do you want to start firstdo you work?|ad
+A|So, uh, do you want to start first do you work?|ad
 B|Okay.|aa
 B|No,|nn
 B|I don't,|sd
@@ -27,7 +27,7 @@ B|and, and, um, there's a big controversy whether they should have to, um, have 
 A|Uh-huh.|b
 B|And, um, you know, there's pros and cons on both side of that|sv
 A|Right.|b
-B|because if they were, then you kind of know that they had to go through some kind of testing,or some kind of something to be on , get an okay seal.|sd
+B|because if they were, then you kind of know that they had to go through some kind of testing, or some kind of something to be on , get an okay seal.|sd
 A|Uh-huh.|b
 A|Yeah,|b
 A|but yet most of the problems we hear,|sd
@@ -42,7 +42,7 @@ B|Uh, now, usually when I have someone tend, um,|sd
 B|my oldest tends for me now if I go somewhere|sd
 B|but,|%
 A|Uh-huh,|b
-A|how old,is your oldest?|qw
+A|how old, is your oldest?|qw
 B|before,|%
 B|He's almost a teenager|sd
 A|Oh, well, he's plenty big enough then|sv
@@ -50,10 +50,10 @@ B|Yeah,|aa
 B|he's, he's very good.|sd
 B|Um, but, um, before that I would, I would use, uh, kids from our church,|sd
 A|Uh-huh.|b
-B|and they did a good job,for me.|sd
+B|and they did a good job, for me.|sd
 A|Uh-huh,|b
 A|uh-huh.|b
-B|Um, but I've never had to leave them like in a day care center,or anything,|sd
+B|Um, but I've never had to leave them like in a day care center, or anything,|sd
 A|Uh-huh.|b
 B|and I've been very lucky just be able to stay home.|sd
 A|That's the way with me.|aa
@@ -90,7 +90,7 @@ A|And, uh, she, she also had a small child she brought with her.|sd
 A|And it did not work out. Uh, at all|sd
 B|Uh-huh.|b
 A|It, she thought it was going to.|sd
-A|She was real excited because it was so much easier than taking the children out,in the morning,|sd
+A|She was real excited because it was so much easier than taking the children out, in the morning,|sd
 B|Yeah,|aa
 B|uh-huh.|b
 A|but, uh, the lady called|sd
@@ -110,18 +110,18 @@ A|And the baby was in his crib with the door shut just screaming his heart out,|
 B|Oh, dear.|ba
 A|and the baby-sitter was in the kitchen with her baby.|sd
 B|Oh.|ba
-A|And so that ended that,episode,|sd
+A|And so that ended that, episode,|sd
 B|Yeah.|ba
 A|and she was most upset, uh, over finding this.|sd
 B|Yeah,|b
 B|I bet.|ba
 A|So, uh, she, they kind of had decided that the day care was better.|sd
-A|There's, uh,more people involved,|sd
+A|There's, uh, more people involved,|sd
 B|Uh-huh.|b
 A|more than one adult they,|sd
-A|and the age groups are separatedUh-huh.|sd
+A|and the age groups are separated Uh-huh.|sd
 B|Well, nannies have been an option, uh,|sd
-B|but I know that at day care they have more of a, a routine like maybe in, uh,and so on.so forth,preschool would have where they have lessons and,|sd
+B|but I know that at day care they have more of a, a routine like maybe in, uh, preschool would have where they have lessons and, so forth, and so on.|sd
 A|Yes,|b
 A|story time, uh,|^2
 B|Uh-huh.|b
@@ -131,9 +131,9 @@ B|Uh-huh.|b
 A|and they would tell the parents what they did that day.|sd
 A|You know, if they said anything or did anything.|sd
 A|So it kind of kept them,|sd
-B|Gave you an idea of what your child,was progressing in or doing.|bf
+B|Gave you an idea of what your child, was progressing in or doing.|bf
 A|Yeah.|aa
-A|I I always thought that if you were checking into a day care, that you would be good to get references, uh, on  people that had been in that day care but was no longer there.|sv
+A|I I always thought that if you were checking into a day care, that you would be good to get references,  uh, on  people that had been in that day care but was no longer there.|sv
 B| Yeah. |aa
 B|Yeah.|aa
 B|Yeah.|aa
@@ -147,22 +147,22 @@ A|And, uh, other than how else, how do you judge other than from what others hav
 B|You can't really.|aa
 B|You can't really unless your child would be old enough to say something,|sv
 A|Uh-huh.|b
-B|and usually they aren't at that age.Uh-huh.|sd
+B|and usually they aren't at that age. Uh-huh.|sd
 A|Uh-huh.|b
-A|But it would be real difficult to pick you, you know, to find one anddecide.|sv
-B|Well, I know I, uh, about three years ago I, I tended some children.And, uh, you know, I, I wondered if I would have to be certified|sd
+A|But it would be real difficult to pick you, you know, to find one and decide.|sv
+B|Well, I know I, uh, about three years ago I, I tended some children. And, uh, you know, I, I wondered if I would have to be certified|sd
 A|Uh-huh.|b
 B|or whether they'd just bring them|sd
-B|andand we got to where, well, we were just friends|sd
+B|and and we got to where, well, we were just friends|sd
 A|Uh-huh.|b
-B|and so,they said, no, don't do that, we'll just bring them.|sd
+B|and so, they said, no, don't do that, we'll just bring them.|sd
 A|Uh-huh.|b
 A|Uh-huh,|b
 A|uh-huh.|b
 B|And then if there was a problem|sd
-B|and then we'd sit down,and talk about it|sd
+B|and then we'd sit down, and talk about it|sd
 A|Uh-huh.|b
-B|but it never happened,to be a problem,|sd
+B|but it never happened, to be a problem,|sd
 A|Yeah.|b
 A|Yeah.|b
 B|and, and so things worked out okay,|sd
@@ -172,7 +172,7 @@ A|it worked out good.|bf
 A|I'm going to, I've decided I'm going to baby-sit my two granddaughters.|sd
 B|Oh.|b
 A|Since they'll be going back at the end of the month.|sd
-A|And so,I'm going to give it a try.|sd
+A|And so, I'm going to give it a try.|sd
 B|That's great.|ba
 A|I, I, I sell Avon and Stanley products,|sd
 B|Oh, uh-huh.|b
@@ -181,30 +181,30 @@ A|My husband, he's retired|sd
 A|so he's going to deliver my products|sd
 A|so I'll do my orders and that by phone.|sd
 B|Well, that will be great.|ba
-A|So, um,I'll be able to keep that up a little bit.|sd
+A|So, um, I'll be able to keep that up a little bit.|sd
 B|Yeah.|b
-A|But II think I'll enjoy doing ,|sv
+A|But I I think I'll enjoy doing ,|sv
 B|Yeah.|b
 B|I bet you'll have some great experiences with them.|sv
 A|Yeah,|aa
 A|I, I think I'll enjoy.|sv
 B|Yeah.|aa
-A|I, I guess I kind of miss having a baby aroundA kid around or something|sd
+A|I, I guess I kind of miss having a baby around A kid around or something|sd
 B|Sure,|ba
-B|why not.That's right.|bh
+B|why not. That's right.|bh
 A|Yeah.|aa
 A|Right.|aa
 A|That's right|aa
 A|Well, they do say you enjoy them more,|sv
 A|a some, somebody said if they knew grandchildren where so much fun, they would have had them first|sd
 B|Well, uh, my husband's mother lives right over here,|sd
-B|and she takes care of them sometimes,for me,|sd
+B|and she takes care of them sometimes, for me,|sd
 A|Uh-huh.|b
 B|and, and just is a lovely lady,|sd
 A|Uh-huh.|b
 B|and I've always appreciated when she's sat with them.|sd
 A|Yeah.|b
-A|My daughter,because they're stuck with their grandchildren so much.you knowalways said she would not let me baby-sit because you do hear grandparents complaining|sd
+A|My daughter, always said she would not let me baby-sit because you do hear grandparents complaining you know because they're stuck with their grandchildren so much.|sd
 B|And,|%
 B|Oh|b
 B|Uh-huh.|b

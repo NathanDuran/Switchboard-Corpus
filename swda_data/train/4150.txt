@@ -3,10 +3,10 @@ B|Yes.|ny
 A|Okay.|b
 A|How many kids do you have?|qw
 B|I think I think we're going to talk about parents spending time with their children.|sd
-B|We, have  three children who are eleven, nine, and eight.|sd
+B|We,  have  three children who are eleven, nine, and eight.|sd
 A| Right. |b
 B|So this is the big issue with us. Although I don't recall marking it on my little things to talk about|sd
-B|butperhaps they are little for words to be said like day care and quality time|sd
+B|but perhaps they are little for words to be said like day care and quality time|sd
 B|and,|%
 A|Uh-huh.|b
 B|Anyway.|h
@@ -15,7 +15,7 @@ A|No.|nn
 B|But you're married?|qy^d
 A|Yeah,|ny
 A|we, we've been married for two and a half years.|sd
-A|We've been trying for about two years butno luck yet.|sd
+A|We've been trying for about two years but no luck yet.|sd
 B|Oh.|b
 A| Hopefully, |%
 B| You know,  I know we're not supposed to do this long distance|sd
@@ -24,7 +24,7 @@ B|I wonder if I could possibly take it on call waiting.|sd
 B|Could I ask you to hold one minute?|ad
 A|Uh-huh.|aa
 B|I'll be right back.|sd
-B| Excuse me, just a moment.|oo_co_cc
+B| Excuse me,  just a moment.|oo_co_cc
 A| |%
 B|They're going to get mad|sd
 A|whispers to someone in the She had another call.|t3
@@ -33,7 +33,7 @@ B|Hello?|fp
 A|Uh-huh.|b
 B|I'm so sorry.|fa
 A|All right.|aa
-B|That was my daughter's Brownie leader telling me that there is a meeting tomorrowBrownie meeting.|sd
+B|That was my daughter's Brownie leader telling me that there is a meeting tomorrow Brownie meeting.|sd
 A|Okay.|b
 A|That keeps you|sv
 A|do you have a lot of activities with your kids?|qy
@@ -47,13 +47,13 @@ B|they're just wonderful.|sd
 A|Uh-huh.|b
 B|The kids, they are real people|sd
 B|and they are interesting|sd
-B|and,they, they have all their own activities|sd
+B|and, they, they have all their own activities|sd
 B|and, um, I think as parents we really enjoy them in, in our personal situation|sd
 B|our children have not yet decided to rebel|sd
 A|Uh-huh.|b
 A|So they're pretty  good kids, huh? |qy
 B| I'm  sure that's coming though.|sd
-B|But, they are  wonderful kids.|na
+B|But,  they are  wonderful kids.|na
 A| Yeah. |b
 A|Well, we had growing up|sd
 A|I guess I can talk about us.|h
@@ -85,7 +85,7 @@ B|Usually busy fighting for survival.|sd
 A|Yeah,|b
 A|that's .|%
 A| But, |%
-B| Well,  I do think with working parents it is, I mean, there are some real issues here.  Um, that I think, um,|sv
+B| Well,  I do think with working parents it is, I mean, there are some real issues here.  Um,  that I think, um,|sv
 A| Uh-huh. |b
 B|I don't know.|h
 B|It's an interesting problem.|sv
@@ -95,7 +95,7 @@ A|Oh.|b
 B|My husband is a physician,|sd
 B|so, uh, I, I I talk to parents about this a lot.|sd
 B|But children,|%
-B|I, I think working mothers or mothers who choose to work outside the home, um, need very early to come to grips with any guilt, that they  feel and decide what's best for them and their family.|sv
+B|I, I think working mothers or mothers who choose to work outside the home, um, need very early to come to grips with any guilt,  that they  feel and decide what's best for them and their family.|sv
 A| Yeah. |b
 A|Uh-huh.|b
 B|And I feel when my children were very young, I had jobs that helped me be flexible with my schedule and spend time with them and all that sort of thing.|sd
@@ -103,7 +103,7 @@ B|And I long ago decided I'm a better mother because I work outside the home.|sd
 A| Uh-huh. |b
 B| I really  believe that.|sd
 B|And it has, um, helped us to afford some things for our children that we couldn't otherwise that I think are wonderful particularly at this age,|sd
-B|and I think our kids are real secure.And have a real sense of priorities and that they can do anything and be anything both male and female a lot|sd
+B|and I think our kids are real secure. And have a real sense of priorities and that they can do anything and be anything both male and female a lot|sd
 A|Uh-huh.|b
 B|so I know it sounds like a rationalization|sd
 B|but it's, I really think it's true for our family,|sd
@@ -129,7 +129,7 @@ A|Right.|b
 B|I sort of worked half time.|sd
 B|I had very flexible hours.|sd
 B|I nursed all three of our children until they were at least a year|sd
-B|and I, you  can do that despite working very easily which is one of the things I preach all the time to, to mothers.|sd
+B|and I,  you  can do that despite working very easily which is one of the things I preach all the time to, to mothers.|sd
 A| Oh. |b
 A|Uh-huh.|b
 B|Um, and I think we choose very, very carefully the, um, alternative situations that we had them in.|sd
@@ -143,7 +143,7 @@ A|Uh-huh.|b
 B|I think that helps.|sd
 A|Well, that's good.|ba
 A|Sounds like you're, have a handle on it.|sv
-B|Well, so, so .So, your wife, does she work right now?|qy
+B|Well, so, so . So, your wife, does she work right now?|qy
 A|Um, no,|nn
 A|not right now.|sd
 B| She's out, |bf

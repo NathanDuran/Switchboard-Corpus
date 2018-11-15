@@ -34,7 +34,7 @@ A|and like they, they get fined whenever they do the air pollution|sd
 B|Uh-huh.|b
 A|but the fine is nothing, you know,|sv
 B|Yeah,|b
-B| it's, it's, like, like two hours of output or something like that.|sv
+B| it's, it's,  like, like two hours of output or something like that.|sv
 A| it's like  nothing to them.|^2
 A|Yeah,|b
 A|yeah,|b
@@ -43,7 +43,7 @@ B|that's true.|ba
 A|Uh-huh.|b
 B|Yeah,|b
 B|I, a, uh, I grew up in South Dakota,|sd
-B|so I was never, I was never exposedto anything of, of the, of the sort.|sd
+B|so I was never, I was never exposed to anything of, of the, of the sort.|sd
 A|Uh-huh.|b
 B|Um, there were always E P A people and what not were always telling us that, uh, farm chemicals and what not were destroying our water system and all that|sd
 A|Uh-huh.|b
@@ -97,7 +97,7 @@ B|it, it's so hard to measure what, what the damage is|sv
 A|Uh-huh.|b
 B|it's kind of like, oh,|sv
 B|I guess it's kind of like, kind of like cigarette smoking, you know.|sv
-B|It, it could go on for years and years until they start to see some results and people can actually, actually say, Yeah, it's, it's, it's doing, doing some damageand something's got to be done.|sv
+B|It, it could go on for years and years until they start to see some results and people can actually, actually say, Yeah, it's, it's, it's doing, doing some damage and something's got to be done.|sv
 A|Uh-huh.|b
 B|Um, there's, you know, there's a lot of things like that.|sv
 B|It,|%
@@ -120,13 +120,13 @@ A|we have tried,|sv
 A|I mean, you know, and, um, I, I know where, you know, where a couple of the mills that have,|sd
 A|I know they put things on their stacks, you know, to filter the smoke, and do all kinds of things,|sd
 A|but, I mean, every now and then it breaks, you know,|sd
-A|andand you just have smoke going out into the air for a day or two, until you can get it fixed.|sd
+A|and and you just have smoke going out into the air for a day or two, until you can get it fixed.|sd
 B|Oh, sure.|b
 B|Sure.|b
 A|and so, so, you know, it's something we, we have tried to help.|sd
 B|Oh, there's no doubt about it.|ba
 A|Yeah.|b
-B|I don't know if you ever happened to see some of the like, Twenty Twenty and what not about Rumania and East Germany when they first got pictures out of thereabout how some of their systems had been running for twenty and thirty years|sd
+B|I don't know if you ever happened to see some of the like, Twenty Twenty and what not about Rumania and East Germany when they first got pictures out of there about how some of their systems had been running for twenty and thirty years|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|and, uh, you know, they had absolutely no regulations, no controls whatsoever,|sd

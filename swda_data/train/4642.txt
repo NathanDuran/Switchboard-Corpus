@@ -1,4 +1,4 @@
-A|I , uh, try to stay away from cars as much as possible  in terms of repair.|sd
+A|I , uh, try to stay away from cars as much as possible  in terms of  repair.|sd
 A|Actually, uh, that is really a sore spot with me.|sd
 A|I, I think perhaps the automotive industry is improving|sv
 A|but, uh, like ten years ago, uh, reliability of automobiles, at least U S automobiles was pretty dismal|sv
@@ -25,7 +25,7 @@ B|We used to have a Honda Accord|sd
 B|and they're good.|sv
 B|They're really good cars.|sv
 B|Every time I get taken to an auto repair place, you know, every time I go, I get taken.|sd
-B|Badyou know.|%
+B|Bad you know.|%
 A|Huh.|b
 B|Woman goes in|sv
 B|and they go all right, we got a sucker.|sv
@@ -88,7 +88,7 @@ A|So what's the solution to that? I guess find a reputable service,|sv
 B|And, and you can hardly find one,  you know. |sv
 A| Huh. |b
 B|The guy that's doing most of my, my car now, uh, goes to my church|sd
-B|and that's the only reason, you know, I go to himbecause I know him|sd
+B|and that's the only reason, you know, I go to him because I know him|sd
 A|Uh-huh.|b
 B|and I know he will tell me the truth.|sd
 B|Because he doesn't even charge me for, for doing it|sd

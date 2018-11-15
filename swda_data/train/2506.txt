@@ -44,8 +44,8 @@ B|it's,|%
 B|what we have,|sd
 B|it's all we can afford.|sd
 A|Yeah.|b
-B|And, uh, seems like we're always working on it, as I'm sure,it is with your house.|sd
-A|Because they're always,because they're always ruining something?|sv
+B|And, uh, seems like we're always working on it, as I'm sure, it is with your house.|sd
+A|Because they're always, because they're always ruining something?|sv
 B|Yeah.|b
 A|How old is your child?|qw
 B|Ten,|sd
@@ -121,7 +121,7 @@ A|but there sure are a lot of people that work down there.|sd
 B|Is the crime rate still bad?|qy
 A|Definitely.|na
 A|And I went down there a couple, maybe three weeks ago for a trial,|sd
-A|and, I mean, all these people were standing up, that was, you know, during the workday all along the streets,you know, just all around these vacant buildings, just a lot of vacant buildings,|sd
+A|and, I mean, all these people were standing up, that was, you know, during the workday all along the streets, you know, just all around these vacant buildings, just a lot of vacant buildings,|sd
 B|Huh.|b
 A|and they're just being demolished,|sd
 B|Huh.|b
@@ -153,8 +153,8 @@ B|Yeah.|ny
 A|So, why did you move up to Colorado?|qw
 B|Seemed like the thing to do at the time.|sd
 A|Well, it's real pretty up there.|sd
-A|I have a friend,in Denver.|sd
-B|Oh, I love it,the mountains.|sd
+A|I have a friend, in Denver.|sd
+B|Oh, I love it, the mountains.|sd
 B|I love the mountains,|sd
 A|What do you,|qw
 B|uh, back to the topic,|ad
@@ -178,7 +178,7 @@ A|I did that one year,|sd
 A|I lived with two other girls|sd
 A|and we all taught.|sd
 A|And it was a two bedroom,|sd
-A|so, we took turns, you know,having, sharing the bedroom.|sd
+A|so, we took turns, you know, having, sharing the bedroom.|sd
 B|Gosh.|ba
 B|Yeah.|b
 A|I got to where I decided I wanted to pay more rent and get a private bedroom.|sd
@@ -188,13 +188,13 @@ B|Well, mobile homes have changed a lot probably since you had one.|sv
 A|That was in the seventies.|sd
 B|Ours is wood ours is wood sided,|sd
 A|Uh-huh.|b
-B|and it has a traditional V top ,roof,|sd
+B|and it has a traditional V top , roof,|sd
 A|I'm sorry.|fa
 B|and, uh, it's nine hundred and eighty square foot.|sd
-B|What, two bedroom, one bath,rooms are nice sized.|qy^d
+B|What, two bedroom, one bath, rooms are nice sized.|qy^d
 A|Uh-huh.|ny
 B|Well, you can imagine nine hundred eighty square foot broke up into two bedrooms, one bath,|sd
-A|So have,Have you got it under ?|qy
+A|So have, Have you got it under ?|qy
 B|it's, it's comfy.|sd
 B|Yes.|ny
 A|Are you required to by law?|qy
@@ -225,7 +225,7 @@ B|No,|nn
 B|no,|nn
 B|no|nn
 B|what I meant, not in quality,|sd
-B|what I meant was,four years equity costs five hundred dollars.|sd
+B|what I meant was, four years equity costs five hundred dollars.|sd
 A|In the price.|^2
 A|Gee, nice, huh.|ba
 A|That sounds good.|ba

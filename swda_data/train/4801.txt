@@ -9,13 +9,13 @@ A|so many times it's so brutal and just recurrent|sd
 B|Right.|aa
 A|selling, I think should also.|sv
 B|Exactly.|aa
-B|Recurrent crimes like serial rapists or serial murderers orwhatever.|sv
+B|Recurrent crimes like serial rapists or serial murderers or whatever.|sv
 A|Yeah|b
 B|I come from a state that has, well I originally come from the state that has, uh, the death penalty.|sd
 B|I come from Florida.|sd
 A|Uh-huh.|b
 B|And, uh, they're pretty liberal on it.|sd
-B|They tend to, like, fry people left and right. which, |sd
+B|They tend to, like, fry people left and right.  which, |sd
 A|Yeah |b
 A|that's, |%
 B|go ahead.|ad
@@ -45,7 +45,7 @@ A| Yeah. |b
 A|That's what's happening here.|sd
 A|There is,|%
 A|like, uh, that's,|%
-A|in fact, a big gubernatorial issue is thethe turnover rates of, uh, uh, repeat offenders being let out and  doing it again. |sd
+A|in fact, a big gubernatorial issue is the the turnover rates of, uh, uh, repeat offenders being let out and  doing it again. |sd
 B|Uh-huh.|b
 B| Sure.|b
 B|And it's like,  you know, that's a big problem|sv
@@ -70,7 +70,7 @@ B|if I, if I elicit good behavior I'm out in maybe five or ten.|sd
 A|Oh, really?|bh
 B|Oh, sure,  you know. |na
 A| Goodness. |ba
-B|I mean just because, like we said before, they don't have enough room in the jailsuh, you know, there's a lot of incentive for them to be let out early.|sd
+B|I mean just because, like we said before, they don't have enough room in the jails uh, you know, there's a lot of incentive for them to be let out early.|sd
 A|Uh-huh.|b
 A|Yeah.|b
 B|But if you've got the death penalty hanging over your head, uh,|%
@@ -114,7 +114,7 @@ B|Uh-huh.|b
 A|So, I think it,|%
 A|the forty-sixth in the last twenty-five years I think is what|sd
 B|Oh, is that right?|bh
-A|they gave a run down that TexasTexas tends to be a little more robust and disciplined  area then . |sd
+A|they gave a run down that Texas Texas tends to be a little more robust and disciplined  area then . |sd
 B|Okay.|bk
 B| Yeah,|b
 B|I, I kind of, |%
@@ -126,11 +126,11 @@ A|Like the guy in California got you know, twice before he went to the gas chamb
 A|and then they said okay, no,|sd
 A|you don't have to go.|^q
 A|And then they took him back.|sd
-A|I mean,  it just seems, Yeah, it just seemed a little inconsistent.|sv
+A|I mean,  it just seems,  Yeah, it just seemed a little inconsistent.|sv
 B| Jeez, |ba
 B|that's a lot of repeals.|sv
 A|And then you have like two,|%
-A|you have these people who are serial killers that didn't even get the death sentence back whenever you know.|sd
+A|you have these people who are serial killers that didn't even get the death sentence back when ever you know.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 B|I don't know.|h

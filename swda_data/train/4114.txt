@@ -9,7 +9,7 @@ B|it's,|%
 B|when you get further east towards New York City it gets very industrial|sd
 A|Right, uh-huh.|b
 B|but I'm, I'm about, uh, thirty miles west of there|sd
-B|so you have, uh, actually green trees and such that youNew Jersey exists.don't notice that, that other part of|sd
+B|so you have, uh, actually green trees and such that you don't notice that, that other part of New Jersey exists.|sd
 A|Yeah.|b
 A|Yeah|b
 A|Right.|b
@@ -43,7 +43,7 @@ A|I guess, from what I hear, though, uh, next year Ford is coming out with their
 A|They're actually coming out with the first prototypes in California.|sd
 B|Yeah,|b
 B|that,|%
-B|and I think also some of the, uh, car companies are coming out with, uh, gas powered fleetsso you,|sd
+B|and I think also some of the, uh, car companies are coming out with, uh, gas powered fleets so you,|sd
 A|Yeah.|b
 B|natural gas powered rather than, uh, gasoline.|sd
 A|Right.|b
@@ -55,12 +55,12 @@ A|but,|%
 B|It, it is coming from cars, though.|sd
 A|Uh, yeah,|aa
 A|I think that's a, that's a contributor definitely.|sv
-B|I mean, the, uh, car air conditioners isWhich is one of the major fluorocarbons.one of the major leaking sources of, uh, the, uh, freon.|sd
+B|I mean, the, uh, car air conditioners is one of the major leaking sources of, uh, the, uh, freon. Which is one of the major fluorocarbons.|sd
 A|Right.|b
 A|Right.|b
 A|Yeah,|b
 A|I guess right now what they're, what they're primarily worried about is third world countries because I guess United States and, and Russia have kind of taken the lead in terms of eliminating C F C production,|sv
-A|butit,|%
+A|but it,|%
 B|Well, it, it,|%
 A|go ahead.|ad
 B|No,|ar
@@ -73,7 +73,7 @@ B|The U S used, you know, all the air pollution stuff and air polluting technolo
 A|Right.|b
 A|And that's one of the arguments that the Third World countries have been using is, that basically they don't want to have to pay for our mistakes if, if that makes any sense.|sd
 A|Uh, in terms of,|%
-B|Or, or they want the right to make the same mistakes themselves to bootstrap them up to the way, where wegot to.|sd
+B|Or, or they want the right to make the same mistakes themselves to bootstrap them up to the way, where we got to.|sd
 A|Exactly.|aa
 A|Exactly.|aa
 A|Uh, those of kind of, yeah, those are joining arguments,|sv
@@ -87,7 +87,7 @@ A|So it's kind of an interesting situation.|sv
 A|It's not not a real good one actually.|sv
 B| No. |aa
 A| But, |%
-B|Well, you also have the very close related thing of the, uh, rain forest destructionreplacing some of the pollutants.which is the main source of what's clearing out the atmosphere and|sv
+B|Well, you also have the very close related thing of the, uh, rain forest destruction which is the main source of what's clearing out the atmosphere and replacing some of the pollutants.|sv
 A|Yeah.|b
 A|Uh-huh,|b
 A|yeah.|aa
@@ -100,7 +100,7 @@ A|Okay,|bk
 A|so you've got,|%
 A|Yeah,|b
 A|those are actually areas that are hit pretty hard, I would think.|sv
-B|Well, not, not as hard as some places out west because you don't get the, uh, major pollution sources as you do out in Denver with theand Los Angeles and rest of California which is just terrible it sounds. inversion |sd
+B|Well, not, not as hard as some places out west because you don't get the, uh, major pollution sources as you do out in Denver with the  inversion  and Los Angeles and rest of California which is just terrible it sounds.|sd
 A|Yeah,|aa
 A|Denver's  definitely |sd
 A|yeah,|aa
@@ -109,7 +109,7 @@ A|Sure.|aa
 A|Yeah,|aa
 A|Denver's that, that real good that real good, uh, example of sitting in a valley, kind of like Mexico City does, I guess.|sd
 B|Uh-huh.|b
-A|Mexico City is historically been one of the worstin the, in the world for that.|sd
+A|Mexico City is historically been one of the worst in the, in the world for that.|sd
 B|Yeah.|b
 A|But I've been pretty lucky,|sv
 A|I've lived in cities that really haven't had that much of a problem, although, uh, I'm really kind of based in Orlando, Florida|sd
@@ -117,7 +117,7 @@ A|and there, you can tell that it's getting worse.|sv
 A|I mean, it, it definitely it's not at a level comparable to Los Angeles or Denver|sd
 A|but you can,|%
 B|Yeah,|b
-B|there, it's almost all automobiles because there's not that much in the way ofheavy industry, you know, that would be causing it.|sv
+B|there, it's almost all automobiles because there's not that much in the way of heavy industry, you know, that would be causing it.|sv
 A|Exactly.|aa
 A|Yeah.|aa
 A|And there's not that much in terms of, of public transportation down there.|sd

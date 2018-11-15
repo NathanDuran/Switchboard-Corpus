@@ -5,7 +5,7 @@ A|Oh, I see.|bk
 A|I get, uh, MCCALL'S.|sd
 A|Of course, anything that appeals to the homemaker since that's my main line of interest.|sd
 B|Uh-huh.|b
-A|And then once in a while I'll pick up a WORKING WOMAN or something andWhat I enjoy about staying home.realize why I don't want to go back to work|sd
+A|And then once in a while I'll pick up a WORKING WOMAN or something and realize why I don't want to go back to work What I enjoy about staying home.|sd
 B|Uh-huh.|b
 B|Right.|b
 A|And, uh, I read magazines mainly because they're fast|sd
@@ -21,16 +21,16 @@ B|But, yeah,|ny
 B|the subscriptions ran out|sd
 B|and I never renewed them.|sd
 B|And I found that I really didn't have time at home since I work, to read them.|sd
-A|I find that, uh, about two years is probably my maxon subscribing to one in particular|sd
+A|I find that, uh, about two years is probably my max on subscribing to one in particular|sd
 B|Uh-huh.|b
-A|and then I kind of get turned off by it.Other than GOOD HOUSEKEEPING.|sd
+A|and then I kind of get turned off by it. Other than GOOD HOUSEKEEPING.|sd
 B|Uh-huh.|b
 A|GOOD HOUSEKEEPING is the one that kind of sets around for when, uh, when I'm really have time and I really want to read something, you know.|sd
 B|Uh-huh.|b
-A|I don't get into books too often because I have so many things that I stay occupied withuh, on a general basis,|sd
+A|I don't get into books too often because I have so many things that I stay occupied with uh, on a general basis,|sd
 B|Uh-huh.|b
 A|and we travel a lot|sd
-A|so I enjoy reading parts on travel in the variousyou know, different ones.|sd
+A|so I enjoy reading parts on travel in the various you know, different ones.|sd
 B|Uh-huh.|b
 B|Right.|b
 A|And I get into, uh, newspapers,|sd
@@ -39,34 +39,34 @@ A|I'm, read it fast and put it down|sd
 B|Right.|b
 B|Uh-huh.|b
 B|When, when I had my magazines at home, I would find that I kind of skimmed through them and looked at the pictures, you know,|sd
-B|andif something caught my eye, then I might read something,|sd
+B|and if something caught my eye, then I might read something,|sd
 A|Right.|b
 B|but otherwise than that, you know, they were, uh, you know, not too useful to me. You know|sd
-A|Well,That's what I do.|sd
+A|Well, That's what I do.|sd
 B|I got some good recipes from them sometimes,|sd
 B|but|%
 A|You clip recipes|sv
 A|and you save them forever|sv
-A|and you never reallyuse them.|sv
+A|and you never really use them.|sv
 B|Uh-huh.|b
 B|That's right,|ba
 B|that's right.|ba
 A|And then every so often you weed through them|sv
 A|and you think, where did I ever put that recipe.|sv
 B|Right.|b
-A|But, uh, that's mainly my, uh, whole idea onyou know, short subject, uh, reading and things like this.|sd
+A|But, uh, that's mainly my, uh, whole idea on you know, short subject, uh, reading and things like this.|sd
 B|Uh-huh.|b
 A|I, I subscribe, like I said, to a few|sd
-A|and once in a while I buy that new magazine called FIRST on the newsstandsor something like that.|sd
+A|and once in a while I buy that new magazine called FIRST on the newsstands or something like that.|sd
 B|Uh-huh.|b
-A|But I kind of stay with my own subject matter what, uh, pertains to my daily lifeat the present time.|sd
+A|But I kind of stay with my own subject matter what, uh, pertains to my daily life at the present time.|sd
 B|Right.|b
 B|Well, since I work with computers during my work, I have to keep up on all the new computer equipment and software and everything.|sd
 B|And I have to read the magazines, you know, such as BYTE, and COMPUTER WORLD and MAC WORLD and all of these, uh, magazines such as that,|sd
 B|so I really, you know, just,|%
 B|I can see that it will be a very long time, probably, before I subscribe to any magazines at home.|sd
 A|Right.|b
-A|Well, sometimes, if, you know, if you're in transportation, in public transportationI know that people will read them on something like that.|sv
+A|Well, sometimes, if, you know, if you're in transportation, in public transportation I know that people will read them on something like that.|sv
 B|Uh-huh.|b
 B|Right.|b
 A|But I think,|sv
@@ -75,12 +75,12 @@ A|I can just dump them at the other end|sd
 A|and I don't have to carry them back with me.|sd
 B|That's right.|ba
 A|I do that when we travel.|sd
-A|I always have my head with a magazine somewhere as wedrive or wherever we,|sd
+A|I always have my head with a magazine somewhere as we drive or wherever we,|sd
 B|Uh-huh.|b
 A|no matter what it is, air travel or anything and I,|sd
 B|Uh-huh.|b
 B|Right.|b
-B|If I, if I go on an airplane ride or something, I'll stop in and pick up a, you know, a COSMOPOLITAN or somethingto read on the airplane.|sd
+B|If I, if I go on an airplane ride or something, I'll stop in and pick up a, you know, a COSMOPOLITAN or something to read on the airplane.|sd
 A|Right,|b
 A|although now,|%
 B|But, uh, you know, that's basically just about|sd
@@ -100,7 +100,7 @@ A|I think they all thought, well, we have a live one She'll subscribe|sd
 B|Uh-huh.|b
 A|But they were wrong.|sd
 A|I never got into them.|sd
-A|But, but,Okay?|%
+A|But, but, Okay?|%
 B|Right.|b
 A|All right, I guess we might as well end our conversation at this point.|ad
 B|Okay.|ad

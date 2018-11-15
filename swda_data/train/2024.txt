@@ -3,7 +3,7 @@ B|Wonderful touch tone telephone there.|sv
 A|Uh, what kind of books do you enjoy reading?|qw
 B|Uh, haven't, have, I have a wide variety of, of hobbies,|^h
 B|therefore, my, my reading pleasures are quite wide.|sd
-B|Um, I get a charge out of, uh, TEXAS HIGHWAY,which is, uh, very colorful, and, uh, not being a native of Texas, but being here eleven years have a tendency to, uh, find out the, uh, about the different areas of the of the, of the state by reading it.|sd
+B|Um, I get a charge out of, uh, TEXAS HIGHWAY, which is, uh, very colorful, and, uh, not being a native of Texas, but being here eleven years have a tendency to, uh, find out the, uh, about the different areas of the of the, of the state by reading it.|sd
 A|Oh.|b
 A|Right,|b
 A|I've read that one too.|sd
@@ -17,7 +17,7 @@ B|Um, oh, I like photography, um, magazines.|sd
 B|I don't take a subscription or anything like that.|sd
 B|Um, things, oh,|%
 B|being an engineer in facilities I do read a lot of, a lot of, uh, building magazines and, and, and plant engineering magazines and, read up on different ways to do things and energy management type of magazines|sd
-B|and,and, uh, kind of strange because I, it's not unusual to, uh, see, uh, an engineering manual or something laying around the house|sd
+B|and, and, uh, kind of strange because I, it's not unusual to, uh, see, uh, an engineering manual or something laying around the house|sd
 A|Uh-huh.|b
 B|and then I'll sit up and read just to refresh, uh, you know, to keep active on it,|sd
 B|but, uh.|%
@@ -51,7 +51,7 @@ B|Uh, so that's all in self improvement to stay focused on who the customer is|s
 B|and as you probably well know, all of us are our own customer.|sd
 B|You're my customer, I'm your customer, sort of thing.|sd
 A|Right.|b
-B|Um, every now and then I'm loaned a tape I can stick in the, uh, in the car cassette set on the way home to make the drive more enjoyable, talking about, uh, better outlooks on things and the philosophy of, of Pat Hagerty and these kind of, uh, mind stimulating philosophy type.Which all, you know, betters yourself.|sd
+B|Um, every now and then I'm loaned a tape I can stick in the, uh, in the car cassette set on the way home to make the drive more enjoyable, talking about, uh, better outlooks on things and the philosophy of, of Pat Hagerty and these kind of, uh, mind stimulating philosophy type. Which all, you know, betters yourself.|sd
 A|Yeah.|b
 A|Yeah,|b
 A|yeah,|b
@@ -62,7 +62,7 @@ A|but I don't label it as such.|sd
 B|Like what for example.|qw^d
 A|Well, I don't know, um,|h
 A|I, uh, have attended some seminars that had some tapes that went with them, but, uh, I guess not so much books although they sometimes have manuals and things,|sd
-A|but, uh, they would be things on like how to be successful and sort of talking to yourself. You know getting your, yourself in gear to, uh, sort of pull yourself up by your boot straps and do what you really want to do.Convincing you that you need to get on with it.|sd
+A|but, uh, they would be things on like how to be successful and sort of talking to yourself. You know getting your, yourself in gear to, uh, sort of pull yourself up by your boot straps and do what you really want to do. Convincing you that you need to get on with it.|sd
 B|Sure.|b
 B|Sure.|b
 B|How about items like, um, THE ONE MINUTE MANAGER, which used to be a big,|qy
@@ -70,7 +70,7 @@ B|okay.|%
 A|Yes.|aa
 B|So those are self improvements.|sv
 A|Sure.|aa
-B|Um, our supervisor, uh, subtly bought all of us a book called WHAT EVERY SUPERVISOR SHOULD KNOW.By a man, man named Doctor Bittel, B I T T E L it|sd
+B|Um, our supervisor, uh, subtly bought all of us a book called WHAT EVERY SUPERVISOR SHOULD KNOW. By a man, man named Doctor Bittel, B I T T E L it|sd
 A|Um.|%
 B|and it's a very layman's, uh, uh, approach towards managing different types of people.|sd
 B|And the very last chapter, and I haven't figured out why that one was last, is how to manage engineers|sd
@@ -89,7 +89,7 @@ A|That's a little, little heavy for me.|sv
 B|Yeah,|b
 B|they're, uh, quite, uh, they're hard to set down because it's so interesting|sv
 B|and, of course, they're all just a little spookier than the movies,|sv
-B|but, uh,it's always, they're always challenging to get through one of them.|sv
+B|but, uh, it's always, they're always challenging to get through one of them.|sv
 A|Yeah.|b
 B|I have a hard time finishing books.|sd
 A|Well I guess I also have been reading, uh, a lot of things on, uh, quality improvement and that type of thing because that's what I'm involved in a lot at work.|sd
@@ -97,7 +97,7 @@ B|Uh-huh.|b
 B|In quality, especially now days, uh, that's almost everything that comes across the, the, the airways .|sd
 A|Oh, yeah,|aa
 A|you could almost label everything quality in some sense or other|sv
-A|but, uh,I think sometimes the word is a little over used|sv
+A|but, uh, I think sometimes the word is a little over used|sv
 B|Exactly, exactly right.|aa
 A|but,|%
 B|Yeah, we, we have, I think we, we name drop it a little too much and, and don't fully understand what, what it is we're saying.|sv

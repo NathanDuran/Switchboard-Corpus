@@ -59,11 +59,11 @@ B|uh-huh,|aa
 B|and that's, that's the other restaurant Black Eye Pea.|sd
 A|Oh.|b
 B|So, I do not really like, uh, you know, uh, uh, chili places or, what is it, Judge Roy Bean's,|sd
-B|orI do not like greasy places.|sd
+B|or I do not like greasy places.|sd
 A|Oh, yeah.|b
 A|Yeah,|b
 A|I, I do not feel like they are very healthy,|sv
-A|and I always,feel like the home cooking places, are, are the healthiest meals.|sv
+A|and I always, feel like the home cooking places, are, are the healthiest meals.|sv
 B|Yeah.|b
 A|You know, I tend to have chicken fried steak when I go, go to them.|sd
 B|Right,|b
@@ -79,14 +79,14 @@ B|You know.|qh
 A|Yeah.|b
 A|I, I tend to, uh, I get teased by my family a lot, because, uh, I like experimenting on, on food|sd
 A|and sometimes I go for fairly exotic things.|sd
-A|And my father teases me about gourmet cooking.Which is not always true,|sd
+A|And my father teases me about gourmet cooking. Which is not always true,|sd
 B|Uh-huh.|b
 A|but and the thing about experimenting with cooking or anything else, is that some of the experiments fail.|sv
 B|Yeah,|aa
 B|that's true.|aa
 A|Uh, the last time we had some, uh, friends over for dinner, I tried a dessert that sounded wonderful in the recipe|sd
 A|and it was just a total bust.|sd
-A|I was,sorry I did not have ice cream to fall back on.|sd
+A|I was, sorry I did not have ice cream to fall back on.|sd
 B|Yeah.|b
 B|Yeah.|b
 B|My, uh, my brother tried to make, uh, a bunch of things, uh, way back.|sd
@@ -106,7 +106,7 @@ A|Uh-huh.|b
 B|It's, uh, supposed to be candy.|sd
 A|Yeah.|b
 B|And, uh, it, it did not turn out very well,|sd
-B|it was, you know.It like made concentrated all the acid of the grapefruit into, uh, into a kind of a candy stick,|sd
+B|it was, you know. It like made concentrated all the acid of the grapefruit into, uh, into a kind of a candy stick,|sd
 A|Uh-huh.|b
 B|so, uh.|%
 A|Huh, see I am not,|%
@@ -114,7 +114,7 @@ A|that's interesting.|ba
 A|One of the things I do not make is dessert.|sd
 B|Uh-huh.|b
 A|And, uh, my husband accuses me of putting him through dessert depravation, because, uh, you know, we have ice cream, or something like that.|sd
-A|And that's why when I took, did this experiment for the company we had about three weeks ago,it was just a total fiasco.|sd
+A|And that's why when I took, did this experiment for the company we had about three weeks ago, it was just a total fiasco.|sd
 B|Uh-huh.|b
 B|Huh.|b
 A|Uh, everything else was fine,|sd
@@ -191,7 +191,7 @@ A|And, and the boy friend thought,|sd
 A|it was, he was supposed to be there at six o'clock, not seven o'clock,|sd
 A|so just at the time all this happened, the door bell rang|sd
 A|and there he was.|sd
-A|And I had to have my, my, my, my dad sort of entertain him for a, forfor awhile while my mother and I scrambled to clean everything up.|sd
+A|And I had to have my, my, my, my dad sort of entertain him for a, for for awhile while my mother and I scrambled to clean everything up.|sd
 B|Right.|b
 B|Uh-huh.|b
 B|Did you let the can cool off?|qy

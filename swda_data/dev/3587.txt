@@ -10,14 +10,14 @@ A|How about yourself?|qo
 B|Well, I haven't been in probably about three years.|sd
 A|Uh-huh.|b
 B|And the last time we went was in, um, well, I guess it was, it was like hunting season,|sd
-B|and we went down to like a hunting ground and a lakewhich is in East Texas.Lake Sam Rayburn|sd
+B|and we went down to like a hunting ground and a lake Lake Sam Rayburn which is in East Texas.|sd
 A|Uh-huh.|b
 A|Yes, oh,|b
 A|Very good.|ba
 A|I bet it's pretty over there.|sv
 B|It is real pretty.|sd
 B|Um, let's see.|^h
-A| What do you think, what kind of camping, uh, are you talking about?|qw
+A| What do you think, what kind of  camping, uh, are you talking about?|qw
 B| Do you do a lot of fishing? |qy
 A|Do you go out,|qy
 A|and is camping for you in a motor home, or a trailer,|qy
@@ -43,7 +43,7 @@ A|I've, I've camped, uh, in the snow on a glacier.|sd
 A|I've camped, uh, basically almost anywhere, even to the point where we've had to backpack in and everything you carried in was what you had to use to sustain you for that, that camping trip and had to pack it back out.|sd
 B|So you're a serious camper.|bf
 A|Well, we enjoy it, yeah.|aa
-A|But since I've been married and with a family, uh, we have to go where there's restroomsAnd playgrounds, and so forth,|sd
+A|But since I've been married and with a family, uh, we have to go where there's restrooms And playgrounds, and so forth,|sd
 B|Well, that makes sense.|ba
 A|so, we really enjoy it.|sd
 A|But also while I was growing up, we did have a trailer,|sd
@@ -66,7 +66,7 @@ A|Oh, yes.|aa
 A|That's true,|aa
 A|that's true.|aa
 B|Did you ever like travel around to what's that, the little K O, K O A camps whenever|qy
-A|wenever did that.|sd
+A|we never did that.|sd
 B|ever done that?|qy
 A|They|%
 A|although I've stayed in K O A campgrounds, uh, we've never done that just to go around and camp.|sd

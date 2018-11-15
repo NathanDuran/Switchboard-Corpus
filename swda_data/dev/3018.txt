@@ -1,7 +1,7 @@
 A|Okay,|fo_o_fw_"_by_bc
 A|what are your favorite things to watch?|qy
 B|Oh, uh, let's see,|^h
-B|I, uh, I have enjoyed, uh, THIRTYSOMETHINGin the past, uh, now that it has gone off|sd
+B|I, uh, I have enjoyed, uh, THIRTYSOMETHING in the past, uh, now that it has gone off|sd
 A|Uh-huh.|b
 B|Uh, some comedy shows, uh, I can not, can not think of, off hand,|sd
 A| Yeah. |b
@@ -10,7 +10,7 @@ B|what is,|qw
 A|We do not watch a lot of T V,|sd
 A|we try to watch it on Thursday nights,|sd
 A|we usually watch L A LAW,|sd
-A|I like that real well.And CHEERS|sd
+A|I like that real well. And CHEERS|sd
 B|Yeah.|b
 B|Yeah.|b
 A|we like to watch that.|sd
@@ -22,10 +22,10 @@ B|yeah,|ny
 B|we, we we try to catch that most, most nights.|sd
 A|Yeah|b
 A|And I, I have watched THIRTYSOMETHING some in the last couple seasons.|sd
-A|I was sort of sorry to see it gotoo.|sd
+A|I was sort of sorry to see it go too.|sd
 B|Yeah.|b
 B|It, it was kind of interesting, uh, some people complained about, uh, uh, the kind of whining or whatever on it.|sd
-B|I, I really did not think it, it was, that  way.|sd
+B|I, I really did not think it, it was,  that  way.|sd
 A| Yeah. |b
 B|I think it had some, some good, uh, good situations that it presented.|sd
 A|Yeah,|aa
@@ -34,7 +34,7 @@ A|like the problems that Michael and Hope had in their marriage and stuff, I can
 B|Yeah.|b
 A|Just the dynamics of it and everything.|sd
 B|Well, I think, I think a lot of people, you know, kind of felt that way,|sv
-B|but they had a lot of, uh, uh, counseling groups that use some of the episodes as, as examples  of things that were going on|sd
+B|but they had a lot of, uh, uh, counseling groups that use some of the episodes as,  as examples  of things that were going on|sd
 A| Oh, really. |b
 B|and, and uh, you know, that they called interaction between people and sort of to use as, uh, as a way of getting people to talk about their problems,|sd
 A| Yeah. |b
@@ -45,7 +45,7 @@ B|so, uh,|%
 A| Uh-huh. |b
 B| that,  that tends to, uh, put a cramp in your viewing, because by the time you get through getting her ready for bed and everything, uh, it's, uh, very little T V time left.|sv
 A|Yeah,|aa
-A|you are too tiredto do anything.|bf
+A|you are too tired to do anything.|bf
 B|Yeah.|b
 A|Oh, it's better to spend time with your kids, I think though, than glued in front of the T V anyway.|sv
 B|Yeah,|aa
@@ -81,9 +81,9 @@ B|but, uh.|%
 A|Do you watch sports much on T V?|qy
 B|Yeah,|ny
 B|if it's if it's a team or something that I am really interested in I am not one to just watch a football game just, just to be watching it|sd
-B|or, or  I am not a big basketball or baseball fan, if it, unless it's baseball, if it's some, if it's a team I really like, I may watch|sd
+B|or,  or  I am not a big basketball or baseball fan, if it, unless it's baseball, if it's some, if it's a team I really like, I may watch|sd
 A| Yeah. |b
-B|but, uh, baseball to me is a little hard to watch on T V, for  an extended period.|sd
+B|but, uh, baseball to me is a little hard to watch on T V,  for  an extended period.|sd
 A| Yeah. |b
 A|It's slow.|sv
 B|Yeah,|aa
@@ -94,15 +94,15 @@ B|if, if, if it's a football team I really like, a college team or, or pro team 
 B|But, uh, that's the|%
 A|Yeah,|aa
 A|we are like that|sd
-A|and occasionally we will, like on, if we do not have anything to do or kind of bored and we just want to sit in the house or something, we  will watch a little bit of a golf tournament.|sd
-A|But, uh, you  can not take a whole lot of that either,|sv
+A|and occasionally we will, like on, if we do not have anything to do or kind of bored and we just want to sit in the house or something,  we  will watch a little bit of a golf tournament.|sd
+A|But, uh,  you  can not take a whole lot of that either,|sv
 B| Yeah. |b
 A|it's pretty slow.|sv
 B|Yeah,|aa
-B|it's kind of like, like  baseball|sv
+B|it's kind of like,  like  baseball|sv
 A| Yeah. |b
 A|Do you|%
-A|we went to the movies a lot on weekends and watch them at home, because there's just, on  Friday and Saturday nights there's nothing good on|sd
+A|we went to the movies a lot on weekends and watch them at home, because there's just,  on  Friday and Saturday nights there's nothing good on|sd
 A|and,|%
 B|Right.|aa
 B|I think that that's what more people are doing|sv
@@ -119,7 +119,7 @@ A|Do you have cable T V?|qy
 B|No, uh,|nn
 A|We do  not either. |sd
 B| we live in, |sd
-A|I thought we were the only ones who  did not have it.|sd
+A|I thought we were the only ones  who  did not have it.|sd
 B| No. |aa
 B|No,|aa
 B|we, uh,|%
@@ -130,7 +130,7 @@ B| but  when they built our section they did not, did not put it in|sd
 B|and we have been there about two years now.|sd
 A| Gosh. |ba
 B| and  they are still, still do not have it|sd
-B|so I  am hoping that, that soon they will, they will,|sd
+B|so  I  am hoping that, that soon they will, they will,|sd
 A| Yeah. |b
 B|I have contacted them about this|sd
 B|and they say that well, it's, it's,|sd
@@ -138,7 +138,7 @@ B|they look,|%
 B|they, every year they look at, uh, different areas and try to determine where, where, uh, the most houses will be,|sd
 A| Uh-huh. |b
 B| and  so they, uh, they look|sd
-B|and they, when they, when we reach a certain number of people in that area they will put one in, put, least  consider it, some  in, or they will at,|sd
+B|and they, when they, when we reach a certain number of people in that area they will put one in, put,  some  in, or they will at,  least  consider it,|sd
 A| Huh. |b
 A| Yeah. |b
 B|so.|%
@@ -146,7 +146,7 @@ A|Yeah.|b
 A|Well, we had it for awhile|sd
 A|and it just seemed like we never watched it|sd
 A|any we did not have the movie channels,|sd
-A|we just had all the normal ones, that  come|sd
+A|we just had all the normal ones,  that  come|sd
 B| Yeah. |b
 A|and we just never watched any of them,|sd
 A|we kept a log for a month of every time we watched it|sd
@@ -165,7 +165,7 @@ B|but the, uh,|%
 B|I, I have not been bothered by it too much.|sd
 A|Yeah.|b
 B|So,|%
-A|Well, I can not, uh, think of too much else to say. *typo cannot?Since we are not big watchers.|sd
+A|Well, I can not, uh, think of too much else to say. *typo cannot? Since we are not big watchers.|sd
 B|Right.|b
 B|Okay.|b
 A|Well, it was nice talking to you.|fc

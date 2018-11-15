@@ -11,7 +11,7 @@ A|Uh-huh.|b
 B|Have you been cross-stitching long?|qy
 A|Oh, several years.|sd
 A|My husband is even interested in it now.|sd
-A|He likes to help me design, um, you know, projects that are,a little more customized.|sd
+A|He likes to help me design, um, you know, projects that are, a little more customized.|sd
 B|Oh, really.|b
 B|Mine, sort of, he looks at the pattern|sd
 B|and he says how do you get that from there to the material|sd
@@ -21,7 +21,7 @@ A|I really enjoy it.|sd
 A|Uh-huh.|b
 B|I do a lot of my own patterns also.|sd
 A|Yeah.|b
-B|In fact, I did one, BILL THE CAT, you know, from Glenn Countythat, uh, was a real good one to do.|sd
+B|In fact, I did one, BILL THE CAT, you know, from Glenn County that, uh, was a real good one to do.|sd
 A|Oh, yeah.|b
 B|It was tough,|sd
 B|but, uh, yeah.|%
@@ -30,13 +30,13 @@ B|or is this mainly cross-stitching?|qy
 A|Um, I do mostly that, um,|sd
 A|not very artistic really for like painting and stuff.|sd
 B|Oh, uh-huh.|b
-B|Um,Yeah.|%
+B|Um, Yeah.|%
 A|But, now I don't know.|sd
 B|I'm still trying to get all the D M C colors|sd
 A|Oh, really|b
 A|Yeah,|b
 A|I've got the kits to put them all in.|sd
-A|I don't have them all yetcertainly.|sd
+A|I don't have them all yet certainly.|sd
 B|Yeah,|aa
 B|right.|aa
 B|Yeah.|aa
@@ -48,11 +48,11 @@ B|it, yeah, it can add up quick.|sd
 A|Oh, yeah.|aa
 A|I just, I just keep an inventory of what I currently have,|sd
 A|and then when I start a new project, I go through and see if I, if I, you know,|sd
-A|just buy the colors that I needof what I'm low on.|sd
+A|just buy the colors that I need of what I'm low on.|sd
 B|Uh-huh.|b
 B|Right.|b
 B|I see.|ba
-B|Well, now can I improvise with adding and using another color instead, you know, what comes close.Because a lot of them are similar.|sd
+B|Well, now can I improvise with adding and using another color instead, you know, what comes close. Because a lot of them are similar.|sd
 A|Uh-huh.|b
 A|Yeah.|aa
 A|A lot of times you can do that.|sv
@@ -82,7 +82,7 @@ A|Oh, yeah.|b
 B|And just into everything,|sd
 B|so there's not a spare moment.|sd
 B|Oh, but I wouldn't trade it for the world.|sd
-B|I've been trying to do some bibs for him.And, uh, work on his Christmas stocking.|sd
+B|I've been trying to do some bibs for him. And, uh, work on his Christmas stocking.|sd
 A|Oh, yeah.|b
 A|Yeah.|b
 B|We missed it last year,|sd

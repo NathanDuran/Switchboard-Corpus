@@ -15,7 +15,7 @@ B|Have you lost him before?|qy
 A|No,|nn
 A|this is the first time.|sd
 A|Um, he's gotten out before,|sd
-A|but he's always stayed right hereyou know,|sd
+A|but he's always stayed right here you know,|sd
 B|Uh-huh.|b
 A|he's never gone away.|sd
 A|And so this is just really strange, you know because,|sd
@@ -69,27 +69,27 @@ A|How do they get along together?|qw
 B|Pretty good.|sd
 B|Uh, we've, we had the, the dog first,|sd
 B|and, uh, she's kind of a wimp|sd
-B|and,and the cat kind of rules,|sd
+B|and, and the cat kind of rules,|sd
 B|but, uh, she likes him all right.|sd
 B|He, we had another cat about two years ago.|sd
-B|It got leukemia, feline leukemiaso we had to have it put to sleep,|sd
+B|It got leukemia, feline leukemia so we had to have it put to sleep,|sd
 A|Um.|b
 B|and, uh, then we got this new cat,|sd
 B|so, uh. I have two children|sd
 B|and they really enjoy the animals.|sd
 B|And then my mother who's very elderly lives with us,|sd
 B|and she's really good friends with the dog.|sd
-B|They're very,good buddies.|sd
+B|They're very, good buddies.|sd
 A|Oh, yeah.|b
 A|That's what are so neat about animals,|sv
 A|I mean, they are, you know, like I said, they're, they're really companions, you know,|sv
-A|and they're friends,you know.|sv
+A|and they're friends, you know.|sv
 B|That's right.|aa
 A|I mean, they, you can love them all you want|sv
 A|and they love you right back|sv
 A|and they don't|%
 B|That's right.|ba
-B|They don't care what you look like,or what you act like,|sv
+B|They don't care what you look like, or what you act like,|sv
 A|No.|aa
 B|They just love you, unconditionally.|sv
 A|I know.|aa
@@ -136,7 +136,7 @@ B|yeah.|b
 A|You know, but you can't put that on the|sd
 B|No,|aa
 B|you sure can't.|aa
-A|you know, soSo, I don't know,|h
+A|you know, so So, I don't know,|h
 B|Oh, dear.|ba
 A|I, we will probably will put some things up. Some posters and stuff up|sd
 B|Well, that's good.|ba
@@ -180,10 +180,10 @@ A|they're so small|sv
 B|Yeah.|b
 A|and, you know, they can get hurt a lot easier.|sv
 B|Yeah.|b
-A|You know, they can get hurt a lot easier,you know,|sv
+A|You know, they can get hurt a lot easier, you know,|sv
 B|Yeah,|b
 B|they can.|aa
-A|so that would make you really,tend to worry about them you know, if they're not right there|sv
+A|so that would make you really, tend to worry about them you know, if they're not right there|sv
 B|Yeah.|b
 B|Yeah.|aa
 B|Well, but he's a real feisty guy.|sd
@@ -244,14 +244,14 @@ A|Uh-huh,|ny
 B|Uh-huh.|b^m
 A|yeah.|ny
 A|The backyard, it's really big, too, for him to run in and stuff.|sd
-A|That's why we couldn't understand why he would want to get outyou know, because he's had all this room to run in,|sd
+A|That's why we couldn't understand why he would want to get out you know, because he's had all this room to run in,|sd
 B|Yeah.|b
 A|and, but,|%
 B|Well, how did he get out?|qw
 A|He dug a hole under the fence.|sd
 B|Oh, boy.|ba
 A|Well, see, he did, he did it a couple weeks ago, dug a hole,|sd
-A|and, you know, we, we filled it back upput him back in there.|sd
+A|and, you know, we, we filled it back up put him back in there.|sd
 B|Uh-huh.|b
 A|He did it again|sd
 B|Uh-huh.|b
@@ -274,7 +274,7 @@ B|yeah.|b
 A|You know, it's like we can't understand why he kept wanting to get out, you know,|sd
 A|we just couldn't,|sd
 B|Well, you know, that, animals are like that.|sv
-B|They like to roam and investigate.And see what's going on.|sv
+B|They like to roam and investigate. And see what's going on.|sv
 A|Yeah|aa
 A|I guess that's,|%
 A|Yeah,|aa

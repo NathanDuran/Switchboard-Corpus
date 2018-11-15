@@ -1,7 +1,7 @@
 A|Okay,|fo_o_fw_"_by_bc
 A|well what do you do on your yard?|qo
 B|Well, uh, typical lawn stuff.|sd
-B|Saint Augustine, uhwith a little Bermuda mixed in in some of the sunny areas|sd
+B|Saint Augustine, uh with a little Bermuda mixed in in some of the sunny areas|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|uh, and really all I do to it is,|sd
@@ -53,7 +53,7 @@ A|I guess it was about four years ago.|sd
 A|And we did not know in August to put down the, uh, whatever it is for grub worms.|sd
 B|Uh-huh.|b
 A|And the next spring, I guess in that March, every time we would go out and just try to walk on the grass or reach down to pull a weed, we'd have big whole patches come up.|sd
-A|Have you ever seen itwhat grub worms do?|qy
+A|Have you ever seen it what grub worms do?|qy
 B|Yeah.|ny
 B|Yeah.|ny
 A|And we pulled up almost half of our yard just by raking it,|sd
@@ -71,10 +71,10 @@ A|we found them.|sd
 A|We dug under there about an inch|sd
 A|and you could see them.|sd
 A|They're real fat little white things,|sd
-A|andthey said they turn into black bugs in the spring|sd
+A|and they said they turn into black bugs in the spring|sd
 B|Yeah.|b
 B|Yeah,|aa
-B|those kind of brown, uh,What we call June bugs|sd
+B|those kind of brown, uh, What we call June bugs|sd
 A|yeah,|aa
 A|but in, but in the,|%
 A|Uh-huh.|b
@@ -91,20 +91,20 @@ B|well, I had some of that problem,|sd
 B|but mine was freeze.|sd
 A|Oh, yeah|aa
 A|that too,|aa
-A|two years ago, or last Christmasis that what you're talking about?|qy
+A|two years ago, or last Christmas is that what you're talking about?|qy
 B|Yeah,|ny
 B|yeah.|ny
 B|Yeah,|ny
-B|I'm stilluh, you know, kind of slow, and, as you say, very expensive.I'm still replacing that in the back, especially, under the trees|sd
+B|I'm still I'm still replacing that in the back, especially, under the trees uh, you know, kind of slow, and, as you say, very expensive.|sd
 A|Yeah,|b
 A|uh-huh.|b
 A|Uh-huh.|b
 A|Yeah.|b
 B|I caught Wolfe with, uh, uh, one, uh, one of the sales where they have those big blocks for fifty cents,|sd
-B|and, uhI bought about twenty of them.|sd
+B|and, uh I bought about twenty of them.|sd
 A|Oh, yeah.|b
 A|I guess you did too.|sd
-A|It's what they've done in the springor the fall.|sd
+A|It's what they've done in the spring or the fall.|sd
 B|Uh, well, I put, you know|%
 B|that was late,|sv
 B|that was like,|%
@@ -151,7 +151,7 @@ A|And my backyard, we had it really nice,|sd
 A|and then my husband wanted a Labrador puppy,|sd
 A|and so, it was about,|%
 A|I guess he's three now,|sd
-A|so the first summer he was here he dug up all of my bushes and plantsand brought them to the front door and the back door and laid them on the patio.|sd
+A|so the first summer he was here he dug up all of my bushes and plants and brought them to the front door and the back door and laid them on the patio.|sd
 B|Oh, yeah,|b
 B|oh, gee.|ba
 B|Um.|b
@@ -167,7 +167,7 @@ A|but, uh.|%
 B|I had a, had a small vegetable garden that, uh,|sd
 A|You did.|b
 B|It did pretty well,|sd
-B|it's, it's like on theside, the apron of the, of the parkway out behind the garage|sd
+B|it's, it's like on the side, the apron of the, of the parkway out behind the garage|sd
 A|Huh.|b
 A|Uh-huh.|b
 B|and, uh, our, our garages come in from the back, you know, from the alley|sd
@@ -176,7 +176,7 @@ A|yeah.|%
 B|and, uh, it's, it's a little piece of land over there|sd
 A|What did you grow?|qw
 B|Well, I had, uh, tomatoes and, and, uh, uh, peppers,|sd
-B|and I had,I had okra,|sd
+B|and I had, I had okra,|sd
 A|That is amazing.|ba
 B|and by the fence I had cucumbers, which, which didn't do real well, uh|sd
 A|Yeah.|b

@@ -27,12 +27,12 @@ A|my husband's from Nebraska,|sd
 A|and they have more of the four seasons.|sd
 B|Yeah,|b
 B|and I'm from Utah,|sd
-B|so, I, I like,the four seasons|sd
-A|Oh, you'reused to that, too.|bf
+B|so, I, I like, the four seasons|sd
+A|Oh, you're used to that, too.|bf
 B|I just don't like the cold.|sd
 A|You don't like the cold.|b^m
 A|Well, I usually like it about sweater weather,|sd
-A|and the problemhere in Plano is it doesn't last very long.|sv
+A|and the problem here in Plano is it doesn't last very long.|sv
 B|Uh-huh.|b
 A|It goes from hot,|sv
 A|and then you get a couple of weeks of that Indian Summer,|sv
@@ -46,12 +46,12 @@ A|and you really didn't have anywhere to go,|sd
 A|and it's sleeping time.|sd
 A|But if you have to get up and get out in it, I don't like it either|sd
 B|Well, we have several children that are in sports,|sd
-B|and soit always makes their games be postponed forever and ever and ever on, on, and on.|sd
+B|and so it always makes their games be postponed forever and ever and ever on, on, and on.|sd
 A|Oh, yeah.|b
 A|Well, sure it does.|aa
 A|That kind of schedule, you really need a lot more sunshine.|sv
 B|I like it better, I think.|sd
-A|And also the evenings are going to be getting, uh, darker sooneras it gets cooler.|sd
+A|And also the evenings are going to be getting, uh, darker sooner as it gets cooler.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 A|But I did a walk last night,|sd
@@ -67,9 +67,9 @@ A|and so I thought Dallas was awful,|sd
 A|and I still think so,|sv
 A|but then this summer we went to Orlando for a week,|sd
 A|and it was so humid there that your, um, all your windows were were wet every morning.|sd
-A|They had to get thesqueejies and clean them off.|sd
+A|They had to get the squeejies and clean them off.|sd
 B|Oh, really.|b
-A|And when we got back to Dallas it seemed really drybecause it's kind of like what you're used to.|sd
+A|And when we got back to Dallas it seemed really dry because it's kind of like what you're used to.|sd
 A|But I agree with you,|aa
 A|the humidity, especially for curly heads like me.|sd
 B|Oh, is that right?|bh
@@ -78,7 +78,7 @@ A|I do not like the|sd
 B|Well another reason,|%
 B|well, I guess I can't say that it, I don't like the rain completely.|sd
 B|We have a little garden that we have|sd
-B|andand so it really helps our garden,|sd
+B|and and so it really helps our garden,|sd
 A|Uh-huh.|b
 B|and, you know, even, I don't know if that's because plants are just that way|sd
 B|and they like rain,|sd
@@ -86,7 +86,7 @@ B|or, it seems they thrive when it rains,|sd
 B|they just, really,|%
 A|Yeah,|aa
 A|I think so too.|aa
-A|I know our grass needs mowing twice as oftenwhen it rains|sd
+A|I know our grass needs mowing twice as often when it rains|sd
 B|Uh-huh.|b
 B|Yeah.|b
 A|but it seems like here,|%
@@ -94,10 +94,10 @@ A|I would like it to rain and then be over, and then not rain for a while.|sd
 A|It seems like when it gets stuck in a rain pattern, that's all it does.|sv
 B|Yeah,|aa
 B|yeah.|aa
-A|So, uh, but I, I am ready for a little bit of the cooler weather and not so much in the ninetiesbut something like,|sd
+A|So, uh, but I, I am ready for a little bit of the cooler weather and not so much in the nineties but something like,|sd
 B|Well,|%
 A|I guess my, my best would be probably sixty-eight when you wake up or sixty-six, and then probably seventy-five during the day.|sd
-B|Well I like seventiesI like seventies okay.|sd
+B|Well I like seventies I like seventies okay.|sd
 A|Yeah.|b
 A|Yeah,|b
 A|are you, do you like the heat in the summer then when it gets up in the nineties and hundreds.|qy
@@ -112,7 +112,7 @@ A|keep it there|qy^d
 B|and I'm okay.|sd
 B|But when it gets too hot, then it's, that, I don't like that|sd
 A|Yeah.|b
-B|I stay in the house because it's just,It's just too hot.|sd
+B|I stay in the house because it's just, It's just too hot.|sd
 A|Well, I do, too,|sd
 A|I do, too|sd
 A|and that was one thing about the year around school that originally we had been sort of negative on it.|sd
@@ -122,7 +122,7 @@ B|yeah.|aa
 A|Static here.|sd
 B|That's okay|bd
 B|Um, I've, I've thought about that, too,|sd
-B|and, um, when we take our vacations, we, we do take them in August sometimesso that we can be away from here|sd
+B|and, um, when we take our vacations, we, we do take them in August sometimes so that we can be away from here|sd
 A|Yeah.|b
 A|We do too.|sd
 A|I think a lot of people agree the same.|sv
@@ -135,7 +135,7 @@ B|and we've been here years when it's been hundreds|sd
 B|and,|%
 A|Uh-huh,|b
 A|now there have been worse summers.|sv
-A|In fact this morning when they were talking about, uh, Harold Taft, they were talking about how this has been one of the milderof the summers and milder fall,|sd
+A|In fact this morning when they were talking about, uh, Harold Taft, they were talking about how this has been one of the milder of the summers and milder fall,|sd
 B|Years,|^2
 B|uh-huh.|%
 A|everybody seems to be,|sv
@@ -149,7 +149,7 @@ B|He, he always did such a good job, I thought.|sv
 A|Oh, yeah,|aa
 A|he did,|aa
 A|he did.|aa
-A|It wasit was really a shame.|sv
+A|It was it was really a shame.|sv
 B|A good weather man,|sv
 A|He didn't go with all the gimmicks that some of them did.|sv
 B|Yeah.|aa
@@ -159,7 +159,7 @@ B|That's okay,|bd
 B|they say when you're done you're done,|sd
 A|Oh, is that right?|bh
 A|Okay.|bk
-B|you don't have to wait for them to saycut off your time.|ad
+B|you don't have to wait for them to say cut off your time.|ad
 A|Oh, good.|ba
 B|You just say, Have a good day or whatever.|ad
 A|Well good,|ba

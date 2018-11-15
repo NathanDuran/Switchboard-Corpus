@@ -28,7 +28,7 @@ A|Yeah.|b
 A|We're doing some here in, in Cash Valley, the community here.|sd
 B|Uh-huh.|b
 A|There's, uh, we've actually got a kind of a nice set up.|sv
-A|We've got a couple of plants here that actually take, uh, recycled paper and shred it and spray it with chemical treatment so that it's not a fire hazardand make it into insulation|sd
+A|We've got a couple of plants here that actually take, uh, recycled paper and shred it and spray it with chemical treatment so that it's not a fire hazard and make it into insulation|sd
 B|Right.|b
 A|and they can actually use as much recycled paper as the community can get to them. Because they are actually buying it and shipping it in from outside.|sd
 B|Well, that's good.|ba
@@ -59,7 +59,7 @@ A|So his solution was to burn plastic. Collect it and burn it.|sd
 B|Well, it's carbon|sd
 B|so that makes sense,|sv
 B|like a carbon fuel of some sort,|sd
-B|but what  about emissions?what|qw
+B|but what  what  about emissions?|qw
 A|Yeah.|b
 A|And it's more than even paper or something like that.|sd
 A|There is more energy in it per pound or  whatever. |sd

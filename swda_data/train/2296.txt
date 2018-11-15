@@ -6,12 +6,12 @@ A|so if I have a lunch hour with nice weather I get out and, and walk.|sd
 A|What about you?|qo
 B|Well, um, I, uh, exercise regularly.|sd
 B|I work at a university,|sd
-B|and I swim almost every dayupwards of a mile,|sd
+B|and I swim almost every day upwards of a mile,|sd
 A|Uh, very good.|ba
 B|but Washington is one of my favorite places to visit.|sd
 B|Uh, my daughter lives in Arlington,|sd
 B|and when I go to visit her, I love to get out on that bike trail, and either ride the bike, oh,|sd
-B|gosh, you can ride a bike practically all the way to Southern Virginiaor just get out and walk, uh, or even jog a little, although I don't do that regularly.|sd
+B|gosh, you can ride a bike practically all the way to Southern Virginia or just get out and walk, uh, or even jog a little, although I don't do that regularly.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|But Washington's a great place to do that.|sd
@@ -20,7 +20,7 @@ A|there are, there are lots of bike paths.|sd
 A|I know, my son is a biker|sd
 A|and he, he's done the whole canal, I think it's a hundred and eighty miles, with the scouts.|sd
 B|Uh-huh.|b
-A|And so, but that somehow takes,organization.|sd
+A|And so, but that somehow takes, organization.|sd
 A|For me, it's much easier just the stationary bike,|sd
 A|you know, it's at home, I can, I can do some of my reading,|sd
 B|Right.|b
@@ -55,7 +55,7 @@ B|I mean, I just feel great.|sd
 B|That happens to me probably one in four or five times that I swim.|sd
 A|Oh, well, that's great,|ba
 A|that's great.|ba
-B|And that's really a terrific feeling, because you just go there at the end of the day, and you figure, God, I'm ready for bedand you exercise and then, it's sort of painful for a while,|sd
+B|And that's really a terrific feeling, because you just go there at the end of the day, and you figure, God, I'm ready for bed and you exercise and then, it's sort of painful for a while,|sd
 A|Uh-huh.|b
 B|but by the time you get done you feeling really terrific.|sd
 A|Right.|b
@@ -80,14 +80,14 @@ A|I don't know that.|sd
 A|But, I, I must say, that, um, when, when I did do a linguistics course in, in school, ages ago, um, the professor had a lot of trouble with my accent.|sd
 B|Huh.|b
 A|And it's probably because I, I, I was born in the Chicago area and grew up in California,|sd
-A|and at that point that was sort of the limitbut since then I've been abroad a lot,|sd
+A|and at that point that was sort of the limit but since then I've been abroad a lot,|sd
 B|Huh.|b
 B|I see.|ba
 B|I know this isn't on our topic,|sd
 B|but where did you grow up in California?|qw
 A|In Santa Barbara.|sd
 B|Oh, okay,|bk
-B|because I grew up in North Hollywood, Californiawent to U C L A and all that.|sd
+B|because I grew up in North Hollywood, California went to U C L A and all that.|sd
 A|Oh, I see.|ba
 A|Uh-huh.|b
 A|Well, very good,|ba

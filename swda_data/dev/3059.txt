@@ -1,7 +1,7 @@
 A|Okay.|fo_o_fw_"_by_bc
 A|Um, the last movie that I have seen,|sd
 A|it's been, it's been a couple of months.|sd
-A|I saw, um, SLEEPING WITH THE ENEMYand FLATLINERS.|sd
+A|I saw, um, SLEEPING WITH THE ENEMY and FLATLINERS.|sd
 B|Yes,|b
 B|I saw that one.|sd
 A|Those were the last two that I've seen.|sd
@@ -25,7 +25,7 @@ A|No,|nn
 A|I haven't gotten to see you know, any real recent ones.|sd
 A|I like comedies better than I do dramas.|sd
 B|I, uh, am not one for the, uh,|sd
-B|I don't need the suspense movies or the,the movies with lots of, uh, the horror movies with, uh, trying to shake you out of your chair.|sd
+B|I don't need the suspense movies or the, the movies with lots of, uh, the horror movies with, uh, trying to shake you out of your chair.|sd
 A|Uh-huh.|b
 A|Did you care for SLEEPING WITH THE ENEMY?|qy
 B|Um, I'm not sure|no
@@ -35,7 +35,7 @@ B|Uh, but on the other hand, I'm not sure I would have gone otherwise,|sd
 B|and having gone, uh,|%
 B|well, it really wasn't on a theme that I was, uh, uh, that into,|sd
 B|or, as I say, I prefer the light movies that, uh,|sd
-B|my style of entertainment is, is comedy, uh, primarilyand then into action films.|sd
+B|my style of entertainment is, is comedy, uh, primarily and then into action films.|sd
 A|Uh-huh|b
 A|well, I didn't care for the movie myself.|sd
 B|What?|br
@@ -72,7 +72,7 @@ A|and I don't usually like them,|sd
 A|and I really enjoyed it.|sd
 A|I, um, I don't know,|h
 A|it was kind of,|%
-A|it made you think a lotI think.|sv
+A|it made you think a lot I think.|sv
 B|Uh-huh.|b
 A|Did you see GHOST?|qy
 B|Yes.|ny
@@ -81,7 +81,7 @@ A|now, did you care for that one?|qy
 B|Uh, that was,|%
 B|I enjoyed that one.|na
 B|I, in that I, I guess I, I hate to be too surprised in a movie,|sd
-B|and in that one you could, you could pretty well guess where it was,going to end up.|sd
+B|and in that one you could, you could pretty well guess where it was, going to end up.|sd
 B|You weren't sure exactly how it would get there,|sv
 B|but you knew where it would end up.|sv
 A|Uh-huh.|b
@@ -98,7 +98,7 @@ A|Well, of course, uh, a bunch of girls had told me and warned me,|sd
 A|and they said, "Oh, it's a real tearjerker," and da, da, da, da, da.|sd
 A|Meanwhile, I sat through the movie and said well, when are you, when are you supposed to start crying, you know|sd
 B|Yeah.|b
-A|I didn't really,Uh, I didn't really find it to be a tearjerker|sd
+A|I didn't really, Uh, I didn't really find it to be a tearjerker|sd
 B|Well, whenever she starts crying|sd
 B|Well, do you go to many movies more than once?|qy
 A|Um, if I see them more than once, I see them on video.|na
@@ -115,7 +115,7 @@ A|Yeah,|b
 A|uh-huh.|b
 B|So we have, um,|%
 B|well, I think just most people have V C R now|sv
-B|and we probably watch twice as many movies at homeas we do at movie theaters.|sd
+B|and we probably watch twice as many movies at home as we do at movie theaters.|sd
 A|Oh, yeah.|b
 A|Uh-huh.|b
 A|No,|nn
@@ -126,7 +126,7 @@ A|and it was, it it was a drama.|sd
 B|Did you go to DANCES WITH WOLVES?|qy
 A|I wanted to see that.|sd
 A|I didn't get to.|sd
-B|I, at least what I hear on that one, that it's coming out a second time in a, in a longer versioneven though it was a long movie.|sd
+B|I, at least what I hear on that one, that it's coming out a second time in a, in a longer version even though it was a long movie.|sd
 A|Oh, really?|bh
 B|It's sort of the uncut version.|sd
 B|At least that was some of the rumors.|h
@@ -149,7 +149,7 @@ A|Yeah,|b
 A|that's pretty much what I do.|sd
 A|I, I know for sure that that one about,|sd
 A|what was that one about Bob?|qw
-B|Uh, it's kind of,WHERE'S BOB? or WHAT ABOUT BOB?|sd
+B|Uh, it's kind of, WHERE'S BOB? or WHAT ABOUT BOB?|sd
 A|I think it's just,|sv
 A|Yeah,|b
 A|I think it's just playing now up here.|sv

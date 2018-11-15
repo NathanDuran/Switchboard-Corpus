@@ -10,7 +10,7 @@ B|It's hurting, you know, it's hurting Germany, for example, too, and some other
 B|So we're not the lone ranger here.|sv
 A|Yeah.|b
 A|I, uh, I,|%
-A|it's hard to put the finger on, uh, what's worse, you know, the acid rain situation or the ozone depletion, um, with, uh, your hydrocarbons, uhcausing the damage in which,|sv
+A|it's hard to put the finger on, uh, what's worse, you know, the acid rain situation or the ozone depletion, um, with, uh, your hydrocarbons, uh causing the damage in which,|sv
 B|Yeah.|b
 B|Hopefully we're backing off from that a little bit,|sv
 B|but I know we haven't cured it yet by a long shot.|sv
@@ -40,15 +40,15 @@ B|We have that here, too,|sd
 B|but it's part of the inspection sticker, you know,|sd
 B|they put a probe in your exhaust pipe|sd
 B|and, and the computer reads whatever the ionization is coming out,|sd
-B|andso that's, you know, that's the way they're dealing with it here.|sd
+B|and so that's, you know, that's the way they're dealing with it here.|sd
 A|Yeah.|b
 A|Yeah, uh,|b
 A|yeah|b
 A|I guess that was just mainly in the cities there,|sd
 A|and as far as where I live, I don't have to do that,|sd
-A|butI have an old car which I doubt would, uh, would, uh, pass the inspection, a seventy-six,|sd
+A|but I have an old car which I doubt would, uh, would, uh, pass the inspection, a seventy-six,|sd
 B|Yeah.|b
-A|and, uh, you know, there's no way I would put in a lot of money to, to repair itto meet standards.|sd
+A|and, uh, you know, there's no way I would put in a lot of money to, to repair it to meet standards.|sd
 B|Yeah.|b
 B|It'd probably be difficult anyway.|sv
 A|Yeah.|b
@@ -75,7 +75,7 @@ B|The more smoke is produced, you know,|sd
 B|after you get to like five hundred degrees, the higher it gets the more complete the combustion is.|sd
 B|And it sounds real neat.|sd
 B|I haven't seen them priced anywhere yet,|sd
-B|but that, that sounds like that might help solve that problem even onyou know, old, old, uh, older stoves that don't have any kind of E P A requirements on them.|sd
+B|but that, that sounds like that might help solve that problem even on you know, old, old, uh, older stoves that don't have any kind of E P A requirements on them.|sd
 A|Yeah.|b
 B|That might help a little bit, especially in some places.|sv
 B|We're really lucky here.|sd
@@ -90,7 +90,7 @@ A|Yeah,|b
 A|well, well around here I, we get, uh,|%
 A|well it depends, you know,|sd
 A|either in the, in the winter time it, it blows it your way,|sd
-A|and in thewe probably get yours.summer time|sd
+A|and in the summer time we probably get yours.|sd
 B|Yeah.|b
 B|It comes back.|^2
 B|Yeah.|b
@@ -99,7 +99,7 @@ B|Education, raising consciousness awareness,|sv
 B|uh, I know school kids,|%
 B|I work for the school district here,|sd
 B|and, uh, you know, this is one of the big things with kids.|sd
-B|Kids are writing letters to the newspapers about, you know, telling adults toclean up their act|sd
+B|Kids are writing letters to the newspapers about, you know, telling adults to clean up their act|sd
 A|Yeah.|b
 B|and, it's uh, you know,|%
 B|I hope we're not too late with it.|sv

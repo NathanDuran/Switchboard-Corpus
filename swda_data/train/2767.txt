@@ -19,8 +19,8 @@ A|So, so what changes have you seen?|qw
 B|What changes, uh,|t1
 B| I  guess the biggest,|%
 B|I don't know your age Judy,|qw^d
-B|but, uh, in my lifetime the biggest is in more women working, definitely. |sd
-A|Well, actually, that's  what I was thinking too.|aa
+B|but, uh, in my lifetime the biggest is in more women working,  definitely. |sd
+A|Well, actually,  that's  what I was thinking too.|aa
 B|Yeah.|b
 A|And, um, you know, just to jump ahead a little bit|sd
 A|but then we can back up.|ad
@@ -60,7 +60,7 @@ B|Uh-huh.|b
 A|And it's in a technical position really.|sd
 A|And you know she should be more technical for what she does.|sd
 B|Uh-huh.|b
-A|And I think that's sort of unfortunate, because  it doesn't, it doesn't really help the cause in the long run|sv
+A|And I think that's sort of unfortunate,  because  it doesn't, it doesn't really help the cause in the long run|sv
 B| Right. |b
 A|But, um, you know, I don't know.|h
 A|And, and teaching I still see that that's where most of the woman are.|sv
@@ -74,9 +74,9 @@ B|We live in a college town|sd
 B|and I worked at the university for a while.|sd
 A|Uh-huh.|b
 B|And there are, there are woman there|sd
-B|but they're not the high paidthe men are professors that, |sd
+B|but they're not the high paid  professors that,  the men are|sd
 A|Uh-huh.|b
-A|Not department, chairmen. |^2
+A|Not department,  chairmen. |^2
 A|Yeah.|b
 A|Not the deans and things like that.|bf
 B|Well, they did have one woman dean|ar
@@ -109,14 +109,14 @@ B|But they may not go into teaching,|sv
 A|Uh-huh.|aa
 A|Yeah,|aa
 A|I mean, the two that I know obviously are not in teaching|sd
-A|but, um,  it's, I suppose in a since I was surprised when they told me they majored in engineering.|sd
+A|but,  um,  it's, I suppose in a since I was surprised when they told me they majored in engineering.|sd
 B| Uh-huh. |b
 A|I don't know why.|sd
-A|I, but I don't know that many men that have majored in engineering, either. |sd
+A|I, but I don't know that many men that have majored in engineering,  either. |sd
 B| Uh-huh. |b
 A|I mean it's just, because I'm in the humanities it's just,|sd
 B| Oh, uh-huh |b
-A| You know,  it's not, it's  not something that I tend to hear about.|sd
+A| You know,  it's not,  it's  not something that I tend to hear about.|sd
 B| Yeah. |b
 B|Uh-huh.|b
 A|But, um, yeah,|b
@@ -142,23 +142,23 @@ A|So that it might be circularly being the same problem of, of expecting not to 
 B| Uh-huh. |b
 A| so  why spend your time getting qualified.|qh
 B|That's right.|aa
-A|It's a, it's a roughIt's a rough, a rough situation.|sv
+A|It's a, it's a rough It's a rough, a rough situation.|sv
 A|Um, and I guess what I, what, amazes me is the number of men who are willing to stay home with the kids|sd
-A|or and, in our case we actually have one father who works part-time, a six, comes  home in the afternoon. to school  in the morning and be home when the children or child, hour  day so that he can take the kids, kids or kid, I'm not sure,|sd
+A|or and, in our case we actually have one father who works part-time, a six,  hour  day so that he can take the kids, kids or kid, I'm not sure,  to school  in the morning and be home when the children or child,  comes  home in the afternoon.|sd
 B| Oh. |b
 B| That's interesting, |ba
 B|Is it, uh, was she the major wage earner,|qy
 A| This is, uh, |%
 B| I mean, did  she earn more money that he did|qy
-B|or you know. |%
-A|Well, see, I don't know  anything about the family|no
+B|or  you know. |%
+A|Well, see,  I don't know  anything about the family|no
 A|but, but, yeah,|ny
 A|I would imagine she might. Um,|sd
 A|because he's, you know, he's a really nice guy|sd
 A|but he did say that because he was in the humanities and he's now working in more of a technical situation that he had trouble finding a job.|sd
 B|Oh, uh-huh.|b
 A|So that maybe he, you know, maybe she was more qualified.|sd
-A|But, but still it's interesting that, you know, he, he's  been doing this evidently for a, a good number of years.|sv
+A|But, but still it's interesting that, you know, he,  he's  been doing this evidently for a, a good number of years.|sv
 B| Uh-huh. |b
 A|And, uh, but it's unusual.|sv
 B|Uh, I know one, uh, gal|sd
@@ -169,8 +169,8 @@ A|Yeah|b
 A|I,|%
 B|And then they had a child|sd
 B|and he, he was still the house husband.|sd
-B|He wasn't, going to, |sd
-A| Oh, he was, even before they had children.|qy^d
+B|He wasn't,  going to, |sd
+A| Oh, he was,  even before they had children.|qy^d
 B|Uh-huh.|ny
 B|Even before that,|sd
 B|right.|na
@@ -184,7 +184,7 @@ B|but I know, uh, we're, we all went out one evening|sd
 B|and after work and, uh, she was, there was an underlying note she was perturbed about it.|sd
 A|Uh-huh.|b
 A|Yeah,|b
-A|I mean I think that would be, it would, it would strike one as strange if there's no reason forsomebody to stay home that,|sv
+A|I mean I think that would be, it would, it would strike one as strange if there's no reason for somebody to stay home that,|sv
 B|Uh-huh.|b
 B|I don't think there was a valid reason|sv
 A|Yeah|aa
@@ -198,7 +198,7 @@ B|She wouldn't have be,|sv
 B|that's right.|aa
 B|Uh-huh,|aa
 B|that's right.|aa
-A| So, so we're, carrying our own prejudice|sv
+A| So, so we're,  carrying our own prejudice|sv
 B| it would, it  wouldn't have been a doubter .|sv
 B|Uh-huh.|aa
 B|That's true.|aa
@@ -212,13 +212,13 @@ A|But if|%
 B|That's right|aa
 A|Oh, dear.|ba
 A|So, so,|%
-B|I think maybe more men would like to be if theyweren't put down so badly|sv
+B|I think maybe more men would like to be if they weren't put down so badly|sv
 A|If they could get away with it|^2
 A|Oh, dear.|ba
 A|You know, well, uh, I mean it, it's an interesting topic|sv
-A|yet I must say it's not one that I've given a great deal of, of  thought to|sd
+A|yet I must say it's not one that I've given a great deal of,  of  thought to|sd
 B| Huh-uh. |aa
-A|but, uh, in the past.|sd
+A|but, uh,  in the past.|sd
 B| No,|aa
 B|I didn't. |sd
 A| It's, um, one of those things that, you know, seems to happen.|sv
@@ -251,15 +251,15 @@ B|and|%
 A|Oh, jeez.|ba
 A|Yeah,|b
 A|actually in a since I suppose, when I was hired into the government, um, at, I was taken advantage of|sd
-A|and, and that's true that, you know, sometimes other people get, get higher increments, for, you know,  even,|sv
+A|and, and that's true that, you know, sometimes other people get, get higher increments,  for, you know,  even,|sv
 B| I|%
 B|uh-huh. |b
-B|I think we, uh, are programmed to just take itas it comes.|sv
+B|I think we, uh, are programmed to just take it as it comes.|sv
 A|Right.|b
 A|Right.|aa
 A|That's probably true.|aa
 A|I hadn't, I hadn't thought about it because I do like what I do|sd
-A|and, part  of it since I didn't like it when, when I had to do it. uh,  I just sort of ignore the administrative,|sd
+A|and,  uh,  I just sort of ignore the administrative,  part  of it since I didn't like it when, when I had to do it.|sd
 B| Uh-huh. |b
 B| Uh-huh. |b
 A|So I, I figure, you know, nobody must, uh, nobody must like it.|sv

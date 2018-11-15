@@ -25,7 +25,7 @@ B|And, it's, it's, they're,|%
 B|and also they're fed up with the system,|sv
 B|and they say, well, why should I even vote.|sv
 A|Yeah,|b
-A|or sometimes they don't like either of the choicesfor the candidates,|sv
+A|or sometimes they don't like either of the choices for the candidates,|sv
 B|Right.|b
 A|so they think, well, you know, why vote.|sv
 B|Right.|aa
@@ -50,13 +50,13 @@ B|You know, we get this lackadaisical attitude,|sv
 B|and say, huh, you know, why should we vote,|sd
 B|then, you know, it could, uh, it could lead to some serious things.|sv
 A|Yeah.|b
-A|It also seems like maybe another candidate that nobody wants could slip inif, you know, not enough people are voting.|sv
+A|It also seems like maybe another candidate that nobody wants could slip in if, you know, not enough people are voting.|sv
 B|Uh-huh.|b
 B|Right, uh,|aa
 B|yeah,|aa
 B|we can get, uh, yeah, if we get someone in there like that, then, you know, they could make all sorts of changes that they were, you know, had enough pull.|sv
 A|Yeah,|b
-A|it's kind of like in Louisiana where that, uh, guy that's like a Ku Klux Klanmember something got elected.|sd
+A|it's kind of like in Louisiana where that, uh, guy that's like a Ku Klux Klan member something got elected.|sd
 B|Yes.|aa
 B|Uh-huh.|b
 A|Kind of scary when you think about that.|sv
@@ -75,12 +75,12 @@ A|people will sit home and assume, oh, that guy would never get elected.|sv
 B|Uh-huh.|b
 A|Next thing you know, you've got him.|sv
 B|Right.|aa
-B|If you don't go and vote, then, you know, very good chance that they, they willbecause a lot of the people like that, they'll strike a chord in something, you know, in some of the people, that so will say, look, you know, this guy's got everything together.|sv
+B|If you don't go and vote, then, you know, very good chance that they, they will because a lot of the people like that, they'll strike a chord in something, you know, in some of the people, that so will say, look, you know, this guy's got everything together.|sv
 A|Yeah.|b
 B|You know, I like what he says,|^q
 B|and he'll be so far off the wall that they'll elect him.|sv
 A|Right, yeah.|b
-B|And, uh, I think that's sort of what happened with Louisianabecause, because, um, the guy did get elected, correct?|qy
+B|And, uh, I think that's sort of what happened with Louisiana because, because, um, the guy did get elected, correct?|qy
 A|Yeah.|b
 A|Right.|na
 B|That's what I thought.|sd
@@ -99,7 +99,7 @@ B|you can just go and vote|sd
 A|Right.|b
 B|and the polls are open, what was it, a couple of weeks,|sd
 B|the hours are good|sv
-B|and they're even open on Saturdaysand a couple of Sundays.|sd
+B|and they're even open on Saturdays and a couple of Sundays.|sd
 A|Uh-huh.|b
 B|And so we've got plenty of time to go, because down here in Houston, it's, uh, the lines are long.|sd
 A|Yeah,|b
@@ -124,14 +124,14 @@ B|Um, yeah,|b
 B|I've been involved with, uh, some of the campaigns and the state conventions of the, of the Republican party.|sd
 B|And it's really interesting to see the process as far as what goes through as far as the voting and the, uh, how the, uh, the not the ballots,|sv
 B|but, uh, my mind has gone blank.|sd
-B|I've been all eveningHow they develop, uh, what the candidate stands for|sd
+B|I've been all evening How they develop, uh, what the candidate stands for|sd
 A|Uh-huh,|b
 B|you know, the views, and, uh, you know, everybody gets to vote on, you know, well, should he be for this and on and on and on,|sd
 B|and, uh, it's, it's interesting.|sv
 A|Yeah,|aa
 A|that would be.|sv
 A|I usually vote.|sd
-A|A lot of times I'll vote a straight party ticket just because I don't take the time to find out what every, you know, other than the major candidates, what they stand foron what issues,|sd
+A|A lot of times I'll vote a straight party ticket just because I don't take the time to find out what every, you know, other than the major candidates, what they stand for on what issues,|sd
 B|Uh-huh.|b
 A|so I'll just trust well, the party kind of goes along these lines so I'll go ahead and vote.|sd
 B|Right.|b
@@ -139,7 +139,7 @@ B|There for a while, that would, that worked.|sv
 B|We've, uh, I know I have, um,|%
 B|I'll stick to uh, to the, you know, sometimes I'll stick to a certain party, depends on the guy.|sd
 A|Uh-huh.|b
-B|But, uh, if it, uh, gets down between two, then I'll, I'll vote for the partybecause I know, you know, something about the other guy|sd
+B|But, uh, if it, uh, gets down between two, then I'll, I'll vote for the party because I know, you know, something about the other guy|sd
 A|Yeah.|b
 B|or, you know, they're both just as bad,|sv
 B|and I'll say, Well, I know what this guy stands for as far as for his party,|sd
@@ -159,7 +159,7 @@ A|Yeah.|b
 B|I, I don't agree with how the media handles elections.|sd
 A|Yeah.|b
 B|I, you know, I'm tired of hearing about the polls, you know, you know,|sd
-B|this is how he stands such and such a daythe way they break it out,|sd
+B|this is how he stands such and such a day the way they break it out,|sd
 A|Yeah.|b
 B|it's just, it's just ridiculous.|sv
 A|Yeah,|b

@@ -67,9 +67,9 @@ A|Some, he didn't look that stupid.|^q
 A|Why didn't he pay his taxes? You know. *listen|^q
 B|Right.|aa
 B|Uh-huh.|b
-A|In a way, it's almost like he had so much debt that, uh, filing bankruptcy was a way to get out of all of ityou know.|sv
+A|In a way, it's almost like he had so much debt that, uh, filing bankruptcy was a way to get out of all of it you know.|sv
 B|Right.|b
-A|So. Do you file federal or joint income tax,And do you feel like you get hit by, you know, too much?|qy
+A|So. Do you file federal or joint income tax, And do you feel like you get hit by, you know, too much?|qy
 B|I just file federal income tax every year.|sd
 B|Yeah,|ny
 B|I just got divorced,|sd
@@ -92,7 +92,7 @@ B|Right.|b
 A|So it's kind of hard.|sd
 B|Whoever works less, they can get a tax credit for that.|sd
 A|Excuse me.|br
-B|If both of the, both of the spouseswork, then you get a tax credit for that.|sd
+B|If both of the, both of the spouses work, then you get a tax credit for that.|sd
 A|Uh-huh.|b
 A|Right.|aa
 A|Yeah|aa

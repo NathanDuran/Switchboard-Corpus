@@ -6,7 +6,7 @@ A|Uh-huh.|b
 B|Uh, I'm not sure where Georgia ranks in the nation|sd
 B|but, uh, we're toward the bottom.|sd
 A|Yeah.|b
-B|And, uh, there's a lot of things that I see that are so obviously wrong.That you would think it would be easy to correct.|sv
+B|And, uh, there's a lot of things that I see that are so obviously wrong. That you would think it would be easy to correct.|sv
 A|Uh-huh.|b
 A|Right.|b
 B|But the system doesn't allow for the corrections|sv
@@ -28,7 +28,7 @@ A|I can't really say much about the schools up here.|sd
 A|I really don't come from here|sd
 B|Uh-huh.|b
 A|I'm only up here temporarily on an internship |sd
-A|but uh, I live in Orlando, Florida usually.|sd
+A|but  uh, I live in Orlando, Florida usually.|sd
 B| Okay. |b
 A|And the schools down there, from what I know, are not bad.|sd
 A|They're pretty good.|sd
@@ -58,12 +58,12 @@ B|And the money they do have, they're not, they do not use it wisely.|sv
 A|Yeah.|b
 B|Uh, she, my son's teacher has twenty-seven students.|sd
 A|Uh-huh.|b
-B|And that's certainly is a lot of students for one person  to deal with on an every day basis.  Uh |sv
+B|And that's certainly is a lot of students for one person  to deal  with on an every day basis.  Uh |sv
 A| Yeah. |b
 A| Perhaps. |aap_am
 B|but more than that, I don't think that they have the authority to command the attention of the children.|sv
 A|Yeah.|b
-B|And when you have two kids in that class that constantly keeps the class in an uproar and you're not at libertyit, you know, it can, it can really be bad.to do something about it, other than give them on campus isolation or send them to the  principal's office. It |sv
+B|And when you have two kids in that class that constantly keeps the class in an uproar and you're not at liberty to do something about it, other than give them on campus isolation or send them to the  principal's office. It  it, you know, it can, it can really be bad.|sv
 A|Yeah.|b
 A| Yeah,|aa
 A|that's, that's  one thing I worry about .|sd
@@ -90,7 +90,7 @@ A| Yeah|aa
 A|but,  you know, it, it's,|%
 A|you don't want to seem racist or prejudice or whatever,|sv
 A|but  then again. |sv
-B| But it is  a problem Uh, especially  in the inner schools,  inner city. |sv
+B| But it is  a problem  Uh, especially  in the inner schools,  inner city. |sv
 A|Yeah,|aa
 A|there is no denying that,  that, |aa
 A| Sure,  you know.|ba
@@ -99,7 +99,7 @@ B| Well, |arp_nd
 B|and you can't put all the children in special education.|sv
 A|That's right,|aa
 A|you can't do that.|sv
-B|Uh, and if the parents do not care enough to take an interest in whether the homework is doneyou know.|sv
+B|Uh, and if the parents do not care enough to take an interest in whether the homework is done you know.|sv
 A|Right.|b
 A|See, I grew up in Nebraska|sd
 B|Uh-huh.|b
@@ -112,14 +112,14 @@ A| But, |%
 B| But  your teacher had control.|bf
 A|Yeah.|aa
 A|We zipped right along, you know.|sd
-A|I, Iwas, I was doing mathematics, fractions and division and multiplication by the third grade, easily.|sd
+A|I, I was, I was doing mathematics, fractions and division and multiplication by the third grade, easily.|sd
 B|Uh-huh.|b
 B|Yeah.|aa
-B| I, I believe I was too.|sd
+B| I, I  believe I was too.|sd
 A| Uh, |%
 A|Uh-huh.|b
 A|But, you're right, you know.|aa
-A|With all this, don't hurt the kids and don't abuse their rights,  you've also taken something away from the discipline, I  think. |sv
+A|With all this, don't hurt the kids and don't abuse their rights,  you've also taken  something away from the discipline, I  think. |sv
 B| Uh-huh |b
 B| Uh,  well, it, it really is a concern of mine because if we could afford it, my son would be in private school.|sd
 A|Yeah.|b

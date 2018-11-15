@@ -1,7 +1,7 @@
 A|Do you think that there's any way that, uh,|qy
 A|or do you think there's too much crime now?|qy
-A|I mean, I guess,any crime is too much|sv
-A|but,It's out of control.|sv
+A|I mean, I guess, any crime is too much|sv
+A|but, It's out of control.|sv
 B|Uh, yeah,|aa
 B|yeah.|aa
 B|Uh, well, uh, out of control, I don't know.|ar
@@ -26,11 +26,11 @@ A|Yeah,|b
 A|I wonder, I mean, I wonder what, what really is the answer.|sd
 A|I mean, it seems like our, our, the prison systems, we can't seem to decide whether or not it's a reform system or penal system.|sv
 B|Yeah,|b
-B|I think most people regard it as a warehouse.Where you put away the people that are so bad that, uh, you don't want them out in circulation.|sv
+B|I think most people regard it as a warehouse. Where you put away the people that are so bad that, uh, you don't want them out in circulation.|sv
 A|Yeah.|b
 A|But, but the problem is, is that we, we only have but so much room|sv
 A|and we, we try to put aside in the warehouse,|sd
-A|and all we do is just displace other people which come back into society andcommit crimes|sv
+A|and all we do is just displace other people which come back into society and commit crimes|sv
 B|Yeah.|b
 A|and,|%
 B|That's what I hear.|aa
@@ -47,19 +47,19 @@ A|and, uh,|%
 B|Oh, you mean she taught in a prison?|qy
 A|Yes.|ny
 B|Oh.|b
-A|In ain a maximum security prison down in central Virginia.|sd
+A|In a in a maximum security prison down in central Virginia.|sd
 B|I see.|b
 B|uh.|%
 A|And, the problem she had was not with the inmates at all.|sd
 A|The, the people that she had the most problems with were the people that ran the prison.|sd
-A|I mean,It was, it was, I mean,|%
+A|I mean, It was, it was, I mean,|%
 B|Yeah,|b
 B|the the bureaucracy.|bf
 A|they, they put her, I mean,|sd
 A|I didn't, obviously I didn't see the classroom, uh, and, hopefully never will,|sd
-A|but, uhthey, they put her at the end of a hallway,|sd
+A|but, uh they, they put her at the end of a hallway,|sd
 A|there were no other classes going on at the time|sd
-A|and they refused to let her wear a body a body alarm.Which,|sd
+A|and they refused to let her wear a body a body alarm. Which,|sd
 B|Uh.|%
 A|and|%
 A|I don't know exactly what that is,|sd
@@ -95,19 +95,19 @@ A|I always have problems because, because I can never decide whether or not I'm,
 A|but,|%
 B|Yeah,|b
 B|right.|b
-A|But I keep,I keep thinking that there's got to be some way, that, that a lot of this is circumstances.|sv
+A|But I keep, I keep thinking that there's got to be some way, that, that a lot of this is circumstances.|sv
 B|Those are funny see|sv
-A|I mean, I can't help but wonder if, if I grew up without a father, on the streets, andwouldn't I be in prison thiswith like little or no money, wouldn't|sv
+A|I mean, I can't help but wonder if, if I grew up without a father, on the streets, and with like little or no money, wouldn't wouldn't I be in prison this|sv
 B|Oh, yeah.|b
-B|Oh,Oh, yeah,|aa
+B|Oh, Oh, yeah,|aa
 B|absolutely.|aa
 B|I think, uh, yeah, I think you can blame it on social problems.|sv
 B|Sure.|aa
 A|I mean, I don't know.|h
 B|I mean, as, as, you know, as poverty has gotten worse, as, you know, education has gotten worse, as there's been more single parent families, as there's been more homelessness, there's been more crime.|sv
-A|We've got methadone programs where people who desperately want to get off drugs can't get onto the program. |sv
+A|We've got methadone programs where people who desperately want to get off drugs can't  get onto the program. |sv
 B| Yeah,|aa
-B|there's not enough beds and treatment programs, rising drug abuse,|sv
+B|there's not enough  beds and treatment programs, rising drug abuse,|sv
 B|and, yep,|aa
 B|it's a mess.|sv
 A|I don't, I don't remember the, the gentleman's name,|sd

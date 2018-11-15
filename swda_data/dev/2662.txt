@@ -31,7 +31,7 @@ A|What have you been to lately?|qw
 B|Um, let's see.|^h
 B|Well, uh, this is almost, sort of funny.|sd
 B|I was just um,|sd
-B|friend and I went to see OUT FOR JUSTICEwhich is Steven Segal, because, uh, we're both big karate fans.|sd
+B|friend and I went to see OUT FOR JUSTICE which is Steven Segal, because, uh, we're both big karate fans.|sd
 A|Yeah.|b
 A|Oh, yeah.|b
 B|So we wanted to see what this is like.|sd
@@ -121,7 +121,7 @@ B|You know, they go|sd
 B|and they decide if you can move up to the next level.|sd
 A|Oh.|b
 B|I don't know if you've ever read Jonathan Livingston Seagull,|qy^d
-B|butit's something like that.|sd
+B|but it's something like that.|sd
 A|Yeah,|ny
 A|years ago.|sd
 B|They sort of move up to levels,|sd
@@ -154,7 +154,7 @@ A|And it kind of makes you wonder,|sv
 A|I'm also, besides working at T I, I'm a graduate student at North Texas and working on master's in communication.|sd
 A|It's the behavioral science part of communication,|sd
 A|and I think about these things and people trying to define their own world view,|sd
-A|and, uhwhat exactly do we, you know, do we see about this world,|qh
+A|and, uh what exactly do we, you know, do we see about this world,|qh
 B|Um.|b
 A|or why are we so fascinated with the other world.|qh
 A|Is it supposed to be better?|qh
@@ -185,7 +185,7 @@ A|it is.|aa
 B|Probably, probably worth seeing on video.|sv
 B|Actually we really enjoyed it,|sd
 B|but it was also right along the same lines.|sd
-B|I meanthey, they would go ahead and kill themselves for three or four minutes to see what happens.|sd
+B|I mean they, they would go ahead and kill themselves for three or four minutes to see what happens.|sd
 A|Yeah.|b
 A|Yeah,|b
 A|they said, she said that this was almost believable|sd
@@ -194,8 +194,8 @@ A|You know, you get the medical profession doing these kinds of things,|sv
 A|and you never know.|sv
 B|Almost,|aa
 B|yeah,|aa
-B|I, I, it's a little far fetched to,find a bunch of medical students doing it,|sv
-B|butbut, it was, um, it was, it was odd enough, you know,|sd
+B|I, I, it's a little far fetched to, find a bunch of medical students doing it,|sv
+B|but but, it was, um, it was, it was odd enough, you know,|sd
 A|Yeah.|b
 B|and they didn't just sort of make it silly.|sd
 B|It was, you know, it was done fairly well, I think.|sd

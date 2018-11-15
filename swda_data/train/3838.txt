@@ -17,7 +17,7 @@ A|Oh.|b
 B|But I married a Texan,|sd
 B|and they have a way of dragging you back home.|sv
 B|Anyway, we're supposed to be talking about crafts.|sd
-B|Do you, um, do you have any hobbies that, that you do things with your handslike knitting or,|qy
+B|Do you, um, do you have any hobbies that, that you do things with your hands like knitting or,|qy
 A|Um.|%
 A|Well, I crochet,|na
 A|and I do water color,|sd
@@ -33,9 +33,9 @@ A|Oh, right.|b
 B|I used to do a lot of knitting and crocheting, um,|sd
 B|but I, I don't know,|h
 B|somehow I don't have the time anymore.|sd
-B|But I have all these friends that wherever you go, they, they sit down and the next thing you know, they pull out of their, uh,bags some, their most recent, uh, needle craft|sd
+B|But I have all these friends that wherever you go, they, they sit down and the next thing you know, they pull out of their, uh, bags some, their most recent, uh, needle craft|sd
 A|Oh, really.|b
-B|and in December everyone was doing stockings, you knowminute, tiny stitch stockings.these gorgeous, detailed|sd
+B|and in December everyone was doing stockings, you know these gorgeous, detailed minute, tiny stitch stockings.|sd
 A|Uh-huh.|b
 A|Oh, gosh.|ba
 A|Oh, yeah,|b
@@ -53,10 +53,10 @@ A|let's see, I've done a quilt for our baby|sd
 A|and I've done a quilt for our bed,|sd
 A|but I mean,|%
 B|Did you embroidery the pattern and then quilt it yourself,|qy
-B|orhow did you make a quilt?|qw
+B|or how did you make a quilt?|qw
 A|Um.|%
 A|Um, our baby's quilt, it was a pre, like the design,|sd
-A|I just went around the designin the quilt.|sd
+A|I just went around the design in the quilt.|sd
 B|Uh-huh.|b
 A|I didn't piece it or anything like that|sd
 A|but, uh,|%
@@ -101,11 +101,11 @@ A|So.|%
 B|Oh, yes,|ny
 B|I think it's very clever.|sv
 B|It's, uh, funny that you said.|sv
-B|For Christmas, my daughter and I received matching sweat shirtsthat a friend had made for us. A beautiful Christmas design,|sd
+B|For Christmas, my daughter and I received matching sweat shirts that a friend had made for us. A beautiful Christmas design,|sd
 A|Oh.|b
 B|and they were matching|sd
 B|and they were lovely,|sd
-B|but when I washed them, although I took the precaution of turning them inside outmost of it.And truly, everything fell off, orI really didn't do anything else.|sd
+B|but when I washed them, although I took the precaution of turning them inside out I really didn't do anything else. And truly, everything fell off, or most of it.|sd
 A|Oh, sure.|b
 A|Uh-huh.|b
 A|Oh, really.|b
@@ -117,7 +117,7 @@ B|and I,|%
 B|but it's,|%
 B|so I'm familiar with that,|sd
 B|but I think you're very clever to, um, sew around the edges.|sv
-B|I think gluing alone, certainly if you wash it any amount of time, ittends to kind of come loose at the edges.|sv
+B|I think gluing alone, certainly if you wash it any amount of time, it tends to kind of come loose at the edges.|sv
 A|Well.|%
 A|Yeah,|aa
 A|someone told me that, that it, that they had done it both ways,|sd

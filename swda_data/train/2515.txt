@@ -36,7 +36,7 @@ A|But, uh, we live, we live on, on a cash budget|sd
 A|and it, sometimes it's tight come the end of the month,|sd
 A|but generally, we always make it.|sd
 B|What do you do for the surprise things that you don't necessarily plan for,|qw
-B|the, you know are sometimes several hundred dollars, like, uh, tires for the car or car repair of some sort,or, like a, a dental bill or something that you're not prepared for?|qrr
+B|the, you know are sometimes several hundred dollars, like, uh, tires for the car or car repair of some sort, or, like a, a dental bill or something that you're not prepared for?|qrr
 A|Right.|b
 A|Well, uh, most of our medical things, we don't, uh, have to worry about, because of insurance|sd
 A|and they're, they're relatively small.|sd
@@ -88,7 +88,7 @@ A|Do you, uh, use a lot of credit cards or your checking account when you go out
 B|Checking account a lot, uh, not so much credit cards.|sd
 A|Sure.|b
 B|and so pretty much now, uh, we don't use them too much.|sd
-B|If we travel or something, yeah. But, you know.Standard, we usually don't.|sd
+B|If we travel or something, yeah. But, you know. Standard, we usually don't.|sd
 A|Uh-huh.|b
 B|Or if it, it is a purchase, uh, then it's paid off when the bill comes.|sd
 B|You know, so it isn't any extended, uh,|sd
@@ -113,7 +113,7 @@ B|Uh-huh.|b
 A|so we decided to put ourselves on a cash budget.|sd
 A|Well the first time we did it, we just took some arbitrary amount that we estimated it would be,|sd
 B|Uh-huh.|b
-A|and then we kept track of everything for a month.and from that built, you know, a cash budget.You know, how much we spent on food, how much we spent on gasoline, how much we spent on everything,|sd
+A|and then we kept track of everything for a month. You know, how much we spent on food, how much we spent on gasoline, how much we spent on everything, and from that built, you know, a cash budget.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|So now, I mean, I have,|%
@@ -129,7 +129,7 @@ A|those are things you don't really have much control over.|sv
 B|Uh-huh.|b
 A|Uh, the cash budget just fits right in there|sv
 A|like I said if we don't have, we also set aside money for entertainment.|sd
-A|I mean, but again it's a set amount every month.And, uh, on special occasions, I mean birthdays and things like that.|sd
+A|I mean, but again it's a set amount every month. And, uh, on special occasions, I mean birthdays and things like that.|sd
 B|Uh-huh.|b
 A|We, we don't, we still have fun on things|sv
 B|Yeah.|b
@@ -162,15 +162,15 @@ A|no|sv
 B|Well, I know,|ba
 B|but there are times when I sit there and I think, wow, you know we make X amount of money and where is it.|sv
 B|I mean you look  around|sv
-B|and you go, where is it,|sd
+B|and you go,  where is it,|sd
 A| What do you do with it,|^2
 A|I know. |ba
 B|you, you haven't made, uh, big purchases|sv
 B|and that's the easier thing to see,|sv
-B|if you can see a big purchase and you go okay, well this is the year that we bought the couch or the T V,or something like that.|sv
+B|if you can see a big purchase and you go okay, well this is the year that we bought the couch or the T V, or something like that.|sv
 A|Uh-huh,|b
 B|But, all those, just monthly payments and stuff that just go out the door|sd
-B|and there's big chunks of your money to pay like the utilities and the gas and the groceries,and stuff.|sd
+B|and there's big chunks of your money to pay like the utilities and the gas and the groceries, and stuff.|sd
 B|That you don't have tangible, I mean the perishable kind of things that's gone, used and gone.|sd
 A|Yeah,|b
 A|it's, it's amazing how much we spend on some things.|sv
@@ -181,7 +181,7 @@ A|he has a ten dollar bill.|sd
 B|Huh.|b
 A|And, I mean, so I'd say at least, two usually three times a week he takes his lunch.|sd
 B|Uh-huh.|b
-A|The other times, he'll, uh, I don't know go out somewhere,eat in a cafeteria or whatever.|sd
+A|The other times, he'll, uh, I don't know go out somewhere, eat in a cafeteria or whatever.|sd
 B|Uh-huh.|b
 A|But, but he keeps himself on that,|sd
 A|I mean, he found it's, it's so easy to spend five dollars a day on lunch.|sd

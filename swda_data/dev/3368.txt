@@ -1,6 +1,6 @@
 A|Okay.|fo_o_fw_"_by_bc
 A|What type of things do you feel would invade your privacy every day?|qw
-B|Um, huh. Well, I don't like it when, uh, people listen to my phone conversations, like if they're outside my door while I'm talking in my roomor when people like look through my things in my bedroom|sd
+B|Um, huh. Well, I don't like it when, uh, people listen to my phone conversations, like if they're outside my door while I'm talking in my room or when people like look through my things in my bedroom|sd
 A|Yeah,|b
 A|that's right.|sv
 A|That is really an invasion of privacy.|sv
@@ -10,7 +10,7 @@ B|Uh-huh.|b
 A|Does that happen in your part of the country?|qy
 B|Yes.|ny
 B|Uh-huh.|ny
-A|I, uh,I come home|sd
+A|I, uh, I come home|sd
 B|Definitely.|na
 A|and I am trying to get a few things done|sd
 A|and I can't do anything but answer the telephone.|sd
@@ -20,7 +20,7 @@ A|but I wish I could put a stop to it,|sd
 A|but I don't know what to do to stop it.|sd
 B|Right.|b
 B|Even, uh, we used to have a sign on our door that said no soliciting,|sd
-B|and they would still come to our doorand knock and|sd
+B|and they would still come to our door and knock and|sd
 A|Uh-huh.|b
 A|They would think it didn't mean them, I guess.|sv
 B|I guess not,|sv
@@ -75,7 +75,7 @@ B|and they still do it to me.|sd
 A|Even it, in the office I, uh, find that people walk up and, and when you're on a conversation instead of walking off or just making themselves busy, they'll stand there and listen to what you say until you hang up.|sd
 B|Oh, like,|%
 B|yeah,|b
-B|this lady does that to me at workwhen I'm taking an order or something,|sd
+B|this lady does that to me at work when I'm taking an order or something,|sd
 A|Uh-huh.|b
 B|and she'll just sit there and listen like I'm doing something wrong,|sd
 B|and she just started|sd
@@ -85,11 +85,11 @@ B|to someone in the Okay.|t3
 B|But, you know, it gets annoying when they stand right over you watching everything you do.|sv
 A|Yeah.|b
 B|But,|%
-A|Let's see, I can't think of anything elseI'd really consider an invasion of privacy other than the phone solicitors.|sd
+A|Let's see, I can't think of anything else I'd really consider an invasion of privacy other than the phone solicitors.|sd
 B|No|b
 A|About the only thing that really bothers me I don't have that many people coming to my door.|sd
 B|Right.|b
-B|Well, occasionally we'll have a person here or there, but not, not as many as the phone calls,you know,|sd
+B|Well, occasionally we'll have a person here or there, but not, not as many as the phone calls, you know,|sd
 A|Uh-huh.|b
 B|so. But,|%
 A|And I guess that's really the thing that really bugs me the most.|sd
@@ -97,7 +97,7 @@ A|I can't think,|%
 A|our kids in our neighborhood used to bother me,|sd
 A|but they've all gotten grown up now|sd
 B|Uh,|%
-A|and we live in a neighborhood where there is not any little kids to bother me,since mine are all grown up,|sd
+A|and we live in a neighborhood where there is not any little kids to bother me, since mine are all grown up,|sd
 B|Oh|b
 A|but. What else would be an annoyance?|qw
 A|Well, I guess traffic could be an annoyance.|sv
@@ -109,7 +109,7 @@ B|yeah.|ny
 B|Usually in the week I'm .|%
 A|Uh-huh.|b
 A|Some days it's real, real bad here,|sd
-A|and you would like to, feel like it's an invasion of privacy because you can't even ride down the road without people all the way around you,you know.|sd
+A|and you would like to, feel like it's an invasion of privacy because you can't even ride down the road without people all the way around you, you know.|sd
 B|Yeah,|b
 B|uh-huh.|b
 A|But,|%
@@ -124,7 +124,7 @@ A|It really is.|sv
 B|Yeah.|b
 A|I live right on a main thoroughfare,|sd
 A|so when I first moved here I probably did consider that an invasion of privacy|sd
-A|because it, at first you'd hear a lot of noise, especially at nightyou know, when you go to bed.|sd
+A|because it, at first you'd hear a lot of noise, especially at night you know, when you go to bed.|sd
 B|Uh-huh.|b
 B|Oh, yeah.|b
 A|And every time a, a fire truck or anything went down the road, I would wake up,|sd
@@ -154,7 +154,7 @@ B|and, you know, I thought he,|sd
 A|That was yours.|bf
 A|Yeah.|%
 B|Right.|aa
-B|I thought he would respect me more than that,to look through my things and not trust me,|sv
+B|I thought he would respect me more than that, to look through my things and not trust me,|sv
 A|Yeah.|b
 B|so that was upsetting.|sd
 B|I was mad about that and my privacy there.|sd

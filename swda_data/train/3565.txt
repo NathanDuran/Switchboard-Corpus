@@ -2,7 +2,7 @@ A|you've done.|fo_o_fw_"_by_bc
 B|Our most recent series of projects I guess, was, inside was, uh, we remodeled a bathroom recently.|sd
 A|Well, how did it go?|qo
 B|Well, it went pretty well, uh, other than the fact that we encountered some, uh, problems that you run across in older homes with plumbing, which one thing led to another,|sd
-B|and eventually we ended up replacing all the pipes from the sink clear back to the main drain. Which meant you  needed to take the wall out and start all over.|sd
+B|and eventually we ended up replacing all the pipes from the sink clear back to the main drain.  Which meant you  needed to take the wall out and start all over.|sd
 A|Gee, like starting over,  I guess. |ba
 A|Uh.|%
 B|It wasn't one of those,|sd
@@ -19,11 +19,11 @@ B|it's good for another thirty years.|sd
 A|Um, you've got an older house?|qy^d
 B|Yes.|ny
 A|They are built a little bit more sturdy than|sv
-B|Well, that's the thing that surprised me, because once I got into the plumbingeverything in there was copper,|sd
+B|Well, that's the thing that surprised me, because once I got into the plumbing everything in there was copper,|sd
 A|Right.|b
 B|and it was all soldered.|sd
 A|Oh, is that right.|ba
-B|That's what drove me bananas, because, you know, I'm going to the hardware store saying give me plastic pipe andto fit them togetherand cement|sd
+B|That's what drove me bananas, because, you know, I'm going to the hardware store saying give me plastic pipe and and cement to fit them together|sd
 A|Yes.|b
 B|and nothing wanted to go,|sd
 B|so it was like I had to go all the way back to the main drain and start all over.|sd
@@ -32,13 +32,13 @@ B|Really.|b
 A|Uh.|%
 B|That was an all day job, just to get it plumbed.|sd
 A|Well, and then if you do it wrong|sv
-B|Fortunately, I was very fortunate, uh, in the fact that, uh, when I made the installation of the sink and everything bolted up and we  turned the water on nothing leaked,|sd
+B|Fortunately, I was very fortunate, uh, in the fact that, uh, when I made the installation of the sink and everything bolted up and we  turned the water on  nothing leaked,|sd
 A| Everything went all right. |^2
 B|everything worked.|sd
 B|And I just said, that's marvelous.|sd
 B|I appreciate it.|sd
 A|That's the type of thing you cross your fingers and are glad when that happens.|sv
-B|Well, I expected something to leak, you knowdidn't use teflon tape on one of them or something like that.left a fitting loose, or|sd
+B|Well, I expected something to leak, you know left a fitting loose, or didn't use teflon tape on one of them or something like that.|sd
 A|Right.|b
 A|Yes.|b
 A|Right.|b
@@ -56,7 +56,7 @@ A|It was a latex paint, paint,|sd
 A|it was flat|sd
 B|Uh-huh.|b
 A|and I wonder if maybe I should have used a gloss.|sd
-A|Uh, but they say you ought to use your gloss mainly in yourkitchens, and things like that.|sd
+A|Uh, but they say you ought to use your gloss mainly in your kitchens, and things like that.|sd
 B|Yeah,|b
 B|that, and semigloss for trim work, and usually flat for walls.|^2
 A|Yeah,|ny
@@ -86,13 +86,13 @@ A|No.|nn
 B|Okay.|bk
 A|We did, uh, oh,|%
 A|you do mix the color as far as you start with, uh, white|sd
-A|andthen they add the color.|sd
+A|and then they add the color.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 A|You know what I'm saying|qy^d
 A|but,|%
 B|Yeah.|ny
-B|But you only had one can of paint that youdid the entire room with.|qy^d
+B|But you only had one can of paint that you did the entire room with.|qy^d
 A|Yes.|ny
 A|Right.|b
 A|And then I wall papered a couple of walls,|sd
@@ -105,7 +105,7 @@ A|That's an education in itself.|no
 B|Really.|b
 A|But, uh, the dye lots, uh, must have been a little bit different from,|sd
 A|first of all it takes quite a few rolls, even a small room, if you're trying to match a design.|sd
-B|Repeating patterns is what you have to check forwhen you, when you buy your paper.|sd
+B|Repeating patterns is what you have to check for when you, when you buy your paper.|sd
 A|Yes.|b
 A|That's what I needed,|sd
 A|and I didn't think about that.|sd
@@ -126,12 +126,12 @@ A|I didn't.|sd
 B|Or did you start at the edge?|qrr
 A|Is that how you're supposed to do?|qy
 A|I started at one edge and went over,|sd
-A|then you had to cut around the closetand cut around a window|sd
+A|then you had to cut around the closet and cut around a window|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|but, uh,|%
 B|I've had my best luck in papering when I start in the middle of a wall,|sd
-B|and I'll start with a plumb line.And start in the middle of the wall, and, and go from there, and go all the way around the room.|sd
+B|and I'll start with a plumb line. And start in the middle of the wall, and, and go from there, and go all the way around the room.|sd
 A|And start right there.|bf
 A|Do you seem to get it straighter,|qy
 A|is that the advantage,|qy

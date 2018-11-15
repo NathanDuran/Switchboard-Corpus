@@ -1,6 +1,6 @@
 A|Okay.|fo_o_fw_"_by_bc
-A|So,What kind of experience do you, do you have, then with child care?|qw
-B|I guess,I think, uh, I wonder if that worked.|qy^d
+A|So, What kind of experience do you, do you have, then with child care?|qw
+B|I guess, I think, uh, I wonder if that worked.|qy^d
 A|Does it say something?|qy
 B|I think it usually does.|sd
 B|You might try, uh,|ad
@@ -8,19 +8,19 @@ B|I don't know,|h
 B|hold it down a little longer,|ad
 B|and see if it, uh,|ad
 A|Okay|aa
-A|Well,Does it usually make a recording or|qy
+A|Well, Does it usually make a recording or|qy
 B|Okay|b
-B|I,Well, I don't remember.|sd
+B|I, Well, I don't remember.|sd
 B|It seemed like it did,|sd
 B|but it might not.|sd
-B|I guessI guess we can start. Uh,|sv
+B|I guess I guess we can start. Uh,|sv
 A|Okay.|bk
 A|Okay.|aa
 B|No,|nn
 B|I don't, I don't have any kids.|sd
 B|I, uh, my sister has a, she just had a baby,|sd
 B|he's about five months old|sd
-B|and she was worrying about going back to work and what she was going to do with him andthe different,|sd
+B|and she was worrying about going back to work and what she was going to do with him and the different,|sd
 A|Uh-huh.|b
 B|do you have kids?|qy
 A|I have three.|na
@@ -56,7 +56,7 @@ B|And so they have an extra room and everything for the baby,|sd
 B|so it works out pretty good for her.|sd
 A|Wow.|ba
 A|How lucky|ba
-A|I, I know a lot of people around here sometimes have, like, mothers or grandmothersthat take care of their kids|sd
+A|I, I know a lot of people around here sometimes have, like, mothers or grandmothers that take care of their kids|sd
 B|Yeah.|b
 A|and, but, the community I'm in is not a real large one,|sd
 A|so there are a lot of people who babysit in their homes that, you know,|sd
@@ -69,7 +69,7 @@ A|so, but, uh,|%
 A|I, I don't feel comfortable about leaving my kids in a big day care center, but, simply because there's so many kids and so many|sd
 B|Worried that they're not going to get enough attention?|qy
 A|Yeah,|ny
-A|and, uh, you know, colds and things like that getspread real easy and things,|sd
+A|and, uh, you know, colds and things like that get spread real easy and things,|sd
 B|Yeah.|b
 A|but, and they're expensive|sv
 A|and, course, there's a lot of different types of day care available, too, you know, where they teach them academic things.|sd
@@ -97,13 +97,13 @@ A|It would be nice to have him around|sv
 B|Uh-huh.|b
 A|but, uh, seems like, you know,|sv
 A|what if he cried at the wrong time|qh
-A|or the phone rang or,you know, at the wrong time|fo_o_fw_"_by_bc
+A|or the phone rang or, you know, at the wrong time|fo_o_fw_"_by_bc
 B|Yeah.|b
 A|But,|%
 B|I think she has problems with that, too.|sd
 A|Uh-huh.|b
 A|Well, when you have kids, will you work?|qy
-A|Do youwork now?|qy
+A|Do you work now?|qy
 B|I don't know|no
 B|that's something I've considered. Uh,|sd
 A|Uh-huh.|b
@@ -117,7 +117,7 @@ B|Oh, so they don't go to school.|bf
 B|Is it like, uh,|qy
 B|oh, what's that called,|t1
 B|it's, uh, correspondence school,|sd
-B|they do itat home.|sd
+B|they do it at home.|sd
 A|Uh-huh.|b
 A|Yeah,|b
 A|yeah.|b

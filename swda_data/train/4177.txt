@@ -21,7 +21,7 @@ A|that satisfies most of the short term news I get.|sd
 A|Uh, don't watch much T V,|sd
 A|don't have enough time|sd
 A|and, uh, don't listen to the radio too much especially the news channels or anything like that, you know,|sd
-A|they might give you a little blurbs likethis happened or that happened|sv
+A|they might give you a little blurbs like this happened or that happened|sv
 B|Yeah.|b
 A|and that's about all I ever hear of it.|sd
 A|Uh, but most of my news probably comes from NEWSWEEK|sd
@@ -42,7 +42,7 @@ B|where they're just trying to fill in.|sv
 A|Yes,|aa
 A|or they're making, making time because they to fill in an hour's worth of news.|sv
 B|Yeah.|b
-A|Uh, I get kind of bored watching T V actually, when I watch the news on T V becauseit goes so slow|sd
+A|Uh, I get kind of bored watching T V actually, when I watch the news on T V because it goes so slow|sd
 B|I know,|b
 B|I do, I do, too.|sd
 A|and, then there's nothing that, you know, really is like oh, so exciting.|sv
@@ -61,8 +61,8 @@ A|Yeah,|b
 A|I think they're about the same.|sv
 A|I, you know, they, they certainly have a very similar, uh, charter at least in my mind.|sv
 A|And, uh, uh, what, what kind of, uh, what kind of news normally interests you,|qw
-A|I mean what do you, what, what do you find interestingversus what do you find boring?|qw
-B|Wellright now trying to keep abreast of, uh, what's going on in Europe, you know, with all the, U S S R's satellites breaking off, trying to become independent and, you know, European community coming together.|sd
+A|I mean what do you, what, what do you find interesting versus what do you find boring?|qw
+B|Well right now trying to keep abreast of, uh, what's going on in Europe, you know, with all the, U S S R's satellites breaking off, trying to become independent and, you know, European community coming together.|sd
 A|Uh-huh.|b
 B|That's going to affect our, uh, economy quite a bit.|sv
 A|I think it will,|aa
@@ -70,12 +70,12 @@ A|uh, they, they keep claiming it's going to have a big influence,|sd
 A|but we've yet to see it|sd
 A|and|%
 A|it's real short term yet, though,|sd
-A|I mean, it's only been, three months or something like thatsince that happened|sd
+A|I mean, it's only been, three months or something like that since that happened|sd
 B|Oh, yeah.|b
 A|so,|%
 B|Yeah.|b
 A|But they like to tell us that it's going to be important|sv
-B|I'm, I'm pretty sure it is, because, uhonce, once Europe becomes unified and, uh, their economy becomes one big economy we're going to be, uh, kind of hurting|sv
+B|I'm, I'm pretty sure it is, because, uh once, once Europe becomes unified and, uh, their economy becomes one big economy we're going to be, uh, kind of hurting|sv
 A|I think it is, too.|aa
 A|Yeah,|aa
 A|I, I think that's a possibility,|sv
@@ -83,7 +83,7 @@ A|uh, it, we might also be helped, though, because it, it will be easier to do b
 B|Yeah,|aa
 B|definitely.|aa
 A|For the companies that already have a presence over there|sv
-A|and, uh, I know of at least one company that specifically went over there and established a presence before nineteen ninety-two so that they would have it when itcame time.|sd
+A|and, uh, I know of at least one company that specifically went over there and established a presence before nineteen ninety-two so that they would have it when it came time.|sd
 B|Oh, yeah|b
 B|so they have a toe hold,|bf
 B|I good toe hold.|bf
@@ -108,9 +108,9 @@ B|Yeah,|b
 B|I, I can understand their viewpoint,|sd
 B|they're just, they're starting off,|sd
 B|their economy's a little bit weak,|sd
-B|so you want toget established before they|sd
+B|so you want to get established before they|sd
 A|Uh-huh.|b
-A|Before theyopen up their borders to everyone.|^2
+A|Before they open up their borders to everyone.|^2
 B|Yeah,|aa
 B|totally.|aa
 A|Uh, what is the, uh,|qw
@@ -124,5 +124,5 @@ B|we have to, fight over the remote control.|sd
 A|Yeah,|b
 A|at least you guys have a remote control.|sd
 A|It's sometimes better to not have one of those.|sv
-A|Course, you can always mislocate it.Or misplace it, I mean, not mislocate it, but misplace it|sd
+A|Course, you can always mislocate it. Or misplace it, I mean, not mislocate it, but misplace it|sd
 A|and,|%

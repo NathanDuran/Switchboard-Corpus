@@ -13,7 +13,7 @@ A|Yeah.|aa
 B|Sort of easy listening because you like country|bf
 B|but then,|%
 A|But not all country.|arp_nd
-A|I don't like that,when they start,|sd
+A|I don't like that, when they start,|sd
 B|Um.|b
 A|I don't know.|h
 A|I just like Willie Nelson I guess because he's such a character.|sd
@@ -89,7 +89,7 @@ A|and it was just so wonderful.|sd
 B|Yeah.|b
 A|And then even my eleven year old boy loves to listen to it.|sd
 B|Isn't that nice.|bh
-B|I mean it's nice when you have a piece that, that is so, so peaceful,that everybody likes, you know,|sv
+B|I mean it's nice when you have a piece that, that is so, so peaceful, that everybody likes, you know,|sv
 A|Yeah.|b
 B|and, uh, it, it, it, it, you know, it has pieces that are uplifting,|sv
 B|but, it, it's mostly relaxing|sv
@@ -102,7 +102,7 @@ A|and you can just see the things that they're trying to show with music.|sd
 B|Yeah.|b
 A|My, my little boy has gotten so into it that|sd
 A|he's identified the, the people that have written certain songs,|sd
-A|then he buys the pieces that have that person.You know, on it.|sd
+A|then he buys the pieces that have that person. You know, on it.|sd
 B|Yeah.|b
 B|Oh, I see what you're saying.|bk
 A|Huh?|br
@@ -141,7 +141,7 @@ A|Yeah.|b
 B|Yeah,|b
 B|I like Chuck Mangione|sd
 B|Trying to think of all, uh, oh,|%
-B|what's his name, plays the trumpet.Yeah.|qw
+B|what's his name, plays the trumpet. Yeah.|qw
 A|I like the Moody Blues.|sd
 A|Did you like them?|qy
 B|Yeah,|ny
@@ -154,7 +154,7 @@ B|we got Simply Red.|sd
 B|I figure all our C Ds that we have what I really like|sd
 B|And, uh, I like Breeze,|sd
 B|I like the group.|sd
-B|I think just because they all sort of sound, they sound a lot like uh, Simply Red.Uh.|sd
+B|I think just because they all sort of sound, they sound a lot like uh, Simply Red. Uh.|sd
 A|So what type, Simply Red,|qw
 A|I've never heard of that.|sd
 A|Is it just instrumental?|qy
@@ -177,7 +177,7 @@ A|Yeah.|b
 B|Yeah.|b
 A|Well my husband is telling me we have to hit the road|sd
 A|We're going to go to Commerce and see a friend.|sd
-A|And,then I'm going to go to Sulphur Springs.|sd
+A|And, then I'm going to go to Sulphur Springs.|sd
 B|Oh, you must live in this area.|sv
 A|Yeah,|ny
 A|where are you?|qw
@@ -198,7 +198,7 @@ B|Well they're having a lot of recruiting this week in all the different areas.|
 B|That's why I was just|%
 A|For colleges?|qy
 B|Yeah,|ny
-B|East Texas is recruiting for,you know, their fall semester|sd
+B|East Texas is recruiting for, you know, their fall semester|sd
 A|Well, they're not|%
 B|and they're, they've been doing a lot of that in the area.|sd
 A|They're not going to recruit me anymore,|sd
@@ -248,8 +248,8 @@ A|and they finally extradited him|sd
 A|and he's going to testify for the State against her so he'll have his sentence reduced.|sd
 B|And this is the man that was in front of you?|qy
 A|Yeah.|ny
-B|Oh, well they'll,weed him out.|sd
-A|The,the investigator.|sd
+B|Oh, well they'll, weed him out.|sd
+A|The, the investigator.|sd
 A|Yeah,|aa
 A|he, he got off right away.|sd
 B|Yeah.|b
@@ -257,18 +257,18 @@ A|And I wrote that down on my questionnaire that he'd told me that,|sd
 B|Uh-huh.|b
 A|so I figure that that will make me biased|sd
 A|and I won't be chosen.|sd
-B|Well,not necessarily|arp_nd
+B|Well, not necessarily|arp_nd
 A|Hopefully|sd
 B|but there's probably something else that might make you.|sd
 B|Because you could know about, you could know about the crime, but not necessarily be taken off the jury, you know, not be accepted for the jury.|sd
-A|Yeah.No. *aa|b
+A|Yeah. No. *aa|b
 B|I mean, pretty much a lot of people would know about it, you know, and, and know some of the different things about it|sd
 B|but, uh, they, they might weed you out some other way.|sd
-B|You know, if you, if you don't believe, like if this was a capital crime and, and you don't believe inif you don't believe in death penalty, you're not going to be picked at all.|sd
+B|You know, if you, if you don't believe, like if this was a capital crime and, and you don't believe in if you don't believe in death penalty, you're not going to be picked at all.|sd
 B|So but,|%
 A|I said that, I could believe in it in certain instances, but I would be, I'd find it hard to levy that against somebody.|sd
 B|Yeah,|b
-B|so, see,that, you know,there, there they would have a doubt about you,|sd
+B|so, see, there, there they would have a doubt about you, that, you know,|sd
 A|You know.|%
 A|Uh-huh.|b
 B|because if that's what, if that's what the punishment is in that, in that instance, then you're always going to say, you know, not|sd
