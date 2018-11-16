@@ -68,7 +68,7 @@ data = dict(
     word_freq=word_freq,
     vocabulary=vocabulary,
     vocabulary_size=vocabulary_size,
-    label_freq=labels,
+    label_freq=label_freq,
     labels=labels,
     num_labels=num_labels)
 
