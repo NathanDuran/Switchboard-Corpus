@@ -1,4 +1,5 @@
 import os
+import pickle
 
 
 class Dialogue:
@@ -99,20 +100,28 @@ def process_transcript(transcript, excluded_tags=None, excluded_chars=None):
             # print("Concatenating '", utt.text, "' + '", current_b, "'")
 
     # Create Dialogue
-    folder_name = transcript.swda_filename.split('\\')[1] # Trim to just folder name
+    folder_name = transcript.swda_filename.split('\\')[1]  # Trim to just folder name
     conversation_num = str(transcript.utterances[0].conversation_no)
     dialogue = Dialogue(folder_name, conversation_num, len(utterances), utterances)
 
     return dialogue
 
 
-def read_file(path, verbose=True):
+def load_data(path, verbose=True):
     with open(path, "r") as file:
         # Read a line and strip newline char
         lines = [line.rstrip('\r\n') for line in file.readlines()]
     if verbose:
         print("Loaded data from file %s." % path)
     return lines
+
+
+def save_data(path, data, verbose=True):
+    file = open(path, "wb")
+    pickle.dump(data, file, protocol=pickle.HIGHEST_PROTOCOL)
+    file.close()
+    if verbose:
+        print("Saved data to file %s." % path)
 
 
 def append_to_file(path, dialogue):

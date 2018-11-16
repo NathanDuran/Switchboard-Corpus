@@ -1,4 +1,3 @@
-import os
 from swda import CorpusReader
 from swda_utilities import *
 
@@ -7,18 +6,19 @@ data_dir = 'swda_data/'
 
 # Corpus object for iterating over the whole corpus in .csv format
 corpus = CorpusReader('raw_swda_data/')
+
 # Load training, test, validation and development splits
-train_split = read_file(data_dir + 'train_split.txt')
-test_split = read_file(data_dir + 'test_split.txt')
-val_split = read_file(data_dir + 'val_split.txt')
-dev_split = read_file(data_dir + 'dev_split.txt')
+train_split = load_data(data_dir + 'train_split.txt')
+test_split = load_data(data_dir + 'test_split.txt')
+val_split = load_data(data_dir + 'val_split.txt')
+dev_split = load_data(data_dir + 'dev_split.txt')
 
 # Files for all the utterances in the corpus and data splits
 all_swda_text_file = "all_swda_text.txt"
-train_split_text_file = "all_train_text.txt"
-test_split_text_file = "all_test_text.txt"
-val_split_text_file = "all_val_text.txt"
-dev_split_text_file = "all_dev_text.txt"
+train_split_text_file = "train_text.txt"
+test_split_text_file = "test_text.txt"
+val_split_text_file = "val_text.txt"
+dev_split_text_file = "dev_text.txt"
 
 # Remove old files if they exist, so we do not append to old data
 remove_file(data_dir, all_swda_text_file)
