@@ -1,3 +1,5 @@
+import os
+
 
 class Dialogue:
     def __init__(self, folder_name, conversation_num, num_utterances, utterances):
@@ -111,3 +113,15 @@ def read_file(path, verbose=True):
     if verbose:
         print("Loaded data from file %s." % path)
     return lines
+
+
+def append_to_file(path, dialogue):
+    with open(path, 'a+') as file:
+        for utterance in dialogue.utterances:
+            file.write(utterance.speaker + "|" + utterance.text + "|" + utterance.da_label + "\n")
+
+
+def remove_file(data_dir, file):
+    if os.path.exists(data_dir + file):
+        os.remove(data_dir + file)
+
