@@ -118,7 +118,7 @@ def load_data(path, verbose=True):
 
 def save_data(path, data, verbose=True):
     file = open(path, "wb")
-    pickle.dump(data, file, protocol=pickle.HIGHEST_PROTOCOL)
+    pickle.dump(data, file, protocol=2)
     file.close()
     if verbose:
         print("Saved data to file %s." % path)
