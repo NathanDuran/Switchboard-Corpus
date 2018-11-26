@@ -10,14 +10,14 @@ corpus = CorpusReader('raw_swda_data/')
 # Load training, test, validation and development splits
 train_split = load_data(data_dir + 'train_split.txt')
 test_split = load_data(data_dir + 'test_split.txt')
-val_split = load_data(data_dir + 'val_split.txt')
+val_split = load_data(data_dir + 'eval_split.txt')
 dev_split = load_data(data_dir + 'dev_split.txt')
 
 # Files for all the utterances in the corpus and data splits
 all_swda_text_file = "all_swda_text.txt"
 train_split_text_file = "train_text.txt"
 test_split_text_file = "test_text.txt"
-val_split_text_file = "val_text.txt"
+val_split_text_file = "eval_text.txt"
 dev_split_text_file = "dev_text.txt"
 
 # Remove old files if they exist, so we do not append to old data
@@ -51,7 +51,7 @@ for transcript in corpus.iter_transcripts(display_progress=False):
         set_dir = data_dir + 'test/'
         set_file = test_split_text_file
     elif dialogue.conversation_num in val_split:
-        set_dir = data_dir + 'val/'
+        set_dir = data_dir + 'eval/'
         set_file = val_split_text_file
 
     # Create the directory if is doesn't exist yet
