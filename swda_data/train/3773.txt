@@ -92,8 +92,8 @@ B|Yeah,|aa
 B|it is,|sv
 B|yeah.|%
 B|Uh, we're having,|sd
-B|actually, if we find something for, uh, I'd say less than a hundred and twenty thousand, we'll be doing all right,  you know. |sv
-A| Right. |b
+B|actually, if we find something for, uh, I'd say less than a hundred and twenty thousand, we'll be doing all right,  you know.|sv
+A|Right.|b
 B|That's, uh,|%
 B|but I think the thing's out there,|sv
 B|it's just a matter of, uh you know, looking you know finding the right place, uh,|sv
@@ -121,8 +121,8 @@ B|At least she's got more opinions, you know,|sv
 B|there's, uh, seems like there's more constraints more things that she thinks about. You know, openness, uh, the size of the kitchen and all this kind of stuff that I would probably gloss over and, maybe even ignore, you know.|sv
 A|Yes.|aa
 A|Why, certainly.|aa
-A| I  understand that.|b
-B| So.  What kind of business are you in?|qw
+A|I  understand that.|b
+B|So.  What kind of business are you in?|qw
 A|I'm in the, uh, sporting goods business.|sd
 A|I'm a manufacturer's rep.|sd
 A|I represent fourteen different hunting and shooting type companies.|sd
@@ -140,8 +140,8 @@ A|How, how was the, uh,|qw
 A|you say you lived in the Denver area before?|qy^d
 B|Right.|na
 A|How did that compare with this area as far as housing prices?|qw
-B|Uh, we were, uh, really surprised to find that they're higher here.  Uh, |sd
-A| No kidding. |ba
+B|Uh, we were, uh, really surprised to find that they're higher here.  Uh,|sd
+A|No kidding.|ba
 B|When we moved from Louisiana to Denver, it was astounding, you know, to find that prices were, oh, I guess almost two or three times as high as we'd expected.|sd
 B|And then, uh, to come down here, we thought things would be lower,|sd
 B|and they're not.|sd

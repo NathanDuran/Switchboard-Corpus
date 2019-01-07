@@ -2,8 +2,8 @@ A|I'm ready if you are.|sd
 B|Okay.|b
 B|Um, where do you stand, uh, on,|qo
 A|Well, I think that people should be allowed to have them.|sv
-A| Especially  if they go hunting,|sv
-B| Oh. |b
+A|Especially  if they go hunting,|sv
+B|Oh.|b
 A|which my son goes hunting.|sd
 A|He goes deer hunting.|sd
 A|He goes duck hunting.|sd
@@ -11,9 +11,9 @@ A|Uh, he's read books about guns since he was like probably eleven or twelve yea
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|And I just think that, uh, as far as that's concerned, he should be able to have them to go hunting with, you know.|sv
-A| As far as  just having handguns around to, to have them, I don't believe that you should have handguns around.|sv
-B| Right,|b
-B|right. |b
+A|As far as  just having handguns around to, to have them, I don't believe that you should have handguns around.|sv
+B|Right,|b
+B|right.|b
 B|Right.|aa
 B|Yeah.|aa
 B|Yeah,|aa
@@ -32,17 +32,17 @@ B|I mean,|%
 B|yeah,|aa
 B|that, that's true.|sv
 B|And I mean the, the technology's not that hard.|sv
-B|I mean, you could make a gun, you know, from simple, you know,  you know. |sv
-A| Yeah,|aa
+B|I mean, you could make a gun, you know, from simple, you know,  you know.|sv
+A|Yeah,|aa
 A|well I  suppose you could. Uh,|aap_am
 B|You know, if, if you really wanted a gun, you, you could make one. Uh,|sv
 A|Uh-huh.|b
 A|And I think if they want one, they're going to get one.|sv
-B| Oh, you know |%
-A| You know. |%
+B|Oh, you know|%
+A|You know.|%
 B|true.|%
-B| That's true. |aa
-A| The bad  guys are, you know,|sv
+B|That's true.|aa
+A|The bad  guys are, you know,|sv
 A|like I say, if they want a gun they're going to find out somehow to get one.|sv
 B|Uh-huh.|b
 B|Yeah,|aa
@@ -63,18 +63,18 @@ B|Yeah.|b
 A|But there wasn't anything for, you know, rifles and things like that.|sd
 B|Uh-huh.|b
 A|I  guess  it was just handguns that there was a,  some kind  of a waiting, you know, two weeks while they checked you out or something.|sv
-B| Sure. |b
-B| Yeah. |b
+B|Sure.|b
+B|Yeah.|b
 B|Right.|b
 A|But, uh, most of these people that's got these guns that's going around, you know, robbing people and shooting people,|sv
 B|Uh-huh.|b
 B|Yeah.|b
 B|Uh, I, I know my friend is, uh, really into guns|sd
 B|and, uh, uh, I went a couple of times with him to gun shows, you know,  that  come through town and everything|sd
-A| Uh-huh. |b
-B|and, I mean, they just have, I mean they have anything you'd want, |sd
-B|I mean |%
-A| Uh-huh. |b
+A|Uh-huh.|b
+B|and, I mean, they just have, I mean they have anything you'd want,|sd
+B|I mean|%
+A|Uh-huh.|b
 B|you know, you know, anywhere from rifles and semiautomatic weapons and there's, I mean, there's nothing.|sd
 B|You can just go buy one and take it home|sd
 B|and it's easier than getting a, like a video membership card at, you know, a video store.|sv
@@ -89,25 +89,25 @@ A|You don't have to wait or nothing then huh?|qy
 B|No.|nn
 B|Well, except for the, the pistols and|sd
 B|I'm not sure how they do that.|sd
-B| I know they, |sd
-A| Yeah,|b
+B|I know they,|sd
+A|Yeah,|b
 A|I  was just curious, you know, because, uh|sd
 B|Uh-huh.|b
 A|I know at, at the regular gun show, you know, gun shop that you, that you do have to wait for pistols, like  a couple  of weeks|sd
 B|Uh-huh.|b
-B| Right. |b
+B|Right.|b
 A|and then they check you out,|sd
 A|then they call you up|sd
 A|and you go pick it up.|sd
 B|Yeah.|b
-B| I think that's, |sv
-A| Which I  think they have to do on rifles and things now too.|sv
+B|I think that's,|sv
+A|Which I  think they have to do on rifles and things now too.|sv
 A|I think there is some, something like that.|sv
 B|Uh-huh|b
 A|Anyhow, here, out here in California, I think there is now.|sv
 B|Yeah.|b
-B| Yeah |b
-A| But, |%
+B|Yeah|b
+A|But,|%
 B|I'm not sure,|sd
 B|I'm not really sure but, what uh, the gun laws in Pennsylvania are like.|sd
 A|Uh-huh.|b
@@ -127,8 +127,8 @@ A|yeah,|aa
 A|right|aa
 A|He likes to do that you know|sd
 B|Uh-huh.|b
-A| But, uh  I don't know.|h
-B| Yeah. |b
+A|But, uh  I don't know.|h
+B|Yeah.|b
 A|I think they should try to control it and everything, you know.|sv
 A|But as far as just banning it completely, there, that's not going to happen.|sv
 B|I don't, yeah, I, I don't think it can happen either.|aa
@@ -138,19 +138,19 @@ B|and, then, I, I think, uh, hadn't thought about this before|sd
 B|but if you do that, if they would, uh, uh, decide to ban guns, it would just open up a, a market, you know, a black market for them.|sv
 A|Yeah,|aa
 A|right,|aa
-A| right. |aa
-B| And so,  you know, they, they would just,|sv
+A|right.|aa
+B|And so,  you know, they, they would just,|sv
 B|all the profits would go to, you know,|sv
-A|Now I do believe though, like in California, if a little kid gets a hold of a gun that someone has I think they're liable now for, |sd
+A|Now I do believe though, like in California, if a little kid gets a hold of a gun that someone has I think they're liable now for,|sd
 B|Yeah.|b
 A|they  can be, you know, put in jail and everything. The, whoever owned the gun.|sd
-B| Oh,  Oh , yeah,|b
+B|Oh,  Oh , yeah,|b
 B|the owner's responsibility?|bf
 A|You know,  now  when they have kids around, you'd think that they would be locking them up|sv
-B| Yeah. |b
-A|or,  you know. |%
-B| Yeah,|aa
-B| yeah,|aa
+B|Yeah.|b
+A|or,  you know.|%
+B|Yeah,|aa
+B|yeah,|aa
 B|you know, that's, that's true.|sv
 B|Uh, you know, I, I had a friend who was a, uh, a policeman in a, in a local borough just a small, uh, one of the little neighborhoods, you know, one of the small towns, uh near Pittsburgh.|sd
 A|Uh-huh.|b

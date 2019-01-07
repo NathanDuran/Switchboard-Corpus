@@ -8,8 +8,8 @@ A|Yeah.|ny
 A|Uh, so I'm looking at, uh, something larger than what we have.|sd
 A|We've got, like, an eighty-four Charger that's about gone and a, uh, an eighty-nine Horizon.|sd
 A|So,  I'm looking for something, uh, littler  bigger,|sd
-B| Uh-huh,|b
-B|which are both kind of small. |bf
+B|Uh-huh,|b
+B|which are both kind of small.|bf
 A|yeah.|aa
 A|Uh, so we were thinking mini van for a while|sd
 A|and, uh, we're looking at, uh, some just four door, five passenger sedans as well.|sd
@@ -76,8 +76,8 @@ A|Yeah.|b
 B|So,|%
 A|Yeah|b
 A|I I think in terms of computer terminology, I look at, you know, price performance and  things like that.  And then a little bit at life expectancy, I guess,|sd
-B| Right,|aa
-B|exactly. |aa
+B|Right,|aa
+B|exactly.|aa
 A|but it, you know depends on what you, what you pay initially.|sv
 B|Yeah.|b
 A|But, you know I've got a hundred and twenty-five thousand miles on the Charger.|sd

@@ -46,8 +46,8 @@ A|Uh-huh.|b
 B|And I make very good sales,|sd
 B|but I'm not, uh, as I said, I'm not half as pushy as these people because, I don't really care.|sd
 B|I mean, if, if they're not interested fine.|sd
-B| You know that's it. |sd
-A| You can't force them to be. |sv
+B|You know that's it.|sd
+A|You can't force them to be.|sv
 B|Right.|b
 A|No.|sv
 B|And I'm not pushing something down their throat that, uh, I don't think is a good item anyway.|sd

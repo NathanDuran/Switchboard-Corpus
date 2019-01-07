@@ -114,9 +114,9 @@ B|and they they explain to you, you know, what their day consists of and what th
 B|and, um, that's, you know, that's as much as I know.|sd
 B|You probably could get really good feedback from a lot of other working mothers you know, that have done this over and over again.|sv
 A|Uh-huh.|b
-A| Well, |%
-B| But I,|%
-B| go ahead.|ad
+A|Well,|%
+B|But I,|%
+B|go ahead.|ad
 A|How did you stumble upon the day-care center?|qw
 A|Did you just look it up in a phone book|qy
 A|or what was it?|qw

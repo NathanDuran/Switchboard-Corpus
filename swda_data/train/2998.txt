@@ -51,7 +51,7 @@ A|Yeah,|aa
 A|yeah,|aa
 A|yeah.|aa
 B|and  I guess refrigerators,  are the same way.|sv
-A| We just had the, |%
+A|We just had the,|%
 B|They release that.|sv
 A|That's right.|aa
 A|So, solutions to this, would be|sv
@@ -79,8 +79,8 @@ B|And, and that's been done.|sd
 B|There's the lead pollution has, that problem, essentially I guess because it was at crisis proportions was, was licked.|sv
 A|Uh-huh.|b
 B|And I think that there are there are solutions,|sv
-A|And  that for buses, |%
-B| certainly we don't even need a,  need a research anymore.|sv
+A|And  that for buses,|%
+B|certainly we don't even need a,  need a research anymore.|sv
 B|It's just a matter of passing the law,|sv
 B|and passing the law depends on how heavy the car industry, the automobile lobby is.|sv
 A|That's right.|aa
@@ -157,13 +157,13 @@ A|yeah.|b
 B|But, uh, again, uh, that didn't occur without a crisis.|sv
 B|Nothing will occur, I guess, without a crisis.|sv
 A|I mean, even California was notorious for its smog  years ago,  before it even was an issue, out here.|sv
-B| Yeah,|aa
-B|exactly. |aa
+B|Yeah,|aa
+B|exactly.|aa
 B|Exactly.|aa
 B|Well, the greatest thing that happened to pollution in the last couple of years as far as I'm concerned, is the no smoking rules, on airplanes and in restaurants.|sv
 B|And it, it really is a pleasure for me, although, I guess smokers don't think that.|sv
-B| But that,  to me was pollution ,|sv
-A| Well, that,  that's, that's that's personal air pollution|sv
+B|But that,  to me was pollution ,|sv
+A|Well, that,  that's, that's that's personal air pollution|sv
 B|that was its most personal, personal, uh, pollution that I can think of.|sv
 A|Yes,|aa
 A|yes.|aa
@@ -176,5 +176,5 @@ B|something happen.|fc
 B|Right on,|fc
 B|thank you.|fc
 A|You're welcome.|fc
-B| Bye-bye. |fc
-A| Bye-bye. |fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

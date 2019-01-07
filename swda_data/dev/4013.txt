@@ -41,8 +41,8 @@ A|Oh, uh-huh.|b
 A|Uh, what are the ages of your kids then?|qw
 B|They range from twenty-four to five.|sd
 A|Oh, yeah.|b
-A|So you have some in the nest and some out,  huh. |qy
-B| That's right. |na
+A|So you have some in the nest and some out,  huh.|qy
+B|That's right.|na
 B|How old are your children?|qw
 A|We have,|%
 A|ours start at twelve|sd

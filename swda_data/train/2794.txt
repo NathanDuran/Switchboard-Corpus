@@ -11,15 +11,15 @@ A|That would probably be good,|ba
 A|but, something that the government hasn't been looking at is the source of the problem.|sv
 B|Huh.|%
 A|The true source of the problem is, a, that we do spend too much,|sv
-B| Yes. |b
-A| but also, b,  that we don't take in enough.|sv
+B|Yes.|b
+A|but also, b,  that we don't take in enough.|sv
 B|Yeah,|b
 B|well, why do you say that actually?|qw
 A|Uh, too few Americans are working.|sv
 B|Huh.|%
 A|If more Americans were working and meaningful good paying labor,  and  paying taxes,  and the tax structure  was fair between the lowest and the highest income Americans, then we would have more money there to play with.|sv
-B| Yes. |b
-B| Rather than using taxes. |^2
+B|Yes.|b
+B|Rather than using taxes.|^2
 B|Oh, that's interesting.|ba
 B|Yeah,|b
 B|that's probably true,|ba
@@ -72,7 +72,7 @@ B|Uh-huh, huh.|b
 B|No,|%
 B|I had never thought about that.|sd
 A|Then I think once we put money back into the in the coffers of the federal government,  and  get the federal government to where there's money there again, we should reduce the amount of money,|sv
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|and this would have to come rather quickly, and would have to come originally also where we're not paying,|sv
 A|in some cases we do pay more, for welfare recipients to live then they can earn in the true minimum wage environment.|sv
 B|That's true we do, often times they are paid more, yeah.|ba
@@ -83,7 +83,7 @@ B|That's just what on their part,|br
 B|I'm sorry,|fa
 B|I missed that.|sd
 A|It's just sensible on their parts,  to  go after the, the, the greater amount of income.|sv
-B| Oh. |bk
+B|Oh.|bk
 B|Uh-huh.|b
 A|So, if you lower the amount they make and raise the amount of true minimum wage jobs, not those that are affected by the federal minimum wage, then more people will get off welfare.|sv
 B|That, that maybe true.|b
@@ -94,7 +94,7 @@ A|And then don't start letting more outsiders in for a few years until we figure
 B|Right,|b
 B|that's a,|%
 A|Reduce immigration,  or eliminate it  entirely for a few years, until we get our own house in order.|sv
-B| Huh. |%
+B|Huh.|%
 B|Yeah,|b
 B|and maybe even reduce, along the same lines, maybe reduce imports as well, I think.|sv
 A|Oh, absolutely,|aa
@@ -116,19 +116,19 @@ B|I mean, why not.|qh
 A|And I think really if we got all those that are able-bodied into the work force reduced the amount going out for those purposes, created new jobs for that work force, there would be plenty of money.|sv
 B|I think so.|aa
 A|And then at that point,  quit  spending on space.|sv
-B| Yes. |b
+B|Yes.|b
 B|Oh real ,|%
 A|Force it all into the, into the private sector.|sv
 B|Oh, really I love the switch.|sd
 B|Well, at that point you might, we, it wouldn't be a problem anymore possibly, you know,|sv
 B|we would be,  we would  be able to keep it wherever we wanted to in space or the ocean research whatever we wanted to do,|sv
-A| That's right. |ba
+A|That's right.|ba
 B|but I think the,|%
 A|Uh, space was just a convenient place for me to go because that would put a lot of,  a  lot of|sd
-B| Right. |b
+B|Right.|b
 A|Millspec and NASA work operates to the same demanding specifications,|sd
-B| Uh-huh. |b
-A| that  would put a bunch of defense workers back to work.|sv
+B|Uh-huh.|b
+A|that  would put a bunch of defense workers back to work.|sv
 B|Right,|b
 B|compared to defense.|^2
 B|Well, that's a good idea.|sv
@@ -139,16 +139,16 @@ B|Um, greed, I suspect.|no
 A|Uh, no.|arp_nd
 A|Your, your buying large , uh,|%
 A|the government specifications,|sv
-B| Uh-huh. |b
-A| sheets of paper  for building a pair of B V D underwear for the federal government,  is  twenty-two foot tall.|sv
-B| Yeah. |b
+B|Uh-huh.|b
+A|sheets of paper  for building a pair of B V D underwear for the federal government,  is  twenty-two foot tall.|sv
+B|Yeah.|b
 B|Really?|bh
 A|If it was all on nine by elevens stacked one on top of another.|sd
 B|For making, you mean, government issue underwear?|qy
 A|For making government issue underwear.|na
 B|Jesus.|ba
 A|To just understand those legal requirements and operate within the government guidelines,  costs  the company a huge amount of money.|sv
-B| Uh-huh. |b
+B|Uh-huh.|b
 B|Well, that's potentially a fault of the government then, I mean, that could, things like that should,|sv
 A|Yes,|aa
 A|a huge amount of it is not the fault of the contractor.|sv
@@ -156,7 +156,7 @@ B|Right,|b
 B|well, that's a,|%
 B|I had never heard that before.|sd
 A|Uh, a huge amount of what you hear on, about the seventy-five dollar hammers,  and  the nine hundred dollar toilet seats doesn't come from people in the industry,|sv
-B| Right. |b
+B|Right.|b
 A|it comes from senators that don't know anything about it.|sv
 B|Huh.|%
 A|Uh, my job is government tooling specialist.|sv

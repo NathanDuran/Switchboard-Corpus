@@ -65,10 +65,10 @@ A|we better have him do do something. You know, educationally.|^q
 B|Yeah.|b
 B|Yeah.|b
 A|So that was really fun.|sd
-B| Well, because my, |%
-A| My husband and  I love to go to the musicals downtown, though.|sd
-B|Pardon  me? |br
-A| So,  my husband and I love to go to the musicals when they come into town into Dallas.|sd
+B|Well, because my,|%
+A|My husband and  I love to go to the musicals downtown, though.|sd
+B|Pardon  me?|br
+A|So,  my husband and I love to go to the musicals when they come into town into Dallas.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Well, I have an eight and a half year old daughter who's taking piano lessons and started out at the age of just turning five|sd

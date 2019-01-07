@@ -60,7 +60,7 @@ B|let's cut off.|ad
 A|Yeah,|aa
 A|that sounds like a good deal.|sv
 A|Well, you have a nice day.|fc
-B| You too. |fc
-A| And we'll talk to you later. |fc
+B|You too.|fc
+A|And we'll talk to you later.|fc
 B|Bye-bye.|fc
 A|Bye.|fc

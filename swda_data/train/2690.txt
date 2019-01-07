@@ -148,8 +148,8 @@ B|uh. Gee, I'll have to try to catch that sometime.|sd
 B|It's,|%
 A|Uh, again I think it may be on cable more than anything else.|sd
 B|Yeah,|b
-A| We  don't have cable.|sd
-B| that's probably  true.|aap_am
+A|We  don't have cable.|sd
+B|that's probably  true.|aap_am
 B|Yeah,|aa
 B|we don't either.|sd
 B|I, uh, I couldn't rationalize paying, you know,|sd

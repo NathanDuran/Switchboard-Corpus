@@ -9,12 +9,12 @@ A|Uh-huh.|b
 B|I've had some ideas on how I think they could probably do it a little less expensively and accomplish the same purpose,|sd
 B|but I, I guess I need to put it on paper and turn it in|sv
 A|Oh, yeah.|b
-A|  what would be more efficient about it.|qw
-B| Uh. |%
+A|what would be more efficient about it.|qw
+B|Uh.|%
 A|what,|%
-B|Well, the way they have, you know, they have boxes located at certain areas throughout a module, or down the hall |sd
+B|Well, the way they have, you know, they have boxes located at certain areas throughout a module, or down the hall|sd
 B|or  a lot of people aren't going to get up, walk out of their offices and go there.|sv
-A| Uh-huh. |b
+A|Uh-huh.|b
 A|Uh-huh.|b
 B|You know, where I use to work we had what we called tree boxes.|sd
 B|That's just what we called them.|sd
@@ -34,13 +34,13 @@ A|Yeah,|b
 A|I, I, I, uh, was going to say cause I know I have right here a trash can for trash and a trash can for for paper on it you know|sd
 B|Right.|b
 A|and, uh,  if  if I have a, if I, I printed up something that I don't need it, just chunk it in the, in the paper.|sd
-B| If. |%
+B|If.|%
 B|Right,|b
 B|but somebody still has to collect all that and bundle it together|sd
 A|That's true.|ba
 B|and whereas if you had a box that pretty soon it got full, you close the box, it's already bundled, it's already done for you.|sd
-A|Certainly  that's a good idea. |ba
-B| So you're  saving a lot of time and effort.|sv
+A|Certainly  that's a good idea.|ba
+B|So you're  saving a lot of time and effort.|sv
 B|I just need to put it on paper and I guess recommended it to somebody and see if they thinks it's feasible|sd
 A|Yeah.|b
 A|Uh-huh.|b
@@ -75,8 +75,8 @@ A|I, I lived in Abilene for a, uh,|sd
 A|I went to school there at Abilene Christian|sd
 A|and I,|%
 A|it was so hard to, uh,|sd
-A| you know if you  you wanted to recycle you newspapers it was impossible.|sv
-B| Find a place. |^2
+A|you know if you  you wanted to recycle you newspapers it was impossible.|sv
+B|Find a place.|^2
 B|Well, uh, uh they, they do have facilities for recycling the newspapers, aluminum cans, those are the two major items.|sd
 B|You know, we can take oil, like car oil, recycled oil to,|sd
 B|they have, uh, uh, dump areas like at the fire departments throughout town.|sd

@@ -235,6 +235,6 @@ A|Well it's kind of enjoyable,|sv
 A|I'm really looking forward to it.|sd
 B|Yeah.|b
 A|Well thanks a lot.|ft
-B| Okay,|fo_o_fw_"_by_bc
-B|bye. |fc
-A| Bye-bye. |fc
+B|Okay,|fo_o_fw_"_by_bc
+B|bye.|fc
+A|Bye-bye.|fc

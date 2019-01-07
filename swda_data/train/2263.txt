@@ -156,9 +156,9 @@ B|it was.|aa
 B|Saw a few bears things like that.|sd
 A|Did you really?|bh
 A|What, black ones?|qy
-B| Yeah. |ny
-A| Yeah.|b^m
-A| That would be exciting.|sv
+B|Yeah.|ny
+A|Yeah.|b^m
+A|That would be exciting.|sv
 B|Yeah,|aa
 B|the first, first couple of times it's pretty scary|sv
 B|but, uh, after that you realize they are just as afraid of you, too.|sv
@@ -171,11 +171,11 @@ A|Uh-huh.|ny
 B|I don't know if,|%
 B|they don't have them up there do they?|qy
 A|The black bear.|qy
-B| Yeah. |ny
-A| Oh, yeah. |ny
-B| Oh, do they? |bh
-A| Yeah,|ny
-A| the population's been really up.|sd
+B|Yeah.|ny
+A|Oh, yeah.|ny
+B|Oh, do they?|bh
+A|Yeah,|ny
+A|the population's been really up.|sd
 A|They've, uh, they've had longer hunting seasons than that even to get rid of more of them, because they were, uh, increasing so much.|sd
 B|Yeah,|b
 B|they, down here they, they stopped for awhile|sd

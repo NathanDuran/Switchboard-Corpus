@@ -19,8 +19,8 @@ A|Yeah.|b
 B|I don't care for that at all.|sd
 A|Yeah.|aa
 A|I don't enjoy rap too much, either.|sd
-A|That, that doesn't appeal to, uh,  my ears. |sd
-B| Well, as far  as the rap goes, I think there are a few artists that appeal to me themselves|sd
+A|That, that doesn't appeal to, uh,  my ears.|sd
+B|Well, as far  as the rap goes, I think there are a few artists that appeal to me themselves|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|and I like some of their songs.|sd
@@ -36,8 +36,8 @@ B|I like, uh, like I said, pretty varied, uh, music.|sd
 A|Uh-huh.|b
 B|I have a couple that my husband really hates that I listen to, like Billy Holiday|sd
 A|Oh|b
-B|I really love to listen  to her, |sd
-A| Uh-huh. |b
+B|I really love to listen  to her,|sd
+A|Uh-huh.|b
 B|and, uh, I even have a, a tape of Lady Smith Blackman Bazo|sd
 A|Oh, gosh.|ba
 B|and, well, I mean, they're very harmonic|sv
@@ -94,8 +94,8 @@ B|that type of country western is what I, I like to listen to. Uh, Sons of the P
 A|Sure.|b
 A|Uh-huh.|b
 A|Uh-huh.|b
-A| Yeah. |b
-B| Um,  oh, I like sound tracks a lot.|sd
+A|Yeah.|b
+B|Um,  oh, I like sound tracks a lot.|sd
 A|Oh, do you?|bh
 B|Yeah,|ny
 B|it seems like you get a lot of original music that way.|sv

@@ -119,8 +119,8 @@ B|So I can get some of the movies.|sd
 A|Yeah,|b
 A|that's a good idea.|ba
 A|We did have H B O,|sd
-A|but it, we just canceled it last week because it seemed like it was so repetitious,  you know. |sd
-B| It is. |aa
+A|but it, we just canceled it last week because it seemed like it was so repetitious,  you know.|sd
+B|It is.|aa
 A|It's just,|%
 B|But I don't sleep a whole lot|sd
 B|and I, you know,|%

@@ -33,8 +33,8 @@ A|I didn't see it,|sd
 A|was that before they actually did that|qy
 A|or it was|qrr
 B|Yes.|ny
-B|And his argument was, uh, was that, that you would see a, uh, a year with no summer.  Which actually happened. |sd
-A| Because of that,  you know.|^2
+B|And his argument was, uh, was that, that you would see a, uh, a year with no summer.  Which actually happened.|sd
+A|Because of that,  you know.|^2
 B|And it, it|%
 B|yes,|b
 B|it actually happened,|sd
@@ -43,7 +43,7 @@ B|and it was high enough up|sd
 B|but, uh, they had some people from the national meteorological center I think it was which is the national, anyway, research people|sd
 B|and they said that the, uh, that the pollution would not go high enough.|sd
 B|And it's going to be interesting to see if Carl Sagan and his billions and  billions of stars,  may have once made a mistake,|sd
-A| Right. |b
+A|Right.|b
 B|but the, the the general, the opinion among, among the, uh, meteorologists at, uh,|sd
 B|I'm, uh, member of the American Meteorological Society,|sd
 B|and|%
@@ -60,8 +60,8 @@ A|Oh, okay.|bk
 B|But I, I, I'm in the active reserves as a weatherman,|sd
 B|so.|%
 A|Oh,  okay,|bk
-A|yeah. |b
-B| Uh,  I, I keep up from time to time,|sd
+A|yeah.|b
+B|Uh,  I, I keep up from time to time,|sd
 B|but what the, the argument is that, uh, that, uh, maybe there isn't global warming and maybe there is.|sd
 B|But, um, if there is, uh, we probably could do something about it now,|sd
 A|Yeah.|b
@@ -71,14 +71,14 @@ A|Uh, well, I'm kind of a car buff myself,|sd
 A|I was going to ask you another question,|sd
 A|but, uh, I'll do that in a minute.|sd
 A|I, I think that the changing, you know, from leaded fuel was a tremendous advantage,  you know, not using  ...|sv
-B| Well, do you have an  older car?|qy
+B|Well, do you have an  older car?|qy
 A|No,|nn
 A|no,|nn
 A|no.|nn
-B|I, I have been working on an older car |sd
+B|I, I have been working on an older car|sd
 B|but it|%
-B|yeah. |%
-A| Really?|bh
+B|yeah.|%
+A|Really?|bh
 A|Oh, I'm a car  buff too,|sd
 A|we ought to talk about that one day, uh, uh,|ad
 B|Well, I'm restoring one.|sd
@@ -121,8 +121,8 @@ A|It was a somewhat of a commercial because it I saw it regularly|sd
 A|and it showed that|sd
 A|and it was really devastating|sd
 A|and, it would, uh ,|%
-B| Well it, |%
-A| how much  ash would fall|sd
+B|Well it,|%
+A|how much  ash would fall|sd
 A|and, and how it would essentially literally destroy the world, you know.|sd
 B|Well, the Chernobyl accident, uh,|sd
 B|actually, um, because the circulation budget as high as it went, uh, covered, uh, a fairly remarkable amount|sd
@@ -193,8 +193,8 @@ A|no,|aa
 A|you're right.|sv
 A|I, I have seen them|sd
 A|but, uh, they have a battery car.|sd
-B|But they  suppose, |sd
-A| Uh,  I went to the auto show this past week|sd
+B|But they  suppose,|sd
+A|Uh,  I went to the auto show this past week|sd
 A|and they did not endorse,|sd
 A|now that I think of it,|sd
 A|and I was so interested in the auto show I didn't think to ask anybody,|sd
@@ -227,8 +227,8 @@ B|Oh, I'm at ,|sd
 A|I was, uh, I'm the facility|sd
 A|so I've been in all, most of the buildings anyway.|sd
 B|Oh, well, I'm in, I'm in the C building,|sd
-B|been there for,  all my life. |sd
-A| Oh, yeah,|b
+B|been there for,  all my life.|sd
+A|Oh, yeah,|b
 A|well,  the, the solar area is right, right around from the auditorium now.|sd
 A|And it,|%
 A|they've got several different, uh, areas where they're called solar lab.|sd

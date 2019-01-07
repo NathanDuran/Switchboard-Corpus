@@ -175,13 +175,13 @@ B|and I thought that the man told me five minutes.|sd
 A|Oh, okay,|bk
 A|my mother said ten minutes|sd
 A|so, I don't know.|h
-B| Oh, okay. |b
-A| But, uh,  okay|b^m
+B|Oh, okay.|b
+A|But, uh,  okay|b^m
 A|well, it was nice talking to you|fc
-A|and,  and good luck with your hobbies |fc
+A|and,  and good luck with your hobbies|fc
 B|It was nice talking to you, too,|fc
-B| good luck with your singing. |fc
+B|good luck with your singing.|fc
 B|Okay,|fc
-B| bye. |fc
-A| Thanks,|fc
-A| bye.|fc
+B|bye.|fc
+A|Thanks,|fc
+A|bye.|fc

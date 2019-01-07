@@ -100,8 +100,8 @@ B|It, it is when you do it that way.|ba
 A|But to, to have lived by that every week would have been tough for me because sometimes I'll spend less on groceries but we'll go out.|sd
 A|So it's kind of hard to say this is how much you're going to spend going out for fun.|sv
 A|This is how much you're going to spend|sv
-A| It's kind of hard. |sv
-B| Well, we, we  eat out a good deal at this point.|sd
+A|It's kind of hard.|sv
+B|Well, we, we  eat out a good deal at this point.|sd
 A|Do you?|bh
 B|I, I started subbing just to go on a vacation and saved, all that money so because I knew that you couldn't, you know, spending, five thousand dollars on a vacation, or whatever.|sd
 A|Yeah,|b
@@ -124,7 +124,7 @@ B|Yes.|aa
 A|Yeah, .|b
 B|And so I think that that's difficult for most people,|sv
 B|but  then my father was,  very Scotch|sd
-A| I think so too. |aa
+A|I think so too.|aa
 B|and, you know, you never could afford anything although we could afford everything if he wanted to. Um,|sd
 A|So if you're out like in a department store and there's a sale, you're just real careful not to let your urges get hold of you?|qy^d
 B|Yes.|ny
@@ -156,8 +156,8 @@ B|Yeah,|b
 B|so,|%
 A|So,|%
 B|you know, we've been rather rather  frugal in that.  In that respect.|sd
-A| Rather frugal.|b^m
-A| Well, that's, that's going to payoff on retirement.|sv
+A|Rather frugal.|b^m
+A|Well, that's, that's going to payoff on retirement.|sv
 A|Yeah.|b
 B|So.|%
 A|Well, it, uh,|%

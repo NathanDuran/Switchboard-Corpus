@@ -1,6 +1,6 @@
 B|Well, let's see.|^h
 A|So what,  So what  gets you?|qo
-B| As far as I'm  ,|%
+B|As far as I'm  ,|%
 B|Well, the thing I think that annoys me the most is, I have, I have young children, a baby in the house|sd
 B|and, and inevitably as soon as they're asleep, someone calls on the phone trying to sell me something.|sd
 A|Uh-huh.|b
@@ -18,8 +18,8 @@ A|we come home|sd
 A|and just as we're preparing dinner or eating dinner the phone rings|sd
 A|and it's one solicitation call after another|sd
 A|and, you know.|%
-B| Your time is, is  valuable,|sv
-A| Yeah,|aa
+B|Your time is, is  valuable,|sv
+A|Yeah,|aa
 A|it's, it's  like you say, very annoying|sv
 B|and,|%
 A|and, uh, why, why do we let this happen.|qh
@@ -40,8 +40,8 @@ B|I just, I do particularly find it annoying.|sd
 B|Uh, I'm really not sure. to be,|h
 A|Yeah.|b
 A|It, it seems, it seems to me that we should have the ability to designate with the phone company that we don't want to receive calls like that. *sv|sv
-B|Well, that,  yeah, that might, |%
-A| And the people  making these calls would be obliged to compare the, their lists that they're going to call against this list of people who don't want to be called.|sv
+B|Well, that,  yeah, that might,|%
+A|And the people  making these calls would be obliged to compare the, their lists that they're going to call against this list of people who don't want to be called.|sv
 B|Identify themselves, yeah.|^2
 B|Right.|aa
 B|Well, that would be a good an interesting way,|sv
@@ -51,9 +51,9 @@ A|And, that, that way, those who want it can have it|sv
 A|and those who don't want it, don't have to have it.|sv
 B|Right.|b
 A|Sort of like an unlisted number where you haven't gone to the trouble of enlisting yourself.|sv
-B| Right,|aa
-B|you're, |%
-A| Except even  unlisted numbers aren't safe now because they have these things just sort of dial through all the numbers. Uh, automatically|sd
+B|Right,|aa
+B|you're,|%
+A|Except even  unlisted numbers aren't safe now because they have these things just sort of dial through all the numbers. Uh, automatically|sd
 B|Oh, is that right?|bh
 B|Oh, that's interesting.|ba
 A|and,|%
@@ -84,8 +84,8 @@ B|I've never quite understood the purpose of that.|sd
 B|Yeah,|%
 B|I, uh,|%
 A|Well, I think these people were hired by, from, from different sources.|sd
-B| Just |%
-A| Uh, with,  you know,|%
+B|Just|%
+A|Uh, with,  you know,|%
 A|and so, therefore, there's no one answer.|sv
 A|But, but, yeah|%
 A|sometimes it's a market basically it's a market survey|sd

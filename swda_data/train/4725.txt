@@ -10,7 +10,7 @@ B|I know it's, it's a lot, you know that, uh, that I feel like, you know, just l
 B|but they're giving it to other people that don't really need it either,|sv
 B|but yet they accept it.|sv
 A|Well, the thing of it is, if I wanted to just, uh, you know, permanently become a book reader, I guess I could just, uh, you know, uh, go on public assistance, uh, you know   look for, uh, look for people to, uh, take care of me.|sv
-B|Like so many people  do. |sv
+B|Like so many people  do.|sv
 B|Uh-huh.|b
 A|And, uh, probably a good woman,|sv
 A|right?|^g
@@ -28,7 +28,7 @@ A|So, uh, you know, that, that's always a smile.|sd
 A|But, of course, you know, I've, I've paid it in|sd
 A|and I should calculate it better.|sd
 B|Right|b
-B| You  are you in business for yourself?|qy
+B|You  are you in business for yourself?|qy
 A|No.|nn
 A|I, I, I work for the F B I.|sd
 A|So I, I'm a federal employee.|sd
@@ -38,8 +38,8 @@ A|Guess I don't sound like it huh?|qy
 B|Uh, well, I|%
 B|no|nn
 B|I think that people that work for the government are just as against taxes as, as everybody else,  you know.  Unless you work for Internal Revenue|sv
-A| Yeah,|b
-A|I belong . |%
+A|Yeah,|b
+A|I belong .|%
 A|Oh I, I've got all four feet in the trough, you know, being a federal employee.|sv
 B|Yeah.|b
 A|And, and so, but, but I can understand that, uh, that, you know, the, uh, who gets benefits.|sd
@@ -77,9 +77,9 @@ A|And, and I think really the only place you can really reduce the amount of tax
 A|If you're not going to use them, then you want to be in, in environment.|sv
 A|That's a strategy I think that the people have to, have to take. Is, is how to be able to, to lessen their cost of living. You know,|sv
 A|I'm, I'm five or six years before I'm eligible to retire|sd
-A|and, and I'm saying well, you know, I really can't stay here,  uh, as a retiree. |sv
-B| After you retire,|bf
-B|yeah. |b
+A|and, and I'm saying well, you know, I really can't stay here,  uh, as a retiree.|sv
+B|After you retire,|bf
+B|yeah.|b
 A|It's too expensive.|sv
 B|Yeah.|b
 A|I'm going to have go out and, you know, in, you know, East Fork someplace. And, and, do my thing, you know.|sd

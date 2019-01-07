@@ -1,7 +1,7 @@
 A|Anyway, what are your, what are your first comments on that pauses and subject?|qw
 B|Uh, my first comments on the budget.|b^m
-B|I would say there  has, |sd
-A| What  would you start cutting|qw
+B|I would say there  has,|sd
+A|What  would you start cutting|qw
 A|what would be the first thing you'd cut?|qw
 A|Defense?|qy^d
 B|Surprisingly, no.|nn
@@ -17,9 +17,9 @@ B|I hadn't heard that.|sd
 A|But, uh, yeah,|b
 A|because I think it's all funded, either state or federally funded|sd
 A|so,  or, uh,  obviously.|sd
-B| Right. |b
+B|Right.|b
 A|So, but, uh,  But  see they're, they don't have enough, uh, uh, you know, there's, there's not enough room in these prisons and that, and that, uh, to continue funding it.|sd
-B|But to me  it, |sd
+B|But to me  it,|sd
 A|They think they need to, maybe have, uh, you know, private, you know, business, private enterprise come in.|sd
 A|So,|%
 B|Well, see the other way I'm thinking about is they should be self-supporting, like, uh, the prisoners make license plates or farm or small industry inside the prisons. Anything to where they can be self-supporting within themselves.|sv
@@ -55,8 +55,8 @@ A|But I'm just saying that even the differences, uh, is that, you know, some cou
 A|But here, it, you know, it's just up to high school.|sd
 B|Yeah.|b
 B|But see, we don't even push the fact to the high school kids that there's other means of education out there rather than college. To go either as an apprentice, which they, they do in other countries. Just doing it, which I think would bring the education back up. You know,|sd
-A| Uh-huh. |b
-B| why  not an apprentice out to a, a company and learn from down on the bottom as a wood worker or, you know, just a technician?|qh
+A|Uh-huh.|b
+B|why  not an apprentice out to a, a company and learn from down on the bottom as a wood worker or, you know, just a technician?|qh
 B|You can learn on the job. Which, of course, again, which would mean, again,|sv
 A|Uh-huh.|b
 B|our education budget will go down if this is,|sv
@@ -98,14 +98,14 @@ A|so I changed that.|sd
 B|Yeah.|b
 B|It sounded you were calling from around the world somewhere|sd
 A|Anyway, so, uh,|%
-B| Well, |%
-A| but,  uh, you know, I think, uh, they, maybe they need to, uh, help promote that more. Give incentives like, uh, if they do bring somebody on, they will pay some of their costs or give tax breaks or whatever it is, you know, for them to train people,  you  know, stuff like that. Programs like that, you know.|sv
-B| Uh-huh. |b
+B|Well,|%
+A|but,  uh, you know, I think, uh, they, maybe they need to, uh, help promote that more. Give incentives like, uh, if they do bring somebody on, they will pay some of their costs or give tax breaks or whatever it is, you know, for them to train people,  you  know, stuff like that. Programs like that, you know.|sv
+B|Uh-huh.|b
 A|I don't know, you know, what kind of options they've got.|sd
 B|Well, that's something about what Germany's supposed to be doing. Something similar to that right now.|sv
 B|And, uh, they have jobs out on, you know, bulletin boards so people know what is open for an apprentices in different fields.|sd
 B|But see, that again would cut some of our budget down for education but build up our education with the people. At people, per, at high school level,  which  I would like to see. Rather than so many kids getting out of school.|sv
-A| Uh-huh. |b
+A|Uh-huh.|b
 B|They're, they go on the unemployment list before we have turn around. Because they don't have any education.|sv
 A|Uh-huh.|b
 B|I don't mean college.|sd
@@ -124,7 +124,7 @@ B|Oh, yeah.|aa
 B|But there's a lot of them out there that haven't.|sd
 A|Yeah.|b
 A|Well, I you know, I,  uh,  was basic, in a, you know, middle, upper middle class area,|sd
-B| That's, |%
+B|That's,|%
 A|and yeah,|%
 A|so I think, uh, that demographic area there, you know, a lot of them do go on.|sd
 A|And they go to college, etcetera.|sd

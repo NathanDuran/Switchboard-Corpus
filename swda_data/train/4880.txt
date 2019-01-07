@@ -41,7 +41,7 @@ A|okay, uh,|%
 A|first off we don't, we don't have enough courage to, uh, pick out the people that, that have some sort of indication of possible drug usage, uh, because that would offend them, uh, if they, if they weren't.|sv
 A|So we'll just accuse everybody of using drugs and, make it all even.|sv
 A|Uh,  and  and, uh|%
-B| Yeah. |b
+B|Yeah.|b
 B|Well,|%
 A|then, uh,|%
 A|but and they,|%
@@ -74,17 +74,17 @@ A|but it's fairly simple.|sd
 B|Kind of a coarse kind of test.|bf
 A|Coarse kind of test.|b^m
 A|And then there's a, a much more, uh, uh, refined test, uh, uh, spectrography or whatever it's called.  The  chemotography uh, to determine exactly what the, what the things are.|sd
-B| Is that done, |qy
+B|Is that done,|qy
 B|Right.|b
 A|And, uh,|%
 B|Now let me ask you this.|ad
-B|Uh, at the time you hired on with this company, uh, was that prior to  any, |qy
-A| No,|nn
+B|Uh, at the time you hired on with this company, uh, was that prior to  any,|qy
+A|No,|nn
 A|I,  I've been with this company for, uh, for sixteen years now.|sd
 B|Okay,|bk
-B|so that this is obviously not a condition of employment that you  subject yourself to this |qy^d
+B|so that this is obviously not a condition of employment that you  subject yourself to this|qy^d
 A|And, uh,|%
-A| No.|nn
+A|No.|nn
 A|And it, and  it, and it has, it has, you know,|sd
 A|they did that three or four years before they did it with everybody.|sd
 A|And I, uh, at that time I could justify it in terms of someone new coming in, you don't, you don't know.|sd

@@ -12,9 +12,9 @@ B|Uh-huh.|b
 B|Or, or maybe that it's not understood what should be covered and what isn't.|sv
 A|Uh-huh.|b
 A|Yeah.|aa
-A| Right|aa
+A|Right|aa
 A|the  health insurance I have is Met Life,|sd
-B| Yeah,|b
+B|Yeah,|b
 A|and, if,|%
 A|it's the type that if you go to a certain doctor then, uh, you just pay ten dollars|sd
 A|and then, uh, the insurance pays the rest of the bill.|sd

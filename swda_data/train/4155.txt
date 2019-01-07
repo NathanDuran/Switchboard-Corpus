@@ -36,7 +36,7 @@ A|I'm a student, um,|sd
 A|and I I work as a co-op at, uh, Georgia Tech Research Institute.|sd
 A|And, uh, I'm going to get back most of what I earned, I mean most of what I pay in taxes|sd
 A|and, uh, and, uh,  one of  my parents is still claiming me.|sd
-B| Well, when you  when you go out into the, uh, when you go out into the working world it, it changes quickly.|sv
+B|Well, when you  when you go out into the, uh, when you go out into the working world it, it changes quickly.|sv
 A|Huh?|br
 A|Uh-huh.|b
 A|I'm sure|aa
@@ -49,7 +49,7 @@ B|or are you, did you go directly from high school into, into college?|qrr
 A|I went,|sd
 A|well I did work, um, just very for some time|sd
 A|but I didn't make enough money to really make,  too much of a  difference.|sd
-B| To worry about it. |^2
+B|To worry about it.|^2
 A|Right.|aa
 B|Have you, have you been active in, in politics trying to, concerning this?|qy
 B|Have you like worked on political action committees or something like that?|qy
@@ -66,10 +66,10 @@ A|Uh-huh.|b
 B|And one of the Congressmen has, has written in the last three years about a thousand bad checks.|sd
 A|Huh.|%
 B|And we, we the taxpayers float him a loan for all all those bad checks,  no  interest, no repayment schedule.|sd
-A| Oh. |b
+A|Oh.|b
 A|Really?|bh
 B|And, um, it's causing quite a stir up here,  because  we're so close to D C anyway.|sd
-A| Uh-huh. |b
+A|Uh-huh.|b
 A|Uh-huh.|b
 B|It's really kind of curious to watch this thing occur.|sv
 A|Oh, sure.|ba
@@ -120,10 +120,10 @@ B|Well maybe, maybe you can figure out how we can stop this inertia that's, come
 A|I doubt about that.|sv
 A|Are, are, is America, I mean are we pretty, pretty steep compared to most countries?|qy
 B|Actually, I don't think we are.|ng
-A| No,|aa
-A|I don't think so either. |sd
-B| Um, like, like  Europe,  um,  England. I know the taxes are a lot higher.|sd
-A| Uh-huh. |b
+A|No,|aa
+A|I don't think so either.|sd
+B|Um, like, like  Europe,  um,  England. I know the taxes are a lot higher.|sd
+A|Uh-huh.|b
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|But they do have socialized medicine and things like that.|sd

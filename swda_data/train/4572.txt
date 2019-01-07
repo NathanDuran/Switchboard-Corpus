@@ -10,14 +10,14 @@ B|Uh-huh,|b
 B|uh-huh.|b
 A|and I don't know,|h
 A|I don't know how much the stuff actually, what they actually have in there|sd
-A|but I know they use that, I mean they  sell those, |sv
+A|but I know they use that, I mean they  sell those,|sv
 B|Huh.|b
-B| Well what about,  uh, required drug testing, uh, as a, uh, condition of employment?|qo
+B|Well what about,  uh, required drug testing, uh, as a, uh, condition of employment?|qo
 A|Yeah,|^h
 A|that was, that, that was the other one I was thinking of|sd
 A|I think that's, uh,|%
-A|I mean I know  drugs are illegal. |sd
-B| It thing  actually.|%
+A|I mean I know  drugs are illegal.|sd
+B|It thing  actually.|%
 B|Uh, I, uh, have worked at Texas Instruments.|sd
 A|Huh. Uh-huh.|b
 B|And, uh, they instituted a drug policy there. Drug testing policy where they randomly would test, uh, employees|sd
@@ -36,24 +36,24 @@ B|So, in that sense, it, at least, philosophically, it's really borderline legal
 A|Uh-huh.|b
 A|Well I, I think the, I think that, you know, a person's competence should be more determined by, you know, their actions and their behavior|sv
 A|and if they're, you know, if they're on some kind of, you know, controlled substance then, you know, it kinds of takes away from the job of, you know, the supervisor or manager type person, you know, who is able to evaluate them.|sv
-A|I think they should be evaluated that way rather than with a, you know, a chemical,  you know, |sv
-B| Well, what about  this, uh, AIDS epidemic now?|qh
+A|I think they should be evaluated that way rather than with a, you know, a chemical,  you know,|sv
+B|Well, what about  this, uh, AIDS epidemic now?|qh
 B|Where you find that, uh, uh, you know, certain people are actually are, are criminal in their disregard for  others.|sv
 A|These people that are carriers and  don't  that don't reveal it?|qy
-B| Yeah,|%
+B|Yeah,|%
 B|and and, uh, of course, the ultimate solution is to operate on their brain so that it doesn't,|sv
 B|it, uh, it destroys their libido.|sv
 A|Yeah, that would be kind of an extreme.|sv
-B|Now, uh,  you know if they ever, |%
-A| I mean I've  heard of things like, you know, making them, you know, marking them somehow or, you know, or something like that or, you know, putting them all someplace like in a  kind of, |sd
-B| So what  about that as an invasion of privacy?|qo
+B|Now, uh,  you know if they ever,|%
+A|I mean I've  heard of things like, you know, making them, you know, marking them somehow or, you know, or something like that or, you know, putting them all someplace like in a  kind of,|sd
+B|So what  about that as an invasion of privacy?|qo
 A|Yeah.|^h
 A|I guess it kind of borders on where, I mean what do you value more. The invasion of, uh, the person's privacy or the possible danger to, you know, other people.|sv
 B|So really,|b
 B|it gets to balancing, uh, personal freedom against, uh, the general welfare of society.|bf
 A|Yeah.|aa
-A|I guess that's that's been the big role of government, I guess  I mean generally. |sv
-B| Well, it, it's supposed  to have been.|sv
+A|I guess that's that's been the big role of government, I guess  I mean generally.|sv
+B|Well, it, it's supposed  to have been.|sv
 A|Yeah|aa
 A|Yeah.|aa
 A|Well, that's kind of a difficult one to go into.|sv

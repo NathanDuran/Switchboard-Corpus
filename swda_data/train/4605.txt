@@ -33,16 +33,16 @@ B|Uh-huh.|b
 B|Yeah,|aa
 B|definitely.|aa
 A|But, uh, I don't know whether I believe that they should just randomly do it.|sv
-A|I think they should kind of warn them, like, you know, well we're going to do that or maybe tell them before they do get hired, you know  that  this is what is going to happen. |sv
-B| Oh. |b
+A|I think they should kind of warn them, like, you know, well we're going to do that or maybe tell them before they do get hired, you know  that  this is what is going to happen.|sv
+B|Oh.|b
 A|And  then if you don't like it, why then, you know, you'll have to go look for a job someplace else.|^q
-B| Uh, |b
+B|Uh,|b
 B|But after you,|%
 B|you have, to do randomly otherwise people will cheat.|sv
 A|Well, I suppose you are right there too, you know.|aa
 B|Yeah.|b
-A|Uh,  personally I, |%
-B| They,|%
+A|Uh,  personally I,|%
+B|They,|%
 B|I know  when I was doing my, uh, basic training in A I T there was guys who would fool around|sd
 A|Uh-huh.|b
 B|and then when that urinalysis came around they would be all scared.|sd
@@ -56,24 +56,24 @@ A|Well, I suppose they fire you and everything right then, huh?|qy
 A|Or what do they do with you guys if, that you guys get,|qw
 B|Uh, we get counseling|sd
 B|and, uh, I think part of our pay is docked  if we're  first time offenders.|sd
-A| Oh I,  Oh, I see.|bk
+A|Oh I,  Oh, I see.|bk
 B|I really don't,|%
 B|I, I haven't,|%
 B|I don't do any drugs|sd
 B|so I don't know.|sd
 A|Yeah,|b
 A|well I don't either.|sd
-A|I wouldn't even think about it  |sd
-A|I think anybody that does them are dumb,  you know. |sv
-B| Crazy. |bf
-B| Yeah,|aa
-B|yeah. |aa
-A| Yeah|aa
-A| , really.|aa
+A|I wouldn't even think about it|sd
+A|I think anybody that does them are dumb,  you know.|sv
+B|Crazy.|bf
+B|Yeah,|aa
+B|yeah.|aa
+A|Yeah|aa
+A|, really.|aa
 A|You're so stupid, God|sv
 A|and you just watch it on T V and see how it just burns your brain completely up, you know.|sv
-A| You don't, |%
-B| Yeah,|aa
+A|You don't,|%
+B|Yeah,|aa
 B|wastes  your future.|bf
 A|Yeah,|aa
 A|really dumb, huh.|qy
@@ -94,19 +94,19 @@ A|and, you know, well, don't do that again|sv
 A|and  and then  you know, they'll get out|sv
 B|Oh, I know,|aa
 B|yeah.|aa
-B| They aren't . |%
+B|They aren't .|%
 A|and they're right back at it again.|sv
 B|Yeah.|aa
 B|Right now it is, it's too lucrative for the drug dealers|sv
 B|so the risks are worth it for them.|sv
 A|Yeah.|b
 A|Uh-huh,|b
-A| uh-huh. |b
-B| Yeah. |b
+A|uh-huh.|b
+B|Yeah.|b
 A|But, uh, other than that, why, I don't know.|sd
-A|Like I say, maybe one of these days I'll get a job because I am looking still for a part-time job, you know, since my company went bankrupt |sd
+A|Like I say, maybe one of these days I'll get a job because I am looking still for a part-time job, you know, since my company went bankrupt|sd
 A|and  I'll see what they do, you know.|sd
-B| Yeah. |b
+B|Yeah.|b
 A|But, like I say, I, I wouldn't care because I, I don't, I don't even smoke|sd
 A|so they can test me all I want.|sd
 B|Yeah.|b
@@ -116,7 +116,7 @@ B|it is a problem.|sv
 B|Sometimes some medicines will give off a, a false positive.|sd
 A|Yeah,|b
 A|see  now that  that would be really unfair then, huh?|qy
-B| I've heard  of, I've heard of that,|sd
+B|I've heard  of, I've heard of that,|sd
 B|yeah.|%
 B|Yeah.|ny
 A|You know.|fo_o_fw_"_by_bc
@@ -133,6 +133,6 @@ A|Okay, Lewis,|fc
 A|and maybe I'll talk to you again.|fc
 B|Okay|fc
 A|Alrighty.|fc
-B| Bye-bye. |fc
-A| Bye-bye. |fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc
 A|Bye|fc

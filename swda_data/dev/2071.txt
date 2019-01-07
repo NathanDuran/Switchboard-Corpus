@@ -123,5 +123,5 @@ B|Okay,|b
 B|well, enjoyed it.|fc
 A|All righty,|fc
 A|thanks and background|ft
-B| Bye-bye. |fc
-A| Bye-bye. |fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

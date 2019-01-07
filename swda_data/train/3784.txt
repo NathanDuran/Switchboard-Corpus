@@ -35,8 +35,8 @@ B|so we can do whatever the hell we want to do.|sv
 A|That's right.|aa
 B|And you're the minority|sv
 B|and you're stuck with it.|sv
-A| Huh. |b
-B| But,  uh, you know, we had this in the Vietnam war, you know,|sv
+A|Huh.|b
+B|But,  uh, you know, we had this in the Vietnam war, you know,|sv
 B|we had you know,|%
 B|population of blacks among military people in Vietnam was about eighty percent.|sd
 A|Right.|b

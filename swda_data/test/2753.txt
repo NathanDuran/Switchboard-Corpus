@@ -5,7 +5,7 @@ A|And I support that fully.|sv
 A|I'm not sure we have the right solution to it,|sv
 A|but at least we're, we're going to the source of the problem.|sv
 A|And,  the  source of supply.|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|Uh, the problem is here,|sv
 A|but the source of supply is there.|sv
 B|That's true.|aa
@@ -33,7 +33,7 @@ B|Are extremely poor.|^2
 B|That's correct.|aa
 A|I know, uh, some of the areas in, in Texas seem poor,|sd
 A|but until you've seen some of those, uh, native,  Latin  Americans come down from the hills, you can't imagine what poor is.|sv
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|And, uh, the worst scene I've ever had I think was, uh, someone eating out of, out of a garbage can on the streets in Lima, Peru.|sd
 B|And, and just very happy to get that.|bf
 A|Oh, yes.|aa
@@ -63,8 +63,8 @@ A|He said, you see that school over there?|sd
 A|And the Ambassador said, yes,|sd
 A|and he pot, patted his pocket and said fifteen percent,|sd
 A|so,|%
-B| Oh, gosh. |ba
-A| so the next  year the Senator went to Latin America to visit the Ambassador and was treated to dinner in his home|sd
+B|Oh, gosh.|ba
+A|so the next  year the Senator went to Latin America to visit the Ambassador and was treated to dinner in his home|sd
 A|and it was twice as large and four times as many servants.|sd
 A|He said, well I know how poor your country is,|sd
 A|how can you afford this, uh, in such a poor country,|^q
@@ -92,15 +92,15 @@ B|her father was a fairly, uh, high ranking official under Somoza.|sd
 B|And when that went down the tubes they had to get out.|sd
 A|Uh-huh.|b
 B|And seventeen children,  filtered  through into, into America through Guatamala, through Mexico, through Honduras,|sd
-A| Um. |b
+A|Um.|b
 B|you know, two here, three there, one here, you know, this kind of thing until,|sd
-A| Yeah. |b
-B| and  now, uh, couple of the older ones stayed or went back,|sd
+A|Yeah.|b
+B|and  now, uh, couple of the older ones stayed or went back,|sd
 B|but the rest of them now have their American citizenship and are leading productive lives,|sd
-A| Uh-huh. |b
-B| but,  you|%
+A|Uh-huh.|b
+B|but,  you|%
 A|Well, the the other instance I think of their inability to, to handle things, the cholera,  and  hepatitis epidemics now in, in Latin America.|sd
-B| Yes. |aa
+B|Yes.|aa
 A|And it shows the, the unpreparedness for such, such a problem.|sv
 B|Yes.|aa
 A|And yet they're so,|%
@@ -148,8 +148,8 @@ A|You know,|%
 B|You know, that's really, uh, kind of a far fetched idea,|sv
 B|I know,|aa
 B|and I don't think people probably think those things consciously,|sv
-A| Uh-huh. |b
-B| but  it's like in any sibling rivalry|sv
+A|Uh-huh.|b
+B|but  it's like in any sibling rivalry|sv
 A|Well the,|%
 B|we're hearing the same,|sv
 A|The solution discussed at one time and I think it has real merit on the drug situation is that the the U S government could spend less money by buying the crop and destroying it than they are in trying to, to beef up the military and to do all other things.|sv

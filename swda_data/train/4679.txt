@@ -13,8 +13,8 @@ B|Uh-huh.|b
 A|The trials are held by a panel of three, uh, three or four judges who are, well,|sd
 A|they're like lawyers I guess.|sd
 A|They're experts in the law|sd
-B| Right. |b
-A| and, uh,  there, there really isn't a jury|sd
+B|Right.|b
+A|and, uh,  there, there really isn't a jury|sd
 A|and, uh, uh, they do the questioning also.|sd
 A|The judges do the questioning|sd
 A|and, uh they,|%
@@ -22,8 +22,8 @@ B|Uh-huh.|b
 A|uh,|%
 A|I think it's a lot harder to get off on technicalities also because they, uh, uh, the judge is also sort of a jury, uh,|sv
 A|but I'm not sure I like that|sd
-A|I think I prefer  the jury system myself. |sd
-B| You think you  prefer the jury?|qy
+A|I think I prefer  the jury system myself.|sd
+B|You think you  prefer the jury?|qy
 B|You think your chances are better?|qy
 A|Uh, well, actually I think in most criminal cases it wouldn't make any difference whether it was a couple of judges or jury|arp_nd
 A|What, what I worry about is cases where it's the government against the individual.|sd
@@ -56,8 +56,8 @@ A|but I guess, I guess I like the system that they have in some places where the
 A|Some, some cases in some jurisdictions, they can do that.|sd
 B|Oh really?|bh
 A|I kind of like that system.|sd
-A| Yeah. |%
-B| Yeah. |b^m
+A|Yeah.|%
+B|Yeah.|b^m
 B|That's, that's not a bad system.|ba
 B|But I, I do think it needs to be shaken up a little bit.|sv
 A|Yeah.|b

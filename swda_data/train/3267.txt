@@ -35,5 +35,5 @@ B|So thank you for calling.|fc
 A|Oh, okay.|fc
 A|Well, thanks for discussing it.|fc
 B|All right.|fc
-A| Bye-bye. |fc
-B| Good-bye. |fc
+A|Bye-bye.|fc
+B|Good-bye.|fc

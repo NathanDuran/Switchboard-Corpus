@@ -3,7 +3,7 @@ B|Our most recent series of projects I guess, was, inside was, uh, we remodeled 
 A|Well, how did it go?|qo
 B|Well, it went pretty well, uh, other than the fact that we encountered some, uh, problems that you run across in older homes with plumbing, which one thing led to another,|sd
 B|and eventually we ended up replacing all the pipes from the sink clear back to the main drain.  Which meant you  needed to take the wall out and start all over.|sd
-A|Gee, like starting over,  I guess. |ba
+A|Gee, like starting over,  I guess.|ba
 A|Uh.|%
 B|It wasn't one of those,|sd
 B|it started out as a Sunday project|sd
@@ -33,7 +33,7 @@ A|Uh.|%
 B|That was an all day job, just to get it plumbed.|sd
 A|Well, and then if you do it wrong|sv
 B|Fortunately, I was very fortunate, uh, in the fact that, uh, when I made the installation of the sink and everything bolted up and we  turned the water on  nothing leaked,|sd
-A| Everything went all right. |^2
+A|Everything went all right.|^2
 B|everything worked.|sd
 B|And I just said, that's marvelous.|sd
 B|I appreciate it.|sd
@@ -99,8 +99,8 @@ A|And then I wall papered a couple of walls,|sd
 A|and, uh.|%
 B|How'd that go?|qw
 A|Well, that was the first time I've ever wallpapered,|sd
-A| and, uh, |%
-B| Kind of fun, isn't it. |qy
+A|and, uh,|%
+B|Kind of fun, isn't it.|qy
 A|That's an education in itself.|no
 B|Really.|b
 A|But, uh, the dye lots, uh, must have been a little bit different from,|sd

@@ -99,8 +99,8 @@ A|That's right.|b
 B|You know, I'd like to see GREEN CARD,|sd
 B|I want to see AWAKENING.|sd
 A|Uh-huh.|b
-A| AWAKENING, is supposed to be wonderful. |sd
-B| Uh, I'd like to see SILENCE OF THE LAMBS. |sd
+A|AWAKENING, is supposed to be wonderful.|sd
+B|Uh, I'd like to see SILENCE OF THE LAMBS.|sd
 A|Yeah,|b
 A|AWAKENING is supposed to be wonderful|sd
 B|Yeah.|b
@@ -166,8 +166,8 @@ B|in fact she told me, Mom if we have a little girl and she has red hair we're n
 A|Oh, sweet|ba
 B|Now, I'm not pregnant, mind you,|sd
 B|but this is,|%
-A|But that's,  in her plans. |^2
-B| she's planning ahead, |sd
+A|But that's,  in her plans.|^2
+B|she's planning ahead,|sd
 B|Yeah,|aa
 A|Well, it's hard, it's hard to find a movie any more these days that you can take your kids|sv
 B|Yeah.|b
@@ -181,7 +181,7 @@ B|but it's been so long since I watched it,|sd
 A|Uh-huh.|b
 B|I don't remember the language.|sd
 A|Well, you watch,  it differently  when your kids are in the room, you know|sv
-B| Was it bad? |qy
+B|Was it bad?|qy
 B|Well, that's true.|aa
 A|and I was just sitting there going, Oh, my goodness,|sd
 A|and I'm going to have to stop and explain,|sd

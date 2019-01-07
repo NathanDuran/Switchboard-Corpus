@@ -50,7 +50,7 @@ A|Not just a couple.|sv
 B|You know, we've watched and watched T V and seen that a lot of these people were doing things, not just playing in the gray and not just reselling property at a profit, but financing the same property three and four times, you know,|sd
 A|Right.|b
 B|and the list goes on and on.  You  know, of, of just the crimes committed. Much less for criminals that should be indicted.|sd
-A|Well I, I agree a hundred  percent. |aa
+A|Well I, I agree a hundred  percent.|aa
 A|Oh, yeah.|b
 A|It may have started with HUD too.|sv
 A|I noticed that HUD was in terrible shape|sv
@@ -82,8 +82,8 @@ A|Just keep spending until taxes are lower,|sv
 A|and, I thought, that's not going to work, you know,|sv
 A|and I knew that it wasn't going to work originally.|sv
 B|Well,|%
-A|And, it hasn't  worked now. |sv
-B| In theory,  in theory, a healthy economy has a lot of spending going on.|sd
+A|And, it hasn't  worked now.|sv
+B|In theory,  in theory, a healthy economy has a lot of spending going on.|sd
 A|Right,|b
 A|no doubt,|ba
 A|no doubt.|ba
@@ -104,9 +104,9 @@ B|It was all inflation.|sv
 A|Yeah.|b
 B|And, I'm sorry we don't get into a real argument over it,|sd
 B|we agree too closely,|sv
-B| but,  But, you, you can't say that that was right.|sv
-A| Yeah.|aa
-A| I know, uh,|sv
+B|but,  But, you, you can't say that that was right.|sv
+A|Yeah.|aa
+A|I know, uh,|sv
 A|Oh, no,|ba
 A|I,|%
 B|No intelligent person can say that we could spend our way rich.|sv
@@ -114,8 +114,8 @@ A|Right.|b
 B|Remember all we're doing is delivering pizzas to each other.|sv
 A|And, and not high quality ones at that, you know.|sv
 B|Yeah.|b
-B| Well, |%
-A| Well,  I do have a lot of confidence in the, the American people and the economy and everything else.|sd
+B|Well,|%
+A|Well,  I do have a lot of confidence in the, the American people and the economy and everything else.|sd
 A|I, I feel bad when I see the inefficiency, even here at T I, you know,|sd
 A|and I think that the,|sv
 A|it, it still,|%
@@ -145,8 +145,8 @@ A|They wouldn't even talk probably about some of the things we're talking about 
 B|Uh,|%
 A|I guess I'm dealing with too many Texas mechanics here.|sd
 A|I don't know really.|h
-B| Uh, that's, |%
-A| I'm being  a Yankee, I guess I'm, I'm letting my Yankee come out, you know.|sd
+B|Uh, that's,|%
+A|I'm being  a Yankee, I guess I'm, I'm letting my Yankee come out, you know.|sd
 B|Well, I,|%
 B|now maybe I'm not the, uh, typical nonexempt that you deal with.|sd
 B|The badge is silver.|sd
@@ -161,8 +161,8 @@ A|right,|ba
 A|I mean, that's good that you're degreed,|sv
 A|uh, uh, your time will come.|sv
 A|We, uh,|%
-A|I know a  few people, |sd
-B| No,|ar
+A|I know a  few people,|sd
+B|No,|ar
 B|I, I  do not wish my time to come.|sd
 A|Oh, really,|b
 A|what,|%
@@ -191,8 +191,8 @@ A|and just we're essentially standby and problems, uh, all, all nights and weeke
 A|That's my,|%
 A|I only get one weekend off a month right now.|sd
 A|I call it my recession job.|sd
-B| It's, |%
-A| Uh,  being basically an engineer and liking, uh, doing installation work, well there's not any.|sd
+B|It's,|%
+A|Uh,  being basically an engineer and liking, uh, doing installation work, well there's not any.|sd
 A|I mean there is literally is no installation work going on.|sd
 B|They turned all installation up here off.|sd
 A|Yeah.|b
@@ -217,8 +217,8 @@ A|It's amazing really.|sv
 A|It's amazing that,|sv
 A|Oh, yeah.|b
 A|I know what you mean.|bh
-B|Uh, one of our  senior, |sd
-A| Course your value of homes  up there are pretty good.|sv
+B|Uh, one of our  senior,|sd
+A|Course your value of homes  up there are pretty good.|sv
 A|I mean, here they're not really that high,|sd
 A|but are they pretty good up there?|qy
 B|No.|nn
@@ -234,9 +234,9 @@ A|they were going to have big, uh, award,|sd
 A|and Secorski got it. Which was Boeing Secorski, this which is up in the north somewhere, you know.|sd
 B|Yeah,|b
 B|it's northwest.|sd
-A|And, I don't know  how,   Bell didn't get it. |sd
-B| Seattle. |sd
-B| Seattle,|sd
+A|And, I don't know  how,   Bell didn't get it.|sd
+B|Seattle.|sd
+B|Seattle,|sd
 B|and  also, uh, they do some of that in Wichita, Kansas.|sd
 A|Well, I, I don't,|%
 A|they were advertising here that it was Bell, T I.|sd
@@ -245,8 +245,8 @@ A|and so, it was a double.|sd
 A|One that Bell is in the Metroplex|sd
 A|and two, that T I was doing the electronics for them.|sd
 B|Huh.|b
-A|And, they, they advertised that, that it was T I Bell, T I Bell and then all of a sudden,  Secorski got it, yeah. |sd
-B| Secorski Boeing. |^2
+A|And, they, they advertised that, that it was T I Bell, T I Bell and then all of a sudden,  Secorski got it, yeah.|sd
+B|Secorski Boeing.|^2
 A|Secorski, Boeing,|aa
 A|Boeing doesn't need the money.|sd
 A|Something,|%

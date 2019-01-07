@@ -169,8 +169,8 @@ A|So, it's, it seems like, you know, that kind of the thriller suspense and not,
 B|Uh-huh.|b
 B|Uh-huh, um.|b
 B|Well, I guess that's about it.|fc
-B| It was nice. |fc
-A| Okay. |fc
+B|It was nice.|fc
+A|Okay.|fc
 A|Maybe we'll talk to you again.|fc
 B|Okay,|fc
 B|it was nice talking to you.|fc

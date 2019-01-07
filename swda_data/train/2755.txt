@@ -12,8 +12,8 @@ B|but I've seen some good ones|sd
 B|and I've seen some really bad ones.|sd
 A|Uh, they do seem to be at the outside edge of both extremes don't they?|qy
 B|Uh-huh,|ny
-A| And,  whenever they are they seem to regulate the good toward the bad instead of bad toward the good.|sv
-B| and  so,|%
+A|And,  whenever they are they seem to regulate the good toward the bad instead of bad toward the good.|sv
+B|and  so,|%
 B|Right.|aa
 B|By trying to get them to conform to concern standards they, uh, kind of, uh, eliminate a lot of the, uh,|sv
 A|Better situations.|^2
@@ -33,7 +33,7 @@ A|Real day care.|^2
 B|Right.|aa
 B|She's, she's not even a year yet,|sd
 B|so,  we haven't  been in, you know, a lot of need yet.|sd
-A| Uh |%
+A|Uh|%
 A|our step daughter's ten now|sd
 B|Uh-huh.|b
 A|and most of the day care has been provide for by Grandma.|sd
@@ -41,8 +41,8 @@ A|But, quite honestly what I believe to be the best day care situation was while
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|and they would read and play,|sd
-B| Have a relative a structured,  activities and not just, you know, stick them in a corner and say you're on your own.|bf
-A| seem to be, |%
+B|Have a relative a structured,  activities and not just, you know, stick them in a corner and say you're on your own.|bf
+A|seem to be,|%
 A|Uh, yeah,|aa
 A|and, uh, despite our beliefs, she was, uh, one of the more, uh, Charismatic Christian faiths|sd
 B|Uh-huh.|b
@@ -95,8 +95,8 @@ B|and I'm not saying talking about sitting down and teaching them math or, or, o
 B|and, uh, uh, you know, like my, my child that,|%
 B|she want be an only child for long,|sd
 B|but, you know, she was an only child,|sd
-B|or maybe your daughter,  not having, |sd
-A| Proper interface. |bf
+B|or maybe your daughter,  not having,|sd
+A|Proper interface.|bf
 B|yeah,|aa
 B|yeah,|aa
 B|just,|%
@@ -114,9 +114,9 @@ A|And, you know, it's a shame|sv
 A|but most people doing, child care earn almost no money.|sd
 A|They operate at, you know,|sd
 A|the owner of the of a, you know, a large child care facility now,|sd
-B| Uh-huh. |b
-A| we're  not talking somebody that does six kids,  in  their home or three or whatever.|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
+A|we're  not talking somebody that does six kids,  in  their home or three or whatever.|sd
+B|Uh-huh.|b
 B|Somebody that doesn't really put a lot of overhead whatever into it.|bf
 B|You mean somebody that has an actual establishment.|bf
 A|Right.|aa
@@ -137,7 +137,7 @@ B|but right now that's what we've chosen|sd
 B|and we wanted to have several,|sd
 B|we got her|sd
 B|and we've got another on the way,  and  maybe another, one soon after that,|sd
-A| Well,  like I said, that's grand if, if you can pull it off|sv
+A|Well,  like I said, that's grand if, if you can pull it off|sv
 B|so|%
 B|Right.|b
 A|but more and more we're being forced into a situation, we as Americans are being forced into a situation, where you've got to have,|sv

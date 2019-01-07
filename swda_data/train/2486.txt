@@ -177,6 +177,6 @@ A|I guess so,|sv
 A|well it's been nice talking with you.|fc
 B|Nice talking to you too,|fc
 B|I enjoyed it.|fc
-A| Uh-huh,|fc
-A|bye, bye. |fc
-B| Bye, bye. |fc
+A|Uh-huh,|fc
+A|bye, bye.|fc
+B|Bye, bye.|fc

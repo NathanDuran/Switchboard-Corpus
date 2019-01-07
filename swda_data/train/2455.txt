@@ -151,6 +151,6 @@ A|Okay,|%
 A|well I enjoyed talking to you.|fc
 B|Okay,|fc
 B|you too Ellen.|fc
-A|All right, |fc
-A|good-bye. |fc
-B| Bye-bye. |fc
+A|All right,|fc
+A|good-bye.|fc
+B|Bye-bye.|fc

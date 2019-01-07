@@ -22,12 +22,12 @@ B|That's right.|aa
 B|See they make money off of it, whether you use it or not.|sv
 A|Absolutely.|aa
 A|Well, the other thing, of course, is the fact that they hope, you will not pay your bill at the end of the month,  so that you  would be paying interest.|sv
-B| That's right. |aa
+B|That's right.|aa
 B|Uh-huh.|b
 A|I use mine a great deal, um, for groceries, for everything that I can and, then just write one check at the end of the month,  for the entire thing,|sd
 B|Uh-huh.|b
-B| That's what I do. |sd
-A| right.|%
+B|That's what I do.|sd
+A|right.|%
 B|That's what I do.|sd
 B|Just a second. to child in|ad
 B|Sorry|fa
@@ -62,7 +62,7 @@ A|Well, I find it a great use from the standpoint that you don't have to continu
 B|Uh-huh.|b
 B|That's right.|aa
 B|See we, he couldn't do without it, but, you know, since he can just do it right there at work,  for nothing  .|sd
-A| Oh, that helps. |^2
+A|Oh, that helps.|^2
 A|Right.|b
 B|Yeah.|b
 A|Well the, the other thing some people are not aware of, is they will use their A, their credit card like their Visa or their MasterCard for cash|sv
@@ -84,8 +84,8 @@ B|I mean, I get, I get at least one or two a week. People, you know, sending me 
 A|Uh-huh.|b
 A|Right.|b
 B|Because I,|%
-A|Well, I think that's the only thing you can do, is just say no and mean no and,  not be tempted. |sv
-B| Yeah.|aa
+A|Well, I think that's the only thing you can do, is just say no and mean no and,  not be tempted.|sv
+B|Yeah.|aa
 B|It's like,  I'd like to know where they determine that I'm such a good credit risk that they can go and say, you get this much credit line. You know.|sd
 A|Well,|%
 B|You've already been preapproved.|^q

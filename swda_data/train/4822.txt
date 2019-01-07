@@ -3,8 +3,8 @@ A|Go ahead.|ad
 B|Well, uh, a friend of mine actually works for McDonald Douglas in the, uh, in the space station program|sd
 B|so I get to find out a lot of information about what's going on there|sd
 A|Oh.|b
-B| and  it sure sounds like that's going to be a really viable program if it continues to be funded at current levels.|sv
-A| Sure. |b
+B|and  it sure sounds like that's going to be a really viable program if it continues to be funded at current levels.|sv
+A|Sure.|b
 A|Uh-huh.|b
 B|Uh, they're, they're going to be doing a lot of interesting things.|sv
 B|Uh, I think one of the big things he's involved with is the micro gravity payloads.|sv
@@ -12,10 +12,10 @@ B|And that has a direct impact on a lot of things that we really can't do down h
 A|Oh, you're kidding.|ba
 A|Yeah.|b
 B|So, you know,  there's  there's a big opportunity for us to explore, uh, what sorts of things you can do in a zero gravity environment.|sv
-A| Huh. |%
+A|Huh.|%
 A|Uh-huh.|b
-A| Sure. |b
-B| So.  I suspect that we'll see a lot of gains from that.|sv
+A|Sure.|b
+B|So.  I suspect that we'll see a lot of gains from that.|sv
 A|Oh, that's good because sometimes I wonder, you know, being a, uh, lay person out there of not, uh, knowing exactly what's going on in space. Whether, you know, they're going ahead and doing things and whether or not|sd
 A|we're spending too much money on the programs and not spending enough money on the earth that we have here.|sd
 A|Being, you know,|%
@@ -68,8 +68,8 @@ A|I don't know how many people could live up in space, uh, for any length of tim
 A|I mean just the way that we're affected by when it's cloudy out|sd
 A|and it's cloudy for days|sd
 A|and we don't see the sun|sd
-A|and the people, their moods are extreme,  you know. |sv
-B| Right. |b
+A|and the people, their moods are extreme,  you know.|sv
+B|Right.|b
 A|It's like, God if I don't get to see the sun I'm going to be in this bad mood all this entire time|sv
 A|and this is how I see people reacting.|sd
 A|You know, when is the sun going to come out?|qh

@@ -48,8 +48,8 @@ A|Oh, is that right?|bh
 B|go to work when I wanted to or not|sd
 A|Uh-huh.|b
 B|but, you know, the benefits weren't there.|sd
-A| Yeah. |b
-B| So, |%
+A|Yeah.|b
+B|So,|%
 A|I, uh, I own part of a roofing company.|sd
 B|Oh, do you?|bh
 A|In the, in the Dallas, Fort Worth area.|sd
@@ -75,13 +75,13 @@ B|so it's kind of,|sv
 A|Yeah.|b
 B|And I would,|%
 B|I really,|%
-B|and the way medical expenses are I think that's probably one of the biggest benefits to  you need to have. |sv
+B|and the way medical expenses are I think that's probably one of the biggest benefits to  you need to have.|sv
 A|It's,|%
 A|Yeah.|b
 A|It, it,|%
-A| Yeah,|aa
+A|Yeah,|aa
 A|I'll tell you what,|fo_o_fw_"_by_bc
-A| that is the single most uh, benefit that I, that I enjoyed, and I do miss|sd
+A|that is the single most uh, benefit that I, that I enjoyed, and I do miss|sd
 B|Right.|b
 A|because I looked into picking up some, uh, medical insurance for my, just for my family, you know, just,|sd
 A|and it is unbelievable how much you have to pay for it.|sv
@@ -96,7 +96,7 @@ A|Uh, it's, it's unbelievable|sv
 A|and, uh, the amount that you have to pay for, you know, for kids|sd
 A|and, and if you want to add dental to it, I mean, that's  that eats  even more.|sd
 B|Right,|b
-B| it goes up. |^2
+B|it goes up.|^2
 B|Right.|b
 A|So, yeah,|b
 A|I guess what, the other benefits that, uh, that I, uh, that I miss, I guess is, uh, you know, some of the bonuses and stuff that that goes on with just being involved with a big company, you know|sd
@@ -121,9 +121,9 @@ B|just, they go off fishing and stuff and come in and, every Friday, and go to t
 B|and I'm sitting there making a hundred dollars a week, you know|sd
 B|and, And they had all these|%
 A|Is that right?|bh
-B|I, I really believe they have done this to themselves, in a way, because of the unions being  so stocked. |sv
-A| The union,|b^m
-A| yeah.|aa
+B|I, I really believe they have done this to themselves, in a way, because of the unions being  so stocked.|sv
+A|The union,|b^m
+A|yeah.|aa
 B|And right now, anybody's that's laid off from G M will have a full year's paycheck.|sd
 B|I just read this in the paper the other day.|sd
 A|Is that right?|bh
@@ -132,8 +132,8 @@ B|so I'm you know, I'm sorry it's happening because it's going to hurt,|sd
 A|Yeah.|b
 B|but I don't feel as sorry for them,|sd
 A|Well|%
-B| If my husband  were laid off tomorrow, we'd get one more check|sd
-A| really the, |%
+B|If my husband  were laid off tomorrow, we'd get one more check|sd
+A|really the,|%
 B|and that would be it.|sd
 A|Yeah,|b
 A|really the ones it's going to hurt is, is actually the, the businesses around in that area.|sv

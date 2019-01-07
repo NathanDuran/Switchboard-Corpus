@@ -188,5 +188,5 @@ B|Um, well, anyway Ellen, it was nice talking to you.|fc
 A|You too.|fc
 B|And, uh, until next time.|fc
 A|Okay.|fc
-B| Bye-bye. |fc
-A| Good-bye. |fc
+B|Bye-bye.|fc
+A|Good-bye.|fc

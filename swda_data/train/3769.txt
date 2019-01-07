@@ -95,8 +95,8 @@ B|and it's really, it's tempting when you come home from work|sv
 B|and you're tired|sv
 B|and, you know, you just are tempted to give in to that,|sv
 B|and it costs a lot of money to do it too.|sv
-A| I know. |ba
-B| You know, it  adds up|sv
+A|I know.|ba
+B|You know, it  adds up|sv
 B|and it's not healthy,|sv
 B|and I really got into that habit for a while,|sd
 B|but I got out of it again because I just felt like it was just too unhealthy.|sd
@@ -131,13 +131,13 @@ A|I had a condo in Oakland,|sd
 A|so, right in Chinatown, so we went to lots of restaurants Chinese restaurants,|sd
 B|Oh, that would be fun.|ba
 A|and they were really good,|sd
-A|I really miss them.  You know. |sd
-B| Yeah.|b
-B| Do you miss living there?|qy
+A|I really miss them.  You know.|sd
+B|Yeah.|b
+B|Do you miss living there?|qy
 A|Uh, no,|nn
 A|I really don't miss  living there.|sd
-B| No. |b^m
-A| I just like to go in there and have a nice Chinese dinner once in a while, you know.|sd
+B|No.|b^m
+A|I just like to go in there and have a nice Chinese dinner once in a while, you know.|sd
 B|Yeah.|b
 B|Yeah.|b
 A|But, uh, as far as missing living there, no.|sd
@@ -162,7 +162,7 @@ A|uh-huh.|b
 B|And, uh, yeah,|ny
 B|I know California pretty well.|sd
 A|Uh-huh.|b
-B|And I love it, |sd
+B|And I love it,|sd
 B|and  we tug back and forth who's going to move,|sd
 B|but I think he's going to move because I'm the person with more to lose here.|sd
 A|Uh-huh.|b

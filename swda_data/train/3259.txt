@@ -199,5 +199,5 @@ A|so I'll talk with you later.|fc
 A|Thank you.|fc
 B|Uh-huh,|fc
 B|thank you.|fc
-A| Bye-bye. |fc
-B| Bye-bye. |fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc

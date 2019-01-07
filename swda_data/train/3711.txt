@@ -1,5 +1,5 @@
-A|Any vacations recently that you would highly  recommend? |qy
-B| Well.  That is like my favorite hobby|sd
+A|Any vacations recently that you would highly  recommend?|qy
+B|Well.  That is like my favorite hobby|sd
 A|Oh, really?|bh
 B|So, yeah,|ny
 B|I would travel everywhere|sd
@@ -49,8 +49,8 @@ A|and then we had to write, uh reports, reports about it during, during our vaca
 B|Oh no|ba
 A|It was really fun.|sd
 A|We, we, each got to write little books.|sd
-A| Uh  and, uh, it had sparked an interest that, uh, of mine,|sd
-B| Uh-huh. |b
+A|Uh  and, uh, it had sparked an interest that, uh, of mine,|sd
+B|Uh-huh.|b
 A|uh, my fiancee is a very very good photographer.|sd
 A|That is what she had originally gone to school to do. Was photography|sd
 B|Uh-huh.|b
@@ -60,9 +60,9 @@ A|so we are hoping soon, uh, not soon, maybe within the next ten years to get to
 B|Uh-huh.|b
 A|It is kind of a backward S shape, uh, trail that the pilgrims use to take, uh, in, in, uh, back in the medieval times, uh, to see the relics, uh, in, uh, southern Spain and in Italy|sd
 B|Uh-huh.|b
-A|and so we would like to take pictures of the gothic and Romanesque monasteries and, uh, just take that journey all the way down and then right a book about  it. |sd
+A|and so we would like to take pictures of the gothic and Romanesque monasteries and, uh, just take that journey all the way down and then right a book about  it.|sd
 B|Right.|b
-B| That  would be quite a project.|sd
+B|That  would be quite a project.|sd
 A|Yeah,|aa
 A|it would be|sd
 B|Yeah.|b
@@ -127,8 +127,8 @@ B|I have not. Huh-uh.|sd
 A|Okay.|b
 B|Our friends live like an hour outside of England, like Ash, around there.|sd
 A|Oh, okay.|b
-A| Alright,|b
-A|yeah. |b
-B| So, uh-huh. |%
+A|Alright,|b
+A|yeah.|b
+B|So, uh-huh.|%
 A|Uh, uh, the reason I am curious, I, uh,|sd
 A|the other place I would like to visit, uh,|sd

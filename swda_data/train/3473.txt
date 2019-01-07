@@ -3,7 +3,7 @@ A|go ahead.|ad
 B|Well, I, I, uh, we're going to compare notes. Uh,|sd
 A|Yeah.|b
 B|I, uh, I  often desire  to exercise, often believe I should and rarely do.|sd
-A| Don't do it |^2
+A|Don't do it|^2
 A|Well, I tell you, I, I firmly believe in exercising.|sd
 A|I think it's a,|sv
 A|I do it every day on a regular basis.|sd
@@ -61,8 +61,8 @@ A|Well, uh,|%
 B|and,|%
 A|Years ago I used to, uh, referee football|sd
 B|Yes.|b
-A|and, uh, to stay in condition, I did that, uh, just as a normal  basis, |sd
-B| Yes. |b
+A|and, uh, to stay in condition, I did that, uh, just as a normal  basis,|sd
+B|Yes.|b
 A|and, uh, uh, I tell you just by doing it, uh,|sd
 A|well, example, this summer I, I was about fifteen pounds heavier than I wanted to be|sd
 A|so I, I increased,|sd
@@ -128,15 +128,15 @@ A|and, uh,|%
 B|What, what, what, what's on, what's this mat, I mean,|qw
 A|It, it, it's just an exercise mat that rolls up|sd
 A|so you can put it up, you know, just in the corner.|sd
-B|Is it like the sort of thing you take on a camping trip  and sleep on it. |qy
-A| Well, yeah,|ny
-A|you can do that. |sd
-B| I mean, it's that, it's that kind of like  half inch of foam or something.|qy^d
-A| But, but it doesn't, |sd
+B|Is it like the sort of thing you take on a camping trip  and sleep on it.|qy
+A|Well, yeah,|ny
+A|you can do that.|sd
+B|I mean, it's that, it's that kind of like  half inch of foam or something.|qy^d
+A|But, but it doesn't,|sd
 A|Yeah,|ny
 A|it's a foam thing,|sd
-A| yeah. |ny
-B| Yeah. |b^m
+A|yeah.|ny
+B|Yeah.|b^m
 A|Yeah,|b^m
 A|and it's, it's just about six feet long, rolls up|sd
 B|Yeah.|b

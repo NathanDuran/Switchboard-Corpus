@@ -40,18 +40,18 @@ B|Do you like the classics like, uh, GONE WITH THE WIND and, uh, you know the ol
 A|I'd like to see those,|na
 A|I keep, you know, um, you know, there's like three movies that I, I keep telling myself that I should see one of these, you know, some day that I haven't seen, you know, that, that are classics, you know.|sd
 A|Because I've never seen CITIZEN KANE,|sd
-B| Yeah,|b
-B|that was good. |sv
-A| and never seen, I've  never seen CASABLANCA and never seen GONE WITH THE WIND.|sd
+B|Yeah,|b
+B|that was good.|sv
+A|and never seen, I've  never seen CASABLANCA and never seen GONE WITH THE WIND.|sd
 B|I think I've seen most of Humphrey Bogart's movies, but, in, in, you know a long time ago,|sd
-A| Uh-huh. |b
-B| and,  uh, like the MALTESE FALCON and all those, uh, uh,|sd
+A|Uh-huh.|b
+B|and,  uh, like the MALTESE FALCON and all those, uh, uh,|sd
 A|Oh, I, I|%
 A|we saw part of THE AFRICAN QUEEN on, on T V a couple of years ago,|sd
-B| Yeah,|b
+B|Yeah,|b
 B|that was good,|sv
-B|yeah. |b
-A| and I've, I've I've  been wanting to see all of it|sd
+B|yeah.|b
+A|and I've, I've I've  been wanting to see all of it|sd
 A|but we just, you know, we walk into the video store|sd
 A|and we're like well why don't we go see this now|sd
 A|so.|%
@@ -62,8 +62,8 @@ A|But, um, I|%
 A|one of the movies we saw recently, we saw, uh, MISERY.|sd
 B|Oh, I didn't see that one.|sd
 A|That was good, um,|sv
-B| Really. |b
-A| oh,  it was great.|sv
+B|Really.|b
+A|oh,  it was great.|sv
 A|And it,|%
 A|you think, you know, for a Stephen, you know, it because it was by Stephen King it would be really gory|sv
 A|but there's only one,|sd
@@ -73,15 +73,15 @@ B|Yeah.|b
 A|But it's, um, it's a really good movie, um.|sv
 B|Really,|b
 B|is that the one where, uh, the guy gets captured by that women?|qy
-A| Yeah,|ny
-A|yeah, |ny
-B| Okay,|bk
-B|yeah. |b
+A|Yeah,|ny
+A|yeah,|ny
+B|Okay,|bk
+B|yeah.|b
 A|he's a writer|sd
 A|and, um, she's his biggest fan|sd
 A|and she's also  a little,  a little on the nutso side.|sd
-B| Yeah,|b
-B|right. |b
+B|Yeah,|b
+B|right.|b
 B|Uh-huh.|b
 B|Did you see PACIFIC HEIGHTS?|qy
 A|No,|nn
@@ -103,8 +103,8 @@ B|and that, uh,|%
 A|our big thing is, um,|sd
 A|you know, movie prices up here|sd
 A|I think it's like six bucks now in the theaters,|sd
-B| Yeah. |b
-A|  you know. So it's like,|%
+B|Yeah.|b
+A|you know. So it's like,|%
 A|you know, a lot of things we try to catch like at the dollar theater or matinees|sd
 A|and then a lot of other stuff we just wait until it comes out on tape.|sd
 B|That's us too,|sd
@@ -131,7 +131,7 @@ B|Uh-huh.|b
 A|Did you ever see the movie BEETLEJUICE?|qy
 B|Uh, part of it,|na
 B|I,  I never  really watched the whole thing.|sd
-A| Oh, |bk
+A|Oh,|bk
 A|Oh,|bk
 A|yeah,|b
 A|well if you, if you liked BEETLEJUICE you'll probably like EDWARD SCISSORHANDS,|sv
@@ -144,8 +144,8 @@ A|he's, a very odd, odd man|sd
 A|but he's,|%
 A|I think he's very interesting|sd
 A|and, uh, I liked those two movies of his a lot.|sd
-B| Uh-huh. |b
-A| He  did BATMAN also, which, you know|sd
+B|Uh-huh.|b
+A|He  did BATMAN also, which, you know|sd
 B|Yeah,|b
 B|that was pretty good, though, really.|sv
 A|It was good,|aa
@@ -155,18 +155,18 @@ A|Yeah.|aa
 B|You see it for, uh, you know a couple of hours or an hour|sd
 B|and it really,|%
 B|there's a lot in it when you look at the scenery and the cars,  and all the  different stuff like that, you know.|sd
-A| Oh, yeah, oh. |aa
+A|Oh, yeah, oh.|aa
 A|Yeah.|b
 B|Whose your favorite actress or actor?|qw
 A|Um, don't really know,|sd
 A|I like Costner a lot|sd
 A|but, uh,  I'm  a big, I'm a big baseball fan|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|so, you know, after BULL DURHAM and FIELD OF DREAMS, you know,|sd
 B|Yeah.|b
-A| Um, although, you know, |%
-B| That was good,|sv
-B| I saw that movie too.|sd
+A|Um, although, you know,|%
+B|That was good,|sv
+B|I saw that movie too.|sd
 B|That was very good.|sv
 A|Which one?|qw
 B|FIELD OF DREAMS.|sd
@@ -175,9 +175,9 @@ A|FIELD OF DREAMS was good,|sv
 A|um, and, I, I think, I liked the other movies he's done.|sd
 A|NO WAY OUT was really good|sd
 A|and,|%
-B| Oh, yeah,|aa
-B|yeah. |b
-A| did you ever  see SILVERADO?|qy
+B|Oh, yeah,|aa
+B|yeah.|b
+A|did you ever  see SILVERADO?|qy
 B|SILVERADO,|b^m
 B|uh, who, who was that with?|qw
 A|Um, let's see.|^h
@@ -192,11 +192,11 @@ A|I mean, I think Roseanne Arquett was in it too, another one that if you blink 
 A|Uh, it was,|%
 A|and I think it was like a three hour movie or two and a half hours,|sd
 A|and, and it was one of those ones that could have been four hours if they hadn't cut a lot out.|sd
-B| Oh, really. |b
-A| Um, but  it was, it was really good Um,|sv
+B|Oh, really.|b
+A|Um, but  it was, it was really good Um,|sv
 B|I, I might have seen part of that because the name sounds familiar although I I would remember, I think in, with him in it.|sd
-A| Uh-huh. |b
-B| How  about REVENGE,|qo
+A|Uh-huh.|b
+B|How  about REVENGE,|qo
 B|did you see that with him?|qy
 A|No,|nn
 A|I didn't,|sd
@@ -225,16 +225,16 @@ B|Now that's another one I wanted to see.|sd
 B|in fact, that was advertised not too long ago.|sd
 A|Yeah,|b
 A|it was on, um,|%
-B| Cable? |qy^d
-A| no,|nn
-A| it was on one of the networks, I think last weekend.  Uh, or two weeks  ago.|sd
+B|Cable?|qy^d
+A|no,|nn
+A|it was on one of the networks, I think last weekend.  Uh, or two weeks  ago.|sd
 B|Okay,|bk
-B|I know I saw,  yeah, something about it. |sd
+B|I know I saw,  yeah, something about it.|sd
 A|Yeah,|b
 A|I, um, I wish, I, I mean I'd seen it when, when, you know, it was originally in the theaters|sd
 A|and, um, I saw it, you know, I saw part of it again.|sd
-B| Uh-huh. |b
-A| I  mean I like, you know, I like Costner,|sd
+B|Uh-huh.|b
+A|I  mean I like, you know, I like Costner,|sd
 A|I like Sean Connery,|sd
 A|and, uh, there's this one, there's this one actor,|sd
 A|it's really silly that I enjoy him a lot|sd
@@ -263,8 +263,8 @@ A|I, I don't know why but he's always a lot of fun in every movie he's in.|sd
 A|He was in the UNTOUCHABLES.|sd
 A|He was the accountant|sd
 B|Oh, oh I know who you mean.|sd
-A| Yeah. |b
-B| He  was in, uh, uh, HONEY DON'T SHRINK THE KIDS, wasn't he?|qy
+A|Yeah.|b
+B|He  was in, uh, uh, HONEY DON'T SHRINK THE KIDS, wasn't he?|qy
 A|No,|nn
 A|no,|nn
 A|you're thinking of Rick Moranis.|sv
@@ -293,8 +293,8 @@ B|That that was pretty good.|sv
 B|Um, and,|%
 A|Um, we want to see GODFATHER PART THREE also|sd
 A|but my, my girlfriend's seen part one and part two although she saw them years ago,|sd
-B| Uh-huh. |b
-A| but  I've never seen either of the first, you know, of the, of the GODFATHER movies|sd
+B|Uh-huh.|b
+A|but  I've never seen either of the first, you know, of the, of the GODFATHER movies|sd
 A|so, we're probably going to like rent those some time and then try to see GODFATHER PART THREE somewhere.|sd
 B|I was just going to say, you should see those, uh, first if you can.|sv
 A|Yeah.|b
@@ -302,7 +302,7 @@ B|If if you read the book it's, uh, even better.|sv
 B|The book was excellent.|sv
 A|Oh, okay,|b
 A|I haven't,  never  read it.|sd
-B| Yeah. |b
+B|Yeah.|b
 B|and, uh, I was a little disappointed in the third|sd
 B|it's GODFATHER THREE.|sd
 B|It was not bad|sv
@@ -339,10 +339,10 @@ B|I probably saw parts of those.|sd
 B|You know, a lot of times I'll I'll start watching a movie|sd
 B|and I'm tired|%
 B|and it,|%
-A| Uh-huh. |b
-B| next  thing you know, it's, it's|%
+A|Uh-huh.|b
+B|next  thing you know, it's, it's|%
 B|especially if there's commercial in it|sd
-B| and then  the titles might sound familiar|sd
+B|and then  the titles might sound familiar|sd
 B|but I really don't know what they're all about.|sd
 A|of the three of those, DINER's probably the best.|sv
 A|I mean, they're, they're all pretty good,|sv

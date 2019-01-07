@@ -45,9 +45,9 @@ B|Yeah.|aa
 B|Yeah.|aa
 A|And that would keep you going.|sv
 B|Well, more than weight,|%
-B|of course, I could lose, uh, lose certainly from ten to twenty  pounds |sd
+B|of course, I could lose, uh, lose certainly from ten to twenty  pounds|sd
 A|Uh-huh.|b
-A| Uh-huh. |b
+A|Uh-huh.|b
 B|but I think more than that,|sd
 B|I also notice I just feel better when I exercise.|sd
 A|Oh, yeah.|b

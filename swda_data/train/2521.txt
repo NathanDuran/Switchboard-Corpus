@@ -110,14 +110,14 @@ A|Because look how good we did without a quarterback this year|sv
 B|I know.|aa
 B|Who was the quarterback?|qw
 A|Well,  They,  had quite a few quarterbacks if you think about it. Uh,|sd
-B|See, I can't even think of who the New Orleans quarterback,  is. |sd
+B|See, I can't even think of who the New Orleans quarterback,  is.|sd
 A|Fourcade was for a while.|sd
 A|And then, um, I can't remember that guy's name, the one that held out for the money|sd
 A|and he was across the river|sd
 A|Uh, I can't think of the, I can't think of his name now,|sd
 A|but really we didn't have a quarterback.|sd
-A| That,  was the whole problem.|sv
-B| Yeah. |b
+A|That,  was the whole problem.|sv
+B|Yeah.|b
 A|We had one guy that couldn't throw|sd
 A|and we had one guy that couldn't run.|sd
 B|Huh.|b
@@ -187,7 +187,7 @@ A|But, uh, all the other places, I mean, our defense was unbelievable.|sv
 B|Oh, that's one, it's one thing,|%
 B|Yeah.|b
 B|Buffalo's,  lucky though to have,  uh, Jim Kelly than,|sv
-A| Did you get to watch any of their games? |qy
+A|Did you get to watch any of their games?|qy
 B|now he's the number one rated quarterback in the N F L. I think,|sd
 A|Yeah.|b
 B|I'm pretty sure he was this past season.|sd

@@ -163,8 +163,8 @@ B|Well, I know,|ba
 B|but there are times when I sit there and I think, wow, you know we make X amount of money and where is it.|sv
 B|I mean you look  around|sv
 B|and you go,  where is it,|sd
-A| What do you do with it,|^2
-A|I know. |ba
+A|What do you do with it,|^2
+A|I know.|ba
 B|you, you haven't made, uh, big purchases|sv
 B|and that's the easier thing to see,|sv
 B|if you can see a big purchase and you go okay, well this is the year that we bought the couch or the T V, or something like that.|sv

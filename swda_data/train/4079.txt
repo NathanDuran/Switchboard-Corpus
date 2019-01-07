@@ -14,8 +14,8 @@ B|Uh-huh.|b
 A|I am single,|sd
 A|so. I guess, I don't know if that's an excuse for not having a tight budget,|sd
 B|Uh-huh.|b
-A|but  I basically, |%
-B| Really don't  need to.|^2
+A|but  I basically,|%
+B|Really don't  need to.|^2
 A|Right,|aa
 A|I don't need to.|b^m
 A|I am the only that I have to keep track of|sd

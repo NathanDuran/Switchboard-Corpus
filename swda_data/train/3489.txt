@@ -30,8 +30,8 @@ B|I can't even see their house|sd
 B|and, uh,|%
 A|Sounds like a place where I grew up|sd
 B|Yeah,|b
-B|I mean, uh, I'm out in, I'm out in the wilderness.  Literally. |sd
-A| Well, I like it. |sd
+B|I mean, uh, I'm out in, I'm out in the wilderness.  Literally.|sd
+A|Well, I like it.|sd
 B|And, uh, well, give you an idea,|sd
 B|it's three and a half miles of dirt road to the concrete, I mean, to the asphalt,|sd
 B|we're out there.|sd

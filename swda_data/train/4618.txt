@@ -44,8 +44,8 @@ A|Because you should be given another chance or at least be able to justify it o
 A|I have real mixed feelings about it.|sd
 A|I don't know.|sd
 B|How, do you know how wrong they are?|qy
-B|Are they, I mean, is there a  margin of error? |qy
-A| The accuracy? |br
+B|Are they, I mean, is there a  margin of error?|qy
+A|The accuracy?|br
 A|I don't know.|no
 A|I don't know.|no
 A|But, I know there are a lot of things that can influence them|sd
@@ -61,10 +61,10 @@ A|but this could happen to anybody|sv
 A|and if they would just say oh, this person's drug test is positive we won't hire them you know. Then you could lose out on a job when really you didn't do anything.|sv
 B|Yeah.|b
 B|Yeah.|b
-A| So I don't know. |h
-B| And I, I'm not  so sure they are that needed. *b|sv
+A|So I don't know.|h
+B|And I, I'm not  so sure they are that needed. *b|sv
 A|Yeah,|aa
-A| I'm not  sure either.|sd
+A|I'm not  sure either.|sd
 A|The only way I can see it is that if they really suspect a person of using it, then they have the right to go ahead and prove it|sv
 A|because they say they can spot check.|sd
 B|if you're using it while at a job, I can see a problem.|sv
@@ -91,16 +91,16 @@ B|And it, it's like, it seems like now they have tests|sv
 B|I guess they can test your hair|sd
 B|and they can find out if you use drugs up to several years ago.|sd
 A|Really. maybe you shouldn't be held responsible for something you did several years ago. *sv|b
-B| So, |%
+B|So,|%
 B|I know.|aa
 A|That's the other thing.|fo_o_fw_"_by_bc
 A|I mean a lot of, a lot of people as kids or, you know, young people get into some things that they get out of later on|sd
 A|and I don't think they should really have to pay for that forever.|sv
 B|Yeah.|aa
 B|There's a lot of things you do as a kid  that  you wouldn't do as an adult|sd
-A| Yeah. |b
+A|Yeah.|b
 B|but  you can't say it was  wrong at the time.|sv
-A| I think that's true. |aa
+A|I think that's true.|aa
 A|Yeah,|aa
 A|yeah.|aa
 A|So that probably wouldn't be too good either.|sv

@@ -152,5 +152,5 @@ B|okay, uh,|fc
 B|I guess, uh, well maybe the computer will pair us up together another time.|fc
 A|You never know.|fc
 B|All right.|fc
-A| Bye, bye. |fc
-B| Bye, bye. |fc
+A|Bye, bye.|fc
+B|Bye, bye.|fc

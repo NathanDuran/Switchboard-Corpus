@@ -7,8 +7,8 @@ B|Are you at work right now?|qy
 A|Uh-huh.|ny
 B|So am I.|sd
 B|In building, which building?|qw
-A|Well, are you Summit or are you, uh,  Spring Creek? |qy
-B| I'm, I'm,  I'm Spring Creek.|sd
+A|Well, are you Summit or are you, uh,  Spring Creek?|qy
+B|I'm, I'm,  I'm Spring Creek.|sd
 A|Oh this is fun.|sv
 A|What building are you in?|qw
 B|I'm building, uh, one.|sd
@@ -177,7 +177,7 @@ B|The creek overflows|sd
 B|and a lot of houses, a lot of houses around that creek seem to, to get flooded|sd
 A|Oh, okay.|b
 B|the streets and stuff around that area,  get a lot of  flooding.|sd
-A| The house, that house,  that I bought is close to a Firewheel golf course.|sd
+A|The house, that house,  that I bought is close to a Firewheel golf course.|sd
 B|Okay.|b
 A|Just going to be blocks off of that new highway one ninety that's going through.|sd
 B|Right.|b

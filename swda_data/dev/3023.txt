@@ -121,8 +121,8 @@ B|Well, nobody feels responsibility to do something.|sv
 B|It's like, oh boy, I wish they would stop doing that.|sv
 A|Yes,|aa
 A|that's right.|aa
-B| Yeah. |b
-A| Yeah |b
+B|Yeah.|b
+A|Yeah|b
 A|I, I do not know how that's,|h
 A|I do not think it's done by, uh,|h
 A|the changes come simply by statutory nature.|sv

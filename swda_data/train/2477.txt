@@ -46,9 +46,9 @@ A|again being from Saint Louis, I pull for Missouri.|sd
 B|Uh-huh.|b
 A|Uh, but they're on, uh, probation this year|sd
 A|so you can't do much about that.|sv
-B| No,|aa
-B|no. |aa
-A| But, uh, |%
+B|No,|aa
+B|no.|aa
+A|But, uh,|%
 B|So, did you watch the, uh, final four this year?|qy
 A|Oh, yeah.|ny
 A|I watched every, uh, I watched all three games of that.|sd
@@ -56,9 +56,9 @@ B|Every game?|^2
 A|And, uh, I was very pleased with all three games, because Kansas, uh,|sd
 A|you know, I was pulling for Kansas on the other side,|sd
 A|so it was real nice to have the, the teams that were there.|sd
-B|Right, |b
-B|right. |b
-A| Of course,  I wasn't really,|sd
+B|Right,|b
+B|right.|b
+A|Of course,  I wasn't really,|sd
 A|I mean, I, I,|%
 A|U N L V kind of gave me the impression of being a, uh, uh, oh, I don't know, a macho team, you know,|sd
 A|they just didn't seem, they seemed to think they were better than everybody else|sv
@@ -85,8 +85,8 @@ A|they, they play the pro style, is, what I've always called it.|sd
 B|Right.|b
 A|And, uh,|%
 B|Yeah,|aa
-B|fast breaks  and things and, |sd
-A| yeah, |aa
+B|fast breaks  and things and,|sd
+A|yeah,|aa
 A|the fast breaks and, and,|b^m
 B|They shut all that down and made them play half court it seemed|sv
 B|and,|%
@@ -98,26 +98,26 @@ A|but they weren't ahead as much as they normally are.|sd
 B|Right.|b
 A|Uh, and, you know, that meant that they had to play a second half|sd
 A|and they, they've not had to do that all  year|sd
-A|and, uh, |%
-B| Right,|aa
-B|right. |aa
+A|and, uh,|%
+B|Right,|aa
+B|right.|aa
 B|They didn't have, they didn't have to go through some tough games during the year|sd
 B|and that, and that, so that's a terrible time to have to deal with that, right in, when it, when it counts so much.|sv
 A|That's right.|aa
-A|I mean Duke's schedule was, was so much harder than U N L V's that it, uh, it just made them a much tougher team  overall, |sv
-B| Right. |b
+A|I mean Duke's schedule was, was so much harder than U N L V's that it, uh, it just made them a much tougher team  overall,|sv
+B|Right.|b
 A|and, uh, that had to help them a lot.|sv
 B|I think, I think that, that probably was the difference in that game.|sv
 A|Uh-huh.|b
 B|Because it really could have gone either way. Down to the end, you know.|sv
 A|So do I take it that you think though that the Lakers will, uh,  will  win|qy
-B| Well, |%
+B|Well,|%
 A|or,|%
 B|I don't know.|no
-B| Probably not. |nn
-A| I mean, Portland's pretty  good. Um,|sv
+B|Probably not.|nn
+A|I mean, Portland's pretty  good. Um,|sv
 B|Since Kareem's retired,  they  haven't had a center.|sd
-A| Yeah. |b
+A|Yeah.|b
 B|And, uh, they've got Perkins,|sv
 A|Yeah.|b
 B|but I don't think he's really been a super star for them.|sv
@@ -132,14 +132,14 @@ B|Right,|aa
 B|right.|aa
 A|Uh,|%
 B|So,|%
-A| I think Magic does a, |sv
-B| They'll make it,  you know,|sv
+A|I think Magic does a,|sv
+B|They'll make it,  you know,|sv
 B|it, it's going to be a war between, uh, between Chicago and, uh, and, uh, uh, Boston Celtics.|sv
 A|Oh, yeah.|aa
 B|That's going to be a war.|sv
 A|That sure is.|aa
-A| It, |%
-B| It's  going to be a great series.|sv
+A|It,|%
+B|It's  going to be a great series.|sv
 A|I think that's going to be one of those that's, uh, that's won by the home team, you know,|sv
 B|Yeah.|b
 A|whoever has home court advantage is going to win that one I think.|sv
@@ -162,10 +162,10 @@ A|Oh, yeah.|b
 B|so does Detroit, I mean, so does Chicago. So all three of them do, with Larry Bird back, uh,|sd
 A|Oh, yeah.|b
 B|you can never count the Celtics out  when Larry Bird's,  starting to click on all cylinders.|sv
-A| That's true. |aa
+A|That's true.|aa
 A|Uh-huh.|b
-B|They say he's starting to do, starting to  play, |sd
-A| He's, yeah  but he's been, yeah, but he's been kind of up and down all year.|sv
+B|They say he's starting to do, starting to  play,|sd
+A|He's, yeah  but he's been, yeah, but he's been kind of up and down all year.|sv
 B|Right.|b
 A|uh, one game and he'll be playing to where everything he throws up goes in|sv
 A|and then the next time he'll, you know, he can't seem to hit the side of a barn.|sv
@@ -175,15 +175,15 @@ B|Right.|b
 A|I'm, I'm kind of, I'm not sure about him this year.|sd
 B|Last I've heard is that he's starting to peak right now.|sd
 A|Uh-huh.|b
-A|Well  that's when,   you do it. |sv
-B| He's,   starting to be  more consistent, you know, right at the right time of the year.|sd
+A|Well  that's when,   you do it.|sv
+B|He's,   starting to be  more consistent, you know, right at the right time of the year.|sd
 A|Yeah.|b
 B|Oh, any dark horses I, uh, you know,|sd
-A|Well,  the dark horses, |b^m
-B| San Antonio,  San Antonio is the dark horse that could, could really flip in there,  I think. |sv
+A|Well,  the dark horses,|b^m
+B|San Antonio,  San Antonio is the dark horse that could, could really flip in there,  I think.|sv
 A|Yeah|b
 A|that's,|%
-A| Yeah. |aa
+A|Yeah.|aa
 A|Well, anybody who has David Robinson, has got to have a chance anyway.|sv
 B|Yeah.|b
 B|He's got to be pretty much, you know,|sv
@@ -203,15 +203,15 @@ A|That's true.|aa
 B|With Roy Tarpley they're in big trouble.|sv
 A|Yeah.|aa
 A|Well then, he's gone now|sd
-A|so,  they don't have to worry about that. |sv
-B| Yeah,|aa
-B|for awhile anyway. |sv
+A|so,  they don't have to worry about that.|sv
+B|Yeah,|aa
+B|for awhile anyway.|sv
 A|Well, I thought he was gone period.|sd
 A|I, I didn't read the story,|sd
 A|but I, I, read that, uh,|sd
-B|I heard he was suspended.  Because of his, |sd
+B|I heard he was suspended.  Because of his,|sd
 A|Well, that might have been what it was,|sd
-A| but I, I guess the  headlines said something about him, you know, that the Mavericks released him or something,|sd
+A|but I, I guess the  headlines said something about him, you know, that the Mavericks released him or something,|sd
 A|I, maybe I misunderstood what they meant.|sd
 B|Um. If they did, they'd still have to pay his contract|sd
 A|Well, yeah|b
@@ -226,8 +226,8 @@ B|That's what he was being paid, you know,|sd
 B|he wasn't even playing.|sd
 A|Yeah.|b
 B|Oh, boy, what a good job he had|sv
-A| That's what I think. |aa
-B| He ruined  his sweet position|sv
+A|That's what I think.|aa
+B|He ruined  his sweet position|sv
 A|Yeah|b
 B|Yeah.|b
 B|I'm looking forward to the, the pro play-off, uh,|sd
@@ -237,10 +237,10 @@ B|L A,|sd
 B|yeah,|ny
 B|San Antonio,|sd
 B|who's the other one that's doing so well this year,|qw
-B|is that  Portland? |qy
-A| Portland.|na
+B|is that  Portland?|qy
+A|Portland.|na
 A|Yeah,|ny
-A|Portland. |na
+A|Portland.|na
 B|Portland.|b^m
 B|I haven't seen them on much T V that much at all,|sd
 B|but all I can do is hear about,|sd
@@ -276,6 +276,6 @@ B|Yeah.|b
 A|Well, it's been nice talking to you.|fc
 B|Nice talking to you.|fc
 A|All right.|fc
-A| Take care. |fc
-B| Take care.|fc
-B|Bye. |fc
+A|Take care.|fc
+B|Take care.|fc
+B|Bye.|fc

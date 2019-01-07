@@ -1,7 +1,7 @@
 A|So, do you, your privacy being invaded at any time?|qy
 B|Well, uh, one of the things that, uh, that I found to be, uh, an invasion is when I pay for something with a credit card and they ask me to put my telephone number on the, on the, uh, credit card bill.|sv
-B| That  is something that is not required|sv
-A| Well, |%
+B|That  is something that is not required|sv
+A|Well,|%
 A|Right.|b
 B|and, in fact, uh, it is actually prohibited|sd
 B|but it doesn't stop many people many people from, uh, from doing it.|sd
@@ -15,7 +15,7 @@ A|I started,|sd
 A|once I found out that that's really not necessary or legal then I just refuse|sd
 A|and I say what are you going to do.|sd
 A|You going to say you don't want to sell me this product  then  that's fine.|^q
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|I'll just buy it somewhere else or not buy it at all.|sd
 A|And then, ultimately, they say, no|sd
 A|you don't have to put it down|^q
@@ -32,9 +32,9 @@ B|Uh-huh.|b
 A|And I think that, it, it's one thing to, uh, voluntarily give it because someone asks.|sv
 A|You can always refuse|sd
 A|but it's another thing where it's required by law|sv
-A|and then they go ahead and take that information and sell it to somebody.  You know, |sd
+A|and then they go ahead and take that information and sell it to somebody.  You know,|sd
 B|Right.|b
-B| Uh, That, |%
+B|Uh, That,|%
 A|I don't think, I don't think they have the right to do that.|sv
 B|I agree with you there.|aa
 B|That's something that, uh, people have seen.|sd
@@ -88,7 +88,7 @@ A|Is it any of your business?|qy
 A|I mean, it's one thing that I, and the college knows that|sd
 A|that's, just our business.|sv
 A|There's no need for  someone  who is soliciting should know at all.|sv
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|Just, uh,|%
 A|and that was very offensive too.|sv
 A|I,|%

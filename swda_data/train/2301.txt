@@ -120,5 +120,5 @@ B|Was nice talking to you.|fc
 A|Okay.|fc
 B|Take care.|fc
 A|All right.|fc
-A| Bye-bye. |fc
-B| Bye-bye. |fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc

@@ -39,8 +39,8 @@ B|yeah.|ny
 A|Oh, huh.|b
 B|And, um, just, you know, it's many times you get out of the store faster if you pay with that than if you pay with cash.|sd
 B|to person in  Bye,|t3
-B|thanks. |t3
-A| Oh, really? |bh
+B|thanks.|t3
+A|Oh, really?|bh
 B|Um, yeah.|ny
 B|Because they're just so well set up with it|sd
 A|Yeah.|b
@@ -100,9 +100,9 @@ A|I like to use my card if I buy something through the mail which I don't do rea
 B|Right.|b
 B|Well, you can,|sd
 A|A couple times I've had to write big credit card companies and say, you know, I didn't really get this|sd
-A|or  I don't know what this is. |^q
-B| Right.|aa
-B|Or I returned it |sd
+A|or  I don't know what this is.|^q
+B|Right.|aa
+B|Or I returned it|sd
 B|so don't charge it,|^q
 B|yeah.|%
 A|Yeah.|b
@@ -217,8 +217,8 @@ A|Yeah,|aa
 A|I guess it depends on whoever you buy it from how fast they turn them in or something.|sd
 B|Yeah.|b
 A|Lot of places have|sd
-A|I guess they're called those pointed sale terminals where it's like it goes in the minute,  you charge it. |sd
-B| Immediately. |bf
+A|I guess they're called those pointed sale terminals where it's like it goes in the minute,  you charge it.|sd
+B|Immediately.|bf
 B|Yeah,|b
 A|Yeah.|b
 B|but, that's what happened with us|sd
@@ -244,9 +244,9 @@ B|Or if it gets stolen or if you lose it or whatever it might be|bf
 A|Yeah.|b
 B|and so, so that's, you know, another advantage. And then even things like airline tickets you automatically get flight insurance which, um, you , hopefully you never use.|sd
 B|But like if your|sd
-B|but things like if your baggage gets lost, you get money for that to buy new bags  and things like that. |sd
+B|but things like if your baggage gets lost, you get money for that to buy new bags  and things like that.|sd
 A|Oh, really?|bh
-A| Oh, I didn't know that. |sd
+A|Oh, I didn't know that.|sd
 B|And yeah,|aa
 B|when you rent a car, you get that|sd
 B|and sometimes you get discounts with the cards|sd

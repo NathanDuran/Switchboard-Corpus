@@ -62,9 +62,9 @@ A|Sure.|b
 A|Would,|%
 A|it would, It would be just futile.|bf
 B|And it would be just,|sd
-A| And they would not have the quality, |bf
-B| basically be me working to pay  for them to be at a day care,  center. |sd
-A| And they,  would be deprived of their mother.|bf
+A|And they would not have the quality,|bf
+B|basically be me working to pay  for them to be at a day care,  center.|sd
+A|And they,  would be deprived of their mother.|bf
 B|Exactly.|aa
 A|Yeah.|b
 A|No,|fo_o_fw_"_by_bc
@@ -90,7 +90,7 @@ A|that you,|%
 A|Right.|aa
 A|That's right.|aa
 B|But it would still probably be cheaper with the company helping,  our if everybody,  you know, pulled their own weight in it.|sv
-A|With the company than,  than having to go, |^2
+A|With the company than,  than having to go,|^2
 A|That's ,|%
 A|that's right.|aa
 A|Yes,|aa

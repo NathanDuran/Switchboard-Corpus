@@ -63,8 +63,8 @@ A|and the thing that we can do is, we need money for drugs,|sv
 A|and what we have to do is, we have to go, uh, get some stuff, steal it, and then, you know, just resell it.|sv
 B|It's easy,|bf
 B|you said the magic word there.|sv
-A| Which one? |qw
-B| Drugs. |sd
+A|Which one?|qw
+B|Drugs.|sd
 A|Yeah.|b
 B|And that certainly is one reason why crime here has increased.|sv
 A|That's, uh, that's, uh, the main reason I think, uh, everywhere|sv
@@ -89,9 +89,9 @@ B|No,|aa
 B|they don't want the money for food,|sv
 B|that's for sure.|sv
 A|Right,|aa
-A|right, |aa
-A|and so. |%
-B| Well, but you know, the,  the strange thing, uh, perhaps, not strange, but something that many people don't realize, is that you can go back as far as nineteen fifty-one and fifty-two and find that there were drug dealers at that time trying to influence the high school kids,|sv
+A|right,|aa
+A|and so.|%
+B|Well, but you know, the,  the strange thing, uh, perhaps, not strange, but something that many people don't realize, is that you can go back as far as nineteen fifty-one and fifty-two and find that there were drug dealers at that time trying to influence the high school kids,|sv
 B|because, uh, I'm a retired educator.|sd
 A|Okay|bk
 B|And, in fifty-one and fifty-two, the police came to the high school where I was and were telling us how to recognize when kids were on drugs, how to recognize the pushers outside the one entrance, that they were giving their drugs away in order to get the kids started, and so on, and so on.|sd
@@ -173,9 +173,9 @@ A|We've been talking for five minutes?|fc
 B|I beg your,|fc
 B|we've been talking for a little bit.|fc
 B|I appreciate the call.|fc
-B| I enjoyed talking with you. |fc
-A| All right,  okay,|fc
+B|I enjoyed talking with you.|fc
+A|All right,  okay,|fc
 A|same here.|fc
 B|Uh-huh,|fc
-B| bye-bye. |fc
-A| Bye-bye. |fc
+B|bye-bye.|fc
+A|Bye-bye.|fc

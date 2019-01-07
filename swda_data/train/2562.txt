@@ -223,8 +223,8 @@ A|Now that's, I mean, that's something that grows like a weed here.|sd
 B|Oh, wow.|ba
 A|I mean, it grows like a weed.|sd
 A|We have to allow extra room for those, because, you know, I mean extra space,  between the rows and all.|sd
-B| Yeah|b
-B|because they take up a lot. |sd
+B|Yeah|b
+B|because they take up a lot.|sd
 A|Yes,|%
 A|but  I mean, we usually get, I mean, just pulling them as fast as you can.|sd
 B|Holy smoke.|ba

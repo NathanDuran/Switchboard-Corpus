@@ -125,8 +125,8 @@ A|Uh-huh.|b
 A|Well,|%
 B|Okay.|fc
 B|Well,  thanks for talking.|fc
-A| It was nice talking to you. |fc
-B| Have a good day.|fc
+A|It was nice talking to you.|fc
+B|Have a good day.|fc
 A|You too.|fc
 A|Bye.|fc
 B|Bye, bye.|fc

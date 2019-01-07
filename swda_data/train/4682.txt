@@ -1,11 +1,11 @@
 A|Have you had that experience recently?|qy
 B|Recently, I can't really say recently.|ng
 B|But I think about, uh, about a year ago, uh, I bought a product from some company down at, uh, in Atlanta, Georgia.|sd
-B|I believe it was one of these, uh, one of these, uh, mixers. These, like these juice machines |sd
+B|I believe it was one of these, uh, one of these, uh, mixers. These, like these juice machines|sd
 B|and, uh  the, uh, the blade they sent me at first that went into the machine, it looked, you know, perfectly okay|sd
-A| Oh, yeah. |b
+A|Oh, yeah.|b
 B|but I found that, uh, it was made of some material which actually ended up rusting  uh,  after,|sd
-A| Oh. |b
+A|Oh.|b
 B|even, despite, you know, diligent washing, it, it got rusty after about, uh, three weeks of use.|sd
 B|And I don't think it was my fault because I, you know, I had made a point of like drying it off and cleaning it|sd
 B|but, uh, it was really, uh, it was,|%
@@ -26,7 +26,7 @@ A|But that's, that's probably the worst.|sd
 A|My daughter has a charm bracelet I bought her that's guaranteed. Uh, James Avery.|sd
 A|I don't know if you have that up there|sd
 A|but it, it's a very good company.  That  sells sterling silver things|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|and uh, she has a charm bracelet with lots of charms on it, a lot of money into it by now|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
@@ -56,25 +56,25 @@ A|I said you've been very nice, what's your name.|sd
 A|And she told me|sd
 A|and I said well I really appreciate it.|sd
 A|I said there seems to be a big attitude problem in that, store|sd
-A|and it turned out she was the assistant manager |sd
-A|so, |%
+A|and it turned out she was the assistant manager|sd
+A|so,|%
 A|Right.|aa
 A|So I felt kind of good about that, you know.|sd
-A| I didn't  even know the person's name that had given me the hard time or anything|sd
-B| Uh-huh. |b
+A|I didn't  even know the person's name that had given me the hard time or anything|sd
+B|Uh-huh.|b
 B|Right.|b
 A|but I just felt like, well at least I did something.|sd
 A|Maybe they'll fix it.|sd
 A|They might work on that, you know.|sd
 B|Right,|b
-B| right. |b
-A| But  I find attitudes are more of a problem.|sv
+B|right.|b
+A|But  I find attitudes are more of a problem.|sv
 A|Service is more of a problem.|sv
 B|I find,|%
 B|up here in the northeast, we have, uh, well we have these mail order companies like L L Bean|sd
 B|and, uh, they are famous for, I guess, having really top-notch service.|sd
-B|They've got,  uh |%
-A| Really. |ba
+B|They've got,  uh|%
+A|Really.|ba
 B|I mean I've, I've, I, I have friends and family who order from them because you can, you can literally, I've heard stories where you can literally buy something from them one year, wear it for a year and a half,|sd
 B|and even after, like eighteen months of, you know, reasonably satisfactory use, they will accept it in any condition|sd
 B|and they will gladly, no questions asked, take it back if for some bizarre reason you decide you don't want it anymore.|sd
@@ -89,7 +89,7 @@ B|but I, I was,|%
 B|one reason why, I, like I buy a lot of clothing through mail order is that, uh, if you buy through Bean or though,|sd
 B|uh, I guess Bean's, one of Bean's big competitors is Land's End out in, uh, I guess it's Wisconsin somewhere.|sd
 B|They, they are, uh, they're very good  about  uh,|sd
-A| Huh. |b
+A|Huh.|b
 B|like the customer is always right|sd
 B|and you know, no matter how crabby you might be over the phone, they are very understanding|sd
 B|and, uh, they usually get, you know, they, they make things are, they make sure things are set properly if you're any way dissatisfied with their merchandise.|sd
@@ -97,7 +97,7 @@ A|That's really good.|ba
 A|It use to be like that.|sv
 B|Uh-huh.|%
 A|But,|%
-A| I don't  think most places are like that anymore.|sv
+A|I don't  think most places are like that anymore.|sv
 B|Well I think, I guess nowadays with the, uh, with the economy the way it is, I guess,|sv
 B|there was a, there was a story on the news tonight about how, because a lot of companies are, uh, you know,|sd
 B|things are getting rough out there,|sv

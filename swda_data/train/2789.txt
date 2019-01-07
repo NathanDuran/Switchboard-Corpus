@@ -1,7 +1,7 @@
 A|Okay,|fo_o_fw_"_by_bc
 A|are you on any kind of, uh, regular exercise plan?|qy
-B|I, I, yeah, I'm, yeah, I, I do aerobics, uh, step classes and, uh,  toning classes, |na
-A| Step classes? |br
+B|I, I, yeah, I'm, yeah, I, I do aerobics, uh, step classes and, uh,  toning classes,|na
+A|Step classes?|br
 B|yes.|ny
 A|What's that?|qw
 B|It's, uh, it's a new, uh, form I think,|sv

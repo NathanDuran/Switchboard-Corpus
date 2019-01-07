@@ -20,8 +20,8 @@ B|so I get it from T V a lot.|sd
 B|I get TIME I read TIME MAGAZINE|sd
 B|Um, that's one I read pretty regularly.|sd
 A|Oh, yeah.|ba
-A| Okay. |bk
-B| And, uh.  The thing about it, you know, now that I've found, is that we get such good coverage on T V, or at least such, I don't know, attempted thoroughness of coverage, by the time you get the TIME MAGAZINE, there's nothing in it you don't know.|sd
+A|Okay.|bk
+B|And, uh.  The thing about it, you know, now that I've found, is that we get such good coverage on T V, or at least such, I don't know, attempted thoroughness of coverage, by the time you get the TIME MAGAZINE, there's nothing in it you don't know.|sd
 A|You think that that's, uh, pretty adequate coverage|bf
 A|and you get.|%
 A|Uh-huh.|b
@@ -76,7 +76,7 @@ A|and I think that nowadays with communications the way they are also, that we c
 B|Right.|b
 B|You know, the war last winter was certainly a good example of that  because we saw  every single thing, practically.|sv
 A|Exactly.|aa
-A| We saw, |%
+A|We saw,|%
 A|Yes,|aa
 A|you know, twenty years ago, thirty years ago, we wouldn't have been able to have that privilege or, or luxury to, to view that.|sv
 A|So.|%

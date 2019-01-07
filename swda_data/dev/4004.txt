@@ -11,9 +11,9 @@ B|the guy's gouging, gouging your eyes out,|sd
 B|what are you going to do?|qh
 A|Uh-huh.|b
 B|You know, what for him to finish me off|sd
-B|And, uh, it, it was, uh, good to remember the, uh, that, that kind of Asian philosophy  that, uh. |sd
+B|And, uh, it, it was, uh, good to remember the, uh, that, that kind of Asian philosophy  that, uh.|sd
 A|Uh-huh.|b
-A| Well, were  you ever in Viet Nam|qy
+A|Well, were  you ever in Viet Nam|qy
 A|or,|%
 B|No,|nn
 B|no,|nn
@@ -42,8 +42,8 @@ B|now. Well, Mark, um, what was that again?|qw
 A|Um, do you think, I mean, do you think, our the investment in lives and money was worth it?|qy
 B|No,|nn
 B|not, not really.|ng
-A|I totally agree with that.  Um. |aa
-B| Um. |%
+A|I totally agree with that.  Um.|aa
+B|Um.|%
 A|What, what effects do you think it's had on our country?|qw
 B|Downside. Um, uh, well,|bf
 B|the says we should, uh, go into the grief that, that's there|sd

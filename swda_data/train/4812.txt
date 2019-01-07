@@ -8,12 +8,12 @@ B|Uh-huh.|b
 A|I think that's pretty standard.|sd
 A|At least at Honeywell it is.|sd
 A|Uh, I think it's important to insure the quality and, and, uh, I don't know, almost the goodness of character.  You know  that kind of thing.|sv
-B| Yeah. |b
+B|Yeah.|b
 A|Where do you work?|qw
-B|Uh, well I'm a graduate student right now at Carnegie  Mellon. |arp_nd
-A| Oh, okay. |bk
-A| Oh, okay. |bk
-B| And I, I  just came from Saint Paul. Uh, interviewing with Three M.|sd
+B|Uh, well I'm a graduate student right now at Carnegie  Mellon.|arp_nd
+A|Oh, okay.|bk
+A|Oh, okay.|bk
+B|And I, I  just came from Saint Paul. Uh, interviewing with Three M.|sd
 A|Huh.|b
 A|Oh, great.|ba
 B|And, uh, they have a policy for, uh, testing.|sd
@@ -21,7 +21,7 @@ B|If you, if they make you an offer, then they'll test you right before you star
 A|Right.|b
 B|And I guess the only drawback I can see to, to drug testing is in, in case you are on some sort of medication that might give some, uh, sort of false positive result then there  could  be some sort of problem.|sv
 A|Uh-huh.|b
-A| Yeah. |b
+A|Yeah.|b
 B|But|%
 A|Yeah.|aa
 A|And that, that definitely happens, you know.|aa
@@ -46,12 +46,12 @@ A|Oh, okay.|bk
 A|Great.|ba
 A|Uh, yeah,|%
 A|I'm a graduate student at U C F in Florida. University of Central Florida.|sd
-B|Oh,  wow . |ba
-A| And  this is actually a an internship up here.|sd
+B|Oh,  wow .|ba
+A|And  this is actually a an internship up here.|sd
 A|But, uh, they, uh, even for interns they, they do the whole random drug or the whole drug testing thing,|sd
 A|so.|%
 B|They test you, uh, before they, before you start or before  you even  interview|qy
-A| Right. |b
+A|Right.|b
 B|or,|%
 A|Uh, they essentially,|%
 A|no|nn
@@ -67,11 +67,11 @@ A|I'm actually in a mall calling|sd
 A|so|%
 B|Oh|b
 A|You probably wondered, huh.|qy
-A| But, |%
-B| Yeah.|ny
-B| what happens if you were to fail?|qw
-B|Then do they give you like one one more chance or two more  chances? |qy
-A| Yes. |ny
+A|But,|%
+B|Yeah.|ny
+B|what happens if you were to fail?|qw
+B|Then do they give you like one one more chance or two more  chances?|qy
+A|Yes.|ny
 A|That's a good question.|ba
 A|I believe from what I remember of the literature they gave, uh, if you fail I believe they give you one more chance.|sd
 A|They probably give you a chance to explain yourself and then maybe give you another chance to go through it.|sd
@@ -82,10 +82,10 @@ A|But, uh,|%
 A|are you working right now anywhere|qy
 A|or,|%
 B|Uh, no.|nn
-A| Okay. |bk
-B| I'm just  about to finish my Master's in May  and, uh  just interviewing with companies right now.|sd
-A| Oh, okay.|bk
-A|Great. |ba
+A|Okay.|bk
+B|I'm just  about to finish my Master's in May  and, uh  just interviewing with companies right now.|sd
+A|Oh, okay.|bk
+A|Great.|ba
 A|Yeah.|b
 A|That was the first time I'd ever gotten any kind of drug screening, you know. Was, was going to Honeywell.|sd
 A|A friend of mine is also a doctoral student down there.|sd
@@ -96,12 +96,12 @@ A|And, uh, they, basically, uh, did the same exact thing.|sd
 A|Uh, we both got our internships at the same time|sd
 A|and we both had to go through drug testing at the same time.|sd
 A|So, one of those things where we went through a kind of an identical process.|sd
-A| But, uh, |%
-B| Did, do  they test you at, right now, at work too?|qy
+A|But, uh,|%
+B|Did, do  they test you at, right now, at work too?|qy
 A|No,|nn
 A|no.|nn
-A| That's  one thing they don't do is, is drug testing while you're on the job.|sd
-B| Okay. |bk
+A|That's  one thing they don't do is, is drug testing while you're on the job.|sd
+B|Okay.|bk
 A|Uh, I think, I think the unwritten rule is, yeah, expect it|sd
 A|but they don't do it.|sd
 B|Oh|bk

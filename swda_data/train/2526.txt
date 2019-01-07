@@ -254,9 +254,9 @@ B|so.|%
 A|Yeah,|aa
 A|it really is.|aa
 B|But,|%
-A|Have you seen the new, uh, Dodge Stealth? The, the,  real nice one |qy
+A|Have you seen the new, uh, Dodge Stealth? The, the,  real nice one|qy
 B|Oh, yeah.|ny
-B|yeah, |ny
+B|yeah,|ny
 B|and the Mitsubishi,  three thousand G T , is the same, same.|sv
 A|Yeah.|b
 A|Yeah,|aa

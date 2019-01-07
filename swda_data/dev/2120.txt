@@ -29,6 +29,6 @@ A|Yes.|b
 B|Well, I'll talk to you later,|fc
 A|All right.|fc
 A|Thank you.|fc
-A| Bye, bye. |fc
-B| Okay.|fc
-B|Bye-bye. |fc
+A|Bye, bye.|fc
+B|Okay.|fc
+B|Bye-bye.|fc

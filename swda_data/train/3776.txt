@@ -7,9 +7,9 @@ B|I'm teaching in public schools and elementary school.|sd
 A|Oh, do you really?|bh
 B|Uh-huh.|ny
 A|That's great.|ba
-B|I taught in Utah, |sd
+B|I taught in Utah,|sd
 B|and, uh,  Did you teach in California?|qy
-A| No kidding. |b
+A|No kidding.|b
 A|I did.|na
 B|Uh-huh.|b
 A|I did, uh,|na
@@ -22,8 +22,8 @@ B|Uh-huh.|b
 A|At any rate, uh, the topic is fascinating because one of the things I've done for the past few years is, uh, research the problem from the point of view of, uh, uh, what appears to be working best and how you can explain it theoretically.|sd
 B|Uh-huh.|b
 A|You may be familiar with cooperative learning.|qy^d
-A| Have you ever, |qy
-B| Well you can,  you can tell me a little bit more about it because I don't think we did that in Utah.|ad
+A|Have you ever,|qy
+B|Well you can,  you can tell me a little bit more about it because I don't think we did that in Utah.|ad
 A|Well, the cooperative learning is a technique that was tried initially to integrate the public schools.|sd
 A|And, uh, what, what it involves, basically, is the use of peer groups|sd
 A|and the, uh, teacher becomes a, uh, a sort of a consultant, resource person to the cooperative learning, uh, to the learning cooperatives, I guess they're called.|sd
@@ -51,7 +51,7 @@ B|yeah,|aa
 B|I totally agree.|aa
 A|I, I don't, I don't think it's, it's a matter of, of, uh, talented people to do it, both as, quote, unquote students and as teachers,|sv
 A|but clearly what's happened in this country is the school system's been asked to assume a great many responsibilities  in the  past thirty years that weren't existent, uh,|sv
-B|Oh,  yeah. |b
+B|Oh,  yeah.|b
 B|Uh-huh.|b
 A|you must see kids with real significant problems, uh, in some cases.|sv
 A|Uh, course, I always see the,|%
@@ -62,9 +62,9 @@ A|are they pretty happy with it,|qy
 A|or,|%
 B|Well, I, I haven't taught in Iowa,|^h
 B|but I've taught in Utah,|^h
-B|and, uh, people there were saying that the way that the schools were going, a lot of people were going away and going to private schools, or else going to home, where they taught their kids at home. Or, you know, anything but the public schools and the ones that did have, you know,  the kids, |sd
+B|and, uh, people there were saying that the way that the schools were going, a lot of people were going away and going to private schools, or else going to home, where they taught their kids at home. Or, you know, anything but the public schools and the ones that did have, you know,  the kids,|sd
 A|Right.|b
-A| Even in Utah. |qy^d
+A|Even in Utah.|qy^d
 B|Yeah|ny
 B|well, Well, uh, maybe it was the area I was in,|sd
 A|Well, Utah's a place where you wouldn't think that problem would be very severe.|sv

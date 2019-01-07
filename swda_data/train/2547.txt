@@ -14,8 +14,8 @@ A|Yeah.|ny
 B|Uh, my home is, well, is typical for the area.|sd
 B|I live in a development, uh,|sd
 B|it's a relatively, I would say, well,|sd
-B|God, it sounds like, sounds like I'm bragging  |sv
-A|  No,|ar
+B|God, it sounds like, sounds like I'm bragging|sv
+A|No,|ar
 A|that's okay|bd
 B|But it's upper middle class, uh, kind of an environment.|sd
 A|Okay.|b
@@ -66,8 +66,8 @@ A|so, really housing is real bad.|sd
 A|The economy itself around here is not too terribly bad,|sd
 A|but housing is still real bad|sd
 B|Uh-huh|b
-A| Yeah. |b
-B| Well,  Pensacola has|sd
+A|Yeah.|b
+B|Well,  Pensacola has|sd
 B|it's really is a buyer's market there now|sd
 A|Yeah.|b
 A|This is,|%
@@ -151,8 +151,8 @@ A|and to have it built they only paid forty thousand for it,|sd
 A|and when they left the area they sold it for a hundred and twenty thousand|sd
 B|Oh, that's not unusual, yeah.|ba
 A|Yeah,|b
-A|so I just wondered, you know, if the whole area was like that  or, |qy^d
-B|  Well, that's, that area over there is not as expensive as in the, the immediate, you know, Washington area.|arp_nd
+A|so I just wondered, you know, if the whole area was like that  or,|qy^d
+B|Well, that's, that area over there is not as expensive as in the, the immediate, you know, Washington area.|arp_nd
 A|Uh-huh.|b
 B|And so, we, uh, I was just looking,|sd
 B|for example there is a, uh, condominium complex next to the apartment complex where I live,|sd

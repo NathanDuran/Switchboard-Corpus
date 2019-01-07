@@ -118,8 +118,8 @@ A|Yeah.|b
 B|oh, I was just,|sd
 B|it makes chills all, over you.|sv
 A|I know.|ba
-B| So, |%
-A| So, |%
+B|So,|%
+A|So,|%
 B|I, I may or may not even look at the T V guide,|sd
 B|but if I have time I may flip through and say hey this looks good if I finish this task I can watch that in an hour.|sd
 B|Uh, if the hour comes and I do not get a chance to watch it, so what.|sd

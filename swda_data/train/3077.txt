@@ -173,10 +173,10 @@ A|Probably not.|ba
 B|Social Security is going to be gone before I ever get any.|sv
 A|Yeah,|b
 A|yes,|b
-A|or what's left is not going to be worth anything you know, in terms of how,  you can actually use it. |sv
+A|or what's left is not going to be worth anything you know, in terms of how,  you can actually use it.|sv
 B|Uh-huh.|b
 B|Right|b
-B|they're going to pay me  fifty dollars a month, right |^2
+B|they're going to pay me  fifty dollars a month, right|^2
 A|Yeah,|aa
 A|right.|b
 A|But that's,|%
@@ -200,10 +200,10 @@ B|Oh, yeah.|ny
 A|Yeah,|b
 A|well, um, I don't know,|h
 A|I guess we complain about taxes,|sv
-A|but, I guess, you know,  you have to be sort of, |sv
+A|but, I guess, you know,  you have to be sort of,|sv
 B|Yeah,|b
 B|yeah,|b
-B| you got to look  to what they put, you know|^2
+B|you got to look  to what they put, you know|^2
 A|Yeah,|b
 A|you have to appreciate, yeah, what, what you do get for them sometimes|sv
 B|you have decent roads at least|sv

@@ -6,9 +6,9 @@ A|but, uh, when my husband and I were, uh, camping, we'd take this domed tent th
 A|As long as there was a bathroom there and some clean showers and things like that, then it was fine.|sd
 A|But, uh, we'd get up at three in the morning and start on our little, uh, escapade for the day and, uh, kind of, uh, do a lot of different things and then stop when we wanted to.|sd
 A|But, uh, that's kind of changed now.|sd
-A|When you have a small child because they don't want to get up at three in the morning |sd
-A|and you don't want them up that early. |sd
-B| Would you then go  hiking.|qy
+A|When you have a small child because they don't want to get up at three in the morning|sd
+A|and you don't want them up that early.|sd
+B|Would you then go  hiking.|qy
 B|I mean would the camping be part of a long hike?|qy
 A|Oh yeah,|ny
 A|yeah.|ny
@@ -22,14 +22,14 @@ A|Very comfortable,|sd
 A|so.|%
 B|Were you up in, in Wisconsin|qy
 B|or would you go into|qrr
-B|where would you camp  ? |qw
-A| Well,  there's, uh, places in Wisconsin.|sd
+B|where would you camp  ?|qw
+A|Well,  there's, uh, places in Wisconsin.|sd
 A|There's the Apostle Islands, uh which are in Bayfield which is a wonderful place.|sd
 B|Uh-huh.|b
 A|And then there's also, uh, what we found, uh, in the state of, uh, South Dakota, the Black Hills.|sd
 B|Oh, yeah.|b
-B| That's beautiful. |sd
-A| And we just have this,  uh, really good time there.|sd
+B|That's beautiful.|sd
+A|And we just have this,  uh, really good time there.|sd
 A|One thing is they don't have mosquitoes|sd
 A|and, uh,  sorry to say,  and, uh, in Wisconsin we do,|sd
 A|so, that kind of puts a little bit of a hamper on your, uh, you know,|sd
@@ -43,7 +43,7 @@ B|Oh, yeah.|b
 B|Well, most of my camping,|sd
 B|I haven't done much since I was a kid|sd
 B|but, uh, we'd, basically, take the tent up in the Sierras and, uh, usually just camp near some stream  or some  lake.|sd
-A| Uh-huh. |b
+A|Uh-huh.|b
 A|Sure.|b
 B|And, uh, just,|%
 B|it wasn't even a, a full tent.|sd
@@ -57,27 +57,27 @@ A|yeah.|b
 B|Uh, there was certainly nothing like a, a bathroom, a shower or anything, near by|sd
 B|It was  dig your own hole|sd
 B|and, uh  and I I'm not sure I'd do that  that anymore,|sd
-A| That was really called  roughing it,|^2
+A|That was really called  roughing it,|^2
 A|yeah.|%
 A|I,|%
 A|Anymore.|^2
-A| Yeah,|%
-A|see |%
-B| but it's, it, uh, uh,|%
+A|Yeah,|%
+A|see|%
+B|but it's, it, uh, uh,|%
 B|actually some friends of mine and I are planning to camp this summer, uh,  for four days.|sd
 B|Also  going fishing, uh|sd
-A| Uh-huh.|b
-A|Sure. |b
 A|Uh-huh.|b
-B|and I have a idea it's going to be a, a lot more equipment and a lot more stuff than  before. |sd
+A|Sure.|b
+A|Uh-huh.|b
+B|and I have a idea it's going to be a, a lot more equipment and a lot more stuff than  before.|sd
 A|Than you,|^2
 A|sure.|b
-A| Than it,  when you were younger,|^2
-A| uh-huh. |b
-B| Yeah.|aa
-B|  But, |%
-A| it,|%
-A| with kids they don't care if they take a shower everyday.|sd
+A|Than it,  when you were younger,|^2
+A|uh-huh.|b
+B|Yeah.|aa
+B|But,|%
+A|it,|%
+A|with kids they don't care if they take a shower everyday.|sd
 A|With kids they don't care, you know, uh, a about a lot of things.|sv
 A|But as adults, uh, it's like if I don't take a shower every day, I feel like, you know, ooh.|sd
 B|Yeah.|b
@@ -87,8 +87,8 @@ A|K O A are wonderful.|sd
 A|It's kind of it's kind of the, uh, yuppie type of camping because they have showers,|sd
 A|they have things for kids to do.|sd
 A|They have swimming pools, things like that.|sd
-A| If you  can find, uh, some really nice, clean, uh, campgrounds versus, uh, if you go to state parks, uh,|sd
-B| Oh, my. |ba
+A|If you  can find, uh, some really nice, clean, uh, campgrounds versus, uh, if you go to state parks, uh,|sd
+B|Oh, my.|ba
 A|we have found state parks, not that they're lacking|sd
 A|but, uh, they're certainly not up to a standard of a K O A where it's, you know, a little bit cleaner.|sd
 A|You've got the showers available.|sd

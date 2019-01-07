@@ -76,10 +76,10 @@ A|and, uh, in the end now, I mean they've tested, they've spent forty million do
 B|it isn't,|%
 A|and they've found, uh, I think, uh, in pilots anyway, of something like, uh, uh, eighty-six thousand tests there's only been two guys have come up, uh,  three guys have come up positive,|sd
 A|and one of them was a bad test,|sd
-A|so. |%
-B| Positive for anything,|^2
+A|so.|%
+B|Positive for anything,|^2
 B|see yeah.|%
-B| See, uh, and I just started working, well for an electronics firm down here,|sd
+B|See, uh, and I just started working, well for an electronics firm down here,|sd
 B|I used to be a reporter.|sd
 A|Yeah.|b
 B|And then now, I'm in corporate communications,|sd
@@ -174,8 +174,8 @@ B|I, I, you know, I mean I think of the young girl in Florida who,|sd
 B|well, yeah|%
 B|that's,|%
 B|was she from your part of the country?|qy
-B| Or was she from, |qy
-A| What was that? |br
+B|Or was she from,|qy
+A|What was that?|br
 B|The young girl that, uh, contracted AIDS through her dentist, allegedly.|sd
 A|Oh, yeah,|bk
 A|yeah,|bk
@@ -234,10 +234,10 @@ A|if you, if you don't,|%
 A|if they don't make a criminal check, why do you have to be fingerprinted.|qh
 B|Because, um, in our case, one is at the state and the other one is at the federal level.  Because you have to because you have to deal with the I N,|sd
 B|yeah,|%
-B|because you have to deal with the, uh, immigration service. |sv
-A| Oh, I see,|bk
+B|because you have to deal with the, uh, immigration service.|sv
+A|Oh, I see,|bk
 A|oh the state doesn't require it.|bf
-A|Well that's kind of, that's rather, that's rather unusual, isn't it. |qy
+A|Well that's kind of, that's rather, that's rather unusual, isn't it.|qy
 B|Yeah|ny
 B|it is,|sd
 B|it's, uh,|%
@@ -275,8 +275,8 @@ B|Yeah,|aa
 B|it's exactly true,|aa
 B|I mean I,|%
 A|And the computers, of course helps that.|sv
-A| The computer abilities store that information. |sd
-B| Well look at what we're talking now,|ad
-B| I mean, it's,|%
+A|The computer abilities store that information.|sd
+B|Well look at what we're talking now,|ad
+B|I mean, it's,|%
 B|look how we're talking now,|ad
 B|I mean you wonder ultimately what a network of stranger, you know,|qh

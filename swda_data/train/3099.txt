@@ -112,15 +112,15 @@ A|I have heard it's a rough age to put them into a,|sd
 B|It is because that's when they are clinging to mama,|aa
 A|Yeah.|b
 B|so you might have a real problem with that.|sv
-B| I think it,  it hurts the parents to leave when the child is crying,|sv
-A| But, but I think it, |%
+B|I think it,  it hurts the parents to leave when the child is crying,|sv
+A|But, but I think it,|%
 B|so it, you know, it would be ideal if you could get somebody in so you are not really leaving the child in a strange place.|sv
 A|Yeah.|aa
 A|We are just going to have, to see how things work out.|sd
 B|But that's unusual.|ba
-A|Uh, but I am trying to, you know, leave her a fair amount, even at this young age, with her grandparents, just to, go to a movie and things like that. So that she is used to other people  taking care of her. |sd
+A|Uh, but I am trying to, you know, leave her a fair amount, even at this young age, with her grandparents, just to, go to a movie and things like that. So that she is used to other people  taking care of her.|sd
 B|Uh-huh.|b
-B| Is it your parents  or your husband's parents?|qy
+B|Is it your parents  or your husband's parents?|qy
 A|My parents,|sd
 A|my husband's parents are in France.|sd
 A|So, it's a little bit harder|sd
@@ -138,8 +138,8 @@ B|and I,|%
 B|it would, if they were where I could not get my hands on them, I am afraid I would probably go crazy.|sd
 A|Uh-huh.|b
 B|You know, I, I like that,|sd
-A| Are they all nearby? |qy
-B| but if, it you do not  have to put them in child care, that's, that's an ideal situation for you, is to stay with them|sv
+A|Are they all nearby?|qy
+B|but if, it you do not  have to put them in child care, that's, that's an ideal situation for you, is to stay with them|sv
 B|as,|%
 B|or you can set up your work program and your husband's so that one of you is there all the time.|ad
 A|Yeah.|aa

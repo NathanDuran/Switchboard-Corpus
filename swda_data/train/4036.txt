@@ -11,8 +11,8 @@ A|Uh, what sorts of cases were they?|qw
 B|They were just, you know, small time cases where, uh, trailers and banks were involved, you know.|sd
 A|So were they criminal or civil?|qy
 B|They were civil.|sd
-B| They weren't  they weren't any criminal.|sd
-A| Oh, okay. |bk
+B|They weren't  they weren't any criminal.|sd
+A|Oh, okay.|bk
 A|What, uh, what was the verdict?|qw
 A|Did the, did the jury have trouble reaching a decision?|qy
 B|Uh, the jury, it was, uh, let me see, I think it was ten to one on the jury, because they only had to have eleven people|sd
@@ -50,8 +50,8 @@ A|Yeah, I mean, I, I really, I would like to, uh, to do at some point, um,|sd
 A|but, I, I haven't.|sd
 A|Uh, one, one thing that I, I think is, um, you know, maybe is a problem is, uh, I, I think that the criminal jury system works pretty well now,|sv
 A|but I wonder if maybe in some civil cases it doesn't work as well.|sv
-A| Especially sort of. |%
-B| I wouldn't think  that it does I mean, from, from my, from what I experienced in them,|sv
+A|Especially sort of.|%
+B|I wouldn't think  that it does I mean, from, from my, from what I experienced in them,|sv
 A|How,|%
 B|it didn't, you know, it didn't turn out the way I planned it, I mean, the way that I would think that it would go.|sd
 A|Uh, you thought it turned out pretty well?|qy^d

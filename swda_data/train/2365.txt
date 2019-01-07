@@ -101,8 +101,8 @@ A|and, uh, and, in fact she put some right|sd
 A|she got,|sd
 A|they mixed, uh, a gallon of it|sd
 A|and, uh, it's just remarkable how close it will match the paint, uh,|sd
-A|and it does it, uh, oh, electronically some, something,  magic. |sd
-B| Oh,|b
+A|and it does it, uh, oh, electronically some, something,  magic.|sd
+B|Oh,|b
 B|so,  they did do a good job?|qy^d
 A|Yeah,|ny
 A|you know, they,|sd

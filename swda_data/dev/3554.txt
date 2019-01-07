@@ -52,8 +52,8 @@ B|and now I weigh only about one, about one seventy-five. Um,|sd
 B|so I drastically had to change the way I ate when I, when I first moved to college,|sd
 B|and, uh, I had started weight lifting quite regularly,|sd
 B|and so I got my weight down,|sd
-B|and it's kind of easy for me to forget about it now, because, uh, you know, when I'm not fat like I used to be  I don't worry about it |sd
-A| Right,|b
+B|and it's kind of easy for me to forget about it now, because, uh, you know, when I'm not fat like I used to be  I don't worry about it|sd
+A|Right,|b
 A|you don't notice it  as much,|^2
 B|, yeah.|%
 A|yeah.|%
@@ -141,8 +141,8 @@ A|Kind of see what happens.|^2
 B|Yeah,|aa
 B|and I like it.|sd
 A|I've tried to do that with sugar|sd
-B| I don't know if I'm that brave yet  .|sd
-A| everything has sugar in it  .|sv
+B|I don't know if I'm that brave yet  .|sd
+A|everything has sugar in it  .|sv
 A|I mean, if you go,|sv
 A|your ketchup has sugar in it.|sd
 B|Uh-huh,|b

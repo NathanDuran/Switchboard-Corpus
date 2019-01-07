@@ -14,8 +14,8 @@ A|women stay single longer it seems like.|sv
 B|Yes, they do.|aa
 A|Yeah.|b
 B|Yeah,|b
-B| they do. |aa
-A| I know  my mother and her sister were both married by the time they were twenty|sd
+B|they do.|aa
+A|I know  my mother and her sister were both married by the time they were twenty|sd
 B|Right.|b
 A|and I waited until I was thirty-two,|sd
 A|so.|%
@@ -47,8 +47,8 @@ A|Yeah.|b
 B|So.|%
 A|Yeah,|b
 A|yeah.|b
-A| Seems like there's. |sv
-B| I guess it's a combination. |sv
+A|Seems like there's.|sv
+B|I guess it's a combination.|sv
 A|Uh-huh,|b
 A|go ahead.|ad
 B|No,|ar

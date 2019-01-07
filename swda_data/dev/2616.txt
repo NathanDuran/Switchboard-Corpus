@@ -15,12 +15,12 @@ B|the thing, the thing that, that, that I saw was okay,|sd
 B|Iraq wants to raise oil prices.|sd
 A|Uh-huh.|b
 B|Kuwait wants to take Iraq out of the whole system,  by  leaving them independent.|sd
-A| Uh-huh. |b
+A|Uh-huh.|b
 A|Uh-huh.|b
 B|And so, when Iraq, you know, saw this, they said let's take over the country, which is a good idea,|sd
 B|right?|^g
-A| Uh-huh. |ny
-B| Then  the United States says, okay, our, our oil prices are going to go up.|sd
+A|Uh-huh.|ny
+B|Then  the United States says, okay, our, our oil prices are going to go up.|sd
 B|And like for example, see, okay, like Lithuania right, they declared themselves an independent country with a president,|sd
 B|right.|^g
 A|Uh-huh.|ny
@@ -37,7 +37,7 @@ A|huh-uh.|nn
 B|Okay,|bk
 B|NINETEEN EIGHTY-FOUR there are like three big continents|sd
 B|and, uh, there's just this area, like around Egypt and stuff,  that  everybody's fighting over.|sd
-A| Uh-huh. |b
+A|Uh-huh.|b
 B|Now the problem is, is that nobody's going to invade anybody else's boundaries.|sv
 A|Uh-huh.|b
 B|Right,|b
@@ -51,7 +51,7 @@ B|it's like how much money did the U S spend when they could have paid so much m
 A|We'll probably never know how much it actually cost.|sv
 B|And you know, it's, it was basically all based on oil because nobody|sv
 B|actually, like for example, if, uh, let's say if, you know Brazil took over you know, Surinam.  I  don't think anybody would care.|sv
-A| Uh-huh. |b
+A|Uh-huh.|b
 A|Yeah.|b
 B|You know, and, uh, that's something that, that has been, you know, very,|sv
 B|because, see the thing is, is like every time that I see a war, I see myself on the front line, and on the other side I see myself again, and I've got to shoot myself, you know.|sd
@@ -64,10 +64,10 @@ A|oh, it's never a pleasant thing,|sv
 A|that's true.|aa
 B|And, uh, but at least it was, it was over quick|sd
 B|and there weren't that many deaths.|sd
-A| Yes|aa
-A|that's, |%
-B| Now the  only problem is, is the aftermath,  that  you're having so many deaths in the border with, uh, Turkey.|sv
-A| Yes. |aa
+A|Yes|aa
+A|that's,|%
+B|Now the  only problem is, is the aftermath,  that  you're having so many deaths in the border with, uh, Turkey.|sv
+A|Yes.|aa
 A|Yes,|aa
 A|that's really unfortunate,|sv
 A|it really is.|sv
@@ -77,13 +77,13 @@ B|Well, there's something that, that the U S did right which is say, say, you kn
 B|let's kick him out of Kuwait, which was our basic goal.|^q
 A|Uh-huh.|b
 B|And, uh, now, indirectly let's try to overthrow him, you know.|^q
-A| Uh-huh. |b
-B| And  they're not going to do that directly.|sd
+A|Uh-huh.|b
+B|And  they're not going to do that directly.|sd
 B|But the thing is, is that, they, they didn't go into, into Iraq and say, you know, because they have the force to go in there and say get out of the country.|sd
-A| Uh-huh. |b
-B| You  know, you can seek, seek asylum here,|^q
-A| Yeah. |b
-B| and  you can go there,|^q
+A|Uh-huh.|b
+B|You  know, you can seek, seek asylum here,|^q
+A|Yeah.|b
+B|and  you can go there,|^q
 B|but no way are you going to rule ever again.|^q
 A|Uh-huh.|b
 A|I've been hearing some talk too of trying to bring Hussein up on, you know, criminal charges.|sd
@@ -117,7 +117,7 @@ A|obviously human life means nothing to him.|sv
 B|Huh-uh.|b
 B|But, uh, you know, he's got, uh, millions of dollars,|sd
 B|like,  I  think it was like, I don't know if it was fifty billion or fifty million, which is really, doesn't make any difference|sv
-A| Oh yeah. |b
+A|Oh yeah.|b
 A|That's true.|aa
 A|Past a point it doesn't make any difference.|bf
 B|Yeah.|aa
@@ -130,25 +130,25 @@ B|like saying, you know, it's like|%
 B|yeah,|sv
 B|sure,|sv
 B|we need oil, you know,|sd
-A| Uh-huh. |b
-B| and  we need it desperately.|sd
-A| Yeah. |b
-B| But  the other countries, that, you know, that have oil but not as big, you know, like they say, you know, like when the prices went up and then they went down.|sd
+A|Uh-huh.|b
+B|and  we need it desperately.|sd
+A|Yeah.|b
+B|But  the other countries, that, you know, that have oil but not as big, you know, like they say, you know, like when the prices went up and then they went down.|sd
 A|Uh-huh.|b
 B|When they took that big dip it was because they discovered another big oil well somewhere in Saudi Arabia,  or  something.|sd
-A| Uh-huh. |b
+A|Uh-huh.|b
 A|Seems like the prices never go down to where they were originally, though, before, before the increase started.|sv
 B|Well, it, its an advantage.|sv
-A| Uh-huh. |b
-B| You  know, it's like you're saying, okay, I can bring my prices up to a dollar fifty a gallon and I'm not going to bring them back down to, you know, ninety-nine cents.|sv
+A|Uh-huh.|b
+B|You  know, it's like you're saying, okay, I can bring my prices up to a dollar fifty a gallon and I'm not going to bring them back down to, you know, ninety-nine cents.|sv
 A|Uh-huh.|b
 B|Why,|qh
 B|because people are willing to pay a dollar fifty a gallon,|sv
 B|so if I leave it at a dollar ten, people are still going to pay.|sv
 A|True.|aa
 B|You know, I went down forty cents,|sd
-A| Uh-huh. |b
-B| but  I went up ten cents.|sv
+A|Uh-huh.|b
+B|but  I went up ten cents.|sv
 A|Yeah.|b
 B|Yeah.|b^m
 A|About the lowest I've seen gasoline in the Dallas area is, uh, I guess, about ninety-two point nine now.|sd
@@ -164,9 +164,9 @@ A|That's the lowest I've seen.|sd
 B|But still the,|%
 B|I mean, have you ever checked, like, uh, the most money-makers in, uh, in nineteen, uh, ninety.|qy
 B|Uh, you can see that, uh,  Exxon  and Amaco and uh, other companies, oh God, I forgot their names, but, uh, Exxon was the number one money-maker,|sd
-A| Uh-huh. |ny
-A| Uh-huh. |b
-B| and  that was just because of, of the last quarter.|sd
+A|Uh-huh.|ny
+A|Uh-huh.|b
+B|and  that was just because of, of the last quarter.|sd
 A|Right,|b
 A|I think Mobil was doing very well, too.|sd
 B|Yeah.|b
@@ -175,7 +175,7 @@ B|And, uh, that was,|%
 B|I mean and what other companies are, went up four hundred and some percent.|sd
 A|Uh-huh.|b
 B|And that's practically impossible to do now a days, for a company to,  to shoot  up in that way.|sv
-A| That's true. |aa
+A|That's true.|aa
 A|Yeah,|aa
 A|yeah,|aa
 A|that's true.|sv
@@ -183,13 +183,13 @@ B|And, uh, it's just that, you know, people, people take advantage of that.|sv
 B|You know, like the, the companies are saying we're trying not to raise our prices but when, you know, when we get a barrel coming in at more than what we're selling it for, we've got to raise our prices.|sd
 A|Uh-huh.|b
 B|You know, but still if you realize that, uh, one barrel has like, how much was it, like, um forty gallons,|sd
-A| Yeah,|aa
+A|Yeah,|aa
 A|something like,|h
-A|yeah. |%
-B| it's got forty gallons |sd
+A|yeah.|%
+B|it's got forty gallons|sd
 B|and they're selling, you know, you know,|sd
 B|you got to pay forty dollars at least and,  you  know, for, uh, for one gallon|sd
-A| Yeah. |b
+A|Yeah.|b
 B|and it's, it was selling like at twenty-five or something.|sd
 A|Uh-huh.|b
 B|So you're making, uh, you know, fifteen dollars profit, easily.|sd
@@ -198,8 +198,8 @@ A|yeah,|b
 A|sure.|b
 B|And, uh, everything,|%
 B|I mean, and, and, the expenses, you know, of the war, you know, it's like, uh, it's like who's gaining on this.|sv
-A| Uh-huh. |b
-B| Okay, |b
+A|Uh-huh.|b
+B|Okay,|b
 B|because, uh, does, does the U S government own any gas companies, like, like, you know gas stations and stuff?|qh
 A|Uh-huh.|b
 B|I, because, see like for example, I don't know if the British government owns Shell.|sd
@@ -215,8 +215,8 @@ A|Yeah,|aa
 A|that's true.|sv
 B|You know, and, and first of all how many, how many people had to, had to die before the war, you know,|qh
 B|it's like transporting stuff and things like that,  before, you  know, it's like|sd
-A| Uh-huh,|b
-A|yeah. |b
+A|Uh-huh,|b
+A|yeah.|b
 B|yeah|%
 B|sure, you know, like to, to a couple people that died there, their families don't feel it was necessary to do that.|sv
 A|Sure,|aa

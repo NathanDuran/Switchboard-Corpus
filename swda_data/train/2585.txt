@@ -4,8 +4,8 @@ B|I was, I was thinking about our topic for the night Um, immigration problems.|
 B|We have immigration problems|sd
 B|and what do, do you think about it?|qo
 A|Well, I think it's a very, very complicated,|sv
-B| Huh. |b
-A| and  I sort of, I see perspectives on all sides.|sd
+B|Huh.|b
+A|and  I sort of, I see perspectives on all sides.|sd
 A|Um, and I've have no hope for solutions.|sd
 A|But, uh, I do keep myself somewhat abreast of the issue.|sd
 A|I have worked with, uh, uh, a little bit with refugees from,  Southeast  Asia, uh, who've come over. Uh, you know, to escape the genocide programs that are over there.|sd
@@ -16,7 +16,7 @@ B|Uh-huh.|b
 B|Uh-huh.|b
 A|And, uh, I'm in California,  which  has a lot of immigration. Probably more than any where else in the country, though I'm not sure if that's the case.|sd
 B|Where are you?|qw
-B| See, |%
+B|See,|%
 B|Well, we've got a lot too.|sd
 B|I'm in Texas.|sd
 A|Uh-huh,|b
@@ -32,7 +32,7 @@ A|uh-huh.|b
 B|Cambodians, uh, Asians, Vietnamese.|sd
 B|We, we're getting a lot of, uh, Mexican Americans,|sd
 B|you know, we've had,  those  for a long time.|sd
-A| Yeah. |b
+A|Yeah.|b
 A|Sure,|b
 A|well, Texas,  used  to be part of Mexico, or most of it|sd
 B|Yes,|aa
@@ -40,14 +40,14 @@ B|oh, yes.|aa
 B|to child in No,|t3
 B|I'm busy right now, Steven.|t3
 B|Steven wants me to do popcorn right now.|sd
-A| Huh. |b
-B|  to Okay.|t3
+A|Huh.|b
+B|to Okay.|t3
 B|And I don't know what the solution is.|sd
 A|I, I don't either.|sd
 A|It's a really delicate, uh, moral, issue.|sv
 A|Because, if you have, well,|%
 A|I guess the one thing I do see that is, is that needs to be a solution is, that if you do let people into the country, I do feel you have a certain obligation to,  to get them on their  feet.|sd
-B| To get them on their, |^2
+B|To get them on their,|^2
 B|Yeah.|b
 A|Because otherwise what you're doing is you're letting people in|sv
 A|and you're, you're dooming them to being underclass people.|sv
@@ -73,8 +73,8 @@ A|but, but the funding isn't there for very much work to be going on.|sd
 B|And there's a lot of graft, like people trying to tell them, oh, giving them information that was free to them anyway if they just knew how to get it.|sd
 A|Uh, yeah,|aa
 A|exactly.|aa
-B| Yeah. |b
-A| I  mean, these are people who don't have the foggiest idea about what America's like.|sd
+B|Yeah.|b
+A|I  mean, these are people who don't have the foggiest idea about what America's like.|sd
 B|Right.|b
 A|Um, and it's,|%
 A|it's,|%
@@ -94,7 +94,7 @@ A|Yeah,|ny
 B|Farming?|qy
 A|'cause they're farmers.|sd
 A|These,  are  all farmers coming over,|sd
-B| Oh. |b
+B|Oh.|b
 A|and they're being put in the middle of the city|sd
 B|Oh that's terrible.|ba
 A|I mean they're nomadic farmers, you know,|sd
@@ -108,15 +108,15 @@ A|Because if they don't, you're just going to produce, you know, you're going to
 A|You're going to get a situation that I think a lot like what happened to the blacks, being sort of led out of slavery|sv
 A|and then, then many of them ended up just working the same jobs they were as slaves then.|sd
 A|And there was no,  real up, upward movement.|sd
-B| And not being cared for. |bf
+B|And not being cared for.|bf
 A|And,  not being, you know,|%
 B|Yeah.|aa
 B|That's true.|aa
 A|Um,|%
 B|Well, what did you do when you helped these people?|qw
 A|Well,|%
-B| How did you, what did you do,|qw
-A| I, I wasn't helping them.|sd
+B|How did you, what did you do,|qw
+A|I, I wasn't helping them.|sd
 A|I worked with  them, not to help them, but for my own purposes.|sd
 A|I'm, I'm a linguist|sd
 A|and I was, uh, doing a language, trying to learn their language, a little bit.|sd
@@ -124,8 +124,8 @@ A|And I actually, um, I mean, helped them them in the sense that they received m
 A|But I didn't, I didn't, I wasn't a social worker or anything like that.|sd
 B|All right.|bk
 A|I do have friends who have tried to do more,  social work,   you  know, by explaining to people how the language,  and  what the problems learning English might be and such.|sd
-B| Uh-huh|b
-B| Uh-huh. |b
+B|Uh-huh|b
+B|Uh-huh.|b
 B|Uh-huh.|b
 A|Because all the models of teaching English are based on teaching English to Spanish speakers or to other European language speakers.|sd
 A|And people don't realize how different some of the languages they speak are.|sd
@@ -137,29 +137,29 @@ A|well you,|%
 B|I got my certification.|sd
 B|But actually they did not teach us very many things about how really to go about helping people to learn another language|sd
 A|That's, that's been my impression.|sd
-B|I mean, it's like people don't know,  what they say, |sd
-A| Yeah.|aa
+B|I mean, it's like people don't know,  what they say,|sd
+A|Yeah.|aa
 A|It's, it's  not, they're not withholding information,|sd
 B|it's not step for step.|sd
 A|they just don't have that information.|sd
 B|Yeah|b
-A| They, they haven't the foggiest idea. |sd
-B| But anyway, I enjoy it.|sd
+A|They, they haven't the foggiest idea.|sd
+B|But anyway, I enjoy it.|sd
 B|They,  they,|%
 B|the kids I've worked with so far have been Spanish speaking.|sd
 A|Yes.|b
 B|And|%
-A| And Spanish is,  pretty close to English, really.|sv
-B| but I'm applying  for,|sd
+A|And Spanish is,  pretty close to English, really.|sv
+B|but I'm applying  for,|sd
 B|What?|br
 B|Yeah,|aa
 B|it is.|sv
 A|And Spanish is a lot like English.|sv
 B|A lot of our words are the same,|sv
-A| Yeah. |b
-B| like,  you know,  they just  change the pronunciation a little bit.|sv
-A| Yeah,|aa
-A|yeah. |aa
+A|Yeah.|b
+B|like,  you know,  they just  change the pronunciation a little bit.|sv
+A|Yeah,|aa
+A|yeah.|aa
 A|Yeah.|b
 B|But, I love it.|sd
 B|I love the culture, uh, the way that they, uh, they respect education and their teachers their parents, so much more than, than my children do. You know,|sd
@@ -171,9 +171,9 @@ B|and I like it.|sd
 B|And what I've been thinking about doing is volunteering for this, uh, Asian center that, a Doctor Falk has started, that works with the school district.|sd
 A|Uh-huh.|b
 B|And doing what, trying to get them set up, inculturated,  into  the system.|sd
-A| Uh-huh. |b
-A| Uh-huh. |b
-B| I  thought that would be good experience for me.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|I  thought that would be good experience for me.|sd
 A|Oh, I'm sure it would.|sv
 B|And, I've applied at another district where many of the children are Asian.|sd
 A|Uh-huh,|b
@@ -202,13 +202,13 @@ A|uh-huh.|b
 B|And he spends,|sd
 B|well, right now, he's down to like once a week,|sd
 B|but he was going over there several times a week to be with the family,  and  help them with the language.|sd
-A| Uh-huh. |b
+A|Uh-huh.|b
 B|And he thoroughly enjoyed it.|sd
 A|Oh, yeah.|b
 A|I, I think it's a wonderful thing to do.|sv
 A|And there's a lot, there's a lot more,|sv
 A|I guess another possible solution is, since taxpayers aren't going to start paying more money for this and, and other budgets aren't going to be cut to pay for it, uh,  more  of the volunteer network service.|sv
-B| No. |aa
+B|No.|aa
 A|Because everyone gains from it.|sv
 B|Uh-huh.|b
 A|Would be,|%
@@ -218,7 +218,7 @@ A|Uh, and if it's, you know, uh, just people helping people I think makes, makes
 B|Uh-huh.|b
 B|What's so sad about this is both of the, the man and the woman had a degree having to do with computers|sd
 B|but,  their  training isn't what we need in this country.|sd
-A| Uh-huh. |b
+A|Uh-huh.|b
 A|Yes.|b
 B|And because they're so deficient in English, they haven't been able to get jobs.|sd
 A|Uh-huh,|b

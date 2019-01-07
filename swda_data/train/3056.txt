@@ -76,11 +76,11 @@ A|On that same topic, have you ever read anything about, you know, the Amelia Ea
 B|Uh, no,|nn
 B|I have not.|sd
 A|I, I think that would be,|sv
-A|I am sure there is something out there, uh,  , |sv
-B| Yeah,|b
+A|I am sure there is something out there, uh,  ,|sv
+B|Yeah,|b
 B|I would  I would like to, too,|sd
-B|because it's a lot of things coming up here lately about her, you know, possibilities of of where she  , |sd
-A| I thought she  was a prisoner of war or something for like ten years.|sd
+B|because it's a lot of things coming up here lately about her, you know, possibilities of of where she  ,|sd
+A|I thought she  was a prisoner of war or something for like ten years.|sd
 B|Uh|%
 A|Well whatever, this is one aspect of it.|sd
 B|Yeah.|b
@@ -124,9 +124,9 @@ B|And, uh, so I,|%
 A|That was good, I think.|sv
 A|And, and the other book I am trying to think, you know, like was in the last year|sd
 A|and I think I did read Tom Wolfe and VANITY, uh,|sd
-B| OF THE VANITY , |^2
-A| BON|%
-A| yeah.|aa
+B|OF THE VANITY ,|^2
+A|BON|%
+A|yeah.|aa
 B|I have not read that, although, I have heard it is pretty good.|sd
 A|Uh.|%
 A|Yeah|b

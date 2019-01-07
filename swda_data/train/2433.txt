@@ -193,8 +193,8 @@ B|No,|nn
 B|I like, I liked it because I want to,|sd
 B|it makes me feel better.|sd
 A|That's how I am.|aa
-A| Yeah. |aa
-B| Yeah. |b
+A|Yeah.|aa
+B|Yeah.|b
 A|If I don't do it I just feel like I don't have as much energy.|sd
 B|Uh-huh.|b
 B|And it's real funny because if you, you know,|%

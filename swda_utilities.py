@@ -74,7 +74,6 @@ def process_transcript(transcript, excluded_tags=None, excluded_chars=None):
             if utt.speaker == 'A':
                 # Need to check if we have multiple lines to concatenate
                 if current_a:
-                    #current_a += utt.text
                     current_a = utt.text + " " + current_a
                 else:
                     current_a = utt.text
@@ -124,10 +123,26 @@ def save_data(path, data, verbose=True):
         print("Saved data to file %s." % path)
 
 
-def append_to_file(path, dialogue):
-    with open(path, 'a+') as file:
+def append_to_file(path, dialogue, utterance_only):
+    if utterance_only:
+        path = path + "_text"
+    with open(path + ".txt", 'a+') as file:
         for utterance in dialogue.utterances:
-            file.write(utterance.speaker + "|" + utterance.text + "|" + utterance.da_label + "\n")
+            if utterance_only:
+                file.write(utterance.text.strip() + "\n")
+            else:
+                file.write(utterance.speaker + "|" + utterance.text.strip()+ "|" + utterance.da_label + "\n")
+
+
+def write_to_file(path, dialogue, utterance_only):
+    if utterance_only:
+        path = path + "_text"
+    with open(path + ".txt", 'w+') as file:
+        for utterance in dialogue.utterances:
+            if utterance_only:
+                file.write(utterance.text.strip() + "\n")
+            else:
+                file.write(utterance.speaker + "|" + utterance.text.strip() + "|" + utterance.da_label + "\n")
 
 
 def remove_file(data_dir, file):

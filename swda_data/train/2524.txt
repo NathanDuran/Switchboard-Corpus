@@ -160,5 +160,5 @@ B|well, it's been nice talking to you.|fc
 A|It was nice talking to you too.|fc
 B|Good luck in school.|fc
 A|Thanks.|fc
-B| Bye, bye |fc
-A| Bye, bye. |fc
+B|Bye, bye|fc
+A|Bye, bye.|fc

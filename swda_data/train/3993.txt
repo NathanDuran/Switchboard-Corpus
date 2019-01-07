@@ -63,8 +63,8 @@ B|Oh.|bk
 A|Yeah.|ny
 B|Now what type of woodworking do you do?|qo
 A|Uh, fine furniture.|sd
-B|Oh  do you? |bh
-A| Yeah. |b
+B|Oh  do you?|bh
+A|Yeah.|b
 A|That's why I brought, bought the sprayer is to finish my projects.|sd
 B|Oh.|b
 A|That's my worst, worst part of my woodworking.|sd
@@ -138,8 +138,8 @@ B|I've enjoyed this. Uh,|fc
 B|like I say, I've made a couple of calls to Texas, and just talked to all different kinds of people|fc
 A|Uh-huh.|fc
 B|so I think you'll enjoy doing it.|fc
-A| Yeah. |fc
-B| It's fun. |fc
+A|Yeah.|fc
+B|It's fun.|fc
 A|Sounds fun.|fc
 A|Where do you buy your tole painting paints at around here?|fc
 B|Uh, you know, there's a shop in Roy that I really love.|fc

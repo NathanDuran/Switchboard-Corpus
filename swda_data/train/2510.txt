@@ -4,15 +4,15 @@ B|Yeah,|ny
 B|I have three cats and a dog.|sd
 A|Oh, boy.|ba
 A|Sound like us,|sd
-A| we have, |%
-B| Um, |b
+A|we have,|%
+B|Um,|b
 A|go ahead.|ad
 B|Um, we just got the, the dog less than a year ago|sd
 B|so, he's still a puppy.|sd
 A|Oh, what kind is it?|qw
 B|He's a mixed breed,|sd
 B|he's part Collie, part Shepherd, and part Chow.  More Collie  and Shepherd than Chow,|sd
-A|Oh, so you  , |%
+A|Oh, so you  ,|%
 B|the only Chow he's got is, is his tongue.|sd
 A|Oh, he's got a blue tongue?|qy
 B|Yeah.|ny
@@ -45,8 +45,8 @@ B|um, my husband had originally wanted an|sd
 B|and his brother has an|sd
 B|and he, so far he's bitten ten people.|sd
 A|Oh, man.|ba
-B| So, |%
-A| Goodness. |ba
+B|So,|%
+A|Goodness.|ba
 B|And the people that he got the from, used to have cats|sd
 B|and they no longer have any other cats.|sd
 B|So,|%
@@ -94,8 +94,8 @@ A|he is, he's a big old thing.|sd
 A|And, um, I was concerned about the female mainly,|sd
 A|and as luck had it, uh, she had puppies the same week my daughter was born,|sd
 A|so, it was kind of like, she had her babies and understood about, you know,|sd
-B|About your  baby. |qy^d
-A| yeah, |ny
+B|About your  baby.|qy^d
+A|yeah,|ny
 A|and that,|%
 A|yeah,|ny
 A|I think that really helped and, um, my daughter, you know, since, since she's little has been playing with them|sd
@@ -155,15 +155,15 @@ B|but so far we just|sd
 B|and starting up an an aquarium,|sd
 B|we, we're, thinking about getting a saltwater,|sd
 A|Oh,  yeah|b
-A|they, |%
-B| and they're  so, expensive to start up.|sv
+A|they,|%
+B|and they're  so, expensive to start up.|sv
 A|Yes,|aa
 A|yes,|aa
 A|they are,|aa
-A|and in your, the luck of keeping them alive, through those first, you know, few  days. |sv
+A|and in your, the luck of keeping them alive, through those first, you know, few  days.|sv
 B|Yeah.|b
 B|Yeah.|b
-B| The,  the saltwater fish have so much more color|sv
+B|The,  the saltwater fish have so much more color|sv
 B|and they're so, much more beautiful,|sv
 A|I know they are.|aa
 B|Um, the freshwater tank's just,|%
@@ -200,8 +200,8 @@ B|and then my cats would knock it over.|sd
 A|Yeah.|b
 B|I have to be real careful about where I put things,|sd
 A|Uh-huh.|b
-B|if the cats will, will jump up on things and knock things over all  the time, |sd
-A| Oh, no. |ba
+B|if the cats will, will jump up on things and knock things over all  the time,|sd
+A|Oh, no.|ba
 A|Oh, no.|ba
 B|They're always up where they don't, where they're not supposed to be.|sd
 A|Yes,|b
@@ -291,8 +291,8 @@ B|I've come home many a days from work to find trash all over the kitchen floor.
 A|Oh, I hate that.|sd
 B|And the cat's just looking at me like, sorry.|sd
 A|Yeah,|aa
-A|you  shouldn't have left it there. |^q
-B| I couldn't help myself. |^q
+A|you  shouldn't have left it there.|^q
+B|I couldn't help myself.|^q
 A|I just hate that when she does that,|sd
 A|I just, oh,|%
 A|and she knows it's wrong,|sd

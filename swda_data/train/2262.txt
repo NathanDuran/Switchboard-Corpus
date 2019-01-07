@@ -172,16 +172,16 @@ B|Huh-uh.|b
 B|Huh-uh.|b
 A|And you know that, that is a sign.|sd
 B|Something is coming out,|^2
-B| yeah. |b
-A| Yeah.|aa
-A| And that's, all cars are doing that.|sv
+B|yeah.|b
+A|Yeah.|aa
+A|And that's, all cars are doing that.|sv
 B|Yeah.|b
 A|And it's really polluting the air.|sv
 B|Yeah.|b
 B|If you have to put a price on it. Which is more valuable, life or paying a little more.|qh
 A|Huh-uh.|b
-A|And it's also, it's causing of lot of the real terrible suffering like cancer,  and things, |sv
-B| Huh-uh. |b
+A|And it's also, it's causing of lot of the real terrible suffering like cancer,  and things,|sv
+B|Huh-uh.|b
 B|Huh-uh.|b
 A|We sure wouldn't want, so much more people suffering from that.|sv
 B|Huh-uh.|b
@@ -226,5 +226,5 @@ A|Well, you have a good day.|fc
 B|Well, you, too.|fc
 A|Thank you.|fc
 B|Huh-uh.|fc
-A| Bye-bye. |fc
-B| Bye. |fc
+A|Bye-bye.|fc
+B|Bye.|fc

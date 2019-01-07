@@ -3,8 +3,8 @@ A|Um, I guess what, I guess my task.|sd
 A|I usually ride my bike.|sd
 A|I have, uh, a stationary bike and, uh, a regular bike.|sd
 A|And when I can, I like to ride my regular bike outside, because it's so much nicer.|sd
-A|The stationary bike is, is so, uh,  boring. |sv
-B| Boring. |^2
+A|The stationary bike is, is so, uh,  boring.|sv
+B|Boring.|^2
 A|But I have head phones,|sd
 A|and I, plus I have it, uh, in the living room|sd
 A|so I either watch T V, or we have a fish tank,|sd
@@ -55,8 +55,8 @@ B|And they've got such fantastic equipment in there.|sd
 A|Really?|bh
 A|That's, that's great.|ba
 B|Oh, yeah.|ny
-A| How, |%
-B| And I  love the water aerobics.|sd
+A|How,|%
+B|And I  love the water aerobics.|sd
 B|I love the water aerobics.|sd
 A|Do they have a pool|qy
 A|or what is,|%
@@ -80,12 +80,12 @@ B|Huh-uh.|nn
 B|The only thing that I ever felt was, every time I stop and start going again, because I end up getting two jobs once in a while.|sd
 B|I end up having to quit for a while.|sd
 B|But I get blisters on my toes on the bottom  because,  I really jump a lot.|sd
-A| Oh, wow. |ba
+A|Oh, wow.|ba
 A|Well, that's funny,|ba
 A|I never would have thought of that.|sd
 B|Well, a lot of people wear those little, uh, terry cloth with rubber soles on the bottom. Especially around the pool.|sd
 B|So they just  wear them  right into the pool.|sd
-A| Like  Are they water shoes?|qy
+A|Like  Are they water shoes?|qy
 A|Is that,|%
 B|Yeah.|ny
 B|They're just little terry cloth things you wear for house slippers with rubber, you know, soles, so that, you know,|sd
@@ -94,8 +94,8 @@ A|okay.|bk
 A|Okay,|bk
 A|okay.|bk
 B|no big deal one way or the other.|sv
-A|Huh, that's really  funny |ba
-B| But,  I never think about it until after you go there for about a week, your toes, you start getting blisters anyway.|sd
+A|Huh, that's really  funny|ba
+B|But,  I never think about it until after you go there for about a week, your toes, you start getting blisters anyway.|sd
 B|So no big deal.|sv
 A|Huh, that's,|%
 B|But it's fun.|sd
@@ -128,21 +128,21 @@ B|But the water only comes up basically to your, anywhere from your waist to you
 A|Yeah.|b
 B|So I mean, it's your choice where you want to go,|sd
 B|but,  I enjoyed it  higher.|sd
-A| Did you ever, |%
+A|Did you ever,|%
 A|Well, I'm sorry|fa
 B|That's okay.|bd
 A|Uh, did you ever go to Texins at all when you were working for T I?|qy
-A|Did you  ever try that? |qy
-B| I have a,  I have a bad back,|ng
-B|so I'm very limited what I  do. |sd
-A| Oh,  okay.|bk
+A|Did you  ever try that?|qy
+B|I have a,  I have a bad back,|ng
+B|so I'm very limited what I  do.|sd
+A|Oh,  okay.|bk
 B|It's like I can walk,|sd
-B|but if I walk for more than fifteen minutes it's going to bother  me. |sd
-A| Um. |b
-B|Especially when you're on cement or anything that's hard, |sd
-B|it will bother me. |sd
-A| Then that would,|sv
-A| yeah.|%
+B|but if I walk for more than fifteen minutes it's going to bother  me.|sd
+A|Um.|b
+B|Especially when you're on cement or anything that's hard,|sd
+B|it will bother me.|sd
+A|Then that would,|sv
+A|yeah.|%
 B|it will bother me.|aa
 A|I guess then the water aerobics would be probably the best thing for you, wouldn't it?|qy
 B|Well, that, what pushed me that way though, was basically was the fact that when I went in there, is wasn't for the water aerobics.|arp_nd
@@ -182,14 +182,14 @@ B|And they go over all your health and all your history,|sd
 B|and they show you how, everything to do, and how to do it, and the whole nine yards.|sd
 B|So it became part of the package,|sd
 B|so I went through it.|sd
-B| It worked out well. |sd
-A| But they have packages  where they just offer the exercise program.|qy^d
+B|It worked out well.|sd
+A|But they have packages  where they just offer the exercise program.|qy^d
 A|Is that what you're saying?|qy
 B|Oh, yeah.|ny
 B|You can just go in there and join just like anywhere else too.|sd
 A|I see,|bk
-A| okay. |bk
-B| I just  went and took the, because they were offering it as an opening benefit,|sd
+A|okay.|bk
+B|I just  went and took the, because they were offering it as an opening benefit,|sd
 B|so it was, it's less than what you pay now for going in there, after all this time.|sd
 A|Um.|b
 B|So it's like when I got laid off,|sd
@@ -198,8 +198,8 @@ A|Um.|b
 B|So I get all the same treatment again.|sd
 B|So it's kind of nice.|sd
 A|Wow.|ba
-A| That's, |%
-B| Like I  said, I like it.|sd
+A|That's,|%
+B|Like I  said, I like it.|sd
 B|I like the heat.|sd
 B|I like the,|%
 B|I jump out of the swimming pool,|sd
@@ -223,11 +223,11 @@ B|It's fun.|aa
 B|It's fun.|aa
 B|Uh, I've gotten on the bike.|sd
 B|And they've got, uh, the stepping bike, where you step.|sd
-A| Uh-huh. |b
-B| And I've  enjoyed that, watching how well I can walk up and down stairs.|sd
+A|Uh-huh.|b
+B|And I've  enjoyed that, watching how well I can walk up and down stairs.|sd
 A|That's, you  know,|%
 A|I wanted,  I wanted to get one of those steppers when I bought the bike,|sd
-B| But most of  the others to me are very dull.|sv
+B|But most of  the others to me are very dull.|sv
 A|but I got talked into the bike instead.|sd
 A|And I don't know,|h
 A|I really wanted a stepper.|sd

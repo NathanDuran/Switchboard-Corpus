@@ -29,8 +29,8 @@ B|But I, I've never owned a cat like that.|sd
 B|I've had cats growing up all the time|sd
 B|and you know they are usually either that way with everybody or friendly to everybody|sd
 A|Uh-huh.|b
-A|Huh, that's  interesting. |ba
-B| So,  it's a weird cat|sd
+A|Huh, that's  interesting.|ba
+B|So,  it's a weird cat|sd
 A|Huh. We have a, a mutt.|sd
 B|A mutt.|b^m
 A|Well, we, we named it Hooper because that's where we got it from.|sd
@@ -46,12 +46,12 @@ A|so we went down there and picked it up|sd
 A|and it's been an excellent dog,|sd
 A|but it's my first dog I've had|sd
 A|and we got it because my wife stays here at home  alone  while I go to work|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|so that's mostly why we got it. To keep her company while I am away at work.|sd
 B|So that, is that, is that kind of your child right now?|qy^d
 A|Uh yeah.|ny
-A|Right now  it, it is. |sd
-B| You feel like. |bf
+A|Right now  it, it is.|sd
+B|You feel like.|bf
 A|It's kind of good training.|sd
 A|I mean we have been trying for kids,|sd
 A|but right now we haven't had any,|sd

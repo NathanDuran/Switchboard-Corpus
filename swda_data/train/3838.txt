@@ -11,8 +11,8 @@ A|and I got married there|sd
 A|and we stayed there for a while,|sd
 A|and then, now we're in Iowa|sd
 B|I'm teasing, only because I'm from Indiana.|sd
-A| Oh, really. |bh
-B| I really like,  I like the Midwest.|sd
+A|Oh, really.|bh
+B|I really like,  I like the Midwest.|sd
 A|Oh.|b
 B|But I married a Texan,|sd
 B|and they have a way of dragging you back home.|sv
@@ -61,9 +61,9 @@ B|Uh-huh.|b
 A|I didn't piece it or anything like that|sd
 A|but, uh,|%
 B|But you actually hand quilted it yourself?|qy
-A|Uh-huh, |ny
-A|and, |%
-B| Did,  did you need a loom,|qy
+A|Uh-huh,|ny
+A|and,|%
+B|Did,  did you need a loom,|qy
 B|or were you|qrr
 B|was it small enough that you could just hold it?|qy
 A|Um, I put it on the frame, the quilting frame.|sd

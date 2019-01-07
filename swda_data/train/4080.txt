@@ -20,12 +20,12 @@ B|Yeah.|aa
 B|It is,|sd
 B|but I'm not really from I'm not really from Texas,|sd
 B|I just live down here now.|sd
-B| I've  I've lived down here a couple years.|sd
-A| Oh, you're  just live down there?|br
+B|I've  I've lived down here a couple years.|sd
+A|Oh, you're  just live down there?|br
 A|Yeah.|ny
 B|I'm originally from Colorado,|sd
-B|but  yeah |%
-A| Oh well. |b
+B|but  yeah|%
+A|Oh well.|b
 B|there, uh, there, uh there's a lot of hunters here.|sd
 A|Yeah,|b
 A|well I know how you feel.|sv
@@ -77,8 +77,8 @@ B|Uh, I haven't had a chance to do any hunting since I've been down here.|ng
 B|I don't own a shotgun,|sd
 B|but I'd like to go bird hunting.|sd
 A|Yeah.|b
-A| You know  that's something I miss quite a bit.|sd
-B| So. |%
+A|You know  that's something I miss quite a bit.|sd
+B|So.|%
 B|Yeah,|b
 B|uh, when I was in Colorado we went deer and elk hunting you, you know, quite a bit|sd
 A|Yeah.|b
@@ -100,7 +100,7 @@ A|but, uh,|%
 B|I mean, if they can anyway get it, keep criminals from having guns which they can't|sv
 A|Yeah.|b
 B|I, you know,  I'm not  for it.|sd
-A| Yeah,|b
+A|Yeah,|b
 A|if there's  if there's a way, you know, to limited it to people that, I don't know that|sd
 A|they, I guess they passed a couple of, uh, uh, laws a here while back in some states in terms of a waiting period where you know you go to buy a hand gun|sd
 B|Uh-huh.|b

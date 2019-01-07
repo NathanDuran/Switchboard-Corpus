@@ -49,8 +49,8 @@ A|I liked the hills and the trees,|sd
 B|Yeah,|b
 B|in|%
 B|Yeah,|b
-B|it's really different because that's kind of the, you know, that's the chalk hills down there,  limestone hills, |sv
-A| Oh, and you've always,  lived in Texas, have you?|qy
+B|it's really different because that's kind of the, you know, that's the chalk hills down there,  limestone hills,|sv
+A|Oh, and you've always,  lived in Texas, have you?|qy
 B|Yeah,|ny
 B|except for time in service.|sd
 A|Uh-huh.|b

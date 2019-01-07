@@ -48,7 +48,7 @@ A|Well, uh, you like to eat them after you catch them?|qy
 B|Well, yeah,|ny
 B|sure.|sd
 A|Because there's are a lot of people that like to go fishing,|sv
-B| Well |%
+B|Well|%
 B|Yeah.|b
 B|Most of the time, uh, if we catch something, we'll take it home and eat it.|sd
 B|Uh, and you're right.|aa
@@ -60,8 +60,8 @@ A|I know.|ba
 B|Yeah.|b
 B|Well, uh, so, do you just, uh, uh, skin your catfish|qy
 B|or do you fillet them out,|qrr
-B|how  do you, how do you, |qw
-A| We, uh,  skin them.|sd
+B|how  do you, how do you,|qw
+A|We, uh,  skin them.|sd
 B|Do you?|^g
 A|Yeah.|ny
 B|Okay.|bk

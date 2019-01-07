@@ -2,7 +2,7 @@ A|Budgeting activity in our household I, has is, uh, uh, kind of an informal kin
 A|We, we, you know, put,|sd
 A|actually what happens is, uh, is, my check gets automatically deposited.|sd
 A|I don't even have the glories of bringing home my check anymore.|sd
-A| It just gets deposited.|sd
+A|It just gets deposited.|sd
 A|And,  and, and my, my wife, you know, you know, looks at all those bills that come in|sd
 A|and, you know, and all those people are counting on me to have my wife pay them. You see,|sd
 A|and so our, our budgeting,|sd
@@ -33,12 +33,12 @@ B|Once, once I got them all through college, uh, it came to the point where, uh,
 B|my parents came through the depression.|sd
 B|I'm not sure how old you are.|sd
 A|Well, my, you know, my, my parents too.|sd
-A| You, you  you were born in, in the, in the late thirties or  early forties. |qy^d
-B| But my, |%
-B| Late thirties,|sd
-B|yeah. |%
-B| Uh-huh. |%
-A| Yeah. |b
+A|You, you  you were born in, in the, in the late thirties or  early forties.|qy^d
+B|But my,|%
+B|Late thirties,|sd
+B|yeah.|%
+B|Uh-huh.|%
+A|Yeah.|b
 B|And, uh, my mother hardly ever spent anything on herself or on the house.|sd
 B|And that's kind of the way I was raised.|sd
 B|And so I'm not a very demanding person in, in that aspect.|sd
@@ -53,11 +53,11 @@ B|It,|%
 B|and you know, if, if something goes on sale and I don't have the money, I still don't buy it.|sd
 A|Well, we, we buy what, well,|sd
 A|we just got through buying a twenty-five foot refrigerator, a new ceramic top stove, and a new dishwasher.|sd
-B|Oh my  |ba
-A| And, and we put  twenty-eight hundred dollars on the charge. Along with my trip to Japan which was, was fourteen or fifteen hundred dollars |sd
+B|Oh my|ba
+A|And, and we put  twenty-eight hundred dollars on the charge. Along with my trip to Japan which was, was fourteen or fifteen hundred dollars|sd
 B|Oh my!|ba
-A|and you know. |%
-B| Oh my. |ba
+A|and you know.|%
+B|Oh my.|ba
 A|Right.|aa
 A|I mean, we just, we got a monster, you know, bill coming in.|sd
 A|But, but we also have zero interest being paid.|sd
@@ -77,13 +77,13 @@ A|this is our, our, our big, uh,|sd
 A|we did redecorating.|sd
 A|Two, you know, two new pieces in the in the family room and new carpet.|sd
 A|I mean  we just  uh, we've just been spending, spending, spending.|sd
-B| Oh my. |ba
+B|Oh my.|ba
 B|I'm envious|sd
-B| Well I, |%
-A| but we haven't  really done anything for a long time because we've, we've had two kids in college that just have graduated in the past year.|sd
+B|Well I,|%
+A|but we haven't  really done anything for a long time because we've, we've had two kids in college that just have graduated in the past year.|sd
 B|Uh-huh.|b
-A|So we're, you know,  we don't have that. |sd
-B| It's time  for you to do these things then. Right?|qy
+A|So we're, you know,  we don't have that.|sd
+B|It's time  for you to do these things then. Right?|qy
 A|Yeah,|ny
 A|it's, uh, it's about time that we did that.|sd
 A|and it all looks still pretty good to me.|sd
@@ -94,9 +94,9 @@ A|why not replace it.|^q
 A|I mean, uh, I say it might go for another thirteen|sd
 A|but, uh, too late, we'll never find that out.|sd
 B|This is so funny.|ba
-B|That's wonderful. |ba
+B|That's wonderful.|ba
 B|But  you're lucky to have her because if you're like me and you have difficulty spending money, you need somebody to help you spend it.|sv
-A| And, |%
+A|And,|%
 B|I mean, certain things really do need to be done whether or not you think they should, be or not|sv
 A|You know, I, I, I don't spend that much money.|sd
 A|I just, uh, we just sort of have had, uh, you know, too many obligations to, you know,|sd

@@ -7,8 +7,8 @@ A|I don't watch much T V.|sd
 A|Sometimes, um, usually the reason I will turn it on is to hear the news.|sd
 B|The news,|b^m
 B|yeah.|b
-A|But I don't think of that every day,  even. |sd
-B| Uh-huh. |b
+A|But I don't think of that every day,  even.|sd
+B|Uh-huh.|b
 A|Um, I think I get most of my current events,|sd
 A|well, I get them from everywhere.|sd
 A|I sometimes watch T V if I,|sd
@@ -79,8 +79,8 @@ A|I've heard through the grapevine sometimes that there's been an earthquake or 
 A|and|%
 B|Oh, really?|bh
 A|I don't ever hear it in the news here.|sd
-B| Oh. |b
-A|  Um.|%
+B|Oh.|b
+A|Um.|%
 B|Well, uh, sometimes it's such a,|%
 B|you know, it's, it's so, um, slight, you know like the tremors are so slight that they don't even bother putting it in the paper.|sv
 A|Yeah.|b
@@ -91,7 +91,7 @@ B|But, uh.|%
 A|yeah,|b
 A|yeah.|b
 A|I sometimes feel like, um, the Dallas paper and the DALLAS NEWS, um, the top headlines are always a murder, you know.|sv
-B|Oh, well.  That's what sells papers. |sv
+B|Oh, well.  That's what sells papers.|sv
 A|That  that's because there's a high  crime rate.|sv
 A|Yeah.|b
 A|Yeah.|b
@@ -119,15 +119,15 @@ B|Sometimes you don't even want to be bothered with the news because it's all so
 A|Yeah|b
 B|It's all so negative, you know.|sv
 A|Yeah,|b
-A| often times. |sv
-B| But. |%
+A|often times.|sv
+B|But.|%
 A|So. Yeah.|b
 B|Well, we have to keep talking, I guess|sv
 A|Well, no,|ar
 A|I guess we can end.|sv
-B| Oh. |b
-A| Yeah,|b
-A| it's just whenever we're, um.|sv
+B|Oh.|b
+A|Yeah,|b
+A|it's just whenever we're, um.|sv
 B|Oh, is it really?|bh
 A|Yeah.|ny
 A|Have you always gone until the recording?|qy

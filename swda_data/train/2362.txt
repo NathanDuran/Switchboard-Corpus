@@ -171,8 +171,8 @@ B|Uh-huh.|b
 B|Yeah.|b
 A|So,|%
 B|Yeah.|b
-A| Well, |%
-B| Well, |%
+A|Well,|%
+B|Well,|%
 A|I don't know.|h
 A|What can we do about it?|bh
 B|good question|ba

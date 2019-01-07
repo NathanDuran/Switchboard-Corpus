@@ -105,8 +105,8 @@ B|Yeah,|b
 B|oh, my husband doesn't like them either,|sd
 B|but I can always give them away.|sd
 A|Well, that's kind of the way I am, um.|sd
-B| Besides they're fun to grow. |sv
-A| I planted, uh, zucchini  last year.|sd
+B|Besides they're fun to grow.|sv
+A|I planted, uh, zucchini  last year.|sd
 A|Uh, I planted four hills of them.|sd
 A|I think I had three or four seeds in each one of them,|sd
 A|and those things just flat took over.|sd
@@ -134,8 +134,8 @@ B|About the same time that you plant okra because it's supposed to be warm.|sd
 A|Well, that's true.|aa
 A|Most of the okra that is growing around higher is, is, uh, later okra.|sd
 B|Yeah.|b
-A| Well that's about, um, |sd
-B| We decided this year, |sd
+A|Well that's about, um,|sd
+B|We decided this year,|sd
 A|Go ahead.|ad
 B|I'm sorry,|fa
 B|go ahead.|ad
@@ -145,11 +145,11 @@ A|that would be fine.|ad
 B|Oh, just any time.|sd
 A|Well, all right.|aa
 A|I guess we'll call this one quits|sd
-A|an, and  thanks for participating. |ft
-B| All right.|aa
-B|Well, I've enjoyed talking to you. |fc
+A|an, and  thanks for participating.|ft
+B|All right.|aa
+B|Well, I've enjoyed talking to you.|fc
 A|All right,|fc
 A|have a good time.|fc
-B| Okay.|fc
-B|Bye. |fc
-A| Bye. |fc
+B|Okay.|fc
+B|Bye.|fc
+A|Bye.|fc

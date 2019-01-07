@@ -32,8 +32,8 @@ A|I am.|sd
 A|I, I have a Suzuki motorcycle|sd
 A|and, and I've had motorcycles, Japanese motorcycles for years and years|sd
 A|and the metric system comes easy to me.|sd
-A| But my  ...|%
-B| I think  it's interesting you you know, when you go out there|sv
+A|But my  ...|%
+B|I think  it's interesting you you know, when you go out there|sv
 B|and you're looking for a wrench|sv
 B|and you want the next size larger.|sv
 B|I've got, I inherited some, some stuff like fifteen thirty seconds.|sd
@@ -56,17 +56,17 @@ B|do you, do you drink adult beverages?|qy
 A|Yeah,|ny
 A|I drink beer.|sd
 B|have you noticed that, um, that a lot of the, um,  a lot of  ...|qy
-A| Yeah,|ny
+A|Yeah,|ny
 A|whiskey  is in liters.|^2
 B|Yes.|aa
 A|And, and the next,|%
 A|yeah,|%
 A|point seven five liters and then liters and then one point seven  five liters,|sd
-A|yeah. |%
-B| It's like a fifth,  like fifths of whiskey I thought was always kind of strange.|sd
+A|yeah.|%
+B|It's like a fifth,  like fifths of whiskey I thought was always kind of strange.|sd
 A|Yeah.|b
-B|What's a fifth of whiskey?  |qh
-A| Yeah.|aa
+B|What's a fifth of whiskey?|qh
+A|Yeah.|aa
 A|I, I always  wondered about that myself.|sd
 B|It was a marketing ploy.|sv
 A|And, and they had quarts at the same time though.|sd
@@ -79,11 +79,11 @@ A|It's ...|%
 B|But it's like, you know, the, the, the, the soda and this kind of things coming in one liter bottles|sd
 A|Liters.|^2
 B|and, um, I, I think it's kind of generational.|sv
-A| Yeah.|b
+A|Yeah.|b
 A|It, it's,  like I say, I work in a machine shop|sd
 A|and, uh, everything's still inches.|sd
-A| Everything's  still fractions of inches,  or or tenths  or thousandths, or, or ...|sd
-B| Yeah.|aa
+A|Everything's  still fractions of inches,  or or tenths  or thousandths, or, or ...|sd
+B|Yeah.|aa
 B|It's, it's hard to think  though.|sv
 A|Yes.|aa
 A|it is a mental thing.|sv
@@ -118,16 +118,16 @@ A|and one of them was metric.|sd
 B|Now that's strange.|ba
 A|And, uh, you go from the, uh, water pump up to the radiator|sd
 A|and on the water pump, it was all metric.|sd
-A|And, and on, you know, the factory fittings,  you know, the factory, uh  screw lock uh, uh, radiator  hose clamps. |sd
-B| Yeah.|b
-B|Uh-huh. |b
+A|And, and on, you know, the factory fittings,  you know, the factory, uh  screw lock uh, uh, radiator  hose clamps.|sd
 B|Yeah.|b
-B| Essentially  they do that though|sv
+B|Uh-huh.|b
+B|Yeah.|b
+B|Essentially  they do that though|sv
 B|because if, if you look at General Motors, the size|sv
 B|and, and, and of course, Ford and Chrysler.|sv
 B|If they all went, if they all went metric,|%
 B|but in a sense, um, you know, it's like when a measurement though, when, when you put, uh, you know, one point four three two inches, when you're milling something,  uh  you simply set your, uh, equipment,|sv
-A| Yeah. |b
+A|Yeah.|b
 B|or, or you or you got your calipers there|sv
 B|and, and you measure, you know,|sv
 B|you mic it to see if it's accurate|sv
@@ -189,8 +189,8 @@ B|Yeah.|ny
 B|And, and then, but then the medicine.|sd
 B|And, and some of these other things|sd
 B|and, and the chemistry in those kinds of areas,|sd
-B| milliliter. |sd
-A| It's all metric  all ready.|qy^d
+B|milliliter.|sd
+A|It's all metric  all ready.|qy^d
 B|Yeah.|ny
 B|And, and so, um, but, but when you go to order a drink, um, you know. say, they, they, I don't know, it's uh ...|sd
 A|And what will a shot be?|qw
@@ -198,8 +198,8 @@ A|Will a shot be an ounce?|qy
 B|I don't know.|no
 B|And, and, but, you know, when you go to the store and, and you're trying to figure, you know, well this box is, is, uh, is, is twelve ounces|sv
 B|and, and this one's, uh, uh, three pounds, um,|^q
-B| and you  ...|%
-A| And the  other one's two point one kis,|sv
+B|and you  ...|%
+A|And the  other one's two point one kis,|sv
 A|and, and you're, you're lost.|sv
 B|That's right.|aa
 B|And, and I don't know.|h
@@ -247,6 +247,6 @@ B|Yeah.|aa
 B|And, and what, but the thing is then you've got to with screws|sv
 B|and that's the other issue.  Uh,|sv
 B|the pitch and  ...|sv
-A| Yeah,|aa
+A|Yeah,|aa
 A|yeah.|aa
-A|Well and thread, |sv
+A|Well and thread,|sv

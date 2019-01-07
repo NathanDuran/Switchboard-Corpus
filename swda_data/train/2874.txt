@@ -81,8 +81,8 @@ A|there's a college across the street|sd
 B|Yeah.|b
 A|and they,|%
 A|it's, it's full of carp and, uh, I caught a carp on a, about, what size is that, uh, I think it was a number two treble hook,|sd
-B| Um. |b
-A| and  it's huge,|sd
+B|Um.|b
+A|and  it's huge,|sd
 A|its, its mouth was full of hooks.|sd
 B|Wow.|ba
 A|So he was in a bad way.|sd
@@ -104,8 +104,8 @@ A|and I thought, you know, that, uh, I wasn't going to be able to get it in, bec
 A|so it wasn't hooked very well.|sd
 A|But, you know, I got it that far,|sd
 A|I figured that, uh,|%
-B| That, that, that counts. |bf
-A| Yeah,|aa
+B|That, that, that counts.|bf
+A|Yeah,|aa
 A|that's what I  said.|sd
 A|That's what I told the guy.|sd
 A|The guy was standing there|sd
@@ -124,8 +124,8 @@ A|and my uncle has a, a pond upstream|sd
 A|and there's a lot of crappie in there now.|sd
 A|But, uh, I think he's the only one that's, that's caught enough crappie or, a big enough crappie to eat.|sd
 A|But the catfish, there's, you know, there's hundreds of them from like two to six pounds and,  that,|sd
-A|yeah. |ny
-B| Right,|b
+A|yeah.|ny
+B|Right,|b
 B|so  you can just, oh,|%
 B|because I don't actually like fish.|sd
 B|It's sort of,|%

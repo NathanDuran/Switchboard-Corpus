@@ -22,15 +22,15 @@ B|I mean, I feel like if, I, I don't necessarily need to, uh, be involved since 
 B|you are, you are right there.|sv
 B|You know, I'm pretty much on a low level as far as, uh, the company is concerned.|sd
 B|But I, I do kind of like to know what's going on and what's happening|sd
-B|and I think I can be a better and more effective employee  if, if I  had a little bit more information  along that line. |sd
-A| Well,|%
+B|and I think I can be a better and more effective employee  if, if I  had a little bit more information  along that line.|sd
+A|Well,|%
 A|I   I well  I work for the government|sd
 A|and, uh, actually I work for the F B I.|sd
 B|Oh, my gosh.|ba
 A|And, uh, and so, you know, we, we don't, there's lots of things that we don't get told. For good reason.|sd
 A|But, uh, but basically, uh, there's lots of things that, that we should know about projects.|sd
-A|I'm an engineer.  You know. |sd
-B| Uh-huh. |b
+A|I'm an engineer.  You know.|sd
+B|Uh-huh.|b
 A|I'm, I'm a COTR.|sd
 A|And|%
 A|and I, I worked in the same lab with a guy|sd
@@ -38,8 +38,8 @@ A|and we didn't really know that much about each other's projects for two years.
 A|And we should have,|sd
 A|you know, we're, we're now collaborating.|sd
 B|Oh.|%
-A| And |%
-B| And it, it , |%
+A|And|%
+B|And it, it ,|%
 A|for two years we didn't. And, we, which was a, kind of stupid.|sd
 A|But, uh, but our organization is doing something else on Monday.|sd
 A|Uh, we're having a, for all unclassified programs, we're, we're having little tables put up in front of lab in the hallways|sd
@@ -65,9 +65,9 @@ B|Uh-huh.|b
 A|and pretty soon somebody falls off.|sv
 A|I, I've fallen off twice in the private sector.|sd
 B|Oh.|%
-A|And, uh, and,  you know, I can get up, |sd
-B| I know.|aa
-B| It, it seems to be, be kind of, kind of scary, you know. Because you think of,|sv
+A|And, uh, and,  you know, I can get up,|sd
+B|I know.|aa
+B|It, it seems to be, be kind of, kind of scary, you know. Because you think of,|sv
 B|uh, see my son's eighteen right now|sd
 B|and he, he's, uh, he wants to go into engineering.|sd
 B|And the, the, the branches of engineering that he wants to go into is now kind of open|sd
@@ -75,13 +75,13 @@ B|and he's interested in, basically, three different areas.|sd
 B|But, uh, it's difficult for me to try to give him any kind of advice or to advise him or anything like that.|sd
 B|He needs to do his own course of investigation and, and see what he can do because who knows what's going to happen in another thirty years.|sd
 A|Uh-huh.|b
-A| Yeah. |b
-B| And  in thirty years it becomes pretty critical.|sv
+A|Yeah.|b
+B|And  in thirty years it becomes pretty critical.|sv
 B|I mean, my, uh, brother-in-law is like, uh, I mean he's sixty.|sd
 B|He's not ready to retire|sd
 B|but his company is, is, uh, is, uh, closing up.|sd
 A|Uh-huh.|b
-B|And because of the defense cutbacks and all that kind of stuff. And all the nuclear and stuff which is what he, what he was working on. He's getting cut back |sd
-B|and he's not ready to retire |sd
-A| Yeah,|b
-A|he may be retired. |bf
+B|And because of the defense cutbacks and all that kind of stuff. And all the nuclear and stuff which is what he, what he was working on. He's getting cut back|sd
+B|and he's not ready to retire|sd
+A|Yeah,|b
+A|he may be retired.|bf

@@ -12,8 +12,8 @@ B|it seems like a, a big thing for Christmas is usually ham.|sv
 A|Well, funny you should mention that.|sd
 A|I'm a pig farmer|sd
 B|Oh, you are|bh
-A| Yeah. |ny
-B| huh. |b
+A|Yeah.|ny
+B|huh.|b
 A|Well, now, it's kind of a hobby more than anything else,|sd
 A|but we're going to have, uh, wild boar|sd
 B|My goodness.|ba
@@ -41,15 +41,15 @@ A|they go, you know,|sd
 A|in a second they're gone|sd
 B|Oh.|b
 A|and then you just dip the carcass in, uh, boiling water, pull it out, and there's a, we use a little raspy brush, pulls the hair off, and, uh, gut it, and, uh, just stick it down in a pit with some cloves and, uh, some pineapple, about three pineapples, you know, sliced them up, and, uh, cover him up with, uh, wet, uh, sacks, feed sacks is what I usually use *more than one utt??  and then  start a charcoal fire on top of him.|sd
-B| Huh. |b
+B|Huh.|b
 B|Oh, my goodness.|ba
 A|And after about six hours, you put the fire out and dig that baby out of there,|sd
 A|and it's the best eating you ever had.|sd
 B|Oh, well, does a boar taste just like regular ham?|qy
 A|Yep,|ny
 A|just like a pig|sd
-B| Does it. |bh
-A| I mean,  you know, uh, it has a lot less fat.|sd
+B|Does it.|bh
+A|I mean,  you know, uh, it has a lot less fat.|sd
 B|Huh.|b
 A|This wild boar weighed probably about three hundred and thirty pounds|sd
 B|Oh my.|ba
@@ -58,9 +58,9 @@ B|Oh, my goodness.|ba
 A|Well, you know, we took the skin and the head and the and the feet off,|sd
 A|and that was about, you know, a hundred, hundred pounds of just ham.|sd
 B|Oh, well, how many people are you planning on serving at Christmas?|qw
-A|Oh, well, we're, you know, we're not going to eat the  whole thing |sd
-B| Eat it all,|b^m
-B|yeah |b
+A|Oh, well, we're, you know, we're not going to eat the  whole thing|sd
+B|Eat it all,|b^m
+B|yeah|b
 A|It would take a year.|sd
 A|But, uh, you know, we're going to drive up to Kansas City, see my wife's folks,|sd
 A|and, uh, she, she,|%
@@ -75,9 +75,9 @@ B|Huh.|b
 A|It's just tough as a boot|sd
 B|Oh.|b
 A|and, uh, you know, they used to use it for leather, I think|sd
-B| Oh, my goodness. |ba
-A| I mean, no,|ar
-A| I was kidding.|sd
+B|Oh, my goodness.|ba
+A|I mean, no,|ar
+A|I was kidding.|sd
 B|Yeah.|b
 A|But, uh, it's, it's a part of the loin, you know, the rib cage,|sd
 A|and it has a lot of muscle in it and a lot of, gristle where it attaches to the ribs,|sd
@@ -109,8 +109,8 @@ A|there's nothing between you and us but our barb wire, and half of that's down.
 A|I mean it's thirty degrees this morning.|sd
 B|Oh, really.|bh
 A|Yeah.|ny
-B| Huh. |b
-A| But, uh,  it'll go up to fifty or sixty almost.|sd
+B|Huh.|b
+A|But, uh,  it'll go up to fifty or sixty almost.|sd
 B|Oh, my goodness.|ba
 B|I didn't know it got that low at night.|sd
 A|Oh, yeah.|aa

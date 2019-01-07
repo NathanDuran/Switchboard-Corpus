@@ -1,6 +1,6 @@
 A|We could talk about my favorite subject|oo_co_cc
-B|Cooking and  food, huh. |qy
-A| Food |arp_nd
+B|Cooking and  food, huh.|qy
+A|Food|arp_nd
 B|What do you like to cook?|qo
 A|Uh, I don't cook a lot actually.|sd
 A|I have just started baking,|sd
@@ -37,7 +37,7 @@ A|Uh-huh.|b
 B|That is|%
 B|seems like every time that we have a dinner party, or that we are going some place where everybody is suppose to bring something and they have had my rolls before.  They  always ask me to, bring those rolls|sd
 A|Uh-huh.|b
-A| They request it. |^2
+A|They request it.|^2
 A|I have not gotten any requests yet.|sd
 A|Last year, I had a Christmas party, at, uh, my office,|sd
 A|and I, uh, made the tuna fish sandwiches.|sd
@@ -56,8 +56,8 @@ B|Oh, how funny.|ba
 A|And so, but everyone really, really loved the tuna fish|sd
 A|and they just couldn't get over the fact that I used celery in it|sd
 A|and it just surprised me.|sd
-A| Celery and onion and, |sd
-B| Well, see I,  I have always used celery, I mean, I have used celery before.|sd
+A|Celery and onion and,|sd
+B|Well, see I,  I have always used celery, I mean, I have used celery before.|sd
 A|Uh-huh.|b
 B|But I never used the celery seed in it.|sd
 A|Oh.|b
@@ -90,12 +90,12 @@ B|So you, You, you use bell pepper and onion and celery seed.|bf
 A|Uh, strange.|ba
 A|Celery seed.|^2
 B|I will have to try that.|sd
-A|Do you use a regular mayonnaise or,  The Miracle Whip. |qy
+A|Do you use a regular mayonnaise or,  The Miracle Whip.|qy
 B|Sometimes I do|sd
-B|and sometimes I use the  Miracle Whip. |sd
+B|and sometimes I use the  Miracle Whip.|sd
 B|It depends on what I have.|sd
-A| Yeah. |b
-B| And  sometimes, if I am using, like, regular mayonnaise, to spice it up a little bit uh, I will use a little bit of mustard with it.|sd
+A|Yeah.|b
+B|And  sometimes, if I am using, like, regular mayonnaise, to spice it up a little bit uh, I will use a little bit of mustard with it.|sd
 A|Uh-huh.|b
 A|Yeah.|b
 A|I do that also.|sd
@@ -148,7 +148,7 @@ A|Uh.|b
 B|and you put, uh, line the whole pie crust with that|sd
 A|Uh-huh.|b
 B|and so, it is sort of like in a way. Uh, using cheese  cake,|sd
-A| Uh. |b
-B| but, and it is not a real cheese  cake|sd
-B|and then you, |%
-A| And just put the strawberries, |qy^d
+A|Uh.|b
+B|but, and it is not a real cheese  cake|sd
+B|and then you,|%
+A|And just put the strawberries,|qy^d

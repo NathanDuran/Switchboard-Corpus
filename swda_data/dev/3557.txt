@@ -17,10 +17,10 @@ A|Yeah,|b
 A|they say a million people are infected with the H I V virus,|sv
 B|Uh-huh.|b
 A|and, uh,  yeah,|%
-A|I think, |sv
-B| That's in the world,  or  in America?|qy
-B|You, |%
-A| Uh, in the country, America. |sd
+A|I think,|sv
+B|That's in the world,  or  in America?|qy
+B|You,|%
+A|Uh, in the country, America.|sd
 B|Oh, really?|bh
 A|Yeah|ny
 B|Um, that's,|%

@@ -4,7 +4,7 @@ B|Uh-huh.|b
 A|We've even seen people with these campers|sd
 A|and they got the big old antennas up so they can watch their T V when they're going.|sd
 B|Right or  their  satellite dish|aa
-A| That's not, |%
+A|That's not,|%
 A|Yeah|b
 A|A satellite dish?|qy
 B|On top of the recreational vehicles.|sd
@@ -20,8 +20,8 @@ A|Well, so do we.|sd
 A|In fact, when we first got married, we would try to take these trips to Minnesota to see his family|sd
 B|Uh-huh.|b
 A|and we didn't have a tent or any camping supplies|sd
-A|so we'd sleep on those picnic tables at  roadside parks. |sd
-B| Oh no. |ba
+A|so we'd sleep on those picnic tables at  roadside parks.|sd
+B|Oh no.|ba
 A|I mean, I know it's dangerous,|sd
 A|I wouldn't do it now|sd
 A|but we did|sd
@@ -30,7 +30,7 @@ A|and we were doing the same thing.|sd
 A|We couldn't find a place to camp|sd
 A|and so we were on top of a picnic table with our, our sleeping bags I guess.|sd
 A|And this ranger comes up with this light, shines it on us and said that we're just bear bait out there. We had our  food  you know. and told us to get inside our car.|sd
-B| Oh. |b
+B|Oh.|b
 B|Uh-huh.|b
 B|Gosh. Bear bait|b^m
 A|Bear bait.|b
@@ -53,8 +53,8 @@ A|but we've got the fans going.|sd
 B|Right|b
 A|So we're not roughing it too much.|sd
 B|Yeah.|b
-A|And we have taken T V out there for the kids  |sd
-B| Yeah. |b
+A|And we have taken T V out there for the kids|sd
+B|Yeah.|b
 A|And they've got their electrical hookups.|sd
 A|So it's not so bad.|ba
 B|Yeah.|b
@@ -64,16 +64,16 @@ A|I think the longest we've stayed out there is like five days.|sd
 B|Uh-huh.|b
 A|And they even, they had a library at one time out there.|sd
 B|Oh.|b
-A|So that's really not roughing it so much |bf
+A|So that's really not roughing it so much|bf
 A|but  we have gone on trips where we bathed in streams.|sd
-B| Yeah. |ny
+B|Yeah.|ny
 B|Uh-huh.|b
 A|That's kind of different.|ba
 B|Yeah|aa
 B|I like the campgrounds that have a nice shower|sd
 A|And a pool to go to.|sv
-B| Uh-huh. |aa
-A| That would be  nice.|ba
+B|Uh-huh.|aa
+A|That would be  nice.|ba
 B|Yeah.|aa
 B|We've, uh, we camped at the DeGray State Park in Arkansas. In the Fall|sd
 A|Uh-huh.|b
@@ -81,9 +81,9 @@ B|and there was nobody else, hardly, around|sd
 B|and it was just really nice, that time of year.|sd
 B|We had taken our electric, blanket too, just in case it was unbearable|sd
 B|but we didn't need it|sd
-B| Yeah . |fo_o_fw_"_by_bc
-A| Well my  husband has even camped at Lake Lavon  with one of his friends |sd
-B| Oh really? |bh
+B|Yeah .|fo_o_fw_"_by_bc
+A|Well my  husband has even camped at Lake Lavon  with one of his friends|sd
+B|Oh really?|bh
 A|he just decided to take the kids out there.|sd
 B|Yeah.|b
 A|I mean it's not very many miles from our house at all.|sd
@@ -113,14 +113,14 @@ A|we got air mattresses.|sd
 A|We decided that was easier than cots and more comfortable.|sd
 B|Yeah.|aa
 B|Those are nice,|ba
-B|we have one of those,  too. |sd
-A| Yeah.|b
-A| Those double ones?|qy^d
+B|we have one of those,  too.|sd
+A|Yeah.|b
+A|Those double ones?|qy^d
 B|Uh-huh.|ny
 A|Pretty good.|ba
 A|We're on our third one I think.|sd
-A| Somehow, |%
-B| Yeah.|b
+A|Somehow,|%
+B|Yeah.|b
 B|How  do you blow yours up?|qw
 A|We've got an electric pump that hooks into the cigarette lighter.|sd
 B|Oh.|bk
@@ -160,8 +160,8 @@ A|and it came, just a torrential downpour.|sd
 A|We had the steaks on the grill.|sd
 A|These people were with us.|sd
 A|And it, , I mean everything was sopping wet inside the tent.|sd
-A|It was just that  bad, you know |sd
-B| Oh no. |ba
+A|It was just that  bad, you know|sd
+B|Oh no.|ba
 A|And we decided we'd just go across the road to the office and see if we could rent anything.|sd
 B|Uh-huh.|b
 A|So I got a condo with a jacuzzi|sd
@@ -183,7 +183,7 @@ B|No.|nn
 B|It's a little trailer you pull behind your car|sd
 B|and, uh,  you  know, you, the lid pops off,|sd
 A|Oh yeah,|b
-A| yeah. |b
+A|yeah.|b
 B|the little tent comes up the top|sd
 A|Uh-huh.|b
 B|and it had two double beds in it.|sd
@@ -200,7 +200,7 @@ A|And what exactly are they going to do?|qw
 B|Oh, they turn them over to somebody|sd
 B|and they're going to, I guess they're going to try to teach computers how to recognize voices and search for specific words and stuff.|sd
 A|So any voice, no matter what the speech pattern or the  dialect  or anything.|bf
-B| Right. |aa
+B|Right.|aa
 B|Yeah.|aa
 A|Um. I wonder if these are going to be speaking The computers,|qy^d
 B|I don't know.|no
@@ -229,8 +229,8 @@ A|They're plastic|sd
 A|and they've got the elastic on the inside of the poles|sd
 A|and you just put them together.|sd
 B|Oh, uh-huh.|b
-B| That's what we have, too. |sd
-A| And it's a dome tent. |sd
+B|That's what we have, too.|sd
+A|And it's a dome tent.|sd
 B|Yeah,|b
 B|that's what ours is.|sd
 A|That's good isn't it|qy
@@ -251,12 +251,12 @@ B|it, it was in your bed|sd
 A|I've done it in a shelter.|sd
 B|Uh-huh.|b
 A|It was in Padre Island and  in a  truck off Corpus, not, but not in a tent.|sd
-B| Oh. |b
+B|Oh.|b
 B|Uh-huh.|b
 A|Oh well, that's about all .|fc
 B|Okay.|fc
 A|Okay .|fc
 B|Well, it's good talking to you.|fc
 A|Uh-huh.|fc
-B| Bye. |fc
-A| Bye. |fc
+B|Bye.|fc
+A|Bye.|fc

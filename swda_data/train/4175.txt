@@ -133,7 +133,7 @@ B|Really?|bh
 A|Yeah|aa
 B|Huh.|%
 A|it will be whole.|sd
-A|You'll be able to read  off of it. |sd
+A|You'll be able to read  off of it.|sd
 B|I'm  going to switch  from those yellow legal pads, then.|oo_co_cc
 A|Yeah, um.|b
 B|I'm glad you told me that, because I use those at work, where I work|sd
@@ -143,7 +143,7 @@ A|Well, white paper's bad too.|sd
 A|They, they treat it, too.|sd
 B|Well, what about, uh, papyrus, you know, made out of you know, bamboo stuff, from the from the  banks of  the Nile.|qo
 A|I'm sure that's fine.|sd
-A| I'm sure. |sd
+A|I'm sure.|sd
 A|Maybe we ought to just start carving in stone again.|ad
 B|You think so?|bh
 A|Maybe.|no

@@ -301,5 +301,5 @@ A|You have a good day.|fc
 B|Thank you.|fc
 B|Thanks for calling.|fc
 A|Uh-huh.|fc
-B| Bye-bye. |fc
-A| Bye-bye. |fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

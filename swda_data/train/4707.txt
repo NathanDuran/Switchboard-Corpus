@@ -1,6 +1,6 @@
 B|Not very good|fo_o_fw_"_by_bc
-B| it's not been a good day |sd
-A|  I went, I turned mine in about twelve hours early at noon.|sd
+B|it's not been a good day|sd
+A|I went, I turned mine in about twelve hours early at noon.|sd
 B|I don't know.|h
 B|I finished mine up about eleven and left it here with Carolyn|sd
 B|so I hope she's turned it in.|sd
@@ -8,16 +8,16 @@ A|Are you eating?|qy
 B|Uh, I|%
 B|go ahead,|ad
 B|I'll stop eating.|sd
-B| I just barely got  home from the university.|sd
-A| No it's, |%
+B|I just barely got  home from the university.|sd
+A|No it's,|%
 A|Say what?|br
 B|I just barely got home from the university.|sd
 A|Tell you what we can do is, uh, I can punch the, uh, one,|oo_co_cc
-A|and then after five minutes when the, uh, uh, voice comes on, we can talk all night if we want  |oo_co_cc
-B|  Okay,|aa
-B|go ahead, |ad
-B|fire away. |ad
-A|  Uh, I love the irony of, uh, talking about this subject on April the, fifteenth|sd
+A|and then after five minutes when the, uh, uh, voice comes on, we can talk all night if we want|oo_co_cc
+B|Okay,|aa
+B|go ahead,|ad
+B|fire away.|ad
+A|Uh, I love the irony of, uh, talking about this subject on April the, fifteenth|sd
 A|But, uh, I'm afraid I'm, I'm probably in the minority.|sv
 A|I, I actually don't think that we, uh, pay too much in this country. Uh uh, particularly, uh, in this part of the country|sv
 B|I agree with you|aa
@@ -30,9 +30,9 @@ A|and, uh, uh, it's kind of dumb.|sv
 B|I hate the eight and a half percent sales tax.|sd
 B|But, on the other hand, I don't mind that it's only on, you know, things that aren't like groceries and that,|sd
 B|it's not on that.|sd
-A|Well, I mean, nobody taxes  groceries. |sv
-B| Oh, yeah,|ar
-B| they do.|sd
+A|Well, I mean, nobody taxes  groceries.|sv
+B|Oh, yeah,|ar
+B|they do.|sd
 A|Where?|qw
 B|In Arizona.|sd
 A|Is that right?|qy
@@ -54,15 +54,15 @@ B|I was in Germany, you know, for several years|sd
 A|Right.|b
 B|and I'd a lot rather pay taxes here and have what we have, then have to live there.|sv
 A|Oh, you mean, lowest end of living in spite of lower,  higher taxes.|bf
-A|Yeah. |%
-B| Higher taxes.|sd
-B| Yeah.|aa
+A|Yeah.|%
+B|Higher taxes.|sd
+B|Yeah.|aa
 A|I suppose that's true,|sv
 A|yeah.|aa
 A|Uh, probably less so now than it was ten years ago or whatever|sv
 A|but,|%
-B|Still's that  way to some extent. |sv
-A|  Yeah.|b
+B|Still's that  way to some extent.|sv
+A|Yeah.|b
 B|I think the other problem is, you know, it, it's easy to complain about taxes because there's something you, theoretically, can do something about.|sv
 A|Right.|b
 B|But I look, for example,|%
@@ -73,10 +73,10 @@ B|I wish I didn't have to pay any more to my physicians in a year than I had to 
 A|Right.|b
 A|Yeah.|b
 A|Yeah,|b
-A|since, uh, I send my kids to parochial school, that  . |sd
-B| Yeah,|b
+A|since, uh, I send my kids to parochial school, that  .|sd
+B|Yeah,|b
 B|that, that's  probably a little tougher on you|sv
-A|It's not, it's not quite the bargain that  . |aa
+A|It's not, it's not quite the bargain that  .|aa
 A|But, I mean, I pay them gladly.|sd
 A|That's a decision,|sd
 A|I think it's a dumb decision on our part because countries like Canada and England and Germany do perfectly well with a, uh, two tract system in which religious schools coexist with secular schools with the same tax money.|sv
@@ -93,7 +93,7 @@ B|I think that's just you though.|sv
 A|I do,|%
 A|yeah,|aa
 A|that's true.|aa
-A| I think in places,  I think in places like California, people are beginning to find that in, in areas that are fairly well off, if you add the, uh, uh, people of various sexual persuasions and those who never intend to marry and those who are retired and those are, uh, just looking for fun, people with families turn out to be such a small minority that they can't get a tax bill passed no matter what happens.|sv
+A|I think in places,  I think in places like California, people are beginning to find that in, in areas that are fairly well off, if you add the, uh, uh, people of various sexual persuasions and those who never intend to marry and those who are retired and those are, uh, just looking for fun, people with families turn out to be such a small minority that they can't get a tax bill passed no matter what happens.|sv
 B|Yeah.|b
 A|And, uh,   there are big sections of the country where people with children of school age are such a small minority that they can't get anything done.|sv
 A|That seems a, a, like a cultural lapse.|sv

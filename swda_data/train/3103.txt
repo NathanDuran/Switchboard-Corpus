@@ -42,8 +42,8 @@ A|Uh-huh.|b
 B|And it was a lifetime appointment for her as well as for him.|sd
 B|So, that was a really high, high status position.|sd
 A|Well, that's wonderful.|ba
-B|She made over thirty thousand,  a year. |sd
-A|That speaks,  well of your mother. |ba
+B|She made over thirty thousand,  a year.|sd
+A|That speaks,  well of your mother.|ba
 B|Well, yeah,|aa
 B|she a real hard|sd
 A|She had high standards.|qy^d

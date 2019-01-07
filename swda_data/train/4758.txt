@@ -12,16 +12,16 @@ A|And then, uh, my husband, he just, uh, subscribed to a wood,|sd
 A|he just started a woodwork|sd
 A|so he just sent away to get some woodworking books.|sd
 B|Oh.|b
-A| So  what kind do you, uh, get?|qw
+A|So  what kind do you, uh, get?|qw
 B|Well I have a bunch of computer journals because I'm in computer science|sd
 A|Uh-huh.|b
 B|but beyond that, uh, lately I've been reading,|sd
 B|I've always liked the NEW YORKER.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
-B| my  wife also gets a lot of the food magazines. BON APPETITE, and FOOD  AND WINE and GOURMET. |sd
-A| Is it, |qy
-A| Yeah,|b
+B|my  wife also gets a lot of the food magazines. BON APPETITE, and FOOD  AND WINE and GOURMET.|sd
+A|Is it,|qy
+A|Yeah,|b
 A|I used to  take that.|sd
 A|Right.|b
 B|Yeah.|b
@@ -35,8 +35,8 @@ A|if I, you know, if I happen to find it, I'll go ahead and read it someplace, y
 A|but other than that I never, I never liked that really.|sd
 B|Do you read a newspaper?|qy
 A|I read my newspaper.|na
-A| I can hardly  wait in the mornings for the  newspaper  to get here, you know.|sd
-B| Yeah.  larger computer ones.|b
+A|I can hardly  wait in the mornings for the  newspaper  to get here, you know.|sd
+B|Yeah.  larger computer ones.|b
 A|In fact, it puts it out on Tuesdays and Thursdays I can hardly wait to get that to get the local news|sd
 B|I haven't bought it now for about eight years.|sd
 B|But when I used to get it, it was about five hundred pages, about three hundred of them advertising.|sd
@@ -99,8 +99,8 @@ A|Uh, I don't take anymore than that|sd
 B|Yeah.|b
 B|I don't take much more in myself.|sd
 A|You know, so.|%
-B| Okay. |b
-A| Well  I guess that will be it then |oo_co_cc
-A|and, |%
-B| Okay,|aa
-B| nice talking to you.|fc
+B|Okay.|b
+A|Well  I guess that will be it then|oo_co_cc
+A|and,|%
+B|Okay,|aa
+B|nice talking to you.|fc

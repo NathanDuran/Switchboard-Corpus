@@ -178,8 +178,8 @@ B|He has to go out whenever, uh, we ask him|sd
 B|and when he, when we ask him, he, uh, he barks.|sd
 B|He'll either bark for food, or he'll bark to go out|sd
 B|and he'll tell you which one he wants.|sd
-B| He's been through obedience school. |sd
-A| Well he just can, |sd
+B|He's been through obedience school.|sd
+A|Well he just can,|sd
 A|well he has been trained|sd
 A|and you've you've kept it up, haven't you.|qy
 B|Oh, definitely.|na
@@ -269,12 +269,12 @@ B|Uh-huh.|b
 A|I try to, you know, make them do, during the day,|sd
 A|but nobody's home.|sd
 B|Well this is the perfect time for me.|sd
-A| Well good. |ba
-B| Well maybe I'll get you next time. |sv
+A|Well good.|ba
+B|Well maybe I'll get you next time.|sv
 A|Yeah|b
 A|it so much fun to talk to you.|fc
 B|All right,|fc
 B|have a good one.|fc
 A|You too,|fc
-A| bye. |fc
-B| Bye. |fc
+A|bye.|fc
+B|Bye.|fc

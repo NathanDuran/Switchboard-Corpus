@@ -177,8 +177,8 @@ A|Uh-huh.|b
 B|Uh, I mean, I have other things to complain about,|sd
 B|but in terms of, uh, woman's roles, um, things really seem a lot more flexible.|sv
 A|Uh-huh.|b
-A|I seem to see more women in, uh, in leadership type roles and management positions,  in politics, |sv
-B| Yeah.|b
+A|I seem to see more women in, uh, in leadership type roles and management positions,  in politics,|sv
+B|Yeah.|b
 B|I mean, it's still,  it's still a small minority,|sv
 B|but it's, but it's an improvement.|sv
 A|Yeah.|b
@@ -240,5 +240,5 @@ A|It was nice talking to you, too.|fc
 B|Okay,|fc
 B|take care.|fc
 A|You, too.|fc
-A| Bye, bye. |fc
-B| Bye, bye. |fc
+A|Bye, bye.|fc
+B|Bye, bye.|fc

@@ -23,11 +23,11 @@ A|and she is taking care of the kids also.|sd
 A|And, and so we haven't had to look for child care either which has been very nice.|sd
 A|But I do have, like you mentioned, a lot of friends, a lot of, uh, co-workers and associates that are looking for child care|sd
 A|and some of the things that they're very critical about is the number of kids that are in the child care. Uh, what kind of, you know, uh, guidance counselor to student or, you know, uh, adult to child relationship.|sd
-A| How many |sd
-B| Right. |b
+A|How many|sd
+B|Right.|b
 A|you know, you don't want to have thirty or forty kids and only one adult.|sv
-A| Then  uh, something happens and the adult wouldn't be able to, uh, accommodate or take care of the kids very well.|sd
-B| Right. |b
+A|Then  uh, something happens and the adult wouldn't be able to, uh, accommodate or take care of the kids very well.|sd
+B|Right.|b
 B|Right|b
 A|And, uh, they also want to make sure that the kids are being taught and not just playing around all the time.|sd
 A|So, you know, depends also upon the, the level of the child.|sd
@@ -73,9 +73,9 @@ B|and I guess, you know, it, are,|%
 B|it's, uh, typically, uh, whether it's been child care in a home or in a larger situation where actually it's more of an institution.|sd
 A|Uh-huh.|b
 B|And you've actually got children that most people would consider problem children|sd
-B|and it's not, and it's more of a group home rather  than  actually day-care  type of facility. |sv
-A| Yeah. |b
-A|  That's true,|aa
+B|and it's not, and it's more of a group home rather  than  actually day-care  type of facility.|sv
+A|Yeah.|b
+A|That's true,|aa
 A|that's true.|aa
 B|Uh|b
 A|Well, Steven, it's been,|fc

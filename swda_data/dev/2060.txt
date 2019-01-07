@@ -18,8 +18,8 @@ B|I guess, I just wanted more news.|sd
 B|It's one of the few times I wanted more news than.|sd
 A|Yeah,|b
 A|well, I know even if you watched A B C, N B C or the other,|sd
-A|I mean, what's the other one, uh,  C B S. |qh
-B| C B S. |b^m
+A|I mean, what's the other one, uh,  C B S.|qh
+B|C B S.|b^m
 A|They all were, were tapped into C N N.|sd
 B|Were they?|qy
 A|Uh-uh.|nn

@@ -91,5 +91,5 @@ B|Surely.|aa
 B|I've enjoyed it.|sd
 A|All right,|fc
 A|you too.|fc
-B| Bye, bye. |fc
-A| Bye. |fc
+B|Bye, bye.|fc
+A|Bye.|fc

@@ -34,7 +34,7 @@ B|Yeah,|b
 B|it,|%
 A|But, uh,|%
 A|and I'd real,  really like to go  because, um, I'm fairly recently married|sd
-B| we had a great time. |sd
+B|we had a great time.|sd
 A|and, and my husband has been hearing about these people for years|sd
 A|and, uh, but he's never met them,|sd
 A|so, uh, I'd like, I'd like to do that.|sd
@@ -83,8 +83,8 @@ B|We've been there twice.|sd
 B|We went two cruises that hit those islands, but with different people.|sd
 B|We, we've gone with friends each time.|sd
 A|I see.|b
-B|And then we went to, uh, the western Caribbean, which is, uh, Port, uh, Cancun, Cozumel,  and Ocho Rios. |sd
-A| Oh, the, the Mexican coast. |bf
+B|And then we went to, uh, the western Caribbean, which is, uh, Port, uh, Cancun, Cozumel,  and Ocho Rios.|sd
+A|Oh, the, the Mexican coast.|bf
 B|Pardon me?|br
 A|That's all Mexico, I think.|bf
 B|Yes,|aa

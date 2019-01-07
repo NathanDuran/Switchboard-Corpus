@@ -24,8 +24,8 @@ A|Right,|aa
 A|that would be the intent of it.|sv
 B|Yeah,|b
 B|but I'm not sure how successful that is.|sv
-A|Well, I think it would be more successful if it was applied in a more expedient manner, if there weren't so many  appeals. |sv
-B| Quicker  maybe,|bf
+A|Well, I think it would be more successful if it was applied in a more expedient manner, if there weren't so many  appeals.|sv
+B|Quicker  maybe,|bf
 B|yeah.|b
 A|Yeah,|aa
 A|if, if the person who's going to commit the crime knew that they were going to be punished severely, possibly capital punishment,|sv
@@ -100,11 +100,11 @@ B|Uh-huh.|b
 A|but,|%
 B|Are you for it?|qy
 A|Uh,|%
-B|I'm for it in  in some cases. |sd
-A| I guess I am  for certain|sd
-B| Yeah. |b
-A| yeah,|aa
-A| in certain crimes.|sd
+B|I'm for it in  in some cases.|sd
+A|I guess I am  for certain|sd
+B|Yeah.|b
+A|yeah,|aa
+A|in certain crimes.|sd
 B|What kind of crimes would you use it for?|qw
 A|Uh, premeditated murder. Crimes of that nature, I think should definitely,|sv
 B|Uh-huh.|bk

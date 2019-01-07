@@ -3,7 +3,7 @@ A|Hi Norma.|fp
 B|Hi.|fp
 A|Have you taken anything back lately, uh, that you've bought?|qy
 B|Well the only thing we've taken back recently are plants.  Shrubbery, that  were guaranteed|sd
-A| Well why? |qw
+A|Well why?|qw
 B|and we had no problem with it.|sd
 A|Very good.|ba
 B|We got our got our money back.|sd
@@ -60,9 +60,9 @@ A|That was poor quality, I think.|sv
 B|I think it is too,|sv
 B|and it was an expensive dress.|sd
 A|I wondered if it weren't expensive,|sv
-B| Yes|aa
-B|it was. |sd
-A| and they should  have put buttons on it that would last forever.|sv
+B|Yes|aa
+B|it was.|sd
+A|and they should  have put buttons on it that would last forever.|sv
 B|That's right,|aa
 B|that's what I think too.|sv
 B|And one belt loop, the uh, you know, like the chain link, chain belt loop half of it raveled out.|sd

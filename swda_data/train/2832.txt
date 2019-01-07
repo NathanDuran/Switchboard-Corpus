@@ -14,7 +14,7 @@ B|Oh really,|b
 B|what kind of square footage?|qw
 A|Oh, I wouldn't know,|h
 A|I measured it one time,  because  I was, uh, we had saw some termites|sd
-B| Uh. |%
+B|Uh.|%
 A|and we thought about getting it sprayed.|sd
 A|I think it was like,|sd
 A|I can't remember,|sd
@@ -22,8 +22,8 @@ A|I'm sorry|fa
 B|That's okay,|bd
 B|that's okay.|bd
 A|It's big enough for us, though.|sd
-B| Uh-huh. |b
-A| We  kind of need maybe one more room.|sd
+B|Uh-huh.|b
+A|We  kind of need maybe one more room.|sd
 A|We've got two children.|sd
 B|Uh-huh,|b
 B|okay.|b
@@ -42,12 +42,12 @@ A|I say down,|sd
 A|I'm really from Kentucky.|sd
 B|I was going to say you didn't have the typical,|sd
 B|you have a southern accent,|sv
-A| Uh-huh. |b
-B| but  you don't have a Texas accent.|sd
+A|Uh-huh.|b
+B|but  you don't have a Texas accent.|sd
 A|Right.|b
 B|Well I'm originally from, uh, Ohio, Cincinnati,|sd
-A| Oh, okay. |b
-B| so I'm  uh, familiar with, uh,|sd
+A|Oh, okay.|b
+B|so I'm  uh, familiar with, uh,|sd
 A|That area,|^2
 A|that dialect.|^2
 B|Right,|aa
@@ -55,7 +55,7 @@ B|right|aa
 B|Also I lived in Georgia for about four years,|sd
 B|so the, uh,|%
 B|there's a difference too, between east and west, in the south.  And,  uh, the way in which people speak.|sd
-A| Uh-huh. |b
+A|Uh-huh.|b
 B|Anyway, my home is, um, I guess it's about twenty-five hundred square foot|sd
 B|and I have, uh, four bedrooms at the present.|sd
 B|We're busting out walls and things like that.|sd
@@ -81,16 +81,16 @@ A|We want to make that a bedroom for my stepdaughter and my daughter|sd
 A|and, uh, we need the one extra room.|sd
 A|Like, like you said, our rooms are too the bedrooms are too small,|sd
 A|the living room and kitchen are huge,|sd
-B| Right. |b
-A| but  the bedrooms are too small.|sd
+B|Right.|b
+A|but  the bedrooms are too small.|sd
 A|Where you've got to leave the furniture just one certain way, you can't rearrange it at all.|sd
 B|Right,|b
 B|there's they, uh,|%
 B|I know what you're saying there,|sd
 B|ours is the same|sd
 B|and they tend to put windows in the strangest places.|sd
-A| Yeah. |b
-B| You  know we have windows in our bathrooms which really makes it difficult for,|sd
+A|Yeah.|b
+B|You  know we have windows in our bathrooms which really makes it difficult for,|sd
 A|Yeah,|b
 A|we've got two great big windows in our back bathroom.|sd
 B|Uh-huh,|b
@@ -114,34 +114,34 @@ A|You must live in an older home too then.|sd
 B|Right,|aa
 B|I do,|sd
 B|the house is about, um, I'd say almost thirty years old.|sd
-A| Uh-huh. |b
-B| So  it's not a new home,|sd
+A|Uh-huh.|b
+B|So  it's not a new home,|sd
 B|it's, it's seen some wear and tear. You know.|sd
 A|Ours has too.|sd
 A|When we moved in the man that sold it to us had said that he remodeled it,|sd
-B| Uh-huh. |b
-A| and  he did it hisself,|sd
+B|Uh-huh.|b
+A|and  he did it hisself,|sd
 A|so most of that, by now, is falling apart.|sd
-B| Oh. |b
-A| You  know, well I mean, it's not just horrible,|sd
+B|Oh.|b
+A|You  know, well I mean, it's not just horrible,|sd
 A|but like this tile's come loose off the wall,|sd
 A|the whole bathroom is covered from ceiling to foot in tile|sd
 A|and I don't like that at all.|sd
 B|Um, that is awful.|ba
 A|With that, uh, the great big tiles, square tiles like, that you put on the floor,  the, the huge one.|sd
-B| Uh-huh,|b
-B|he did it in that? |qy
+B|Uh-huh,|b
+B|he did it in that?|qy
 A|Yeah,|ny
 A|instead  of wallpaper.|sd
 A|I wouldn't mind it if it was like short tiles,|sd
 A|for that you put,|sd
-B| The normal tiles,|^2
-B|right. |b
-A| right|aa
+B|The normal tiles,|^2
+B|right.|b
+A|right|aa
 A|that you put  around a bathtub,|sd
 A|that would be prettier.|sd
-B| Uh-huh. |b
-A| But  this looks like floor covering on the wall.|sd
+B|Uh-huh.|b
+A|But  this looks like floor covering on the wall.|sd
 A|It just doesn't look good.|sd
 B|Oh, and also they're very heavy|sd
 B|and so they tend to come off a whole lot easier.|sd
@@ -158,14 +158,14 @@ B|I,|%
 B|that's one of the things we've been fortunate with, is our, uh, wiring is okay.|sd
 B|We don't have a, we don't have enough power,|sd
 B|um, or our breakers aren't, aren't powerful enough to take, to, to really help with the load in the house.|sd
-A| Uh-huh. |b
-B| I  mean we need to redo some, rewiring ourselves|sd
+A|Uh-huh.|b
+B|I  mean we need to redo some, rewiring ourselves|sd
 B|but our plumbing is awful.|sd
 B|There is there is a shut off valve that's outside that doesn't work,|sd
-A| Um. |b
-B| and  there's no other real shut off valves inside the house,|sd
+A|Um.|b
+B|and  there's no other real shut off valves inside the house,|sd
 B|so if something breaks, we have to shut it off from the main, in the street,  you  know,|sd
-A| Yeah. |b
+A|Yeah.|b
 B|and, oh, it's, it can be really bizarre.|sd
 A|Yeah.|b
 B|And we never know where it's going to flood.|sd
@@ -188,7 +188,7 @@ A|But on the east side of the house it runs fine.|sd
 B|Oh boy, you do have a strange wiring problem there.|ba
 A|He put new wiring in,|sd
 A|it's all new wiring up in the attic,  or  I guess crawl space,|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 B|Uh-huh.|b
 A|but, uh, oh, no,|fo_o_fw_"_by_bc
 A|he didn't know what he was doing,|sd
@@ -199,7 +199,7 @@ B|and he won't even touch electrical stuff.|sd
 B|He,|%
 B|I mean, he'll do a little things|sd
 B|but he won't do any major rewiring.|sd
-B| He  says he'd rather pay the electrician to handle it.|sd
+B|He  says he'd rather pay the electrician to handle it.|sd
 A|Right,|b
 A|he'll end up killing himself.|sv
 B|Pardon.|br
@@ -208,15 +208,15 @@ B|That's right.|ba
 A|My husband, he'll change out a light switch,|sd
 A|but that's about as far as he'll go.|sd
 B|Well that's the way mine is, you know,|sd
-A| Yeah. |b
-B| I  mean, he, he well he said he went up in the attic and looked around|sd
+A|Yeah.|b
+B|I  mean, he, he well he said he went up in the attic and looked around|sd
 B|and he was like, oh my God,|sd
 B|he says, looks like a bunch of spaghetti up there.|sd
 B|And we had squirrels in our attic when we first moved in because the roof was so sorry,|sd
 A|Uh, was a what,|%
 B|The roof was really sorry.|sd
 B|I mean when we moved in,  we  had no idea how bad it was.|sd
-A| Uh-huh. |b
+A|Uh-huh.|b
 B|It was a wood shingle roof,|sd
 B|and we,|%
 B|the first year we were living there, we had to replace the roof.|sd
@@ -242,11 +242,11 @@ B|And we, and we had, we had almost, I'd say about half of the roof off,|sd
 B|and it did this.|sd
 A|And, uh, uh, a house full of snow.|^2
 B|And a house full of snow, and rain,|sd
-A| Uh-huh. |b
-B| and  it came down,|sd
+A|Uh-huh.|b
+B|and  it came down,|sd
 B|it did this in the middle of the night.|sd
 B|We have plastic, you know, just tied down on everything, you know, as best we could,  real  thick edge stuff, I mean,|sd
-A| Uh-huh. |b
+A|Uh-huh.|b
 B|and the wind came in from the north|sd
 B|and it just blew everything off in the middle of the night|sd
 B|and we were asleep|sd
@@ -256,12 +256,12 @@ B|and it was about four o'clock in the morning|sd
 B|and I heard all these, these drips, drip, drip, drip, drip, drip, drip.|sd
 A|Oh, no.|ba
 B|I had water coming in every light fixture.|sd
-A| That,|%
-A|yeah. |b
-B| I had  water coming in everything that was in the ceiling, everywhere.|sd
+A|That,|%
+A|yeah.|b
+B|I had  water coming in everything that was in the ceiling, everywhere.|sd
 B|And I mean it filled up my light fixtures, because they're the old kind.|sd
-A| Uh-huh. |b
-B| And  I would go in,|sd
+A|Uh-huh.|b
+B|And  I would go in,|sd
 B|and I'd turn on a light in the room, you know|sd
 B|and the light would come on|sd
 B|and the whole thing would be full of water.|sd
@@ -296,8 +296,8 @@ B|Oh, several of our rooms got ruined,|no
 B|we have, um,|sd
 B|we are on pier and beam,|sd
 B|we don't have concrete slab underneath our house,|sd
-A| Uh-huh. |b
-B| so  it, it got into the carpeting, got into the floor.|sd
+A|Uh-huh.|b
+B|so  it, it got into the carpeting, got into the floor.|sd
 B|The carpeting was already awful anyway,|sd
 B|but it got into the floor and rotted the floor and made it stink|sd
 A|Your house sounds like mine because mine's pier and beam too.|sd
@@ -311,7 +311,7 @@ B|We had to call the insurance company.|sd
 B|I mean the insurance company was paying for the new roof|sd
 B|but they also ended up having to pay for the damage when the roof was being repaired. You know, which really wasn't our fault.|sd
 A|Uh-huh.|b
-B| I mean  we'd done everything we could to keep out the weather. You know, and stuff|sd
+B|I mean  we'd done everything we could to keep out the weather. You know, and stuff|sd
 A|That's right.|ba
 A|That's right.|ba
 B|and,|%
@@ -341,5 +341,5 @@ A|The home improvements.|no
 B|Oh yeah,|ny
 B|yeah,|ny
 B|he see he does this for a living,|sd
-A| Uh-huh. |b
-B| I  mean this is what,|sd
+A|Uh-huh.|b
+B|I  mean this is what,|sd

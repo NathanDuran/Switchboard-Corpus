@@ -23,14 +23,14 @@ A|I work part time at night|sd
 B|Wow|ba
 A|and he works, and my husband works full times days|sd
 A|and so we have four checks,|sd
-A|but that works out nice because we get paid every week |sd
+A|but that works out nice because we get paid every week|sd
 A|and  so that does help,|sd
-B| Yeah. |b
+B|Yeah.|b
 A|that helps a lot.|sd
 A|And then, uh, we don't have a lot extra for extra spending,|sd
-A|so it's pretty well  ear marked. |sd
-B| Yeah.|aa
-B|All allocated out. |bf
+A|so it's pretty well  ear marked.|sd
+B|Yeah.|aa
+B|All allocated out.|bf
 A|Yeah|aa
 B|Yeah.|b
 A|Yeah.|b
@@ -62,8 +62,8 @@ B|Yeah|b
 A|and and I am sure you felt the the same frustration before you got on a budget,|sv
 A|but you're wondering my, when you put down all the money that you do bring in|sv
 A|and then you're saying, my word  where did all that money  go.|sv
-B| That's a lot of money,|bf
-B|but |%
+B|That's a lot of money,|bf
+B|but|%
 A|Where does it go?|^q
 B|Yeah.|b
 A|Uh|%
@@ -84,7 +84,7 @@ B|the other, the other thing that that we've found that helps is, you know, we t
 A|Uh-huh|b
 B|it's just to, uh, uh, get up the money in advance and put it in, uh, uh, so long as it wasn't you know, unreasonably high, but for things like food expenses or whatever. Just put it in uh in an envelope or whatever if the entertainment amount was gone for the month say, oh, it's gone|sd
 A|Uh-huh.|b
-A| just  stick to that,|bf
+A|just  stick to that,|bf
 A|uh-huh.|b
 A|That is,|%
 A|Yeah.|b

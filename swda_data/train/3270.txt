@@ -86,5 +86,5 @@ B|All right.|fc
 B|You too.|fc
 A|Uh-huh,|fc
 A|thanks.|fc
-B| Bye-bye. |fc
-A| Bye now. |fc
+B|Bye-bye.|fc
+A|Bye now.|fc

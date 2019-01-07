@@ -28,7 +28,7 @@ A|Uh-huh.|b
 B|and, uh, you weren't allowed to have a, uh, mustache or a beard, if you wanted to get ahead with the company,|sd
 A|Uh-huh,|b
 A|uh-huh.|b
-A| Uh-huh. |b
+A|Uh-huh.|b
 A|Uh-huh.|b
 B|well if you were a, uh, black female you were destined to be store manager in six to nine months,|sv
 B|if you were white male you're talking six years.|sv
@@ -50,8 +50,8 @@ A|Uh-huh.|b
 B|I, I've kind of lost touch with the company,|sd
 B|we had a falling out,|sd
 A|Uh-huh,|b
-A| uh-huh. |b
-B| but, uh,  as far as, uh, as their management goes, um, I'm not sure they're any, any better off than they were, were before management wise.|sv
+A|uh-huh.|b
+B|but, uh,  as far as, uh, as their management goes, um, I'm not sure they're any, any better off than they were, were before management wise.|sv
 A|Uh-huh.|b
 B|But, uh, other changes, um, just people seem to be more outspoken now individually, rather than collectively.|sv
 A|Uh-huh.|b
@@ -63,9 +63,9 @@ A|Uh-huh,|b
 A|uh-huh.|b
 B|Um,|%
 B|Yeah,|b
-B|I'm not sure if that was because, you know, eighties was like the, uh, the  me decade. |sv
-A| The me decade.|b^m
-A| Uh-huh.|b
+B|I'm not sure if that was because, you know, eighties was like the, uh, the  me decade.|sv
+A|The me decade.|b^m
+A|Uh-huh.|b
 B|And, uh, everybody was into me,|sv
 B|and then we are getting back into us.|sv
 B|But, um, it, it, it's|%
@@ -132,8 +132,8 @@ B|I've seen a lot of changes, I mean, from the original earth day|sd
 A|Uh-huh.|b
 B|and, um, I'm heavily involved in, you know, my own personal recycling.|sd
 B|We recycle paper,  and cans here at  work|sd
-A| Uh-huh,|b
-A|uh-huh. |b
+A|Uh-huh,|b
+A|uh-huh.|b
 B|and, you know, I do the newspaper and cardboard and paper and, you know, all that stuff at home|sd
 A|Uh-huh,|b
 A|uh-huh.|b
@@ -148,8 +148,8 @@ B|Yeah.|b
 A|but much of it did.|sv
 A|I mean, recycling was a, was a wartime thing.|sd
 B|And then they turned around and called them junkyards, and,  started  making profits  off,  them after the war.|sd
-A| Yes. |aa
-A| Yes |aa
+A|Yes.|aa
+A|Yes|aa
 B|And now we got to the point where the junkyards, you've got to pay them to take something there,|sd
 A|Uh-huh.|b
 B|so, things have really changed a lot.|sv

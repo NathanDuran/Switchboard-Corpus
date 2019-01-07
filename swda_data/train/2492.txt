@@ -186,5 +186,5 @@ A|and we'll talk to you later.|fc
 B|Okay,|fc
 B|you too.|fc
 B|Okay.|fc
-B| Bye. |fc
-A| Bye. |fc
+B|Bye.|fc
+A|Bye.|fc

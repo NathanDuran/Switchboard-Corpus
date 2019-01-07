@@ -1,7 +1,7 @@
 A|So how do you get most of your current event information?|qw
-B|Well, , see I'm going to school right now, |sd
+B|Well, , see I'm going to school right now,|sd
 B|and, uh,  while I'm working, I don't get a, I don't get a chance to read the paper a lot,|sd
-A| Uh-huh. |b
+A|Uh-huh.|b
 B|and I don't watch T V as much really either, because, uh, my free time is kind of,|sd
 B|and I do, like to do other stuff with it.|sd
 A|Right.|b
@@ -17,23 +17,23 @@ B|And the people I work with are pretty, you know, up, up-to-date on that kind o
 B|so.|%
 A|Right.|b
 A|Well, I'm a housewife,|sd
-A|I have three kids, |sd
-A|and so  um, I get most of my information probably through just the news at six o'clock and then, um, talking with people and just hearing what's going on.  . |sd
-B| Uh-huh. |b
+A|I have three kids,|sd
+A|and so  um, I get most of my information probably through just the news at six o'clock and then, um, talking with people and just hearing what's going on.  .|sd
+B|Uh-huh.|b
 B|Yeah.|b
-B| Do you watch,  do you watch the network, like major network news,|qy
-B|or do you watch like  the MACNEIL LEHRER HOUR? |qrr
+B|Do you watch,  do you watch the network, like major network news,|qy
+B|or do you watch like  the MACNEIL LEHRER HOUR?|qrr
 A|Just the  regular channel  just channel eight.|sd
 B|Oh, really.|b
 A|That's our channel here|sd
 A|that's the, um, eyewitness news.|sd
 B|Uh-huh.|b
-A| So. |%
-B| Oh,  see channel, where I am channel eight's, um, like public T V,|sd
+A|So.|%
+B|Oh,  see channel, where I am channel eight's, um, like public T V,|sd
 B|so it's kind of different.|sd
 A|Oh, uh-huh.|b
-A| Yeah. |b
-B| I think,  I think the, uh,|sv
+A|Yeah.|b
+B|I think,  I think the, uh,|sv
 B|I think a lot of the commentators on, like the major networks, like right, it's kind of appropriate right now because of the election stuff going on,|sv
 B|but, um, it seems that, um, they kind of get to throw their opinions into how they, you know, report on the news.|sv
 A|Right.|aa
@@ -84,10 +84,10 @@ A|Well, I, um, they even did a story on our news here in Texas on what people wa
 A|and people said that they wanted to see more on outside of Texas news.|sd
 A|You know, we just don't want to hear every night all the killings that went on here in Dallas|sd
 B|Yeah.|b
-A|that we want to hear what's going on with the economy, what's being done to help it, what's going on in other countries, what's, you know, just  more information. |sd
-B| If they reported every,  if they reported every violent crime in Atlanta it would take, it would probably take the whole news hour|sv
-A| Yeah. |b
-B| But, uh. |%
+A|that we want to hear what's going on with the economy, what's being done to help it, what's going on in other countries, what's, you know, just  more information.|sd
+B|If they reported every,  if they reported every violent crime in Atlanta it would take, it would probably take the whole news hour|sv
+A|Yeah.|b
+B|But, uh.|%
 A|Well, I guess we'll get pretty good news coverage in a couple of years when you host the, uh, summer olympics|qy^d
 B|Oh, yeah,|ny
 B|that's,|%

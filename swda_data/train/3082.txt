@@ -9,8 +9,8 @@ B|Oh.|bk
 A|Yes,|b
 A|this is one that's, uh, the Baker family reunion|sd
 B|Uh-huh.|b
-A|and this has been going on at least, uh, I would say, at least twenty-five years or thirty,  something like that. |sd
-B|Oh, that's  marvelous. |ba
+A|and this has been going on at least, uh, I would say, at least twenty-five years or thirty,  something like that.|sd
+B|Oh, that's  marvelous.|ba
 A|Maybe longer than that, I'm going to get back into the fifties sometime.|sd
 B|Uh-huh.|b
 A|First time, I, I married into the family,|sd
@@ -107,7 +107,7 @@ B|yeah|b
 B|that, that is a problem with the distance.|sv
 B|The people that we have that don't come are out El Paso way|sd
 A|Yeah.|b
-B|and it's just too much for all of them,  all of that group to travel. |sd
+B|and it's just too much for all of them,  all of that group to travel.|sd
 A|It's an,  all day drive just to  get to this area.|sv
 B|Right.|aa
 B|But then we have the same attitude when it's out, there, although this year we're going out.|sd
@@ -120,7 +120,7 @@ A|we have,|%
 A|each year, of course, they elect officers of the family reunion|sd
 B|Uh-huh.|b
 A|and a number of years ago, back in the early eighties, my wife was president.|sd
-A|We discovered how much work it is just to organize and get it together. And it takes a lot of planning,  and assembling of stuff. |sd
+A|We discovered how much work it is just to organize and get it together. And it takes a lot of planning,  and assembling of stuff.|sd
 B|Uh-huh.|b
 B|And choose,  some place that everybody's  going to like as far as food and all that|sv
 A|Right.|b
@@ -158,8 +158,8 @@ B|Well, it sounds like you really have a good structure and have it going along.
 B|Ours, ours is still kind of loosely organized,|sd
 B|and the same people usually get stuck with doing it.|sd
 A|Yeah,|b
-A|well,  Oh, that generally happens. |sv
-B|And,  they do it as a labor of love. |sd
+A|well,  Oh, that generally happens.|sv
+B|And,  they do it as a labor of love.|sd
 A|Yeah.|b
 B|So, the officer idea is a good idea.|sv
 A|Yeah,|aa
@@ -180,6 +180,6 @@ A|Excuse me. But, um, anyway, that's the family reunion story.|fc
 B|Uh-huh.|fc
 A|Okay.|fc
 B|Well, thanks a lot I enjoyed  talking to you.|fc
-B|Bye. |fc
-A| Been nice talking  to you.|fc
+B|Bye.|fc
+A|Been nice talking  to you.|fc
 A|Bye.|fc

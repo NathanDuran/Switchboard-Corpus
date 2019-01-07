@@ -46,8 +46,8 @@ A|is to, uh, it's because, since I have pretty much kept my record books for the
 A|and it's real fun to just see how things have changed over the years. Uh,|sv
 B|Yeah,|aa
 B|it is.|sv
-A| For instance, |%
-B| I'm a historian, |sd
+A|For instance,|%
+B|I'm a historian,|sd
 B|and my father had kept them, I think, since nineteen twenty-seven|sd
 B|and, uh, but he burned the ones from twenty-seven to|sd
 A|My goodness.|ba
@@ -65,11 +65,11 @@ A|it was the late, well|sd
 A|I guess it would have been, I will take that back, it must have been in the forties, because they had been married, uh, probably fifteen years at the time.|sd
 A|And, it was just, uh, fascinating to see how little things cost,|sv
 A|I mean  it was,  it was just almost laughable in some instances that, you know,|sv
-B| Oh. |b
+B|Oh.|b
 A|of course, it's all relative, of course,|sd
-B|I know. |aa
-B|Right. |aa
-A| but, uh,  never the less it was fun to see those figures next to, you know,|sv
+B|I know.|aa
+B|Right.|aa
+A|but, uh,  never the less it was fun to see those figures next to, you know,|sv
 A|for a pair of shoes was like five dollars|sd
 A|and|%
 B|I know,|aa
@@ -86,10 +86,10 @@ A|Really.|b
 A|Oh, that is, that is really, really something.|aa
 B|Oh. But, of course, it's just what the market will bear.|sd
 A|That's true.|aa
-B|If people will pay two hundred then why charge  ten. |bf
-A| Yeah, |aa
-B|You know,  , |%
-A| that's,  that's right.|aa
+B|If people will pay two hundred then why charge  ten.|bf
+A|Yeah,|aa
+B|You know,  ,|%
+A|that's,  that's right.|aa
 A|That's, that's just good old economics working.|sd
 B|Right,|aa
 B|right.|aa
@@ -113,8 +113,8 @@ A|Yes.|aa
 B|and she may marry somebody|sd
 B|and, of course, it would be good because, it you marry somebody a little loose, then she will have that stability of watching, uh.|sv
 A|Yeah.|b
-B|You should have one in the, in the,  in the house. |sv
-A|I think that is true, |aa
+B|You should have one in the, in the,  in the house.|sv
+A|I think that is true,|aa
 A|I, uh,|%
 A|and,  I think that is probably what happened in our house|sd
 B|And I think,|sd
@@ -129,7 +129,7 @@ B|Yeah,|aa
 B|that's about the way it is here,|sd
 A|Yeah.|b
 B|if it had not been for my wife, I would have probably been in debtor's prison, if we had one.|sv
-B| So but,  what does you husband do now?|qw
+B|So but,  what does you husband do now?|qw
 A|Uh, he is an engineer,|sd
 A|he is, uh, an electrical engineer. And, in fact, went through, uh, many years of graduate school and got his P H D|sd
 B|Oh.|bk
@@ -154,7 +154,7 @@ B|Um|%
 A|so we have had, uh, once again, you know, some really, a real lean year for us.|sd
 B|Oh, I, I know.|aa
 B|We  had three,  in college, plus my wife,|sd
-A| But, uh, |%
+A|But, uh,|%
 B|so that was four.|sd
 A|Yeah.|b
 B|So we were both in the same,|sd
@@ -170,7 +170,7 @@ B|That is the best one.|bf
 A|Uh-huh.|ny
 B|Yeah,|b
 B|with education  you can't,  take that away from you.|sv
-A| Yeah. |b
+A|Yeah.|b
 A|That is right,|aa
 A|so it's, it's one that you can live through.|sv
 A|And I, think that that's the way that we looked at it in our beginnings when my husband was in graduate school that there was a light at the end of that tunnel. You know, that that it was worth it to save and to not have, uh, something and, uh, in return know that something better was going to be at the end of it|sd
@@ -182,13 +182,13 @@ B|that's true.|sv
 A|but, uh, well, I have enjoyed talking with you, Jerry.|fc
 B|I have enjoyed talking with you, Kathy.|fc
 A|And, I, I wish I could hear more about your historian part of your life, because that sounds really fascinating to me.|sd
-A| I am interested in that. |sd
-B| Well, if I  had your address, I would send you,|sd
+A|I am interested in that.|sd
+B|Well, if I  had your address, I would send you,|sd
 B|I am also in the travel business,|sd
 B|I do tours|sd
 A|Oh.|b
 B|and I can take some real great tours to Europe.|sd
-B|So, uh,  if you. |sd
+B|So, uh,  if you.|sd
 A|Oh, wow.|ba
 A|Well,  my, my husband,  and I just went there last year,|sd
 A|um, actually we did not take a tour,|sd
@@ -214,11 +214,11 @@ A|and I'm,|sd
 B|K U E N,|qy^d
 A|Uh-huh,|ny
 A|Z E R.|sd
-A| And, I will be,  in the communications department teaching, uh, English One Oh One to,|sd
-B| Well good,|ba
-B|I will, |sd
-A| I have a couple of sections. |sd
-B| Oh, well I know Zack Miller real well. |sd
+A|And, I will be,  in the communications department teaching, uh, English One Oh One to,|sd
+B|Well good,|ba
+B|I will,|sd
+A|I have a couple of sections.|sd
+B|Oh, well I know Zack Miller real well.|sd
 A|Yes,|b
 A|yeah,|b
 A|that's the guy who hired me,|sd
@@ -228,5 +228,5 @@ B|I will look you up in the fall then.|sd
 A|Fantastic.|ba
 B|Okay.|b
 A|Well, it's been good it's been a good type conversation.|fc
-B| Bye-bye. |fc
-A| Bye-bye. |fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

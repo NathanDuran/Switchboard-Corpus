@@ -8,8 +8,8 @@ A|that's right,|ba
 A|I'm supposed to make a few calls.|sd
 A|So I started about a month ago|sd
 A|and I,|%
-B| Uh-huh. |b
-A| this  is getting close to twenty here which is I think is about all, uh, our little gift book goes up to,|sd
+B|Uh-huh.|b
+A|this  is getting close to twenty here which is I think is about all, uh, our little gift book goes up to,|sd
 A|but I don't really know.|sd
 B|Oh, yeah.|b
 A|I've got about twelve tickets in the mail.|sd
@@ -31,7 +31,7 @@ B|Yeah,|aa
 B|uh, well, I'll tell you,|sd
 B|I've been around for quite a few years and worked for a lot of different companies,|sd
 B|and, uh, it's hard to beat any of the benefits that, or salaries either,  that  we get from T I.|sv
-A| Uh-huh. |b
+A|Uh-huh.|b
 B|I'm quite pleased with it.|sd
 B|Course there's a few things that, uh, I think I could do better if I was sitting up in the C E O's seat|sv
 B|but, uh I think Jerry's doing a pretty good job as it goes.|sv
@@ -60,8 +60,8 @@ B|and there's nothing to compare with, uh, T I here.|sv
 A|Uh-huh.|b
 B|Now I really got caught up back in eighty-five,|sd
 B|I got caught up in the oil layoff uh,|sd
-B|I wasn't with G S I, but I was connected with, uh, uh, oil, uh,  exploration. |sd
-A| Right. |b
+B|I wasn't with G S I, but I was connected with, uh, uh, oil, uh,  exploration.|sd
+A|Right.|b
 A|With T I, or somebody else?|qy
 B|No,|nn
 B|with T I.|sd
@@ -74,7 +74,7 @@ A|Um.|%
 B|Now, uh, course you get six months, uh, unemployment from the State|sd
 A|Yeah.|b
 B|but, what T I did for us is, is, uh, I've never heard of it before. They fixed us up with an office with, uh, telephones, access to long-distance, uh, computers, a secretary to take messages for us or type, uh, letters,  for  us.|sd
-A| Right. |b
+A|Right.|b
 B|Uh, they had out of town newspapers|sd
 B|and then,|%
 A|And outside consultants.|^2
@@ -108,14 +108,14 @@ A|he said he learned a tremendous amount that he never would have able to pick u
 A|He was very thankful for that, too.|sd
 B|Well, this was not a learning thing by any means.|sd
 B|It was just a, uh,  an assistance trying to find  another job.|sd
-A| To have an office,|^2
-A|yeah. |b
+A|To have an office,|^2
+A|yeah.|b
 A|Yeah.|b
 A|Well, he said he learned so much|sd
 A|and how,|%
 A|he thought, he thought he had a Ph D in how to get a job after he was,  through  the whole process,  for,  for several months.|sd
-B| Oh. |b
-B| Uh-huh. |b
+B|Oh.|b
+B|Uh-huh.|b
 A|He did eventually get a job.|sd
 B|Well, course I went through this, uh, what, about five years ago.|sd
 B|They may have improved it considerably.|sd
@@ -133,8 +133,8 @@ B|Well, now I have, uh, uh,|%
 B|I'm getting close to retirement.|sd
 A|Yeah.|b
 B|And, of course I've been looking into it but, uh, since I'm only a yellow badger,  I  won't be getting a whole heck of a lot from T I,  as  far as retirement is concerned.|sd
-A| Uh-huh. |b
-A| Right. |b
+A|Uh-huh.|b
+A|Right.|b
 A|What do you think of a pension that goes from one company to the other like an account like a four O one account.|qo
 A|I, I've been thinking about that for years, uh,|sd
 B|I've never heard of such a thing.|sd
@@ -172,8 +172,8 @@ B|yeah.|b
 A|You don't have to depend on anybody to be putting that money in for you, you know.|sv
 A|That's just a thought.|sd
 A|I mean, I,|%
-B| Uh-huh. |b
-A| if  they say which,|%
+B|Uh-huh.|b
+A|if  they say which,|%
 B|No,|aa
 B|I, I like the idea.|sd
 A|Yeah.|b
@@ -183,7 +183,7 @@ A|and instead of having a, a socialized pension, it just would be really money t
 A|maybe you had to put some money in it, too,|sv
 A|I don't really know.|h
 A|But I,  I  can see where they'd need to do something on that because the statistics are,|sv
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|you don't work for a company twenty years through no fault of your own, you know.|sv
 A|You work for five, six, seven,|sv
 A|and|%
@@ -192,7 +192,7 @@ B|Yeah,|b
 B|that, that's what I've done.|sd
 B|I, I've bounced around.|sd
 B|About every ten years,  I  change.|sd
-A| Yeah. |b
+A|Yeah.|b
 A|I have, too,|sd
 A|but not, not quite that often|sd
 A|but, uh, yeah,|%
@@ -226,7 +226,7 @@ A|I, again, I just,|%
 A|I haven't,|%
 A|I can't complain about it because I haven't used it|sd
 A|and every time I needed it, it, it, it's, uh, you know,  fallen  right in line for the, the, minor things|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|I guess I'm the one just supporting most of the others.|sd
 B|Well, doesn't it work, you don't see, uh, uh, anything until you spend the minimum?|qy
 A|Uh,|%
@@ -235,7 +235,7 @@ A|yeah,|ny
 A|yeah,|ny
 A|I think it's two seventy-five for a family|sd
 A|but the dental is right away,  if  you,|sd
-B| Yeah. |b
+B|Yeah.|b
 A|exams. Uh,|%
 B|Well now, I have the same dental you have.|sd
 A|Okay.|b
@@ -283,17 +283,17 @@ B|Uh-huh.|b
 A|Go right to personnel.|ad
 A|They got the forms in personnel|ad
 A|and maybe,  maybe I'll  tell you go something you didn't know about in benefits|sd
-B| Yeah,|b
-B|great. |ba
+B|Yeah,|b
+B|great.|ba
 B|Yeah,|b
 B|I just might do that.|sd
 A|I do it,|sd
 A|yeah,|aa
 A|you know, it's a very common thing.|sv
 B|Well thanks,|ft
-A| It's through Baxter Labs,|sd
-A|tell, |%
-B| thanks for the tip, Jim. |ft
+A|It's through Baxter Labs,|sd
+A|tell,|%
+B|thanks for the tip, Jim.|ft
 A|Yeah.|fo_o_fw_"_by_bc
 B|I shall look into it.|sd
 A|Yeah.|b
@@ -302,8 +302,8 @@ A|I'm sure we're getting close to our five minutes whatever, here.|sv
 B|Yeah|aa
 B|Uh, let's see,|^h
 B|we discussed, uh, uh, medical and dental,|sd
-A| What other benefits, |qw
-B| uh, retirement. |sd
+A|What other benefits,|qw
+B|uh, retirement.|sd
 A|Yeah,|aa
 A|salary continuation.|sd
 A|I think that's a great one,|sv

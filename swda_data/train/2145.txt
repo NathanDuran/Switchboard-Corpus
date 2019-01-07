@@ -129,8 +129,8 @@ B|we'll let the man will take care of the children perhaps, in the event of a se
 A|Uh-huh.|b
 A|Right.|b
 B|So,|%
-A| Well, I think we've done it |sd
-B| Well, I think we're about done. |b^m
+A|Well, I think we've done it|sd
+B|Well, I think we're about done.|b^m
 B|Okay.|b
 A|Thank you very much.|ft
 B|Uh, good-bye.|fc

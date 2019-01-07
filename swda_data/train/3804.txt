@@ -24,8 +24,8 @@ B|and then, like, I just put them in little balls and bake them for about fiftee
 A|Um.|%
 B|and they are so good.|sv
 A|Oh, that sounds delicious.|ba
-B| Yeah. |b
-A| Yeah. |b^m
+B|Yeah.|b
+A|Yeah.|b^m
 B|It's making me hungry for them right now.|sd
 A|Yeah.|b
 A|You know, I've made like little Swedish meatballs,|sd

@@ -50,8 +50,8 @@ A|Yeah,|b
 A|I really enjoy it,|sd
 A|and it treats me well.|sd
 B|Yes.|b
-A|Uh, what are you studying in college  computers? |qy
-B| Uh.  Computer engineering.|sd
+A|Uh, what are you studying in college  computers?|qy
+B|Uh.  Computer engineering.|sd
 A|How nice.|ba
 B|Well, computer engineering technology, uh, which, uh, all I can understand is it's a slightly more hands on version of computer engineering.|sd
 B|But, I've got a ways to go yet.|sd

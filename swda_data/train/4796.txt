@@ -57,14 +57,14 @@ B|right.|aa
 A|Okay,|bk
 A|I understand.|sd
 B|Right. Right.|b
-A| Sure, |ba
+A|Sure,|ba
 A|that makes a lot of sense.|ba
 B|The only problem is, of course, that, uh, that requires significant commitment from people to actually decide they want to put things like that up there.|sv
 A|Uh-huh.|b
 A|Yeah.|b
-B|And they want to do the research |sv
+B|And they want to do the research|sv
 B|and  uh, they're all you know,|%
-A| Yeah. |b
+A|Yeah.|b
 B|the only commitments that they're interested in making or even talking about are ones for flash value like, uh, the trip to Mars. Which is, would, would produce some useful scientific research and so forth,|sv
 A|Right,|aa
 A|exactly.|aa
@@ -78,8 +78,8 @@ B|We should do it because, for, for the return we get for it.|sv
 A|Uh-huh.|b
 B|And, uh, unfortunately, that's not what I thinks happened *listen|sv
 A|Exactly.|aa
-A| Least not, |%
-B| I, I  would settle for the for the glitz if the side effects were useful, like the, uh,|sd
+A|Least not,|%
+B|I, I  would settle for the for the glitz if the side effects were useful, like the, uh,|sd
 B|but, uh|%
 A|Yeah.|b
 B|the downside of that is you, after you do one of those, people say well we did it.|sv

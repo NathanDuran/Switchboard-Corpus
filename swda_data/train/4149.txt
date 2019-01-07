@@ -102,8 +102,8 @@ A|Well, great,|ba
 A|great.|ba
 A|And sometimes that's a little hard with books and music and, and sheet music and stuff you've got to work on, too.|bf
 B|Oh, sure,|aa
-B|there's, there's always music  books to buy. |sd
-A| Lab fees and all, |bf
+B|there's, there's always music  books to buy.|sd
+A|Lab fees and all,|bf
 A|Oh, yes,|aa
 A|oh, yes.|aa
 A|Well, you're not a starving artist, yet, are you?|qy

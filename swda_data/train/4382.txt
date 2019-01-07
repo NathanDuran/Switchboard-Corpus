@@ -7,8 +7,8 @@ B|We're, uh, we're in kind of a basin|sd
 B|And, uh, Seattle is on Puget Sound which is a inland waterway between two mountains.|sd
 B|And, uh, there's been a lot, a lot of growth, population growth around here|sd
 B|And, uh, it's, uh, it's getting worse|sv
-B| I think  most of it is from cars.|sv
-A| Yeah. |b
+B|I think  most of it is from cars.|sv
+A|Yeah.|b
 A|Yeah.|aa
 A|Definitely.|aa
 A|Here in Utah up along the Wasatch along the western side of the, of these Rocky Mountains here, where a lot of the big cities are Salt Lake and Ogden and Provo|sd
@@ -33,8 +33,8 @@ A|Huh.|%
 B|And then we're right next to Interstate Five also.|sd
 A|They're getting serious about things like, uh, mandatory,|sd
 A|well they've already passed laws where you have to get your cars checked for pollution if you're in certain counties,|sd
-A| emissions. |sd
-B| Oh, yeah. |b
+A|emissions.|sd
+B|Oh, yeah.|b
 B|have they started doing that yet?|qy
 A|Yeah.|ny
 A|They've actually started doing it down along the,|sd
@@ -44,17 +44,17 @@ B|We have that here|sd
 B|and, uh, they're, they're expanding it to, uh, more counties here. Uh, as the population spreads out|sd
 B|and I think they're also going to be making it, uh, mandatory for more cars.|sv
 B|there was, uh, something in the law about if your car was over a certain age, like over twenty years old, you didn't have to get it done anymore.|sd
-B| And  I think they're eliminating that, uh  that loophole.|sv
-A| Yeah. |b
+B|And  I think they're eliminating that, uh  that loophole.|sv
 A|Yeah.|b
-A|They're  eliminating that out here. |sd
-B|Yeah. |b
+A|Yeah.|b
+A|They're  eliminating that out here.|sd
+B|Yeah.|b
 A|They're also talking very seriously about the thing called a dirt gun. Where they're, uh, looking at the emissions from the car using basically a spectrometer and looking at the, basically how much of what is coming out of the exhaust.|sd
 A|Kind of like a radar gun.|sd
 A|And ...|%
-B|Oh, really, |b
+B|Oh, really,|b
 B|You mean they could  do that remotely?|qy
-A| Yes. |ny
+A|Yes.|ny
 A|Yeah.|ny
 A|Do it remotely just looking at the, what they do,|sd
 A|they do several different types of things.|sd
@@ -66,8 +66,8 @@ B|Huh.|%
 A|And ...|%
 B|Now where does the source light go?|qw
 A|Like across the street.|sd
-A| They'll set up  like a trap or something like that in some sense.|sd
-B| Oh, I see. |bk
+A|They'll set up  like a trap or something like that in some sense.|sd
+B|Oh, I see.|bk
 A|And they're also looking at, uh, other, you know, ways of monitoring this and, cause they've found out something basically that, uh,|sd
 A|and a poorly tuned car can emit something,|sd
 A|it's an incredible amount.|sd
@@ -86,6 +86,6 @@ B|But if I, uh, if I take the bus, it requires several transfers|sd
 B|and it takes over an hour.|sd
 A|Huh.|%
 B|So  so it  it's, it's not hard to see why, why I keep driving.|sv
-A| Yeah.|b
+A|Yeah.|b
 A|And they're  ...|%
 B|And you know, I feel guilty cause I'm driving a|sd

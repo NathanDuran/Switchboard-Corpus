@@ -18,8 +18,8 @@ B|that, that was incredible.|sd
 A|Yeah,|b
 A|that's really a,|%
 A|really proud of him though, the way he's, you know.|sd
-B|The way he handled that  entire situation, there. |^2
-A| Yeah,|aa
+B|The way he handled that  entire situation, there.|^2
+A|Yeah,|aa
 A|really,  you know.|aa
 B|But, I just think the Giants have a good team.|sd
 B|They, they got all, you know,|sd
@@ -43,16 +43,16 @@ B|Yeah.|b
 A|But, uh, I still like the Giants, though, you know|sd
 B|Yeah,|b
 B|if you're a fan you got to stay with the team any way,  you know, you  good and the bad|sv
-A| Yeah,|b
-A|right. |b
+A|Yeah,|b
+A|right.|b
 B|but. It's, it's kind of hard.|sd
 B|I still, basically, the, the,|sd
 B|me and all my friends around here, since we don't have anywhere,|sd
 B|I mean, we can go to the Astros or the Rangers teams,|sd
 B|but since,|%
 B|me, none of me and my friends are really, really like either one of those teams,|sd
-B|so  we, uh |%
-A| Uh-huh. |b
+B|so  we, uh|%
+A|Uh-huh.|b
 B|about, about the most baseball we get is either T V or we play it on Nintendo.|sd
 B|We play R B I baseball on Nintendo|sd
 B|so. So that's just, you know, that's small town trying to make it through the not being around it really,|sd
@@ -77,25 +77,25 @@ B|exactly.|aa
 B|This is America,|sv
 B|so.|%
 A|Yeah,|b
-A| um. |b
-B| But. |%
+A|um.|b
+B|But.|%
 A|So what do you think is going to happen this year to the teams?|qw
 B|Uh, I don't know, it's hard to say.|h
 B|I haven't really, really,|%
 B|you have to just keep up with everything in the season.|sv
 B|It's kind of hard to do,|sd
 B|at least,  you know,  you have to read the paper and SPORTS ILLUSTRATED and everything to keep up with who they traded and who they picked up and, and all that,|sd
-A| I know. |ba
+A|I know.|ba
 B|but, like I say, if they can, if they can get that one element that they were missing, I think the Giants can do it.|sv
 A|Yeah,|b
-A| well, the Giants are. |%
-B| They just,|%
+A|well, the Giants are.|%
+B|They just,|%
 B|I don't,|%
-B| yeah|%
+B|yeah|%
 B|I don't really know about the A|sd
-B| They kind of. |%
-A| Yeah,|b
-A| makes you sick, doesn't it?|^2
+B|They kind of.|%
+A|Yeah,|b
+A|makes you sick, doesn't it?|^2
 B|Yeah.|aa
 B|You hear what, you hear what, you hear what he did.|qy^d
 A|Yes.|ny

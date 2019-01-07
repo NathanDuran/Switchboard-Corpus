@@ -1,7 +1,7 @@
 A|Okay|fo_o_fw_"_by_bc
 A|Uh, I just currently quit my job|sd
-A|and so I really don't receive any benefits right now  |sd
-B| Right |b
+A|and so I really don't receive any benefits right now|sd
+B|Right|b
 A|But my husband does|sd
 A|and, uh, I think one of the, uh, my,|sd
 A|first of all, always salary and|sd
@@ -33,19 +33,19 @@ B|and does the company pay for it. You know, all or partially|sd
 B|or how does that work.|sd
 A|Uh-huh.|b
 B|And, uh, also, uh, vacation time too is a, is a big  one for me.  Uh, and I guess support for whatever, whatever other, you know, kinds of professional activities you have at, you know, work.|sd
-A| Yeah.|b
-A| Yeah.|b
+A|Yeah.|b
+A|Yeah.|b
 A|Yeah.|b
 B|Uh,  cause I've  been at places which offer a lot of support and others that don't offer any  and  some that, sometimes that's coincided with a place that offers more vacation time though,|sd
-A| Huh. |b
-A| Right. |b
+A|Huh.|b
+A|Right.|b
 B|so that's not so bad, you know.|sv
 A|Yeah.|b
 B|You know, it's kind of a give and take kind of thing, I think.|sv
 A|Uh-huh.|b
 B|Uh, I say that health care is probably definitely number one though.|sv
 B|want to just, you know, all your salary can't even  begin  to pay for what you can wind up losing, you know in a major illness or something. Uh.|sv
-A| Yeah. |b
+A|Yeah.|b
 A|Yeah.|b
 A|Right.|aa
 A|Uh, and, and, and another good thing is with the health benefits when they give you more than two choices on who to go with.|sv
@@ -68,10 +68,10 @@ A|Uh-huh.|b
 B|And so she works a lot of evenings and weekends|sd
 B|and so two days a week, I, uh, manage to get home early enough to meet the kids on the bus|sd
 B|So she you know, goes in early those days and works like, you know, noon til close.|sd
-B|Uh, so we have  |sd
-A| Well,  that's great that you all can work that out.|ba
-A| That's really good. |ba
-B| Yeah,|aa
+B|Uh, so we have|sd
+A|Well,  that's great that you all can work that out.|ba
+A|That's really good.|ba
+B|Yeah,|aa
 B|and being  on a, you know, rigid schedule wouldn't, there wouldn't be anyway to do that at all.|sd
 A|Right.|b
 B|And I think it's kind of neat to be able to spend the afternoons with the kids occasionally too.|sd
@@ -82,15 +82,15 @@ B|and it's already dark unless it's summer time, you know.|sd
 B|And even in summer time, sometimes you get home so late that there's, you know, you can't do anything with them.|sd
 A|Yeah.|b
 B|And especially in the winter. I mean, you get up in the dark and come home in the dark you know.|sd
-B|It's like, it's like a vampire sometimes  |sd
-A|  Yeah.|aa
+B|It's like, it's like a vampire sometimes|sd
+A|Yeah.|aa
 A|It's the same with my husband cause he's got pretty flexible hours if, as long as he puts in the hours he needs to do .|sd
 A|Worked out really well for us too.|sd
 B|Yeah.|b
 A|Uh. Well is there anything else that you look for|qy
 A|or,|%
-B|Uh,  a lot of I guess is. |sd
-A| You've hit pretty, |sv
+B|Uh,  a lot of I guess is.|sd
+A|You've hit pretty,|sv
 A|you've put a lot of the main points in.|sv
 B|Yeah.|aa
 B|I think some of, is how the, uh, you know,|sv
@@ -111,7 +111,7 @@ B|and your building didn't fall down, you know|^q
 B|Yeah,|^q
 B|you did a great job.|^q
 B|But if you build computer systems, like, well, you know, what does that computer program really do, you know. Or, especially if you write like papers,  you know.  Or do design studies or something.|qh
-A| Uh-huh. |b
+A|Uh-huh.|b
 B|It's real hard to rate something like that.|sv
 A|Uh-huh.|b
 B|It's like get a painter, you know, or something, a artist.|sd

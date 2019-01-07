@@ -7,8 +7,8 @@ B|Yeah,|b
 B|because when people can't pay, they end up going to clinics or, you know, to public hospitals, and that kind of thing,|sv
 B|and, you know,|%
 A|Well, it seems to me that, that I'm paying anyway, because when I go, or my insurance carrier, anyway, when I pay something, the bills seem inordinately high.|sv
-B|Oh,  definitely. |aa
-A| And the  reason that they're inordinately high is because that has, to cover the costs for the indigent people who apparently don't have the money or the wherewithal to do that.|sv
+B|Oh,  definitely.|aa
+A|And the  reason that they're inordinately high is because that has, to cover the costs for the indigent people who apparently don't have the money or the wherewithal to do that.|sv
 B|Right.|b
 B|Yeah,|b
 B|yeah.|b
@@ -21,11 +21,11 @@ B|Yeah,|b
 B|that sounds like a good idea.|sv
 B|My only concern is what happens when you turn things over to the government,|sd
 B|I don't know|h
-A| Well   well, who, who else  is going to do this, then?|qw
-B| Do they  wind up with more red tape, and  more problems then? |qh
+A|Well   well, who, who else  is going to do this, then?|qw
+B|Do they  wind up with more red tape, and  more problems then?|qh
 B|Yeah,|b
-B| yeah. |b
-A| I  mean, it's worked successfully in Europe.|sd
+B|yeah.|b
+A|I  mean, it's worked successfully in Europe.|sd
 B|Uh-huh.|b
 A|I've heard all these stories about,|sd
 A|I travel extensively and spend, uh, maybe half a year in Europe every year,|sd
@@ -43,8 +43,8 @@ B|I mean, so many people don't even get prenatal care|sv
 B|or, and it just extends with if it, what would be a minor problem to deal with if they had a help available early on|sv
 B|becomes just this horrendous, you know, burden on the taxpayers.|fo_o_fw_"_by_bc
 B|They're saying now that one out of every ten child born in public hospitals is addicted to crack.|sd
-A| Well I,  uh, uh, I know it.|sd
-B| Well, you  know|^g
+A|Well I,  uh, uh, I know it.|sd
+B|Well, you  know|^g
 A|I have a solution, you see.|sd
 A|my solution,|%
 A|even though I'm rapidly approaching the, uh, the age when I'll qualify for Medicare and Medicaid, I, I,|sd
@@ -54,7 +54,7 @@ B|Uh-huh.|b
 A|and they are, um, of an advanced years,|sd
 A|and when I see the money that's poured down the, down the drain on Medicare and Medicaid,|sd
 A|I mean, the,  absolute  uncontrollable situation that we find ourselves in,|sv
-B| Yeah. |b
+B|Yeah.|b
 A|and the extraordinary amounts,|sv
 A|I know that,|sd
 A|because those people vote,|sd
@@ -62,13 +62,13 @@ A|I mean, they're the ones who get out and vote,|sv
 A|that's what's robbing a poor mother of the prenatal care.|sv
 A|The young people aren't getting the proper care that they need, and nutrition, I think,|sv
 B|Yeah,|b
-B| yeah. |b
-A| and  we're spending on these useless, many times useless and inordinately complex unnecessary tests in hospitals  for older people. |sv
-B| Oh, it's unbelievable  how much you go through.|ba
+B|yeah.|b
+A|and  we're spending on these useless, many times useless and inordinately complex unnecessary tests in hospitals  for older people.|sv
+B|Oh, it's unbelievable  how much you go through.|ba
 B|When I just had a problem with my neck and they ended up doing a seven hundred dollar CAT scan, and, I mean, a chiropractor got it in one time|sd
 A|That's right,|ba
-A|I mean, it does,  seem like we're, |sv
-B| it was just strange. |sv
+A|I mean, it does,  seem like we're,|sv
+B|it was just strange.|sv
 A|now I noticed just the other day in the paper that, that Medicare will be based, payments will be based not, uh, just on cost, but on cost effectiveness.|sd
 A|So I|%
 B|Oh, well, that should help.|sv
@@ -76,16 +76,16 @@ A|Well, I don't know, uh,|h
 A|we'll see how that goes.|sd
 B|Yeah|b
 A|I think that was just a regulation that was up for comment,|sv
-A|but  we'll see what happens. |sd
-B| Oh I see |ba
+A|but  we'll see what happens.|sd
+B|Oh I see|ba
 B|Oh, gosh.|ba
 A|Well, listen, uh, I think I've, I've exhausted my, uh, self on,|sd
 A|at least I've blown off steam of the way I feel about it.|sd
 B|Okay,|b
 B|well|b
 A|Okay?|qy
-B|Okay, |na
+B|Okay,|na
 B|thank you.|ft
-B|Bye-bye |fc
-A| See you next time.|fc
-A|Bye. |fc
+B|Bye-bye|fc
+A|See you next time.|fc
+A|Bye.|fc

@@ -1,5 +1,5 @@
-A| Hello. |fp
-B| Hello. |fp
+A|Hello.|fp
+B|Hello.|fp
 A|Hello,|fp
 B|Hello,|fp
 A|Hi.|fp

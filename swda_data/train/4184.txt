@@ -1,5 +1,5 @@
-A| You have any pets? |qy
-B| Do I have pets? |br
+A|You have any pets?|qy
+B|Do I have pets?|br
 A|Yeah.|ny
 B|Yes,|ny
 B|I have a cat|sd
@@ -31,8 +31,8 @@ A|That's good.|ba
 A|They say ,|sv
 B|And they get along real good.|sd
 B|I said if Tom could see dog lick this kitty, he'd flip. *listen|sd
-B| So that was interesting. |sd
-A| Didn't expect that would happen. |bf
+B|So that was interesting.|sd
+A|Didn't expect that would happen.|bf
 A|Yeah,|b
 A|that's cool,|ba
 A|that's nice.|ba
@@ -52,8 +52,8 @@ A|shelties are nice.|sv
 A|Everybody seems to be really happy with them.|sv
 A|They're good temperament.|sv
 B|They're a good temperament|sv
-A| They put up with a lot. |sv
-B| and they,  and they just, uh,|sv
+A|They put up with a lot.|sv
+B|and they,  and they just, uh,|sv
 B|they,|%
 B|I think they have a good head on their shoulders.|sv
 B|I think they have a, a higher level of intelligence than other, uh, dogs that I have encountered.|sv
@@ -84,8 +84,8 @@ A|Pit bull.|^2
 A|They might,|%
 A|they're actually very friendly dogs.|sv
 B|Are they really?|bh
-B| I don't think I've ever   seen one. |sd
-A| Uh, they're   really nice. |sv
+B|I don't think I've ever   seen one.|sd
+A|Uh, they're   really nice.|sv
 A|I, I've dealt with quite a few of them.|sd
 A|People, uh, customers that bring them into the shop and ask me like, they, uh, fit collars and stuff on them|sd
 A|and they are, they are just really nice, really friendly, uh, kind of like medium intelligence. Uh,|sd
@@ -98,8 +98,8 @@ B|Oh, okay.|bk
 A|You really can't get a pit bull from birth that's that way.|sd
 B|Oh, okay.|bk
 A|Yeah,|b
-A|it takes a lot of training and a lot of abuse to get a dog to really  respond. |sd
-B| Oh, dear,|ba
+A|it takes a lot of training and a lot of abuse to get a dog to really  respond.|sd
+B|Oh, dear,|ba
 B|so the  the poor animal is doing it in self protection.|bf
 A|Right.|aa
 B|Oh, dear.|ba
@@ -112,8 +112,8 @@ A|I was, I was impressed by them.|sd
 A|They're, they're real sturdy little critters|sd
 A|and they aren't that big. And, uh, just really friendly.|sd
 B|Uh-huh.|b
-B| Well, that's unusual. |ba
-A| I was, I was  overwhelmed.|sd
+B|Well, that's unusual.|ba
+A|I was, I was  overwhelmed.|sd
 B|I,|%
 B|Huh, well, I suppose you were surprised.|bf
 A|Yeah.|b
@@ -150,7 +150,7 @@ A|but I think it was probably a, an individual ferret thing, because it was it w
 B|Well, the the people that owned him should have been on the  lookout for that.  Sure,|sv
 A|Hadn't, they hadn't,|%
 A|Yeah,|b
-A| I mean  they really should have, should have expected it. And taken the precautions.|%
+A|I mean  they really should have, should have expected it. And taken the precautions.|%
 A|They didn't.|sd
 B|yeah.|aa
 A|It's too bad it happened, though.|sv

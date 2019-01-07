@@ -27,12 +27,12 @@ A|Huh-uh.|b
 A|Huh-uh.|b
 B|Uh, at one point in time we've had au pairs, by trading services with them,|sd
 A|Huh-uh.|b
-A| Huh-uh. |b
-B| and  that worked for a while,|sd
+A|Huh-uh.|b
+B|and  that worked for a while,|sd
 B|but they were really, adequate ones were really tough to find.|sd
 A|I'm sure that's true.|ba
 B|It takes that mixture of a very mature college student,  who  wants to do something and yet is willing to give the time, and the interest to the children.|sd
-A| Huh-uh. |b
+A|Huh-uh.|b
 A|Right.|b
 A|Right.|b
 A|I do have a friend that, uh, uh,|sd
@@ -43,8 +43,8 @@ A|And, uh, she was paid very well because they, the parents trusted them|sd
 A|and they, you know, had done such a good job.|sd
 A|So, um, I can see where someone, you know, in a position like that, in a live-in capacity, would definitely be the way to go if you're, you're lucky enough to have the financial to be able to do that.|sd
 B|Well, that's true,|ba
-A| Yeah. |b
-B| and  that's something that we're struggling with now.|sd
+A|Yeah.|b
+B|and  that's something that we're struggling with now.|sd
 A|Yeah.|b
 A|I think it's just a matter of priorities.|sd
 A|It's, uh, you know, it's a terrible thing to say when your speaking of children in that way,|sv
@@ -67,14 +67,14 @@ B|Well, it certainly is. Uh,|aa
 B|if I can the other side of the coin for a moment.|ad
 A|Huh-uh.|b
 B|It is such an honor and a thrill,  to be  a parent,  that  most of the time, it's worth it.|sd
-A| Oh, yeah. |b
-A| Huh-uh. |b
+A|Oh, yeah.|b
+A|Huh-uh.|b
 A|Yeah|b
 A|Most of the time|sv
 B|Well, I just have to be honest about it.|sd
-B|It's not always,  worth it. |sd
-A| Yeah.|b
-A|Oh, sure. |ba
+B|It's not always,  worth it.|sd
+A|Yeah.|b
+A|Oh, sure.|ba
 A|Sure.|b
 A|Sure.|b
 A|Sure.|b
@@ -100,7 +100,7 @@ B|and having lived in a community for a while and we knew the person to whom we 
 A|Huh-uh.|b
 A|That's a big plus .|ba
 B|And felt that, that ,  and  feeling of safety.|sd
-A| Right. |b
+A|Right.|b
 A|Right.|b
 B|And were leaving them small children.|sd
 A|Huh-uh.|b
@@ -134,7 +134,7 @@ B|Oh, you don't know what happens after they get in school.|sd
 A|That's something altogether different, uh.|sv
 B|Oh, yes.|aa
 B|Now we have, uh, one takes piano lessons,  somewhere  on one afternoon|sd
-A| Huh-uh. |b
+A|Huh-uh.|b
 B|and the other one, of course can't do the same thing.|sd
 A|Oh, of course not.|ba
 B|It has to be somewhere else|sd
@@ -229,7 +229,7 @@ A|so that worked out pretty well.|sd
 A|She never had to worry about taking anybody to child care because there was always somebody there older to deal with them,|sd
 A|so I guess, that's an alternative.|sd
 A|If you could just, um,  have a  whole bunch|sd
-B| Have enough. |^2
+B|Have enough.|^2
 A|By the time the youngest ones are there, you'll have older one to take care of them.|sd
 B|That's true.|ba
 A|I don't know.|h

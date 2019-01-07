@@ -45,9 +45,9 @@ B|he is.|sd
 A|Yeah.|b
 B|Yeah,|b^m
 B|but ten dollars, or what what does he charge, not even that.|sv
-B| What does he charge me? |qw
-A| Well, my,|%
-A|I don't know. |sd
+B|What does he charge me?|qw
+A|Well, my,|%
+A|I don't know.|sd
 B|It's like next to nothing.|sv
 B|it's ten because I,|sd
 B|it's forty a month.|sd
@@ -85,8 +85,8 @@ B|and there was dog dirt in it|sd
 A|Oh, oh, goody.|ba
 B|and I threw the gloves in the trash bag that was out there|sd
 B|and I left the whole thing|sd
-B|and  that was about a month ago. |sd
-A| I thought you were going to say there  I thought you were going to say there was a snake in the weeds|sd
+B|and  that was about a month ago.|sd
+A|I thought you were going to say there  I thought you were going to say there was a snake in the weeds|sd
 B|I would rather a snake,|sd
 B|no|ar
 A|Oh, God, oh|ba
@@ -166,7 +166,7 @@ B|Yeah,|b
 B|I've had Dallas, Arlington.|sd
 B|I've had, uh, one Plano and then a lady from Brigham, Utah whose  son  lives in Plano on Ranier someplace. And then, uh, another state,|sd
 A|Uh-huh.|b
-A| Wow. |ba
+A|Wow.|ba
 A|Really?|bh
 B|I can't remember,|sd
 B|but she told me about the Utah Jazz,|sd

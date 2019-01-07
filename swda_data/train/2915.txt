@@ -18,8 +18,8 @@ B|Uh-huh.|b
 A|So they get you coming and going.|sv
 B|Now it's even, it's even higher in Dallas County,|sd
 B|so.|%
-B| Was it.  *listen|qy
-A| Yeah,|ny
+B|Was it.  *listen|qy
+A|Yeah,|ny
 A|it's really,  I know, it's just, um.|%
 B|It's eight and a quarter I think.|qy^d
 A|Yeah,|ny
@@ -74,9 +74,9 @@ B|I just file federal income tax every year.|sd
 B|Yeah,|ny
 B|I just got divorced,|sd
 B|so I'm single again.|sd
-B|So, and you know, it's, it's a lot worse for single people, because they pay the same amount as, as the people that make the same amount of money and  they're married. |sd
-A| Uh-huh.|b
-A| And we, right now, we don't own any property.|sd
+B|So, and you know, it's, it's a lot worse for single people, because they pay the same amount as, as the people that make the same amount of money and  they're married.|sd
+A|Uh-huh.|b
+A|And we, right now, we don't own any property.|sd
 A|We lease.|sd
 A|So we're in the same,|sd
 A|we don't have children,|sd
@@ -116,9 +116,9 @@ B|You know, it doesn't even, it's not even,|sv
 A|Yeah.|b
 A|I guess that's my call.|sd
 A|I guess I better go|fc
-B|Oh,  okay. |fc
-A| Okay,|fc
-A| well it was nice talking to you.|fc
-B|Nice talking to  you. |fc
-A| Uh-huh,|fc
-A| bye-bye.|fc
+B|Oh,  okay.|fc
+A|Okay,|fc
+A|well it was nice talking to you.|fc
+B|Nice talking to  you.|fc
+A|Uh-huh,|fc
+A|bye-bye.|fc

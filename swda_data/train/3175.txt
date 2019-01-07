@@ -89,7 +89,7 @@ A|Yeah,|aa
 A|I guess so|h
 A|Well, it's been great talking to you.|fc
 B|Okay.|fc
-A| Have a great day. |fc
-B| Well, have a good day. |fc
+A|Have a great day.|fc
+B|Well, have a good day.|fc
 A|Bye.|fc
 B|Bye-bye.|fc

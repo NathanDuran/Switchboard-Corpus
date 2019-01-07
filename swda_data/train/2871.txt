@@ -87,8 +87,8 @@ B|well, did you ever see HOME ALONE?|qy
 A|No,|nn
 A|I never did,|sd
 A|I,  I heard it was really good,|sd
-A|I've never, just haven't gone out to see it. |sd
-B| That was a, that was a good one, too. |sd
+A|I've never, just haven't gone out to see it.|sd
+B|That was a, that was a good one, too.|sd
 A|Was that pretty funny?|qy
 B|Yeah,|ny
 B|it's pretty good,|sd

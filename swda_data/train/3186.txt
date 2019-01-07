@@ -53,8 +53,8 @@ A|but I, lot of times I don't remember the names.|sd
 A|I'd have to go back through some expense reports.|sd
 B|Uh-huh.|b
 A|But particularly, down in your area, I'm looking for some, some more restaurants.|sd
-A|So, I, you know, I don't know what's, what's down there,  the ones out in Addison. |sd
-B| Do you like Mexican? |qy
+A|So, I, you know, I don't know what's, what's down there,  the ones out in Addison.|sd
+B|Do you like Mexican?|qy
 B|Do you like Mexican food.|qy
 A|Not particularly|ng
 B|Oh.|b
@@ -124,8 +124,8 @@ B|So that's, that's a very good place to eat, The Blue Mesa Grill.|sd
 A|Good.|ba
 B|And, um,|%
 A|Well, this is great.|sd
-A|This is going to give me  some more places to go. |sd
-B|A whole new,  dining experience. |^2
+A|This is going to give me  some more places to go.|sd
+B|A whole new,  dining experience.|^2
 A|Okay,|b
 A|fine.|b
 A|I guess our time's about up,|sd

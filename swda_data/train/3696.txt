@@ -40,7 +40,7 @@ A|So.|%
 B|Well you have, you have|sv
 B|the family lives too close together, they see each other too often  they don't  take that kind of thing seriously.|sv
 A|Uh-huh,|aa
-A| basically. |aa
+A|basically.|aa
 A|Yeah.|b
 B|And if, uh uh, they come from far away, it's, uh, it, it, they take it more seriously|sv
 A|Yeah.|b
@@ -66,17 +66,17 @@ B|it is.|sd
 A|And I'm, I'm sure they're a lot more organized too, because they've done it before.|sv
 B|Yeah,|aa
 B|and it's, it's just something that they, they plan on doing every summer.|sd
-B| They just have  a weekend picnic,|sd
-A| That's great. |ba
+B|They just have  a weekend picnic,|sd
+A|That's great.|ba
 B|and every year everyone asks when is it happening and where is it happening|sd
 A|Oh.|b
 A|Yeah.|b
 B|and they just plan on being here.|sd
 A|That makes a big difference, too.|sv
 A|I know everybody's real eager to participate.|sd
-A| Yeah,|%
-A|well that's great. |ba
-B| Yeah,|b
+A|Yeah,|%
+A|well that's great.|ba
+B|Yeah,|b
 B|they,  they had a family reunion for, uh, well, for my mother-in-law at her seventy-fifth birthday,|sd
 B|and they managed to get just about everybody, everybody into town, uh, last November including a number of people from out in California.|sd
 A|Uh-huh.|b

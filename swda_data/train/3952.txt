@@ -31,8 +31,8 @@ B|Oh.|b
 A|So, I just try to keep that up, because it seems like if I don't, then, then my back gives me a problem again.|sd
 B|Right.|b
 A|So I try to do it every night,|sd
-A| and uh. |%
-B| Oh, that's  good.|ba
+A|and uh.|%
+B|Oh, that's  good.|ba
 A|Yeah,|aa
 A|it seems like it's, you know,|%
 A|I can tell when I do it and when I don't do it you know,|sd
@@ -70,8 +70,8 @@ B|I go with my dad.|sd
 B|He exercises a lot more than I do, though.|sd
 A|Oh, really?|bh
 B|Oh, yeah,|ny
-B| he's  always exercising.|sd
-A| Uh-huh. |b
+B|he's  always exercising.|sd
+A|Uh-huh.|b
 A|Uh-huh.|b
 B|But, I'm not that energetic|sd
 A|Yeah.|b
@@ -86,8 +86,8 @@ B|that's what I like to do.|sd
 A|You know, because, boy, they seem like they really get out of shape,|sd
 A|and once you get out of shape it's hard to get back into shape  you know.|sv
 B|Uh-huh.|aa
-B| Yeah. |aa
-A| So, I've just been doing it, I try to do it every night you know,|sd
+B|Yeah.|aa
+A|So, I've just been doing it, I try to do it every night you know,|sd
 B|Yeah.|b
 A|like I say, you just, I'd rather do that than watch television anyhow you know|sd
 B|Oh.|b
@@ -108,8 +108,8 @@ B|Uh-huh.|b
 A|So I wished I, I wished I did know how to do that.|sd
 A|If they had a pool here in Patterson I'd probably, you know, put my bathing suit on and go down there,|sd
 A|but they don't have a pool in this small city, either.|sd
-B|Oh.  Um. |b
-A| So.  Well, listen then,|fc
+B|Oh.  Um.|b
+A|So.  Well, listen then,|fc
 A|it's been nice talking to you.|fc
 B|Yeah,|fc
 B|nice talking to you.|fc

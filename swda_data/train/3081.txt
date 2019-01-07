@@ -60,9 +60,9 @@ B|Let's see,|^h
 B|what else do we like to have for,|t1
 B|trying to think what else I like to serve.|^h
 B|My mother likes to serve taco grandes.|sd
-B|Have you  ever had,   that? |qy
-A| I don't know, |no
-A| what  that is.|sd
+B|Have you  ever had,   that?|qy
+A|I don't know,|no
+A|what  that is.|sd
 A|No|nn
 A|I don't know what that is.|sd
 B|You take a flour tortilla|sd
@@ -144,9 +144,9 @@ A|we've been buying turkey lately, instead of beef,|sd
 A|so|%
 B|Do you want it?|t3
 A|even though, you know,|%
-B| Oh, yeah|b
-B|we have too, |sd
-A| the ground turkey,  it's, the meat is softer|sd
+B|Oh, yeah|b
+B|we have too,|sd
+A|the ground turkey,  it's, the meat is softer|sd
 A|and I,|%
 A|everybody seems to like it.|sd
 B|Do you want scrambled?|t3

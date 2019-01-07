@@ -40,10 +40,10 @@ B|and I went to wash the brushes out, and, uh, wash my hands,|sd
 B|and you can't wash it off with water.|sd
 B|You have to get the, uh, a solution|sd
 B|and,|%
-A|Oh, so you had to go around with paint all over you,  temporarily, anyway. |bf
+A|Oh, so you had to go around with paint all over you,  temporarily, anyway.|bf
 B|Yeah,|aa
 B|I had to drive to the store|sd
-B| yeah,|aa
+B|yeah,|aa
 B|I had to drive  to the store with paper towels all over my hands to go buy some paint thinner, and and everything like that,|sd
 A|Oh,|b
 B|and then, um, downstairs in the apartment, I just we just used a latex base,|sd

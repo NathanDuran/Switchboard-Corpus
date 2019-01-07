@@ -1,5 +1,5 @@
-B| Okay. |fo_o_fw_"_by_bc
-A| Your  family have reunions on a regular basis?|qy
+B|Okay.|fo_o_fw_"_by_bc
+A|Your  family have reunions on a regular basis?|qy
 B|Probably, once every five years.|no
 A|Once every five years?|qy
 B|Uh-huh.|ny
@@ -31,8 +31,8 @@ B|Yeah,|b
 B|see that is kind of what happened with ours.|sd
 B|That is why we have not had one in a long time.|sd
 A|Yeah.|b
-A| Uh. |b
-B| So,  so, to make one successful, I mean, I mean what do you all do.|qo
+A|Uh.|b
+B|So,  so, to make one successful, I mean, I mean what do you all do.|qo
 A|Oh,|^h
 B|Do you all just start planning real far ahead of time?|qy
 A|Pardon.|br
@@ -51,8 +51,8 @@ B|Eat a lot.|qy^d
 A|Oh, gosh.|ba
 B|It is a lot harder for us because we are like I said we are spread out|sd
 A|Yeah.|b
-B|and so we have to plan anywhere from six, well really probably a year ahead of time so that everyone, can uh, start their, uh,  vacation time. |sd
-A| Schedule vacation  time|b
+B|and so we have to plan anywhere from six, well really probably a year ahead of time so that everyone, can uh, start their, uh,  vacation time.|sd
+A|Schedule vacation  time|b
 A|and yeah.|b
 A|We|%
 A|uh, Sat, uh, Sunday afternoon or, uh, sometimes it has been like on a Saturday afternoon.|sd
@@ -80,7 +80,7 @@ A|and she took that summer off.|sd
 A|But, uh,|%
 B|Well, now that we have been talking about it, I, uh, I am kind of getting home sick now.|sd
 B|Because it has been over three years since I have been home  to see  my grandparents.|sd
-A|Oh  goodness. |ba
+A|Oh  goodness.|ba
 B|Well, my, my grandfather is the only one that is still around.|sd
 A|Yeah.|b
 B|And see, my grandmother is the one that use to plan this stuff basically.|sd
@@ -136,7 +136,7 @@ B|I mean, is that since,|%
 B|I mean do you have them every year?|qy
 A|Uh, yeah,|ny
 A|every year.|sd
-A| And, uh,  still, you wind up meeting people you, uh, you never knew you were related to. Let alone|qy^d
+A|And, uh,  still, you wind up meeting people you, uh, you never knew you were related to. Let alone|qy^d
 B|Yeah.|ny
 A|And,|%
 B|Well, I think that is probably why our is probably so interesting is cause we don't have them that often|sv

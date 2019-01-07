@@ -57,10 +57,10 @@ B|Uh-huh.|b
 B|Uh-huh|b
 A|and that kind of|%
 B|Yeah,|b
-B| it's kind of hard. |sd
-A| yeah,|aa
+B|it's kind of hard.|sd
+A|yeah,|aa
 A|it's hard,|sd
-A| I think, uh, I find myself getting my little projects going and not taking the time that I should|sd
+A|I think, uh, I find myself getting my little projects going and not taking the time that I should|sd
 B|Yeah.|b
 A|I'm more worried about, Oh,|sd
 A|I didn't this done,|sd

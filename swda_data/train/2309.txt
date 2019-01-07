@@ -154,5 +154,5 @@ B|Nice talking to you also.|fc
 A|Bye.|fc
 B|Have a wonderful Easter.|fc
 A|You, too.|fc
-B| Bye. |fc
-A| Bye. |fc
+B|Bye.|fc
+A|Bye.|fc

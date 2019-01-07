@@ -17,8 +17,8 @@ A|Um, I'm north of Pittsburgh,|sd
 A|so.|%
 B|Okay,|bk
 B|okay,|b
-B|so, it's, it's amazing too, you know, with that, with the oil wells burning over there, that's the exact same stuff that's coming out of cars every day, just in, uh, just in a little different  grade, I guess. |sv
-A| Yeah. |b
+B|so, it's, it's amazing too, you know, with that, with the oil wells burning over there, that's the exact same stuff that's coming out of cars every day, just in, uh, just in a little different  grade, I guess.|sv
+A|Yeah.|b
 B|But, uh, in Dallas, we've got, we've just, uh, brought in a whole new set of requirements on inspections and things like that for cars, because, uh, people just don't use mass transit and stuff in Dallas.|sd
 B|Everybody loves their car,|sv
 B|and you see an awful lot of, uh, one person vehicles on the road on, during rush hours.|sd
@@ -34,8 +34,8 @@ A|and like they, they get fined whenever they do the air pollution|sd
 B|Uh-huh.|b
 A|but the fine is nothing, you know,|sv
 B|Yeah,|b
-B| it's, it's,  like, like two hours of output or something like that.|sv
-A| it's like  nothing to them.|^2
+B|it's, it's,  like, like two hours of output or something like that.|sv
+A|it's like  nothing to them.|^2
 A|Yeah,|b
 A|yeah,|b
 B|That's true,|ba
@@ -58,8 +58,8 @@ A|Oh, my God|ba
 B|And, uh, yeah,|%
 B|I mean, it's not,|%
 B|I don't think Dallas is considered, uh, a real bad place for air pollution,|sv
-B|but, you, you can tell, you can tell the differences in the days, when it's, when the haze is kind of yellowish gray instead of just being a, a foggy, misty  color |sd
-A| Uh-huh. |b
+B|but, you, you can tell, you can tell the differences in the days, when it's, when the haze is kind of yellowish gray instead of just being a, a foggy, misty  color|sd
+A|Uh-huh.|b
 B|and, uh, it, it's a little, it's a little disappointing sometimes you start to realize what you're breathing.|sd
 A|Uh, yeah,|b
 A|but, I don't know what they can do to really prevent it, you know.|sd
@@ -67,8 +67,8 @@ A|Like, how,|%
 A|what can they do about the oil burning over in Kuwait?|qh
 A|What, you know,|%
 A|I mean they fine the industries,|sd
-A|but you know, that doesn't seem to stop them  there |sv
-B| Right. |b
+A|but you know, that doesn't seem to stop them  there|sv
+B|Right.|b
 A|I don't know what else they can do.|sd
 B|Right.|b
 B|It, it's that there really isn't a whole lot.|sv

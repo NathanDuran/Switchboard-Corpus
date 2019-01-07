@@ -1,13 +1,13 @@
 B|So, what sort of car are you interested in getting next?|qw
 A|Well, actually, I love the car I have.|sd
 A|I have a Chrysler LeBaron convertible.|sd
-A| And  I love it.|sd
-B| Ah. |b
+A|And  I love it.|sd
+B|Ah.|b
 A|And I would get another one in a minute.|sd
 A|Unless I could afford what I really like which would be a red Ferrari or, you know, a little Corvette or something like that.|sd
 A|And that's what would influence my decision to change because I like a really sporty car.|sd
 A|And I'd love an expensive one|sd
-A| but I probably,  can never afford it|sv
+A|but I probably,  can never afford it|sv
 A|so|%
 B|Uh, well I understand and can sympathize with that because I also enjoy driving performance automobiles.|sd
 B|Uh, I currently have an eighty-seven, five liter Mustang G T that I've done a bunch of modifications to, to make it, uh, handle and perform better,|sd
@@ -22,10 +22,10 @@ B|A, a three twenty-eight G T S?|qy
 A|And I couldn't tell you|no
 A|but it's just beautiful.|sv
 A|And I go out and I love to  touch it|sd
-A|but I can't even do that because of the alarm. |sd
-B|   You just go hunting? |qh
-A| So, I just look  at it a lot  |sd
-B| Go out and  lust after it.|bf
+A|but I can't even do that because of the alarm.|sd
+B|You just go hunting?|qh
+A|So, I just look  at it a lot|sd
+B|Go out and  lust after it.|bf
 A|Really|aa
 A|Exactly.|aa
 A|But it sure is a pretty thing|sv
@@ -36,7 +36,7 @@ A|No,|nn
 A|I really haven't,|sd
 A|no,|nn
 A|huh-uh|nn
-A| I did  test drive a Corvette last year. Maybe the year before.|sd
+A|I did  test drive a Corvette last year. Maybe the year before.|sd
 A|It was brand new, white,|sd
 A|it was like a big marshmallow.|sv
 A|When you sat in the seats, they adjusted to fit around you.|sd
@@ -51,10 +51,10 @@ A|but I had a choice of that or my house|sd
 A|and  I thought that I'd continue,  to live in my house|sd
 A|so.|%
 B|Yeah,|b
-B|there, there's something about having a place to live, |sv
-B|I don't know. |h
-A| Yeah,|aa
-A| you know, it's just necessary.|sv
+B|there, there's something about having a place to live,|sv
+B|I don't know.|h
+A|Yeah,|aa
+A|you know, it's just necessary.|sv
 A|And I did, I thought well a tent wouldn't be bad but probably not practical.|sv
 B|Could sleep in the back of the 'vette.|sv
 A|Yeah,|b
@@ -63,8 +63,8 @@ A|So,|%
 B|I find that, uh, that the Corvettes are, are becoming really, really nice cars.|sv
 A|They are, they're pretty aren't they lately|qy
 B|Yeah.|ny
-B| And  they, they've improved, the performance and the suspension such that they're actually a lot of fun to drive.|sv
-A| They really  are.|sv
+B|And  they, they've improved, the performance and the suspension such that they're actually a lot of fun to drive.|sv
+A|They really  are.|sv
 A|Really.|b
 B|It's not like driving a, a Winnebago or something.|sv
 A|Oh, no|aa
@@ -74,14 +74,14 @@ A|See, I'm not into station wagons and vans and things that people are really bu
 A|and they go isn't that a nice van|sd
 A|and I go, um.|sd
 A|Not really, you know.|^q
-A| How about  a Greyhound bus|^q
-B| Nice. |sd
+A|How about  a Greyhound bus|^q
+B|Nice.|sd
 B|Yeah.|aa
 B|Nice isn't the word I'd choose.|sd
 B|Maybe practical.|sd
 A|Yeah.|b
-A| I mean that, you know. |%
-B| Isn't that a practical van. |qy
+A|I mean that, you know.|%
+B|Isn't that a practical van.|qy
 A|There's some that are prettier than others|sv
 A|and|%
 A|yeah,|%
@@ -116,16 +116,16 @@ A|and so, I figured there was nowhere I was to late to go that I didn't have twe
 B|Right.|b
 A|So.|%
 B|And, and you couldn't get,|%
-B|how long does it take to go back up? About the  same time. |qw
-A| Twenty seconds,|sd
-A| yeah.|ny
+B|how long does it take to go back up? About the  same time.|qw
+A|Twenty seconds,|sd
+A|yeah.|ny
 A|That's all it takes.|sd
 A|I mean, it's just a button, that's  it.|sd
 A|You  release it right at the top,|sd
-B| Yeah,|b
-B|so |%
+B|Yeah,|b
+B|so|%
 A|so  you don't have to  get out or anything.|sd
-B| So you won't get, |bf
+B|So you won't get,|bf
 B|Yeah|b
 B|and twenty seconds you probably won't get caught in anything too substantial.|sv
 A|Well I did, actually.|ar
@@ -137,18 +137,18 @@ A|I mean I was soaking wet.|sd
 A|I thought I would drown in the seconds that it took me to pull over|sd
 B|Whoops.|ba
 A|But it all dried out, you know.  Didn't  take long when the sun came out|sd
-B| Yeah. |b
+B|Yeah.|b
 A|but it was kind of funny.|sv
-A|I'm sure people around me really enjoyed it |sv
-A|but, |%
-B|  Oh. No I was just down in Austin last week|sd
+A|I'm sure people around me really enjoyed it|sv
+A|but,|%
+B|Oh. No I was just down in Austin last week|sd
 B|and the weather was pretty nice too.|sd
 B|So,|%
 A|Oh|b
 A|and wasn't it pretty last week with the  Bluebonnets and everything,|qy
 A|yeah,|ny
-A|yeah. |ny
-B| With the Bluebonnets out,|^2
+A|yeah.|ny
+B|With the Bluebonnets out,|^2
 B|yeah.|aa
 B|It  really was.|sv
 B|Yeah|%

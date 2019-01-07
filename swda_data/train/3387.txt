@@ -5,8 +5,8 @@ B|The, the first one is we need people in there that, that understand, uh, numbe
 A|Uh-huh.|b
 B|and, and the people that are talking this numbers have no concept of what that number means.|sv
 A|Now are you, are you talking about the elected people|qy
-A|or are you talking about  others? |qrr
-B| The elected  people.|sd
+A|or are you talking about  others?|qrr
+B|The elected  people.|sd
 B|Yes.|ny
 B|Uh-huh.|ny
 A|Uh-huh.|b
@@ -23,14 +23,14 @@ A|So you would trust the decision making economists?|qy
 B|Well|arp_nd
 A|Sometimes called the dismal science.|sd
 B|Yeah.|b
-B|But, but people that, that know the value of a dollar that understand the  value of a dollar, |sd
-A| Uh-huh. |b
+B|But, but people that, that know the value of a dollar that understand the  value of a dollar,|sd
+A|Uh-huh.|b
 A|Yes.|b
 B|um, and|%
 B|in, in, in|%
 B|the, the, uh, lobbyists,  needs  them to be eliminated, uh,  from  Congress. Um,|sv
-A| Uh-huh. |b
-A| Uh-huh. |b
+A|Uh-huh.|b
+A|Uh-huh.|b
 A|Yes.|b
 B|They don't make pragmatic decisions.|sv
 B|They make a decision based on constituency instead of a decision based on what they really believe.|sv
@@ -63,8 +63,8 @@ A|Uh-huh.|b
 B|Uh, I, I forget the figures on the interest rate|h
 B|but it's something like, uh, hundreds of thousands of dollars a second in interest.|sv
 A|Uh-huh.|b
-A| Yeah. |b
-B| Part  of the problem is we don't loan from ourselves.|sv
+A|Yeah.|b
+B|Part  of the problem is we don't loan from ourselves.|sv
 B|We, we buy from intimate international banking.|sv
 B|That's why we have interest.|sv
 A|Uh-huh.|b
@@ -73,23 +73,23 @@ A|But what practical steps could could one take? Um,|qw
 B|By, by having a, a, a budget that is, is feasible, that is reasonable.|sd
 A|Well, but everybody will say that he is for that.  Uh,|sv
 A|and,   and how will you,  make that actually happen?|qw
-B| Oh, of course. |ba
+B|Oh, of course.|ba
 B|Sure .|b
-B| And then add on to it. |sv
+B|And then add on to it.|sv
 B|You take the gross national income and you say our budget is X number of percent of this gross national income.|sv
 A|Uh-huh.|b
 B|One thing we could do is give a ten percent income tax. Across-the-board,|sv
 A|Uh-huh.|b
 B|everyone no matter what,  pays a  ten percent income tax.|sv
-A| Yep. |aa
+A|Yep.|aa
 A|Sounds like a good idea.|ba
-B| Uh, |%
-A| Nothing  escapes, right?|qy
+B|Uh,|%
+A|Nothing  escapes, right?|qy
 A|No, no,  deductions,  nothing.|qy^d
-B| That's right. |na
-B| Right.|na
-B|No deductions. |sv
-A| Just ten percent. |sv
+B|That's right.|na
+B|Right.|na
+B|No deductions.|sv
+A|Just ten percent.|sv
 B|You pay a ten percent income tax.|bf
 A|Yep.|aa
 B|That's what you pay|sv

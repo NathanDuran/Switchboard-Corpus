@@ -30,8 +30,8 @@ B|sure.|b
 B|Uh-huh.|b
 B|Yeah.|b
 B|Yeah.|b
-B|Uh, uh, do you find that, uh, on the average do people give uh, more credibility or less credibility to a professional, uh, to professionally dressed  individual. |qy
-A| Yeah,|b
+B|Uh, uh, do you find that, uh, on the average do people give uh, more credibility or less credibility to a professional, uh, to professionally dressed  individual.|qy
+A|Yeah,|b
 A|I think  in today's society, uh, there is more credibility to be quite honest|sv
 B|Uh-huh.|b
 A|I will always remember,|sd
@@ -66,8 +66,8 @@ A|In my business if I call on the the J C Penney company here in Dallas or say s
 A|If I call on just, uh, a normal little dealer of mine, I might be casual.|sd
 B|Uh-huh.|b
 A|I call on Oshman's sporting goods, again, it may be casual or it may be coat and tie.|sd
-A| So it depends. |sd
-B| Yeah,|b
+A|So it depends.|sd
+B|Yeah,|b
 B|it  depends.|b^m
 B|Sure.|b
 B|Uh, so you don't, uh,|%
@@ -110,7 +110,7 @@ B|and, uh, and sometimes that really disappoints me, uh, in, uh, when I see in o
 A|Sure.|b
 B|You know, people just don't have that|sd
 B|and they are afraid to go to church or afraid to go  simply because  they don't have the clothes to wear.|sd
-A| But . |%
+A|But .|%
 A|That is a very good point.|ba
 A|I am from West Virginia|sd
 A|so I understand what you are saying there|sd

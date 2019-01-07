@@ -16,8 +16,8 @@ B|yeah.|aa
 B|From what I understand, they act up pretty bad|sv
 A|Yeah,|aa
 A|that's right,|aa
-A| that's right. |aa
-B| What, uh,  grade is your daughter in?|qw
+A|that's right.|aa
+B|What, uh,  grade is your daughter in?|qw
 A|My, my daughter's in the, um, fourth grade|sd
 B|Uh-huh,|b
 B|uh-huh.|b
@@ -70,7 +70,7 @@ B|I think they're doing real good job.|aa
 A|Uh-huh,|b
 A|so.|%
 B|But, then, what do I know,|qh
-B| I don't have any kids. |ng
+B|I don't have any kids.|ng
 B|No,|nn
 B|none at all|sd
 A|Yeah,|bk

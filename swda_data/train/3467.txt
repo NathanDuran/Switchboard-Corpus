@@ -99,9 +99,9 @@ A|Sure,|b
 A|yeah,|b
 A|well, maybe, maybe your husband could tape it for you sometime.|ad
 B|Yeah,|aa
-B|I should get him to do that.  Because I know, |sd
+B|I should get him to do that.  Because I know,|sd
 A|Just so you get the idea.|sd
-A| It wouldn't take,  Wouldn't take much to get hooked on those|sv
+A|It wouldn't take,  Wouldn't take much to get hooked on those|sv
 B|Yeah,|b
 B|yeah,|b
 B|uh-huh.|b
@@ -173,9 +173,9 @@ A|I don't have cable.|sd
 B|Now I told ,|%
 B|no,|aa
 B|we don't have that station either,|sd
-B|so, uh, I haven't been able to catch any of that, |sd
-B|but just what little we caught on the news. |sd
-A| It's just as wild as any soap  opera, from what I hear on the news.|sv
+B|so, uh, I haven't been able to catch any of that,|sd
+B|but just what little we caught on the news.|sd
+A|It's just as wild as any soap  opera, from what I hear on the news.|sv
 B|Oh, I know it.|aa
 A|And I think he's guilty as the devil.|sv
 B|Well, I don't see how he couldn't be, you know.|sd

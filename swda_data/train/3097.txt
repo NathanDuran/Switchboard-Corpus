@@ -145,10 +145,10 @@ A|You know, it's funny,|sv
 B|I refused to cram their lives full.|sd
 A|Yeah,|b
 A|yeah.|b
-A| It's funny,|sv
+A|It's funny,|sv
 A|it's funny|sv
 A|I was  I was really looking forward to summer, thinking oh, we are going to have some time off.|sd
-B| And that's the way it is with a woman too. |sv
+B|And that's the way it is with a woman too.|sv
 B|Uh-huh.|b
 A|And it's been real busy.|sd
 A|And actually, today is really the first, as far as I am concerned, the first day of summer Because we have had so much going on the past few weeks.|sd
@@ -205,8 +205,8 @@ B|That's a part of the problem that women have always had|sv
 B|and that is accepting responsibility for things that really are other people's responsibilities.|sv
 A|That's very true.|aa
 B|They, They,|%
-A|And then that way, we have not changed in, hundreds of years,  have we. |qy
-B| That's right. |aa
+A|And then that way, we have not changed in, hundreds of years,  have we.|qy
+B|That's right.|aa
 A|Yeah.|b
 B|That way husbands are crippled,|sv
 A|Yeah.|b

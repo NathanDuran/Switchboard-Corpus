@@ -1,11 +1,11 @@
-B| Okay. |fo_o_fw_"_by_bc
-A| Um,  well I guess first of all I, I could have asked that before.|sv
+B|Okay.|fo_o_fw_"_by_bc
+A|Um,  well I guess first of all I, I could have asked that before.|sv
 A|Do you have children?|qy
 B|No.|nn
 A|No.|b^m
 A|Okay.|bk
 A|Because I, I didn't know if that would make a difference  in how you  felt.|sd
-B| Yeah. |b
+B|Yeah.|b
 A|Um, what do you think about the proposal that all young Americans should spend a year or two,|qo
 B|I think it's a good idea.|sv
 B|I think everybody should, should, uh, put in their time so to speak for the, for the good of the, the nation and for the good of themselves.|sv
@@ -18,15 +18,15 @@ A|and, uh, I had opportunities in high school, to work in some programs, um|sd
 B|Did you?|qy
 B|something Oh!|ba
 A|and, and I agree with what you said that it's, uh, it benefits the person doing it  so  much I don't think they realize|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|and I, uh, I, I think it gives you a better perspective, on life|sv
 A|and, uh, it gives you a little bit, uh, more a glimpse of the, the real world|sv
-A| and  and it would certainly help the country, too, uh.|sv
-B| Yeah. |b
+A|and  and it would certainly help the country, too, uh.|sv
+B|Yeah.|b
 B|Really|b
 B|Yeah,|%
 B|I think that's probably like, uh, quite a few things that, that the kids, uh, maybe not so much nowadays but used to  go through,  you know,|sv
-A| Yeah. |b
+A|Yeah.|b
 B|they, just, they were, they did things for people, you know, for their communities, for their, their, uh, families, for their friends, where now, I'm not sure they really do.|sv
 A|Yes.|aa
 A|Yeah.|aa
@@ -38,7 +38,7 @@ A|Um, but I do know through some organized groups like Scouts and church um, the
 B|Uh-huh.|b
 B|Yeah,|aa
 B|that's probably true  You know|aa
-A|But, I, I think that's a small, uh, number  could, |sv
+A|But, I, I think that's a small, uh, number  could,|sv
 B|but  even, even through those groups, do you think that they participate as much as maybe they used to?|qy
 A|No,|nn
 A|um, not since, um, not as much as I remember growing up.|sd
@@ -46,19 +46,19 @@ A|And that was something, uh, I think in the fifties and sixties, um, seemed mor
 B|Uh-huh.|b
 B|Yeah.|aa
 B|I think that's probably true.|aa
-A| But, |%
-B| I  think it's probably more true, still in the, in the smaller communities then in the larger cities.|sv
+A|But,|%
+B|I  think it's probably more true, still in the, in the smaller communities then in the larger cities.|sv
 A|Yeah.|b
 A|Yeah.|b
 A|Where, uh, where abouts do you live?|qw
 A|What part of the country?|qw
-B|Well, I live in Richardson right now.  Which is just, |sd
-A| Oh, okay. |bk
+B|Well, I live in Richardson right now.  Which is just,|sd
+A|Oh, okay.|bk
 A|We're in Plano|sd
-A| so we're not far apart. |sd
-B| Right.|aa
+A|so we're not far apart.|sd
+B|Right.|aa
 B|Yeah,|aa
-B|okay. |aa
+B|okay.|aa
 A|One of the calls I'd gotten before was, uh, down to Austin|sd
 A|and, and I know, a friend of mine talked to someone in the midwest|sd
 A|so I know there is the possibility that it could be out of the area.|sd
@@ -81,8 +81,8 @@ A|and it, it seems in the last decade or two, um, that's true,|sv
 A|maybe that's a way,|sv
 A|if, if young people had to do it um, maybe that would start the trend back because that's one of the things I always thought was a wonderful part of our country.  Um,  is helping others|sv
 B|Uh-huh.|b
-B| Yeah,|aa
-B| I do to.|aa
+B|Yeah,|aa
+B|I do to.|aa
 B|I do to.|aa
 B|I'm not sure that, that today's kids would go for it though.|sv
 B|I think you would have to start younger.|sv
@@ -92,7 +92,7 @@ B|but I think by the time they're, oh, early teenagers anyway, I think it's too 
 A|Yeah,|b
 A|I think, uh, I think it does help, um, even preschoolers, you know|sv
 A|they're, um, things even just starting around the home.  You  know|sv
-B| Right. |b
+B|Right.|b
 A|little ones can do a little bit to help the family.|sv
 B|Uh-huh.|b
 A|And, and just watching the parents do things too, um, it can start a pattern.|sv
@@ -113,30 +113,30 @@ A|I mean when you live in areas like that where there's so much they don't reali
 B|Uh-huh.|b
 A|I mean, that's, uh,|%
 A|gosh I'm sure, not even one percent of the world is as fortunate as these areas|sv
-A| and, uh  it's,|%
-B| That's  probably true.|sv
+A|and, uh  it's,|%
+B|That's  probably true.|sv
 B|That's probably true.|sv
 A|I know our church youth group, uh, starts with projects young|sd
 A|but they have a high school group that works in the Appalachia  area  every year.|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|They've done this for fourteen years now.|sd
 B|Oh, that's great.|ba
 A|Um, and it is, it's, uh,|%
 A|and they've also see that there's, there's a different way of life and those families are really close.|sd
 A|Some of the things, that we talked about that were common in the fifties are still there|sd
-B| Uh-huh. |b
-A| and,  uh, it really,|%
+B|Uh-huh.|b
+A|and,  uh, it really,|%
 A|every youth that's ever gone really has felt that their life has been changed|sd
 A|and it's changed their perspective.|sd
 A|And, and that's just the two weeks during, during the summer.|sd
 B|Uh-huh.|b
-A|So, if two weeks, uh, could have that kind of effect I would  think, uh, |sv
-B|Well, that's, that's  great. |ba
+A|So, if two weeks, uh, could have that kind of effect I would  think, uh,|sv
+B|Well, that's, that's  great.|ba
 B|I'm glad that there are still some areas that, that get the youth involved in that sort of thing.|sd
 A|Well that's,|%
 B|Like I said, I think it does,|sv
 B|even a small amount of exposure can make a vast difference  in their  attitudes|sv
-A| Yes. |b
+A|Yes.|b
 B|Well|%
 A|Well, I guess, um,|%
 A|did you have anything else?|qy

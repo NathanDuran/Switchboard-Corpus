@@ -123,9 +123,9 @@ B|I mean, you know, every every one of us have two sides|sv
 A|Yeah,|aa
 A|I guess so|aa
 A|that's true.|aa
-A| Yeah. |aa
-B| Yeah.|b^m
-B| Now what about you,|qo
+A|Yeah.|aa
+B|Yeah.|b^m
+B|Now what about you,|qo
 B|if you could have the car that you wanted what would you get|qw
 A|If, if, if I had the car I wanted.|^h
 B|and why?|qw
@@ -135,8 +135,8 @@ A|Probably, um, uh, let's see, I like the looks of the Lincoln Town car|sd
 B|Uh-huh,|b
 B|uh-huh.|b
 B|Yeah.|b
-B| See there, |%
-A| But I,  I don't know the performance of it.|sd
+B|See there,|%
+A|But I,  I don't know the performance of it.|sd
 A|That's a, Ford product,|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
@@ -176,7 +176,7 @@ B|Actually I think probably if I were going to get if I were going to be practic
 A|Right,|b
 A|well,  practical|%
 A|yes|%
-A|that's, |%
+A|that's,|%
 A|Uh-huh.|b
 A|Right|aa
 A|and it's cooler I believe, too, when you're driving in,|sv
@@ -231,11 +231,11 @@ A|Uh-huh.|b
 A|Uh-huh.|b
 B|And I do like them.|sd
 B|And I'd like to have a compact disc player in the car.|sd
-B|That would be,  something that I would really like. |sd
-A| Those are nice, aren't they? |qy
-A| Yes,|ny
-A|those are nice. |sv
-B| Those compact discs,  really are good for cars because they don't melt,|sv
+B|That would be,  something that I would really like.|sd
+A|Those are nice, aren't they?|qy
+A|Yes,|ny
+A|those are nice.|sv
+B|Those compact discs,  really are good for cars because they don't melt,|sv
 A|Uh-huh.|b
 B|they don't warp.|sv
 A|Uh-huh.|b

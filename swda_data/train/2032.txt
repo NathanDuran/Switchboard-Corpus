@@ -317,6 +317,6 @@ A|So then, uh, have fun doing this.|fc
 A|It is not,  that bad.|fc
 B|Okay,|fc
 B|thanks.|fc
-A|Bye, bye. |fc
-B| Great,|fc
-B|Bye. |fc
+A|Bye, bye.|fc
+B|Great,|fc
+B|Bye.|fc

@@ -18,10 +18,10 @@ B|but none, none right now.|sd
 A|How come, uh, you don't have any now?|qw
 A|You get tired of them?|qy
 B|Well, I, I live in an apartment building|sd
-B|and, and, uh, and, and, it, it, it's just not feasible  you know. |sd
-A| Yeah. |b
-B|I'd love to have a dog,  you know. |sd
-A| I've got  a little doggy, uh, that I've had quite, uh, quite a long time.|sd
+B|and, and, uh, and, and, it, it, it's just not feasible  you know.|sd
+A|Yeah.|b
+B|I'd love to have a dog,  you know.|sd
+A|I've got  a little doggy, uh, that I've had quite, uh, quite a long time.|sd
 A|In fact, she just turned sixteen years old New Year's Eve.|sd
 B|Ah.|%
 A|And, uh|%
@@ -29,9 +29,9 @@ B|Is she?|%
 A|I beg your pardon?|br
 B|What is she?|qw
 A|She's, uh, uh, uh, a poodle.|sd
-A|Uh, a toy poodle, a toy poodle |sd
-A|and she's, |%
-B| Ah.|b
+A|Uh, a toy poodle, a toy poodle|sd
+A|and she's,|%
+B|Ah.|b
 B|Ah,|b
 B|my, I got  my mom a  teacup little mutt ,  not too long ago.|sd
 A|This is a little bigger than a teacup.|sd
@@ -43,7 +43,7 @@ A|and, uh, this is what she had told the kids|sd
 A|and she even told me that.|sd
 A|And after the two week period was up, uh, she then informed me that the woman no longer wanted the little puppy and wanted to know if we wanted to keep it.|sd
 A|Well, after you had an animal for a couple of weeks, it's, uh,  you become  you become attached to it.|sv
-B| Oh, for sure. |aa
+B|Oh, for sure.|aa
 B|Oh, yeah.|b
 A|So, I've had this dog now for, for sixteen years|sd
 A|and she's been a lot of company|sd
@@ -52,9 +52,9 @@ A|and things are starting to fail.|sd
 A|Uh, I, I live alone now|sd
 A|and she stays in the house all day while I go to work|sd
 A|and, uh, she's been holding herself pretty well. The, uh, up until, you know, recently where she's been having accidents in the house because she either is losing control or she forgets where she is|sd
-A|and, uh, I find a little present on the floor sometimes when I come home. |sd
-A|But she's, she's usually pretty good. |sd
-B|  Yes,|b
+A|and, uh, I find a little present on the floor sometimes when I come home.|sd
+A|But she's, she's usually pretty good.|sd
+B|Yes,|b
 B|well. My, my mother has one that's, uh,|sd
 B|it's, uh, it's, uh, teacup|sd
 B|and, uh, it's made such a difference for her.|sd
@@ -70,9 +70,9 @@ A|Uh-huh.|b
 B|so I'm unable to, to, really take care of a pet|sd
 B|and if that weren't so, I would certainly have one.|sd
 B|I just, I just,|%
-B|it frustrates me sometimes not being able to have a dog |sd
-B|yeah . |b
-A| Huh. Well,  you might want to get yourself, uh, an animal that doesn't require much attention. Like a cat.|ad
+B|it frustrates me sometimes not being able to have a dog|sd
+B|yeah .|b
+A|Huh. Well,  you might want to get yourself, uh, an animal that doesn't require much attention. Like a cat.|ad
 B|Oh, yeah.|b
 B|Well, yeah,|b
 B|uh, I, I, I typically am not a cat person.|sd
@@ -81,24 +81,24 @@ B|And this cat is like no other cat I have ever seen.|sd
 B|And, uh, it would sleep on my chest, you know.|sd
 A|Yeah.|b
 B|It's just, it's just a  great cat,|sd
-B|but. |%
-A| Well, my, my personal  preference is, is a dog.|sd
+B|but.|%
+A|Well, my, my personal  preference is, is a dog.|sd
 A|Uh, I don't know that, uh, that I would ever want a cat.|sd
 A|Oh, I like cats.|sd
 A|I just wouldn't want to own one.|sd
 A|Uh  they're not, uh,  they're, they're affectionate|sv
-B| Well, you don't own cats. |sv
+B|Well, you don't own cats.|sv
 A|but they,|%
 A|yeah|%
 A|I don't know,|h
 A|I can't seem to communicate with a cat like I can with my dog.|sv
 B|Yeah.|b
-B|You, they, they own you or, or, you know, grant you with you their presence,  you know. |sv
+B|You, they, they own you or, or, you know, grant you with you their presence,  you know.|sv
 A|Yeah,|aa
 A|right|aa
-A| Yeah.|aa
+A|Yeah.|aa
 A|Right.|aa
-A| That,|%
+A|That,|%
 A|yes,|%
 A|we're supposed to appreciate them.|sd
 A|Well, my, my dog when I came home, uh, when I come home in the evenings, my dog greets me at the door.|sd
@@ -108,17 +108,17 @@ B|I used to have, a cat that could read me better than any human being in my lif
 A|Yeah.|b
 B|I could just walk in the door|sd
 B|and she knew whether to, to, to quietly come up to me or to just run and knock me over.|sd
-B| I mean she  really could pick up on my mood  uh, the  way I walked in the door.|sd
-A| Yeah,|b
-A|yeah. |b
+B|I mean she  really could pick up on my mood  uh, the  way I walked in the door.|sd
+A|Yeah,|b
+A|yeah.|b
 B|It was, uh, uncanny like a|sv
-A|Huh. I, I think, uh, in a way we're able to read each other pretty well because, uh, she knows when I'm upset and I know when she's not feeling good too |sd
-A|So. |%
-B| Yeah. |b
+A|Huh. I, I think, uh, in a way we're able to read each other pretty well because, uh, she knows when I'm upset and I know when she's not feeling good too|sd
+A|So.|%
+B|Yeah.|b
 A|I know like when she has an accident, I know she's not doing it on purpose.|sd
 A|When when she was younger, she used to do that to get even with me,|sd
 B|Yeah.|b
-A| Uh, and, and,  you know, some people might not believe that|sd
+A|Uh, and, and,  you know, some people might not believe that|sd
 A|but, but, but, uh, I do|sd
 B|Sure|b
 B|Oh, absolutely.|ba
@@ -131,9 +131,9 @@ B|One morning, you know, the first thing you do is you get up and you, you, you 
 B|Well, for some reason during the night, the door was not quite wide enough for it to get through|sd
 A|Uh-huh.|b
 B|and, uh, the next morning, uh, when my roommate got up and, and, uh, did not feed it right away, it decided that, that it was going to protest.|sd
-B|And so it jumped up on my bed and anointed my blanket,  for me. Looking, looking  at me eye to eye,  all the time while it was doing it. |sd
-B|All right.  Have I got your attention now? |^q
-A|  Oh, yes.|b
+B|And so it jumped up on my bed and anointed my blanket,  for me. Looking, looking  at me eye to eye,  all the time while it was doing it.|sd
+B|All right.  Have I got your attention now?|^q
+A|Oh, yes.|b
 A|Animals have a way of talking|sv
 B|Alfie did.|sd
 B|I tell you if I could have gotten a hold of that cat that day.|sd
@@ -167,8 +167,8 @@ A|Well, the, see the problem is if, if the, if someone would have came up to me 
 A|What do you want to do?|^q
 A|I probably would have had second thoughts.|sd
 B|Yeah.|aa
-B| Of course, you would. |aa
-A| But what they,  well, what they do is, is they say, well it's going to cost, you know, twenty dollars for tests and forty dollars for this|sd
+B|Of course, you would.|aa
+A|But what they,  well, what they do is, is they say, well it's going to cost, you know, twenty dollars for tests and forty dollars for this|sd
 A|and, and, you know, and it creeps up on you.|sd
 A|You don't know that, uh, you know|sd
 A|You really, you don't know what it's going to until it's all over.|sd
@@ -179,18 +179,18 @@ A|and she had the cat there for two days|sd
 A|and then the cat died.|sd
 A|So the doctor had called her up and said, uh, your cat died|sd
 A|and you owe me this bill,|^q
-A|and oh, by the way, do you want me to, to bury the cat  |^q
+A|and oh, by the way, do you want me to, to bury the cat|^q
 A|So, it cost her three hundred dollars, uh,|sd
 A|and she didn't get the cat back.|sd
 A|So, yeah,|%
 A|they had to pay for all the medical, uh, bills that the cat ran up plus the burial expenses.|sd
 A|And, uh, you know, she just brought the cat in because he wasn't feeling good|sd
-A| So that  that was kind of a surprise |sd
-B| Really. |b
+A|So that  that was kind of a surprise|sd
+B|Really.|b
 B|Geez.|ba
-A|At |%
-B| Yeah.|b
-B| You kind of wonder what really happened.|qy^d
+A|At|%
+B|Yeah.|b
+B|You kind of wonder what really happened.|qy^d
 A|Yeah.|ny
 A|Well even the, you know,|%
 A|they, they claimed they did the best that they could have have|sd
@@ -207,8 +207,8 @@ A|because they're both in their, in their seventies. And, uh, the cat, uh, altho
 A|Uh, I think they enjoy that.|sv
 B|Only work initially.|bf
 A|Yeah.|aa
-B|For cats anyway,  you know. |sv
-A| Yeah. |b
+B|For cats anyway,  you know.|sv
+A|Yeah.|b
 B|Well, listen|ad
 B|it's been a pleasure talking to you.|fc
 A|Well, the same here.|fc
@@ -222,5 +222,5 @@ B|That's my buzzer at the door|sd
 A|Oh, okay.|bk
 A|I'll let you go.|fc
 B|Okay.|fc
-A| Right |fc
-B| Thank you |fc
+A|Right|fc
+B|Thank you|fc

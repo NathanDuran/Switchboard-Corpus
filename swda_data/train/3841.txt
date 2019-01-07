@@ -7,7 +7,7 @@ A|My wife's a school teacher|sd
 A|so|%
 B|Well, then, I'll, uh, I'll walk softly.|oo_co_cc
 A|No.|ar
-A| You go right ahead because I,  have a lot of strong opinions on it, too.|ad
+A|You go right ahead because I,  have a lot of strong opinions on it, too.|ad
 A|My wife teaches seventh grade,|sd
 A|and, you know, there is a lot of serious things wrong with the school system today and the teaching system.|sv
 A|I think the,|sv

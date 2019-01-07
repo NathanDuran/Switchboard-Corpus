@@ -1,10 +1,10 @@
 A|What do you think?|qo
 B|Well, uh, I can't be terribly authoritative on what life was like thirty years ago, uh, because I'm not that old yet.|sd
 A|Uh-huh.|b
-B|Um  |%
-A| I can be, |%
-A|but go ahead  |ad
-B|  Uh, I know that, uh,|%
+B|Um|%
+A|I can be,|%
+A|but go ahead|ad
+B|Uh, I know that, uh,|%
 B|I mean obviously you look at, at the technological aspect of, of social change.|%
 B|I mean you didn't have, uh, you didn't have video games.|sd
 B|You didn't have home computers.|sd
@@ -15,8 +15,8 @@ B|you go into a, a business today|sd
 B|and, you, you try to imagine the whole thing except running off of carbon paper|sd
 B|and it's almost inconceivable now because the Xerox machines and, and everything have become such, you know, such a, a a part of the way we live.|sv
 A|Right.|aa
-A| We fax  everything.|sd
-B| And , |%
+A|We fax  everything.|sd
+B|And ,|%
 B|Yeah.|b
 A|We don't even wait for the mail anymore.|sd
 B|Uh-huh.|b
@@ -32,9 +32,9 @@ A|Uh-huh|b
 A|Right.|b
 B|and because of that, these quote, unquote convenience type items have made work that much more intense and that much harder.|sv
 A|Right.|b
-B|Because you're expected to work on  stuff up until the last minute. |sv
-A| You're expected to,|aa
-A| exactly.|aa
+B|Because you're expected to work on  stuff up until the last minute.|sv
+A|You're expected to,|aa
+A|exactly.|aa
 A|And I recently read an article on just this, that said stress today is so much worse|sd
 A|It should be less because we have a microwave|sd
 A|and our grandmothers had to bake brownies|sd
@@ -82,16 +82,16 @@ A|Yeah,|aa
 A|yeah.|aa
 A|That's true.|aa
 A|When is this good or not good. *listen|%
-B|Well, uh, In terms of the long term effect, effect on, on America, in terms of the culture and everything, I don't know. |sd
+B|Well, uh, In terms of the long term effect, effect on, on America, in terms of the culture and everything, I don't know.|sd
 A|We don't know that yet|sv
 B|Uh,  Most of the, of the next generation is going to be in, or, or an, extremely large part of the next generation is going to be, you know, second generation, uh, from immigrant parents.|sv
-A| Yeah.|aa
-A| I don't know either.|sd
-A| That's true. |aa
-B| And they're  going to be really struggling|sv
-B|and I don't think that America is currently the type of environment where struggling up from the bottom is necessarily considered to be good  |sv
-A| Right,|aa
-A| right.|aa
+A|Yeah.|aa
+A|I don't know either.|sd
+A|That's true.|aa
+B|And they're  going to be really struggling|sv
+B|and I don't think that America is currently the type of environment where struggling up from the bottom is necessarily considered to be good|sv
+A|Right,|aa
+A|right.|aa
 B|I mean, it's no longer the, the, uh, the accomplishment that it, that it once was|sd
 B|and not that many people are really trying I don't think|sv
 A|Yeah.|aa
@@ -105,6 +105,6 @@ B|Yeah|b
 A|So. And I don't know what's going to happen.|sd
 A|Uh, I know what I'm seeing here at my job is that people are having their children much later in life  so  that they're establishing careers|sd
 B|Yeah,|aa
-B| |%
+B||%
 A|and they've got their homes|sd
 A|and they've got,|%

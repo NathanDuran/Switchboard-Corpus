@@ -85,8 +85,8 @@ A|and it's, it's increasing even as far near the Equator as like Florida and Cub
 B|Yeah.|b
 A|So it's kind of an interesting situation.|sv
 A|It's not not a real good one actually.|sv
-B| No. |aa
-A| But, |%
+B|No.|aa
+A|But,|%
 B|Well, you also have the very close related thing of the, uh, rain forest destruction which is the main source of what's clearing out the atmosphere and replacing some of the pollutants.|sv
 A|Yeah.|b
 A|Uh-huh,|b
@@ -102,7 +102,7 @@ A|Yeah,|b
 A|those are actually areas that are hit pretty hard, I would think.|sv
 B|Well, not, not as hard as some places out west because you don't get the, uh, major pollution sources as you do out in Denver with the  inversion  and Los Angeles and rest of California which is just terrible it sounds.|sd
 A|Yeah,|aa
-A|Denver's  definitely |sd
+A|Denver's  definitely|sd
 A|yeah,|aa
 A|that's one of the worst.|sv
 A|Sure.|aa

@@ -17,9 +17,9 @@ B|Uh-huh.|b
 A|We don't really have enough plastic to mess with,|sd
 A|we don't, you know, like we don't drink milk|sd
 A|and we don't have children|sd
-A|so we don't have, you know, six thousand plastic milk jugs,  a month, you know. |sd
-B| Yeah,|b
-B|we do, |sd
+A|so we don't have, you know, six thousand plastic milk jugs,  a month, you know.|sd
+B|Yeah,|b
+B|we do,|sd
 B|With two, a two year old and a, three year old|sd
 A|Yeah.|b
 B|and, so it really builds up with us.|sd
@@ -29,8 +29,8 @@ B|Yeah.|b
 A|And, uh, Plano has plans|sd
 A|I believe it's tentatively scheduled for sometime in May of this year,|sd
 A|the city is going to leave, uh, receptacles at people's home.|sd
-B| Oh, yeah, |b
-A| and they |%
+B|Oh, yeah,|b
+A|and they|%
 B|That would be much more convenient.|sv
 A|It, certainly would|aa
 B|Yeah.|b
@@ -46,8 +46,8 @@ B|Yeah,|b
 B|yeah.|b
 A|But I think that's probably a good idea.|sv
 B|They used to have several places, um, that were a little ways out in the community that did the paper and all,|sd
-A| Uh-huh. |b
-B| and they  stopped doing it because they said it wasn't profitable.|sd
+A|Uh-huh.|b
+B|and they  stopped doing it because they said it wasn't profitable.|sd
 A|Right.|b
 B|So finally, um, they, the people put so much pressure on the city,|sd
 A|Uh-huh.|b
@@ -57,8 +57,8 @@ B|and they took a big huge bin that has paper and plastic, um, and put it in fro
 A|Uh-huh.|b
 B|and they, it just really,|sd
 B|every time you went by there it was just over flowing,|sd
-A| That's right. |aa
-B| and so Wal-Mart  complained|sd
+A|That's right.|aa
+B|and so Wal-Mart  complained|sd
 A|Uh-huh,|b
 A|yes.|b
 B|so they moved it behind the store|sd
@@ -68,8 +68,8 @@ B|and so people kept piling stuff in the same place, where it used to be.|sd
 A|Uh-huh.|b
 A|Great|ba
 B|Oh, it was just like a dump there,|sd
-A|I  bet it was. |ba
-B| and so finally,  you know, I called|sd
+A|I  bet it was.|ba
+B|and so finally,  you know, I called|sd
 B|and they said, you know, it was behind there|sd
 B|and I started taking my things behind there.|sd
 A|Uh-huh.|b
@@ -77,8 +77,8 @@ B|So we do that with, because we have milk cartons, you know, constantly, with t
 A|Uh-huh.|b
 A|Sure.|b
 B|but it just builds up,|sd
-A| Uh-huh. |b
-B| it would be  so nice if they had it, you know at your home, where you could just turn it in so they, they final had enough of a response that they decided to try a small target area in one neighborhood,|sd
+A|Uh-huh.|b
+B|it would be  so nice if they had it, you know at your home, where you could just turn it in so they, they final had enough of a response that they decided to try a small target area in one neighborhood,|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Right.|b
@@ -107,8 +107,8 @@ B|Yeah.|b
 A|I think basically it's a good idea, you know,|sv
 A|I hope it works.|sd
 B|Yeah,|aa
-B|I do to because it's amazing, how much, you know, trash,  we can generate, |sv
-A| Absolutely. |aa
+B|I do to because it's amazing, how much, you know, trash,  we can generate,|sv
+A|Absolutely.|aa
 A|absolutely.|aa
 B|I know this year we took our Christmas tree|sd
 B|they had a place, in the park where you could go have your tree shredded|sd
@@ -154,13 +154,13 @@ A|Uh-huh.|b
 B|but the landfill have to do something special, you know, for those,|sd
 A|I see.|b
 B|but that just generates a tremendous of  volume of trash too,|sd
-B|so, |%
-A| Oh, I'm sure it must. |aa
+B|so,|%
+A|Oh, I'm sure it must.|aa
 A|Yes,|%
 A|you know I'm not personally involved because I don't, you know, I don't have any children that wear diapers,|sd
 B|Yeah.|b
-A|but I'm sure it creates a large amount of, you know,  uh, refuse. |sd
-B| It does, |aa
+A|but I'm sure it creates a large amount of, you know,  uh, refuse.|sd
+B|It does,|aa
 B|and you just feel guilty if you don't do, something with them, you know,|sv
 A|That's right .|aa
 A|That's right.|aa
@@ -214,7 +214,7 @@ A|Uh-huh.|b
 A|Yeah,|b
 A|well we do to as a matter of fact. *typo too|sd
 B|Our church has a  place,  where you can take them|sd
-A| Right. |b
+A|Right.|b
 B|and they, you know, pass them on to, other families,|sd
 A|Yeah.|b
 B|so.|%
@@ -255,5 +255,5 @@ B|You to.|fc
 B|Take, care.|fc
 A|Okay.|fc
 A|All right.|fc
-A| Bye-bye. |fc
-B| Bye-bye. |fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc

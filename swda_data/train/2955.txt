@@ -206,5 +206,5 @@ A|Really.|fc
 A|Well, take it easy.|fc
 B|Okay.|fc
 A|Okay.|fc
-A| Bye-bye. |fc
-B| Bye-bye. |fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc

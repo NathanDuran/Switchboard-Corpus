@@ -96,11 +96,11 @@ B|Yeah,|ny
 B|uh-huh,|ny
 B|yeah,|ny
 B|I see what you're saying,|sd
-B|there's less character development, rather just the, the, the funniness of the gag,  rather than |bf
-A| Yeah,|aa
-A|yeah. |aa
-A| Did you go with kids though? |qy
-B| and how it fits with the character  , right.|bf
+B|there's less character development, rather just the, the, the funniness of the gag,  rather than|bf
+A|Yeah,|aa
+A|yeah.|aa
+A|Did you go with kids though?|qy
+B|and how it fits with the character  , right.|bf
 A|Did you go with kids?|qy
 B|Excuse me?|br
 A|Did you take kids along?|qy
@@ -241,8 +241,8 @@ B|Of course the ones I always remember are the, the older ones|sd
 A|Uh-huh.|b
 B|I always like the musicals, and uh,  those ones, that just stick  in your head.|sd
 A|Yeah,|b
-A| yeah,|b
-A|they leave, |%
+A|yeah,|b
+A|they leave,|%
 A|yeah,|aa
 A|they leave, they leave some songs with you,|sd
 A|I don't know what it is|h

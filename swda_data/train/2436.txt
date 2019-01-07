@@ -146,13 +146,13 @@ B|yeah.|b
 A|But, uh, it, it's,|%
 A|you're missing an awful lot.|sv
 B|Yeah.|b
-A|I'd rather, personally rather watch, see a game on T V than fight the crowds at the stadium. |sd
-A|but uh, |%
-B| Yeah, |b
+A|I'd rather, personally rather watch, see a game on T V than fight the crowds at the stadium.|sd
+A|but uh,|%
+B|Yeah,|b
 B|that's true,|aa
 B|the traffic.|%
-A|But, uh,  no, |nn
-B| Uh. |b
+A|But, uh,  no,|nn
+B|Uh.|b
 A|I don't sit down,|sd
 A|I'll sit down for the big games, the Super Bowl, and the championship you know, things like that.|sd
 B|Yeah.|b
@@ -255,5 +255,5 @@ B|good talking to you.|fc
 A|Okay.|fc
 B|Take care.|fc
 A|You too.|fc
-A| Bye. |fc
-B| Bye. |fc
+A|Bye.|fc
+B|Bye.|fc

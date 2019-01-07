@@ -157,9 +157,9 @@ A|Yeah.|b
 B|It's like a home away from home for a lot of them.|sv
 A|Sure, is, um,|aa
 A|well, I guess we could ring this off since we,  we've exhausted all of our ideas,|sd
-A|we seem to agree. |sv
-B| Yeah,|aa
-B|I, I think, yeah I think this is a good closing point. |sd
+A|we seem to agree.|sv
+B|Yeah,|aa
+B|I, I think, yeah I think this is a good closing point.|sd
 A|Yeah,|aa
 A|so,|%
 B|Well it was really nice talking to you.|fc
@@ -170,6 +170,6 @@ B|Thanks|fc
 B|you too.|fc
 A|Okay|fc
 A|thanks.|fc
-B| Uh, bye,|fc
-B|bye-bye. |fc
-A| Bye-bye. |fc
+B|Uh, bye,|fc
+B|bye-bye.|fc
+A|Bye-bye.|fc

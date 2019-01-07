@@ -21,16 +21,16 @@ B|And now I see|^h
 B|and, and I see for my daughter, which is wonderful this,|sd
 B|she's thirteen|sd
 B|and I see a whole wonderful world out there that she can choose from,|sd
-A| Uh-huh. |b
-B| so  many different jobs, which I think is terrific.|sv
+A|Uh-huh.|b
+B|so  many different jobs, which I think is terrific.|sv
 A|Yes.|aa
 B|Because I'm a teacher|sd
 B|and, I mean, I love teaching,|sd
 B|but, there, I think there are a lot of other things I would have liked better.|sd
 A|Uh-huh.|b
 B|And, uh, not that I would give the career up because it's, it's a safe career, plus, because I always have a job plus I am a single parent, too,|sd
-A| Uh-huh. |b
-B| and  I I need the income.|sd
+A|Uh-huh.|b
+B|and  I I need the income.|sd
 A|Right.|b
 B|But, uh, and I think that's the reason why a lot of women have, have started to work, too, is because economically it's just a must.|sv
 A|I think that's right.|aa
@@ -46,13 +46,13 @@ B|Uh, it's just an economic need now.|sv
 A|I really think women have so much more responsibility than, you know, as far as everything.|sv
 B|Oh, definitely.|aa
 A|And, like you said, uh, one, women today have so many, uh,|sd
-A|the average today of having a, a single family, you know, with the mother as the head,  you  know, it just really, uh, so commonplace,  nowadays. |sd
-B| Uh-huh. |b
-B| Oh, yes,|aa
-B|exactly. |aa
+A|the average today of having a, a single family, you know, with the mother as the head,  you  know, it just really, uh, so commonplace,  nowadays.|sd
+B|Uh-huh.|b
+B|Oh, yes,|aa
+B|exactly.|aa
 B|We have quite a few teachers at our school that are single parents|sd
 B|and,  uh,  the majority is, uh, married couple with children,|sd
-A| Uh-huh. |b
+A|Uh-huh.|b
 B|but still there's a lot more than there used to be.|sd
 B|And see you never picture yourself in a situation like this.|sv
 B|When I married, I thought I'd be married the rest of my life.|sd
@@ -63,18 +63,18 @@ B|My mother always said, you know, get an education in case you need one, becaus
 B|I have a twin sister|sd
 B|and we were eleven when he died|sd
 B|and she had a nursing degree,|sd
-A| Uh-huh. |b
-B| and  she was able to make it.|sd
+A|Uh-huh.|b
+B|and  she was able to make it.|sd
 B|But, she said in you never know what's going to happen|sd
 B|and I thank God that I did go to college and got a degree because otherwise I don't know how I would be able to raise my children.|sd
 A|You know, isn't that funny, uh, because the same thing happened to us, except I was twelve.|sd
 A|And my mother had a nursing degree and was able to make it in her profession,|sd
-B| Isn't that something. |qh
-A| and was,|%
+B|Isn't that something.|qh
+A|and was,|%
 B|Yes.|ny
-B| Yes. |b
+B|Yes.|b
 A|and even today I think the chance for education is is, is so much, uh, better for all of our girls,  and, and  boys, too.|sv
-B| Oh, yes. |aa
+B|Oh, yes.|aa
 A|But, but the girls especially.|sv
 B|Yeah,|aa
 B|I do, too.|aa
@@ -85,7 +85,7 @@ A|A lot of things,|^2
 A|yeah.|%
 B|Uh-huh.|aa
 B|And I think that, uh, I think by the year two thousand it, we're going to see some, a lot more changes, uh, hopefully, that women are, you know, able to get the, the executive jobs,  and  hold positions that men, men do because they can do it just as well, you know,|sv
-A| Right. |b
+A|Right.|b
 B|if they want to dedicate their, most of their time to that they, they're, they can do it.|sv
 A|Yeah.|b
 A|And I also think that in the future that, uh, it's going to continue.|sv
@@ -93,7 +93,7 @@ A|We're not going to see a lax off of women in the work force.|sv
 B|Uh-uh.|b
 A|I think they're going to stay there|sv
 A|and I think that they're going to, uh, uh, be really responsible and, and do everything just like, what you said, you know, make, make it the grade and, and make it so women can be the top people in their,  in  their field.|sv
-B| Exactly. |aa
+B|Exactly.|aa
 B|Exactly.|aa
 B|And I think that's the way it should be.|sv
 B|I think it|sv

@@ -36,11 +36,11 @@ A|But they just, um, really take care of them, or, uh, are protective of them.|s
 B|I work and go to school|sd
 B|and it's kind of nice|sd
 B|you come home your, your pet's there for you and wants a little food a little attention.|sd
-A| Yeah,|b
+A|Yeah,|b
 A|an,|%
-A|and my, my kids, |sd
-B| And that's,|%
-B|it's kind of fun. |sd
+A|and my, my kids,|sd
+B|And that's,|%
+B|it's kind of fun.|sd
 A|um, they really want a dog badly,|sd
 A|and they've been looking and looking|sd
 A|and want, you know,|%
@@ -100,8 +100,8 @@ A|I think it's really important to that, that if you get a pet that they're eith
 B|Yeah.|b
 A|That, that kind of gripes on me some,|sv
 A|but, but I don't know.|h
-B| Well if you're, if you're going to have a pet,  and not have it neutered or spayed you need to be willing to, you know deal with the consequences, take care of the offspring|sv
-A| More and more people are, |^2
+B|Well if you're, if you're going to have a pet,  and not have it neutered or spayed you need to be willing to, you know deal with the consequences, take care of the offspring|sv
+A|More and more people are,|^2
 A|Right,|b
 A|right.|b
 B|and, and I think, you know,|sv
@@ -123,8 +123,8 @@ A|and, and that's good too.|sv
 B|Yeah.|b
 A|Well, I think that's all I have to say.|sv
 B|Okay,|b
-A| Okay,|b
-A|have a good night. |fc
-A| All right,|fc
-A|bye-bye. |fc
-B| Bye. |fc
+A|Okay,|b
+A|have a good night.|fc
+A|All right,|fc
+A|bye-bye.|fc
+B|Bye.|fc

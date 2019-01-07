@@ -16,35 +16,35 @@ B|It's a local Mexican restaurant.|sd
 A|Uh-huh.|b
 B|because they have got a good rate on, you know, good prices and everything.|sd
 A|Pancho's, that's,  a new  one.|qy^d
-B| Yeah. |b
-B| Yeah, |ny
-A| Uh-huh. |b
+B|Yeah.|b
+B|Yeah,|ny
+A|Uh-huh.|b
 B|it's, it's a chain down uh,|sd
 B|it goes up into Colorado and down here.|sd
 B|I don't know where else it is.|sd
-B| What about you? |qo
-A| We have  one called Chi Chi's in in our area.|sd
+B|What about you?|qo
+A|We have  one called Chi Chi's in in our area.|sd
 B|Oh, yeah.|b
 A|And, uh, we had a restaurant called La Bamba|sd
 A|but it's just, it closed recently.|sd
 A|But Chi Chi's is a national restaurant, I think.|sv
 A|Isn't it Mexican?|qy
-B| I think,  think it might be.|sv
-A| Do you  have it there?|qy
+B|I think,  think it might be.|sv
+A|Do you  have it there?|qy
 B|I've I think I've seen it around.|sd
-B| Yes, sir. |ny
-A| Uh-huh. |b
-B| Yeah. |b
-A| Well,  I love Mexican food myself.|sd
+B|Yes, sir.|ny
+A|Uh-huh.|b
+B|Yeah.|b
+A|Well,  I love Mexican food myself.|sd
 B|Oh, do you?|bh
 B|Yeah.|%
 A|But you go ahead now|ad
 B|Oh, we, we do too.|sd
 B|We, uh, we enjoy Mexican food.|sd
 B|I'm just not impressed with the quality of it.|sd
-B|It's just primarily the price that's, uh, satisfying at this point. |sd
+B|It's just primarily the price that's, uh, satisfying at this point.|sd
 B|But the kids,  seem to enjoy it.|sv
-A| Is that right? |qy
+A|Is that right?|qy
 A|Uh-huh.|b
 B|Uh, and, uh, let's see.|^h
 B|We've, uh, just recently discovered a super restaurant down here|sd
@@ -70,7 +70,7 @@ A|Uh-huh.|b
 A|Where did you go to college?|qw
 B|Uh, I went to the Naval Academy.|sd
 A|Oh, the  U S ,  Naval Academy?|br
-B| And we used to,  we use to go up there on, uh, for football games sometimes. And have some liberty.|sd
+B|And we used to,  we use to go up there on, uh, for football games sometimes. And have some liberty.|sd
 A|Uh-huh.|b
 B|And,|%
 B|yeah,|%
@@ -93,8 +93,8 @@ B|Yes, sir.|ba
 B|My dad worked there for years, and years.|sd
 A|Uh-huh.|b
 B|That's that's, uh, that's where I grew up was down in Orlando.|sd
-B| So, |%
-A| Oh,  you grew up in Orlando.|qy^d
+B|So,|%
+A|Oh,  you grew up in Orlando.|qy^d
 A|Uh-huh.|%
 B|That's, uh, that's interesting, Well, I was in submarines. Uh,|sd
 A|Well, that's what I worked on.|sd
@@ -113,15 +113,15 @@ A|but, uh, I guess we should continue on, uh,|sv
 B|Okay.|aa
 A|Okay.|b^m
 B|Right.|b
-B| Where's, |qw
-A| How  do you like Chinese food?|qw
+B|Where's,|qw
+A|How  do you like Chinese food?|qw
 B|Oh, we, we do enjoy that.|sd
 B|Yes, sir.|%
 B|Uh, I don't know if we are particularly adventurous,|sv
 B|we find something we like, uh, like cashew shrimp or something that's got a good, uh, at a particular restaurant|sd
 B|and then we usually stick by it.|sd
-B| But do you,  What about you?|qo
-A| Uh-huh. |b
+B|But do you,  What about you?|qo
+A|Uh-huh.|b
 A|Well, I, uh, enjoy the Szechuan type of, uh, Chinese food.|sd
 B|Hot?|br
 A|Yes.|ny
@@ -147,8 +147,8 @@ A|Here it's right under my nose if I can find it|sd
 A|Oh, boy.|ba
 B|I guess one of the things we've, uh, started avoiding is the, uh, run of the mill chop suey and things like that.|sd
 A|Yeah,|b
-A| right. |b
-B| But we enjoy  trying, uh, different kinds of chicken or, uh, you know, even, uh, shrimp, uh, dishes that are fixed in a Chinese restaurant.|sd
+A|right.|b
+B|But we enjoy  trying, uh, different kinds of chicken or, uh, you know, even, uh, shrimp, uh, dishes that are fixed in a Chinese restaurant.|sd
 A|One of this book I have is called CHINESE COOKING MADE EASY.|sd
 A|Uh, it's a paperback|sd
 A|and I think it's by someone named Chang.|sd

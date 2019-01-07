@@ -47,8 +47,8 @@ B|we have some engineers that still, on their, uh,|sd
 B|the drawings that they mark up for us they put draftsman.|sd
 A|Right.|b
 B|And I want to scratch it out and put drafter|sd
-B|But I thought, well I am,  not going to do that |sd
-A| Maybe not, huh. |^2
+B|But I thought, well I am,  not going to do that|sd
+A|Maybe not, huh.|^2
 A|Well, uh, I, when I was in college,|sd
 A|I graduated from college with my bachelor's degree in nineteen sixty-four.|sd
 B|Uh-huh.|b
@@ -171,10 +171,10 @@ B|yeah,|b
 B|yeah.|b
 A|Uh, because, I would think, I think, you know, mentally, uh, and emotionally, I think women can handle a job and, every bit as well.|sd
 B|Oh, I do too.|aa
-A|So anyway it's still  words spoken while B is |%
+A|So anyway it's still  words spoken while B is|%
 B|Uh-huh,|b
 B|uh-huh.|b
-B| And, you know,  if she wanted to go to combat, I do not see that they should stop her.|sv
+B|And, you know,  if she wanted to go to combat, I do not see that they should stop her.|sv
 A|Sure.|b
 B|I personally would not want to go|sd
 B|but|%

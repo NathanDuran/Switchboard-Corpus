@@ -28,8 +28,8 @@ A|I use a few.|sd
 A|I, uh, I watched my grandmother go into debt on them|sd
 B|Uh-huh.|b
 A|and so I've,|sd
-A|and then I guess my  mother, |sd
-B| Grandmother |b^m
+A|and then I guess my  mother,|sd
+B|Grandmother|b^m
 B|huh?|br
 A|Yeah,|b
 A|so my mother learned from that|sd
@@ -48,7 +48,7 @@ B|Oh that's, That's wonderful.|ba
 A|So that way we keep out of debt|sd
 A|and we keep on top of what we're spending.|sd
 B|Well, the interest rates in credit cards is so high now  compared  to what your savings is bringing.|sv
-A| Yeah. |b
+A|Yeah.|b
 B|It's really, I guess ridiculous to let them keep building.|sv
 A|Yeah,|aa
 A|yeah,|aa
@@ -91,8 +91,8 @@ B|Okay.|bk
 A|but it's, uh, it's pretty well taken all over the U S now.|sd
 A|I mean, uh, I've haven't found many places that don't take Discover.|sd
 A|And there's no annual service fee, which is good.|sd
-B| Okay  .|b
-A| You know,  and then, uh, they also give you, they say cash back, uh, like at the end of the year.|sd
+B|Okay  .|b
+A|You know,  and then, uh, they also give you, they say cash back, uh, like at the end of the year.|sd
 A|For the amount that I charge, I get two dollars back or something|sd
 B|Uh-huh.|b
 A|but if you use credit cards a lot you probably get more back.|sd
@@ -114,7 +114,7 @@ B|so, you know, now they'll take the Discover,|sd
 B|but I still don't know if Sears will take Visa or Mastercard.|sd
 A|Uh-huh.|b
 B|But, uh  I  never did apply for a Discover card.|sd
-A| Yeah. |b
+A|Yeah.|b
 B|I just figure with the Visa and American Express, I probably have an,|sd
 A|Uh-huh.|b
 B|I can do enough damage with those two.|sd

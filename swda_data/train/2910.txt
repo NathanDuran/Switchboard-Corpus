@@ -11,8 +11,8 @@ A|and I try|%
 A|now that it has a national edition, I read that.|sd
 A|I also read, uh, I, I, I guess I do watch, uh, MCNEIL LEHRER on P B S because I, I lean to that coverage,|sd
 B|Uh-huh.|b
-A|and, and  I guess I'm , |%
-B| I like them |sd
+A|and, and  I guess I'm ,|%
+B|I like them|sd
 B|but they take so long.|sv
 B|I don't always have time|sd
 A|Yeah.|b
@@ -46,9 +46,9 @@ B|Yeah.|b
 A|and if you didn't like it, that was just too bad, you know.|sv
 B|Well, uh, I know that the coverage he was allowed to present was slanted,|sv
 B|but I think they said that frequently  enough.   That, uh, you  shouldn't criticize the man for giving us one perspective.|sd
-A| Yeah |b
+A|Yeah|b
 A|, oh, yeah,|b
-A| I mean, uh. |%
+A|I mean, uh.|%
 A|No.|aa
 B|Uh,|%
 A|That, that's right, I think so.|aa
@@ -77,18 +77,18 @@ A|So well,|%
 A|Yeah,|b
 A|is that, what is that,|qw
 B|Palo Alto.|sd
-A|the San Francisco paper out there is, uh,  the major paper? |qy
-B| Well, |%
+A|the San Francisco paper out there is, uh,  the major paper?|qy
+B|Well,|%
 B|it's horrible.|sv
-A|Yeah, |aa
-A|and that's a terrible paper. |ba
-B| The San Francisco  paper is just wretched.|sv
+A|Yeah,|aa
+A|and that's a terrible paper.|ba
+B|The San Francisco  paper is just wretched.|sv
 B|So I subscribe to the SAN JOSE MERCURY NEWS.|sd
-A| Is that pretty good? |qy
-B| Palo Alto is  about midway between.|^h
+A|Is that pretty good?|qy
+B|Palo Alto is  about midway between.|^h
 B|Well it's a whole lot better than that San Francisco  paper|arp_nd
-B|and, |%
-A| Oh the, what is that,  the CHRONICLE isn't it?|qy
+B|and,|%
+A|Oh the, what is that,  the CHRONICLE isn't it?|qy
 B|Yeah,|ny
 B|there's the CHRONICLE, and the EXAMINER,|sd
 A|Oh.|bk
@@ -97,26 +97,26 @@ A|Oh yeah,|b
 A|they they really are probably the worse papers I've ever read.|sd
 A|I, uh, uh,|%
 B|They're just horrid|sv
-A| Yeah. |b
-B| so we read, |%
+A|Yeah.|b
+B|so we read,|%
 A|Well, can you get the L A paper up there?|qy
 A|That's a pretty decent paper isn't it|qy
 A|or,|%
 B|Uh, we can,|na
 B|but I don't like it.|sd
 A|Yeah.|b
-B|So we subscribe to the NEW YORK TIMES and the WALL STREET JOURNAL and uh,  MERCURY NEWS. |sd
+B|So we subscribe to the NEW YORK TIMES and the WALL STREET JOURNAL and uh,  MERCURY NEWS.|sd
 A|Yeah.|b
 A|Yeah.|b
-A| Well that's  another one I read,|sd
+A|Well that's  another one I read,|sd
 A|I forgot that.|sd
 A|I read the WALL STREET JOURNAL,|sd
 A|not as in depth as I used to, because they, their articles seem to be getting even longer and longer|sd
 A|but,|%
 B|Yes,|b
-B|well again, I read that, uh, two  columns on the front. |sd
+B|well again, I read that, uh, two  columns on the front.|sd
 A|Yeah.|b
-A| I, I think I, I agree with  you that the problem seems to be they don't have enough time to do all the stuff.|aa
+A|I, I think I, I agree with  you that the problem seems to be they don't have enough time to do all the stuff.|aa
 A|I feel pretty well versed in, in what I'm doing because I, I do spend more time on that than I do, say, on sports, or although I watch that,|sd
 B|Uh-huh.|b
 A|I spend a lot of time reading about these things.|sd
@@ -125,8 +125,8 @@ A|I find it very exciting to, for the coverage we have now, today.|sd
 B|Yes|aa
 B|and I think we do get pretty good coverage.|sv
 B|I don't feel that the American people is being shortchanged by the, uh, the news coverage.|sv
-A|If anything, they, I  think they |sv
-B| We almost have  too much.|sv
+A|If anything, they, I  think they|sv
+B|We almost have  too much.|sv
 A|Well, I don't know,|h
 A|I, I hear a lot of criticism about listening to these, the Dan Rathers of the world and, and and taking their word for it, or their comment,|sd
 A|actually, they, I think they slant things|sv
@@ -142,21 +142,21 @@ B|And I would not watch that man for money.|sd
 A|Yeah.|b
 B|And he and Barbara Walters just really turn my stomach.|sd
 A|Yeah,|b
-A|was,  was he, |%
-B| So I  watch Peter Jennings, and, uh and Tom Brokaw.  Sort of alternately. |sd
+A|was,  was he,|%
+B|So I  watch Peter Jennings, and, uh and Tom Brokaw.  Sort of alternately.|sd
 A|Yeah.|b
-A| How do you feel  about it?|qo
+A|How do you feel  about it?|qo
 A|I guess I, I got to say, if that's the subject, if the subject is do I feel that we're well enough equipped to,|sd
 A|I don't know|h
 A|if, if it said that. I feel I'm well enough equipped.|sd
-B|Do we get enough news or something like  that? |qy
-A| Yeah.|ny
-A| To,|%
+B|Do we get enough news or something like  that?|qy
+A|Yeah.|ny
+A|To,|%
 B|Do we get, uh do we get the news that we want?|qy
 A|Yeah.|b
 B|And I do.|sv
-B| I really think. |sv
-A| Yeah,|ny
+B|I really think.|sv
+A|Yeah,|ny
 A|I think  I do too.|sd
 A|I think you have to let, you got to segregate some of it.|sv
 B|Yeah.|b
@@ -164,5 +164,5 @@ A|Well, that's about all I have to say|fc
 B|Okay,|fc
 B|well nice to talk to you.|fc
 A|Nice talking to you.|fc
-A| Bye-bye. |fc
-B| Bye-bye. |fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc

@@ -18,8 +18,8 @@ A|so.|%
 B|Yeah,|b
 B|that's sort of a problem.|sv
 A|Yeah,|b
-A|so uh,  what do |qw
-B| We're trying,  we're trying to, uh,|sd
+A|so uh,  what do|qw
+B|We're trying,  we're trying to, uh,|sd
 B|so far we are in the clear credit wise|sd
 B|but, uh, the other side of it is,|sd
 B|so, not much on that side of it to add to it.|sd
@@ -43,8 +43,8 @@ B|uh-huh.|ny
 B|And, uh, it will be easier once we get overseas cause we have, uh, like, uh, uh, support quota|sd
 A|Um.|%
 B|and it's cheaper to live overseas than it is to live here.|sd
-A| No kidding. |ba
-B| And  it doesn't get switched very easily once you come home.|sd
+A|No kidding.|ba
+B|And  it doesn't get switched very easily once you come home.|sd
 A|I see.|b
 B|So,|%
 A|Overseas, where would you be going?|qw
@@ -63,14 +63,14 @@ B|we come back for a year.|sd
 A|With, with what Church?|qw
 B|Uh, we're with Wycliff Bible Translators.|sd
 A|Oh yes.|bk
-A| Yes, |bk
-B| So. |%
+A|Yes,|bk
+B|So.|%
 A|I, uh, I know who they are.|sd
 A|They, uh, they have an office, uh, in in Costa Mesa as I recall.|sd
 B|Yeah,|b
 B|they could very well|sv
-B| and, |%
-A| There,  there was, uh, you know, there was a fairly large building that that was well that belongs to them.|sd
+B|and,|%
+A|There,  there was, uh, you know, there was a fairly large building that that was well that belongs to them.|sd
 A|So, uh, are you, uh, are you, uh, active in translation?|qy
 B|Uh, we will be.|no
 B|I was over, over four years doing language surveying which is the first step.|sd

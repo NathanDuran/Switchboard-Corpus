@@ -8,7 +8,7 @@ B|I've been, uh,|%
 A|Yeah,|b
 A|uh, she had a hard time getting a few folks, uh,|sd
 A|I thought, well every, all these T I have gone home, uh,  at one  o'clock on Friday.|sd
-B| I, uh, |%
+B|I, uh,|%
 B|It is Friday,|sd
 B|yeah,|b
 B|that's for sure.|ba
@@ -24,14 +24,14 @@ A|and, and my brother's still in it.|sd
 A|And I had periods when I didn't do anything,|sd
 A|but in the last ten years I've, uh, my car doesn't go to a shop, you know,|sd
 A|it, it,|%
-B| Uh-huh. |b
-A| I  just do it all.|sd
+B|Uh-huh.|b
+A|I  just do it all.|sd
 A|Do,|%
 A|I, uh,|%
 A|there's hardly anything that, other than putting tires on, that I'll do.|sd
 A|I did take it to a transmission place to put in a new transmission but,  I  change the oil and transmission|sd
 B|Yeah.|b
-B| Sure. |b
+B|Sure.|b
 A|and, uh, uh, I do, essentially do it all.|sd
 A|I don't know, uh, uh, if there's anything specific.|sd
 A|In fact, I could advise people, uh,|sd
@@ -46,7 +46,7 @@ A|I can recommend it for people to take their cars.|sd
 A|Like I think Sears is probably the best place|sv
 B|Yeah.|b
 A|because,  I've  heard, when I used to go there and when I,|sd
-B| Yeah. |b
+B|Yeah.|b
 A|I just overheard what they did for me, very little because I didn't take it that much.|sd
 A|But what I heard them tell other people was always right.|sd
 B|Right.|b
@@ -75,7 +75,7 @@ B|And, uh, oh, I've done, I've done various things.|sd
 B|I've got an, I've got an eighty-three T Bird|sd
 B|and I've, I've changed out, uh, heater core and,  uh,  oh, timing belts and things like that.|sd
 A|Oh.|b
-A| Uh-huh. |b
+A|Uh-huh.|b
 B|Um, I guess the last thing I took to anybody to have done was on my wife's car, um, when we went in for inspection.|sd
 A|Uh-huh.|b
 B|It didn't, it didn't quite pass.|sd
@@ -93,7 +93,7 @@ B|I've, uh, I'm kind of stuck on them right now, I guess.|sd
 B|But, you know, that's,|%
 B|it's partially because I can work on them.|sd
 B|That's, uh,  that's,  that's, that's a big part of my decision.|sd
-A| Yeah. |b
+A|Yeah.|b
 B|But, uh, yeah,|%
 B|we ran into some problems with, uh, having them to work on that carburetor.|sd
 B|I mean, they get, they got everything tuned up right, you know.|sd
@@ -107,8 +107,8 @@ B|little things like that, that really start to aggravate you.|sv
 B|That, that's a lot of the reason I do my own stuff.|sd
 A|Yeah.|b
 A|I always wonder when you have little things like that happen, why, even here at T I, why we don't inspect, I'm in facilities, why we don't inspect areas and, and guarantee it so to speak. Uh,|sd
-B| Uh-huh. |b
-A| we  always fix things and put things in and walk away.|sd
+B|Uh-huh.|b
+A|we  always fix things and put things in and walk away.|sd
 A|We,|%
 A|there needs to be a time of inspection and check out.|sv
 A|And, and thing like that with a car,|%
@@ -127,10 +127,10 @@ B|and, and they miss things.|sv
 B|Yeah,|%
 B|I've, I've had a hard time finding anybody I can trust.|sd
 B|Like, like you say, it, it, well, transmissions and things like that.|sd
-B|I'm, obviously, I'm not going to, I'm not going to tear apart a automatic transmission  and try rebuild it. |sd
+B|I'm, obviously, I'm not going to, I'm not going to tear apart a automatic transmission  and try rebuild it.|sd
 A|No,|aa
 A|no,|aa
-A| I don't either.|sd
+A|I don't either.|sd
 A|I don't  either,|sd
 A|yeah.|%
 B|But, uh, it, it's, it's real stressful to try to find anybody that I think's going to do me right. And, and, uh, you know, have an idea of what's going on.|sd
@@ -146,9 +146,9 @@ A|I don't know how long I'm,|sd
 B|Yeah.|b
 A|I like a V-eight.|sd
 A|And I'm, I'm,  sold  on small block Chevy V-eights.|sd
-B| Oh, yeah. |b
+B|Oh, yeah.|b
 A|And I,  I  bought one car new,|sd
-B| Yeah. |b
+B|Yeah.|b
 A|and I almost accidentally got the next car, although I was kind of looking for it when I got a a used car with the same engine.|sd
 B|Uh-huh.|b
 A|Well then the the truck I got next, I definitely looked for the same engine.|sd
@@ -210,17 +210,17 @@ A|Yeah.|b
 B|And they looked it over and they, they, they thought they could patch it up a little bit, you know, and what not.|sd
 B|So they,|%
 A|This is your little water, uh, heater in there, for the, uh,  the  heat inside?|^q
-B| Yeah. |b
+B|Yeah.|b
 B|Yeah.|b
 B|And it was, it was leaking inside the car,  in  the condenser unit.|sd
-A| Yeah. |b
+A|Yeah.|b
 B|So, uh, they, they did a little patch on it,|sd
 B|and it it held for about four to six months.|sd
 B|And I finally went back in and started looking at it myself.|sd
 B|And it's a matter of tearing all the dash out and all that kind of stuff,|sd
 B|but,|%
-A| Yeah. |b
-B| hey, |fo_o_fw_"_by_bc
+A|Yeah.|b
+B|hey,|fo_o_fw_"_by_bc
 B|it was not, uh, it was not a seven hour labor job for me.|sd
 A|Yeah.|b
 B|It was about a week before I finally through.|sd
@@ -248,7 +248,7 @@ B|Yeah.|b
 A|I don't know whether you did yours.|qy^d
 A|Not to really pull on those.|%
 A|I,  when  I take those hoses, I cut them off very gingerly.|sd
-B| Right. |b
+B|Right.|b
 B|Okay.|b
 B|Yeah.|b
 A|Because if you you know, pull on that,|sv
@@ -266,19 +266,19 @@ B|it wasn't soldered in good enough.|sd
 A|Oh, really?|bh
 A|Yeah.|b
 B|And it had, it had broken loose enough to where if it got hot,|sd
-A| It, it spread out,|^2
-A|yeah. |b
-B| and just normal driving didn't  do it.|sd
+A|It, it spread out,|^2
+A|yeah.|b
+B|and just normal driving didn't  do it.|sd
 B|But if, if, if it was an especially hot day, the pressure would get high enough and it would start blowing the water out inside.|sd
 A|Yeah.|b
 A|Yeah.|b
 B|It was real aggravating,|sd
 B|but, uh, I, I, couldn't even|%
 B|a week's, a week's time is, is worth a whole lot less than, four, than four hundred dollars to me, you know,  than  to have somebody else do it.|sd
-A| Yeah. |b
+A|Yeah.|b
 A|Sometimes if you're a tinkerer, you luck out.|sv
 A|My wife's,  uh,  Chevy, uh, it was a Caprice, air conditioning stopped.|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|I, I just heard it.|sd
 A|I realized that the air conditioning wasn't cutting in.|sd
 B|Uh-huh.|b
@@ -311,6 +311,6 @@ B|and, and not only from a, from an economic standpoint, just, just pure safety,
 B|If you can, if she can get yourself out of a bad situation without having to, to go to a phone booth and stand around and wait.|sd
 A|Yeah.|b
 B|It, it,  it  can, it can save a lot of time and trouble.|sd
-A| Right. |b
+A|Right.|b
 A|I have the,|%
 A|there's one expression I don't like, uh, the country expression, you know, if it ain't, if it ain't broke don't fix it.|sd

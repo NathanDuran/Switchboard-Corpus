@@ -15,8 +15,8 @@ B|Oh, north Dallas.|b^m
 A|Yeah,|aa
 A|about a half a mile from Plano|sd
 B|Well, jeez.|ba
-A| So we're in the, |sd
-B| Well then you've been  getting quite a bit of rain also.|qy^d
+A|So we're in the,|sd
+B|Well then you've been  getting quite a bit of rain also.|qy^d
 A|Yeah,|ny
 A|it's been very, very rainy, I know.|sd
 A|Oh|%
@@ -36,15 +36,15 @@ B|Huh.|b
 B|Well, what brought you guys down to Texas then?|qw
 A|Uh, his job, he came back to start work again for a different company,|sd
 A|so,  said,   Here, here's  a|sd
-B| How   about that. |bh
+B|How   about that.|bh
 A|here we are again.|^q
 B|That's great.|ba
 A|It just seems a little more humid than it,|sd
 A|I don't ever remember, of course, you know, you only remember the good stuff,|sd
 A|but, um, I just don't remember the humidity.|sd
 B|Right.|b
-B| Well  definitely, I'm sure, the winters are more mild here.|sv
-A| This  much rain, and this much humidity.|sd
+B|Well  definitely, I'm sure, the winters are more mild here.|sv
+A|This  much rain, and this much humidity.|sd
 A|Uh, yeah,|aa
 A|they are.|sd
 A|Actually, though, it was a lot rainier here in the winter, uh, we came back last August.|sd
@@ -62,9 +62,9 @@ A|Um, uh, in, in Wisconsin and Minnesota, when they get winters it's, um, the wi
 A|It's just like down here, when you hear, when people here think it's a hundred and six, people up north think it's a hundred and sixty down here.|sv
 B|A hundred and sixty.|b^m
 A|I'm making that up.|sd
-B| Uh-huh,|b
-B|right. |b
-A| You know, when  it's only like ninety-five.|sd
+B|Uh-huh,|b
+B|right.|b
+A|You know, when  it's only like ninety-five.|sd
 B|Sure.|b
 A|Um, it's just like up there, when you hear it's forty below, it's probably really only five below.|sv
 B|Right.|b
@@ -78,8 +78,8 @@ A|there have been times, though, when it gets so frigid that you you can't stand
 A|Where did you move here from?|qw
 B|Colorado.|sd
 A|Well, there,|%
-A|you could talk about that, that's,  that's a strange state for, |sv
-B| Oh sure, I, I'm uh,  I'm very familiar,|aa
+A|you could talk about that, that's,  that's a strange state for,|sv
+B|Oh sure, I, I'm uh,  I'm very familiar,|aa
 B|my grandparents and all my relatives are from Wisconsin.|sd
 A|Oh, there you go, okay.|bk
 B|So, I'm, uh, quite familiar with how it is up there,|sd
@@ -100,8 +100,8 @@ A|and I did a lot of business in, uh, um, well, Denver,|sd
 A|and that's, that's probably one of the stranger things, when you see the air inversions, and then you go into the mountains|sd
 B|Uh-huh.|b
 A|and it's snowy|sd
-A|and uh, it just was a very mixed bag in terms  of Colorado. |sd
-B| Oh sure. |aa
+A|and uh, it just was a very mixed bag in terms  of Colorado.|sd
+B|Oh sure.|aa
 B|My parents just live, uh, thirty miles south of Denver|sd
 B|and it can be sunny and, and no problem in Denver|sd
 B|and they'll be having snow|sd
@@ -114,8 +114,8 @@ B|Uh, it's getting to be more and more of a possibility.|na
 A|Yeah.|b
 B|It used to be no problem, just because it was such a, a rugged terrain and with trees everywhere,|sd
 B|but now,  as they start to clear  more things out.|sd
-A| The mountains,|bf
-A|yeah. |%
+A|The mountains,|bf
+A|yeah.|%
 A|Even, I mean,|%
 A|I'm originally from Pittsburgh, Pennsylvania,|sd
 A|and I can tell you that, um, they've even had,|sd
@@ -137,7 +137,7 @@ B|Sure,|aa
 B|sure.|aa
 B|Well, it's been good talking to you.|fc
 A|You too.|fc
-B| Good-bye |fc
-A| Okay. |fc
+B|Good-bye|fc
+A|Okay.|fc
 B|Good-bye.|fc
 A|Bye-bye.|fc

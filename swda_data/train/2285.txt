@@ -10,8 +10,8 @@ A|I mean, I don't, I don't think, ideally, you know, you need money to do everyt
 A|so That's one thing|sd
 B|Uh-huh.|b
 A|that, that's, that's crime that you can't fight it if you need that money.|sd
-A| So. |%
-B| Right, |b
+A|So.|%
+B|Right,|b
 B|yeah,|b
 B|well, when, uh, we lived in San Antonio,|sd
 B|I grew up around San Antonio,|sd
@@ -20,8 +20,8 @@ B|It's has kind of the split population.|sd
 B|Um, there's a lot of retired military, uh, individuals that live there,|sd
 B|and then there's a very large Hispanic population there.|sd
 B|And the one thing that we noticed that over the years has gotten worse and worse is Hispanic, uh, gang crime in the city|sd
-A| Oh, |b
-B| and  that has, uh, been the worse thing that we've seen happening.|sd
+A|Oh,|b
+B|and  that has, uh, been the worse thing that we've seen happening.|sd
 A|Does it spread out of the neighborhoods into the more the, uh, retired people's community,|qy^d
 A|or does it stay in the bad neighborhoods?|qrr
 B|Um, the majority of the actual gang crimes, like the the drive by shootings and stuff stays in the neighborhoods,|sd
@@ -34,7 +34,7 @@ B|and a lot of them go over the border, especially like Mercedes.|sd
 B|A lot of those, those in the, the Z, uh, the Z cars, the Datsun cars end up over the border,|sd
 B|and uh|%
 A|So that's a big concern if you live there,  is to really lock your car up  .|qy^d
-B| very much so, |na
+B|very much so,|na
 B|very much so,|na
 B|in fact, for a while there they had downtown if you were to come to a stop light, they had a rash of where people were, when people were stopped at stop signs that people would get in their car and hold a knife and hold them up.|sd
 B|So now, ever since then, when you drive into the city, most people keep their doors locked while they're in the car, until they get down there,|sd

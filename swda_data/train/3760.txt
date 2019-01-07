@@ -55,19 +55,19 @@ B|it's, it's funny, uh,|sd
 B|from the one stand point, it is work.|sd
 B|But it is a hobby too, that I enjoy to do.|sd
 A|Yeah.|b
-B| To find broken, |sd
-A| Yeah,|b
+B|To find broken,|sd
+A|Yeah,|b
 A|yeah.|b
-A| What kinds of things do you fix?|qw
+A|What kinds of things do you fix?|qw
 B|Well, essentially anything you find in a house. Uh, a stove, or oven or a broken piece of porcelain or, uh, chipped tile on the floor. I mean just anything.|sd
 A|Oh.|b
 A|And you have a shop?|qy
 B|Well it, it is not anything elaborate.|na
 B|It is just a work bench and a gazillion tools.|sd
 A|Yeah.|b
-B|But, enough that, again for anything in the house I could  probably, |sd
-A| Yeah,|b
-A| you can fix just about everything and anything.|^2
+B|But, enough that, again for anything in the house I could  probably,|sd
+A|Yeah,|b
+A|you can fix just about everything and anything.|^2
 B|Right.|aa
 A|Well, that is great.|ba
 B|And in the car,|%
@@ -92,8 +92,8 @@ B|but it can certainly help your finances.|sv
 A|Oh, yeah.|aa
 A|Yeah,|aa
 A|definitely.|aa
-B|So, do you have any art, uh, how do I say it, creative or artistic  hobbies? |qy
-A| Uh.  Not really.|ng
+B|So, do you have any art, uh, how do I say it, creative or artistic  hobbies?|qy
+A|Uh.  Not really.|ng
 A|I mean during Christmas I work on, you know, like, uh, holiday sweat shirts and those kinds of things.|sd
 B|Oh yeah,|b
 B|well that's good.|ba
@@ -157,8 +157,8 @@ B|yes.|ny
 A|Oh, good.|ba
 A|Yeah.|%
 B|In fact, there is actually several of them here right now.|sd
-A|Oh,  really. |b
-B| Not all of them  being mine.|sd
+A|Oh,  really.|b
+B|Not all of them  being mine.|sd
 A|Wow.|ba
 A|Then you are busy|qy^d
 B|Yeah.|ny

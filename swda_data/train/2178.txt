@@ -255,5 +255,5 @@ A|but I'm really not for sure, though, if|sd
 A|Well, I'll let you go,|fc
 A|and we'll talk to you later.|fc
 B|All right.|fc
-B| Bye-bye. |fc
-A| Bye-bye. |fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

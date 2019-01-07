@@ -15,8 +15,8 @@ A|Uh-huh.|b
 A|Yeah|b
 A|well, I've been over there too.|sd
 B|Uh-huh.|b
-B| Where have you been? |qw
-A| I even. |%
+B|Where have you been?|qw
+A|I even.|%
 A|Let's see, um,|^h
 A|mostly Germany and France.|sd
 B|Uh-huh.|b
@@ -26,8 +26,8 @@ B|Oh, how neat.|ba
 A|but, I, once when I had a chance in France to go on vacation instead of travelling around France I went to Germany|sd
 B|Uh-huh.|b
 A|because, uh, I've got relatives there|sd
-A|and I just  like it there. |sd
-B|Oh,  that's neat. |ba
+A|and I just  like it there.|sd
+B|Oh,  that's neat.|ba
 B|Uh-huh.|b
 A|So, but, um, Austria, I found really pretty and Switzerland,|sd
 B|Uh-huh.|b
@@ -38,8 +38,8 @@ B|Oh, how neat.|ba
 B|Oh, yeah.|b
 A|Then I finally made it to England, too, uh, on my way home, um,|sd
 A|I lived in Africa, actually,|sd
-A|and on my way  home from there. |%
-B| You lived in Africa? |qy^d
+A|and on my way  home from there.|%
+B|You lived in Africa?|qy^d
 A|Yeah.|ny
 B|Oh, my goodness|ba
 A|Yeah.|aa
@@ -66,9 +66,9 @@ B|Oh, I know,|aa
 B|just.|%
 B|Right.|aa
 B|Then you can stay with them,|sd
-B|and  yeah. |%
+B|and  yeah.|%
 A|Uh-huh.|b
-A| That helps  a lot.|sv
+A|That helps  a lot.|sv
 B|Yeah.|b
 A|But.|%
 B|You know there's a lot of places in the states that we haven't even gone.|sd
@@ -79,17 +79,17 @@ A|Yeah.|b
 B|we've, we've at least gone to the Grand Canyon and Niagara Falls.|sd
 B|So.|%
 A|Uh-huh.|b
-A| Yeah. |b
-B| Feel like  we've accomplished a little bit here.|sd
+A|Yeah.|b
+B|Feel like  we've accomplished a little bit here.|sd
 A|I haven't.|sd
 A|I've been, I've,|%
 A|most of my vacationing in the U S has been on the West Coast|sd
 B|Uh-huh.|b
 A|or this summer I went to Colorado|sd
 B|Uh-huh.|b
-A|and, uh, I'd love to go to the East Coast,  during the Fall. |sd
-B| The, oh, the|%
-B| it's, oh,|%
+A|and, uh, I'd love to go to the East Coast,  during the Fall.|sd
+B|The, oh, the|%
+B|it's, oh,|%
 B|I've always wanted to go there.|sd
 B|I've seen pictures,|sd
 B|and, and it looks gorgeous.|sv
@@ -175,13 +175,13 @@ B|Um, but I've always thought it would be neat to go on a safari over there.|sv
 A|Yeah,|b
 A|my cousin came over while I was there,|sd
 A|and she came to Cameroon|sd
-A|and then she went over to Nairobi and took a safari around you know, close to Nairobi  in Kenya. |sd
+A|and then she went over to Nairobi and took a safari around you know, close to Nairobi  in Kenya.|sd
 B|Uh-huh.|b
-B| Oh how  neat.|ba
+B|Oh how  neat.|ba
 A|So, she'd always dreamed of doing that too.|sd
 B|Yeah,|b
-B|that's  great. |ba
-A| So.  Yeah.|%
+B|that's  great.|ba
+A|So.  Yeah.|%
 A|So is there any place you would try to talk me into going to|qy
 B|Uh.|%
 A|It sounds like we've been to some of the same places.|sv

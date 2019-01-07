@@ -15,8 +15,8 @@ B|I bet you used them all up over Christmas.|qy^d
 A|Yeah,|ny
 A|mostly over Christmas.|sd
 A|Uh, I get in a rut with credit cards cause they get me kind of in a vicious cycle. Where you use them a lot one month and then you have to use whatever money you have to pay those off|sd
-B|And then your are in  debt. |sv
-A| and so  then you have no money,|sv
+B|And then your are in  debt.|sv
+A|and so  then you have no money,|sv
 A|so you use a credit card.|sv
 B|I understand that.|ba
 A|Yeah.|b
@@ -31,8 +31,8 @@ B|So, as long as you pay it off every month, it doesn't cost you anything.|sd
 A|Yeah.|b
 A|Yeah.|b
 A|Well, that is a good idea.|ba
-A| Is that  that through a VISA?|qy
-B| That is what I, |%
+A|Is that  that through a VISA?|qy
+B|That is what I,|%
 B|Yeah.|ny
 A|Uh-huh.|b
 B|Yeah.|ny
@@ -47,8 +47,8 @@ A|I don't try and pay them off.|sd
 A|I pay, like the minimum.|sd
 B|Well you shouldn't do that.|ad
 A|I know|aa
-A| So I have got myself, |sd
-B| You never, you never  get out of the hole that way.|sv
+A|So I have got myself,|sd
+B|You never, you never  get out of the hole that way.|sv
 A|Exactly.|aa
 A|I have got, that is why I have got myself with all this trouble now.|sd
 A|But, I pay most of them on time and everything.|sd
@@ -58,8 +58,8 @@ A|So, it is kind of strange.|sd
 B|Kind of like the federal government right?|qy
 A|Oh, yeah.|ny
 A|Exactly like the government|sd
-A| In,  In debt.|sv
-B| Can't  never get out of debt.|sv
+A|In,  In debt.|sv
+B|Can't  never get out of debt.|sv
 B|And every time you try to get out of debt, the economy goes to pot because people are spending money, right.|qy
 A|Yeah.|ny
 A|Have they put the cap on the interest rates?|qy
@@ -97,8 +97,8 @@ A|Yes,|ny
 A|I do a matter of fact.|sd
 B|Who, who do you work for?|qw
 A|Uh, I work for Channel six.|sd
-B| Oh. |bk
-A| It's  it's an N B C affiliate down here.|sd
+B|Oh.|bk
+A|It's  it's an N B C affiliate down here.|sd
 B|I do a lot of work down in Waco,|sd
 B|a lot of, I call on a lot of my business is down there.|sd
 A|Oh really.|b
@@ -114,18 +114,18 @@ A|So you probably work with, uh, uh,|qy^d
 A|what is the boy from here?|t1
 A|You ever work with Davis?|qy
 B|Davis Iron?|qy
-A| Davis Iron Work,|na
-A|yeah. |ny
-B| Yeah,|ny
+A|Davis Iron Work,|na
+A|yeah.|ny
+B|Yeah,|ny
 B|matter of fact  I just saw them last week.|sd
 A|Oh, okay.|bk
 A|And, uh, what else.|^h
 B|Are you in that part, are you in the south part of town now?|qy
 A|Well, I live actually in Hewett.|arp_nd
 B|Oh, yeah.|bk
-B| Okay. |bk
-A| Yeah,|b
-A| right outside.|sd
+B|Okay.|bk
+A|Yeah,|b
+A|right outside.|sd
 B|You know Do you know Parker Machine Tool down there.|qy
 A|So, that is where Davis Iron Works is.|bf
 A|Uh.|^h
@@ -170,9 +170,9 @@ A|Huh.|b
 B|You have got to drive careful.|ad
 A|Oh, really|b
 A|I know.|aa
-B|Between Mart and Marlin, they will nail you if you go over  sixty miles an hour. |sv
-A| Oh, goodness.|ba
-A| They, they are bad at Hewett too. On eighty-four.|sv
+B|Between Mart and Marlin, they will nail you if you go over  sixty miles an hour.|sv
+A|Oh, goodness.|ba
+A|They, they are bad at Hewett too. On eighty-four.|sv
 B|Uh-huh.|b
 A|They are real bad.|sv
 A|That is where I got my last ticket.|sd

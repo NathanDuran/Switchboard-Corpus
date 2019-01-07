@@ -14,8 +14,8 @@ A|Yeah, you know.|b
 A|I guess I enjoy, I enjoy jazz, listening to jazz sometime although I don't feel like I have a good, good understanding of it, or a good, a good feel for maybe what's good jazz and what's not,|sd
 A|but, but, um, I enjoy it|sd
 A|and, uh, sometimes I enjoy listening to, uh, fiddle music.|sd
-B| Uh-huh. |b
-A| We were  in Colorado recently|sd
+B|Uh-huh.|b
+A|We were  in Colorado recently|sd
 A|and heard this, these, uh, well, we heard this fiddler|sd
 A|and we bought his, we bought his tape|sd
 A|and it's kind of fun to listen to the fiddle pans .|sd
@@ -33,8 +33,8 @@ B|So, I grew up with a lot of his music, and, and what not.|sd
 B|Plus my parents are, well,|sd
 B|especially my dad, likes a lot of classical music|sd
 B|and he introduced my brother and I both, to a lot of it.|sd
-B| So, |%
-A| Oh,  gosh,|ba
+B|So,|%
+A|Oh,  gosh,|ba
 A|Chris Xeros|bf
 A|You grew up with his children, too, then?|qy^d
 B|Yeah.|ny
@@ -156,7 +156,7 @@ B|Uh-huh.|b
 A|And, it makes, it makes it nice.|sd
 A|It makes, you know, you can say classy|sd
 A|or it makes an elegant wedding to  have  something else.|sd
-B| It does. |aa
+B|It does.|aa
 B|It really does|aa
 B|and it has such a different sound to it, anyway.|sv
 B|It's almost,|sv

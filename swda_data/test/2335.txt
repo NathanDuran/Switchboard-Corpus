@@ -74,7 +74,7 @@ A|Yeah.|b
 B|I don't know if you seen this.|qy^d
 A|Um.|b
 B|it was a little, it was a little gang of them stealing cars, you know,|sd
-A| No,|nn
+A|No,|nn
 A|I didn't see it.|sd
 A|I understand.|b
 B|And then when they caught him, you know, his mother sitting there,|sd
@@ -106,9 +106,9 @@ B|let them go|ad
 A|Yeah.|b
 B|you know, give them a fine, whatever,|ad
 B|make them do civic duty whatever,|ad
-A| Yeah,|aa
+A|Yeah,|aa
 A|I mean seriously,|sv
-B| Put them fools in there,|ad
+B|Put them fools in there,|ad
 A|they ought to put those people to work.|sv
 B|I call them all fools, idiots, whatever.|sd
 A|Yeah.|b
@@ -266,8 +266,8 @@ B|and I moved.|sd
 A|Yeah.|b
 B|And, you know, now I live in like a a neighborhood in a town house,|sd
 B|but it's nice.|sv
-B| I don't, you know.|h
-A| Yeah.|b
+B|I don't, you know.|h
+A|Yeah.|b
 A|I'm kind of in the same, same kind of deal, town house in a neighborhood.|sd
 B|But,|%
 A|It's pretty nice.|sv

@@ -148,9 +148,9 @@ A|Well, I guess if you were having, if you were trying to impress somebody like 
 B|Yeah.|aa
 B|Maybe, maybe that.|aa
 B|Yeah.|aa
-A| Yeah. |%
-B| Yeah.|aa
-B| I could see that, then maybe.|aa
+A|Yeah.|%
+B|Yeah.|aa
+B|I could see that, then maybe.|aa
 A|Uh-huh.|b
 A|And now the Red Lobster I found is very nice at lunchtime.|sv
 B|Yeah,|aa
@@ -221,9 +221,9 @@ A|Everything we eat.|sv
 A|Everything, everything we eat should have a label on it|sv
 B|You can't get away from it|sv
 B|so I think, To some point,|%
-A| Yeah. |b
-B| yeah,|b^m
-B| you know. So there's, you know, there's some things I think we can we, you know we can't avoid for health purposes and some things that we just need to like, you know,|sv
+A|Yeah.|b
+B|yeah,|b^m
+B|you know. So there's, you know, there's some things I think we can we, you know we can't avoid for health purposes and some things that we just need to like, you know,|sv
 B|this is not in my control.|sv
 A|Well, you know,|%
 B|So I'm either going to be, I'm either going to starve to death|sv

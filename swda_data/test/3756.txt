@@ -11,10 +11,10 @@ B|Yeah,|ny
 B|I showed you that one too didn't I?|qy
 B|The brown one.|sd
 A|Yeah.|ny
-A| Yeah.|ny
-A|Yeah. |ny
-B| Yeah,|bk
-B| the one that looks like a fudgesicle.|sd
+A|Yeah.|ny
+A|Yeah.|ny
+B|Yeah,|bk
+B|the one that looks like a fudgesicle.|sd
 A|Oh yeah|b
 B|Yeah.|b
 A|Oh heavens.|ba
@@ -23,13 +23,13 @@ B|Yeah.|b
 A|But I get, I have that problem with the the ceiling, you know, the, uh, the blown, blown, ceiling. You know where you get around the edge.|sd
 B|Oh yeah.|b
 B|Well, that is hard.|aa
-B|Now, I asked Janice, or somebody recently how you do that uh, when you paint the ceilings you know where you have got that textured stuff, that they have special rollers that are real soft and furry  that you paint that with. |sd
+B|Now, I asked Janice, or somebody recently how you do that uh, when you paint the ceilings you know where you have got that textured stuff, that they have special rollers that are real soft and furry  that you paint that with.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
-A| Well,  how do you get the edge though?|qw
+A|Well,  how do you get the edge though?|qw
 B|How do you get the edge?|br
-A| The the straight edge? |aa
-B| You  just have to be real careful.|sd
+A|The the straight edge?|aa
+B|You  just have to be real careful.|sd
 A|Oh, I see.|b
 B|We use, uh, uh, a two inch brush with, uh, on a slant|sd
 A|Uh-huh.|b
@@ -43,7 +43,7 @@ A|Oh really?|bh
 B|Yeah,|ny
 B|there are six houses.|sd
 B|See the people that own the house they, uh, pay for anything like that, that we do.  As far as  the the materials.|sd
-A| Oh nice. |ba
+A|Oh nice.|ba
 B|There are three houses on this street the same color of yellow out of six houses.|sd
 A|Yeah.|b
 B|So, I am thinking I am going to change it to, uh, something, you know,|sd
@@ -51,14 +51,14 @@ B|the brick is multi color. Mostly earth tones.|sd
 A|Uh-huh.|b
 A|Oh, that will be nice.|ba
 A|Huh.|%
-A| Or, two  tone, or two tone. You know.|^2
+A|Or, two  tone, or two tone. You know.|^2
 B|Yeah.|b
-B|There are some columns that could be painted a different color  too. |sd
-A| Uh-huh. |b
+B|There are some columns that could be painted a different color  too.|sd
+A|Uh-huh.|b
 B|What color did you paint your house?|qw
 A|White.|sd
-B| On the out, |bf
-A| But, I  have a problem.|sd
+B|On the out,|bf
+A|But, I  have a problem.|sd
 A|I can't get up high|sd
 A|and we can't paint the chimney|sd
 B|Well, you have got to get one of those ladders.|ad
@@ -97,8 +97,8 @@ A|scaffold.|sd
 A|That's it|sd
 B|He came and did it that way|sd
 B|and I think he charged me a hundred dollars to finish up.|sd
-A| Huh. |%
-B| And  literally I wouldn't have done it with the scaffolds because all the places that I had left for him were above huge humongous cactus|sd
+A|Huh.|%
+B|And  literally I wouldn't have done it with the scaffolds because all the places that I had left for him were above huge humongous cactus|sd
 A|Its,|%
 A|Yeah.|b
 B|and if he fell, he was dead|sd
@@ -112,14 +112,14 @@ A|Oh, I think that is what we might have to do with this chimney,|sd
 A|but other than that, it was pretty easy doing it ourself and caulking it and everything ourself.|sd
 B|Uh-huh.|b
 A|It wasn't too bad.|sv
-A|I mean  you think, |%
-B| How much  did it cost you for the paint for the outside?|qw
+A|I mean  you think,|%
+B|How much  did it cost you for the paint for the outside?|qw
 A|Shoot, maybe a hundred and fifty.|sd
 B|Yeah.|bk
 A|Since, it is a one story,|sd
 A|but we did, uh, like two heavy coats over it.|sd
-A| But then that way  you know you are assured you did a good job than you are, you know, if you hire someone to do it.|sd
-B| Yeah. |b
+A|But then that way  you know you are assured you did a good job than you are, you know, if you hire someone to do it.|sd
+B|Yeah.|b
 B|But, that friend of mine that painted his house out there in your neighborhood he went to, uh, I guess to buy his paint|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
@@ -139,9 +139,9 @@ A|Uh-huh.|b
 B|and when he got outside, he noticed his receipt was like thirteen ninety-nine or something.|sd
 A|Oh, my word.|ba
 B|And he saw .|sd
-A|So that was really worth it.  Painting his own house. |bf
-B| Yeah,|aa
-B| it was like over two hundred dollars worth of free stuff.|sd
+A|So that was really worth it.  Painting his own house.|bf
+B|Yeah,|aa
+B|it was like over two hundred dollars worth of free stuff.|sd
 A|Oh, my word|ba
 A|Oh, my word.|ba
 A|Well, he really saved in that way.|sd

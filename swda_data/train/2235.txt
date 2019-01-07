@@ -1,15 +1,15 @@
 A|Okay.|fo_o_fw_"_by_bc
 B|Hi.|fp
-A| Hi. |fp
-B| Okay. |b
+A|Hi.|fp
+B|Okay.|b
 B|You want to start?|qy
 A|Um, yeah.|ny
 A|Sure.|na
 A|Um, I think, I think we should have a balanced budget even if it means that services are dramatically cut back.|sv
 A|If you can't pay for it, you shouldn't have it.|sv
-A|Period. |fo_o_fw_"_by_bc
-A|And, |%
-B| That is  very true.|aa
+A|Period.|fo_o_fw_"_by_bc
+A|And,|%
+B|That is  very true.|aa
 A|That's just.|%
 B|However, our whole economy is based on loans.|sv
 A|Uh-huh.|b
@@ -82,9 +82,9 @@ A|What?|qw
 B|Very simple.|sd
 B|Just take all these civil service employees, and, uh, uh, take some of those holidays away from them, like Columbus Day, President's Day, I mean, they, they get all these days off.|sv
 A|I know.|aa
-A| Yeah. |b
-B| Now give them,   what a, a  week, I think we here at T I get a total of eleven a year.|sv
-A| I know. |aa
+A|Yeah.|b
+B|Now give them,   what a, a  week, I think we here at T I get a total of eleven a year.|sv
+A|I know.|aa
 A|Uh-huh.|b
 B|And that's about, uh, three or four less than civil servants get.|sd
 A|Uh-huh.|b
@@ -168,15 +168,15 @@ A|I think we're loaning money to too many nations,|sv
 A|but I think if we gave to a few select ones, that really needed it, that it would work out better for us and for them.|sv
 A|And so now we have all these nations that owe us all this money|sd
 A|and so I just think, we're never going to get that back, you know.|sv
-A| Do you understand? |qy
-B| No.|nn
-B|That, that's true. |aa
+A|Do you understand?|qy
+B|No.|nn
+B|That, that's true.|aa
 B|I, I understand that France still owes us money from World War I.|sd
 A|Uh-huh.|b
 B|And, uh, World War Two debts have never been repaid.|sd
 B|I think the U S just wrote them all off.|sd
-A| Yeah. |b
-B| And said,  well, we'll cancel it just like they did to the, that Polish debt here, uh, last week.|sd
+A|Yeah.|b
+B|And said,  well, we'll cancel it just like they did to the, that Polish debt here, uh, last week.|sd
 A|Yeah.|b
 B|Uh, uh, half the countries of the world simply canceled the Poland debts to help them.|sd
 A|Right.|b
@@ -193,8 +193,8 @@ A|I know.|aa
 A|What's yours?|qw
 A|Do you agree|qy
 A|or do you disagree|qrr
-A|or  I mean, what do you think long term? |qw
-B| Well, I don't believe in a single  government or a single control for the world.|sd
+A|or  I mean, what do you think long term?|qw
+B|Well, I don't believe in a single  government or a single control for the world.|sd
 A|Uh-huh.|b
 B|Uh, that's asking for trouble.|sv
 B|People are too different.|sv
@@ -212,11 +212,11 @@ A|Uh-huh.|b
 B|That's a big laugh,|sv
 B|we can't even make English a national language here in our country.|sv
 A|Uh-huh.|b
-B|We've got too many, uh, uh,  immigrants. |sv
-A| Yeah.|aa
-A| Yeah.|aa
-A| I know. |sd
-B| They don't call  them immigrants anymore,|sd
+B|We've got too many, uh, uh,  immigrants.|sv
+A|Yeah.|aa
+A|Yeah.|aa
+A|I know.|sd
+B|They don't call  them immigrants anymore,|sd
 B|that was back in my granddaddy's day.|sd
 A|Yeah.|aa
 A|Different ethnic groups|bf

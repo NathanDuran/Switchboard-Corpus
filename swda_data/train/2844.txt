@@ -246,9 +246,9 @@ B|Oh, wow, gosh.|ba
 B|Well, it was nice talking to you.|fc
 A|Yeah,|fc
 A|it was.|fc
-B| Okay. |fc
-A| And I,  maybe we'll meet up again.|fc
+B|Okay.|fc
+A|And I,  maybe we'll meet up again.|fc
 B|Okay.|fc
 A|All righty.|fc
-B| Bye-bye. |fc
-A| Bye-bye. |fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

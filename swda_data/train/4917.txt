@@ -5,9 +5,9 @@ A|Uh-huh.|b
 B|Uh, the, uh,|%
 B|I'm very much a, a fan of sports cars.|sd
 A|Ah.|ba
-A| Boy,  you and my husband would have a whole lot in common  |sv
-B| The, |%
-B|  The, uh,|%
+A|Boy,  you and my husband would have a whole lot in common|sv
+B|The,|%
+B|The, uh,|%
 B|uh, uh, though, actually, in|%
 B|actually if I|%
 B|I have|%
@@ -26,21 +26,21 @@ A|how old is your car?|qw
 B|Uh, well I have a, I have a nineteen eighty, uh, eighty-five C R X.|sd
 A|Oh.|b
 B|Uh, which is, you know,  it's,|sd
-B|it still works fine |sd
-A| Yeah.|b
-A|Right. |b
-B|But it's, it's actually,  it's kind of annoying cause I've got no reason to replace it |sd
-A| Oh. |b
+B|it still works fine|sd
+A|Yeah.|b
+A|Right.|b
+B|But it's, it's actually,  it's kind of annoying cause I've got no reason to replace it|sd
+A|Oh.|b
 B|But, uh, Oh, those are,|%
 A|Yeah.|b
 A|So what do the Miatas run?|qw
 B|they're about, uh, uh, thirteen to fourteen thousand dollars and, you know, a bit more if you add some some options  and so on|sd
 B|but  the,|%
-A| Well, that's not  too bad.|sv
+A|Well, that's not  too bad.|sv
 B|uh, yeah,|aa
-B|that's a pretty good price |sv
+B|that's a pretty good price|sv
 B|and  they're, they're, they're, they're so nice to drive.|sd
-A| Yeah. |b
+A|Yeah.|b
 A|Really?|bh
 A|I've never driven one.|sd
 B|Uh, uh, it's, it's, it's nice.|sd
@@ -56,19 +56,19 @@ B|Yeah.|ny
 A|Oh.|b
 A|Okay.|bk
 B|Yeah.|b
-A| Oh |b
-B| It  was just,|%
-B|it, it's just so smooth |sd
-B|and. |%
-A| Really?|bh
+A|Oh|b
+B|It  was just,|%
+B|it, it's just so smooth|sd
+B|and.|%
+A|Really?|bh
 A|Yeah|%
 B|Yeah.|aa
 B|Nice car.|sv
 B|What are you interested in?|qw
-A|Whatever my husband buys  |sd
-B| Yeah.|b
-B|You  you don't get involved in,  uh, car decisions? |qy^d
-A| Oh, not too much. |ng
+A|Whatever my husband buys|sd
+B|Yeah.|b
+B|You  you don't get involved in,  uh, car decisions?|qy^d
+A|Oh, not too much.|ng
 A|No.|nn
 A|We, uh, we just got rid of a full conversion van that, that I, I, that wasn't me.|sd
 A|That was my husband.|sd
@@ -78,20 +78,20 @@ A|But I never drove it|sd
 A|so it just, it wasn't me, you know.|sd
 B|Yeah.|b
 B|I can understand.|ba
-A| And then,  Oh, I'd want a minivan  |sd
+A|And then,  Oh, I'd want a minivan|sd
 B|yeah.|b
-B|  They're nice. |sv
-A| Because I'm  with the kids all the time.|sd
+B|They're nice.|sv
+A|Because I'm  with the kids all the time.|sd
 B|Oh, yeah.|aa
-B| That's  perfect for that.|sv
-A| Yeah. |b
-A| Yeah.|b
-A|And, |%
-B| It's not,|%
-B| it, it's small enough that it's easy to drive.|sv
+B|That's  perfect for that.|sv
+A|Yeah.|b
+A|Yeah.|b
+A|And,|%
+B|It's not,|%
+B|it, it's small enough that it's easy to drive.|sv
 A|Yeah.|aa
-A| You pick up  I pick up my little one from preschool|sd
-B| Holds a lot. |sv
+A|You pick up  I pick up my little one from preschool|sd
+B|Holds a lot.|sv
 A|and the whole parking lot's full of minivans.|sd
 B|Yeah.|b
 A|But, you know, I, I drive a little Subaru.|sd
@@ -101,9 +101,9 @@ A|I,|%
 A|we were going to trade that in for the van|sd
 A|but I just wanted to hold on to it cause I just really enjoy that.|sd
 B|Right.|b
-A|And, uh, that's really all I needed was for something just to go here and there  and back. |sd
-B| Yeah.|b
-B| Minivans are nice.|sv
+A|And, uh, that's really all I needed was for something just to go here and there  and back.|sd
+B|Yeah.|b
+B|Minivans are nice.|sv
 B|I have a friend who has a minivan.|sd
 A|Uh-huh.|b
 B|And, uh, I've driven it a few times|sd
@@ -112,11 +112,11 @@ B|it's nice.|sd
 B|Of course, you know, my my family has always had cars like that. Uh, in that, you know, my father's had a, had a, always had a V W bus every since, uh nine, about nineteen sixty or so.|sd
 A|Oh, really|b
 A|Oh, really.|b
-B|Uh,  uh, |%
+B|Uh,  uh,|%
 B|they, well,|%
 B|he, he used it,|sd
 B|he often has to transport plants or, uh,  things  like that cause he's, he goes to orchid shows and, and, you know, fills the car with plants. And so on|sd
-A| Yeah. |b
+A|Yeah.|b
 B|or .|%
 A|Yeah.|b
 A|It's amazing what a minivan can do.|sv
@@ -132,8 +132,8 @@ B|And they're not that expensive.|sv
 A|No,|aa
 A|they're not.|sv
 B|Yeah.|b
-A|They're probably  . |%
-B| Mainly because everyone  makes them, you know|sv
+A|They're probably  .|%
+B|Mainly because everyone  makes them, you know|sv
 A|Yeah.|b
 B|You can take your choice of how expensive you want it to be.|sv
 A|Yeah.|aa

@@ -127,8 +127,8 @@ A|Well, I had kind of gotten used to centigrade temperature, you know,|sd
 A|if it's between zero and ten, it's cold,|sv
 A|and if it's ten and twenty it's not too bad,|sv
 A|if it's between twenty and thirty it's pretty warm,|sv
-B| It's getting warm, right. |aa
-A| if it's more than  thirty it's just hotter than all get out.|sv
+B|It's getting warm, right.|aa
+A|if it's more than  thirty it's just hotter than all get out.|sv
 A|So, but, uh. The big problem is not having the, uh, the resolution between temperature, you know, between a hundred, if you're talking about a hundred degrees or what, thirty, zero, you know thirty four degrees, whatever that is.|sv
 A|You know, you don't get all the little differences|sv
 B|Yeah,|aa

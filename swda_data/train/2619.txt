@@ -2,12 +2,12 @@ A|Well, uh, what what do you think about the metric system?|qo
 A|Uh, do you, uh, find it useable?|qy
 A|Have you tried much with it?|qy
 B|Well, with an engineering,  degree,  it's, of course, it's a whole lot easier.|sd
-A| Yeah. |b
-A| Uh-huh. |b
-B| because,  uh,|%
-A| To use you mean,|bf
-A|uh-huh. |b
-B| yeah,|aa
+A|Yeah.|b
+A|Uh-huh.|b
+B|because,  uh,|%
+A|To use you mean,|bf
+A|uh-huh.|b
+B|yeah,|aa
 B|if, if somebody  is totally unfamiliar with it, uh, human nature being what it is we don't like to change.|sv
 A|Yes.|aa
 B|Uh, it just absolutely makes perfectly good sense to me because it's all decimal.|sd
@@ -19,11 +19,11 @@ A|We,|%
 A|well I've lived both in the United States and, and in a country where they do use the metric system|sd
 A|and, uh, so I've, I've lived with pounds and inches and found it really quite easy to convert over.|sd
 A|Um, the secret seeming to me to be to not bother ever converting inches to centimeters and,  pounds  to uh, uh, kilograms,|sv
-B| Right. |aa
-B| That's right. |aa
-A| and, I  think that's what hung people up the most is they went now wait a minute, an inch is two point fifty-four centimeters,|sv
-B| Right. |b
-A| how  on earth am I every going to do the math? *spelling|^q
+B|Right.|aa
+B|That's right.|aa
+A|and, I  think that's what hung people up the most is they went now wait a minute, an inch is two point fifty-four centimeters,|sv
+B|Right.|b
+A|how  on earth am I every going to do the math? *spelling|^q
 B|Right.|b
 A|And the problem is that we tried to convert everything from inches to centimeters preserving basically the inches but expressing them as centimeters rather than saying no, a centimeter is about the width of your thumbnail, or whatever, and, you know, and leaving it at that|sv
 A|and, uh, you know, a kilogram weighs about this much|sd
@@ -43,9 +43,9 @@ A|Uh, I don't know,|h
 A|I mean even Britain has converted over|sd
 A|and we inherited this mess from them|sd
 A|and, uh,|%
-B| That's right,|aa
-B|it's all their fault. |sv
-A| Well, I mean, it's more  our fault than theirs at this point because they, they saw the light, um,|sv
+B|That's right,|aa
+B|it's all their fault.|sv
+A|Well, I mean, it's more  our fault than theirs at this point because they, they saw the light, um,|sv
 A|I don't know why they um, were more able than we were|%
 A|except I think, that they probably just said well, we're just going to start using the things now|sv
 A|and you sort of have to force people to change since they don't want to|sv
@@ -77,8 +77,8 @@ A|You don't?|qy
 B|No.|nn
 B|I, I think that would be the easiest way|sv
 B|but human nature being such as it is,  I would  think it would take, probably, two or three years before people could completely cut the cord.|sv
-A| Uh-huh,|b
-A|uh-huh. |b
+A|Uh-huh,|b
+A|uh-huh.|b
 A|Yeah,|b
 A|oh, oh, that's what I was thinking by quick transition,|sd
 A|I didn't mean, you know, I didn't mean like Sweden going over to right hand drive or anything, you know,|sd
@@ -98,9 +98,9 @@ B|Interesting.|ba
 A|And they,|%
 A|but, you know, that must have taken, uh,|%
 A|that was something that had to be done quickly,  you know,  because of external circumstances,|sd
-B| Oh, yes. |aa
+B|Oh, yes.|aa
 A|but they decided to do it to make themselves in sync with the rest of Europe,  or  the rest of continental Europe|sd
-B| Yeah. |b
+B|Yeah.|b
 A|and, you know. But that must have been tremendously difficult to orchestrate.|sv
 B|Yeah.|b
 B|I'm sure.|ba
@@ -109,8 +109,8 @@ A|and I think the real trick is to avoid the you know,|sv
 A|a little more attention to human psychology|sv
 A|and, whereas, people want round numbers|sv
 A|and after all, the whole reason to go over to metric is to have round numbers,  so they  don't deal with thirty seconds of an inch|sd
-B| Exactly,|aa
-B|exactly. |aa
+B|Exactly,|aa
+B|exactly.|aa
 A|and so what the exact,|%
 A|the thing that was best about metric was the thing that was most poorly represented.|sv
 A|Really, I think.|sv
@@ -119,13 +119,13 @@ A|Uh-huh,|b
 A|I saw that,|sd
 A|I saw that the other day.|sd
 A|I don't drink soda pop,|sd
-B| Yeah. |b
-A| but  I saw a two liter soda pop bottle|sd
+B|Yeah.|b
+A|but  I saw a two liter soda pop bottle|sd
 A|so, yeah,|%
 A|things like that are a good start|sv
 A|and if you start expressing one liters and one kilograms and then the pounds come in the, the, you know, the odd numbers,  you know,  two point two pounds or something. I think people will start getting a sense of, gee the metric is the sensible one.|sd
-B| Right.|aa
-B|Yes. |aa
+B|Right.|aa
+B|Yes.|aa
 B|That's true.|ba
 B|Well, sure have enjoyed our talk.|fc
 A|Yes,|fc

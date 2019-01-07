@@ -200,14 +200,14 @@ B|Yeah,|aa
 B|I know the feeling.|sd
 A|So, oh well, let's see how long have we been talking here|qw
 A|six minutes and a half.|sd
-A| Okay. |fc
-B| Is that okay? |fc
+A|Okay.|fc
+B|Is that okay?|fc
 A|Yeah.|fc
 B|All right.|fc
 A|All right.|fc
 A|Well, nice talking to you.|fc
 B|Nice talking to you.|fc
-B| Have a good time. |fc
-A| All right.|fc
-A|Bye-bye. |fc
+B|Have a good time.|fc
+A|All right.|fc
+A|Bye-bye.|fc
 B|Bye.|fc

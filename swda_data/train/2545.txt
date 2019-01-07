@@ -86,8 +86,8 @@ B|Yeah.|b
 B|Yeah,|b
 B|yeah.|b
 A|they're great for playing games.|sv
-B| Right. |aa
-A| My brother, |%
+B|Right.|aa
+A|My brother,|%
 B|Well, my son is, uh, studying electronic technology,|sd
 B|and he's been able to do things on uh, on the personal computer here that really have enhanced his, um, reports, and his learning and all because he can lay things out that way.|sd
 A|Yeah.|b
@@ -198,7 +198,7 @@ A|Very competitive.|aa
 A|I don't even, I don't even know much money my sister spent on hers,|sd
 A|but I, I just thought I, it's, it's going to be a waste,|sd
 A|she's not going to do it, not going to use it.|sd
-A| Oh, well. |%
+A|Oh, well.|%
 B|Sounds like he, that you were right|bf
 A|Yeah.|aa
 A|Well, she likes it,|sd

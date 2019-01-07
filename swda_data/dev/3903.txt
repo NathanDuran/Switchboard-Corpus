@@ -93,8 +93,8 @@ B|We will be busy with that again.|sd
 A|What, again.|br
 A|So you have participated with that in the past?|qy
 B|Pardon me?|br
-A|Have you participated in that  in the past? |qy
-B| Well, I  did with my older daughter|na
+A|Have you participated in that  in the past?|qy
+B|Well, I  did with my older daughter|na
 A|Uh-huh.|b
 B|and she was in it for a few years,|sd
 B|but she has got so many interests herself that, we had to start eliminating|sd
@@ -123,6 +123,6 @@ B|Thank you for calling.|fc
 A|Well thank you|fc
 A|and you have a nice evening.|fc
 B|You too.|fc
-B| Bye,|fc
-B|bye. |fc
-A| Bye now. |fc
+B|Bye,|fc
+B|bye.|fc
+A|Bye now.|fc

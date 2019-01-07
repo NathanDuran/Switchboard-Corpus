@@ -5,9 +5,9 @@ A|What are they?|qw
 B|well I don't know if they consider themselves animals anymore.|sd
 B|They actually, you know, sort of take over the place|sv
 B|an, and we're kind of their pets.|sv
-A|Pets get like that don't they, |qy
-A|they think they own you |sv
-B| Don't they really? |qh
+A|Pets get like that don't they,|qy
+A|they think they own you|sv
+B|Don't they really?|qh
 B|They own the place|sd
 B|and naturally these are cats,|sd
 B|so.|%
@@ -69,8 +69,8 @@ B|Oh, uh, by choice?|qy
 A|It was about, uh, oh, three feet long, about three feet long.|sd
 A|It was a beautiful animal,|sv
 A|name was Clyde.|sd
-B| Clyde the iguana. |bf
-A| Clyde the iguana. |aa
+B|Clyde the iguana.|bf
+A|Clyde the iguana.|aa
 A|And, uh, my son Dan went to, uh, to, uh, Hawaii for the summer|sd
 A|and when he came home, uh, he didn't bring the iguana with him|sd
 A|but for some reason or other he had a thing for them.|sd
@@ -135,9 +135,9 @@ A|like he was trying to protect himself,|sv
 B|And cover his ears.|bf
 A|and then he'd leave the room|sd
 B|Isn't that funny the way we put, you know, um, human characteristics on an animal like  that|qy^d
-B|an, an, it's, |%
-A| Oh yeah,|ny
-A|they really are, they're interesting, |sv
+B|an, an, it's,|%
+A|Oh yeah,|ny
+A|they really are, they're interesting,|sv
 A|well they take on human characteristics like, uh, our other animal,|sv
 B|I guess they do.|aa
 A|the next year our, our son Ken went to Hawaii|sd

@@ -103,8 +103,8 @@ B|so,|%
 A|I know too many people who use a calculator|sd
 A|if they make a mistake, they find out two months later because they weren't paying attention.|sd
 B|Oh, yeah.|b
-A|And,  And it seem, |%
-B| And we have a, |sd
+A|And,  And it seem,|%
+B|And we have a,|sd
 B|I bank at N C N B here|sd
 B|and they have a number that you can call in,|sd
 B|and I always call in and, like, once every other week or so|sd

@@ -3,8 +3,8 @@ A|I think that gets us off to discussing the topic for tonight.|sv
 B|Which is movies,|^2
 B|correct?|^g
 A|That is correct.|na
-B| Okay. |bk
-A| Are you  a movie buff?|qy
+B|Okay.|bk
+A|Are you  a movie buff?|qy
 B|Um, yeah.|ny
 B|I don't like going to see them in the theaters|sd
 B|but outside of that, rent a lot,|sd
@@ -38,20 +38,20 @@ A|I thoroughly enjoyed it.|sd
 A|He is, uh, an attorney and his daughter is an attorney|sd
 A|and she has a suit against his company.|sd
 A|You know, it's one of those things.|sd
-B| Yeah,|b
-B|that, |%
-A| But  there's a lot of|%
+B|Yeah,|b
+B|that,|%
+A|But  there's a lot of|%
 A|well, it's just it's something that anyone can watch and enjoy.|sv
 B|He's a good actor though.|sv
 A|Beg your pardon?|br
-B|Um, Gene Hackman's a good actor.  I think. |sv
+B|Um, Gene Hackman's a good actor.  I think.|sv
 A|Yes,|aa
-A| he is. |sv
+A|he is.|sv
 B|Do you see HOOSIERS?|qy
 A|Yes.|ny
 A|I've seen HOOSIERS.|sd
-A|Saw it just again the other night,  for, |sd
-B| Yeah, |b
+A|Saw it just again the other night,  for,|sd
+B|Yeah,|b
 B|actually I, we saw her just the other night too.|sd
 A|Oh, did you?|bh
 B|Yeah.|ny
@@ -70,8 +70,8 @@ A|So, well what business are you in?|qw
 B|I'm, I'm an electrical engineer.|sd
 A|Oh.|b
 A|In New Hampshire.|qy^d
-A| All right. |bk
-B| I work  in Massachusetts actually.|sd
+A|All right.|bk
+B|I work  in Massachusetts actually.|sd
 A|Oh, all right.|bk
 A|Okay.|b
 A|So is everything going all right up there?|qy
@@ -107,8 +107,8 @@ A|Well, what movies are you looking forward to seeing now?|qw
 B|Um, well, I'm, I'm only twenty-seven years old|^h
 B|so THE DOORS movie, that's out on video. I want to watch that.|sd
 A|Okay.|bk
-A| Have you seen GREEN CARD? |qy
-B| That would be pretty good. |sv
+A|Have you seen GREEN CARD?|qy
+B|That would be pretty good.|sv
 B|No,|nn
 B|I haven't seen that one.|sd
 A|That's a real warm movie.|sv
@@ -117,8 +117,8 @@ A|So I would recommend that if you have a chance.|sd
 B|I'm in for it.|sd
 B|We rent a lot of movies|sd
 B|so we, we often sit around and say, what movies should we rent?|sd
-B|And we  don't know. |sd
-A| Well if you,  if you can get GREEN CARD, go for it.|ad
+B|And we  don't know.|sd
+A|Well if you,  if you can get GREEN CARD, go for it.|ad
 B|All right,|aa
 B|we'll try that one.|sd
 A|I have been working at, uh, as an accountant at the medical school here in Dallas|sd

@@ -33,11 +33,11 @@ B|Okay.|bk
 B|Well it's a book about, uh, uh, Greek gods and, and Greek, uh, mythology as well as, uh, man and interacting with other men and a book about, uh, men and how they mature through life.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
-A| Oh. |b
-B| And  how they deal with life itself|sd
+A|Oh.|b
+B|And  how they deal with life itself|sd
 A|Okay.|b
 A|I think I have heard about that.|sd
-A| Yeah. |%
+A|Yeah.|%
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Uh-huh.|b
@@ -75,8 +75,8 @@ A|Okay.|b
 B|And, uh, so that, that's,|%
 B|my work is my hobby|sd
 A|Uh-huh.|b
-A| That  sounds great|sd
-B|  So I, I enjoy it.|sd
+A|That  sounds great|sd
+B|So I, I enjoy it.|sd
 A|Uh, who is your, whose your favorite religious author?|qw
 B|Well, I don't know if I have a favorite uh, religious author.|sd
 A|Uh-huh.|b
@@ -99,7 +99,7 @@ B|Yes.|b
 B|I know him,|sd
 B|yeah.|%
 A|Huh.|b
-B| But  uh, there's other authors also that have uh, uh, that write good books from time to time, but not consistently put out the materials all the time|sv
+B|But  uh, there's other authors also that have uh, uh, that write good books from time to time, but not consistently put out the materials all the time|sv
 B|Uh, I'd say another, which is a local writer here in Plano, uh, is, uh,|sv
 B|I'm trying to think of his name.|^h
 B|He's with the Bible church.|sd

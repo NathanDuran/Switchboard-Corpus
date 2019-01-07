@@ -5,22 +5,22 @@ B|Really?|qy
 A|Yeah.|ny
 A|How about you?|qo
 B|Oh, I'm pretty much for it.|sd
-A|Oh, good |ba
-A|we can have a debate. |sv
-B| We'll  have some interesting discussion, I guess.|sv
+A|Oh, good|ba
+A|we can have a debate.|sv
+B|We'll  have some interesting discussion, I guess.|sv
 A|Well, like, um, I don't know,|h
 A|I think that I,|%
-A|one of the reasons that I'm against it is that, uh, um, I'm afraid of someone losing their life, for um,  wrongly, |sd
-B| Wrongfully. |^2
-B| Yeah. |b
-A| Right |aa
+A|one of the reasons that I'm against it is that, uh, um, I'm afraid of someone losing their life, for um,  wrongly,|sd
+B|Wrongfully.|^2
+B|Yeah.|b
+A|Right|aa
 B|Yeah.|b
 A|and, uh, another reason,|sd
 A|one of the arguments, that really, I really actually have been kind of ambivalent about it, but one of the arguments that really, uh, made me feel kind of strongly against it, is that, uh, you know, someone said to me once, well, imagine if the person you love most in the world, like your mother or something, if someone killed her, wouldn't you want to see them killed for the punishment?|sd
 A|But then I thought about it|sd
 A|and I thought, well, the loss that I would feel at losing my  mother   someone else would feel  that about that person no matter how rotten they were, somebody loves them|sd
-B| Yeah, |b
-B| it would never be equal, |^2
+B|Yeah,|b
+B|it would never be equal,|^2
 B|Right.|b
 B|Right.|b
 B|Yeah.|b
@@ -38,7 +38,7 @@ B|I just, I really have a hard time with that because he really sounds like a re
 B|And, you know, for the things he's done,|sd
 B|I don't know,|h
 B|I guess it's either, you know, put him in jail for the rest of his life, you know, or or capital punishment I guess. You know|sd
-A| Right.|b
+A|Right.|b
 A|Well you know  that's true, because um a lot of um these conversations I've had on this program this these telephone conversations have revolved around um criminal you know justice.|sd
 B|Oh, really.|b
 A|Uh-huh.|b
@@ -59,12 +59,12 @@ A|Uh-huh.|b
 B|and|%
 A|Right.|b
 A|Especially when it's so far removed.|^2
-A|If it's no one that I know then you have to think about the taxpayers paying the shelter and feed and clothe them for the  rest of their life. |sv
+A|If it's no one that I know then you have to think about the taxpayers paying the shelter and feed and clothe them for the  rest of their life.|sv
 B|Right.|b
 B|Right.|b
-B| And trying  to rehabilitate him, too,|sv
-B|and,  you know, |%
-A| Letting him  out again|^2
+B|And trying  to rehabilitate him, too,|sv
+B|and,  you know,|%
+A|Letting him  out again|^2
 B|Right,|b
 B|exactly.|aa
 B|And, uh, you know, nobody wants that.|sv
@@ -104,7 +104,7 @@ B|he pretty much confessed to it.|sd
 B|I mean, they, you know,|%
 B|just everything, I mean, cannibalism and everything else, uh,|sd
 A|Yeah.|b
-A| Hang? |^2
+A|Hang?|^2
 B|Because, I mean, that's just awful.|sv
 A|And what is he going to do prison to the other people|bh
 B|Right.|b
@@ -112,8 +112,8 @@ B|Well, I have a I have a hunch that, you know, the other prisoners aren't going
 B|I mean, you know they,|%
 B|I don't know,|h
 B|from, from what I hear about jail life is not any way to live.|sd
-A| Right. |b
-B| But,  uh, I don't know. It's just,|%
+A|Right.|b
+B|But,  uh, I don't know. It's just,|%
 A|Well, I was, I saw on a human interest story, or whatever today, there was a woman who was just being paroled and trying to make it back,|sd
 A|she was off drugs and everything,|sd
 B|Uh-huh.|b
@@ -122,7 +122,7 @@ A|You can any drugs you want.|sd
 A|There's,|%
 A|it, it's just like being outside.|sd
 A|You know, people  find ways  around.|sd
-B| Really. |b
+B|Really.|b
 A|And there's a power structure that you have bow to|sd
 A|and, and, it really isn't, for some people who have been there for over, and over, and over, it really isn't, uh, as bad.|sd
 A|I mean, there's,|%
@@ -132,7 +132,7 @@ B|Yeah.|b
 A|But the society is turned against punishment and more towards rehabilitation|sv
 A|and  maybe  that's why, one of the reasons why crime has gone up, because it's not so scary anymore.|sv
 B|Yeah.|b
-B| That, |%
+B|That,|%
 B|Yeah.|b
 B|Well, you know, especially like repeat offenders.|sd
 B|It, it just appalls me that they can be out, you know, they even get a ten year sentence and be out in, in two, or three, or four years.|sd

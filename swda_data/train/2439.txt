@@ -40,8 +40,8 @@ B|I think so too.|aa
 A|Are the, uh, Oldsmobiles that you're looking at, are they the demos|qy
 A|or they used,|qrr
 A|are they new|qy
-B|Well, the ones that we were test driving were the, uh, were the new ones  there. |na
-A| Uh-huh. |b
+B|Well, the ones that we were test driving were the, uh, were the new ones  there.|na
+A|Uh-huh.|b
 B|Uh-huh.|%
 B|Well now, uh, now, they may be the demonstrator models that the sales reps drive around in.|sd
 A|Uh-huh.|b
@@ -271,5 +271,5 @@ A|Okay,|fc
 A|good luck in your car hunting.|fc
 B|Thank you much.|fc
 A|Uh-huh.|fc
-A| Bye-bye. |fc
-B| Bye-bye. |fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc

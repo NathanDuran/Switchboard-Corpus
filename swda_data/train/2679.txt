@@ -12,17 +12,17 @@ B|That's,|%
 B|yes,|b
 B|yes,|b
 B|that's true.|ba
-B|I've  talked, |sd
-A|Have you,  too? |qy
+B|I've  talked,|sd
+A|Have you,  too?|qy
 B|Uh-huh.|ny
 B|People from Virginia and, and all over. Yeah.|qy
 A|Yeah.|%
 A|I talked to the professor,|sd
 A|and I asked him about it,|sd
 A|and he said, Oh, he says, I think I'm the guy that, actually, uh, gave it to all my students.|sd
-A| So  that's why so many people are from this college.|sd
-A|Go,  ahead, |ad
-B| Uh-huh. |b
+A|So  that's why so many people are from this college.|sd
+A|Go,  ahead,|ad
+B|Uh-huh.|b
 A|you, you first, Eve .|ad
 B|Oh, okay.|aa
 B|Um, well the subject we're supposed to be talking about, let's see, is, uh, food.|sd
@@ -52,7 +52,7 @@ A|I do cook,|sd
 A|but not,|%
 A|I'm mostly the easy cooker.|sd
 A|You know, the breakfasts and,  and  the steaks, uh.|sd
-B| Yes. |b
+B|Yes.|b
 A|Although I would like to experiment with, uh, the meals my mother made, you know. So to speak,|sd
 B|Uh-huh.|b
 A|and I haven't gotten around to that yet, uh,|sd
@@ -78,14 +78,14 @@ A|But dinner parties are a lot of work, uh,|sv
 B|Yeah,|b
 B|yeah.|b
 B|But, uh, that's, that's why I like the, the outdoor stuff a,  a  lot better.|sd
-A| Yeah. |b
+A|Yeah.|b
 B|People can entertain themselves, I think, a great deal more, uh, when you have a barbecue. Especially when you have hot dogs and hamburgers and,  uh,  you know, nothing really fancy, like your, your shish kabobs, where you have to do a whole bunch of work.|sd
-A| Yeah. |b
+A|Yeah.|b
 A|Yeah.|b
 A|Well, that, that,|%
 A|shish kabob is, uh, just because it only takes a few minutes to cook, you know,|sd
-B| Uh-huh. |b
-A| you  get it ready,|sd
+B|Uh-huh.|b
+A|you  get it ready,|sd
 A|you have to do a lot of work beforehand, I agree, and buy special stuff.|sv
 A|But, uh, so far as getting out there and, and putting it on, it only takes a a few minutes, uh.|sv
 B|Right.|b
@@ -95,7 +95,7 @@ B|Yeah,|b
 B|yeah.|b
 B|Well, I, I think you do, do a lot of work.|sv
 B|Even if people do bring over things, you still do, uh, all the, uh,  housework  and get everything prepared and utensils and just, just everything.|sv
-A| Right. |b
+A|Right.|b
 A|Right.|b
 B|Uh, you know, my mother used to make an Armenian rice dish.|sd
 A|Uh-huh,|b
@@ -115,7 +115,7 @@ B|But we used to have that at Thanksgiving time. Because you can, you can put it
 A|Uh-huh,|b
 A|yes.|b
 B|and, and there's so much broth and juice in there,  that it  has to, uh, soak up into the rice, all day long, in order for it to, uh, uh, to come out fluffy and, and nice.|sd
-A| Oh, great. |ba
+A|Oh, great.|ba
 B|And that was, you know,|sd
 B|when you were talking about the, the Polish dishes, uh, some goulashes and things like that.|sd
 B|That's, uh, that's what I thought about, was that Armenian rice dish.|sd
@@ -123,7 +123,7 @@ A|Oh, yes,|ba
 A|we probably ought to try this.|sv
 A|But it probably will never taste as good as we remembered.|sv
 A|I guess it gets better and better as we remember it,  back, as  we get older, you know.|sv
-B| That's true. |ba
+B|That's true.|ba
 A|But we probably should try it, uh, to do that.|sv
 B|That's true.|ba
 A|The recipes are really interesting, you know.|sv
@@ -175,8 +175,8 @@ B|And, uh, what they have is this honey baked ham,|sd
 A|Oh, yeah,|b
 A|I saw them.|sd
 B|They,|%
-A| That's good. |ba
-B| have you  seen, have you had any of those?|qy
+A|That's good.|ba
+B|have you  seen, have you had any of those?|qy
 A|No,|nn
 A|I, I, uh, I've, I know about Sam's.|sd
 A|My wife I think goes|sd
@@ -187,7 +187,7 @@ B|But you cook it in the bag that they send it in.|sd
 A|Oh, really?|bh
 B|And all the juices and everything are all sealed in.|sd
 B|And, I tell you what, it's never failed to come out tender and juicy,  and just  and just delicious. Because I normally don't like ham, because it's so salty.|sd
-A| Oh, I haven't heard  of that, yeah.|sd
+A|Oh, I haven't heard  of that, yeah.|sd
 A|Yeah.|b
 B|But with this honey bake that they have, that, that's the only one I have been able to find there at Sam's warehouse.|sd
 B|It is absolutely delicious.|sv
@@ -204,7 +204,7 @@ A|But he,|%
 A|but it's a company that has, uh, you know, a truck that comes around.|sd
 A|And, and they recently had hams.|sd
 A|They have steaks and,  and,  uh, actually, pirogies and all that stuff that, uh,|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|I, I wish I could tell you the name of the company,|sd
 A|but I don't know what it is.|sd
 A|But, uh, they recently had a ham, that was supposed to be,|sd
@@ -226,13 +226,13 @@ A|But I would like to put one in the oven, you know, the old fashioned way and p
 A|because I don't think in, in my married life, which is, uh, twenty-six years now, we've never done that, you know.|sd
 B|Wow.|b
 A|And I remember that when I was a kid, uh,  to  have the ham cooking. Uh, rather than that, we just,|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|ham is just something you have for breakfast occasionally, you know.|sd
 B|Right|b
 A|And that's it, you know.|sd
 A|In the old days, we had, hams were the meal,|sd
 A|and I don't, I don't think we,  really  have it as a main meal.|sd
-B| Right. |b
+B|Right.|b
 B|That's true.|ba
 B|I, I don't think so anymore, not with more, becoming more conscious of, uh, fat and cholesterol and, and all those good things.|sv
 A|Right.|b
@@ -240,11 +240,11 @@ A|That's an interesting point.|sv
 A|How, how have you changed your, your meals now?|qw
 A|Have you,|%
 A|into that, uh,|%
-B| Oh, yeah. |b
-A| looking at  those things?|qy^d
+B|Oh, yeah.|b
+A|looking at  those things?|qy^d
 B|Well, my parents actually started it,|na
-A| Uh-huh. |b
-B| and,  uh, getting,|%
+A|Uh-huh.|b
+B|and,  uh, getting,|%
 A|Parents, that's unusual.|sv
 B|Well, it, it's true.|sd
 B|I think my parents are very unusual because, uh, we grew up in the south, where, uh, you have all the, uh, you know, biscuits and gravy and, oh, fried foods galore.|sd
@@ -258,9 +258,9 @@ B|so it was one of the reasons which started them off.|sd
 A|Yeah.|b
 B|And they started doing this, like in the early, or in about the middle seventies.|sd
 A|Well, that's amazing,|ba
-B| Uh, yeah. |b
-A| they'd go,|%
-A| that they have started.|sd
+B|Uh, yeah.|b
+A|they'd go,|%
+A|that they have started.|sd
 A|Usually it's the younger people doing it.|sd
 A|Yeah.|%
 B|It's true,|ba
@@ -268,22 +268,22 @@ B|it's true.|ba
 B|I agree with you.|aa
 A|I,|%
 A|uh,  my, my wife's mother  is the only grandparent left,|sd
-B| So, it's really neat. |ba
+B|So, it's really neat.|ba
 A|and, uh,  she  has high cholesterol.|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|Of course, I I have too, but not like hers.|sd
 B|Uh-huh.|b
 A|And I always get after her about salt and everything else.|sd
 A|And she just will, I mean, she's going to eat the same way she ate, you know,  her whole  life.|sd
-B| That's right. |b
+B|That's right.|b
 A|And she just tells, more or less tells me to shut up, you know.|sd
 B|Right|b
 A|And, uh, I like to,|%
 A|I'm trying to do something about my cholesterol in the same way.|sd
 B|Uh-huh.|b
 A|Uh,|%
-B| Uh-huh. |b
-A| uh,  it's, it's not the|%
+B|Uh-huh.|b
+A|uh,  it's, it's not the|%
 A|. I listen to, uh, Larry Newarth on the weekend.|sd
 A|He's a fitness expert|sd
 A|and, uh, he talks about, you know, the chicken and the rice and everything else.|sd
@@ -296,9 +296,9 @@ A|You know, try that sometime.|ad
 B|Uh-huh.|b
 A|My wife says she can't stand it.|sd
 A|But, uh, when I make scrambled eggs now, talking about a recipe,|sd
-B| Uh-huh. |b
-A| I,|%
-A| say if I have four eggs, not, not for me,|sd
+B|Uh-huh.|b
+A|I,|%
+A|say if I have four eggs, not, not for me,|sd
 A|but if I'm making four eggs, uh, even for my daughter and I, I'll take out all the yolks but one.|sd
 B|Wow!|ba
 A|And and it's fine.|sd
@@ -318,7 +318,7 @@ A|And so, uh, for cholesterol, I mean, I'm trying that.|sd
 A|And it has worked.|sd
 A|My cholesterol gone down twenty points.|sd
 A|So, although,|%
-B| Wow, that's good. |ba
-A| I haven't gotten  on the, which, whether butter or not cholesterol, margarine and all that.|sd
+B|Wow, that's good.|ba
+A|I haven't gotten  on the, which, whether butter or not cholesterol, margarine and all that.|sd
 A|I don't know, know, whether any of that is true, you know Whether the margarines or butter,|sd
 B|Uh-huh.|b

@@ -22,8 +22,8 @@ A|Uh-huh.|b
 B|and so we canoe down the river and then, sleep on the river on one of the, um, sand bars and then get up the next morning, cook our breakfast, and go down the river again.|sd
 A|Oh.|bk
 A|Oh, my word.|ba
-A|Well that sounds adventuresome  |ba
-B|  How about yourself?|qo
+A|Well that sounds adventuresome|ba
+B|How about yourself?|qo
 A|Well, um, I've done, oh, I would say quite a bit of camping, mostly with my husband and I.|sd
 A|Um, we have five children,|sd
 A|and so we have found that camping with the little ones isn't as enjoyable as just when we go ourselves.|sd
@@ -89,7 +89,7 @@ A|Gee.|ba
 B|Uh-huh,|b
 B|so, uh, but, it, even though, uh, it wasn't hunting season,|sd
 B|and we were with Boy Scouts,|sd
-B|so of course we don't, uh, want to go  hunting. |sd
+B|so of course we don't, uh, want to go  hunting.|sd
 A|Uh-huh.|b
 B|But we got to see a lot of deer um, out and about|sd
 A|Oh.|bk
@@ -97,8 +97,8 @@ B|and there's,|%
 B|of course, we see smaller animals all the time,|sd
 B|and, uh, one thing that is a big concern in the evening, at night, uh, is, uh, make sure that all the food's put away and so forth because, uh, we have, uh, armadillos.|sd
 A|Oh.|b
-B| Do you know what  armadillo is?|qy
-A| Oh. |b
+B|Do you know what  armadillo is?|qy
+A|Oh.|b
 A|Uh, they're covered like with a heavy armor type stuff,|na
 B|Uh-huh.|b
 A|uh-huh.|ny

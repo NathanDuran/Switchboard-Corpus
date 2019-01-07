@@ -176,6 +176,6 @@ A|Well, it was nice talking to you.|fc
 B|Well, it was nice talking to you, too.|fc
 A|Okay,|fc
 A|talk with you later.|fc
-B|Okay. |fc
-B|Good-bye. |fc
-A| Good-bye. |fc
+B|Okay.|fc
+B|Good-bye.|fc
+A|Good-bye.|fc

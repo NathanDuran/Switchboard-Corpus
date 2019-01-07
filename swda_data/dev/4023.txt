@@ -8,7 +8,7 @@ A|Uh-huh.|b
 A|I mean, do you, do you find crime in Atlanta really|qy
 A|I live in Atlanta also.|sd
 B|Well that's right. Uh, I think it is bad in certain areas, *sv|ba
-A| Uh. |%
+A|Uh.|%
 B|however I think, the area that I live in it's not, uh, the crime level is not as high as it is in other areas of the, of the city.|sv
 A|Uh-huh.|b
 B|I think it seems that there's certain areas where, uh, the crime is focused uh.|sv
@@ -82,8 +82,8 @@ B|I've had that happen,|sd
 B|but that's, that's about it.|sd
 A|Yeah,|b
 A|I've been pretty lucky about getting mugged.|sd
-A| Um.  Yeah,|%
-B| Oh, yeah. |b
+A|Um.  Yeah,|%
+B|Oh, yeah.|b
 A|I think I've only actually seen like one, you know, one actual robbery with a gun|sd
 B|Um.|%
 A|and that's been about the only, you know, real violent crime where, you know, potentially violent crime that I've seen in Atlanta.|sd

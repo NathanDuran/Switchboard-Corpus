@@ -39,8 +39,8 @@ B|She feels like if it's something that you have to do, you know, if you look at
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Yes,|aa
-A| yes. |aa
-B| and,  and, she doesn't enjoy it when it's a chore.|sd
+A|yes.|aa
+B|and,  and, she doesn't enjoy it when it's a chore.|sd
 B|So, um, and I feel that way too as far as, you know, just sitting and doing, you know, to, the idea of doing fifty sit-ups or something, you know,|sd
 B|to,|%
 A|Uh-huh,|b
@@ -157,10 +157,10 @@ A|Um, there's been some progressive medical schools out here, that have taken th
 B|Uh-huh|b
 A|And, um,|%
 B|Now do you think that's because they've realized that for whole health, that, the, you know, you have to have that combination, or that people are motivated that way so that they've incorporated that into their program.|qy
-A| Boy, |^h
-B| Do you  think the program came  first or the, |qy
-A| yeah,|ny
-A|that, |%
+A|Boy,|^h
+B|Do you  think the program came  first or the,|qy
+A|yeah,|ny
+A|that,|%
 A|there's a,|%
 A|I, I can say there's a correlation, but I couldn't say which, which caused the other.|sv
 A|They sort of, you know, each developed a little bit and then would feed off one another and develop a little bit more, and a little bit more.|sv
@@ -194,16 +194,16 @@ A|The irony is, is its people in the cities, in my experience, that are most ori
 A|And, I guess because they spend all day in back of their desks.|sv
 A|The average person out on the farm, at least traditionally, now they drive fancy tractors as much as anything but at least traditionally,  the laborers,|sv
 B|Yeah.|b
-A|last thing, |%
-B| Or they're older. |sv
+A|last thing,|%
+B|Or they're older.|sv
 A|Pardon me.|br
 B|Well, don't you think they tend to be older in the rural|sv
 B|I, I sometimes think that it's almost frantic effort on the part of the people in the city.|sv
-A|Oh,  like everything else. |bf
-B| I live in a rural area,   you know, I see that.  *sd|sd
-A| Yeah,|aa
+A|Oh,  like everything else.|bf
+B|I live in a rural area,   you know, I see that.  *sd|sd
+A|Yeah,|aa
 A|yeah.|aa
-A|The rat race to exercise |bf
+A|The rat race to exercise|bf
 B|It's, yeah, it's, it's like it's frantic, to,|sv
 A|Uh-huh.|b
 A|Yeah,|aa
@@ -234,9 +234,9 @@ A|Um,|%
 B|Yeah|b
 B|and as we can see.|%
 B|Well, I'm a, I'm a practicing vegetarian|sd
-B|so, uh, I've read a lot of information,  knowing that to be true, |sd
-A| Yeah|b
-A|am I actually. |fo_o_fw_"_by_bc
+B|so, uh, I've read a lot of information,  knowing that to be true,|sd
+A|Yeah|b
+A|am I actually.|fo_o_fw_"_by_bc
 B|What's that?|br
 A|I, as am I.|sd
 B|Oh, are you also|qy
@@ -258,8 +258,8 @@ B|it's such a it's such a trouble here.|sd
 B|I mean, you just have to eat at home basically.|sd
 A|I was wondering that,|sd
 A|because I was actually applying for a job in Texas,|sd
-A|and, and, and, uh,  it occurred to me, |sd
-B| Well of course in the cities, |sv
+A|and, and, and, uh,  it occurred to me,|sd
+B|Well of course in the cities,|sv
 B|yeah,|b
 B|well, in the cities,|%
 B|we live close to Dallas,|sd

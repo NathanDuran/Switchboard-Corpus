@@ -102,8 +102,8 @@ B|that's okay.|ba
 A|Well, that's what I mean,|sd
 A|like I didn't know what the difference between Dukakis and Bush was.|sd
 B|Uh-huh.|b
-A|You know,  I didn't know anything about Bush or Dukakis. |sd
-B| So what do you think about,  uh, what do you think about what you see on T V about them, like in the news or on the ads,|qw
+A|You know,  I didn't know anything about Bush or Dukakis.|sd
+B|So what do you think about,  uh, what do you think about what you see on T V about them, like in the news or on the ads,|qw
 B|do you kind of just,|%
 A|Okay,|b
 A|I don't remember anything about Dukakis,|sd
@@ -180,8 +180,8 @@ A|yeah,|%
 B|Oh do you?|qy
 B|Yeah,|b
 B|that will tie you down a little bit.|sv
-A|But I,  I don't know. |h
-B| Or do you  just not, do you feel like it's not really going to make that much difference if you don't vote|qy
+A|But I,  I don't know.|h
+B|Or do you  just not, do you feel like it's not really going to make that much difference if you don't vote|qy
 B|or,|%
 A|Oh, I know if enough people think like that it, you know, would make a difference, if people stopped thinking like that.|sd
 B|Yeah.|b
@@ -261,8 +261,8 @@ B|So they just try and make it a personal thing,|sv
 B|I mean, if you remember any of the T V commercials from the last presidential campaign, in they all had, uh, pictures of Bush with his grandchildren, walking around with his grandchildren|sd
 B|and even from Reagan, it was all just like, looks like a McDonald's commercial, you know.|sd
 A|Uh-huh|b
-B| That's about what it looked like. |sd
-A| Well what did you think  of Reagan as a president?|qw
+B|That's about what it looked like.|sd
+A|Well what did you think  of Reagan as a president?|qw
 B|I just thought he was really inept.|sv
 B|I don't think he did anything at all.|sv
 B|He, they just kind of sat him up there like a puppet|sv
@@ -283,8 +283,8 @@ B|Did you?|qy
 B|I always liked him,|sd
 B|I thought he was great at the time|sd
 B|and I, I just couldn't get over the fact that Reagan beat him.|sd
-B|I, you know, that I just couldn't believe that  he got voted out. |sd
-A| But, I think I wasn't, |%
+B|I, you know, that I just couldn't believe that  he got voted out.|sd
+A|But, I think I wasn't,|%
 A|well let's see,|^h
 A|that's been about ten years ago, right?|qy
 B|Uh-huh,|ny

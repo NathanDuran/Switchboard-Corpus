@@ -131,5 +131,5 @@ B|Yeah,|aa
 B|me too.|sd
 A|It was nice talking to you.|fc
 B|You too.|fc
-A| Bye-bye. |fc
-B| Bye. |fc
+A|Bye-bye.|fc
+B|Bye.|fc

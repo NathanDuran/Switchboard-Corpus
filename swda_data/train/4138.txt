@@ -44,8 +44,8 @@ B|We don't regret paying taxes.|sd
 B|We do think that, uh, sometimes, uh, we have a reverse of a regressive tax, a progressive tax.|sv
 A|Uh-huh.|b
 B|And progressive tax, I think, uh, does not give people incentive to make more money,|sv
-B|and what I mean by that, the more income you make, the more  tax you pay. |sv
-A| More taxes you pay. |^2
+B|and what I mean by that, the more income you make, the more  tax you pay.|sv
+A|More taxes you pay.|^2
 B|It should be, I think, a flat percentage|sv
 B|and, uh, that percentage ought to be an equitable amount.|sv
 A|Uh-huh.|b

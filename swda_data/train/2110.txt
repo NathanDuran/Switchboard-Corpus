@@ -240,5 +240,5 @@ B|I'm going to save my two year old from the pile of grapes she's diving into.|s
 A|Well I'm going to try to clean up the house after my two children for about an hour see if we can walk around.|sd
 B|Okay|b
 B|we'll I'll talk to you.|fc
-A| Bye. |fc
-B| Bye-bye. |fc
+A|Bye.|fc
+B|Bye-bye.|fc

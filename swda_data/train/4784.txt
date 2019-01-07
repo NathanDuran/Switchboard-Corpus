@@ -2,8 +2,8 @@ A|Yeah.|fo_o_fw_"_by_bc
 A|I guess, uh, uh, it's an easy one for me.|sv
 A|I think that's, uh, there's something seriously wrong,|sv
 A|yeah.|b
-B|What is it that you are, you know, particularly  upset about? |qw
-A| Uh,  I guess, uh, I think they've lost their compass|sv
+B|What is it that you are, you know, particularly  upset about?|qw
+A|Uh,  I guess, uh, I think they've lost their compass|sv
 A|and, uh, I'm not sure they know exactly what, uh, uh, public education supposed to be for anymore.|sv
 A|But, uh, I voted with my feet|sd
 A|and, uh, my kids go to parochial school.|sd
@@ -34,7 +34,7 @@ A|and there's an immediate problem.|sv
 B|Right.|aa
 B|It troubles me too that the priority seems to be with my particular purse strings rather than the public good|sv
 B|and by definition, for some of us, at least, the public good includes having an educated populace and  then  idea that, uh, you can make a sound judgment with respect to small votes in the, at the local level or bigger votes at the national level.|sv
-A| Right. |b
+A|Right.|b
 A|Yeah.|b
 B|Uh, it means that you've got to be informed|sv
 B|and you've got to have a certain level of education to do the reading and the critical thinking involved to come up with a decision.|sv
@@ -49,14 +49,14 @@ A|and you couldn't pull the wool over their eyes.|sv
 B|Right.|aa
 B|It has taken on a more profound,|sv
 B|and you'd think we'd notice it, economic  uh, thrust.|sv
-B|Yeah. |b
-A| Well, that's exactly what I was going to say.|sd
+B|Yeah.|b
+A|Well, that's exactly what I was going to say.|sd
 A|Now  there seem to be really three reasons for education.|sv
 A|One is education for civic duty.|sv
 A|One is education for economic reasons.|sv
 A|And one is education for civilization.|sv
-A| I mean and I think that one, |sv
-B| Well I'm glad that you  added that one.|sd
+A|I mean and I think that one,|sv
+B|Well I'm glad that you  added that one.|sd
 B|Yeah,|%
 B|I think that one's significant.|sv
 A|That's what I used to think education was all about when I was a college professor|sd
@@ -74,5 +74,5 @@ B|and the sense that I get from public school teachers that I know is that they 
 B|and they are the three things that you mentioned.|sd
 B|But they find that they are also being asked to do a bunch of other stuff which they think is only tangentially related|sd
 A|Right.|aa
-A| That's what, |%
-B| like consumer, |%
+A|That's what,|%
+B|like consumer,|%

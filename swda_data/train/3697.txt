@@ -1,7 +1,7 @@
 A|Okay,|fo_o_fw_"_by_bc
 A|now then you heard the question,|sv
-A| what  what do you like to do for yourself in car automobile repairs?|^q
-B| Uh-huh. |b
+A|what  what do you like to do for yourself in car automobile repairs?|^q
+B|Uh-huh.|b
 B|Well, I'll tell you, I used to do a lot more repairs when cars were easy to work on, than I do now.|sd
 A|Okay.|b
 B|I do, uh, I do the easy stuff now.|sd
@@ -109,7 +109,7 @@ B|I'm going to try and plan on it.|sd
 A|Okay.|b
 B|All right, well, I enjoyed the conversation.|fc
 A|Thank you.|fc
-B|All right,  thank you. |fc
-A| Bye. |fc
+B|All right,  thank you.|fc
+A|Bye.|fc
 A|Bye-bye.|fc
 B|Bye-bye.|fc

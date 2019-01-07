@@ -160,15 +160,15 @@ B|Yeah,|b
 B|but it's hard, isn't it?|qy
 A|Well, it is,|na
 A|but, I, I, I'm kind of, uh, grateful for the experience because it's taught me a lot of restraint.|sd
-B|Well, it makes you feel good when you whip out the  cash instead of your plastic. |bf
-A| Yeah,|aa
-A|exactly. |aa
-A|I, I, uh, I just went out and got a new V C R yesterday  with cash. |sd
-B| With cash? |bh
+B|Well, it makes you feel good when you whip out the  cash instead of your plastic.|bf
+A|Yeah,|aa
+A|exactly.|aa
+A|I, I, uh, I just went out and got a new V C R yesterday  with cash.|sd
+B|With cash?|bh
 A|And, it, it's,|%
 B|Do you work with T I?|qy
-B| No. |nn
-A| No, |nn
+B|No.|nn
+A|No,|nn
 A|I wish I did.|sd
 B|Yeah,|aa
 B|you could have got a discount, couldn't you?|qy
@@ -181,8 +181,8 @@ A|especially on electronic goods|sv
 B|Yeah.|b
 A|especially now.|sv
 B|What is that thing I saw,|sd
-B|Circuit, Circuit  World or something. |sd
-A| Circuit City. |fo_o_fw_"_by_bc
+B|Circuit, Circuit  World or something.|sd
+A|Circuit City.|fo_o_fw_"_by_bc
 B|Circuit City.|sd
 B|Have you been in there?|qy
 A|Yeah,|ny

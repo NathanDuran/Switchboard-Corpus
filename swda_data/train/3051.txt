@@ -61,9 +61,9 @@ B|Whatever you ask or scream when I'm on the phone, the answer is no.|t3
 B|Do you understand?|t3
 B|to talking on How does that sound?|qw
 A|There you go.|ba
-A| Write that one down. |ad
-B| Yeah,|b
-B|there I go. |fo_o_fw_"_by_bc
+A|Write that one down.|ad
+B|Yeah,|b
+B|there I go.|fo_o_fw_"_by_bc
 A|It sounded good to me|sd
 B|Yeah,|b
 B|well, I hate to say how long that will last too.|sd
@@ -83,7 +83,7 @@ A|Oh, gee.|ba
 B|So, they just watched the water pour in on the carpet.|sd
 B|But, it's a Sharif Myneer Homes, if that means anything,|sd
 B|it did not really mean anything to me  except,  I liked it.|sd
-A| I, I,  kept thinking of Omar Sharif every time I saw that name somewhere,|sd
+A|I, I,  kept thinking of Omar Sharif every time I saw that name somewhere,|sd
 A|so,|%
 B|He builds eight hundred thousand dollar houses now.|sd
 B|I think he got out of the lower end market. And decided,|sd
@@ -101,8 +101,8 @@ B|so he said, uh, well, he did comparables that it's about eighty dollars,|sd
 B|let's see what,|^h
 B|I don't remember if he said it was sixty dollars a square foot off the creek and eighty on the creek, or, if it was eighty and a hundred.|sd
 A|Well Yeah.|b
-A|Probably  eighty. |sv
-B| I think  it was sixty, eighty.|ar
+A|Probably  eighty.|sv
+B|I think  it was sixty, eighty.|ar
 A|Sixty, eighty.|b^m
 B|I think.|h
 A|Well because, I know our, our little house over here stuck in the middle of, you know, the subdivision is, I think fifty five,|sd
@@ -179,22 +179,22 @@ A|Yeah.|b
 B|when the people from M C I come down|sd
 B|and they are, you know, they are used to the Virginia area, metropolitan D C.|sd
 A|Uh.|b
-B|My God, they come down here and those houses, that, that look the colonial look  what the, |sd
-A| Looks like  the George Town brownstone|bf
+B|My God, they come down here and those houses, that, that look the colonial look  what the,|sd
+A|Looks like  the George Town brownstone|bf
 B|Right,|aa
 A|Yeah.|b
 B|And, uh, the idea of ever owning anything that has four thousand square feet in it, for less than two hundred twenty thousand dollars,  which is probably  about what their equity is, that they got out of selling their house.|sv
-A| Must be a dream. |^2
+A|Must be a dream.|^2
 A|Yeah.|b
 B|Because those things are selling like hot cakes.|sd
 B|But, one of the people that was living back there was telling me that there is his air conditioning bill, per month, last summer was in excess of five hundred  dollars  a month.|sd
-A| Oh. |b
+A|Oh.|b
 B|And I thought,|%
-A|I can't  , |ba
-B|  and he was talking about how you keep up with the utilities here.|sd
+A|I can't  ,|ba
+B|and he was talking about how you keep up with the utilities here.|sd
 B|And I was thinking, well, you know, I know why your God damn bill is so high,|sd
-A| He has no insulation, probably. |sv
-B| it's because there's not a  there's no insulation, insulation in those things.|sd
+A|He has no insulation, probably.|sv
+B|it's because there's not a  there's no insulation, insulation in those things.|sd
 A|Oh, my.|ba
 B|Yeah.|b
 A|Gosh.|ba
@@ -207,7 +207,7 @@ A|Yeah.|b
 B|And I think that makes a big difference.|sv
 B|But, I like, I like this area|sd
 B|and everything that I  have been saying,  says that it's,|sd
-A| Oh, I do too. |sd
+A|Oh, I do too.|sd
 B|I think if we had to sell now, we could come close to breaking even|sv
 A|But, still, um, it's worth it for the area and for the school and things like that|sv
 B|You're in, you're in the,|%

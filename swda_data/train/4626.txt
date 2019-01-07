@@ -1,7 +1,7 @@
 A|Okay|fo_o_fw_"_by_bc
 B|How are you?|qo
-B|You want to go ahead and start talking about whether you budget  |qy
-A| |ny
+B|You want to go ahead and start talking about whether you budget|qy
+A||ny
 A|Yeah.|ny
 A|Well I, I, I feel like, uh, I am from Mars.|sd
 A|I mean I'm fifty years old|sd
@@ -85,9 +85,9 @@ A|well the last car I got rid of I'd had,|sd
 A|it was nineteen years old.|sd
 B|Yeah.|b
 A|people were embarrassed for me.|sd
-A| I mean it was, it was a good car|sv
-A|and, |%
-B|  it still running.|bf
+A|I mean it was, it was a good car|sv
+A|and,|%
+B|it still running.|bf
 A|Oh, it was great.|sv
 A|My, my mechanics loved it because it was an old, it was a sixty-five Buick|sd
 A|and it just wouldn't stop.|sd

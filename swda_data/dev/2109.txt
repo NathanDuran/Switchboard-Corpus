@@ -164,6 +164,6 @@ A|but they're predicting some more snow for our direction.|fc
 B|No,|fc
 B|oh no.|fc
 B|Oh well, take care.|fc
-A| Take care now.|fc
-A|Bye, bye. |fc
-B| Bye, bye. |fc
+A|Take care now.|fc
+A|Bye, bye.|fc
+B|Bye, bye.|fc

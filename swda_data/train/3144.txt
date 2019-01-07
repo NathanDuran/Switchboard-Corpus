@@ -6,10 +6,10 @@ A|Well, uh, it's funny, when I tried, to make the call the other days,|^h
 A|I thought,|sd
 A|I hadn't seen anything since DANCES WITH WOLVES|sd
 A|but today I went to see REGARDING WITH HENRY.|sd
-B|Oh, I'm dying to see  that. |sd
-A| It  was really good.|sv
-A| We |%
-B| Oh. |b
+B|Oh, I'm dying to see  that.|sd
+A|It  was really good.|sv
+A|We|%
+B|Oh.|b
 A|uh, Jeff Wariner just got out of the hospital|sd
 B|Uh-huh|b
 A|and, uh, Jeff and Deeanna went and another friend in the neighborhood,|sd
@@ -17,8 +17,8 @@ A|and, uh, we all liked it.|sd
 A|We had both moms and, uh, fifteen year olds and a twelve year old|sd
 A|and everyone enjoyed it.|sd
 B|Oh, my goodness.|ba
-A| And, uh, |%
-B| Oh, well  I am just dying to see it.|sd
+A|And, uh,|%
+B|Oh, well  I am just dying to see it.|sd
 B|I went to dinner with some friends last weekend|sd
 B|and they said get a baby-sitter|sd
 B|and we'll all go see REGARDING HENRY|^q
@@ -28,7 +28,7 @@ A|Well, my son had gotten to see a lot of movies this summer, on, choir tour and
 B|Oh.|b
 A|and so since he had this friend up from Houston, uh, and his friend had already seen so many and I thought they decided on this and I thought well, I want to see this one, too.|sd
 A|So,  we, uh,  I|%
-B| Yeah. |b
+B|Yeah.|b
 A|finally, it's my first summer movie|sd
 B|Oh my.|ba
 B|Well, let me see.|^h
@@ -43,19 +43,19 @@ B|well she goes all the time|sd
 B|but I go maybe once every couple of months.|sd
 A|Yeah.|b
 B|And when I go, I go see two at a time.|sd
-B|So we went to see SOAPDISH, |sd
-B|and |%
-A| Oh,  was that good?|qy
+B|So we went to see SOAPDISH,|sd
+B|and|%
+A|Oh,  was that good?|qy
 A|Cause,|%
 B|Oh, hysterical.|sv
 B|We laughed so hard,|sd
-B|it was just, you couldn't hear half the dialogue because everyone in the audience was  laughing   so hard. |sd
-A| Yeah. |b
-A| Well, I want  to see that and CITY SLICKERS both. |sd
+B|it was just, you couldn't hear half the dialogue because everyone in the audience was  laughing   so hard.|sd
+A|Yeah.|b
+A|Well, I want  to see that and CITY SLICKERS both.|sd
 A|I love   comedies.|sd
-B| Yeah |b
-A|But, that's what I was |sd
-B| that's the other one that we went to that night. |sd
+B|Yeah|b
+A|But, that's what I was|sd
+B|that's the other one that we went to that night.|sd
 A|Oh, was it?|bh
 B|And, my face hurt so bad, from laughing because I love Billy Crystal.|sd
 A|Oh|b
@@ -64,15 +64,15 @@ B|and I was absolutely rolling in the aisles.|sd
 B|It was so funny.|sv
 B|Both of them were great.|sv
 A|Oh, well good.|ba
-A|I'm, I'm glad to hear that  because they, |sd
-B| Oh, they are,  are|aa
+A|I'm, I'm glad to hear that  because they,|sd
+B|Oh, they are,  are|aa
 B|we just laughed so hard.|sd
 B|And like I said, with CITY I mean with SOAPDISH, it is so cornball|sv
 B|and it is so overacted that you're just hysterical you know.|sv
 A|Uh-huh|b
 B|Just, they just carried it off, to the tee.|sv
 A|Well, I don't, I don't know if you got to see WEEKEND, um, AT BERNIE'S  that  was out a couple of years ago.|qy^d
-B| No. |nn
+B|No.|nn
 A|They had a free showing at the Berkeley, um, United Artist.|sd
 B|How neat.|ba
 A|And, I don't know who was here or whether Jay called a friend|sd
@@ -81,23 +81,23 @@ A|but we thought we'd try it, you know, free movie.|sd
 B|Shoot,|ba
 B|yeah.|aa
 A|It was so funny and it sounds like, uh, what you were just describing, SOAPDISH, too.|sv
-A|I mean, we just, we hurt by the time we came  out. |sd
-B| Oh  yeah.|b
+A|I mean, we just, we hurt by the time we came  out.|sd
+B|Oh  yeah.|b
 A|And the whole theater was hysterical|sd
 A|and it's just, it's just goofy.|sv
 A|I mean, it's, uh,|%
 A|if you have a chance to rent it, at least,|ad
-A|or it should be  out on T V, I would think, |sv
-B| Yeah,|aa
-B|I think it is. |sv
+A|or it should be  out on T V, I would think,|sv
+B|Yeah,|aa
+B|I think it is.|sv
 B|I think it is.|sv
 A|Um, cause it's, it's just a fun summer light comedy,|sv
 A|make your cheeks hurt laughing.|sv
 A|Especially in the theater it was contagious, you know|sd
 B|Yeah.|b
-A|I, I imagine the way SOAPDISH was, but,  with   everyone laughing. |sv
-B| Oh gosh |ba
-B| I never laughed. |sd
+A|I, I imagine the way SOAPDISH was, but,  with   everyone laughing.|sv
+B|Oh gosh|ba
+B|I never laughed.|sd
 B|And people were just screaming and applauding|sd
 B|and, you know, it was just hysterical.|sv
 A|Well, I'm glad you did that before your surgery|sd
@@ -106,8 +106,8 @@ A|Yeah|b
 B|I mean I'm getting around real good|sd
 B|and I'm just still real sore.|sd
 A|Yeah.|b
-B|And today I was, I, course I went back to work two weeks after,  uh |sd
-A| Oh,  gosh.|ba
+B|And today I was, I, course I went back to work two weeks after,  uh|sd
+A|Oh,  gosh.|ba
 B|but see I don't have permanent work.|sd
 B|I, right now I'm working with a temporary agency.|sd
 B|And so, the second week I was out of the hospital I went up and worked half day on the computers cause you can learn all the software for free.|sd
@@ -132,7 +132,7 @@ A|Yeah|b
 B|And, uh, you know, he was teasing me|sd
 B|and he says, yeah,|sd
 B|you'll be out there waterskiing,|^q
-B|I can just see it  now. |^q
+B|I can just see it  now.|^q
 B|And, uh, he says so you just take it easy for two more weeks.|sd
 B|You've only got two more weeks.|^q
 B|I said okay fine, I, I will, I will|sd
@@ -147,10 +147,10 @@ B|well, what's your next,|qw
 B|have you seen ROBIN HOOD yet?|qy
 A|No,|nn
 A|that was one, uh, Jay got to see with a friend|sd
-A|and  so I |%
-B| Uh. |%
-A|and to try and, uh, try and find time it's hard, uh, with Jim's schedule, too, just to get a time  that we can both go. |sd
-B| Oh yeah. |b
+A|and  so I|%
+B|Uh.|%
+A|and to try and, uh, try and find time it's hard, uh, with Jim's schedule, too, just to get a time  that we can both go.|sd
+B|Oh yeah.|b
 A|And, uh, I'm holding out for CITY SLICKERS for the two of us because, uh, we had friends that went to see that and said, you know, it's just perfect for our age group|sd
 B|Uh-huh.|b
 A|and because I think he, he needs a comedy, too.|sv
@@ -159,39 +159,39 @@ A|but knew that, uh,|%
 A|we've, we've got a lot of company this summer, which is wonderful.|sv
 A|We're really enjoying it|sd
 A|but some of the different things we're doing, uh  there's  just not a time, enough time to do it all|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|and he said, well, realistically  You know, he  knew he couldn't get them all in.|sd
-B| Yeah. |b
+B|Yeah.|b
 A|But, uh, Jay really liked ROBIN HOOD.|sd
 A|Um, when the choir group went to see BACKDRAFT and they thought that was, uh, it was funny cause he sounded like the critics.|sd
 A|He said, you know the plot line and the characters, uh, you know aren't real big|sd
 A|but the, the fire scenes and the  you know  that action part is fantastic.|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|But, he thought ROBIN HOOD was great.|sd
-A|It was real different then you'd expect, |sv
+A|It was real different then you'd expect,|sv
 A|but  but he enjoyed it|sd
-B| Oh  really?|bh
-A|and  so, |%
-B| Well I went, |sd
+B|Oh  really?|bh
+A|and  so,|%
+B|Well I went,|sd
 B|course I am a Kevin Costner fan.|sd
 A|Yeah,|b
 A|me too.|sd
-A| And  yeah,|b
-B| Supreme. |sd
+A|And  yeah,|b
+B|Supreme.|sd
 A|I really, uh, like him a lot. Which is why, DANCES WITH WOLVES was the last movie we had  seen   for several months|sd
-B| Uh-huh. |b
-A|but, |%
-B| Gosh, was that wonderful. |sv
+B|Uh-huh.|b
+A|but,|%
+B|Gosh, was that wonderful.|sv
 A|It was,|aa
 A|I, uh,|%
 A|in fact, uh, a friend from Germany was visiting in March|sd
 A|and we wanted, we didn't, ran out of time, we wanted to take him to see it.|sd
-A|We were going to sit through it again cause we really wanted him  to see it, too. |sd
-B| Oh, yeah. |b
+A|We were going to sit through it again cause we really wanted him  to see it, too.|sd
+B|Oh, yeah.|b
 A|Uh, I just thought that was terrific.|sv
-A|And I really enjoy Harrison Ford which is one of the reasons  I wanted to see, |sd
-B| I do, too.|aa
-B| I think he's really good.|sv
+A|And I really enjoy Harrison Ford which is one of the reasons  I wanted to see,|sd
+B|I do, too.|aa
+B|I think he's really good.|sv
 A|And he's very good in REGARDING HENRY.|sv
 A|That's not an easy part to play, I, I don't think|sv
 B|I wouldn't think.|aa

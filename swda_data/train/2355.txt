@@ -177,7 +177,7 @@ B|Yeah,|b
 B|yeah.|b
 A|and I don't think a lot of people, you know, realize a lot, the plight of a lot of people. You know, and you may be in good standing and everything may look hunky-dory to you,  but there's so many more people,  and that you don't even see or know about.|sv
 B|Yeah.|b
-B| But there's so many more people,  that are homeless|^2
+B|But there's so many more people,  that are homeless|^2
 B|and,|%
 B|Yeah.|b
 B|Yeah.|b
@@ -205,8 +205,8 @@ A|and so they, you know, they have a lot of different people go there, different
 B|Yeah.|b
 A|And so I feel really enriched in that a lot of people don't get to see,|sd
 B|Yeah.|b
-A|you know, some people have lived in Lewisville all their life,  you know,   and so they don't get to see, |sd
-B| Yeah,|b
+A|you know, some people have lived in Lewisville all their life,  you know,   and so they don't get to see,|sd
+B|Yeah,|b
 B|and they,   they think the whole world,  is like that.|sv
 A|Exactly And|ba
 B|We lived in a dorm.|sd
@@ -304,5 +304,5 @@ A|well, it's good, it's good talking to you.|fc
 B|You too,|fc
 B|good luck.|fc
 A|Okay.|fc
-B| Bye-bye. |fc
-A| Bye-bye. |fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

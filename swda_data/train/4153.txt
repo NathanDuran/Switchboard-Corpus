@@ -5,7 +5,7 @@ A|I worked in, um, in all the different areas of the day care center|sd
 A|and it is, they can be deceiving to people.|sv
 A|I did not work there long because I couldn't handle the, the treatment that the children got,|sd
 A|and this is supposed to be a very well-known center here in Tyler who had two or three, um, centers,  all over,  you know, the, um, city|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|and they would, um, be one way when the parents were there and be another way when the parents left.|sd
 B|Yeah.|b
 A|So, um, I think you need to make, you know, if you do, do day care centers, you know you should make frequent checks and, um, to check in on them when they're not expecting it.|sv
@@ -24,9 +24,9 @@ B|and in fact, it worked out for us because my wife, we kind of bartered.|sd
 B|My wife did artwork for them|sd
 B|and then, you know, so we got our day care free.|sd
 A|Uh-huh.|b
-B|But they didn't have enough teachers |sd
-B|and, |%
-A| Well,  this one was set up good.|sv
+B|But they didn't have enough teachers|sd
+B|and,|%
+A|Well,  this one was set up good.|sv
 A|I mean they had two teachers to every room. Um, sometimes three.|sd
 B|Uh-huh.|b
 A|And they had a good system like so when you walked in, everything looks cool.|sd
@@ -41,8 +41,8 @@ B|Huh.|%
 A|he said you are going to have every child in here wanting you to pick them up.|sd
 A|And I said, no,|sd
 A|this child was crying and needed some comfort, you know,|^q
-B| Yeah. |b
-A| what  is your problem.|^q
+B|Yeah.|b
+A|what  is your problem.|^q
 A|So, um,|%
 B|Did, did they separate them by age group?|qy
 A|Yes.|ny
@@ -53,16 +53,16 @@ B|Uh-huh.|b
 A|Then they had like the, um, three, three year olds, upper fours, lower fours, upper fives, lower fives. You know, just like that.|sd
 B|Yeah.|b
 A|You know, they really did separate them well.|sd
-B| it sound,|sv
-B|yeah, |%
-A| It was just  the teachers themselves.|sd
+B|it sound,|sv
+B|yeah,|%
+A|It was just  the teachers themselves.|sd
 A|Right.|aa
 A|But,|%
 A|yeah,|aa
-A| that they're not, |sd
-B| Affectionate people  that they're, they're kind of  may be parents  themselves or something.|sv
-A| Yeah.|aa
-A|Their system, |%
+A|that they're not,|sd
+B|Affectionate people  that they're, they're kind of  may be parents  themselves or something.|sv
+A|Yeah.|aa
+A|Their system,|%
 A|Right.|aa
 A|But their, but their system was, was great|sv
 A|but, um, the, you know, the caring just wasn't there.|sv
@@ -82,7 +82,7 @@ A|these kids are just in a day care center all day and, uh, with no, any type of
 B|Yeah.|b
 A|they're just there. You know. Going through this routine,  which  is lousy.|sv
 B|Yeah.|b
-B| |%
+B||%
 B|The other, the other group that we had was kind of interesting.|sd
 B|The other one we went to the, it was a husband and wife team|sd
 A|Uh-huh.|b
@@ -100,17 +100,17 @@ B|Yeah,|b
 B|so they had a really nice balance.|sd
 B|We liked that one.|sd
 B|In fact, it was called Humpty Dumpty Play School or something,|sd
-A| That's cute. |ba
-B| but they also  did, they also did some of the teaching things|sd
+A|That's cute.|ba
+B|but they also  did, they also did some of the teaching things|sd
 B|and then they had, um, you know,|sd
 B|obedience, obedience was important.|sd
-A| Yeah,|b
-A|that has to be with a day care center. |sv
-B| And you know so they,  you know, they used, uh, oh, I think they used the,|sd
+A|Yeah,|b
+A|that has to be with a day care center.|sv
+B|And you know so they,  you know, they used, uh, oh, I think they used the,|sd
 B|you probably heard where, you know, where you stand in front of the clock and get your power back to control yourself.|qy^d
 A|I've never heard of that.|ng
-A| That's, that's a new one,  on me.|sd
-B| And it's, it's one, |%
+A|That's, that's a new one,  on me.|sd
+B|And it's, it's one,|%
 B|Uh, I can't remember what they call it actually|sd
 B|but you just stand them in front of a clock|sd
 B|and, you know, it has a second-hand that goes around.|sd

@@ -89,19 +89,19 @@ A|and my daughter enjoys writing too,|sd
 A|so a lot of times, she and I will travel to writers conferences together.|sd
 B|Oh, now that's neat.|ba
 A|Yeah. Yeah.|aa
-B| Yeah.|b
-B| No,|%
+B|Yeah.|b
+B|No,|%
 B|we've never had anything like that.|sd
-A|So that gives us special time together  too. |sd
-B| Yeah. |b
+A|So that gives us special time together  too.|sd
+B|Yeah.|b
 A|And she's on the yearbook staff and things like that|sd
 A|so I can help her with that|sd
-A|and she gives me ideas for my writing too |sd
-A|so. |%
-B| Uh-huh. |b
-A| Yep. |%
-B| Uh-huh.|b
-B| Oh, well, good.|ba
+A|and she gives me ideas for my writing too|sd
+A|so.|%
+B|Uh-huh.|b
+A|Yep.|%
+B|Uh-huh.|b
+B|Oh, well, good.|ba
 B|Well, I, you know, in terms of, in terms of any sorts of trends I, you know,|%
 B|obviously things are different from, for me than, and my children than when I was growing up.|sd
 A|Yeah.|b

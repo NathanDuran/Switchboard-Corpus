@@ -4,8 +4,8 @@ A|Oh, you did?|bh
 B|Yes ma'am.|ny
 B|I've voted in every major election since I turned twenty-one.|sd
 A|Oh, that's great.|ba
-A|Well, why do you think,  people don't. |qo
-B| Don't always  vote for somebody.|sd
+A|Well, why do you think,  people don't.|qo
+B|Don't always  vote for somebody.|sd
 B|I sometimes vote against somebody|sd
 A|That makes sense too.|ba
 B|I think that a lot of it is, uh,|%
@@ -98,9 +98,9 @@ B|and so we, we did get a petition together|sd
 B|and we very strongly resisted it,|sd
 B|and it was placed in a actually, it was placed clear, closer to my neighborhood|sd
 A|Uh-huh.|b
-B|but it was on the,  right side of the street. |sd
+B|but it was on the,  right side of the street.|sd
 A|Right side,  of the tracks,|^2
-A|yeah. |%
+A|yeah.|%
 B|And, uh, it, it, I think that they're, they're much more comfortable there.|sd
 A|Uh-huh.|b
 A|Did they,|%
@@ -139,7 +139,7 @@ B|Uh-huh.|b
 A|and they're really complaining big time,|sd
 A|because they said that We don't have that type of trashy politics up here like they do in Texas all the time.|sd
 B|Well,  of course, now, that's not all  the time.|sv
-A| So you, you guys were getting  yeah,|sd
+A|So you, you guys were getting  yeah,|sd
 B|We've had some pretty We were having some pretty healthy uh, campaigns that were based on issues there for two or three of the gubernatorial races|sv
 A|you were getting slandered, I think,|sd
 A|Uh-huh.|b

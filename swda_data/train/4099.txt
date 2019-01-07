@@ -88,8 +88,8 @@ B|Well see, that's, that's really good|sv
 B|and I think that keeps a lot, some people from exercising.|sv
 A|Uh-huh.|b
 B|I mean, I don't have a problem with weight either,|sd
-B|but I think I don't have a problem because I exercise.  You know |sd
-A|You  do exercise. |bf
+B|but I think I don't have a problem because I exercise.  You know|sd
+A|You  do exercise.|bf
 B|I mean, people are always saying to me, how do you stay thin|sd
 B|and it's because I exercise|sd
 A|You do it|bf
@@ -118,8 +118,8 @@ A|volleyball, uh,|sd
 A|too bad it's not really heavy as far as recreation or hobby,|sd
 A|I do that.|sd
 B|But, do you ski?|qy
-B|Being in Utah, I was wondering  if you ski. |qy^d
-A| Uh, I use  to,|sd
+B|Being in Utah, I was wondering  if you ski.|qy^d
+A|Uh, I use  to,|sd
 A|but it got too expensive,|sd
 A|so.|%
 B|Oh did it really?|bh
@@ -132,15 +132,15 @@ A|and but, well I just I never find the time.|sd
 A|I had rather do other things.|sd
 B|Yeah.|b
 B|Well, I have never skied before,|sd
-B|but I have friends that go to Utah all the time |sd
-B|and they think it's really |sd
-A| Oh they come up here. |bf
+B|but I have friends that go to Utah all the time|sd
+B|and they think it's really|sd
+A|Oh they come up here.|bf
 B|and they ski.|sd
 B|I guess there's a place where you can ski,|sd
 B|well is it Tahoe? Where you ski from,|qy
 B|no|ar
 B|that's Nevada to  California  I guess.|sd
-A| That's in Nevada. |sd
+A|That's in Nevada.|sd
 A|Uh-huh.|b
 B|Yeah,|b
 B|I am thinking about where you can ski over the state line.|sd
@@ -153,8 +153,8 @@ B|Is that it?|qy
 A|Heavenly?|br
 B|Yeah,|aa
 B|I think it's called Heavenly.|sd
-A|Huh. I've never heard  of that one. |sd
-B| You've never  heard of that?|qy^d
+A|Huh. I've never heard  of that one.|sd
+B|You've never  heard of that?|qy^d
 A|Huh-uh.|nn
 B|Well, maybe it isn't in Utah.|sd
 B|But they said they've skied Heavenly|sd

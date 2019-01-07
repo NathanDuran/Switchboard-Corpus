@@ -130,9 +130,9 @@ A|it's a lot of fun.|sd
 A|It's, uh,|%
 A|especially if you get a, a pretty fast boat|sd
 A|like those catamarans are pretty fast.|sd
-B| Yeah,|aa
-B|what, |%
-A| You can actually, |%
+B|Yeah,|aa
+B|what,|%
+A|You can actually,|%
 B|Do, if you get one like that do have somebody teach you that|qy
 B|or they just,|%
 A|Well, actually, I, I've known how to sail pretty much my whole life.|arp_nd

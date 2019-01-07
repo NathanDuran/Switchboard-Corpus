@@ -1,7 +1,7 @@
 A|Kathy?|qy
 B|Uh-huh.|ny
-B| Do you, |%
-A| So,  what is your, uh, family,|qw
+B|Do you,|%
+A|So,  what is your, uh, family,|qw
 A|what do you usually do as far as budgeting?|qo
 B|We have a very detailed budget. Because my husband is a finance major.|sd
 A|Uh-huh.|b
@@ -21,7 +21,7 @@ A|Uh-huh.|b
 B|So we very rarely buy anything on credit.|sd
 B|Everything we buy is paid for.|sd
 A|Yeah.|b
-A|My husband is a finance major also  |sd
+A|My husband is a finance major also|sd
 A|And, uh, we kind of have the same plan.|sv
 A|Uh, we have one credit card|sd
 A|and every month we put, uh, you know, the same amount in for retirement.|sd
@@ -36,9 +36,9 @@ A|we have a set amount|sd
 A|we take, oh, one big vacation a year and then maybe, you know, three small vacations.|sd
 A|So we, you know, an, exact amount that we spend on that each year.|sd
 B|Right.|b
-A| And, |%
-B| Uh,  we have found that we spend less money if we pull out the money.  Uh  instead of just writing checks for things.|sd
-A| Uh-huh. |b
+A|And,|%
+B|Uh,  we have found that we spend less money if we pull out the money.  Uh  instead of just writing checks for things.|sd
+A|Uh-huh.|b
 A|Uh-huh.|b
 B|If we actually pull it out and keep it in a safe here.|sd
 A|I see.|b
@@ -47,10 +47,10 @@ A|Like you have a separate account for that then?|qy
 B|Well, a lot of that, uh, I don't know how safe it is.|h
 B|I guess, uh, we keep it all in a safe here at the house.|sd
 A|Oh, I see.|b
-A| Uh-huh. |b
-B| And so  it's actually pulled out.|sd
-B| Then we keep our |sd
-A| Oh, I see. |b
+A|Uh-huh.|b
+B|And so  it's actually pulled out.|sd
+B|Then we keep our|sd
+A|Oh, I see.|b
 B|we have a savings account for the kids' education.|sd
 B|That money goes into there.|sd
 A|Uh-huh.|b
@@ -62,7 +62,7 @@ B|That money is put into each month.|sd
 A|Uh-huh.|b
 A|Does your husband deal in, uh, stocks and bonds and mutual funds and all that kind of stuff?|qy
 A|does he invest in that  and  for long-term?|qy
-B| He does somewhat. |no
+B|He does somewhat.|no
 B|Yeah.|ny
 B|He does somewhat.|sd
 A|Uh-huh.|b
@@ -79,13 +79,13 @@ A|so what goes into that, that particular thing?|qw
 A|It's vacations, Christmas.|bf
 B|Christmas, birthdays, uh, car maintenance, dental, medical,|sd
 B|we just averaged out how much last year we used per month on medical and  how much  we used on dental|sd
-A| Uh-huh. |b
+A|Uh-huh.|b
 B|and, uh, and so now when we have to come up with that deductible that our insurance doesn't cover rather than wondering where it's going to come from,|sd
 A|Right.|b
-B|we have it,  you know. |sd
-A| Uh-huh. |b
+B|we have it,  you know.|sd
+A|Uh-huh.|b
 B|And when, when we see something on sale, uh, instead of just looking in our checking account and saying well we've got enough and getting it, and then when something comes up, you know, kind of scrimping to pay for a  medical bill.  Everything's taken care of.|sd
-A| Uh-huh. |b
+A|Uh-huh.|b
 B|And we're finding that we even have more money than we thought.|sd
 A|Really.|bh
 B|Yeah|ny
@@ -94,14 +94,14 @@ A|I, I take it,|sv
 A|do you, uh, run the family budget as far as, uh, groceries and that sort of thing?|qy
 B|I do.|na
 B|Uh-huh.|ny
-B| All the money. |sd
-A| Uh-huh.|b
+B|All the money.|sd
+A|Uh-huh.|b
 A|And how,  what's that?|br
 B|All the money is turned over to me.|sd
 A|Uh-huh.|b
 A|Do you have a set amount that, that you spend each month|qy
-A| or  or how do you work that?|qo
-B| Yes. |ny
+A|or  or how do you work that?|qo
+B|Yes.|ny
 B|I have a set amount.|sd
 B|It's very generous|sv
 B|and I usually have extra.|sd
@@ -110,21 +110,21 @@ B|And so then that can go, uh, you know, either back into our checking account|s
 B|or I can just carry it over.|sd
 A|Uh-huh.|b
 B|Uh, you know, there are certain months of the year that you'll spend more on food than other months.  And  certain times when that will be left over.|sd
-A| Uh-huh. |b
+A|Uh-huh.|b
 B|But that's completely up to me how I do that.|sd
-B| And  then, uh, because I don't work. I stay home.|sd
-A| Uh-huh. |b
+B|And  then, uh, because I don't work. I stay home.|sd
+A|Uh-huh.|b
 A|I do too.|sd
-A|I stay home  also. |sd
-B| And  so it's kind of my money|sd
+A|I stay home  also.|sd
+B|And  so it's kind of my money|sd
 B|and I also get my own money to do what I want to. Go to lunches, you know, and do that kind of thing.|sd
 A|Uh-huh.|b
 B|We have a clothing, uh, envelope for each of the kids and for myself and my husband that we put how much we figure we need each month on clothing.|sd
 A|Uh-huh.|b
 B|It really works out great.|sv
 B|We're finding that we have a lot more money to spend on things like that.|sd
-B| And we're, |%
-A| Yeah. |b
+B|And we're,|%
+A|Yeah.|b
 A|What, what,|%
 A|as far as like big things like something comes up and you have to buy a T V or a big item, like for the house.|sd
 A|How,|%

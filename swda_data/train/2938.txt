@@ -115,9 +115,9 @@ A|Uh-huh.|b
 B|and you have that black smoke coming from their tail pipe.|sd
 A|Well, see, they have that, um, what is it a test, or something like that they call it.|sd
 B|Uh-huh.|b
-A|And, uh,  that's supposed to cut down on it. |sv
+A|And, uh,  that's supposed to cut down on it.|sv
 B|Well,|arp_nd
-B| supposedly that's supposed to catch it. |sv
+B|supposedly that's supposed to catch it.|sv
 B|But I'll tell you what,|fo_o_fw_"_by_bc
 B|and even these buses, oh lord, it real bad. These buses in Raleigh,|sv
 A|Yeah,|aa

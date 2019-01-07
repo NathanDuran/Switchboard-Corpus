@@ -24,13 +24,13 @@ B|but they wouldn't take them.|sd
 A|Yeah.|b
 A|It is real hard to find a spot|sv
 A|and then, I don't know if you note, even doing that, the amount of trash we throw away is incredible|sv
-A| bottles |sd
-B| Oh I know. |aa
+A|bottles|sd
+B|Oh I know.|aa
 A|glass|sd
 A|that cannot be, it could be recycled,|sd
 A|but there is no place to,|sd
-B|There is no really recycling  facilities. |^2
-A| No. |aa
+B|There is no really recycling  facilities.|^2
+A|No.|aa
 A|We have a pilot program in Arlington going on I think in the north part of the city where they are have people people separate the garbage as, the trash as they put it out.|sd
 B|I think that is a good idea.|sv
 A|And I think that is what it is going to have to come to. Where we are just forced to.|sv
@@ -66,8 +66,8 @@ A|and you get it back.|sd
 B|Uh, so that way it kind of forces you to recycle.|bf
 A|You are forced to.|aa
 A|And, uh, you also don't see the litter there.|sd
-A| People just, |%
-B| Yeah,|aa
+A|People just,|%
+B|Yeah,|aa
 B|that's  true.|aa
 A|It makes it worthwhile to take it back|sv
 A|and I've just started drinking a new water called Clearly Canadian,|sd
@@ -115,8 +115,8 @@ B|Yeah.|b
 A|And I want them to have my business.|sd
 A|And I think packaging could be done much better.|sv
 A|There is so much plastic.|sv
-A| But, |%
-B| Well  I know,|aa
+A|But,|%
+B|Well  I know,|aa
 B|you see some of the stuff|sd
 B|and then when they come out with the new things, you are like, well why didn't you think of that before.|sd
 A|Yeah.|aa
@@ -136,8 +136,8 @@ A|It may be too late.|sv
 B|Do they not ever, I mean, I don't know that much. Do they not ever burn trash or anything like,|qy
 A|Very little.|ng
 A|That's another thing that,|%
-A| see there were no, |%
-B| Then, that's pollution. |sd
+A|see there were no,|%
+B|Then, that's pollution.|sd
 A|I know Amway.|sd
 A|I use a couple of things from Amway that it says this is burnable material.|sd
 A|Well, that doesn't do me any good because I don't have any place to burn it.|sd

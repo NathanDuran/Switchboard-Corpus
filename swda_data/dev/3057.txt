@@ -174,8 +174,8 @@ A|uh-huh.|b
 B|Uh, I would not particularly think I would want my kids to say, "well, I think this is what I need for Mom", and, then dump me there.|sd
 A|This is|%
 A|and,|%
-B|But, I would  like, |%
-A| There has to be  consideration taken on everything.|sv
+B|But, I would  like,|%
+A|There has to be  consideration taken on everything.|sv
 B|That is right.|ba
 B|Uh-huh,|aa
 B|uh-huh.|aa
@@ -198,7 +198,7 @@ B|Absolutely.|ba
 B|I think that one of the best ways to do that is for families to realize they are going to be needing those facilities one day, and to actually get involved and participate on a community level with community service.|sv
 A|Uh-huh.|b
 B|Go out to the nursing home, help guide some craft programs, perhaps, work on some music programs,  whatever their talents are.  And work with, those senior citizens.|ad
-A| Whatever their talents,  yeah.|b^m
+A|Whatever their talents,  yeah.|b^m
 A|Uh-huh.|b
 A|Yeah,|aa
 A|I have a cousin who is, uh,|sd
@@ -246,8 +246,8 @@ A|Uh-huh.|b
 A|Uh-huh.|b
 A|Right,|b
 A|right.|b
-A| But there seems to be a resistance. |sv
-B| You are  preserving your heritage and your future there.|sv
+A|But there seems to be a resistance.|sv
+B|You are  preserving your heritage and your future there.|sv
 A|Yeah,|b
 A|yeah.|b
 A|So, uh,|%

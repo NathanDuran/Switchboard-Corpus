@@ -58,8 +58,8 @@ A|You mean, not even your, your, your car insurance?|bf
 B|Well, it, it got all screwed up because I had a high deductible on the health insurance, no fault here,|sd
 B|and, and I had a high deductible on the on the, uh, on the car insurance|sd
 B|and then you know, we just goofed up the medical insurance and the car insurance and stuff and blew it|sd
-A| Oh, that's too bad. |fo_o_fw_"_by_bc
-B| Oh, well. |bd
+A|Oh, that's too bad.|fo_o_fw_"_by_bc
+B|Oh, well.|bd
 A|Yeah|b
 A|uh, well, I don't know,|h
 A|I think other than health insurance, I think, uh, you know, an extra week of, uh, time off would be nice.|sv
@@ -76,8 +76,8 @@ A|Yeah,|b
 A|it's, uh,|%
 B|Yeah,|b
 B|especially in the kind of engineering job I'm in, you know, companies don't stay afloat that long|sv
-B| and, and they, |%
-A| Uh,  with the telecommunications type of company, supposedly you, used to be much more stable.|sd
+B|and, and they,|%
+A|Uh,  with the telecommunications type of company, supposedly you, used to be much more stable.|sd
 A|It's a lot less stable than it used to be.|sv
 A|They used to have job security|sd
 A|but now they don't.|sd

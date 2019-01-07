@@ -66,7 +66,7 @@ A|My goodness.|ba
 B|So, I'm going to get,|%
 B|when my twenty-four months is up on this car, I'm getting rid of this car.|sd
 A|I would think so|ba
-A| This doesn't sound like you've got  very good luck with that one.|sv
+A|This doesn't sound like you've got  very good luck with that one.|sv
 B|My golly.|ba
 B|How about you, Larry?|qo
 A|Well, I'm relatively fortunate about that.|sd
@@ -104,11 +104,11 @@ B|and so I'd leased this one for two years.|sd
 B|So I'll probably go back and buy one,|sd
 B|and, uh, this next car will probably be my retirement car.|sd
 A|Well, that's an awfully big one, that, uh, that one that you had, that Lincoln, uh,|sd
-A|isn't it too large for normal town driving, finding parking places  and getting in and out the doors? |qy
-B| Well, no sir. |ng
+A|isn't it too large for normal town driving, finding parking places  and getting in and out the doors?|qy
+B|Well, no sir.|ng
 B|Not really,|ng
-B| not really |ng
-A| Uh-huh. |b
+B|not really|ng
+A|Uh-huh.|b
 B|uh, no problem at all.|sd
 B|My wife and daughter,|sd
 B|we have, uh, two Toyotas in the family, one Nissan,|sd
@@ -131,7 +131,7 @@ B|Yes|b
 B|it's,|%
 A|It only has thirty-eight thousand miles on  it,|sd
 A|but it's  very quiet and very smooth riding machine.|sd
-B| Is that right? |bh
+B|Is that right?|bh
 B|Well, my wife's Toyota is soon to be four years old,|sd
 B|it only has, doesn't even have thirty thirty thousand miles on it,|sd
 B|so, gosh, been much, in such good shape, that'll probably be an eight or ten year car.|sd

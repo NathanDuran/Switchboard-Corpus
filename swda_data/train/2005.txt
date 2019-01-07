@@ -209,5 +209,5 @@ B|Yeah.|fc
 A|All right.|fc
 B|Take care.|fc
 A|Hey.|fc
-B| Bye-bye. |fc
-A| Bye-bye. |fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

@@ -27,12 +27,12 @@ A|It was on the edge of the lake|sd
 A|and it was at a camp.|sd
 A|I don't like those camping grounds where, you know, you got R V beside you and then another people in tents beside you.|sd
 B|Uh-huh.|b
-B| Uh-huh. |b
-A| I  just don't care for that.|sd
+B|Uh-huh.|b
+A|I  just don't care for that.|sd
 B|No,|aa
 B|I agree with you.|aa
 B|I think it's much nicer when you can really get out far enough away where,  that  you can't see people right out the window.|sv
-A| Uh-huh. |b
+A|Uh-huh.|b
 A|Right.|b
 B|But,|%
 A|Well, it doesn't, uh,|%
@@ -50,9 +50,9 @@ A|we just had, uh, sleeping bags and fire going.|sd
 B|Uh-huh.|b
 A|And we fried potatoes and bacon and everything for breakfast the next morning.|sd
 B|Doesn't that always taste so much better,  when you're out like that.|qy^d
-A| Oh, it did,|na
-A|it did. |na
-B| Yeah.|%
+A|Oh, it did,|na
+A|it did.|na
+B|Yeah.|%
 A|I didn't even think about frying potatoes.|sd
 A|But my sister-in-law, she's always done a lot of camping.|sd
 B|Uh-huh.|b
@@ -90,8 +90,8 @@ B|I can't remember the name.|sd
 B|It's, it's on the Oklahoma-Arkansas border.|sd
 A|Uh-huh.|b
 B|And it won't take but just a, you know, just a quick look at a map to find where those mountains are,|sd
-A| Uh-huh. |b
-B| but  I took a drive up through there, as a matter of fact, last September, just took the drive through to see what was there.|sd
+A|Uh-huh.|b
+B|but  I took a drive up through there, as a matter of fact, last September, just took the drive through to see what was there.|sd
 A|Uh-huh.|b
 B|They have some wonderful camping areas there.|sd
 A|Pretty.|qy^d
@@ -138,7 +138,7 @@ A|Uh-huh.|b
 A|Uh-huh.|b
 B|And, we did a lot of naturalist work when we were out.|sd
 B|We, you know, we,  we  searched for|sd
-A| Uh-huh. |b
+A|Uh-huh.|b
 B|and we ate the wild plants|sd
 B|and we gathered wild berries,|sd
 B|and, uh, it's really, you know|%

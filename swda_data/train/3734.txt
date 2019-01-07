@@ -1,8 +1,8 @@
 A|Okay,|fo_o_fw_"_by_bc
 A|uh, clothing at work.|sd
 A|Um, I work as a news reporter,|sd
-A| and  a lot of,|%
-B| Oh. |b
+A|and  a lot of,|%
+B|Oh.|b
 A|I work in a, since I work in a small station,|sd
 A|this is my first job|sd
 B|Uh-huh.|b
@@ -91,16 +91,16 @@ A|and it, I don't know if just the shoes I get, I either don't like them or they
 A|and I just wish that I could just go without them.|sd
 B|Um.|b
 B|Oh, wow, I love shoes.|sd
-A| Oh, really. |b
-B| I always  buy shoes|sd
+A|Oh, really.|b
+B|I always  buy shoes|sd
 A|Oh.|b
 B|Yeah.|b
 A|Just the opposite.|sd
 A|But, um, let's see,|^h
 A|what else do I wear?|t1
-A|Um, if I were in a bigger market, when I do get into a bigger market, I'll probably go out and buy a bunch of suits and things, and, uh, where I wouldn't have to shoot and do a lot of other things |sd
+A|Um, if I were in a bigger market, when I do get into a bigger market, I'll probably go out and buy a bunch of suits and things, and, uh, where I wouldn't have to shoot and do a lot of other things|sd
 A|and I could  then I would be able to dress more business-like and things like that,|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|but we're all kind of just out of school at this station,|sd
 B|Yeah.|b
 A|and so we're all, you know, still in sweats, really.|sd
@@ -110,7 +110,7 @@ B|I like the look, the, the like suit look, professional like, you know, look,|s
 B|but I, I really don't have much of an opportunity to wear it|sd
 A|Yeah.|b
 B|Um  I'm  going to be a teacher,|sd
-A| I. |%
+A|I.|%
 B|so I'll probably just wear casual clothes, maybe skirts and some.|sd
 A|Oh.|b
 A|Yeah.|b
@@ -135,12 +135,12 @@ A|I mean, I, I have like two pairs of pants, because I can never find any that a
 B|Oh, really?|bh
 A|and it's just, oh, ridiculous.|sd
 A|Pants, too, I could do without those.|sd
-B| Oh. |b
-A| Pants, shoes.|sd
+B|Oh.|b
+A|Pants, shoes.|sd
 B|I like the like stretch pants, the cotton ones.|sd
 A|Yeah,|b
-A| those are nice. |sv
-B| They're really comfortable. |sv
+A|those are nice.|sv
+B|They're really comfortable.|sv
 A|Those are nice.|sv
 B|With a baggy sweatshirt.|sv
 A|Yeah,|b
@@ -167,7 +167,7 @@ A|And I have to wear them because he gets upset if I don't.|sd
 A|So so, so how do people in Wisconsin dress?|qo
 B|Oh, yeah|b
 B|Warm  this time  this time, of the year pretty warm.|sd
-A| Warm. |b^m
+A|Warm.|b^m
 B|Sweaters and.|sd
 A|I grew up in New York,|sd
 A|and so I know what warm is.|sd

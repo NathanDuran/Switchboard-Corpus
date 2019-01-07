@@ -60,13 +60,13 @@ B|I, I'm sure it would be very stressful|sv
 B|and, my husband and I have just elected that if that happens, I will go and just pay.|sd
 B|You can continue to go to your own doctor|sd
 A|Uh-huh.|b
-B|but your benefits are not as, you know, good, |sd
-B|so, uh. |%
-A| Uh-huh.|b
-A|Yeah, |%
+B|but your benefits are not as, you know, good,|sd
+B|so, uh.|%
+A|Uh-huh.|b
+A|Yeah,|%
 A|um, like you, you mentioned you work for a school system.|sd
 A|I work for, uh, Georgia Tech  in the  research branch,|sd
-B| Oh, all right. |b
+B|Oh, all right.|b
 A|and I guess another one that, that I rank up there high is the, uh, kind of job flexibility and time off, um, I enjoy as a benefit.|sv
 B|I do too.|aa
 B|Are you talking about like Spring Break|qy
@@ -110,8 +110,8 @@ B|but we do get many days off,|sd
 B|and, uh, we all look forward to it.|sd
 A|Uh-huh.|b
 B|That's the only reason I work there, is that my children now have graduated, and graduated from college|sd
-B| but at the  time, I worked there because my hours and days were the same as theirs|sd
-A| Oh, yeah. |b
+B|but at the  time, I worked there because my hours and days were the same as theirs|sd
+A|Oh, yeah.|b
 A|Uh-huh.|b
-B|and, uh, I've just continued to, uh, stay there  |sd
-A| Are there,  are there any things that, that you'd like to see changed in terms of the, the benefits?|qy
+B|and, uh, I've just continued to, uh, stay there|sd
+A|Are there,  are there any things that, that you'd like to see changed in terms of the, the benefits?|qy

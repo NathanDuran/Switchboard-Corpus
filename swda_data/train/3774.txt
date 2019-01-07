@@ -45,9 +45,9 @@ B|we thought with that light, you know, it would maybe keep them from doing some
 B|Yeah|b
 B|so,|%
 A|Well, we've been real lucky that,|sd
-A|I don't believe there's been, you know, much trouble in our neighborhood, |sd
+A|I don't believe there's been, you know, much trouble in our neighborhood,|sd
 A|but it  but it does seem there, that there is a lot more here in Plano of, uh, just bored teenagers|sv
-B| Uh-huh. |b
+B|Uh-huh.|b
 B|Yeah,|b
 B|yeah,|b
 B|that's|%
@@ -89,8 +89,8 @@ B|Really is|%
 B|Yeah.|ny
 B|I'm originally from Chicago, but I've been in this area, in the Lewisville area for, uh, let's see, about twenty-three years.|sd
 A|Uh-huh.|b
-A|So, has it been getting worse that you noticed, or  about the same? |qy
-B|Oh  definitely. |na
+A|So, has it been getting worse that you noticed, or  about the same?|qy
+B|Oh  definitely.|na
 A|Um.|%
 B|In the last few years, I think,|sd
 B|and, uh, like I say,|sd

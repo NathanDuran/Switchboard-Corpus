@@ -11,9 +11,9 @@ B|So what, what, how do you spend the time with your children?|qw
 A|Well both of mine are boys.|sd
 A|They're eight and eleven|sd
 B|Um.|b
-B|Okay, |bk
-B|and did, |%
-A| and they're  into sports|sd
+B|Okay,|bk
+B|and did,|%
+A|and they're  into sports|sd
 B|Yeah.|b
 A|I mean, as a matter of fact, that's what we're doing tonight|sd
 B|What, what are you doing?|qw
@@ -46,10 +46,10 @@ B|Do you do sports|qy
 B|or do you go out?|qy
 A|Both.|sd
 A|If we're not doing sports we go somewhere.|sd
-B|Do you go, how about like for, uh, do you go for long vacations, like a week  or something when they have school off? |qy
-A| Oh, yeah,|ny
+B|Do you go, how about like for, uh, do you go for long vacations, like a week  or something when they have school off?|qy
+A|Oh, yeah,|ny
 A|yeah,|ny
-A|yeah. |ny
+A|yeah.|ny
 B|In the summer or like in the Easter time, like around now?|qy
 A|No,|nn
 A|usually in the summer time.|sd
@@ -59,9 +59,9 @@ A|We,|%
 B|Have, have you been out of the country?|qy
 A|No|nn
 B|Oh, okay,|bk
-B|well, first, they always say, get to know your country first before you leave, |sv
+B|well, first, they always say, get to know your country first before you leave,|sv
 B|I mean  I, I lived in places, like|sd
-A| Uh-huh. |b
+A|Uh-huh.|b
 B|when I lived in Washington, uh, Washington, D C, I never went to the Washington Memorial,|sd
 B|and then when I went back to visit, I went to the Washington Memorial.|sd
 A|You know, I've heard, we have a couple of friends that goes to Washington quite often,|sd
@@ -73,8 +73,8 @@ B|Right.|b
 A|it's not really just to getting to sight see.|sd
 B|Right.|b
 B|Well, it's, it's a beautiful city.|sd
-A|Oh, I  bet it is, too. |ba
-B| But, the problem is  , like first time I went out of here, and they took me to Las Vegas|sd
+A|Oh, I  bet it is, too.|ba
+B|But, the problem is  , like first time I went out of here, and they took me to Las Vegas|sd
 A|Uh-huh.|b
 B|and that was the most boring place on earth.|sd
 A|Oh, now my husband and I, we go different places.|sd
@@ -83,12 +83,12 @@ B|Yeah.|b
 B|Did, uh, did, like, did you go to Disneyland?|qy
 A|Oh,  yes,|ny
 A|yes,|ny
-A|yes. |ny
-B| Oh, okay.|bk
+A|yes.|ny
+B|Oh, okay.|bk
 B|So,  but um, now, I don't know,|h
 B|but um, but let's see,|^h
 B|when I was eleven I went also to the Caribbean.|sd
-A| Oh. |b
+A|Oh.|b
 B|and, uh, then after that, I,|%
 B|my sister lives in Turkey,|sd
 B|so when I was like fourteen, fifteen, I went, I went to Turkey.|sd
@@ -165,9 +165,9 @@ A|but their children does anything,|sd
 A|we have to take them, and, you know to do it.|sd
 B|Yeah.|b
 A|And that really gets kind of aggravating after a while|sd
-A|because you're saying, Well, I work full time too,  you know. |sd
-B| Yeah,|b
-B| yeah,|b
+A|because you're saying, Well, I work full time too,  you know.|sd
+B|Yeah,|b
+B|yeah,|b
 B|but, uh, it's just, it's just something that, you know,|%
 B|my theory is, you know, when, when you have kids and all you, you want to do, well,|%
 B|what I'll do is, you know, like,|%
@@ -279,6 +279,6 @@ A|Well,|%
 A|well I've enjoyed talking to you.|fc
 B|All right,|fc
 B|same here.|fc
-A|Okay, |fc
-A|bye-bye. |fc
-B| Bye-bye. |fc
+A|Okay,|fc
+A|bye-bye.|fc
+B|Bye-bye.|fc

@@ -3,8 +3,8 @@ A|Well, hang on|ad
 A|let me try it again because usually um.|oo_co_cc
 B|Do you usually get a message?|qy
 A|Yeah.|ny
-B| Um. |%
-A| Um. |%
+B|Um.|%
+A|Um.|%
 B|Hang on let me check on it .|oo_co_cc
 B|I don't know.|h
 A|Well, let me try it once more|oo_co_cc
@@ -68,8 +68,8 @@ B|It makes sense because, you know, you, you've got the flexibility if they're g
 A|Yeah,|b
 A|yeah.|b
 B|Um.|%
-A| But, |%
-B| And  I don't, you know,|%
+A|But,|%
+B|And  I don't, you know,|%
 B|my, my, my, my main sport is baseball|sd
 B|but, you know, um, I've been enjoying football|sd
 B|but I don't know it as well.|sd
@@ -78,8 +78,8 @@ B|Um, I just, you know, um,|%
 B|Cowboys are going to have a problem aren't they?|qy
 B|Is it, is it this year they don't have a draft pick because of the Walker trade|qy
 B|or what was the whole deal on that?|qw
-A|Uh, they still have some, some, uh, some draft picks, uh,  that they got, |sd
-B| They don't,  have anything high do they?|qy
+A|Uh, they still have some, some, uh, some draft picks, uh,  that they got,|sd
+B|They don't,  have anything high do they?|qy
 A|No.|nn
 A|Actually, they picked up some from Minnesota.|sd
 A|I think it was, uh, Minnesota's ,|sd

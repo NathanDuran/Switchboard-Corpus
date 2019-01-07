@@ -52,7 +52,7 @@ B|it's a necessary evil I think.|sv
 A|Uh-huh.|aa
 A|It sure is.|aa
 A|And some of the really nice ones that really take care of their people are so expensive.  Because  cause they can afford to hire the people that are really going to care for the older.|sv
-B| Yeah. |b
+B|Yeah.|b
 B|Yeah.|b
 B|And, you know, even there you have to watch out for, you know,|sv
 B|you get one person who's a little bit dishonest working in there|sv
@@ -89,8 +89,8 @@ B|And, you know, there's a lot of, number of|sv
 B|the elderly are very, you know, complaining because they remember the way that things used to be. And remember being able to do things for themselves which, you know, they no longer can.|sv
 A|Right.|b
 A|Oh, sure.|aa
-A| And they feel  they feel pretty helpless.|sv
-B| And it, very, very hard  for them to accept that.|sv
+A|And they feel  they feel pretty helpless.|sv
+B|And it, very, very hard  for them to accept that.|sv
 B|We just, uh, moved my grandfather into, not a nursing home but, you know, a transitional type facility.|sd
 A|Is it, uh, like a retirement center?|qy
 B|More of a retirement home.|no

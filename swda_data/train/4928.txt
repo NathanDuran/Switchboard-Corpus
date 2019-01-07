@@ -51,8 +51,8 @@ B|I'm going to do it, uh, because I want to get in shape.|sd
 B|I'm not, it's not something I really enjoy all that much that, I'll, I'll probably,|sd
 B|I mean once I get into it and I, if I, if I get into better shape then it'll be, it won't be as much of a, a chore to me.|sd
 A|Well, it's, it's always a chore.|sv
-A| I mean  I started doing this when I was about thirty-five|sd
-B| Yeah. |b
+A|I mean  I started doing this when I was about thirty-five|sd
+B|Yeah.|b
 B|Huh.|%
 A|and now I'm fifty-five.|sd
 B|Yeah.|b
@@ -60,8 +60,8 @@ A|And, uh, you know, I, I know that in, I just know that I'm going to get blown 
 A|you know, some health related thing is going to blow me away.|sd
 A|That's the same way,|sd
 A|I got too much weight on right now.|sd
-A| I  need to lose fifty pounds, you know.|sd
-B| Right. |b
+A|I  need to lose fifty pounds, you know.|sd
+B|Right.|b
 A|I need to lose at least twenty, you know.|sd
 A|But, uh, you know, it's, it's just, uh, I'm busy.|sd
 A|I'm doing a lot of traveling|sd
@@ -75,8 +75,8 @@ B|or, also last summer I was doing Nautilus|sd
 B|or last year I'm, uh, belong to a club right here.|sd
 A|Uh-huh.|b
 B|That was a little bit too much money.|sd
-B|But, uh, doing a mix of Nautilus and free weights.  I like that. |sd
-A| club,  what club are you with?|qw
+B|But, uh, doing a mix of Nautilus and free weights.  I like that.|sd
+A|club,  what club are you with?|qw
 B|I'm sorry?|br
 A|What club were you with?|qw
 B|It's called, oh, what was it called City Sports, downtown Washington.|sd
@@ -86,9 +86,9 @@ B|Yeah.|aa
 B|I'm at, I'm at, I go to George Washington University.|sd
 A|Okay.|b
 A|Yeah.|b
-A|You're down there on, you know, twentieth and eighteenth and  F G. |bf
+A|You're down there on, you know, twentieth and eighteenth and  F G.|bf
 B|Yeah.|aa
-B| It's ,  uh, Plaza.|sd
+B|It's ,  uh, Plaza.|sd
 A|Oh.|b
 A|Well, I'd, uh,|%
 A|well there's a, there's a Holiday Spa down there on, on K street, I think. Something like that.|sd
@@ -109,8 +109,8 @@ B|I think, uh, I'm young,|sd
 B|I should get started getting into shape.|sd
 B|I don't want to,|sd
 B|I want,|%
-B|I mean at one point it's going to be too late to do it.  . |sv
-A| Well,  no.|ar
+B|I mean at one point it's going to be too late to do it.  .|sv
+A|Well,  no.|ar
 A|When you're young, you, you can abuse your, your, all your systems|sv
 A|and you can recover.|sv
 B|Yeah.|b

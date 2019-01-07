@@ -9,12 +9,12 @@ A|Uh, and I only update that, oh I don't know, maybe once every quarter or so. E
 B|Uh-huh.|b
 B|Right.|b
 A|Uh, that's really about, you know, the extent of, uh, of the kind of, uh, financial score keeping that we're doing.|sd
-B|Uh  |%
+B|Uh|%
 B|Well it's kind of difficult for me. Because right now, uh, like most teachers, I'm laid off|sd
 B|and|%
 A|Huh.|%
-A|Oh dear,  that's terrible. |fo_o_fw_"_by_bc
-B|  so, um, I spend most, you know,|sd
+A|Oh dear,  that's terrible.|fo_o_fw_"_by_bc
+B|so, um, I spend most, you know,|sd
 B|I substitute a lot.|sd
 A|Uh-huh.|b
 B|So it's a lot, it's very hard on a nonfixed income because I don't know how many days I'm going to be called in and whether I am or not, to try to keep track of finances.|sv
@@ -47,9 +47,9 @@ B|Like this week I've been just holding my breath and hoping they'll call me in|
 B|but they probably won't because next week the kids have school vacation.|sd
 A|I see.|b
 B|So, you know, the four days before, they only have a four day week|sd
-A| Uh-huh. |b
-B| and they  usually don't need subs because everybody's pretty good about coming in  |sd
-A| oh, I see. |b
+A|Uh-huh.|b
+B|and they  usually don't need subs because everybody's pretty good about coming in|sd
+A|oh, I see.|b
 B|They don't like to be absent before a vacation.|sv
 A|Oh, sure.|b
 B|But we're shopping around as far as, well I'm shopping around as far as trying to get, uh, that's why I'm doing this, to get some extra money. And, uh, getting pledge sheets for the Boy Scouts.|sd
@@ -84,19 +84,19 @@ A|I mean, it sounds, sounds terrible to say,|h
 A|but at the present stage, you probably are even more in the market for a, a budgetary thing than, than most people probably might be. In terms of keeping, keeping score of input and output.|sv
 B|Right.|b
 B|Uh-huh.|aa
-B| Definitely. |aa
-A| Do you have,  do you have a computer at home|qy
+B|Definitely.|aa
+A|Do you have,  do you have a computer at home|qy
 A|or,|%
 B|Uh, yes|ny
 B|we do.|sd
-B| And we try  to,|sd
-A| Uh-huh. |b
+B|And we try  to,|sd
+A|Uh-huh.|b
 B|you know, I keep track of every penny. And, more or less, enter it in.|sd
 A|Uh-huh.|b
 B|Every single day I'm at the computer.|sd
 A|I see.|b
 B|And, it's like, okay, what do we have left, what do we have to pay,  what  have we paid this month. What hasn't come in yet, you know|sd
-A| Uh-huh. |b
+A|Uh-huh.|b
 A|Yeah.|b
 A|Have you, do you use a standard, uh, a standard spread sheet|qy
 A|or I mean,|%

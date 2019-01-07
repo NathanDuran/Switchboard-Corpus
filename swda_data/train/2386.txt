@@ -47,8 +47,8 @@ A|My husband bought it because we, we'd never get out and go walking or anything
 A|and we go to the lake|sd
 A|and we ski and swim in the summer|sd
 A|but  besides that,|%
-B| During the year. |^2
-A|uh-huh. |b
+B|During the year.|^2
+A|uh-huh.|b
 B|Yeah,|b
 B|well, in bad weather, you know, well you'd have to do something inside.|sv
 A|Yeah.|b
@@ -76,7 +76,7 @@ B|Uh, what subjects have you talked about?|qw
 A|Let's see,|^h
 A|education.|sd
 B|Oh|bk
-B| Well, that's  interesting.|ba
+B|Well, that's  interesting.|ba
 A|that one was.|sd
 B|It's more interesting than the treadmill and the bicycle.|sv
 B|Right?|^g

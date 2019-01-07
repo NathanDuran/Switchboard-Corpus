@@ -42,14 +42,14 @@ A|Uh-huh.|b
 B|and my parents went to visit her|sd
 B|and it got to the point where the it seemed like the nursing home didn't want to deal her anymore|sd
 A|Sure.|b
-B|and so they gave her drugs to keep her  asleep. |sd
-A| Yeah.|aa
-A| I, I think that's, that can happen|aa
+B|and so they gave her drugs to keep her  asleep.|sd
+A|Yeah.|aa
+A|I, I think that's, that can happen|aa
 A|and I think in the nursing home that I worked for,|sd
 A|I wasn't quite sure of it,|sd
 A|but I'm sure that some of the patients were, uh, given medication to keep them in, uh, quiet|sd
-A|and,  and, |%
-B| Nice  sedative state.|sv
+A|and,  and,|%
+B|Nice  sedative state.|sv
 A|Yeah,|aa
 A|yeah.|aa
 A|And they would just lay all day long|sd
@@ -73,12 +73,12 @@ A|I mean he said what the hell are you think you're doing, you know,|sd
 A|and I laughed at it then|sd
 A|but then I'm thinking God, you know,|sd
 A|if I had to put my parents in that nursing home, I wouldn't want them there.|^q
-A| So  I think there's laws now that kind of protect. That nursing homes either have to keep the mentally ill totally away from these people and not in the same type of facilities,|sd
-B| Yeah. |b
+A|So  I think there's laws now that kind of protect. That nursing homes either have to keep the mentally ill totally away from these people and not in the same type of facilities,|sd
+B|Yeah.|b
 A|even though they're aging mentally ill, they are still mentally ill|sv
 A|and a lot of these older people have their, you know, they're not insane or anything like that.|sv
-A|They don't have these tendencies to,  to lash out. |sv
-B| To be violent. |sv
+A|They don't have these tendencies to,  to lash out.|sv
+B|To be violent.|sv
 A|But seeing that kind of made me think twice about,|sd
 A|jeez,|ba
 A|I wouldn't put my mother, father in that nursing home at all.|sd
@@ -86,15 +86,15 @@ B|Was this in a big town or a little town?|qy
 A|A small town.|sd
 B|Oh, really?|bh
 A|Yeah,|ny
-A| yeah. |ny
-B| Because  it seems like the small town nursing homes,  there's a  lot more personal attention.|sv
-A| I don't know. |aap_am
+A|yeah.|ny
+B|Because  it seems like the small town nursing homes,  there's a  lot more personal attention.|sv
+A|I don't know.|aap_am
 A|I don't know.|aap_am
 A|I, I kind of look at it this way.|sd
 A|I think if you have a big city area, I think there's more people to keep watch on it.|sv
 B|Uh-huh.|aa
-B| You have  more options.|bf
-A| And, |%
+B|You have  more options.|bf
+A|And,|%
 A|Yeah,|aa
 A|yeah.|aa
 A|And you have more competition.|sv

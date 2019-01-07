@@ -4,7 +4,7 @@ B|Universal health insurance,|sd
 B|right?|^g
 A|That's right.|na
 A|What would we like to say|qw
-A| I think, |sv
+A|I think,|sv
 A|Uh-huh.|b
 A|I think that's what the subject is about.|sv
 B|Did you read, uh, the article in the paper today about this particular subject?|qy

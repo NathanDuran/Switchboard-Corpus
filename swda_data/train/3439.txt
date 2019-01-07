@@ -59,10 +59,10 @@ A|so we're both beginners then.|sv
 B|Yeah.|b
 A|I've had this for a couple weeks|sd
 A|and I've been out of town|sd
-A|so this is my first time to,  to use it. |sd
-B| Oh, okay. |b
-B| Okay. |b
-A| So, |%
+A|so this is my first time to,  to use it.|sd
+B|Oh, okay.|b
+B|Okay.|b
+A|So,|%
 B|Now, did you pick this topic|qy
 B|or were you given?|qrr
 A|No,|nn
@@ -89,8 +89,8 @@ A|But I really don't have too much more to say in regards to credit cards.|sd
 A|I,|%
 A|one thing I've always tried to do is when I get my credit cards, I always try to pay them off because I just sort of detest paying interest.|sd
 B|Oh, yes.|ba
-A| And, uh, |%
-B| Definitely. |aa
+A|And, uh,|%
+B|Definitely.|aa
 A|like years ago my wife and I got married|sd
 B|Uh-huh.|b
 A|she was the one with a little bit than I was because I had my credit cards, I think, up to the limit|sd
@@ -111,7 +111,7 @@ B|Well, yeah,|b
 A|Oh, you bet it's|ba
 A|it's an absolute savings.|sd
 B|Or if you travel for work and you get your reimbursement before the bill comes in,  you get to  keep the money.|sd
-A| You bet. |ba
+A|You bet.|ba
 A|That's, that's very handy.|sd
 B|Yeah.|aa
 B|It works great.|aa
@@ -122,8 +122,8 @@ A|Nice to meet you|fc
 A|and, uh, give it a try.|fc
 A|I think you'll enjoy it.|fc
 B|Okay.|fc
-A| Okay. |fc
-B| Thanks. |fc
+A|Okay.|fc
+B|Thanks.|fc
 A|Thank you.|fc
-B| Bye-bye. |fc
-A| Bye. |fc
+B|Bye-bye.|fc
+A|Bye.|fc

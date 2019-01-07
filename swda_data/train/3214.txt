@@ -99,13 +99,13 @@ B|I know that part, probably half their money comes from these people that are s
 A|Yeah,|b
 A|right.|b
 B|but, uh, there's been some magazines I've looked at,|sd
-B|and it's a real turn off to see every other page,  some kind of ad, |sd
+B|and it's a real turn off to see every other page,  some kind of ad,|sd
 A|Every page.|^2
-A|I  do the same thing, |ba
+A|I  do the same thing,|ba
 A|I, I think I opened VOGUE the other day or something|sd
 B|Yeah,|aa
-B|VOGUE is,  heavily into that. |sd
-A| and it was just nothing, uh-huh. |sd
+B|VOGUE is,  heavily into that.|sd
+A|and it was just nothing, uh-huh.|sd
 A|And I thought, Why buy this?|sd
 B|Yeah,|aa
 B|exactly,|aa

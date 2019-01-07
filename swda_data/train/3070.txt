@@ -1,12 +1,12 @@
 B|Does your family normally have a reunion?|qy
 B|Do you have one,|qy
-A| Well, |%
-B| that's  been,|%
+A|Well,|%
+B|that's  been,|%
 A|on my father's side we've really there, uh,|%
 B|Uh-huh.|b
 A|On my mother's side we've had several,|na
 A|not,  it's  not really on a regular basis,|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|but usually sometimes every few summers.|sd
 A|Well, all, see, all the family lives in once place, except for a few of us are scattered about.|sd
 B|Right.|b
@@ -22,7 +22,7 @@ A|that's true.|aa
 B|Sure.|b
 A|How about your family?|qo
 B|Well, in my family, let's see, last October was the forty fifth annual  uh,  reunion.|sd
-A| Wow,|ba
+A|Wow,|ba
 A|you're,  a pro at this.|sv
 B|The first Sunday in October, the Jordan family gets together.|sd
 A|Oh, that's good.|ba
@@ -60,35 +60,35 @@ A|Okay,|b
 A|so this town hall that you meet in, is that like a, um,|qy
 B|Well, it's a community center, it's a community hall.|arp_nd
 B|It's,  a  great big open building that has a wonderful kitchen it in,|sd
-A| Okay. |bk
+A|Okay.|bk
 B|and, uh, you just bring the covered dishes.|sd
 B|Every, every family brings a, a dish of some kind,|sd
 B|and you get all the wonderful old family recipes,  that have  been handed,  down for years|sd
-A| Potato salad and, uh, |qy^d
-B| Well, we try to stay away from those things which might have, uh, salmonella in them.|arp_nd
+A|Potato salad and, uh,|qy^d
+B|Well, we try to stay away from those things which might have, uh, salmonella in them.|arp_nd
 A|Oh, that's good.|ba
 B|And we choose to bring congealed salad.|sd
 B|You can bring a congealed vegetable salad,  as  opposed to potato salad.|sd
-A| Right. |b
+A|Right.|b
 B|And we are very conscious of, most of us are very conscious of, of, uh, sanitation aspects,  whatever  you've got to carry for any distance.|sd
-A| Right. |b
+A|Right.|b
 B|I always, take home baked bread.|sd
 A|Oh, that's nice.|ba
 B|Uh, that happens to be my specialty for that family.|sd
 B|I do other things very well,|sd
-A| Right. |b
-B| but  there are others in the family who do them better.|sd
+A|Right.|b
+B|but  there are others in the family who do them better.|sd
 A|Do they always have the, the one person in the family who knows, or everyone thinks they know how to make this the best,  so  that's what they get to cook.|qy
-B| Uh-huh. |ny
+B|Uh-huh.|ny
 A|Well, that's good.|ba
 A|Well , I had a professor in anthropology at school who studied family reunions,|sd
 A|so I learned a lot about them.|sd
 A|I haven't,  been  to a lot,|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|but we talked,  a  lot about the, the rituals,|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|you all equated the family reunions as,  with  the Protestant.|sv
-B| Uh-huh. |b
+B|Uh-huh.|b
 A|It was the Protestant version of the Catholic pilgrimage.|sv
 B|Uh-huh.|b
 A|It was, it was an interesting theory.|sd
@@ -99,7 +99,7 @@ A|and it's all,|%
 A|your, you don't have to come home,|sv
 A|so the Catholics would make a pilgrimage in older Europe,|sd
 A|but when the Protestant ethic happened in America, there were people who ever went out and, you know, went away from the family to seek their fortune, and then had to come back home for their reunion, so that,  became  their version of the pilgrimage.|sd
-B| Uh-huh. |b
+B|Uh-huh.|b
 B|Right.|b
 A|But she had,|%
 A|it was interesting, you know,|sd
@@ -110,16 +110,16 @@ A|Is there kind of a, you know,|qy
 A|salads go first and things like that?|qy
 B|Well, it's, uh,|%
 B|we have, uh, uh, kind of a core group that, that serves as, quote, officers of the organization,|arp_nd
-A| Right. |b
-B| and  they plan the reunions,|sd
+A|Right.|b
+B|and  they plan the reunions,|sd
 B|the organize the, you know, who is going to see to it that the coffee pot gets there, who's going to rent the tables, who's going to see to it that the silverware gets turned back to the caterer.|sd
 B|Uh, and each year it's done a little bit differently, because different people serve in those roles.|sd
 A|Well, that's pretty .|ba
 B|We have a biographer who, who continues every year to save clippings on any family member,|sd
 B|and they're entered into a, a wonderful, uh, scrap book. And pictures of new babies and new people who have been added and, and obituaries to those who are gone.|sd
 B|And it keeps the family alive,  even, you know, even  though it's very fluid.|sd
-A| Sure does.|aa
-A|That's wonderful. |ba
+A|Sure does.|aa
+A|That's wonderful.|ba
 B|And they're very dedicated to that,|sd
 B|and, uh, it's been really wonderful.|sd
 B|It helps you hang onto your roots.|sv
@@ -148,7 +148,7 @@ A|You're just, uh,|%
 A|Oh, that's incredible.|ba
 B|Liked to kill me, because I it was, I didn't have that group cooperation,|sd
 B|I did,  it  by myself.|sd
-A| Right. |b
+A|Right.|b
 B|And, uh, nobody brought covered dishes.|sd
 B|We had a great big fish fry,|sd
 B|and, you know, I fixed a salad in a number three tub.|sd
@@ -162,8 +162,8 @@ B|and then the following summer, we did not have all of the family there.|sd
 B|We sent invitations.|sd
 B|We said, "Please let us know if you're coming."|sd
 B|It was when, uh, his mother, his step father had died the year before,|sd
-A| Oh. |bk
-B| and  it,|%
+A|Oh.|bk
+B|and  it,|%
 B|his mother was alone, and so they came to support her,|sd
 B|and then one by one, his you know, his sisters, he began to lose family members,|sd
 A|See, that's|%
@@ -174,16 +174,16 @@ B|so, you know, that family has gone down to one brother and one sister now.|sd
 A|Oh.|bk
 B|And, uh, it,|%
 B|I think that's what happens when they get scattered,|sv
-B|the, the family unit, you know, falls,  into disrepair. |sv
+B|the, the family unit, you know, falls,  into disrepair.|sv
 A|Right.|aa
-A|That's our,  was our problem. |sd
+A|That's our,  was our problem.|sd
 A|We had, uh, the first reunion, or the first, you know, major reunion was probably six or seven years ago.|sd
 B|Uh-huh.|b
 A|And then the second reunion, people who maybe, you know, had sacrificed things to come to the first one thought, oh, well, it's not that big a thing this year,|sd
 B|Uh-huh.|b
 A|and so it kind of wound down,|sd
-B| Uh-huh. |b
-A| and  then finally, you know, you're lucky to get, you know, you get the Shreveport relatives there, but no one else|sd
+B|Uh-huh.|b
+A|and  then finally, you know, you're lucky to get, you know, you get the Shreveport relatives there, but no one else|sd
 A|so that,|%
 B|Uh-huh.|b
 B|Well, see, we manage, those people who are at that core group manage to keep, keep the vigor alive.|sd

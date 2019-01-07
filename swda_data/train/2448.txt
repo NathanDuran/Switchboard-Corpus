@@ -50,9 +50,9 @@ A|And you've got to admit that Congress does kind of look at things that way.|ad
 B|Uh-huh,|aa
 B|that's true.|aa
 B|I, I, like I say, I don't have any problem with people using firearms, you know, for sporting purposes or hunting purposes,|sd
-B|I just think it's just may be a little too easy you know, to acquire one.  On, on a whim of some sort. |sd
+B|I just think it's just may be a little too easy you know, to acquire one.  On, on a whim of some sort.|sd
 A|Uh,|%
-A| That, that's true. |aa
+A|That, that's true.|aa
 A|Uh, now did you hear about the, the control that they have up in Virginia?|qy
 B|I'm not sure I have.|no
 A|Uh, it, it's, it's a little hard to believe,|sv
@@ -74,8 +74,8 @@ B|Uh-huh.|b
 A|and frankly, I, I don't understand why a state doesn't have those records available anyway.|sd
 B|Yeah,|b
 A|Uh, uh,  at least  uh, records of, of, uh, known felons which are available to local police departments.|sd
-B| yeah,|aa
-B|you would think they would. |sv
+B|yeah,|aa
+B|you would think they would.|sv
 B|Uh-huh.|b
 B|Yeah,|aa
 B|right.|aa
@@ -101,8 +101,8 @@ A|Uh, they were bragging about it,|sd
 B|Yeah.|b
 A|with,|%
 A|uh, uh, they should have, have pride in this because it's, it's a good system,|sv
-B| Absolutely. |aa
-A| and it's  working well.|sd
+B|Absolutely.|aa
+A|and it's  working well.|sd
 B|Yeah,|aa
 B|I agree.|aa
 A|And they don't need that seven-day waiting period.|sd
@@ -119,8 +119,8 @@ B|right.|aa
 B|I agree.|aa
 B|Yep,|aa
 B|right.|aa
-B| I was,  just thinking there's,|sd
-A| So anyway  well, we seem to be one in favor and one against.|sv
+B|I was,  just thinking there's,|sd
+A|So anyway  well, we seem to be one in favor and one against.|sv
 B|yeah,|aa
 B|I guess that's about right,|sv
 A|Although neither one of us are, are, uh, really uh, uh, dyed in the wool.|sv

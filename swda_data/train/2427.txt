@@ -34,7 +34,7 @@ B|And especially when the weather's not too hot or, not raining or whatever,|sv
 A|That's right.|aa
 A|Yeah.|b
 B|but, uh,  sometimes I,  I said, I sometimes I wish I had more space you know.|sd
-A| I enjoy, |%
+A|I enjoy,|%
 A|Excuse me, go ahead.|ad
 A|Uh-huh.|b
 B|I grow a lot of things, a lot of food.|sd
@@ -43,7 +43,7 @@ B|And sometimes I, I want to plant something, there's not enough room to plant. 
 A|That's right.|aa
 A|That's right.|aa
 A|Uh-huh.|b
-A| Uh-huh. |b
+A|Uh-huh.|b
 A|Takes a lot of room.|sv
 B|and it takes up your whole space|sv
 A|It sure does.|aa
@@ -162,8 +162,8 @@ A|I'm, I'm kind of bad about that.|sd
 B|Yeah.|b
 A|I enjoyed having a lawn service|sd
 A|but now I have the time|sd
-A|and I really can't, I really you know, don't,  want to spend the money for it. |sd
-B| Well, if you,  enjoy it too, you know, you, you can get out in the morning when, before it gets hot and, and do it and stuff, when you only have to,|sv
+A|and I really can't, I really you know, don't,  want to spend the money for it.|sd
+B|Well, if you,  enjoy it too, you know, you, you can get out in the morning when, before it gets hot and, and do it and stuff, when you only have to,|sv
 A|Yeah.|b
 A|That's right.|aa
 A|I'm not limited to, just mowing it on Saturday morning, you know,|sd
@@ -281,8 +281,8 @@ B|you have a,|%
 B|just do it by hand?|qy
 A|Uh-huh.|ny
 B|Yeah.|b
-A|It wasn't too much of a job,  really. |sd
-B| Yeah. |b
+A|It wasn't too much of a job,  really.|sd
+B|Yeah.|b
 B|Yeah.|b
 A|Like I say it's just,|%
 B|Yeah.|b
@@ -365,10 +365,10 @@ A|Yeah.|aa
 A|That's kind of a, let down.|sv
 B|She made these onion rings that were so good,|sd
 A|Oh, I bet,|ba
-B|and, and, and, uh, you don't realize how many dishes you put onions in,  that it's an ingredient, |sv
+B|and, and, and, uh, you don't realize how many dishes you put onions in,  that it's an ingredient,|sv
 A|they were.|ba
 A|That's right.|aa
-A| We use a lot, |sv
+A|We use a lot,|sv
 A|we sure do.|aa
 B|and, and it was just like everything you put it into tasted so much better.|sd
 A|Yeah.|aa
