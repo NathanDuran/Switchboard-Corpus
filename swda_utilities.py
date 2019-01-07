@@ -145,7 +145,13 @@ def write_to_file(path, dialogue, utterance_only):
                 file.write(utterance.speaker + "|" + utterance.text.strip() + "|" + utterance.da_label + "\n")
 
 
-def remove_file(data_dir, file):
-    if os.path.exists(data_dir + file):
-        os.remove(data_dir + file)
+def remove_file(data_dir, file, utterance_only_flag):
+    # Remove either text or full versions
+    if utterance_only_flag:
+        if os.path.exists(data_dir + file + "_text" + ".txt"):
+            os.remove(data_dir + file + "_text" + ".txt")
+    else:
+        if os.path.exists(data_dir + file + ".txt"):
+            os.remove(data_dir + file + ".txt")
+
 

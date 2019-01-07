@@ -7,6 +7,9 @@ data_dir = 'swda_data/'
 # Corpus object for iterating over the whole corpus in .csv format
 corpus = CorpusReader('raw_swda_data/')
 
+# If flag is set will only write utterances and not speaker or DA label
+utterance_only_flag = False
+
 # Load training, test, validation and development splits
 train_split = load_data(data_dir + 'train_split.txt')
 test_split = load_data(data_dir + 'test_split.txt')
@@ -21,14 +24,11 @@ val_set_file = "eval_set"
 dev_set_file = "dev_set"
 
 # Remove old files if they exist, so we do not append to old data
-remove_file(data_dir, all_swda_file)
-remove_file(data_dir, train_set_file)
-remove_file(data_dir, test_set_file)
-remove_file(data_dir, val_set_file)
-remove_file(data_dir, dev_set_file)
-
-# If flag is set will only write utterances and not speaker or DA label
-utterance_only_flag = False
+remove_file(data_dir, all_swda_file, utterance_only_flag)
+remove_file(data_dir, train_set_file, utterance_only_flag)
+remove_file(data_dir, test_set_file, utterance_only_flag)
+remove_file(data_dir, val_set_file, utterance_only_flag)
+remove_file(data_dir, dev_set_file, utterance_only_flag)
 
 # Excluded dialogue act tags i.e. x = Non-verbal
 excluded_tags = ['x']
