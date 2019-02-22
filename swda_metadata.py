@@ -60,6 +60,11 @@ print(word_freq)
 print(vocabulary)
 print(vocabulary_size)
 
+# Write vocabulary and word frequencies to file
+with open(data_dir + "/metadata/vocabulary.txt", 'w+') as file:
+    for i in range(len(vocabulary)):
+        file.write(vocabulary.to_tokens(i) + " " + str(word_freq[vocabulary.to_tokens(i)]) + "\n")
+
 # Count the label frequencies and generate labels
 label_freq = nlp.data.count_tokens(labels)
 labels = nlp.Vocab(label_freq)
@@ -73,6 +78,11 @@ print(label_freq)
 print(labels)
 print(num_labels)
 
+# Write labels and frequencies to file
+with open(data_dir + "/metadata/labels.txt", 'w+') as file:
+    for i in range(len(labels)):
+        file.write(labels.to_tokens(i) + " " + str(label_freq[labels.to_tokens(i)]) + "\n")
+
 # Count sets number of dialogues and maximum dialogue length
 max_dialogues_len = 0
 sets = ['train', 'test', 'eval', 'dev']
@@ -85,7 +95,7 @@ for i in range(len(sets)):
     # Count the number of dialogues in the set
     set_num_dialogues = len(set_list)
     metadata[sets[i] + '_num_dialogues'] = set_num_dialogues
-    print("Number of dialouges in " + sets[i] + " set: " + str(set_num_dialogues))
+    print("Number of dialogue in " + sets[i] + " set: " + str(set_num_dialogues))
 
     # Count max number of utterances in sets dialogues
     set_max_dialogues_len = 0
@@ -102,10 +112,10 @@ for i in range(len(sets)):
             max_dialogues_len = set_max_dialogues_len
 
     metadata[sets[i] + '_max_dialogues_len'] = set_max_dialogues_len
-    print("Maxiumum length of dialouges in " + sets[i] + " set: " + str(set_max_dialogues_len))
+    print("Maximum length of dialogue in " + sets[i] + " set: " + str(set_max_dialogues_len))
 
 metadata['max_dialogues_len'] = max_dialogues_len
-print("Maxiumum dialouge length: " + str(max_dialogues_len))
+print("Maximum dialogue length: " + str(max_dialogues_len))
 
-# Save data to file
-save_data_pickle(data_dir + "metadata.pkl", metadata)
+# Save data to pickle file
+save_data_pickle(data_dir + "/metadata/metadata.pkl", metadata)

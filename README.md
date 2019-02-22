@@ -28,5 +28,81 @@ B|Well, it's actually, uh,|^h
 
 B|we do oil well services.|sd
 
-## Metadata
+### Dialogue Acts
+Dialogue Act    | Swda Label    | Count
+--- | --- | ---
+Statement-non-opinion   | sd    | 75136
+Acknowledge (Backchannel)   | b | 38284
+Statement-opinion   | sv    | 26421
+Uninterpretable | %     | 15215
+Agree/Accept    | aa    | 11123
+Appreciation    | ba    | 4757
+Yes-No-Question | qy    | 4725
+Yes answers | ny    | 3031
+Conventional-closing    | fc    | 2581
+Wh-Question | qw | 1977
+No answers  | nn | 1374
+Response Acknowledgement    |bk | 1306
+Hedge   | h  | 1226
+Declarative Yes-No-Question | qy^d   | 1218
+Backchannel in question form    | bh | 1053
+Quotation   | ^q | 983
+Summarize/reformulate   | bf | 952
+Other   | fo_o_fw_"_by_bc    | 879
+Affirmative non-yes answers | na    | 847
+Action-directive    | ad    | 745
+Collaborative Completion    | ^2    | 723
+Repeat-phrase   | b^m   | 687
+Open-Question   | qo    | 656
+Open-Question   | qh    | 575
+Hold before answer/agreement    | ^h    | 556
+Reject  | ar    | 344
+Negative non-no answers | ng    | 302
+Signal-non-understanding    | br    | 298
+Other answers   | no    | 285
+Conventional-opening    | fp    | 225
+Or-Clause   | qrr   | 209
+Dispreferred answers    | arp_nd    | 207
+3rd-party-talk  | t3    | 117
+Offers, Options Commits | oo_co_cc  | 110
+Maybe/Accept-part   | aap_am    | 104
+Downplayer  | bd    | 103
+Self-talk	| t1    | 103
+Tag-Question    | ^g    | 92
+Declarative Wh-Question | qw^d  | 80
+Apology | fa    | 79
+Thanking    | ft  | 78
 
+## Metadata
+The swda_metadata.py generates various metadata from the processed dialogues and saves them as a dictionary to a pickle file.
+The words, labels and frequencies are also saved as plain text files in the /metadata directory.
+
+- Total number of utterances:  199766
+- Max utterance length:  133
+- Maximum dialogue length: 457
+- Vocabulary size: 22303
+- Number of labels: 41
+- Number of dialogue in train set: 1115
+- Maximum length of dialogue in train set: 457
+- Number of dialogue in test set: 19
+- Maximum length of dialogue in test set: 330
+- Number of dialogue in eval set: 21
+- Maximum length of dialogue in eval set: 299
+- Number of dialogue in dev set: 300
+- Maximum length of dialogue in dev set: 405
+
+### Keys and values for the metadata dictionary
+
+- num_utterances = Total number of utterance in the full corpus.
+- max_utterance_len = Number of words in the longest utterance in the corpus.
+- max_dialogues_len = Number of utterances in the longest dialogue in the corpus
+- word_freq = Dictionary with keys = words and values = frequencies
+- vocabulary = Full vocabulary - Gluon NLP [Vocabulary](http://gluon-nlp.mxnet.io/api/modules/vocab.html#gluonnlp.Vocab)
+- vocabulary_size = Number of words in the vocabulary.
+- label_freq = Dictionary with keys = dialogue act labels and values = frequencies
+- labels = Full labels - Gluon NLP [Vocabulary](http://gluon-nlp.mxnet.io/api/modules/vocab.html#gluonnlp.Vocab)
+- num_labels = Number of labels used from the Switchboard data.
+
+Each data set also has;
+- *setname*_num_dialogues = Number of dialogues in the set
+- *setname*_max_dialogues_len = Length of the longest dialogue in the set
