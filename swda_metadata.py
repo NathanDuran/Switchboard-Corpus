@@ -1,6 +1,4 @@
 import itertools
-import json
-
 import gluonnlp as nlp
 from swda_utilities import *
 # Initialise Spacy tokeniser
