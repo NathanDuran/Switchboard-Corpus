@@ -115,7 +115,7 @@ def load_data(path, verbose=True):
     return lines
 
 
-def save_data(path, data, verbose=True):
+def save_data_pickle(path, data, verbose=True):
     file = open(path, "wb")
     pickle.dump(data, file, protocol=2)
     file.close()
@@ -123,7 +123,7 @@ def save_data(path, data, verbose=True):
         print("Saved data to file %s." % path)
 
 
-def append_to_file(path, dialogue, utterance_only):
+def append_dialogue_to_file(path, dialogue, utterance_only):
     if utterance_only:
         path = path + "_text"
     with open(path + ".txt", 'a+') as file:
@@ -134,7 +134,7 @@ def append_to_file(path, dialogue, utterance_only):
                 file.write(utterance.speaker + "|" + utterance.text.strip()+ "|" + utterance.da_label + "\n")
 
 
-def write_to_file(path, dialogue, utterance_only):
+def write_dialogue_to_file(path, dialogue, utterance_only):
     if utterance_only:
         path = path + "_text"
     with open(path + ".txt", 'w+') as file:

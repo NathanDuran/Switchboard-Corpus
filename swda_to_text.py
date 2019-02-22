@@ -2,13 +2,18 @@ from swda import CorpusReader
 from swda_utilities import *
 
 # Processed data directory
-data_dir = 'swda_data/'
+data_dir = 'output_swda/'
 
 # Corpus object for iterating over the whole corpus in .csv format
-corpus = CorpusReader('raw_swda_data/')
+corpus = CorpusReader('swda_data/')
 
 # If flag is set will only write utterances and not speaker or DA label
 utterance_only_flag = False
+
+# Excluded dialogue act tags i.e. x = Non-verbal
+excluded_tags = ['x']
+# Excluded characters for ignoring i.e. <laughter>
+excluded_chars = {'<', '>', '(', ')', '-', '#'}
 
 # Load training, test, validation and development splits
 train_split = load_data(data_dir + 'train_split.txt')
@@ -30,11 +35,6 @@ remove_file(data_dir, test_set_file, utterance_only_flag)
 remove_file(data_dir, val_set_file, utterance_only_flag)
 remove_file(data_dir, dev_set_file, utterance_only_flag)
 
-# Excluded dialogue act tags i.e. x = Non-verbal
-excluded_tags = ['x']
-# Excluded characters for ignoring i.e. <laughter>
-excluded_chars = {'<', '>', '(', ')', '-', '#'}
-
 # Process each transcript
 for transcript in corpus.iter_transcripts(display_progress=False):
 
@@ -42,7 +42,7 @@ for transcript in corpus.iter_transcripts(display_progress=False):
     dialogue = process_transcript(transcript, excluded_tags, excluded_chars)
 
     # Append all utterances to all_swda_text_file
-    append_to_file(data_dir + all_swda_file, dialogue, utterance_only_flag)
+    append_dialogue_to_file(data_dir + all_swda_file, dialogue, utterance_only_flag)
 
     # Determine which set this dialogue belongs to (training, test or evaluation)
     set_dir = ''
@@ -62,10 +62,10 @@ for transcript in corpus.iter_transcripts(display_progress=False):
         os.makedirs(set_dir)
 
     # Write individual dialogue to train, test or validation folders
-    write_to_file(set_dir + dialogue.conversation_num, dialogue, utterance_only_flag)
+    write_dialogue_to_file(set_dir + dialogue.conversation_num, dialogue, utterance_only_flag)
 
     # Append all dialogue utterances to sets file
-    append_to_file(data_dir + set_file, dialogue, utterance_only_flag)
+    append_dialogue_to_file(data_dir + set_file, dialogue, utterance_only_flag)
 
     # If it is also in the development set write it there too
     if dialogue.conversation_num in dev_split:
@@ -78,7 +78,7 @@ for transcript in corpus.iter_transcripts(display_progress=False):
             os.makedirs(set_dir)
 
         # Write individual dialogue to dev folder
-        write_to_file(set_dir + dialogue.conversation_num, dialogue, utterance_only_flag)
+        write_dialogue_to_file(set_dir + dialogue.conversation_num, dialogue, utterance_only_flag)
 
         # Append all dialogue utterances to dev set file
-        append_to_file(data_dir + set_file, dialogue, utterance_only_flag)
+        append_dialogue_to_file(data_dir + set_file, dialogue, utterance_only_flag)
