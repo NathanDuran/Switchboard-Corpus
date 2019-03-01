@@ -125,7 +125,7 @@ def save_data_pickle(path, data, verbose=True):
 
 def append_dialogue_to_file(path, dialogue, utterance_only):
     if utterance_only:
-        path = path + "_text"
+        path = path + "_utt"
     with open(path + ".txt", 'a+') as file:
         for utterance in dialogue.utterances:
             if utterance_only:
@@ -136,7 +136,7 @@ def append_dialogue_to_file(path, dialogue, utterance_only):
 
 def write_dialogue_to_file(path, dialogue, utterance_only):
     if utterance_only:
-        path = path + "_text"
+        path = path + "_utt"
     with open(path + ".txt", 'w+') as file:
         for utterance in dialogue.utterances:
             if utterance_only:
@@ -145,11 +145,11 @@ def write_dialogue_to_file(path, dialogue, utterance_only):
                 file.write(utterance.speaker + "|" + utterance.text.strip() + "|" + utterance.da_label + "\n")
 
 
-def remove_file(data_dir, file, utterance_only_flag):
+def remove_file(data_dir, file, utterance_only):
     # Remove either text or full versions
-    if utterance_only_flag:
-        if os.path.exists(data_dir + file + "_text" + ".txt"):
-            os.remove(data_dir + file + "_text" + ".txt")
+    if utterance_only:
+        if os.path.exists(data_dir + file + "_utt" + ".txt"):
+            os.remove(data_dir + file + "_utt" + ".txt")
     else:
         if os.path.exists(data_dir + file + ".txt"):
             os.remove(data_dir + file + ".txt")
