@@ -61,14 +61,20 @@ with tempfile.TemporaryDirectory(dir=archive_dir) as tmp_dir:
         set_dir = ''
         set_file = ''
         if dialogue.conversation_num in train_split:
-            set_dir = data_dir + 'train/'
+            set_dir = data_dir + 'train'
             set_file = train_set_file
         elif dialogue.conversation_num in test_split:
-            set_dir = data_dir + 'test/'
+            set_dir = data_dir + 'test'
             set_file = test_set_file
         elif dialogue.conversation_num in val_split:
-            set_dir = data_dir + 'eval/'
+            set_dir = data_dir + 'eval'
             set_file = val_set_file
+
+        # If only saving utterances use different directory
+        if utterance_only_flag:
+            set_dir = set_dir + "_utt/"
+        else:
+            set_dir = set_dir + "/"
 
         # Create the directory if is doesn't exist yet
         if not os.path.exists(set_dir):
@@ -83,8 +89,14 @@ with tempfile.TemporaryDirectory(dir=archive_dir) as tmp_dir:
         # If it is also in the development set write it there too
         if dialogue.conversation_num in dev_split:
 
-            set_dir = data_dir + 'dev/'
+            set_dir = data_dir + 'dev'
             set_file = dev_set_file
+
+            # If only saving utterances use different directory
+            if utterance_only_flag:
+                set_dir = set_dir + "_utt/"
+            else:
+                set_dir = set_dir + "/"
 
             # Create the directory if is doesn't exist yet
             if not os.path.exists(set_dir):
