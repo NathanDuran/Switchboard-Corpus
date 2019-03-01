@@ -41,7 +41,7 @@ remove_file(data_dir, dev_set_file, utterance_only_flag)
 with tempfile.TemporaryDirectory(dir=archive_dir) as tmp_dir:
     print('Created temporary directory', tmp_dir)
 
-    zip_file = zipfile.ZipFile('swda_archive/swda_archive.zip', 'r')
+    zip_file = zipfile.ZipFile(archive_dir + '/swda_archive.zip', 'r')
     zip_file.extractall(tmp_dir)
     zip_file.close()
 
@@ -54,7 +54,7 @@ with tempfile.TemporaryDirectory(dir=archive_dir) as tmp_dir:
         # Process the utterances and create a dialogue object
         dialogue = process_transcript(transcript, excluded_tags, excluded_chars)
 
-        # Append all utterances to all_swda_text_file
+        # Append all utterances to all_swda text file
         append_dialogue_to_file(data_dir + all_swda_file, dialogue, utterance_only_flag)
 
         # Determine which set this dialogue belongs to (training, test or evaluation)
