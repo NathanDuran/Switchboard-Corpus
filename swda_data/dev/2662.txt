@@ -1,0 +1,215 @@
+A|Uh, I don't go to the movies a whole lot,|sd
+A|but, uh, I went two or three weeks ago for the first time in a long time and saw DANCES WITH WOLVES, which turned out to be an extremely good movie.|sd
+B|I haven't seen that yet.|sd
+B|I, I, I hear,|%
+B|we, a whole bunch of us were going to go see it.|sd
+B|It's playing at school actually in about two weeks, I guess.|sd
+B|So we're going to go see that.|sd
+B|But you enjoyed that?|qy
+A|Yeah,|ny
+A|it's, it's something that, uh,|sd
+A|my brother lives over in Fort Worth,|sd
+A|and I was telling him about a couple of weeks ago,|sd
+A|and he said, Well I'll wait until it comes out on, uh, tape and rent, rent the video.|sd
+A|And I said, no,|sd
+A|this is not one that you want to do that with.|^q
+B|That's what I heard,|sd
+B|yeah.|%
+A|It's, uh, the scenery and the landscape and the country that they're in needs a big screen.|sd
+A|It's just beautiful country with the hills and the trees and the buffalo and the whole thing,|sd
+A|it's just, uh, just amazing, amazing picture.|sd
+B|Yeah,|b
+B|I've heard it, it, it's not one for the videos.|sd
+A|No,|aa
+A|it's one I think,|%
+A|but, you know, every now and then you find one that you say, yeah,|sv
+A|this is my favorite movie.|^q
+A|Well, this is the one for me this time.|sd
+B|Really.|bh
+A|Yeah.|ny
+A|What have you been to lately?|qw
+B|Um, let's see.|^h
+B|Well, uh, this is almost, sort of funny.|sd
+B|I was just um,|sd
+B|friend and I went to see OUT FOR JUSTICE which is Steven Segal, because, uh, we're both big karate fans.|sd
+A|Yeah.|b
+A|Oh, yeah.|b
+B|So we wanted to see what this is like.|sd
+B|And, uh, impressed with actually.|sd
+A|Is that right?|bh
+B|Yeah,|ny
+B|I wasn't, I mean, I've seen his other movies,|sd
+B|and I just think he's pretty good.|sv
+A|Yeah.|b
+B|But, uh, this movie,|%
+B|I'm convinced now he can act.|sd
+A|Uh-huh.|b
+A|How's his karate?|qw
+B|Oh, his, his, his karate is pretty good.|sd
+B|I think in this one it wasn't so good.|sv
+B|I generally, um,|%
+B|movies like that scare me, though.|sd
+B|I'd be just fine without them, because, you know, kids come running out wanting to beat each other up.|sv
+A|Well, well they do,|aa
+A|they get|sv
+B|Fighting.|^2
+A|I remember when we used to go to see, well I remember when GRAND PRIX came out when I was a kid, and some other movies like that.|sd
+A|We wanted to jump in the cars and race.|sd
+B|Right.|b
+A|And I suspect today what they see is bound to be what they want to do when they get out of it.|sv
+B|Yeah,|aa
+B|yeah,|aa
+B|well, that, that was number one for the week actually, too,|sd
+B|so, so it was a little bit, uh,|%
+B|I was thinking, Wow,|sd
+B|people must be into crime movies again.|^q
+B|But, but in the middle of that conversation we sort or picked an, um, an interesting point.|sd
+B|Last year's number one movie for the year was GHOSTS.|sd
+A|Is that right?|bh
+B|I don't know if you saw GHOSTS or not.|qy^d
+A|I did see GHOSTS.|na
+B|Yeah,|b
+B|and, and, and that was, that, that helped us sort of feel good about, you know, about ourselves and about one around us, in that at least, at least, if everyone's running around seeing karate movies and stuff like that, at least they're still going to see the real good movies, you know.|sd
+A|Yeah.|b
+A|I think that GHOSTS was one of those that a lot of people didn't think was going to be any good.|sv
+B|Yeah.|b
+A|And it turned out to be an excellent movie.|sv
+B|Yeah.|aa
+B|It was, it, I was absolutely enthralled by it.|sd
+A|I've forgotten the guy's name who was in it, who had the lead role.|sd
+B|Oh, Patrick Swayze?|qy
+A|Yeah,|ny
+A|and I especially like him.|sd
+B|Yeah,|b
+B|he's very good.|sv
+A|He's a really good guy.|aa
+A|Other than that, DANCES WITH WOLVES seems like to be the only thing I've seen in the past several months to have any,|sd
+B|Really,|b
+B|I'm trying to think what else I've seen recently.|sd
+B|What else have we seen recently.|t1
+B|Oh, you know, what's pretty cute actually. Um,|qh
+B|DEFENDING YOUR LIFE.|sd
+A|Is that right.|bh
+B|Have you heard of it?|qy
+A|I've, I've seen the ads for it,|na
+A|but I'm not real sure what it's about.|sd
+B|Yeah, um,|b
+B|I actually hadn't heard anything about it,|sd
+B|and some friends called up and said do you want to go see this movie,|sd
+B|and, and they said it starred, um, Meryl Streep and Mel Brooks,|sd
+B|at first they told me.|sd
+A|Yeah.|b
+B|And I thought, what a strange combination,|sd
+B|Mel Brooks and Meryl Streep.|^q
+A|That is a strange combination.|aa
+B|Well, actually, it starred, that, that it's actually Albert Brooks,|sd
+B|so it's lot better.|sv
+B|Mel Brooks you probably know.|qy^d
+A|Yeah.|ny
+B|I know,|bk
+B|so it, it was a strange combination.|sv
+B|But it turned out to be a very cute movie.|sd
+B|I mean, the whole premise is that they go out|sd
+B|and, and they die|sd
+A|Oh, yeah.|b
+B|and they have to,|sd
+A|Both of them.|qy^d
+B|Right.|na
+B|Both of them are dead,|sd
+B|and they happen to meet in this, this town, um, this, this sort of city where you're set up.|sd
+B|You know, they go|sd
+B|and they decide if you can move up to the next level.|sd
+A|Oh.|b
+B|I don't know if you've ever read Jonathan Livingston Seagull,|qy^d
+B|but it's something like that.|sd
+A|Yeah,|ny
+A|years ago.|sd
+B|They sort of move up to levels,|sd
+B|and, and they have to decide whether or not they're good enough,|sd
+B|and as it turns out, you know, they meet there and fall in love and stuff like that.|sd
+A|Oh.|b
+B|So you can guess the rest of the plot.|ad
+B|It actually, it's, it's really funny because they run through, you know, what they have them do is sit down and see scenes of their lives.|sd
+A|Oh, yeah.|b
+A|And then defend it.|qy^d
+B|And that's pretty good actually.|sd
+A|Well, I guess that's where the title comes from then.|qy^d
+B|Yeah.|ny
+B|And it's|sd
+B|you actually have to go up there|sd
+B|and you have a, they have an attorney for, you know, attorney for you and attorney,|sd
+B|a defense and a prosecution,|sd
+B|and you know, the prosecutor's job is to make sure you don't move up a level,|sd
+B|and the defense's job is to make sure that you, you do, you know.|sd
+B|It's, uh, it's a neat little story actually.|sd
+A|Yeah,|aa
+A|it is.|aa
+B|I was, I was, I went thinking it'll be okay, not great,|sd
+B|and then I actually came away thinking it was really pretty good.|sd
+B|So,|%
+A|It's funny,|ba
+A|we've got a couple of movies out recently, GHOSTS and DEFENDING YOUR LIFE, that have to do with, uh, after life, I guess.|sd
+B|Yeah.|b
+A|And it kind of makes you wonder,|sv
+A|I'm also, besides working at T I, I'm a graduate student at North Texas and working on master's in communication.|sd
+A|It's the behavioral science part of communication,|sd
+A|and I think about these things and people trying to define their own world view,|sd
+A|and, uh what exactly do we, you know, do we see about this world,|qh
+B|Um.|b
+A|or why are we so fascinated with the other world.|qh
+A|Is it supposed to be better?|qh
+B|The other world,|b
+B|yeah.|%
+A|Sometimes I think we think it is.|sv
+A|We like those things that way.|sv
+B|Um, I'm, I'm sure that it seems like,|%
+B|it certainly would, would explain the preoccupation with ,|sv
+B|but I suspect it's always been a preoccupation with that sort of things.|sv
+A|Well, it has.|aa
+A|All the way through history, there's, I guess,|sv
+A|if you want to call its mysticism or the occult or whatever. It's always fascinated.|sv
+A|I guess because we don't know,|sv
+A|and there's no real way of finding out.|sv
+B|Right,|aa
+B|well.|%
+A|There's only one way of finding it.|sv
+B|Well did you ever see, um, FLATLINERS.|qy
+A|No,|nn
+A|I did, uh, did not.|sd
+A|The girl next to me saw it,|sd
+A|and she really liked it.|sd
+B|That's, that's, that's probably one of those ones that, you know,|%
+B|it's on video now, I think.|sd
+A|Yeah,|aa
+A|it is.|aa
+B|Probably, probably worth seeing on video.|sv
+B|Actually we really enjoyed it,|sd
+B|but it was also right along the same lines.|sd
+B|I mean they, they would go ahead and kill themselves for three or four minutes to see what happens.|sd
+A|Yeah.|b
+A|Yeah,|b
+A|they said, she said that this was almost believable|sd
+A|that could really happen.|sd
+A|You know, you get the medical profession doing these kinds of things,|sv
+A|and you never know.|sv
+B|Almost,|aa
+B|yeah,|aa
+B|I, I, it's a little far fetched to, find a bunch of medical students doing it,|sv
+B|but but, it was, um, it was, it was odd enough, you know,|sd
+A|Yeah.|b
+B|and they didn't just sort of make it silly.|sd
+B|It was, you know, it was done fairly well, I think.|sd
+B|So. Actually, I actually enjoyed that as well.|sd
+A|Yeah.|b
+A|I like it when they will do something and not get too silly.|sd
+A|I've been disappointed in some movies that, they don't know how to end it, it seems like,|sd
+A|so then they get crazy|sd
+A|and, and it doesn't end like the story has been going.|sd
+B|The story sort of keeps going and going.|aa
+A|Well I guess that covers our topic.|fc
+B|Yeah,|fc
+B|great.|fc
+B|Well, it was, nice talking to you.|fc
+A|Nice talking to you.|fc
+A|Bye.|fc
+B|Bye-bye.|fc

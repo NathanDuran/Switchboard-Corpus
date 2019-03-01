@@ -1,0 +1,88 @@
+A|Hello.|fp
+B|Hello.|fp
+A|Hi,|fp
+A|my name is Dolphene.|fp
+A|I live in Texas.|fp
+B|Hi,|fp
+B|my name is Pat Johnson|fp
+B|and I live in Texas too.|fp
+A|Okay,|b
+A|I work for T I,|sd
+A|do, do you also?|qy
+B|No.|nn
+A|Okay.|bk
+B|No,|nn
+B|I live in Dallas.|sd
+B|I work for the Dallas school system.|sd
+A|Oh, okay.|bk
+A|uh, you ready to begin?|qy
+B|We might as well.|na
+A|Oh, okay.|bk
+A|Okay.|b
+B|I understand we are doing care of the elderly, right?|qy
+A|Yes.|ny
+B|And how do you feel about putting someone in the nursing home?|qo
+A|Well, I don't think that uh, any of my relatives would really like to go there.|sd
+A|I, I believe, if I, am in a position, uh, like when my mother gets to a point where she needs special care that I will be able to just bring her into my home and my father also, and uh, or have someone go into their home, you know and uh, and look after them.|sd
+B|Uh-huh.|b
+A|That way.|sd
+B|Yes,|aa
+B|I would find it very difficult, uh, to, uh, place my father or my step-mother uh, in a place like that. Particularly, since I know how they feel about it.|sd
+A|Uh-huh.|b
+A|Right,|aa
+A|it's basically, it's more how they feel about it.|sv
+B|Yes.|aa
+A|And it is like they feel, they are, uh, the way my mother would put it like somebody had thrown them away You know?|sd
+B|Yes.|aa
+B|I do think that there are some significant kinds of things to to look for, you know, if you are faced with placing someone. In a place like that, uh, you know, aside from the cleanliness and the medical care that is offered and such|sv
+A|Right.|b
+A|Uh-huh.|b
+B|but attitude of staff makes such a tremendous difference.|sv
+B|And I have a a friend who is partly paralyzed and is in a nursing home and has no family who, you know, could care for her.|sd
+A|Uh-huh.|b
+B|And, uh, I know that the cheerful pleasant people who treat her kindly make all the difference in the world in how she feels about, uh, her situation.|sd
+A|Uh-huh.|b
+A|And another thing to think about, uh, on the positive side of the nursing homes here,|sv
+A|I use to work in one of the offices in a nursing home|sd
+B|Uh-huh.|b
+A|and I got to see a lot of the things that they did|sd
+B|Uh-huh.|b
+A|they, uh, they had a lot of crafts|sd
+B|Yes.|b
+A|and they had a lot of games|sd
+A|and, uh, they, get together and just do, they they do all sorts of things|sd
+A|and then there|%
+A|some, some of the, uh, the people that are in there are real, you know, very nice and friendly to everybody|sd
+B|Uh-huh.|b
+A|and, uh, then there are others that are,|sd
+A|uh, it is just a job|sd
+A|and they just you know want to go in and do what they have to do and get out  go home.|sd
+B|Yeah.|b
+B|Uh-huh.|b
+A|Uh, the, the attitude of the staff as you said is really very very important.|sv
+B|Uh-huh.|b
+B|I think it would matter too, uh, kinds of, uh, disabilities that the nursing home accepts. Because there are some, uh, who poor things, you know, don't have, uh, any real grasp on reality any longer.|sv
+A|Right.|b
+A|Right.|b
+B|And they may be ambulatory,|sd
+B|but they tend to behave like children, small children|sd
+A|Yeah.|b
+B|and that would be very difficult I think for an adult who wasn't in that situation to to have to deal with on a daily basis.|sd
+A|Yeah.|b
+B|Uh.|%
+A|Well, it is like, the one that I worked in, uh, you would see some of them just like in wheelchairs all day,|sd
+A|they would just roll themselves around all over the place|sd
+A|and and they would enjoy enjoy themselves with activities|sd
+B|Yes.|b
+A|and then you would see see some of the others that are were like distant from the other group|sd
+A|and they they just didn't like participate together with the others because they had some some, uh, I guess, uh, slight mental disabilities and things like that.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|Yes.|b
+A|What, what do you call Alzheimer disease and  stuff like that|qw
+B|Yes,|b
+B|Alzheimer,|b^m
+B|yes.|b
+A|and they don't, don't, uh, they weren't really together with the rest of them, when they got together for such activities.|sd
+B|Yes|b
+B|and that can,|%

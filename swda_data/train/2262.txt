@@ -1,0 +1,230 @@
+A|Well, I, um, I haven't really lived in a lot of big cities.|sd
+A|I mean, I'm living in Dallas now.|sd
+A|Plano is outside of Dallas,|sd
+A|but, um, so I don't really have a lot of experience with air pollution.|sd
+B|Huh-uh.|b
+A|But, I know when I lived down in Houston, on the outskirts of Houston, there were some towns like Pasadena that had oil refineries,|sd
+B|Huh-uh.|b
+A|And, um, if you would drive by there, like on your way to the beach or something, there would just be dumping this huge amounts of smoke, into the air|sd
+B|Huh-uh.|b
+B|Huh-uh.|b
+A|and it always smelled really bad.|sd
+A|We know that, that was really, really, really bad for the atmosphere.|sd
+A|What have you got up there?|qo
+B|Well, I, I live out in the country,|sd
+A|Huh-uh.|b
+B|so that part is good.|sv
+B|Uh, we're maybe one hundred miles from Pittsburgh,|sd
+B|which has a lot of pollution from their plants,|sd
+A|Huh-uh.|b
+B|and right now in our area were fighting against a toxic waste incinerator. *sp: we're|sd
+A|Oh, no.|ba
+B|And, uh, it won't be too for from where we live. *sp: far|sd
+B|And everybody really has been, you know, fighting against it, because we, we do not want it.|sd
+B|Well, we don't want one any place|sd
+A|Sure.|ba
+B|we would like the, uh, industry to do more to take care of the waste products before they turn to incineration, because we feel that, uh, the small percentage that they're going to be putting into the air is too much. Huh-uh.|sd
+A|Yeah.|aa
+A|It's just, I mean, it's just so bad that there is just so much going into the air|sv
+A|and, and the little bit you say that there putting in here and there, and everywhere, it all adds up. *there they're|sv
+B|Huh-uh.|b
+A|Plus all the problems in the Middle East.|sv
+A|With all that smoke and,|sd
+B|Oh, that has to be terrible over there.|sv
+A|Yeah.|aa
+A|So it's just, um, why are we doing this to ourselves|qh
+B|Huh-uh.|b
+A|I just don't know,|sd
+A|but, um, I, you know, what really amazes me about, like that Pasadena area and the oil refineries, is that there would be houses and people living just really close to it.|sd
+B|Huh-uh.|b
+B|Yeah.|b
+A|I mean, between the freeway and the oil refinery, you would see a neighborhood.|sd
+B|Huh-uh.|b
+A|and you just thought, well, it's obvious that there's a lot going up in the air there,|sv
+A|and what comes up, must come down|sv
+B|Yeah.|b
+B|Yeah.|b
+B|Breathing it, we're breathing it all the time.|sd
+A|Yes.|b
+A|And, and how, if they have all of those, um,|%
+A|toxicity, I mean, it, there's signs around saying how dangerous it is|sd
+A|and here you are living ...|sv
+B|Huh-uh|b
+A|That just doesn't make too much sense.|sv
+B|No.|aa
+B|And I figure we're paying to take care of this toxic waste, no matter who does it. and they have shown, some of the industries have been real good at, uh, uh, doing their part in, uh, reducing the amount that they have, *sd|sv
+A|Huh-uh.|b
+A|Huh-uh.|b
+B|Uh, they've reused some of it, uh,|sd
+B|it can be recycled, a lot of their things,|sd
+A|Huh-uh.|b
+B|and that they've shown, that it, uh, to begin with, apparently it does cost more,|sd
+A|Huh-uh.|b
+B|but, once they get started, it's really, it saves them money in the end,|sd
+B|and it cuts down on the end product that has to be dealt with some other way.|sd
+A|Huh-uh.|b
+B|And if they would all,|%
+B|that's what, that's what we want done.|sd
+B|Is, we want industry to take, you know, more responsibility in taking care of it.|sd
+A|Well, um, individual companies and things are so selfish,|sv
+B|Huh-uh.|b
+A|And their desires to save a few dollars and, and that|sv
+A|they don't care about the environmental impact, that they make.|sv
+B|Huh-uh.|b
+B|they're greedy.|sv
+B|It's money, is what is.|sv
+B|It's, it's the money|sv
+A|Yes.|aa
+B|They're making fantastic amounts on these things|sv
+B|and, uh, even the incinerator, the money and the income that they're going to make off this, is, you know, just astronomical.|sv
+A|Huh-uh.|b
+A|Well, have you ever visited, um, like Los Angeles or any place that's ever, it's kind of known, that it has, uh, pollution in it's air?|qy
+B|We've never been,|ng
+B|we went as far as, as, uh, like Las Vegas, and Yellow Stone Park,|sd
+A|Huh-uh.|b
+A|Huh-uh.|b
+B|We did go, we should have gone the whole way over,|sd
+B|but we didn't.|sd
+B|But, I understand that,|sd
+B|we have an aunt that lives out there|sd
+B|and, When she was visiting here, she would look up at the stars|sd
+A|Huh-uh.|b
+B|and she said how wonderful it was to be able to look into the sky and see some of the things that she saw.|sd
+A|Huh-uh.|b
+B|She said they couldn't see those things out there, because of the smog and everything.|sd
+A|Huh-uh.|b
+A|That's so awful.|ba
+A|Well, what about in New York.|qh
+A|I guess you've gone that way, maybe.|qy^d
+B|No.|nn
+B|Never been in New York|sd
+B|I don't want to go there|sd
+A|Pretty funny.|ba
+B|Have you been there?|qy
+A|Well, I've been to New York.|na
+A|I have relatives that direction.|sd
+B|Oh.|b
+A|We have,|%
+A|it's, um,|%
+A|is it close to Phoenixville, Pennsylvania?|qy
+B|Um, no,|nn
+B|I never heard of that one.|sd
+A|Because I have family there|sd
+A|and,|%
+B|We're near Pittsburgh, Clarion University.|sd
+A|Oh, huh-uh.|b
+A|It's pretty neat.|ba
+B|It's, it's kind of northwest part of Pennsylvania.|sd
+A|That's beautiful country up that way.|ba
+A|I know,|sd
+A|it's, um, very lush and pretty, Up in the, back in the east.|sd
+A|It's really,|sd
+B|Are you a young person?|qy
+A|Well, I'm thirty-one.|no
+B|Thirty-one.|b^m
+B|You're, you're young|sd
+A|Seems kind of old to me.|sv
+B|No,|nn
+B|you're young.|sd
+B|You have a lot of life yet,|sd
+B|and, and these,|%
+B|we have some people who say, well, this isn't going to affect me, this air pollution,|sd
+A|Huh-uh.|b
+B|uh, older people,|sd
+B|or they think they're far enough away from something, that it's,|sd
+A|Huh-uh.|b
+B|and they don't realize these things are going to affect everybody.|sv
+B|And if you're older it's not going to affect you that way.|sv
+B|You have grandchildren,|sv
+B|you have children, uh,|sv
+A|Yes.|aa
+B|Nieces, nephews, whatever, friends.|sv
+B|Uh, everybody is going to be affected by it.|sv
+A|That's really true.|aa
+A|And we all, you know, need to be willing to help pay a little bit. Like,|sv
+A|I've heard some people, uh, grumble about their, uh, cars passing their emission tests, and things,|sd
+B|Huh-uh.|b
+A|and how they've had to, how it's more expensive and things.|sd
+B|Huh-uh.|b
+A|And I thought, well, it's so much better.|sv
+B|They say it has really made a difference, though.|sd
+A|Huh-uh.|b
+B|Now, see, we don't have that here, yet.|sd
+A|Oh, you don't.|qy^d
+B|No,|nn
+B|we don't have that testing in that down here, yet.|sd
+A|Huh-uh.|b
+B|But they,|%
+B|I have read that, that, that it has really helped where the problem is greater, where the population is greater,|sd
+A|Huh-uh.|b
+B|and that it has made a difference.|sd
+A|Well, I really think it must.|sv
+A|I think every,|sv
+A|I mean, well, think about how many automobiles there are.|qh
+B|Huh-uh.|b
+B|Huh-uh.|b
+A|And each is putting out,|sv
+A|like we have a car,|sd
+A|an older, one of our cars is an older car,|sd
+B|Huh-uh.|b
+A|and every time you start it, from the tail pipe, it makes a black spot, on the cement,|sd
+B|Huh-uh.|b
+B|Huh-uh.|b
+A|And you know that, that is a sign.|sd
+B|Something is coming out,|^2
+B|yeah.|b
+A|Yeah.|aa
+A|And that's, all cars are doing that.|sv
+B|Yeah.|b
+A|And it's really polluting the air.|sv
+B|Yeah.|b
+B|If you have to put a price on it. Which is more valuable, life or paying a little more.|qh
+A|Huh-uh.|b
+A|And it's also, it's causing of lot of the real terrible suffering like cancer,  and things,|sv
+B|Huh-uh.|b
+B|Huh-uh.|b
+A|We sure wouldn't want, so much more people suffering from that.|sv
+B|Huh-uh.|b
+B|Yeah.|b
+B|And like I said, I think you have to pay for it no matter what you do you with it, because it's industry.|sv
+B|We're paying industry to make the products|sv
+B|and, we're helping pay for there making these end products that are, toxic waste.|sv
+A|Huh-uh.|b
+A|Huh-uh.|b
+B|Then, we have to pay for them to pay somebody to carry it away someplace,|sv
+B|then they put it in the dump some place|sv
+B|and they find out, well, this dump doesn't work|sv
+B|so we have to clean this up and move it someplace else.|sv
+B|We end up paying for it again.|sv
+B|Now we're going to end up paying for it again by having it burned in these large incinerators.|sv
+A|Huh-uh.|b
+B|And we're paying to have our air polluted and our water streams polluted.|sv
+A|Pretty sad.|ba
+B|Or the,|%
+B|where they want to put, the one area they want to put the incinerator is right in the middle of the Clarion, the two water sheds that feed Clarion river.|sd
+A|Oh, no.|ba
+B|And, you know, it just boggles our mind that they can consider even putting it there, because, if that water gets contaminated, it will go on down to Pittsburgh.|sv
+A|Huh-uh.|b
+B|It will, you know,|%
+B|it affects so many people.|sv
+A|Huh-uh.|b
+B|And it's just hard to think that they could allow them to do things like this.|sv
+A|No.|aa
+A|No.|aa
+A|It's scary|sv
+B|Huh-uh.|b
+A|It's scary.|sv
+B|It really is.|aa
+A|Huh-uh.|b
+A|It's really awful.|sv
+A|Well, I've really enjoyed the conversation.|fc
+A|It's helped me to think more about some issues that I need to be thinking more about|fc
+B|It is really a concern. Huh-uh.|fc
+A|Huh-uh.|fc
+A|And it's, instead of waiting until it directly affects me, like you say, it's important to be involved ahead of time.|fc
+A|Well, you have a good day.|fc
+B|Well, you, too.|fc
+A|Thank you.|fc
+B|Huh-uh.|fc
+A|Bye-bye.|fc
+B|Bye.|fc

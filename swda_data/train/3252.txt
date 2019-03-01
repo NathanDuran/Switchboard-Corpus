@@ -1,0 +1,123 @@
+B|Do you have any?|qy
+A|Sure.|na
+A|I have a Springer Spaniel,|sd
+A|and her name is Thumper.|sd
+A|She's about seven or eight years old.|sd
+A|I got her for Christmas from my family, and, uh, back when we lived in Nebraska.|sd
+A|I like to hunt,|sd
+A|and, uh, so, I thought that if I had a good hunting dog like Thumper that, boy, I could just go out and get all kinds of game|sd
+B|Did it work?|qy
+A|Yeah,|ny
+A|except we live in Plano, Texas now|sd
+B|No,|aa
+B|right.|aa
+A|so|%
+B|I, um, I had a, for many years I had a dog that was part Springer Spaniel.|sd
+B|I just love them.|sd
+B|Her name was Molly,|sd
+B|but she isn't alive any more|sd
+B|We had her for, um, fifteen years, I think, my family did, and just loved her.|sd
+B|She was the greatest, greatest, um, went through two generations of children in my family and was always very gentle.|sd
+A|Do you have a pet now?|qy
+B|Yeah,|ny
+B|I have a cat now.|sd
+B|He just turned seven, also,|sd
+B|and he's, I, um, got him in Arizona and, when I used to live there,|sd
+A|Oh.|%
+B|and he is huge.|sd
+B|He is eighteen pounds.|sd
+A|What kind of cat is it?|qw
+B|Just,|%
+B|um, I got him,|sd
+B|he was, um, he was born in the wild, like in a, in a shed and had never been in a building when I got him.|sd
+A|Uh-huh.|b
+B|So he,|%
+B|and he's, he, he must be part, cross part with some kind of desert animal, because he's very long and lanky,|sd
+B|but he's a very tame spoiled house cat, you know, now that I've had him for seven years.|sd
+A|Being born outside, you didn't have any problems house training him?|qy^d
+B|No,|nn
+B|no|nn
+A|That's good.|ba
+B|he's,|%
+B|yeah,|aa
+B|he's great,|sd
+B|and uh, he's, uh, he's really spoiled, though|sd
+B|So, but he's really big,|sd
+B|so, lots of times he, it, he seems to get in fights,|sd
+B|and when he was younger I think he started them,|sd
+B|and now, I think he barely makes it.|sd
+B|I think he gets beat up even though he's big, because he's pretty much overweight, and comes home with a few scratches now and then,|sd
+A|Sure.|b
+A|And older|^2
+B|yeah.|b
+A|Well, we went to a cat show at the Plano Center here in town,|sd
+A|and, uh, we thought that, we have a cat now,|sd
+A|but we thought, Well, if we ever get another cat, you know, we'd want something kind of unique,|sd
+A|so, we kind of looked around,|sd
+A|and they had everything from hairless cats to Siamese cats and Persian cats|sd
+A|and we sort of fell in love with the, uh, Maine Coon cats.|sd
+B|Oh, I've seen them.|sd
+B|I|%
+A|They're huge.|sd
+B|yeah,|aa
+B|I have seen them.|sd
+B|They, um, weren't they, they were|%
+B|actually, I can't remember,|sd
+B|they were used to be used on ships and in, for, for mousers you know,|sd
+A|Oh.|b
+B|so they're very nautical, too|sd
+A|I'll be darned.|ba
+A|I didn't know that.|sd
+B|Yeah,|b
+B|I just,|%
+B|uh, I think I'm, I think I'm being accurate in the, in the area of folklore,|sd
+B|but I'm not sure.|sd
+A|Well that's interesting.|ba
+B|Yeah.|b
+A|We kind of like,|sd
+A|well, my family didn't necessarily like, like them as much as I did,|sd
+A|but the Manx, is that the one that doesn't have a tail|sd
+B|Yeah.|b
+A|it sort of has a bob tail.|sd
+A|I kind of like that, too,|sd
+A|but.|%
+B|Yeah.|b
+B|I'd love to go to a cat show.|sd
+B|I'm real, a real cat lover.|sd
+B|I'd have a lot more cats if my boyfriend would let let me|sd
+B|He doesn't really like mine, let alone another one.|sd
+A|Well, I'll tell you an interesting story about how I got my dog,|oo_co_cc
+A|and then I suppose our five minutes will be up.|sv
+B|Yeah.|aa
+B|Okay.|aa
+A|I work for a university,|sd
+A|and I went to, uh, Omaha, Nebraska to recruit students,|sd
+A|and I had some time off in the afternoon,|sd
+A|so I went to a, a pet shop,|sd
+A|and I saw these little Springer Spaniels|sd
+B|Um.|%
+A|and so I decided, well, you know, this would really be a nice dog to have,|sd
+A|so, when I got back home to Carney, Nebraska, I told my wife about it,|sd
+A|and I said, You know, this is just a,|sd
+A|I, I, I can just hear the dog crying for me now|^q
+B|I know what you mean.|ba
+A|And Christmas is coming up, hint, hint,|^q
+A|and so, I had to go back the next week, as well as a bunch of other people from the university,|sd
+A|and one of the people, uh, that we went with, uh, they were friends of ours,|sd
+A|and so, we got to Omaha,|sd
+A|and I decided I'd take my friend over and show him the dog,|sd
+A|and so I got over there,|sd
+A|and she said, Oh, that's too bad, the dog has already been sold.|sd
+A|And I didn't realize it,|sd
+A|but this guy had somehow worked it out so that he got there a little bit earlier, bought the dog,|sd
+A|and she was in the back room,|sd
+A|and so that night we had a reception for some of the, uh, potential high school students or college students,|sd
+A|and, and, uh, he had the dog the whole time in his room,|sd
+A|and, and I had no idea.|sd
+A|And so we headed back to Carney that night,|sd
+A|and the dog rode in the car|sd
+A|and we stopped along the way and had a bite to eat|sd
+A|and they left the dog in the car,|sd
+A|and I guess while we were inside eating, Thumper just tore the heck out of the inside of the car,|sd
+A|and, uh, finally we made it back to, uh, to Carney|sd
+A|and,|%

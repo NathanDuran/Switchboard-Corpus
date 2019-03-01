@@ -1,0 +1,176 @@
+A|Tell me what you like to do.|ad
+B|Well, I, I collect antique tools, uh, for one thing, I well, I'm sort of in an antique business,|sd
+B|but it's a little sideline, part time thing.|sd
+A|Oh.|b
+A|Uh-huh,|b
+A|wonderful.|ba
+B|And, uh, I'm building a, a log house at a farm that I have in East Texas, which is a hundred miles from here.|sd
+A|Oh.|b
+A|Wonderful.|ba
+B|Yeah,|b
+B|it's really neat.|ba
+B|And, uh, uh, course I've been working on it for five years,|sd
+B|but, you know,|%
+A|Oh, but how wonderful.|ba
+A|Are you close to getting it done?|qy
+B|Yeah,|ny
+B|yeah,|ny
+B|it's getting real close to|sd
+A|Oh.|b
+B|you know, of course there's still a lot of work to be done,|sd
+B|and then when you get it completely, you know, the shell finished, uh, you still have a lot of stuff to do inside,|sd
+B|but, uh,|%
+A|Are you going to move your whole family over there then?|qy
+B|No,|nn
+B|actually, uh, I'm not even sure,|sd
+B|I may,|aap_am
+B|I'll probably always have a place here in Richardson or Dallas|sd
+A|Uh-huh,|b
+A|kind of your getaway place.|sv
+B|Yeah,|aa
+B|escape.|sd
+B|But it's beautiful,|sd
+B|it's, you know, it's Eastern Hardwood, uh, forest,|sd
+B|there are a lot of pine trees,|sd
+B|but it's mostly oaks|sd
+B|and .|%
+A|Oh, how beautiful,|ba
+A|and it's pretty flat there?|qy
+B|Well, it's kind of, hilly,|ng
+B|but, it's, you know, low hills,|sd
+B|it's not, uh,|%
+A|See, I've only been to Texas once.|sd
+A|I have two sisters in Texas now, um, one in Austin, one in Dallas,|sd
+A|and the one in Dallas is the one that got me to doing this|sd
+B|Yeah.|b
+A|and, uh, I thought Austin was beautiful|sd
+B|You,|%
+A|I liked the hills and the trees,|sd
+B|Yeah,|b
+B|in|%
+B|Yeah,|b
+B|it's really different because that's kind of the, you know, that's the chalk hills down there,  limestone hills,|sv
+A|Oh, and you've always,  lived in Texas, have you?|qy
+B|Yeah,|ny
+B|except for time in service.|sd
+A|Uh-huh.|b
+A|Born and raised Texan, huh.|bf
+B|Yeah. At, at which one?|aa
+A|Well, I had never been there,|sd
+A|that's pretty neat.|ba
+A|My sisters both seem to like it pretty well.|sd
+A|My brother-in-law works for the University, um, in Dallas.|sd
+A|He's admissions director.|sd
+A|Uh. University of Texas in Dallas.|sd
+B|Oh, okay|bk
+A|Yeah.|b
+B|it's just north of me here.|sd
+A|Yeah,|b
+A|well that's, he's got a job there|sd
+A|and this is his first year,|sd
+A|so, it's been a real interesting thing for them|sd
+B|That's great.|ba
+A|But they seem to like it okay.|sd
+A|I think they're too far away from me,|sv
+A|but maybe some day they can get closer,|sv
+B|Well, yeah,|b
+A|we'll see.|sd
+B|Pretty good trip.|sv
+B|So what do you, what kind of hobbies are you in?|qw
+A|Well, I'm mother of four,|sd
+A|so basically I'm just, real busy with my kids right now in sports,|sd
+A|and we have a little Halloween talent show tonight,|sd
+A|and, I substitute at the schools part-time.|sd
+B|Oh, that's great.|ba
+A|Well, I am a travel agent at heart,|sd
+A|and my hobby is just,|%
+A|I love traveling and, and being involved of that and finding out more, uh,|sd
+A|but, it's real hard to work in the summers and holidays and weekends when you have four children and a husband,|sv
+A|so I reluctantly gave that career up and am just substituting at the school,|sd
+B|No, kidding.|aa
+A|so I've been librarian all this week, which has been real interesting,|sd
+A|and I'm enjoying it.|sd
+A|I'm around my kids|sd
+B|That's pretty easy substituting isn't it?|qy
+A|yeah,|ny
+A|it's great,|ba
+A|it's great,|ba
+A|and what else do I do,|t1
+A|I do lots of cross stitching when I have time|sd
+B|Ooh.|b
+A|and I enter things in our little state fair,|sd
+A|and that's pretty fun.|ba
+B|That's great.|ba
+A|Well, but, actually my hobbies is mostly is my sports. Tennis,|sd
+A|I play tennis.|sd
+B|Ooh, I love tennis too|sd
+A|Ooh,|b
+A|do you?|bh
+B|and I ski, ski,|sd
+B|do you ski?|bh
+A|Yes,|ny
+A|we snow ski.|sd
+A|We snow ski at Mount Bachelor mostly in Oregon,|sd
+B|Uh, that's great.|ba
+A|have you ever been there?|qy
+B|No, uh,|nn
+A|Wonderful place.|ba
+B|I've skied in Colorado|sd
+B|and we usually go to New Mexico because it's a little cheaper, you know.|sd
+A|Ooh.|b
+A|Uh-huh.|b
+A|Where in Colorado?|qw
+B|I've been to Telluride which is on the west side and, uh, Copper,|sd
+A|Yes,|b
+A|yes.|b
+B|Copper is kind of my favorite up there. Breckenridge and Keystone.|sd
+A|Really.|b
+A|Uh-huh.|b
+B|I guess those are the only places I've skied up there.|sd
+A|I would love,|%
+A|I can hardly wait to get up there.|sd
+B|Me, too.|sd
+B|You guys, are you guys getting snow?|qy
+A|We,|%
+A|it is snowing right now.|na
+A|We're to get one to three inches tonight.|sd
+B|Oh, gee,|ba
+B|I heard Aspen got three feet.|sd
+A|Oh, yeah,|b
+A|well we're, we are on the dry side of the mountains.|sd
+A|Seattle is only about two and a half hours,|sd
+A|so of course I'm a real Seahawks fan|sd
+B|Yeah.|b
+A|and, um, going over that pass is just a real nightmare.|sv
+B|I can imagine, my lord.|ba
+A|And, um, so, and we're on the colder side,|sd
+A|they're on the rainy side,|sd
+A|we're on the snowy side|sd
+A|and, um, we, we ski.|sd
+A|My, my children all ski|sd
+B|Oh, super.|ba
+A|and we've, we have been to Whistler in Canada, which is just a marvelous place,|sd
+A|Whistler and Black Home is in Canada,|sd
+A|and then we've gone to Sun Valley several times,|sd
+A|that's a, just a great place. But no not in Colorado|sd
+A|since I was in college, since I went to school,|sd
+B|What about Utah?|qo
+A|Haven't been there,|sd
+A|I keep hearing these marvelous things about Deer Valley and,|sd
+B|Yeah,|b
+B|haven't either.|sd
+A|um, to don't, Adam, talking to um City,|t3
+B|Always want to go to Canada Canada to Banff or somewhere like that|sd
+A|Ooh, yes.|b
+A|And your kids all ski?|qy
+B|Uh, not all of them|ng
+A|Uh-huh.|b
+B|My, my kids are all grown.|sd
+A|Uh-huh.|b
+B|But my youngest son is a skier.|sd
+A|Really,|b
+A|that's great.|ba
+A|Well, my boys are at the point where they scare their mommy to death.|sd
+B|Uh-huh.|b
+A|When they're skiing they're fearless,|sd
+A|and they go off,|sd

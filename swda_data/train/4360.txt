@@ -1,0 +1,82 @@
+A|Uh, let's see.|^h
+A|How about, uh, let's see, about ten years ago,|%
+A|uh, what do you think was different ten years ago from now?|qo
+B|Well, I would say as, far as social changes go, uh, I think families were more together.|sv
+B|They, they did more things together.|sv
+A|Uh-huh|b
+B|Uh, they ate dinner at the table together.|sv
+B|Uh, the parents usually took out time, uh, you know, more time than they do now to come with the children and just spend the day doing a family activity.|sv
+A|Uh-huh.|b
+B|Uh, although I'm not a mother, I, I still think that, uh, a lot has changed since ten years ago.|sv
+B|Uh, what  do you  think about that?|qo
+A|We,|%
+A|Well, uh, actually ten years from today seems rather short.|sv
+B|Yeah.|b
+A|Uh, but I do agree that, uh, generally it's, society has sort of, uh, let's see, rushed everything ahead.|sv
+B|Uh-huh.|b
+A|And, uh, I don't know,|h
+A|it leaves, leaves a lot of time out for family and things like that.|sv
+A|In other words, they just prioritize their lives differently.|sv
+A|But I think that has a lot to do with economic situation.|sv
+B|Yes.|aa
+B|What about like as far as, uh, social changes in the individual?|qo
+B|Do  you think that the individual has as much time as they did, let's say, ten, twenty years ago?|qy
+A|Uh,|%
+A|Um. It depends.|h
+A|Uh, it's hard to say because I think people were busy ten twenty years ago too.|sv
+B|Uh-huh.|b
+A|Uh, I just|%
+B|Well, how, how old are you?|qw
+A|I'm twenty-eight.|sd
+B|Twenty-eight.|b^m
+B|Okay,|bk
+B|I'm twenty-three.|sd
+A|Yeah.|b
+B|So there's maybe a five year gap between us.|sd
+A|Yeah.|b
+B|So, uh.|%
+A|I just, I think that things were a bit, were, have been busy all along.|sv
+A|It's  just  a matter where priorities are, at placed. And that, uh, usually as far as families are concerned, there used to be just one person working and usually the other parent was home.|sv
+B|Huh|%
+B|Yes.|aa
+B|Uh-huh.|b
+A|And now, uh, it's pretty much an economic necessity of, for most, in most places for both parents to work.|sv
+B|Do you think it's an economic necessity|qy
+B|or do you think that we're, we're, uh, all trying to keep up with a certain standard of living?|qrr
+A|I think that's part of it too.|sv
+A|But I do think,|sv
+B|I mean do you think, people really need two cars and  a house  in the suburbs or,|qy
+A|No,|nn
+A|no.|nn
+A|I don't.|sd
+A|No,|nn
+A|I don't think that.|sd
+A|But then there are a lot of people that, that don't have that. But, that really do need to work.|sv
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|I think maybe those people that really do need to work, both parents, just to survive.|sv
+A|And  then there, is, is that other group  that is  working to maintain a standard of living that, uh, they think is, is surviving which is really more luxuries.|sv
+B|Yeah.|b
+B|Uh-huh.|b
+B|Okay.|bk
+B|Uh-huh.|b
+A|Uh, but I I tend to think that it's less those people that have the two cars and everything than it is the group that is just trying to survive.|sv
+B|so you think it's,|qy^d
+B|which group are you saying  is the one trying?|qw
+A|I'm saying that  the, uh, the group that is just trying to survive from day to day, where both parents are working is more of the majority than the, than the people that have the higher standard of living.|sv
+B|Uh-huh.|b
+A|Because if you look at economics across this country and statistics on who has the money and who the decreasing, uh, middle class in this country I think that that's, in my opinion, the case.|sv
+B|Uh-huh.|b
+B|Okay.|bk
+A|So.|%
+A|I mean I have met people that, uh, both that, that just want to maintain a, the standard of living and those that, that really need the job.|sd
+B|Okay.|b
+B|And then, sometimes I, I often, uh, find that maybe there's so many different things available to us. a microwave, a V C R, a answering machine a, you know, a special, a dishwasher, uh, a refrigerator and some of those items, um, for the, for the, uh,|sd
+A|Uh-huh.|b
+B|well I guess we're sticking more to social changes|sv
+B|but, uh people want all of that|sv
+A|Uh-huh.|b
+B|and not all of those are necessities.|sv
+A|Right|b
+B|So they're trying to,|sv
+B|it has become a necessity|sv

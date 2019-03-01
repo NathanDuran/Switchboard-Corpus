@@ -1,0 +1,262 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|Tell me about your home.|ad
+B|Well, it's an older home.|sd
+B|It was made back in the early sixties.|sd
+B|It's a pier beam house.|sd
+A|Huh-uh.|b
+B|Got three bedrooms, one bath and that just makes me scream.|sd
+A|That's pretty tough|ba
+A|What area do you live in?|qw
+B|I live in Houston.|sd
+A|Oh, okay.|bk
+A|I see.|b
+A|Is that pretty typical for your area?|qy
+B|Well, for the neighborhood I'm in,|^h
+B|yeah,|ny
+A|Yeah.|b^m
+B|This is one of the more established neighborhoods,|sd
+A|Huh-uh.|b
+A|That sounds real interesting.|ba
+A|I live in a suburb of Dallas|sd
+A|and, uh, I live in the basic three bedroom, two bath home.|sd
+A|So, at least, I have two bathrooms.|sd
+A|That's not so bad,|sv
+A|but, uh, it's pretty typical for the area, as well.|sd
+A|Uh, I've always been interested in older homes, personally.|sd
+A|So, I think you can end up doing more with them, it seems like.|sv
+A|What about yard space?|qo
+A|Do you have lot of, a big lot, or anything like that?|qy
+B|The whole lot I'm sitting on is roughly half an acre.|sd
+A|Oh, I see.|bk
+B|About half of that, about a quarter acre of that, I've got a garden.|sd
+A|Huh-uh.|b
+A|Oh, that's nice.|ba
+A|Because I have just like a very small, you know, those basic tract houses, like that.|sd
+A|We have a very small yard|sd
+A|and, um, I do have garden,|sd
+A|but it's extremely small,|sd
+A|but, uh, it seems like, though, for your area that, that is sort of different.|sv
+A|In a big city like that most houses, I would think, would be sort of like what we live in. Just a you know, basic tract house.|sv
+B|Well, in the, uh, newer neighborhoods and development communities, the houses are so close together,|sd
+A|Yeah.|b
+B|if  your neighbor is having an argument you can here it blow for blow.|sd
+A|That's exactly right.|sv
+A|That's the way we are.|sd
+A|We have, uh, one thing we have that we really enjoy here, is we have a hot tub in the back.|sd
+A|So we have, we have quite a few parties,|sd
+A|and uh, seems like everyone that lives around us, ends up, you know, hearing every conversation that goes on outside with everyone.|sd
+A|So, uh, that's true|sv
+A|that is one thing that I don't enjoy about it, is the houses are too close together.|sd
+A|But, uh, you know, it's fine for now,|sd
+A|hopefully, eventually, we'll move in a larger home.|sd
+A|The only thing that I don't like also is the rooms are so small.|sd
+A|You know, it's very difficult to arrange furniture and things like that,|sd
+A|so.|%
+A|Are your rooms in your house bigger since it's a sixties home?|qy
+A|Because it seems like then, that they built the homes much larger|sv
+A|is that true?|qy
+B|Yeah.|ny
+B|And they've got better closet space.|sv
+A|Yeah.|b
+B|new houses that I've seen.|sd
+A|Yeah.|aa
+A|Yeah.|aa
+A|That's really it.|aa
+A|That's a plus.|sv
+A|At least we do have like three walk-in closets here.|sd
+A|So that's, that's maybe not so typical,|sv
+A|but, uh,|%
+B|It helps a bunch.|^2
+A|Yeah.|aa
+A|It really does, except when you have to fill them up|sd
+A|and then you get those Visa bills in.|sd
+A|And|%
+B|Yeah.|b
+A|So anyway, um, anything else about the area, about, um,|qo
+A|you know, can you compare yourself to any thing around there.|qy
+B|Most of the neighborhood I'm in is pretty typical.|sd
+B|This whole neighborhood was built between sixty and sixty-five.|sd
+A|Yeah.|b
+A|So it's, it's,|%
+B|Everybody has got a pretty good size yard,|sd
+A|Yeah.|b
+B|I  mean, I got probably the biggest,|sd
+B|if not the biggest yard, I've got pretty close to it,  in  the entire neighborhood.|sd
+A|Yeah.|b
+A|That's nice.|ba
+A|That is nice.|ba
+A|But, you know, too, the only bad thing, too, is that then you have to keep up, you know,|sv
+A|you have to,  the yard  to deal with|sd
+B|Well, I,  I enjoy that though.|sd
+A|and,|%
+A|Do you.|bh
+A|You must have more time than, than I have.|sv
+A|I'm sitting out here right now.|sd
+A|We had this terrible rain|sd
+A|and I'm looking at the yard and seeing how tall the grass has gotten|sd
+A|and it seems like|%
+A|now that's, that's,|%
+A|I almost wish I was in an apartment or something. You know,|sd
+B|It's rained|sd
+A|Yeah.|b
+A|Well, um, I don't know, do we just terminate this or do you have to talk for a certain amount of time?|qy
+A|Do you know?|qy
+B|No,|nn
+B|we can,|%
+B|after you go to somewhere between five and ten minutes, they'll get a little master recording  this.|sd
+A|Okay.|bk
+A|Okay.|b
+A|Well, can you tell me anything else about the house|qy
+A|Are you working on it?|qy
+A|I mean, do people around that area seem to do a lot of renovation?|qy
+B|Yeah.|ny
+B|This entire neighborhood, everybody keeps the places up real nice.|sd
+A|Yeah.|b
+A|That's, that's nice.|ba
+A|Yeah,|%
+A|the town that I came from is, uh, is a, uh, older town,|sd
+A|it like,|%
+A|the typical, the typical homes there are like, you know, early nineteen hundreds late eighteen hundreds,|sd
+B|Wow.|ba
+A|and  I renovated a house there|sd
+A|and that was so much fun.|sd
+A|I mean, there, if you don't live in a house that's at least seventy-five to hundred years old, you know, you're just nobody, practically|sd
+A|And that was really, that was a good experience for me to learn a lot of discipline|sd
+A|and, uh, was considered typical for that area.|sd
+A|So, uh, it was quite a change for me to come to a house like that now that's just, you know, a very square little box|sd
+A|and, you know, there's not a whole lot you can do with it.|sv
+A|But, uh, anyway,|%
+B|Living in the city has some advantages.|sv
+A|Yeah.|aa
+A|That's true.|aa
+B|If given the choice, I'm getting out.|sd
+A|Oh, really.|b
+A|Well, I have lived in a small town for, you know,|sd
+A|this, this town was like less than ten thousand people|sd
+A|and it was about sixty miles south of Dallas.|sd
+A|And, you know, I didn't move out of there until I was, you know, twenty-seven|sd
+A|and that was just, you know,|%
+A|so I love the big city|sd
+A|You know, I had lived in a rural area for, for so long|sd
+A|so I've enjoyed it,|sd
+A|but, uh, it can, it can get kind of tough.|sv
+A|Its like a rat race sometimes.|sv
+B|That's just something I'll never adapt to.|sd
+B|I don't, I don't want to be a part of the rat race.|sd
+B|I want to be basically just kind of left alone.|sd
+A|Yeah|b
+B|If I  want to sit around and mess with my garden, I'll mess with my garden,|sd
+A|Yeah.|b
+B|if  I want to work in the flower beds,|sd
+A|Yeah.|b
+A|It sounds like you enjoy working outside as well.|bf
+A|I, I,|%
+B|Very much.|na
+A|yeah.|b
+A|I  really do enjoy that.|sd
+A|But I haven't planted anything yet|sd
+A|or, you know, I usually have gotten flowers coming out the|sd
+A|but I, I haven't done that, yet.|sd
+A|I've had finals this week.|sd
+A|So, uh,  you  know, I'm just kind of trying to, trying to stick in with that,|sd
+B|Huh-uh.|b
+A|but, uh, since that's over with now, maybe I can, I can get this yard in shape.|sd
+A|Do you do a lot of gardening?|qy
+B|Uh, landscaping is more, than the gardening,|no
+A|Yeah.|b
+B|the I've got my beans, peas,|sd
+A|Yeah.|b
+B|I've  got some onions out,  tomatoes,|sd
+A|Yeah.|b
+B|I'm not real sure what they're going to do this year.|sd
+A|I never have much luck with tomatoes.|sd
+A|I do plant a lot of beans, because it seems like, the, uh, bugs get on them so easily|sd
+A|and I have a real problem with anything like pesticides or anything like that,|sd
+A|so, the only thing that I use is soap.|sd
+A|I water, you know, spray the plants, because they say, supposedly, that will keep the bugs off them.|sd
+A|But, uh, I don't have luck with that tomato plant,|sd
+A|so I hate to spray them with anything.|sd
+A|Um, what do you do?|qw
+A|Do you have any tips you could give me?|qy
+B|Um, my favorite one is putting on the, um, tomato plant is to put, uh, dust,|sd
+A|Yeah.|b
+A|Yeah.|b
+B|and that  stuff has been around since the beginning of time,|sd
+A|That's true.|aa
+A|That's true.|aa
+A|My dad is a farmer|sd
+A|so, I've heard him talk about that forever.|sd
+A|I guess it works,|sv
+A|but, um, you have to really wash your vegetables after that|ad
+A|so it won't make you sick.|sd
+A|Let's see what else do you do to your house?|qo
+B|Well, I've done some rewiring on it.|sd
+A|Yeah.|b
+B|Eventually, if we stay here, I'm going to have to rewire the entire house.|sd
+A|Oh, really.|b
+A|Do you plan on like adding any rooms or,|qy
+A|you have enough space|sd
+A|you could probably do that.|sv
+A|Or is it,|%
+B|I've talked about adding at least one more room and definitely adding another bath on.|sd
+A|Yeah|b
+A|I would think so if you only have one bathroom for three bedrooms,|sv
+A|that's tough.|sv
+A|Do you not, like, have a half bath.|qy
+B|Not even a half bath.|ng
+A|Yeah.|b
+A|Yeah.|b
+A|That's rough.|sv
+A|The house that I used to live in had one bath and a half.|sd
+A|And that was even just with two people.|sd
+A|That was a pain.|sv
+B|The only thing that saves it, with the schedule I work and the schedule my wife works, we're getting ready to go to work at totally different times. So that. It's not like we're tripping over each other in the morning.|sd
+A|That's good.|ba
+A|Really.|b
+A|That could account for a lot of marital problems I think|sv
+A|You  get to know each other very well if you have to share a bathroom|sv
+B|It doesn't work if you're trying to shave and she's trying to put her eyeliner on|sv
+B|and,  you're  both fighting over the mirror.|sd
+A|No.|aa
+A|That's right.|aa
+A|It does not make for a happy situation.|sv
+A|That's true.|aa
+A|Well, do you have any children?|qy
+B|I've got one.|na
+A|One child.|b^m
+A|And they enjoy where they're living?|qy^d
+B|We'll,|%
+B|he's nine months old.|sd
+A|Oh, so he doesn't know, right.|sd
+A|I guess, he's a big help out in your garden.|sv
+A|Right.|^g
+B|He likes to dig around a little bit.|sd
+B|His mother comes in and says, why did you let him play in the dirt,|sd
+B|I  guess he's enjoying himself.|sv
+A|That's right.|aa
+A|It's healthy,|sv
+A|why not.|qh
+A|Yeah.|%
+B|He was eating the dirt,|sd
+B|I wouldn't worry about it.|sd
+A|No.|b
+A|It won't hurt them.|sv
+A|I was a big dirt eater, supposedly, when I was a child|sd
+A|and I turned out okay|sd
+A|so,  don't worry about it.|ad
+A|Just let him enjoy himself|ad
+A|So you think that you want to move away from the big city, uh?|qy
+B|Well, that's what I've always,|sd
+B|I was raised up in a town that was about ten thousand people.|sd
+A|Yeah.|b
+A|So you're just the opposite from me.|sv
+A|You want to go back to that, uh,|qy^d
+B|After we got married we moved, ended up moving to the Houston area.|sd
+A|Yeah.|b
+A|Yeah.|b
+A|So are you from Texas?|qy
+B|Yeah.|ny
+A|You are.|b
+A|So it's not, you know,|%
+A|that's true|aa
+A|Houston, in itself, is a pretty tough place.|sv

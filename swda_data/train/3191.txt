@@ -1,0 +1,100 @@
+A|Now then I think that|sv
+B|Uh-huh.|b
+A|are you there?|qy
+B|Yeah,|ny
+B|I'm here.|sd
+A|All right.|bk
+A|Do you have any one that has been in a nursing home?|qy
+B|Uh, well, only my, um, my grandmother, but for a very short time.|sd
+B|Um, she, uh, she was just more or less in a, in a nursing home for, uh, recovery from a broken hip because she could receive more medical attention.|sd
+A|Oh.|b
+A|Yes.|b
+B|But, um, that,|%
+B|physical therapy was there and whatever,|sd
+B|but I think, in visiting her there, um, it was very obvious to see that a lot of the people in the nursing home that she was in, uh, weren't there mentally.|sd
+B|Uh, she was probably the only person in the, um, whole nursing home that, uh, still had all of her mental facilities about her.|sd
+B|So that was, uh, that was very disheartening.|sd
+A|Well, what do you think can be done about that?|qw
+A|I mean, what can we do,|qw
+B|Oh, yeah,|b
+B|it's really hard, I guess.|sv
+B|I, I come from a family of, um, of, uh, take care of your elders, I guess.|sd
+B|Uh, my, my dad's mother is an invalid,|sd
+B|and she lives with my aunt and uncle,|sd
+B|and they care for her, you know, all around the clock.|sd
+B|Though she's not, uh, she doesn't have to receive constant medical attention, she, because of arthritis, she's just unable to get out of bed.|sd
+B|So, I guess, you know, there's that family commitment.|sd
+B|Um, I know that my parents, my mother is trying to let my grandmother stay in her house as long as she can. Um,|sd
+A|Well, I can|%
+A|of course I'm old enough to remember when the family or the church took care of all of this.|sd
+B|Yeah.|b
+B|Right,|b
+B|yeah.|b
+A|We did not have to call on, on someone else,|sd
+A|and I feel,|sd
+A|no, you tell me how you feel about,|ad
+B|Yeah,|b
+B|well probably, I think, as long as the person's able to, um, to understand what's going on around them|sv
+B|and I think, you know, my grandmother right now is still able to walk around,|sd
+B|and she's still able to, uh, to do some things for herself, though she gets Meals On Wheels which I think is a great thing, because, um, it saves people from having to prepare food for her, because you worry a little bit about her leaving a stove on, or whatever, although she does most things very well, it still makes a little bit easier for her.|sd
+A|Yeah.|b
+A|Certainly|aa
+B|Uh.|%
+A|I worked with an agency in West Texas that they, it's where they really started this concept of Meals On Wheels|sd
+B|Uh-huh.|b
+A|and I think it's such a valuable thing for our elderly.|sv
+B|Uh-huh.|b
+A|If they didn't have to, you know, go into a kitchen|sv
+B|Right.|b
+A|my mother expired just, just a little over a year ago,|sd
+A|and we had finally,|sd
+A|she didn't want to live with either my sister or me|sd
+B|Uh-huh.|b
+A|but we, we got, found a retirement center for her,|sd
+A|and it was beautiful|sd
+A|and they had all these, they didn't even have nursing care there.|sd
+A|So until,|%
+A|as long as mother was, you know mobile and got her food,|sd
+B|Uh-huh.|b
+B|Right.|b
+A|and she was with people with whom she enjoyed.|sd
+B|Yeah,|b
+B|that,|%
+B|I think, you know, it's really funny,|sv
+B|I have two grandmothers still alive,|sd
+B|and my one grandmother says that she wants to stay in her house for as long as possible.|sd
+B|She's like openly told people.|sd
+B|She's always been very good about knowing,|sd
+B|yes, she's eighty-nine,|sd
+B|and she said that she would really like to stay in her house as long as possible, because it's her home.|sd
+A|Sure.|b
+B|But when the time comes, um, she, and she can't do things|sd
+B|and she has to be cared for, whatever, she would prefer, and she's actually said this, to move into some type of community where she has her own apartment, uh, probably with like a living space and a bedroom with maybe a kitchenette, so that if she, you know, if she wants to fix herself something light, she can do that,|sd
+A|Yes, sir.|ba
+B|but if she wants to go to a meal, she can go down the hallway, uh, to a room where there's a cafeteria|sd
+A|Uh-huh.|b
+B|and there's other people there,|sd
+B|and she can mix with them and talk with them and enjoy their company.|sd
+A|Being a widow I find that eating alone is one of the hardest things I have to do.|sd
+B|Uh-huh.|b
+B|Yes.|b
+B|Uh-huh.|b
+A|I have just recently retired,|sd
+A|and I am finding it extremely hard to adjust to.|sd
+B|Right.|b
+A|So, uh, mother had the little kitchenette|sd
+B|Uh-huh.|b
+A|and she could do all these fine things that she just, had a microwave, had to pop her popcorn.|sd
+B|Right.|b
+A|Now this is wonderful.|sd
+B|Uh-huh.|b
+A|But when it came time for a full meal, then mother was able to go with people and, and enjoy.|sd
+B|Right,|b
+B|Yeah,|b
+B|I think, I think that probably, until, until they're really invalids, uh, the elderly are invalids, I think that they should be able to interact with other people in an environment that they choose, if they can, if the family can afford it.|sv
+A|Oh, I think so.|aa
+A|Well.|%
+B|I mean, um, see, I know that my grandmother would like to stay in her house,|sd
+B|and my parents actually said, you know, that they may have to take their end, sometime, so, because, you know, my grandma, she says who she wants to live with,|sd
+B|she's pretty, you know,|sd
+B|she lets people know,|sd

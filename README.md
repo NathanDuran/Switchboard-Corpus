@@ -5,15 +5,16 @@ for the purpose of dialogue act classification. The data is split into the origi
 and [test](https://web.stanford.edu/~jurafsky/ws97/ws97-test-convs.list) sets suggested by the authors.
 The remaining dialogues have been used as an evaluation set and there is a further 300 dialogues from the training set for development purposes.
 
+## Scripts
+The swda_to_text.py script processes all dialogues into a plain text format. Individual dialogues are saved into directories corresponding
+to the set they belong to (train, test, etc). All utterances in a particular set are also saved to a text file.
+
+The swda_utilities.py script contains various helper functions for loading/saving and processing the data, including a function for processing each dialogue.
+
 Thanks to Christopher Potts for providing the raw data in .csv format and the swda.py script for processing the .csv data, both of which can be found [here](https://github.com/cgpotts/swda)
 
 ## Data Format
 Utterance are tagged with the [SWBD-DAMSL](https://web.stanford.edu/~jurafsky/ws97/manual.august1.html) dialogue acts.
-
-The swda_to_text.py script processes all dialogues into a plain text format. Individual dialouges are saved into directories corresponding
-to the set they belong to (train, test, etc). All utterances in a particular set are also saved to a text file.
-
-The swda_utilities.py script contains various helper functions for loading/saving and processing the data, including a function for processing each dialogue.
 
 By default:
 - Utterances are written one per line in the format *Speaker* | *Utterance Text* | *Dialogue Act Tag*. This can be changed to only output the utterance text by setting the utterance_only_flag = True.
@@ -95,14 +96,17 @@ The words, labels and frequencies are also saved as plain text files in the /met
 
 - num_utterances = Total number of utterance in the full corpus.
 - max_utterance_len = Number of words in the longest utterance in the corpus.
-- max_dialogues_len = Number of utterances in the longest dialogue in the corpus
-- word_freq = Dictionary with keys = words and values = frequencies
-- vocabulary = Full vocabulary - Gluon NLP [Vocabulary](http://gluon-nlp.mxnet.io/api/modules/vocab.html#gluonnlp.Vocab)
+- max_dialogues_len = Number of utterances in the longest dialogue in the corpus.
+- word_freq = Dictionary with {word : frequency} pairs.
+- vocabulary = Full vocabulary - Gluon NLP [Vocabulary.](http://gluon-nlp.mxnet.io/api/modules/vocab.html#gluonnlp.Vocab)
 - vocabulary_size = Number of words in the vocabulary.
-- label_freq = Dictionary with keys = dialogue act labels and values = frequencies
-- labels = Full labels - Gluon NLP [Vocabulary](http://gluon-nlp.mxnet.io/api/modules/vocab.html#gluonnlp.Vocab)
+- label_freq = Dictionary with {dialogue act label : frequency} pairs.
+- labels = Full labels - Gluon NLP [Vocabulary.](http://gluon-nlp.mxnet.io/api/modules/vocab.html#gluonnlp.Vocab)
 - num_labels = Number of labels used from the Switchboard data.
 
 Each data set also has;
-- *setname*_num_dialogues = Number of dialogues in the set
-- *setname*_max_dialogues_len = Length of the longest dialogue in the set
+- *setname*_num_dialogues = Number of dialogues in the set.
+- *setname*_max_dialogues_len = Length of the longest dialogue in the set.
+
+# TODO
+- Make get/process data script 

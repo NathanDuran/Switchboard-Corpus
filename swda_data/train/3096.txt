@@ -1,0 +1,253 @@
+A|Well, uh, how do you view this whole subject?|qw
+A|Are you, uh, one who feels like you have, have benefited from the change in, in roles in women?|qy
+A|Or, or what do you think?|qo
+B|Oh, yeah|ny
+B|I,|%
+B|yeah,|ny
+B|I think so.|sv
+A|Uh-huh.|bk
+B|Yeah,|b
+B|there's been a lot of changes.|sv
+B|I think there's still a lot to be made, though.|sv
+A|Yes,|aa
+A|oh, yes,|aa
+A|I think so.|sv
+B|Uh-huh.|b
+A|Are you, uh, are you someone who works outside your home,|qy
+A|or have you,|qrr
+B|Yeah,|ny
+B|yeah|ny
+B|I work for T I.|sd
+A|Oh, yes,|b
+B|Uh-huh.|bk
+A|well, uh, have there been significant changes, uh, do you think in the employment place, especially, uh, say at T I.|qy
+B|Uh-huh.|ny
+A|Have, has anything in particular changed that you have noticed? During your time there.|qy
+B|Uh,|%
+B|Uh, I guess there's more women in, uh, what would be classified as a man's job|sv
+A|Yeah,|bk
+A|uh-huh.|bk
+A|What, what kind of work do you do?|qw
+B|I am a drafter.|sd
+A|Uh-huh.|bk
+B|I am in a man's job|sd
+A|Right.|aa
+B|But we have got more women in it now.|sd
+A|Yes,|aa
+A|yes.|aa
+B|There's a lot of us in it.|sd
+A|Yes, uh,|b
+B|So.|%
+A|yes|b
+A|in years past, I know, in fact, even, even the word drafter has changed,|sv
+B|Uh.|%
+A|because, it used to be they were draftsman|sd
+B|Uh-huh,|aa
+B|we have some engineers that still, on their, uh,|sd
+B|the drawings that they mark up for us they put draftsman.|sd
+A|Right.|b
+B|And I want to scratch it out and put drafter|sd
+B|But I thought, well I am,  not going to do that|sd
+A|Maybe not, huh.|^2
+A|Well, uh, I, when I was in college,|sd
+A|I graduated from college with my bachelor's degree in nineteen sixty-four.|sd
+B|Uh-huh.|b
+A|And I was a math major, which was a real rarity, among women at that time.|sd
+B|Yeah.|b
+B|Yeah.|b
+A|So, I was in a lot of classes where, uh, there, I was either the only girl or, you know, one of just a very, few women in the class.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|So, that was a change|sv
+A|and, uh, even, uh , I did not, uh, use my math, uh, in my work,|sd
+A|I, I became a technical writer.|sd
+B|Uh-huh.|b
+A|But, uh, even so, there were very, very few women in technical writing.|sd
+B|Yeah.|b
+A|But, that has changed a lot.|sv
+B|Oh, yeah.|b
+A|In recent years it has just really, really changed a lot.|sv
+B|Uh-huh,|b
+B|uh-huh.|b
+A|And, and I think that, uh, you know, the one thing that I have seen is that more and more women are getting into management,|sd
+A|but I think they have got a long way to go|sv
+B|Oh, definitely,|aa
+B|definitely.|aa
+A|There was something on T V the other day that said that fewer than one or two percent of the heads of, uh, chairmen of the board, chair persons, uh, if you if you will, of the board are women in this country.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|And I thought that, you know, that's pretty a pretty significantly small number.|sv
+B|Yeah.|b
+A|So, there are some, some strides to be made there.|sv
+B|Yeah,|b
+B|yeah.|b
+A|But, uh, I do not know,|h
+A|I, I think we have come a long way, actually, when I think about, you know, when things were like even, when I, you know, just when I was in high school, and how it is now for girls.|sv
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|Yeah,|b
+A|And, uh, uh, I guess my, I, uh, the one, my one bad thing is that I am, that I wish my mother had had some of those opportunities, because, I think she would have really, she would have succeeded in a lot of ways, that men, that women were not able to succeed, in her, generation.|sd
+B|yeah.|b
+B|Do you,|%
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|Exactly.|aa
+A|So, anyway. Do you have children?|qy
+B|No,|nn
+B|huh-uh.|nn
+A|I was going to say do you have daughters.|sd
+A|That's always a good question.|sv
+B|Do you?|qy
+A|Yes.|ny
+A|In fact, I have a daughter who is in a, a, who just graduated in civil engineering, from college.|sd
+B|Oh, wonderful.|ba
+A|So, she is pretty much, although there were some other women in her class, she was, you know, uh, one of the minorities, uh, females in the class.|sd
+B|Uh-huh.|b
+B|Uh-huh,|b
+B|uh-huh.|b
+B|Uh-huh.|b
+A|So, she definitely entering into, uh, a male profession.|sd
+B|Oh, yeah.|aa
+A|But, uh, But, you know, for instance there are, there is the organization women, the Society of Women Engineers,|sd
+B|Yeah.|aa
+B|Uh-huh.|b
+A|so, that is recognized, as, uh, you know, a place where women should be.|sv
+B|Uh-huh.|b
+B|Uh-huh,|b
+B|uh-huh.|b
+A|But, uh, I do not know,|h
+A|I, you see it in, uh, also in, uh, like in church, uh, where more and more women are becoming ministers. In, uh, you know, in protestant congregations|sv
+B|Oh, yeah.|b
+A|and, uh, it will be interesting to see if, if Roman Catholicism ever, uh, recognizes women in, in the role of priest.|sv
+A|I I do not know if you are Roman Catholic or, you know, what you know about that.|qy^d
+B|No,|nn
+B|huh-uh.|nn
+B|Uh-huh.|b
+A|I am not either,|sd
+A|but, uh, that is one area where it, that I can see might change, but I really doubt will change|sv
+B|Yeah,|b
+B|yeah.|b
+B|Not for a long time anyway.|sv
+A|No,|aa
+A|probably not.|aa
+A|Huh-uh.|aa
+A|So, uh, uh, how about, what in particular would you think that, uh, women still, other than the work place, where women still are being, uh, oh, you know, found wanting, you know, or not as highly regarded as men would be. Uh,|qw
+A|I was just trying to think.|sd
+A|Oh, I know something.|sd
+B|Uh-huh.|b
+A|Maybe you could|%
+A|what do you think that, what do you think, tell me what you think about this.|ad
+B|Uh-huh.|b
+A|The, uh, the, uh, the role of women in combat roles during the war?|sd
+B|Oh, oh.|b
+A|Because, I know that there, now there, they want the armed forces to recognize that women can serve in combat roles.|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|And the only, uh, branch in the armed services that seems willing to do that is the Air Force.|sv
+A|And, uh, I spoke because women were filing, flying missions into, you know, for whatever reason, into, uh, in the Persian Gulf war.|sd
+B|Huh.|%
+B|Yeah,|b
+B|yeah.|b
+A|And so. But I know some of the other services do not think that women are capable of doing the job.|sd
+A|It was real interesting,|sv
+A|they were. I was listening to some of the comments on television the other day, uh, about it,|sd
+B|Uh-huh.|b
+A|and, uh, one of, one of the men who was a,|sd
+A|I do not know if he was a general or, you know, what his rank was, very high.|sd
+B|Uh-huh.|b
+A|He said, it's just a personal thing with me.|sd
+A|I mean, I can not be real, you know I can not tell you why I feel this way,|^q
+A|but I just would rather have, uh, a man doing some of these jobs than a woman.|^q
+A|I thought, well, at least he was honest|sd
+A|But, that does not sit very well with a lot of folks, I am sure|sv
+B|There's some men out there that are more feminine than most women|sv
+A|Yeah,|aa
+A|right|aa
+A|You know, Neil, well Neil as far as I am concerned, and I could be wrong about this, but the only one area where a woman could not do it is if she just physically did not have the strength, to do something.|sv
+B|Yeah,|b
+B|yeah,|b
+B|yeah.|b
+A|Uh, because, I would think, I think, you know, mentally, uh, and emotionally, I think women can handle a job and, every bit as well.|sd
+B|Oh, I do too.|aa
+A|So anyway it's still  words spoken while B is|%
+B|Uh-huh,|b
+B|uh-huh.|b
+B|And, you know,  if she wanted to go to combat, I do not see that they should stop her.|sv
+A|Sure.|b
+B|I personally would not want to go|sd
+B|but|%
+A|No,|aa
+A|I would not either.|sd
+A|No,|aa
+A|I agree|sd
+A|but I am sure that there are women who would, would relish that, you know, kind of job.|sd
+B|Oh, yeah,|b
+B|yeah.|b
+A|So, Uh, I guess that should be taken into consideration, as well.|sd
+B|Uh-huh.|b
+B|Uh-huh,|b
+B|uh-huh.|b
+A|So, well, this is an interesting topic,|sv
+A|um, I have, you know, I have,|sd
+A|having a daughter who has gone into this, into engineering, I sort of watched progress to see if she did anything differently than I did|sd
+B|Uh-huh.|b
+B|Uh-huh|b
+A|She's a lot more forthright about her opinions and, a little more assertive, than I think I was|sd
+B|Good.|ba
+A|So, that's, that's progress, I guess|sv
+B|Yeah|b
+A|Well, I have enjoyed talking with you Lisa,|fc
+A|and, Uh, have you talked with a lot of people in this project|qy
+B|Well, same here.|fc
+A|or,|%
+B|Well, I am not a home, at home a lot.|sd
+A|Yeah.|b
+B|I am at work right now.|sd
+A|Oh, yeah.|b
+B|I put my work number,|sd
+B|but, at home, uh, the recorder gets my calls.|sd
+A|Oh, yeah.|b
+B|Usually, I am not there,|sd
+A|Right,|b
+B|but I probably talked to seven or eight people.|sd
+A|Yeah,|bk
+A|well, that's great,|ba
+B|Uh-huh.|b
+A|that's good.|ba
+B|I personally have not made any calls yet, myself,|sd
+B|I, just, it never crosses my mind.|sd
+A|Yeah.|b
+A|Yeah.|b
+A|Well,|%
+B|But I enjoy receiving them.|sd
+A|Yeah,|b
+A|well, that's good,|ba
+B|Uh-huh,|b
+B|uh-huh.|b
+A|that's good,|ba
+A|because, uh, I, I guess I placed all but one or two of my calls. And, uh, only because I going to make some money,|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|see we, our choir is doing this as a money raising project.|sd
+B|Uh-huh.|b
+A|We, we got the connection through a T I, uh, church member.|sd
+B|Uh-huh.|b
+A|And, uh, uh, so we are doing it to raise money for, uh, a large project at church,|sd
+B|Uh-huh.|b
+A|and, uh, so I feel like this is one way I can contribute that's not too painful Financially painful, anyway.|sd
+B|Yeah.|b
+B|That's wonderful.|ba
+A|It's just real nice that way|sv
+A|so, uh, I thought, well I will just get on the stick and do it.|sd
+B|Yeah,|b
+B|that's great.|ba
+A|Well, I will say good-bye to you,|fc
+B|Okay.|fc
+A|but I have enjoyed the conversation.|fc
+B|Well, thanks for calling.|fc
+A|Thank you.|ft
+B|Uh-huh.|bd
+A|Bye-bye.|fc
+B|Bye-bye.|fc

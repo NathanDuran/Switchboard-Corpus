@@ -1,0 +1,309 @@
+A|So, do you have any hobbies?|qo
+B|Well, right at the present time nothing real special.|sd
+B|I kind of like gardening|sd
+B|and I'm kind of into camping and, you know, vacationing, that sort of thing.|sd
+A|Yeah, uh,|b
+B|I don't have any real serious,|sd
+A|I'm an avid gardener, oh,|sd
+B|Oh, okay.|ba
+B|I think you're ,|%
+A|Um, I consider that a hobby.|sd
+A|I don't know,|h
+A|they were like suggesting, like handcraft things which,|sd
+B|Uh-huh.|b
+A|I guess that's a really true, true hobby,|sd
+A|but I, I think anything that you enjoy,|sv
+B|Yeah.|b
+B|Yeah.|b
+A|um, it doesn't really have to matter,|sv
+A|I mean, it could be working on cars could be your hobby really.|sv
+B|Really|aa
+B|yeah,|aa
+B|I kind of enjoy doing that a little bit, too.|sd
+B|No,|nn
+B|I, I guess if you make money at it, it becomes a vocation|sv
+A|well, I don't know,|h
+A|I told my husband, I said, you go out some to work on the car,|sd
+A|it's not worth getting all mad and fighting and hollering at each other when it goes wrong.|sv
+A|I says, you go pay to have someone do it.|sd
+B|Yeah|b
+A|Because it always seems it goes wrong when you try to do something.|^q
+B|I guess as far north as you are if you like gardening, you've still got a couple months to go, haven't you?|qy
+A|Oh, yeah.|ny
+A|Um, well, right now we, um, start our seeds inside.|sd
+B|Uh-huh.|b
+B|Oh, yeah,|b
+B|that's right,|ba
+B|you would,|bf
+B|yeah.|%
+A|We'll start them inside|sd
+A|and, uh,|%
+B|In cold frames or whatever the,|qy
+A|Yeah,|ny
+A|well, we usually start them right in the house.|sd
+B|Uh-huh.|b
+A|My sister tries to set up a greenhouse on her back deck|sd
+A|and, and the and a wind storm come and knock it down.|sd
+B|Huh.|b
+A|But she's had really good luck.|sd
+A|I mean,|%
+A|next month,|%
+A|well, actually, it, if you, if you start it in a couple weeks and you can get your plants outside, pretty much the end of May,|sd
+A|you can leave them outside.|sd
+B|Uh-huh.|b
+A|You might put them in the ground just the first week of June|sd
+B|Yeah.|b
+A|but we can put potatoes in the ground in the middle of May.|sd
+B|Yeah,|b
+B|I've, I've lived in, in Texas and New Mexico most of my life,|sd
+B|but I did once,|%
+B|I spent one winter in North Dakota,|sd
+A|Oh.|b
+B|and I, I remember that it was on into May before it really started warming up,|sd
+B|and, uh|%
+A|Yeah,|b
+A|well, well, we live, we live really close to Lake Champlain, which is in the Champlain Valley,|sd
+B|Oh, yeah.|b
+A|so we're a little, we're about two weeks ahead of everyone else out on the outskirts|sd
+A|so,|%
+B|Okay,|bk
+B|because that kind of moderates the weather a little bit?|qy^d
+A|Yeah.|ny
+B|Yeah.|b
+A|We are a little lucky.|sd
+A|Well, my brother lives ten miles from here|sd
+B|You're at,|%
+A|and he gets frost|sd
+A|and, his crop gets killed.|sd
+B|Yeah.|b
+B|You're right across the, uh, lake from, what, Plattsburgh?|qy^d
+A|Yeah,|ny
+A|from Plattsburgh Air Force Base.|sd
+B|Yeah,|b
+B|yeah.|b
+A|But, um,|%
+B|Yeah,|b
+B|I had, I had a cousin that was stationed there, Plattsburgh for a while.|sd
+B|He, he remembers lots of snow|sd
+A|Yeah,|b
+A|Plattsburgh's kind of a,|sd
+A|it's, uh, it's, uh, depressed economically.|sd
+B|Oh, really, oh.|b
+A|When you go across the lake, um,|%
+A|I don't know why we have so much going for us,|sd
+A|I really don't.|sd
+A|I'm, just wrote my resume up because told we might be facing layoff over at Digital|sd
+A|and they've never had, well, they've had layoffs recently,|sd
+A|but when we got hired here, no, no, never any layoffs, never, never,|sd
+A|and now we're looking at serious,|%
+A|I, I mean, I'm a technician.|sd
+B|Yeah.|b
+A|When they start getting rid of technicians,|sv
+B|Yeah,|b
+B|well, I'm, I'm working for T I, Texas Instruments, down here.|sd
+A|Well, I interviewed with them.|sd
+B|Oh, yeah?|bh
+A|But I didn't want to go to Texas.|sd
+B|Oh,|b
+A|Even though my, um, mother's people are from Georgia.|sd
+B|Oh,|b
+A|Yeah.|b
+B|yeah.|b
+A|Well, I guess we have to get back to hobbies since,|ad
+B|Yeah,|aa
+B|we're getting to where, we're straying, I guess,|sv
+A|Stick on the subject.|ad
+B|yeah.|%
+A|Well, interesting thing that I do is with, gardening, uh,|sd
+A|my sister grows flowers that you can dry,|sd
+B|Uh-huh.|b
+A|and you can make uh, dried flower arrangements|sd
+A|and you can get real handy with the hot glue gun.|sd
+A|And we made some really nice Christmas wreaths with, uh, dried red flowers and dried white flowers and, uh, eucalyptus.|sd
+B|Huh, yeah.|b
+A|you know what eucalyptus is?|qy
+A|It's,|%
+B|Yeah,|ny
+B|yeah,|ny
+B|the, they uh, it's sold in the hobby stores and nurseries.|sd
+A|Yeah,|aa
+A|it's got a|%
+B|It's got a kind of a peculiar smell to it|sd
+B|but,|%
+A|Yeah,|aa
+A|at first I'm like, oh, how, why do people like this,|sd
+A|but it, it is kind of a nice smell after a while.|sv
+A|People put them in,|%
+B|Yeah,|aa
+B|I didn't realize what it was for a while.|sd
+B|I'd walk into a room where some of that,|sd
+B|and I'd wonder what is that, you know,|sd
+B|and then one day I, I realized that it was eucalyptus.|sd
+A|it's, it's, it's, uh, like a fad thing.|sd
+A|I, I don't know.|h
+A|It's, I've never heard of it,|sd
+A|in the last five years I've used so much of it that,|sd
+B|Yeah.|b
+A|I hate,|%
+B|Is that the stuff that koala bears eat in Australia or something?|qy
+A|Yeah,|ny
+A|it is.|sd
+B|Maybe that's why they're so slow.|sd
+B|I guess they're stoned on the stuff or something.|sv
+A|Yeah,|b
+A|it, it looks really potent stuff.|sv
+B|Yeah|b
+B|yeah.|b
+A|But, uh, it's, yeah, I think it's the greatest stuff in the world, though.|sv
+A|It's, jeez,|%
+A|they, I make all kinds of things with it.|sd
+A|We make all kinds of things just with dried flowers.|sd
+A|I, I almost want to start a business doing it,|sd
+A|but I don't, I, I'm so, uh, timid when it comes to starting a business.|sd
+B|Yeah,|b
+B|that's, that's a big step,|sv
+B|yeah.|%
+A|Yeah,|aa
+A|it is, especially with the, being in on the creative aspect and the crafty end.|sv
+B|Yeah, uh,|b
+A|You know, after a while you make some stuff,|sd
+A|then you start looking at it,|sd
+A|go, boy, this, this is kind of ugly|sv
+A|But I know someone who does a lot of woodworking for a hobby.|sd
+A|Um, he does it, believe it or not, I wouldn't imagine why, but to get out of the house, away from his wife,|sd
+A|because he's a seasonal worker,|sd
+A|he works in the construction.|sd
+A|And up here it's almost a pattern,|sd
+A|and you see your fathers do it,|sd
+A|then their sons do it.|sd
+A|What they do is they work construction,|sd
+A|then they get laid off for like twelve weeks in the winter.|sd
+A|And, uh, this guy was going nuts,|sd
+A|and his, uh, son built him a garage and got him some, uh, oh, I don't know what the equipment's called, but planers and things and set him up,|sd
+B|Uh-huh,|b
+B|shapers and planers and routers.|fo_o_fw_"_by_bc
+A|and he makes, all kinds of furniture for, um, his kids,|sd
+A|and he makes, uh, uh, like little kids' furniture.|sd
+A|He gets right into it|sd
+A|and, uh,|%
+B|There was a program on T V down here on the educational channel here a while back about a lot of little, little companies of one and two guys, you know, up there,|sd
+B|this particular one, I think, was in Maine and New Hampshire, where out in the, just kind of out in these little towns they'd be in,|sd
+B|they may be the same kind of people you're talking about.|sd
+B|You know, they've, they've got twelve weeks to do something,|sd
+B|and they, they're making furniture and just, you know, things like that during the winter|sd
+B|and then they go off and do other things during the summer.|sd
+A|Yeah,|b
+A|it's a, it's a really, good thing because it's keeping him sane,|sd
+B|So, yeah,|b
+B|Yeah,|b
+B|yeah.|b
+B|Yeah.|b
+A|and plus it's keeping his marriage|sd
+B|Yeah.|b
+A|so, and, and plus he's getting on in his years now.|sd
+A|He's, he's not that old,|sd
+A|but he's getting to the point where he needed an extra boost, to, to do something like that.|sd
+B|Yeah.|b
+A|And, uh, it's really, it's, it's, uh, hard work.|sd
+A|I couldn't imagine taking lumber, raw lumber and trying to make something out of it.|sd
+A|He He dowels everything.|sd
+B|That would be really you know,|ba
+B|like say the,|%
+B|Oh, man,|ba
+B|yeah.|b
+A|And it's all got to line up.|sd
+A|It's,|%
+A|and, uh, I don't think he goofs too much,|sd
+A|I don't to, see too much scrap around.|sd
+B|Yeah,|b
+B|yeah,|b
+B|that's, that's something.|ba
+B|Now our temperatures down here, we're starting to get pretty consistently in the seventies and eighties|sd
+A|God , I'm envious|ba
+B|and, uh, so, and, uh, so as far as, you know, planting outdoor stuff, matter of fact, tonight I just got through, I was planting some, some trees out back tonight,|sd
+B|and, uh, this is, uh, it's really nice, out tonight.|sd
+A|Is it going to be, Is it going to be really dry?|qy
+B|Almost hated to come, you know.|sd
+A|Uh, are you are you,|%
+A|now I always plant trees in the fall.|sd
+A|I don't know why|h
+A|so the, the cold weather can kill them|sd
+B|Yeah,|b
+B|these were, uh, trees that, that wintered.|sd
+A|but I guess,|%
+B|I don't know where they came from.|sd
+B|They come out of nurseries mostly in Missouri and places like that.|sd
+B|And they come down here|sd
+B|and they'll sit in the nurseries here|sd
+B|and they'll go ahead and, and, uh, leaf out.|sd
+B|So what I'm planting or actually transplanting is a tree that's, or trees that are already leafed out.|sd
+A|Oh, that's good.|ba
+A|I guess they, they say you can plant them in the spring or the fall, all .|sd
+B|Yeah.|b
+B|Mostly, I think in a place where it's really cold they do it in the fall,|sd
+B|let them winter you know, through the fall,|sd
+A|Yeah.|b
+B|but, uh, down here, well, it's done both ways.|sd
+B|It, it just kind of depends on what you're, what you're planting,|sd
+B|but, uh all the shrubs and,|%
+A|Yeah,|b
+A|and, uh, when you have time to do it|sd
+B|Yeah.|b
+A|My sister does, uh, flower gardens.|sd
+A|She gets right into it.|sd
+B|Uh-huh.|b
+A|She spends lots of money on them.|sd
+A|And I guess a lot of people do, do do that.|sd
+A|They landscape their whole house with flower gardens.|sd
+B|Yeah .|b
+A|She's got like, just a small patch of lawn and just flowers and mulch tree bark all over her lawn|sd
+B|Yeah.|b
+B|Flowers, during the summer down here, the, the normal kind of flowers, there's very few of them that will really do well.|sd
+B|Everything does real well here in the spring until about, oh, first part of June|sd
+B|and then the the heat sets in.|sd
+A|It gets,|%
+B|And June, July, August are, you know,|sd
+B|most of the, those kind of plants just, are just barely staying alive, let alone make flowers.|sd
+A|Do you have a lot of shade trees around your house|qy
+A|or is it,|qrr
+B|Uh, we're in a relatively new area.|no
+B|We're kind of out of, uh, the natural tree area.|sd
+B|We're kind of up on a, on a higher, on a slope.|sd
+A|So you don't have a lot of tree coverage?|qy
+B|So we don't have,|ng
+B|where we are right now there are very few trees.|sd
+A|Because going to make,|%
+B|This was, this was, this was pasture land,|sd
+B|but down the, down the hill here a little ways there are parks that are, look like jungles, you know.|sd
+B|They're really,|%
+A|Yeah.|b
+A|See, um, uh, where my, uh, well, my grandmother passed away, but where aunts are they have these huge pecan trees,|sd
+B|Uh-huh.|b
+A|and they just shade everything.|sd
+B|Now where is this?|qw
+A|Uh, it's in Georgia.|sd
+B|In Georgia,|b^m
+B|yeah,|b
+B|yeah.|b
+A|It's, yeah, it's right outside of Macon,|sd
+A|and, and it's just a,|%
+A|I like the way that, I like the way that idea of the south is,|sd
+A|but when I think of Texas, I think of nothing but, no trees and just grass|sv
+B|Well, I tell you what,|fo_o_fw_"_by_bc
+B|now, see, East Texas,|%
+B|there's two parts of Texas, East Texas and North Texas.|sd
+B|Atlanta and Dallas are almost identical in every way, weather and everything.|sd
+A|Yeah.|b
+B|The two cities are very, very identical,|sd
+B|so if you were familiar with Atlanta, uh,|sd
+A|So it's that dry heat?|qy
+B|Uh, well, no,|nn
+B|it's, it's, uh, not dry at all.|sd
+B|It, it's humid.|sd
+A|Well, where is it,|%
+A|is it wasn't it Houston's humid?|qy
+B|Houston is awful|na
+A|Yeah.|b
+B|Houston is really humid.|na
+B|No,|nn
+A|It's humid.|sd

@@ -1,0 +1,74 @@
+A|Well, have you ever served on a jury?|qy
+B|No,|nn
+B|I've not.|sd
+B|I've been called,|sd
+B|but I had to beg off from the duty.|sd
+B|And you?|qy
+A|Well, I was called|na
+A|and then I was not chosen.|sd
+B|Um.|%
+B|Well, I was, I was, uh, originally chosen primarily, I think, because I was a young fellow|sv
+B|and they tend to view the younger fellows as more likely to hand down a guilty verdict.|sv
+B|I don't know why.|sd
+B|Something I picked up in a psychology class some time ago.|sd
+A|Oh, really?|bh
+B|Yeah,|ny
+B|it's that the younger they are, they tend to be more conservative for some statistical oddball reason,|sd
+B|and they kind of liked me.|sd
+B|I looked and all that stuff|sd
+B|and they,|%
+B|I don't know what they saw in me,|sd
+B|but they saw it.|sd
+B|But, uh, back to the issue, is, uh,|sd
+B|I don't know,|h
+B|at times I feel that a unanimous decision is warranted, especially in cases in which there's no smoking gun.|sv
+B|But, there, too, there are also cases in which I feel a majority rule might be acceptable, particularly, I think in civil cases.|sv
+B|In criminal cases, I'd like to see the unanimity remain,|sv
+B|but in civil cases, I think a majority rule by, by jury would be sufficient.|sv
+A|Well, uh, could you give me an example of a case where you think that?|qo
+B|Well, in a criminal case, say one in which, you know, there is, like, say assault or some such. I think there ought to be a unanimous, uh, vote because by law and by constitution there must be proven beyond a shadow of a reasonable doubt that the person in question did this.|sv
+B|And in civil law there, you know, is such a thing as like, let's say, uh, misappropriations or misuse of financial instruments or something like that.|sd
+B|A majority rule, I think, would be more in line as there is no real smoking gun in the civil cases.|sv
+B|I don't know if I'm making any sense or not.|h
+A|Well, I mean, I think,|sv
+A|are you just trying to say that criminal cases are more, uh, tangible|qy
+A|or,|%
+B|Yeah,|ny
+B|often there's more incriminating evidence.|sv
+B|Like, for instance, say, uh,|ad
+B|and also, too, I think I'm, I'm tempering this and the fact that the consequences are much more, uh, serious in a criminal case.|sv
+A|Well, do you think that, that in a civil case, if there was majority rule, that it would be easy for someone to be set up?|qy
+B|Um, well, I really can't say for certain, truth be known.|^h
+B|Uh, as it stands, there's, there's many ways and means by which a person can be set up, both, uh, in a uh, civil and criminal case.|sv
+B|I mean, the, uh, documentary, the THIN BLUE LINE pretty much demonstrated that.|sv
+B|You know, I don't know for, if you're familiar with that or not.|qy^d
+A|No,|nn
+A|I'm not.|sd
+B|A, uh, fellow when he was much younger, uh, was tried and convicted and sentenced to death.|sd
+B|Fortunately, in his case, the death penalty was revoked|sd
+B|and, uh, so he served out his, his sentence until it was discovered by a fellow who was making a documentary called the THIN BLUE LINE that this guy had basically gotten railroaded through the judicial system.|sd
+B|The case was reopened|sd
+B|and he was exonerated.|sd
+A|Well, I mean, I think that there are many cases in our judicial system where justice is not served.|sv
+B|Yeah,|aa
+B|many laws, but little justice.|sv
+A|Say,|%
+A|but, uh,|%
+A|and I also think, just like you were talking about before, why you were chosen to be on a jury that, uh, the, just, the process of picking jurors is not always objective.|sv
+B|Oh, certainly not,|aa
+B|certainly not.|aa
+B|And you know, they like to think that they're getting someone who's objective in all this,|sv
+B|but they're really looking for someone who will pretty much fulfill the lawyers' desires.|sv
+B|You know, the,|%
+B|because you get up|sd
+B|and, and they ask you a few questions,|sd
+B|both sides do,|sd
+B|and then you, you're either challenged which is,|sd
+B|you know, each attorney can use that as much as they like|sd
+B|or, I think it's a limit now,|sd
+B|they probably have a limit now,|sv
+B|but, they pretty much go through that,|sd
+B|and then you have to give a reason to the court why you can't serve.|sd
+B|For me, it was financial hardship,|sd
+B|so. But, onto the thing, uh, I was never aware that juries had any say on recommending sentencing.|sd
+B|It was always my impression that the Justice himself, or herself, had the final say.|sd

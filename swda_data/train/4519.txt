@@ -1,0 +1,86 @@
+A|Your turn.|fo_o_fw_"_by_bc
+B|Oh, I, I start.|sd
+B|Okay.|aa
+B|Well, uh, we keep a budget to an extent.|sd
+B|Uh, and really, we were really forced into keeping a budget because I'm, I'm paid once a month which sort of, sort of forces some, uh, uh, restrictions|sd
+B|and you need to make sure all your bills are paid.|sd
+B|Uh, about yourself?|qo
+A|Well, I have to say I really don't have a budget.|sd
+A|Both my wife and I, uh, grew up in, uh, families of rather modest means|sd
+A|and, uh, our family income, at this point, is comfortable. Upper middle class I guess you might say.|sd
+A|And, uh, we're both so, uh, frugal that, uh, we really don't need a budget, you know.|sd
+A|We just sort of invest the money and go on vacations and always never seem to have any money problems which I guess is a comfortable thing.|sd
+B|Yeah.|b
+B|Well I guess that really is sort of, uh, keeping a budget,|sv
+B|you know. You stay within your, uh  within your  means.|bf
+A|Well we stay within our means|b^m
+A|but we  don't do it, uh, by conscious effort.|sd
+A|It just sort of happens automatically.|sd
+B|Yeah.|b
+A|Although we just moved to California|sd
+A|and, uh, the cost of living here in California is, uh, I would say rather pathological|sd
+B|Yes|aa
+A|Uh, housing prices are, you know, like from four to ten times more expensive than, uh, uh, they were where I came from in, uh, Dallas.|sd
+B|Oh, you moved from Dallas to San  Francisco.|bf
+A|Yeah.|aa
+A|So, uh uh, that presents a, a real shock|sd
+B|That is a hugh difference.|sv
+B|Yeah.|b
+A|actually our standard of living has gone down somewhat since we've moved to California|sd
+A|but,|%
+B|But you have good sour dough|sv
+B|and it's a beautiful place to live|sv
+A|Yeah.|aa
+A|It's God's country.|sv
+B|Yeah.|b
+A|Uh, and one way you know that is that only God can afford it|sv
+A|Uh, so budget is not a problem for us.|sd
+A|Uh, at least it hasn't been.|sd
+A|It may, may be at this point.|sd
+A|But, uh, up until this point it really hasn't been|sd
+A|When I, uh, was in, uh, undergraduate school a long, long time ago, I, uh, noted that the monthly salary, starting average monthly salary salary for engineers that, you know, in my discipline, was like oh, six hundred ten dollars a month or something like that.|sd
+A|And, uh, I noted at that point that I was, you know, if that's what my salary was that I drew then I would be making almost twice as much as my father made during his best year ever.|sd
+A|So I stopped worrying about money.|sd
+B|Yeah.|b
+A|And  it,|%
+A|never have worried about money since then.|sd
+B|Well, that, that's a system too.|sv
+A|Sometimes, uh, it's a bit of a, a problem, you know, because I guess I don't really manage my money the way I should.|sd
+A|But, uh, I suppose I've lost money on not taking good advantage of, of, uh, investments|sd
+A|but,|%
+B|Well then again, you know, you said you, you are able to take trips.|sd
+B|And you do, obviously, have enough to live on|sd
+B|so I guess you're indirectly budgeting. Uh, just bye-bye the fact that you said you're both very frugal, uh, in spending the money.|sv
+A|Uh-huh.|b
+B|So, I mean that's, that's a form of budgeting I would think|sv
+B|It's, it's kind of a strange topic to, to try to, for two people who don't really have a budget to talk about budgeting and how they manage their money.|sv
+A|Well, I guess we're both lucky in that regard then.|sv
+B|Yeah.|b
+A|How big is your family?|qw
+B|Uh, well we're, we have one on the way.|sd
+A|I see.|bk
+B|Uh, my wife,|sd
+B|and then, we're, we're having one on the way in, uh, in, uh, September.|sd
+A|So how,|%
+A|you, once you get ten children though, you may have,|sv
+B|No|ar
+B|I think it's just going to be one.|sd
+A|Oh, all right|bk
+B|How about yourself?|qo
+A|I have two kids.|sd
+A|Uh, one  nine and one thirteen|sd
+B|Oh.|%
+A|and they are beginning to be a budget problem but, uh, have not been really up until this, up to this point.|sd
+B|Do they budget at all?|qy
+B|I mean do you have them on an  allowance?|qy
+A|I give  them a, I give them an allowance|sd
+A|and they, uh,|%
+A|I basically give my son ten dollars a week|sd
+A|and I put half of it in the bank|sd
+A|and I give, give him the other half in cold cash.|sd
+B|Yeah.|b
+A|And, uh, he has a teller card so he can, uh, do what he do what he wishes with the money that I put in the bank.|sd
+A|But, at least, it isn't, you know, burning a hole in his pocket.|sd
+B|Yeah.|b
+A|If he wants to use it, he has to go get it|sd
+A|and that usually|%

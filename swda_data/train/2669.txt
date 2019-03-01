@@ -1,0 +1,229 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|the topic was, should the United States adopt the metric system, and if so, should, uh.|sd
+B|How should they do it?|qw
+B|Why didn't it work last time?|qw
+A|And why didn't it work last time?|b^m
+B|Well, I'm all for it.|sd
+A|Yeah,|b
+A|well, I, I am too.|sd
+A|I wish, uh, it had started a long time ago, is the problem, because we're so wound up in the in the system that we've got that, you know, trying to convert over,|sv
+B|Yeah.|b
+A|and I guess, what'd they try, they tried what'd the call it, soft conversion and hard conversion|sd
+B|Yeah,|aa
+B|they tried the,|%
+A|one of them is where you just take whatever's already standard|sd
+A|and you give it some sort of a weird metric number like six point two eight seven instead of six millimeter.|sd
+B|Yeah,|aa
+B|yeah,|aa
+B|direct conversion.|sd
+A|I, I don't know. Uh.|h
+B|I think they just ought to, you know, start, uh, just go all the way on new products introduced or whatever, you know, start your packaging, go to liters instead of quarts,|sv
+B|and you know, people if they have to are going to learn to think that way.|sv
+A|Well don't most of them, doesn't just about everything now have both metric and English.|qy^d
+B|They do,|na
+B|but things are generally packaged in the English sized packages, you know.|sv
+B|You buy a quart of milk,|sv
+B|and sure it has, has the metric equivalent written on there,|sv
+B|but it still a quart.|sv
+A|Oh, yeah,|aa
+A|yeah.|aa
+B|But if they started putting it in liters, liter of oil, and you know, liters of gasoline, people are going to learn to think in metric.|sv
+B|As long as you can still buy a product in the English units, that's how you're going to think of it.|sv
+A|I kind of remember back when gas prices started up, you know, pretty dramatically when they started getting toward a dollar a gallon range,|sd
+A|somebody had, uh,|sd
+A|I believe it was Exxon|sd
+B|It figures.|ba
+A|we were living in Lubbock at the time,|sd
+A|they started marketing it in liters,|sd
+A|and it was only like twenty-nine and thirty cents a liter.|sd
+A|So they could put this sign out front that said, you know, thirty-nine cents a liter.|sd
+B|Right.|b
+A|And nobody had any idea what a liter was,|sd
+A|so, uh.|%
+B|That, that's the problem.|ba
+A|When we finally out that liters was about a quart, there's about four liters in a gallon|sd
+A|so you can figure out what you're actually paying for it.|sv
+B|Right.|aa
+B|It's kind of hard for me to believe that this day and age,|sd
+B|I don't know,|h
+B|when I was growing up, we were talking metric system in school. I mean, not, not at first,|sd
+A|Uh-huh.|b
+B|but by the time I was in fifth or sixth grade anyway.|sd
+A|Yeah.|b
+A|Oh.|b
+B|I would expect people with any kind of buying power over the age, you know, under the age of thirty or so, to have some idea what it is, anyway.|sv
+B|A liter's about a quart.|sd
+A|The, uh, I think maybe there's where the problem came in, you know.|sv
+A|We've tried to, instead of learning,|sv
+A|it's kind of like learning a language, you know,|sv
+A|when you learn one from the other, you always end up in this conversion thing all the time.|sv
+B|Yeah.|b
+A|So, you,|%
+A|it's almost like, uh,|%
+A|course this country isn't a dictatorship,|sv
+A|but, you know, it's like somebody said, okay as of such and such a date, you know, anybody caught talking in the English, you know, will be shot or something like that, you know.|sv
+A|But, uh,|%
+B|Well, thing is, it's a global, global market place these days,|sv
+B|and, you know, we're like, what, one of two backwards countries in the world, as far as,|sv
+A|Yeah,|aa
+A|I read that, what Uganda and,|sd
+B|Something.|^2
+B|I don't remember what the other one is|sd
+B|but,|%
+A|There's one or two others that just,|%
+B|It's just time I think for, for us to go over.|sv
+B|Because all you end up doing is if you're in business or you're in any kind of international|sv
+A|Uh-huh.|b
+B|I don't, you know,|h
+B|I work for T I,|sd
+B|we're all around the world,|sd
+B|you have to perform this conversion anyway.|sv
+A|Yeah, uh, I, Yeah, I do, too.|sd
+B|And.|%
+A|And one of the things that we've run into a problem,|%
+A|course you're familiar with the T I drawing, well, with any drawing system you end up with, you end up with things in inches in parts of inches, you know, half, fourth, you know, this sort of thing.|qy^d
+B|Right.|na
+B|Mils and microns.|sd
+B|Right.|b
+B|Right.|b
+A|And then you end up with a decimal, where you start getting into mils, and that sort of thing.|sd
+B|Right.|b
+A|And then some of them are done in, you know, purely metric.|sd
+B|Yeah,|b
+B|I remember that stink came around in the design area a few years back when it was all overseas designs were in microns|sd
+B|and ours were in mils.|sd
+A|Uh-huh.|b
+B|And it got to, you know,|sd
+B|somewhere down the line they went standardized,|sd
+B|they went microns,|sd
+B|but, uh, you just, you know, you end up with all kinds of problems with converting your designs.|sv
+A|Yeah.|aa
+A|Oh, I can imagine.|ba
+B|So.|%
+A|The, uh, the one that, uh, uh,|%
+A|have you ever lived in a country where they use metric.|qy
+B|No.|nn
+A|I was with T I in El Salvador for a while,|sd
+A|and I had to get used to, you know, purely metric system down there, because they didn't understand anything else.|sd
+A|You know, if you start talking about miles, they'd look at you like, what.|sd
+B|Yeah.|b
+A|So, I had a little bit of experience with it,|sd
+A|and also I noticed in Canada they, uh, you drop a quarter, fifty cents, whatever, in a coke machine up there,|sd
+A|and you get this funny looking coke, you know,|sd
+A|it's in a can that's that's taller but not as big around.|sd
+B|Yeah.|b
+A|You know, I guess that's some|%
+B|About half a liter.|qy^d
+A|it's not a liter,|aa
+A|it's like a half a liter or something like that.|aa
+A|It's a strange looking can.|sd
+A|But my daughter in law's from Panama,|sd
+A|and she has, they have had Americans down there for so long, you know, that they're kind of into both systems,|sv
+A|but, uh, she gets real confused on distances|sd
+A|and temperature is the big thing the Centigrade for which she says Celsius.|sd
+B|Yeah.|b
+B|I would have more problem more problem with the temperature, except that, you know, working in engineering, we do everything in Centigrade, or Celsius.|sd
+A|Well, I had kind of gotten used to centigrade temperature, you know,|sd
+A|if it's between zero and ten, it's cold,|sv
+A|and if it's ten and twenty it's not too bad,|sv
+A|if it's between twenty and thirty it's pretty warm,|sv
+B|It's getting warm, right.|aa
+A|if it's more than  thirty it's just hotter than all get out.|sv
+A|So, but, uh. The big problem is not having the, uh, the resolution between temperature, you know, between a hundred, if you're talking about a hundred degrees or what, thirty, zero, you know thirty four degrees, whatever that is.|sv
+A|You know, you don't get all the little differences|sv
+B|Yeah,|aa
+B|it's about.|%
+A|you know, the differences between seventy and seventy-two or seventy-five degrees isn't much,|sd
+A|but the difference thirty and thirty-five degrees is, quite a bit.|sd
+B|Is about twice as much, what it works out to.|sd
+A|Yeah,|aa
+A|five|sd
+B|One point eight times as many points.|sd
+A|Yeah,|aa
+A|something like that.|aa
+B|Yeah,|%
+B|so. I, I think as long as people have a choice, they're going to stick with the American way.|sv
+A|Uh-huh.|b
+B|And until we have to, have to learn to think that way, we won't.|sv
+A|Yeah.|aa
+A|Though we call it the English system,|sd
+A|but I'm not sure what they do in England now.|sd
+A|They're, they're on metric, aren't they?|qy
+B|Yeah,|ny
+B|for the most part, I think so.|sd
+A|Yeah,|b
+A|except they've got a,|%
+A|now, okay, we run into some problems once,|sd
+A|I remember, they've got a nut and bolts system called Wentworth.|sd
+A|And this thing was, was even different than, you know, S A E standards and stuff.|sd
+A|So,|%
+B|Right.|b
+A|This, this,|%
+A|okay,|%
+A|my dad bought one of these little Nash Metropolitans here a few years quite a few years back,|sd
+A|and the thing had a Austin Heeley type engine, you know,|sd
+A|it was Austin motors engine and running gear.|sd
+B|Right.|b
+A|And the body was built by Nash,|sd
+A|or who, you know,|%
+A|that was even before American Motors,|sd
+A|but Nash, essentially, in the U S somewhere.|sd
+A|And that thing had the darndest combination of metric and Wentworth and, uh, S A E.|sd
+A|He ended up with about three sets of tools in order to work on that fool thing.|sd
+B|He just get one more .|%
+A|Because I think the Wentworth and the S A E bolt sizes were the same,|sd
+A|but the threads were different,|sd
+A|and, uh it was a total mess.|sd
+B|Oh, that would be a mess.|ba
+A|And on my Chevy van that's a couple of years old.|sd
+A|Part of it's built in Canada.|sd
+A|Matter of fact, the thing is, I always say it's built off shore, you know, because it was assembled in Canada.|sd
+A|The only thing that was in it was built in the U S was the, uh, differential,|sd
+A|and it was built in Buffalo, New York.|sd
+A|But it's got the hardest combination of, uh, metric|sd
+A|and, most of the body parts seem to be metric,|sd
+A|and most of the engine parts seem to be S A E,|sd
+A|so. It's just crazy.|sd
+B|Right.|aa
+B|It just gets bad,|sv
+B|now, you got to, you got to have one, and not mix them up.|sv
+A|Yeah.|b
+B|Because you're never going to get to one, one system if you still got a, got a mix.|sv
+B|And of course, here that, that would involve changing road signs all across the country, you know, miles per hour to kilometers per hour, and the whole nine yards.|sv
+B|Kind of hard to do gradually.|sv
+A|I thought maybe they would convert to, uh, metric back when they went to the fifty-five mile an hour speed limit, because what is it fifty-six or fifty-seven's a hundred, uh, a hundred kilometers,|sd
+B|Yeah.|b
+A|and you know|%
+B|Hell, you'd have people doing a hundred miles an hour.|sv
+A|yeah,|aa
+A|you'd have,|sv
+A|hundreds on the sign looks lot better than fifty five,|sv
+A|you'd have people going, you're right, a hundred miles an hour.|aa
+B|Yeah.|b
+A|And, so. I don't know,|h
+A|I'd kind of,|%
+A|and the other thing, too, is, you know, between here and El Paso's, what, five hundred miles,|sd
+A|but it's almost eight hundred kilometers, you know.|sd
+A|That'd sure seems like a long way.|sv
+B|Yeah,|aa
+B|but they'd need, they'd seem to be ticking off faster, too.|sv
+A|Yeah,|aa
+A|I guess that's it.|aa
+B|Every road sign you come to, is like, well I don't know it that far.|sv
+A|Well they converted all the road signs to fifty-five miles an hour, you know,|sd
+A|they could've converted it to metric just about as easy.|sv
+B|Yeah,|aa
+B|I think they,|%
+B|you got the problem with all your cars are still,|sv
+B|yeah,|%
+B|you still got cars on the road that don't have both.|sv
+A|Yeah.|b
+B|At that time, anyway, that was still when things were,|sv
+B|the metric system was still not,|sv
+A|Not all that common.|^2
+B|You know, now cars, they have both.|sv
+B|Sooner or later they'll start putting the miles on the inside and the kilometers in big numbers so people start thinking that way.|sv
+A|I know the only other place that I was ever at where they really had it mixed was, was in Panama, where's a lot of the road signs and everything are in, in miles per hour|sd
+A|and some are in kilometers.|sd
+A|And you got to know where you are because anything that was the old canal zone is going to be miles per hour,|sd
+B|Yeah.|b

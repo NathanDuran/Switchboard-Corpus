@@ -1,0 +1,210 @@
+A|Well, I guess it depends on what age.|sv
+A|I am in the thirty something,|sd
+A|so I know,|sd
+A|I mean I lived through it.|sd
+A|Uh, are you old enough to know about the war?|qy
+B|Uh, just barely.|na
+A|Uh-huh.|b
+B|Yeah,|b
+B|I am, uh, twenty-nine.|sd
+A|Okay.|bk
+B|So, uh,|%
+A|Well, yeah,|b
+A|you are old enough.|sv
+B|Yeah.|aa
+B|But|%
+A|But it was on the fringe.|sv
+B|just, uh, yeah,|aa
+B|exactly.|aa
+B|Had some friends that were, that were in it.|sd
+A|It ended, uh, when I was in, uh, college. In, uh, when I turned nineteen in nineteen seventy,|sd
+A|I cannot even remember at this point. Uh,|sd
+A|when I turned nineteen it was the year that, uh, the draft was still going on.|sd
+A|If I had been a male or in Israel, I would have been number two.|sd
+B|Really?|bh
+A|Yeah|ny
+B|Wowie!|ba
+A|So I learned a lesson in gender|sd
+B|Uh-huh.|b
+A|Uh, in terms of the war, I do not know. Uh,|sd
+A|actually I do not really know that much about it.|sd
+A|I just know socially the impact it had here and what you hear in the media, you know. Uh,|sd
+A|I guess I think it was, uh, uh, not that great that we were in there, uh, in terms of for how long it lasted.|sv
+B|Right.|b
+A|You know.|sd
+B|Uh-huh.|b
+A|What do you think?|qo
+B|Well, I think it is, uh, basically the same way.|aa
+B|It is certainly has affected, uh, U S policy though.|sv
+B|There is, there is no question it had an overwhelming effect of how we approached the, the thing in, uh, Iraq.|sv
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|Because, uh, the whole thing that was bad about Vietnam, it was no different from Iraq.|sv
+B|I mean it was, uh, one country picking on a smaller, weaker one.|sv
+A|Right.|aa
+A|The devastation,|ba
+A|yeah.|aa
+B|Yeah.|b^m
+B|The only difference was that the government said, okay|sv
+B|if we were going to support this smaller country, then we are going to support it a hundred percent.|^q
+B|And we are going to consider ourselves against, in war, against these people as well.|^q
+A|Uh-huh.|b
+A|Yeah.|aa
+A|And in full faction,|sv
+B|Which, uh,|%
+A|yeah.|%
+B|Right.|aa
+B|Which really was not the attitude with Vietnam.|sv
+B|It was sort of, of a president's war rather than a country's war.|sv
+A|Yeah,|b
+A|it just kind of dragged on.|sv
+A|Uh, I do not know how you were historically.|qw^d
+A|But I was a little bit older before I realized just how long it had been going on since L B J and|sd
+B|Right.|b
+B|Yeah.|b
+B|It seemed to me like it was, it seemed like it was going on forever,|sd
+A|I mean, I|%
+A|Yeah.|b
+B|yeah.|%
+A|It really, well,|%
+A|yeah,|%
+A|in fact, because in terms of when your,|%
+A|there is at least ten years between us,|sd
+A|so in terms of when you were in school, I am sure that it was, you know, the majority of your high school and junior high years.|sd
+B|Uh-huh.|b
+A|Uh, one of the things I did not like was the weapons, the weapons, I can't even say it, the weaponry systems that they used.|sd
+B|Yeah.|b
+A|Uh, it just did not seem that, uh, I do not know, technically we knew what we were doing either.|sv
+B|Right.|b
+A|And then you heard about the things like agent orange, et cetera,|sv
+A|and you would think, you know, just, uh, how could the government or the Pentagon, uh, or whomever is in charge there been so careless.|sv
+B|Yeah,|aa
+B|right.|aa
+A|Uh,|b
+B|Of course now uh, now everyone's more, uh, you know, environmentally uh, intelligent than they were back then.|sv
+A|Conscious,|^2
+A|yeah.|%
+B|I mean back then it was not commonly known that saccharin was bad for you and all these other things that people that people know about themselves now.|sv
+A|Nutrisweet,|^2
+A|yeah,|aa
+A|and all these other things.|aa
+A|That is true, uh,|aa
+A|Uh, monetarily too, I just do not think we have done enough for the, uh, Vietnamese people as a whole. Uh, in South Vietnam, in general, in helping them restore themselves.|sv
+B|Uh-huh|b
+A|You know, and I don't know if it is because there are not any oil fields there|sd
+B|Yeah.|b
+B|I do not know if they, uh, I do not know if they have that resource or not.|sd
+A|Yeah.|b
+A|I mean I do not think they do.|sd
+A|But I just think it is kind of a shame that, uh, you still hear things about the children that are orphans there|sv
+A|and,|%
+B|Yeah.|b
+A|uh, so on a whole, I do not know, war is not good.|sv
+A|And that one I probably,|%
+A|uh, my main opinion would be we should not have done it.|sv
+B|Right.|b
+A|Well, that is what I know about the Vietnam War|sd
+B|Yeah.|b
+A|Unless you,|%
+B|Yeah,|b
+B|well, you know a little, uh, a little bit more than I do,|sd
+B|explain it.|ad
+B|I did not, uh, get to live through it.|ad
+B|That the people that I know that it did, uh, felt very strongly.|sd
+A|Uh-huh.|b
+B|Most of,|%
+B|I work for a government contractor.|sd
+A|Uh-huh.|b
+B|So most of the guys I work with, are, uh, oh, at least some of the guys I work with rather are veterans.|sd
+A|Uh-huh.|b
+A|Oh, Vietnam?|qy
+B|And, uh, from Vietnam.|na
+A|Jeez,|ba
+A|yeah.|%
+B|And, I have not talked to any of them that, that were not, you know, glad that they went or, or rather thought that the reason they went was a good one.|sd
+A|Uh-huh.|b
+B|You know, most of them are very strongly that, that the reason for America to be there was a good one.|sd
+A|And that, that,|%
+A|Uh-huh.|b
+B|They just felt that the way America backed them up was not, was not at all right.|sd
+A|In terms of the personal.|qy^d
+B|Yeah.|ny
+B|In term of, uh,|sd
+A|Yeah.|b
+A|The bitterness is more on a personal level than on a,|sv
+B|Yeah.|b
+B|Personal level|%
+B|and, and the finances, how they started. You know,|sd
+B|like air attacks and stuff like that dropped off like crazy.|sd
+A|Uh-huh.|b
+B|Because the Congress would not approve, you know.|sd
+A|The money is|%
+B|So, Yeah.|b
+A|after,|%
+A|yeah.|%
+A|I mean, I think it started actually like, like in the late fifties. I mean like in fifty-eight, fifty-nine.|sd
+B|Huh.|b
+B|I, I,|%
+A|So it really,|%
+A|I mean, because I know, in nineteen sixty-three, I mean I was nine years old, when Kennedy was shot.|sd
+B|Uh-huh.|b
+A|So, I mean I remember, uh, right around then that's when I first started hearing about Vietnam.|sd
+A|But then as I got older and studied in school, I realized it was even going on before that.|sd
+B|Yeah.|b
+A|You know, and you think to yourself, oh, my goodness, Eisenhower|sv
+B|Yeah,|aa
+B|right.|aa
+A|That sounds ancient,|sv
+A|yeah.|%
+A|And I know, I know, you know, a lot of the Vietnam vets that are my age in their later thirties, uh, guys that I know, that, they are just kind of bitter, you know.|sd
+A|They, they, you know,|%
+A|I hate to that movie BORN ON THE FOURTH OF JULY,|sd
+A|but it is that kind of idea.|sd
+B|Uh-huh.|b
+A|You know, they just do not feel that socially they were given,|sd
+A|like a friend of mine called it the yellow ribbon syndrome.|sd
+B|Right,|b
+A|Yeah.|b
+A|They were not given the,|sd
+B|right,|b
+B|the ticker tape parade and all that.|^2
+A|Yeah.|b
+A|So, well, I won't keep you any more.|fc
+B|Okay.|fc
+A|That is probably as about as much as we both know|fc
+A|But thanks for talking to me.|fc
+B|Yes.|fc
+B|Uh, were you calling from Texas?|fc
+A|Uh, yes,|fc
+A|is that where you are at?|fc
+B|No,|fc
+B|I am in Falls Church, Virginia.|fc
+A|Oh, I know where that is.|fc
+A|That is beautiful where you are at.|fc
+B|Yeah,|fc
+B|right in, right near D C.|fc
+A|D C,|fc
+A|yeah.|%
+A|Are you a native of there?|fc
+B|Uh, pretty much,|fc
+B|yep.|fc
+B|Been,|%
+A|Yeah,|fc
+A|uh, Dallas, it is, uh, ninety-two degrees here today,|fc
+A|but at least the humidity is, uh, below forty percent, which makes it kind of like Phoenix.|fc
+B|Yeah.|fc
+B|It is about the same weather here.|fc
+A|Really?|fc
+B|Little bit, little bit cooler, like eighty-nine.|fc
+A|Well, you,|%
+B|But, basically the same thing.|fc
+A|Yeah,|fc
+A|well you are not missing too much then|fc
+B|Yeah.|fc
+B|Right.|fc
+A|Really.|fc
+A|Well, take it easy.|fc
+B|Okay.|fc
+A|Okay.|fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc

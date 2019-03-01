@@ -1,0 +1,164 @@
+A|They suggested some sort of a recipe, uh, for, uh, company, for entertaining.|sd
+A|Did you have anything in mind that, uh, you'd like to share?|qy
+B|Well, I, uh, just had a Christmas Around The World party the other night and had some hors d'oeuvres.|sd
+A|Ooh.|bk
+A|Oh.|bk
+B|And I fixed, uh, a crab meat spread that is real good and real easy.|sd
+A|Ooh, that sounds good.|ba
+A|What,|%
+B|It's, uh, it's like, uh, eight ounces of cream cheese softened,|sd
+A|Uh-huh.|b
+B|and you mix it with one tablespoon onion juice and one tablespoon lemon juice, one tablespoon worcester sauce and mix it and spread it out onto a plate.|ad
+B|And,|%
+A|One tablespoon of worcester?|qy
+B|Uh-huh.|ny
+A|Okay.|bk
+B|And then you take and, uh, cover that with drained crab meat mixed with one of the small bottles of chili sauce and spread it over the top and spread it on Triscuits crackers.|ad
+A|Oh, that,|%
+B|And that always goes over real well|sd
+B|and it's real easy.|sd
+A|How much chili sauce did you say?|qw
+B|It's one of the small bottles.|sd
+A|Like eight,|%
+B|I don't think, uh,|%
+A|Not eight ounces.|qy^d
+A|That would be a lot.|sv
+B|Well, it's about eight ounces.|arp_nd
+A|Is it?|bh
+B|It, it,|%
+B|uh-huh.|ny
+A|Okay,|bk
+A|this would make a lot, right?|qy
+B|Yeah,|ny
+B|it would probably make,|sd
+B|well, it doesn't make quite as much as you think,|sd
+B|but, yeah,|%
+B|spread it out because you keep the cream cheese kind of thin.|ad
+A|And how much crab meat did you use?|qw
+B|One tin. Of the flake.|sd
+A|One, One can of flake.|b
+B|Uh-huh.|%
+B|And drain it real good.|ad
+B|Uh-huh.|b
+A|Oh, okay.|aa
+A|Have you ever used the, uh, imitation, yet?|qy
+B|Yes,|ny
+B|I have.|sd
+B|I used it, uh, last Christmastime.|sd
+B|Uh, what did I put it in?|t1
+B|I think I just served it by itself.|sd
+B|There's like a little tidbit with the sauce to dip it into and stuff.|sd
+A|Ooh, that sounds,|%
+A|I've tried it|sd
+A|and then I have it here on hand for about a week|sd
+A|and then all of a sudden it dawned on me,|sd
+A|wait, is this totally imitation|^q
+A|and then I found out,|sd
+A|I went back to the store|sd
+A|and they said it is a fish product.|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|So, therefore, you really don't have a very long life, you know once you buy it.|sv
+B|Right.|b
+B|Right.|b
+A|I thought, so, you know, they should put some directions on some of these new things they're making that you really don't know what the shelf life is.|sv
+B|That's very true.|aa
+A|You know.|b
+B|Very true.|aa
+B|I had bought a cheesecake, uh,|sd
+B|and they very nicely put onto the box that it may be re frozen, which I felt was real nice.|sd
+A|Oh, that's a good idea.|ba
+B|Yeah.|b
+A|Whose was that?|qw
+B|It, uh, was, uh, Lawry's, I believe, or Lawler's.|sd
+B|And I got it,|%
+B|do you have a Sam's Wholesale Warehouse up there?|qy
+B|It's real,|%
+A|Uh, Sam's,|^h
+A|right,|na
+A|right.|na
+B|Yeah,|bk
+B|okay,|bk
+B|that's where I picked it up.|sd
+B|It comes out of Chicago|sd
+B|and they're very good cheesecakes.|sd
+A|Oh.|b
+A|Oh, that sounds good|ba
+B|Yeah.|b
+A|because that's great.|ba
+A|That must be the ones that look like they're packaged for a restaurant.|qy^d
+B|Yes,|ny
+B|yes.|ny
+A|Okay,|bk
+A|I, I've,|%
+B|And they have, and they have the little papers between them.|sd
+A|Right.|b
+A|Oh, hey, that sounds,|%
+B|And I think they're, what, about nine dollars and something.|sd
+A|Right.|b
+A|And it's something good to have on hand, too.|sv
+A|It's frozen in the first place, right?|qy
+B|Yes.|ny
+B|Yes.|ny
+B|Yes.|ny
+A|So, you can, uh,|%
+A|it is frozen, isn't it?|qy
+B|Yes,|ny
+B|it is frozen.|sd
+A|And then you can re freeze.|qy^d
+B|And I thaw it|arp_nd
+B|and then you can re freeze it.|arp_nd
+B|And,|%
+A|Hey, that sounds great.|ba
+B|Uh-huh.|b
+A|That|%
+B|It was, they're very good, very good.|sd
+B|And that's the one thing that I hate to make is desserts.|sd
+A|Oh, do you?|bh
+A|And that's my favorite.|sd
+B|Is it?|bh
+A|And I really don't care for desserts that well other than one piece of it.|sd
+B|Oh, I love to eat it,|sd
+B|but I don't like to make it.|sd
+B|It takes time|sv
+B|and you have to rack your brain,|sv
+B|and, time I don't have anymore|sd
+A|That's the, that's the thing I hate most about entertaining is thinking of what I'm going to serve.|sd
+B|Uh-huh.|aa
+B|It is.|aa
+A|I, I said I can make it no time.|sd
+A|It's trying to think,|sd
+A|and then we just, uh, built a new home|sd
+A|and I have one of these kitchens that's the center of the house|sd
+B|Uh-huh.|b
+A|and so no matter where they're at, your company can see you cooking. Which is funny.|sd
+B|That's right.|aa
+B|And your mess|sv
+A|This, well, this is what everyone has said.|sd
+A|They said it's okay for you because you keep a real neat kitchen.|sd
+A|And I said, yes,|sd
+A|I decided it looks better in BETTER HOMES AND GARDENS than it does in practicality.|sv
+B|Yeah|b
+A|But, uh, what I have learned in the, uh, ten months we've lived here, is it that when I entertain, I have to have my foods all prepared and in the oven with all the, everything through, ready to serve. Because with the open area, you don't want someone from your dining room seeing your mess, like you said.|sd
+B|Right.|b
+B|Right.|b
+B|That's, that's right.|aa
+A|So you have to have the picturesque kitchen, you know, right out of the magazine.|sv
+B|Well, I like to have mine all done anyway, because then I want to, I want to party, too.|sd
+B|I don't want to sit in the kitchen and be putting an olive on something|sd
+A|You're right.|aa
+B|You know.|b
+A|And you know the funny thing is, now that I have a large kitchen with a big island and that, I still have people trying to come, you know,|sd
+A|they'll come in the kitchen|sd
+A|and I said, out,|sd
+A|we have the chairs on the other side of the counter for guests.|^q
+B|Correct|b
+A|You're not allowed to trespass into my kitchen|^q
+B|Sounds,|%
+A|And it, it has worked out.|sd
+A|But at our point of life we know many of the people we're entertaining uh, well enough that they know, you know, it's very much at home type situation.|sd
+B|Right.|b
+B|Well, a lot of our entertaining anymore with the couples, again, that we've known a long time like you, they, uh, we all bring things|sd
+B|and it sure makes it a whole lot easier. Anymore.|sd
+A|Well, we even have a better one.|sv
+A|Now we decided that we all meet, we have it worked,|sd

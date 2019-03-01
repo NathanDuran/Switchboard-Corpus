@@ -1,0 +1,231 @@
+A|Hi,|fp
+A|good morning.|fp
+B|Good morning.|fp
+A|Do you have  recycling in Sachse?|qy
+B|Yes,|ny
+B|we do.|sd
+B|We've  got, uh, a pickup twice a week that they come out|sd
+A|Do,|%
+B|and, they have their own special bin that they hand it out to everybody|sd
+B|and they take it.|sd
+A|Oh really?|bh
+B|Uh-huh.|b
+A|And it's  twice a week?|qy^d
+B|Uh-huh.|ny
+A|Really?|bh
+A|We have, recently started, uh, a bin program here in Plano where, uh,|sd
+A|used to be we, we put all of our trash in green bags and the trash men came out twice a week and picked up.|sd
+A|And now they have, uh, these large green containers|sd
+A|and you have to put your trash that you don't recycle in there.|sd
+A|And then they haven't started curbside recycling yet,|sd
+A|but they're, but they're planning on doing it very soon.|sd
+A|Apparently the trucks that they had, um, lined up, they needed the parts for, Saudi Arabia|sd
+B|Oh.|b
+A|And so that put off the program for a while.|sd
+A|But, uh, do you recycle?|qy
+B|Um, my kids do|na
+A|Do they?|bh
+A|Uh-huh.|b
+B|Put it  that way.|sd
+B|They, they've been recycling cans for extra money.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|So that's, that's been their summer money|sd
+B|and they're fixing to go to Disneyland.|sd
+B|So,|%
+A|Oh, well|%
+B|So,|%
+A|that's  great.|ba
+B|Yeah.|aa
+A|Well  that's the way we started too.|sd
+A|My daughter was going, to Camp Goddard, um, which is through the Plano school system,  you know in the fall  couple of years ago|sd
+B|Uh-huh.|b
+A|and she had to earn money for it|sd
+A|and she was too young to baby-sit.|sd
+A|So, that's how she started.|sd
+A|She started recycling cans|sd
+A|and from there we now recycle glass and newspapers and, uh, aluminum cans and plastics.|sd
+B|Really?|bh
+A|Uh-huh.|ny
+A|Uh-huh|ny
+B|Is, is that the same way as with the aluminum cans where you go|bf
+B|and they, weigh it or whatever|qy
+B|and,|%
+A|No,|nn
+A|the only thing we get paid for are the aluminum cans.|sd
+B|Um.|%
+A|Um, the rest of it we just do because my husband has become hooked on recycling.|sd
+A|And so, you know, we don't get paid for that|sd
+A|but that's okay.|sd
+B|Yeah.|b
+A|You know,  it's, it's not that much of a bother really.|sd
+A|You just have to rinse out your bottles or whatever|sd
+A|and we use a lot of, two liter bottles. Um, and like milk cartons and things like that.|sd
+A|It's amazing how much plastic you generate.|sd
+B|Yeah,|b
+B|I was amazed at how many cans  that  we got|sd
+A|Yeah.|b
+A|Yeah.|b
+B|because when the kids first went down, I said, that, you know that's great|sd
+B|and I was thinking, you know maybe I'd help supplement it, you know when they turned them in|sd
+A|Uh-huh.|b
+B|but it's amazing how many cans you go through.  And how fast they accumulate.|sv
+A|Yeah|aa
+A|it really is.|sv
+A|Well all that stuff|fo_o_fw_"_by_bc
+A|and how much,  how much we have reduced our waste.  You know,  that we, we're generating a week.|sd
+B|Uh-huh.|b
+A|Um, I know our neighbors, when we first went to this bin program said, oh, there's no way, you know we're going to have to have pickup twice a week.|sd
+A|They were real upset|sd
+A|but they weren't, they were only picking up once a week.|sd
+A|And we said to them, if you recycle, you'll, you know, you'll go two weeks without having to put out the green container.|sd
+B|Yeah.|b
+A|And, uh, it's, it's really amazing.|sd
+A|The other thing he does, that my husband a real stickler about is we don't collect our grass clippings.|sd
+B|Really.|b
+A|No.|nn
+A|He, he got a little mulcher thing.|sd
+B|Uh-huh.|b
+A|It's just a little  attachment for the lawn mower|sd
+A|and we mow once a week.|sd
+A|You know, no, no more often then that.|sd
+A|And then the clippings just get mulched up and then just lay on the, on, on, the, uh, the lawn.|sd
+A|And it's amazing,|sd
+A|it's amazing.|sd
+A|We don't collect any of that|sd
+A|and that, that has cut down a lot in what we throw out.|sd
+B|Yeah,|b
+B|we don't we don't catch it either, mainly because my husband rarely has time to mow the yard.|sd
+B|So, if it mows, gets mowed, I do it normally.|sd
+A|Uh-huh.|b
+B|And I can't mow the yard with the grass catch on it.|sd
+B|It's too heavy.|sd
+A|Yeah.|b
+B|So I just  I just mow it and leave it.|sd
+A|Yeah.|b
+B|It just  soaks in.|sd
+A|Sure it does.|aa
+A|Sure it does.|aa
+A|It really does|sv
+A|and it,|%
+A|actually they say that you're wasting fertilizer if you're not, uh, if you're catching your grass clippings.|sd
+B|Uh-huh.|b
+A|That, that's that much fertilizer you have to use because it does fertilize the lawn.|sd
+A|It's amazing.|sd
+B|Yeah.|b
+A|Yeah.|b
+A|Yeah.|b
+B|Oh, I like it better doing it.|sd
+B|Well one,|%
+B|it cuts down on my mow time anyway|sd
+A|Uh-huh,|b
+A|that's true.|ba
+B|and you zip through  it quicker.|sd
+A|That's true.|ba
+A|That's true.|ba
+A|Well, I, I really think you're going to get hooked on plastics and paper before you know it.|sd
+B|we probably will.|ba
+A|It's, it's really not that much trouble.|sd
+A|We keep a large plastic, uh, just a, you know, a garbage bag in the garage.|sd
+B|Yeah.|b
+A|And as soon as we use something, you know, we crush it up and put it out there|sd
+A|and then, you know, every few weeks we have recycling, a recycling center like near Wal-Mart.|sd
+B|Uh-huh.|b
+A|They're, they have the containers that you can just go over there and drop it in|sd
+A|and it's really no trouble.|sd
+A|And, uh, I feel like at least we're doing something.|sd
+B|Yeah.|b
+A|You know, , um, I read a book one time or a a magazine article|sd
+A|and they said something about how you don't realize even just your small contribution, it seems like a small contribution|sd
+A|but it's not.|sd
+A|If everyone were to recycle just their newspapers, they would save thousands and thousands of trees a day. A day, just from not throwing out your newspapers.|sd
+B|Really.|b
+A|And, uh, when you read that you think, well gee, maybe it is a big deal, you know.|sv
+B|What, what makes me sick is, is when they show the dump sites  you know,  and, and, how big they are.|sd
+A|Uh-huh|b
+A|Uh-huh.|b
+B|Or  like in New York, the barges that that go up and down the, the river|sd
+A|Yes.|b
+A|Yeah.|b
+B|and they  don't have any place to put it|sd
+B|and it just floats in the ,|sd
+B|it's like ugh.|sv
+A|Yeah,|b
+A|yeah,|b
+A|yeah.|b
+A|And that's, and that's really not necessary.|sv
+B|No.|aa
+A|It  really isn't|sv
+A|if everybody would do just a little bit it would make a big difference.|sv
+A|It would make a huge impact.|sv
+A|So, I'm excited about the recycling program in Plano|sd
+A|I, I, can't wait for them to get it started. Um, because it'll be that much easier for us,|sd
+A|you know, like I said, now we have to take it over to, to Wal-Mart.|sd
+A|It would be real nice if they just came by and just picked up.|sd
+B|Yeah.|b
+B|It, it's  it's convenient out here  for them to do it.|sd
+A|Um|%
+A|Now what, what  do they pick up?|qw
+A|It's just,|%
+B|They pick up the, the plastic, the glass, and the newspaper.|sd
+A|Oh they do?|qy
+B|Uh-huh.|ny
+A|Uh-huh.|b
+A|And do you  have to sort that?|qy
+B|And they will do the|sd
+A|Or do you just put it all in.|qrr
+B|No,|nn
+B|you just put it in the one bin|sd
+B|and, and I guess they do the sorting.|sd
+B|But, um, they'll do the aluminum cans too|sd
+B|but we don't give them those|sd
+A|Right.|b
+A|Right.|b
+B|The kids  keep those|sd
+B|So,|%
+A|So you're doing that now?|qy
+A|You're doing the newspapers and the glass?|qy
+B|Uh-huh.|ny
+B|Well  we don't, we don't take the newspaper to begin with. When, neither one of us are home   to read it.|sd
+A|Oh, uh-huh.|b
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|So we don't have the newspapers but the, the plastic and the glass|sd
+B|At first, when it first started, it, it, it was hard. You know, because you're just used to throwing things.|sd
+A|Uh-huh.|b
+A|My husband would, come home and go through the trash and say, you threw this away|sd
+B|Uh!|ba
+A|He would get, he would get all upset|sd
+A|and I'd say,|sd
+A|it's just such an automatic reaction.|^q
+A|And now  we think  before we throw anything away.|sd
+B|It is.|aa
+A|I mean, it's really funny.|sd
+A|We, we really,|sd
+A|once you get into the habit of it, it's okay,|sd
+A|it's just, it's just making it a habit that's hard|sd
+B|Oh, I know.|ba
+B|Well the kids have even got to the point where they, if they see anybody going in the trash can with a can, you know, they, they're, oh, no, don't do that|sd
+B|and they go to the sink, they rinse them out, and they put them upside down, they let them drain|sd
+B|and and then, uh, after a couple of days they take them all outside|sd
+A|Uh-huh.|b
+B|and, I put them in a big bag anyway|sd
+A|Uh-huh.|b
+B|and then they dump the bag out|sd
+B|and then they crush them.|sd
+B|So that's  their activity thing. To  go out there and crush.|sd
+A|Uh-huh.|b
+A|That's fun.|ba
+A|Yeah,|b
+A|yeah,|b
+B|So,|%
+A|yeah.|aa
+A|Oh, that's a lot of fun.|sv
+B|Yeah.|b
+A|That's a lot of fun.|sv
+A|Well, that's great.|sv
+A|Well I'm to hear you're, doing that.|sd
+A|I,|%
+A|my sister was here recently from Connecticut|sd
+A|and they have a deposit on all their bottles and cans.|sd
+B|Oh really?|bh

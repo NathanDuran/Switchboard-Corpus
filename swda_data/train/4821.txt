@@ -1,0 +1,119 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|Uh, let me see|^h
+A|I've been sitting here awhile.|sd
+A|I almost forgot the topic.|sd
+A|But, uh, it seems like I get most of my news from television.|sd
+A|I'm, we only get the paper on the weekends|sd
+A|and so I'm not much of a, of a paper reader|sd
+A|or but I, I and I'm don't, rarely listen to the, uh, radio|sd
+A|so I get most of my news like from documentaries like FORTY-EIGHT HOURS, TWENTY TWENTY, you know, the news at night. News in the afternoon, that kind of thing.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|Well I get a, weekend paper as well|sd
+B|and, uh, in addition to that I get a local weekly.|sd
+B|I, I live in suburb of Milwaukee|sd
+A|Uh-huh.|b
+B|and they get, they have community newspapers around here so the local, their extremely local stuff uh, is in the local paper that comes out once a week|sd
+A|Uh-huh.|b
+B|and then I get the Sunday, uh, MILWAUKEE JOURNAL because I don't have time to read a paper.|sd
+B|Uh,  mostly  that's my difficulty.|sd
+A|Right.|b
+B|I, uh, I get my news pretty much from the same sources as you do, although I do listen to N P R which has very good, and that's National Public Radio  which  has very good, uh, coverage of the national and international news, I feel and does a pretty good job of  analysis as well.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Are you in  the car quite a bit|qy
+A|or,|%
+B|No,|nn
+B|I'm not actually. Uh,|sd
+B|but I can run my radio in my office.|sd
+B|I, I  teach at the university|sd
+A|Oh.|b
+B|and when I'm not teaching, if I choose to have the radio on I can listen to that station,|sd
+A|Oh.|b
+B|so.|%
+A|Uh-huh.|b
+A|Oh, I see. Uh,|bk
+B|How are you, are you satisfied with the TWENTY TWENTY and FORTY-EIGHT HOURS and the things that you do  watch?|qy
+A|Yeah.|ny
+A|I, I, I pretty much am|sd
+A|and I watch the news at least twice a day.|sd
+B|Uh-huh.|b
+A|So, uh, if I've missed something and, and I've just recently decided to stay home with my children|sd
+A|and so it seems as if I catch the news right as it happens, you know.|sd
+B|Uh-huh.|b
+A|There was the explosions and that kind of thing.|sd
+A|My husband will say how did you know about that.|sd
+A|Yes,|^q
+A|it happened at such and such time|^q
+A|And that's so, that, that's different for me.|sd
+A|So I usually find out exactly when it happens and that  kind of thing.|sd
+B|Is that  the aspect of the news that you're most interested in is, is the timely noting of the events as they happen?|qy
+B|Is that what you feel good about  in the news coverage?|qy
+A|Uh, no|nn
+A|it  just seems like since I've recently stayed home, that is what's happened, you know.|sd
+A|It's just that, uh, now that I've stayed home, I'm, I'm usually aware of when these things  occurred|sd
+B|Uh-huh.|b
+A|and it happened|sd
+A|and,|%
+B|Well, I, myself, uh, the reason why I listen to N P R and the reason why I watch MACNEIL LEHRER, rather than the, than the network news shows at night, although I do watch a local ten o'clock in the evening news which carries over a lot of the national news stories uh, is that quite often it seems to me the national doesn't do a very good job of analysis.|sd
+A|Right,|b
+A|right.|b
+B|The local doesn't either|sd
+B|but I feel that MACNEIL LEHRER get a little more deeply into some, some of the issues that are really current.|sv
+A|Uh-huh|b
+B|And perhaps newspapers do that|sv
+B|but as I said, I don't have time to sit down and read a newspaper|sd
+B|and frankly when I have read a newspaper I haven't noticed that kind of analysis either.|sd
+A|Uh-huh.|b
+A|Huh.|b
+B|So. Uh, there's, there is some danger to that, of course, too.|sv
+B|Because if the analysis is inaccurate or biased or whatever then, you know, how good is it.|qh
+B|But, uh, I like a little more indepth coverage|sd
+B|and I think that's what you're, maybe appealing to you too on something like TWENTY TWENTY or FORTY-EIGHT  HOURS.|sv
+A|Right.|aa
+A|Right.|aa
+A|It kind of gives you the whole story or more of the story.|sv
+B|Uh-huh.|b
+A|That kind of thing.|h
+B|Yeah.|b
+A|So. Uh,|%
+B|I'm more interested in trying to understand what's going on in the  world  rather than simply being aware that, you know, there, that an event has occurred|sd
+A|Yeah.|b
+A|Yeah.|b
+B|I, I like to stand back and get a slightly bigger picture.|sd
+B|Maybe because I'm easily confused by detail.|sd
+B|I don't know|h
+A|Uh-huh.|b
+A|Yeah,|b
+A|I know what you're saying.|sd
+A|Yeah.|%
+B|So.|%
+A|But I try and catch most of those programs on Wednesday's and Friday's|sd
+A|and if I miss them, I try you know, I try and, and tape them if I'm out that kind of thing,|sd
+A|I try and tape them|sd
+A|and so I can sit back and watch them.|sd
+A|And it's pretty interesting.|sd
+B|When,|%
+B|you have young children, right?|qy
+A|Uh-huh.|ny
+B|So those evening shows are probably also at a time when you're at liberty to take some time off and be in front of the T V set for awhile  without interruption.|qy^d
+A|Well, yeah.|ny
+A|Plus,  I find that I have to video tape quite a bit of things|sd
+B|Oh, you do?|bh
+B|Uh-huh.|b
+A|If I don't want any interruptions,  you know.|sd
+B|Uh-huh.|b
+A|That kind of thing.|h
+B|When is your good watching time?|qw
+A|Uh, it seems like ten o'clock at night|sd
+B|Uh-huh.|b
+B|Yes.|b
+B|Yeah,|b
+B|that's what,|%
+A|Unfortunately,|sd
+A|but that, that's what it seems like, ten o'clock at night.|sd
+B|I have older children and getting dinner on the table.|sd
+A|Uh-huh|b
+B|I come from the east coast|sd
+B|and I was,|%
+B|it amazed me when I got out here to the midwest and found out that even though they're an hour earlier in time, they still watch the news when,|sd

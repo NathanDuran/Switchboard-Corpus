@@ -1,0 +1,113 @@
+A|Um, are you working right now?|qy
+B|Uh, yes,|ny
+B|I am.|sd
+B|I'm working in the computer science department here uh, at C M U.|sd
+A|Uh,|%
+A|What kind of, what kind of work do you do?|qw
+B|Uh, I'm doing basically system, system design work and, uh, implementation work for the speech, for the speech group uh, here.|sd
+A|Uh-huh.|b
+A|Oh.|b
+A|is that how you heard about this thing?|qy
+B|Yeah,|ny
+A|Uh,|%
+B|actually through electronic mail.|sd
+A|Uh-huh.|b
+A|Me too.|sd
+A|I work at, uh, the Georgia Tech Research Institute.|sd
+B|Uh-huh.|b
+A|Um, I'm a co-op student|sd
+A|so I work and go to school about halftime.|sd
+A|And, uh, I really don't have any job benefits to speak of.|sd
+A|We're kind of, um,|%
+A|I don't know,|h
+A|they just kind of forget us on that end.|sd
+A|We don't really have any vacation or, you know, sick days or health care or anything really|sd
+A|so.|%
+B|Right.|b
+B|So it's pretty fair they've got you slaving away,  at,  at this point|bf
+A|Exactly.|aa
+A|Exactly.|aa
+B|Yeah.|b
+A|What about you?|qo
+B|Well, um, I'm research stuff here now|sd
+B|so what they, they have, uh, um, okay, benefits package.|sd
+B|It's not quite as good as industry|sv
+B|but one of the significant, um, benefits here is that you can take, uh, up to two courses a semester, um,|sd
+B|and they pay for you know, pay for the classes.|sd
+A|Huh.|%
+B|So,   that works out to be, um, a reasonable, a reasonable benefit.|sd
+A|Yeah.|b
+A|Uh, they do that I think if you're, uh, research here|sd
+A|then I know of some of the people that have gotten their masters|sd
+A|and I think that, um, they might, you know, pay for that.  Pay for  the classes and stuff|sv
+B|Uh-huh.|b
+A|but I know they let you, they'll let you decrease how many hours you work by kind of percentage.|sd
+A|You know, they'll let you work halftime if you want to, if you want to finish,|sd
+B|If you want to,  do it quickly.|bf
+A|you want to,|b^m
+A|Yeah.|aa
+A|They'll let you work, decrease your number of hours by any percentage just, just about so if you want to get your masters|sd
+A|and then, I think of course you get like a, with your extra degrees you get a pay raise due|sd
+A|so that will probably help out.|sv
+B|Uh-huh,|b
+B|uh-huh.|b
+B|Yeah.|b
+B|Yeah.|b
+B|So I, I don't know in, in terms of other things, other benefits other than sort of monetary|sd
+B|I'd, you know, I,|%
+B|Yeah,|ny
+B|we, we do.|sd
+B|We have to contribute a certain amount, uh, to it.|sd
+A|Uh-huh.|b
+B|And it's kind of split between C M U and,  and, you know,  the employee.|sd
+A|Yeah.|b
+A|Yeah,|b
+A|I think, I mean that's pretty, that's a pretty important, uh, part of it there because that, that can be really expensive if you ever have any health problems.|sv
+A|My dad, I think my,|%
+A|I'm still covered on, with my dad's, uh, health plan at his, where he works,|sd
+A|but it would definitely be something to look into once I get my own.|sv
+B|Right.|b
+B|Yeah,|b
+B|and it's also, right now it's, uh, the,|%
+B|like everywhere else, uh,|sv
+B|here in Pittsburgh the health care, uh, rates are, are going up pretty quickly.|sd
+A|Uh-huh.|b
+B|That's a whole other topic to begin with too|sd
+B|but.|%
+B|Yeah,|%
+B|but it's, you are right.|sv
+B|I, I, I really agree that, that that's pretty important.|sd
+A|the I think the, I guess the only real, um, benefit I guess you could say working, for me working here, besides I mean|sv
+A|I'm learning and stuff because,  I'm at, you know,  in school.|sd
+B|Right.|b
+A|But there's, there's some where, uh, uh, student employees working for the government don't have to pay Social Security tax. that's about, five percent right there|sd
+B|Right.|b
+B|Uh-huh|b
+B|Oh|b
+B|Now that's a big win.|sv
+A|so.|%
+B|Yeah,|b
+B|yeah.|b
+B|That's,|%
+A|That's  about the only real bonus|sv
+B|Yeah.|b
+A|I have, so I have to take that into consideration when I evaluate like how much I get paid you know, because if I was working somewhere else I'd have to, you know, pay an extra five percent,  or so.|sd
+B|Yeah.|b
+B|I figured for|%
+B|and they've just raised the, um, income caps on Social Security to the point where you have to be pretty, you have to be pretty well off before you stop paying paying that as well.|sd
+A|Huh.|%
+A|Yeah.|b
+B|Yeah,|%
+B|well if you could call it a benefit that C M U, I mean|sd
+B|the other thing that they allow you to do here while you are working is, is consult for, um, you know, other companies.|sd
+A|Oh, yeah?|bh
+B|Um, so that's, that kind of helps out in terms of,  you know,  keeping up-to-date with contacts in industry.|sd
+A|Uh-huh.|b
+A|Yeah.|b
+B|You know, in case,  you know, in case you ever need to bail out|sd
+A|help a lot.|sv
+A|Yeah.|b
+A|See around, around here it's like, uh,|sd
+A|we pretty much work from project to project on, well, you know, with different sponsors.|sd
+B|Uh-huh.|b
+A|There's not, there is not a whole lot of, you know, funded research from,|sd

@@ -1,0 +1,202 @@
+B|All right|fo_o_fw_"_by_bc
+B|so, uh, you live in Dallas?|qy
+A|Yes,|ny
+A|I live in Dallas.|sd
+B|Now I understand that, um, the, the real estate market out there has really gone crazy, up and down, up and down.|qy^d
+A|Yeah,|ny
+A|I think right now it's, it's kind of bad Uh,|sv
+A|I don't live in a house,|sd
+A|I live in an apartment|sd
+B|Oh.|%
+A|Are, are you in a house?|qy
+B|Yeah,|ny
+B|uh-huh.|ny
+A|Okay.|bk
+B|Yeah,|b
+B|we have a single family home in northern Virginia just outside of Washington.|sd
+A|Uh-huh.|b
+A|Well, I guess the best I can do is, is, uh, compare apartments|sd
+A|If it can compare the one that I have now, with the one that I had the last time, the one that I have now, uh, has a lot more amenities, I guess is the right word, than the one that I moved out of.|sd
+A|Uh, this one, you know, gave us free cable and, uh, ceiling fans|sd
+A|and, uh, it was practically new when I moved in here|sd
+A|and the carpet was new|sd
+A|and,|%
+B|Huh.|%
+B|Do you live in the high-rise?|qy
+A|No,|nn
+A|it's not a high-rise.|sd
+A|It's just a, a two story building.|sd
+B|Uh-huh.|bk
+A|Uh, but there's, you know, there, there are a lot of buildings|sd
+A|but it's just two stories.|sd
+A|Uh, on the second floor they have, they don't have a patio|sd
+A|but they have a sunroom instead of the patio.|sd
+A|On the first floor, um, where I am, there's a patio.|sd
+B|Oh, okay.|b
+B|So, so you just, you have one floor all to yourself?|qy^d
+A|Yeah.|ny
+B|Oh, okay.|bk
+A|The rooms are nice and large|sd
+A|and, let's see, I have, I have two bedrooms.|sd
+A|And, uh, ,|%
+B|Oh, that's nice.|ba
+B|Do you get your own washer, dryer?|qy
+A|Well, I, I, I have a washer and dryer area|no
+A|and I, I did buy the washer and dryer,|sd
+A|but they didn't provide it.|sd
+B|Oh.|bk
+A|The one that I moved from didn't, didn't have a place to put them,|sd
+A|and that's one of the reasons that I did move.|sd
+B|Yeah.|b
+B|That is nice.|sv
+A|Yeah.|b
+A|Get tired of dragging clothes to the laundromat|sv
+B|Yeah.|aa
+A|So, tell me|ad
+B|Yeah,|b
+B|I've always, uh, been pretty lucky.|sd
+B|The real estate out here's been pretty good.|sd
+B|It, uh, the, the prices of, well, the prices came down last year.|sd
+B|We've, we had sort of like a Dallas syndrome|sd
+A|Yeah.|b
+B|The past, uh, uh, year and a half prices have gone down which is totally new for northern Virginia.|sd
+A|Uh-huh.|b
+A|It just , It's a real good ,|sv
+B|It just never happened before.|sd
+B|So it's really surprising everybody.|sd
+B|All the developers don't know what to do|sd
+A|Yeah,|b
+A|it's a good time to buy, if you're in the market.|sv
+B|Yeah,|b
+B|we're, uh, we actually have our house on the market because we have two kids|sd
+A|Uh-huh.|b
+B|and we have a three bedroom house.|sd
+B|And it's pretty much filled up right now.|sd
+A|Oh, so you want a bigger one.|qy^d
+B|Yeah,|ny
+B|uh-huh.|ny
+B|Get an extra bedroom or a basement.|sd
+B|Right now it's just a, a single level rambler.|sd
+A|Uh-huh.|b
+A|One thing about the houses in, uh, in Dallas, they don't, uh, utilize basements the way they did in New York.|sd
+A|My parents in New York had, uh, a, uh, three family house.|sd
+B|Uh-huh.|b
+A|Actual a,|%
+A|two family house where the, the, um, the downstairs and the second floor they had,|sd
+A|and then they rented the third floor with the whole apartment, you know.|sd
+B|Oh.|b
+A|And, uh, they had a basement,|sd
+A|and they, you know, they finished the basement,|sd
+A|and they were able to rent that out also.|sd
+A|But, uh, in Dallas I, I just, I just haven't seen basements in houses.|sd
+B|Yeah,|b
+B|yeah.|b
+A|And I've looked at a lot of them, you know .|sd
+B|Yeah,|b
+B|a friend of mine was thinking about coming down there,|sd
+B|and that's what he said was that, you know, it just wasn't something that people had down there.|sd
+A|No,|aa
+A|it's|%
+B|They put pools and garages on, but, uh, no basements|sd
+A|Right.|b
+A|I haven't, I haven't, I have yet to see a basement in a house.|sd
+B|Huh.|%
+A|And, uh,|%
+B|Maybe it's all the sand.|sv
+B|Is there a lot of sand in,|qy
+B|I always think it's like a desert,|sd
+B|I don't know.|h
+B|Dallas always,|%
+A|Well, no.|ar
+A|No,|ar
+A|no,|ar
+A|no,|ar
+A|you know, I don't see that kind of sand here. Um,|sd
+A|there are some areas though where, where they have a problem with, uh, the houses kind of sinking a little bit into the, to the, uh,|sd
+B|Uh-huh.|b
+A|or the foundation is sinking or something. You know, just a little, just a little bit, some more than others.|sd
+A|But you, you have to know the right spot, to, to pick where that doesn't happen.|sd
+B|Yeah.|b
+A|And, uh ,|%
+B|Well, out here we, um, we live in what used to be, uh, like a prairie or whatever a natural, you know, natural grasslands.|sd
+A|Uh-huh.|b
+B|And, uh, they,|%
+B|it's just, you go down four inches|sd
+B|and you get to well, fourteen inches you get to sandstone.|sd
+A|Yeah.|b
+B|And so any place where they put a basement in they had to blast|sd
+A|I see.|b
+B|It's just solid sandstone.|sd
+A|Huh.|%
+A|Where did you say you're at, Colorado?|qy
+B|No,|nn
+B|Virginia.|sd
+A|Virginia,|b^m
+A|Virginia.|b
+A|That's right .|sd
+B|Yeah,|b
+B|it's sort of unusual really.|sv
+B|Most of Virginia is clay.|sd
+A|Anywhere near, uh, Virginia Beach?|qy^d
+B|Oh, yeah,|ny
+B|uh-huh.|ny
+B|Yeah.|ny
+B|My, uh, my folks used to live there.|sd
+B|Back before I was born, they lived there.|sd
+A|Oh.|b
+A|Uh-huh.|b
+A|Well, different areas in Dallas have different kind,|sd
+A|in, uh, in Texas I'll say|sd
+A|because down in east Texas there's a lot of red clay.|sd
+B|Uh-huh.|b
+A|And, uh, in the, in the Dallas, you know, Fort Worth city areas you don't see that.|sd
+B|Yeah,|b
+B|well, uh, Texas is a big state|sd
+B|so I imagine the, the type of houses and, uh, things like that are truly different from area to area|sv
+A|Yeah,|b
+A|well,|%
+B|But, uh, that's the same way out here|sd
+B|because, um, well, we, for example, and we live fifteen miles from the beltway that surrounds Washington|sd
+A|Uh-huh.|b
+B|and anything instead that beltway, the highway, the real estate's forty thousand dollars more expensive.|sd
+A|Yeah.|b
+B|So, you know, you really can't afford, I, I, I could never afford a house inside the beltway.|sd
+B|That's why we came out here.|sd
+B|This is called the, the, the country, you know, with only, you know, maybe twenty miles total from D C, twenty-five from the city.|sd
+A|Huh.|%
+B|But, um, it's considered the country since it's, uh, you know, that far out.|sd
+A|Well ,|%
+B|But, um, yeah,|b
+B|we live out by Dulles Airport.|sd
+A|I see.|b
+B|Yeah,|b
+B|and, uh, that's one of the few places still in northern Virginia|sd
+B|they have trailer parks that are down around the corner from here|sd
+B|and, you know, it's, it's still pretty rural.|sd
+A|Uh-huh.|b
+B|Uh, not too much of northern Virginia is like that anymore.|sv
+B|Land has gotten so expensive|sd
+B|they just can't afford to have low income housing like that.|sv
+A|So, is your house in an area by itself?|qy
+A|I mean,|%
+B|No,|nn
+B|we're in a development.|sd
+A|it's not connected to another one?|qy^d
+B|There's, uh,|%
+B|yeah,|ny
+B|there's another one half an acre away, or a quarter acre away rather.|sd
+A|Oh.|%
+A|But it's not, they're not connected are they?|qy
+B|Oh, no.|nn
+B|Huh-uh.|nn
+B|You have to, uh, stay in one single family home.|sd
+B|I sort of got spoiled with that when I was growing up.|sd
+A|Yeah.|b
+B|Uh, my folks, um, had an apartment for a while when we were kids|sd
+B|but, um, for the most part they, they always had, you know,|sd
+B|and Pennsylvania always had a single family home|sd
+B|and so, you know, as soon as we could we, we got a single family home,|sd
+A|Uh-huh.|b
+B|and that's all I ever knew growing up,|sd
+A|Uh-huh.|b
+B|so. I stayed in a townhouse for, uh, two years and then, uh, saved up enough money to, to get a,|sd

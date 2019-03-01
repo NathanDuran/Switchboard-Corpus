@@ -1,0 +1,162 @@
+A|Type of music is hot down in Texas?|qw^d
+B|Uh, well, I don't know exactly what's hot down in Texas.|sd
+B|I know what's hot down here with me,|sd
+B|so that's about all I can feel apt to discuss with you since I just know,|sd
+B|I don't ever listen to the radio|sd
+B|and that's usually what's hot around here|sd
+B|so, So, what kind of music do you like?|qw
+A|Oh, okay.|bk
+A|Uh, mostly folk music.|sd
+B|Folk music.|b^m
+A|Yeah,|ny
+A|I find myself, uh, listening to a lot of, uh, uh, either old timer or New England, uh, dance bands as well as, uh, just more popular folk music and new artists coming up.|sd
+B|Uh-huh.|b
+B|Well, we're on totally different wavelengths.|sv
+A|Okay.|b
+B|I'm more, uh, old rock and roll, uh, some new, newer, I guess you would call it heavy metal rock and roll type you know, uh, Van Halen, that kind of thing.|sd
+A|Uh-huh.|b
+A|Yeah,|b
+A|what about, uh, classic rock type stations.|qw
+B|Uh, I don't listen to the radio at all.|sd
+B|We live in a fairly small town,|sd
+B|so uh, classic rock for me is what I have, which is like, uh, Doors, Eagles, Jimmy Hendrix.|sd
+A|Oh, okay.|bk
+A|So, some some of the older Eagles stuff was good.|sv
+B|Uh,|b
+B|Yeah.|b
+A|I, I didn't like, uh,|sd
+A|they started getting a little more, you know,|sv
+A|the type of music, at least to me, it's, uh, sounds like it's only sounds good at a high volumes|sv
+A|and I don't like listening at high volumes.|sd
+B|Yeah.|b
+B|Yeah.|b
+A|But, uh, some of their older stuff was, uh, you know, quite enjoyable to me.|sd
+B|Yeah,|b
+B|well they,|%
+A|You know, Hotel California and that era.|sd
+B|Yeah,|b
+B|yeah|b
+B|that does, that's something you don't, doesn't even sound good loud really. You know.|sv
+A|Yeah.|b
+B|You know, definitely.|aa
+B|Uh, so, anything new you like coming out now, other than folk music, some I might know of.|qy
+B|I don't know any folk music at all.|sd
+A|Well, down in Texas, uh, you know, little, listen to a little country every now and then.|sd
+B|Yeah,|b
+B|oh yeah,|b
+B|here,|%
+A|I'm sure there's a lot of that down there.|sv
+B|Oh, plenty.|sv
+B|Way, way more than I can stand down here.|sv
+B|I, I don't care for it at all, that Texas twang or whatever you want to call it.|sd
+B|I,|%
+A|Well, there, there's a Conway Twitty twang,|sd
+A|then there's the, uh, Dolly Parton, uh, Hollywood sound.|sd
+B|Yeah,|aa
+B|yeah,|aa
+B|that's more, even more commercialized for of country music.|sv
+A|Yeah.|b
+B|But, uh, it's getting, uh, uh, getting pretty big everywhere, as I see it.|sv
+B|Garth Brooks is outselling Guns and Roses|sd
+B|so,|%
+A|Yeah,|b
+A|I think some of them, the artists are even, uh, hitting the pop charts.|sv
+B|Yeah,|b
+B|it's, it's kind of strange that it's getting as big as it is.|sv
+B|Concert tours for country and western sings is, it's, it's quite, quite odd,|sv
+B|but, uh, I don't know,|h
+B|it's, music is kind of going an odd direction nowadays, I think.|sv
+B|It's becoming not necessarily good music, just popular music, you know.|sv
+A|Hey,|ba
+A|I, I, I think most artists are in to make a few bucks.|sv
+B|Yeah,|b
+B|and that's all it,|%
+A|But they're not in it to say anything or give a message which is what they were|sv
+B|Yeah.|b
+A|late, late sixties, early seventies, they were they were definitely pushing a message.|sv
+B|That's what it,|%
+B|Yeah,|aa
+B|that's what, what you say,|aa
+B|and, and then music is wrapped around now.|sv
+B|Now, it's the other way around.|sv
+A|Yeah,|b
+A|I, I don't, I don't think Gun,|sv
+A|at least to my mind, Guns and Roses doesn't have too much of a message, too much to say.|sv
+B|No,|aa
+B|no,|aa
+B|they don't have anything really important you want to hear.|sv
+B|But, you know, it's kind of odd,|sv
+B|it's like, it doesn't have to be good,|sv
+B|it's just who does it, you know.|sv
+A|Uh-huh.|b
+B|You hear a, you hear a Paula Abdul song|sd
+B|and you,|%
+B|and I think, if somebody else were to play that, you know, they wouldn't, they, nobody, everybody would think, that's lousy,|sv
+B|but because she did it, it's supposed to be good, you know,|sv
+B|it comes to the point where it's your name, not what you do more than anything.|sv
+A|Right.|b
+B|Madonna can do anything|sv
+B|and it would be considered good because it's Madonna, you know.|sv
+A|Right.|b
+B|Madonna could start playing folk music|sd
+B|and folk music would be huge just because Madonna does it,|sv
+B|so it's, it's, it's really backwards how things are working now|sv
+A|Uh-huh|b
+B|but,|%
+A|Yeah,|aa
+A|it's the artist, not the merit.|bf
+B|Yeah,|aa
+B|exactly.|aa
+B|So, I don't know, I, I don't know that that's, I don't think that's a good thing at all,|sv
+B|but that's that's what the, point we've reached,|sv
+B|so I don't know how how much farther we can digress before we have to turn it around and go the other way, at least.|sd
+A|Yeah.|b
+A|Well, I don't know,|h
+A|I know for myself that, uh, for the most part, I don't know which artist is which,|sd
+A|so I listen to a song,|sd
+A|I either like the song|sd
+A|or I don't like it|sd
+B|Yeah.|b
+A|and then if I really like the song, eventually I'll figure out who it was.|sd
+B|Yeah.|b
+B|Yeah,|b
+B|that's about how I am on popular music.|sd
+B|I don't, you know, you don't, I don't know enough about it because I just listen,|sd
+B|uh, everything I listen to is what I buy, not whatever they play on the radio|sd
+B|so,|%
+A|Well, you have to figure out what to buy,|sv
+A|or do you just buy along the same artist?|qy
+B|Uh, I,|%
+B|yeah,|ny
+B|I just mostly buy along the same lines all the time.|sd
+B|I don't really switch around to new things very often.|sd
+A|Yeah.|b
+B|It's just, it's, you know, it's way to hectic and too confusing.|sv
+A|Yeah,|b
+A|so you keep buying the same artists until you don't like an album, then you stop?|qy
+B|Uh,|%
+B|yeah,|ny
+B|generally,|sd
+B|or, about the only new music I hear is somebody else that I know will buy something new that I haven't heard|sd
+A|Yeah.|b
+B|and I listen to it that way,|sd
+B|but as far as,|%
+B|yeah,|%
+B|I don't go out on a limb and buy something new very often unless I've heard it.|sd
+A|Yeah,|b
+A|see, that's one thing I like about the, uh, some of the folk music scenes, you know,|sd
+A|there's a couple of nice, uh, small coffee houses up in New Jersey.|sd
+B|Yeah.|b
+A|And, it's very nice,|sv
+A|you go into the coffee house|sd
+A|and, you know, an artist is there|sd
+A|and very often the artist will have a an album|sd
+A|and, so if you like the artist, you buy the album.|sd
+B|Yeah.|b
+A|So you definitely get to try before you buy.|sd
+B|Yeah,|b
+B|yeah,|b
+B|that's definitely|%
+B|I,|%
+A|You know, it,|%
+A|you, you, you don't always quite get it right,|sv

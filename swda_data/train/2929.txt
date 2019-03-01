@@ -1,0 +1,217 @@
+A|You want to go first?|ad
+B|Well, I believe that the, um, the voice, that, uh, initialized this call asked about, uh, if we thought that it should be something that should be put into action.|sv
+A|Yeah,|aa
+A|like the if, should the government make it universal or something like that.|sv
+A|Yeah.|%
+B|Yes,|aa
+B|I, I, I, I would be committed to that,|sv
+A|Uh-huh.|b
+A|You, you would be in favor of it?|qy^d
+B|Oh, definitely.|na
+B|Yes.|ny
+A|Uh-huh,|b
+A|uh-huh.|b
+B|I know that there are many countries that, uh, are very successful with the operation of the government, uh, providing that plan.|sd
+A|Uh-huh.|b
+A|Do they have options on who they, uh, you know, like choices of doctors and that type of thing?|qy
+A|Do you,|%
+B|Um, I'm not sure how their program is run,|no
+B|but I know it has been successful.|sd
+A|Uh-huh.|b
+B|And I would really have to, uh, read the history of, probably I, uh, the country that has fared very well with it,|sd
+B|and I'd like to see the, uh, the data on that.|sd
+A|Uh-huh.|b
+A|That's the way with me,|sd
+A|I don't know a whole lot about it.|h
+A|I|%
+A|that's the only concern I would have, because I think personalities plus the type of doctor it is has a lot to do with the care,|sd
+A|and if you didn't have any choice on, you know, in who you go to,|sv
+B|Well I,|%
+B|Yes,|aa
+A|Uh-huh,|b
+A|uh-huh.|b
+A|Uh-huh.|b
+A|Or to change even, like if you didn't approve or didn't think you were getting good service.|sv
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Uh-huh.|aa
+A|There, that's one of my main concerns.|sd
+A|I, I have a friend that has, their boy has been sick for several months,|sd
+A|and they just have found out what's the trouble.|sd
+A|And they have gone through, uh, one, two, three, four, five doctors and then a team of doctors,|sd
+A|and they finally determined what the problem was.|sd
+A|It took that long.|sd
+B|Yes,|b
+B|and the expense of that, yes.|sv
+A|And that, that, something like that, you know, I thought, if you couldn't change or look elsewhere, you know, for help, if you|sv
+A|I don't know how that program works, you know, if you can do that.|sv
+B|Well, I would, I would think that they would have that as part, part of the benefit to the health care program, that you would indeed have a choice that you could select that individual yourself.|sv
+A|Uh-huh,|b
+A|uh-huh.|b
+A|Uh-huh.|b
+B|And I'm sure that they would have a history of each doctor, and hopefully that they would have their, um, accreditations there too.|sv
+A|Uh-huh,|b
+A|uh-huh.|b
+A|I guess that's, that's primarily was one of my thoughts, you know, because, you know how government is|sv
+B|Yes, um,|aa
+B|but those guidelines have to be set up,|sv
+B|and I think they should be voted on by the public.|sv
+A|Uh-huh.|b
+B|And, uh,|%
+A|For them to have a choice on if they're in favor of it or not.|sv
+B|Uh-huh,|b
+B|uh-huh.|b
+B|Right,|aa
+B|yes.|aa
+A|It, it would.|sv
+B|And of course  they would give a full plan of what their intentions would be,|sv
+B|and, um, I think that's primary, uh or an individual perhaps being single.|sv
+A|Uh-huh.|b
+A|Uh-huh,|b
+A|uh-huh.|b
+A|Uh-huh.|b
+A|Uh-huh,|b
+A|uh-huh,|b
+A|uh-huh.|b
+B|Um, I'm not sure what else that, uh, we could address, uh, on health care, uh, other than the fact, I think, uh, the eyes and the ears and the, uh, whole self should be, uh, uh, included in all of that.|sv
+A|Uh-huh,|b
+A|uh-huh.|b
+B|Uh, dental, eye care, and, uh, our body as a whole should be included in that because there are so many avenues that needs to be, um, undertaken in a program like that.|sv
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|Um, I wouldn't want to have to go for a private doctor for anything and not be covered by the program.|sd
+A|Uh-huh.|b
+A|I know where my son works they have, uh, an option right now where they can have their own physician|sd
+A|or they can choose one that their company has elected|sd
+B|Uh-huh.|b
+A|and that costs them less if they take the doctor that, uh, that the company has selected.|sd
+B|And does he have an option uh, if he doesn't care for the personality?|qy
+A|He|%
+A|Well, only to the point that he could go to somebody at his own expense.|ng
+B|Oh, I see|bk
+A|Otherwise he you know, he has to take the physician that, uh, and the hospital that the company has chosen as their, you know, the one they have taken.|sd
+A|And there again, I mean, he's gotten good service.|sd
+A|He took the less expensive one of course.|sd
+B|Well, if he's pleased with it, I guess that's, uh, the bottom line.|sv
+A|Uh-huh,|b
+A|uh-huh.|b
+A|Uh.|%
+B|So, but I, I would be afraid of what would happen if you had a personality conflict or something.|sv
+A|Right,|b
+A|right.|b
+A|Yeah.|b
+B|Yeah,|b
+B|cause there's always that opposite story there.|sv
+A|Uh, cause that's the first I've really known anybody that, you know, works for somebody that they had that option, you know, to make the choice of what kind of insurance policy they, what kind of hospitalization they wanted to take.|sd
+B|Uh-huh.|b
+B|It's quite different from when I was, uh, under doctor's care, that's for sure.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+B|I'm, I'm very thankful that I'm not under any doctor's care|sd
+A|Oh If you have your health, you're wealthy.|sv
+B|That's right|ba
+A|You really are,|sv
+A|yeah,|%
+A|yeah.|%
+B|Yes.|b
+A|Uh, we live in a rural area up here.|sd
+B|Uh-huh,|b
+B|what part of, uh, Pennsylvania do you live in?|qw
+A|Uh, are you familiar with any of the area that all?|qy
+B|Well, I have a brother that lives there|na
+A|Where?|qw
+B|Uh, near, uh, Philadelphia.|sd
+A|Oh, well that's, that's a ways away.|sd
+A|But we live in Clarion County.|sd
+B|Okay.|b
+A|Uh, we have a cousin that lives in Philadelphia,|sd
+A|and, uh,|%
+B|Are you a native Pennsylvanian?|qy
+A|Yes,|ny
+A|uh-huh,|ny
+A|uh-huh.|ny
+B|Okay,|bk
+B|so, I'm a former Michiganian|sd
+B|so,|%
+A|Oh, uh-huh.|b
+A|That's a nice state,|sv
+A|that's a real nice state,|sv
+A|uh-huh,|b
+A|uh-huh.|b
+B|Yes it is,|aa
+B|it's very lovely,|sv
+B|it's a very lovely state.|sv
+A|So I suppose really our situation here is even different that it is in, you know, like more populated areas as far as, uh the doctors that are available|sv
+B|Uh-huh,|b
+B|uh-huh|b
+B|I'm sure it is,|ba
+B|uh-huh.|b
+A|Of course we have good physicians here too,|sd
+A|we've been pretty fortunate.|sd
+A|We've had some of the most outstanding doctors in our area for some of the different fields.|sd
+B|Uh-huh.|b
+A|So, uh, we've been pretty fortunate.|sd
+A|Uh-huh.|%
+B|That has broadened so much also.|sv
+A|Oh, yeah,|b
+A|yeah.|b
+B|That is, the fields that, you know, are opening up are, um, just phenomenal.|sv
+A|Uh-huh,|b
+A|uh-huh.|b
+B|They,|%
+B|I mean, look at the AIDS, uh, case you know, I mean they, that's a whole new field in itself.|sv
+A|Uh-huh.|b
+A|Oh, yeah.|b
+B|It's just, it's an auto immune deficiency|sv
+A|Uh-huh.|b
+B|but it sure is a dilly one.|sv
+A|It sure is.|ba
+A|I still wish they could do more with the cancer situation, though.|sv
+B|Yes,|aa
+B|I do too.|sd
+A|They, uh, they just don't seem to be,|sv
+A|Yeah.|b
+B|Well, there's guidelines that people have to follow,|sv
+B|and if they're determined to, uh, have their cigarettes and the other uh, carcinogenic causing items then how do you teach them?|qh
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|I guess you,|%
+A|But a a lot of them don't do these things even,|sv
+A|and it doesn't seem to matter.|sv
+B|That's true, too.|ba
+A|So, uh, it|%
+B|It's,|%
+B|I, I, I really believe our environment have a lot to do with it.|sd
+A|Well, they say second hand smoke and that, is worse than smoking|sv
+B|Yeah.|b
+A|So, so, what do you do, you know?|qh
+B|Well, you just have to ban the smoking to their to their little room that they want to,|sv
+A|Yeah,|b
+A|yeah.|b
+A|Take their rights away from them, they say|sv
+A|I never had the desire,|sd
+A|so I haven't ever had that problem, as far as that goes.|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|So I can't take any credit for not smoking even.|sd
+A|So,|%
+B|Well, it's a bad habit that's,|sv
+A|It's hard to break,|^2
+A|it's a hard one to quit.|sv
+A|Yeah,|%
+A|yeah.|%
+B|Yes.|aa
+B|It's,|%
+B|they say that it is.|sv
+B|Well it was nice talking with you.|fc
+A|Yes,|fc
+A|very nice talking to you too,|fc
+A|and you have a good day.|fc
+B|And, well, you do the same.|fc
+B|And, uh, we'll be I guess talking around the country.|fc
+A|Right|fc
+B|Okay,|fc
+B|you,|%
+B|bye-bye.|fc
+A|Okay,|fc
+A|bye-bye.|fc

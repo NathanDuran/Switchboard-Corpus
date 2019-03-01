@@ -1,0 +1,145 @@
+A|Uh, what sort of camping do you like to do the most?|qo
+B|Uh, well, I, I do, uh, real rough type camping.|sd
+B|I have a motor home|sd
+A|Huh, rough type, huh|bh
+B|Yeah.|ny
+A|Okay.|bk
+B|Uh.|b
+A|Oh, yeah,|b
+A|motor homes can be a lot of fun.|sv
+B|Yeah,|aa
+B|they really are.|aa
+A|Yeah.|b
+B|They really are.|aa
+B|I've, I've enjoyed it.|sd
+B|I've never actually done any, uh, like tent camping,|sd
+A|Uh, that can be a lot of fun, too.|sv
+A|Yeah.|b
+B|How about you?|qo
+A|Well, so far my wife and I have pretty much had to stick with tent camping.|sd
+B|Uh-huh.|b
+A|This summer we went to, uh, the Smokey Mountain National Park. And, uh, stayed about three or four days in there.|sd
+B|Oh, how great.|ba
+A|It was wonderful.|sd
+B|Oh, yeah.|b
+A|Nights were cool enough to where they're comfortable.|sd
+B|Um.|b
+A|And the days were nice and warm|sd
+A|and, it was beautiful, beautiful few days.|sd
+B|Uh-huh.|b
+B|That's great.|ba
+A|It worked out particularly well, especially considering she was, what, six months pregnant.|sd
+B|Uh-huh.|b
+A|So I don't know,|h
+A|it worked pretty well.|sd
+A|It was one of those, uh, those, dome type pop up tents.|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|Nice and quick and easy to put up.|sv
+B|Yeah.|b
+A|Packs away nice and small|sv
+A|and, about had to be something like that getting around in a Pinto.|sv
+B|Well, that's true,|aa
+B|that's true.|aa
+A|It was a lot of fun.|sd
+B|I guess the last real, uh, camping trip I took was, has been a couple years ago.|sd
+A|Oh, yeah?|bh
+B|Uh, I went to California up to the Sequoias.|sd
+A|Wow,|ba
+A|that's got to be beautiful territory.|qy^d
+B|Yeah,|ny
+B|it's gorgeous,|sd
+B|I love the big trees.|sd
+B|Just, just the drive up through, uh, up the coast line and then cut over in, into the, into the parks, it's gorgeous, though.|sd
+A|Yeah.|b
+A|What, like, Sequoia National Park?|qy
+B|Uh-huh.|ny
+A|Uh.|b
+B|Uh-huh,|b
+B|yeah,|b
+B|I had been there before when I lived in California,|sd
+B|but that's my first trip back in, oh, goodness, um, um, thirty years maybe|sd
+A|Yeah.|b
+B|But, that is God's country,|sv
+B|it has to be.|sv
+A|Yeah.|b
+B|Yeah.|b^m
+A|Do they still have the, uh, the scenic, uh, roadways that cut through the center of some of those trees?|qy
+B|Uh, no,|nn
+B|they don't,|sd
+B|they,|%
+B|the last one, well,|%
+B|the first time I was there, the, the tree was still standing,|sd
+B|but it has since come down.|sd
+A|Okay.|bk
+B|Yeah.|b
+B|But, they are huge.|sd
+B|If you've never seen them, it's, it's very awe inspiring.|qy^d
+A|No,|nn
+A|so far, New Orleans is far west as I've gotten. Well, New Orleans and, uh, Minneapolis.|sd
+B|Uh-huh.|b
+B|Uh-huh,|b
+B|well, there is lots of pretty country further west.|sv
+A|Oh, yeah.|aa
+B|Yeah.|b^m
+A|We're hoping one of these days soon after we're out of school to head that way.|sd
+B|Yeah.|b
+B|Yeah,|b
+B|and you just need to take the little one. Show them all the, all the pretties before they go away.|ad
+A|Oh, yeah.|aa
+A|Yeah.|aa
+B|Yeah.|b^m
+A|They seem to be trailing out quickly.|sv
+B|Yeah|aa
+B|because there is lots to see|sv
+B|There is, course, the the Grand Canyon|sd
+B|and, uh, the Painted Desert is, is real pretty, in a different sort of way.|sd
+A|Yes.|b
+B|And, course, the, the Sequoias and the Redwoods and and you get up into Bryce Canyon and Yellowstone|sd
+B|and, uh, the Grand Tetons are gorgeous, too.|sd
+A|I imagine.|ba
+B|Yeah,|b
+A|I would imagine they are.|ba
+B|Course, I, I guess I'm partial to big tree country.|sd
+A|Yeah.|b
+B|I don't know why I got stuck down here in Texas now|sd
+B|I think it's called a job,|sd
+B|I don't know|h
+A|Uh, not a whole lot of forestry down there, is there?|qy
+B|No|nn
+B|not around here.|sd
+A|Oh.|bk
+B|Not around here|sd
+A|Place is forested with with those concrete trees.|sv
+B|Uh-huh,|aa
+B|lot, lot of concrete and glass, you know.|aa
+A|Yeah.|b
+A|Well, I guess that's God's place, too.|sv
+A|Anyway, Uh, what do you figure has been the longest trip you've taken camping?|qo
+B|Yeah.|b
+B|Uh, probably the, the last one that I went to California|sd
+B|I took, uh, three weeks.|sd
+A|Three weeks.|b^m
+B|And I was actually on the road a little more than three weeks.|sd
+A|Yeah,|b
+A|the whole family, then, was in on this?|qy
+B|Uh-huh.|ny
+B|Everybody|na
+A|Yeah.|b
+B|Yep.|b
+A|That would have to be a blast.|qy^d
+B|Yeah,|ny
+B|it really was, it was great.|sd
+A|What,|%
+A|well, you went out from Texas up in, into that area?|qy
+B|Uh-huh,|ny
+B|yeah.|ny
+B|We went, uh, we took the southern route and went, went through, uh, uh, the Grand Canyon, again|sd
+B|and we stopped at, uh, uh, Las Vegas for a couple of nights, and then, uh, went into Malibu in California over on the coast.|sd
+A|Yeah.|b
+B|And then we went up the, the Big Sur Highway all the way up to San Francisco. And, uh, and then cut across through the wine country. And then went down to, to, uh, Sequoia National Park.|sd
+A|Okay.|bk
+A|Oh, wow.|ba
+A|Okay,|bk
+A|Big Sur Highway, that's, uh, where you're pretty much in view of the ocean almost all the time aren't you?|qy
+B|Oh, yeah.|ny

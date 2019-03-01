@@ -1,0 +1,279 @@
+B|Are you a Vietnam veteran, Dudley?|qy
+A|Uh, no.|nn
+B|No?|bh
+B|Do you have family who were in the Vietnam War?|qy
+A|Uh, no.|nn
+A|My father was, uh, came in right after World War two.|sd
+B|Okay.|bk
+B|So he was too old,|qy^d
+B|and you were too young, right?|qy
+A|I am too young, yeah.|na
+B|All right.|bk
+B|Do you know some folks who have been there?|qy
+A|Uh, yes.|ny
+B|Okay.|bk
+A|A couple.|sd
+B|Okay.|b
+B|How did it influence them?|qo
+A|Uh, the, the one guy I worked with down in Austin hated it.|sd
+A|Uh, he was a lineman down there.|sd
+B|Uh-huh.|b
+A|And while he was there, he caught some kind of a strange disease.|sd
+B|Uh-huh.|b
+A|And, uh, all his hair fell out,|sd
+A|and he had like a hundred and five fever for a while|sd
+A|and, And, uh,|%
+B|Uh-huh.|b
+B|Uh, what about long lasting effects on him?|qw
+B|Has he still suffering from those problems?|qy
+A|I do not think he was in combat,|sv
+B|Uh-huh.|b
+A|so, Uh-huh.|%
+B|Well, I have talked with a number of Vietnam veterans,|sd
+B|and I really, I had no one directly related to me involved.|sd
+B|But, uh, my sister's husband was in Vietnam.|sd
+B|And it, it really made a completely different man out of him.|sd
+A|Uh-huh.|b
+B|He went to Vietnam one man and came back another, not better.|sd
+A|Yeah.|b
+B|Then, uh, another friend of mine went,|sd
+B|and he was in combat.|sd
+B|But he came back,|sd
+B|and he said, "Okay, that is it. That is behind me. I am going on with my life."|sd
+B|Much like what Roger Staubach did.|sd
+A|Right.|b
+B|He was, uh, he was a Vietnam war veteran.|qy^d
+A|Yeah.|ny
+B|And, uh,|%
+A|But he was in the Navy, though, he was .|sd
+B|Yeah.|b
+B|That is true.|ba
+A|It makes a lot of difference.|sd
+B|Right.|b
+B|And, but, uh, most of the folks that I have met that were actually on the land, or in combat, are still, still carry a lot of anger.|sd
+A|Uh-huh.|b
+B|They really do.|sd
+B|And, uh, I, I, I, I really do not think that we did those young men right.|sv
+A|Huh.|b
+B|I think that, uh, Desert Storm, shows a lot of learning since that time.|sv
+A|Oh, yeah.|b
+B|Uh|%
+A|Well, the armed forces did so much to, you know, Agent Orange,|sv
+A|they did so much to their own people all during that time.|sv
+B|Yeah.|b
+B|That is true.|ba
+A|You know, and they they take a, even now, uh, they take a free hand as far as medicine and, uh, you know, how they treat the war casualties, you know.|sv
+B|Yeah.|b
+A|If you come back and your leg is blown off, you know, or, or it is hanging by a thread, they still can't put it back together now.|sv
+B|Uh-huh.|b
+A|But, But what they do afterwards and how they rehabilitate you.|sv
+B|Uh-huh.|b
+B|Well, you know, one of the most troublesome things that I have encountered as a result is the incredible influx of southeast Asians into this country since that conflict.|sv
+A|Uh-huh.|b
+A|Yeah.|b
+B|Uh, not so, much that I say, I do not want you here.|sv
+B|But there is just such a surge of southeast Asians.|sv
+B|It has affected the culture of this country, uh, very much.|sv
+A|Oh, yeah.|ba
+A|It's it's about nine or ten percent now.|sd
+B|Yeah.|b
+B|Yeah.|b
+B|Yeah.|b
+B|Well, uh, the culture is changing.|sv
+B|Look how much more Oriental food we have, restaurants now, for example.|sv
+A|Uh-huh.|b
+B|Uh, even ten years ago, there were not that many.|sv
+B|A lot of shops are, are operated by southeast Asians.|sv
+A|That's true .|ba
+B|A lot of people have complained in the schools.|sv
+B|There is a culture change there.|sv
+B|The southeast Asians seem to be very hungry,|sv
+B|there seem to be very studious.|sv
+B|And, uh, tends to cause our kids to really have to buckle down to keep up with them, which is not bad.|sv
+A|No.|b
+B|Not really.|sv
+B|Uh, but it might in the long run you can see where scholarships, for example, uh, even jobs. Uh, jobs that would normally go to an American, with a lesser education, might be going to, to some of these people here.|sv
+A|Uh-huh.|b
+B|And that is all a result of, of, of Vietnam.|sv
+B|And, and you see a lot of, a lot of men that were over there, brought families back.|sv
+A|Yeah.|b
+A|That is,|%
+B|Uh, and it concerns me that there is probably a lot of mixed breed youngsters still there.|sd
+A|Uh-huh.|b
+B|And I would be concerned or interested to find out how they are doing now.|sd
+A|Well, they are probably not doing very well at all.|sv
+B|I know that there,|%
+A|Because I know there is, there is still people even in the Dallas area.|sv
+A|There are, there are still people trying to get some member of their family back from, uh, Vietnam.|sv
+B|You are talking about P O W or missing in actions?|qy
+A|Uh,|%
+A|uh,|%
+A|native Vietnamese people.|sd
+B|Native Vietnamese people.|bf
+A|Yeah.|aa
+B|Okay.|b
+A|They were lost, you know, when they were little,|sd
+A|and, and they never did get back|sd
+A|or,|%
+B|Oh, I had not.|%
+B|That, that had not occurred to me.|sd
+A|Yeah.|b
+B|That would be an interesting concept.|sv
+A|And, uh, and, as is really a big waste because they didn't, they didn't win,|sv
+A|they didn't regain any of the land that they had.|sd
+A|It spilled over into, uh, now I can't even think of the country.|sd
+A|But,|%
+B|Cambodia?|qy^d
+A|Yeah.|ny
+B|Uh-huh.|b
+A|and, and all they did is run and hide.|sv
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|And they were not really fighting, you know,|sv
+A|it, it would have been the same as Desert Storm if all they had been fighting was North Vietnam.|sv
+B|Uh-huh.|b
+A|But, and I am not even sure who was involved more. Whether it was China or Russia.|sv
+B|Uh-huh.|b
+A|You know, they were pouring, they were pouring weapons in there and, and advising, well, digging tunnels for them. You know,|sv
+B|Uh-huh.|b
+A|and there is no way that they could ever catch them.|sv
+B|Well, I think the terrain had a lot to do with the, the success of Desert Storm as opposed to that in Vietnam.|sv
+A|Yeah,|b
+A|that is right.|b
+B|You know, there is incredible cover in Vietnam.|sd
+A|Uh-huh.|b
+B|And you can't find much cover on, in a sand dune|sd
+A|Yeah,|b
+A|yeah,|b
+A|all they can do is dig in,|sd
+A|and they, you know,|%
+B|That is right.|ba
+A|and then they try to camouflage the top.|sd
+B|Uh-huh,|b
+B|uh-huh.|b^m
+A|Well now, even, I think even now, and in Vietnam they could probably have done a better job.|sv
+A|Because they could, they could kill all those plants, you know, which would devastate the country as far as farming from then on.|sv
+A|But, and the, and the Corps of Engineers I think do a better job now, like they did in Desert Storm.|sv
+A|Because they had,|%
+B|Well,|%
+A|he, he dug a bunch of moats and filled them with oil|sd
+B|Uh-huh.|b
+A|and he set a lot of booby traps all along the way as they went.|sd
+A|And they had to, you know, they had to blow them up or, or disarm them.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|And then they had to fill in little bridges all the way where he, where he had made those moats.|sd
+B|What world war do you think they found the experience for that?|qw
+A|Uh,|%
+B|Don't you think they learned from the mistakes in Vietnam?|qy
+A|yeah,|ny
+A|partially.|sd
+B|Part of it is that, part of it is technology.|sv
+A|Uh-huh.|b
+A|Yeah.|b
+A|Part of it is technology, yeah.|bf
+B|But when, when, When you get into trouble like that in a place like Vietnam, you do tend to analyze the problems that you get into,|sv
+A|Because all,|%
+A|go ahead.|ad
+B|and you say, "Never more."|sv
+A|Yeah.|b
+B|And, and you overcome those problems,|sv
+B|and you are prepared next time.|sv
+A|I think that is one of the reasons that they have, they have pretty much avoided getting involved in South America.|sv
+A|Because look what happened when they were looking for Noriega,|sv
+B|Uh-huh.|b
+A|and they lost him for four hours when they were right on top of him, you know.|sv
+B|Right.|b
+B|Uh-huh.|b
+A|He probably just went right down into a tunnel.|sv
+B|Sure.|b
+B|Sure.|b
+B|Sure.|b
+B|Well, I know that, uh, from a personal standpoint, people was one of the finest assets that we lost.|sv
+B|We did not actually physically lose them.|sv
+B|They did not lose their lives,|sv
+B|but they lost a whole lot of the life they might have had.|sv
+A|Yeah.|b
+A|That is right.|ba
+B|Uh, being entirely different people.|sv
+B|I had dinner Monday night with a Vietnam veteran who is just now beginning to recover from the drug and alcohol struggle that he had.|sv
+A|Uh-huh.|b
+B|That is a long time to suffer.|sv
+A|Yeah.|b
+A|And they, they really need,|sv
+A|everybody that has, that has stood there,|sv
+A|it's,|%
+A|when|%
+A|in Vietnam I think it was much closer contact.|sv
+A|You stand there with a rifle and blow a, a piece of somebody apart, or blow their head off,|sv
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|and that has to affect you if you are human, you know.|sv
+B|Oh, yeah,|ba
+B|yeah.|b
+A|So they had to work all that, that anger out, and the, and the nightmares that come along with it.|sv
+B|I can't, uh,|%
+B|Oh, yeah.|ba
+B|You bet,|ba
+A|I do not, I do not really think that anybody can ever forget that,|sv
+B|you bet.|ba
+A|but they can, they can reason and, and try to adjust to, to why they were there.|sv
+B|Uh-huh.|b
+B|Yeah.|b
+B|Well, you see that is what the veterans are so angry about now.|sv
+B|They say, "Well, we're, going to listen to this and we are going to look at this, find out what our mistakes were, and we are not going to make them again."|sd
+B|But that does not undo the ones that were done.|sv
+B|And that is what makes the veterans angry.|sv
+A|Right.|b
+B|And I cannot blame them.|sd
+B|I do not know a solution.|sd
+A|Uh-huh.|b
+B|But I sure cannot blame them for being angry.|sd
+B|On the other hand, you know, you can be angry about something for a very long time,|sv
+B|or you can say, "Well, that is the way it is," and go on with your life.|sv
+B|Uh,|%
+A|Right.|b
+B|For the most part, I wish that it had not happened.|sd
+A|Yeah.|b
+B|But it did.|sd
+A|And that, and that was, that was in the, in the era when Kennedy was president that they were afraid of everything, you know.|sv
+A|And, and, and they initially got into it because of Eisenhower.|sd
+A|And he just, he did not want to be in it any more than, than what we started out in August with Desert Storm.|sv
+B|Oh, yeah.|ba
+A|And then it just blew up into the war.|sv
+B|Well, it has been that way for a very, very long time, though.|sv
+B|I can remember when I was in the sixth grade,|sd
+B|and that was many years ago.|sd
+A|Uh-huh.|b
+B|We were reading about the French struggling with that in southeast Asia.|sd
+A|French, yeah.|b
+A|Uh-huh.|b
+B|So, and, and, and the Asians historically have always had these kinds of wars going on.|sd
+A|Right, yeah.|b
+B|There, there has not been a lot of peace in that part of the world.|sv
+A|Uh-huh|b
+B|I really, I do not know,|h
+B|we should not have maybe gotten involved.|sv
+B|But if we did, we certainly should have supported our people who were there.|sv
+A|Yeah.|b
+B|More so supported them when they got home.|sv
+A|Right.|b
+B|And, uh, I am afraid that they were treated as castaways for the most part.|sv
+A|Exactly.|ba
+B|And I, I saw the movie, BORN ON THE FOURTH OF JULY,|sd
+B|and I think it did a good job depicting the temperament of the times.|sv
+A|Uh-huh.|b
+A|Yeah.|b
+A|More than, what was, APOCALYPSE NOW|sv
+B|Uh-huh.|b
+B|Well, Dudley, have we pretty well discussed the subject?|qy
+A|Yeah.|b
+A|I think so.|sv
+B|Well, I think so.|sv
+B|I enjoyed talking to you.|fc
+A|Yes,|fc
+A|it was nice talking to you.|fc
+B|Uh-huh.|fc
+A|Okay,|fc
+A|bye-bye.|fc
+B|Bye-bye.|fc

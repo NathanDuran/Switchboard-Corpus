@@ -1,0 +1,221 @@
+A|Well, hi.|fp
+A|I guess, uh, I'll just start by saying that we entertain with, uh, a gourmet club here. Um, which means that we have like eight, eight people, four couples.|sd
+B|Uh-huh.|b
+A|And most of the husbands,|sd
+A|this is really peculiar,|sv
+A|most of the husbands cook.|sd
+B|Great.|ba
+A|I mean, the wives during the day, you know, get, I guess, so burned out on cooking whatever they have to cook every day.|sv
+A|Um, you know they don't really care about gourmet stuff,|sd
+A|but it was the guys that got together and did all this.|sd
+B|Oh, that's nice.|ba
+A|And, um, like my husband just, he really, really likes to cook in terms of, um, oh, barbecue,|sd
+A|and I mean all guys, I think, like to barbecue.|sv
+A|I think it's caveman,|sv
+B|Right,|b
+B|right.|b
+A|I'm telling you,|fo_o_fw_"_by_bc
+A|but, um, he really does cook|sd
+A|and it's a good thing because, you know, you can't, you can't knock that.|sv
+B|No.|aa
+A|But all these other guys do too,|sd
+A|and so we've gotten together|sd
+A|and we just do these really elaborate gourmet meals.|sd
+A|And it's really, really kind of a neat thing to do.|sv
+A|You,|%
+B|How often do you meet?|qw
+A|Well, we try,|%
+A|I mean, because you know everybody is so active with their kids and all that.|^h
+A|It's like, you know, if we can do it once every six months, we're doing well|sd
+B|Oh, yes,|b
+B|yes.|b
+A|Yeah.|b
+A|So, I mean we originally started out, you know, when we were younger and didn't have so much stuff going on with the kids. Um,|sd
+B|Uh-huh.|b
+A|then we would, we tried to do it every other month,|sd
+B|Yeah.|b
+A|but lately it's just been once every six months|sd
+B|Oh.|b
+B|Well, that's much more reasonable.|sv
+B|I was involved in a, a club like that for, um, that, you know, where we tried to really do gourmet, uh, meals.|sd
+A|Yeah.|b
+B|And, uh, we, we were a little bit too frequent I think.|sv
+A|Oh.|b
+B|I don't remember if we were once a month|sd
+B|or anyway it was, it was difficult.|sv
+B|By the time we went around it was, uh, four couples|sd
+B|so, uh, by the time we got around, uh, to each of us and it was time again, we were almost tired, you know. Um, partly because, um, gourmet cooking is not particularly conducive for regular dining.|sd
+A|Really,|b
+A|really|b
+B|It's too rich.|sv
+A|Oh, it is absolutely.|aa
+B|And, so, we found that while we enjoyed the evening we regretted it the next day.|sd
+A|Yeah|b
+B|Um, so, uh, we, we kind of,|%
+B|and then one of the couples, uh, moved|sd
+B|and so we sort of didn't, didn't continue it,|sd
+B|but, um, and I must admit that as you say when your children start taking up your time, then you, you don't have as much time for, uh, regular entertaining,|sd
+B|but, um, uh, uh, when, when we entertain I usually try to find something that will be, um, kind of good for everybody|sd
+B|and that's, that sometimes means you can't do gourmet, because depending on who your guests are.|sd
+A|Right.|b
+A|Oh, yeah.|b
+A|Well, yeah,|aa
+A|that's true.|sv
+A|And we have a gourmet friend that can't stand fish|sd
+A|so I mean he can get within,|sd
+B|Oh, yeah,|b
+B|well, one of my friends doesn't eat any cheese at all.|sd
+A|Oh, my.|ba
+B|Uh, so that's a real problem because so many dishes require cheese.|sd
+A|Oh, yeah.|b
+B|Uh, well, I take that back.|sd
+B|Uh, she can't eat some cream cheese.|sd
+B|But that, that really limits,|sv
+A|It sure|aa
+B|um,|%
+A|it makes you, uh, keep looking for recipes every time you have an eye out, for something like,|sd
+B|Oh, yeah.|b
+B|Right.|b
+A|Right.|b^m
+A|So we, we try to keep all that in mind,|sd
+A|but otherwise, um, I guess, you know, entertaining, um,|%
+A|I, I guess I have recipes|sd
+A|I, um,|%
+A|but that's, that's basically what we do is the gourmet,|sd
+B|Uh-huh.|b
+A|so, you know, they would be pretty elaborate.|sd
+B|Yeah.|b
+A|Um, but it's fun.|sv
+A|I mean it took us four days to cook a stock and three days to make this stuff,|sd
+B|Oh, wow.|ba
+A|and, you know, you get all prepared|sd
+B|Yeah.|b
+A|but you're right.|sv
+A|It's very, very rich|sv
+A|and I'm glad we don't have it every,|sd
+A|because it is, it's a, quite a treat|sv
+A|it really is.|sv
+B|Yeah.|b
+A|Um,|%
+B|Sounds wonderful.|ba
+A|Right,|b
+A|but so, you like food|qy^d
+A|and I just love the, the community of food.|sd
+A|I just, think it's neat.|sv
+B|Oh, sure I do too.|aa
+B|Yeah.|b
+A|I just love sharing meals and, and whatever you can do, you know, to do that.|sd
+B|Right.|b
+A|I don't think you have to be, you know, more than hamburgers and hot dogs out, in the backyard and the, and the coleslaw and potato salad.|sd
+B|Right.|b
+B|Right.|b
+A|But, but,|%
+B|Sure.|b
+B|Well, my, um, daughter is graduating, uh, Sunday|sd
+B|and so we're having, a, uh, few people in Sunday afternoon.|sd
+A|Oh.|b
+B|And I did a cop out on to it|sd
+B|I'm buying cold cuts|sd
+B|Well, I have to, make a cake|sd
+A|What are you providing ?|qw
+B|and I have to make hors d'oeuvres|sd
+B|and I have to make dessert|sd
+B|so, I figured for the main thing it's going to be sandwiches.|sd
+A|Right.|b
+A|Right.|b
+A|There you go.|ba
+B|Uh, so, oh, I'm buying the little tiny rolls and so on.|sd
+B|But I can't do it, you know, working full-time|sd
+B|and, it's just too much.|sv
+A|I know.|ba
+A|We're all not built like, uh, what, what, oh, Martha Stewart, you know.|sd
+B|Those people that try to do everything.|^2
+B|Yeah|b
+A|We all aren't Martha Stewart and have our coordinated glasses and tablecloths and, and time to, you know,|sd
+B|Ugh|ba
+B|Wouldn't that be nice?|qy
+A|Yeah.|ny
+A|Shot a video of the whole thing,|sd
+A|I don't know .|h
+B|Yeah,|aa
+B|right.|aa
+A|But it's, it's really kind of a neat thing.|sv
+A|I get a kick out of it.|sd
+A|I, I really do.|sd
+A|Everything, all parts of the food,|sd
+A|I mean I love to make things from scratch, you know. Making breads|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|and, and you know people really pretty much appreciate it.|sv
+B|Oh, they do.|ba
+B|it's very difficult to purchase, um, items that are as good as what you can make yourself.|sv
+A|Oh, I think so.|aa
+B|Um, in spite of, uh,|%
+B|or if you, if you do buy it, it's extremely expensive.|sv
+B|In fact, uh, I just got back from a shopping trip to purchase the cold cuts|sd
+B|and I, I bought turkey and pastrami and, and barbecued ham at a, an Amish market near here.|sd
+A|Oh.|b
+B|And I've never been there before. And found that there's, uh, individual vendors|sd
+A|Oh.|b
+B|and the foods are wonderful.|sd
+B|And one of the, uh, the, um, vendors had cakes. All sorts of wonderful cakes. Uh, they, fresh strawberry cheesecake now and, and so on.|sd
+A|Oh.|b
+B|And it's like thirteen fifty for a whole strawberry cheesecake. Um, which is really not such a bad price.|sd
+B|I decided I, I just couldn't quite make myself, um, buy it because I do make cheesecake|sd
+B|and somehow I didn't want to do that because it,|sd
+A|There you go.|ba
+B|but I was very tempted because it looked wonderful,|sd
+B|and they had black forest cherry cake and all those things.|sd
+A|Oh.|b
+B|That but those are homemade.|sd
+B|They are not, um, commercial bakery made.|sd
+B|And in that they are made in their homes, um,|sd
+B|so it, it's kind of interesting, uh,|sv
+B|it's out there if you want to pay the price|sd
+B|but,|%
+A|Oh, it is.|aa
+A|I mean, we have bakeries around here that, you know, you, you just gain weight going by the door, you know, just like that.|sd
+B|Right,|b
+B|just smelling the air|bf
+B|Yeah.|%
+A|Right,|aa
+A|but I don't know|h
+A|I guess some of the best things I've ever had, um, I, some of them were just hors d'oeuvres, you know.|sv
+B|Uh-huh.|b
+A|Doing little hors d'oeuvre things that, I have a kick making that, I mean, you know|sd
+B|Yeah.|b
+A|I get off on strange little details of food, I guess.|sd
+A|But um, gee, we have so much going on here because you know this is Dallas,|sd
+B|Yeah.|b
+A|this is the southwest,|sd
+A|this is, you know, chips and Picante sauce and anything hot.|sd
+B|Uh-huh.|b
+A|You know you can always make it hotter, and, and lots of stuff like that, you know,|sd
+B|Right.|b
+A|so. That's, um, a really good party time, eating all that hot food|sv
+B|Yeah.|b
+A|and, and they just love it, you know, down here.|sv
+A|It just just, you know,|%
+B|We like hot food too,|sd
+B|so.|%
+A|all the stuff that goes with that,|sd
+A|so.|%
+B|Right.|b
+B|You don't sound like you're from Texas originally though.|qy^d
+A|Oh, I'm not.|ng
+A|Thank you for noticing|ft
+A|I'm from Chicago.|sd
+B|I thought, I thought, that there was a slight difference in accent.|sd
+A|And how I got,|%
+A|Really|b
+A|and how, I got to Texas by way, of Virginia I'm, and everything is a long story.|sd
+B|Right.|b
+A|But,|%
+B|I'll bet.|ba
+A|Yeah.|b
+B|Did, um, do you have a favorite hors d'oeuvre recipe that's easy|qy
+B|or is it always|qrr
+A|Well, absolutely.|na
+A|I,|%
+A|in fact, it just came to mind, um,|sd
+A|and this,|%

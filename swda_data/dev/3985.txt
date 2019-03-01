@@ -1,0 +1,97 @@
+A|Okay, Bill, um,|fo_o_fw_"_by_bc
+A|as you think over the plans and so forth that the company you're working with now,|sd
+A|who do you work with at this time?|qw
+B|Well, I own the company.|sd
+A|You own the company.|b^m
+A|All right.|ba
+B|I'm the president  and C E O of the company.|sd
+A|My goodness.|ba
+B|So, uh, I guess, uh, I determine what the benefits are|sv
+A|Yeah,|aa
+A|I guess you do.|aa
+B|But, uh, so what are you asking me,|qw
+B|what, what benefits I think are most important?|qw
+A|Well, what, what do you think of the,|qw
+A|let's put it this way,|^h
+A|what do you think are the most important benefits for those working for you, other than, other than their present salary?|qw
+B|Um, I'd say in today's economy, besides basic benefits, uh, such as, um, health insurance and life insurance and the, some type of retirement plan I'd say that, uh, most of the employees, uh, um, that we have really like a, a profit sharing plan.|sv
+A|Uh-huh.|b
+A|A profit sharing plan,|b^m
+A|that's interesting,|sd
+A|uh-huh.|b
+B|They like to participate in the profits of the company like they're, you know,|sv
+B|because they feel like, well, we're contributing to it,|sv
+B|so we'd like to participate in it,|sd
+B|and so that means I make a little bit less,|sd
+B|but the thing is that really you make a little more, because everybody has a interest in, in it working.|sd
+A|Yes,|b
+A|because they they have a specific reason to do so, because they themselves benefit from doing a better job.|bf
+B|Right.|b
+B|I think most people, uh, don't want money, um,|sv
+B|it's been my experience, most people want, uh, to feel like they're participating in something that, uh, that is not a drudgery, you know, that they  enjoy,  and that they can get some benefits out of.|sv
+A|Uh-huh,|b
+A|And it's a contribution.|^2
+B|Right.|aa
+A|Well, Bill, uh, that idea fits me exactly.|sd
+A|I just retired from, uh, the university here,|sd
+A|and that's been the goal in my life, was to contribute and, to the work that I was doing in my research,|sd
+A|and that's what made me happy,|sd
+A|and, uh, that's the type of goal I think most people ought to look for,|sv
+A|and I'm sure a lot of them don't.|sv
+A|You can't stand in front of a counter and do that kind of stuff all day and feel like that you're contributing something to a scientific level of knowledge or so forth.|sv
+B|Yeah,|b
+B|well, uh, our people get a lot of satisfaction.|sv
+B|Um, we're a financial planning firm.|sd
+A|You're a financial planning firm?|b^m
+B|Yes.|aa
+A|How many, uh.|qw
+B|You said you retired,|qy^d
+B|I just happen to have a person that I happened to do some planning for this morning,|sd
+B|but  anyway,  uh, uh, we do, we deal with a lot of people that are retired or trying to retire|sd
+A|Uh-huh.|b
+A|Uh-huh,|b
+A|well.|%
+B|and, uh, it's real important, uh, that their benefit plans that they get from their companies and from their work that, where they were, that, uh, uh, that it take care of them.|sv
+B|They don't,|%
+B|none of them really want to be rich,|sv
+B|but they like to have enough to be comfortable.|sv
+A|Well, what, what changes would you, have you considered, uh, in doing it, to, to your company, that might benefit the employees or perhaps the company itself better?|qw
+B|Well, um, we, considering instead of tying a profit sharing plan to a, a salary is, uh, is tie, um, uh, a percentage, um of business that, uh, that a person would participate and bring into the company.|sd
+B|Uh, pay them, uh, based on the percentage of business they bring, instead of based on their salary.|sd
+B|And the|%
+A|When you  say bring in, do you mean that they negotiated with people to, to come in and, uh, ask for your support?|qy
+B|No,|nn
+B|not necessarily.|sd
+B|Um, it can be in-house people who help you handle  X amount of dollars.|sd
+A|Oh, okay.|bk
+A|Uh-huh.|b
+A|Even though they didn't bring it in, they help it once it's there.|sv
+B|Right|b
+B|well see, we have we have marketing people,|sd
+A|Yeah.|b
+B|and then we have financial planners,|sd
+B|and, uh, then we have, uh, staff secretaries and administrative assistants,|sd
+B|and these secretaries and administrative assistants, um, you know, if we don't have their cooperation and they're not participating in the profit of the company, they, they can get very dissatisfied very quickly.|sd
+A|Uh-huh.|b
+B|And, so, uh, we're thinking about paying them, instead of a percentage on salary, paying them a percentage on the business they handle.|sd
+B|So administrative assistant that would handle two million dollars worth of business is a lot more valuable than a person that handles a hundred thousand dollars worth of business.|sv
+B|And, uh,|%
+A|Yes,|b
+A|but it,  it might not be necessarily because he did a good or bad job,|sv
+A|but it might be whether the locality there, those people want that kind of support.|sv
+B|Well, and, and, but to,|%
+B|see the thing is that they give support to the financial planner that they're the assistant to, or that they usually have several people they report to that, you know, that they work together with it encourages them not to, uh, complain when they realize that they get a part of the, of the action based on their efforts and not based on being sitting back saying, well make me do it.|sv
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|See, we don't want anybody around here that says make me do it.|sv
+B|I don't think  any|sv
+A|Yeah.|b
+B|I think most people want to be, lack of better terminology, they want to be self-employed,|sv
+B|but they don't want to take the risk.|sv
+B|In other words, they like to control their own future,|sv
+B|but they also want to be somewhat content to go and come as they please without some real strict adherence,|sv
+A|That's true.|aa
+B|which,|%
+B|that's what we have.|sd
+A|Uh-huh.|b

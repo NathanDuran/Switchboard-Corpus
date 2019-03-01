@@ -1,0 +1,279 @@
+A|So, what kind of neat hobbies do you have?|qw
+B|Well, I like gardening a lot,|sd
+B|I like to be outside, um.|sd
+A|I like gardening,|sd
+A|I wish I had a green thumb, though.|sd
+A|I've got a brown thumb.|sd
+A|That's what everything turns.|sd
+B|Oh is,|%
+B|but, do you keep trying anyway?|qy
+A|I keep trying, uh, you know,|na
+A|you just can't, can't give up on it, uh,|sv
+A|I, uh, I bought some, uh, plants from Michigan Bulb Company|sd
+A|they send them to you all ready alive.|sd
+B|No,|nn
+B|no,|nn
+B|I've never had any luck with their's.|sd
+A|Oh really.|b
+B|Right.|ny
+A|I guess, I guess these are going to croak too.|sv
+A|Since I've got cats, I decided to get some catnip.|sd
+B|Oh.|b
+A|Lots and lots of catnip,|sd
+A|so it's, it's still green,|sd
+A|and it's been two days|sd
+A|so I'm encouraged|sd
+B|No,|nn
+B|I, I haven't had, had good luck with that company, uh,|sd
+B|I think some of it depends how long things stay in the mail, probably.|sv
+A|Yeah.|b
+B|But, I've had to, to get my money back from them and had better luck with, with some of the, the more expensive companies.|sd
+A|Yeah,|b
+A|there's a, uh,|%
+B|Because they,|%
+A|I don't know,|h
+A|do you have Lowe's up there?|qy
+B|Uh, well,|%
+A|Its, uh,|%
+A|building, uh,|%
+A|or building supplies place.|qrr
+B|No.|nn
+A|Um, they, they also have a garden shop|sd
+B|Uh-huh.|b
+B|Oh, that's great,|ba
+A|Yeah.|b
+B|now our local stores don't, don't offer any guarantee.|sd
+A|Um.|b
+B|But some of the,|sd
+A|Yeah.|b
+A|Yeah,|b
+A|yeah,|b
+A|yeah,|b
+A|something like that.|sd
+A|Uh, I got a whole bunch of bulbs along with this stuff,|sd
+A|so, I'm going to wait on those.|sd
+B|Oh, they're bulbs for Spring or Fall?|qy
+A|Uh, probably Spring,|sd
+A|but, uh, I don't much care about things like that.|sd
+A|I'll, I'll make a little sort of greenhouse, a miniature greenhouse to put all this stuff in.|sd
+A|Something, something, to keep me occupied, you see.|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|I'll, uh, buy some plastic and make a little house|sd
+A|and,|%
+B|Cute.|ba
+A|yeah,|b
+A|and watch the cats tear it up.|sd
+B|Right.|b
+B|I don't know that,|sd
+B|do cats bother bulbs?|qy
+B|I think more the mice or other rodents.|sv
+A|They, they just like to get in and dig.|na
+B|Oh, I see|bk
+B|so if you have fresh dirt, they'll|bf
+A|Oh, they love to dig.|sd
+A|I had, I had some, uh,|sd
+A|I don't know what kind they are,|sd
+A|I've already forgotten,|sd
+A|just regular old flower seeds|sd
+A|and I planted them|sd
+A|and I was so, I was so thrilled because they came up, I mean nice green shoots coming up all over the place.|sd
+A|And then my cats got into it and started digging and that took care of that.|sd
+B|Uh, gee.|ba
+A|So, I have to hang these things high,|sd
+A|so they can't get to them.|sd
+A|Especially the catnip.|sd
+B|How many cats do you have?|qw
+A|Three.|sd
+B|Oh okay.|bk
+B|Actually I just, put a, uh, little fence around my yard, uh, um, which is I suppose, technically illegal,|sd
+B|but I had so many groundhogs last year that I think they'll let me get by with it,|sd
+B|and it, it's got this one inch mesh|sd
+B|and what I've noticed it's kept the cats out|sd
+B|and I love it|sd
+A|Um, yeah,|b
+A|yeah,|b
+A|because they, they like to get in and fertilize things too.|sd
+A|But, uh, why would it be illegal?|qw
+B|Well, because we have these uh,|sd
+B|I live in a townhouse|sd
+B|and anyway all of our areas have associations that you have to get permission.|sd
+A|Oh, uh, yeah,|b
+A|right.|b
+B|And, you know, they want, uh, privacy fences.|sv
+A|Well, if nobody, yeah, if nobody complains you're all right.|sv
+B|Right,|b
+B|right.|b
+B|Well they do walking tours too,|sd
+B|so.|%
+A|Um.|b
+B|But at least, because I back up to, um, a hillside where the, uh, wild animals are, I think I can probably justify it.|sv
+A|Um, yeah,|b
+A|an,|%
+A|and if somebody raises a stink about it you can always go before the association and argue your case anyway.|sv
+B|Right,|b
+B|right,|b
+B|I|%
+A|You know, you don't have to put up with all these wild critters coming into your property.|sv
+B|Right,|b
+B|the first year, the deer ate my garden,|sd
+B|and I was just astounded.|sd
+B|I'm going deer, right here in the city|sd
+A|Yeah,|b
+A|right here, Bambi|b^m
+B|Exactly.|aa
+A|Uh, gosh.|ba
+B|And so,|%
+A|Well, let's see,|^h
+A|other than gardening which I fiddle at,|sd
+A|I'm not very good at,|sd
+A|what else do I, mostly just computer stuff.|t1
+B|Oh.|b
+A|I just like playing with my computer and doing stuff on that.|sd
+A|Uh, cooking, that's not really a hobby,|sd
+A|it's a necessity.|sv
+A|But, but I enjoy it.|sd
+A|I like to think that I'm a very good cook.|sd
+B|Oh, great.|ba
+A|Um, hobbies,|^h
+A|that's about it.|sd
+A|I don't have much time for hobbies, uh, between being a student and trying to run a business on the side,|sd
+A|you don't have a lot of time.|sv
+B|Right|aa
+B|that keeps you busy.|sd
+A|Yeah,|b
+A|and raising cats.|sd
+B|I mean that could become a hobby.|sd
+A|Well, it's, it started out as a hobby actually.|sd
+B|Uh-huh.|b
+A|Uh, it just, it developed into sort of a business, uh, you know,|sd
+A|we breed them and all that,|sd
+A|but, we didn't, you know, we didn't really start it for the money,|sd
+A|it was just,|%
+A|they were fun to have around|sd
+A|and we figured if we're going to have them we might as well have some purebreds an.|sd
+A|And now it developed in to going to cat shows and finding studs for them, and, you know, all this kind of stuff.|sd
+B|Uh-huh.|b
+B|What kind of cats are they?|qw
+A|Uh, I've got a, uh, a Bombay, a Turkish Van and a Himalayan Persian.|sd
+B|Wow.|ba
+A|Yeah,|b
+A|the Himie is probably the sweetest one.|sd
+A|She's, she's just a little sweetheart.|sd
+A|We, uh,|%
+A|the, the Bombay had a litter, uh, last October|sd
+A|and|%
+A|I just got her back from the vet this morning, getting her spayed.|sd
+A|Only going to breed them once.|sd
+B|Oh, okay.|b
+A|And, uh, she's not, she's not feeling too great today.|sd
+B|Um, is that typical, to only breed them once?|qy
+A|No,|nn
+A|uh, most breeders are in it for the money,|sv
+A|so they'll they'll breed them twice a year|sd
+A|and I, I just think that it's kind of, I don't know, it's kind of cruel.|sv
+B|Uh-huh,|b
+B|uh-huh.|b
+A|You know, they just, they just breed these, they breed them before they're ready,|sv
+A|uh, and, you're never, you're never|sv
+B|Right.|b
+A|and, and they, they do a lot of inbreeding too,|sv
+A|and so you end up with, you know, kind of strange kittens.|sv
+B|Uh-huh,|b
+B|uh-huh.|b
+A|And I just don't like that.|sd
+B|So will, you, uh, breed one of the litter, then next year?|qy
+A|We're, we sold all that litter,|ng
+B|Oh.|b
+A|um, we,|%
+A|there's not that much call to, for Bombays.|sd
+B|Uh-huh.|b
+A|Um, they're, they're registered|sd
+A|but they're not, they're not, uh, they're not show cats.|sd
+B|Oh, I see.|b
+A|Uh, so all you can do is sell them as pet quality.|sd
+B|Uh-huh.|b
+A|Uh, so what you've got is a registered pet.|sd
+A|And, not too many people want Bombays.|sv
+A|They want things like Himie Persians and Turkish Vans.|sv
+B|Uh-huh.|b
+A|Turkish Vans, if you've never seen one, I mean, you wouldn't know that it was a pure bred.|sv
+A|It's just, uh, medium size short hair cat.|sd
+A|It's got,|%
+A|he's mostly white with, uh, brown and black patches.|sd
+B|Oh.|b
+A|But they have nice personalities|sd
+A|and they're very inquisitive.|sd
+A|Um, now the Himie, we'll probably breed her a couple of times|sd
+A|and we'll, we'll end up keeping one out of each litter and then breeding those.|sd
+B|Right.|b
+A|It's just the stud fees are so much, though.|sd
+A|It'll cost about three hundred dollars for a stud for her.|sd
+A|We, we want to breed her with a champion,|sd
+A|so.|%
+B|Right.|b
+B|Now these are long haired?|qy^d
+A|Yeah,|ny
+A|the Persian is,|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|and the other two are short hairs.|sd
+B|Right.|b
+B|Uh, that's nice.|ba
+A|Yeah,|b
+A|she's, uh, she's sweet.|sd
+A|Going to have some nice kittens, I hope.|sd
+B|Uh-huh|b
+A|She's, uh, she's,|%
+A|if if you know what a Himalayan is, generally they look something like, uh,|sd
+A|well they come in a lot of different colors.|sd
+A|People don't realize it|sv
+A|but they're sort of like, uh, Siamese in a way.|sv
+A|They have the, uh, they have the gloves on the paws|sd
+A|and they're, they're usually two colored.|sd
+A|Uh, but this one is, uh, is|%
+A|she's, predominantly, uh, black|sd
+A|but she has chocolate, uh, paws, chocolate stomach and silver on her hindquarters.|sd
+B|Gee.|ba
+A|And yeah,|b
+A|she's, she's quite attractive looking.|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|Hope, hope the stud will find her attractive.|sd
+B|And that she has kittens that look like her.|sd
+A|And, and that she has a whole bunch of kittens.|sd
+A|But we have to be careful,|sd
+A|uh, you know, we have to get a particular color point, uh, stud.|sd
+A|You can't just breed them with anything.|sv
+A|We have to get a, uh, we have to get a silver point Himie,|sd
+A|so that the silver will be predominate in the kittens.|sd
+B|I see.|b
+A|That's, it, that's the fun part, trying to figure out what you've got to breed them with,|sd
+A|can't just go out there and say, okay, you guys breed, you know|sd
+B|You can't just tell them that anyway,|sv
+B|but|%
+A|That's right.|aa
+B|Oh dear.|ba
+B|Well it really sounds like, uh, uh, a business more than a hobby.|sv
+A|Well actually, I mean, it, it is a business in a way,|aa
+A|but it, it's a lot of fun as a hobby. Especially when you go to shows and get to see all the different cats.|sd
+A|We're, we're about to get another breed,|sd
+A|we're we're going to buy a Devon Rex .|sd
+A|And I didn't, I don't like Devon Rexes at first.|sd
+B|What is it.|qw
+A|It's a, well actually it's a mutant.|sd
+A|It, it comes from England and, uh, in the county of Devon.|sd
+B|Oh.|b
+A|And it's a mutant cat.|sd
+A|And they're, they're pretty expensive,|sd
+A|we're going to, we're going to shell out probably about a thousand bucks for one.|sd
+A|Um, they're very thin,|sd
+A|they're, they're, they're long and lanky and skinny.|sd
+B|Um.|b
+A|And they have real short hair.|sd
+A|It's curly, as a matter of fact.|sd
+B|Huh, interesting.|ba
+A|Um, yeah,|b
+A|it, it, it's a strange looking cat.|sd
+A|Uh, I didn't like them at first.|sd
+A|They've got great big ears,|sd

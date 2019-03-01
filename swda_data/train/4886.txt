@@ -1,0 +1,176 @@
+A|Are you in the middle of anything?|qy
+B|No.|nn
+B|I'm not in the middle of anything.|sd
+B|I've just,|%
+B|about the last thing I did|%
+B|about maybe, oh, close to a year ago now I guess, I, I helped my dad add on another bedroom on to his house.|sd
+B|So,  I guess that,|%
+A|The whole thing?|qy
+B|Yeah.|ny
+B|That, that was fairly large undertaking.|sd
+B|A, a, it's a bedroom and a walk-in closet and a bathroom all on one side of the house.|sd
+A|Did the framing and all?|qy
+B|Oh, we did it all except for the sheetrocking.|na
+A|Huh.|b
+B|That was the only thing we didn't, you know, putting the ceiling up and things like that|sd
+B|we don't, we, we weren't sure how to do that|sd
+B|and.|%
+A|and I did all the sheetrocking and the interior work|sd
+B|Yeah,|aa
+B|that's the exact opposite.|sd
+B|We did all, put the roof up and did all the roofing and the, put all the interior walls up.|sd
+B|We just didn't do any of the sheetrock wall work|sd
+B|and that's it because you have, you know, get those joints to go together|sd
+B|and whatever you have to put in there to get the, to take the gaps out between the sheets and on the ceiling and all that.|sd
+A|Yeah.|b
+B|I we didn't know a thing about any of that|sd
+B|and  so,  It's, it looked very hard to do|%
+A|My  wife wishes I hadn't done that.|sd
+B|so,|%
+B|we figured well just,|%
+B|I didn't think we could do it and make it look professional.|sd
+B|So, we left it, left it to somebody who does it for a living.|sd
+B|But,|%
+A|I think it takes about three or four times before it gets easy. Yeah *should be 'b'|sv
+B|Probably so|aa
+B|and I, we'd never done it|sd
+B|so we just left it alone.|sd
+B|But that's,|%
+B|I guess, I'm only twenty-one|sd
+B|so I, my, my vast experience of home, home owner's knowledge is not very much.|sd
+B|So it's just what I have to do, more or less, around the house, you know, for my parents|sd
+B|so.|%
+A|Did you, you framed it in uh, on, on, you framed in new square footage|qy^d
+A|or was it stuff that was already, uh,  enclosed?|qy
+B|It was brand  new.|sd
+A|Brand new  .|b^m
+B|We started  with the backyard and turned it into part of the house|sd
+B|so  it was,|%
+A|and  you knew how, you knew how to do the framing?|qy
+B|Uh, well my dad knew how to do most of it,  you know.|no
+A|Uh-huh.|b
+B|He, he'd, we'd gotten a couple of books|sd
+B|and then he just started doing it.|sd
+B|I don't know.|h
+B|He, well he did all the flooring himself.|sd
+B|He put the whole, the whole floor in|sd
+B|and then I just started with the walls and the roof and started there.|sd
+B|And then we were, put a, like a, not, not necessarily a garage, but just like a, off the side of that|sd
+B|after we had the house part made, we just decided we'd carry the roof out a little bit farther and put a carport more or less.|sd
+B|It's not, you know, it's not enclosed.|sd
+B|It's just somewhere to drive another car to, to park|sd
+B|and it's,|%
+A|Do, do you build on slabs down there or did you build it up off the ground?|qy
+B|Uh, it's off the ground.|sd
+A|On the piers?|qy
+B|Uh-huh.|ny
+B|It's on about uh, twenty-two inch piers, something like that.|sd
+A|Did,|%
+A|You had those  poured|qy^d
+B|So.|%
+A|or you did them yourself?|qy
+B|Uh, no,|nn
+B|those, those are,|%
+B|we did those ourselves|sd
+B|so.|%
+A|You just put forms in the ground and fill them with concrete?|qy
+B|Yeah.|ny
+A|Huh.|b
+B|Exactly,|na
+B|so.  It's,|%
+A|Well,  the last thing I did completely myself was an outside deck which I was pretty proud of|sd
+B|Yeah,|b
+B|those those are,|%
+B|we'd, I've done one,|sd
+B|I helped somebody do one of those before.|sd
+B|Those are, those are, you know,|%
+B|you can buy them in kits|sd
+B|but we didn't do that way.|sd
+B|But it's,|%
+A|No|ar
+A|I designed it from scratch and  did it  did a pretty good job.|sd
+B|Yeah.|b
+A|Those are nice.|sv
+A|They're pretty forgiving, you know.|sv
+A|You can always tear  stuff out and redo it.|sd
+A|It's a,|%
+B|Yeah,|b
+B|yeah.|b
+B|That's not near, like building a house or anything|sv
+B|but,|%
+B|Yeah,|aa
+B|those are nice.|sv
+B|Especially when you get done, you've got something, you know.|sv
+B|I don't know,|h
+B|I like them.|sd
+B|You just sit down on on the deck and do whatever.  Have  a barbecue|sd
+A|Yeah.|b
+A|I  I built it two levels and with a big toy box and some benches and, uh, a backrest and all that stuff.|sd
+B|or,|%
+A|I,|%
+B|Yeah,|b
+B|that sounds nice.|ba
+B|All done by yourself, huh?|qy
+A|I had  a friend with a tractor who dug the pier holes|sd
+B|Designed,|%
+A|so we could pour concrete and support it with a, a nice firm four by four posts.|sd
+A|And, uh and then the rest of it I just did.|sd
+B|Yeah.|b
+A|A, a contractor friend helped me, uh, with some of the, uh, foundation work|sd
+A|but, uh, it was pretty,|%
+A|it was about four or five hundred square feet.|sd
+A|The same size as the addition that I just put on|sd
+A|so.|%
+B|Yeah.|b
+B|That's pretty, that's a good size deck.|ba
+A|Yeah.|aa
+B|So, yeah.|b
+B|That's,|%
+A|It's, uh,  not that expensive.|sd
+A|I think it cost me three dollars a square foot and, uh, you know, no less than that.|sd
+B|Yeah.|b
+B|That's not,|ba
+A|cost me about five hundred dollars, six hundred dollars all together.|sd
+B|Yeah,|b
+B|that's good.|ba
+B|That's not bad at all.|ba
+B|Didn't  have to,|%
+A|Yeah.|b
+B|the wood may|%
+B|it got surprising as to the fact that how much wood is, you know.|sv
+B|To get, to get good lumber it costs,|%
+B|I don't know about Dallas, but even in this little town, it's, it's not cheap at all.|sv
+B|I was surprised.|sd
+A|I'd be surprised if it wasn't, uh,  cheaper where you are.|sv
+B|It's probably more there.|sv
+A|Well, yeah.|aa
+A|It probably comes from where you are.|sv
+B|Yeah,|aa
+B|yeah,|aa
+B|that it probably does.|aa
+A|Most|%
+B|I, I'm not sure|h
+B|but,|%
+A|When I drive through that area, that's all I see is  pressure treated,  pressure treated lumber yards.|sd
+B|Yeah.|b
+B|It's nothing but woods up here,  down here.|sd
+B|Yeah.|b
+B|I don't, I haven't, I mean, I haven't,|%
+B|I used to live in Dallas. In Arlington, actually.|sd
+B|And, but that was just when I was a kid|sd
+B|so I don't really know what the cost of living is even like in Dallas anymore.|sd
+B|But it's, I don't know, we're a college town|h
+B|so that doesn't help us out any.|sd
+A|Right.|aa
+A|East Texas.|sd
+B|We have,|%
+B|gas is a dollar dollar twelve a gallon,|sd
+B|so that's probably about what you're paying|sv
+A|Huh.|b
+B|so.|%
+A|Yeah,|b
+A|my current project is a walkway which I'm building around the house and out to the backyard to, uh, you know, digging it out and laying sand and putting, uh, pavers on top of that|sd
+A|so.|%
+B|Yeah.|b
+A|That's a  lot easier.|sv
+B|You've  got something going all the time.|ba

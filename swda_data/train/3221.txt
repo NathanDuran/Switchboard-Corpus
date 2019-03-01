@@ -1,0 +1,120 @@
+B|So, the the question had something to do with usage of personal computers, um.|sd
+A|Yes,|aa
+A|we are, we are talking about computers this morning.|sd
+B|Um, I'm a firm believer in, in having lots of them.|sd
+B|I'm sitting at my desk now with four machines in front of me.|sd
+A|You have, you have four machines around you,|bf
+A|boy, well, you've, uh, you've got me beat.|sd
+A|I have a, a Zenith here|sd
+B|Uh-huh.|b
+A|and at home I have a Commodore and a Zenith,|sd
+B|Uh-huh.|b
+A|and my wife has an A T and T Twelve Hundred, I believe it is.|sd
+B|Good grief.|ba
+B|What do you do with all those?|qo
+A|Well, actually on my Commodore I mainly study lottery numbers, would you believe.|sd
+A|I have written some, uh, programs in Basic whereby I can select any number of, uh, drawings and from that extract the numbers that have appeared the most|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|Right.|b
+A|I have another program in which I can look at the cyclical, uh, appearance of these numbers to see if there's anything that's consistent on that.|sd
+B|Uh-huh.|b
+A|I have another number that allows me, another program that allows me to add all the numbers I want,|sd
+A|and then it generates a complete set of numbers so that all combinations are covered|sd
+B|Uh-huh.|b
+A|so this is what I do most of the time, uh,|sd
+B|That's what you do on your, at least one of your machines|qy^d
+A|On my Commodore|na
+B|on your Commodore.|b
+A|on my Commodore,|na
+A|uh-huh.|%
+A|And of course I have, uh, word processors,|sd
+A|and I write all my letters|sd
+B|Yeah.|b
+A|it's wonderful, uh,|sd
+A|my, uh, thoughts in my head come in bursts of about a paragraph at a time,|sd
+B|Uh-huh.|b
+A|and I get them all down,|sd
+B|Yes.|b
+A|and naturally on a computer if you make a mistake, who cares,|sv
+A|you can go back and, uh, correct it very easily|sv
+B|Yes,|aa
+B|yes.|aa
+A|so that makes it very, very nice.|sv
+A|I get all my thoughts down and go back and clean it up very, very readily.|sd
+A|So how about you, Charles?|qo
+B|Well, I, um, I do an awful lot of preparation of documents, um, uh,|sd
+B|and I use word processors and, and fancier programs, I mean you know, graphics programs and simply make all of our slides,|sd
+A|Uh-huh.|b
+B|some of them I do on a Sun,|sd
+B|some I do on an X T|sd
+A|Uh-huh.|b
+B|now maybe we don't call these personal computers, um,|sv
+B|I started out with, you know, an I B M P C back in the, you know, about a year after they came out|sd
+A|Yeah.|b
+B|and, you know.|%
+A|So, where, may I ask where you work, sir?|qw
+B|I work for the government in Washington.|sd
+A|I know you work for the government,|sd
+A|I just wondering are you an ,|qy
+A|or what, what, what section of it,|qrr
+B|Of, in, in, in an obscure part of the defense department.|sd
+A|Oh, uh-huh,|b
+A|because, see, that's my type of work, too.|sd
+A|I work at the Applied Research Lab here, here on campus,|sd
+B|Uh-huh.|b
+A|and, my, my field is underwater acoustics|sd
+B|Uh-huh.|b
+A|and there's a lot of things we can do with computers into, uh, studying how, uh, things vary in the water, you know and, uh, taking advantage of them, and so forth,|sd
+B|Uh-huh.|b
+A|so it's a very nice, very nice field,|sd
+A|and I, I am retiring at the end of this month. End of December, excuse me.|sd
+B|Are, are, are you, are you also a professor,|qy
+B|or, or do you just research.|qrr
+A|Yes.|ny
+A|I'm a, I'm an associate professor,|sd
+A|but my, I, I'm a full time researcher|sd
+B|Yes.|b
+A|and it's, uh, been a very, very interesting career, believe me.|sd
+B|I can believe.|ba
+B|What are you going to, what are you going to do when you stop, I mean, take all your machines with you, or,|qy
+A|Well, uh, the ones here in the laboratory obviously I'm, they're going to stay,|ng
+A|but I have similar machines at home.|sd
+B|Uh-huh.|b
+A|I would consider doing some more consulting when I get home|sd
+B|Uh-huh.|b
+A|but I have a very, very busy extra life anyway.|sd
+A|I'm also a musician,|sd
+A|and I play in several symphony orchestras|sd
+B|Yes.|b
+A|and, uh, I run a concert band,|sd
+A|and so I have a lot of external, uh, interests|sd
+B|Uh-huh.|b
+B|Yes.|b
+A|but I do want to get very deeply, much more deeply into computer work, because obviously the world is going to be controlled run and operated by computers in the future.|sv
+B|Yes.|b
+B|Uh-huh.|b
+A|There's no doubt about it,|sv
+A|because it is really taking over,|sv
+A|and the amount of work that we're doing and the depth of things that we are studying can basically only be handled by computers, because, uh, it's so much involved|sd
+B|Uh-huh.|b
+A|and it sounds as though you're probably more aware of that than I am, because, uh, I don't get to use it in my daily work as much as I would like to.|sd
+A|Here again let's say I'm starting to getting ready, in preparation for retirement|sd
+B|Yeah.|b
+B|Yeah.|b
+A|and, uh, so basically what I'm doing is slowly getting rid of my things.|sd
+A|For many, many years I had a full size acoustics, uh, study laboratory where I could take recordings and, and, uh, perform experiments with them and so forth,|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|and so that's gone now,|sd
+A|and so I'm sort of out of business.|sd
+B|Um.|b
+A|Uh, as I say, I worked with|sd
+A|fellow named Steve Blazey was the fellow I worked with for many, many years|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|and he is now retired.|sd
+A|So it's been an interesting life,|sd
+A|and computers have come in towards the latter end of that.|sd
+A|I wish we had had computers in the very beginning.|sd
+A|It would have been,|%

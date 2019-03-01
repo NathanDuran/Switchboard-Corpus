@@ -1,0 +1,97 @@
+A|Well, Wayne, I, uh, feel very strongly about parents doing things with their children, and making time available even sometimes when time isn't available.|sv
+A|How do you feel about it?|qo
+B|Well, yeah,|aa
+B|I feel much the same way.|sv
+B|I've, uh, two kids right now|sd
+A|Yeah.|b
+B|one is two and a half|sd
+B|and one's nine months,|sd
+B|and, uh, that age, of course, everything you do they're trying to learn to do,|sv
+B|and so, uh, it's important for you to spend time doing the things that you want them to learn, you know, that, that they need to learn at the age, you know reading, and, uh, reading and playing nice with others, and that sort of thing.|sv
+A|Yeah.|b
+A|Yeah,|b
+A|we went through this with our children, and now with our grandchildren,|sd
+A|and I've always tried to do things with them, uh, like, when you're at the little league, helping out even though I'm not a good athlete myself,|sd
+A|I was able to help the coach in, in just controlling the kids, if nothing else,|sd
+A|and we've always, uh, oh tried to take our children and now at this age our grandchildren to see and do things that otherwise they might not be able to.|sd
+A|I think that's just part of their overall educational process, is to get out and see and do things.|sv
+B|Right,|aa
+B|uh-huh.|aa
+A|Yeah,|b
+A|yeah.|b
+A|And so, it's uh,|%
+A|we have, uh, lived several places around the U S|sd
+A|and we have, where we've lived, we've taken them to see and do things of interest and of historical significance in the area,|sd
+A|like when we lived in Tennessee, we, we took them to Washington, D C to see all the capitol and, and things like that when they were small.|sd
+A|And it's just, uh, it's helps, I think, the children to, when they're learning in school, to say, well, I've been there and I've seen that.|sd
+B|Right.|b
+A|Yeah.|b
+B|Uh-huh.|b
+A|Yeah,|b
+A|So, uh, that's the type,|%
+B|Yeah,|aa
+B|it certainly does, because, uh, you know, the things in the books seem so dead to the kids, you know, unless they've actually been there or whatever,|sv
+B|because I remember our family, well, we, we, we went everywhere.|sd
+B|And, uh, seeing New England and, uh, being on Plymouth Rock and stuff like that was really made the whole thing more, uh, visual.|sd
+A|Yeah.|b
+A|Yes.|b
+B|And we could, uh, read the things in the history books and understand what they said, when it was like, we need food, we need to raise food quickly because this place gets very cold very soon.|sd
+A|Yeah.|b
+A|Yeah,|b
+A|we've, uh, gone through that, uh,|sd
+A|I remember my parents didn't do all those type things,|sd
+A|and so I made a special effort with my children to do things like that.|sd
+A|And even now with my grandchildren, I feel it's a very important thing to be done.|sd
+B|Right,|aa
+B|because if, uh, kids don't look up to you, or, or, can't feel they can spend time with you, they're going to find someone else|sv
+A|Yeah.|b
+B|and uh, you know, nowadays there's a lot of people out there that you don't want your kid to, emulating or whatever.|sv
+A|Yeah.|b
+A|Well, I can remember one of the things I'm most proud of is, uh, when my son was,|sd
+A|I think it was in the sixth grade,|sd
+A|they had to write a, a little brief autobiography of themselves, and about what they had done and what they wanted to do,|sd
+A|and I was very proud when my son wrote that he wanted to, uh, have a family and be able to help coach little league and do things like his dad had done with him.|sd
+A|A real point of pride with me.|sd
+B|Yeah,|b
+B|that is nice.|aa
+A|Yeah|b
+A|excuse me, it sounds like we both have colds.|sv
+B|Yeah,|aa
+B|well, it's, um, well, it's, uh, ten o'clock here in Falls Church, Virginia.|sd
+A|Oh.|b
+B|So that the only reason I'm home is because I'm home with a cold|sd
+A|Oh, well, we're|%
+B|And the wife says, Well, you need something to do,|sd
+B|talk to a guy on the phone.|^q
+A|Yeah,|b
+A|well, I'm sitting here on the ninth floor of an office building on the north side of Dallas, Texas.|sd
+A|So, we're kind of far apart here.|sd
+B|Yeah|b
+A|This is a very interesting program I, I heard about here on this,|sd
+A|and when I signed up for it, it, uh, looked like it could be, make a real contribution in participating.|sd
+B|Right.|aa
+B|Yeah,|aa
+B|I'm an electrical engineer by trade uh, here in Virginia.|sd
+A|Yeah.|b
+B|Likewise, we, uh, we do some projects every now and then.|sd
+B|We like to get support from, uh, other, other companies as well.|sd
+A|Yeah.|b
+A|I'm an accountant presently working as a contractor liquidating a failed savings and loan|sd
+A|So, Trying to work myself out of a job|sd
+A|But, it's been an interesting, uh, roughly, oh, nine months here,|sd
+A|and, uh again, this is our home area.|sd
+B|Oh.|b
+A|We've lived here about seventeen years,|sd
+A|and it's, uh,|%
+A|we enjoy living here.|sd
+A|It's where we originally started out,|sd
+A|and we've lived up north for a while in Chicago and over in Tennessee.|sd
+A|So, wound up back about two hundred miles aware, away from where we started out.|sd
+B|Yep|b
+A|Well, uh, that's about all I can think to talk about right now.|sd
+A|It's been a pleasure talking with you.|fc
+B|Okay.|fc
+A|Thank you.|ft
+B|Right.|bd
+A|Bye.|fc
+B|Bye-bye.|fc

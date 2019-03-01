@@ -1,0 +1,95 @@
+A|Well this is a subject that you never think you'll be assigned to One that kind of comes up when you've lost it, the others, other subjects.|sv
+B|No|aa
+A|Um, as I was sitting there, I thought, the weather's been perfect.|sd
+A|I don't know much to say about it.|sd
+A|It's, uh, it's, you know,|%
+A|for the balloon festival here in Plano it was just gorgeous.|sv
+B|I'm from Plano also.|sd
+A|Are you?|bh
+A|It couldn't have been better.|sv
+B|That's right.|aa
+A|I mean, it didn't foul one launch,|sd
+A|and that's kind of unusual,|sv
+A|and it's kind of cold in the mornings|sv
+A|so you dress up warm,|sv
+A|but by,|%
+B|Right.|b
+A|That's the only thing wrong I can find with it.|sd
+B|I just got back from Dayton.|sd
+B|I spent the weekend in Ohio with my family|sd
+A|Oh, how fun.|ba
+B|and the trees are changing color there.|sd
+A|I miss that,|sd
+A|yeah.|%
+B|So, that,|%
+B|as soon as we got out of the cloud cover.|sd
+B|Of course it wasn't sunny like it is here.|sd
+B|It was real gray|sd
+A|Yeah.|b
+B|but as soon as the plane got through the clouds|sd
+B|and I saw all those trees,|sd
+B|it just really made me realize how much I miss the fall.|sd
+A|Yeah.|b
+B|I don't complain weather wise though, because it was also thirty-five degrees there yesterday morning,|sd
+B|and the high was only fifty,|sd
+B|and it was supposed to drop and get sleet in the afternoon|sd
+A|Ooh.|b
+B|so it was nice to get off the plane where it was in the seventies.|sd
+A|I guess you have to take some things and leave some things.|sv
+B|That's right.|aa
+A|Yeah,|b
+A|I'm from Utah area,|sd
+A|and they, you know, they have tons of canyons where the leaves change|sd
+A|and they're gorgeous|sd
+B|Yeah.|b
+A|you could spend every weekend of the fall going to a different area.|sd
+B|We did that when we lived up in Michigan.|sd
+B|We went up to the upper peninsula,|sd
+B|and they actually printed out maps of routes you could take so you would get maximum leaf exposure.|sd
+B|And then on leaf weekends it was, which is this time of the year, it's bumper to bumper traffic,|sd
+B|people as|%
+B|whoever was driving could never have a prayer of looking at the leaves, because they had to keep watching the road.|sd
+A|Yeah,|aa
+A|it's kind of hazardous for driving|sv
+B|Yes.|aa
+A|that's for sure.|ba
+A|But I can't complain.|sd
+A|I don't know if I've been spoiled.|sd
+A|I've been thinking it's getting cold sooner than normal.|sv
+A|We've only lived here a couple of years.|sd
+B|I think it is,|aa
+B|and my family said that in Ohio there was just an article on, at the T V news that they are three weeks ahead of schedule as far as the coldness of the temperatures and, uh, the first frost,|sd
+A|Huh.|b
+B|everything just happened three weeks early this year.|sd
+A|We'll have to see how it goes,|sv
+A|a couple of weeks ago we were cooler than normal,|sv
+A|but then we're back to being warmer than normal this week, or last week,|sv
+A|so.|%
+B|Just so we don't have one of those famous ice storms in the spring.|sv
+A|I don't have to live through many, any of those really,|sd
+A|a bad,|%
+A|I mean, nothing comparable, I guess, to what you've had before.|qy^d
+B|Well, I've only been here just a short time, too,|arp_nd
+B|so I haven't been through any of those either,|sd
+B|so. I have in Michigan,|sd
+B|but in Michigan you can get twelve inches of snow|sd
+B|and life goes on.|sd
+A|You're right.|aa
+B|So, as I understand it here, if there's anything, they'll call off schools and, and close businesses.|sd
+A|Well, they get ice,|sd
+A|and no one can drive on ice.|sd
+B|Right.|b
+A|I mean, we used to think they were pansies,|sd
+A|but then when you decided what ice was|sv
+B|Right,|aa
+B|the real definition of ice|aa
+A|So, well, I think we've discussed it good enough today.|fc
+B|I think so.|fc
+A|It was, It was good talking to you.|fc
+B|It was nice talking with you.|fc
+A|Maybe we'll get the next time.|fc
+B|Okay.|fc
+A|Take care.|fc
+B|Okay.|fc
+A|Bye-bye.|fc
+B|Bye.|fc

@@ -1,0 +1,457 @@
+A|What type of lawn and garden work do you do?|qo
+B|Well, I do it all|arp_nd
+A|I see.|bk
+A|Do you have a garden?|qy
+B|Uh, yes.|ny
+B|I, I try to grow, uh, uh, a vegetable garden|sd
+B|and,|%
+A|We do the same thing.|sv
+A|It's, I just have a small plot it's like ten feet by five feet.|sd
+B|Yeah.|b
+B|I have two plots,|sd
+B|one's ten by ten|sd
+B|and one's like fifteen by four.|sd
+A|I see.|b
+B|It's a long skinny one|sd
+B|and,|%
+A|Yeah,|b
+A|you do a lot more area than I do.|sd
+A|I've,|%
+A|all the rest of my yard, backyard is, uh, you know, pool and decking|sd
+A|it's all the dirt I have, left in my backyard|sd
+B|Oh, I see.|b
+B|Yeah.|b
+B|I see.|b
+A|Well, I I enjoy fiddling around.|sd
+A|It's cheap entertainment.|sv
+B|Right.|aa
+B|Right.|aa
+B|Yeah,|aa
+B|it's nice to get out in the open air.|sv
+A|It is,|aa
+A|uh-huh.|aa
+B|And especially when the weather's not too hot or, not raining or whatever,|sv
+A|That's right.|aa
+A|Yeah.|b
+B|but, uh,  sometimes I,  I said, I sometimes I wish I had more space you know.|sd
+A|I enjoy,|%
+A|Excuse me, go ahead.|ad
+A|Uh-huh.|b
+B|I grow a lot of things, a lot of food.|sd
+A|Uh-huh.|b
+B|And sometimes I, I want to plant something, there's not enough room to plant. Some of those things like, uh, you know, the things that vine like, uh, cucumbers, or, uh, squash or something,  like that.  Plant one of those|sd
+A|That's right.|aa
+A|That's right.|aa
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Takes a lot of room.|sv
+B|and it takes up your whole space|sv
+A|It sure does.|aa
+A|I made mistake one year and planted some cantaloupe,|sd
+A|my goodness, what a mistake that was.|sd
+B|Yeah.|b
+B|Yeah.|aa
+B|They, they just run all over, the place, don't they,|sv
+A|They do.|aa
+A|Well, it was very good|sd
+A|it just takes up, you know, like you say, a lot of your garden area.|sv
+B|Right.|aa
+B|Right.|aa
+A|It's the first and only time I've done that.|sd
+A|We don't do anything exotic|sd
+A|we just do, oh, tomatoes, bell peppers, radishes and turnips, I mean, not turnips, carrots, beets and things like that.|sd
+B|The basics.|^2
+B|Right.|b
+B|Yeah.|b
+B|That's what we do too.|sd
+A|My wife used to plant a few snow peas.|sd
+A|I don't really care for snow peas.|sd
+A|Well, she just plants a few for herself.|sd
+B|Right.|b
+B|Peas|%
+A|Yeah.|b
+B|I, I got a few peas out my garden a couple of days ago.|sd
+A|Did you really?|bh
+B|The first one, they started them indoors this time.|sd
+B|I read it,|sd
+A|Oh, I see.|b
+B|And so I,|%
+A|Okay.|b
+A|We don't start anything indoors|sd
+A|we, just wait until, you know, the weather warm enough to stick it in the ground.|sd
+B|Yeah.|b
+B|I, uh, I guess you can get an earlier harvest by doing that,|qy^d
+A|Probably so.|na
+A|Yeah,|ny
+A|you can get a head start on it. like ice in|sv
+B|But, uh, sure is a heck of a lot of work.|sv
+A|I guess it, it, might would,|aa
+B|Because you got to, watch them every day, and keep them watered|sv
+A|yeah.|aa
+A|Uh-huh.|b
+B|and I, I don't think I'll do it again|sd
+A|Well it will make, it will make them taste better I'm sure.|sv
+B|Oh, yeah.|b
+B|Yeah,|b
+B|I enjoy it.|sd
+B|I come home from work|sd
+B|and, and I usually say hello to wife and kids, and then go out and fiddle, you know, just walk around the yard and inspect it|sd
+A|Sure.|b
+A|You got to inspect it,|^2
+A|yeah.|%
+B|and the kids want to swing,|sd
+A|Sure.|b
+B|and I push them on swing.|sd
+A|Sure.|b
+B|And I I mow my own lawn.|sd
+A|Yeah.|b
+B|And I do, I don't have a sprinkler system.|sd
+B|I, I don't enjoy watering.|sd
+A|No.|b
+B|Especially,|%
+A|I,|%
+A|this is the first home we've lived in we've had a sprinkler system,|sd
+B|Oh how,|%
+A|and boy, it is really nice,|sd
+B|Oh.|b
+A|it sure beats dragging hoses around.|sv
+B|Yeah,|aa
+B|you can have it come on just early in the morning. And, and off by the, you know, by the time you're up and about.|sv
+A|That's right.|aa
+A|That's right.|aa
+A|It's really nice.|sd
+B|Yeah.|b
+B|I, I usually get it started for my wife|sd
+A|Uh-huh.|b
+B|and I, and she moves it around ever other day.|sd
+A|I'll have to admit I don't, I do my own yard.|sd
+A|I, I really don't enjoy doing that.|sd
+A|I enjoy having a nice looking yard,|sd
+B|Uh-huh.|b
+A|I just don't enjoy the work, that it takes to get it done.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|I had a lawn service to do my yard for me during the real hot summer months, you know, until I retired|sd
+B|Uh-huh.|b
+A|and now I, I've lost my excuse for that so I have to|sd
+A|for the last couple of years I've done it myself.|sd
+B|Yeah.|b
+B|Sometimes I wish I could get one of these, uh, chemical services to come, out and spray for weeds, and fertilize, and all that and take that one step out of .|sd
+A|Uh-huh.|b
+A|Yeah.|b
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|But, uh, they want too much money.|sv
+A|It is kind of expensive,|aa
+A|it is.|aa
+B|Yeah.|b
+A|Of course, the chemicals themselves when you buy them, they're expensive too.|sv
+B|Right.|aa
+B|Right.|aa
+B|But it's still be quite a bit cheaper to do it yourself.|sv
+A|That's right.|aa
+A|If I have a problem discipline, you know, I think,|sd
+A|now, boy, I really need to get out, you know, and apply something, you know,|^q
+A|and I screw around and don't do it or wait too long or something.|sd
+B|Right|b
+B|and the weed come up,|qy^d
+A|That's right.|aa
+B|and all of a sudden you've got to do something else.|sv
+A|That's right.|aa
+A|I'm, I'm kind of bad about that.|sd
+B|Yeah.|b
+A|I enjoyed having a lawn service|sd
+A|but now I have the time|sd
+A|and I really can't, I really you know, don't,  want to spend the money for it.|sd
+B|Well, if you,  enjoy it too, you know, you, you can get out in the morning when, before it gets hot and, and do it and stuff, when you only have to,|sv
+A|Yeah.|b
+A|That's right.|aa
+A|I'm not limited to, just mowing it on Saturday morning, you know,|sd
+B|Right.|b
+A|I can do it on most any day of the week.|sd
+B|When the days start getting a little longer, you know, you can, I can start doing it in the evening after work.|sv
+A|Uh-huh.|b
+A|That's right.|aa
+B|When they, when they switch to, switch,|%
+A|Yeah.|b
+B|when we get an hour more,|%
+A|Yeah.|b
+B|when they rollback an hour.|sd
+A|That's coming up here pretty soon.|sv
+A|Is it this weekend?|qy
+B|I don't know.|no
+A|It's pretty soon.|sv
+B|I really don't know.|sd
+B|It just seems like I here it on the news the day before.|sd
+A|Yeah.|b
+B|And, uh, I, I think it's coming up here soon.|sv
+A|I believe it is too.|aa
+B|Yeah.|b
+B|Yeah.|b
+A|Well,|%
+B|Are you having any trouble with bugs in, in your garden?|qy
+A|Uh, not a whole lot, uh.|ng
+A|I, I don't use, I, I seldom use anything harsher than seven dust, you know.|sd
+B|Uh-huh.|b
+A|I don't really like to put a lot chemicals on it|sd
+A|but then, again, I don't want the bugs eating it upping either.|sd
+B|Right.|b
+B|Right.|b
+B|I, I,|%
+B|it seems like they come in spurts.|sv
+A|Uh-huh.|b
+B|One year I didn't put anything on|sd
+B|and I didn't have any problems.|sd
+A|Uh-huh.|b
+B|Next year I was planting some broccoli and, and some of those, they're called cabbage, cabbage loppers, or whatever.|sd
+A|Uh-huh.|b
+A|Right.|b
+A|Uh-huh.|b
+B|They were just covered with them,|sd
+A|Yeah.|b
+B|I mean, I went up,|%
+B|I didn't go out there for about three days, you know, because I, and I went out there one day and the plant was nothing left but a stem,|sd
+A|Uh-huh.|b
+A|That's right.|aa
+B|they devoured it that quickly.|sd
+A|Absolutely.|aa
+A|They really go through it,|sv
+B|And, they, they, have a, you, a good appetite|sv
+A|they really do.|aa
+A|Yeah.|b
+B|And they would, you know,|%
+B|I, I picked off like twenty of them|sd
+B|and,|%
+A|You know cutworms will do the same thing to your tomato vines too.|sv
+B|yeah.|aa
+A|Boy, they'll strip,|%
+B|They got that, uh, what is that safer soap, uh, B T spray this, year.|sd
+A|Uh-huh.|b
+A|Yeah.|b
+A|Uh-huh.|b
+B|And I've been watching them every day|sd
+B|and I've, and I haven't seen any signs yet.|sd
+B|So, if I see any signs I'm going to spray them,|sd
+A|Yeah.|b
+B|and, uh,|%
+A|I did something a little bit different this year that I haven't done before,|sd
+A|I've got,|%
+A|my garden is shaped that I can,|sd
+A|it's kind like this, uh, box shape,|sd
+A|so I got four pieces of two by twelve and joined them together and just made a box. And put in a whole bunch like eight hundred pounds of topsoil and manure|sd
+B|Right.|b
+A|and, you know, various other things, Raised it up.|sd
+B|Well, the good stuff.|sv
+B|Right.|b
+A|And I'm hoping especially with those big tall sides on there it that maybe I won't have, oh, I'll have less of a bug problem|sd
+A|at least they, they'll have a hard time crawling up the thing.|sv
+B|Right.|aa
+B|Yeah,|aa
+B|my backyard is, uh, is sloping|sd
+B|so I built a box up, you know had to build the one, the low side up.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|And, uh, I had sandy loam hauled in.|sd
+B|I had a dump truck come and dump it.|sd
+A|Uh-huh.|b
+B|On my driveway, I guess, that's what they do|sd
+B|and then, I had to wheel barrow it in.|sd
+A|Yeah,|b
+A|Right.|b
+B|But, uh, you know, you can improve your own soil there|sv
+A|Uh-huh.|b
+B|but the Texas soil isn't the greatest, gardening soil.|sv
+A|That's right,|aa
+A|you, you have to work on.|sv
+A|You, really do.|sv
+B|Right.|b
+B|And you know, if I, I didn't wait five years for it to be good enough grow|sd
+B|you know what I mean|qh
+A|That's right.|aa
+A|When we had our pool done I had them to leave some extra loam, you know, for my garden|sd
+A|so I had, I had a lot of loam out there to start with|sd
+A|I just turned it all up and mixed it all up together with,|sd
+B|Uh-huh.|b
+B|Do you have, do you have a rotor tiller?|qy
+A|No.|nn
+A|I don't,|sd
+A|I did it by hand,|sd
+B|Small enough,|sv
+B|you have a,|%
+B|just do it by hand?|qy
+A|Uh-huh.|ny
+B|Yeah.|b
+A|It wasn't too much of a job,  really.|sd
+B|Yeah.|b
+B|Yeah.|b
+A|Like I say it's just,|%
+B|Yeah.|b
+B|I'd like to get one of these little small ones, that you see in all these gardening magazines.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|It would be handy.|sv
+B|And it weighs twenty pounds or, something like that.|sd
+A|Yeah.|b
+B|My neighbor across the street has one.|sd
+B|He always uses it to dethatch his lawn,|sd
+A|Uh-huh.|b
+B|I see him out there,|sd
+A|Yeah.|b
+B|and I guess it has a thatcher attachment to it.|sd
+A|It might be handy,|sv
+B|Yeah.|aa
+B|Yeah.|aa
+A|They're pretty neat little,|sv
+A|I've never seen one.|sd
+B|I have a friend who has one|sd
+B|and, and he lets me, you know, no problem borrowing if it's, just a hassle when you know, to go up|sd
+A|Uh-huh.|b
+A|Oh, yeah.|b
+B|and it's a fairly large one to, heave it up into the back of the van, bring it home and, check it back and just grab it, you know, if I, just go to my garage and grab it.|sd
+A|Yeah.|b
+A|Uh-huh|b
+A|Right.|b
+A|Yeah.|b
+A|That would be neat,|ba
+A|sure.|%
+B|That would be nice.|ba
+A|We've had a garden, gosh, for years and years and years, of some size, you know,|sd
+B|Uh-huh.|b
+A|I can't remember a year when we didn't have one of some kind.|sd
+B|What have you got growing right now?|qw
+A|Uh, got,|%
+A|you know tomatoes that are starting to bloom|sd
+B|Uh-huh.|b
+A|and, uh, I've got carrots, I yes, I've got a few carrots up|sd
+A|and I've got some radishes up,|sd
+B|Uh-huh.|b
+A|and as a matter of fact, I've already done a second row of radishes.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|And, uh, the green onions are coming along.|sd
+B|Okay,|bk
+A|Snow,|%
+B|what kind,|%
+A|excuse me.|fa
+B|what kind of onions do you grow?|qo
+B|Do you grow those, those ten, fifteen Y?|qy
+A|Yes,|ny
+A|I've|%
+A|for the first time we planted them this year.|sd
+B|Oh, they, they are the best.|sv
+A|Yeah.|aa
+A|We tried to find them last year,|sd
+A|we screwed around and waited too long|sd
+A|and I couldn't find a nursery that had any of them left.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|But we've got some this year.|sd
+B|Uh, those,|%
+A|Snow peas are up|sd
+A|and, uh, my wife does, uh, a small herb garden on the side.|sd
+B|I see.|b
+A|They're up and doing fine.|sd
+B|Yeah.|b
+B|I, uh,|%
+B|those onions, I think, we, we planted like twice as much this year because, you know, we got, onions|sd
+B|and they lasted from, you know, about when you harvest them about a month from now or so, or six weeks, from now, until, until like October,|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Yeah.|b
+B|and, uh, we really missed them when they were gone, because the ones from the grocery store just can't, compare.|sv
+A|Yeah.|b
+A|Yeah.|aa
+A|That's kind of a, let down.|sv
+B|She made these onion rings that were so good,|sd
+A|Oh, I bet,|ba
+B|and, and, and, uh, you don't realize how many dishes you put onions in,  that it's an ingredient,|sv
+A|they were.|ba
+A|That's right.|aa
+A|We use a lot,|sv
+A|we sure do.|aa
+B|and, and it was just like everything you put it into tasted so much better.|sd
+A|Yeah.|aa
+A|One nice thing with onions and, and bell peppers at least you can chop them and freeze them if you have, you know, too many.|sv
+B|Right.|b
+B|Right.|aa
+B|We froze a lot of peppers.|sd
+B|We let some turn red.|sd
+A|Yeah.|b
+A|Uh-huh.|b
+A|We did that too,|sd
+B|And some we do green|sd
+B|and then my wife puts them on pizzas. And, and chops them up in recipes and things like that.|sd
+A|Uh-huh.|b
+A|Sure.|b
+A|Makes, uh, makes a colorful salad too.|sv
+B|Oh, yeah.|aa
+B|Put them in salad,|aa
+B|yeah.|aa
+A|Uh-huh.|b
+B|You're, you're making me hungry here.|sd
+A|We planted some yellow peppers this year.|sd
+A|We've tried it, before|sd
+B|Oh.|b
+A|and nope,|nn
+A|we haven't had much luck with it we're going to try it again this year.|sd
+B|Yellow peppers, huh.|b
+A|They have some little buds on them hopefully they'll do something.|sd
+B|Yeah.|b
+B|Sounds like you have a real good garden.|bf
+A|Yeah.|aa
+A|We enjoy fooling around with it.|sd
+B|Just let me see what I got,|^h
+B|I got the peas|sd
+B|and I've got some broccoli, uh, onions some, some radishes and, uh, uh, beets.|sd
+A|Beets.|b^m
+A|Yeah,|%
+A|we've got some beets,|sd
+A|uh-huh.|%
+B|Uh, and I planted potatoes too.|sd
+A|Uh-huh.|b
+A|I've never done potato.|sd
+A|We used to do it at home when I was a kid, had a huge garden.|sd
+B|Oh, the potato,|b
+B|They were, they're delicious|sv
+B|but they,|%
+B|you don't get, seem to get that much for the space,|sv
+A|Uh-huh.|b
+B|they, they do.|sv
+A|It takes a, yeah, it does take some space.|aa
+B|Some beet, uh, potatoes|sd
+A|Yeah.|b
+B|and I've got some tomatoes still growing, in, in containers,|sd
+A|Uh-huh.|b
+A|I see.|b
+B|I got to wait for a place to, to, to free up.|sd
+A|Uh-huh.|b
+B|Uh, our, our kids love pickles|sd
+B|and we all love pickles|sd
+B|so we're going to try to grow our own pickles this year.|sd
+A|Uh-huh.|b
+A|That will be neat,|ba
+A|yeah.|%
+B|We've got some good, um, um, Hybrid Burpee uh uh, pickler cucumbers|sd
+A|Uh-huh.|b
+B|and we're going to try to see if we can pickle our own|sd
+A|That will be neat,|ba
+A|yeah.|%
+A|Absolutely,|na
+A|they're expensive.|sv
+B|I know it.|aa
+B|I said, why are they so expensive they're just a bunch of little cucumbers, you know?|sd
+A|I don't know unless it, labor intensive or something.|sv
+A|I really, don't know.|sd
+B|I guess.|aa
+B|But we're going to try that, and see how that works.|sd
+A|That will be interesting.|ba
+B|An experiment.|sd
+A|Yeah.|b
+B|I'd like to try, you know, just try something new, every year that, I haven't tried before|sd
+A|Sure.|b
+A|Yeah.|b
+B|and,|%
+A|That's interesting.|ba
+B|Well.|%
+A|Well, I'll let you go it's,|fc

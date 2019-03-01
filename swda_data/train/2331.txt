@@ -1,0 +1,252 @@
+A|Are you a player?|qy
+B|Uh, I, I think I am.|na
+B|It's, it's been a while now|sd
+A|Has it?|bh
+B|Yeah,|ny
+B|I've, uh, oh,|%
+B|just recently I got married|sd
+B|and we bought a house.|sd
+B|We're about fifty yards from the golf course|sd
+A|Oh.|bk
+B|but unfortunately the house is taking up my time.|sd
+A|Yeah.|b
+B|So it's been, uh, it's been almost a year, I guess, since I've actually, uh, swung a club for a purpose.|sd
+A|Yeah,|b
+A|I I haven't played in about two years,|sd
+A|and then I went out two weeks ago with the guys here.|sd
+A|I work at T I.|sd
+B|Yeah.|b
+A|And I played in a tournament out there,|sd
+A|and I shot a net fifty-nine.|sd
+A|They were kind of, little upset.|sd
+A|I guess I laid off long enough to get rid of all my bad habits.|sd
+B|Yeah,|b
+B|yeah.|b
+A|I have a hard time inventing shots, you know.|sd
+A|Let's go around this tree, and you know, try a slice through a hook here,|^q
+B|Right.|b
+A|and I can't do that|sd
+A|so.|%
+B|Right.|b
+A|I finally got out,|sd
+A|and I've been watching quite a few videos.|sd
+A|I had not been able to play|sd
+A|so I took out a few videos and watched them for a while,|sd
+A|and I, I hope I'm on the right track.|sd
+B|Yeah.|b
+A|Shot a career low eighty-nine, so, and my handicap is twenty nine.|sd
+B|That's, that's great.|ba
+A|I like that.|sd
+B|Yeah.|b
+B|Now it's, uh, like I say, it's been a while for me, too.|sd
+B|I, uh, I've got my wife motivated about it, um|sd
+A|Really.|b
+B|and, uh, I think that's probably going to be one of the next investments, is get her, get her a set of clubs|sd
+B|and, uh, we'll get out of the driving range and, and get some interest built up|sd
+B|and hopefully we can, uh, we can start in.|sd
+A|Yeah,|b
+A|I've tried to get my wife,|sd
+A|I bought her a set of clubs four years ago.|sd
+A|She hasn't even swung them,|sd
+A|but she wants to get into it now after I came home and won the tournament the other day,|sd
+B|Really.|b
+A|she's she's ready to get off into it,|sd
+B|Well, great, great.|ba
+B|That's good,|ba
+A|but, you know, I like, I just like getting out, being in the outdoors,|sd
+A|and I'm a hunter and fisher anyway,|sd
+A|but, you know.|%
+B|Yeah,|b
+B|same thing here.|sd
+A|You know, at least I can get out and play a few hours of golf|sd
+A|and it's not going to cost me an arm and a leg, really.|sd
+B|Right,|b
+B|right.|b
+A|And I, you know, I walk,|sd
+A|I don't ride|sd
+A|so|%
+B|Uh-huh,|b
+B|yeah.|b
+A|you know, I get a little exercise there, too,|sd
+A|so.|%
+B|That's,|%
+B|I've got the same attitude.|sd
+B|I, uh, I tell you,|^h
+B|I started,|%
+B|I guess, the first time I played golf has been probably about eight or ten years ago now, when I was in college.|sd
+A|Yeah.|b
+B|And, uh, I took, uh, I took it as a P E course and then kind of left it alone for a while,|sd
+B|and then finally got, got into it when I was, while I was still in school|sd
+A|Right.|b
+B|and since then, uh, we've made it, um,|sd
+B|as, as the friends start getting married and things like that, we've made a tradition of, uh, having a, a Thursday, um,|sd
+B|well, have, have probably like, like a Thursday night bachelor party and a Friday golf day before the wedding.|sd
+A|Yeah.|b
+B|And, uh, so, it,|%
+B|that's back in South Dakota where I grew up|sd
+A|Oh.|b
+B|and, uh, so that, that's, uh, that's been my main, my main involvement,|sd
+B|is it seems like I go home and play golf more than I do around here,|sd
+B|but, uh eventually I get people to come and visit me in Dallas,|sd
+A|Yeah.|b
+B|and then I'll show them we can play golf in the middle of winter when we can't do it back home.|sd
+A|Yeah,|aa
+A|it's pretty nice.|sv
+A|We played out here a couple of times in the middle of the winter when my parents came down and what not.|sd
+A|They were amazed.|sd
+B|Yeah.|b
+A|You know, here it is, sixty-five degrees,|sd
+A|we're out playing golf,|sd
+A|and they're freezing cold back there,|sd
+A|so. But, I, uh, actually I picked it up when I was in high school, on the same as a P E course, you know,|sd
+B|Yep,|aa
+B|yep.|aa
+A|when I got into the service I got into it|sd
+B|Oh, okay.|b
+A|and now when I come out here I just kind of let it go,|sd
+A|and then one, one of the guys mentioned to me at work one day if I played golf.|sd
+A|And I said, Well, yeah, you know,|sd
+A|I've got my clubs,|^q
+A|but I haven't swung them in quite a few years.|^q
+B|Uh-huh.|b
+A|And then I got into it and then back out of it,|sd
+A|and it just seems like every couple of years I get back in there|sd
+B|Yeah,|aa
+B|that's right.|aa
+A|You know, I really enjoy it.|sd
+A|It's really nice.|sv
+B|Oh, it is, it's, it's a lot of fun, especially if you can find somebody that's, uh, that's got the same level of interest.|sv
+B|That seem to be the hardest thing.|sv
+A|Yeah.|b
+B|Well, about,|%
+B|that's, that's true of any sport, you know.|sv
+B|If you want to play tennis, or racquetball,|sv
+A|Yeah|b
+A|you don't want to go out and get beat to death,|sv
+A|but.|%
+B|Right,|aa
+B|and, and people don't want to play with somebody that they are going to beat every time, you know|sv
+A|No.|aa
+B|and, and, uh,|%
+A|And then, you know, we've got some guys here that they are, you know, four and five handicappers|sd
+B|Uh-huh.|b
+A|and they don't like to play with me because I'm too slow for them,|sd
+A|so. You know, but get somebody around your own handicap, and you can just mosey on out for three or four hours and have a good time.|sv
+B|Right.|b
+B|That's right,|aa
+B|yeah.|aa
+A|And I've, you know, I've|%
+A|never, never yet have I walked up,|sd
+A|now I've walked up a few times on the golf course by myself with nobody else to play with,|sd
+A|and never yet have I met anybody on the golf course that wouldn't allow me to join their twosome or threesome.|sd
+B|That's true.|aa
+A|They are always friendly.|sv
+B|That's true.|aa
+A|Sure, come on out, you know,|^q
+A|and they don't mind if you make a mistake,|sv
+A|they don't mind saying, Well, you know, let me tell you how to do that or teach you how to do that, or,|sv
+B|Well.|b
+A|You know, it's, it's pretty nice and friendly out there|sv
+B|That, that's, that's so.|aa
+A|and you can't find that in all sports.|sv
+B|Yeah,|aa
+B|that's absolutely right,|aa
+B|and you can gain a lot of ground doing that, too, if you, if, you know,|sv
+B|you gets, you get in a rut if you do play a lot|sv
+B|but you play with the same people, you, you aren't going to learn anything.|sv
+A|Yeah,|b
+B|After a short period, once you learn everything they've got to offer,|sv
+B|then you've basically tapped your resources there.|sv
+A|Yeah,|aa
+A|you need to,|sv
+A|Yeah.|b
+B|But, uh, I'd like to, uh, eventually I'd like to work up, if, if my wife does get interested, and maybe get involved in a league in a, in a mixed, mixed doubles league, or something like that.|sd
+A|Oh yeah,|b
+A|we , we have one down here in the summertime.|sd
+A|Uh, it runs from like five o'clock to seven thirty or eight o'clock, you know, because it doesn't get dark until nine thirty or ten.|sd
+B|Uh-huh.|b
+B|Right.|b
+A|And we play in the summertime out here.|sd
+A|We get a mixed league in,|sd
+A|and that's what I'm trying to get her ready for.|sd
+A|It's going to start, well, when we change time back whenever that is next month, I guess,|sd
+B|Uh-huh.|b
+A|and it will start then,|sd
+A|and, you know, we had a lot of girls out there a couple of years ago,|sd
+A|and they were just starting to learn,|sd
+A|and, you know, they were shooting a hundred, hundred and twenty|sd
+B|Sure.|b
+A|but they were, you know,|%
+A|now they're down into the hundreds nineties,|sd
+B|Right.|b
+A|so, it won't take her long. You know,|sd
+B|Well, that's good that's good, that's sounds like a lot of fun.|ba
+A|And it's something we can do together,|sd
+A|so. Well, she doesn't do much hunting,|sd
+A|she could care less about that.|sd
+B|Yeah.|b
+A|She's does a little fishing,|sd
+A|but, you know, golf would give her the exercise,|sv
+A|she'd be outside,|sd
+A|give her something to do that we both enjoy,|sd
+A|so.|%
+B|Yeah,|b
+B|it, it sounds like we've got real similar situations.|sv
+A|Yeah.|b
+B|I, I, I go home, uh, I've gone home every year now since I've moved to Dallas to, to go pheasant hunting,|sd
+B|and, uh um, the, the last time I, I took my wife along|sd
+A|Uh-huh.|b
+B|and, uh, kind of the same situation.|sd
+B|She's, she's up in the house and talked to my mother the whole time we were out hunting and stuff,|sd
+B|but, She'll definitely, uh, she'll make the trip for fishing if that comes along,|sd
+A|Yeah.|b
+A|Yeah.|b
+B|but, uh it's, it's interesting,|sv
+A|All right.|b
+A|Yeah,|aa
+A|and it's, you know, it's a game that you don't,|sv
+A|like bowling, you know, you feel bad if you bowl a hundred.|sv
+A|But if you shoot a hundred in golf, you know,|sv
+A|you don't have to be an expert to play,|sv
+B|That's right.|aa
+A|Any novice can pick up a club and learn how to hold one and learn how to do it and do it right.|sv
+B|Uh-huh.|b
+A|So, you know, you don't have to be an expert in any aspect of it at all.|sv
+B|That's right,|aa
+B|well, yeah,|aa
+B|I've, I've kind of formed the attitude that, you know, if I could just, if I could pick two or three shots out, uh, out of my game every time and put them together on one hole, then I do pretty good|sd
+A|Yeah.|b
+B|and then, and I keep, I keep rationalizing that well, you know, I can do it,|sd
+B|I just got to do it all at on the same hole,|sd
+B|and, and then it will get better,|sv
+B|and you just keep going,|sv
+B|and in the meantime, just enjoy what you're doing.|sv
+A|Yeah.|b
+B|It, it, it really works that way|sv
+A|And when, you know when I first got back into it, I used to get mad because I knew I could do something|sd
+A|and I didn't get it done.|sd
+B|Uh-huh.|b
+A|You know,|b
+A|and I just, well, I need to slice this ball around here,|sd
+A|I naturally slice anyway,|sd
+A|now you know, the ball will go straight|sv
+A|and I go|%
+B|Yeah.|b
+A|but, you know I'd get upset about it sometimes,|sd
+B|Yeah.|b
+A|and now I guess, you know, being in my forties, I just kind of mellowed out a little bit.|sd
+B|Sure.|b
+A|I don't get upset any more.|sd
+A|So, and,|%
+B|Sure.|b
+B|And well, that's great.|ba
+A|Well, I've enjoyed talking to you.|fc
+B|Well, you bet.|fc
+A|I guess I'll go back to work.|fc
+B|Okay,|fc
+B|sounds like it.|fc
+A|All right.|fc
+A|See you later .|fc
+B|Okay.|fc
+A|Bye-bye.|fc
+B|Bye.|fc

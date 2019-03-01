@@ -1,0 +1,266 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|so you watch DAVID LETTERMAN?|qy
+B|Yeah.|ny
+A|Well, see our favorite T V show,|sd
+A|I, I, I live in a dorm|sd
+B|Uh-huh.|b
+A|and our favorite T V show is CHEERS.|sd
+B|Oh, really,|b
+B|yeah|b
+B|that's pretty awesome, too.|ba
+B|I watch it every now and then.|sd
+A|Okay,|b
+B|That's hilarious.|ba
+A|well, we try,|%
+A|like here they show it, like, every day.|sd
+B|Oh, serious|b
+A|And then, like, on Thursdays is the night where the new ones come on.|sd
+B|Oh, that's cool.|ba
+A|But we watch it like every day.|sd
+A|But I, like, late night, we don't watch, uh,|sd
+A|what we do is, we stay up till around one thirty,|sd
+B|Uh-huh.|b
+A|and then they show the TWILIGHT ZONE at one thirty,|sd
+A|and so we just stay and watch that.|sd
+B|TWILIGHT ZONE rules, man.|sv
+A|The what?|br
+B|TWILIGHT ZONE rules.|sv
+A|Yeah,|b
+B|That's all.|sd
+A|I used, I used to live in the house that the guy owned.|sd
+B|Are you serious?|qy
+A|Yeah,|ny
+A|it was really, it was really, oh, well, it was all full with, uh, shelves everywhere|sd
+A|and we didn't have enough books to fill it up|sd
+A|but, But, uh, so what, what do you like, why do you like DAVID LETTERMAN?|qw
+B|That's psychedelic.|ba
+B|Oh, he just, like, totally sarcastic and hilarious|sv
+B|and, I don't know,|h
+B|I'm a lot like him in a way,|sd
+B|so and he's got curly hair|sd
+A|So the,|%
+B|and so do I|sd
+B|so,|%
+A|Oh, do you watch SATURDAY NIGHT LIVE?|qy
+A|What?|qw
+A|He's got what?|br
+B|Curly hair|sd
+B|and so do I,|sd
+B|so hey|ba
+A|Hey I got long hair,|sd
+A|wait,|ad
+A|wait|ad
+B|Cool,|ba
+B|how long is it?|qw
+A|Uh, I don't know,|no
+A|but people,|%
+A|the other day I went into a bar|sd
+A|and this guy asked me to dance.|sd
+A|All he saw was my hair|sd
+A|and he goes, do you want to dance.|sd
+A|I turn around and go, what!|sd
+A|He goes do you want to dance.|sd
+A|I go no,|sd
+A|no,|^q
+A|he goes oh, oh, I'm sorry.|sd
+A|I go, yeah,|sd
+A|you better be.|^q
+A|I go, you better be|sd
+B|That's hilarious.|ba
+A|so, But, okay, so wait|%
+A|do you watch SATURDAY NIGHT LIVE yesterday?|qy
+B|No,|nn
+B|it,|%
+B|with the, uh,|%
+B|who was on, the music people,|qw
+B|wasn't that Fishbone.|qy
+A|Yeah.|ny
+B|Yeah|b^m
+B|I saw that,|sd
+B|it was awesome.|sv
+B|But I didn't see the rest of it.|sd
+A|No,|b
+A|oh, you missed WAYNE'S WORLD.|sd
+B|Are you serious?|bh
+A|WAYNE'S WORLD was pretty cool.|sv
+B|They're awesome.|aa
+A|So, uh, let's see,|^h
+A|what else.|^h
+A|Uh, see, like, all we do here is, like, every time we walk in the room we turn on the T V because we don't want to do anything like study or anything,|sd
+B|Oh, really?|bh
+B|Yeah,|b
+B|that sucks.|ba
+A|so all the, all we do is turn,|sd
+A|like, like, when I was in high school I used to do, like, my homework in front of the T V set, you know.|sd
+B|Really?|bh
+B|Uh, kind of annoying|sv
+B|but that's cool.|ba
+A|What?|br
+B|Kind of annoying to, like, in front of T V, like trying to do homework, you know.|sv
+A|Yeah.|b
+B|Trying to write an essay, you start talking about, you know, like, IN LIVING COLOR or something,|sv
+B|I don't know.|h
+A|Well, I like, I, I just, I just bogused on all my homework|sd
+A|so it really didn't matter|sd
+B|Cool,|ba
+B|yeah,|%
+B|B S|sv
+B|that's the way to do it.|sv
+A|Yeah,|aa
+A|I know,|aa
+A|and I did that all through college|sd
+A|and it worked|sd
+B|Cool,|ba
+B|yeah,|%
+B|works for me.|sd
+A|So, uh, let's see,|^h
+A|what else.|^h
+A|Like, the news we don't watch, because they're boring.|sv
+B|No,|aa
+B|unless,|%
+B|I watched through the war, you know,|sd
+B|there's only one.|sd
+A|Yeah,|b
+A|especially the war,|sd
+A|I mean it was like, I, haven't I seen this episode before, you know.|sd
+B|I know,|aa
+B|I guess they think that people don't watch T V,|sv
+B|but I mean if you watch it for, like, five minutes, then it repeats everything over and over and over.|sv
+A|Yeah,|aa
+A|I know.|aa
+B|It's, like, oh, man.|sv
+A|And, and in North|%
+A|see the, the thing is, like here they just, they just give you like local news, okay.|sd
+B|Yeah.|b
+A|Like, a house burned down in this little town.|sd
+B|Oh.|b
+A|And were here,|sd
+A|and I go, so what happened worldwide, you know.|sd
+A|It's like, you know, even though two hundred and fifty thousand people died somewhere else, they're not going to tell you, you know,|sd
+A|they're going to spend more time on doing a, a thing on a, on a cross guard who's a hundred and five years old, than they are on anything else, you know.|sd
+B|Yeah.|b
+A|So, but, uh, let's see,|^h
+A|what else.|^h
+A|Oh, we watch, like for example, uh,|sd
+A|okay,|%
+A|do you watch STAR TREK?|qy
+B|Uh, I haven't seen it in years,|ng
+B|but I used to.|sd
+A|Okay,|bk
+A|well I used to hate STAR TREK.|sv
+B|Yeah?|bh
+A|I thought, I thought,|%
+A|like, when it, like, when I was, like, in high school and junior high school, I used to hate it|sd
+B|Uh-huh.|b
+A|but then we started watching it.|sd
+A|And, and, like, the new ones are pretty cool because, because they got like, uh, like special, like especially things, that, like, fuck with your mind.|sd
+B|Really?|bh
+B|Oh, really,|b
+B|that's cool.|ba
+A|Because what happened is, like they have this hologram right, where you walk in|sd
+B|Uh-huh.|b
+A|and you can program|sd
+A|and everything looks real|sd
+A|and you can touch everything and stuff.|sd
+B|Are you serious?|bh
+B|Oh, man.|ba
+A|But it's only a program|sd
+A|and it's really great because sometimes it's like the hologram makes up all these things|sd
+A|and, uh, I mean sometimes it, sometimes it's funny,|sd
+A|sometimes it's not,|sd
+A|but, uh, you know, it's something to pass the time, till we do|sd
+B|That's cool.|ba
+B|Sound like .|%
+A|and then, and then we watch football.|sd
+B|Uh, yeah,|b
+B|basketball's cool,|sv
+B|but football kind of after a while,|sv
+A|Which basketball?|qw
+B|Which basketball?|qw
+A|College or,|qy
+B|Yeah,|ny
+B|I kind of like college better,|sd
+B|it's more spirited .|sv
+A|We got, we got two teams of the A C C going there.|sd
+B|Oh, yeah?|bh
+A|We got Duke and North Carolina.|sd
+B|Cool.|ba
+A|But, I mean the, I mean there's nothing to do,|sd
+A|like for example yesterday uh, they go, some girl goes, do you dares want to go to a picnic, right.|sd
+B|Uh-huh.|b
+A|I hear no, *looks mistranscribed|sd
+A|we're just, you know, it's like we just woke up,|sd
+A|we had a hangover and everything, you know.|sd
+A|And so we just woke up|sd
+A|and, uh, we're watching T V,|sd
+A|and I go, no,|sd
+A|today we're just going to dedicate ourself to watching golf and bowling, you know,|^q
+B|golf,|b
+B|yay.|b
+A|and everybody, it was, like, oh, God, do you guys really watch that?|sd
+A|No,|b
+A|you know, I was,|%
+A|like, a whole golf tournament, it's,|%
+A|like, for example, baseball,|%
+A|I hate baseball,|sd
+A|I mean, Somebody told me, like, that, like, you can watch baseball,|sd
+B|Oh, me, too.|sd
+A|and the actual play time that there is is five minutes.|sv
+B|Uh-huh.|b
+A|Because by, the play time is when the person, when the pitcher pitches the ball and it goes to the catcher or when the, when the pitcher pitches and it's hit.|sv
+B|Yeah.|b
+B|Yeah.|b
+A|Okay,|b
+B|That's true.|aa
+A|and that's, like, you know, five seconds for the whole play|sv
+B|Yeah,|aa
+B|that's true.|aa
+A|and that's it.|sv
+A|I mean, maybe a home run could last a little bit longer because the guy has to run around all the bases, you know.|sv
+A|But I mean, it's, it's like that,|%
+A|I mean it's was, it's just,|%
+A|but when I went home that's all, like, they had on T V|sd
+B|Ooh, really?|bh
+A|so I I watched entire games of baseball|sd
+A|and they're going oh, my God.|sd
+A|And T V in Argentina's really bad.|sd
+B|Oh, really.|b
+B|So, so why from Argentina, why'd you come over here?|qw
+A|Uh, because, uh, I wanted to go to school here.|sd
+B|Oh, that's cool.|ba
+A|Yeah,|b
+B|How long did you live there?|qw
+A|they have better computer science up here than they, than they do down there.|sv
+B|Oh|bk
+A|So, and I also, uh, my father works for I B M,|sd
+B|Uh-huh.|b
+A|and we came up here,|sd
+A|we, well, we came to the United States in nineteen seventy-six, seventy-seven and, uh, we lived here for about seven years|sd
+B|Uh.|b
+B|Yeah.|b
+A|then we moved back.|sd
+B|Huh.|b
+A|And so then I said, I'm going to move back up there to go to college.|sd
+B|That's cool.|ba
+A|He goes, okay.|sd
+A|So he goes, but do it fast,|sd
+A|so I did my undergraduate in two years.|sd
+B|Oh, really?|bh
+B|Awesome.|ba
+A|Yeah.|ny
+A|So, but it's, a, it's just, you know,|%
+A|oh, well, we've been talking for five minutes.|sd
+B|That's cool.|ba
+A|That's the only obligation we have.|sd
+B|Groovy.|ba
+A|And, uh, well, tell your dad that now he owes you five bucks.|ad
+B|Yeah,|aa
+B|no doubt.|aa
+A|Okay.|fc
+B|Okay.|fc
+A|All right,|fc
+A|nice talking to you.|fc
+B|Yeah,|fc
+B|you, too.|fc
+A|Bye-bye.|fc
+B|Bye.|fc

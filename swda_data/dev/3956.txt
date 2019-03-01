@@ -1,0 +1,112 @@
+A|Okay. Well, what do you think about the government providing health insurance for everybody?|qw
+A|I think they should.|sv
+A|I know I had a job until, let's see, a year ago this past December.|sd
+A|I was working for P I E|sd
+A|and they closed,|sd
+A|and naturally while I was working for them I had health insurance,|sd
+A|but, um, for me to try to get it now, it would cost me like over three hundred dollars a month with the same company that was providing health insurance at,  at P I E.|sd
+B|Good grief.|ba
+B|That's just almost unaffordable, isn't it?|qy
+A|Right,|na
+A|it really is,|sd
+A|and I think, you know, I think, uh,|%
+A|God, the government should come up with some kind of a health plan, or stop these doctors and hospitals from having their prices so high.|sv
+B|Well, I wonder if they couldn't just provide, uh, interim health insurance for people who are between jobs like that.|sd
+B|That might be a step in the right direction.|sv
+B|I don't know.|h
+A|Well, the thing is, you know, jobs are so hard to find you know,|sv
+B|Uh-huh.|b
+A|anyhow in the valley where I live at now, they don't want to pay anything for health insurance at all.|sd
+A|No benefits, you know.  Um.|sd
+B|You mean  the, uh, the employers?|br
+A|Yes.|aa
+B|Uh-huh.|b
+A|I mean, you get a job now, and the wages are really low|sd
+A|and, uh.|%
+B|Because everybody's  competing for jobs.|^2
+A|Yeah,|aa
+A|and they don't  want, uh,  to pay any benefits,|sv
+A|so you just, you know, pray to God that you don't get sick.|sv
+B|Well, I used to think that universal health insurance was probably the right thing to do.|sv
+B|I, I have to think about it some more now, because my doctor is, uh, actually he's Canadian|sd
+A|Uh-huh.|b
+B|and, uh, he told me that there're a lot of, uh, lot of counts against the Canadian system, which is basically the one people are talking about for here.|sd
+A|Uh-huh.|b
+B|I don't understand the arguments, exactly.|sd
+B|He says it restricts your choice of doctors, and, and so forth.|sd
+B|I'm not quite sure I understand why government health insurance would restrict your choice any more than private insurance does.|sd
+A|No,|aa
+A|I don't  understand  that either.|sd
+B|I mean  we're on a private insurance plan right now,  uh|sd
+A|Uh-huh.|b
+B|actually I have my own business,|sd
+B|and and we,|%
+A|Uh-huh.|b
+B|our health insurance is through my wife's employer,|sd
+B|and, uh, and every year we get another list of what doctor's we can go to, and where we can buy our medicine,|sd
+B|and, uh, it changes every year|sd
+A|Yeah.|b
+B|It's always so confusing.|sd
+B|So.|%
+A|Well, I know the plan that I had with P I E, I could go to any doctor|sd
+A|and I could go to any drug store and get my prescriptions filled, you know,|sd
+A|then I just sent cards in|sd
+B|Uh-huh.|b
+A|and then they would have like a ten dollar deductible per year for my medicine,|sd
+A|and then they would just send me a check for what was ever over that, you know.|sd
+B|Well, yeah.|b
+B|Of course, the restricted choice in this case is because only certain doctors agree to accept the, uh, the limits of, uh, compensation,|sv
+A|Uh-huh.|b
+B|but of course that is restricted choice,|sv
+B|so I don't think that the restricted choice really, uh, has to do with the difference between, uh, public and private health insurance.|sv
+A|Uh-huh,|b
+A|uh-huh.|b
+B|I think it has to do with the, the, the, uh, attempt to limit cost, doesn't it|sv
+A|Um.|b
+B|and everybody agrees that we need to limit cost some way,|sv
+A|Yeah,|aa
+A|that's true,|aa
+A|that's true there.|aa
+A|Well.|%
+B|You, you have to recognize that if you're going to have the very best health care possible and, uh, available on demand whenever and wherever you want it, then it's going to be expensive.|sv
+A|Yeah,|aa
+A|right.|aa
+B|And if you want to pay less, then you're going to have to settle for a health system that is not quite that, uh, lavish.|sv
+A|Uh-huh.|b
+B|And, uh.|%
+A|But there's just so many people that can't afford to pay anything, you know,|sv
+A|that,|%
+A|people that's on unemployment.|sv
+B|Yeah,|b
+B|what happened to Reagan's safety net, anyway?|qh
+A|I don't|%
+B|Did he take that back to California with him?|qh
+B|Using it for a trampoline now?|qy
+A|Yeah,|ny
+A|probably so.|sd
+A|I don't know,|h
+A|but it is, it does seem to be a big problem, you know.|sv
+A|I don't know what they're going to come up with,|sd
+A|but, um, I sure wish they would come up with, with something,|sv
+A|and, uh, like I say,|%
+A|and, and I'm at the age, too, where the,|sd
+A|I'll be fifty-seven in June,|sd
+A|and the people don't want to hire people this age any more.|sd
+A|And I worked for my previous company for twenty-six years, you know,|sd
+A|so, it's kind of hard, you know,|sd
+A|so.|%
+B|Yeah,|b
+B|they'll be needing you in a couple of years, because they're running out of kids down that, the other end.|sv
+B|And.|%
+A|Yeah,|b
+A|they'll be calling at my door, huh.|sv
+A|But anyhow.|%
+B|Well, if they're smart.|sv
+A|Yeah,|b
+A|now I, I do think the government, though, is going to have to do something, uh, with this problem, because, it, you know, even to go to a little doctor out here, just to ask him anything, costs you forty bucks you know, just for the visit.|sv
+B|Uh-huh.|b
+A|And then he,|%
+A|then that's not counting what medicine you're going to buy and everything else, you know.|sv
+A|And he might tell you, well, you know, now you're going to have to come back in a week,|sv
+A|and then that's another forty bucks, plus whatever else he decides to do to you,|sv
+B|Right.|b

@@ -1,0 +1,84 @@
+A|Hi,|fp
+A|my name is Donna,|fp
+A|and I'm calling, calling from Plano, Texas.|fp
+B|I'm Jay in Dallas.|fp
+A|Oh, okay, um,|bk
+A|I, um, find exercise kind of a task, I guess I'd say.|sd
+A|I go to aerobics two days a week,|sd
+A|but I also have three kids at home|sd
+A|so they keep me pretty busy.|sd
+B|That keeps you plenty of exercise .|bf
+A|Yeah,|aa
+A|that gives me plenty of exercise,|sd
+A|but I enjoy, um, walking outside and bicycling once in a while with the family.|sd
+A|Excuse me sound as if hand over the|ad
+A|That's fine.|t3
+A|And yourself.|t3
+B|Well, I, uh, I have,|%
+B|I walked and run um, almost every morning.|sd
+B|I've sort of stopped here with the weather change,|sd
+B|but, uh, it's about a thirty minute exercise every morning.|sd
+A|Uh-huh,|b
+A|every morning.|b^m
+A|Well, my husband swims every day at lunch, which he loves doing|sd
+B|Oh, that would,|ba
+B|that's fantastic exercise.|ba
+A|yeah,|aa
+A|he does it every day like a ritual.|sd
+A|Once in a while or if he has a business meeting or if he, um, someone invites him to lunch, he'll, he'll not go,|sd
+A|but he goes, um, every, every day,|sd
+A|and then he he's a runner, too.|sd
+A|He runs three mornings a week|sd
+A|he gets up about five and, and does his, his deal,|sd
+B|Um.|b
+A|and some days he doesn't,|sd
+A|but then maybe he'll catch up on the weekend and go for a run.|sd
+B|All right.|ba
+A|And, um, we .|%
+B|I'd rather get a bicycle,|sd
+B|but I have an I had an exercise bike in the house, but didn't seem to use it enough,|sd
+B|so somebody sold it in a garage sale,|sd
+B|and so, uh but I'd like to get a bike and just do, uh, do biking outside.|sd
+A|Oh.|b
+A|The, the, the bicycling is nice especially with the weather around here,|sd
+A|and I know, um, uh, we, we both of, my husband and I both do it to just keep the pounds off.|sd
+A|We're getting up in age, I guess, in our late thirties|sd
+A|so we need to keep exercising just to be able to, uh.|sv
+B|Yeah.|b
+B|It keeps going,|sv
+B|because I'm fifty-five,|sd
+B|and it, uh, it just gets worse.|sv
+B|You still want to eat,|sv
+B|and, uh but you just,|%
+A|Oh, I know.|aa
+B|I think you feel better, too, if you get on some program like that,|sv
+B|but, uh.|%
+A|Yeah,|b
+A|I go to this aerobics class two mornings a week,|sd
+A|and I take my three year old with me.|sd
+A|There's a nursery there.|sd
+A|And it's kind of another day out for her to, um, have little friends,|sd
+B|Uh-huh.|b
+A|and, um, I, I enjoy the socialization of it, you know,|sd
+A|getting to see the same women every morning,|sd
+B|Right.|b
+A|but um, there are some parts during that exercise that I think, I cannot do another second of this.|sd
+B|Oh.|b
+B|I know it, it, it, some of it is so tough|aa
+A|It is.|aa
+B|and, uh, especially when somebody's, uh, planning lunch for you and they know what, what's good for you,|sv
+B|I think when we do it ourselves,|sv
+B|we take the easy way sometimes.|sv
+A|That's true,|aa
+A|that's true.|aa
+B|So.|%
+A|Well.|%
+B|So anyway|%
+A|Okay, well.|fo_o_fw_"_by_bc
+B|thank you for calling.|fc
+A|Yes,|fc
+A|thank you for participating.|fc
+B|All right.|fc
+A|Thank you.|fc
+A|Bye.|fc
+B|Bye-bye.|fc

@@ -1,0 +1,232 @@
+B|Uh, so what do you do to exercise?|qw
+A|Uh,|%
+A|I, uh, weight train, uh, three days on and one day off.|sd
+B|Uh-huh.|bk
+A|I, uh, ride bicycles, uh, fifteen, twenty miles, I don't know, maybe three times, maybe four times a week.|sd
+A|I play basketball, uh, couple times a week.|sd
+A|I play softball one night a week.|sd
+A|Uh, that's what I do.|sd
+B|Um.|%
+A|What about yourself?|qo
+B|That's pretty impressive.|sv
+B|Uh, I guess I bicycle.|sd
+B|Uh, the amount varies|sd
+B|as much as a hundred and fifty miles a week.|sd
+A|Uh-huh.|bk
+B|Uh, I guess a play softball one night a week.|sd
+B|And I backpack a lot over the summer.|sd
+A|Oh, really?|bh
+B|Yeah,|ny
+B|that's, that's about the extent of it.|sd
+B|I mean, I don't do any of those things particularly, you know, for exercise.|sd
+B|But, uh, I guess the bicycling is the one thing I'll sort of, like, do if I feel like I need to go exercise|sd
+B|Uh, but I do it mostly for fun.|sd
+A|Yeah,|b
+A|uh, what do you ride, uh, like, a bunch of hills or pretty flat?|qy
+B|It, it, it varies.|sd
+B|Uh, out near my house is pretty hilly.|sd
+B|Uh, but sometimes I bike to work which is about, uh, a fifteen mile trip each way.|sd
+B|And that's mostly flat.|sd
+A|How long does that take you to get to work?|qw
+B|Uh, about forty-five, fifty minutes.|sd
+A|How how does that work, work out with, uh, storing your bike and showering and all that?|qw
+B|Yeah,|b
+B|it can be a pain.|sd
+B|Uh, basically, uh, I work on a campus|sd
+B|so I can store my bike in my office and walk across the, uh, campus to the, uh, gym, use the shower there|sd
+A|Uh-huh.|b
+B|uh, but, it's, it's enough of a pain, that I did it consistently one year,|sd
+B|I would commute every day, uh,|sd
+B|but it just became such a pain.|sd
+B|I mean we're talking, you know, forty-five, fifty minutes for biking, uh, and sometimes longer if you had adverse wind. And then another half an hour, you know to cool down and take a shower and all this kind of stuff.|sd
+A|Right.|b
+B|It was a big hunk, hunk of the day|sd
+B|Uh, and then of course another hour to get back home.|sd
+B|Uh, so I've been doing that less, and, and concentrating more on, you know, light biking when I get home on the evening and then, you know, some more on the weekends.|sd
+A|Yeah.|b
+A|Do you ride a lot of rallies or a lot of those around there?|qy
+B|Not so much.|ng
+B|Uh, I guess mostly I bike on my own.|sd
+B|I've got a touring bike. Uh, though I haven't gone on any extended trips with it.|sd
+A|Uh-huh.|b
+B|How about you,|qo
+B|what kind of biking do you do?|qw
+A|Uh, well, actually my wife just got me into it|^h
+A|and I did an, did an internship at the Institute for Aerobics Research in Dallas, the Cooper Clinic,|sd
+B|Uh-huh.|b
+A|and I learned all the health benefits of, you know,|sd
+A|I was a solid weight trainer,|sd
+B|Uh-huh.|b
+A|and all I did was weights and aerobic exercise|sd
+A|and then my wife got me into the aerobic exercise and said you really need to do it,|sd
+A|so, once I got into this, uh, internship, I learned all the physiological advantages to it,|sd
+B|Uh-huh.|b
+A|so I began a program couple, I don't know probably three or four weeks ago|sd
+A|and I did my first bike rally this Saturday.|sd
+A|I did, uh, forty, forty miles,|sd
+B|Um.|%
+A|and, uh, that's the longest I've ever ridden so far,|sd
+A|I usually, you know, fifteen or twenty.|sd
+B|Uh-huh.|b
+A|And it was, it was kind of hilly|sd
+A|and it was pretty tough,|sd
+A|but, uh, I'm looking at, uh, doing a lot more of it because, you know, my wife is really into it,|sd
+B|Oh, I see.|b
+A|and I, I kind of held her back a little bit this, this weekend.|sd
+A|She wanted to go, go, go,|sd
+A|but, you know, she wanted to stay with me|sd
+B|Uh-huh.|b
+B|It's good to have a partner.|sv
+A|Yeah|aa
+A|it really is.|aa
+B|Are you think of doing any, like, centuries, or ...|qy
+A|Yeah,|ny
+A|that would be cool sometime if I could, you know, work up to that.|sv
+B|Uh-huh.|b
+B|Yeah,|b
+B|I just wondered if you were going to do that mostly or more like, you know, uh, uh, touring like from Vermont or, you know, that kind of, thing.|qy
+A|Oh.|b
+B|I mean people seem to get into different aspects.|sv
+B|One is more of a distance,|sv
+B|and one's more, just, you know,|sv
+B|they want to put some equipment on their bike and go for a tour.|sv
+A|I've never really looked into that.|sd
+A|That, you know, that's,|%
+A|my wife would just love that.|sd
+B|Uh-huh.|b
+A|And I may do that sometime.|sd
+A|There again, I'm just kind of a fledgling into this.|sd
+B|Uh-huh.|b
+A|I've, it's kind of funny.|sv
+A|I called this number|sd
+A|and I was just reading through a bicycle magazine and going through all the different tours coming up.|sd
+B|Yeah,|b
+B|yeah.|b
+A|I mean, around Texas, you, you got about five or six,|sd
+A|if you live around the Dallas area, you got five or six every weekend to choose from. Because they're really into it.|sd
+B|Oh, that's nice.|ba
+B|Um.|%
+A|Bicycling is really big here.|sd
+A|I didn't know that, and, you know, until I came down here, and, kind of caught the fever.|sd
+B|Wow.|ba
+B|Yeah.|b
+A|Because I lived in Indiana all my life|sd
+A|and, you know, you may say see one or two guys on a bicycle that, or above the age of fifteen or something,|sd
+B|Uh-huh.|b
+A|but, other than that it's nothing up there like it is down here.|sd
+B|Yeah,|b
+B|I'm not sure why that is.|sd
+B|I mean, generally in the Midwest it seems to be less, much less.|sv
+B|I mean, maybe it's because of the winters. Uh, or maybe just because, you know, there's, there's a lot more flat lands, you know, out in the West.|sv
+A|Probably.|aa
+A|Yeah.|b
+B|So it makes biking a better alternative for transportation.|sv
+A|Yeah.|b
+A|It, there's a lot of bikers around here.|sd
+A|It's, it's really neat.|sv
+B|Uh-huh.|b
+A|There are a lot of, a lot of resources, a lot of magazines, and stuff,|sd
+A|little TEXAS BICYCLIST, is like a little newspaper that comes out every month.|sd
+B|Um.|%
+A|It's free|sd
+A|just go to the bike shock, bike shop and pick it up,|ad
+A|and it's got all the rides coming up,|sd
+A|so I guess I'm going to be busy about every Saturday this summer, going to a different ride.|sd
+B|Oh, that's terrific.|ba
+A|Yeah,|%
+A|see a little bit of Texas I've never seen before.|sd
+B|Uh-huh.|b
+A|So, uh, how long have you been biking?|qw
+B|Oh, I guess as an adult for just about the past, uh, three years or so|sd
+B|Uh, you know, I guess last time I did it before that was college, which was about ten years ago.|sd
+A|Yeah.|bk
+B|And, uh, yeah,|b
+B|I guess I just never really thought about it much for a while, uh, until I suddenly discovered all my friends were basically biking a lot.|sd
+B|And so I thought I'd try it, too.|sd
+A|Have you ever had a, uh, it's kind of slightly off the subject, but you ever had a, uh, a blood workup done recently or since you've been biking, to see if it,|qy
+B|No,|nn
+B|I haven't,|sd
+B|no.|nn
+A|because it really, from what I understand, it really improves your, uh, cholesterol|sv
+B|Um.|%
+A|and, you know, it, uh, it kind of knocks down two of the big risk categories for coronary artery disease which is, uh, uh, low cardiovascular fitness, and also, uh, you know, the cholesterol.|sd
+B|Uh-huh.|b
+A|It gives you increased H D Ls and decreases your L D Ls.|sd
+B|Oh, that's great.|ba
+A|Yeah,|b
+A|so ...|%
+B|Yeah,|b
+B|I've, I've definitely noticed it's had a good effect on my pulse rate, my resting pulse.|sd
+A|Yeah.|b
+B|You know, it gets it down to about forty.|sd
+A|Really?|bh
+B|Yeah.|ny
+A|That's good.|ba
+B|Yeah.|b
+A|You say you ride about a hundred, hundred fifty miles a week?|qy^d
+B|Yeah.|ny
+A|Man.|ba
+A|That's, that's hard-core.|sv
+B|On average,|sd
+B|yeah.|%
+A|When do you get to begin with the winters and all that?|qw
+A|What time of the year do you usually embark on your,|qw
+A|do you ride inside if you can't ride outside?|qy
+B|No,|nn
+B|I'm not that hard-core.|sd
+B|I mean there are some people,|sv
+B|in fact a lot of people will ride outside in the snow.|sd
+B|They've got a, uh, mountain bike, you know, with the big knobby tires.|sd
+A|Yeah.|b
+B|And, I don't do that.|sd
+B|I basically, I, I pretty much lay off for the winter.|sd
+B|Uh, I was thinking of getting rollers for the last winter, you know, because it will help your balance when you're indoor training.|sd
+A|Um.|%
+B|Uh, but I just, you know, more or less stocked, like an exercise bike and that kind of thing. uh,|sd
+B|but, yeah,|%
+B|I mean winters are kind of a problem|sv
+B|so, I'm more or less out of shape now that I've been biking, I guess, this year for just a couple of weeks.|sd
+A|Uh-huh.|b
+B|Uh, but, you know, up here it's only stopped snowing since then.|sd
+A|Yeah.|b
+B|Uh, but, yeah,|%
+B|it's, it's, it's, it's pretty good.|sv
+B|It's, uh,|%
+B|the main, the main thing, I guess, for me is just to enjoy it because once it starts seeming like, you know, exercise and a chore I'll lay off it more.|sd
+A|Right.|b
+A|So you, uh, change up your routes a lot, and keep a ...|bf
+B|Oh, yeah,|aa
+B|yeah.|aa
+B|I try to go someplace pretty different, you know, every week.|sd
+B|I rotate around, uh, about four different routes, uh, from my house|sd
+B|or I'll sometimes come in the school.|sd
+B|It's nice coming,|sd
+B|it's, it's nice riding to school because it's all along a canal path uh,|sd
+B|because it's just, it's along the Erie Canal up here.|sd
+A|So, what school is it?|qw
+B|Uh, University of Rochester.|sd
+A|Oh, okay.|bk
+A|Yeah.|b
+B|So it's fairly picturesque.|sv
+A|Yeah.|b
+B|And, uh, so it's, it's, it's a good ride|sd
+B|as long as you're not doing it every day, it's a good ride|sv
+A|Yeah.|aa
+A|That's true.|aa
+A|Sounds neat.|ba
+B|Yeah.|b
+A|It's kind of,|%
+A|I was wondering if I was going to talk with someone that never has exercised before and doesn't want to and everything else,|sd
+A|but got a guy that rides a hundred and fifty miles a week.|sd
+A|That's, uh, motivating.|sv
+B|Yeah.|b
+A|That's really good.|sv
+A|Well good talking to you|fc
+B|Oh, it was good talking to you.|fc
+A|and keep up the good work.|fc
+B|Okay,|fc
+B|you, too.|fc
+A|All right.|fc
+A|Take care.|fc
+B|Bye.|fc
+A|Bye.|fc

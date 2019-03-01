@@ -1,0 +1,247 @@
+A|Well, good afternoon to you, Mary.|fp
+A|First,  let me ask  you, what's, what's the weather like up there to begin with?|qw
+B|And good,|%
+B|Well, well, today, uh, when I got up it was twenty-nine degrees.|sd
+B|Yes,|b
+B|and it managed to get up to about fifty this afternoon|sd
+B|but it's been cloudy, overcast and threatening rain all day.|sd
+A|That sounds more like our winter weather down here.|sv
+B|And we've also had extremely strong winds, fifteen to twenty miles an hour,  for  the day.|sd
+A|Um.|%
+A|Well, you know, I bet that's what we, that storm we had last night.|sv
+B|Is that right?|bh
+A|Oh, we had a frog strangler go sweeping through here, uh, yesterday and last night.|sd
+A|And we're expecting another one tonight.|sd
+B|Oh, really?|bh
+A|Oh, I mean it was raining so hard you could swim down the street.|sd
+B|We had one of those two days ago. But not, uh, but, uh, no rain at all yesterday and, uh, no rain today.|sd
+A|Uh-huh.|b
+A|Well, it's probably on its way up there.|sv
+A|It was heading north.|sd
+B|Thanks a lot|ba
+B|couldn't you send us some nice weather?|qy
+A|Well, it was nice today.|sv
+B|Oh, was it?|qy
+A|Uh, in between the thunder showers,|^h
+A|yes.|ny
+B|Well, the, one thing's for sure we can always discuss the weather,|sv
+B|how some ever we can't do very much to change it.|sv
+A|Well, you know, what they say about the weather here in Texas?|qy
+B|What's that?|ng
+A|If you, if you don't like it, wait five minutes, it'll change.|sd
+B|Oh, yes,|aa
+B|well that's about the way our weather is here also.|sd
+A|Uh-huh.|b
+B|And I grew up in Saint Louis,|sd
+B|and Saint Louis was much the same.|sd
+A|Uh-huh.|b
+A|Well, tell me, uh, is, is it normally that cold up there in, in the Spring?|qy
+B|No,|nn
+B|it's not.|sd
+B|This is, uh, about, uh, ten degrees cooler than usual.|sd
+B|But about a week ago we were up to eighty and eighty-five degrees.|sd
+A|You're kidding?|bh
+B|No,|nn
+B|no,|nn
+B|it, uh, it fluctuates from one extreme to the other it seems.|sd
+A|You, are you sure you didn't leave your refrigerator door open?|qy
+B|I'm sure I didn't.|na
+B|I was ready to turn on the air conditioning.|sd
+B|It, no, it really was extremely warm.|sd
+B|It only got down to about sixty-five in the evening.|sd
+A|Um-hum.|b
+B|We had about three or four days of that,|sd
+B|and then all of a sudden a cold front came down and, uh, temperatures dropped thirty degrees in a very short length of time.|sd
+B|And, uh, it has gone down gradually each day.|sd
+B|This morning it was twenty-nine,|sd
+B|yesterday it was about thirty-two.|sd
+B|Uh,  cars  were scraping, ice off their cars this morning if they've been sitting out all night.|sd
+A|Oh.|b
+B|So it,  it really wasn't  too, wasn't too pleasant|sv
+A|Oh, Mother Macree.|ba
+A|No,|aa
+A|I should say not.|sd
+A|Well, I, I, sincerely hope that you don't have that terrible storm we had.|sd
+B|Oh, I hope,  not.|sd
+A|I hope,  it doesn't reach you up there.|sd
+B|Well, they are predicting rain and thunderstorms,|sd
+B|and I wouldn't be a bit surprised by what we would not be getting the same weather you had.|sd
+A|Well, I,|%
+A|let's hope it,|ad
+A|well, if it's the same as what we had, at least it'll be warmer.|sv
+B|Uh, yeah.|b
+B|Yes,|b
+B|warm rain,|bf
+B|well, of course, by the time it gets up here it may run into a cold front coming down from Canada.|sv
+A|Yeah,|b
+A|oh, boy,|ba
+A|the, that, whew, that would be tear disastrous. If you,  had  that rain storm and freezing weather.|sv
+B|Yes.|aa
+B|Yes.|aa
+A|Oh.|b
+B|We had, uh, a week ago they had golf ball size hail coming down in one part of the, uh, of the city of Dayton itself.|sd
+A|Uh-huh.|b
+B|And, uh, then we just had about an inch and a half or two inches of rain in less than an hour.|sd
+B|It was just coming down by the bucketfulls and a great deal of lightning.|sd
+A|Oh,  yes.|b
+B|So,  it, it wasn't, uh, it wasn't conditions to being out in it|sv
+B|and I had just gotten home.|sd
+B|We had a lot of tornado warnings also.|sd
+B|And I had gotten home shortly before that, uh, the rain started.|sd
+B|So, uh, I felt a little more secure that I was at home rather than having to be out driving in it.|sd
+A|Uh-huh.|b
+A|Well, uh, I heard on the news this morning that, um, one of our local schools, uh, lost the roof of their gymnasium.|sd
+B|Is that right?|bh
+A|And they suspected may have been a tornado.|sd
+B|Uh-huh.|b
+A|But, uh, uh, thank God for small favors, the, uh, uh,|ad
+A|what do they call them? The, the, the marching band or something?|qy
+B|Yeah.|ny
+A|Uh, uh, had just quit rehearsal about a half hour before.|sd
+B|Oh, they,|%
+B|that was, very, very fortunate for them because that could have really been disastrous.|sv
+A|Oh, and how.|aa
+B|Well, of course this is tornado season, uh,|sd
+B|in to, uh,|%
+B|we have many tornadoes spawned in this area. And northern Indiana,|sd
+B|now we're in the southwestern part of, uh, Ohio,  just  forty miles north, due north of Cincinnati,|sd
+A|Uh-huh.|b
+B|and, uh, but, uh, northern Indiana, has many tornadoes come roaring across.|sd
+B|And we get the backlash off of it, if not the part of the tornado itself.|sd
+A|Uh-huh.|b
+B|So, uh, we, you know, we get a lot of bad weather in this area.|sd
+B|But of course you're supposed to be the sun belt,|sv
+B|and I do know that you get some freezing weather down there on occasion.|sv
+A|Oh, yeah.|aa
+A|Well, during the winter,|aap_am
+A|yes,|aa
+A|we do.|sd
+A|Uh, we've had, uh, well, past four or five years, I guess, at least one day during the year when just everything would just close down because we'd have freezing rain.|sd
+B|Um-hum.|b
+A|And, uh, of course people down here, they just don't know how to handle themselves|sv
+A|and,|%
+B|Right.|aa
+B|Yes,|aa
+B|I was going to say that it does make a difference when you're not accustomed, to, uh,  having to,  drive in it.|sd
+A|Well, uh,  not only that,|aap_am
+A|but, we're, we're don't have the equipment to handle it either.|sd
+B|Right,|b
+B|right.|b
+A|Uh,  they go  out there,|sd
+B|And,|%
+A|and the,|%
+A|well all you can do with, with, uh, freezing rain of course, is spread sand on the ice.|sv
+B|Right.|b
+A|And, but, uh, you know, we don't even have vehicles that will do that.|sd
+B|Um-hum.|b
+B|Right.|b
+B|Well, uh, well here what they do and I, I contend that it's certainly not the right thing to do, they spread salt.|sv
+B|And of course the salt does melt the ice,|sd
+B|but then what melts immediately freezes and becomes, uh, a perpetual problem.|sd
+B|Oh, it sure does do that.|aa
+A|Yeah,|b
+A|they, well we, they do that down here too.|sd
+A|They mix the salt in with the sand.|sd
+B|Well, sand, and, uh,|%
+B|but I have learned to do, is, uh, now that I am alone, is, uh, to carry bags of salt in the trunk of my car.|sd
+B|Um, not only in case I need it for that for traction but for additional weight,  in  the, back of the car.|sd
+A|Yes.|b
+A|Uh-huh.|b
+B|And then of course kitty litter is also excellent for that. I don't know whether you've ever thought in terms of,  that|sv
+A|Uh-huh.|b
+A|I've,|%
+B|but,|%
+A|no,|b
+A|I'm a dog lover myself.|sd
+B|yeah.|b
+B|Well Well, the dogs don't use litter.|sd
+B|But kitty litter is excellent for, uh, getting under the wheels of cars|sv
+B|and what have you and giving you traction.|sv
+A|I guess it would be.|sv
+B|Uh-huh.|b
+B|Yeah,|%
+B|it, uh, works out, uh, really quite well.|sv
+B|Course I have, I have a dog also.|sd
+B|My son brought me a little Lhasa Apso, uh, for my birthday last Thanksgiving.|sd
+A|Oh.|b
+B|He  brought him from Dallas.|sd
+B|He,|%
+A|Oh, wasn't that nice of him?|qh
+B|Yes,|ny
+B|that, uh,|%
+B|he just thought I had been without a dog, uh, for three years.|sd
+B|That was long enough.|sd
+A|Uh,|%
+B|He,  he had,|sd
+A|I have, uh, a, a Chowperd myself.|sd
+B|Oh, a what?|br
+A|A Chowperd.|sd
+B|Now that one I'm not familiar with.|sd
+A|Well, she's part Chow and part Shepherd.|sd
+B|Uh, okay.|bk
+B|Okay,|b
+B|that makes sense then|sd
+A|Uh-huh.|b
+A|But she's the best, the best of both breeds.|sv
+B|I believe,|sd
+B|Yes,|b
+B|right,|b
+B|well, I've always had big dogs before. Never had a little dog before.|sd
+A|Well, June,  is medium  sized.|sd
+B|And,|%
+B|Yes|b
+B|well, Oh, well, I had a German shorthair that was frightened of storms.|sd
+A|But she is scared to death of thunder storms.|sd
+B|The minute it would begin to storm, he would just panic.|sd
+A|Uh-huh.|b
+B|And, uh, I had to push him down when he was fourteen,|sd
+B|and two months later I had to put my yellow Lab down,  because  he had leukemia.|sd
+A|Oh.|b
+B|And, uh, then, uh, then there was no point in having all my acreage.|sd
+B|I had four and a half acres with game preserve on three sides.|sd
+A|Oh, that must be nice.|ba
+B|Oh, well, it was great.|sv
+B|I loved it.|sd
+B|But then I didn't need all that anymore, so I finally sold that,|sd
+B|and I'm in a fair size condo.|sd
+B|And I have a nice size patio.|sd
+A|Uh-huh.|b
+B|And, uh, so this little dog has plenty of room to run.|sd
+A|Well, good.|ba
+B|Yeah,|b
+B|and he is a, a cutie|sd
+B|and, uh, but I've never had a dog I had to keep taking to the groomer's to have groomed either|sd
+A|No,|b
+A|well,  now, you  know, it sounds like you ought to be in a condo down in Miami Beach somewhere. Or better yet, down around Saint Petersburg, Florida.|sv
+B|And it's,|%
+B|Is that right?|bh
+A|Uh-huh.|ny
+A|That's what I call home.|sd
+B|Oh, is that right?|bh
+A|I lived there for ten years.|sd
+B|Oh, well I was there once way, way back in nineteen-sixty, I think for just a week's vacation.|sd
+A|Uh-huh.|b
+B|But, uh, I, that's about the only time I've been to Florida, except passing through on the way to someplace else.|sd
+A|Yep.|b
+B|But, uh,|%
+A|Well, I lived  there in the seventies.|sd
+B|Uh-huh.|b
+A|And, uh, I, I love it.|sd
+A|I have two sons still living down there.|sd
+B|Um-hum.|b
+B|Well, uh, uh, most of my friends do spend a lot of time down in Florida.|sd
+B|But, uh, I have just, that's just not been my thing.|sd
+B|We used to always head west or head north.|sd
+B|Now that I'm alone why, uh, I, uh, prefer to travel overseas if I'm going anywhere.|sd
+A|Oh, uh-huh.|b
+B|And, uh, course there too you never know what the weather's going to be.|sd
+B|When you,  start getting  over, to,|sv
+A|Well, that's,  that's why I was suggesting, uh, that Saint Petersburg is got, got to be the finest weather in the world.|sv
+B|Oh, is that right?|bh
+A|Oh, I, I loved it down there.|sd
+B|Um.|%
+A|Course you could tell, always tell which were the, the  and  which ones were the snowbirds.|sd
+B|Yeah.|b
+B|Oh, is that right?|bh
+A|Yeah,|ny
+A|the snowbirds were the,|sd

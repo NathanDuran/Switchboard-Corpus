@@ -1,0 +1,235 @@
+A|Hi,|fp
+A|what do you do with your credit cards?|qo
+B|Oh|b
+B|Well, my husband and I have gotten into some, some problems with credit cards.|sd
+B|We don't handle them very well|sd
+B|We, we tend to run them up to the maximum and then ask for more.|sd
+A|Oh, jeez.|ba
+B|They, they're, they're really bad for us.|sd
+B|Um, matter of fact, we've gotten rid of all of our credit cards except for a MasterCard and a Visa,|sd
+B|and we pretty much keep those maxed out.|sd
+A|Oh, I was going to say that, that sounds like, like pretty many.|sd
+A|But I see what you meant,|sd
+A|you had them for each of the individual stores.|bf
+B|Yeah,|aa
+B|we had I had probably twenty credit cards for,|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+B|I had, I had an American Express, American Express Gold, an Optima, all the different department stores, um, two Visas, two MasterCards|sd
+A|Oh, gee.|ba
+B|I mean, I had,|sd
+B|any time anybody would, you know, send me an application, you know, preapproved or whatever, I went, I took it,|sd
+B|and it really ended up getting us in some real serious trouble.|sd
+A|Oh, sure.|aa
+B|Um, because, see, the more credit cards you have, the more people offer them to you.|sv
+A|Uh-huh,|aa
+A|uh-huh.|aa
+B|And the more you use them, the more they send them to you.|sv
+A|But each of these had an annual fee also, right.|qy
+B|Exactly.|na
+B|The American Express was probably the worst, um, because with the Gold card,|sd
+B|I can't remember how much it was because I didn't even have it very long before I gave it up|sd
+A|Uh-huh.|b
+B|but I know the Green card was like thirty-five, five dollars a year.|sd
+A|Yeah,|b
+A|forty five.|ar
+A|Right, uh,|%
+A|I,|%
+B|Which was a lot,|sv
+B|because I mean, you had to pay it in full every month.|sd
+A|Exactly, you know,|aa
+A|I, that's it,|aa
+A|I really resented the fact that they were charging me for cards,|sd
+A|so I sent back all of mine, except the ones that were free.|sd
+B|Uh-huh.|b
+A|And, um, then, then I also limited it to one of each, one MasterCard and one Visa,|sd
+A|and here, most of the stores will accept those,|sd
+A|and actually I then got a Discover card since they pay you back.|sd
+B|Uh-huh,|b
+B|yeah,|b
+B|I had a Discover,|sd
+B|and that was one of the ones in the group that I ended up, um, closing.|sd
+B|Um, it really wasn't my choice, though.|sd
+B|I mean, I ended up having, I ended up actually losing my credit cards.|sd
+A|Oh.|b
+B|Um, I ended up going through a credit counseling service um, because my husband and I just don't handle credit very well|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+A|Uh-huh,|b
+A|yeah.|b
+B|and, um, when, when you do that, they automatically, once you start with their service, they close your accounts out.|sd
+A|Oh, I see.|b
+B|So, I'm still paying on all these accounts,|sd
+B|but my accounts are closed.|sd
+A|Yeah.|b
+B|So, and I would prefer to keep it that way.|sd
+B|Once we, once we're paid off um, I would prefer just to have one MasterCard and one Visa|sd
+A|Uh-huh.|b
+B|and that's it.|sd
+A|Yeah,|b
+A|yeah.|b
+A|Actually I pay off my cards every month.|sd
+A|Only once in my life have I not paid.|sd
+B|I think that's a really good way to handle it, because that way, if you, if you paid off every month, you never have to worry about, well, how much do I have to pay these guys, you know, this month, you know.|sv
+B|This, you buy what you can afford.|sv
+B|I mean if you handle it just like you would like a check or cash it's a lot easier to keep it in check.|sv
+A|Right.|b
+A|Uh-huh,|aa
+A|uh-huh.|aa
+A|Well, and also in a sense, they're giving you a loan for a month|sd
+A|so that you know, if I were smarter, I would have that same amount in savings and get the interest, which I don't do,|sd
+B|Yeah.|b
+B|Uh-huh.|b
+A|but, but yeah,|%
+A|the, the thought of adding, you know, X percent to, to the price of what I buy, I just, I can't accept.|sd
+B|Yeah,|b
+B|and I, and I think at this, at this point in time with the economy the way it is, I think that, um, it's going to get even worse.|sv
+B|Um, I'm, I'm glad that we're starting to pay our debts off, now, um, you know,|sd
+B|we, only we started this last year|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+B|and we probably still have about another year to go before we're completely out of the hole.|sd
+A|Uh-huh.|b
+B|But I think this, they way the whole economy is going right now, it's just not good to be in debt.|sv
+A|That's right,|aa
+A|that's right.|aa
+A|Yeah,|aa
+A|yeah,|aa
+A|that, I would, that would be a very scary feeling for me to know that I was, you know, juggling payments to different people I guess because I never experienced it.|sd
+B|Uh-huh.|b
+A|And it's not, because you know, I'm rich or anything,|sd
+A|it's just, a mental concept that I have. Yeah,|sd
+B|Yeah.|b
+A|that I just.|%
+B|Well, when you, when you're getting rid of the whole credit card cycle, and if you really get into the mind set, I got really good at juggling money and basically robbing Peter to pay Paul,|sd
+B|and it was scary, because I was so good at it.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+B|And I thought, this is not right.|sd
+B|I mean, this has got to stop, because eventually it'd end up catching up at, catching up with me|^q
+B|and it hit me in the face.|sd
+A|Right,|b
+A|right.|b
+B|Um.|b
+A|But it sounds like, you know, you, you learned from it|bf
+A|and you're coming out of it all right.|bf
+B|I, yeah,|aa
+B|I have,|aa
+B|I've learned a lot from it.|aa
+A|Uh-huh.|b
+B|I've learned that credit cards are extremely dangerous in my hand and my husband's too, because he's, he's the same way I am.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+A|Uh-huh.|b
+B|I don't, I don't think that,|%
+B|well, when we buy on credit we just don't have a concept of how much money we're spending until the bill comes in.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|And then all of a sudden you look at the bill|sv
+B|and you go, Oh my gosh,|sv
+B|I spent this much.|^q
+A|But now, the fact that you still have two cards,|%
+A|are you, do you use them, more judiciously?|qy
+B|Yeah,|ny
+B|we pretty much use them for emergency type things like transmission fell out on our car|sd
+A|Yeah.|b
+B|and that paid for a new transmission|sd
+A|Uh-huh.|b
+B|um, and, and things like that.|sd
+B|Um, and we try not to use them for incidental type things, like, you know, gas and stuff like that.|sd
+A|Purchases.|^2
+A|Uh-huh,|b
+A|uh-huh|b
+A|Clothing, sales.|qy^d
+B|Yeah.|ny
+A|Sales I find are a pain.|sd
+B|Yeah.|b
+B|I've, I've gotten, I've gotten a lot more away from, from credit cards,|sd
+B|and I pay by check a lot more now.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+A|Well, it sounds good, you know.|ba
+A|Like I said, it sounds like you're, you've really got it under control.|bf
+B|I, I admire you for having, having that mind set for not, not even getting, you know, past the thirty days,|sd
+B|I would, that's ideally the where, where I would like to be.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+A|Yeah,|b
+A|and like I said, once, once it, it happened I couldn't because my son's tuition came due,|sd
+A|and I guess I had, you know, not really counted on it quite at that point|sd
+B|Uh-huh.|b
+A|but, um, yeah,|b
+A|I didn't like it at all.|sd
+A|I was very uncomfortable.|sd
+A|So,|%
+B|I can imagine.|ba
+A|You know, and, and I mean, it was, I thought a lot,|sd
+A|sixty dollars interest or something for, for just a couple of months,|sd
+A|and I'm going jeez, that's outrageous,|sd
+B|Yeah.|b
+A|but in, in, you know, retrospect it wasn't all that much,|sv
+A|I mean a lot of people pay a lot more|sv
+A|and and, you know, but still, I mean, I figured I didn't need those items if it cost me sixty dollars more to have them.|sd
+B|Oh, yeah.|b
+B|Uh-huh.|b
+B|Think about what you can buy for sixty dollars.|ad
+A|Exactly|aa
+A|Groceries for a week.|sv
+B|Yeah,|aa
+B|yeah.|aa
+A|Yeah.|b^m
+B|I, I think about all, all the money that, that we've spent on interest on all of our credit cards,|sd
+A|Uh-huh.|b
+B|and it's just incredible.|sd
+A|But now did you use to not feel so badly because you could take it off your income tax?|qy
+B|We've never been able to take it off our income tax.|arp_nd
+B|I'm, I'm fairly newly married.|sd
+B|I've only been married less than two years|sd
+A|Uh-huh.|b
+B|and before that, I never owned a home or anything,|sd
+B|so I never had any deductions.|sd
+A|Right,|b
+A|right.|b
+B|So, really, it was always just money thrown away.|sd
+A|Thrown away.|^2
+A|Yeah,|b
+A|jeez.|ba
+B|And I never really thought about it because,|sd
+A|You were good at it|bf
+B|Yeah,|aa
+B|I was so good at it that it just kind of got stuck in the back of my mind and just never um, became a real problem until all of a sudden it came an insurmountable problem.|sd
+A|Uh-huh.|b
+A|Yeah.|b
+A|I suspect that, you know, thinking about it and looking at my friends and the number of credit cards that they use and, you know, the amount that I know they buy, I guess probably a lot of them are in a similar situation, and, you know, just don't talk about it.|sd
+B|Yeah.|aa
+B|Most, most people don't like to talk about money.|sv
+B|They feel uncomfortable, I think.|sv
+A|Uh-huh,|aa
+A|uh-huh,|aa
+B|You know, for a lot of people it is very personal.|sv
+A|very personal.|sv
+A|Uh-huh,|aa
+A|yeah,|aa
+A|and especially if you, if you don't feel you're handling it quite right or that somebody might make fun of you or that it would be,|sv
+B|Yeah.|b
+B|But I think the, the average American is probably pretty heavily in debt. Not, not including like a mortgage.|sv
+B|A mortgage is an understandable debt because that's, you have, you have to have a roof over your head.|sv
+A|Uh-huh.|b
+A|Right.|b
+B|And I would much rather own my own home than, than be renting it like we're doing.|sd
+B|I mean, we're basically, you know, kind of throwing seven hundred dollars a month away.|sd
+A|Uh-huh,|aa
+A|uh-huh.|aa
+B|We're renting a house.|sd
+A|Uh-huh.|b
+B|But, you know, right now with the way our credit card situation is, there's nobody in the world that's going to give us a mortgage on a house.|sd
+A|Right,|aa
+A|right.|aa
+A|But, but, once I suppose you, you prove yourself by paying this off next year you'll be in very good shape.|sv
+B|Yeah.|b
+B|Yeah.|aa
+B|It's, it's going to, it's going to take quite a while.|sv
+A|Uh-huh.|b
+B|Hopefully within five years we'll be in our own home.|sd
+A|Uh-huh.|b
+B|But, um, I'm not really counting on it real soon.|sd

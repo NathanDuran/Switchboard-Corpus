@@ -1,0 +1,197 @@
+B|Uh-huh.|b
+A|Um, I guess we're supposed to talk about music.|sd
+B|Okay.|aa
+A|And, uh, let me go ahead and push one here.|oo_co_cc
+A|Uh, do you|qy
+A|are you a musician yourself?|qy
+B|Uh, well, I sing.|na
+A|Uh-huh.|b
+B|I don't play an instrument.|sd
+A|Uh-huh.|b
+A|Where,|%
+A|do you sing in, in a choir or a choral group?|qy
+B|Oh, not right now.|ng
+A|Uh-huh.|b
+A|What kind of singing do you like to do?|qw
+B|Oh, pretty much anything.|sd
+A|Yeah,|b
+A|uh-huh.|b
+A|Um, are you, uh, are, are, have you, have you been singing a long time|qy
+A|or have you studied?|qrr
+B|Oh, yeah.|ny
+A|Uh-huh.|b
+B|A long time out, all through college and everything I was in the choirs.|sd
+A|Right.|b
+B|And I've had some classical vocal training.|sd
+A|Oh, really?|bh
+B|Uh-huh.|ny
+A|Oh, great.|ba
+A|Did, did you do that in, uh, Texas, or somewhere else?|qy
+B|No,|nn
+B|I was in Europe.|sd
+A|Oh.|b
+A|Whereabouts?|qw
+B|In, uh, in Germany.|sd
+A|Uh-huh.|b
+A|Oh, that's wonderful.|ba
+A|Um, well, I likewise sang in high school and in college in choirs,|sd
+A|and then I didn't sing in a choral group, um, until after I was, uh, married,|sd
+A|and I sang in a couple of, uh, community choirs, and then um, waited for a while,|sd
+A|and now I've, for about the last eight years I've sung in a church choir here, in Texas.|sd
+B|Oh, yeah.|b
+A|And, um, so I, I enjoy, just the chorals singing a lot, as well.|sd
+B|Uh-huh.|b
+A|Um, are you a soprano, alto, or,|qy
+B|Soprano.|sd
+A|A soprano.|b^m
+A|Yeah, so am I.|sd
+A|Do you,|qy
+A|and, uh, what kind of music do you like to sing?|qw
+A|Um, you were saying you had classical training.|sd
+A|Do you have a particular composer that you like or, a particular type ?|qy
+B|Oh, well,|%
+B|as far as opera goes, I'm, I think most fond of Verdi.|sd
+A|Uh-huh.|b
+A|I've been listening to, um, some, uh, some advertisements for MADAM BUTTERFLY,|sd
+A|and I'm wondering if you, if you have ever done anything like that,|sd
+A|have you ever done any, uh, if, if you had done MADAM BUTTERFLY.|qy
+B|No,|nn
+B|no,|nn
+B|I haven't done, uh,|sd
+B|I'd love to,|sd
+A|Yes.|b
+B|but, um, that's, uh, Puccini, I think,|sd
+B|right?|^g
+A|Uh-huh,|ny
+A|yes,|ny
+A|uh-huh.|ny
+A|Um, MADAM BUTTERFLY was, um, in Dallas,|sd
+A|it's been two or three years ago now,|sd
+A|and then I went to see that,|sd
+A|and, it was really wonderful.|sd
+B|Uh-huh.|b
+A|It was particularly well,|sd
+A|the acting was particularly nice, I thought,|sd
+A|and, um, so, it was quite popular.|sd
+B|Yeah.|b
+A|Um, you don't play, um, an instrument|sd
+A|so, uh, um, have you ever wanted to, like guitar or piano or|qy
+A|Yeah,|aa
+A|yeah.|aa
+A|That, I think that's always a good instrument for anybody who sings or does, you know, some other kind of instrument,|sv
+A|I think piano is always good background,|sv
+B|Uh-huh.|b
+A|beginner.|%
+A|Um, I played piano all through, well, I guess from the time I was five until I graduated from college,|sd
+A|and, uh, then I was a piano teacher for a while while my husband was in graduate school,|sd
+A|so, um, that was the instrument both of my children started on,|sd
+A|but neither of them stayed with it|sd
+B|Uh-huh.|b
+A|One of them, um, turned into a violist,|sd
+A|and the other one is, the boy is, um, guitar and, and percussion,|sd
+A|so.|%
+B|Uh-huh.|b
+A|Um, but the,|%
+A|I, I think that the piano background is very, um, useful,|sv
+A|and, um, I'm sure that it, for you, it would have been great to be able to accompany yourself, just for practicing and so on.|sv
+B|Oh, yeah.|aa
+A|Uh-huh.|b
+A|Do you have any other kind of music that you like?|qy
+B|Um, oh, I like to listen to all different kinds of music.|sd
+A|Uh-huh.|b
+A|I have a,|%
+A|I used to work with a fellow who had, um,|sd
+A|although this was a computer company, he had his, uh, P H D in musical, uh, I guess it was in composition, actually, from University of North Texas,|sd
+A|and, uh, yet when I would go into his, his office every now and then, you never knew what kind of music he'd be playing on the radio|sd
+A|It may be country,|sd
+A|it might be classical,|sd
+A|it might be rock, you know|sd
+B|Uh-huh.|b
+A|it was just, he said that, that just about what you said, that he just liked all kinds of music.|sd
+B|Yeah|b
+A|And that was, that was neat for, for me to hear that somebody is,|sd
+B|There's, you know, some of the really totally country stuff, I don't really particularly like|sd
+B|but,|%
+A|Yeah,|b
+A|yeah.|b
+A|Um, do you have any plans to, uh, do anything with your music in the near future|qy
+A|or,|%
+B|Well, I have, I have like, we,|sd
+B|I wish I could|sd
+A|Uh-huh.|b
+B|but I, I don't really know how to go about it without having a degree|sd
+B|or,|%
+A|Yeah.|b
+B|um|%
+A|I know that there are, if you're interested in choral singing,|sd
+A|I'm not sure where, you are in Texas,|sd
+A|but I do know that some communities have, uh, community choruses|sd
+A|and, uh, that's often a good way to get back into it again.|sv
+B|Uh-huh.|b
+A|Um, it's not terribly demanding.|sv
+A|You might have to audition,|sd
+A|but that probably wouldn't be a problem,|sv
+A|but, um, there usually, you know,|sd
+A|that they take tours and things like that|sd
+A|and you get to know you know, people socially as well as, as in a musical setting,|sd
+B|Uh-huh.|b
+A|so that's always fun.|sv
+B|Yeah.|b
+A|I think that's, well, that's one reason why I have enjoyed my choir so much, is that not only do we sing wonderful music,|sd
+A|but we've gotten to know each other quite well, um, in, on a, a social level,|sd
+A|and, and I think we sing better because of that.|sd
+B|Uh-huh.|b
+A|I think, you know, I think we sing more like, uh, people who trust each other which is really nice.|sd
+B|That's good.|ba
+B|Uh-huh,|b
+B|yeah.|b
+A|So, whereabouts in, Texas are you, if I could ask?|qw
+B|Oh, I'm in Flower Mound.|sd
+A|Flower Mound,|b^m
+A|okay.|bk
+B|Uh-huh.|b
+A|Well, I'm in Plano,|sd
+A|so, um, we're just not too far apart, actually.|sd
+B|Yeah,|aa
+B|that's pretty close.|sv
+A|Uh-huh.|b
+A|It was funny, um, uh,|sd
+A|it's, you know,|%
+A|I talk to people all over, uh, Texas, um, and only one person outside of the uh, of the state,|sd
+A|so I'm always asking where, where in the state, you know, the person is from if they're in Texas.|sd
+B|Yeah.|b
+A|Um, are, do you have a family?|qy
+B|Um, I'm married.|na
+A|Uh-huh.|b
+A|I was wondering if your, if your spouse,|qy^d
+A|or if, you know, if you had, uh, other musical people in your family.|qrr
+B|I'm sorry?|br
+A|Uh, if you have other people in your family who are also musical.|qy^d
+B|Oh, a little bit.|na
+A|Uh-huh.|b
+A|Do you come by it naturally?|qy
+A|Was your, were your parents that musical?|qy
+B|Yeah,|ny
+B|I think so.|sd
+A|Yeah,|b
+A|yeah.|b
+A|That often is the case, um,|sv
+A|the, you know,|%
+A|it's, it, sometimes it will skip.|sv
+A|Like my husband is not musical at all,|sd
+A|but his mother is very musical,|sd
+A|and, um, and his children are very musical,|sd
+A|so you never know where the talent is going to show up, I guess, sometimes.|sv
+A|So, um, well, I'm not sure how long we've talked.|sd
+B|I think,|%
+A|I haven't paid, haven't been paying attention to the, to the clock.|sd
+A|But, uh, I'll bet we've done, we've done at least five minutes.|sd
+B|Probably|sd
+A|Well, I've enjoyed talking with you, uh, Becky,|fc
+B|Okay.|fc
+A|and, um, maybe we'll talk again.|fc
+B|All right,|fc
+B|thanks.|ft
+A|Uh-huh.|fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc

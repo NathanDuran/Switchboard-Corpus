@@ -1,0 +1,96 @@
+A|Well I did hear the end of the prompt this time.|sd
+A|Was that you, that we didn't hear the whole prompt?|qy
+B|Yes,|ny
+B|Yes,|ny
+A|And it said that what, what do we, do we think that certain crimes should fit certain punishments,|sd
+A|and, uh, I was thinking about it after I got off the phone, that, that I really, you know, wish that there was some way to, uh, send a message to people, you know, about, um, child abuse and things like that|sd
+B|Uh-huh.|b
+A|that, uh,|%
+A|those kind of crimes deserve some kind of severe punishment.|sv
+A|Too often I feel that people get off, uh, without,|sv
+B|Yeah,|aa
+B|I, I agree with you, although I will say,|aa
+B|I'm not sure, you know,|h
+B|I sometimes have a problem with some of the, especially more famous people who all of a sudden are crawling out of the woodwork to say that whatever problems they have, you know, was, was because they were abused abused as children.|sd
+B|And the parents are saying, Hey, wait a minute,|sv
+B|we didn't do anything like that you know,|^q
+A|Uh-huh.|b
+B|and, and, and I guess before I'd like to see that severe of a punishment for it it has to be a, an absolute certainty you know, like, uh, caught at it, or something|sd
+A|Uh-huh.|b
+A|Right,|aa
+A|right,|aa
+B|you know, or if they, they, uh, you know, severely beat up on a child, or, you know, I would have absolutely no problem at all you know, with, with,|sd
+A|Yeah,|b
+B|I don't buy the routine, oh they're just sick,|sd
+B|or they were abused when they were little|sd
+A|Uh-huh.|b
+B|well, you know, forget that.|sv
+A|Yeah,|aa
+A|well, sometimes they even wonder when, when, uh, criminals plead temporary insanity for, for for crimes that are so severe and then, you know, they get sent to a mental institution|sv
+B|Uh-huh.|b
+A|and they play loony for a while,|sv
+A|and then they're back out in public.|sv
+B|Well, but I can't see that either.|sd
+B|I don't feel that that should be any excuse at all or any deterrent uh, you know reason to not use capital punishment.|sv
+A|Yeah.|b
+A|Yeah,|aa
+A|oh, I agree,|aa
+A|I agree,|aa
+A|because we,|%
+B|I think, uh, I think if I wanted to badly enough, I could convince somebody, uh, I was crazy|sv
+B|so, my family may say that on occasion,|sd
+B|who knows|h
+A|Uh-huh.|b
+A|Yeah,|aa
+A|yeah,|aa
+A|well, and too, you know, they can always be blaming the other person,|sv
+A|well, she looked like my mother who abused me when I was a child, or something, which I think is, unfortunate for that person and yet shouldn't be an excuse.|sv
+B|Uh-huh.|b
+B|Uh-huh,|b
+A|I guess, you know, a lot of,|%
+A|and I was just seeing in the newspaper or the grocery store that some Miss America was abused by the man she loved|sd
+A|and,|%
+B|That's the new one.|sd
+A|Is that the new,|%
+A|I just happened to see the headline on it,|sd
+A|and I didn't, couldn't realize if it was the husband or the father or what,|sd
+A|but I thought, uh, you know, if these things, if children are being abused, I, I'm wondering how our school system is failing, that they're not even seeing this, you know,|sd
+A|if it was that severe that when they're later in life adults, that it's all of a sudden affecting them in this way, that it wasn't shown up at all when they were younger,|sv
+A|and that kind of, that kind of worries me with my kids only being under two and not having, you know, to, to deal with that yet,|sd
+A|but still.|%
+B|Well, you, you're right, uh,|aa
+B|and yet, I mean, did you ever in your life when you were little know anybody or hear anything of anything like this?|qy
+A|Never|ng
+B|No,|bk
+A|and I lived in California which I feel like California, you know,|sd
+A|anything can go on in California.|sd
+B|well, yes,|b
+B|I, but I was from conservative Wisconsin|sd
+B|and, uh, you know, there was, there was, nothing on it,|sd
+B|which makes me wonder, you know, if it's as, uh, prevalent as, as some of them claim.|sd
+A|Yeah.|b
+B|It, uh, it, it, it's,|%
+B|you just don't know,|sv
+B|and it all,|%
+B|unless they're caught in the act or the child is very badly, you know, beaten up, it comes down to a one word against the other that type thing.|sv
+A|Uh-huh,|aa
+A|uh-huh.|aa
+B|Now, Texas, is capital punishment for,|%
+B|it used to be just capital murder,|sd
+B|and now they added mass murder.|sd
+B|Are those the only two things that we, uh|qy
+A|I really would have no idea. I, um, I don't, don't really know.|no
+B|uh, you know, because I have a feeling it is,|sd
+B|and I, I think there ought to be more things added to it.|sv
+A|Uh-huh|b
+B|Uh,|b
+A|that would be pretty lenient in my opinion.|sv
+B|Yeah,|aa
+B|I, I think that's, I, you know, uh,|%
+B|killing a child, or kidnapping, uh,|%
+B|and possibly not, well,|%
+B|I guess kidnapping maybe if the person gets very badly hurt, you know,|sv
+B|if they release them two hours later, he probably doesn't deserve the death penalty,|sv
+A|Yeah,|aa
+A|that's, that,|%
+A|or like when, uh, I've heard when I,|%

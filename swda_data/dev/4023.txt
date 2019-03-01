@@ -1,0 +1,138 @@
+A|, how do you feel about crime in the city?|qo
+A|You say you're from Atlanta.|sd
+B|Right,|aa
+B|I, I, I actually I live in the city|sd
+A|Uh-huh.|b
+B|and, uh, I guess it is a concern of mine, uh, you know, for my own safety.|sd
+A|Uh-huh.|b
+A|I mean, do you, do you find crime in Atlanta really|qy
+A|I live in Atlanta also.|sd
+B|Well that's right. Uh, I think it is bad in certain areas, *sv|ba
+A|Uh.|%
+B|however I think, the area that I live in it's not, uh, the crime level is not as high as it is in other areas of the, of the city.|sv
+A|Uh-huh.|b
+B|I think it seems that there's certain areas where, uh, the crime is focused uh.|sv
+A|Uh-huh.|b
+A|Well what do you think can be done about the crime in the city?|qw
+B|Well, I think it's, what's been happening over the last several years it seems they've been beefing up the police patrols, trying to put, put more guys, more cops, higher visibility,|sv
+B|and, uh, they've had some impact, but not a tremendous amount,|sv
+A|Uh-huh.|b
+B|and probably, um, they need to try to increase community involvement, that sort of thing, I think .|sv
+A|I probably agree with that.|aap_am
+B|Yeah.|b
+A|Uh.|%
+B|You know, particularly in some of the housing projects, uh, you know, that's, that tends to be where a lot of that crime is focused|sv
+A|Uh-huh.|b
+B|and they've got to do more than just having, having cops there.|sv
+B|They've got to kind of change the way people think about it.|sv
+A|Yeah,|aa
+A|that's probably true.|aap_am
+A|Um, so, um, well do you think Atlanta's as bad as most other cities?|qy
+B|Um, well, I've been to,|%
+B|I'd say it's, it's probably in the top, top ten in terms of crime.|na
+B|Um, it's nowhere near as bad as New York City for example.|sd
+A|Uh-huh.|b
+B|Probably not, not as bad as Detroit.|sv
+A|Uh-huh.|b
+A|I don't think it's as bad as L A either.|sv
+B|No.|aa
+A|We, I don't think we have as much of the gang problem as a lot of the other cities have.|sv
+B|Yeah,|aa
+B|that seems to be true.|aa
+B|Um, yeah,|%
+B|if you've ever been to like New York City|%
+B|and you can just, you can just, as you walk through the street on a given evening, you can see crimes being committed.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|It's that obvious.|sd
+A|Yeah,|b
+A|I don't know,|h
+A|I came to the conclusion also that, you know, just, if you are walking in a downtown area, you know, where there's a lot of crime, a lot of that's going to just, just keeping your senses about you and, and trying not to look like a victim, you know.|sv
+B|Yeah,|aa
+B|that's true.|aa
+A|You know, walk you know, walk with, you know, with just walk in a confidently,|sv
+B|With a big stick|^2
+B|or.|qy
+A|and, you know, don't, don't be looking around like you've never been there before and you have no idea where you are.|sv
+B|Right.|b
+B|Sure.|ba
+B|Right,|aa
+B|don't, don't walk down a, an alley|sv
+B|or don't get|%
+A|Yeah.|b
+B|just try to keep yourself out of a bad situation|sv
+A|Uh-huh.|b
+B|but, yeah,|%
+B|there are times when you can't avoid all that|sv
+A|Uh.|%
+B|and, and then you're kind of on your own|sv
+A|Yeah.|b
+A|have you, have you ever, have you ever been mugged in Atlanta?|qy
+B|Uh, no.|nn
+B|The only thing I've ever had, was I've had my wallet lifted|sd
+A|Uh-huh.|b
+B|but that was in a more of a, a setting where there was a number of people around,|sd
+B|and I kind of got,|%
+B|I was much younger at the time|sd
+A|Uh-huh.|b
+B|and kind of a couple of people, they just took it from me without me knowing really and kind of passed it off, so I didn't know who had it.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|I've had that happen,|sd
+B|but that's, that's about it.|sd
+A|Yeah,|b
+A|I've been pretty lucky about getting mugged.|sd
+A|Um.  Yeah,|%
+B|Oh, yeah.|b
+A|I think I've only actually seen like one, you know, one actual robbery with a gun|sd
+B|Um.|%
+A|and that's been about the only, you know, real violent crime where, you know, potentially violent crime that I've seen in Atlanta.|sd
+B|Really,|ba
+B|well, I've had my.|%
+A|And that was just a guy running out of a store that he just robbed.|sd
+B|Uh-huh.|b
+B|I've had my car stolen,|sd
+B|so maybe that counts.|sv
+A|Oh, really.|bh
+B|Yeah.|ny
+A|Oh, where was, where, where was that?|qw
+A|Was that downtown|qy
+A|or,|qy
+B|Oh no,|nn
+B|that was in the northern um, up near Cumberland Mall area.|sd
+A|Really.|ba
+B|It's actually Cobb County,|sd
+B|but it is Atlanta|sd
+A|Metropolitan,|^2
+A|yeah.|aa
+B|and, uh, there's a lot of car thefts in that area.|sd
+A|Yeah,|aa
+A|I've actually, I've known, known some people that have had their cars stolen.|sd
+A|Uh, and, uh, and, you know, about half the time they seem to, the A P D seems to recover them, you know in various states of disrepair Up on blocks.|sd
+B|Right.|b
+B|Yeah|b
+A|My friend had a V W Rabbit,|sd
+A|and when he, when he got it back his, um, dashboard was sitting in the front seat|sd
+B|Yeah,|b
+B|mine was just, it had been wrecked and some superficial type damage,|sd
+B|but they didn't, they didn't strip it|sd
+A|Uh-huh.|b
+B|so I got it back.|sd
+A|Well, you're probably luckier than.|sv
+B|Yeah,|aa
+B|than most.|aa
+A|Uh-huh.|b
+A|Um, so like does insurance pay for the body damage,|qy
+A|or was that all there was, body.|qy
+B|Right.|na
+B|It was about three grand to put everything together.|sd
+B|They cracked the steering column of course, to steal the car.|sd
+B|Yeah,|b
+B|you got to, you crack the steering column|sd
+B|and you pull the,|sd
+B|there's a pin in there that you can pull on these G M cars|sd
+A|Uh-huh.|b
+B|and you can start it up, basically pretty easily.|sd
+A|Uh-huh.|b
+A|So how do you know this much about, um, stealing cars?|qw
+B|Well, after I found mine I had to, I had this,|sd

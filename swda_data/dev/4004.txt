@@ -1,0 +1,85 @@
+A|How do you feel about the Viet Nam war?|qo
+B|Huh, well, um, you know, I guess it's pretty deep feelings, uh,|sd
+B|I just, uh, went back and rented, uh, the movie, what is it, GOOD MORNING VIET NAM|sd
+A|Uh-huh.|b
+B|and, uh.|%
+A|Yeah,|b
+A|I saw that as well.|sd
+B|Got that, uh, uh, some insight there, to, to kind of help me put together the feelings.|sd
+B|I really appreciated the, the whole, uh, English class where the, uh, the, uh, fellow just wouldn't do it, you know,|sd
+B|the guy's gouging, gouging your eyes out,|sd
+B|what are you going to do?|qh
+A|Uh-huh.|b
+B|You know, what for him to finish me off|sd
+B|And, uh, it, it was, uh, good to remember the, uh, that, that kind of Asian philosophy  that, uh.|sd
+A|Uh-huh.|b
+A|Well, were  you ever in Viet Nam|qy
+A|or,|%
+B|No,|nn
+B|no,|nn
+B|I was kind of an in-between, uh, finally drew a high draft number,|sd
+B|and you?|qy
+A|Um, I was much too young,|ng
+A|I was born in sixty-seven,|sd
+A|so.|%
+B|Oh|b
+A|Um, you know, both my, well, both my brothers were, um, draft age,|sd
+A|but neither of them wound up going over, which, I think they were very happy for.|sd
+B|Well, I, personally, uh, you know, uh, I just went in limbo.|sd
+B|I had a passport and was ready to go or um, out of the country or join special forces, either one.|sd
+A|Uh-huh.|b
+A|Yeah.|b
+A|Uh-huh.|b
+B|I mean, I just didn't know.|sd
+B|So, uh.|%
+A|Well, um, so well do you, do you feel that it was worth what we did over there?|qy
+B|Um, yeah,|ny
+B|just a second.|ad
+A|Okay.|aa
+B|Okay.|t3
+B|Sure,|t3
+B|now. Well, Mark, um, what was that again?|qw
+A|Um, do you think, I mean, do you think, our the investment in lives and money was worth it?|qy
+B|No,|nn
+B|not, not really.|ng
+A|I totally agree with that.  Um.|aa
+B|Um.|%
+A|What, what effects do you think it's had on our country?|qw
+B|Downside. Um, uh, well,|bf
+B|the says we should, uh, go into the grief that, that's there|sd
+B|and, you know, presidents have always avoided that as a country.|sd
+A|Uh-huh.|b
+B|So it's pretty serious, really, you know,|sv
+B|lot of things that aren't being addressed.|sv
+A|Uh-huh.|b
+A|I think you know, that's pretty typical that, of the entire, entire involvement over that, you know, that nothing was really addressed,|sv
+A|it it wasn't, you know, it was never|sv
+A|we, we announced that we were going to war,|sd
+A|it was such a gradual and subtle, you know um, you know increasement of, of force that.|sd
+B|Yeah.|b
+B|Gulf of Tonkin, uh, resolution|^2
+B|and was it a dolphin or a torpedo.|qh
+B|You remember that?|qy
+A|I vaguely remember we, um, we had a, we had a, um, spy ship torpedoed or something.|na
+B|Yeah,|b
+B|yeah,|b
+B|only only it was foggy|sd
+B|and finally President Johnson said, well, they're weren't really sure whether it was a dolphin or a torpedo.|sd
+A|Oh|b
+B|Isn't that something?|bh
+A|Uh-huh. Um,|ny
+A|so, um, do, do, do you think that like, uh, um, for example like in, in this past war, in the Persian Gulf war that, uh, that you see, it seemed to me that, that Bush was going, going to extraordinary lengths to, um, you know, prepare the country for war.|qy
+B|Uh-huh.|b
+B|Hey Mark I've got to go, um.|ad
+A|Yeah.|b
+A|Okay.|aa
+B|We'll see you.|fc
+B|I guess our five minutes are up according to me.|sd
+B|Are they to you?|qy
+A|Uh, I wasn't really keeping count.|sd
+A|But I guess,|sd
+A|good-bye.|fc
+B|Yeah,|fc
+B|okay,|fc
+B|bye-bye.|fc
+A|Bye.|fc

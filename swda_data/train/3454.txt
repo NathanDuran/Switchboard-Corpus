@@ -1,0 +1,129 @@
+A|Uh, what do you think are the major social changes?|qo
+B|Well,|%
+A|What age, uh, if you don't mind me asking.|qw
+B|Well, I'm, I'm, uh, thirty-one.|sd
+A|Oh, well, you're, you're young.|sv
+A|I'm in my early fifties|sd
+B|Yeah,|b
+B|right|b
+A|so you should take my word|ad
+A|you're young|sv
+B|Oh, I, you know, I've seen a social change,|sd
+B|yeah.|%
+B|It's definitely,|%
+B|for sure,|%
+B|and it's, uh, uh, and besides that, I came from California where social change is like, you know,|sv
+A|Every day?|qy
+B|Yeah.|ny
+B|I mean every second.|sd
+B|You know, social change in California means it takes another two or three minutes longer to get to work.|sd
+A|Yeah,|b
+A|I can believe that|ba
+B|And, uh, when I started work there in, it started, you know, actually going to work in eighty-two,|sd
+B|I guess that's when it was.|sd
+B|Between eighty-two and eighty-five, uh, it started out taking me an hour and fifteen minutes to get to work,|sd
+B|and then it became, you know, an hour and a half, to, you know, some days, two hours to get to work.|sd
+B|That's social change.|sv
+A|That's, that's social change.|b^m
+A|Well, what do you think is, is the major social change?|qo
+B|Oh,|^h
+A|Right now.|sd
+B|Yeah,|^h
+B|that's, that's a, that's a tricky one.|sv
+B|I'll let you go first.|ad
+A|Okay.|aa
+A|I think probably the big major change is the role of women.|sv
+B|Uh-huh.|b
+A|I think, one, the women, uh, in the work force.|sv
+B|Uh-huh.|b
+A|And I think the fact that they're becoming, uh, more, uh, how do I want to say, not necessarily politically inclined,|sv
+A|but they're more apt to be in political offices now.|sv
+B|Uh-huh.|b
+A|I think, you know, we've made great strides in that respect.|sv
+B|Uh-huh.|b
+A|I think that it, thirty years ago, when, uh, I was newly married, family was very, very important.|sv
+B|Uh-huh.|b
+A|Then I think we veered where the family was not as important a unit.|sv
+A|And I think now it's revolving back full circle.|sv
+A|I think the family unit is becoming much more important than it was.|sv
+B|Uh-huh.|b
+B|Oh, I think it's, that's probably for two reasons.|sv
+B|Uh, you know, the number one is, women wanted to get out of the house.|sv
+B|And the second reason was, is everything costs so much more that if you don't have, you know, equal rights so that your wife gets equal pay, you can't make twice as much|sv
+A|That's true,|aa
+A|that's true|aa
+A|Well, I know that economically, uh, a wife almost has to work anymore.|sv
+B|Uh-huh.|b
+A|And yet, I'm also noticing, uh, in the areas that I'm working and stuff, more and more women are wanting now to stay home with the children where fifteen years ago they didn't.|sd
+B|Uh-huh.|b
+A|I mean, you know, they wanted children,|sv
+A|but they still wanted to be their own person out in the work force.|sv
+B|Uh-huh.|b
+A|But I see, I am seeing women now wanting to stay home more, at least until the children are up to, you know, school age.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|And, uh, I find that very interesting that, that it's sort of reverting back.|sv
+B|Yeah.|b
+B|Yeah,|aa
+B|I, I've, I've, I've found that, too, you know, where the wife is married and, and,|sv
+B|I mean, not, not married,|ar
+B|sorry,|fa
+B|wrong word.|sd
+B|Where the wife has gone to school, you know and gotten a degree, spent five years out in the work force, found, you know, the, the, their husband, either at college, or whatever,|sv
+A|Uh-huh.|b
+B|but still, you know, after five years, it's like, first kid|sv
+A|Uh-huh,|aa
+A|uh-huh.|aa
+B|and then they're out of the work force for another ten years.|sv
+A|Uh-huh,|aa
+A|uh-huh.|aa
+B|But, I think most of those people are still out|sv
+A|Probably.|aa
+B|I think that generation, they're all at home right now|sv
+B|and, and we won't see them back for another two or three years.|sv
+A|Uh-huh,|aa
+A|uh-huh.|aa
+B|Uh, I'm, very rarely do I meet anybody whose children are, are, you know, past that age when they've been away for a few years.|sd
+A|Uh-huh.|b
+B|But, uh, it's kind of different.|sv
+A|Yeah,|aa
+A|yeah,|aa
+A|it is.|aa
+A|It, uh, I, I note that I had, taken care of my grandchildren recently while my daughter and her husband had been out of town.|sd
+B|Uh-huh.|b
+A|And I do not envy these mothers or these fathers that have these, the children that they have to rush home from work and pick them up at day care, get them through their homework, get them to their soccer practice get them to their piano lessons.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|I mean, that's tough.|sv
+B|I, uh,|%
+A|I don't envy these young parents|sd
+B|I'm an assistant Scout Master|sd
+B|and that's, that's it's like, uh,|%
+B|yeah,|%
+B|parents, uh, even rarely see their kids for weekends, which is, you know, kind of rough, too.|sv
+A|That's true.|aa
+A|That's true.|aa
+B|Especially now.|sv
+A|I don't know.|h
+B|Yeah.|b
+A|And, and I'm finding, you know, running into these, uh, women that are wanting to have their children at the age of thirty-nine, forty, I'm thinking at the age of fifty-two, you're crazy|sd
+B|Yeah.|b
+A|You're going to be doing your worst running around when you're fifty|^q
+A|And you're absolutely nuts|^q
+B|I, I know two women that, that, uh,|sd
+B|let's see,|^h
+B|one of them's forty-nine|sd
+B|and the other one, well, the other one, I don't know what her age is,|sd
+B|but I know she is, she is somewhere in that hairy age of half a century up there.|sd
+B|And, uh, boy, I'll tell you,|^h
+B|these are the, the go-gettingest, happiest people I've ever met.|sd
+B|You know, because,|%
+A|Well, you can be go getting,|sv
+A|but you can also get gray hairs and have a nervous breakdown|sv
+B|I'm thirty,|sd
+B|I'm getting gray hairs already|sd
+A|I just know it, it would absolutely exhaust me.|sd
+A|Maybe it's because it's my grandchildren|sv
+A|and it's not my children.|sv
+B|Um.|b
+A|Maybe that's,|%

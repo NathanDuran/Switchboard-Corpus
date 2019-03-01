@@ -1,0 +1,109 @@
+A|Hello,|fp
+A|my name is Donna,|fp
+A|and I'm calling from Plano, Texas.|fp
+B|Hi,|fp
+B|this is Laurie,|fp
+B|and I'm in Garland|fp
+A|Oh, okay.|b
+A|Um, would you like me to go first?|qy
+B|Sure.|na
+A|Okay, um|bk
+A|I have three children, um, two, two who are in regular school, uh, eleven year old, an eight year old,|sd
+A|and then my little one, three year old, is in, um, a University of Gymnastics,|sd
+A|it's a, a preschool|sd
+B|Uh-huh.|b
+A|and, um, I think it was really hard to, um, to pick the right, uh, day care or preschool or Mother's Day Out.|sd
+A|I guess you can classify them all together.|sv
+B|Uh-huh.|b
+A|Um, some of the qualifications that I look for was that, uh, you know, the cost, and, um, exactly what they did, if it was structured or nonstructured, if they had a little academic, um, uh, in there, and, um, you know, um, you know, what the qualifications of the teachers' were, and if the place was clean and um, the hours|sd
+B|Uh-huh.|b
+A|and, um, just, just kind of going by word of mouth and finding out if anybody else has been pleased with their program that kind of stuff.|sd
+B|Right.|b
+B|Well, we don't have any children,|sd
+B|but we're going to have one next year|sd
+A|Oh, congratulations.|ba
+B|Thanks.|ft
+B|So, um, that's something that I'm probably going to be looking at maybe in the future.|sd
+A|Right.|b
+B|We haven't quite decided if I'm going to,|sd
+B|I'm working part time now,|sd
+B|and I don't know if I'll be doing that or  what we're going to do.|sd
+A|Or staying home.|qy^d
+B|But if we do, then I'm going to need to find somebody,|sd
+B|and our church has a Mother's Day Out program which they started last year,|sd
+A|Uh-huh.|b
+B|and we know a lot of people at the church|sd
+B|so I would feel very confident with leaving my child there|sd
+A|That's a very good place to start I think.|sv
+A|Uh-huh.|aa
+A|Yeah,|aa
+A|the Mother's Day Out programs,|sd
+A|and that's where Shannon had started, in a Mother's Day Out program|sd
+B|Uh-huh.|b
+A|and, uh, the churches always have I think, a, a pretty good program,|sv
+A|and you have to make sure that you, um, that you apply pretty early, because they do have, a lot of places have very long waiting lists.|ad
+B|Uh-huh.|aa
+A|And, um, and another question to ask is if they're, um, state certified um, you know, if the teachers have, um, their Master's degree in, in child education and um, child development.|ad
+B|Okay.|aa
+B|Uh-huh|aa
+A|Um, you know, what, what kind of a structure is it going to be.|qh
+A|Um, when your child's a little bit older, like a three year old you'd be more concerned with if there's a type of care that it's torture for them to lay down and take a nap.|sv
+B|Uh-huh.|b
+A|Is there like a mandatory nap time?|qh
+B|Time, uh-huh.|b
+A|What they do at Shannon's school is have a video tape going,|sd
+A|and if, and they lay on these little mats,|sd
+A|and if they fall asleep, they kind of let them sleep,|sd
+A|and the teacher stays with the sleeping ones,|sd
+A|and the other ones get up and go do something else.|sd
+B|Uh-huh.|b
+A|So, she doesn't have to necessary take a nap there you know, which is, which is nice. Um.|sd
+B|Right.|b
+B|Uh-huh.|b
+B|Um, you know, it's kind of scary, I guess, because you hear so many bad things about day cares lately,|sd
+A|That's true.|aa
+B|and so, it's, I guess it's such a growing concern,|sv
+B|but then there's a lot of good things you don't hear.|sv
+A|Right.|aa
+A|And sometimes when the child's a lot younger, before they're really, um, before three years old, you know, like the church is a good program|sv
+A|and sometimes you even consider, um, you know, having a private person come to your own home when they're real little or or something like that,|sv
+B|Right.|b
+A|and another consideration is how many infants or children are they, what's the ratio of, of teachers to to children|qh
+B|To children.|^2
+B|Right.|b
+A|because that makes, a, a, a difference,|sv
+A|and if your child would be maybe sleeping in that crib all day,|qh
+A|just your child, and, or do they just put any child in any crib you know,|qh
+B|Uh-huh.|b
+A|you would want, maybe, your child to have their own sheets all the time, and not have another child use that bed you know.|sv
+B|Right.|b
+B|Right.|b
+A|I'm sure that, um, whatever you decide, you'll be happy with.|sv
+B|Yeah|b
+A|And it's exciting time to have a new one|sv
+B|Yeah.|aa
+B|We're pretty excited.|sd
+A|I bet.|ba
+A|That's, that's wonderful.|ba
+B|Yeah,|aa
+B|but that, you know, we have been thinking about that,|sd
+B|but it's a little ways off in the future|sd
+A|Uh-huh.|b
+B|but, um, I figure, you know, I'd probably start asking around at church because I know they have a limit as to how old they can be before they, you know, before you can bring them in.|sd
+A|Asking.|b^m
+A|Right.|b
+A|Some, some places, um, start them as early as, I think, well, some, some places take them as infants, I guess, you know, like eight weeks, even.|sd
+B|Uh-huh.|b
+A|Um, there's a place to look into, um, um,|ad
+A|a friend of mine who's a nurse is, was telling about a wonderful new place that opened some place in, on Fifteenth Street,|sd
+A|up,|%
+A|it's in Plano somewhere where, um,|sd
+A|nurses that used to work in the hospital take care of infants, infants and then only up to like two years old|sd
+B|Um.|b
+A|and it's, it's supposed to be really a, a,|sd
+A|you know, some places just specialize in just real little ones|sd
+B|Right.|b
+A|and then other ones, uh, are the older children.|sd
+B|Uh-huh.|b
+A|But it is a difficult situation, I think.|sv
+A|When they're, when they're little it's almost easier to leave them because when they're three and they're cry,|sv

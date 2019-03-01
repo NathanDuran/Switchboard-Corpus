@@ -1,0 +1,104 @@
+A|What kind of books do you like best?|qw
+B|Well, I alternate between Danielle Steele is one of my very favorites|sd
+B|and, uh, then I try to go into one of the self improvement books.|sd
+B|Uh, we, we take books every once in a while in our Sunday school class and go through them.|sd
+B|Uh, I love Scott Peck and his ROAD LESS TRAVELED.|sd
+A|Huh, yeah,|b
+A|I've heard of that one.|sd
+A|I don't think I've read it.|sd
+B|Oh, it is it is wonderful.|sd
+B|I, I thoroughly enjoyed that.|sd
+B|What do you read?|qw
+A|Well, uh, I'm a Tom Clancy fan.|sd
+B|Okay.|bk
+A|And I read,|sd
+A|I just finished a book on Novelle Netware, uh,|sd
+A|that's computer stuff.|sd
+A|I do a lot of computer reading|sd
+B|Oh, yes.|b
+A|and, uh, I'm just finishing another one up on, uh, statistical sampling,|sd
+A|so, I do more work kind of related reading than, uh, just for enjoyment.|sd
+B|I, I try to keep a book going all the time.|sd
+B|Uh, I try to read when I first wake up in the morning and then before I go to sleep.|sd
+B|So I probably get, oh, thirty to fifty pages a day read.|sd
+A|Well, that's pretty good.|ba
+B|And I just, you know,|%
+B|I don't feel like,|%
+B|in fact this morning, I was almost late for work because I'm almost at the end of this book|sd
+B|and I didn't want to put it down|sd
+A|Oh, I've had them like that before, too.|sd
+B|But I like, I like mysteries.|sd
+A|Mysteries.|b^m
+A|Any particular writer?|qy
+B|Uh, yes,|ny
+B|I like, uh, uh, oh,|sd
+B|I'm drawing a blank.|sd
+B|Uh, he wrote the, uh, BOURNE ULTIMATUM.|sd
+A|Ludwig,|^2
+B|Ludwig, yes.|aa
+A|Yes.|aa
+B|And, uh, I like Jeffrey Archer.|sd
+B|He is an English author who writes some mystery.|sd
+B|Uh, well, I guess they're, they're a type of mystery.|sd
+B|They're usually some|%
+B|he's a ex-lawyer|sd
+B|so, or, he, he's a lawyer who no longer practices,|sd
+B|but his are all, have some part of the law, uh, enveloped in them.|sd
+A|So, you kind of learn something as well as enjoy yourself.|sd
+B|Right,|b
+B|and then, uh, the new author that came out with, uh, oh, the one that, uh, Harrison Ford starred in.|sd
+A|RAIDERS OF THE LOST ARK stuff.|^2
+B|No,|ar
+B|no,|ar
+B|it was the, uh,|sd
+A|Oh.|b
+B|it's late,|sd
+B|I'm tired,|sd
+B|so I'm not thinking too well.|sd
+A|What, what time is it there, ten thirty?|qw
+B|Uh-huh.|b
+A|Uh, it's nine thirty here.|sd
+B|Oh, it's, uh, it was his first book.|sd
+B|It came, it was on the top of the list, uh,|sd
+B|he was a D A.|sd
+A|Uh, PRESUMED INNOCENT?|qy
+B|Yes.|ny
+A|Oh, I haven't seen the movie, uh, or read the book|sd
+B|Okay,|b
+B|and then he's, he came out with the second one.|sd
+B|Uh, a sequel to it.|sd
+B|And both of those I've enjoyed real well.|sd
+B|But I, I like that.|sd
+B|I love Danielle Steele|sd
+B|and, and, you know, if I want to get a fantasy and get away from it all.|sd
+A|Is she is she kind of racy?|qy
+B|No,|nn
+B|no,|nn
+B|she isn't at all.|sd
+A|Just feel good.|^2
+B|Her books, uh,|%
+B|you always cry.|sv
+A|Oh, really?|bh
+B|I mean, it's, it's always good for good tears.|sd
+B|Uh, one book that she wrote that's good for both men and women is FINE THINGS,|sd
+A|my mother-in-law's a real fan of hers.|sd
+B|it's, it's always going to make you have a good cry|sd
+B|and you know it's going it turn out good|sd
+B|and you're going to be happy in the end|sd
+A|Oh, well, that's nice.|ba
+B|And I said, you know,|%
+B|I don't want anything too real anymore.|sd
+B|I have enough of that in my own life.|sd
+B|I want, I want happy, fantasy|sd
+B|like.|%
+A|Yeah.|b
+A|Uh, you mentioned Sunday school Ladonna.|sd
+B|Uh-huh.|b
+A|Uh, do you,|qy
+A|are you a BIBLE fan, too?|qy
+B|Uh, I, I do my share of it.|na
+B|I, I certainly can't say that I understand a lot of it.|sd
+A|Oh, yeah,|b
+A|but, uh, that's always a challenge.|sv
+A|So do you do,|qy
+A|my wife talks with other people,|sd

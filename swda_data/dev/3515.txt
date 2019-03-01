@@ -1,0 +1,117 @@
+B|Well, do you do any recycling?|qy
+A|Uh, we do here.|na
+A|Uh, see, what do we recycle?|t1
+A|We, they recycle,|%
+A|they have bins|sd
+B|Yeah.|b
+A|and they also have centers where you can take aluminum cans and, uh, plastic bottles|sd
+A|and I think that's all they have.|sd
+B|Oh.|bk
+A|What about you guys?|qo
+B|Well, we, uh,|%
+B|there is a lot of things that you can recycle down here, although the only thing I guess I wind up recycling religiously is, uh, aluminum cans.|sd
+A|Uh-huh.|b
+B|But, uh, we've got a, we've got a couple of different things, uh, places, uh,|sd
+B|they're like unattended aluminum can smashers|sd
+B|And you can go up there and, and, uh, redeem,|sd
+B|we've got one that gives you like a penny a can,|sd
+B|so if you,|%
+A|Really?|bh
+B|Yeah|ny
+A|For smashed cans?|qy
+B|Well, actually, you have to give, put them in there unsmashed.|arp_nd
+A|Uh-huh.|b
+B|And, uh, when you do that it, it basically crushes them and then drops a penny down a little shoot.|sd
+A|Oh, can you, can you hold on for just a minute?|ad
+B|Sure.|aa
+A|I'm going to try pressing one again to make sure that I pressed it hard enough because, okay, just succeed|sd
+B|Okay.|b
+B|Okay?|qy
+A|Oh, okay,|na
+A|well, I guess, I guess,|sd
+B|Well, I heard it that, I heard it that time|sd
+A|Yeah|b
+A|Okay,|b
+A|well, anyways, you guys only get a penny a can.|bf
+A|Well, when you buy like, uh, canned drinks and stuff like that, do they charge you for the deposit?|qy
+B|Uh, no,|nn
+B|you probably get charged like a nickel or something like that.|sd
+A|Yeah.|b
+A|Exactly|aa
+A|and so it's like they charge you for the deposit,|bf
+A|so when you turn in the cans unsmashed, you're just, like, reimbursed.|bf
+B|Oh, okay.|b
+A|Type of thing.|bf
+B|Okay,|b
+B|no,|ar
+B|they don't charge us that extra nickel.|sd
+A|That's sort of nice, though|ba
+B|Yeah,|aa
+B|it, it really is.|aa
+B|Really what happens is we just get a penny a can back off the, off the price, if you want to think of it that way.|sd
+A|Uh-huh.|b
+B|So when we get like, uh, uh, a twelve pack, then that's like twelve cents back.|sd
+A|Yeah,|b
+A|so you guys can actually get ahead|qy^d
+B|Yeah|ny
+A|But, uh, they have sort of like, uh, things that you you're not like reimbursed for or paid for.|sd
+A|Like we can recycle, uh, clear glass, brown glass, green glass. Uh, and milk jugs and, uh, newspapers, you know,|sd
+B|Yeah.|b
+A|everyone does newspapers.|sv
+B|Yeah,|aa
+B|yeah,|aa
+B|everybody does newspapers.|aa
+A|But, that, that kind of stuff.|sd
+B|Yeah.|b
+A|But they, they said they can't be smashed or else, uh,|sd
+A|it doesn't fit in their little containers|sd
+A|and they're not reimbursed by the, the people who are over them or something.|sd
+B|Well, shoot, maybe what we ought to do is start sending unsmashed, uh, Pepsi cans and whatever up there|sv
+A|Yeah|b
+A|Exactly,|aa
+A|yeah,|aa
+A|send it to this address,|sv
+A|no|ar
+A|But, uh, let's see,|^h
+A|they said that, how, ways, can encourage recycling, uh,|sd
+B|I, I, I tell you what, what really works, uh, at least down here is, if there is, if there is some, even some money basically to take care of the gas to recycle it, you know what I mean, then people tend to do it. Uh,|sd
+A|Yeah,|b
+A|that's,|%
+B|In other words, taking care of the environment is, is all well and good|sv
+A|Uh-huh.|b
+B|but if it's going to cost you to take care of the environment, they're not quite as, uh likely to do it as if, uh, if you get something back for it. You know.|sv
+A|As likely to do it.|^2
+A|Yeah.|b
+A|Yeah,|aa
+A|that's true.|aa
+B|And, uh, so, you know, if there are some energy savings or if there is some significant savings, anything that they can pass on to the consumer, you know, it kind of reminds me of using an A T M card, you know, to get money or doing your banking.|sv
+A|Uh-huh.|b
+A|Yeah.|b
+B|You know, if it's free, people will use it,|sv
+B|if it costs them something, then they're not as likely to use it.|sv
+A|Yeah,|aa
+A|exactly.|aa
+B|You know.|b
+B|But, uh, I know we had a problem down here with, uh, oil, people taking oil out of their cars and just putting it down the you know, the the drain sewer.|sd
+A|Uh-huh.|b
+A|Yeah.|b
+B|And, uh, all that, because there was,|sd
+B|apparently a lot of people, you know, every time they change the oil,|sd
+B|they just dump all the their old oil down there.|sd
+A|Uh-huh.|b
+B|Now they're starting to recycle that stuff.|sd
+A|Oh, that's good.|ba
+A|Uh, another thing I thought of, I guess, to recycle would be like clothes, because I mean everybody gets rid of their clothes sometime or other.|sv
+A|And one way that we do it sort of in, in Iowa is that we can take some of our clothes to the consignment shops.|sv
+B|Yeah.|b
+A|And that way, you know, you don't get near enough as, as much as you bought it for,|sv
+A|but you, you got the use out of it|sv
+A|and what you're going to basically donate to a Goodwill or whatever, anyways, you can get a little bit of money for.|sv
+B|Yeah.|b
+A|And so that's something that I've never,|sd
+B|Yeah.|b
+A|I, we're, we're new to Iowa|sd
+A|so that's something that I hadn't, you know, looked into before.|sd
+A|But that's one way to sort of get money and still recycle, I guess.|sv
+B|Yeah,|aa
+B|I know a lot of places, they, uh, uh,|sd

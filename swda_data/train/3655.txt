@@ -1,0 +1,129 @@
+A|So, uh, what do you think about child care|qo
+B|Oh, well, my, my feelings on it is, uh, I wouldn't take a child to day-care You know?|sd
+A|Right.|b
+B|I mean, I'd, I'd wind up, uh,|%
+B|just a baby-sitter in a home.|sd
+A|Probably find someone,|b
+A|how come you wouldn't take them to a day-care?|qw
+B|Uh,|^h
+A|Just because of the,|qy^d
+B|Well, too many kids and, and I think too many infections and things coming in.|sv
+A|Yeah,|aa
+A|they seem to pass a lot of,|sv
+B|Yeah,|aa
+B|sicknesses and|sv
+B|I don't know,|h
+B|then all the things you hear about them.|sv
+A|Yeah,|aa
+A|you kind of wonder whether or not,|sv
+B|Yeah,|aa
+B|I mean I'm sure there's some good ones,|sv
+B|but I just,|%
+B|I don't think that I would, uh,|%
+A|I took, uh, Cammy to a oh,|sd
+A|it was a preschool day-care type of thing.|sd
+B|Oh, uh-huh.|b
+A|But I kind of, I liked it some ways|sd
+A|and some ways I didn't|sd
+A|Uh, I think the ratio of kids to teacher is really important.|sv
+B|Oh, yeah,|aa
+B|yeah.|aa
+A|And,|%
+B|How was it?|qo
+A|Well, I think they had a, they had two teachers|sd
+A|and I think there were twenty kids,|sd
+A|but I only had her going two days|sd
+A|and most of the other kids were going more days|sd
+A|so that was probably my own fault that she didn't,|sd
+B|Oh.|bk
+B|She went,|b
+A|Oh, you know, one thing I noticed is, uh, uh, just, they were trying to get her to, teach her to write her name,|sd
+A|and, uh, I didn't notice it until this summer when I was working with her that she would bend her wrist all the way, oh, not in a natural form.|sd
+B|Oh, she did?|bh
+A|Yes,|ny
+A|and, uh, I was kind of mad that they had never noticed that and, either pointed it out to me or, or, uh tried to say, look, you're holding your,|sd
+A|she was holding her pencil in the right fingers and stuff.|sd
+A|but she was,|%
+B|Wrapping her arm all the way around.|^2
+A|Yes.|aa
+B|Yeah.|b
+A|And, uh, I hadn't worked with her on writing at all at that point.|sd
+A|She was four, or three,|sd
+A|yeah,|%
+A|she was, uh, it was last year|sd
+A|and, uh, then this summer I got the thing from the school that says things to work with the kids on|sd
+A|and I|%
+A|like I said, I didn't notice it till then. Because I hadn't worked with writing letters or anything and stuff like that.|sd
+B|Oh.|b
+B|Uh-huh.|b
+B|Well, they'd never picked it out, though?|qy
+A|No.|nn
+B|Huh.|b
+A|They never,|sd
+B|Or just never said anything.|qrr
+A|Course, like I said, I took her two days a week|sd
+A|and maybe that was,|sd
+A|my main reason for taking her was, uh, just social skills more than anything else.|sd
+B|Yeah.|b
+B|Yeah.|b
+A|I felt she needed the|sd
+A|just, I didn't feel like she was mature enough socially|sd
+B|Yeah.|b
+A|and, uh,|%
+B|Well, one thing that's kind of different, too, though, a preschool than, than taking a, a infant or to at a day-care where they're taken care of.|sv
+A|Uh-huh.|b
+A|Oh, yeah.|b
+A|I think it would be hard to take them to people you don't know.|sv
+A|Preschool's a different thing,|sv
+A|but I think it's hard to take kids to somebody you don't know and, or unless you have awfully good references. Reliable, uh, people,|sv
+B|Yeah,|aa
+B|yeah.|aa
+A|I don't know,|h
+A|it's so hard to take young kids anywhere for very long.|sv
+B|Well, I think it's hard to leave them,|sv
+B|it is.|sv
+A|It is.|aa
+A|The older ones it's not,|sv
+A|you don't even really have any real worries, because you know that they'll play with whoever's there|sv
+A|and they usually adapt pretty well.|sv
+B|Yeah.|b
+A|But, uh,|%
+B|Yeah,|b
+B|it, it is, I think, just hard to leave them because nobody will give them the kind of care their own families will.|sv
+A|Well, and you know their, kind of their schedules|sv
+A|and you know if they're upset and that type of a deal.|sv
+B|Yeah,|aa
+B|yeah.|aa
+A|I don't know how, uh, people, uh, that have young kids working work full time and, and do it, really, without being stressed out all the time.|sv
+A|I think it's, well,|%
+A|I don't know,|h
+A|then, then on the other hand I think it's harder to stay home in some regards.|sv
+A|It's hard to always keep yourself feeling like you're doing something productive,|sv
+A|and at the end of the day your house still feels like it's a mess,|sv
+A|and you haven't got anything done|sv
+A|and|%
+B|Oh, yeah.|b
+A|what am I going to fix for supper|^q
+B|Oh, yeah,|aa
+B|it is|aa
+A|Yeah,|b
+A|it's kind of hard to always feel gosh,|sv
+A|what,|%
+A|is this important what I'm doing|^q
+A|and|%
+B|Yeah,|aa
+B|well, uh, the work never ends.|sv
+A|No.|aa
+B|That's for sure.|sv
+A|No,|aa
+A|it, It doesn't.|aa
+B|So,|%
+B|Huh.|b
+A|But, I think for taking kids to a, probably people that take them to, uh, preschools and day-cares full time, oh,|sv
+A|they would, I don't know, probably just feel a different, uh,|sv
+A|I think, I just think it would be hard to do that full time.|sv
+A|I feel such a responsibility, even when we go out for a few hours that,|sd
+A|are they driving the baby-sitter crazy|^q
+A|and you know,|%
+B|Uh-huh,|aa
+B|or is everything okay.|sv

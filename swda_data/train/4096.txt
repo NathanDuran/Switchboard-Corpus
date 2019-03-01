@@ -1,0 +1,80 @@
+A|Hello Ann.|fp
+B|Hello Chuck.|fp
+A|Uh, the other day, I attended a conference here at Utah State University on recycling|sd
+B|Uh-huh.|b
+A|and, uh, I was kind of interested to hear cause they had some people from the E P A and lots of different places|sd
+B|Uh-huh.|b
+A|and, uh, they had basically decided that there is going to be a real problem here within a few years on solid waste.|sd
+B|Uh, I didn't think that was a new revelation.|sv
+A|Well, it's not too new.|aa
+B|Right.|b
+B|So, what what is the E P A recommending now?|qw
+A|Oh, they really didn't propose any solutions.|sd
+A|Actually, they were, the guy was pretty negative about the things that the government was doing even though he was from the E P A.|sv
+B|Uh-huh.|b
+A|But, he had a lot of, uh, facts to, to give and, uh, things like how many solid waste plants were being shut down|sd
+A|and, and, uh, one of the most interesting things that he was talking about was recycling of, of news print.|sv
+A|He was talking about, uh, the City of New York and how they went and collected all this news print|sd
+B|Yeah.|b
+A|and they could sell it for a while.|sd
+A|They were able to sell it for some amount per ton|sd
+A|and now at this stage of the game where they have gotten into recycling, they've collected so much news print that they have to pay to have it hauled away.|sd
+B|Right.|b
+B|That's a, that's a common problem though.|sv
+B|That it seems, that has happened in Dallas as well as New York|sd
+B|and I try to recycle all of the newspapers that come to my house|sd
+B|and after a while I just quit taking the newspaper because I couldn't recycle it anymore which isn't good for business on the other end either, I suppose.|sd
+A|Yeah.|b
+A|We're doing some here in, in Cash Valley, the community here.|sd
+B|Uh-huh.|b
+A|There's, uh, we've actually got a kind of a nice set up.|sv
+A|We've got a couple of plants here that actually take, uh, recycled paper and shred it and spray it with chemical treatment so that it's not a fire hazard and make it into insulation|sd
+B|Right.|b
+A|and they can actually use as much recycled paper as the community can get to them. Because they are actually buying it and shipping it in from outside.|sd
+B|Well, that's good.|ba
+A|So one of the real keys, it sounds like, to getting recycling for, uh, paper or something like that to go is to get some sort of business to actually want it once you have collected it.|sv
+B|Right.|aa
+B|There has to be, uh, a reuse for it.|sv
+B|I mean, that's why they recycle.|sd
+B|The one I think is the most interesting is with the recycled bottles and all that, uh, the industry seems to be doing with the recycled polymers. Uh, everything from, uh, waste baskets to carpet to the no stick, I mean the sticky slide rugs under the carpet|sv
+A|Uh-huh.|b
+B|and, uh, I think they are even putting it in the roadways these days|sv
+B|and they're making clothes now that are recycled.|sd
+B|Like the recycled plastic coke bottles and and milk cartons and things like that.|sd
+A|And there was a paper presented at this conference from a guy from Alabama|sd
+A|and he was kind of hired to do a study by two departments for the government.|sd
+A|One was like, environmental protection|sd
+A|and the other one was, oh, I can't remember what,|sd
+A|but the basic idea, it was presented to him was how can we maximize the amount of energy that we can get back from recycling and minimize the volume of stuff that we are putting into our landfill|sd
+B|Uh-huh.|b
+A|and, uh, the solution that he came up with for plastics, and it was really quite amazing,|sv
+A|he says, well the best thing to do with plastics is to burn them.|sd
+B|Oh really.|b
+A|He came to the conclusion, plastics is actually one of the biggest problems in landfills cause it's, it's low weight, but it's high volume so it takes up a lot of space|sd
+B|Right.|b
+A|and there's almost no energy, there's very little energy value in actually doing a lot of the recycling,|sd
+A|but there is a lot of energy in it if you can burn it and use it, produce electricity.|sd
+B|Huh.|%
+A|So his solution was to burn plastic. Collect it and burn it.|sd
+B|Well, it's carbon|sd
+B|so that makes sense,|sv
+B|like a carbon fuel of some sort,|sd
+B|but what  what  about emissions?|qw
+A|Yeah.|b
+A|And it's more than even paper or something like that.|sd
+A|There is more energy in it per pound or  whatever.|sd
+A|Well that was he didn't deal with that.|sd
+B|Oh.|b
+A|He just said burn it.|sd
+B|Okay|b
+A|He didn't talk about cleaning it up or anything like that.|sd
+A|So it's not very practical|sv
+B|No.|aa
+B|Well it's interesting.|sv
+B|I bet that was a good day, at the yeah, conference then.|sv
+A|Yeah,|aa
+A|well, real interesting.|sv
+B|Did it change anything for you?|qy
+A|Uh, not too much.|ng
+A|Uh, I got a bit.|sd
+A|Actually,|%

@@ -1,0 +1,154 @@
+A|Night,|fo_o_fw_"_by_bc
+B|Fine,|fp
+B|thank you.|ft
+A|I understand we're supposed to talk about spaceflight.|sd
+B|Yes.|aa
+A|I hope you know more about it than I do.|sd
+B|Oh, well I just got through renting, reading, uh, SPACE by, uh, James Michener.|sd
+A|Oh, is that right?|qy
+B|And so that, uh, helped out a little bit I think.|sv
+A|I haven't read his book.|sd
+A|I was so upset with TEXAS that I haven't gotten into any more of his books because I thought it was just horrible.|sv
+B|Well, he tends to go into a lot of detail sometimes.|aa
+A|Well,|h
+A|and I don't think he was truthful in a lot of what he did in TEXAS|sv
+A|so I wasn't sure how credible he was.|sv
+B|Oh, is that right?|qy
+A|But anyway, what do you think we've gained from the spaceflights?|qo
+B|Well uh, I'm not sure to be honest with you,|^h
+B|so, uh, this going to the moon seemed to be a exciting adventure|sv
+B|and, uh, And, yeah,|%
+A|Ego trip.|sv
+B|it was nice to go there,|sv
+B|but I don't know that it really benefitted mankind that much.|sv
+A|Uh-huh.|b
+B|I happen to live not too far away from,|sd
+B|uh, well, I've actually worked for the company that, uh, has been blamed for the Challenger disaster. Uh Morton Thiakol.|sd
+A|Oh, is that right?|qy
+A|Uh-huh.|b
+B|And, uh, you know, that's been kind of a, a real negative feeling here|sd
+B|is|sd
+A|Right.|b
+B|sure it was, you know, very unfortunate thing that occurred there|sv
+B|and it's,|%
+A|Where do you live?|qw
+B|Uh, we live in, uh, Utah.|sd
+A|You live in|bk
+A|am I talking to Utah right now?|qy
+B|Uh-huh.|ny
+A|Oh, oh, great.|ba
+B|Yeah.|b
+A|Because I'm in Dallas.|sd
+B|Uh,|b
+B|Oh.|b
+B|I have a sister that lives in Dallas,|sd
+B|that's how we got hooked up to the program was her her husband works for Penney's there.|sd
+A|I see.|b
+A|I see.|b
+B|So.|%
+A|Carolyn Rash?|qy^d
+B|Pardon me?|br
+A|Is her name Rash, Carolyn Rash?|qy
+B|No, her name is, uh, my last name is Skidmore.|ng
+A|I see.|b
+B|And her, her husband's name is, his last name is Weight.|sd
+A|I see.|b
+B|And, uh,|%
+A|Well, you probably know a lot about it.|sv
+A|I wasn't sure that they were blaming that space disaster on one company.|sv
+A|I hadn't heard that.|sd
+B|Well, they were.|sd
+B|There was, uh,|%
+B|apparently the specifications for the joints, uh,|sd
+B|they were not to perform in, uh, cold weather|sd
+B|and, uh, apparently there was definitely a, a joint that did not seal,|sd
+B|and, uh, if you've ever seen the size of those, uh, motors that put them into space,|sd
+A|Uh-huh.|b
+B|I mean, they're as long as a football field practically and about twelve foot in diameter|sd
+A|Uh-huh.|b
+B|and, and there is a lot of pressure, lot of thrust to get that much weight up in the air.|sd
+A|Oh, yeah.|b
+B|So it's, this book was interesting, though.|%
+B|I, uh,|sv
+B|talked about how a lot of the problems they have to come, overcome to, uh,|sd
+B|it's a very complex, uh, situation to go into space.|sv
+A|Oh, yeah,|aa
+A|I would think so, too|aa
+B|They would,|%
+B|the thing that he went into quite a bit of detail about how, how much of a problem it is to re-enter the Earth's atmosphere.|sd
+A|You never think about that do you?|qy
+B|Yeah.|ny
+A|I would think it would be harder to get up than it would be getting back down.|sv
+B|Yeah|b
+B|But they have to come in at a, just the right angle.|sd
+B|If you come in at the wrong angle, what happens is they bounce off and go back into space|sd
+A|Uh-huh.|b
+B|and if they come into it at a different angle there is so much friction that it burns them up.|sd
+A|Right.|b
+B|So,|%
+A|Well, I saw one of, some of those early space capsules at Smithsonian.|sd
+A|I'm sure you've seen more of them than I have,|sv
+B|Oh.|b
+A|but you could see the scorch on them, you know,|sd
+B|Uh-huh.|b
+A|they had though piles|%
+B|Yeah.|b
+A|but you could see where they would come off in the, how hot it got because it was still the scorch on them which was quite interesting.|sv
+B|Yeah,|b
+B|I've, I've, I would say I've never, I've never seen an actual capsule.|sd
+A|Well, I,|%
+A|excuse me, go ahead.|ad
+A|Oh, yeah.|b
+B|I've seen more, more of the motors that, that they produced out there.|sd
+A|Uh-huh.|b
+A|Well, these were the ones that John Glenn went up in you know, and the old, old ones.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|The very first ones,|sd
+A|the little bell type things.|sd
+B|People have commented how, uh, they were surprised at how small they were.|sd
+A|Yeah,|aa
+A|they really were,|sd
+A|they just, uh,|%
+B|Looked pretty confining, huh.|qy^d
+A|Oh, yeah,|ny
+A|and, uh, the whole thing was small|sd
+A|and, yeah, you, I mean, you actually put it on you know.|sv
+B|Is that right?|qy
+A|You put it around you pretty much,|na
+A|it was so small.|sd
+B|Huh.|b
+A|Well, I thought there was some medical benefits that we have learned from space,|sv
+A|but did he go into that in the book?|qy
+B|Not really. Uh,|ng
+A|I guess that's just to sell us on it.|sv
+B|One thing's,|sd
+B|I know one thing they've, they've mentioned that I didn't get from the book, by the way,|sd
+B|but, it talked about, uh,|sd
+B|they're able to manufacture, uh, different kinds of crystals and ball bearings and things like that in a zero gravity state that they turned out being almost, uh, nearly perfect as far as a ball bearing goes.|sd
+A|Oh, yeah.|b
+B|It's perfectly round.|sd
+A|Uh-huh.|b
+B|But I'm not sure you have to go to outer space to achieve that zero gravity.|sv
+A|Well, that's true|aa
+A|and,|%
+B|Yeah.|b
+A|That's right|aa
+A|Well, do you think we should continue to support it at the level,|qy
+A|well, I thought probably one of the things they were doing that they didn't tell us was spying.|sv
+A|Because I think those satellites, you know, or not satellites, but the spaceflights could really spy|sv
+B|Uh-huh.|b
+A|and with, uh with Russia's demise, I didn't know if we should continue to support it at the current level.|sv
+B|Yes.|aa
+B|Uh, I think they have cut it back, to be honest with you. From, from the glory days when they did the Apollo shots to the moon.|sv
+A|Yeah.|b
+A|Uh.|b
+B|Uh, I appreciate having the satellites.|sd
+B|You know, that's certainly made it nice for other purpose.|sv
+B|I don't know if you have a satellite dish or not.|qy^d
+B|We don't|sd
+A|No,|nn
+A|I don't.|sd
+A|I don't either.|sd
+B|but I I know that's certainly helped a lot in that regard. Uh,|sv
+A|Yeah.|b

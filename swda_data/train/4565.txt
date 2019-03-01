@@ -1,0 +1,110 @@
+A|I,|%
+A|you know, actually in this modern day and age, it seems like, uh, uh, we have more and more leisure time because, uh, we have so many convenience, appliances and whatnot.|sv
+A|We don't even have to cook dinner anymore.|sv
+B|Yes.|aa
+B|Yeah,|aa
+B|really.|aa
+A|Uh,  but I, uh, I've heard, I don't know this for a fact, but I've heard that a lot of families really don't spend a great deal of time together.|sd
+A|That the kids maybe on the average get, uh, something like thirty seconds of quality time with the parents.|sv
+B|That's what I've heard too. Uh,|sd
+A|It seems bizarre to me.|sv
+A|I don't quite understand it, although I think probably the, the worst thing that's happening in the world, at least the modern world today, is television.|sv
+B|Yeah.|b
+A|Not so much because, uh, it's bad per se, although there is some pretty crappy programming|sv
+A|and I there's also some, uh, I think, uh, poorer lifestyles illustrated but simply because it dominates so much discussionary time.|sv
+B|Right.|b
+A|It's so darned easy to turn the thing on.|sv
+B|I know it.|aa
+B|I've, I tell myself sometimes, just sit down after  work,|sd
+A|So  I refuse to have one in the house.|sd
+B|Oh really?|bh
+A|Yeah.|ny
+B|Well good for you.|ba
+B|Good for you.|ba
+B|A lot of people, I talk to a lot of people about that|sd
+B|and I've thought about it myself|sd
+B|and I though about it a lot|sd
+A|Uh-huh.|b
+B|But, uh, I still haven't done it yet.|sd
+B|Well that's good.|ba
+A|Well I'll tell you.|^h
+A|Television sure makes child rearing easy on you.|sv
+A|I mean the kids can be a real pest, uh,|sv
+A|and turning the T V on is almost like magic, you know,|sv
+A|it's like sticking, uh, an electrode into their pleasure center|sv
+A|and you don't have to worry about them.|sv
+B|That's true|aa
+B|I've noticed that.|sd
+A|But  I don't think it's too good.|sv
+B|I don't think so either.|aa
+A|Uh, so,  you know, I don't know,|h
+A|I take advantage,|%
+A|I don't have a great deal of time to spend with the kids,|sd
+A|but I take advantage of, um, dinner time.|sd
+A|We always eat together|sd
+A|and, you know, whenever you're with your kids, you want to interact with them rather than just ignore them.|sv
+B|Do you keep your kids, uh, active in sports or anything|qy
+B|or,|%
+A|Uh, I guess our big outlet is music. Uh|sd
+B|Oh, okay.|bk
+A|our thirteen year old son plays violin|sd
+A|and our, nine year old daughter plays cello|sd
+B|Okay.|bk
+A|and, uh, when our son started playing violin, I took up violin|sd
+A|and when our daughter started playing cello, I took up cello.|sd
+A|So there's plenty of, plenty of interactive time in, uh, practicing. Although neither kid likes to practice.|sd
+A|I guess that's not a big surprise.|sv
+B|No.|aa
+B|Not for kids|sv
+A|But I I imagine with infants you are, most of your time is sort of spent taking care of them rather than interacting with them.  Although,|sv
+B|Yeah.|aa
+B|Well  I, I try and read to them|sd
+B|and I take them to the park and stuff|sd
+A|Oh, you know, reading is so good.|sv
+A|I, uh, I took great pleasure in reading to my kids when they were little|sd
+A|and I still try to read to them, although our son is not liking that anymore.|sd
+B|Yeah.|b
+B|Well, they get to that stage.|sv
+A|Uh, but I read,  you know|%
+A|there's this DOCTOR SEUSS sleep book.|sd
+A|Have you ever seen that yet?|qy
+B|Sleep book,|^h
+B|no.|nn
+A|Yeah,|b
+A|it's called a sleep book|sd
+A|and, uh, you ought to get it.|ad
+A|I tell you I read that book to my kids so many times I almost have the thing memorized.|sd
+A|Uh,|b
+B|We've got quite a few of DOCTOR SEUSS' books.|sd
+A|Yeah.|b
+A|Well, I think, I think his sleep book is my favorite.|sd
+B|Oh, really?|bh
+A|Uh-huh.|ny
+B|Well, yeah|b
+B|I like to, I like to do it|sd
+B|and they enjoy reading.|sd
+B|I've, actually I never read a lot growing up|sd
+B|and I never read until a few years ago|sd
+B|I just started picking up books|sd
+B|and so I've found that, you know, it's really important to me to get to read.|sd
+B|To, I like to get away in a book, you know?|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+B|And so I've put a lot more emphasis on that, on my kids  to try and,|sd
+A|Uh-huh.|b
+A|So how  much time do you think you spend with your kids on the average per each day?|qw
+B|Oh, I probably spend an hour or two.|sd
+A|Oh that's great.|ba
+B|My wife works at night,|sd
+B|so she does, uh, Tupperware,|sd
+B|so she's gone a lot at nights|sd
+B|and  so  I spend a lot of time with them|sd
+A|Oh, I see.|b
+A|how old are your kids again?|qw
+B|They're two and one.|sd
+A|Two and one.|b^m
+B|Uh-huh.|b
+A|Yeah,|b
+A|so you have your hands full with them,|sv
+A|that's for sure|sv
+B|Yeah|aa

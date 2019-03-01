@@ -131,7 +131,7 @@ def append_dialogue_to_file(path, dialogue, utterance_only):
             if utterance_only:
                 file.write(utterance.text.strip() + "\n")
             else:
-                file.write(utterance.speaker + "|" + utterance.text.strip()+ "|" + utterance.da_label + "\n")
+                file.write(utterance.speaker + "|" + utterance.text.strip() + "|" + utterance.da_label + "\n")
 
 
 def write_dialogue_to_file(path, dialogue, utterance_only):

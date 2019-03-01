@@ -1,0 +1,104 @@
+A|The question was on lawn and garden work.|sd
+A|Um, how do you like it?|qo
+B|Well, I don't do much of it here.|arp_nd
+B|I'm from, uh, from, uh, Colorado originally|sd
+B|and there are no bugs there.|sd
+B|And I didn't mind getting in the dirt there,|sd
+B|but, boy, I'll tell you what,|fo_o_fw_"_by_bc
+B|once I see these bugs around here, I'm just kind of out of it.|sd
+A|Oh, what kind do you have?|qw
+B|Oh, roaches and,|sd
+A|Do they really?|bh
+B|Oh, yes.|ny
+B|Cockroaches are awful here.|sd
+A|Oh.|bk
+B|Just awful.|sd
+B|So I,|%
+A|Oh, and I know somebody that lives there,|sd
+A|and they never mentioned that problem|sd
+B|Oh, you're kidding, you're kidding.|bh
+B|No,|%
+B|it's a|%
+B|well, maybe they didn't mention it because it's just kind of a fact of life around here.|sv
+B|And, uh,|%
+A|Oh, my.|ba
+A|They probably just take it for granted then.|sv
+B|It must be.|aa
+B|If they lived here, a lot of people I know just say, oh, I just stomp on them.|sd
+B|It doesn't matter.|^q
+B|They make good fertilizer in the garden.|^q
+A|Oh, yuck|ba
+B|Me, personally can't,|sd
+A|I don't have that problem, uh,|sd
+A|it's,|%
+A|mine is mainly|sd
+A|we kind of have an understanding that, uh, I, I said I'll do inside work you do outside work.|sd
+B|Uh-huh.|b
+A|And so I get into the gardening part of it, the fun part, like putting in the annuals and things like that.|sv
+B|Uh-huh|b
+A|But I don't like, I don't like it dirty|sd
+B|No|aa
+B|I have to, you know I have to say that's not exactly my favorite thing either really|sd
+A|No,|b
+A|I don't know.|h
+A|We got the, we got the question|sd
+A|and I thought, oh, this is going to be interesting.|sd
+A|Two bits I'll get a man to talk to me, because they get stuck doing it all.|^q
+A|But although I do know a lot of my friends do like all the gardening work.|sd
+A|And this year we put in a new lawn in a new home|sd
+A|so, um, we've been fighting a drought here this summer and getting into fall.|sd
+B|Huh.|b
+A|Today we just had a lot of rain|sd
+B|Oh, really?|bh
+A|Yeah,|ny
+A|so it's kind of nice.|sd
+A|I don't know how yours has been.|qw^d
+B|Well, it's been real hot here lately.|sd
+B|I mean we've had to actually have the air-conditioning on and everything|sd
+B|but, uh,|%
+B|it's supposed to rain again now, uh, this weekend.|sd
+A|Oh, I see.|bk
+B|So, then,|%
+A|Okay.|bk
+A|Well, we're leaving tomorrow|sd
+A|and we're going down to New Orleans|sd
+A|and from Ohio since we're right near Lake Erie|sd
+A|this is going to be a switch for us for a week going down there,|sd
+B|Yeah.|b
+A|and I think we'll probably experience some of your weather although I think they have more humidity.|sd
+A|But, um, as far as the gardening and things like that goes I don't know, uh, too much, too much about, uh, how much I really do enjoy it myself.|sd
+B|Yeah.|b
+A|Do you like it at all?|qy
+B|I, well, not here.|ng
+B|I mean it's just, here|sd
+B|I just can't stand to even get out in the, uh, in the dirt|sd
+B|Just,|%
+A|Well, how about when you were in Colorado?|qo
+B|Well, I liked it a little bit|sd
+B|but I didn't, uh,|%
+B|I was working at that time full-time and didn't have a lot of time, for that|sd
+A|Uh-huh.|b
+B|and so that I think really, um, hampered it a little bit.|sd
+A|Well, and then, too, now like where we had the dry summer and we had to sprinkle constantly. My water bill was high.|sd
+A|And, uh, if you have that on a regular basis in Texas, I think I would go with something very dry to keep it off, you know.|ad
+B|Yeah.|aa
+A|But, uh, and with children, um, you probably don't have time anyhow to, to get into it.|qy^d
+B|No.|nn
+B|Not really|sd
+A|It's so, uh, okay, very good.|ba
+B|Uh-huh.|b
+A|I guess we've kind of covered our subject matter, since neither one is really into gardening, are we?|fc
+B|Sounds like|%
+B|No,|fc
+B|no.|fc
+B|Afraid not.|fc
+B|Uh, hopefully they'll give a subject I like one of these times Something I really know a lot about.|fc
+A|Right.|fc
+A|Okay.|fc
+A|Right.|fc
+B|nice talking to you.|fc
+A|Nice talking with you.|fc
+B|Okay,|fc
+B|bye-bye.|fc
+A|Uh-huh,|fc
+A|bye.|fc

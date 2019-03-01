@@ -1,0 +1,115 @@
+A|Well, basically, uh, did you want to go first, then?|ad
+B|Uh, well, I can.|aa
+B|I, I don't own my home.|sd
+A|Okay,|b
+A|right.|b
+B|Uh, I mean I, I live in a nice area|sd
+B|and I rent my home|sd
+B|and uh, we aren't sure we're going to buy a house yet because we don't know if we're going to be staying here. In, uh, Texas,|sd
+A|Uh-huh.|b
+A|Sure,|b
+A|uh-huh.|b
+B|so,|%
+A|Yeah.|b
+A|I think as far as, like, our home, it's, uh, in a small residential area.|sd
+A|We're out of the cities quite a ways,|sd
+A|so it's kind of more of a country setting|sd
+A|and, uh, it's just a typical, uh, three bedroom type of home.|sd
+A|It's, it's nothing, you know, elaborate where it has, uh, this or this or, you know.|sd
+A|It's, it's just a typical home with, uh, three bedrooms, uh, two story type home.|sd
+B|Uh-huh.|b
+A|Uh, and I think as far as if it's, for put it into standards of, uh, what other homes are around here, it would be just about fitting right into the middle part of where the homes are.|sd
+A|Uh, there's a river across from us which has more elaborate homes|sd
+A|and yet there's,|%
+A|where we can view the river from that distance, there's still homes within our area that are, you know, pretty typical of what our home is,|sd
+A|so it's, uh, pretty much that, uh, type of, uh, home|sd
+B|Uh-huh|b
+A|so,|%
+B|Yeah.|b
+B|Well, our our house, we, we're renting it from an individual who bought it|sd
+B|and he lives in Korea.|sd
+A|oh, really?|bh
+B|And, uh, he's recently moved here|sd
+B|and he's owns eight or nine properties uh, near here|sd
+A|Sure.|b
+A|Uh-huh.|b
+B|and, uh, so, Which is just, uh, in trouble to me.|%
+A|Yeah.|b
+A|Oh, yeah,|b
+A|yeah.|b
+A|Yeah.|b
+B|And they're not very expensive either.|sd
+B|It just seems like,|sd
+B|we have a three bedroom house.|sd
+B|Ours is one level only.|sd
+A|Uh-huh.|b
+B|Uh, but we,|%
+A|So it's the rambler style.|qy^d
+B|Yeah,|ny
+B|we have two, two living areas and a dining room and a big kitchen|sd
+A|Uh-huh.|b
+A|Yeah,|b
+A|yeah.|b
+B|So,|%
+A|It's kind of like what ours is.|sd
+A|Uh, one of our bedrooms is really small|sd
+A|and we've made that into a den because we only have one child,|sd
+A|so that was our best way of going with, uh, the small bedrooms because they are making bedrooms smaller and smaller.|sd
+A|It seems like they get incredibly small|sv
+B|Yeah.|b
+A|Uh, but, uh, anyway, but, okay.|%
+A|So that sounds great,|sv
+A|and, uh, I don't know if we need to talk any more or whatever.|sd
+B|Have you have you done this before?|qy
+A|The T I?|qy
+B|Uh-huh.|ny
+A|Uh, yes,|ny
+A|uh, about three times before.|sd
+B|Oh, have you?|bh
+A|I'm fairly new to it,|sd
+A|but it seems to be going okay.|sd
+B|Yeah.|b
+B|Are you in Texas?|qy
+A|No,|nn
+A|huh-uh.|nn
+B|No,|b^m
+B|yeah,|b
+A|No,|nn
+A|I'm out of state.|sd
+A|I'm in Wisconsin,|sd
+A|so,|%
+B|Oh, really?|bh
+A|Yeah,|ny
+A|yeah.|ny
+B|Oh.|b
+A|So it's,|%
+B|Sounds interesting.|ba
+A|Uh, other than that, sure, yeah.|fo_o_fw_"_by_bc
+A|Is this your first time?|qy
+B|No,|nn
+B|huh-uh.|nn
+B|I've, well, I've gotten several calls.|sd
+A|Uh-huh.|b
+B|Uh, but, uh, Yeah.|%
+A|I'm always the one that initiates the calls because I kind of like it because it's like I can get it done with|sd
+A|I don't have to wait until somebody calls me even though I have a feeling what's going to happen is I'll probably get tons of calls, you know, so, sooner or later.|sd
+B|Yeah,|b
+B|yeah,|b
+B|well, they've, I've talked to some people from Cleveland|sd
+B|and I did talk to someone else who lives here in the same city I do,|sd
+A|Uh-huh.|b
+B|so that was kind of interesting|sd
+A|Yeah,|b
+A|yeah.|b
+A|Yeah,|b
+A|sure.|b
+B|They're, they're sure getting their people out,|sv
+B|so, well it was nice to talk to you, anyway|fc
+A|Yeah.|fc
+B|and,|fc
+A|Okay,|fc
+A|well, you take it easy, Gail.|fc
+B|Okay,|fc
+B|thanks.|fc
+A|Bye, now.|fc
+B|Bye-bye.|fc

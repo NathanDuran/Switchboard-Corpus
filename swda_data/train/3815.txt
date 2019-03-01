@@ -1,0 +1,116 @@
+A|Well, are you in the market for a new car?|qy
+B|Uh, well, yeah,|ny
+B|I am as a matter of fact.|sd
+B|Well, actually I'm looking for another car,|sd
+B|but, uh, uh, new,|sd
+B|probably not.|%
+A|Oh.|b
+A|What sort of requirements to you have for your car?|qw
+B|Uh, sports car.|sd
+A|Uh-huh.|b
+B|Uh, usually either black or red.|sd
+A|Uh-huh.|b
+B|And electric windows, and power locks|sd
+A|I see|ba
+B|Now,|%
+A|Top of, top of the line.|qy^d
+B|Well, not so much that as it is,|ng
+B|I've had so many times when, uh, uh, you know, I'll have a friend next to me or I see somebody, uh, guy broken down on the side of the road and try to lean over and roll down the window.|sd
+A|Oh.|b
+B|It is just a real pain,|sd
+B|or, you know, if I'm driving along and there's somebody next to me and, uh, somebody that I know and you try to talk to them it's real difficult to drive, reach over, and try to roll down the window.|sd
+A|Uh-huh.|b
+A|Right,|b
+A|right.|b
+B|And, uh, so, power locks, power windows are just, just things that, uh, just really help a lot|sv
+A|Uh-huh,|b
+A|uh-huh.|b
+B|What about you?|qo
+A|Well, I guess I'm, uh, more traditional in that I don't like power windows or power locks, because the people that I know who have them always seem to have trouble with them.|sd
+B|Oh.|b
+A|And, uh, so I don't, I just don't like anything that I can't figure out why it doesn't work|sd
+B|Sure.|b
+A|And then I want, you know, good, uh, gas mileage|sd
+A|and I want an air bag|sd
+A|and, uh, I guess,|%
+B|Have you ever had a car with an air bag?|qy
+A|No,|nn
+A|I haven't.|sd
+A|Have you?|qy
+B|No.|nn
+A|Somehow I just think, you know, I like the idea|sd
+B|Well, it, it sure seems to save lives|sd
+B|and|%
+A|Right.|b
+B|uh, yeah.|b
+B|I, actually, I like the anti-lock brakes.|sd
+A|Right,|aa
+A|that's a good idea.|sv
+B|And I have never had a chance to,|sd
+B|I have been in cars that have had them,|sd
+B|but I've never tromped on the brakes to see, uh, you know, on ice or water just to see if they didn't lock up.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+B|But, uh, you think you'd buy, uh, an American car or a European or Japanese?|qy
+A|Well, I, actually I don't know a lot about different brands.|sd
+A|I tend to have, you know, my requirements like the last time I bought a car I, I guess I did sort of prefer American|sd
+A|and my requirements were basically, you know, good repair record, good mileage, uh,|sd
+A|and I needed air-conditioning|sd
+A|and, uh, can't remember what my, oh,|sd
+A|I wanted uh, stick shift. And, so I didn't have a whole lot of choice|sd
+A|There was one car in all of the, the metropolitan area that I could find that, you know, was sort of a medium priced car with a stick shift in it.|sd
+B|What was that?|qw
+A|It, it turned out to be a, a Chrysler. Uh Lancer.|sd
+B|Huh,|b
+B|stick shift,|b^m
+B|huh?|^g
+A|Yeah.|ny
+B|Did it have, what, a three speed or a four speed?|qy
+A|No,|nn
+A|a five speed.|sd
+A|And it, basically, it was something that a military guy had ordered and hadn't picked up,|sd
+A|and so it had been on the lot three months|sd
+A|and they were really eager to sell it.|sd
+B|Wow.|ba
+A|So, I guess in this area, at least, you know, if it's not automatic, it doesn't move.|sv
+B|Well, actually, I much prefer a stick shift|sd
+B|and, what, I'm, I'm curious.|%
+B|I, I know why I love a stick shift.|sd
+B|Why why did you want one?|qw
+A|Well, I just wanted it because, again, I had, I guess traditionally always had a car that had one|sd
+A|and I thought it would be more reliable.|sv
+B|Uh-huh.|b
+A|Uh,|b
+B|It's hard to find stick shift cars anymore.|sv
+A|I found that out.|aa
+A|I mean, you know, the people would just sort of look at me like, you must be crazy when I, went in to, and asked and that was a requirement|sd
+A|so,|%
+B|Huh,|b
+B|yeah.|%
+A|So,|%
+B|No,|nn
+B|I mean most of the sports cars are stick shift.|sd
+A|Well, I'm not even sure all of them are anymore. At least in this area.|sd
+B|Huh.|b
+A|Not that I was looking for sports cars,|sd
+A|but, now the people I've talked to don't seem to have stick shift.|sd
+B|Huh.|b
+A|And so why do you like stick shift?|qw
+B|Uh, I guess I, I grew up on it and it's fun.|sd
+B|It's, it's an enjoyable part of driving.|sd
+B|I do feel like I have, uh, more control over the car|sd
+A|Uh-huh.|b
+B|and it, it, to me, it gives me more, a lot more control in snow and ice and slick conditions.|sd
+A|Uh-huh.|b
+A|Right.|b
+B|Uh, it, it does, uh,|%
+B|I don't know,|h
+B|it, it's really more fun than anything|sd
+B|else. As long as you're not stuck in heavy traffic, it's fun|sv
+A|Right,|b
+A|and actually it's probably safer on, you know, at long trips because it keeps you more active.|sv
+B|Yeah,|b
+B|yeah|b
+A|So,|%
+B|Yeah,|b
+B|uh, of course, I like gadgets and, and, uh, fun things, on the cars, which are all the things, course, the|sd

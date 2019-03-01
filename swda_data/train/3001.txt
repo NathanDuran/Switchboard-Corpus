@@ -1,0 +1,178 @@
+A|Okay.|fo_o_fw_"_by_bc
+B|Are you a T I|qy
+A|No.|nn
+B|No.|b^m
+B|Is somebody in your family a T I|qy
+A|No,|nn
+A|and that's how he got it.|sd
+B|Oh, okay,|bk
+B|so who do you work for?|qw
+A|I just graduated from college.|sd
+B|So you don't have any benefits at all to talk about.|sv
+A|No.|aa
+B|You're just going to have to imagine what you would like as benefits|ad
+A|Or, what I'm looking for.|^2
+B|Oh, okay,|bk
+B|okay|b
+B|Well in, in interviewing have you ever discussed benefits with some of the potential employers?|qy
+A|No,|nn
+A|huh-uh.|nn
+B|Didn't get that far.|qy^d
+A|No.|nn
+B|you normally just try to sell them on your, uh, aptitude and not, you know, well how much vacation do I get|sv
+B|Oh well.|fo_o_fw_"_by_bc
+A|Um.|%
+B|Well  I'll tell you a little bit about what T I has as benefits.|sd
+B|We do have, uh,|sd
+B|like most companies, we have medical insurance.|sd
+B|Although they're tending to try to really cut costs more and more. Um, what they started with a few years ago is that they only would allow you to go to, um, set hospitals in the area.|sd
+B|They call it network hospitals.|sd
+B|They're|sd
+A|Oh, yeah,|b
+A|I've heard of that.|sd
+B|Yeah,|b
+B|they're hospitals that they're, uh,  agreeing with, uh, T I that they'll be a certain rate, you know, for rooms and care and all that kind of stuff to keep you know, costs down.|sd
+A|Uh-huh.|b
+B|Now they're going to start to do the same kind of thing with doctors.|sd
+B|So it's almost like a, um, uh, an H M O you know, kind of thing that, uh, only certain doctors are you going to be allowed to go to and get the full coverage.|sd
+A|Yeah.|b
+B|If you go to a doctor who isn't in the network then it will be less benefits that you get.|sd
+A|Uh-huh.|b
+B|We have some dental coverage now, um,|sd
+B|but you have to pay a little more to really get something worthwhile.|sd
+B|Like, I've had a couple of crowns recently|sd
+B|and if you didn't have the extra dental plus, um, you only get like a third of your cost, which can be kind of expensive with a crown.|sd
+A|Yeah|b
+A|it can .|ba
+B|So, I, I  pay,|%
+B|yeah,|%
+B|I pay for the extra dental plus, so much more per month because it always seems like if you're going to have a crown or something major done it pays a little more.|sd
+A|Uh-huh.|b
+B|Um, we do have pension, although I've realized recently that the pension doesn't seem to be too good|sd
+B|and I know when you first start out working you're not thinking about that|sd
+A|Oh, I like to think about that.|ad
+B|After you've been working for a while and you look at your pension account and you go, is that all that's in there.|sv
+B|I don't think's it's going to pay too long when I get out.|sd
+B|Um, we do have a new thing that they've started a few years ago, um,|sd
+B|it's not an I R A,|sd
+B|it's called a four oh one K plan.|sd
+B|It's kind of like pension.|sd
+B|You put in so much money|sd
+B|and then, T I, um, meets you half way up to a certain maximum.|sd
+B|So like I put in a dollar, they put in fifty cents.|sd
+A|Uh-huh.|b
+B|So, that grows pretty good|sd
+B|and I think that will be more of something I can see of a pension than the regular pension plan.|sd
+A|Uh-huh.|b
+B|Of  course you can buy stock in the company,|sd
+B|but, you know, that's not always a real, for sure kind of thing.|sv
+A|Not always safe|^2
+B|Yeah,|aa
+B|especially with this one, you know, it kind of goes up and down.|sv
+B|I don't know if it's any different than other companies,|sd
+B|but you hate to have it fluctuate|sv
+B|and like, you know, last year it was forty dollars a share|sd
+B|and now this year it's thirty six dollars a share,|sd
+B|and you go, gee, I'm losing money|sd
+B|Doesn't quite feel as good.|sv
+A|Yeah.|b
+B|And we you know, vacation normally after you're here for six months|sd
+B|and you start to get like five days every six months is kind of how they accrue it to you.|sd
+B|And it's, one nice thing about T I is after you've been here, uh, for five years,  you  get three weeks.|sd
+A|Uh-huh.|b
+A|Oh, that's nice.|ba
+B|Which, a lot of places make you work like ten years or so,  before  you get that much.|sv
+A|Yeah.|b
+A|Uh-huh.|b
+B|And we get some, we get, uh, decent holidays.|sd
+B|Um, at Thanksgiving we always get the two days off which is nice, to make a nice long weekend.|sd
+B|And at Christmas we always get two days at Christmas.|sd
+B|They float it around depending on which day of the week Christmas falls on.|sd
+A|Uh-huh.|b
+B|So that's nice, so you always get two days at Christmas.|sd
+B|A lot of people just take, you know, that week,|sd
+B|I normally take that week somehow, you know.|sd
+A|Yeah.|b
+B|You only have to take three days of vacation|sd
+B|and you get the whole week at Christmas time.|sd
+A|Yeah,|b
+A|well, um, I can just tell you like, you know,|sd
+A|Well  there's twelve kids in my family.|sd
+B|Whoa, okay!|ba
+A|So the, the dental was very important, you know, to my dad.|sd
+B|Uh-huh.|b
+A|But, um, I think they took the dental away now.|sd
+A|He worked for United Telephone System,|sd
+A|it's, you know,  it's  just another, you know telephone network.|sd
+B|Um.|b
+B|Uh-huh.|b
+A|And  they took the dental away,|sd
+A|but now I think they're going to start getting into eye.|sd
+B|Oh, yeah.|b
+A|Yeah.|b
+B|Yeah,|b
+B|I think, uh, um,|%
+B|I don't use the services|sd
+B|but yeah, I think sometime last year, or just recently they started to give some kind of eye coverage.|sd
+B|You get discounts on, uh, glasses|sd
+B|and I'm not quite sure, there's certain places you can go to that have, uh, discounts for people that work here.|sd
+A|Uh-huh.|b
+B|So you can get glasses and contacts and stuff through those particular stores or something like that.|sd
+A|Yeah,|b
+A|and now for his pension he pretty much just has the stock.  he's on  that same kind of pension as what you said only,  for  everything he puts in they'll match it, up to a certain amount.|sd
+B|Yeah|b
+A|Like if he puts in a dollar they'll put in a dollar, you know.|sd
+B|Yeah.|b
+A|And  then he's only allowed, I think, I don't know if it's maybe five percent, or something like that that he's allowed to put in|sd
+A|and they'll match it.|sd
+B|Uh-huh.|b
+A|So and, um, he works for the,|sd
+A|did you ever hear of the National Bureau of Standards?|qy
+B|Yeah.|ny
+A|Okay,|bk
+A|well he works for them.|sd
+A|They changed their name now|sd
+A|but that's, that's where he works|sd
+A|and, um, he, his vacation is really nice.|sd
+A|He's going to be there three years at the end of this month|sd
+A|and he'll be getting three weeks vacation.|sd
+B|Gee,|b
+B|that's pretty decent.|ba
+A|Yeah,|b
+A|yeah.|b
+A|you know, of course, it's a it's for the government|sd
+A|and he has all, all the holidays off.|sd
+B|Right,|b
+B|and you get some extra ones.|sd
+B|Federal workers always seem to get,|sd
+B|you know, you get Columbus Day, and Veterans Day,  and those ones  that you couldn't really care about so much but you get the day off anyhow.|sd
+A|Right,|b
+A|right|b
+A|Yeah,|b
+A|uh-huh,|b
+A|he has it really nice.|sd
+A|It's nice where he works,|sd
+A|and, um, he seems to be very happy, you know.|sd
+A|Like his hospitalization|sd
+A|and, you know, he has all that|sd
+A|and with his doctors and stuff, they have, um, a list of doctors that the employees can go to|sd
+A|and it only costs a dollar as long as they go to that doctor.|sd
+B|Oh, yeah,|b
+B|okay.|b
+A|You know, and  I think it works the same way with his prescriptions and stuff if he needs any.|sd
+A|But you have to go, you know, to certain ones|sd
+A|but still that works out really nice.|sd
+A|You know, it,|%
+B|Yeah,|b
+B|we're doing an H M O right now, um,|sd
+B|and when we go to get prescriptions it's five dollars,|sd
+B|but,  you know, sometime,  sometimes when you go, you know, the prescription,|sd
+A|That's not bad either.|ba
+B|like my husband always takes which is kind of like, you know, Contact stuff, only better.|sd
+B|Um, you|%
+B|that's like a buck a capsule.|sd
+A|Uh-huh.|b
+B|So if you've got thirty in there it normally comes out to about thirty-four dollars so when you pay five it's a pretty good savings.|sd
+B|Then there's other times that, you know, maybe the prescription wouldn't cost more than like seven or eight dollars|sd
+B|and you pay five anyhow.|sd
+B|So it isn't a,|%

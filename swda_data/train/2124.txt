@@ -1,0 +1,112 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|what do you like to cook?|qw
+B|I like, well I like to cook foods I like to eat.|sd
+B|I like to eat Italian food best.|sd
+A|Uh-huh.|b
+B|And I find that I, that's pretty easy to cook because a lot of it is one dish meals, type things and, they're kind of convenient.|sv
+A|Uh-huh.|b
+A|That would be good for a dinner party, that, you know, to cook that because you don't have to deal with eight different things, coming out at once.|sv
+B|Right.|aa
+A|Is that what you usually cook when you have a party.|qy
+B|Um, I usually have parties that are smaller groups.|arp_nd
+B|I don't have, I've never had a real big dinner party except at traditional holidays like Thanksgiving and such.|sd
+A|Uh-huh.|b
+B|And so, um, yeah,|%
+B|I guess I usually do.|na
+B|I like to cook, um, heavy sauces, and, um, noodles and pasta and such.|sd
+A|Really,|b
+A|that sounds good.|ba
+A|Um, fattening|ba
+B|Yeah,|aa
+B|actually|aa
+B|How about you,|qo
+B|what do you like to, to cook?|qw
+A|Uh, we,|%
+A|it's funny that, um, we're talking about this,|sv
+A|we just had a dinner party|sd
+A|and we had, um,|sd
+A|our senior pastor and his wife came over.|sd
+B|Uh-huh.|b
+A|And I catered to their diet is the only thing, though,|sd
+A|so it wasn't something I really wanted to make.|sd
+A|I really wanted to make red beans and rice and with . you know, sausage,|sd
+B|Oh yeah.|b
+A|because I'm from New Orleans originally.|sd
+B|Uh-huh.|b
+A|And, um, I was going to make that, red beans and rice with the, those Cajun sausage and French bread with garlic butter and stuff,|sd
+A|and, uh, well there's salad|sd
+A|and then for desert I would, I really wanted to make, um, just brownies|sd
+A|or French donuts would have been good,|sd
+A|but it's real hard to make them.|sv
+A|They don't really come out like they do in New Orleans, up here,|sv
+A|I don't know why.|sd
+B|Oh really.|b
+A|I don't know if it's me or the water or the recipe I have|sv
+A|but,|%
+B|Humidity or something.|sv
+A|um, that's what I want.|sv
+A|That's what I like to make is just real neat stuff like that|sd
+A|but.|%
+B|Uh-huh.|b
+A|Kind of like the Italian,|sv
+A|it's really good,|sd
+A|but instead I catered to their diet|sd
+A|so I made baked chicken in the crock pot|sd
+A|and, um, it was good and everything,|sd
+A|it had all the vegetables in it,|sd
+A|but, it seemed kind of boring compared|sv
+B|It kind of, uh, kind of down played compared to what you would like, huh.|sv
+A|Right.|aa
+B|Do you find yourself, um, with all the, um, cholesterol and, and high fiber changing the way that you that you entertain?|qy
+A|I find it changing the way that I eat, but not the way I entertain,|sd
+A|because I guess, I guess I feel like if they're on a diet like that, I'm going to, you know, honor that,|sv
+A|but if it's just|%
+A|another couple came, um, over a couple weeks later|sd
+A|and I made,|sd
+A|what did I make that night.|^h
+A|I made a roast,|sd
+B|Uh-huh.|b
+A|and I made, um, uh,|sd
+A|I can't believe this|sd
+A|my husband broke the coffee pot I just bought yesterday.|sd
+B|Oh no.|ba
+A|I can't believe that.|sd
+A|Anyway, but I asked,|sd
+A|when Ricky and Carrie came over we made, um, a pot roast with rice and gravy and salad and the whole bit.|sd
+B|Uh-huh.|b
+A|And normally I, don't eat, we don't eat like that during the week because of the, you know, the calories and the fat in it.|sd
+B|Uh-huh.|b
+A|But you know, when we're having guests, we just kind of say, oh just do it.|sv
+A|And I made blueberry cobbler|sd
+A|and we had extra crust with it,|sd
+B|Yeah.|b
+A|it was so fattening.|sd
+B|That sounds good.|ba
+A|But, I don't think we gained any weight from it|sv
+A|so.|%
+B|Well, every once in a while I, I think I feel the same way.|sd
+B|When I'm entertaining, I don't take that thing into consideration unless it's really, really,|sd
+B|like a lot of women will turn down dessert if it's too rich simply because they don't want the extra calories,|sv
+B|so I think dessert is the only thing that I kind of down play, sometimes.|sv
+A|Right,|aa
+A|I made an apple pan downy when the pastor and his wife came over|sd
+A|and she didn't eat it.|sd
+B|Oh yeah.|b
+A|But I did bake apples so that it would be, not brownies, you know.|sd
+A|I figured there was less calories in apple pan downy than in fudge brownies.|sd
+B|Yeah,|b
+B|yeah.|b
+A|So, um, I've read a good brownie recipe.|sd
+B|Oh, that's good.|ba
+A|But, uh, anyway, so I guess that's about what I did when I entertained.|sd
+B|Uh-huh.|b
+A|So, do you have anything else you want to say about it?|qy
+B|Um, nothing comes to mind right off,|^h
+B|so I guess not.|nn
+A|Okay,|bk
+A|well it was nice talking to you.|fc
+B|Okay|fc
+B|you too.|fc
+A|Okay,|fc
+A|bye.|fc
+B|Bye, bye.|fc

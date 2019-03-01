@@ -1,0 +1,217 @@
+A|I'm actually at work.|sd
+B|Oh,|b
+A|I'm in facilities and happen to have, uh, weekend duty here.|sd
+B|Oh, okay.|bk
+B|What building do you work in?|qw
+A|I'm in the South Building.|sd
+B|Oh, okay.|bk
+B|Okay.|bk
+A|We, we pull mostly evenings.|sd
+A|We are having,|sd
+A|there's three of us, uh, facilities' managers are covering the off shifts. Just to have somebody here, uh, from management to, uh, see if they need anything.|sd
+B|Oh, okay.|bk
+B|Okay.|bk
+A|Oh, the,|%
+A|how many calls have you made?|qw
+B|I've only made a few.|sd
+A|Okay.|bk
+B|Um,|%
+A|I'm, uh, getting close to twenty.|sd
+A|This is the,|%
+A|yeah, hopefully you have a lot to talk about in this one,|sd
+A|but I don't really have a lot in this one.|sd
+A|Usually I can talk for hours on most of the subjects they pick .|sd
+A|Go ahead, you first|ad
+B|Okay,|aa
+B|our topic for today is invasion of privacy.|sd
+B|So, I got a good one.|sd
+A|Okay,|b
+A|good.|ba
+B|When the phone rings and you've got a recording, and this always happens like around five or six o'clock,  at night.  It rings and you get this recording|sd
+A|Okay, yeah.|b
+B|and then it won't go away|sd
+B|and any, any of the type of solicitation that, where they call all the time, you know.|sd
+B|There are evenings especially Friday nights, Thursday and Friday nights.|sd
+B|Well, we must get in the neighborhood of anywhere from three to six calls about that time of night.|sd
+B|More people call, that's where you want to jerk the phone out of the wall, you know, your sitting down to eat and the phone rings|sd
+B|and,  it's  like, I don't want anything, thank you very much|sd
+A|Right.|aa
+A|Yeah,|aa
+A|I,|%
+A|the worst one, I guess, is like you, when it's a recording. I I don't mind so much someone calls|sd
+A|and it's a, and it's a salesperson, at least you can chat or whatever and say, okay, now, we want to go|sd
+A|and then when, when they actually start off with a, a computer,  and  expect you to talk to a computer, uh, that's where I draw the I just hang up immediately, you know.|sd
+B|Uh-huh.|b
+B|Uh-huh.|aa
+B|Oh, yeah.|aa
+A|Uh, shut my other radio off here|^h
+B|Yeah,|b
+B|that's, that's real irritating to me.|sd
+A|Uh, I guess they get their|sd
+A|I'm, I'm amazed the question about that the,|sd
+A|my concern would be everyone seems to have an answering machine|sd
+A|and I have one too,|sd
+B|Uh-huh.|b
+A|and  they say that they can tie up your answering machine and just have a big long, if they catch your answering machine,|sd
+B|They can leave their whole spiel on it.|bf
+A|Yeah,|aa
+A|they, they can erase all your others, you know, because if you have,|sd
+A|I think that's the way it is, no, mine, I guess, if it's full, it will not take it, I'm not sure.|sd
+A|But they can certainly, uh, block your answering machine so someone else calls you, uh, and your answering machine is full, you know,  it  won't erase.|sd
+B|Huh.|b
+B|Yeah|b
+B|I,|%
+A|But your right. *your you're|aa
+A|That was a good one.|sv
+B|yeah,|aa
+B|that's, that's a high irritant for me.|sd
+B|Drives me crazy.|sd
+B|And it doesn't matter if you have an unlisted number or not because a lot of times these computer things will just make up numbers at random and just call them.|sd
+A|Uh-huh.|b
+B|And so it really, really doesn't make much difference as to whether or not, you know, you have a unlisted number or not.|sd
+B|And they pass around, uh, cards that have everybody's name on it.|sd
+B|Like if you order something through a mail order catalog,  you  know, then you'll start getting a bunch of stuff in. And a bunch of stuff and a bunch of stuff because they sell their customer list,|sd
+A|Uh-huh.|b
+B|or they sell their catalog list of people,  to  different companies and everything.|sd
+A|Yeah.|b
+A|but it's, uh, annoyance for me in the office with, uh, speaker phones.|sd
+A|You know, I,|%
+A|they're great for an office|sv
+A|but this one guy next to me, who's not here just so I could talk about him,  he  uses his speaker phone all the time,|sd
+A|and it carries over|sd
+A|and so not only would you hear,|sd
+A|it seems to me that you talk longer from you kind of yell into it.|sv
+B|Right.|aa
+B|Right.|aa
+A|Uh, and so he yells into it,|sd
+A|and you hear the other person too,|sd
+A|so it's kind of a double annoyance.|sd
+A|He actually, uh, ruins my privacy you might say because the, the T I offices are so open anyway. Uh, that I'm amazed that, the fact that I'm about ready to say something, uh, if he's even thought of that that's a real uncourteous thing, an, an invasion of everyone else's time and, and concentration to just be loud.|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|I don't know whether that's an invasion of privacy just being loud and, and annoying, you know.|sd
+A|Uh, that's,  perhaps  not quite an invasion of privacy|sd
+B|Uh-huh.|b
+A|but I think it is,|sv
+A|and|%
+A|we both picked phone items there.|sd
+B|Oh, yeah.|aa
+B|Oh, yeah.|aa
+B|Let's see, I'm trying to think.|^h
+B|Oh, have you heard that, that, I'm trying to think of what company it was, there was a company that was going to, uh, be giving out information about your financial status.|qy
+A|Oh, yeah,|ny
+A|I  heard something about, not that exactly,|sd
+A|but go ahead.|ad
+B|Well, um, I work in the computer science center|sd
+B|and so we hear a lot about things that are, that computers are capable of doing.|sd
+A|Yeah.|b
+B|And, uh, this was a software program that a company was developing that was going to have X amount of million peoples financial history and information on it.|sd
+B|And they were going to sell it to companies who would up in turn solicit you for business et cetera, et cetera.|sd
+A|Uh-huh.|b
+B|And, uh, they finally, uh, stopped production of it because of all the hullabaloo it caused,  because  it was such a big deal.|sd
+A|Uh-huh.|b
+B|And I wouldn't have been too thrilled about it either.|sd
+B|I mean, there was a lot of stuff going on about it.|sd
+A|Well, I, uh, heard something similar to that.|sd
+A|I listen to,|sd
+A|I'm a, uh, uh, talk show person.|sd
+A|And there was,|%
+B|Okay.|b
+A|when  I, when I do my chores up at the|sd
+A|I'm a radio person I guess is what I mean.|sd
+B|Uh-huh.|b
+A|And so I listened to, was it five seventy, which has continuous talk on the weekends,  and  Neil Sperry and everybody, I mean, the lawyers and veterinarians and all that.|sd
+B|Uh-huh.|b
+A|And, uh, I don't know if it was a lawyer or whatever it was talking about when you make out a a financial application, all that information on there is really not necessarily,|sd
+A|even a, your Social Security number, you know, they,  you  should just put down the basics and put N A, where you don't want to answer.|sd
+B|Huh.|b
+B|Uh-huh.|b
+A|Whether it's your personal salary or whatever.|sd
+A|Uh, if your just making out a credit card application you don't need to put down|sd
+A|and I was curious as to you know, what specific things you, you did have to put down.|sd
+B|Huh.|b
+A|But he says Social Security, you don't need to put that down there. Which I thought was surprising.|sd
+A|So maybe there's something along that same line where, you know, in all these financial, uh, applications that you make out, you don't have to put all that stuff down there.|sd
+A|It would be nice to know what's, what was,|sd
+A|of course, of course, they could say, well, I can't give you a card,|sd
+A|and you could say, fine,|sd
+A|but, you know, some things will be private, you know,|sd
+A|but he said just put N A|sd
+A|and he said usually you'll get approved anyway because they just want your money they want your card.|sd
+A|But if you don't feel like putting it down, just put N A, you know.|sd
+B|Uh-huh.|b
+B|Well, that's real interesting.|ba
+B|I know that a lot of times they ask for information that they don't really need,  on several  things and, you know, your credit ap and all, all they ever need you to do is give them permission to, to pull a credit thing on, on yourself|sd
+A|Yeah,|b
+A|yeah.|b
+B|and there it is.|sd
+B|That's all they really care about.|sd
+A|Yeah.|b
+B|They just want that credit history to see if you're a person.|sd
+B|If you're going to go ahead and pay your bills on time and things like that.|sd
+A|I haven't,|sd
+A|I don't have any friends down at the, the Austin plant,|sd
+A|but I heard that they were really upset about the drug thing,|sd
+A|and we seem to up here have just breezed through that|sd
+A|and apparently some other companies are having trouble|sd
+A|that, I don't have any trouble with it.|sd
+A|Uh, it's kind of unusual here we are in Dallas, you know, the biggest location and, and it just breezed through|sd
+A|and wasn't really, no one was, I guess, was really too concerned about it, uh, yet in Austin, there, there were, whether it was a class action or how far it got, I don't really know because T I only had a few things on T I NEWS I think about it,  that  they were objecting to|sd
+B|Uh-huh.|b
+A|but the,|%
+A|some people object to that which I don't mind, no problem at all, you know.|sd
+B|Oh, I know that there's several people I've talked to that really have a problem with it|sd
+B|and,  I'm  former military|sd
+A|Huh.|b
+B|so you get kind of used to,  to going  through stuff like that.|sd
+A|Yeah,|b
+A|right.|b
+B|You know, you don't pay any attention to it. I mean,|sd
+A|Right.|b
+B|once  you sign over your soul to Uncle Sam,   , you know, you just kind of,  kind of  blow it off|sd
+A|I know.|aa
+B|but|%
+A|I know, yeah.|aa
+A|I served my time too, yeah.|sd
+B|So, I think, I think the people who have, who have been down that route or have had it, to deal with anything like that have learned, you know, it's just one of those things.|sd
+B|You just do it and be done with it and don't worry about it.|sd
+A|Yeah.|b
+B|But I do know that there are several sites .|sd
+B|I didn't,|%
+B|I wasn't aware that Austin was one of them,|sd
+B|but I think Johnson City was one.|sd
+A|Oh, did they object too?|qy
+B|Yeah,|ny
+B|there's, there's several of the cities that have been having real trouble with the issue. And the, but also on things that I'd heard too from a stockholders meeting was that there were people, uh, there were, the same places where they had a real bad problem with people fighting it were also places they had a big bad problem with the drug usage too.|sd
+A|Uh-huh.|b
+A|Yeah,|b
+A|well, I'm, I'm all for it.|sd
+A|I,|%
+A|uh, it doesn't bother me that whether they do it in high schools or, you know, carry it to wherever you want to carry it really, uh,  uh,  of course, that would really be a big thing in a public school|sd
+B|Uh-huh.|b
+A|but, uh, I'm saying certainly at work I have no problem with it.|sd
+A|Uh, uh, and I think it is, they, they found that it's been very low really.|sd
+B|Uh-huh.|b
+A|I guess maybe at the locations though, I don't know if they have it done but, done it by location.|sd
+A|I don't really know if, uh, they need to publish that really.|sv
+B|Oh, I don't think it's a necessary thing to publish it they just need to deal with it and, , on an individual basis.|sv
+A|Right.|aa
+B|I mean,  if  they're going to do it, just deal with it and,  be  done with it.|sv
+A|Right.|aa
+A|Right.|aa
+A|But I think that was an actually a good thing that happened, uh, I never considered it, I guess, it's an invasion of your privacy|sv
+A|but it's something that is for the good of so many people, you know, to,  have  everyone, uh, take the test right away|sv
+B|Uh-huh.|b
+A|and, uh, and hopefully, maybe some people will convince other people that are on drugs that, well, uh, I might as well get off, you know, if I want to stay so, you know,  if that  was an invasion of privacy maybe it was good.|sd
+B|Oh, I,  Oh, I think it's a safety factor too because, you know, when people are inebriated, whether it's alcohol or drugs or whatever, they are very unsafe for the, their co-workers, you know,  it's like,  you know, my father was a fireman|sv
+A|Oh, sure.|aa
+B|and I can just imagine if, you know, you know, some guy being on drugs they go there|sd
+B|and,  and,  you know, you've got somebody that's supposed to take care of you|sd
+A|Right.|b
+B|and they fall, they fall out because of the drug issue,|sd
+A|Uh-huh.|b
+B|but the use of drugs or anything like that,  will,  uh, be a problem.|sv
+A|Right.|b
+A|this is, this is a tough one, I don't, really haven't thought about any of this.|sd
+A|They had gardening yesterday and all the repairs,|sd
+A|and, boy, I could,|%

@@ -1,0 +1,60 @@
+B|Well, Julie, uh, are you in a situation where you'd soon need to deal with, uh, special care for elderly?|qy
+A|Well, I don't know.|no
+A|My grandfather is ninety-two years old.|sd
+B|Uh-huh.|b
+A|And he is still living by himself.|sd
+A|My grandmother died a couple of years ago|sd
+A|But he doesn't want to, to move away.|sd
+A|He lives in a little farmhouse on a farm.|sd
+B|Uh-huh.|b
+A|And he recently had to have an operation|sd
+A|but he just really doesn't want to go to a nursing home.|sd
+B|Is he able to, uh, still do everything himself pretty well?|qy
+A|Well, he was until this operation.|no
+A|He has arthritis.|sd
+B|Oh, yeah.|bk
+A|And now I don't really think he's doing that well.|sv
+A|And my, a lot of my aunts and uncles live near him.|sd
+A|And I have one aunt that really looks after him a lot.|sd
+B|Yeah.|b
+A|But, uh, my great-grandfather was put in a nursing home when he was a hundred and three.|sd
+B|Uh-huh.|b
+A|And, uh, died six weeks after they put him in the home.|sd
+B|Yeah.|b
+B|And I'm sure that kind of thing would influence your grandfather's feelings.|sv
+B|Because, uh, I you know, I think for a lot of people it really is the decision of, do they still have some of their life left.|sv
+B|And  and, for, for, I'm sure, a lot of people going into a nursing home it's like saying my life is over|sv
+A|Uh-huh.|b
+B|and I'm just here for the rest of the stay|^q
+B|And so I, you know, I guess most of the time when I think about somebody going into a nursing home, it's more a case of where they are not able to look after their day-to-day needs.|sd
+B|Yeah|%
+A|Uh-huh.|b
+B|they have can look after a lot of things|sd
+B|but there's some of the day-to-day needs that they just are not able to deal with physically anymore.|sd
+B|Uh, I know my, none of my grandparents were in a nursing home.|sd
+B|They generally were able to have someone care for them at home|sd
+B|and they died|sd
+B|But they were all, goodness, younger than your grandparents|sd
+B|Like they were in their eighties. That type of thing|sd
+B|Uh, but I did, uh, you know, I guess,|%
+B|uh, when I think nursing home I do think of people that are not able to do, take care of themselves physically.  Uh|sd
+A|But  I just don't think that nursing homes really do a very good job.|sv
+B|And that's, that's difficult part.|sv
+B|Because I think what they often get used as is, uh, almost like a very high level or long-term care for, uh, similar to a hospital.|sv
+A|Uh-huh.|b
+B|Uh, I know, like here in Saskatchewan, we have our hospital care the care actually for the older people graded in level, in four levels.|sd
+B|And a level four type of care would be someone that really requires long-term hospital care. Generally are not able to look after themselves to very, to a very great extent, physically|sd
+B|Often times they even have mental difficulty with senility or Alzheimer's Disease or those or, or physical and mental handicaps. Uh, you know, where they really require twenty-four hour supervision of some kind  Even though  it may be minimal|sd
+A|Uh-huh.|b
+B|And, uh, but I think that it can be helpful in that, uh, it gets people the level of physical care they need. Uh,|sv
+A|But I don't, I mean|%
+A|at least, I mean I think some nursing homes do that.|sv
+A|But I think a lot of nursing homes really, uh, are guilty of neglect.|sv
+B|Yeah.|aa
+B|I and I think it happens more in areas where it's, uh, I guess, uh, a broad social medical system where, uh, you know, there's government medical care and that kind of thing.|sv
+B|If it's the lot where it's funded by the individuals|sd
+B|and, and I guess that's sort of my lack of understanding.|sv
+B|I think that a majority of the places in the U S, uh, you know, there is some government aid available,|sv
+B|but the majority is to the availability of the individual to pay|sd
+A|Uh-huh.|b
+B|And, uh, if you're not able to look after yourself, then you have to rely,|sd

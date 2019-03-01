@@ -1,0 +1,109 @@
+A|What kind of movies have you been seeing lately?|qw
+B|Uh, it's been probably a month or so since I've been to the movies.|sd
+B|Course, my, my favorite now is, is DANCES WITH WOLVES.|sd
+A|Oh, it's an excellent movie.|sd
+B|Uh, SILENCE OF THE uh, of the LAMBS was good.|sd
+A|SILENCE OF THE LAMBS?|b^m
+B|Uh-huh.|ny
+A|What was that anyway?|qw
+B|Oh, it's a, I guess it's a mystery, you'd call it.|sd
+B|It's with, uh, Jodie Foster.|sd
+A|Okay.|bk
+B|And it, uh, it's pretty good.|sd
+B|Another one that I think I really liked was, uh, THE FISHER KING.|sd
+A|Uh-huh.|b
+A|Let's see,|^h
+A|who was in FISHER KING?|t1
+A|That was, um, Robin Williams|sd
+A|and, uh and, uh, I can't the last name.|sd
+B|Right.|b
+B|How about you?|qo
+B|What are you?|qw
+A|Uh, we've not been having many opportunities to see movies lately.|sd
+A|Um, we really enjoyed, um, DEAD POETS' SOCIETY.|sd
+B|Yes.|b
+A|Um, several years back one we saw, we saw we really, really enjoyed was, uh, ORDINARY PEOPLE, with, uh, Timothy Hutton and, uh, Mary Tyler Moore,|sd
+A|and, uh, uh, who played the father, anyway|t1
+B|Right.|b
+A|excellent movie.|sd
+B|That was, that was an excellent movie.|sd
+B|Have you seen DANCES WITH WOLVES?|qy
+A|Yes|ny
+A|we have.|sd
+B|What'd you think of it?|qw
+A|Oh, we loved it.|sd
+B|I don't think I can see it enough times.|sd
+A|I know what you mean.|ba
+A|I know what you mean.|ba
+B|Course I'm a Kevin Costner fan.|sd
+A|Yeah,|b
+A|I'm pretty impressed with stuff he's done.|sd
+A|Uh, he made kind of an odd sounding ROBIN HOOD,|sd
+A|but, uh, I mean, you know, basic thick western U S accent for a ROBIN HOOD just doesn't seem to fit.|sv
+B|No,|aa
+B|but you know, it wasn't a bad movie.|sd
+A|Oh, no.|aa
+A|It's a good movie.|sd
+B|It got such bad reviews,|sd
+B|really, and, and I thoroughly enjoyed it.|sd
+B|But I, then I wasn't expecting any classic either.|sd
+A|Well, um, they did a real good job with it.|sv
+B|I thought so.|aa
+A|Um, they didn't try to make him super human or, you know, invincible.|sd
+A|They just, just,|sd
+A|he worked hard at it.|sd
+B|Have you seen THE FISHER KING?|qy
+A|No|nn
+A|I haven't, not an opportunity to see that, uh,|sd
+B|Uh, it,|%
+B|you, you know,|%
+B|I guess it, it really isn't for everybody.|sv
+B|It's, it's pretty deep and, uh, uh, philosophical.|sd
+A|Yeah.|b
+B|But I thought it had a wonderful message to it. It's the kind you came out and looked at somebody and said, You know, I think I liked that|sv
+A|Yeah.|b
+B|And then the more you got to thinking about it, the more you thought, You know, I did like it|sd
+A|Yeah.|b
+B|But when you first came out, you weren't real sure.|sv
+A|It sounds kind of like one, uh, we saw at home here on the, rented it, um, CLARA'S HEART.|sd
+B|Haven't seen that.|sd
+A|Um, Whoopi Goldberg.|sd
+B|Oh, yes,|ny
+B|I did,|sd
+B|yes,|ny
+B|I did.|sd
+A|And she played a, uh,|sd
+A|the, uh,|%
+A|she's a housekeeper.|sd
+B|Uh, the nanny type.|bf
+A|Yeah,|aa
+A|she's a housekeeper|sd
+A|she. She was a, oh, now I can't say it, a Haitian.|sd
+B|Housekeeper, uh-huh.|b^m
+A|Anyway, she, uh, she seemed to be that sort of person that seems half crazy,|sd
+A|but then again, she's got a whole lot on the ball,|sd
+A|and the movie had the whole, lot of philosophical content, more than, more than, you know,|sd
+A|it wasn't a mystery,|sd
+A|it wasn't, you know, blood and guts and violence and, and car chases type thing.|sd
+A|It was just a good movie.|sd
+B|I saw one the other day that was A KISS BEFORE DYING.|sd
+A|A KISS BEFORE DYING.|b^m
+B|Uh-huh.|ny
+B|I had not heard about it when it was on the movies, but was out on video.|sd
+A|And.|%
+B|And it's with Sean Young.|sd
+A|Yeah.|b
+B|And it's a, it's a mystery.|sd
+B|It was very predictable,|sd
+B|I mean, you knew, you knew when the murder was going to happen or something,|sd
+B|but it was still so well done that it was enjoyable.|sd
+A|Yeah.|b
+A|That, that takes a good bit to make one that's predictable that's still worth watching.|sv
+B|That's right.|aa
+B|I had, uh, uh,|%
+B|I like the, I think it's called the, uh, RAZOR'S EDGE,|sd
+B|but, no|nn
+B|no,|nn
+B|the JAGGED EDGE,|sd
+B|the JAGGED EDGE  with, uh,|sd
+A|Oh, okay  .|b

@@ -1,0 +1,171 @@
+A|Ready to talk?|qy
+B|I guess so|no
+A|Okay.|^h
+B|Okay.|^h
+A|Uh, I want to talk about, um, our family budget,  and  the times that it's worked and the times that it hasn't worked and,  give  you a general description of it|sd
+B|Okay.|bk
+B|Yeah.|b
+A|bit.|ad
+A|Tell me how yours works.|ad
+A|Well, at the|%
+A|I introduced you a little bit to it, a few minutes ago, when I said that we are, uh, we're on the east coast now.|sd
+B|Uh-huh.|b
+A|My husband quit a perfectly wonderful job and decided that,|sd
+A|well, we both decided we wanted to move to North Carolina.|sd
+B|Uh-huh.|b
+A|And so naturally we put ourselves,|sd
+A|we looked at our budget,|sd
+B|Yeah.|b
+A|and  so, what we did was draw up a budget that we thought, uh, was realistic.|sd
+B|Uh-huh.|b
+A|And, uh, so, we had to make some adjustments|sd
+A|because we really are kind of looking for something that we want to do and he wants to do that's satisfactory,|sd
+A|and we've been here seven months|sd
+A|and he's still hasn't hit up on anything permanently.|sd
+B|Oh, no.|ba
+A|So, you see,|%
+B|That throws the budget out of whack real fast.|bf
+A|Well, we actually planned for about one year.|arp_nd
+B|Oh, good.|ba
+A|Uh, that God because, *listen  it  never occurred to  it never occurred  to us that it would take seven months.|sd
+B|Really.|aa
+B|That was smart.|ba
+B|Yeah.|b
+A|And, uh, what we did was just, uh, decide how we had been spending our money before,|sd
+B|Uh-huh.|b
+A|and  then we put that on the computer|sd
+A|and then we took about three months and, uh, and adjusted,  where we  could come down and where we didn't want to come down,|sd
+B|Oh, uh-huh.|b
+B|Yeah.|b
+A|and  we really, uh, lessened it, uh, our living expenses, uh, more than what we thought we would.|sd
+B|Wow, that's great.|ba
+A|But,|%
+B|Did you have a special program on your computer to do that|qy
+B|or was this just your own design of,|qy
+A|Oh, just our own design.|sd
+B|Uh-huh.|b
+A|Uh-huh.|b
+B|Gosh.|ba
+A|And the,|%
+A|so, but we've had budgets that didn't work when our, uh, you know,|sd
+A|of|%
+A|our first fifteen years or eighteen years of being married nothing worked|sd
+B|Yeah|b
+A|We spent too much money,  until  our children went to college,|sd
+A|so. So, tell me about,|ad
+B|Yeah.|b
+A|do you all, uh, have a budget?|qy
+B|Well, we've been married for five and a half years|sd
+B|and we started out without kids, of course, and found it much easier to save and used to do a lot more fun kinds of of things and, uh, did really, um, you know, have a real strict but, budget|sd
+B|but, uh, the|%
+B|about and|%
+B|to our,|%
+B|when we first got married we were in graduate school|sd
+B|and we were just, you know, dirt poor.|sd
+B|Then when we got our first jobs after about a year of marriage we decided we'd bank my salary so we could buy a house.|sd
+B|So, we virtually did that for about two years,  which  worked real well, and then moved from California where we realized we could never buy a house anyway no matter how much we saved,  and  moved to Texas, bought a house immediately, you know, which, of course, is now devalued with the housing market,|sd
+A|Wonderful.|ba
+A|Yes.|aa
+B|so, I don't know if we, we did a good thing to buy a house or not|sd
+B|but at least we've got a place to live.|sd
+B|Um, so, now, since, uh, we have a three year old and a two year old now, um,|sd
+A|Three and a two year old.|b^m
+B|Uh-huh.|b
+A|Bang, *one utt??|ba
+A|bang.|ba
+B|That's, that's, that threw our budget really out of whack too.|sd
+B|An we, um, have been just forced to budget much more because I quit working to be home with the kids.|sd
+B|And, um, we just really have, uh,|sd
+B|I don't know,|h
+B|we, we've tried different times,|sd
+B|we've done like a survey of like taking, you know, the past three months of where all the money went.|sd
+A|Uh-huh.|b
+B|And we really don't spend on anything much of a luxury or anything at all,|sd
+B|but it seems like there's, um, times when we just have to get out where we'll go and like get a baby-sitter and we'll go and we'll blow, you know, fifty, sixty dollars in one night going out to eat, going to a show or doing something, you know.|sd
+A|Well, I think that's important for your budget to be|sv
+A|for it to work though, you have to do something.|sv
+B|Yeah,|b
+B|that's the hard part because when we sit down to make it, we try to make it real spartan and real narrow so we can put a certain amount in savings every week|sv
+B|and then it's not really that realistic|sv
+B|because we do find that we want to go and do something or splurge for, you know, birthday for somebody|sd
+B|or, you know, even we, we even do things real frugally for the kids,|sd
+B|we get a lot of toys and clothes and stuff at garage sales or from friends because they don't know the difference at this age, you know, whether they're JORDACHE new or whether they're *listen; "because" may start new utt unit  you know, something|sd
+A|Of course not.|aa
+B|and they're both boys|sd
+B|so they just one year after the other in each other's clothes,|sd
+B|so. But, um, that's the hardest part for us is that it's really, um, you know, budgeting and some extra things, you know, that are more, you know, nonessential items.|sd
+A|Well, I found, uh, that, in the place that it was harder for me to stick to a budget was not where we were concerned,  but where maybe  our friends were concerned and our relatives and parents.|sd
+B|Uh-huh.|b
+A|Uh, we, we tended to want to keep on giving lavish,  gifts  as,  we  had done before.|sd
+B|Yeah.|b
+B|Yeah.|b
+B|Uh-huh.|b
+A|And I really believe that if you're going to cut down on yourself, you need to cut down somewhat on your friends.|sv
+B|On your friends,|aa
+B|that's true,|aa
+B|that's true.|aa
+B|Well, we have so many unexpected things come up so often it seems with,|sd
+B|we both have older cars|sd
+B|and something will come up and wind up having to spend a thousand dollars, you know, on the car in two months or something,|sd
+A|Yes.|aa
+B|and,  you know, a lot of things like that that really are hard to plan for.|sv
+B|And, uh,|%
+A|Well, I really do,|aa
+A|I think you have to budget those things though.|sv
+B|Yeah,|aa
+B|kind of put in a certain amount per year, *82 and 84 same utt?|sv
+A|Yes.|aa
+B|you're  going to have on extra expenses for car.|sv
+A|Exactly,|aa
+A|although so much per month anyway.|sv
+B|Yeah,|b
+B|yeah.|b
+A|And, uh, that really should be in your|sv
+A|but if you don't spend it, it should be in your bank account at the end of the month|sv
+B|Yeah|b
+B|our biggest way of saving money is then to stop all these deductions, um, you know, is to,|sd
+B|let's see,|^h
+B|now, I forget which way we do it.|sd
+B|We don't list all the deductions|sd
+B|and then we get more money back, you know, at the end of the year,|sd
+A|Oh, no,|ar
+A|no,|ar
+A|no,|ar
+A|no.|ar
+B|so, that's not a good  way to|qy^d
+A|You don't want the government to spend your money.|sd
+A|You want to be able,|%
+B|that's what my husband said,|sd
+B|so this last year he changed it, of course,|sd
+B|we didn't get hardly and then nearly as much back|sd
+B|and it was like oh, no.|sd
+B|Better find another way of saving money|^q
+A|Well, uh, but I do realize that, that is realistic for some people,|sd
+B|Yeah.|b
+A|and  it was for us many years,  for  many years.|sd
+B|Yeah.|b
+B|Yeah.|b
+A|Uh, and if, and if that's the only way that will, it will make you save and have a little nest egg at the end of the, the year then doggone it that's what you should do.|sv
+B|Yeah,|aa
+B|because we don't miss it,|sd
+B|we really don't, when it's just taking out of the paycheck and stuff,|sd
+B|so. But we're trying to put a little money away for the kids because we can envision the, uh, expenses for college already, you know, eighteen years away or whatever.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+A|Well, I was just reading an article in, uh, a North Carolina paper today where a high school student obtained over two hundred thousand dollars worth of scholarships for herself by sitting up at night and typing at, uh, letters of applications to universities.|sd
+B|Gosh.|ba
+A|She was she was third out of a class of two hundred and twenty,|sd
+A|so, it can be done.|sd
+B|I guess,|aap_am
+A|Where there's a will,  where there's a will, there's a way, right?|qy
+B|that's fantastic.|ba
+B|Yeah|ny
+A|Well, I have enjoyed talking to you.|fc
+B|Well, I enjoyed talking to you too,|fc
+B|good luck|fc
+B|and don't spend any money this weekend|fc
+A|Oh, I know|fc
+A|we'll have to stay home and mow the yard|fc
+B|Oh, boy.|fc
+A|Bye-bye.|fc
+B|Bye.|fc

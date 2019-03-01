@@ -1,0 +1,185 @@
+A|Well, I really enjoy reading the newspaper,|sd
+A|we get the daily, uh, DALLAS MORNING NEWS|sd
+A|and I try to look at it.|sd
+A|If I get busy I don't get a chance to pick it up, like this week I noticed several copies have been haven't been touched|sd
+A|but|%
+B|Well, do you have time to read the paper in the morning?|qy
+A|Well, not in the morning,|ng
+A|but, uh, if the,|%
+A|well, I have two children|sd
+A|and if they, uh, go out to play or something I like to keep my eye on them so I'll, you know, maybe go outside and read the paper while they're playing or sit in a chair by the window or something.|sd
+B|You know, a lot, a lot of people don't take newspapers at all.|sv
+B|We, we took the MORNING NEWS for a while,|sd
+A|Uh-huh.|b
+B|and then, uh, well, we've been taking the TIMES HERALD for ages|sd
+B|and then, uh, dog just ran off with my shoe, that's off the subject, went outside, picked it up and ran off.|sd
+B|Anyway, uh, and then we switched the MORNING NEWS|sd
+B|but we found we couldn't read enough of it|sd
+B|and by the time I got home and had time to, to read some,|sd
+B|but, but I guess the, the issue is, uh, beside the newspaper, do you take any news magazines?|qy
+A|Well, we, I don't take, like TIME, or NEWSWEEK or anything like that,|ng
+A|but I do like to watch, uh, C N N.|sd
+A|I have several chores and things to do,|sd
+A|so it comes on at, like the nine o'clock p m|sd
+A|and so I will turn that on while I'm doing some work|sd
+A|and I can hear the news, not have to sit right down and listen to it.|sd
+B|Did, did you, did you hear what Schwartzkopf had to say about, uh, Pete Arnett, and, uh, the, the news coverage?|qy
+A|Well, he didn't have too good of opinion of it,|na
+A|no,|fo_o_fw_"_by_bc
+A|I mean yes I did hear that|sd
+A|and so, uh, I do try to keep that in mind that whenever you're reading a paper it usually has a particular flavor.|sd
+B|Well any, you know, TIME magazine and even the news that,|sd
+B|sometimes that,|%
+B|that's why I like some diversity the idea that, I, we have TIME which, which we take from time to time|sd
+B|and we,|%
+B|the problem is they call up and make this deal, you know,|sd
+B|and, well we're taking that|sd
+A|Uh-huh.|b
+B|and, and we also hit the Garland, GARLAND DAILY NEWS,|sd
+B|I guess it's, it comes out sporadically, like, twice a week or|sd
+A|Uh-huh.|b
+B|but I think what's interesting is that if you're, that there, uh, that as difficult as it is, or as, as much as they try, they put some bias,|sd
+B|I had the chance to hear Tracy Rowlett speak to a group|sd
+B|and it was interesting that they think that they're basically impartial.|sv
+A|Um.|%
+B|And that,|%
+B|but, and, and, you know, people accuse them of controlling the news he says, you know, we don't control the news we just report it the way we, the way it is.|sd
+A|Uh-huh.|b
+B|And,|%
+A|Well, I wouldn't think I would really say that that's not true, because uh, it seems like certain newspapers always espouse certain candidates,|sv
+B|Yes.|b
+A|and, so, uh, news stations always tell the story from a certain angle|sv
+A|and that's why it's a good idea to get a wide variety of coverage so that you get a lot of different opinions.|sv
+A|You may never get the truth,|sv
+A|but you'll have a variety to choose from.|sv
+B|Yeah,|b
+B|and I, I thought that was particularly interesting in the, the Gulf War, that there were pieces of information that, that were apparently, uh, leaked just as a, as, as, uh, a ploy.|sv
+A|Uh-huh.|b
+B|Which was, uh,|%
+B|I, I find that fascinating that, uh,|%
+A|Yeah,|b
+A|I do, too.|sd
+A|Do you ever listen to the radio|qy
+A|or any,|%
+B|I listen to K R L D, and, uh, uh, K L I F, the news talk radio.|na
+A|Uh-huh.|b
+B|And I actually listen to C N N radio.|sd
+B|Do you know it was on radio now?|qy
+A|No,|nn
+A|I don't.|sd
+B|It's on eleven ninety.|sd
+A|Um. I really, uh, have gotten out of the habit of listening to the radio from any kind of, even music|sd
+A|and, uh,|%
+B|Well, when I go to work I listen.|sd
+A|Yeah,|b
+A|my husband does|sd
+A|and it's how come he usually calls me sometimes, and says, oh, I just heard on the news that such and such happened, you know, if it's something really interesting|sd
+A|and and then I'll know to, to keep an eye out for it,|sd
+B|Yeah.|b
+A|but I've got out of the habit of listening to the radio.|sd
+B|Well, with, with your, you know,|%
+B|if you're around the home, though and, and, and can watch T V and read the paper, the problem is, is that about twenty minutes of news radio, or thirty minutes is|sv
+B|and then they start repeating everything.|sd
+A|Uh-huh.|b
+B|And, and so it's kind of a, oh,|%
+B|that's what's interesting is the C N N, uh,|sv
+B|I don't think, I'm trying to think if it's much local.|^h
+B|I listen to a little of that|sd
+B|and I listen to a little of ninety point one.|sd
+B|I, I'm, I'm inveterate switcher.|sd
+A|Uh-huh|b
+B|That and ninety-eight point seven, I'm eclectic approach.|sd
+A|Do you have a particular local channel that you watch?|qy
+B|Well, I watch channel five|na
+B|but that has to be,|sd
+B|that's another bias.|sd
+A|Uh-huh.|b
+B|That has to do with the weather reporting.|sd
+B|I'm not sure that,|%
+B|actually I think channel eight is probably,|sv
+B|but I know Dave Fox,|sd
+B|he goes to our church|sd
+B|so,|%
+A|Um. Well I am, we're fairly new to the area|sd
+A|and so we're still shopping for a favorite channel.|sd
+B|Well the, Channel eight when they came here thirteen, fourteen years ago, Dave Fox and Tracy Rowlett came together, uh, from Oklahoma City|sd
+A|Uh-huh.|b
+B|and apparently channel eight was way down|sd
+B|and now they have turned it all around and done a pretty remarkable job|sd
+B|and then they've been some people move around|sd
+B|and, uh, John Chriswell is, anyway, the,|sd
+B|I, I don't know,|h
+B|do you, do you, do you seem to,|sv
+B|can you tell much difference between the local radio, T V stations?|qy
+A|Well, I really think so.|na
+A|I noticed on channel eight that there's all of the, uh, anchors, are seem to be like white Anglo Saxon protestant type people|sd
+A|and they all seem to be, you know, fairly similar|sd
+A|and I kind of prefer a, you know, some females,|sd
+A|I don't recall that they have any female anchors|sd
+A|and I like different, I like the anchors to be different kinds of people.|sd
+B|I think that adds to the diversity,|sd
+B|I think that, uh, I like that.|sd
+A|Uh-huh.|b
+B|Uh, there, I know, you know, John Wylie Price,|sd
+B|I don't know if you kept up,|qy^d
+B|but he's been protesting,|sd
+A|Yes|ny
+A|I have|sd
+A|and, uh, I prefer you know to have a little bit of variety like that because I think you're, you're more likely to get,|sd
+B|Yeah,|b
+B|and I think he has legitimate argument.|sv
+B|I mean you can, uh,|%
+B|I, I, I grew up in Alabama|sd
+B|and so I, I have some prejudices.|sd
+A|Uh-huh.|b
+B|But I think that, I think that, that from a, a justice standpoint, because we have the option of not watching that station.|sv
+A|Uh-huh.|b
+B|Uh, I'm not sure I, I'm totally in favor of affirmative action in some of the programs|sv
+B|but I think that, uh, in some cases this should be some real opportunity and, and some diversity, and and this kind of thing|sv
+A|Yeah.|b
+B|and I think that, Dallas, it turns out, though from what I understand, has quite good,|sd
+B|I occasionally go to Saint Louis.|sd
+A|Uh-huh.|b
+B|And, uh, there for a few days and watch the news and, and think Dallas really does have, have quite good news.|sv
+B|I think channel eight is the number one, uh, A B C affiliate in the U S.|sd
+B|I think Tracy Rowlett was saying that he,|sd
+A|Oh, really?|bh
+B|Course he pumping his own|sd
+A|Well, we, you know,|%
+A|like all of the stations seem to be pretty good,|sv
+A|it's just we haven't found one that we've snuggled into.|sd
+B|Where'd you move from?|qw
+A|Houston.|sd
+A|So we had a, a favorite,|sd
+A|or I did, have a favorite channel that I usually tuned into for local news.|sd
+A|I guess because you get use to, you like the anchors,|sd
+B|Yeah.|b
+A|and you feel comfortable with them|sd
+A|and,|b
+B|It is interesting though,|sv
+B|it becomes a little of personality.|sv
+B|In fact, the, the guy that was on, the weatherman on channel eight worked for me, oh, long time ago, twenty years or so, even longer than that. Twenty-one, twenty-three years ago or so, twenty-four, anyway long time ago|sv
+A|Uh-huh.|b
+B|and, and shortly after I got, we got here fourteen years ago|sd
+B|and, uh, they had, they had fired him, uh, because he was too|sd
+B|anyway, didn't, he didn't have the personality, and wasn't drawing the crowds|sd
+A|Uh-huh.|b
+B|and that's interesting.|sv
+B|That's, that's what the T V stations do.|sv
+B|they're trying to get ratings.|sv
+A|That's true.|ba
+B|And I think, if we remember that, that they're out after the ratings.|sv
+A|Their job.|^2
+A|That's true.|ba
+A|So that really effects how they report the news.|sv
+B|Well, it's like the, the Dale Hansen on channel eight is a, sometimes a little too cutesy|sd
+B|but, I wonder if we're coming up on ten minutes.|sd
+A|Is he the sports,|qy
+B|Have you talked, have you been on the conversation when they beeped you at ten minutes?|qy
+A|Yeah,|b
+A|I guess it is time to close now, so I can run go help put the kids to bed.|ad
+B|Okay,|aa
+B|well good talking to you.|fc
+A|Yeah.|fc
+B|Goodnight.|fc
+A|Bye-bye.|fc

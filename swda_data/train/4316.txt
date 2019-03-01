@@ -1,0 +1,124 @@
+A|Do you think that there's any way that, uh,|qy
+A|or do you think there's too much crime now?|qy
+A|I mean, I guess, any crime is too much|sv
+A|but, It's out of control.|sv
+B|Uh, yeah,|aa
+B|yeah.|aa
+B|Uh, well, uh, out of control, I don't know.|ar
+B|I guess it could be worse.|sv
+B|Uh, we've, uh, we've, we've got quite a bit of crime in our neighborhood.|sd
+B|Uh, I live in the university district in Seattle near the University of Washington.|sd
+B|Uh, there's, uh, there's a lot of problems.|sd
+B|I mean, there's like a big rise in homelessness and more street people|sd
+B|and, uh, you know, we get cars on our block, uh, regularly, uh, uh, uh, gone through, rifled through and stuff.|sd
+A|Really?|bh
+B|Yeah.|ny
+A|I would not of, okay, I would not have guessed that in Seattle.|sv
+B|Yeah,|b
+B|you figured it was like Omaha, right?|qy
+A|Yeah.|ny
+A|You know.|%
+B|No,|ar
+B|it's, uh, it's not Newark,|sv
+B|but, uh, yeah|sv
+B|it's got problems.|fo_o_fw_"_by_bc
+A|Yeah,|b
+A|I wonder, I mean, I wonder what, what really is the answer.|sd
+A|I mean, it seems like our, our, the prison systems, we can't seem to decide whether or not it's a reform system or penal system.|sv
+B|Yeah,|b
+B|I think most people regard it as a warehouse. Where you put away the people that are so bad that, uh, you don't want them out in circulation.|sv
+A|Yeah.|b
+A|But, but the problem is, is that we, we only have but so much room|sv
+A|and we, we try to put aside in the warehouse,|sd
+A|and all we do is just displace other people which come back into society and commit crimes|sv
+B|Yeah.|b
+A|and,|%
+B|That's what I hear.|aa
+A|So it's, uh,|%
+B|Yeah,|b
+B|I, I think, you know,|%
+B|don't you feel like most people have given up on the rehabilitation idea?|qy
+A|I get the feeling that a lot of people have.|na
+A|I'm not convinced that I have.|sv
+B|Yeah.|b
+A|Uh, see, I mean, my mom taught English as a second language|sd
+A|and, and she was dealing mostly with people that were, were in on drug crimes|sd
+A|and, uh,|%
+B|Oh, you mean she taught in a prison?|qy
+A|Yes.|ny
+B|Oh.|b
+A|In a in a maximum security prison down in central Virginia.|sd
+B|I see.|b
+B|uh.|%
+A|And, the problem she had was not with the inmates at all.|sd
+A|The, the people that she had the most problems with were the people that ran the prison.|sd
+A|I mean, It was, it was, I mean,|%
+B|Yeah,|b
+B|the the bureaucracy.|bf
+A|they, they put her, I mean,|sd
+A|I didn't, obviously I didn't see the classroom, uh, and, hopefully never will,|sd
+A|but, uh they, they put her at the end of a hallway,|sd
+A|there were no other classes going on at the time|sd
+A|and they refused to let her wear a body a body alarm. Which,|sd
+B|Uh.|%
+A|and|%
+A|I don't know exactly what that is,|sd
+A|but I just assume it was something that she could hit immediately and, and really annoy a lot of people.|sd
+B|Yeah.|b
+A|But, uh, you know|%
+B|So she didn't feel safe.|qy^d
+A|No,|nn
+A|she didn't.|sd
+A|She didn't,|sd
+A|she, she felt fine for the first year when she had her first set of inmates,|sd
+A|and then later on the, uh, the administration kept getting worse,|sd
+A|and, uh, she got a couple of inmates that she wasn't, she didn't feel quite as comfortable around.|sd
+B|Yeah.|b
+A|But, well, she had decided that it was, when we came back to the States, she decided that it was too,|sd
+A|she didn't feel that public schools were were safe,|sd
+A|so next thing you know she's teaching in a maximum security prison.|sd
+B|Yeah,|b
+B|right.|b
+A|But, uh,|%
+B|Well, at least it's maximum security, right|sd
+A|Yeah.|b
+A|But, but the point that was, that it, you know,|sd
+A|you said that perhaps, uh, people have given up the thought that rehabilitation's possible|sd
+A|and, and I'm, I'm thinking that it's even to the point that the people in, that run the system have given up on it.|sv
+B|Uh, well, I, I think the people that run, yeah, that run the system are the most hardened and probably the most cynical, you know.|sv
+A|Uh.|%
+B|I mean, I, uh, you know, I, I talked to a few people who worked in prisons and stuff|sd
+B|and it's, uh,|%
+B|you can get pretty hardened, I'm sure.|sv
+A|But getting, I mean, well, see,|%
+A|I always have problems because, because I can never decide whether or not I'm, I'm supposed to be a conservative or, or a liberal|sd
+A|but,|%
+B|Yeah,|b
+B|right.|b
+A|But I keep, I keep thinking that there's got to be some way, that, that a lot of this is circumstances.|sv
+B|Those are funny see|sv
+A|I mean, I can't help but wonder if, if I grew up without a father, on the streets, and with like little or no money, wouldn't wouldn't I be in prison this|sv
+B|Oh, yeah.|b
+B|Oh, Oh, yeah,|aa
+B|absolutely.|aa
+B|I think, uh, yeah, I think you can blame it on social problems.|sv
+B|Sure.|aa
+A|I mean, I don't know.|h
+B|I mean, as, as, you know, as poverty has gotten worse, as, you know, education has gotten worse, as there's been more single parent families, as there's been more homelessness, there's been more crime.|sv
+A|We've got methadone programs where people who desperately want to get off drugs can't  get onto the program.|sv
+B|Yeah,|aa
+B|there's not enough  beds and treatment programs, rising drug abuse,|sv
+B|and, yep,|aa
+B|it's a mess.|sv
+A|I don't, I don't remember the, the gentleman's name,|sd
+A|but the, the, uh, the mayor of Baltimore is a, is a Rhodes Scholar|sd
+A|and what he,|sd
+B|Is he the guy wants to, like, deregulate heroin, or something?|qy
+A|Well, what he wants to do is take all the money that, uh, he gets for drug enforcement and use it for, uh, drug education.|sd
+B|Uh-huh.|b
+A|And basically, just, just attack the problem at the demand side.|sd
+B|Uh-huh.|b
+A|Stop trying to attack supply because, which, which to some extent makes sense and to some extent doesn't.|sv
+A|I mean, Switzerland tried the, the grand experiment|sd
+A|and, you know, they had this park where they were letting anybody use drugs as long as they stayed in the park|sd
+A|and,|%

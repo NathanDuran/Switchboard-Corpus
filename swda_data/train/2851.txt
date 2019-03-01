@@ -1,0 +1,266 @@
+A|All right.|fo_o_fw_"_by_bc
+A|Well, uh, quite a few|sd
+A|and they're varied.|sd
+A|They don't, uh, uh, encompass, uh, many handcrafts like knitting and that kind of thing.|sd
+B|Uh-huh.|b
+A|But, I do, uh, quite a bit of wreath making|sd
+A|and my dogs are my hobbies.|sd
+A|I do a lot of gardening.|sd
+A|I go to estate sales, which takes up a lot of time.|sd
+B|Uh-huh.|b
+A|Now, what do you mostly do|qo
+B|Well, mostly right now I'm a, I do a lot of sports and stuff like that is my hobbies and do a lot of things with my family as much as possible.|sd
+B|We're, uh, we're about to take the kids to go roller skating and a birthday party and stuff,|sd
+A|Oh,|b
+B|so.|%
+A|boy|ba
+B|Yeah.|b
+A|That  should be fun.|ba
+B|Yeah.|aa
+B|Fun for them.|sv
+A|Yeah.|aa
+A|How old are they?|qw
+B|Uh, I've got a little girl who's six and a little girl that's three.|sd
+A|Well, I think that's better than having that party at home|sv
+B|Yeah.|aa
+B|Well, uh, this is a friend's party|sd
+B|and they, they rented,|sd
+B|or, you know, they,|%
+B|the party,|%
+B|they, uh, just rent skates and stuff for the kids.|sd
+A|Yeah.|b
+B|So,  uh  they're,  they're looking forward to it.|sd
+A|And,  the  the, the skating rink does the rest practically,  I  guess.|sd
+B|Yeah,|b
+B|yeah.|b
+B|Uh-huh|%
+A|Boy, what a help that is.|ba
+B|Yeah|b
+B|So, uh,|%
+A|What kind of,|%
+B|how long have  you lived in North Carolina?|qw
+A|Well, not that long.|sd
+B|Really?|bh
+A|Uh, just since October.|sd
+A|We moved here from Enid, Oklahoma.|sd
+B|Oh.|b
+B|Uh-huh.|b
+A|So, uh, we are, we're originally from Virginia, this part of the country.|sd
+B|Uh-huh.|b
+A|But, we did spend twenty years in Norman and Enid and loved it.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|But, we needed to get back, uh to our older parents.|sd
+B|Yeah.|b
+B|Uh-huh.|b
+A|But, I am loving it|sd
+A|The weather is divine.|sd
+B|Really?|bh
+A|Yes.|ny
+B|uh,|%
+B|did you like Oklahoma,  while you  were there?|qy
+A|Oh, yes.|ny
+A|Very much.|sd
+A|Yeah.|ny
+B|Um, what did you all do?|qw
+A|Well, my husband was with, uh, begins to be much clearer, a lot less back ground noise and University of Oklahoma and,  Phillips  University in Enid.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|And then he went with, uh, a family corporation that had, uh, has oil and ranching and varied enterprises.|sd
+B|Uh-huh.|b
+A|And, uh, he just quit a perfectly good job and came, we came East|sd
+B|Really?|bh
+A|Yes.|ny
+B|So, is, uh, is he working there then|qy
+B|or|%
+A|Yes.|ny
+A|Uh-huh.|b
+A|He's doing, uh, quite a bit of consulting work and,  has been  offered a permanent position|sd
+B|Oh, uh-huh.|b
+A|and he's contemplating|%
+B|Uh-huh.|b
+A|He, he's liking this free time actually|sd
+B|Oh, yeah.|b
+A|It's just wonderful after all,  these  years of working.|sd
+B|Yeah.|b
+B|Yeah.|b
+B|Well, how did, how did you get, uh, hooked up with the T I switchboard thing?|qw
+A|Um, a gal who works, uh, with T I on this project|sd
+B|Uh-huh.|b
+A|I think she's a temporary worker|sd
+A|Uh, mother is my best friend  in Virginia|sd
+B|Oh, I see.|b
+A|So we have spread the word a little bit in this part of the country.|sd
+B|I see.|b
+B|Uh-huh|b
+B|my wife has talked more than I have, uh,|sd
+B|she's talked to four, five different people.|sd
+B|It seems like she hasn't talked to anybody from Dallas.|sd
+B|In fact, she's talked to a couple of people from North Carolina, I  think.|sd
+A|Really?|bh
+B|Yeah.|ny
+A|Uh, what is her name?|qw
+B|Her name's Tina|sd
+A|Yeah.|b
+A|Well, I haven't talked to her.|sd
+A|I haven't,  I  haven't talked to a Tina yet|sd
+B|Yeah.|b
+B|Uh-huh.|b
+B|uh, the, the call was probably for her.|sd
+B|They wouldn't accept my, uh, T I N number,|sd
+B|so we put hers in.|sd
+B|But, uh, uh, like I said, we're getting, getting the kids ready to go to the birthday party,|sd
+A|Yeah.|b
+B|so.|%
+A|Yeah.|b
+B|But, uh, some of|%
+B|yeah,|%
+B|I, I've only talked to one or two|sd
+B|and they've, they've all been in Dallas.|sd
+B|But, she hasn't talked to anybody, in Dallas, yet.|sd
+A|Yeah.|b
+A|Yeah.|b
+B|So, that's interesting.|sv
+A|Well, you haven't told me, uh, what sports that you are active in.|ad
+B|Well, the sport I like best probably is basketball.|sd
+B|But, uh, I guess I'm probably better at softball.|sd
+B|And so I'd,|%
+B|like during the summer months it's, occupies quite a bit of my,  time.|sd
+A|Yes.|b
+B|But, I play in a couple of leagues and, and occasionally in a tournament or something on a weekend.|sd
+B|But, my family usually goes with me.|sd
+B|We try to do everything we can together.|sd
+A|Well, I think that's, uh, easy entertainment for a,  family,  too.|ba
+B|Yeah.|b
+B|Yeah.|b
+B|Well, they, uh,|%
+B|a good friend of mine that plays on one of my teams, we, uh,|sd
+B|that's usually the team I play on with the tournaments and stuff,|sd
+B|and they have a couple of kids that are almost my kids age.|sd
+B|So they play together,  pretty well|sd
+A|Under the stands.|^2
+B|and,|%
+A|Under the, bleachers.|^2
+B|Yeah.|b
+B|Yeah,|aa
+B|pretty  much.|aap_am
+B|And, uh, Tina enjoys, uh, the other lady, real well.|sd
+B|So they,|%
+B|you know, that's kind of nice.|sd
+B|It's like getting together with,  them.|sd
+A|Yes.|b
+A|Well, it's getting,  a little hot,  isn't it?|qy
+B|So to speak.|na
+A|It,|%
+B|Yeah.|b
+B|Well, it's been raining a lot here so far.|sd
+B|So we haven't really had any kind of real heat.|sd
+B|I think it's going to be warm enough this afternoon, we were noticing a while ago it's already eighty in, in the house.|sd
+B|So, it looks like an air conditioner,  day.|sd
+A|Yeah.|b
+B|But,|%
+A|It sure does.|ba
+A|Or maybe this evening anyway.|sv
+B|Yeah.|b
+B|It,|%
+B|yeah,|%
+B|but, you know, I'm sure you're familiar with that living,  here.|sv
+A|Very,  much so.|aa
+B|We go, we go through Enid, you know, quite a bit.|sd
+B|We go to Tulsa from time to time.|sd
+B|And my, my parents live in southern Illinois.|sd
+B|So, we drive,  up  there.|sd
+A|Yeah.|b
+B|And, well, lot of times we take seventy-five|sd
+B|and, uh, it seems like, seems like that goes through Enid, I know,|sd
+A|No.|ar
+A|No|ar
+A|it doesn't.|sd
+B|I've either seen the signs or,|sd
+A|Enid is, uh,|%
+A|it's in the northwest.|sd
+A|It's, uh, directly across the straight, uh, state from Tulsa.|sd
+A|Uh,|%
+B|Um.  I know I've seen, the sign somewhere.|sd
+A|Sure you have.|aa
+A|Yes.|b
+A|Well, Enid is, not, uh, an unknown little city.|sd
+B|Yeah.|b
+A|It, uh|%
+B|Right.|b
+A|an awful lot of people know where it is, or have been there.|sd
+A|And it,  was,  uh, a very, uh, self-sufficient, uh, wealthy uh, town, for a long time, anyway You know until, uh, everything happened,|sd
+B|Uh-huh.|b
+B|Uh.|b
+B|Uh-huh.|b
+A|the bottom fell out.|sd
+A|But,|%
+B|Oh, uh-huh.|b
+A|it's beginning to do well.|sd
+A|But, there's a lot of, uh, old time wealth there that, has helped to stabilize things.|sd
+B|Oh, uh-huh.|b
+B|Uh-huh.|b
+B|So, uh, how|%
+B|you said you've just lived in North Carolina just like,  six  months then is,|qy^d
+A||no
+A|Yes.|ny
+A|Something like that.|sd
+B|And you really like,  it  there, huh?|qy
+A|Oh.|b
+B|I've heard so many people talk about that area.|sd
+B|I've never been there|sd
+A|Well  it's, it's and children in the  pretty.|sd
+B|but they sure,  say it's pretty.|sd
+A|The weather is wonderful.|sd
+A|Uh, this winter we,|%
+A|it was just,|%
+A|we had so many wonderful days.|sd
+A|And,|%
+B|Uh-huh.|b
+A|uh,  I,|%
+A|if it got to be forty degrees, I decided it was too cold to, to walk the dogs|sd
+A|Isn't it, funny how how, your standards change|qy
+B|Uh-huh.|b
+B|Yeah.|ny
+B|Yeah.|ny
+B|It really does.|sd
+B|My wife and I spent a couple years, uh, doing church work up in the state of Washington right,  on  the coast.|sd
+A|Yes.|b
+B|And it rains, you know, a lot there.|sd
+A|Sure.|ba
+B|But, you get used to it.|sd
+B|I mean, it's like a fine mist all the time|sd
+B|and it doesn't really,|%
+B|it gets to where it doesn't bother, you.|sv
+A|Well, foggy and, misty.|sd
+B|Really?|bh
+B|It,|%
+A|The moss grows, on the trees in the woods up , eight, ten, feet.|sd
+B|Uh-huh.|b
+B|Right.|b
+B|Right.|b
+B|Yeah.|aa
+B|That's the way it is, was,  there, too.|sd
+A|Yeah.|b
+A|I  think, however, that's like February.|sd
+A|Uh, I know it did it all February.|sd
+A|And some people said to me, "Well, that's our wintertime."|sd
+B|Oh, uh-huh.|b
+A|Well, I know you,  need  to go.|sv
+B|But,|%
+A|And I've enjoyed talking to you.|fc
+B|Well, I have enjoyed talking to you, too.|fc
+B|It was nice,  to talk to  you.|fc
+A|Thanks so much.|fc
+A|Have a,|%
+B|I hope you enjoy,  North Carolina.|fc
+A|Oh, thank you.|fc
+A|And I hope you enjoy,  and get through that birthday party.|fc
+B|Well, I hope,  I live through  it.|fc
+A|Yeah.|fc
+A|I do,  too|fc
+B|That's what I hope.|fc
+B|Okay.|fc
+B|Thanks a lot.|fc
+A|Bye-bye.|fc
+B|Good-bye.|fc

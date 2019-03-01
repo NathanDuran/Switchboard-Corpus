@@ -1,0 +1,78 @@
+A|Your turn.|ad
+B|Okay.|aa
+B|Uh, I don't think they should abolish it|sv
+B|I think, I think if they put it into force more often, they wouldn't have as many problems as they've got.|sv
+A|But not for petty theft?|qy^d
+B|Right.|na
+B|No,|nn
+B|no.|nn
+B|For major things like premeditated murder. Mass murders. Uh, you know, that type of thing.|sv
+B|I don't think it should just be used loosely.|sv
+A|Well, it should be used as a deterrent do you think?|qy
+B|Well,|arp_nd
+A|Or should it be used, uh,|qrr
+B|Yes,|ny
+B|yes.|ny
+B|To  prevent these people from ever getting out on the street. By, you know, some technicality.|sv
+B|And they go down the line ten years|sv
+B|and then on some little technicality they get out and on the streets again doing the same they did before.|sv
+A|Uh-huh.|b
+B|And, you know, that's about the only thing.|sv
+B|Like for petty, for theft and, and stuff like that or manslaughter, you know,|sv
+B|I don't  think they should do that.|sv
+A|Well, you know,  there's this old, uh, Jewish, is it, saying about an eye for an eye and a tooth for a tooth.|sd
+B|Oh,  well, I guess,  if I, if it was someone in my family, I'd probably feel that way.|sv
+B|You know, I've never had anybody in my immediate family, uh, murdered|sd
+B|and so I really wouldn't know.|sd
+B|But, but I feel like if I did, I probably would feel that way.|sd
+A|Well, one of the things I was thinking about is, uh, you know, from society's point of view, if you put a value on each person, what you want to do is to maximize the end game value.|sv
+A|So if you have someone that, that destroys that value uh, then what you want to take steps to, uh, minimize the loss.|sv
+B|Uh-huh.|b
+A|Of course, you have to also put value on the criminal.|sv
+B|Right.|b
+A|So if you terminate him, that's a loss of value.|sv
+B|Well, that's true|ba
+A|So, you know, if you weight everyone equally, then you have to say, well the likelihood of not terminating him,|sv
+A|if you don't terminate him, the likelihood is expected value of loss of life is greater than one person.|sv
+A|In other words, you'd have to, you'd have to murder more than one other person uh, in order to justify taking his life.|sv
+B|Besides him.|^2
+B|Okay.|b
+A|Another way you could do it is weight this value by, uh, the value to society of the people. Uh, which is pretty delicate thing to do.|sv
+A|But one way of doing it is, uh, by income.|sv
+A|So if this guy doesn't make a great deal of money, which is often times the case,  then  then he's obviously not worth very much|sv
+B|His life  isn't worth very much then|^2
+A|and so, uh, the likelihood that, you know, maybe expected, expected murders by him is, is, uh, integrated over the income of the people, uh, that he murders is maybe, you know, a loss of, who knows, eight hundred thousand dollars.|sv
+A|Uh, but if he only, uh, integrated, you know, integrated income over the expected remainder of his life of is, uh, small, less than eight hundred thousand dollars, then you terminate him|sv
+A|Of course, one of the things that happens if you use that algorithm, is you find that it's more easy, it's easier to, uh, to, uh, terminate older people than younger people since the integration of their income over the rest of their lives is going to be less. Which means, well|sv
+B|Right.|b
+A|I suppose you could say, well that has something to do with potential for rehabilitation.|sv
+B|Potential.|b^m
+B|I mean that's, that's the key right there. Potential.|sv
+A|Uh-huh.|b
+B|Now,  are they, are they rehabilitative or, or not.|sv
+A|Now that's all fine and well and, and, uh, good philosophical.|sv
+A|But if you're involved yourself, personally|sd
+B|Uh-huh.|b
+A|uh, I know I have a friend whose, uh, son was murdered, uh, on the night before his sixteenth birthday.|sd
+A|And let me tell you, uh, I, I knew them personally, uh, not intimately, but quite well|sd
+A|and, uh, you're talking about real trauma. I mean trauma that extends beyond the counting of bodies.|sd
+B|I can imagine.|ba
+A|The father, you know,|sd
+A|of course, a parent losing a teenage child is about as bad as it could possibly get, I think, in terms of psychological impact.|sv
+B|Yes.|ba
+A|Uh,  and,|%
+B|Was he  murdered?|qy
+B|Did they find who killed him?|qy
+A|Oh, yes.|ny
+A|They found him|sd
+A|and he is on trial for capital murder.|sd
+B|So it hasn't been a long time ago.|qy^d
+B|Just recently.|qy^d
+A|Uh, well,  actually he has, I, I'm sorry. He was convicted, uh,|ng
+A|and, of course, now, you know, and you go through two or three hundred years of appeals process|sd
+A|but|%
+B|Yeah,|b
+B|yeah.|b
+B|That appeals process, I mean, it's what, you know, really, you know, just drags out and out and out.|sv
+B|My brother-in-law here in Texas, his, by marriage, my sister's, uh, husband, his sister was murdered down here by a guy in, in, well actually in Houston|sd
+B|and, uh, he,|%

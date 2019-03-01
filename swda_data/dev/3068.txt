@@ -1,0 +1,182 @@
+A|Well, Steve, did you go to college?|qy
+B|Yeah.|ny
+B|In fact, I'm still going.|sd
+A|Oh, that's good.|ba
+A|So you probably could give some great advice.|qy^d
+B|Uh, well, I don't know about that,|arp_nd
+B|but I, in fact, I'm in the process of trying to choose a P H D school.|sd
+A|Uh-huh.|b
+A|Well, what's your what's your interest,|qw
+A|your, uh,|%
+B|Uh, well, computer science and cognitive science.|sd
+A|Uh-huh.|b
+B|So,|%
+A|That, that's similar to what,|%
+A|I'm in a P H D program right now.|sd
+B|Oh, I see.|b
+A|And, uh, my area of expertise, it's information systems, which is a little bit less technical, I think, than, uh, than computer science.|sv
+A|But my area of expertise is, uh, uh, human computer interaction.|sd
+B|Oh, yeah.|b
+A|And I think that's one reason why I'm part of this study, uh, because it's of, I'm working with voice systems.|sd
+B|Yeah.|b
+A|Yeah.|b^m
+A|So, so, good luck.|ba
+A|I guess we should talk about giving advice, though.|ad
+A|what, what type of advice do you think you'd give to a, a parent?|qw
+B|To a parent?|qy
+A|Yeah.|ny
+B|Well, you know, the thing is, when you're a kid and the kid at that age, especially if they're going into undergraduate, it seems like they think they know what they want.|sv
+A|Uh-huh.|b
+A|Yeah.|b
+B|An, and, I mean, choosing from my experience, you know, I thought, you know, my, I know what I want a lot more than my parents know what I want.|sd
+A|Uh-huh.|b
+B|But, uh, I don't know,|h
+B|at the same time, you have to decide what is important about the school,|sv
+B|you know, the size of it or,|sv
+A|Yeah.|aa
+A|I think that's more important probably than even the career vocation, because most people change.|sv
+B|Yeah.|b
+A|I I know very few people that, uh, started in one field and stayed with it.|sd
+A|You know, they,|%
+A|I think that's what you just said, you know, having to do more with the size of the school, the environment of the school, uh,|aa
+A|I think that's much more important.|sv
+A|I, I think I'd, I'd advise a parent to send a kid to a school, though, that has a number of different types of programs, you know,|sd
+A|that, uh, some of the smaller schools might be very limited in what they can offer,|sv
+A|but some of the, uh, the small, some of the larger small schools, you know, I guess around three or four thousand students have a, can offer a broader range of curriculums and things,|sv
+B|Yeah.|b
+A|so if the kid does change, they don't have to transfer,|sv
+A|or they don't have to, uh, uh,|sv
+A|I don't know, they don't have to give up years of, you know, of credit transfer and things.|sv
+B|Yeah.|aa
+B|That's disruptive.|sv
+A|Yeah.|b
+A|I normally,|%
+A|and, and parents hate to hear this, you know,|sv
+A|because I, I actually teach college,|sd
+A|I hate to, uh, I hate to talk to the parents|sd
+A|because, um one of the reasons is because, you know, the kid doesn't know exactly what they want,|sv
+A|and I always say make sure you major, in something that you like, even if it's not going to be your career vocation, because you'll get better grades.|sd
+A|I, I think most employers would probably rather hire, you know, a, a three six in, um, in history, uh, to be a salesman than someone with a two oh in business administration.|sv
+B|Oh, yeah.|b
+A|Does that make sense?|qy
+B|Yeah.|ny
+B|Well, yeah,|ny
+B|I see what you're saying.|sd
+A|Yeah.|b
+A|I always, you know, tell them that you should major in something you, you're going to get good grades in. Because that, that's always, I think, more important, you know, overall.|sv
+B|Yeah.|b
+A|I don't know.|h
+B|Uh, give me five minutes.|t3
+A|Yeah.|b
+A|Oh, you, you're at the office now?|qy
+B|Yeah.|ny
+A|At work?|qy
+A|Yeah.|%
+B|Yeah.|qy
+B|I'm just getting ready to go to lunch|sd
+B|Uh, yeah,|%
+B|that's like what we were saying, though,|sv
+B|would you, uh, advise a private school, or a public school,|qy
+A|I would, I would, it would,|na
+B|you know, what's the trade off there,|qw
+B|what,|%
+A|I, I tell you,|^h
+A|I live in Maryland,|sd
+A|and the public schools here are, pretty good.|sd
+A|I teach at a public school, actually,|sd
+A|and I know that the S A T scores for our admitting freshmen are higher than a lot of the public a lot of the private schools.|sd
+A|And, um, I actually, I would full time at a, at a public school,|sd
+A|and then right now I'm teaching part time at a private school, at a Catholic institution.|sd
+B|Oh, I see.|bk
+A|And, um and I really think, I think I'm getting a better caliber of student at the private school, because I think their parents pay more,|sv
+A|and I think the kids are a little bit more challenged, because their parents are probably college educated,|sv
+A|where at the public school, I don't think as many parents are public, are, are college educated,|sv
+A|and I don't, I think because it costs less, the kid doesn't take it quite as serious, you know,|sv
+A|they're not,|%
+A|it, it's the minimal cost.|sv
+A|But I think you can get a good education at public or private|sv
+A|but I think you can also get a bad education at public or private, you know,|sv
+A|I|%
+B|Yeah.|b
+A|you have to really, you have to look around at the school.|sv
+A|I, I think the bad part is that most parents or kids don't know what to look for.|sv
+B|Yeah,|aa
+B|yeah.|aa
+B|I think, uh, I would agree with that.|aa
+B|In fact, the thing that, I'm going through the same thing, where in graduate school, I was trying to choose .|sd
+A|Uh-huh.|b
+B|You know, a particular institution might be better for my area|sv
+A|Right.|b
+A|Uh-huh.|b
+B|yet, like, say, you know, the University of Small Town in Arkansas or something, might have some top specialists in my area.|sv
+A|Uh-huh.|b
+A|Right.|b
+B|Yet, if I go to U of I or C M U or, you know, some, you know, any big name school, my quality of education might not be that much better,|sv
+B|but it's the same thing,|sv
+B|there's, you know, what will the name recognition, get me, kind of thing.|sv
+A|Right.|b
+A|Yeah,|b
+A|does it have a big ten football team|qh
+A|or,|%
+B|Yeah,|aa
+B|yeah|aa
+B|That's that's usually the basic criteria.|sv
+A|Yeah.|aa
+A|I mean, uh, yeah,|aa
+A|is it a PAC ten school, you know.|qh
+B|Yeah.|b
+A|But I think,|%
+A|yeah,|%
+A|see, I'm, I'm at the University of Maryland, so in this, this region, um, though I go to a smaller branch of the University of Maryland, my diploma will still say University of Maryland.|sd
+B|Oh .|b
+A|Um, you know, it doesn't, doesn't differentiate on my diploma, though I would put it on my resume, what program I went to.|sd
+A|But I, I think, you know, I'm actually at a smaller program,|sd
+A|I'm not at the the big College Park campus, you know,|sd
+A|that's the big one with the football team.|sd
+B|Yeah.|b
+A|So I, I think, um, I think you're right, that there's a lot of, there's difficult decisions there based on name recognition.|aa
+A|Um, you know, when I first was applying for graduate schools, I applied to some big programs, you know, in this area, like Stevens Institute of Technology, which is recognized in the Northeast as, as, you know, one step below M I T in a sense, you know,|sd
+B|Yeah.|b
+A|so it's got big name recognition in this area, a big science school, no football team, but a big science school,|sv
+B|Yeah.|b
+A|and technical people know that.|sv
+A|But I|%
+A|yeah,|%
+A|I think you're right,|aa
+A|you really have to think about that for the job.|sv
+A|I went to a very small state college when I got my bachelor's,|sd
+A|and when I,|%
+A|now, I was in education at first when I was looking for jobs,|sd
+A|I was going to be a teacher,|sd
+A|I was just a high school teacher,|sd
+A|so most people recognized that institution because it was a teaching school sort of,|sd
+B|Yeah.|b
+A|you know, but then when I went, um, for graduate work, you know, or for a new job, people said to me, you know, Shippensburg State, where is that, you know|sd
+B|Yeah,|b
+B|yeah|b
+A|And, you know, when I went into higher education, even at other universities, they weren't aware of it, you know.|sd
+B|Yeah.|b
+A|So I think yeah,|sv
+A|that's important,|sv
+A|um, I think it depends on if you want to be a, if you want a regional job or a national job,|sv
+A|you need that first, job or so out of school, too.|sv
+B|Yeah.|b
+B|Yeah.|aa
+B|I, I guess another thing that concerns me is, uh, so many people, it seems like everybody today is still in that job market talking to someone else in|sv
+B|and, uh, um, where was I at?|qw
+B|Oh, in going to school, you get taught the things you learn in school,|sv
+B|but there is also a whole other dimension, I mean the growing up while you're going to school part.|sv
+A|Uh-huh,|aa
+A|yeah.|aa
+B|And, uh, actually, in the Midwest especially, a lot of the schools have, like University of Missouri, will have a main campus like Columbia, which is big, multi disciplinary,|sd
+A|Right.|b
+B|and they'll have a satellite campus in a, usually in a smaller town that specializes in the technical field.|sd
+B|So you've really, uh, I guess sacrificed some social exposure to different groups and everything.|sv
+A|Uh-huh.|b
+A|Right.|b
+A|Yeah,|aa
+A|depending on your technical areas.|sv
+A|Yeah,|aa
+B|Yeah.|b^m
+A|I could see that.|ba
+A|But, you know, at some of the large schools, I know that at, at, at University of Maryland where I am, you know, in a P H D program, I, I haven't even met, uh, someone outside of my area of information systems except for,|sd

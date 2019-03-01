@@ -1,0 +1,117 @@
+A|So, uh, do you happen to be working for a large firm?|qy
+B|Well, it's about three hundred and fifty people.|no
+B|I guess that's not large compared to some,|h
+B|but it's big enough.|sv
+A|Uh-huh.|b
+B|And they have a, they don't have any kind of pension plan where they contribute anything|sd
+B|and I wish they did.|sd
+A|Yeah.|b
+B|You know, they have a four O one K,|sd
+B|but I put all the money into it.|sd
+A|Uh-huh.|b
+B|They don't add anything.|sd
+B|What about you?|qo
+A|Uh, I work for a fairly large company.|sd
+A|It's got eight thousand people.|sd
+B|Uh-huh.|b
+A|And, uh, we do have health insurance.|sd
+A|We don't have four O one K plan, stuff like that,|sd
+A|but we do have, like, retirement.|sd
+A|They kind of match up to, you,|sd
+A|if you put six percent, they match up to six percent,|sd
+A|and then the rest is whatever you want to put in. If you put more than that or something like that.|sd
+B|Oh, that's a pretty good deal.|ba
+A|It's not bad.|aa
+B|Now, how long does it take for your contribution to vest?|qw
+A|God, I don't know.|sd
+A|It's probably a long time|sv
+A|I'm sure it's not till like twenty-five years, thirty years.|sd
+B|Yeah,|b
+B|the place I work at's, health insurance is kind of expensive.|sd
+B|It's like hundred bucks a, a month or something for a family.|sd
+A|Yeah.|b
+A|Huh, well, I guess what we have is like a what they call a flex benefits plan where you, you get like a certain amount of dollars|sd
+A|and then you spend it on a cafeteria of whatever you want or need.|sd
+A|Otherwise you can, uh, guess you can put, also put money, hold money back and then either use or lose it and that doesn't get taxed or can just have that money, you know, put in your paycheck.|sd
+B|Yeah,|b
+B|we have one of those use it or lose it plans, too, where, uh, they'll basically pay for, uh, you know, child care type, uh, expenses.|sd
+B|I can send in a, uh, can send in a request for payment|sd
+B|and they'll, uh, and they'll send me, a check for the amount they withheld.|sd
+B|That's pretty good, you know.|sv
+B|It's, uh, it saves a third off on taxes or something.|sd
+A|Yeah|b
+A|well, it depends on which company you work for.|sv
+A|I know that, like, the, the, the one plan that everyone seems to be in, in my place is, uh, you know, you, uh, think you call it plan D|sd
+A|another example like I guess it's alzheimer's Deductibles are really high,|sd
+A|it's like fifteen hundred dollars,|sd
+A|but if you go for the other ones you're paying too much money for them because it's unlikely, if you're relatively, uh, healthy, then it's really unlikely that you'd use that much, amount of money, you know.|sv
+A|So, it, someone did start a cost benefit analysis,|sd
+A|and ends up the best is to take a high deductible and, and take a loss, whatever happens to be, if you happen to be a healthy individual|sd
+B|Yeah,|b
+B|I guess,|aap_am
+B|uh, on the other hand, you know, I, I had a similar, had a similar health plan|sd
+B|and, uh, one of my kids was in a car accident|sd
+B|and, uh I had, wound up having to pay for, you know, a bunch of doctor visits and stuff out of my pocket because of, you know, no, no insurance policy happened to cover it, which is,|sd
+A|Um.|%
+A|Really?|bh
+A|You mean, not even your, your, your car insurance?|bf
+B|Well, it, it got all screwed up because I had a high deductible on the health insurance, no fault here,|sd
+B|and, and I had a high deductible on the on the, uh, on the car insurance|sd
+B|and then you know, we just goofed up the medical insurance and the car insurance and stuff and blew it|sd
+A|Oh, that's too bad.|fo_o_fw_"_by_bc
+B|Oh, well.|bd
+A|Yeah|b
+A|uh, well, I don't know,|h
+A|I think other than health insurance, I think, uh, you know, an extra week of, uh, time off would be nice.|sv
+A|I only get two weeks.|sd
+B|Yeah,|b
+B|yeah|b
+B|my place you get two weeks when you start|sd
+B|and then every, every year they give you an extra day until you've got four weeks.|sd
+A|Oh, that's nice.|ba
+A|We don't get them till, till your seventh year of service till you get an extra week.|sd
+B|Aye.|ba
+B|That's a long time.|sv
+A|Yeah,|b
+A|it's, uh,|%
+B|Yeah,|b
+B|especially in the kind of engineering job I'm in, you know, companies don't stay afloat that long|sv
+B|and, and they,|%
+A|Uh,  with the telecommunications type of company, supposedly you, used to be much more stable.|sd
+A|It's a lot less stable than it used to be.|sv
+A|They used to have job security|sd
+A|but now they don't.|sd
+B|So you work for Bell or something like that?|qy
+A|Yeah,|ny
+A|it's the Bell Corps, which is, uh,|sd
+B|Right.|bk
+A|Yeah.|b
+B|Right.|b
+A|So, I don't know,|h
+A|it's, it's, uh, no longer|%
+A|So that's what,|%
+A|I think it's still based on the old model of,|sv
+A|and, and now they don't, uh,|%
+B|A lifelong job security|^2
+B|telephone pioneers of America,|bf
+A|Yeah.|aa
+B|all that stuff, huh.|^g
+A|Yeah,|ny
+A|but they, no, no longer|sd
+A|I don't think so.|sd
+B|Right.|b
+A|Uh, hearing a|%
+A|there's always, they're always laying people off, which is another benefit that you can have other than salary is trade that off for security.|sd
+B|Is it, I mean, does it,|qy
+B|they must have pretty good severance, though, huh?|qy
+A|Oh, I don't know,|no
+A|we don't, we haven't been doing layoffs.|sd
+A|We've been doing, uh, down sizing with, uh, getting rid of extra layers of management.|sd
+A|And, uh, I don't know what they do for those people.|sd
+B|Mean the, the, the management they get rid of?|br
+A|Some of it,|sd
+A|yeah.|ny
+B|Um.|%
+A|There's too many manage, too many chiefs and not enough Indians|sv
+A|but,|%
+B|Oh, they, they put,|%

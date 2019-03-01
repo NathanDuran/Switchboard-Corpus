@@ -1,0 +1,337 @@
+A|You said you have four cats?|qy^d
+B|Yes,|ny
+B|I have four cats.|sd
+A|How old are they?|qw
+B|Well they range from, let's see about a year and a half to nine years old.|sd
+A|Oh gosh.|b
+B|Yes.|b
+A|I haven't had my oldest one quite nine years,|sd
+A|I've had him probably five years.|sd
+B|Oh okay,|bk
+B|you get so attached to them.|sd
+A|Oh yes,|aa
+A|I love my cats.|sd
+A|I lost one, one time, uh,|sd
+B|Oh.|b
+A|the first one I got.|sd
+A|He jumped off the balcony actually, of a second story apartment.|sd
+B|Oh no.|ba
+A|And he'd never been outside, like, you know, by himself outside.|sd
+B|Uh-huh.|b
+A|And it started raining|sd
+A|and I was hysterical.|sd
+A|I was, I was,|%
+A|I mean, you would have thought a child had died.|sd
+B|Yes,|b
+B|uh-huh.|b
+A|I called everyone I knew,|sd
+A|I had every friend I knew in the apartment searching for this cat.|sd
+B|Yes,|b
+B|I understand.|ba
+A|And they laughed at me,|sd
+A|they thought that was so hysterical.|sd
+B|Oh no,|ba
+B|I understand,|ba
+B|we, uh, we've gone through the same things with ours,|sd
+B|we've had, you know, they've been ill,|sd
+B|I mean I take off work, to take care of my cats, you know,|sd
+A|Oh yeah.|b
+B|my boss thinks I'm absolutely crazy.|sd
+B|And then we had a baby|sd
+B|and it's like, all right who comes first the cat or the baby.|sd
+A|The cat was here first|bf
+A|so I know,|sd
+A|it's hard.|sv
+B|And, and then when we go to sleep at night, you know, it's like my husband and I have to try to get any space on the bed because we have all four of them up there with us.|sd
+A|Oh, how funny.|ba
+B|It's like all right, whose corners is this one.|sd
+A|That's sweet,|ba
+A|I have the two,|sd
+A|the other two cats I have are outdoor cats.|sd
+B|Oh, uh-huh.|b
+A|And they didn't used to be actually,|sd
+A|but they got kind of wild and weren't doing very well inside,|sd
+A|so I put them outside once I got a house|sd
+A|and they're doing great out there,|sd
+A|they love it.|sd
+A|But the other one, the first one I got he doesn't want anything to do with outside unless you're there.|sd
+B|Oh, uh-huh.|b
+A|Other than that he gets scared to death.|sd
+A|If you shut that door he goes into hiding.|sd
+B|Oh no.|ba
+A|I think it's from the time he jumped off the balcony|sd
+B|Yes,|aa
+B|uh-huh,|aa
+B|that's it|sv
+A|And Lord knows what happened to him.|sd
+A|He's probably been through all kinds of nightmares.|sd
+B|Right,|aa
+B|traumatized for life here.|bf
+A|Probably.|aap_am
+B|Oh yeah,|b
+B|we've,|%
+B|all four of ours are house cats.|sd
+A|Are they.|bh
+B|We started out with two, with two outdoor cats|sd
+B|but our neighbor decided he didn't like cats and shot one of them.|sd
+A|Oh no.|ba
+B|Oh well he lived through it,|sd
+B|oh, I couldn't believe it.|sd
+B|We went through like twenty-two hundred dollars worth of vet bills.|sd
+A|Oh my gosh.|ba
+B|The, the cat almost died,|sd
+B|and but he turned out to be such a wonderful cat,|sd
+B|oh he loves life now.|sd
+A|Oh, I imagine.|ba
+B|And he's like oh, thank you so much.|sd
+A|I wonder how many of his lives he missed, when that happened.|sd
+B|I know,|aa
+B|we wondered about that.|sd
+B|But, uh, oh that was a traumatic experience for us too.|sd
+A|Oh, I can imagine,|ba
+A|what did he shoot him with.|qw
+B|Uh, well, uh, from what we can tell it was a pellet gun|sd
+B|and then he started chasing him with a bull whip.|sd
+A|Oh my gosh.|ba
+A|People are crazy.|sv
+B|Oh yes,|aa
+B|absolutely nuts.|sv
+B|But, uh, luckily enough, you know, we found the cat in time and, uh, rushed him to the vet|sd
+B|and it took us about six weeks of in and out of the vet and surgery|sd
+B|and,|%
+A|Oh Lord.|ba
+B|I mean he started off as a stray|sd
+B|and then we did all this for him|sd
+A|Oh man.|ba
+B|But oh, he's been a wonderful cat.|sd
+A|I imagine.|ba
+A|They usually are after something like that happens to them.|sv
+A|It seems to mellow them or something.|sv
+B|Oh yes.|aa
+B|But, uh, we wouldn't we wouldn't have them,|sd
+B|I mean, I don't see us without pets, without cats.|sd
+A|No.|aa
+B|There's just, uh, there's this, they just fill this void.|sd
+A|Oh yeah,|aa
+A|I I keep talking about getting rid of my outdoor cats because I feel like I don't, I can't take care of them as well because they're outside,|sd
+B|Uh-huh.|b
+A|and it worries me that one day one of them won't come back,|sd
+B|Yes.|aa
+A|and I feel like they need a big home, a nice place where someone can have the time to play with them and things.|sd
+A|But I can't give them up.|sd
+B|Oh no.|aa
+A|I just, I go hysterical when they don't come home.|sd
+B|Right|aa
+B|and you worry about, oh, who's taking care of them.|bf
+A|Oh, oh yeah,|aa
+A|and every time you see one hit on the side of the road you say is that my cat.|sd
+B|Uh-huh.|b
+A|And you go crazy thinking it might be yours.|sd
+B|Right,|aa
+B|well I didn't realize my husband was such a sucker for animals until I brought one home one night.|sd
+B|We, I had one that had, we had, we had to put to sleep he got so sick.|sd
+A|Uh-huh.|b
+B|And, uh, well I fell in love with this, uh, it's a Chinchilla Persian, and, uh, brought him home,|sd
+A|Ugh!|ba
+B|and oh, my husband just died.|sd
+A|Really.|b
+B|It was like we can't take it back|sd
+B|you've got, we've got to keep it now.|^q
+A|It's here now,|bf
+A|we have to keep it.|bf
+A|Yeah,|b
+A|my, my first one that I got,|sd
+A|I had just moved away from home and got my own apartment.|sd
+A|It took me about two weeks to realize, that was real lonely.|sd
+B|Uh-huh,|b
+B|uh-huh,|b
+B|yes.|b
+A|So I found this one|sd
+A|and, uh, actually it was on a sign at Taco Bell drive-thru that said free kittens.|sd
+B|Oh uh-huh.|b
+A|And I thought well that's interesting,|sd
+A|I'll call them.|^q
+B|Right.|b
+A|And he was the only one left|sd
+A|and his mother had been killed coming back across the road to make sure she'd gotten all her kittens.|sd
+B|Oh, uh-huh.|b
+A|And he was the last one she carried across, you know,|sd
+A|the whole big sad story.|sd
+B|Oh.|b
+A|So of course, I had to take him.|sd
+A|I felt so sorry for him after that.|sd
+B|Right,|b
+B|right.|b
+A|And he is, uh, you can tell he was weaned too young because he'll nurse on your ears and your fingers.|sd
+B|Oh no.|ba
+A|Yeah,|b
+A|he,|%
+A|I asked the vet why he did that|sd
+A|and he said he was probably weaned too young, which he was, because his mom was killed,|sd
+A|so.|%
+B|Yeah.|b
+A|But he is the lovingest cat.|sd
+A|Everybody, people who don't even like cats, like him.|sd
+B|Oh.|b
+A|He never meows,|sd
+A|he, he doesn't have any front claws,|sd
+A|I had him declawed,|sd
+B|Oh, uh-huh.|b
+A|but he doesn't bite anybody|sd
+A|he's just, he's just kind of there, real friendly and docile.|sd
+B|Oh that's good.|ba
+B|Oh we just, uh, just love them.|sd
+B|They, uh, you know, get to feeling so lovey and dovey|sd
+B|and they'll come up and just start kneading in our chest|sd
+B|and it's like oh, your claws need trimming.|sd
+A|Oh yeah,|aa
+A|yeah,|aa
+A|we do, we call that doing biscuits,|sd
+B|Oh yes,|b
+B|yes.|b
+A|it looks like their kneading bread *spelling "their" should be "they're"|sd
+B|Oh it just drives us nuts.|sd
+A|Oh, I just love cats.|sd
+A|I like dogs,|sd
+A|they're okay,|sv
+A|I had, I had a dog when I lived at home|sd
+B|Um, yeah.|b
+A|but they're a lot more trouble than cats actually.|sv
+B|They really are.|aa
+B|The cats are so independent|sv
+B|and they have so much more personality than a dog.|sv
+A|Oh yeah,|aa
+A|they do.|sv
+B|And, but oh, they're so much fun to watch them play.|sv
+A|Oh they are.|aa
+A|I love it,|sd
+A|it's so funny to get more than one cat together, because it brings out their personalities.|sv
+B|Yes.|b
+A|And they just act so funny.|sv
+B|Oh, we've got,|sd
+B|well the two that were outside, they're like brothers,|sd
+B|I mean I've never seen two cats so close.|sd
+A|Really.|b
+B|And, uh, they, uh, will get to playing chase through the house,|sd
+A|Uh-huh.|b
+B|and it is hysterical, I mean|sd
+B|and then the other two cats will follow in pursuit.|sd
+B|It's like this train.|sd
+A|A train of cats running around.|bf
+B|I mean it sounds like a train.|sd
+B|We have wooden floors|sd
+B|and so it just sort of echoes through the house|sd
+A|Oh how funny,|ba
+A|I can imagine.|ba
+A|Yeah,|%
+A|I wouldn't give anything for my cats.|sd
+A|I love them to death.|sd
+B|Oh no,|aa
+B|they're just, they're, they're just, uh, they're wonderful, uh.|sv
+A|What are your cats' names.|qw
+B|Uh, we have, uh, Bonzo, Bear, Poindexter, and Felix.|sd
+A|Oh, how sweet.|ba
+B|And what do you have.|qw
+A|I have Xanadu and Precious, and Rascal.|sd
+B|Oh.|b
+A|Precious and Rascal are brother and sister|sd
+A|and they don't look a thing a like.|sd
+A|Nothing.|sd
+A|Precious is a medium hair yellow cat,|sd
+B|Uh-huh,|b
+B|yeah.|b
+A|and Rascal is a black and white short hair.|sd
+B|Nothing.|b^m
+A|They don't look a thing a like,|sd
+B|Not a thing, goodness gracious.|ba
+A|and they came from the same litter and everything.|sd
+B|We have, uh, uh, tortoise which is a black and, and orange.|sd
+A|Oh.|b
+B|And she's so ugly.|sd
+A|So ugly she's cute,|bf
+A|right.|^g
+B|Yes,|ny
+B|uh-huh.|ny
+B|I mean you can't help but love her.|sd
+B|She's, she's the oldest one and, but, uh, very possessive.|sd
+A|Really.|b
+B|I mean it's like nobody messes with her mamma.|sd
+A|Oh.|b
+B|And, uh, I mean, it comes bedtime|sd
+B|and she's right there.|sd
+A|Is she the oldest one?|qy
+B|Yeah,|ny
+B|she's the oldest.|sd
+B|And she,|%
+B|well in fact I got her when I moved out of the house also.|sd
+A|Really.|b
+B|And so yeah,|b
+B|it's, uh,|%
+B|wouldn't have,|sd
+B|I mean, oh, if something happens to her.|sd
+A|Oh I know|aa
+A|it's like the end of the world.|sv
+B|It will be.|sd
+A|I know that's how I am about Xanadu.|sd
+B|Oh, goodness.|ba
+B|You get so attached to them.|sv
+A|Oh definitely.|aa
+B|My mother has dogs|sd
+B|and I'm like, no.|sd
+A|Yeah.|b
+B|This is nothing like cats.|sv
+A|You can walk a dog|sd
+A|and that's okay for weekend|sv
+A|but cats are good all the time.|sv
+B|Right,|aa
+B|I'm so glad my husband is a cat person because if he was a dog person, no, it wouldn't have worked.|sd
+A|It wouldn't have,|b^m
+A|no|aa
+A|that would be a problem|sv
+B|Oh that's one of the requirements I asked him.|sd
+B|I said, now you do like cats, right.|sd
+B|We don't|%
+A|Have you seen those, uh,|qy
+A|do you ever read COSMO.|qy
+B|Yes,|ny
+B|uh-huh.|ny
+A|There was cartoon in COSMO about a year or two ago|sd
+A|and it had this man sitting on a couch with his date|sd
+A|and there were cats hanging all over him. Hanging on his clothes, you know,|sd
+A|they had ripped him up|sd
+A|and the couch was ripped up and down at the bottom|sd
+A|he said, of course I love cats.|sd
+A|And they were just all over him and sitting on his head, the whole nine yards.|sd
+A|It was so funny.|sd
+B|Oh yeah,|b
+B|oh, the whole time I was pregnant they kept saying, are you getting rid of your cats,|sd
+B|are you getting rid of your cats.|^q
+B|You can't be pregnant and have cats.|^q
+B|I'm like, uh, no, no, no.|sd
+A|Watch me.|^q
+B|Right,|aa
+B|the child will learn to like cats. and deal with them,|^q
+A|Definitely.|aa
+B|I'm sorry,|^q
+B|we are not getting rid of the cats.|^q
+A|Oh I wouldn't either.|sd
+A|There'd be no way.|sd
+B|The whole family was so disappointed|sd
+A|Oh really,|b
+A|oh well.|fo_o_fw_"_by_bc
+B|Right.|b
+A|That's life,|fo_o_fw_"_by_bc
+A|that's how life goes.|fo_o_fw_"_by_bc
+B|Right, uh,|aa
+B|but yes,|aa
+B|we just, just love them to death.|sd
+A|I know,|aa
+A|I love mine too.|sd
+A|Well, it's been nice talking to you.|fc
+B|Well it was nice talking to you too,|fc
+B|I enjoyed it.|fc
+A|Me to.|fc
+A|Bye,|fc
+A|bye.|fc
+B|Bye,|fc
+B|bye.|fc

@@ -1,0 +1,214 @@
+A|I'll let you go first.|ad
+B|Oh, well, what's there to say?|qo
+B|Doesn't seem like it's being carried out very well in my opinion.|sv
+B|Seems like it takes so long between conviction and carrying out the penalty that I don't see that it makes any difference to sentence anybody.|sv
+A|Yeah,|aa
+A|it seems like they could die of old age waiting to get the death penalty.|sv
+B|Yeah.|b
+A|Yeah,|b^m
+A|I know what you mean.|ba
+A|Um, I,|%
+A|in Maryland they, they do have capital punishment,|sd
+B|Uh-huh.|b
+A|and,  uh, I've seen, uh, a lot of people get convicted, sentenced,|sd
+A|and then just nothing happens,  just  endless, endless, endless appeals.|sd
+B|Yeah.|b
+B|Uh-huh,|b
+B|well from what I|%
+B|I saw a statistic just a few days ago, um, so far this year, or was it during the last year, during a year's time, I think it was they executed twenty-five people in the nation.|sd
+B|Meanwhile, there were twenty-five hundred people on death row.|sd
+B|So I, I,|%
+B|and it's building up, you know,|sv
+B|they're, they're convicting them faster than they're executing them|sv
+B|so it's really building up.|sv
+A|Yeah,|aa
+A|what's amazing is some of them have been on death row for a number of years.|sv
+B|Uh-huh.|b
+A|And,  uh, here in Maryland I know we have a real problem with overcrowding in prisons, uh,|sd
+A|just,|%
+B|Yeah,|aa
+B|everybody's got that.|sv
+A|Yeah,|aa
+A|but I mean,  in,|%
+A|here it's, uh, to the point where they were letting prisoners go. Uh, commuting the sentences of those that were in, in jail for lesser crimes,  in  order to put more people in, into the jails.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+B|Uh-huh.|b
+A|And  it was just, uh, amazing to me,|sd
+A|and of course they made a big deal out of the, the few that got out and turned around and committed a crime within five days of getting out,  and  being rearrested an.|sd
+B|Yeah.|b
+B|Isn't, isn't Maryland where the famous Willy Horton case was.|qy
+A|Uh, I can't remember.|no
+A|Refresh my memory.|ad
+B|It was, uh, that was the one that was used so much in the campaign. In the in the presidential race.|sd
+B|Uh, may, it may not have been Maryland.|sd
+B|It may have been Massachusetts,|sd
+B|I don't remember.|h
+A|Um, I don't remember myself.|sd
+B|Anyway, well the question is, you know, do you think, it does make a difference in whether or not a criminal commits a crime|qy
+B|or do you think it can if it's done right?|qrr
+A|Um, I think if they, if they started executing them on a regular basis, uh, that I think it might make a difference.|sv
+A|Right now,  I don't  see it making a difference.|sv
+B|If it,|%
+A|I don't see someone not going out there and committing murder because they're afraid they're going to get sentenced to death.|sv
+A|I mean,  most people  out there committing murders don't care.|sv
+B|Uh-huh|b
+A|They just don't care.|sv
+B|Yeah.|aa
+B|Well I think in large measure the reason they don't care,|sv
+B|it's not because the punishment,|sv
+B|but so many of the people that commit crimes don't get punished.|sv
+A|Yeah.|b
+B|The police don't catch them,|sv
+B|or the courts don't convict them,|sv
+B|or, or they don't serve very much of the time|sv
+B|and so, uh, you know, their, their success rate is very high.|sv
+B|Crime does pay,|^q
+B|you can make a good living at it.|^q
+A|Yeah,|aa
+A|yeah,|aa
+A|and there's, uh, there's a lot of people here in Baltimore that, uh, have|sd
+A|and we just had, uh, a real big cocaine bust,|sd
+A|and of course, you know, they're, they're playing it up real big that it was, looked like it was a very, very small ring|sd
+A|and they just happened to get lucky and catch the guy.|sd
+B|Yeah.|b
+A|But, I  mean, uh, Baltimore has, uh, an all time record for the number of deaths so far this year.|sd
+A|I think they've got over a hundred dead already this year.|sd
+B|Last year it was D C,|sd
+B|I guess Baltimore caught them.|qy^d
+A|Well, it's kind of, it's kind of moved up|na
+A|and you have to remember that it, it, it, uh, there's, I think, X number of people out there that are going to commit murders,|sv
+B|Uh-huh|b
+A|and, uh,  once you kill off a few of them|sv
+B|Yeah.|b
+A|I mean  if you murder a guy because he murdered your partner or something like that, I mean pretty soon you run out of people to murder.|sv
+B|Yeah,|aa
+B|the only consolation is so many of the murders are, you know,|sv
+B|the, the violent people going against each other|sv
+B|and so they, you know,|%
+B|society's not going to put them to death,|sv
+B|well at least maybe the guy they cross next time is going to. Uh,|sv
+B|I think, I think capital punishment is an appropriate punishment for the kind of people where we say, you know, this sort of person is just not acceptable to our society|sv
+B|and we are there by going to remove them from society, not temporarily, but permanently.|^q
+A|Yeah.|b
+B|I mean, I, I personally think life imprisonment,|sv
+B|I don't think much of of life imprisonment. First of all, it's never, turns out to be life,|sv
+B|but second, you know, why should we,|qh
+B|the idea of life imprisonment with no chance of parole.|sv
+B|Well that means you're going to put them in a cage you think it's never ever going to be safe for them to walk the streets again,|sv
+B|well then, why bother.|qh
+B|Just execute them, because that's, that way you're sure they'll never ever going to walk the streets again.|sv
+A|Yeah.|b
+B|So any, any, anybody that says life in prison with no chance of parole, I'd say, uh, give them the death penalty|sv
+B|So,|%
+A|Yeah,|aa
+A|you know, it makes sense, um, you know,|ba
+A|you have the occasional person who may have been falsely accused, but I mean, uh, so few and far between, uh, you know,|sv
+A|makes good T V movies|sv
+A|and that's about it.|sv
+B|Yeah,|aa
+B|and, and also, um, the, the thing I don't like about a lot of these court trials and a lot of these appeals is that it's not based on what is true and what is false|sv
+B|but rather it's on the rules of evidence, what can I hide and what do I have to tell.|sv
+A|Yeah.|b
+B|And I think our courts should be geared much more strongly towards finding out the truth than they currently are.|sv
+A|Yeah.|b
+B|And, and that way we can be sure, you know,|sv
+B|we can find out the truth,|sv
+B|we can find out what really happened and, and base the sentence on what the person did, not on what we're allowed to let the jury hear|sv
+A|Yeah,|aa
+A|I had,|%
+A|my, uh, my father-in-law participated in a, uh, a jury trial,|sd
+A|he was, he was actually on the jury,|sd
+B|Uh-huh|b
+A|and, uh,  this man was accused of killing, uh, I think it was two people, uh, and shooting a, uh, policeman, um, point blank in the face.|sd
+A|Of course he didn't die.|sd
+B|Uh-huh.|b
+A|And,  uh, this was during a holdup of a, uh, uh, a restaurant|sd
+A|and it came out during the trial that, um, they had tried to rob another place|sd
+A|and, uh, when the guy came out with the bag they thought was money, it turned out to be a couple cookies, and, uh, you know, jumbo cookies|sd
+A|and, and so they were so upset from robbing this guy, you know, trying to do this holdup that didn't work that they quite literally were mad and went into a restaurant to hold the place up and just started, you know, shooting people.|sd
+B|Just started shooting people,  because they botched the first job|bf
+A|You know it's,|%
+B|and,  so  now they're going to get even.|bf
+A|Yeah.|aa
+A|Yeah,|aa
+A|and get even with who,|qh
+A|I mean,|%
+B|Yeah.|b
+A|you  know, stupid guys|sv
+A|And, uh, it turned out that the, you know, policeman survived to the point that he was able to, you know, identify the guy.|sd
+B|Uh-huh.|b
+A|And  of course, you know, they tried to make the cop look like he was, uh, a, uh, no good rotten drunk.|sd
+B|Yeah.|b
+A|I  mean it was amazing.|sd
+B|So what was the verdict,|qw
+B|what was the results there.|qw
+A|Oh, he was found guilty,|sd
+A|yeah.|%
+B|Oh.|bk
+A|He,  uh, um,|%
+A|last I heard, he, uh, he beat a push for the death penalty.|sd
+A|Now whether they finally got it or not, I don't know.|sd
+B|Uh-huh.|b
+A|I kind  of, uh, stopped listening after a while.|sd
+B|Uh-huh.|b
+A|Um, you know, he would come home|sd
+A|and, and, you know, after the trial was over he came home and told us what was going on|sd
+A|and of course then they had to go back to you know,|sd
+A|after he had to go,|sd
+B|The, the penalty phase,|qy^d
+B|yeah,|%
+B|they've, decide the penalty separately from the verdict.|qy^d
+A|Right.|na
+A|And, uh, yeah everybody, everybody was pretty much, you know, let's burn him.|sd
+B|Uh-huh.|b
+A|And  that's, you know, that's the way they wanted to do it.|sd
+A|And he was surprised because he thought there was going to be a problem because he, uh,|sd
+A|you know some people on the case were, were a little hesitant on convicting him on some of the charges|sd
+A|but I mean when it all came down, they just, within an hour decided the man's fate.|sd
+B|Yeah,|b
+B|well, you know, you just have to decide, you know,|sv
+B|well there's really two separate decisions there I guess,|sv
+B|one is, did it really happen the way the, the prosecutor said it happened, you know,|qh
+B|is this man really guilty,|qh
+B|and you have to decide that,|sv
+B|but then you have to decide, you know, as a member of society what do I want to do with this guy who did this thing.|qh
+A|Yeah.|b
+B|And that|%
+B|I, I've never been on a jury,|sd
+B|I've never had that experience,|sd
+B|I'm not sure I'd look forward to making that kind of decision about a man's life.|sd
+A|Yeah,|aa
+A|yeah,|aa
+A|well, it, it, it went pretty, pretty quick from what he said.|sd
+B|Uh-huh|b
+A|But I  mean there's, there's, there's a lot of other crimes out there, I mean besides murder,|sv
+A|I think, uh, now if you're dealing drugs now,  caught  more than twice or something, uh,  it,  there's, uh, a death penalty associated with it.|sv
+B|Uh-huh.|b
+B|Yeah.|b
+B|Well the thing I'd be most likely to attach the death penalty to is the violence.|sd
+B|I mean,|%
+B|I can handle people, people selling drugs, you know,|sd
+B|it's, it's wrong,|sv
+B|but it, it's not worth somebody getting executed for.|sv
+B|But we hear so much about the violence and how it's not safe to walk the streets because somebody, you know, these random drive by shootings and that sort of thing.|sv
+A|Uh-huh.|b
+B|And  the people I'd most likely want to sentence to death are the people that just show a really low regard for human life.|sd
+B|That, you know,|%
+B|you, never know when they're going to turn or hurt the next person because it doesn't really matter to them whether someone else gets hurt or not.|sv
+A|Yeah,|aa
+A|yeah,|aa
+A|I agree.|aa
+B|And so I go,|%
+B|these are the kind of people I would like to get out of here and get out of circulation and say I don't, we don't accept your kind in our society.|sd
+A|Yeah,|aa
+A|I agree,|aa
+A|I, I've, I have, uh, a low tolerance for that kind of, uh, that kind of person.|sd
+A|And, uh, as far as, uh, you know|%
+A|there are some, some other crimes that I think, uh, you know, uh,|%
+A|kidnapping, um, you know, when they,|%
+A|I mean kidnapping per se has a certain, uh, uh, fine and penalty associated with it,|sd
+B|Uh-huh.|b
+A|but,  um, some of these people are just out and out brutal.|sv
+A|I,|%
+A|some of the cases I've heard about over the years,|sd

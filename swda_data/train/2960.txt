@@ -1,0 +1,335 @@
+A|Well, do you watch much T V?|qy
+B|Well, I watch in the evening with my kids|na
+A|Your kids.|bf
+A|How many kids do you have?|qw
+B|I have four children.|sd
+A|Oh, goodness.|ba
+A|I have got two.|sd
+B|Well,|%
+A|That is about all I want|sd
+B|Yeah,|b
+B|it keeps you busy, doesn't it?|qy
+A|Yeah,|ny
+A|they do.|sd
+A|They are still babies.|sd
+B|Uh, my children like to watch SESAME STREET.|sd
+B|I watch with them every once in a while,|sd
+B|but that is not my favorite programs.|sd
+A|Oh, well. We have only get two channels.|sd
+A|We do not have cable.|sd
+B|Uh-huh.|b
+A|But I am not crazy about T V much.|sd
+A|It just,|%
+A|well it kind of is an idiot box.|sv
+A|Now SESAME STREET is a good program because, uh,|sv
+B|Uh-huh.|b
+A|I do have that on videotape,|sd
+A|and I will let him watch that every once in a while.|sd
+A|And he has learned to count to twenty from that.|sd
+A|So,|%
+B|Yeah.|b
+B|It can be very educational.|sv
+A|Yeah.|b
+B|There are shows that I like.|sd
+B|Uh, I like good family shows, uh, though.|sd
+A|Uh-huh.|b
+B|Uh, I let my kids watch things like LITTLE HOUSE ON THE PRAIRIE.|sd
+A|Okay.|b
+B|And the COSBY SHOW is, uh, is, uh, kind of unrealistic as a family unless you live in upper class and have money.|sv
+A|Right.|b
+B|I think that sometimes the things they show on there though, uh,|sv
+B|the problems that their kids get into, are, are good to, uh, show that they do have problems anyway.|sv
+A|Right.|b
+B|Uh,|%
+A|But they also have a lot easier time disciplining their kids than real people do.|sv
+B|Yeah.|b
+B|I mean, like I said, real life is not that easy.|sv
+A|Yeah.|b
+B|And, uh, I watch a show that I like for entertainment.|sd
+B|Uh, it is called the QUANTUM LEAP.|sd
+A|Oh, I love QUANTUM LEAP.|sd
+B|I watch that show every time,|sd
+B|and, uh,|%
+B|I, I like, uh, how the, how he has to help with the people that he, that he becomes. Uh, because it is not a show that he just becomes these people and then he lives there for a while and then he is gone.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|He has to do something positive to help them.|sv
+A|Right.|b
+B|So I,|%
+A|He always got to change history is what it is.|sv
+B|Yeah.|b
+B|Yeah.|b
+A|Usually, yeah.|b
+B|It,|%
+A|That it is so good.|sv
+A|I was glad when they put that back on this channel, because like I said, we only get two channels because we do not get cable.|sd
+B|Me too,|sd
+B|me too.|sd
+B|Uh-huh.|b
+A|And still my little boy, he watches videotapes.|sd
+A|He won't, um,|%
+A|this is terrible,|sv
+A|I do not like him sitting in front of the T V all day.|sd
+B|No,|arp_nd
+B|that is not terrible.|sv
+A|Well, It,|%
+B|I do not think that is terrible at all.|sd
+A|but it is a not really a good baby sitter|sd
+B|Well,|%
+A|It is really not.|sv
+A|He needs to get outside and play.|sd
+A|And he is four years old,|sd
+A|and he just does not like to go out there by himself.|sd
+A|And I will let him watch the T V when I am wanting to get my house work done.|sd
+B|Uh-huh.|b
+A|But other than that, I do not like him glued to the T V all the time.|sd
+B|Well, I do not think it is, it is healthy all the time either.|sv
+A|Huh-uh.|b
+B|Uh, and my kids like to, to go play with their friends,|sd
+B|and so I guess I do not mind too much when they do watch a little bit.|sd
+B|Now I,|%
+B|there are shows,|sd
+B|I do not have cable either.|sd
+B|And there are shows that I really put my foot down on.|sd
+B|If there starts to be a lot of violence, I do not go for that.|sd
+A|Uh-huh.|b
+B|I will not let them watch that.|sd
+B|If there is a lot of language or,|sd
+A|Well, we made the|%
+A|Right.|b
+A|We made the mistake of getting ROBOCOP.|sd
+A|And that is one of the worst, oh,|sv
+A|I do not let him watch it anymore. Because the, the pieces, like especially where they kill somebody, it is just not good.|sd
+B|Uh-huh.|b
+A|I mean it is just real violent.|sv
+A|I mean,|%
+B|Well, it, you know,|%
+B|today I watched,|sd
+B|and it is like they show bloody, you know, things,|sv
+A|Uh-huh.|b
+B|and they show it in slow motion.|sd
+B|And, and everything like that.|sd
+A|Uh-huh.|b
+B|And before, in a western or something, in the, in the olden days,|sv
+A|You would see somebody get shot,|sd
+A|they would just fall down.|sd
+B|Yeah.|b
+B|And they were gone|sd
+A|Yeah.|b
+B|And, and it was not, uh,|sv
+A|So graphic.|^2
+A|Today it is, it is really graphic.|sv
+A|They try to make it too realistic.|sv
+B|Uh-huh.|b
+B|Yeah.|b
+A|And,|%
+B|Too much realism I think, sometimes.|sv
+A|Yeah.|b
+B|I don't,|%
+A|Now he is watching HONEY, I SHRUNK THE KIDS right now.|sd
+B|Oh, that is a fun show.|sv
+A|It is, it is cute.|sv
+B|Oh, I really like that one.|sd
+A|And that,|%
+A|little ROGER RABBIT on before that.|sd
+B|Uh-huh.|b
+A|That is cute.|sv
+A|And they have got THE HE MAN, uh, MASTERS OF THE UNIVERSE, the movie.|sd
+B|The cartoon or the,|qy
+B|Oh, uh-huh.|bk
+A|That is a real cute show.|sv
+B|That has good moral values too.|sv
+A|HE MAN?|qy^d
+B|Uh-huh.|ny
+B|Well, uh, I think, uh,|sv
+A|Yeah,|b
+A|good versus evil.|sd
+B|Yeah,|b
+A|Huh.|%
+B|yeah.|b
+A|Oh, well, it sounds like we have the same tapes for our kids anyway.|sv
+B|Yeah.|b
+B|At least we have the same ideas.|sv
+A|Yeah.|b
+B|Yeah.|b
+B|Language too.|sd
+B|language and violence and sexual, you know, things.|sd
+A|Uh-huh.|b
+B|I, I get kind of, uh, saying, "I am sorry kids, this is",|sd
+A|Yeah.|b
+B|And I, I think it is important that I see what they are watching.|sd
+B|If,|%
+A|Yeah.|b
+A|They do have like those parental control things on the, uh, remote controls. You know, where you can block out what channels you do not want them to watch.|sd
+B|You mean in cable?|qy
+A|Uh-huh.|ny
+B|Oh, I do not know, because I do not have that.|sd
+B|But,|%
+A|Well, my, my, uh, stepfather and them have, my stepfather, my father-in-law, and them have that.|sd
+B|Uh-huh.|b
+A|And, uh, they do not have any kids,|sd
+A|but they was told how to use that.|sd
+A|But still, when the kids get older, they learn how to break through that parental control.|sd
+B|Oh, do they?|qy
+A|Huh.|%
+B|They are too smart.|sv
+A|I think alls you have to do is push a couple buttons.|sv
+B|Uh-huh.|b
+A|So, it is, it is, I am hoping that he will grow up not really caring much for those movies because, now we have got a lot of western tapes.|sd
+B|Uh-huh.|b
+A|JOSEY WELLS, now he loves to watch JOSEY WELLS.|sd
+B|Well, I think that is a good show too.|sv
+A|Yeah,|b
+B|Yeah.|b
+A|Clint Eastwood.|sd
+B|Uh-huh.|b
+A|And like THE MAN FROM SNOWY RIVER, we have, oh,|sd
+A|my husband likes westerns.|sd
+A|And he also likes STAR TREK.|sd
+A|Now STAR TREK is good movies, good shows.|sv
+B|Uh-huh.|b
+A|The, uh, series?|qy^d
+A|We have got a lot of those.|sd
+B|Uh, I think not even the old one but the new one too.|sd
+B|I like both of those|sd
+A|Uh-huh.|b
+A|THE NEXT GENERATION?|qy^d
+B|Uh-huh.|ny
+A|Yeah.|b
+A|My little boy is crazy about Captain Kirk.|sd
+B|Yeah.|b
+A|And my little girl has Mister Spock's ears|sd
+B|Oh,|b
+A|I told my husband he cursed my kids.|sd
+B|Yeah.|b
+A|They were both born with pointy ears.|sd
+B|Oh, well.|%
+A|Not real pointy.|sd
+A|My little boy grew out of it.|sd
+B|Oh, that is not a problem anyway,|ba
+A|No.|aa
+B|but it is fun to, you know, seeing the show anyway.|sd
+B|Uh, now I like, uh, everything oh,|sd
+B|no,|ar
+B|not Michael Douglas, um, oh,|^h
+B|I can't think of his name.|sd
+A|Kirk Douglas?|qy^d
+B|No,|nn
+B|the, the man, right now who is having, uh, who has done, uh, BONANZA, and then he did LITTLE HOUSE ON THE PRAIRIE.|sd
+A|Oh, Michael Landon.|sd
+B|Michael Landon.|sd
+B|There you go, Michael Landon.|sd
+A|Oh, now there,|%
+B|I have always liked and thought he did good shows.|sd
+A|Yeah.|b
+A|Like HIGHWAY TO HEAVEN?|qy^d
+B|Uh-huh.|ny
+A|to Here are some cookies, Kyle.|t3
+A|talking to Speaker Yeah,|b
+A|I liked HIGHWAY TO HEAVEN,|sd
+A|and I, and I thought that was kind of neat though.|sd
+A|But I loved LITTLE HOUSE ON THE PRAIRIE, especially when Melissa Gilbert grew up.|sd
+B|Yeah,|b
+A|She was kind of like my idol when I was growing up. Because I am twenty-seven,|sd
+B|yeah.|b
+A|so it is, you know,|%
+A|she is about the same age as I am.|sd
+B|Uh-huh.|b
+A|I wanted to be just like her, because she is so cute.|sd
+B|Yeah,|b
+B|I,|%
+B|and I liked that show because it, it portrayed, I thought, really well, uh, pioneer kind of days. You know,|sd
+A|Yeah|b
+A|and,|%
+A|well,|%
+B|but,|%
+A|I liked it,|sd
+B|Yeah.|b
+A|but there,|%
+A|that is about the only, uh, show I have seen where every time they sit down at the table, they pray before they eat.|sd
+B|Uh-huh.|b
+A|And I thought that was real neat. Because there is not a lot of shows that do that.|sd
+B|Yeah.|b
+A|And, uh, they have this little cartoon that is on Sunday mornings with, Jot.|sd
+B|Now what is that?|qw
+A|I remember him in school,|sd
+A|but I do not,|%
+A|it is just this little dot with arms and feet and little eyes,|sd
+A|and his parents are there.|sd
+A|They have it like before one of the church things, uh, you know, church that comes on?|sd
+B|Uh-huh.|b
+A|And it is a just this little dot.|sd
+A|And he will go out and get himself into trouble and come home,|sd
+A|and the parents will tell him that there is a verse in the Bible that will help him with that,|sd
+A|and, It is just,|%
+B|Oh, I have not seen that.|sd
+A|Well, it is,|%
+A|usually we go to church on Sundays.|sd
+B|Uh-huh.|b
+A|But we will miss every once in a while.|sd
+A|And I will let Kyle watch that,|sd
+A|and he just,|%
+A|well, I even like Jot.|sd
+A|I mean I,|%
+A|it is funny.|sv
+B|What channel is it on?|qw
+A|It is on channel,|sd
+A|well, let us see.|^h
+A|You are in Plano?|qy^d
+B|Uh-huh.|ny
+A|Uh, it is twelve or ten down here.|sd
+B|Well, I will look and, and see.|sd
+B|Yeah,|b
+B|we go to church on Sunday.|sd
+B|About one o'clock is when our meetings start.|sd
+B|And, uh,|%
+A|Oh, well, this is of the mornings.|sd
+B|It is in the morning?|qy^d
+A|Uh, around nine or ten I think.|na
+A|It is before one of the, I think it is before the First Baptist in Sherman airs.|sd
+B|Okay.|bk
+A|I think that is the one that it, uh, comes on before.|sv
+B|Well, we'll look.|sd
+A|It is real cute.|sv
+A|You know what?|qh
+A|He is bouncing around,|sd
+A|and his name is Jot,|sd
+A|and then he has got a friend named Cat.|sd
+A|And I think the dog is the only one that is not a, a dot|sd
+A|But it is real cute.|sv
+A|And like I say, they, they teach him stuff from the BIBLE.|sd
+A|And I think it is just a real cute show.|sd
+A|I am trying to get my little boy into reading, uh, like church books and things.|sd
+B|Uh-huh.|b
+A|We have got like NOAH'S ARK and, oh, LORD IS MY|sd
+A|We have got about eight or twelve books for him, just little Bible stories.|sd
+B|Uh-huh.|b
+A|And|%
+A|he is, he is getting to where he likes them.|sd
+B|Yeah.|b
+A|We got him a little Jesus doll, uh, about a year ago,|sd
+A|and he has always kept that.|sd
+A|He likes it|sd
+B|Well, I really like,|sd
+B|now we get channel fifty-five, although we do not have cable, we do get channel fifty-five.|sd
+A|Uh-huh.|b
+B|And that is a, uh,|%
+B|like, a, a song,|%
+B|they sing songs on there|sd
+B|but they're, uh, worship through music kind of things.|sd
+B|But they are up to date, uh,|sd
+B|and some of them are like, uh, videos like music videos, that go along with the songs about church and Jesus.|sv
+A|Uh-huh.|b
+B|And, And I,|%
+A|So it's a, a Christian songs?|qy^d
+B|Yeah.|ny
+A|Oh, that sounds fun.|sv
+B|The|%
+B|it's called the Christian music station or something like that.|sd
+A|That's something.|ba
+A|Well,|%
+B|And, uh, I really like that.|sd
+A|Yeah.|b
+B|Uh, I turn that on, on Sunday mornings.|sd
+B|And I do not, you know,|%
+B|and so my kids do not, uh, have an|%

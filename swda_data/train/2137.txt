@@ -1,0 +1,77 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|uh, what do you think about, uh, the idea of having volunteer service for everyone?|qo
+B|Uh, I think that, uh, really it wouldn't hurt most of the young people of the country to have to go and do voluntary service.|sv
+B|Uh, and, you know, I mean, there have been so many people that have done it|sd
+B|and I've talked with several|sd
+B|and I think they've gotten a lot out of it.|sd
+A|Well, are you doing any kind of volunteer work now?|qy
+B|Not right now,|ng
+B|but I have done, uh, Red Cross work|sd
+B|and, uh, I've taught C P R training|sd
+A|What about, when, when would people do it, when they finished high school?|qy
+B|I think probably as soon as they finished high school it would be ideal, because a lot of times, if they go straight into college I think they're going in too quick|sv
+B|but,|%
+A|I think particular boys that the maturity,|sv
+A|in fact I wasn't very mature when I left high school|sd
+A|and I think there's a, there's a real challenge there.|sd
+A|There's also this, this issue of, of, uh, you know, whether you're really ready,|sv
+A|and I think it gives a different perspective.|sv
+B|Right,|b
+B|uh,|%
+B|I, I think if you've been out of school a year, year and a half, before you start to college, you appreciate college more, than someone that just goes right straight into college.|sv
+A|The only complication is, is, is how do you fund something like this?|qw
+B|Well, a lot of parents fund their children.|sd
+B|There are, uh, some groups that have their children, you know, go away for a year.|sd
+B|Even the religious organizations.|sd
+A|Yeah,|b
+A|I think the Mormon church has, sends out missionaries that,|sd
+B|Right.|b
+B|And the parents fund them for the whole year, year and a half that they're gone.|sd
+A|That's, uh, it's interesting.|ba
+A|It gets them away from home and, and gets them to do something useful,|sd
+A|although the kids today, though, it, it seems that almost that their concern for money,|sd
+A|I, we were doing some investigating colleges and said the kids are much more interested today in, in trying to find a job, study something that will give them a job as opposed to, be curious, be curious|sd
+A|as to if,|%
+A|if there was, if there was mandatory, you could choose the option of either a mandatory military service or voluntary,|sd
+A|do you think that would be reasonable?|qy
+B|I think it would.|na
+B|In, in Israel, the, even the women are, are required to, to be in the military for a certain period of time.|sd
+B|Uh, I was in the military,|sd
+B|and I personally feel if, if they have the draft, that they should draft women as quickly as they do the men.|sd
+A|Well, but, the, the issue of, of, of, which,|%
+A|what, what would, what would you find, what would you have them do?|qw
+A|You know there are a lot of people around with,|sd
+A|there's a lot of unemployment right now.|sd
+A|What would you have these people do if they were brought in?|qw
+B|What, into the service?|qy
+A|Well, yeah.|ny
+B|Or,|%
+A|Or say, say the volunteer,|sd
+A|say that, say that it was mandatory.|sd
+B|Well I, I, I think that they ought to have something for the, the unemployed in a voluntary field like the, uh,|sv
+B|I don't know if you know, remember about the W P A,|qy^d
+A|Yes,|b
+A|my father was in the C C C .|sd
+B|He was in that?|bh
+B|I mean, you know, uh, it's not the best thing in the world,|sv
+B|but, uh, it gave them something to do.|sv
+A|Well, it seems that there's some things like the, uh, the programs at least just go around and, and, and clean up streets and, and, and pick up trash and even aluminum cans and some of these kinds of things.|sd
+B|or go into the, the more depressed areas and help repair the houses.|sd
+A|Yeah,|b
+A|in fact, we, we helped with, uh, oh, Help To Help Humanities,|sd
+A|and that was a, that was a good experience,|sd
+A|but you take the kids out|sd
+A|and and a lot of the buildings in downtown areas that, that either need demolishing, or need fixing up,|sd
+A|so|%
+B|Uh-huh.|b
+A|it would be a good idea.|sv
+A|Uh, we've been doing this three or four minutes.|sd
+A|I think that, uh,|%
+A|do you have any other further comments?|qy
+B|No,|nn
+B|not really.|sd
+A|Well, it was good talking to you, Betty.|fc
+B|okay,|fc
+B|I'll talk to you later.|fc
+A|Have a good night.|fc
+B|Bye.|fc

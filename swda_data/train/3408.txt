@@ -1,0 +1,126 @@
+A|I was going to say, my, uh, college is Northern State University in Aberdeen, South Dakota,|sd
+A|and our head football coach, Dennis Muir used to be an assistant coach at B Y U.|sd
+B|Oh, really.|b
+A|So I thought that was kind of an interesting coincidence.|sd
+B|Huh|%
+B|So you went to what college?|br
+A|Uh, Northern State University in Aberdeen, South Dakota.|sd
+B|And what did you graduate in?|qw
+A|I|%
+A|in what major or what year?|qw
+B|Yeah,|b
+B|major|sd
+A|International business.|sd
+B|Oh, really.|bh
+A|Yeah.|ny
+A|And you?|qw^d
+B|I'm going to B Y U,|sd
+B|and I'm going into nursing|sd
+A|Okay.|bk
+B|so.|%
+A|Well, that sounds interesting.|ba
+A|How long of a program is that?|qw
+B|Forever|sd
+B|Seems like, anyways.|sv
+B|It's about five years,|sd
+B|but it's probably going to take me longer, because I didn't decide to major in that until, uh, about a year and a half after I was already in school,|sd
+B|so.|%
+A|You know, I read a study once,|sd
+A|and it said that, uh, like thirty-four percent of, uh, college students actually graduate in four years from a four year program.|sd
+B|Oh, really.|b
+B|That sounds.|sv
+A|It took me,  it took me five years.|sd
+B|Yeah|b
+A|So, you just, you get started|sv
+A|and you change your mind,|sv
+A|or you want to pick up a second major,|sv
+A|if you're management, you, you, thought, I, I'll take that marketing,|sv
+A|it's just only was three more classes you know,|sd
+B|Yeah.|b
+A|and you, just doesn't happen that you get out in four years.|sv
+B|Uh-huh.|b
+A|But.|%
+B|So what is your advice to picking a college.|qw
+A|My advice is is, uh, look for, at the student to faculty ratio, you know,|sd
+A|if you're going to go to a college where student faculty ratio is three and four hundred to one, I don't think you're going to have as meaningful of a college experience as if you're down to the thirty to forty to one.|sv
+B|Uh-huh.|b
+B|Is that, what was yours more like?|qw
+A|Yeah|b
+B|Was there a,|%
+A|it was about twenty-six to one.|sd
+B|Really.|b
+A|Yeah.|b
+B|Oh, that's great.|ba
+A|Which is, you know,|%
+A|it, it's interesting,|sv
+A|but it, it's|%
+A|what I thought was nice is you could there was always time to talk to professor, you know,|sv
+A|and, and they knew you.|sd
+B|Uh-huh.|b
+A|You weren't just in their class, you know,|sd
+A|and so you could, you could go talk to them in their office almost at any time,|sd
+A|and, or if you ran into them in the student union or whatever, you know, you could sit down, talk to them about a problem.|sd
+A|They're always willing to help you out.|sd
+A|So, but I, I's, I, I put that against, uh, my high school where we had, uh, a biology class of three hundred and fifty students|sd
+A|and.|%
+B|Wow, in high school?|qy^d
+A|Yeah|ny
+B|Oh.|bk
+A|it was a biology lecture class|sd
+B|Wow.|ba
+A|and, you know, it, it just wasn't the same.|sv
+A|You're sitting there,|sd
+A|and you're taking notes|sd
+A|and, you know, you got a computerized test scores, multiple choice, because there's no way they could correct a three hundred fifty point short answer test uh, you know, a three hundred fifty person short answer test.|sd
+B|Uh-huh.|b
+A|And, it just wasn't the same.|sv
+A|You, you'd run, you'd pass the teacher in high school|sd
+A|and, even in high school you could say high to your teachers, unless you're in that biology class,|sd
+A|and they just, they'd look at you like, do I know you?|sd
+A|or should I know you?|^q
+B|Uh-huh.|b
+B|Yeah,|b
+B|there's, it's,|%
+B|the classes here are pretty big,|sd
+B|so, it's hard to get individual help|sd
+B|It's kind of, you're on your own|sd
+A|Do you get, uh, a lot of tutoring,|qy
+A|or.|%
+B|No|nn
+B|Very little, I mean,|sv
+B|well, like my,|%
+B|for example, I have, I'm in a chemistry class right now|sd
+A|Uh-huh.|b
+B|and there's tons of students in it,|sd
+B|and there's one T A for the whole class.|sd
+B|And he only has certain office hours,|sd
+B|and so there's only certain times you can talk to him,|sd
+B|and.|%
+A|And you could get there|bf
+A|and his office hours could, I mean he could have like a nine to eleven in the morning office hours and have forty-two people waiting to talk to him,|bf
+A|and you still didn't get to talk to him anyway.|bf
+B|Right,|aa
+B|yeah.|aa
+A|Well, what would be your advice to a parent of a child thinking of attending college?|qw
+B|Oh, man. I think your advice is good.|^h
+B|Um let's see. My advice would be to pick a major before you get into college|sd
+A|That's excellent advice.|sv
+B|because I, I didn't,|sd
+B|and I took tons of classes that I didn't need to,|sd
+B|and, um, I don't know,|h
+B|I just feel like I'm, it's, it's going to take me a lot longer than,|sv
+B|and not that's always bad,|sv
+B|but it's,|%
+B|I don't know,|h
+B|it's frustrating, I guess.|sv
+A|Well, it, it, it does get it.|sv
+A|You know, you get to the point where it's, I'm never going to get done.|sv
+B|Right.|b
+A|You know, I, I mean, I was taking summer classes|sd
+A|and let me get out of here.|^q
+B|Yep.|b
+A|But, uh, no,|b
+A|that's good advice.|sv
+A|Even if you don't have your major decided on, have an idea what you think you might want, you know,|sv
+A|so you don't want management,|sv
+A|but you think you want business,|sv

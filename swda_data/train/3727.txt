@@ -1,0 +1,181 @@
+B|Do you have kids?|qy
+A|Oh yeah.|ny
+A|I got three.|sd
+A|How about yourself?|qo
+B|Uh, we have two and another one on the way.|sd
+A|Oh, you have got, uh, young children then.|qy^d
+B|Well, yeah,|ny
+B|uh, we do,|sd
+B|we have, uh, a six year old.|sd
+B|He is oldest|sd
+B|and then, uh, our baby will be a year on Monday.|sd
+A|Oh my goodness.|ba
+A|That is great.|ba
+B|Yeah.|b
+A|What kind of mix do you have?|qw
+A|A boy and a girl?|qy
+B|Two boys.|ng
+A|Two boys.|b^m
+B|Two boys|sd
+B|Yeah.|%
+A|Do you know what is on the way yet?|qy
+A|Are you|%
+B|No.|nn
+B|I am just about three months,|sd
+B|and, uh, I don't think we really even want to find out.|sd
+A|I do not blame you|ba
+B|We like surprises.|sd
+B|So We will take either.|sd
+A|Well, we have got two boys and a girl also.|sd
+A|Well, we have got two boys and a girl|sd
+B|And, uh, does it,|%
+B|are the two boys first?|qy
+A|Yes.|ny
+B|Oh.|bk
+A|Maybe, maybe you will get lucky and get a girl this time.|sv
+B|Maybe, huh.|aa
+B|We, we kind of like our boys though too,|sd
+B|so|%
+A|Well, our boys, one, is, uh, he is in graduate school at A and M, uh,|sd
+A|he is in the Navy.|sd
+A|He is a lieutenant in the Navy|sd
+A|and the Navy is sending him for his Masters in Ocean Engineering|sd
+B|Oh my goodness.|ba
+A|and we have got another boy that is, us, out in Maryland.|sd
+A|He is a wildlife biologist, uh,|sd
+A|and our girl is thirteen.|sd
+A|She is in the seventh grade.|sd
+A|So, we have got, still, all sorts of good activities since,|sd
+B|Oh yeah.|aa
+B|You kind of got, uh, a span there, huh?|qy
+B|Oh, well what do you do with your seventh grader?|qw
+A|Well, she is into a little bit of everything.|sd
+A|She is, uh, loves riding horses|sd
+A|so she goes out riding as much as she can.|sd
+B|Do you have horses?|qy
+A|No|nn
+B|She, just, she knows people that does, huh?|qy
+A|Well, that,|%
+A|yeah|ny
+A|but maybe that riding place that is North of town that she goes to.|sd
+A|She rides English, and does jumping, takes lesson and all that kind of stuff.|sd
+B|Oh, does she?|bh
+B|Oh.|bk
+B|She must really like them.|qy^d
+A|Yeah,|ny
+A|she is into, uh,|%
+A|well she plays the flute in the band, and, the piccolo,|sd
+A|and she is into this, uh, odyssey of the mind thing, which is, uh, takes a lot of time, for, uh,|sd
+A|it|%
+A|a|%
+A|what they call peace group.|sd
+A|I don't know if you have gotten into that with your kids,|qy^d
+A|but that is where the, kind of,|sd
+A|well it is a program for Advanced kids.|sd
+B|Advanced.|^2
+B|Yeah.|b
+B|Yeah.|b
+B|I have heard about it.|sd
+B|Our little boy is in the first grade|sd
+B|and I, I taught school for six years.|sd
+A|Oh, okay.|b
+B|So, I do know about that program|sd
+B|and|%
+A|Well, my wife is involved|sd
+A|and she kind of heads that up for these kids,|sd
+A|and last year they, they, got, uh, the state level.|sd
+A|They did not win that,|sd
+A|but they, uh, got one local and, uh, one region,|sd
+A|and they got a new mix of kids this time.|sd
+A|So, it keeps them busy.|sd
+B|Oh, uh-huh.|b
+A|It keeps them busy.|sd
+B|Oh, yeah|aa
+B|I bet.|ba
+B|Huh, well so does she go actually out into a different classroom with, with, uh, other kids that are involved in this?|qy
+A|Well, uh, yes,|ny
+A|but they, well they have,|%
+A|well you probably know a peace group that, uh, that they are advanced type. That they are special, well, uh, classes for peace classes.|sd
+A|I think that, uh this happens to be, uh, uh,|%
+B|Yeah.|b
+A|history is what their peace class is this year.|sd
+A|But, uh, so.|%
+B|Oh. Uh-huh.|b
+A|They, uh, she enjoys that kind of stuff and, uh, does well with it.|sd
+B|Oh, how neat.|ba
+A|So yeah.|%
+B|Challenging, huh?|qy
+A|Yeah.|ny
+B|Oh.|bk
+A|Always something to do|sd
+B|Well, uh, as far as our activities, we are kind of on a different level here.|sd
+B|But, my|%
+A|Well, you will get to different levels.|sv
+A|I guarantee it.|sv
+B|Yeah,|aa
+B|yeah.|aa
+B|My husband is going to take our six year old to the monster truck show tonight.|sd
+A|Uh, okay.|b
+B|They like to, uh|sd
+A|That will be fun.|ba
+B|both boy things|sv
+A|Oh, yeah,|aa
+A|yeah.|aa
+B|Yeah,|b^m
+B|but we, we, do not have any real, uh,|sd
+B|like we don't really ski.|sd
+B|We have not taken our kids skiing or anything.|sd
+B|Of course, the baby is young,|sd
+B|but|%
+A|Got to wait a couple years.|ad
+B|Yeah,|aa
+B|Yeah.|aa
+A|Sledding, that is what you have got to do.|ad
+A|Tobogganing.|ad
+B|The what?|br
+A|You have got to go tobogganing and sledding with them.|ad
+B|Oh, well yeah,|aa
+B|we, we have done that.|sd
+B|He, in fact, he just goes right out here.|sd
+B|We have got quite a bit of snow, uh,|sd
+B|last week we got a lot.|sd
+A|Well you are welcome to keep that|sd
+B|Yeah|b
+B|You would like that, huh?|qy
+A|Well, I grew up in Wisconsin,|arp_nd
+A|I, I had plenty of snow,|sd
+A|and when I was a kid,|sd
+B|Oh.|bk
+A|and we have lived here about seventeen years,|sd
+A|but we use to take all of the kids tobogganing and ice skating, and all of that kind of stuff|sd
+B|Yeah.|b
+A|it is fun really.|sv
+B|It is fun.|aa
+A|As long as you do not have to drive in it.|sv
+B|Yeah.|aa
+B|I,|%
+B|no,|aa
+B|I do not like that.|sd
+B|I,|%
+B|really, it makes me nervous.|sd
+B|Yeah|%
+A|I had plenty of snow to last me forever.|sd
+A|I, I don't care if I ever see any,|sd
+A|well, I don't care if I ever see it,|sd
+A|but keep it off of here|sd
+B|Yeah,|aa
+B|yeah|aa
+B|Well, uh, I don't mind it,|sd
+B|but, uh, uh, the winter gets long.|sv
+A|Yes.|aa
+B|You know, I get ready, that,|%
+B|come about this time of year I am kind of ready for it to start getting spring,|sd
+B|and, it is too early yet.|sd
+A|Well, you have got, You have got five months before you will see that|sd
+B|Yeah,|aa
+B|we do, we do.|aa
+B|We have had a few early springs though in the last few years.|sd
+B|They have not been too bad.|sd
+B|Come about March, it gets, you know, a lot nicer.|sd
+A|Oh yeah.|aa
+A|Out oldest son. When, uh,|sd

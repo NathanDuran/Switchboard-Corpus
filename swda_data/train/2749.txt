@@ -1,0 +1,157 @@
+A|Well, uh, I don't have strong feelings about changes to be made in the, uh, jury system, do you?|qy
+B|Uh, not at all.|ng
+B|In fact, I'm graduating from college in about a week|sd
+B|and this past semester I've taken two criminal justice classes and have discussed a lot on trials.|sd
+A|Uh, well then you must know a lot more about this than I do|sv
+B|Uh, I think, I think, uh, the system right now, you know, should, you know, is fine.|sv
+B|I think it should be by a jury.|sv
+B|I don't think the judge should have, I mean|sv
+B|he's just there kind of like the referee|sv
+A|Uh-huh,|b
+A|Uh-huh.|b
+B|Uh, I don't, I don't even think that it should be unanimous either. Uh,|sv
+A|Well, what about the idea that one is only guilty, uh, when proven guilty beyond a reasonable doubt?|qo
+A|I thought that was the point of, uh, a unanimous jury was the idea that if everyone agrees then there shouldn't be any reasonable doubt.|sd
+B|Uh-huh.|b
+B|Right.|b
+A|But, if there are some people who don't agree uh, then there must be, it seems to be there must be at least a reasonable doubt for some people.|sv
+B|Exactly.|aa
+B|Uh-huh.|b
+B|Uh, I don't know.|h
+B|I, uh,|%
+B|you, you rarely hear, you hear, of course there's cases where someone has been put in, in, in, uh, prison, uh, falsely accused|sd
+B|but, uh, more than likely the people that are on the, the jury know what they're doing.|sv
+B|Uh, I mean you,|%
+A|Really?|bh
+A|Have you served on a jury?|qy
+B|Never.|ng
+A|I never have either,|sd
+A|but my friends, my few friends who have, uh, say just the opposite|sd
+A|They say they're, uh, remarkably incompetent. And, uh, don't know what they're doing and say one thing in the courtroom and then as soon as they get in the back room they just start letting all their prejudices hang out and to, to air, and all that.|sd
+B|Huh. Well, you would think that they would get that in the, uh,|sv
+B|when the prosecution and defense are choosing the jury you would think that those would come out|sv
+B|and I, I know they automatically,|sv
+B|when you go through, uh, when you're chosen is, you're automatically like a, a, a professor in criminal justice or something like that,|sv
+B|that you're automatically,|sv
+B|no|%
+B|they don't want you on the jury.|sv
+A|Right,|aa
+A|, they don't want anyone with anyone with particular experience or knowledge of the legal system.|sd
+B|Exactly.|aa
+B|Uh-huh,|aa
+B|exactly.|aa
+B|Uh,|%
+A|And they tend,|sv
+A|and since anyone can get out of it who basically says they don't want to do it,|sv
+A|I mean, you know, it's, it's anyone can get out of jury just about,|sv
+A|and, uh, so, it, it's, uh, it's not really my peers that,|sv
+A|if I were let's say I were arrested falsely or not and put up for a jury I wouldn't feel that, uh, I would be being tried by a jury of my peers.|sd
+B|Uh-huh.|b
+A|I'd be, I mean I'd be tried by a jury of you know, people who had nothing else to do and weren't very knowledgeable about certain sorts of things,|sv
+A|and, uh, I don't know,|h
+B|Uh-huh.|b
+A|I, I get a little bit nervous about it,|sd
+A|and, uh,|%
+B|I've, I've never I've never even been called to jury duty.|sd
+A|Yeah,|b
+A|I, I was called once,|sd
+A|but I was out of the country,|sd
+A|and apparently I, apparently they thought I served|sd
+A|so I didn't, I didn't make any noise about it|sd
+A|I came back|sd
+A|and they said the record showed I served,|sd
+A|but I was out of the country at the time,|sd
+A|so I'm pretty sure I didn't.|sd
+A|Uh,|%
+B|Yeah.|b
+B|I, uh, I don't know,|h
+B|I think the, I guess there's a lot of problems with the legal system|sv
+A|Yeah,|b
+A|well, I I, I don't know,|h
+A|I definitely feel like we need to keep it at least unanimous|sv
+A|because, uh, you know, there's the classic sort of TO KILL A MOCKINGBIRD kind of story where you get, you know,|sv
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|And, uh, it seems to me that if you could just have a simple majority or something you could pretty much you know, browbeat the jury,  a  majority, in the, of the, a majority of the jury,|sv
+B|Uh-huh.|b
+A|that's hard to say.|h
+A|Uh, so, it's, it's, uh, you know, saying, well, look we don't like the way he looks|sv
+A|and, let's, uh, let's throw the rascal in jail and stuff.|^q
+B|Right.|b
+A|And you also get a lot of, uh, juries are extremely, uh,|sv
+A|and from what I hear,|h
+A|I, I have, I have some friends who do expert witness testimony|sd
+A|and they say that, uh, juries are extremely vulnerable to, uh, sort of emotional pitches, you know,|sd
+A|the prosecutor will want to, oh, I don't know show the, show the mugging victim, you know, show what the nice person he was and what a family life, and basically get the jury to be very sympathetic with the victim,|sd
+A|and, uh, or, or, uh, if it's a corporation, that was, uh, you know, harming some individual or something like that, they get very much, well, you know,|sd
+A|it's just a big faceless corporation.|sd
+A|Let's, let's make them pay as much as possible. Things like that.|sd
+B|Uh-huh.|b
+A|So, not,|%
+A|I, I mean, I'm,|%
+A|the problem is I can't guarantee that a judge would be necessarily be much better than a jury,|sv
+A|but I'd be real nervous having a jury not at least fully agree on what the settlements would be,  things  like that.|sd
+B||%
+B|I, uh, I I, I don't think the judge should just make the decision alone.|sv
+A|Yeah.|b
+B|Least with the jury you have twelve people, you know that are going to decide, you know,|sd
+A|Uh-huh.|b
+A|Well, how about having a jury and a judge work together on it somehow?|qo
+A|I wonder if that's possible?|qy^d
+A|I guess the judge's time is worth too much, though.|sv
+B|judge|%
+A|They pay that judge, they pay those jury members very little money compared to that judge|sv
+B|Right,|aa
+B|exactly|aa
+A|He makes more money in an hour than all twelve of them put together.|sv
+B|Probably,|aap_am
+B|yeah|aa
+B|Yeah.|aa
+B|But, uh, no,|%
+B|it's, it's sad, though, that, uh, that the people, though, that|sv
+B|you, you, somebody's life is in twelve people's hands|sd
+B|and sometimes those twelve people could care less.|sv
+A|Uh-huh,|b
+A|uh-huh.|b
+B|And, uh, or they fool the, the defense in thinking that they're, you know,|sv
+B|because when they go through those processes they kind of pick out who they want.|sv
+A|Oh, of course.|aa
+A|It's, it's political maneuvering.|sv
+A|The, the one side is looking for someone whose face they think will, you know, want to hang everyone,|sv
+A|and the other one is going to look for someone very sympathetic.|sv
+A|They're not looking for someone who's going to be the most reasoned or sensible or rational juror. *whose who's|sv
+A|Neither side wants that.|sv
+A|They want to find a juror that's going to, uh, be most persuadable by their arguments, you know.|sv
+B|Exactly.|aa
+A|Uh, I wish it were a little bit harder to not serve on juries actually.|sd
+A|I mean, I know, it, it, it's tricky|sd
+A|because I know, you know, an awful lot of intelligent people who just, well|sd
+A|I'm too busy to serve on a jury,|^q
+B|Uh-huh.|b
+A|so  I'll tell them that|sd
+A|and they won't, or just, you know, just answer one of the questions the wrong way because you can do that, you know,|sd
+B|Oh, yeah.|b
+B|Well,|%
+A|they just say  do you believe in such and such.|sd
+A|Uh,|%
+B|I guess it's just that maybe people are, you know, upset at court, you know.|sv
+B|If it was, if it was a, a family member of theirs, though that was innocent|sv
+B|and, then they'd want to be on that jury.|sv
+A|Right.|aa
+A|Course, they'd be, they would be barred,|sv
+A|but|%
+B|But, uh, if everyone would take it, I think if everyone took it seriously|sv
+A|Uh-huh.|b
+A|Yeah,|b
+A|well it sounds like we both need to get out there and serve on a jury.|sv
+B|Yeah.|b
+A|I hope we're called up before too long.|sd
+B|I would love to be called,|sd
+B|I'm ready to go|sd
+B|They just haven't called me up yet|sd
+A|They will, they will eventually.|sv
+A|Okay,|b
+A|well it was nice talking with you.|fc
+B|It was nice talking to you.|fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc

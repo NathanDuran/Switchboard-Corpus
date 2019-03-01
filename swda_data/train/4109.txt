@@ -1,0 +1,109 @@
+A|uh, some of my things,|%
+A|I, I'd like to have a short work week you know,|sd
+B|Oh, okay.|b
+A|and and we need, you know, better health insurance and you know,|sv
+B|Okay,|b
+B|we can start off there.|sd
+B|Let's just get started.|ad
+A|Okay.|aa
+B|If you don't want to, you know, uh, talk about it now and then be bored when we get to it|sd
+A|Okay.|b
+A|Okay,|b
+A|so I just press one then|sd
+A|right?|^g
+B|Right.|na
+A|Okay,|bk
+A|ready?|qy
+B|Yep.|ny
+A|Okay|bk
+B|So, so you think, uh, I think that a short work week is real nice.|sv
+B|Uh, I have a thirty-seven hour work week.|sd
+B|How about you?|qo
+A|Well, well right now, I, I'm just a student.|sd
+A|I only work part time,|sd
+A|but I've work in the job force before|sd
+B|Uh-huh.|b
+A|and forty hours is just too long.|sv
+A|You just don't have any time to do anything.|sv
+A|It seems like, Saturday you get get off,|sv
+A|but Sunday you're getting ready for Monday.|sv
+A|And if we get have a if we could have a thirty-two hour work week, with that happen is that, for every four people we could give another job.|sd
+B|Uh-huh.|b
+B|Right.|b
+A|And then that way everybody would have a three day holiday, okay.|sd
+A|And that way that more, that would make a bigger market.|sv
+A|We'd have, uh, more recreation.|sv
+A|People would have time to do it.|sv
+A|There would be less of a stress level.|sv
+A|We'd have, we'd have less crime.|sv
+A|We'd have to we'd have to build less prisons, you know, less police force.|sv
+B|Yeah,|b
+B|it all makes sense to me.|sv
+B|Although, there may be more crime. I mean if people have more leisure time.|sv
+B|It's not clear.|sv
+B|And that,|%
+A|It, it, that's, that's a possibility.|sv
+B|Yeah.|b
+A|One, one of the problems they're facing now, a lot of people now, is that the health insurance is that the small business can't, can't offer health insurance|sv
+B|Uh-huh.|b
+A|and it, it's too costly|sv
+A|and what, what is happening is that they're on a policy where they have X amount of users in it, okay.|sd
+A|So they get a specific rate.|sd
+A|Well what happens is that if people start becoming having chronic illness and, and things like that,|sd
+A|what happened and where they really have to spend out a lot of money for one particular,|sd
+B|Right.|b
+A|it's called a a group,|sd
+A|well what will, well what happens then is that they cancel, because they just can't cancel an individual.|sd
+A|So they, they have to cancel just like life insurance.|sd
+A|They have to cancel everything.|sd
+B|Uh-huh.|b
+A|So what they do is that, that they cancel the insurance|sd
+A|and then all the people don't have any insurance coverage.|sd
+B|Right.|b
+B|So,|%
+A|But, I'm, I'm, you know, I'm, I'm satisfied with my job.|sd
+A|I'm, I'm an engineering student.|sd
+B|Right.|b
+A|And I work for my instructor|sd
+A|and I'm I'm not a typical student.|sd
+A|I'm, I'm older.|sd
+A|I'm, I'm in my thirties, okay.|sd
+B|Yeah.|b
+A|And so I have a lot of job experience|sd
+A|and my instructor thrives on that because he can just tell me what he wants|sd
+A|and he can give me access and tell me what to do and just turn me loose|sd
+B|Yeah.|b
+A|but in, in the same token, it's a very, really enjoyable for me because I don't have to have, you know, nobody breathing down my back|sd
+A|and and one of the things that I, I really hate about jobs. I don't, I don't like bosses that, that you know want to yell at you and you know are down on your back and all this and that.|sd
+B|Uh-huh.|b
+A|I, I just really can't deal with that|sd
+A|so,|%
+B|Yeah|b
+A|What kind of, what kind of jobs have you done?|qw
+B|Well, well, I do uh, research in computer science|sd
+B|and I've just been doing that for a few years now|sd
+B|so uh, I, my job has most of the benefits I want.|sd
+A|Uh-huh.|b
+B|Uh, what I really like is, I like being,|sd
+B|like they send me to conferences for instance, but probably not as much as I'd like|sd
+B|but, uh, you know, that's just nice being, you know, having a company being able to give you time to do that sort of thing and sort of,|sv
+B|uh, they also,|%
+B|a really important thing to me is when they, uh, they pay for continuing education.|sd
+B|Like, I, I get night courses that they they'll cover right now|sd
+B|and that's really good|sv
+A|Yeah,|b^m
+A|that's just great.|ba
+A|You have what you might call knowledge power|sd
+B|Right.|b
+A|you know, when when you work at a company whether you know it or not, is that you're categorized.|sv
+A|Some people can be let go and replaced like, uh, say, uh, a typist, uh, somebody who does data entry or answers the telephone or receptionist.|sv
+A|But if you're a person who, that's doing computer type things and you have the, you have the knowledge, you know what the system you've revised and revamped the system, well then you're you're vital to the company|sv
+B|Uh-huh.|b
+A|and you get more benefits|sv
+A|so. That's where I, I, I'm like,|%
+A|I'm into computers too|sd
+A|and that's one of the things that I've found in any one, one of these jobs and anything I've done is that to have knowledge.|sd
+A|When you have the knowledge, you're you're not going to, uh, you know, be let go,|sv
+A|be one of the last ones to let go anyway.|sv
+B|Right.|b
+A|So what I,|%

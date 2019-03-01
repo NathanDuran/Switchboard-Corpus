@@ -1,0 +1,145 @@
+B|Hi,|fp
+B|well, I guess,|%
+B|which one have you got right now?|qw
+B|Or,|%
+A|Well, I, uh,|%
+A|couple of them,|sd
+A|I, at the moment, use an A S T two eighty-six|sd
+A|and I got a leading edge|sd
+A|and I got a American one and had a I B M one,|sd
+A|but|%
+B|My, my,|%
+B|just a couple.|sd
+A|What do you have|qw
+B|Uh, I've got an Omega|sd
+B|and I've got a, uh, generic three eighty, or four eighty-six machine.|sd
+A|Oh, yeah?|bh
+B|Yeah,|ny
+B|it's very, very generic.|sd
+A|What did you do, put it together?|qw
+B|Yeah,|ny
+B|and, and, uh, upgraded it and put things in there and dibbled and dabbled|sd
+B|and now, now it's, now it's a fast machine|sd
+A|Well, that's,|%
+A|Yeah.|b
+B|That's all I got to say for it.|sd
+A|Yeah.|b
+A|What do you use it for?|qw
+B|Huh?|br
+A|What do you use it for?|qw
+B|Uh, work,|sd
+B|uh, I'm a contract programmer.|sd
+A|Oh, yeah?|bh
+A|What kind of programs do you,|qw
+B|Uh, anything|sd
+A|Okay,|b
+A|I mean like business programs|sd
+A|or, Man.|%
+B|Uh, I've done business programming, you know, scientific applications like, you know, petroleum science stuff and, Uh, uh, test equipment|sd
+B|and I did the, I, I did one that was, the demonstration of a touch, touch screen for a company that sells, uh, touch screens.|sd
+B|It was kind of fun.|sd
+A|Uh-huh,|b
+B|Put a little bitty portable computer in there and a plasma display. And make it look like things like, uh, you know, attack simulators and , and all sorts of little things you'd want to put your finger on the screen for.|sd
+A|Huh.|b
+A|Well, that's,|%
+A|Well, that sounds interesting.|ba
+A|Matter of fact, uh, I guess you do, uh, you get a lot of graphics in there, I imagine, huh.|sd
+B|Oh, yeah,|aa
+B|definitely.|aa
+A|That's where the speed helps out.|sd
+B|Uh, yeah,|b
+B|unfortunately the little portable P C that was plugged on the back was only a seven and a half megahertz, eighty, eighty-six.|sd
+B|It's like slow out the|sd
+A|Yep,|b
+A|that will, that will, slow you up|sd
+B|Huh?|br
+A|Well, I, I do, uh, uh, programming for C N C turret presses and uh, cat cam system type things|sd
+B|Uh-huh.|b
+A|and, uh, really need a faster system.|sd
+A|Uh, I got a new line that I, I sell metal fabricating equipment, and cat cam systems, and tooling, et cetera.|sd
+B|Uh-huh.|b
+A|Uh,|%
+B|I know a guy that upgrades, uh, for a reasonable cost.|sd
+A|Who is that?|qw
+B|Uh, his name is T Q or something like that.|sd
+B|And my notebook is somewhere around here|sd
+B|See if I can make my telephone cord stretch far enough.|^h
+A|I've tried to do is get this outfit to give me one|sd
+B|Uh, he's, uh, up in,|%
+B|Huh?|br
+A|That's how I got my other ones by selling their product for them.|sd
+A|They not only give me a demonstrator, but the hardware as well as the software.|sd
+B|Uh-huh.|b
+A|And as they, And as they go to the next one I just keep the,|sd
+B|Oh, that works.|ba
+A|that's why I have so many different levels of P C around at the moment.|sd
+B|Uh, here it is.|sd
+B|A T S Computers.|sd
+A|A T S?|qy^d
+B|Uh-huh.|ny
+A|And where are they at?|qw
+B|Uh, do you know where, uh, Custer is?|qy
+A|Oh, yeah.|ny
+B|Okay,|bk
+B|he's, uh, uh, south of Renner on, on Custer.|sd
+B|And there is a little bitty mall that looks kind of like, or, strip kind of center.|sd
+A|In Richardson there.|^2
+B|Huh?|br
+A|In Richardson?|qy^d
+B|Uh-huh.|ny
+A|I know where you mean.|sd
+A|There is a Mobil and all that kind of uh, on that one corner,|sd
+A|that's about Lookout there, I think, isn't it.|qy
+B|Right,|na
+B|it's, it's, it's just south of there.|sd
+A|Yeah.|b
+B|It's a little place, looks like a castle.|sd
+A|Yeah.|b
+B|Kind of, uh, little guy in there.|sd
+B|He, he, uh, gives reasonable prices.|sd
+A|Oh.|b
+B|Like I, I traded my, uh, three eighty-six for the four eighty-six for about six hundred.|sd
+A|Really?|bh
+A|Well, that's a good deal.|ba
+B|Yeah,|aa
+B|it was pretty reasonable.|sd
+A|Yeah.|b
+B|But, uh, uh, he,|%
+B|and he does a good job|sd
+B|and he, he, he, uh, guarantees everything he sells.|sd
+A|Uh, there is a lot,|sd
+A|you ever go by Lucky Computer there?|qy^d
+B|Uh-huh,|b
+B|yeah.|b
+A|I used to,|sd
+A|when I was putting shop floor computers together for guys, I'd go and get their units and put them together and go and interface the stuff with our systems.|sd
+B|Uh-huh.|b
+A|Haven't been doing much of that for the last year or so.|sd
+A|So I, I don't know where those guys are at these days.|sd
+A|But I, ,|%
+B|Uh, they, they're up there in that mall. Uh, just below Campbell. Or that strip, strip, center.|sd
+A|Yeah.|b
+A|Yeah.|b
+B|They're still doing business. Big business, apparently.|sd
+A|I tell you, those prices have just, unbelievably come down.|sd
+B|Uh-huh,|b
+B|oh, yeah,|b
+B|I was amazed I was able to get this four eighty-six for six hundred even with a trade in,|sd
+B|you know, it's like, wow|sd
+A|Yeah.|b
+B|That works,|ba
+B|I'll go do that|sd
+A|I,|%
+B|And boy that thing screams now.|sd
+A|Yeah,|b
+A|I was kind of surprised how rapidly they bypassed, the three eighty-six.|sd
+A|That wasn't alive for but maybe two years.|sd
+B|Uh-huh.|b
+B|Well, I thought was funny that they kept pushing the three eighty-six S X even though the, the price difference is about ten dollars.|sd
+A|Is that right?|bh
+A|That's it?|bh
+B|Yeah,|ny
+B|it, when it comes on the manufacturing floor it's about ten bucks.|sd
+A|I'll be darned.|ba
+B|Yeah.|b
+A|Huh, well,|%

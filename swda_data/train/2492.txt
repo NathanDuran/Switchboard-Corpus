@@ -1,0 +1,190 @@
+A|What kind of lawn and garden work do you do?|qo
+B|Well, right now the place where I'm living, the yard was basically neglected for about the last twenty-five years,|arp_nd
+B|so I've been trying to rebuild and reestablish the entire lawn,|sd
+B|and after three years of working at it, I've, I've been amazed at just what a little bit of doing help out things to the lawn has really brought it back.|sd
+B|Instead of mowing in the same direction every time, changing, one day you'll, or one time you'll cut it, cut the lawn the long way, then you'll go the opposite way, instead of going lengthways, you go width,|sv
+B|and it helps the grass come back.|sv
+A|Oh, does it really?|bh
+A|I didn't know that|sd
+A|Did, um, you've been working on it for three years?|qy
+B|for three years.|na
+A|Really?|bh
+A|What have you done?|qw
+B|Killing lots of fire ants.|sd
+B|I was firmly convinced the entire, front yard was nothing but one gigantic ant mound.|sd
+A|Uh-huh|b
+B|Because it was like, you could, you couldn't even stand still out there.|sd
+A|You know, I can barely hear you|sd
+B|Is this better?|qy
+A|Yeah,|ny
+A|a little bit, yeah|sd
+B|It was like you'd go out in the yard to water something, you'd just be standing still.|sd
+A|Uh-huh.|b
+B|And the ants would start crawling up your legs.|sd
+B|It's like, I'm not standing in a mound, though.|sd
+A|Oh, wow.|ba
+A|How did you get rid of them?|qw
+B|Uh, Dursban Two.|sd
+A|Pardon?|br
+B|A chemical called Dursban Two,|sd
+A|Oh, Dursban Two,|bk
+B|it's a crystal.|sd
+A|yeah,|b
+A|Dursban will get rid of just about anything, I think.|sv
+A|But um, so you haven't had a problem with that, since?|qy
+B|Um, not bad.|no
+B|Every, once in a while you'll have a mound pop up,|sd
+A|Yeah.|b
+B|but that's, to be expected.|sv
+A|What else did it , did it kill anything else it wasn't supposed to?|qy
+B|Um,|^h
+A|Not really.|qy^d
+B|as far as I can tell it hasn't killed anything it wasn't supposed to.|ng
+B|Even the area of the grass that was underneath and around the mounds it didn't kill it.|sd
+A|Yeah.|b
+A|Really?|bh
+A|Well, that's pretty wild.|ba
+A|Yeah,|%
+A|we used it for fleas.|sd
+A|We had fleas in our yard real bad last year,|sd
+A|and we did that um,|sd
+A|I just, I'm not,|%
+A|basically, I like to mow the lawn, believe it or not,|sd
+A|but I sometimes have problems starting the mower,|sd
+A|so a lot of times I won't get out and do it,|sd
+A|but my husband, basically, does most of it,|sd
+A|and he does the, you know, edging and all that kind of thing,|sd
+A|and we're renting,|sd
+A|and so we don't really put a lot of money into the, uh, you know, like|sd
+A|this lawn could probably stand a couple of loads of dirt, and some Saint Augustine.|sd
+A|We just, we have winter rye out back,|sd
+A|and we have,|%
+A|I don't even know what it is out front,|sd
+A|but, um, we, this is the first house we've ever lived in,|sd
+A|and we're just not real into the lawn probably because we're renting, I guess, huh?|sd
+A|So, it, anyway,|%
+B|Well,|%
+B|you said you had problems with fleas last year in the yard?|qy
+A|Right|na
+A|Uh-huh.|ny
+A|We were getting,|%
+B|Uh, I found one thing that, it's kind of a weird thing to say to put out on the lawn,|sv
+B|but, every time I've done it, it's it, it drives the fleas completely out of the area.|sd
+A|What?|qw
+B|Powdered sulphur.|sd
+A|Oh, really?|bh
+A|Hm, I wonder why it does?|qw
+B|You, you don't have to put a whole lot out,|sd
+B|just if you've got a broadcast spreader I think it comes in a forty-pound bag,|sd
+A|Uh-huh.|b
+B|and it's real fine, like flour|sd
+A|Uh-huh.|b
+B|and you just go out, and do the entire yard,|sd
+A|Yeah.|b
+B|and you, I mean, you don't have to put clumps of it,|sd
+B|just very lightly cover the entire yard.|sd
+A|Really?|bh
+A|Well, I'll have to remember that, because hopefully we won't have them this year,|sd
+A|but we have a cat that comes in and out,|sd
+A|and the cat was getting, um, fleas and stuff and bringing them in the house,|sd
+A|so we had a real problem last year with fleas,|sd
+A|and uh, it was quite a drag because, um, we got them in our house,|sd
+A|and we're Christians,|sd
+A|and we prayed that we could get rid of these fleas,|sd
+A|and we got rid of them, believe it or not, with smoke bombs, which is just about impossible to do,|sd
+A|but we did,|sd
+A|and so we don't want them back this year, you know?|sd
+A|so I'll remember that if we see it's a problem in the yard.|sd
+A|we're almost,|%
+A|they were so bad last year, even ticks.|sd
+A|I don't know,|h
+A|we've had ticks before a lot,|sd
+A|and we've had to get out and treat our lawn for that.|sd
+A|I think we used Dursban for the, we used Dursban and Diazinon and get out there and do what you do with that thing, you know, and spread it all out everywhere,|sd
+A|but that's about the extent of our lawn care.|sd
+A|So, I don't know,|h
+A|do you enjoy doing it?|qy
+B|Oh, I love it.|na
+B|My wife can't understand|sd
+B|it'd be a hundred degrees outside, I'll be out there. wife's|sd
+B|But it's too hot to be working in the yard.|^q
+B|I'm under the trees,|^q
+B|I'm having fun,|^q
+B|and I'm stopping to drink water,|^q
+B|so what's the problem?|^q
+A|Yeah,|b
+A|well that's, well that's funny.|ba
+A|Yeah,|%
+A|not everybody enjoys it, though.|sv
+A|Everybody has a different thing.|sd
+A|I kind of enjoy it|sd
+A|and my husband doesn't|sd
+A|I kind of have to,|%
+A|sometimes I'm too busy to get out there and do it,|sd
+A|and he, you know, he doesn't really enjoy doing it,|sd
+A|but he'll do it,|sd
+A|and he doesn't gripe about it or anything,|sd
+A|but, you know, I'm kind of like you|sv
+A|and he's kind of like your wife.|sv
+A|I mean, you know, in that he doesn't really enjoy it,|sd
+A|but I would like to have a garden, you know,|sd
+A|that's my thing,|sd
+A|but right now where we're living we have the trees where their, uh, roots are at the top of the ground everywhere over the ground.|sd
+A|I don't know what kind of trees they are,|sd
+A|but you can't have a garden,|sv
+A|you can't till it,|sv
+A|or it'll, it'll tear up a nice tiller|sv
+A|So we're going to wait until we move.|sd
+A|We don't have a lot of sun, either, because it's big trees back there.|sd
+A|So we're going to wait,|sd
+A|and when we move that's one of our priorities, is to get a house where we can have a, uh, garden.|sd
+A|And so I'd like to do that.|sd
+A|I have a feeling I'll be out there all the time taking care of that,|sd
+A|but that's our next thing|sd
+A|Do you have a garden?|qy
+B|I've got, the,|%
+B|this is the neat thing about the place we ended up at. Sitting on about a two acre lot now,|^h
+A|Uh-huh.|b
+B|and half of it's,|%
+B|the back half is my garden.|na
+A|Oh, are you kidding?|ba
+A|That sounds fun.|ba
+A|Where do you all live?|qw
+B|Uh, in Missouri City.|sd
+A|Oh, really,|b
+B|Southwest, southwest side of Houston.|sd
+A|Southwest where?|br
+B|Southwest Houston.|sd
+A|Oh, really?|bh
+A|Oh, because we're in Dallas.|sd
+A|I guess I assumed you were here.|sd
+A|Well, that's neat.|ba
+A|And, um, yeah|%
+A|that's what we want.|sd
+A|We have a,|%
+A|yeah,|%
+A|that's really what we want,|sd
+A|but we just haven't been able to do that yet,|sd
+A|so one day we'll be able to do it,|sd
+A|and I'm excited about it.|sd
+A|And then I don't know anything about it,|sd
+A|I have to learn,|sd
+A|and then you'll have to give me a call on gardening|ad
+A|What do you do in your garden,|qh
+A|and I'll go nothing,|sd
+A|what should I do?|qh
+A|But anyway, I guess that's about it though.|fc
+A|It sounds like we've covered all the bases|fc
+A|so I guess we'll let you go,|fc
+A|and, um, do you have anything else you wanted to say?|fc
+B|Uh, no,|fc
+B|it's just, I've had an very enjoyable conversation with you.|fc
+A|Okay.|fc
+A|I know, you too.|fc
+A|I hope you have a nice day,|fc
+A|and we'll talk to you later.|fc
+B|Okay,|fc
+B|you too.|fc
+B|Okay.|fc
+B|Bye.|fc
+A|Bye.|fc

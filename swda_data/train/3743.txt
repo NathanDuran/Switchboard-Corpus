@@ -1,0 +1,160 @@
+A|Well, Nancy, what do you think, um, some of the changes in roles of women are in American society in the past generation or two?|qw
+B|Well, of course, working.|sd
+A|Uh-huh.|b
+B|That's definitely got to be the biggest thing, is that everybody's out there working including me|sv
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|Well, what do you think it is?|qw
+A|Um, yeah,|aa
+A|I agree.|aa
+B|Yeah.|b
+A|I also think that there are more, um,|sv
+A|the people are,|sv
+A|women stay single longer it seems like.|sv
+B|Yes, they do.|aa
+A|Yeah.|b
+B|Yeah,|b
+B|they do.|aa
+A|I know  my mother and her sister were both married by the time they were twenty|sd
+B|Right.|b
+A|and I waited until I was thirty-two,|sd
+A|so.|%
+B|Uh-huh,|b
+B|yeah.|%
+A|You know, um, I know that.|ba
+B|Yeah,|aa
+B|that's true.|aa
+B|It's a big change.|sv
+B|I'm an O B nurse|sd
+B|and so I really do see what you're saying there.|aa
+A|Uh-huh.|b
+B|It used to be that our list ran nineteen, twenty, twenty-one for our patients' ages.|sd
+B|And now our care plans look more like thirty-two, thirty-three|sd
+A|Uh-huh.|b
+B|and if we get somebody twenty-one, we go, oh, look how young.|sd
+A|Yeah.|b
+B|So, yeah,|aa
+B|you're right there's a big change,|aa
+B|and we have a lot of first time moms in their late thirties and even forties.|sd
+A|Uh-huh.|b
+B|So, it's true.|sv
+A|Yeah.|b
+B|But again, I guess it probably does go back to the same thing of women having careers.|sv
+A|Uh-huh.|b
+B|If they didn't have,|sv
+B|if they weren't out there working and having their careers they probably would be married and having their children|sv
+A|Yeah.|b
+B|So.|%
+A|Yeah,|b
+A|yeah.|b
+A|Seems like there's.|sv
+B|I guess it's a combination.|sv
+A|Uh-huh,|b
+A|go ahead.|ad
+B|No,|ar
+B|go on.|ad
+A|Uh, it just seems like there are more single mothers, too.|sv
+A|I mean, that's,|%
+A|there're a lot of, either divorced or, um, you know, never been married,|sv
+B|Yeah.|b
+A|so.|%
+B|Yeah,|b
+B|yeah,|b
+B|yeah,|b
+B|there's a lot of mixed up families, that's for sure.|sv
+A|Yeah,|aa
+A|I agree.|aa
+A|Well what do you think have been the most significant changes in the past generation or so?|qw
+B|Well, just that.|sd
+B|I think the families,|sv
+B|the, the role in the family,|sv
+B|and the mother doesn't stay home and cook the dinner take care of the children, um,|sv
+A|Uh-huh.|b
+B|we do it all|sv
+A|Yeah.|b
+B|I really think that,|sv
+B|and I know that there's a lot more participation by the fathers,|sv
+B|but I still think the mothers have the major role.|sv
+A|Uh-huh.|b
+B|I really do.|sv
+B|I think they're just, they're not doing very much less,|sv
+B|I don't think as far as the kids and, and the house and everything are concerned, not from what I see|sv
+A|Yeah.|b
+A|Yeah.|b
+B|and, and they're contributing to the income besides.|sv
+A|Uh-huh.|b
+B|I think that we're really, really putting a lot of stress on ourselves.|sv
+A|Uh-huh,|b
+A|yeah,|%
+A|and it really, it's affecting the families you know, for mothers not, not to be home, and yet, you know, um,|sv
+A|I mean, I, I don't blame anybody when they have to work because, um,|sd
+A|yeah.|%
+B|Yeah,|b
+B|it's, it's difficult,|sv
+B|and I think that,|sv
+B|I live in Plano actually,|sd
+B|so|%
+A|Uh-huh.|b
+B|it's a very wealthy town,|sd
+B|and we're not part of that,|sd
+B|but, it is, you know,|%
+B|and, I think what I see a lot of parents, a lot of mothers working just for bigger and better|sv
+A|Uh-huh.|b
+B|and I really hate that you know,|sd
+A|Uh-huh.|b
+B|I hate to see that,|sd
+B|and I, I've been here for a very long time|sd
+A|Uh-huh.|b
+B|but, um, I don't know,|h
+B|now I'm a single parent,|sd
+B|and I don't have a choice any more|sd
+A|Uh-huh.|b
+B|but I used to just work occasionally for extra money,|sd
+B|but now I have to work all the time|sd
+A|Uh-huh.|b
+B|and that's really hard|sd
+A|Yeah.|b
+B|and, and I don't know how a mother does just choose to go out to work, and, and leave the kids.|sd
+B|In a way it's good, it's very good to get out with adults,|sv
+B|and I think that's a good thing, if you can do it part time.|sv
+A|Uh-huh.|b
+B|But to just go out there forty hours a week, at least and and work and, and leave your kids to get home from school alone, and that kind of thing, I think that's not very smart.|sv
+A|Yeah.|b
+B|I think that's difficult on them.|sv
+A|Uh-huh.|b
+B|So.|%
+A|Yeah.|b
+A|Well what do you think's going to happen in the next generation?|qw
+A|You think it'll continue?|qy
+B|Well, it's going to be interesting.|^h
+A|Yeah.|b
+B|Yeah,|b
+B|I think it will change,|sv
+B|but I'm not sure how it's going to, because you see young people today and wonder how in the world they'll ever afford to buy a home and and to raise a family.|sv
+A|Uh-huh.|b
+B|I don't know how they're going to do it.|sd
+A|Uh-huh.|b
+B|And so I don't know how it can change to where the mother can get back into the home again.|sd
+B|I don't that ever will go backwards|sd
+A|Uh-huh.|b
+B|but I don't know what effect it's going to have on these kids now when they grow up, how they're going to feel about it.|sd
+A|Uh-huh.|sv
+B|It, you know, it could lead to another Woodstock type thing, you know, where where there's just too much material things,|sv
+A|Yeah.|b
+B|and, and maybe these kids will really resent that their parents are out there working for things|sv
+A|Uh-huh.|b
+B|and they might want to do without things rather than do that to their families.|sv
+A|Yeah.|b
+A|Uh-huh.|b
+B|It's hard to say.|sv
+A|Yeah,|aa
+A|it is.|aa
+A|I think some,|%
+A|I don't know how many, you know, what percentage, but some are, will move back toward more traditional lifestyle of staying home with the children.|sd
+A|I guess I see that happening already.|sd
+B|Uh-huh.|b
+A|Some choosing it,|sv
+A|and, and they get, you know,|%
+A|there're,|%
+A|people chide them for it, you know,|sv
+A|why aren't you out,|^q

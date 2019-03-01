@@ -1,0 +1,169 @@
+A|Are you in the market for a car recently?|qy
+B|Yeah,|ny
+B|I just bought a car.|sd
+A|Oh, what did you get?|qw
+B|I got a nineteen ninety-three Cavalier station wagon.|sd
+A|Uh-huh,|b
+A|what, what convinced you to get that one?|qw
+B|Well, a friend of my father's, and he'd driven it all over the country and it runs great.|sd
+A|Uh-huh.|b
+A|Oh, incredible,|ba
+A|how many miles on it?|qw
+B|It's like, it has a hundred and fifty-three thousand.|sd
+A|And it's still running real well.|sd
+B|Yeah.|b
+A|Oh, great,|ba
+A|yeah.|%
+A|We have, uh, right now we have two cars, uh,|sd
+A|I have, my husband and myself and we have two sons who are drivers and one of which is a, um, an eighty-eight Plymouth Voyager Van,|sd
+B|Uh-huh.|b
+A|and then we have, um,|sd
+A|about a year ago, we picked up a second hand, uh, uh, Audi|sd
+B|Uh-huh.|b
+A|and, uh, that was a you know, a sedan,|sd
+A|and, uh, we got that.|sd
+A|The major things,|%
+A|the reason why we got that is we had had a Nova,|sd
+A|and a,|%
+A|well,|%
+A|my son was driving,|sd
+A|and someone came into his lane and hit him,|sd
+A|and fortunately he was able to,|sd
+A|his,|%
+A|I mean he was checked out of the hospital, was out of the hospital by that night, but the car was completely totalled|sd
+B|Uh-huh.|b
+A|and Mike, and, they had been, my two sons had been a passenger in a car about a year and a half before that, which was hit by another car.|sd
+B|Um.|b
+A|So I mean, I got, I was getting really nervous,|sd
+A|so I finally said, we, I want a really solid car.|sd
+A|So we found the Audi second hand.|sd
+A|I guess right now my criteria for cars is, uh, of being solid, able to take an impact|sd
+B|Right.|b
+A|and, uh, so, uh, I, we're not going to be in the market for, in the near future for any new car.|sd
+B|Uh-huh|b
+A|But the things that I would want would be a solid car.|sd
+A|Another thing I'd definitely want would be anti-lock brakes.|sd
+B|Right.|b
+A|Uh, our, our van, which is a, a delight to drive, does not have,|sd
+A|I think the brakes on the Plymouth van is just, are terrible.|sv
+B|Um.|b
+A|If the road is at all wet, and I'm,|sd
+A|and I don't go all that fast, but the, uh, it, it just doesn't hold.|sd
+A|It doesn't hold well at all.|sd
+A|So, I, I definitely want to get anti lock brakes.|sd
+A|So, I don't know,|sd
+A|do you have any particular things that, that are priorities on your list.|qy
+B|Well, it's,|%
+B|I didn't really need power windows, but it has power, you know, windows and steering and air conditioning,|sd
+A|Yeah.|b
+B|and, and uh.|%
+A|I guess down here air conditioning's a must, isn't it.|qy
+B|Uh-huh,|ny
+B|oh, yeah.|ny
+B|It has a stereo and a cassette player|sd
+A|Uh-huh.|b
+B|and, um, he's told me it gets forty-two miles to the gallon.|sd
+A|That's incredible.|ba
+B|Uh-huh.|b
+A|That is incredible.|ba
+B|So.|%
+A|Uh, we, we get about, our, the van gets, on highways, can get about twenty-eight.|sd
+A|The Audi does not have good mileage.|sd
+A|That's the one drawback.|sd
+A|It's a powerful car. Um, but it does not, uh,|sd
+B|Uh-huh.|b
+A|I mean, I, if I'm on a highway and I can get twenty, twenty-one miles per gallon, I consider that I'm lucky.|sd
+A|Maybe, maybe sometimes I've gotten twenty-two.|sd
+A|It comes out around the eighteen or nineteen local driving|sd
+B|Uh-huh.|b
+A|and that's a, to me is a real drawback.|sv
+A|I wish I would, you know, I could settle for twenty-eight,|sd
+A|but, uh, the, uh, the frills on that car are nice, but they're not necessary, for me except air conditioning.|sd
+B|Uh-huh.|b
+A|In this area, uh, in Washington D C area, it gets hot and humid.|sd
+B|Uh-huh,|b
+B|it's really humid.|sd
+A|Yeah,|aa
+A|uh, so air conditioning is uh, definitely a necessity for us through two or three months in the summer.|sd
+A|Um, but I, uh, I, I don't need, uh, you know,|sd
+A|power windows are nice, but I don't need them Although I must say when you're driving in the east and there are all these toll roads, come into a toll road, you just push that button down,|sd
+B|Right.|b
+A|it's real nice for that window to zip down and zip up, instead of having to crank it.|sd
+B|Crank,|%
+B|yeah.|b
+A|Yeah,|b
+A|but, or, you know, if you want to have open windows, to be able to|sd
+A|if you're alone in the car just to press buttons, and.|sd
+B|Right.|b
+B|You don't have to stretch.|^2
+A|But you know, I've lived all these years without them,|sd
+A|I probably could have lived a little longer|sd
+B|That's true.|ba
+A|Uh, one of the things that we have, uh, we've liked when we gotten a new car, and this, this used car has it, is a sun roof|sd
+B|Uh-huh.|b
+A|and those are really nice in good weather.|sv
+B|That's right.|ba
+A|So, so I guess if we get a new car, it definitely would have to have anti lock brakes,|sd
+A|I'd love to get an air bag and a sun roof, and, uh, just so it'd be a good solid car.|sd
+B|Uh-huh.|b
+A|I guess that those are my major criteria.|sd
+A|Everything else is, you know, a luxury,|sv
+A|and they, make the car more expensive, but they often add more things to repair when things go wrong.|sv
+B|Right.|b
+A|So, uh, if you were to buy a new car now, a brand new car, what would you look for?|qw
+B|Um, like you said, anti-lock brakes and air bag,|sd
+B|and, uh, I'd, I'd really like to have a car that's dependable that, that you drive, you know, like a American made car that's as dependable as Mercedes or somebody, you know that's,|sd
+A|Yeah,|b
+A|yeah.|b
+A|Isn't that true.|bh
+A|It's, it's funny, um, uh, that you use,|sv
+A|the Audi's German, and I have to say, it has been pretty dependable.|sd
+B|Uh-huh.|b
+A|Yeah,|b
+A|sometimes, one advantage of an American made car, is if you get stuck anywhere, most local garages can fix you up.|sv
+B|Yeah,|b
+B|they have parts,|sd
+B|uh-huh.|b
+A|But once you get, if you, once you get something fancy, you get stuck somewhere off of the main area you can be really,|sv
+B|Right,|b
+A|and the parts, I know the Audi parts are terribly expensive.|sd
+B|Uh-huh.|b
+A|I mean, it|%
+A|I shudder.|sd
+A|I would not get the Audi again, just for that reason.|sd
+A|But I would love, I wish an American, an American, that, you know, engineering would make something as solid as a German car.|sd
+A|You know, we certainly have the technology,|sv
+B|Right.|b
+A|but, it's amazing,|sv
+A|when we bought this Audi,|sd
+A|I mean, everything is more solid in it.|sd
+B|Right.|b
+A|Uh, if,|%
+A|you don't feel you've got any of the flabby plastic|sv
+B|Uh-huh.|b
+A|and I know,|%
+A|and I, I, and I'm willing to give up a little bit in the mileage for a solid car.|sd
+A|I don't think I have to give up as much as I'm giving up.|sv
+B|Right.|b
+A|But, do you need air conditioning down there?|qy
+B|Yes,|ny
+B|we really do|sd
+A|Yeah.|b
+B|because even today it's supposed to get up into the nineties.|sd
+B|So|%
+A|Oh, we've had eleven days in a row over ninety.|sd
+B|Uh-huh.|b
+A|They've in fact had to excuse school down here because of that.|sd
+A|Well, listen,|ad
+A|I enjoyed talking with you.|fc
+A|Okay,|fc
+A|and enjoy, enjoy your car.|fc
+B|Yeah,|fc
+B|have a nice summer.|fc
+A|Thank you,|fc
+A|you too,|fc
+A|it's going to be a hot one.|fc
+B|Yeah.|fc
+A|Okay,|fc
+A|bye-bye|fc
+B|Bye-bye.|fc

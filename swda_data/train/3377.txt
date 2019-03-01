@@ -1,0 +1,121 @@
+A|Uh, I guess I've always kind of liked golf.|sd
+A|I, I worked on a golf course at, at one time|sd
+A|and that's how I picked up golf.|sd
+A|And, uh, I don't know|h
+A|it's just a, kind of a challenging game.|sv
+B|It sure is.|aa
+B|I play at least three times a week.|sd
+A|Uh-huh.|b
+B|I'm on it,|sd
+A|I haven't gotten the chance lately though to play.|sd
+A|I'm trying to get back into it.|sd
+A|Uh, so, uh, I got to start all over again.|sd
+A|It's not like riding a bicycle.|sv
+A|You do tend to, forget.|sv
+B|No.|aa
+B|Well, I'm one of those rare left-handed golfers.|sd
+A|Oh.|b
+A|Yeah.|b
+B|And I do enjoy playing.|sd
+A|What is your handicap?|qw
+B|Right now it's three.|sd
+A|Okay.|bk
+A|Uh, I was down at about four or five quite awhile ago.|sd
+A|It's probably up there to twenty now if I to start again.|sd
+B|Well, if you play with some consistency though, you can get it right back down.|sv
+A|Yeah.|b
+A|Yeah.|b
+A|I have got to try and get out there.|sd
+A|I, I know with our, our long winters I, I enjoy watching it.|sd
+A|I don't know if it's just because I like the game or I just like to, to see the warm weather.|sd
+B|Uh, well, we can usually play here year around.|sd
+B|Sometimes in January it's not too comfortable to play.|sd
+A|Uh-huh.|b
+B|But there is usually two or three days in the week that you can get out there and play,|sv
+B|and I'm pretty much addicted to golf,|sd
+B|so. I get out there one way or the other.|sd
+A|Yeah,|b
+A|that's the problem out here with the long layovers with the winter|sd
+A|you almost have to relearn every spring to, to get back out.|sd
+B|It's a good game though.|sv
+B|It's very challenging|sv
+B|and the reason I like it so much is because I'm essentially playing against myself.|sd
+A|Yeah.|b
+B|That's the way I look at it.|sd
+B|I, I play in, in a lot of groups|sd
+B|and but I, they keep score and, between themselves|sd
+B|but I really don't care.|sd
+B|Um, I go out|sd
+B|and each shot I say, well, this is what I'm going to try to do|sd
+A|Uh-huh.|b
+B|and then I see how close I can come to that.|sd
+A|Right.|aa
+A|Yeah,|aa
+A|you always work on trying to improve each day|bf
+A|and,|%
+B|Yeah,|b
+B|and inevitably one facet of my game isn't working at one time or another.|sd
+B|Either I'm not driving very well|sd
+B|or I'm not hitting long irons very well|sd
+B|or I'm not putting well|sd
+B|or, but sometimes it all comes together.|sd
+A|Yeah.|aa
+A|Yeah,|aa
+A|I know what you mean.|aa
+A|I, when I used to golf out there I'd putt well but I, I wouldn't, uh, chip well.|sd
+A|One of the two, uh,|sd
+A|or something would go wrong|sd
+A|but I always managed to, to get near par anyway.|sd
+B|Well, we just had the tour championship here in Pine Hurst.|sd
+A|Oh.|b
+B|And I went to that.|sd
+B|Craig Statler won in a playoff.|sd
+A|Uh-huh.|b
+B|But we, uh,|%
+B|this is a big golf area.|sd
+A|Yeah.|b
+B|We have a lot of, uh,|%
+B|I'd say we probably have within fifteen miles, twenty golf communities built around courses that are pretty well designed and then of course, Pine Hurst|sd
+B|and we still have the Greensboro Open here every year.|sd
+A|Uh-huh.|b
+A|Do you have, uh, long waits, uh, to get on the course?|qy
+B|Yes,|ny
+B|we do as a matter of fact.|sd
+B|It, it, uh, it's only been that way in the last five years.|sd
+A|Yeah.|b
+B|But now you, uh,|%
+B|most of the courses have a, uh, two day advance tee time you have to call,|sd
+A|Yeah.|b
+A|Okay.|b
+A|I just moved into this small community|sd
+A|so I'm going to try and get into one of the golf courses here.|sd
+A|I'm hoping that won't be,|%
+A|I, was from the, uh, twin cities area.|sd
+B|That's some cold golf too, isn't it?|qy
+A|Yeah|ny
+A|Are you sure you guys aren't having the bad weather?|qy
+B|We have cold.|no
+A|Yeah.|b
+B|Usually January and the first two weeks of February.|sd
+A|Well, I wish that's all we had.|ba
+B|But, uh, last week we were in the seventies.|sd
+B|Something is coming through now|sd
+B|so it's like in the low forties right now.|sd
+A|Oh.|b
+B|But, uh, it's supposed to leave early in the week and then be back in the sixties.|sd
+B|We have very windy winters and very cold.|sd
+A|Yeah|b
+B|But we don't get any snow anymore.|sd
+B|I don't, I don't know what changed that pattern.|sd
+B|We used to get four or five inches a year.|sd
+B|Now we get nothing.|sd
+B|It's been probably five years since we've had any measurable snowfall.|sd
+A|I see.|b
+A|Well, at least it, that doesn't, uh, get in the way of golfing|sv
+A|so that|%
+B|No, Get out my orange golf ball and go out.|aa
+A|Yeah.|b
+A|Yeah,|b
+A|that's what they do here sometimes.|sd
+A|You hear about it where they will take the orange ball out there|sd
+A|but, if you got,|%

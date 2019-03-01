@@ -1,0 +1,235 @@
+A|All right, uh, well,|fo_o_fw_"_by_bc
+A|let's see,|^h
+B|How old are you Lisa?|qw
+A|I'm twenty.|sd
+B|Okay.|bk
+A|How old are you?|qw
+B|I'm older.|sd
+A|Older|b^m
+B|Older than you are.|sd
+A|Okay.|bk
+B|Okay,|b^m
+B|we are supposed to talk about places we like to go.|sd
+B|So I'm going,|sd
+B|and where are you from, where are you calling from?|qw
+A|I'm calling from, uh, Provo, Utah,|sd
+A|but I'm from Plano, Texas.|sd
+B|Oh, you are from Plano.|b^m
+B|My sister lives in Plano.|sd
+A|Oh, really?|bh
+B|Yes,|ny
+B|her husband is the new Director of Admissions at, uh, University of Texas at Dallas.|sd
+A|Oh, wow.|ba
+B|Yeah,|b
+B|so,|%
+B|Anyway, so, where's your favorite place to go?|qw
+A|My grandparents live there.|sd
+A|That's generally our usual summer vacation.|sd
+B|Where in Arizona?|qw
+A|Uh, Tempe.|sd
+B|Okay,|bk
+B|I've never been to Tempe.|sd
+A|So,|%
+B|That's where I'd like to go.|sd
+B|What do you like about Tempe?|qo
+A|Uh, mainly just being with family is it.|sd
+A|We just hang out|sd
+A|and my grandparents have a pool|sd
+A|so we go swimming|sd
+A|and, uh,|%
+B|Pretty hot isn't it, in the summer?|qy
+A|Yeah|ny
+A|but we keep cool just by going swimming|sd
+A|and it's fun to be with my cousins.|sd
+A|They're up there also, my grandparents and my cousins.|sd
+B|That's good.|ba
+B|Uh-huh.|b
+A|So,|%
+B|Been to Hawaii?|qy
+A|No,|nn
+A|have you?|qy
+B|Yes,|ny
+B|in fact, I just got some reservations.|sd
+B|I'm going to go for, uh, almost two weeks this winter.|sd
+A|Oh, my goodness.|ba
+B|Yes.|b
+B|It's the longest,|%
+B|well actually I lived there,|sd
+B|so I was there longer,|sd
+B|but two weeks is the longest vacation I'll have ever taken there,|sd
+B|so I'm kind of looking forward to that one.|sd
+A|Wow.|ba
+A|Around Christmas time?|qy
+B|Uh, no,|nn
+B|in March.|sd
+A|Oh.|bk
+B|We're going to go in March after my children's birthdays and get all that business out of the way.|sd
+A|Wow.|ba
+B|Yeah,|b
+B|so I think, I would like to go to Arizona.|sd
+B|I mean, I was in Phoenix in January, last January|sd
+B|but it was rainy and icky.|sd
+A|Oh, really?|bh
+B|It was the coldest it's been there ever in January|sd
+B|I think. It's very cold.|sv
+A|So, do you travel a lot|qy
+B|But, I would like to go to Tempe.|sd
+A|or,|%
+B|Do we travel a lot?|qy
+B|Uh, some, yeah.|ny
+B|Well, I've been a, I was a travel agent.|sd
+A|Oh.|bk
+B|I mean, I have been up until just a few months ago.|sd
+B|But I'm thinking of going back to work|sd
+A|Huh.|b
+B|Yeah.|b
+A|So you know a lot of good vacation spots, huh.|qy
+B|I I know a lot of good places to go.|na
+B|But you definitely need to go to Hawaii.|ad
+B|Very definitely.|ad
+A|That's your favorite?|qy
+B|Yes,|ny
+B|it is my favorite.|sd
+B|My husband hasn't been to Europe yet|sd
+B|and I'd like to take him there.|sd
+B|And, but he's traveled all over the United States|sd
+B|and I haven't.|sd
+B|Like, I haven't been down south.|sd
+B|I'd like to go to New Orleans.|sd
+B|Have you been there?|qy
+A|I haven't.|ng
+A|Where, where do you live?|qw
+B|We, I live in Yakima, Washington.|sd
+A|Wow.|ba
+B|So it's cold and rainy today.|sd
+B|It's yucky.|sd
+A|Um.|b
+B|But we've had some pretty nice weather.|sd
+B|We played tennis outdoors until last week,|sd
+B|so that's a pretty good deal.|sv
+A|Um.|b
+B|So do you go to school in Provo, Utah?|qy
+A|I do.|na
+B|Do you use NuSkin skin care.|qy
+B|They're located in Provo.|sd
+A|I work for NuSkin|arp_nd
+B|Do you?|bh
+A|Yes.|ny
+B|I'm a NuSkin person.|sd
+A|Oh, really?|bh
+B|Yeah,|ny
+B|I sell NuSkin, too.|sd
+B|I, I am my only|%
+A|Oh, my goodness.|ba
+B|and best|%
+B|not only and best|%
+B|but I'm my best customer.|sd
+A|Great|ba
+B|Since we're not supposed to talk about this, though, is there anything more intensive for the eye area than the eye cream?|qy
+A|Uh,|^h
+B|Do you know?|qy
+A|I don't,|no
+A|probably, maybe the rejuvenating cream is the only other thing I would use.|sd
+B|I have that, too.|sd
+B|I'm forty-two,|sd
+B|I need something,|sd
+B|I need more.|sd
+A|Than the intensive eye?|qy
+B|Yeah.|ny
+B|I didn't know if there was anything else.|sd
+B|And I use the Celltrex.|sd
+A|Uh-huh.|b
+B|But anyway,|%
+B|well, yes,|%
+B|NuSkin is wonderful.|sv
+A|Good,|ba
+A|yes.|aa
+B|I think it's a wonderful product.|sv
+B|Do you use it?|qy
+A|I do,|na
+A|yeah,|ny
+A|we get free products every month|sd
+A|so,|%
+B|Oh, my gosh.|ba
+B|That's great.|ba
+A|Right, right|aa
+A|now I'm getting about sixty bucks a month, free products|sd
+A|so,|%
+B|Yeah,|b
+B|oh, yeah.|b^m
+A|I've worked there about a year.|sd
+B|That's good.|ba
+B|Are they good to work for?|qy
+A|Yes,|ny
+A|they're wonderful to work for.|sd
+B|That's great.|ba
+A|Yep|b
+B|Anyway, so we're supposed to be talking about places to go|ad
+B|and you have not been to Europe.|bf
+B|Do you go to school?|qy
+A|Uh-huh.|qy
+B|Do you ski?|qy
+A|I ski, yes.|ny
+A|I've,|%
+B|Ski,|%
+B|you probably ski very well in Utah.|qy^d
+A|No,|nn
+A|I don't|sd
+A|Actually since I grew up in Texas I've only been here about two years and have gone skiing about three times. well, five times each season.|sd
+B|Uh.|b
+B|Why did you move to Utah?|qw
+B|You're going, oh, you are going to school? At B Y U,|qy
+A|Yeah,|ny
+A|I,|%
+B|is that where B Y U is?|qy
+A|Uh-huh.|ny
+A|Yep.|ny
+B|Okay,|bk
+B|I know some people that went to B Y U.|sd
+B|That's great.|ba
+B|Pretty good.|ba
+A|I do like to ski.|sd
+B|Pretty, pretty down there. Huh?|qy
+A|Yeah,|ny
+A|I, I said I do like to ski.|sd
+B|So, where, have you skied?|qw
+A|And it's, it's kind of nice being up here just because it's all like a vacation in itself when you get to go.|sd
+B|Sure.|b
+A|If you like that kind of thing|sd
+B|Sure,|b
+B|so you're a sophomore. Or junior?|qy
+A|I am actually a junior. Beginning of my junior year.|sd
+B|You're a junior.|b
+B|Good for you.|ba
+A|So,|%
+B|What are you studying?|qw
+A|Nursing.|sd
+B|Good for you.|ba
+B|You sound like a girl that has it together.|sv
+B|I would just encourage you to do a little traveling, though, before you get married.|ad
+B|Because when you get married, you won't have the money or the time.|sv
+A|You think,|b
+A|I know.|aa
+B|So just, you know,|%
+B|don't, don't be in any hurry.|ad
+A|I'm not, I'm not.|aa
+B|You really should go to Europe.|ad
+B|I went to Europe for six weeks after I graduated from college|sd
+B|and that was just,|%
+B|I, I mean I could have had that or a down payment on a new car|sd
+B|and I took the trip.|sd
+B|And|%
+A|And it was great?|qy
+B|uh, I traveled with a group of sixteen other students.|sd
+B|Actually they, there was two other graduating seniors besides myself,|sd
+B|and we just had a ball.|sd
+B|We stayed at,|sd
+A|How long did you get to stay there?|qw
+B|Uh, six weeks.|sd
+A|Oh, really?|bh
+B|Yeah.|ny
+B|It was wonderful,|sd
+B|so you should think about doing something like that.|ad
+A|Uh-huh,|aa
+A|I just had a friend that got back from Europe|sd
+A|and she was there like all winter semester.|sd

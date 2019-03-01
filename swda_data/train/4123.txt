@@ -1,0 +1,110 @@
+A|Jimmy , so how do you get most of your news?|qw
+B|Well, I kind of, uh, I watch the, uh, national news every day, for one.|sd
+B|I also read one or two papers a day|sd
+B|and I'm a, I'm pretty much a news junkie|sd
+B|and I tune in to C N N a lot.|sd
+A|Oh, wow.|ba
+A|So, when you say the morning news, or evening news or national news is when?|qw^d
+B|Uh, every evening at six thirty, I believe,|sd
+B|I watch the national news.|sd
+A|Oh, okay.|sd
+A|Well, I would probably be a junkie or watch C N N a lot,|sd
+A|but I don't, uh, I don't, uh, subscribe to cable because of the poor service and also, uh, because,|sd
+B|Uh-huh.|b
+A|well, I, uh, I give to the United Way|sd
+A|and so I figured that amount of money I just donate to that.|sd
+B|Uh-huh,|b
+B|as opposed to paying for cable.|bf
+A|Yeah,|aa
+A|I take away a, uh, addiction|sd
+A|Oh, something.|bf
+B|Yeah.|aa
+A|Well I,|%
+B|Uh, overall I, I,|%
+B|the quality of the news you get off of most, uh, sources I would say is pretty low.|sv
+B|It's,|%
+B|usually you get pretty incomplete coverage|sv
+B|and that's one of the reasons where I, why I try and get as many sources as possible,|sd
+B|because if you hear the same story from three different sources, then you get a much clearer picture of, of what is going on. You would hope,|sv
+B|but still, you know, hard to say that what you've heard is what really is.|sv
+A|Oh.|b
+A|What, what, uh, newspapers do you read?|qw
+B|Well, I read, uh, the local newspaper|sd
+B|and I also try and read one of the, uh, major dailies like the CHICAGO TRIBUNE, or the NEW YORK TIMES or something like that.|sd
+A|Uh-huh.|b
+A|For a while there I, I, I, uh, subscribed to NEW YORK TIMES, actually a couple of newspapers because, uh, you know, my fiance,|sd
+A|well, she was unemployed for a while|sd
+A|so she, you know, really needed to look at the, the help wanted ads|sd
+B|Uh-huh.|b
+A|and so often they, they the newspapers are trying to compete with a lot of other sources of uh, news.|sv
+B|Right.|b
+A|And, I don't know,|h
+A|NEW YORK TIMES is okay,|sv
+A|but, uh, and when you read a lot of this stuff, the, the quality of the writing has definitely gone down in the last ten years or so,|sv
+A|but uh, I mean, they, they say it's like the sixth grade reading level,|sd
+B|Uh-huh.|b
+A|but I swear it's at least second or third grade, sometimes.|sd
+B|Right.|b
+B|Pretty low.|bf
+A|But, I don't know,|sd
+A|uh, I think if you listen to like N P R or something like,|sv
+B|Right,|aa
+B|I, I really like N P R a lot.|sd
+A|That's pretty good.|sv
+A|Uh, and I like listening to that on, on, uh,|sd
+A|when I get a chance, when I'm in the car a long enough time to, to listen to it, because I,|sd
+B|Right,|aa
+B|yeah,|aa
+B|I miss N P R a lot also.|sd
+B|I really like them because they give, uh,|sd
+B|instead of being, as your newspaper or your T V news where you get a five minute blurb or a ten paragraph blurb, they go really in depth on topics which I think is good.|sv
+A|Uh,|%
+B|And they also,|%
+B|their editorial stand point seems to be a lot better than, say, your major network news and that kind of thing.|sv
+A|Well, McNeil and Lehrer,|sd
+A|I guess he's leaving,|sd
+A|one of them is leaving.|sd
+B|Uh-huh.|b
+A|Uh, they're, they're pretty good, too.|sd
+A|Uh, I guess a year ago you're probably watching C N N a lot, right?|qy
+B|Right|na
+B|yeah.|ny
+A|Had that invasion or whatever it is.|sd
+B|Sure was.|aa
+A|Uh, but I, I don't know,|h
+A|I guess a lot of it's still a lot of hype.|sv
+A|Look at the, the Smith trial.|ad
+B|Uh-huh.|b
+A|I mean, that was a joke.|sv
+B|Yeah,|aa
+B|that was,|sv
+B|but then you also have things where you, uh, where they broadcast the Clarence Thomas hearings basically the whole length of them which I thought was really good.|sd
+A|Oh, yeah,|aa
+A|the N P R doing that,|sd
+A|yeah,|%
+A|I know,|sd
+A|I had, uh, some visitor|sd
+A|and he was just just, I don't know, fixated on that, you know, just listened to it constantly.|sd
+B|Uh-uh.|b
+A|Uh, and I guess that's good when it's live, if you, if you'll really want that,|sv
+A|but that's not really providing you news.|sv
+B|Right.|b
+A|It's, it's more like a media event rather than reporting.|sv
+B|Well, but the but the news, news that you would get from any other source is being generated from that event, which is something that's good also about C Span which I, I tune into every once in a while.|sv
+A|Oh, really?|bh
+A|That's kind of boring to me, I think.|sd
+B|Yeah,|aa
+B|it, it is, really kind of boring,|sv
+B|but, you know, that's,|%
+B|if, if you don't watch it there, then you're going to hear somebody else's canned, uh, report, somebody else's view about it|sv
+B|and that's what you're supposed, you're supposed to,|sv
+B|if you watch the news, you're going, your opinion is going to be formed about, on what somebody else thought about it as opposed to actually watching it yourself and forming your own pinion, opinion, which I haven't, would be much more in favor of forming my own opinion as opposed to following someone else's.|sv
+A|Yeah.|b
+A|Yeah,|aa
+A|I guess that's true.|sv
+A|But, one of the ways that I get information is, uh, every day when I log in on the computer I subscribe to this, this thing,|sd
+A|it's free inside the company,|sd
+A|it's called INTELLECT|sd
+A|and, and they basically, uh, type out abstracts which are really literally,|sd
+A|I've, I've actually read the actual articles,|sd
+A|they're pretty|sd

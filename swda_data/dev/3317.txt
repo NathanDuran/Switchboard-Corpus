@@ -1,0 +1,149 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|what kind of house do you live in?|qw
+B|Well, uh, we live in a, a brick home in far north Dallas|sd
+B|and it's, uh, four bedrooms and three and a half baths and swimming pool in the back|sd
+B|and, It's about thirty-five hundred square feet.|sd
+A|Uh-huh.|b
+A|Well, it sounds like ours are pretty similar.|sv
+A|I live in one,|sd
+A|I don't have a swimming pool.|sd
+A|And mine's about twenty-seven hundred square foot.|sd
+B|Yeah.|b
+A|But the four bedrooms|sd
+A|and all the rest of it sounds just about about alike.|sd
+A|I think it's pretty much typical for this area.|sv
+B|It is.|aa
+B|Have you been living there very long?|qy
+A|I've been in the house|no
+A|I'm in here right now about twelve and a half years.|sd
+B|So you've been there longer.|sd
+B|We built this one about, uh,|sd
+B|it's been let's see it's been six years six and a half years ago,|sd
+A|Uh-huh.|b
+B|and we subcontracted it out ourselves.|sd
+B|We bought the lot and, uh, had an architect draw the plans based on our specifications|sd
+A|Oh, really?|bh
+A|Uh-huh.|b
+B|and then we subbed it out,|sd
+B|so, we've been here a little over six years now. And uh, have really enjoyed it because we built what we wanted to have to live in.|sd
+A|Uh-huh.|b
+A|Well, I bet you,|ba
+A|Uh-huh.|b
+B|My husband got his big garage.|sd
+B|He we have a three car garage, that he has a big work area in|sd
+A|Uh-huh.|b
+B|and he likes to rebuild cars and redo engines|sd
+B|and, so he has all the work space he needs.|sd
+A|Well, that sounds interesting.|ba
+A|I bet he's enjoyed having it that way|ba
+B|He,|%
+A|because|%
+A|kind of hard to find one prebuilt that 's kind of fits those specifications.|sv
+B|It is,|aa
+B|and that's why we decided to build.|sd
+B|We looked at things that were already, uh, built|sd
+A|Uh-huh.|b
+B|and the garages were always, if the house was large, it seemed like the garages were small even if they were three car garages which is what we have.|sd
+A|Well, then, most of them don't have a three car garage.|sd
+B|Uh-huh.|b
+A|They're kind of rare.|sd
+B|So we put a three car garage in.|sd
+A|Uh-huh.|b
+B|But, even if they had three car garages, they didn't have a work space.|sd
+B|All of it was taken up with just car space.|sd
+A|Uh-huh.|b
+B|And so he has a big landing area that's between where the cars are in the garage and where the house starts that he can work on.|sd
+A|Uh-huh.|b
+A|Well that,|%
+A|my, we've just got a two car garage,|sd
+A|but my husband's got a big space in between the, where the cars are and the house, where he has a big work shop, you know, workbench and everything.|sd
+B|Well, sounds like our husbands have similar interests.|sv
+A|Now, mine does not work on cars,|ar
+A|he just piddles on this and that.|sd
+B|Oh, I see.|ba
+A|But he likes to have a spot to keep all of his, his piddling things.|sd
+B|Uh-huh.|b
+B|Well, that's nice that it's not in your house.|ba
+A|It really is.|aa
+B|Uh-huh.|b
+A|Because, you know, they have a lot of things of their own,|sv
+A|and I, you know, I wouldn't mind having,|%
+A|and I at one time was going to fix up when one of my daughters left, a bedroom to where I had a room to just put all of my craft stuff and sewing machine and all that kind of stuff,|sd
+B|Uh-huh.|b
+A|but I, someone,|%
+A|I don't know,|h
+A|it ended up I got some furniture back that one of them had moved out or something.|sd
+B|Right.|b
+A|So I didn't end up with my vacant room like I had thought I would.|sd
+B|Well, we still have a, a son and daughter in college that come home.|sd
+A|Uh-huh.|b
+B|And the other room we use as a guest bedroom because my husband's family come.|sd
+B|His parents come|sd
+B|and also the kids have friends who come and stay|sd
+A|Uh-huh.|b
+B|and so it seems like it's always used as a bedroom.|sd
+A|Uh-huh.|b
+A|Well, I still,|%
+A|all three of my daughters are married,|sd
+A|but, I don't know,|h
+A|I just still have need for the four bedrooms just having company from time to time. And some of them coming back home and things, you know.|sd
+B|Right.|aa
+B|Oh, I understand|aa
+A|And we've got grandchildren now,|sd
+A|so when they come, they have to have a place.|sd
+B|Well, we,|%
+B|That's true|aa
+B|and you don't want them to not be able to come because there's no room.|sv
+A|That's right,|aa
+A|you sure don't.|aa
+A|At times I keep thinking, though, that might be kind of nice.|sd
+B|Well, I I haven't reached that point yet.|sd
+B|I've heard people say that.|sd
+B|But, uh, my middle son is engaged,|sd
+B|my oldest son has been going with the same girl for a while.|sd
+A|Uh-huh.|b
+B|He's out of college and has a good job,|sd
+A|Uh-huh.|b
+B|so he could afford to get married but, is not engaged yet,|sd
+A|Uh-huh.|b
+B|and my daughter's been going with the same boy for a while,|sd
+B|but she's still in college|sd
+B|and we're just as happy for her to finish her education first.|sd
+A|Uh-huh.|b
+B|That's what she plans to do.|sd
+A|Well, I don't blame you for that.|ba
+B|So, I hope so.|sd
+A|Well, I have the three girls|sd
+A|and then we ended up with four grandsons.|sd
+B|Oh, ho-ho.|ba
+A|And little boys are around the house a whole lot more than girls.|sd
+B|A whole new world.|ba
+B|Uh-huh.|b
+A|And, uh, I enjoy them coming, but for short doses|sd
+B|I can understand.|aa
+A|It feels,|%
+A|after they've been here ten minutes, they have already explored the entire house,|sd
+A|they know everything.|sd
+B|Uh-huh.|b
+A|But, they're fun.|sd
+B|So you're all back to the safety catches and the whole nine yards or either watching them every minute.|bf
+A|Well, I just watch them.|sd
+B|Yeah.|b
+A|I I never did put things up when my kids were little|sd
+A|and I haven't with them.|sd
+A|I try to teach them not to get into things.|sd
+B|Well, that's the same thing that I did.|sd
+B|I hope I'll be able to do the same with grandchildren.|sd
+A|I think that once you do that, your children kind of develop the same attitudes.|sv
+A|At least my daughters have.|sd
+A|They try to teach theirs not to get into things instead of having to put everything up.|sd
+A|So it's worked pretty well.|sd
+A|There's,|%
+A|I don't really think anything's been broken.|sd
+A|Every now and then we have to kind of go and say, now don't bother this you know.|sd
+B|Um, uh-huh|b
+A|But, all in all, they mind pretty well.|sd
+A|But, I guess most of the|%
+A|what kind of roof does your house have?|qw
+A|Here I'm getting off the subject.|sd
+B|Well, we have,|%

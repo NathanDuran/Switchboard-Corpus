@@ -1,0 +1,116 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|How do you keep up with current events?|qw
+B|Um, well actually, usually, uh, in the mornings I am getting ready to either go to work, uh,|sd
+B|usually catch the news in the morning.|sd
+A|Yeah,|b
+A|what what channel do you watch or what station?|qw
+B|Uh, N B C.|sd
+A|That's the one I watch.|sd
+A|I usually keep up with T V.|sd
+A|I don't,|%
+A|I am a student|sd
+A|so I really don't have much time to like read the newspapers and stuff|sd
+B|Uh-huh.|b
+A|so I get a lot of stuff through the grapevine which is really isn't too great sometimes|sd
+B|Yeah.|b
+B|Yeah,|b
+B|I usually tend to just, you know, rely on, you know, T V, uh, again, you know, just through the grapevine just, just to know like, you know like what today's stories are|sd
+B|and I usually like go out an buy a newspaper if you know I'm interested in any particular one.|sd
+A|Yeah.|b
+A|The radio doesn't really have much news sometimes.|sd
+A|The stations I listen to are just mainly music.|sd
+B|Yeah,|b
+B|I think you pretty much have to listen to all news station to get any news at all.|sv
+A|Yeah.|b
+A|Do you think that T V is, uh, pretty accurate.|qy
+A|I mean sometimes do you think it gets pretty commercialized|qy
+A|or,|%
+B|Well, what I really don't like about T V, especially local news as compared to like national news is just, uh, it seems, it seems like everything is very spoon feed|no
+B|and you know it's, it's more like the news shows is now is now you know an entertainment show like a sitcom or like the news, because they would always have like the wonderful investigative reports, you know, is your kid's bus driver smoking crack, on the way to school, you know?|sv
+A|Yeah.|b
+A|Yeah,|b
+A|it's|%
+A|they mainly go with like popular topics just not like basic news.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+B|Also, also I have the observation of, uh, with the press is that, like any any stories that I had any first hand knowledge of that I see in the press, you know, which only happened like ten times in my life you know first thing you know for anything of you know or anything that actually had, had more than just a blurb about it. That the press has managed to just mess up some aspect of the story|sd
+A|Huh.|b
+A|Yeah.|b
+B|it's something wrong.|sd
+A|Going,|%
+A|they're, looks like they're going more for ratings than for you know actual news.|sv
+B|Uh-huh.|b
+A|I think, you know the probably the best source of just plain journalism would be newspapers|sv
+B|Uh-huh.|b
+A|they typically have a better.|sv
+A|I am from a small town too here in Texas and so that then like local news is really who grew the biggest tomato|sd
+B|Uh-huh.|b
+A|and,|%
+B|Yeah,|b
+B|the farm report.|^2
+A|Yeah,|aa
+A|farm report and oil reports.|sd
+A|That's pretty pretty sad|ba
+A|or who killed who.|sd
+B|Uh-huh.|b
+B|Also I have found that newspapers probably aren't as bad as television .|sd
+B|Read the story and just found it so incredibly watered down|sd
+B|and,|%
+A|Yeah.|b
+A|Well, in, uh, in Dallas, I don't know if you heard about the killing where the guy drove into Luby's|sd
+A|and the story was, uh,|sd
+B|Was that like he started shooting people, people in this cafeteria or something?|qy
+A|Yeah.|ny
+A|And the news covered it right, you know, hours after it happened|sd
+B|Uh-huh.|b
+A|and they were taping people who were crying who had everything|sd
+B|Uh-huh.|b
+A|and then like three days later this, uh, local news station was using as as their promo to promote themselves.|sd
+B|Uh-huh.|b
+A|I just thought that was really  that's kind of cold,|sv
+B|Oh yeah,|b
+B|I  have seen that happen lots of times.|sd
+B|You know, uh, Channel X gives you the best coverage|sd
+B|you know we were on the scene with our team players|sd
+B|and,|%
+A|Yeah|b
+A|and it was just,|%
+A|they were showing like these dead people|sd
+B|Uh-huh|b
+A|and they were showing people crying|sd
+B|Uh-huh|b
+A|I mean just taking advantage of you know.|sv
+B|Uh-huh.|b
+B|They are trying to get  the, you know, most emotional response for,|sv
+A|Yeah,|aa
+A|it didn't seem like there was much coverage of the story,|sd
+A|but just the play on people's emotions|sd
+A|It's just gotten so,|%
+A|I mean, somewhere there's, it's lost a lot of the quality that they use to have like in Walter Cronkite that if you know|sv
+B|Yeah|b
+A|and everything.|sv
+B|Yeah,|b
+B|yeah.|b
+B|You know, I've pretty much stopped watching local news totally you know|sd
+A|Yeah.|b
+B|uh, you know even the national news I just find it to be you know very watered down,|sd
+A|Yeah.|b
+B|very,|%
+A|What did you think of the coverage of the war?|qo
+B|Uh, I I found it very one sided.|sd
+A|Did you?|bh
+B|Uh, you know, it, it just seemed to lack any sort of debate.|sv
+A|Yeah.|b
+B|Uh, you know, not saying that we that we actually should have been there or shouldn't have been there,|h
+B|but it just seemed like, you know.|sv
+A|They kept just showing, you know, how great we were doing|sv
+A|and it never really showed what actually the damage that really happened that's|sv
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|a lot of times like the news coverage showed all the, you know, the guys who didn't get hurt coming home and all the big parties|sv
+B|Uh-huh.|b
+A|and they kind of you know,|%
+A|if they were going to show that why didn't they show the guys who you know got really hurt and everything.|qh
+B|Uh-huh.|b
+B|Yeah,|b
+B|and I really think that you know in the involvement that the press states, you know that the the military basically sets the press,|sv

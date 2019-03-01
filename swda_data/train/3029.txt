@@ -1,0 +1,162 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|well, I'll start off being controversial.|sd
+A|I'm in favor of it.|sd
+B|That doesn't necessarily mean you're controversial.|sv
+A|Well, it seems to be in the current situations|sd
+A|but, uh, I still feel that it could be a deterrent to crime. Particularly with the increase of serious crime that's going on now.|sv
+B|Well, I think that those crimes which are punishable by the death sentence, need to be reevaluated.|sv
+A|Okay.|b
+B|I think there are other crimes that could easily draw the death penalty and not make me feel bad at all.|sd
+A|Yeah,|aa
+A|I think, uh,|sv
+B|Crimes against children is one of them.|sd
+A|Oh, definitely.|aa
+A|Any, any crimes against person, uh, I feel, uh, there should be more than a slap on the hand, and being sent to prison and being released in, uh, two or three years.|sv
+B|Yeah.|b
+B|Uh-huh.|b
+B|Actually, I would like to see the system revert a lot back to some of the forms of punishment that exist in Middle Eastern countries.|sd
+B|If you steal, you lose a hand.|sd
+A|Oh, yeah.|b
+A|That's a,|%
+B|You know, uh, if you kill, you lose your life.|sv
+B|What's wrong with that?|qw
+A|I don't see a thing wrong with that.|sd
+B|Yeah.|b
+A|I believe that, uh, Well, it's just an, an example.|sd
+B|Uh,|%
+A|I think there's, uh, someone that's on trial right now here in the Dallas area,|sd
+B|Uh-huh.|b
+A|and they were interviewing the, the,|sd
+A|a young lady was killed sometime back, a young girl.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|Well, how do you feel about this?|^q
+B|Uh-huh.|b
+A|And, you know|sv
+B|Uh-huh.|b
+A|and they want the person punished and punished, properly.|sv
+B|Uh-huh.|b
+B|Uh-huh|b
+B|Deciding what that proper punishment is, is one thing.|sv
+B|I think that there should be no way, I, I realize that innocent people could go to, uh, what is it, lethal injection now.|sv
+A|Yes.|aa
+B|Innocent people could do that,|sv
+B|but for every innocent person who would be executed, hopefully there would be ten guilty.|sv
+A|Yeah.|b
+A|Well, I feel like the, the cost of someone who's quoting figures made the cost, at like thirty thousand dollars, a year to keep someone in prison.|sd
+B|Uh, Uh-huh.|b
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|To maintain a prison|bf
+B|that's right.|aa
+B|That's stupid.|sv
+A|And, well, the problem there is they're not keeping the right ones in prison in many cases.|sv
+B|Uh-huh.|b
+A|There are more, and more instances being on the news,|sd
+B|Sure.|b
+B|Uh-huh.|b
+A|or this individual was out on the streets, on probation or parole and killed someone else. Or, seriously injured someone.|sd
+B|Uh-huh.|b
+B|Sure.|b
+B|Sure.|b
+B|Well, I don't have solutions to the problems,|sd
+B|but you know you have these,|sd
+B|this would be nice if|sv
+B|and there's probably thousands of holes in that theory, blinded her.|sv
+A|Yeah.|b
+B|I think then that a life sentence to restitution is appropriate.|sv
+A|Yes.|aa
+B|I think he should spend the rest of his life working to support that individual or the family of an individual. Uh, who has been harmed you, you, you know.|sv
+A|Yes,|aa
+A|indeed.|aa
+A|Yeah.|b
+B|People who kill policemen. And I|sd
+A|Yeah.|b
+A|No.|aa
+A|Here again, anytime anyone goes out with a gun in their hand and crime on their mind uh, the opportunity exists for someone to get killed.|sv
+B|Uh-huh.|b
+B|That's right.|aa
+A|Now I'm not in favor of gun control to the degree or anything because, uh, there are uses for guns which are noncriminal|sd
+B|Uh-huh.|b
+A|but it seems that the criminal element are the ones that are using them. Uh, aside from domestic disputes, husbands shooting wives or vice versa.|sv
+B|Uh-huh.|b
+A|But these individuals, if they have a gun with them, I think that the, the sentence should be even longer than if they don't.|sv
+B|I don't, I don't agree with the length, of the sentence though.|ar
+A|Well, Well, but here again, uh, if a matter of expediency, part of these costs like the people on Death Row is that their appeals can take years and years.|sd
+B|I think expediency is the answer.|sv
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|That's right.|aa
+A|There should be some, uh,|sv
+A|I know there's a law, I believe, that it's automatic appeal if it's a death sentence.|sd
+B|Uh-huh.|b
+A|Well, I think that automatic appeal ought to take place, uh, within a reasonable length of time, say six months.|sv
+B|Uh-huh.|b
+A|And a decision be made and not drag out in the courts for years, because of misplaced commas or whatever technicalities, there might be.|sv
+B|Uh-huh.|b
+B|That's right,|aa
+B|technical,|b^m
+B|I think that there should be a statute of limitations on appeals.|sv
+A|Right,|aa
+A|there's got to be a, there's got to be a time limit.|sv
+B|you can appeal it once.|sv
+B|I think if it is appealed one time and the appeal is turned down or the sentence stands, then you might be allowed one more appeal if it is, if, if it is, contradictory.|sv
+A|A, a legit, legitimate appeal, not a technicality, of, uh, if, and they're not arguing that the guy or woman committed the crime.|^2
+B|Yeah.|b
+B|That's right.|aa
+B|Uh-huh.|b
+A|They're arguing over, well, were his civil rights violated because, uh someone didn't file the proper paper at the proper time.|sd
+B|Uh-huh.|b
+B|Uh-huh,|b
+B|uh-huh.|b
+A|Those are the things that have caused them to drag out I think.|sv
+B|That's right.|aa
+B|Well, one of the sad things is that so many of these never actually come to trial because of, of the process in which the criminals were apprehended.|sv
+A|Yeah.|b
+B|I mean, uh, you know the guy is guilty.|sv
+B|You know he's done what he's done.|sv
+B|You, you may have stood there and seen it.|sv
+B|But because he wasn't read his rights whenever he was arrested, you know, he, he goes free.|sv
+A|He didn't see his, lawyer as quickly as he should have, or some, some Mickey Mouse type thing like that.|bf
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|Yeah.|b
+B|Right,|aa
+B|and I realize that that is designed to protect the innocent.|sd
+B|It's also designed to line the pockets of lawyers.|sv
+A|Oh, yes|aa
+B|And, uh, I, I just don't think that,|sv
+B|I think we could get along a lot better in our criminal justice system if we had some statute of limitations on lawyers|sv
+A|Yes.|aa
+B|I hope you're not a lawyer|qy^d
+A|No,|nn
+A|I'm not a lawyer|ng
+A|I,|%
+A|I'm an accountant|sd
+A|and I agree.|aa
+B|Yeah.|b
+A|We practice law ourselves because it's too expensive to hire lawyers, to a degree.|sd
+B|Absolutely.|aa
+B|That's why you check books out from the library.|sv
+A|There you go.|aa
+B|But I really believe that our justice system is, is the best around|sv
+B|but it's not perfect,|sv
+B|and that doesn't mean that you leave it in tact. *in tact intact|sv
+A|Well, it's, it's a case that we have a, a legal system which the criminals have found a way to use and a way to benefit them rather than the public itself.|sv
+B|That's right.|aa
+A|So that's how we get caught in this, uh sort of a catch twenty-two.|sv
+B|That's right.|aa
+B|Uh-huh.|b
+B|That's right.|aa
+A|But you have to continue, uh, to protect the innocent you're giving an open door to the guilty.|sv
+B|That's right.|aa
+B|And, and, it,|%
+B|I don't know there just seems to be so many clever ways to avoid the real intent of the law by following the letter.|sv
+A|Yeah.|b
+B|And that just,|%
+B|that really does ruffle my feathers, at times.|sd
+A|Yes It does, most people.|aa
+B|I mean I can just get so, aggravated about it.|sd
+B|But, you know, it's, it's going to take smarter people than me to solve the problem|sv
+B|And I hope, not lawyers|sv
+A|Again one of our one of our problems is that, uh, our legislature and the state and our national congress, the majority of the members thereof are lawyers.|sv

@@ -1,0 +1,198 @@
+B|Okay|fo_o_fw_"_by_bc
+B|what  kind of  foods would you have?|qw
+A|Okay.|b
+A|Um, well, I like to cook, um|sd
+B|Oh, I do too|sd
+A|but I don't like getting too awfully fancy about it, just because, um, uh, it's too much pressure. You know,|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|if I have people over for dinner, I like it to be nice and relaxed.|sd
+B|Yeah,|aa
+B|you can't enjoy it.|sv
+B|Right.|b
+A|Yeah.|b
+A|And so I don't like to arrive, or, or when they arrive, for me to be completely worn out.|sd
+B|That's, that's what,|%
+B|I like doing things like making lasagna just because I can have it ready and baking in the oven,|sd
+A|Yeah.|b
+B|it's,|%
+A|Exactly.|aa
+B|everybody just says how wonderful it is,|sd
+B|and it's it's like, uh, yes,|sd
+A|Uh-huh.|b
+B|I.|%
+A|Yeah.|b
+B|That's one of those things I got famous for in college.|sd
+B|People would come and say could would you come over and make lasagna for me|sd
+A|Uh-huh|b
+B|It's like, well, I can't really give you a recipe, uh|sd
+A|Uh-huh,|b
+A|you'd just do it.|bf
+B|I can I can just do it|^q
+A|.|%
+B|I like doing that kind of stuff.|sd
+A|Yeah.|b
+B|And it's, it's fun,|sd
+B|in fact that's what we had for a Christmas party last week.|sd
+A|Uh-huh.|b
+B|We just had a bunch of people over|sd
+B|and we had, we did lasagna and garlic bread and, uh, yummy.|sd
+A|Um. Boy I like that.|ba
+B|Uh, I do too, in fact|aa
+A|Yeah,|b
+A|well I'm planning a,|sd
+A|and naturally this is appropriate because I'm planning dinner for people tomorrow night and then the next night.|sd
+B|Oh.|b
+B|Oh, good.|ba
+A|So Tuesday night there'll be eight people here altogether.|sd
+B|Uh, actually one thing we have done quite a bit through the holidays, just because it's a, real easy, is just baked potato dinners.|sd
+A|Oh, yeah,|ba
+A|uh-huh.|b
+B|And have, you know, like three or four couples come over,|sd
+B|and I'll do the potatoes and you know, like butter and cheese and stuff and have everybody else just bring a couple of toppings, whatever they like|sd
+A|Uh-huh.|b
+B|and it turns out great, because I mean, you've got like hot sauce and taco meat and barbecue and, you know, bacon and all that good stuff.|sd
+A|Yeah,|b
+A|that's fun.|sv
+A|Uh-huh.|b
+B|But it's, it's inexpensive|sd
+A|Yeah.|b
+B|plus it's real easy on the hostess, because you can just have the potatoes ready, and just have a salad with it,|sd
+B|and you got a great dinner.|sd
+A|Yeah,|aa
+A|that's a good idea.|sv
+B|It's, it's real easy,|sd
+B|I like doing that part.|sd
+A|Yeah.|b
+B|I'm in favor of very little clean up, um, very little planning because we've got three or four couples that we get together with to play games,|sd
+A|Uh-huh.|b
+A|Uh-huh,|b
+A|yeah.|b
+B|and it's,|%
+A|Uh-huh.|b
+B|we invariably end up at my house since I've got two kids.|sd
+A|Uh-huh.|b
+B|And that, it's, it's fine, because then I can just say, Okay fine,|sd
+B|you bring this,|^q
+B|you bring this,|^q
+B|you bring this,|^q
+B|we're done.|^q
+A|Yeah.|b
+B|And it's pretty cool.|sd
+A|Yeah,|b
+A|that's good.|ba
+A|Well, one of my favorites if I don't want to have other people bring stuff, I just want to treat them is to make chicken and rice.|sd
+B|Uh-huh.|b
+B|Oh.|b
+A|It's very easy to.|sd
+B|Oh.|b
+A|You don't like it?|qy^d
+B|Oh, I love it|sd
+A|Oh, you do,|bf
+A|okay,|bk
+A|yeah.|b
+A|I have a really easy recipe for that, where you just brown the chicken|sd
+A|and then you put rice in the bottom of the pan,|sd
+A|you pour bouillon or chicken broth over it|sd
+B|Um.|b
+A|and, and you put the chicken in, then pour the, uh, broth over|sd
+A|and you can put mushrooms in if you want,|sd
+A|and then you just.|sd
+B|Over the uncooked rice?|qy
+A|Yeah,|ny
+A|over uncooked rice|sd
+B|Oh.|b
+A|and you can either microwave it|sd
+A|or do it in the oven,|sd
+A|and it just.|sd
+B|Oh, how neat.|ba
+A|It fluffs up,|sd
+A|and it's really moist.|sd
+B|Huh.|%
+B|Now I've done it with, where you put, you cook the well, I guess you probably could do it same way, but cook the rice and then take a can of like cream of mushroom soup or cream of chicken soup, and put a little bit of white wine in it.|sd
+A|Uh-huh,|b
+A|wow,|ba
+A|yeah.|b
+B|And every once in a while, I'll put in, I'll slice white grapes|sd
+B|and I'll put in there,|sd
+B|and, that's just because I'm not a real big wine person|sd
+B|but I like it,|sd
+B|it adds something to the chicken.|sd
+A|Uh-huh.|b
+A|Yeah.|b
+B|And then just bake it,|sd
+B|and it makes a wonderful sauce over the rice.|sd
+A|Well, I'll keep that one in mind.|oo_co_cc
+B|Yeah|b
+A|Yeah.|b
+B|It's, that was one of the first things I made for my husband, because I was like, um,|sd
+B|yeah|b
+A|Yeah.|b
+B|I could actually find something I could cook real easy that would be kind of sort of elegant kind of|sd
+A|Uh-huh.|b
+A|Yeah,|aa
+A|you can get away with it even having a semi nice dinner,|bf
+B|Oh, yeah.|aa
+A|or, you know semi .|sv
+B|But then, I hadn't thought about doing it with uncooked rice.|sd
+A|Yeah.|b
+B|So, just, like in a thirteen by nine pan.|qy^d
+A|Yeah.|ny
+A|You put in, um|sd
+B|Um.|%
+A|let's see, what was it, three quarters of cup of rice|sd
+A|or,|%
+B|Um.|%
+A|It depends on,|sd
+A|you can really vary it.|sd
+B|Uh-huh.|b
+A|But you have to put the water in proportionally.|sd
+A|I can't remember.|h
+A|I think it was three quarters cup rice to two cups water, two cups, um, broth.|sd
+B|Yeah,|b
+B|yeah,|b
+B|I, I use that for for rice|sd
+B|and for when I cook pasta or something, I'll put a little bit of bouillon in there just to give it a little extra flavor.|sd
+A|Yeah,|b
+A|flavor.|^2
+A|Uh-huh.|b
+A|Yeah.|b
+B|Um. Now that would be good.|sv
+A|Uh-huh.|b
+B|How long do you have to bake it?|qw
+A|Um, let's see.|^h
+A|I think it was an hour.|sd
+A|I've done it in the microwave so often lately because, it's, it's really easy.|sd
+B|I do, I do microwave too, a lot|sd
+A|Yeah.|b
+A|But, I think it's about an hour.|sd
+B|How long would it be how long would it be in the microwave?|qw
+A|Or maybe it's only half hour.|sd
+A|Um, you just,|%
+A|until the rice looks fluffy, and and not overdone. You know, before it gets overdone.|sd
+B|Oh, okay.|bk
+B|Okay.|b
+B|Do you just brown the chicken to get it colored|qy
+A|Yeah.|ny
+B|or do you go ahead and let it cook through?|qrr
+A|Um, I'd let it cook just a little bit just so that the cooking goes a little faster.|sd
+B|Um.|%
+B|Ooh, this is a beneficial call.|sv
+B|I like this|sd
+A|Yeah,|aa
+A|I liked your idea too, there.|sd
+B|Yeah,|b
+B|but that one's an easy one.|sd
+B|It's like, just put in,|sd
+B|a friend of mine makes it where she goes ahead and seasons up the, with the soup and the wine|sd
+A|Uh-huh.|b
+B|put in garlic and onion powder or chopped onions if you want to do that, you know. What ever, however much effort you feel like putting into it.|ad
+A|Yeah.|b
+A|Uh-huh.|b
+B|But it, it makes a great,|sd
+B|I mean, I've got a two year old and a four year old|sd
+B|and they love it.|sd
+A|Uh-huh.|b
+B|And, because my daughter calls it her gravy|sd
+B|and I mean, she thinks it's wonderful,|sd
+B|my, good, you're a picky eater, if I can get you to,|^q

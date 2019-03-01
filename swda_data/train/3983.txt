@@ -1,0 +1,127 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|Um, what type of magazines do you have?|qo
+B|We take several at home.|sd
+B|I, I take, um, SKIING MAGAZINE,|sd
+B|and I take, uh, DISCOVER magazine, and also, uh, C D AND STEREO REVIEW and NATIONAL GEOGRAPHIC, I think and BOYS LIFE|sd
+A|Uh-huh.|b
+A|Oh, .|b
+A|Oh, good.|ba
+A|That's a good one, I like to get|ba
+A|Um, so I take it that you like to ski.|qy^d
+A|Do you, do you, um, receive a lot of information on skiing through the SKI MAGAZINE?|qy
+B|I presume that I do.|na
+A|Uh-huh.|bk
+B|Uh, I suppose that puts me on some mailing lists and so forth, because I do get things from ski associations and things, uh, at, during the year.|sd
+A|Oh.|b
+A|Oh, uh, and do you receive discounts and things like that,|qy
+A|do you think|qy
+A|or,|%
+B|Uh, not so much that, I, uh, more likely to see those at a ski show or something,|ng
+B|but um, made with I just enjoy reading about the resorts and where you can go and, and new equipment that's come out and so forth.|sd
+A|Oh.|bk
+B|Some fashions are always in there too.|sd
+A|Oh.|b
+A|Uh-huh.|b
+A|So would this vacation you're taking,|qy
+A|did you receive information from your skiing magazine?|qy
+B|Probably not.|ng
+B|Uh, we already knew we wanted to take one,|sd
+B|and we just started looking around.|sd
+B|I may have referred to a couple of them,|sd
+B|but we went to the ski show and looked at all of the resort information, picked up a lot of brochures and just decided to go to Crested Butte.|sd
+A|Oh.|bk
+A|Oh.|bk
+B|We haven't been there before.|sd
+A|Um, that sounds nice.|ba
+B|Kind of away from the crowd is why we chose that one.|sd
+A|Uh-huh.|b
+B|It's supposedly low lift lines.|sd
+A|Oh.|b
+B|But I haven't skied Utah yet,|sd
+B|but I want to.|sd
+A|Oh, well, you need to come out|ad
+B|I'd like to go to Sundance and Park City and some of those.|sd
+A|Uh-huh.|b
+B|I understand Deer Valley is nice, too.|sd
+A|Deer Valley,|b
+A|uh-huh.|aa
+A|Yeah,|aa
+A|they are,|aa
+A|it's wonderful snow|sv
+B|Well, how about you,|qo
+B|what, what magazines do you have at home?|qo
+A|Uh, I am currently taking DECORATIVE WOODWORKING, and, uh, COUNTRY LIVING,|sd
+A|and, let's see, we do have NATIONAL GEOGRAPHIC,|sd
+A|and then we have some church magazines,|sd
+A|but I really enjoy the DECORATIVE WOODWORKING.|sd
+A|I'm heavy into woodworking and tole painting and things like that,|sd
+A|so the DECORATIVE WOODWORKING has just been a great, great help.|sd
+B|Oh, okay.|bk
+B|Does it have, uh, articles on how to do things as well as equipment that you can buy and so forth?|qy
+A|Uh-huh.|ny
+A|Uh-huh,|ny
+A|they do have, uh, mostly they have, uh, the ads on the equipment,|sd
+A|but the whole magazine is just filled with, uh, pictures and projects that you can make yourself,|sd
+A|and then it has all of the patterns and instructions that you would need to make a wood project, and, and then how to paint it with the tole paintings,|sd
+A|and so, it's really a fun one.|sd
+A|I like that.|sd
+B|Well, that's good.|ba
+B|It's good to get use out of one.|sv
+A|Uh-huh|aa
+B|I'm not sure that, um, in the case of NATIONAL GEOGRAPHIC,|%
+B|I mean, I read it,|sd
+B|but then they just sort of gather dust for a long period of time,|sd
+A|Uh-huh.|b
+B|but then eventually there'll be a school project or something where my son will need to refer back through forty-eight back issues to find you know, France or something or whatever it is he's looking for.|sd
+A|Uh-huh|b
+A|Yeah.|b
+A|Yes.|aa
+A|I've, I've noticed that, too,|aa
+A|but they have been nice to have around.|sv
+A|Every once in a while they come in handy|sv
+B|I used to take SMITHSONIAN too,|sd
+A|Oh.|b
+B|I liked that magazine|sd
+A|Uh-huh.|b
+B|but it was, I was, just found myself not ever getting around to reading it.|sd
+A|Oh. Uh.|b
+B|You get so many coming in,|sv
+B|and by the time the next round comes in I'm still not through reading the first round.|sd
+A|Oh, that.|b
+B|Oh, SCIENTIFIC AMERICAN comes to our house, too, I forgot,|sd
+B|and that's mostly my son's,|sd
+A|Oh.|b
+B|but but I do read it, too.|sd
+A|Uh-huh.|b
+A|Oh, well that sounds like.|%
+B|And he takes GAMES MAGAZINE GAME MAGAZINE, which has puzzles and things that he likes to solve, you know, crosswords and various logic puzzles and things like that|sd
+A|Uh-huh.|b
+A|Oh.|b
+A|Uh-huh.|b
+B|he likes to try that,|sd
+B|so. He does, uh, does get to be a lot of paper though,|sd
+B|after a while if you don't keep them weeded out, they almost take over.|sv
+A|Uh-huh|b
+A|They do, they can do that.|aa
+A|I found that they've been fun for my little girls,|sd
+A|they're five and four years old,|sd
+A|and  they like to go through|sd
+A|and,|%
+B|Oh, yeah,|b
+B|they're just kind of  getting started now.|qy^d
+A|Uh-huh. They like to cut the pictures out and paste them on,|ny
+A|and so we've found good use for those.|sd
+B|Mine is a senior in high school,|sd
+B|so he's, we're kind of at the end of that trail.|sd
+A|Oh.|b
+B|You're just sort of beginning to think about first grade.|qy^d
+A|Oh.|b
+A|Uh-huh.|b
+A|Yeah,|ny
+A|it's fun.|sd
+A|Well, I do have a boy in junior high, too,|sd
+A|so|%
+B|Oh, okay,|bk
+B|so you got a little bit of a gap there between,|bf
+A|so we're kind of running the gamut|sd
+A|Yeah.|%

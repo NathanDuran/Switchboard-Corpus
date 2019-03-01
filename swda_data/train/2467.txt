@@ -1,0 +1,229 @@
+A|So, uh, describe your family budget.|ad
+B|Well, I've, uh, for a lot of years I, I've pretty much flied without one,|sd
+B|and, uh, just recently, uh, we, we set up a budget,|sd
+B|and, and we're trying to stick to it.|sd
+B|We just bought a new house.|sd
+B|So we've got everything, you know, pretty much we know what our, uh, our fixed expenses are per month,|sd
+B|and then we've got some ones that are variable, that pretty much stay within a certain range,|sd
+B|and then, uh, then there's the ones that you never know anything about,|sd
+B|and that's, that's the food|sd
+A|Well, yeah,|aa
+A|and to some extent, utilities, I imagine.|sv
+B|well, the utilities are pretty much,|ar
+B|you can pretty much figure what they're going to be,|sv
+B|and one of the nice things here is the electric company has a plan where they'll average them out for you.|sd
+A|They have that to some extent here,|sd
+A|but it's not quite as good.|sd
+B|Uh-huh.|b
+A|And, uh, transportation expenses,|sd
+A|I guess you own a car.|qy^d
+B|Yes|ny
+B|sir.|sd
+A|And you know how much you're going to drive every week?|qy
+B|Well, I used to, um, I used to know, uh, fairly close to exactly how many miles I drove, because I, I was very convenient, I lived, uh, nine tenths of a mile from work.|no
+A|Huh.|b
+B|So, so, it was, you know, two miles a day to and from work.|sd
+B|So it kind of cut my transportation costs a lot.|sd
+B|But now I've just bought a new house,|sd
+B|and I'm a half hour,|sd
+B|and so my transportation costs have gone up by, uh, five times|sd
+A|Yeah,|b
+A|I understand that.|ba
+A|We, we have a real similar situation.|sd
+A|Ours, uh, have quintupled, at least.|sd
+A|So there is a real family budget.|sd
+B|Yeah,|aa
+B|pretty much, um.|aa
+B|The problem is there never seems to be enough money.|sd
+B|I have three children,|sd
+B|and it seems like the more money you make, the more money you have, the more things that they seem to need,|sv
+B|and, uh, of course, nothing ever goes down,|sv
+B|I mean, uh, I remember,|%
+B|I have five children total.|sd
+B|I have three left in the house.|sd
+A|Yeah.|b
+B|And I can remember years ago, when school would start,|sd
+B|and I'd go buy all five kids, you know, shoes,|sd
+B|and I could get out of the, out of the shoe store without spending more than thirty-five dollars.|sd
+B|Nowadays, thirty-five dollars buys about one pair of shoes|sv
+A|If you're lucky.|sv
+B|yeah,|aa
+B|so I mean things have just really gone out of sight in the last, uh, I guess about the last ten years.|sv
+A|Exempt or nonexempt.|qy
+B|I'm exempt.|sd
+A|Wow,|ba
+A|must be nice.|ba
+A|Part of the high price spread. Uh,|sd
+A|no,|ar
+A|well, we don't, we do,|sd
+A|but we don't have a family budget.|sd
+A|We have the fixed things we have to pay.|sd
+B|Uh-huh.|b
+A|And we have the things that are extras.|sd
+A|But it seems that by and large the extras just don't exist.|sd
+B|Yeah.|b
+A|And, well, you know, the auto budget,|sd
+A|car payment sucks a hell of a lot of it dry.|sd
+B|Uh-huh.|b
+A|And insurance,|sv
+A|is insurance bad there?|qy
+B|Um, I've got, uh, two older cars.|sd
+B|There both,|%
+B|one's a seventy-seven|sd
+B|and one's a seventy-eight.|sd
+A|Well, we've got one eighty-nine.|sd
+B|And my insurance is about, it was running about four hundred dollars a year.|sd
+B|But when I moved to the new town I live in,|sd
+B|because it's a different county, which has less crime, and, uh, less, you know, less highways|sd
+B|and so it's a cheaper place to live, as far as the insurance company's concerned,|sd
+B|so my, my, I think my insurance dropped about sixty dollars a year.|sd
+A|Wow.|ba
+A|That's not bad,|ba
+A|four hundred and something a year.|bf
+A|That's, that's,|%
+B|It's actually three hundred and forty for each one of the cars.|ar
+A|That's cheaper than we pay.|sd
+B|Yeah,|b
+B|I was down in Texas for two years,|sd
+B|and I was paying unbelievable rates for both car insurance and for home insurance. Um,|sd
+A|Well, here in Colorado it's even worse because we have no fault.|sd
+B|Yeah.|b
+A|Do you have that there?|qy
+B|they have no fault in Maryland also.|sd
+A|Well, no fault's rather funny in Colorado, because it seems that everyone pays all the time instead of just the guilty party pays.|sd
+B|Yeah.|b
+B|Uh-huh.|b
+B|Yeah.|b
+B|It's kind of, it's kind of strange here the way things go. Uh,|sd
+B|here if you have an accident and no one's injured, the police won't even show up.|sd
+A|You're kidding.|bh
+B|Nope.|nn
+B|They say if nobody's injured, you all exchange names and take it up with your insurance company.|sd
+A|God.|ba
+B|Well, if you,|%
+B|I don't know how familiar you are with Maryland,|qw^d
+B|but, uh,|%
+A|Not at all.|sd
+B|especially, the center part of Maryland where I Ninety-Five runs through it is really heavily populated.|sd
+B|There's just so many people and so many accidents every single day that it'd take a whole another police force just to answer the traffic.|sd
+A|They don't even try to keep up with it.|qy^d
+B|No.|nn
+A|God.|ba
+B|Not a bit.|sd
+A|So you lived in Texas for a while.|qy
+B|Yes|ny
+B|sir.|sd
+A|Huh.|b
+B|I spent, uh, couple of years down there.|sd
+B|Moved down there in eighty-seven|sd
+B|and moved out in eighty-nine.|sd
+A|Are, where you from originally.|qw
+B|Uh, right here in Maryland.|sd
+A|Huh,|b
+A|so you just basically went home when you had a chance.|bf
+B|Yeah,|aa
+B|my family, uh, didn't like Texas,|sd
+B|and I had a chance to, uh, transfer up.|sd
+B|T I bought a company about seven months after I moved to Texas, right here in .|sd
+A|That's nice.|ba
+B|So I got an opportunity to transfer back,|sd
+B|and I took it.|sd
+A|God,|ba
+A|that's great.|ba
+A|Uh, I'm a native Texan.|sd
+B|Uh-huh.|b
+A|West Texan.|sd
+B|Yeah.|b
+A|There is a difference.|sv
+B|Yeah,|aa
+B|believe me,|ad
+B|I know there is.|aa
+B|I lived in Plano,|sd
+B|and I don't know if you're familiar with Plano|qy^d
+A|Yeah.|ny
+B|but Plano, maybe five percent of the Plano actually were from Texas.|sd
+B|Everybody else was an import.|sd
+A|Well, I'm a West Texan.|sd
+B|Uh-huh.|b
+A|Lubbock, Midland Odessa Amarillo, Dumas, Panhandle.|sd
+B|Yes.|b
+B|Yeah.|b
+A|A different world from down there.|sv
+B|Yeah.|b
+A|So, uh, Colorado's been fun.|sd
+A|But they have a real problem.|sd
+A|Next to every window the state seems to have put up a turnstile.|sd
+A|And every time you look at a, look at the mountains or think about looking at the mountains, you got to throw in a dollar.|sd
+B|Yeah.|b
+A|Or so it seems.|sd
+A|I may just be paranoid,|sd
+A|but that state income tax is just eating me alive.|sd
+B|Yeah,|b
+B|yeah,|b
+B|they have a state income tax in Maryland.|sd
+B|But I noticed when I was in the, in the, in Texas, they didn't have a state income tax,|sd
+B|but they sure nailed you on those darn county taxes and, school taxes and property taxes,|sv
+A|Yeah,|aa
+A|yeah.|aa
+A|Property taxes and,|aa
+B|Oh my God,|ba
+B|ate you alive.|sv
+A|Yeah,|aa
+A|well, Colorado, you know they have the state income tax,|sd
+A|but then they also have property taxes,|sd
+A|and they also have sales taxes,|sd
+A|and they just get you every direction they can.|sd
+B|Yeah.|b
+A|And I just don't know, sir,|h
+A|but it seems like they trying to get you every which way.|sv
+B|Yeah,|aa
+B|it sure does. Um,|aa
+B|there's, uh, some good books that I've read, um, that you might be interested in. Uh|sd
+A|Oh yeah?|bh
+B|Charles D. Gibbons is the guy who runs some ads on light night T V|sd
+B|and he's got seminars you can go to,|sd
+B|and they try to hook you into his organization, which costs about four hundred bucks.|sd
+B|But he's got a couple of books out.|sd
+B|One of them is called, uh, WEALTH WITHOUT RISK.|sd
+A|I've heard of the book.|sd
+B|Yes,|b
+B|it's a very good book.|sv
+B|It's tells you how to cut money on your taxes and on your insurance and then what to do with the money that you save.|sd
+A|Legally?|qy
+A|Legally, cut money on your taxes.|qy^d
+B|Yes,|ny
+B|yes,|ny
+A|Huh.|b
+B|legally, legally cut money on your taxes, and on your insurance,|sd
+B|and then he tells you how to invest that money in order to, uh, you know, be wealthier. Uh,|sd
+B|he also has a new book out that I purchased right before I moved and haven't had a chance to crack it open yet. Um,|sd
+B|FINANCIAL SELF DEFENSE is the name of it. Uh,|sd
+B|the man, uh, has a lot of good ideas,|sd
+B|some of them I already knew about,|sd
+B|some of them I had already practiced.|sd
+B|But I suggest it to anyone who wants to be better off financially to read it because, uh,|sd
+A|And that includes everyone at T I.|qy^d
+B|Yes,|ny
+B|I'm one of the ones that had my salary frozen for ninety-one.|sd
+B|Yes.|ny
+A|Well, even, the, you know, the nonexempts, technically yet we haven't had our salary frozen yet.|sd
+B|Yet.|b^m
+A|But when you're only at living wage it doesn't matter.|sv
+A|You know, survival is a funny state.|sv
+B|Yeah,|aa
+B|I know what you mean.|ba
+B|I, uh, when I was in Dallas I was supervisor,|sd
+B|and I had four non exempts, um, under me.|sd
+A|Yeah.|b
+B|And, uh, I was appalled at what, how they were paying them.|sd
+B|I just couldn't believe it.|sd
+A|Did, well, I've been with the company for sixteen years now.|sd
+A|I was a W F for several years,|sd
+A|and it just never seems to improve.|sv
+A|It, and it doesn't seem to get much better for the exempts either, unless you're twenty-eight or above.|sv
+B|Yeah,|aa
+B|yeah.|aa
+A|It's really a shame.|sv
+B|Well, I, I've, this company that they bought, they ended up buying a very high payroll.|sd
+A|Oh.|b
+B|And, uh, the, you know, I thought I was making a good wage,|sd

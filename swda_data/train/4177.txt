@@ -1,0 +1,128 @@
+A|Hi.|fp
+A|So, do you think you get good coverage from the sources that you have?|qy
+B|Uh, actually no,|nn
+B|because, because I'm in school.|sd
+B|I, I kind of miss out on most of the current events.|sd
+B|I just catch the major ones off the news or if someone starts to talk about it.|sd
+A|Do you watch a lot of T V to get the news then?|qy
+B|Uh, I don't watch a lot of it,|ng
+B|but that's the|%
+B|basically that's my only major source of information.|sd
+A|Um.|%
+B|What about, what about you?|qo
+A|Well, I read, uh,|sd
+A|I get a bunch of different things.|sd
+A|I get a newspaper every day|sd
+A|and I try to at, at least have a few minutes to look through that|sd
+A|and I look through, uh,|sd
+A|I get a NEWSWEEK every week which I, I pretty much read that cover to cover|sd
+A|and I, as far as, you know,|%
+A|that satisfies most of the short term news I get.|sd
+A|Uh, don't watch much T V,|sd
+A|don't have enough time|sd
+A|and, uh, don't listen to the radio too much especially the news channels or anything like that, you know,|sd
+A|they might give you a little blurbs like this happened or that happened|sv
+B|Yeah.|b
+A|and that's about all I ever hear of it.|sd
+A|Uh, but most of my news probably comes from NEWSWEEK|sd
+A|and for the longer term I, I read, uh, like SCIENTIFIC AMERICAN and, and, uh, READERS' DIGEST and some of those other types of magazines that come out which, they,|sd
+A|the news isn't, like, immediate what you'd generally think of as news,|sd
+A|but it's recent material.|sd
+B|And it's more in depth.|^2
+A|Yeah,|aa
+A|it is, it is more in depth, less broad.|sv
+A|Well, actually, it's, probably isn't less broad,|ar
+A|but it's just more in depth|sv
+A|and, uh, it is, it is more it is more just significant information, you know.|sv
+A|It is the big events, not the little events.|sd
+B|Yeah.|b
+A|Not the fact that there was a big auto accident down on the corner of Broad and Main, you know.|sd
+B|I know,|aa
+B|where they're just trying to fill in.|sv
+A|Yes,|aa
+A|or they're making, making time because they to fill in an hour's worth of news.|sv
+B|Yeah.|b
+A|Uh, I get kind of bored watching T V actually, when I watch the news on T V because it goes so slow|sd
+B|I know,|b
+B|I do, I do, too.|sd
+A|and, then there's nothing that, you know, really is like oh, so exciting.|sv
+B|Yeah,|b
+B|you may find one little, uh, news item interesting|sv
+B|so you have to wait twenty minutes to, to hear about it.|sv
+A|Yeah,|b
+A|that, that's about what it ends up being.|sv
+A|Listen to the news to hear the traffic report or something|sv
+B|Yeah,|b
+B|actually, you mention NEWSWEEK,|sd
+B|I, I, I do like, uh, U S NEWS AND WORLD REPORT.|sd
+B|I don't get to read it as much as I like,|sd
+B|but that's, I think that's a good magazine.|sv
+A|Yeah,|b
+A|I think they're about the same.|sv
+A|I, you know, they, they certainly have a very similar, uh, charter at least in my mind.|sv
+A|And, uh, uh, what, what kind of, uh, what kind of news normally interests you,|qw
+A|I mean what do you, what, what do you find interesting versus what do you find boring?|qw
+B|Well right now trying to keep abreast of, uh, what's going on in Europe, you know, with all the, U S S R's satellites breaking off, trying to become independent and, you know, European community coming together.|sd
+A|Uh-huh.|b
+B|That's going to affect our, uh, economy quite a bit.|sv
+A|I think it will,|aa
+A|uh, they, they keep claiming it's going to have a big influence,|sd
+A|but we've yet to see it|sd
+A|and|%
+A|it's real short term yet, though,|sd
+A|I mean, it's only been, three months or something like that since that happened|sd
+B|Oh, yeah.|b
+A|so,|%
+B|Yeah.|b
+A|But they like to tell us that it's going to be important|sv
+B|I'm, I'm pretty sure it is, because, uh once, once Europe becomes unified and, uh, their economy becomes one big economy we're going to be, uh, kind of hurting|sv
+A|I think it is, too.|aa
+A|Yeah,|aa
+A|I, I think that's a possibility,|sv
+A|uh, it, we might also be helped, though, because it, it will be easier to do business over there, too.|sv
+B|Yeah,|aa
+B|definitely.|aa
+A|For the companies that already have a presence over there|sv
+A|and, uh, I know of at least one company that specifically went over there and established a presence before nineteen ninety-two so that they would have it when it came time.|sd
+B|Oh, yeah|b
+B|so they have a toe hold,|bf
+B|I good toe hold.|bf
+A|Yep.|aa
+A|Because once you're in there, then you can easily expand.|sv
+A|But getting in after nineteen ninety-two is more difficult.|sv
+B|Yeah,|b
+B|because, when they first start off, they're going to be highly protectionist|sv
+B|so,|%
+A|Yes.|aa
+B|Yeah.|b
+A|And there's already a lot of evidence that they are being very protectionist,|sv
+A|even amongst themselves, they're being somewhat protectionist, you know.|sv
+B|Yeah.|b
+A|Like, England doesn't want to do one thing|sd
+A|and, and Sweden doesn't want to do other thing|sd
+A|and they're, they've all got their own reasons which have to be resolved yet.|sv
+B|Uh-huh.|b
+A|And some of it, I mean, is,|%
+A|I'm sure within those people's minds, it's quite justified.|sd
+B|Yeah,|b
+B|I, I can understand their viewpoint,|sd
+B|they're just, they're starting off,|sd
+B|their economy's a little bit weak,|sd
+B|so you want to get established before they|sd
+A|Uh-huh.|b
+A|Before they open up their borders to everyone.|^2
+B|Yeah,|aa
+B|totally.|aa
+A|Uh, what is the, uh,|qw
+A|do you watch anything like with sports or anything like that?|qy
+B|Actually I'm not really into sports.|^h
+B|My roommates are,|^h
+B|so, unfortunately, I forced to watch quite a bit of sports.|sd
+A|Against your will.|bf
+B|Yeah,|aa
+B|we have to, fight over the remote control.|sd
+A|Yeah,|b
+A|at least you guys have a remote control.|sd
+A|It's sometimes better to not have one of those.|sv
+A|Course, you can always mislocate it. Or misplace it, I mean, not mislocate it, but misplace it|sd
+A|and,|%

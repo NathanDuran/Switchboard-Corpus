@@ -1,0 +1,244 @@
+A|Are you ready to start?|qy
+B|Yes.|ny
+A|Okay|bk
+B|Have you recently bought a new car Catherine?|qy
+A|Well, I just found out that my car like an old was thirty months old,|arp_nd
+A|and it doesn't seem like it's that old.|sd
+B|Oh.|bk
+A|Seems like I just bought it.|sd
+B|Oh, wow.|ba
+A|It's an eighty-nine|sd
+A|and I bought it, uh, in, uh, eighty-eight|sd
+A|so, yeah.|%
+B|Well, I really, the last car we got was a, was a used car.|sd
+B|I really don't prefer buying a new car.|sd
+B|I like to let somebody else pay for that|sd
+A|I know,|aa
+A|I really will do that the next time, I buy it too.|sd
+B|But, uh mine was a year old,|sd
+A|Uh-huh.|b
+B|and we bought it for very functional purposes,|sd
+A|Uh-huh.|b
+B|and that was we bought a station wagon.|sd
+B|We wanted an economical car to operate,|sd
+A|Uh-huh.|b
+B|but we wanted one that could carry a lot of equipment.|sd
+B|So, we chose a Nissan Stanza wagon.|sd
+A|Uh-huh.|b
+B|And I've never been sorry,|sd
+A|Oh, that's wonderful.|ba
+B|however the need for that kind of car has changed now,|sd
+A|Uh-huh.|b
+A|Oh, okay.|b
+B|and, uh, while it is still good, and it's quite serviceable, and I'll drive it until it no longer is reliable.|sd
+A|Uh-huh.|b
+A|Huh.|b
+B|And probably then some|sd
+B|I'll spend a lot of time praying over it before I give it up.|sd
+A|Sure.|b
+B|I think that I would like to,|sd
+B|if you know, we all say, if I could have the car I always wanted I would either buy a Nissan Maxima, uh,|sd
+A|Right.|b
+B|I'm sold on Nissans.|sd
+A|Uh-huh.|b
+B|I a or, or foreign cars actually.|sd
+B|Uh,|%
+A|But do you feel though, uh, craftsmanship is much superior to the American abilities?|qy
+B|Uh,|^h
+A|Is that how you,|qy
+A|I have never,|%
+B|its reliability.|qy
+A|Its|%
+B|Its reliability.|sd
+B|And, uh, I, you know, I've read all the CONSUMER REPORTS and things,|sd
+B|and they just run head and shoulders above the American made cars.|sd
+B|If Ford was a head and the shoulders above it, I'd buy a Ford.|sd
+A|Isn't that a shame.|bh
+B|But I had, uh, had a Ford Escort that absolutely needed taps the day we got it.|sd
+A|My word isn't that sorry.|bh
+A|That's sorry.|ba
+B|Uh, you know, I mean it was ready for the graveyard.|sd
+A|My word.|ba
+B|And I spent as much on that car in twelve months as I spent for the car.|sd
+A|Oh, mercy.|ba
+B|So,|%
+A|You,|%
+B|and that was just trying to hold us,|sd
+B|getting out of that was a used car.|sd
+A|Huh.|b
+B|And it was an older car,|sd
+A|Huh.|b
+B|but, you know, Escort is supposed to have a great track record as far as sales.|sv
+A|Huh.|b
+A|Uh-huh.|b
+B|But it's just, it just was not|sd
+B|and you get stung a time or two,|sv
+A|Sure.|aa
+B|and you say, no thanks.|sv
+A|No thanks.|b^m
+A|That's right.|aa
+B|So, I just trusted the CONSUMER REPORTS and the auto, uh, reports|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+B|had my son who knows a lot about that, study them thoroughly,|sd
+B|and he gave me four choices of cars to buy|sd
+A|Uh-huh.|b
+B|An Escort definitely was not among them.|sd
+B|In fact, there wasn't an American car in there.|sd
+A|Wow.|ba
+B|Uh, the Nissan came|sd
+B|and, and we bought the Nissan for functional purposes not what the CONSUMER REPORTS said we should get.|sd
+A|Uh-huh.|b
+B|But it served our needs.|sd
+B|Uh, later on his reports, the reports that he studied showed that, uh, Nissan was head and shoulders above the rest in the in the class that we were looking for.|sd
+B|And that, and I'd rather have a Maxima than a Cadillac.|sd
+B|I really would.|sd
+B|It's not necessarily prestige,|sv
+A|Uh-huh.|b
+B|but it's comfort.|sv
+B|Uh, there's a lot of features on there that are desirable if you're going to pay that kind of money for a car.|sv
+B|Uh,|%
+A|Who makes that car?|qw
+B|Nissan.|sd
+A|I mean but where are they, where are they,|qw
+A|what, what is their location,|qw
+A|is it, uh, Asian|qy
+A|or is it European|qrr
+A|or who,|%
+B|No.|nn
+B|No,|nn
+B|no.|nn
+B|Nissan is Japanese.|sd
+A|Oh, it is Japanese.|bh
+B|Uh-huh,|ny
+B|uh-huh,|ny
+A|Okay,|bk
+B|uh-huh.|b
+A|I didn't know.|sd
+B|Yeah.|b
+B|And, uh, if I couldn't have my luxury Maxima then I'd buy me a fancy little red C R X sports car|sd
+A|Uh-huh.|b
+A|Okay|b
+B|I mean, you know, every every one of us have two sides|sv
+A|Yeah,|aa
+A|I guess so|aa
+A|that's true.|aa
+A|Yeah.|aa
+B|Yeah.|b^m
+B|Now what about you,|qo
+B|if you could have the car that you wanted what would you get|qw
+A|If, if, if I had the car I wanted.|^h
+B|and why?|qw
+A|Gee.|ba
+B|Uh-huh.|b
+A|Probably, um, uh, let's see, I like the looks of the Lincoln Town car|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+B|Yeah.|b
+B|See there,|%
+A|But I,  I don't know the performance of it.|sd
+A|That's a, Ford product,|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|and, you know, I would get hung up by my boot straps if I if I ever mentioned the Ford product in my family.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|I tell you that's sad too because there one time Ford was the best, that was made.|sv
+A|Yeah,|b
+A|yeah.|b
+B|Really was.|sv
+A|Uh-huh.|b
+B|And, uh, I, I really have not seen,|sd
+B|now a lot of the American cars actually are, are, parts are produced in foreign countries and assembled here or vice versa.|sv
+A|Can I put you on hold for one minute?|ad
+B|Of course.|aa
+A|Thank you.|ft
+A|Well, that was one minute.|sd
+A|They hung up.|sd
+B|Okay|b
+B|Uh, at any rate do you have color preferences|qy
+B|or what would be the features that you would be looking for?|qrr
+A|Um, well, the comfort of a large car that the security of a large car. Um, and the luxuries of a large car.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|Uh, now color preferences,|sd
+A|I think I would opt to go with a bronze. Which is probably closest to gold that you can get|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+B|Yeah.|b
+B|Oh, wow.|ba
+B|We like the stuff that glitters|bf
+A|Yeah.|aa
+B|Good.|ba
+B|There's nothing wrong with that.|sv
+B|Actually I think probably if I were going to get if I were going to be practical, which doesn't mean I would be,  I would prefer  white. Because, simply because it's more visible at night.|sv
+A|Right,|b
+A|well,  practical|%
+A|yes|%
+A|that's,|%
+A|Uh-huh.|b
+A|Right|aa
+A|and it's cooler I believe, too, when you're driving in,|sv
+B|And,|%
+B|Uh-huh.|b
+B|Uh-huh.|aa
+B|Now the interior,|sd
+B|okay,|%
+B|I don't care about the interior just as long as it's not black or red.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+B|But if I had the little red C R X , I guess the interior would have to be black leather|sd
+B|and I'd have to live with that.|sd
+B|And if I got the C R X it would have to have a real good sound system in it because I'd want that too.|sd
+A|Oh.|b
+B|I'd just go back to my teenage years and just throw all my experience to the wind|sd
+A|Um, can you, uh, hang on again|ad
+B|Uh-huh.|aa
+A|Thanks|ft
+A|I've got the phones for lunch hour.|sd
+B|Uh-huh.|b
+A|So.|%
+A|Just don't mind me if I bounce back and forth.|ad
+B|That's okay.|bd
+A|Um, so you like to listen to, uh, a lot of music,|qy^d
+A|or do, is it talk shows.|qrr
+B|No,|nn
+B|no,|nn
+B|no.|nn
+B|I generally would uh, prefer to listen to, uh, well, I listen to K C B I a lot|sd
+B|but I will listen to the news and the, and the traffic and those things at work.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+B|But if I'm going to be traveling in that car for any period of time, I want some real good classical music.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|I love classical music,|sd
+B|and you just can't enjoy it unless you've got a good sound system to produce all the, all the characteristics of the instruments.|sv
+A|All the,|%
+A|yeah.|%
+A|Uh-huh.|aa
+A|That's true.|aa
+B|So I do love classical music|sd
+B|or it or, or, uh, contemporary classical.|sd
+A|Do you listen Do you listen to W R R?|qy
+B|Uh-huh.|ny
+A|Huh.|b
+B|Sure do.|sd
+A|Yeah.|b
+B|W R R and the Oasis are the two that I listen to, more than anything else.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|And I do like them.|sd
+B|And I'd like to have a compact disc player in the car.|sd
+B|That would be,  something that I would really like.|sd
+A|Those are nice, aren't they?|qy
+A|Yes,|ny
+A|those are nice.|sv
+B|Those compact discs,  really are good for cars because they don't melt,|sv
+A|Uh-huh.|b
+B|they don't warp.|sv
+A|Uh-huh.|b
+B|You know, there's nothing in there that can wrap around the, the, uh, rollers or anything.|sd
+B|It seems like a really good answer to portable music, that you can choose.|sv
+A|Huh.|b

@@ -1,0 +1,168 @@
+A|Where have you been on a wonderful vacation?|qw
+B|Well normally when we go on vacation we go home, to Colorado.|sd
+A|Oh, that's where we go home, too.|sd
+B|Really.|b
+B|Yeah,|b
+B|Colorado Springs is where we're from.|sd
+A|That's where we go.|sd
+B|How funny.|ba
+A|Yes,|aa
+A|my husband's family lives just off of Academy Boulevard at Maize land.|sd
+B|Really?|bh
+A|Yes.|ny
+B|We live up, up, uh, Lake, in the Broadmoor area|sd
+A|Uh.|%
+B|that's where my my in-laws are.|sd
+A|Oh, we've been there.|sd
+A|We haven't skied at Broadmoor.|sd
+A|We went there last year at Christmas time|sd
+A|and it was twenty-seven below.|sd
+B|Oh.|b
+A|So we had to cancel our ski lessons|sd
+B|Uh-huh,|b
+B|as of you can't even ski there anymore.|sd
+A|Really?|bh
+B|Yeah,|ny
+B|they closed it down.|sd
+A|Oh, just this year?|qy
+B|Uh-huh|ny
+A|Oh, my,|ba
+B|they don't have enough money to keep it going,|sd
+A|Uh.|%
+B|it doesn't, doesn't pay.|sd
+B|So.|%
+A|So that wouldn't be a good spot to go on a vacation, now if you were a skier.|sv
+B|Well you know, well, now I don't know.|ar
+B|Now Colorado Springs is real accessible to Lake Breckenridge|sv
+A|Uh-huh.|b
+B|it's only a couple of hours away.|sd
+B|And, uh, so, it's, it might not be too bad if you want to go skiing somewhere else.|sv
+B|But, you can't, can't ski up there any more.|sd
+A|No.|b
+B|Oh, I'd like to go on vacation.|sd
+B|I my husband and I want to go to Florida to go to Disney World,|sd
+A|Uh-huh.|b
+B|but we have two little ones that are under two right now,|sd
+A|Yes.|b
+B|so we want to wait until they're a little bit older to do that,|sd
+A|Oh.|b
+B|and,|%
+A|Well, we went on a family cruise last year, on the Premier Family Cruise Line|sd
+A|and then we went to Disney.|sd
+A|It was all part of the package.|sd
+B|Oh.|b
+A|And on the cruise ship they had Mickey and Minnie and Chip and Dale and Goofy and Donald Duck,|sd
+A|and it was really oriented toward little kids.|sd
+B|Well, how fun.|ba
+A|So the kids could eat with Chip and Dale, you know,|sd
+A|and, you know it was just a lot of fun.|sv
+B|Oh yeah,|b
+B|Oh, I bet.|ba
+A|So then we were on the cruise for three days in the Bahamas,|sd
+A|and then landed at Cape Canaveral and then drove over to Orlando and spent four days at Disney.|sd
+B|Wow,|ba
+B|well that sounds pretty, Yeah, that sounds pretty good.|ba
+A|Yes,|b
+A|that was the way to travel.|sv
+A|Yes.|aa
+B|And it was all a big package deal where you just pay one price and get everything?|qy^d
+A|Yes.|ny
+A|That's right.|na
+A|That's right,|na
+A|and kids are really cheaper, too.|sd
+B|Really.|b
+A|We really lucked out because the ship we were supposed to be on developed engine trouble two days before our cruise,|sd
+A|so they said we could either cancel, reschedule, or take whatever was available.|sd
+A|So we took whatever was available,|sd
+A|and we left a day early,|sd
+A|and they put us up at the Cocoa Beach Hilton,|sd
+A|and the ship that was available, the only, uh, rooms that hadn't been booked were the suites.|sd
+B|Wow.|ba
+A|So we got the suites at the same price as a regular cabin.|sd
+B|Oh what a deal.|ba
+A|Yeah.|b
+A|So then our cruise was actually extended a day,|sd
+A|and our Disney was extended a day,|sd
+A|so we turned a seven day trip into ten|sd
+B|Great,|ba
+A|and they paid for everything.|sd
+B|Well, that's great.|ba
+A|Yes.|aa
+B|Oh.|b
+A|So that was a wonderful vacation.|sv
+B|Yeah,|aa
+B|I bet.|sv
+B|That sounds like the way I'd want to do it I think.|sd
+A|Yes.|b
+A|Well, what kind of things do you like to do when you go to Colorado?|qo
+B|Oh, well, we like to ski, of course,|sd
+B|so we spend so much time with our families uh, and seeing our friends,|sd
+A|Yes.|b
+B|because we moved to Texas about two years ago. So when we go back we are just jam packed full of people to see and things to do|sd
+A|Yeah.|b
+B|so we don't, we don't get a lot of time to just vacation.|sd
+B|We did, um, last year, though, go to San Antonio for Memorial Day which was fun just to get to kind of walk around and see the sights down there and do that kind of thing.|sd
+A|Oh.|b
+A|Uh-huh.|b
+B|Uh, but, you know, other, other than that, with, with both my kids being under two, it's real hard to do any, any kind of events that, uh don't, don't require as much,|sv
+A|Right.|b
+A|That would be,|%
+A|Yes.|b
+A|I know,|b
+A|I think one of the places I always hit in Colorado, is that current outlet store.|sd
+B|Yeah|b
+A|That's what,|br
+B|you should mention that,|fo_o_fw_"_by_bc
+B|I just got my catalog this morning and was looking through it.|sd
+A|Oh, with the Santa Claus on the cover.|qy^d
+B|Uh-huh.|ny
+A|Yes,|b
+A|I've already ordered from that one,|sd
+A|but we will probably be going up at Thanksgiving this year,|sd
+A|so.|%
+B|Oh, do you live, where do you,|qw
+B|what state are you in?|qw
+A|Texas.|sd
+B|Oh, you're in Texas.|sd
+A|Yes,|aa
+A|I'm in the Dallas area. In Plano.|sd
+B|So am I.|sd
+B|I'm in Garland.|sd
+A|Uh so that's not too far.|sd
+B|Yeah.|b
+B|I talked to somebody from Wisconsin or something the other day.|sd
+A|Oh.|b
+B|Yeah,|b
+B|so I guess they get people from all over.|sd
+A|Yes.|aa
+B|Yeah,|b
+B|driving for Thanksgiving, that's going to be quite a drive for,|sv
+A|Well it was when we left last year.|aa
+A|We left on the eighteenth, right before that big snow storm hit Colorado|sd
+B|Uh-huh.|b
+A|and we pulled in just as it hit.|sd
+B|Wow.|ba
+A|So, how do you go?|qw
+A|Do you go up through the Raton Pass, when you go up there?|qy
+B|Uh, no,|nn
+B|oh,|%
+B|well, wait a minute,|^h
+B|yeah,|ny
+B|we do,|sd
+B|we do.|sd
+A|That's on like Route two eighty-seven or something like that.|sd
+B|Yeah,|b
+B|uh-huh,|b
+B|and then we go straight up through Trinidad and straight up I Twenty-five from there.|sd
+A|Okay.|bk
+A|Okay,|bk
+A|we, uh, went a different way when we went last Christmas because of bad weather and because we were pulling a little U Haul trailer,|sd
+A|because we had to take our dog in the car, there was no room for luggage.|sd
+A|So, we went all interstate.|sd
+A|We went up, um, through Oklahoma City and then up through, uh, Kansas, and then turned left and went in on I Seventy|sd
+B|Uh-huh.|b
+B|Oh.|b
+A|and it wound up only taking us about an extra hour.|sd
+A|It was a little more mile wise|sd
+B|Uh-huh.|b
+A|but because you could go sixty-five miles an hour on the,|sd

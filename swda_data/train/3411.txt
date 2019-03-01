@@ -1,0 +1,155 @@
+A|What kind of car would you like to buy next?|qw
+B|Well, I guess Cadillac.|sd
+B|I guess that's kind of everybody's dream|sv
+A|Well, why would that be?|qw
+B|Oh, I guess it's a General Motors product,|sd
+B|and I like General Motors because they're made in the United States,|sd
+B|and, uh, we've had General Motors for years and have always had real good luck with them.|sd
+A|Okay,|b
+A|well that's good.|ba
+B|Uh-huh.|b
+A|If you had, uh, no financial requirements, if you could buy any car in the entire world, no matter what it cost, what would you buy?|qw
+B|Oh, um, I think I'd still go with the Cadillac.|sd
+A|Do you?|bh
+B|I don't, I don't care about a big fancy, fancy|sd
+A|Which type of Cadillac, uh, is your favorite?|qw
+B|Oh, I don't know.|sd
+B|I guess the Seville, probably or.|sd
+A|The Seville.|b^m
+B|Yeah.|b
+A|That's a sharp looking car.|sv
+B|Yeah.|b
+A|That really is.|sv
+A|It, it always has been though. You know,|sv
+B|Yeah,|aa
+B|they have been.|sv
+A|it doesn't have the Coup de Ville or the Sedan de Ville squareness.|sv
+A|It never really has.|sv
+A|It's always had it's own unique look.|sv
+B|Uh-huh.|b
+A|Well, I've always liked that.|sd
+A|I liked the, the|sd
+A|one year they had, a couple years they had where the trunk head would look like belt buckles across the back of it.|sd
+B|Oh, yeah.|aa
+B|Right.|aa
+A|I thought, now that looks sharp|sd
+B|Yeah.|b
+A|that looks real sharp.|^q
+B|Well, I think the ones now with all of the, uh, fancy gold lettering and all, you know, I think they're very pretty.|sv
+A|Uh-huh.|b
+B|And course the top, now the what is it, a vinyl top, I think those are pretty.|sv
+A|Yeah,|aa
+A|and, uh, the,|%
+A|I, I've never really, uh, I've never ridden in one recently, um,|sd
+A|but they're supposed to be just real smooth.|sv
+B|Uh-huh.|b
+A|Just a nice comfortable ride.|sv
+B|Yeah,|aa
+B|they are,|sd
+B|and, uh, they, they're just always,|%
+B|they, they look like they're sturdy you know,|sv
+A|Uh-huh.|b
+B|they look like they're very sturdy,|sv
+B|and you don't have to worry that much about, um, getting, you know, hurt like you would in a small one.|sv
+A|Right.|aa
+A|Now they've got a unique uh, feature in them now.|sd
+A|If, uh, if you have a front end accident at such a rate of speed, the the engine will actually drop out of the car so that it doesn't come through the, so it doesn't go, it doesn't go through the, you know, into the inside.|sd
+A|It'll go underneath the car instead.|sd
+B|Oh, I didn't know that.|sd
+A|So that's, that's a big safety factor they've got in them now.|sd
+B|Yeah,|b
+B|and I suppose they all have the balloons.|sd
+A|The air bags,|fo_o_fw_"_by_bc
+A|yeah.|b
+B|The air bags,|b^m
+B|yeah.|b
+B|Well.|%
+A|So,|%
+A|well that's great,|ba
+A|that's great,|ba
+B|Yeah,|b
+B|yeah.|b
+A|So you say you've always have preferred General Motors products .|qy^d
+B|Yeah,|ny
+B|I do.|sd
+B|Um, I, I go for things, you know, built in the United States rather than foreign countries.|sd
+A|Right.|b
+B|Help our economy|sd
+B|and,|%
+A|What kind of, uh, General Motors cars have you had in the past?|qw
+B|Mostly Oldsmobiles.|sd
+A|Oldsmobiles.|b^m
+A|Those are real nice riding cars too.|sv
+B|Oh, yeah.|aa
+B|That's what we have now,|sd
+B|but of course if I have a choice I'd still have the Cadillac|sd
+B|but, uh, I've been very satisfied with the, with the Oldsmobiles.|sd
+B|We've driven them for about probably twenty years.|sd
+A|Has that been the Cutlass or the Sierra?|qy
+B|Uh, no,|nn
+B|the Ninety-Eight.|sd
+A|The Ninety-Eight,|b^m
+A|okay.|bk
+B|Uh-huh,|b
+B|yeah.|b
+B|So.|%
+A|Well, I don't think,|sv
+A|uh, let's see,|^h
+A|the Ninety-Eight,|sd
+A|now that's got that big V eight engine in it, doesn't it, doesn't it?|qy
+B|Well I don't know.|sd
+B|The one we have has a six.|sd
+A|Has a little V Six?|br
+B|Uh-huh.|aa
+A|Okay.|bk
+B|But it's a very good car.|sd
+B|It's a had, not had one minute's problem with it,|sd
+A|It,|%
+B|and I've had, now I have twenty-three thousand miles on it.|sd
+A|Oh, that's great|ba
+B|Yeah.|b
+A|that's great.|ba
+A|That's always nice to get, uh, reliability in a product. Especially when you're spending, you know, anywhere from fifteen to twenty-five thousand dollars for, for a single item. You know,|sv
+B|Right.|b
+A|you just don't want any hassles with it.|sv
+B|No.|aa
+A|You just, you expect it to do its, its job,|sv
+A|and I think a lot of, a lot of car manufacturers don't really keep that into don't take that into consideration you know.|sv
+B|Yeah.|b
+B|Yeah,|aa
+B|that's true.|aa
+A|They just expect you to buy their product,|sv
+A|but that's always been something that's been a key factor in me, is how reliable is this car going to be you know.|sd
+B|Uh-huh.|b
+A|Price is, is an issue,|sv
+A|but it's not the most important issue.|sv
+B|No,|aa
+B|it really isn't, because now you can get like five year financing on them|sv
+B|and so, um,|%
+A|Right.|b
+B|but I, I, I would go with the General Motors any time.|sd
+A|Well, I've always been a Ford man, myself.|sd
+B|Oh, really.|bh
+A|Yes.|ny
+B|Oh.|%
+A|But that's all right.|sd
+B|Yeah,|aa
+B|well sure.|aa
+A|You know, it's American made too which is good.|sd
+B|Right.|b
+B|Uh-huh.|b
+A|Um, but I, I've,|%
+A|ever since I guess I, I was growing up, my dad's always had Fords,|sd
+A|and, uh, well, I grew up in South Dakota.|sd
+A|So everybody has a truck|sd
+B|Uh-huh.|b
+A|and my Ford trucks have just,|sd
+A|I've, I've just never had problems with them.|sd
+B|Uh-huh.|b
+A|I honestly think I would die before my truck would, keel over on me.|sd
+B|Yeah.|b
+A|So.|%
+B|Well, I,|%
+B|yeah,|b
+B|those are good products also.|sv
+B|Um, let's see,|^h

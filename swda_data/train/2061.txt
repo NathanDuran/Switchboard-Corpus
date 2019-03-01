@@ -1,0 +1,405 @@
+A|Hello.|fp
+B|Hello.|fp
+A|Hey, how you doing?|fp
+B|Not bad,|fp
+B|not bad.|fp
+B|What's your name?|fp
+A|Fernando.|fp
+B|Fernando.|b^m
+B|My name is Nick.|fp
+A|Wait.|ad
+A|Let me turn off my stereo here|oo_co_cc
+B|Sure|aa
+A|Because I've been, like, waiting, like, for about ten minutes to get connected to somebody.|sd
+B|Really?|bh
+A|Yeah.|ny
+B|Phew like a whistling|ba
+B|Man, I'm,|%
+A|Yeah.|b
+A|What time is it over|qw
+A|are you, are you in Dallas?|qy
+B|No,|nn
+B|no.|nn
+B|I'm in Detroit.|sd
+B|Or not Detroit. I'm in, uh, California.|ar
+A|Are you?|bh
+B|Yeah.|ny
+B|I .|%
+A|Because  every time I got through, I went to Dallas, Texas.|sd
+B|Really?|bh
+A|Yeah.|ny
+A|I'm in North Carolina.|sd
+B|Oh.|b
+B|Well, you're on the, uh,|bf
+B|let's see,|^h
+A|On the other coast|^2
+B|Yeah,|aa
+B|twenty-one like he is talking to someone other than|t3
+B|Yeah.|%
+B|Shoot man, it's, what, midnight almost?|qy^d
+A|What?|br
+A|Yeah,|ny
+A|yeah.|ny
+A|It's, uh,|%
+A|I'm watching SATURDAY NIGHT LIVE here.|sd
+B|Yeah,|b
+B|okay.|b
+B|All right.|b
+B|Well I guess we're supposed to talk,|sd
+B|what about|qw
+B|credit  card?|qy
+A|wait.|ad
+A|what did, how, how did you get to know about the T I thing?|qw
+B|Oh, one of my instructors, uh, said that they were doing something like this|sd
+B|and.|%
+A|what are you working on|qw
+B|A, a Masters in, uh, information systems.|sd
+A|Really.|bh
+A|I'm doing my Masters in, in computer science and computer engineering.|sd
+B|Yeah?|bh
+B|Where at?|qw
+A|At North Carolina State University.|sd
+B|Hey.|ba
+B|How do you like it out there|qw
+A|Uh, I don't. Because, uh, I come from a lot, a bigger city than this one|sd
+A|and  I, I'm  in Raleigh|sd
+B|Yeah.|b
+A|and,|%
+B|Oh.|b
+B|Raleigh Durham.|bf
+B|Yeah.|%
+A|Yeah.|aa
+A|That area.|sd
+A|And it's really small.|sd
+A|All, all you have is like towns built around universities.|sd
+B|Uh-huh.|b
+A|Like Chapel Hill?|qy^d
+B|Yeah.|ny
+B|So it, it's basically a bunch of small towns anyway.|sd
+B|Kind of quaint little towns|sd
+B|but they  don't have a whole lot there.|sd
+A|Yeah.|b
+A|Where you at?|qw
+B|Uh, well, I'm in Monterey, California right now|sd
+B|Yeah.|%
+A|Oh, okay.|bk
+A|So, so I mean, it's like this, this town probably has like two hundred and fifty thousand people|sd
+A|and that's about it.|sd
+B|Two hundred fifty?|br
+A|Yeah.|aa
+B|Okay.|bk
+B|It, it's, it's a lot bigger than Monterey is.|sd
+B|But we're just, uh, just south of, uh, San Jose and San Francisco.|sd
+A|Oh, okay.|bk
+B|And it's only a couple of hours away or a hour away to a, you know, to a large city.|sd
+A|So, so where do you go?|qw
+A|Do you go to Berkeley?|qy
+B|No,|nn
+B|no.|nn
+B|I go to the, it's the naval postgraduate school out here.|sd
+A|Oh, okay.|bk
+A|Because, uh, I was looking at, at the, doctorate degree in computer science center at Berkeley|sd
+B|Uh-huh.|b
+A|And they're asking like for a, uh, G P A of like three point seven or  something  like that.|sd
+B|Uh-huh.|b
+A|And like they're looking like for, uh, G R E like ninety-nine percentile and  this and that.|sd
+B|Yeah.|b
+A|And it's like,|%
+B|Well, that's what they look for.|sd
+B|Whether or not they get it is hard to say like a chair is drug across the * spelling: "dragged", not "drug" in this case|sd
+A|Yeah,|aa
+A|I know.|sd
+A|That's why, that's why I didn't apply.|sd
+A|I mean, it was like for me, it was like practically impossible to get between like ninety and, ninety-nine percentile on the, on the  verbal part.|sd
+B|Yeah|b
+B|Yeah.|aa
+B|It's  pretty tough.|sv
+B|It's pretty tough|sv
+B|I,|%
+B|uh, let's face it, you know.|h
+B|And, you know, I, you know, did the, you know,|%
+B|as far as,|%
+B|I found it a lot of times with, regards to education, you know, the school only takes you so far, you know.|sd
+B|It's what you do. You know.|sv
+A|Yeah.|b
+B|So, uh, I don't lose any sleep, sleep over stuff like that.|sd
+A|So, are, are you going to go for your Doctorate?|qy
+B|Probably not.|nn
+B|See I'm in the Navy.|sd
+A|Yeah.|b
+B|And, uh, you know, most of the Navy funds that I probably won't do it until I,|sd
+B|if I do do it, it will be after I get out of the Navy.|sd
+A|When do you get out?|qw
+B|Oh, probably be another twelve years.|sd
+A|Oh, okay|bk
+B|Oh, you know I like what  I'm doing right now.|sd
+A|But, uh, but what if  they pay for it?|qo
+B|Excuse me?|br
+A|What if they pay for?|qo
+B|If they pay for a P H D?|qy
+A|Yeah.|ny
+B|Nah,|nn
+B|they won't pay for it.|sd
+B|They've, I think they have maybe two people a year go get, get their  P H D.|sd
+A|Because  I know, I know a couple of people here that work for, uh, the Army.  Uh,|sd
+B|Yeah.|b
+B|They civilians or, uh, military?|qy
+A|I think, I think they're military.|sd
+A|But, I  mean, the guy is still in.|sd
+B|Uh-huh|b
+B|Uh-huh.|b
+A|And,  uh, uh, he works over in Maryland|sd
+B|Uh-huh|b
+A|And so he's doing his Masters here.|sd
+A|They gave him like a scholarship like for a year.|sd
+B|Yeah.|b
+A|And  he's doing it in like, in a year and a summer.|sd
+B|Uh-huh.|b
+A|And so he's getting that|sd
+A|and, uh they said like they got a lot of benefits and that.|sd
+B|Yeah.|b
+A|That's why you want to join.|sd
+B|Uh-huh.|b
+A|But, uh,  this guy,|%
+A|I mean you can earn a lot more money|sd
+A|so you say,|h
+A|I go why you still there if you can earn a lot more money, once you've get your, your, your Masters.|sd
+B|Uh-huh.|b
+A|They go, well they got a lot of benefits that would go with it|sd
+A|so.|%
+B|Well, a lot of times it's, you know, a lot of times it's not the money that keeps that keeps people  in .|sv
+A|Yeah.|b
+B|They, they like what they're doing.|sv
+B|They, you know, they feel good about what they're doing.|sv
+B|That type of thing.|h
+B|It's more|%
+A|But I mean, I mean, you,|%
+A|the,|%
+A|once you get your Masters, you can be earning between, anywhere between like thirty-seven, forty-five thousand a year.|sd
+B|Uh-huh|b
+A|And  and that's  not what they're paying.|sd
+B|Oh, easily,|aa
+B|I'm sure.|sv
+B|No.|aa
+B|Well, it depends on what rank you are,  of course|arp_nd
+A|Yeah.|aa
+A|Yeah,|aa
+A|I know|sd
+B|I mean, like I say, if you're, if you're, you know, if you're at an upper level in the rank category, you know, you're probably pulling down close to seventy grand a year.|sd
+A|Yeah.|b
+A|But that's, uh,|%
+B|Yeah.|b
+B|Those are few and far between  though.|sd
+A|Yeah.|b
+A|It's like,  it's like, uh, in I B M.|sd
+A|In I B M, you can get certain points|sd
+B|Uh-huh.|b
+A|and, uh, everyone's a manager.|sd
+A|But nobody can get one more point to become, you know, like whatever you need to earn  so much money.|sd
+B|Yeah.|b
+B|Since  I imagine it's fairly  competitive.|sv
+A|Yeah.|aa
+A|It's like,|%
+A|no|ar
+A|I, I mean, I B M is like,|sd
+A|there's a joke about I B M which says, you know, it's like, uh,|sd
+A|all, all the major companies get into a, a boating race, right?|sd
+B|Uh-huh.|b
+A|And so, I B M says well we have, we have to have a team, right.|sd
+B|Uh-huh|b
+A|And then they come in last|sd
+A|and they have this whole team, you know, analyze why they came in last right. Because the person asked for it.|sd
+B|Yeah.|b
+A|Saying,|%
+A|he goes, uh, the problem was that there were five people saying row, row, row and one person rowing, right.|sd
+A|So he goes,  have you come up with a uh, have you come up with a solution?|sd
+A|They go, yeah,|sd
+A|change the rower|^q
+A|You know, it's like everyone's a,  manager|sd
+A|but, you know,  it's like  only use like one person does the work|sd
+B|Yeah.|b
+A|so.|%
+B|Too many chiefs and  not enough Indians.|bf
+A|Yeah.|aa
+A|So.|%
+B|Yeah.|b
+B|I don't know,|h
+B|that can be, that, that can really slow you down.|sv
+A|Yeah.|aa
+A|Well, that's the way it works.|sv
+A|I mean, that's, that's why they're having problems.|sv
+A|I mean, everyone's a manager|sd
+A|and,|%
+B|I didn't realize that.|sd
+A|Yeah.|b
+A|I mean, it's like, it's like the people that actually do the work there are, uh, very few.|sd
+B|Uh-huh.|b
+A|And then the other people just plan it, you know.|sd
+A|It's like,  it's like have you, have  have you ever seen the commercial like for Federal Express where the, with, uh, the think tank? You know,|qy
+B|push paper around.|^2
+B|Uh-huh.|ny
+A|like all these people are just standing, sitting around, just going, you know, like what shall we do?|sd
+A|Has anybody thought of anything?|^q
+A|No.|^q
+A|And then this guy from Federal, Federal Express comes along.|sd
+A|They go what's that? This track which it's going around the world|sd
+A|and they can tell you where your package is anywhere, any time.|sd
+B|Uh-huh.|b
+A|And so it's like the same thing with I B M. You know,|sv
+A|so they have this think tank.|sd
+A|And they got to come up with ideas.|sd
+A|But, see, uh, the, the thing is, that I B M is so stabilized that  everybody will buy their stuff.|sd
+B|Yeah.|aa
+B|Oh, yeah.|aa
+B|They've got a, they've got basically a, uh, you know, a lock on a lot of the market.|sv
+A|Yeah.|b
+B|And a lot of times you figure, you know, with the support that they provide, you know,|sv
+B|people generally go with that because they figure that the, you know, you probably won't get fired for getting I B M material.|sv
+B|Whereas if you try something different, they'll  they'll say  yeah,|sv
+A|And it fails|^2
+A|and  you're dead.|^2
+B|why didn't you buy,  why didn't you try something more mainline.|^q
+A|Yeah.|b
+A|Well I B M  doesn't fire anybody.|sd
+A|Because  uh, what they do is they, they put you in a different job. Which you actually are like sitting around not doing anything.|sd
+B|No.|aa
+B|Uh-huh.|b
+A|So you quit.|sd
+B|Uh.|b
+A|I mean that's their policy.|sd
+A|They never fire anybody unless you're caught doing something illegally.|sd
+B|Illegal or something  like that,|bf
+B|yeah.|b
+A|Yeah,|b
+A|like  if you're stealing something or doing anything like that|sd
+B|Uh-huh.|b
+A|But they won't let you off.|sd
+A|What they'll do is like|sd
+A|suppose, you know, like you're a manager.|sd
+A|So they'll  put  you into keeping up the paper, you know.|sd
+B|Uh-huh.|b
+A|It's like how much paper is going in?|sd
+A|And then  you  say that's not my job,|sd
+B|Uh-huh.|b
+A|so you quit.|sd
+B|So, in other words, that's the way they  force  people out|bf
+A|Right.|aa
+B|That's why they can say, you know, there's  no layoff  policy.|sd
+A|Right.|b
+B|But it they don't really say that, you know,|sd
+B|you're, you're always going to have great  career  conditions.|^q
+A|Right.|b
+B|hey, that's kind  of sad.|sv
+A|No,|ar
+A|but  I mean, it's like, it's like they, they have just like different policy.|sd
+A|I don't know.|h
+A|My dad works for them|sd
+A|but it's like I B M like never in their commercials, they never put down any other company, you know.|sd
+A|It's like they won't say,|sd
+B|No.|aa
+B|Well, they're the standard right now.|sv
+B|Or as far as that goes, you know, people think of computers, they think of I B M a lot of times.|sv
+B|And the main,|%
+A|Yeah.|aa
+A|Because see what happens is they have a good backup policy.|sd
+A|And anybody can fix it.|sd
+B|Uh-huh.|b
+A|And so that's what you're going to go for.|sv
+B|Yeah.|aa
+B|Well, you know, that's, that's a, that's a big  thing.|sv
+A|And,  and, you know, it's like, for example, like Leading Edge.|sd
+A|Have you ever heard of Leading Edge?|qy
+B|Yeah.|ny
+B|They are out of Korea right.|qy
+A|What?|br
+B|Leading Edge.|sd
+B|Don't they|qy
+A|They, they made like, uh, small personal computers.|sd
+B|Yeah.|b
+B|Small P C|b^m
+B|they're out of Korea right?|qy
+A|I don't know.|no
+A|I don't know.|no
+A|But what they do is, what they did, I don't know, is buy all the parts that I B M would throw away. And build an I B M P C with all the parts that I B M would throw away.|sd
+B|Uh-huh.|b
+B|Oh, yeah|b
+A|Yeah.|b
+A|for example, you test a chip.|sd
+A|It can't last seven years|sd
+A|but it can last five.|sd
+A|I B M says let's throw it away.|sd
+A|Leading Edge will say we'll buy it from you.|sd
+B|Okay.|b
+A|And so that's,|%
+A|I mean, they're still around I think.|sd
+B|Yeah.|aa
+B|I've seen, well I've seen them around  anyway. You know .|sd
+A|So, that's what they do.|sd
+A|They buy all, all the things that I B M throws away|sd
+A|and they , and that's why they're so compatible. Because I mean|sd
+B|Uh-huh.|b
+A|and by the time you have computer for five years, you're going to throw it away anyway.  You know.|sv
+B|Most people do.|sv
+B|Or they have to anyway.|sv
+A|Well, I mean, there's like, well|%
+A|in a way you realize,|h
+A|I mean, one one of my teachers got this computer which, you know,|sd
+A|it's like, uh, voice, uh, synthesizing stuff.|sd
+B|Uh-huh.|b
+A|And he got that.|sd
+A|He said, you know, it's like, uh,|sd
+A|I was testing it * LISTEN to this sequence that begins here and ends with A.215 utt 11. I can't tell how much Speaker A is quoting, and how much he'she is directly addressing Speaker B.|^q
+A|and it was wonderful.|^q
+A|And then when you tried to erase and correct, you know, all the errors in your voice, it takes up all your memory.|^q
+B|Wow.|ba
+A|And I want more,  you know.|^q
+A|And it's like Jesus Christ, you know,|^q
+A|it's like why do you want more.|^q
+A|Because it's like one second of recording.|^q
+A|I mean you put into Wave|^q
+B|Uh-huh.|b
+A|and you want to correct the errors into Wave,|^q
+A|it takes so much,|^q
+A|I mean, it's like,|^q
+A|of course it does.|^q
+A|I mean, by the times it transforms into Wave by mark off model|^q
+A|and you put it in there,|^q
+A|and you want to correct those.|^q
+A|And then, you know, you're trying to make the, the Wave smooth|^q
+A|so you can approximately,|^q
+A|of course it's going to take a lot.|^q
+A|Imagine, imagine  what it is for us to make mark off models, you know.|sd
+B|It's amazing.|ba
+B|Yeah.|b
+A|It's like, Jesus Christ.|sd
+B|Well, when you get, you know, when you get right down to it, the, uh, the more they can do for you, the more, uh, like I say, the more, the more memory they're going to  require.|sd
+A|Yeah.|b
+A|Yeah.|b
+B|Yeah.|b
+B|Both, both in terms in Ram as well as, uh, you know,  standard  memory or disk  disk base,|sd
+A|Yeah.|b
+B|so.|%
+A|Well, like  they say, like nobody can get enough, you know.|sv
+A|It's like once you have  something,|sv
+A|and it's like|%
+B|Oh, yeah.|aa
+B|You find out more,|sv
+A|I was watching this program on T V yesterday.|sd
+A|In nineteen seventy-six NASA came up with Three D graphics.|sd
+B|Yeah.|b
+A|Right.|%
+B|Uh-huh.|b
+A|And they were showing this like Three D Three D graphics view of like,|sd
+B|Like the deal?|qy^d
+A|What?|br
+A|No,|nn
+A|no,|nn
+A|no.|nn
+B|Like a hologram?|qy^d
+A|This is like,  this is like  video game stuff.|sd
+B|With just graphics on, on a,|bf
+A|Okay?|^g
+B|Okay|bk
+A|But the only thing was, that it was just lines,|sd
+A|okay.|%
+A|Like if you|%

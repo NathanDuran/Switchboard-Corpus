@@ -1,0 +1,159 @@
+A|You have any pets?|qy
+B|Do I have pets?|br
+A|Yeah.|ny
+B|Yes,|ny
+B|I have a cat|sd
+B|and I have two dogs.|sd
+A|Two dogs,|b^m
+A|what kind?|qw
+B|I have a Schnauzer|sd
+B|and I have a Sheltie.|sd
+A|Schnauzers.|b^m
+A|Is it a miniature or a standard Schnauzer?|qy
+B|It, it's a miniature.|sd
+A|Uh. I'm going into all this because I used to I just got done working at a pet shop actually.|%
+B|Uh-huh.|b
+B|Oh, okay.|b
+A|Yeah.|b
+B|Well, the Schnauzer I'm, I'm watching for one of, uh, the managers where I work|sd
+B|and he's been transferred to Germany for a while|sd
+A|Uh.|b
+B|and I'm taking care of his dog|sd
+B|and, uh, and I had just got the kitten when he asked me that|sd
+B|and he says, well, my dog doesn't like cats,|sd
+B|and I said, well, we won't tell him it's a we won't tell her it's a cat, because it was a kitten,|sd
+B|and, you know, they just, they just love kittens.|sv
+A|Yeah.|b
+B|They just are fascinated.|sv
+A|Oh, yeah.|b
+B|So she doesn't know that this is a cat yet.|sd
+A|That's good.|ba
+A|They say ,|sv
+B|And they get along real good.|sd
+B|I said if Tom could see dog lick this kitty, he'd flip. *listen|sd
+B|So that was interesting.|sd
+A|Didn't expect that would happen.|bf
+A|Yeah,|b
+A|that's cool,|ba
+A|that's nice.|ba
+A|Uh, let's see,|^h
+A|what was the other dog you had?|qw
+B|It's a sheltie.|sd
+A|Oh, a sheltie.|b^m
+B|She's real sweet little dog.|sd
+B|She's got a very nice temperament.|sd
+B|Uh, they're not as aggressive as a Schnauzer.|sv
+A|Yeah.|b
+B|You know, the Schnauzers are a little aggressive.|sv
+A|They can be nippy.|sv
+B|Uh-huh.|b
+A|Yeah,|b
+A|shelties are nice.|sv
+A|Everybody seems to be really happy with them.|sv
+A|They're good temperament.|sv
+B|They're a good temperament|sv
+A|They put up with a lot.|sv
+B|and they,  and they just, uh,|sv
+B|they,|%
+B|I think they have a good head on their shoulders.|sv
+B|I think they have a, a higher level of intelligence than other, uh, dogs that I have encountered.|sv
+A|Schnauzers, in particular probably.|sv
+B|Well, yeah,|aa
+B|but also some poodles, uh|sv
+A|Oh, yeah.|b
+B|they're kind of,|sv
+B|there are some smart ones out there,|sv
+B|but there's some also some, uh, not so smart ones|sv
+A|Yeah,|b
+A|I|%
+A|it seems the smaller the are, the, the worse off they are|sv
+B|Yeah,|aa
+B|that's, that's, maybe that's, there's, uh, some credence in that statement.|sv
+A|Yeah,|b
+A|they're bred down so much.|sv
+A|It's,|%
+B|Uh-huh.|b
+A|They aren't the best pets.|sv
+B|I, I'd, I really don't know what the best pet is.|sd
+A|Yeah.|b
+B|I guess it's up to the individual and how they relate to their animal. And bull dogs|sv
+A|Yeah,|b
+A|I mean, some people seem fairly well suited for for, uh, miniature poodles and such.|sv
+B|But I don't know about these, uh, these, uh, uh, these pincers, these, now, what are they called. Pit bulls, pit bulls that are so vicious.|sd
+A|Pit bull.|^2
+A|They might,|%
+A|they're actually very friendly dogs.|sv
+B|Are they really?|bh
+B|I don't think I've ever   seen one.|sd
+A|Uh, they're   really nice.|sv
+A|I, I've dealt with quite a few of them.|sd
+A|People, uh, customers that bring them into the shop and ask me like, they, uh, fit collars and stuff on them|sd
+A|and they are, they are just really nice, really friendly, uh, kind of like medium intelligence. Uh,|sd
+B|Well, how do they become|qw
+B|how did they get their reputation, then?|qw
+A|Well, because some people, uh, want to train them as,|sd
+B|Oh, they train them to be that way, then.|bf
+A|Yeah.|aa
+B|Oh, okay.|bk
+A|You really can't get a pit bull from birth that's that way.|sd
+B|Oh, okay.|bk
+A|Yeah,|b
+A|it takes a lot of training and a lot of abuse to get a dog to really  respond.|sd
+B|Oh, dear,|ba
+B|so the  the poor animal is doing it in self protection.|bf
+A|Right.|aa
+B|Oh, dear.|ba
+A|Yeah,|aa
+A|they aren't, they aren't by nature really nasty critters.|sd
+A|They are very determined critters|sd
+B|Uh-huh.|b
+A|and so once you get them going, it's not good to to deal with, but, they, I, I really like them. *two utts?|sv
+A|I was, I was impressed by them.|sd
+A|They're, they're real sturdy little critters|sd
+A|and they aren't that big. And, uh, just really friendly.|sd
+B|Uh-huh.|b
+B|Well, that's unusual.|ba
+A|I was, I was  overwhelmed.|sd
+B|I,|%
+B|Huh, well, I suppose you were surprised.|bf
+A|Yeah.|b
+B|After the reputation that, you know|sd
+A|Yeah,|b
+A|right now,|%
+B|they have quite an, uh, uh, notable reputation as far as, you know,|sd
+A|They picked up a lot of bad press lately.|sd
+B|Yeah,|aa
+B|they're banned from, in some areas I understand.|sd
+A|Well, yeah.|b
+B|Uh-huh.|b
+A|But, any, any, any pet's going to, can, can be bad if you train it to be that way.|sv
+B|You know, that,|%
+B|they must have just targeted that breed and said, boy, we're going|sv
+A|Well, yeah,|b
+A|it's, when,|%
+A|in my hometown, they just outlawed ferrets because they had one incident of a ferret, uh, attacking a a child in a house.|sd
+B|Oh, okay.|b
+B|Oh, okay.|b
+B|Uh-huh.|b
+A|I mean, these people had left this infant in the same room with this loose ferret.|sd
+A|The, the ferret is used to running the house and was kind of wild|sd
+B|Uh-huh.|b
+A|and, you know, they should expect something like that to happen.|sv
+A|And so|%
+A|now it's like ferrets are outlawed in the town.|sd
+B|Oh, did it attack the child, then?|qy
+A|Yeah,|ny
+A|it, it bit him.|sd
+B|Uh-huh.|b
+A|And that was, that was not a good thing,|sv
+A|but I think it was probably a, an individual ferret thing, because it was it was a fairly wild ferret.|sv
+B|Well, the the people that owned him should have been on the  lookout for that.  Sure,|sv
+A|Hadn't, they hadn't,|%
+A|Yeah,|b
+A|I mean  they really should have, should have expected it. And taken the precautions.|%
+A|They didn't.|sd
+B|yeah.|aa
+A|It's too bad it happened, though.|sv
+B|Yeah,|aa
+B|because then the, the animal's in trouble, and not the person.|sd
+A|Right.|aa

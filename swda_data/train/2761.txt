@@ -1,0 +1,165 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|what are your suggestions in making a family reunion successful|qw
+B|Have a big family, I guess,|sv
+B|that's a start.|sv
+A|Well I guess so.|aa
+A|Have  you had any in the|qy
+A|well how old are you?|qw
+B|Twenty-five,|sd
+B|so,|%
+A|Okay|bk
+A|so you  you have been to some family reunions, perhaps.|qy^d
+B|I just got married.|sd
+B|Right,|na
+B|every four years on one side of my family they plan on having, uh, like my grandparents and all their brothers and sisters and then all their kids and grandkids.|sd
+A|Now how long in advance do they, uh, let them know?|qw
+B|Well, we plan on it,|arp_nd
+B|it's like the third weekend in August,|sd
+A|Uh-huh.|bk
+B|so  it's every four years|sd
+B|and so,|%
+A|So they all know it.|bf
+B|Yeah|aa
+B|and then, you know, arrangements are made like during the Summer for you know, um, food and who's, who's staying where, because a lot of people are from down here, in Texas.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+B|And, uh, a lot of my family is in Indiana.|sd
+B|That's where I'm originally from.|sd
+A|Yes.|b
+B|So, um, we usually meet like at my uncle's cottage in the, um, at the lake and, uh, make a couple days of it.|sd
+A|Well that sounds like fun,|ba
+A|do they all have the small children too, that come?|qy
+B|Yeah,|ny
+B|pretty much.|sd
+A|So all ages.|qy^d
+B|Yeah|ny
+B|and, uh, you know, there's some my age|sd
+B|and then there are some a lot younger, an, about four generations, I guess.|sd
+A|Well my husband has, uh, on one side has an extended family,|sd
+B|Uh-huh.|b
+A|and  they don't ever plan it as, like you do.|sd
+B|Uh-huh|b
+A|I think  if you can count on it every four years then people have it in mind|sv
+A|so they have to start talking about it, or getting their act together about six months ahead to get in touch with everybody,  because  they're rather socially active too.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|And  so it has, it seems by doing it about six months ahead, they can pretty much get everybody there.|sd
+A|If they don't, you know, they'll say, oh we're planning to go so and so that, go to, to a certain place that weekend with somebody else|sd
+A|and we're already locked in|^q
+A|but six months ahead has seemed to be okay for them.|sd
+B|Uh-huh.|b
+A|My family, uh, my parents are the youngest of very large families.|sd
+B|Oh.|b
+A|Therefore, they don't have many people left.|sd
+B|Yeah.|b
+A|And, uh, the few previous ones I've had, uh,|sd
+A|I haven't known many of those people,|sd
+A|but, uh, in the last few years it really has just been our immediate family|sd
+A|and that's been very nice,|sd
+A|with, uh,|%
+A|I have one sister,  and  three brothers|sd
+B|Uh-huh.|b
+A|and they're only three out of five of us who have children.|sd
+B|Oh.|b
+A|So, uh, we get to spend a lot of quality time with each other.|sd
+B|Yeah.|b
+A|And  that's kind of nice because my husband's family reunions are so large,|sd
+B|Uh-huh.|b
+A|and  they don't see each other very often,|sd
+A|we don't really know many of them.|sd
+B|Yeah,|b
+B|that's kind of bad.|ba
+A|It really is,|aa
+A|they're fun,|sd
+A|they're a lot of fun,|sd
+B|Yeah.|b
+A|but,  uh, still, uh, they're not done on a regular basis|sd
+A|and, uh, you kind of forget what happened, and who they were from the time before.|sv
+B|Yeah,|aa
+B|it's, it's fun getting together with immediate family.|sv
+B|A lot of my cousins are real close|sd
+B|and we always get together during holidays and weddings and stuff like that,|sd
+B|so.|%
+A|Uh, those are the ones that are in Texas?|qy
+B|Uh, no,|nn
+A|Or you  go to Indiana on that?|qrr
+B|the ones in Indiana,|na
+B|uh-huh.|ny
+A|Uh-huh,|b^m
+A|where in Indiana?|qw
+B|Lafayette.|sd
+A|Lafayette, I don't know where,|qw^d
+A|I used to live in Indianapolis.|sd
+B|Yeah,|b
+B|it's a little north of Indianapolis, about an hour.|sd
+A|Yeah,|b
+A|yeah,|b
+A|it's very pretty country in there I think,|sv
+A|it's gorgeous.|sv
+B|Uh-huh,|aa
+B|so.|%
+A|Well I,|%
+A|uh, when is your next one, uh, scheduled now.|qw
+B|Well it's like, the last one was my high school graduation|sd
+B|the next one was when I graduated from college,|sd
+B|so I guess about two more years.|sd
+A|Yes, well,|b
+A|and do you think you'll have a baby to take back with you|qy
+B|Uh, maybe,|no
+B|I don't know,|no
+A|Maybe|b^m
+B|two more  years,|sd
+B|I don't know,|no
+B|probably.|na
+A|I mean you need another milestone, you know.|sv
+B|Yeah,|aa
+B|I guess that's, that's what,|%
+B|I mean I've been married now for about nine months|sd
+B|so that was another milestone, I guess|sv
+A|Yes,|aa
+A|well I'm sure,|aa
+A|and then all of your family probably has not met your husband.|qy^d
+B|Um, yeah,|b
+B|he's from Indiana,|^h
+A|Oh, is he?|bh
+B|so they all  met,|sd
+B|yeah.|%
+A|And, and he's living, your both living in Sherman.|qy^d
+B|Yeah.|ny
+A|Do you work to T I?|qy
+B|Uh-huh.|ny
+A|Uh-huh,|b^m
+A|and does he?|qy
+B|No,|nn
+B|he's trying to get in med school,|sd
+B|so.|%
+A|Uh-huh,|b
+A|well, we don't either,|sd
+A|but, uh, I have a friend who, uh, is working on this project.|sd
+B|Oh, really.|bh
+A|Yes,|ny
+A|and,|%
+B|Are they getting all the data they need?|qy
+A|Well, I don't know, uh,|no
+A|I, I have a hard time getting, uh, people on the telephone.|sd
+B|Oh really.|bh
+A|Uh-huh, getting through to anybody.|sd
+A|Sometimes I call off and on all day,|sd
+B|Huh.|b
+A|but  anyway, uh, I guess we're supposed to be talking about family reunions aren't we|qy
+A|But I got off that.|sd
+B|Well we've kind of exhausted everything I guess.|fc
+A|Yes,|fc
+A|well, um, I think we have been talking probably about four and a half minutes.|fc
+B|Oh, okay.|fc
+A|And, uh, uh, we both look forward to going to our next reunions, I'm sure.|fc
+B|Oh yeah.|fc
+A|But it has been fun talking to you.|fc
+B|Well you too.|fc
+A|Thank you.|fc
+B|And maybe I'll talk to you again.|fc
+A|Okay,|fc
+A|good.|fc
+B|Okay,|fc
+B|bye-bye.|fc
+A|Bye-bye.|fc

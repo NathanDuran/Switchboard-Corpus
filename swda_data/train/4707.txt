@@ -1,0 +1,109 @@
+B|Not very good|fo_o_fw_"_by_bc
+B|it's not been a good day|sd
+A|I went, I turned mine in about twelve hours early at noon.|sd
+B|I don't know.|h
+B|I finished mine up about eleven and left it here with Carolyn|sd
+B|so I hope she's turned it in.|sd
+A|Are you eating?|qy
+B|Uh, I|%
+B|go ahead,|ad
+B|I'll stop eating.|sd
+B|I just barely got  home from the university.|sd
+A|No it's,|%
+A|Say what?|br
+B|I just barely got home from the university.|sd
+A|Tell you what we can do is, uh, I can punch the, uh, one,|oo_co_cc
+A|and then after five minutes when the, uh, uh, voice comes on, we can talk all night if we want|oo_co_cc
+B|Okay,|aa
+B|go ahead,|ad
+B|fire away.|ad
+A|Uh, I love the irony of, uh, talking about this subject on April the, fifteenth|sd
+A|But, uh, I'm afraid I'm, I'm probably in the minority.|sv
+A|I, I actually don't think that we, uh, pay too much in this country. Uh uh, particularly, uh, in this part of the country|sv
+B|I agree with you|aa
+A|uh, I guess I do have a, a bone to pick with, uh, uh, the way taxes are distributed|sv
+A|Uh, I just finished fuming at the fact that we pay an eight and a half percent sales tax and no income tax when the income tax could have been deducted from the federal form|sd
+B|Huh.|%
+A|and the sales tax can't.|sd
+A|I think that's regressive|sv
+A|and, uh, uh, it's kind of dumb.|sv
+B|I hate the eight and a half percent sales tax.|sd
+B|But, on the other hand, I don't mind that it's only on, you know, things that aren't like groceries and that,|sd
+B|it's not on that.|sd
+A|Well, I mean, nobody taxes  groceries.|sv
+B|Oh, yeah,|ar
+B|they do.|sd
+A|Where?|qw
+B|In Arizona.|sd
+A|Is that right?|qy
+B|Uh-huh.|ny
+B|But we have a pretty low income I mean pretty low tax rate here.|sv
+B|Oh, I think the, the sales tax, they just got to do something about it.|sv
+A|Right.|b
+B|But that's the politicalness of trying to not create any new taxes.|sv
+A|Right|b
+A|But I guess when I hear, when I see the comparison between the United States and, uh, any other western country, uh, their, their rates are like, uh, forty-one, forty-two and ours are like thirty-six, thirty-seven, you know,|sd
+A|if you compute as a percentage of total income, all taxes lumped together, we actually do pretty well.|sv
+A|there's no other country that's, that is taxed as low as we are.|sd
+B|Well and I still think that, having lived in Europe for awhile, you know, difference in living conditions are certainly well worth, uh, what we pay for it.|sv
+A|Yeah.|b
+A|Uh-huh.|b
+A|I'm, I'm not sure I understand what you mean.|sd
+B|Well, I mean, I think,|sv
+B|I was in Germany, you know, for several years|sd
+A|Right.|b
+B|and I'd a lot rather pay taxes here and have what we have, then have to live there.|sv
+A|Oh, you mean, lowest end of living in spite of lower,  higher taxes.|bf
+A|Yeah.|%
+B|Higher taxes.|sd
+B|Yeah.|aa
+A|I suppose that's true,|sv
+A|yeah.|aa
+A|Uh, probably less so now than it was ten years ago or whatever|sv
+A|but,|%
+B|Still's that  way to some extent.|sv
+A|Yeah.|b
+B|I think the other problem is, you know, it, it's easy to complain about taxes because there's something you, theoretically, can do something about.|sv
+A|Right.|b
+B|But I look, for example,|%
+B|and you're not quite in the same situation|sd
+B|but like school taxes for me biggest bargain in the world.|sv
+A|Right.|b
+B|I wish I didn't have to pay any more to my physicians in a year than I had to pay for all of my school taxes.|sd
+A|Right.|b
+A|Yeah.|b
+A|Yeah,|b
+A|since, uh, I send my kids to parochial school, that  .|sd
+B|Yeah,|b
+B|that, that's  probably a little tougher on you|sv
+A|It's not, it's not quite the bargain that  .|aa
+A|But, I mean, I pay them gladly.|sd
+A|That's a decision,|sd
+A|I think it's a dumb decision on our part because countries like Canada and England and Germany do perfectly well with a, uh, two tract system in which religious schools coexist with secular schools with the same tax money.|sv
+A|But, uh, I mean, that's, that's the way Americans want to interpret it,|sv
+A|I guess that's all right|sv
+A|But,|%
+A|yeah.|%
+A|I,|%
+A|and if I were, uh,|%
+A|when I was single and again when I'm retired, I will not mind paying, uh, what it takes to keep the schools good.|sd
+A|That's always been a high priority|sd
+B|No,|ar
+B|I think that's just you though.|sv
+A|I do,|%
+A|yeah,|aa
+A|that's true.|aa
+A|I think in places,  I think in places like California, people are beginning to find that in, in areas that are fairly well off, if you add the, uh, uh, people of various sexual persuasions and those who never intend to marry and those who are retired and those are, uh, just looking for fun, people with families turn out to be such a small minority that they can't get a tax bill passed no matter what happens.|sv
+B|Yeah.|b
+A|And, uh,   there are big sections of the country where people with children of school age are such a small minority that they can't get anything done.|sv
+A|That seems a, a, like a cultural lapse.|sv
+A|I mean, people always used to be willing to ante up for the schools.|sv
+A|They,|%
+B|Of course, I think with the graying of America, we're going to see that problem in lots of places.|sv
+A|Right.|aa
+A|Yeah.|aa
+A|People would rather, uh, increase the fire department and cut down the schools because it means more to them.|sv
+A|But I think it's sad selfish and shortsighted.|sv
+B|Or build roads.|^2
+A|Yeah.|aa
+A|Well,|%

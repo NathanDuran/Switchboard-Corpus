@@ -1,0 +1,126 @@
+A|Well, uh, guess it's logical to ask, do you exercise any?|qy
+B|Well, unfortunately very little.|ng
+B|Uh, much less than what I need to.|sd
+A|I'm about the same way,|sd
+A|I, I do a little bit.|sd
+A|My job kind of hinders me from exercising.|sd
+A|I'm a night operator here at a industry down here|sd
+A|and I don't really get out a lot to, because my job, to, to exercise.|sd
+B|Well, I, uh, am an assistant teacher and, uh, in business technology|sd
+B|and I've, I think the most exercise I've gotten in the last three to four month is jumping up and down to go answer the kids' questions.|sd
+B|It keeps me pretty busy,|sd
+B|but it's not really the kind of exercise that gets your heart rate going.|sv
+A|Right.|b
+B|And, uh, you know, it really,|%
+B|exercise is so important.|sv
+A|It is.|aa
+B|And I realize that.|sd
+A|That's, that's the way I feel.|aa
+A|I'm used to being in pretty good shape because when I was in high school I stayed in pretty good shape, played a little basketball and stuff like that,|sd
+A|but I've got,|sd
+A|now, I'm in college|sd
+A|and I go to school during the day and work at night.|sd
+A|I can tell that I've not really done a whole lot.|sd
+B|When you, uh, exercise, what do you do?|qw
+B|Do you do it at home or a club|qy
+B|or,|%
+A|Well, uh, I usually, I usually play at home.|sd
+A|We live out in the country|sd
+A|so me and my brother play basketball and have a bunch of guys come over and play|sd
+A|or a lot of times we're, we're up at the church|sd
+A|we'll play volleyball|sd
+A|stuff like that.|sd
+B|I got a hold of, uh, Richard Simmons' tape, uh|sd
+A|Oh, really?|bh
+B|what is it, uh,|t1
+B|I can't even think of the name of it right offhand, with the oldies.|sd
+A|Oh, the SWEATING TO THE OLDIES?|qy
+B|Sweating with the, to the oldies, *title|b^m
+B|yeah|ny
+B|and that's not bad.|sd
+A|Oh, really?|bh
+B|That's pretty upbeat,|sd
+B|so, you know, I, every once in a while I'll put the cassette in and go with it.|sd
+A|Right.|b
+B|Not often enough to have a routine|sd
+A|Right.|b
+A|I'll,|%
+B|My little Schnauzer wishes I would get out and walk with her.|sd
+A|Oh, really?|bh
+B|But, uh, I don't know,|sd
+B|by the time I get home, all I want to do is just collapse or sit down at my computer|sd
+B|and my fingers exercise more than anything now.|sd
+A|Right,|b
+A|that's the way I am.|sd
+A|I just want to sit down and relax.|sd
+A|Too tired to exercise. *slash error I did.|sd
+B|Yes.|b
+B|Uh, do you ever ride a bike or anything like that?|qy
+A|I started riding my bike about a couple of months ago|sd
+A|and I'd ride about two or three miles a day,|sd
+A|but, but it would last about a couple of weeks|sd
+A|and it got real cold for a little while|sd
+A|so I gave it up.|sd
+B|Here, about the, the most common exercise for people is to go to the malls and walk, uh,|sd
+A|Walk around.|^2
+B|Because they're enclosed|sd
+B|and no matter what the weather is they can walk at a pretty good clip and, and not have to worry about the weather summer or winter.|sd
+A|Right.|b
+A|Right,|b
+A|I've noticed people doing that down here, too.|sd
+A|I'll be in town or something|sd
+A|and people will walk around the mall.|sd
+B|And it's safe.|sv
+A|It, it is fairly safe.|aap_am
+B|That's, uh, you know, inside the mall|sd
+B|may be not safe going to the parking garage|sv
+A|Yeah,|aa
+A|certain parts of it.|sv
+B|I know a doctor once told me it, it,|sd
+B|a friend of mine, uh, suggested swimming as being the best exercise there is.|sd
+A|Right.|b
+A|Right,|b
+A|I used to do a lot of swimming,|sd
+A|we have, we have a swimming pool,|sd
+A|but it's an old concrete pool.|sd
+A|We've been having trouble with it the past few years,|sd
+A|so we haven't got to use it much,|sd
+A|but I love to swim and water ski and stuff like that.|sd
+B|The, uh, swimming, they say, uses more muscles than any other exercise with,|sv
+B|and the water takes the resistance.|sv
+A|Right.|b
+B|Right,|b
+B|and you don't get the soreness.|sv
+B|I've, I've done some water exercises,|sd
+B|but our pool is not, is not heated|sd
+B|so it's,|%
+A|Right,|aa
+A|you can't do it year round.|bf
+B|Summertime only.|sd
+A|Right,|aa
+A|that's the way ours is.|sd
+B|You don't go out when it's twenty some odd degrees, go out to the swimming pool.|sv
+A|Oh, no,|aa
+A|it's too cold.|sv
+B|Hot tubs are not, uh, not too bad,|sv
+B|but|%
+A|I could deal with a hot tub.|sd
+A|Those are nice.|sv
+B|So, what part of Mississippi are you from?|qw
+A|I'm from Laurel.|sd
+B|Whereabouts is that?|qw
+A|That's way down towards the south.|sd
+A|Not quite on the coast,|sd
+A|but we're about two hours from the coast.|sd
+B|Oh,|b
+B|and you do have cold weather down there?|qy
+A|Yes, ma'am,|ny
+A|it, it started about yesterday, I believe.|sd
+A|It started raining and got real cold.|sd
+B|Ours started Thanksgiving.|sd
+A|Oh.|b
+B|And, uh, from there just, well,|sd
+B|today was pretty,|sd
+B|but, uh, oh, Sunday the snow and ice came in.|sd
+A|Right.|b
+B|And, uh, there was no exercise.|sd

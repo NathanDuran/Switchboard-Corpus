@@ -1,0 +1,195 @@
+A|What are your favorite shows?|qo
+B|Well, I, it's doesn't seem like I get enough time to watch much T V,|sd
+B|but the ones that are out now.|sd
+A|Uh-huh.|b
+B|I, I've watched that SISTERS a couple of times.|sd
+B|I think that's kind of a good show.|sv
+A|I've never seen that.|sd
+B|Haven't you?|qy
+A|Huh-uh.|nn
+B|Oh. I like that one,|sd
+B|and, um, I'm trying to think.|^h
+B|I, I don't even know if I have any other real regular ones that I watch.|sd
+B|How about you?|qo
+A|Um, I like L A LAW not because it's realistic, but it's entertaining.|sd
+B|Oh, uh-huh,|b
+B|uh-huh.|b
+B|I do like that.|sd
+A|Um.|b
+B|Yeah,|%
+B|occasionally I'll see that one.|sd
+A|Let's see.|^h
+A|I watch CHEERS sometimes. And, mostly just movies, when there's a good movie on.|sd
+B|Do you?|bh
+B|Uh-huh.|b
+A|Actually when there isn't a good movie on, too.|sd
+B|Oh.|b
+A|I just like to have the T V on if, you know, if I'm home alone or something|sd
+B|Oh, uh-huh.|b
+A|have,|%
+A|either the radio or the T V got to be on the whole time.|sd
+B|Yeah,|b
+B|uh, oh, I do,|%
+B|I kind of have gotten into a couple of soaps lately.|sd
+A|Oh, really.|b
+B|I've, well, I've been home with a, um,|sd
+B|I have a baby,|sd
+B|and and so I've haven't seemed to have gotten out as much,|sd
+A|Uh-huh.|b
+B|and so I'll, I'll watch a soap occasionally.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|Do you watch any of those?|qy
+A|I, well, I don't, because I work all day.|ng
+B|Uh-huh.|b
+A|But, um, I|%
+A|I usually do if I'm home for a couple of days, like, you know, around Christmas or whatever,|sd
+A|after a while I'll start watching it|sd
+B|Uh-huh.|b
+A|and then on,|%
+A|for a while I'll ask people if they know what happened|sd
+B|Oh|b
+A|and then I'll just forget it.|sd
+B|what, what ones do you get into?|qw
+A|Uh, I don't even remember|sd
+A|the last time I watched was back in college.|sd
+A|It was like GENERAL HOSPITAL or something|sd
+B|Oh, uh-huh.|b
+A|and I maybe watched it for a week|sd
+B|Oh.|b
+A|but, um, I know that people used to arrange their whole schedules around the, you know,|sd
+A|they wouldn't take a class that was in the middle of their soap opera.|sd
+B|How funny,|ba
+B|oh, yeah.|b
+A|It was a,|%
+B|Oh, I don't get into them that much.|sd
+B|When I'm home, sometimes in the day I'll I'll watch them|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|but, yeah, oh, I was really trying to think.|sd
+B|I don't even know if there's any other shows that I watch or else.|sd
+A|Well, you said you have kids.|sd
+A|How old?|qw
+B|Oh, I have a six year old,|sd
+B|and I have a, um,|sd
+B|he'll be a year old in January.|sd
+A|So, you're, you aren't a SESAME STREET fan?|qy^d
+B|Well, they do, they watch it.|sd
+B|My six year old's kind of,|sd
+B|he's outgrown that one a little bit,|sd
+B|but but, I've started to turn it on a little bit for the baby,|sd
+A|Uh-huh.|b
+B|and he's kind of, he's entertained by it.|sd
+A|Uh-huh.|b
+B|So, yes,|ny
+B|I, I do watch that one.|sd
+A|Supposed to be a great babysitter|sv
+B|Yeah,|aa
+B|well, they're not entertained for too long with it.|arp_nd
+B|He's, he's still too little,|sd
+B|but yeah,|%
+A|Yeah.|b
+B|I do turn that on.|sd
+A|Um.|b
+B|And I, I do like, um, DONAHUE.|sd
+A|Uh-huh.|b
+B|Sometimes I watch that.|sd
+B|I think he has some interesting things on it.|sv
+A|I know,|aa
+A|what time is that on, *listen; strange ? placement|qw
+A|I never see it?|sd
+B|Um, that's on at, let's see, it's on at four.|sd
+A|Oh, okay.|bk
+A|I'm not home then,|sd
+A|that's why I don't see it.|sd
+B|Yeah,|b
+B|I'll watch that occasionally.|sd
+B|He's got some real,|sv
+B|I don't know,|fo_o_fw_"_by_bc
+B|there's some real weird people that, he seems to come up with.|sv
+A|Isn't it strange how people are fascinated by other people that they think are strange|qy
+B|Yes.|ny
+B|Yeah,|ny
+B|oh, yeah.|ny
+B|. He does have some real bizarre things, I think.|sv
+A|Uh-huh,|b
+A|uh-huh.|b
+B|So, other than that, I don't know.|sd
+A|What's that?|br
+B|Guess I'm not much of a T V person really.|sd
+A|Yeah,|b
+A|well, I guess it wasn't a real good topic for us,|sv
+A|but Well, tell me,|ad
+A|is it snowing up there?|qy
+B|Um, no.|nn
+A|No.|b^m
+B|It snowed a little bit, um, probably about four days ago|sd
+A|Uh-huh.|b
+B|and they said we weren't going to get any more for Christmas.|sd
+B|Yeah|ny
+A|Oh.|b
+B|there is snow on the ground.|sd
+A|Well, that's nice.|ba
+B|I, I wish it would snow a little bit more.|sd
+B|I've heard it's raining there.|sv
+A|Oh, gosh,|ba
+A|we've broken all sorts of records.|sd
+B|Oh really.|ba
+A|They've got,|%
+A|I mean, we still have some highways closed,|sd
+A|and it stopped raining almost twenty-four hours ago.|sd
+B|Oh, my goodness.|ba
+A|But, um, oh, just phenomenal,|sd
+A|I mean, I, you know,|%
+A|you see it on the news all the time,|sv
+A|but until you've really seen it, it it doesn't really hit you.|sv
+B|Yeah.|b
+A|But I was driving home from work Friday,|sd
+A|and I saw, there were some stop signs, I mean, submerged up to the writing on the stop sign,|sd
+A|and that was just|sd
+B|Oh, goodness.|ba
+A|it was amazing to me.|sd
+B|Oh, gee|ba
+B|so.|%
+A|So.|%
+B|So there has been some flooding|bf
+B|and,|%
+A|Oh, there's been a lot,|sd
+A|yeah.|%
+A|It's, it's too bad|sv
+A|but you know, the thing is that this happens,|sd
+A|in the last three years it's happened at least once a year, if not twice. But the people continue to move back in the flood zones.|sd
+B|Uh-huh.|b
+B|Oh, gee.|ba
+A|So, I don't know.|h
+A|I mean, you got to wonder how long they're going to keep doing that for.|sv
+B|Yeah.|b
+A|I don't think I would.|sv
+B|Oh, boy.|ba
+A|Because they just finished cleaning up from the last flood.|sd
+B|Yeah,|b
+B|oh, what a mess.|ba
+A|Yeah.|aa
+B|Well, now, do you work for T I?|qy
+A|Yeah,|ny
+A|I do,|sd
+A|yeah.|ny
+B|oh, uh-huh.|b
+B|Huh. Well, this has been an interesting thing to do.|sv
+A|Have you made a lot of calls|qy
+A|or,|%
+B|Um, I've, I've probably talked maybe to five people.|na
+A|Uh-huh.|b
+B|My husband is doing it too,|sd
+B|and he's talked to a few more than me,|sd
+A|Oh.|b
+B|and, but it's been real interesting and kind of fun.|sv
+A|Do you get paid for these?|qy
+B|Um, five dollars.|sd
+A|Five dollars a call?|br
+B|Uh-huh.|ny
+A|Gosh,|ba
+A|I wish I could do that|sd
+B|Uh, don't you have to do it as part of its,|qy
+A|We can't get paid for it.|no
+B|Don't you have to do it,|%

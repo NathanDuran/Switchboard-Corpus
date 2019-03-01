@@ -1,0 +1,139 @@
+A|Well, uh, what what do you think about the metric system?|qo
+A|Uh, do you, uh, find it useable?|qy
+A|Have you tried much with it?|qy
+B|Well, with an engineering,  degree,  it's, of course, it's a whole lot easier.|sd
+A|Yeah.|b
+A|Uh-huh.|b
+B|because,  uh,|%
+A|To use you mean,|bf
+A|uh-huh.|b
+B|yeah,|aa
+B|if, if somebody  is totally unfamiliar with it, uh, human nature being what it is we don't like to change.|sv
+A|Yes.|aa
+B|Uh, it just absolutely makes perfectly good sense to me because it's all decimal.|sd
+A|Yes.|b
+B|And it's so easy to convert from one set of units to another.|sv
+A|Uh-huh,|b
+A|uh-huh.|b
+A|We,|%
+A|well I've lived both in the United States and, and in a country where they do use the metric system|sd
+A|and, uh, so I've, I've lived with pounds and inches and found it really quite easy to convert over.|sd
+A|Um, the secret seeming to me to be to not bother ever converting inches to centimeters and,  pounds  to uh, uh, kilograms,|sv
+B|Right.|aa
+B|That's right.|aa
+A|and, I  think that's what hung people up the most is they went now wait a minute, an inch is two point fifty-four centimeters,|sv
+B|Right.|b
+A|how  on earth am I every going to do the math? *spelling|^q
+B|Right.|b
+A|And the problem is that we tried to convert everything from inches to centimeters preserving basically the inches but expressing them as centimeters rather than saying no, a centimeter is about the width of your thumbnail, or whatever, and, you know, and leaving it at that|sv
+A|and, uh, you know, a kilogram weighs about this much|sd
+A|and get used to it from scratch,|sv
+A|cause I still can't convert back and forth from inches to centimeters|sd
+A|but I'm perfectly comfortable using either.|sd
+B|Uh-huh.|b
+A|And I think the real problem with this, this weird conversion, you see signs that say fifty-five miles per hour and, you know, whatever it would be one hundred six kilometers per hour, you know,|sv
+A|people, you know,|%
+A|it's hard to take it seriously.|sv
+B|Oh, yeah.|b
+A|And as long as both were given, you, basically, just don't read the kilometers per hour,|sd
+A|you just say, well look read the miles per hour one,|sd
+A|the other one must be for someone else.|^q
+B|That's right.|aa
+A|Uh, I don't know,|h
+A|I mean even Britain has converted over|sd
+A|and we inherited this mess from them|sd
+A|and, uh,|%
+B|That's right,|aa
+B|it's all their fault.|sv
+A|Well, I mean, it's more  our fault than theirs at this point because they, they saw the light, um,|sv
+A|I don't know why they um, were more able than we were|%
+A|except I think, that they probably just said well, we're just going to start using the things now|sv
+A|and you sort of have to force people to change since they don't want to|sv
+B|Of course, being part of the European community, if everybody else did it they, they were probably much more,|%
+B|is much more necessary for them than for us.|sv
+A|That's true,|aa
+A|that's, that's probably true|aa
+A|and America does have a long history of sort of doing things our own way rather than adopting, you know, some other model.|sd
+B|There's an expression for that,|sd
+B|With eyes on the past, backing confidently into the future.|^q
+A|I've never heard that one,|sd
+A|that's very nice|ba
+A|Oh, so I'm all for the metric system and converting over|sv
+A|and I think,|%
+A|I guess, my feeling is the way to do it is, is to just start giving weights, you know, have a very brief transition period and then just start giving weights and kilometers, er, just as in kilometers and weights and kilograms and everything like that and, uh, just have people start using it rather than having people constantly trying to convert.|sv
+A|Remember me getting a package of something that said one pound,|sd
+A|this is a package of dates mind you,|sd
+A|it's, was, presumably something you weigh fairly precisely,|sd
+A|it said one pound|sd
+A|and then in parenthesis it said four hundred fifty-four point six grams|sd
+B|Right,|b
+B|right.|b
+A|And, as near as I could tell, seeing that was basically anti-metric propaganda|sd
+A|cause anyone who would say, well look I can either buy a pound of something at four hundred sixty-four point six grams which, of course, they couldn't weigh it out accurately anyway, um,|sd
+A|every time I see something like that I think, well, that's, that's an anti-metric argument.|sd
+B|Yeah.|b
+B|Well, uh, I, I don't think it'll, it could ever happen with, with a quick transition.|sv
+A|You don't?|qy
+B|No.|nn
+B|I, I think that would be the easiest way|sv
+B|but human nature being such as it is,  I would  think it would take, probably, two or three years before people could completely cut the cord.|sv
+A|Uh-huh,|b
+A|uh-huh.|b
+A|Yeah,|b
+A|oh, oh, that's what I was thinking by quick transition,|sd
+A|I didn't mean, you know, I didn't mean like Sweden going over to right hand drive or anything, you know,|sd
+A|at midnight, tonight we all switch over or anything.|^q
+B|Did they switch?|qy
+A|Uh, I believe so,|^h
+A|yeah,|ny
+A|and I think they did it overnight|sd
+A|cause you know, you can't do it gradually.|sd
+A|That's an example of something you can't do gradually.|sd
+B|Well that's true.|aa
+B|It, it has to be kind of a discreet transaction|bf
+A|Yes,|aa
+A|it does|aa
+A|A quantum leap from left to right hand drive|sd
+B|Interesting.|ba
+A|And they,|%
+A|but, you know, that must have taken, uh,|%
+A|that was something that had to be done quickly,  you know,  because of external circumstances,|sd
+B|Oh, yes.|aa
+A|but they decided to do it to make themselves in sync with the rest of Europe,  or  the rest of continental Europe|sd
+B|Yeah.|b
+A|and, you know. But that must have been tremendously difficult to orchestrate.|sv
+B|Yeah.|b
+B|I'm sure.|ba
+A|Um, so I, I, I, I, I think it's essential that it's done|sv
+A|and I think the real trick is to avoid the you know,|sv
+A|a little more attention to human psychology|sv
+A|and, whereas, people want round numbers|sv
+A|and after all, the whole reason to go over to metric is to have round numbers,  so they  don't deal with thirty seconds of an inch|sd
+B|Exactly,|aa
+B|exactly.|aa
+A|and so what the exact,|%
+A|the thing that was best about metric was the thing that was most poorly represented.|sv
+A|Really, I think.|sv
+B|Well, we do have the two liter soda pop bottles.|sd
+A|Uh-huh,|b
+A|I saw that,|sd
+A|I saw that the other day.|sd
+A|I don't drink soda pop,|sd
+B|Yeah.|b
+A|but  I saw a two liter soda pop bottle|sd
+A|so, yeah,|%
+A|things like that are a good start|sv
+A|and if you start expressing one liters and one kilograms and then the pounds come in the, the, you know, the odd numbers,  you know,  two point two pounds or something. I think people will start getting a sense of, gee the metric is the sensible one.|sd
+B|Right.|aa
+B|Yes.|aa
+B|That's true.|ba
+B|Well, sure have enjoyed our talk.|fc
+A|Yes,|fc
+A|well get back to what you're doing|fc
+A|and I'll do the same.|fc
+A|I enjoyed talking with you too.|fc
+B|Okay,|fc
+B|God bless|fc
+B|Bye-bye.|fc
+A|Okay.|fc
+A|Bye-bye.|fc

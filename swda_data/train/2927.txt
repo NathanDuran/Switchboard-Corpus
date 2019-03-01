@@ -1,0 +1,143 @@
+A|Well, I'm talking to you from Dallas.|sd
+A|What part of the country are you in?|qw
+B|Oh, boy, this is going to be tough, I'm in Plano|sd
+A|Well, we can, uh, complain together or swear we can complain together about the humidity|ad
+B|Exactly.|aa
+B|I guess the weather hasn't been too different between us.|qy^d
+A|No,|nn
+A|I don't think so,|ng
+A|I wouldn't think,|ng
+A|yeah.|%
+A|I,|%
+B|what part of Dallas are you from?|qw
+A|Far north Dallas|sd
+B|Oh, north Dallas.|b^m
+A|Yeah,|aa
+A|about a half a mile from Plano|sd
+B|Well, jeez.|ba
+A|So we're in the,|sd
+B|Well then you've been  getting quite a bit of rain also.|qy^d
+A|Yeah,|ny
+A|it's been very, very rainy, I know.|sd
+A|Oh|%
+B|How about that.|bh
+B|How does it compare to the years past?|qw
+A|um, I don't know, I haven't lived here, let's see, we lived out of state in Wisconsin|sd
+A|and we just|sd
+A|we lived here ten years ago,|sd
+A|and when we first lived here, we we were in Garland, East Richardson, and, um, doesn't seem like it was quite as humid.|sd
+B|Uh-huh.|b
+B|Oh.|b
+A|And, I don't know, then we went, we lived in, uh, Madison, Wisconsin for five years, um, for my husband's schooling, graduate schooling,|sd
+A|and it just,|%
+A|it's a lot cleaner up there,|sd
+A|but, um, it's a lot colder too.|sd
+B|Huh.|b
+B|Well, what brought you guys down to Texas then?|qw
+A|Uh, his job, he came back to start work again for a different company,|sd
+A|so,  said,   Here, here's  a|sd
+B|How   about that.|bh
+A|here we are again.|^q
+B|That's great.|ba
+A|It just seems a little more humid than it,|sd
+A|I don't ever remember, of course, you know, you only remember the good stuff,|sd
+A|but, um, I just don't remember the humidity.|sd
+B|Right.|b
+B|Well  definitely, I'm sure, the winters are more mild here.|sv
+A|This  much rain, and this much humidity.|sd
+A|Uh, yeah,|aa
+A|they are.|sd
+A|Actually, though, it was a lot rainier here in the winter, uh, we came back last August.|sd
+B|Uh-huh.|b
+A|It's just a lot rainier than I remember it, all through the seasons, you know.|sd
+B|Sure.|b
+A|Um,|%
+B|It seems that progressive,|sd
+B|I've, been down here five years, just over five years now, that, every spring and summer seems to get more and more rainy.|sd
+A|Yeah,|aa
+A|and I think it's because it's just getting more crowded and more polluted.|sv
+A|I really do think that's part of it.|sv
+B|Huh.|b
+A|Um, uh, in, in Wisconsin and Minnesota, when they get winters it's, um, the winters are bad, but not what you hear about.|sd
+A|It's just like down here, when you hear, when people here think it's a hundred and six, people up north think it's a hundred and sixty down here.|sv
+B|A hundred and sixty.|b^m
+A|I'm making that up.|sd
+B|Uh-huh,|b
+B|right.|b
+A|You know, when  it's only like ninety-five.|sd
+B|Sure.|b
+A|Um, it's just like up there, when you hear it's forty below, it's probably really only five below.|sv
+B|Right.|b
+A|Um, and it's so dry, that it's, it's like going to|sd
+A|well, probably what Arizona used to be like, you know, it's just dry and cool,|sd
+B|Uh-huh.|b
+A|so it's not, it's not what you think it is.|sv
+B|True.|aa
+A|Um, no,|ar
+A|there have been times, though, when it gets so frigid that you you can't stand it.|sd
+A|Where did you move here from?|qw
+B|Colorado.|sd
+A|Well, there,|%
+A|you could talk about that, that's,  that's a strange state for,|sv
+B|Oh sure, I, I'm uh,  I'm very familiar,|aa
+B|my grandparents and all my relatives are from Wisconsin.|sd
+A|Oh, there you go, okay.|bk
+B|So, I'm, uh, quite familiar with how it is up there,|sd
+B|and if you,|%
+B|kind of interesting, uh, the people down here typically don't think it gets above, you know, fifty degrees|sv
+A|This is very true.|aa
+B|And it's always snow, you know,|sd
+B|but, uh,|%
+A|Yeah,|aa
+A|right,|aa
+A|well actually, the summers up there, we thought, were the most beautiful time of the year.|sd
+B|Oh yes.|aa
+A|Um, in terms of Colorado, I know my husband likes to camp and backpack and all the stuff I don't like, um,|sd
+A|but I'd,|%
+A|used to go on,|sd
+A|I worked for a mortgage company in Wisconsin|sd
+A|and I did a lot of business in, uh, um, well, Denver,|sd
+A|and that's, that's probably one of the stranger things, when you see the air inversions, and then you go into the mountains|sd
+B|Uh-huh.|b
+A|and it's snowy|sd
+A|and uh, it just was a very mixed bag in terms  of Colorado.|sd
+B|Oh sure.|aa
+B|My parents just live, uh, thirty miles south of Denver|sd
+B|and it can be sunny and, and no problem in Denver|sd
+B|and they'll be having snow|sd
+A|Isn't that strange?|bh
+B|So it's pretty amazing, it can be that drastic in just a short distance|sd
+A|Yeah,|aa
+A|and then things like|sd
+A|are there tornadoes in Colorado, yes or I don't,|qy
+B|Uh, it's getting to be more and more of a possibility.|na
+A|Yeah.|b
+B|It used to be no problem, just because it was such a, a rugged terrain and with trees everywhere,|sd
+B|but now,  as they start to clear  more things out.|sd
+A|The mountains,|bf
+A|yeah.|%
+A|Even, I mean,|%
+A|I'm originally from Pittsburgh, Pennsylvania,|sd
+A|and I can tell you that, um, they've even had,|sd
+A|in eastern Ohio and western Pennsylvania, they've even had, I'm going to say, mini tornadoes for lack of a better word.|sd
+B|Uh-huh.|b
+A|And, and that's just a part of the country that it's rolling hillside.|sd
+A|That was unheard of, you know, twenty years ago.|sd
+B|Right.|b
+A|Um, so I don't know what's happening, if it's, you know, we are, the greenhouse, I don't really know.|sd
+B|Yeah,|aa
+B|me neither.|sd
+A|It's just, you know. It's definitely not as, um,|sv
+B|But,|%
+A|I know I associate the pollution with weather in general,|sd
+A|so I guess one thing we do miss, is that's a smaller town,|sd
+A|and it it was,|sd
+A|it just seemed a little bit more pleasant in terms of the atmosphere, you know.|sd
+B|Sure,|aa
+B|sure.|aa
+B|Well, it's been good talking to you.|fc
+A|You too.|fc
+B|Good-bye|fc
+A|Okay.|fc
+B|Good-bye.|fc
+A|Bye-bye.|fc

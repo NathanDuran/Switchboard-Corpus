@@ -1,0 +1,227 @@
+A|Okay.|%
+A|Guess we can go ahead.|sd
+A|Uh, well, I guess you know it's, you know,|sd
+A|since living in Dallas it's always so hot, so in the summertime, I just, I wear lots of shorts, so because I don't work during the day.|sd
+B|Uh-huh.|b
+A|So, do you work?|qy
+B|Yes,|ny
+B|uh-huh,|ny
+B|yeah,|ny
+B|I do work.|sd
+A|Oh.|b
+B|Uh, and,|%
+B|but I work at a manufacturing plant,|sd
+B|so I wear a lot of blue jeans,  and  T-shirts.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|But occasionally I have to get dressed up and wear panty hose and a dress,  and  high heel shoes|sd
+A|Uh-huh.|b
+B|and I feel really uncomfortable doing that|sd
+B|and,  in  the plant so, uh, it's, it's a problem for me.|sd
+A|Yeah.|b
+A|Uh-huh.|b
+B|But, normally I just wear blue jeans and a T-shirt.|sd
+A|Uh-huh.|b
+B|Very, very, comfortable.|sd
+B|I like that so much better than having to wear dress clothes.|sd
+A|Yeah,|aa
+A|yeah,|aa
+A|and buying suits and stuff, yeah, because just being at home|bf
+A|and, I work at home,|sd
+A|so,  I  just have, you know, I just wear my, you know, my shorts and stuff like that.|sd
+B|Uh-huh.|b
+A|I don't go out and spend lots of money on, uh, different, you know, suits and stuff, you know.|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|But when I,|sd
+A|before I got married, you know, I was working|sd
+A|so I, uh, you know, I had more suits and stuff then|sd
+A|but,|%
+B|Right|b
+A|Worry about all that kind of stuff|sd
+B|Well, I have plenty of suits and dress clothes because I'm like you, when I first started working,  uh,  I have all these suits and blouses and skirts and mix and match, and that kind of stuff|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|but  now that I, you know, work in the manufacturing plant, then it's just, it's so much more difficult for me to, to actually get dressed up to come in to work like that.|sd
+A|Right.|b
+B|Uh, but occasionally I have to because, uh, part of my job is teaching,  and  training,|sd
+A|Uh-huh.|b
+B|and, uh, so you have to look just a little bit nicer than your normal,  garb|sd
+A|When you're training, right.|bf
+A|Yeah.|b
+B|Than your normal garb|sd
+B|But I'm like you, too, uh, I moved from Ohio down to here|sd
+A|Uh-huh,|b
+A|moved from,  Winter.|bf
+B|and I had mostly polyesters and,  wools  and winter clothes and buying all these cotton clothes,|sd
+A|Uh-huh.|b
+B|and then, of course, you have to iron them all the time.|sd
+A|Uh-huh.|b
+B|That's really,|%
+B|that's been a problem for me.|sd
+A|Yeah,|aa
+A|because I came from Wyoming|sd
+A|and I had wool suits and wool skirts|sd
+A|and, You know, I've got all these clothes that I never wear,  because  you can't wear them here.|sd
+B|Right.|aa
+B|Right.|aa
+A|And, uh, the seasons are just so much different.|sd
+A|You have so much summer.|sd
+B|Uh-huh.|b
+A|And, uh, so then when I, you know, I finally get a chance to go out with my husband it's like a real chore to find something nice to wear|sd
+B|That's true, that's true.|aa
+A|Yeah|b
+B|Well, I know, I was just now, uh, uh, putting away a lot of my winter clothes,|sd
+A|Uh-huh.|b
+B|and  I was going through here|sd
+B|and I was thinking, I haven't worn this in three years.|sd
+A|Yeah.|b
+B|And, because it's a wool skirt|sd
+B|and there's just not that many opportunities to wear it.|sd
+A|Yeah.|b
+B|And I have five or six wool skirts,|sd
+A|Uh-huh.|b
+B|so  I was thinking well, maybe, you know, I need to think about getting rid of them,|sd
+B|but no, I folded it up neatly and put it away  maybe next year|sd
+A|Yeah.|aa
+A|You hate to  get rid of it, because you know how much you spent on them.|bf
+B|Uh-huh,|aa
+B|uh-huh.|aa
+A|And it's real hard to get rid of some of that stuff, I know.|sd
+A|So,|%
+B|Well, I know last year, uh, well, this past winter, it wasn't that cold.|sd
+A|Uh-huh.|b
+B|But the previous winter we had more, uh, cold weather where I was able to actually wear,  your  double and triple layerings of, uh, clothes yeah, like you would when you're up north.|sd
+A|Uh-huh.|b
+A|Clothes,|b^m
+A|yeah.|b
+B|So  that's  really interesting.|sv
+A|Uh-huh.|b
+A|Yeah,|aa
+A|yeah,|aa
+A|and I, I just don't spend, you know,|sd
+A|right now my clothes come from Target, you know|sd
+B|Yes,|aa
+B|yes,|aa
+B|yes,|aa
+B|and they're all one hundred percent cotton|sd
+B|and|%
+A|Yes,|aa
+A|and they,|%
+A|you take them out of the drier|sd
+A|and they're wadded up in a ball.|sd
+B|Yes,|aa
+B|yes,|aa
+B|I know.|sd
+A|Oh|b
+A|I'm so glad to meet somebody that, that their iron board is their permanent fixture in their house.|sd
+B|It is, it is.|sd
+A|You know, I have very little furniture,|sd
+A|but  my ironing board is part of my decor|sd
+A|so,|%
+B|That's true,|aa
+B|and, and I've been looking at these, uh, uh, like in Home Depot where you can go and they've got, that ironing boards that will just flip right down off of the uh, uh, what, the, the, the door.|sd
+A|Uh-huh.|b
+B|And, uh,|%
+B|and then you can actually have one where you can put it inside of a wall, you know, to have it,  permanently  attached,|sd
+A|Uh-huh.|b
+B|and that's what I'm thinking I'm going to have to do because mine's sitting right out in front of my bedroom|sd
+B|and it's just, it's just an eyesore, I think,  with  all the,|sd
+A|Yeah,|b
+A|well, yeah|aa
+A|it is, it is,|aa
+A|but it's like, uh, I just don't want to do it|sd
+B|Uh-uh,|aa
+B|uh-uh.|aa
+A|Yeah.|b
+B|No.|fo_o_fw_"_by_bc
+B|I've been thinking about putting the ironing board in the closet,  and,  and running, you know, a line in there for my iron so I could do it in there|sd
+A|Uh-huh.|b
+B|and I wouldn't have to have that eyesore|sd
+A|Yeah|b
+A|that's an idea.|ba
+B|Yeah.|b
+A|Yeah.|b
+B|So, I have a big closet.|sd
+A|Yeah,|b
+A|I, you know,|%
+A|if I have,|%
+A|if I know I'm having somebody come over to the house and there's a possibility they might be going back into my room,  I  will put it away,|sd
+B|Uh-huh.|b
+B|Yeah|b
+A|but I  iron our clothes as we go along,|sd
+B|Uh-huh.|b
+A|so,  you know,|%
+B|I no longer do that weekly thing,  because I  have so many,|sd
+A|Right,|aa
+A|no.|aa
+B|and I'm like you,  I,  the night before or that day, I will iron whatever it is that we need|sd
+A|Uh-huh.|b
+B|and that's it.|sd
+A|Uh-huh.|b
+B|Because it's too many,|sd
+B|hundred percent cotton.|sd
+A|Uh-huh.|aa
+A|You can't iron it all|bf
+A|and,|%
+B|Uh-huh.|b
+A|Yeah.|b
+A|And then with my kids, they're always getting into, you know,|sd
+A|they can't decide what they want to wear so they,  change  their minds, you know, I know, I mean my oldest is only four,|sd
+B|Uh-huh.|b
+A|but she's still changes her mind two or three times,  before  she figures out what she's going to wear|sd
+B|Right.|b
+A|so,|%
+B|Right.|aa
+B|Oh, I know, I know.|aa
+A|And then they never put anything back.|sd
+B|No,|aa
+B|no|aa
+B|of course not.|aa
+B|No,|aa
+B|that, uh, that would be too simple.|sv
+A|Uh-huh.|b
+A|Yeah,|b
+B|Absolutely not|aa
+B|That's right.|aa
+A|Our lot in life is to make her life miserable|^q
+A|so,|%
+B|Uh-huh,|aa
+B|absolutely, absolutely.|aa
+A|Uh.|%
+B|Oh.|b
+A|Yeah,|b
+A|well that's,|%
+A|it's been good talking to you, to see somebody, hear somebody that does the same thing I do because I tell people what I do|sd
+A|and they just go, oh, how do you do that?|sd
+A|It's like, it's easy, you just do it, you know.|sd
+B|That's right|aa
+A|Uh-huh.|b
+B|So, uh,|%
+B|but, yeah,|%
+B|I, uh, I know several of my girlfriends, though, we, uh, we all keep our ironing boards out and just, uh, an ever present thing in our household|sd
+B|so,|%
+A|Yeah,|b
+A|yeah.|b
+A|I don't think I'd know what to do if it wasn't there, you know.|sd
+A|My husband wouldn't know where to hang his dirty clothes.|sd
+B|There you go.|ba
+A|You know.|fo_o_fw_"_by_bc
+B|Things that need to be mended,  things  that have to get ironed,|sd
+A|Yeah.|aa
+A|He wouldn't know where to put things|sd
+A|so,|%
+B|Uh-huh,|aa
+B|uh-huh,|aa
+B|uh-huh.|aa
+B|That's true.|aa
+A|Yeah|b
+A|so,|%
+B|Oh, well, it was nice talking with you.|fc
+A|Oh, it was nice talking with you, too.|fc
+B|Okay,|fc
+B|take care.|fc
+A|Take care.|fc
+A|Bye-bye.|fc
+B|Uh-huh,|fc
+B|bye-bye.|fc

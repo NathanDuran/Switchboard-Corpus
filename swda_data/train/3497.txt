@@ -1,0 +1,185 @@
+A|So, how is the weather out there?|qw
+B|Uh, it's really cold|sd
+B|and it's supposedly for this time of the year it's unseasonably cold|sd
+B|and they've gotten more snow than they've ever had.|sd
+A|Oh, really?|bh
+B|You have, breaking records for coldness and all that kind of stuff.|sd
+B|How about you guys?|qw
+A|Um. Uh, it's just, it's a, it's about same.|sd
+A|The usual, I think.|sd
+B|Oh.|b
+A|So, nice for skiing and all that kind of stuff|sd
+A|It's good.|sd
+B|Yeah,|b
+B|well the weather, let's see, well, the snow here is different from Utah's,|sd
+B|because I have lived in Utah for like ten years.|sd
+A|Oh, really?|bh
+A|What part?|qw
+B|And, uh,|%
+B|Provo.|sd
+B|I was going to B Y U.|sd
+A|Oh, really?|bh
+A|Okay.|bk
+B|Yeah.|aa
+B|And, uh, the snow is like, really cold.|sd
+B|I mean, it's, like, really humid|sd
+B|so it seems wetter or something like that.|sd
+B|It's,|%
+A|It's more humid in Utah than there?|qy
+B|Uh-huh.|ny
+A|Or there?|qrr
+B|It's more humid in Iowa than Utah.|sd
+A|Okay.|bk
+A|Right.|aa
+B|Yeah.|b
+A|Okay.|bk
+B|And it seems like when the winds blow, it's really, it goes right through you.|sd
+B|It's really different from Utah's weather.|sd
+B|I thought Utah was cold,|sd
+B|but I think Iowa is a lot colder|sd
+A|Yeah,|aa
+A|see, that's how it is in Texas, too|sd
+A|because when it's cold, it's really cold.|sd
+A|So,|%
+B|Yeah,|b
+B|I don't think there is any mountains to stop the wind|sv
+A|What's that?|br
+B|I don't think there is any mountains to stop the wind.|sd
+A|Right.|b
+A|Yeah.|b
+A|So the humidity is I think what does it|sv
+B|Yeah,|aa
+B|I think that's true.|aa
+A|Because I, I noticed when I got here, too,|%
+A|because like I'd,|%
+A|when it would snow in Texas uh, I would just, I mean we'd be really cold|sd
+B|Uh-huh.|b
+A|and we'd have to get really warm,|sd
+A|and here you can almost not even wear a coat outside when it's snowing|sd
+A|and you don't you don't feel super cold.|sd
+B|Yeah,|aa
+B|yeah,|aa
+B|that's true.|aa
+A|It was weird.|sv
+B|Yeah.|b
+A|But, so how long ago did you graduate?|qw
+A|Or did you,|qrr
+A|or,|%
+B|Uh, I graduated in nineteen eighty-seven.|sd
+A|Oh, really?|bh
+B|Yeah,|ny
+B|my husband got his doctorate at B Y U,|sd
+B|so that's,|%
+B|and so he just graduated this past year.|sd
+A|Oh.|b
+A|So you just barely moved away?|qy
+B|Uh-huh|ny
+B|Yeah, Well, we really miss Utah|ny
+A|Do you like it out there?|qy
+B|We miss the mountains.|sd
+A|You do?|qy
+A|Yeah.|b
+B|Because it's, like, really flat here|sd
+B|Well, not flat, but hilly.|sd
+B|But no big mountains or anything.|sd
+A|Uh-huh.|b
+A|So you just moved away a year ago?|qy
+B|Uh, in August.|na
+A|Wow, really recent.|ba
+B|Yeah.|aa
+B|But, uh, see, see what else can I say about the weather.|t1
+B|Uh, well, today was warmer|sd
+B|It was like forty-five|sd
+A|Oh, warm|ba
+B|So, what's the temperature up today over there?|qw
+A|Oh, man,|ba
+A|it's got to be like, it's probably fifty, fifty-five, maybe.|sd
+B|Oh, really?|bh
+A|Maybe not that warm.|no
+A|Probably about, uh,|%
+A|yeah.|%
+A|It's not, it's not that cold, really.|sd
+B|And whenever I remembered the weather reports in Utah, I never really remember them talking too much about wind chill.|sd
+A|Yeah.|b
+B|But they talk about wind chill here all the time.|sd
+A|Yeah,|aa
+A|that's a big deal in Texas, too.|sd
+B|They said it could be, like, six degrees out and, like, negative forty-one wind chill.|sd
+A|Um.|b
+B|So, that's what we're not used to|sd
+A|Yeah,|aa
+A|that's true.|aa
+A|That makes a big difference. Huh.|sv
+B|So, oh, I,|%
+A|So, did you used to ski when you were out here?|qy
+B|What's that?|br
+A|Did you used to ski when you were in Utah?|qy
+B|Oh, I've only, I've only skied in Utah once.|no
+A|Oh, really?|bh
+B|I only skied once my whole life|sd
+B|But, do you do a lot of skiing there?|qy
+A|Uh, not tons,|ng
+A|but I like to when I get a chance.|sd
+B|Uh-huh.|b
+A|I've only been once so far, but had the opportunity a couple times since then.|sd
+A|Just saving my money for Christmas things and that.|sd
+B|Yeah.|b
+B|So is this your first year in Utah?|qy
+A|Uh, no,|nn
+A|this is actually my third year.|sd
+B|And you're going to school there?|qy
+A|Uh-huh.|ny
+B|Oh.|b
+A|Yep.|ny
+B|At U of U,|qy
+B|or,|%
+A|No,|nn
+A|at B Y U.|sd
+B|Oh, really?|bh
+A|Yeah.|ny
+B|Oh.|b
+A|So, but, I'll be here a long time at this rate.|sd
+B|What's your major?|qw
+A|Uh, it was nursing,|sd
+A|but I'm in the process of changing it right now.|sd
+B|Uh-huh,|b
+B|oh.|b
+A|Because it's really, really competitive at B Y U.|sd
+B|Yeah.|b
+A|You have to have like a three seven to get in|sd
+A|so, It's really,|%
+B|That's true.|aa
+A|I'm going to look into some other fields.|sd
+A|I'd like,|%
+A|all the science classes and that, I'm just not really enjoying too much|sd
+A|so I think I better get into something that I can enjoy the process of going to school|sd
+B|Uh-huh.|b
+A|so,|%
+B|Yeah,|b
+B|that's, that's a good idea.|ba
+A|Did you graduate in a certain field|qy
+A|or,|qy
+B|Uh, education.|sd
+B|I got a double major.|sd
+A|In,|qw
+B|Uh, elementary and special ed.|sd
+A|Really?|qy
+B|Uh-huh.|ny
+A|That what my sister did.|sd
+B|Oh, really?|bh
+A|Yeah,|ny
+A|you might know her.|sv
+A|Here name is Lori, Bird.|sd
+A|Maybe not|h
+A|I think she graduated around then, too, though, eighty-seven probably,|sd
+A|but, she got her|%
+B|Yeah,|b
+B|well, I can't,|arp_nd
+B|there are so many girls in all my classes,|sd
+B|I can't remember how many people.|sd
+A|Yeah,|b
+A|yeah.|b
+A|Because they, since, uh, stopped that program. I mean, where you can where you can get it double pretty easily.|sd
+B|Oh, have they?|bh
+B|Oh.|b
+A|I mean, it's, it's really,|sd

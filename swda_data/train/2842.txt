@@ -1,0 +1,123 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|Do you have any children?|qy
+B|Uh, yes,|ny
+B|I have a daughter.|sd
+A|Uh-huh.|b
+A|I don't any children|sd
+A|so I'm going to have difficulty with this topic.|sv
+B|Oh, okay.|bk
+A|But, uh, what kinds of things do you and your family do?|qo
+B|Um, well, we go out and fly kites|sd
+B|and we go fishing.|sd
+B|And we go to movies|sd
+B|and we go out to the farm.|sd
+B|And, and, uh, she likes to pick flowers and look at birds.|sd
+A|Um. Then your kind family is probably pretty rare now a days.|sv
+A|I don't see a lot of families fishing and doing things like that.|sv
+A|That's great.|ba
+B|Well, I'm divorced,|sd
+B|but that's what, when she's with me that's what we do.|sd
+A|Yeah.|b
+B|And we color a lot|sd
+B|and I read her stories.|sd
+A|Uh-huh.|b
+A|That's great.|ba
+B|Yeah.|b
+A|I think a lot of families now, they probably don't spend enough time together.|sv
+B|Yeah.|b
+A|You know, whether their parents are together or divorced they don't spend enough time together|sv
+A|and, and I think that contributes to a lot of why society is going downhill right now is because the basic family unit is being destroyed.|sv
+A|Just simply because that time isn't spent just doing things like fishing|sv
+A|and, uh, because that I think that when you spend a lot of time with each other you communicate a lot.|sv
+A|And the communication helps you build on your, uh, helps just, just build your family.|sv
+B|Uh-huh|b
+B|And even, even when I was, when I was, uh, living with her with did stuff then too, Yeah,|sd
+A|Uh-huh.|b
+A|Yeah.|b
+A|That's pretty, to me that's pretty rare.|ba
+B|I know.|sd
+A|I like that.|sd
+A|Whenever I do have children I, I'm going to try as hard as I can to see that we spend a lot of time together, you know,|sd
+A|maybe just even, if we just rent a movie and watch it together just to make sure that everybody's not going out and doing and their her own thing all the time.|sd
+B|Uh-huh.|b
+A|You know, that's good sometimes because you need to, you know, get away.|sv
+A|But, um, I don't think you, you should spend too much time outside at the detriment of, of losing your the family unit.|sv
+B|Yeah,|aa
+B|that's right.|aa
+B|Because then you never get to know them either.|sv
+A|Uh-huh.|b
+B|They're all grown up|sd
+B|and their,|%
+A|Yeah.|b
+A|Yeah.|b
+A|And as I understand it,|%
+A|I don't know,|h
+A|I haven't experienced it,|sd
+B|Yeah.|b
+B|Uh-huh.|b
+A|And once they hit like ten or eleven or twelve, you know, you've pretty much lost them|sv
+B|Yeah,|aa
+B|they're out doing stuff by that time.|bf
+A|Yeah.|aa
+A|So, um, do you think that you, do you think that your family is pretty rare in that you do a lot of things or just the relationship between you and your daughter?|qy
+B|Yeah,|ny
+B|I really do because, because I don't see many others|sd
+B|and when, whenever we go to the park or something sometimes on the weekdays, we'll see other families.|sd
+A|Uh-huh.|b
+B|But, not usually on the weekends we don't see very many in comparison.|sd
+A|What do you think is the key to, to just bringing the American family back together?|qo
+A|What kinds of things do you think can?|qo
+B|Well, I think they can turn off the T V for one thing. And, and go out and do stuff, you know.|sv
+A|Yeah,|aa
+A|that's true. Huh. I think that's the first thing a lot of people do|aa
+B|Because she always likes to do things whenever the T V off.|sd
+B|You know, she'll forget about the T V completely.|sd
+A|and I know I'm guilty of it.|sd
+A|Like I came in from work today|sd
+A|first thing I did was turn the TV on. Because I taped the stories from earlier today.|sd
+B|Uh-huh.|b
+B|Right.|b
+A|And I like to watch 'em|sd
+A|but, I think that's that is a big problem. The television|sv
+A|and it's, it's too static, you know,|sv
+A|it's something that you can do|sv
+A|but there's no thinking involved, no motion, you know,|sv
+A|and I think, think that's another reason why people are, uh, so health conscious now is because America's becoming really a couch potato society.|sv
+B|Uh-huh.|b
+A|You know, people aren't doing anything just sitting around, you know, no thinking involved|sv
+A|and now, I think I think people are trying to get out of that.|sv
+A|At least|%
+A|and that, um, there's a lot of um,|%
+A|it's becoming really health conscious|sv
+A|and that people are you know starting to look out for cholesterol and things like that trying to get out and workout more often and jog and walk and different things like that.|sv
+A|And that's probably good, you know,|sv
+A|if you get your family involved in exercising and maybe playing tennis or something like that, that also helps.|sv
+A|That's also something, you know, family oriented that everyone can do.|sv
+B|Yeah.|b
+A|Um.|%
+B|Yeah.|b
+B|But when was, uh, when she was here last summer we played tennis|sd
+B|but she hasn't brought her tennis racquet over lately.|sd
+A|Uh-huh.|b
+B|When,|%
+A|How, how old is she?|qw
+B|she's five.|sd
+A|Um. Well, she has,|%
+B|We, we just been hitting the ball on the ground.|sd
+A|Yeah,|bk
+A|yeah.|b
+B|She can't hit it in the air yet,|sd
+B|and then we kick the ball.|sd
+B|We play like soccer.|sd
+A|You've still have a lot of time before she gets up in years|sv
+B|Uh-huh.|ny
+A|That's good.|ba
+A|That's good.|ba
+B|Yeah.|b
+A|Um. Okay.|fo_o_fw_"_by_bc
+A|Well it was very nice talking to you.|fc
+B|Nice talking to you.|fc
+A|Okay.|fc
+B|Okay.|fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

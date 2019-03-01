@@ -1,0 +1,275 @@
+A|All right,|fo_o_fw_"_by_bc
+A|do you do garden work?|qy
+B|As little as possible.|na
+B|I'm a college student|sd
+A|Uh-huh.|b
+B|so if I do any garden work, it's only when I go home in the Summer.|sd
+A|Oh, where do you go to college?|qw
+A|Where's that?|qw
+B|It's about two hours north of Pittsburgh.|sd
+A|Oh, okay.|bk
+B|Yes.|b
+A|Yes.|b
+A|Well, do you, you know, do you do gardening at home?|qy
+B|Yeah,|ny
+B|we go home,|sd
+B|well, we have a large family,|sd
+B|there's twelve kids in my family.|sd
+A|Oh my goodness.|ba
+B|So, like almost all our vegetables and everything is from the garden.|sd
+A|Hm.|b
+B|So we have a pretty good size garden|sd
+A|Yeah,|b
+A|well I guess you glad you got to go to college so you'd get some rest|sv
+B|But we have like a lot,|sd
+B|like my mom likes flowers, so we have a lot of flowers too.|sd
+A|Yeah.|b
+A|I had a whole bunch of flowers and things.|sd
+A|Well, I don't have as many now.|sd
+A|We lived in the country for a long time,|sd
+B|Uh-huh.|b
+A|and I had a whole bunch.|sd
+A|But now, I work and I live in the city so, that sort a kind of hung it up.|sd
+A|I have a few flowers, but most of mine are like in barrels and things like that.|sd
+B|Uh-huh.|b
+A|And this year I decided that,|sd
+A|well my husband made a little garden out there with some tomatoes and stuff in it,|sd
+A|but I decided that I don't like grass,|sd
+A|I don't like to have to have to pull grass|sd
+B|Uh-huh.|b
+A|so I decided that I would plant me a tomato plant in a flower pot and see how it worked.|sd
+B|Uh-huh.|b
+A|And mine looks real good|sv
+B|You know, I've seen a lot of people that do that.|sd
+A|Yeah.|b
+B|I've seen, you know, like elderly people that really can't get out too much sometimes.|sd
+A|Uh-huh.|b
+B|Like we,|%
+B|I have a great aunt that lives in a,|sd
+B|it's just like, uh, a high rise for elderly people.|sd
+B|And, you know, she does her own thing and everything,|sd
+B|but she has,|sd
+B|it's like a little apartment building.|sd
+B|And she has a tomato plant year round.|sd
+A|Oh.|b
+B|Because she, you know,|sd
+B|they keep it warm with, for all the older people,|sd
+B|and she keeps it year round.|sd
+A|I had never thought about that.|sd
+A|I could probably plant one and bring it in, and just like I bring my plants in every year.|sd
+A|That'd be neat.|sd
+A|Well, I got a patio,|sd
+A|and I tried to talk my husband into just buying a whole bunch of pots And planting them all in it, you know, because that's favorite thing, is tomatoes to grow.|sd
+B|Uh-huh.|b
+A|And so, um, but he said, No,|sd
+A|he was going to plant in the earth, you know, like he always has,|sd
+A|because he's always had a garden out in the country.|sd
+B|Uh-huh.|b
+A|And I think he kind of misses it a little bit, you know, since we moved to the city.|sd
+A|But, um, I went ahead and planted one, and mine looks better than his|sd
+A|It does,|sv
+A|and then I like, um,|%
+A|you know what day lilies are?|qy
+B|Pardon me?|br
+A|Day lilies.|sd
+B|Are they, well,|qy
+B|do they just come out in the morning then go|qy
+A|Uh-huh.|ny
+B|but we call them Morning Glories up here.|sd
+A|No,|ar
+A|no.|ar
+A|Huh-uh.|ar
+A|These look like a lily.|sd
+A|They look like a, a, well, they really look like an orchid when they come out.|sd
+B|Oh really.|b
+A|Uh-huh.|b
+A|That what the look like,|sd
+A|but they only bloom for one day.|sd
+B|Oh.|b
+A|They'll, um,|sd
+A|you'll have a bud the evening before,|sd
+A|and then the next morning as soon as the sun hits it, it it starts opening up|sd
+A|and then when it gets dark, it closes|sd
+A|and that's it.|sd
+A|It only blooms for one day.|sd
+B|And then it's done, completely done.|qy^d
+A|Uh-huh.|ny
+B|Oh.|bk
+A|Yeah.|%
+A|But, um, they look like orchids, is what they look like,|sd
+A|but they look like different color ones,|sd
+A|like I have, uh, yellow ones,|sd
+A|and I have red ones,|sd
+A|and I have purple ones|sd
+B|Uh-huh.|b
+A|and then they have like, you know, the real velvety looking stuff inside|sd
+B|Oh, yeah.|b
+A|it looks just like orchids in different colors.|sd
+A|That's what they look like.|sd
+B|Oh, really pretty.|ba
+A|They are, they're beautiful.|sv
+A|Uh, I have a friend when I lived out in the country,|sd
+A|and she had belonged to this kind of society that like every year, you know, or every so many months they would send you different bulbs that they came out with.|sd
+B|Uh-huh.|b
+A|And I mean they were real expensive.|sd
+A|They were like, well,|sd
+A|the most expensive one that she gave me a bulb for was like thirty-two fifty for one bulb.|sd
+B|Oh, my gosh.|ba
+A|So what she would do is she would plant them, and they multiplied.|sd
+A|So the next year when she, you know, weeded them out so they wouldn't be as thick, then she'd give me some of the bulbs.|sd
+B|Uh-huh.|b
+A|And, I mean, I have some of the most beautiful day lilies that you've ever seen.|sd
+A|So, when we decided to move, it was really funny because, like I said, I had a whole bunch of different kinds of things,|sd
+A|and I kept saying, Well, I want to take a few of these, and I want to take these, and I want to take these.|sd
+A|My husband finally said, Look, are we going to take the grass?|sd
+A|Can we leave the grass?|^q
+A|I said, Yes, we may leave that.|sd
+B|take the whole grass, the whole yard.|bf
+A|And we had a tree that was like seventeen foot tall, or something like that, that he said, No, no, I am not taking the tree.|sd
+A|You know, I mean, every time we went outside, he'd look at something that was humongous, you know,|sd
+A|No,|^q
+A|we're not taking that.|^q
+A|But the last day, he said, Can't we leave the grass,|sd
+A|and I said, Yeah,|sd
+A|I think we will leave that.|^q
+B|That'd be funny.|ba
+A|But, I brought,|sd
+A|my kids, when they were little they had given me some azaleas so I brought all my azalea bushes.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|And you know, I brought, I brought as much as I could bring without, you know, really tearing up their place.|sd
+B|Uh-huh.|b
+A|But, just like, um, you know,|sd
+A|the people that bought ours, bought the place, but, um, I knew that they would, you know,|sd
+A|if I left like one bulb of each one of them, by this year they'd have ten bulbs of each one of them.|sd
+B|Yeah.|b
+A|So, it wasn't like it was going to be this big raw place or something, you know,|sd
+A|it would cover it right up.|sd
+B|Uh-huh.|b
+A|But, I just couldn't see it, you know, going off and leaving everything like that.|sd
+B|Yeah.|b
+A|Because this house, I really liked it and everything, but the yard was a lot to be desired.|sd
+A|Oh there was nothing.|sd
+B|Oh.|b
+A|These people,|sd
+A|we have one ugly pine tree.|sd
+A|I mean, and it is ugly.|sd
+A|I even tried making it look nicer, you know,|sd
+A|I tied the yellow ribbon around it,|sd
+A|and it was so ugly.|sd
+A|Oh, it did not help, let me tell you.|sd
+A|I took it off and put it on my door.|sd
+A|I did not want to call attention.|sd
+A|I mean, it was terrible.|sd
+A|So really the plants that I brought over and put out here are just about all.|sd
+A|I don't do any of the mowing or, you know, edging and all that|sd
+B|Uh-huh.|b
+A|My husband does all that stuff.|sd
+A|But that's because I'm allergic to the grass.|sd
+B|Oh, that'd be awful.|ba
+B|I love going out in the Summer in the grass.|sd
+A|Really.|b
+B|Uh-huh.|ny
+A|Now I like to go to the beach where the sand is,|sd
+A|because then it doesn't make me ill|sd
+B|Yeah.|b
+B|And, um, well even up here at school, you know, it gets hot, and we have the windows open,|sd
+B|well they mow the grass up here sometimes six o'clock in the morning.|sd
+B|And just to smell the grass, it's just,|sd
+B|I just love the smell of freshly cut grass.|sd
+A|Yeah,|b
+A|I used to until it, I got so allergic to it.|sd
+A|I don't know if it's all, well,|sd
+A|I went and had some tests run and just about all the kinds I was allergic to.|sd
+A|But it's not as bad here,|sd
+A|like Saint Augustine, I think, is what we have.|sd
+A|And it's not as bad as it was when we were out in the country.|sd
+B|Uh-huh.|b
+A|But out in the country, I mean,|sd
+A|if I went outside while he was mowing the grass, I was going to have a gigantic attack.|sd
+B|Oh my gosh.|ba
+A|So, um, I get shots for it now, too.|sd
+A|That helps a whole bunch.|sd
+B|Uh-huh.|b
+A|But, one good thing about it, see I don't have to mow the grass|sd
+A|or|%
+A|I mean, that's really nice.|sd
+B|Yeah,|b
+B|you said that you had a garden.|sd
+B|What all things do you plant in it,|qw
+B|or do you like to plant in it?|qy
+A|Well, the first thing we always plant is tomatoes|sd
+B|Uh-huh.|b
+A|every year.|sd
+A|I don't care if we don't have anything else,|sd
+A|we're going to have tomatoes.|sd
+A|And then we plant cucumbers|sd
+A|and,|%
+B|Uh-huh,|b
+B|do your cucumbers come good?|qy
+A|Oh yeah.|ny
+B|Really.|b
+B|Sometimes when my dad has, like,|sd
+B|that's the one thing no one is allowed to touch except my dad.|sd
+B|He takes care of all the cucumbers,|sd
+B|because he said the vines are just so,|sd
+B|at our house, as soon as you touch a vine, it's like it completely dies.|sd
+A|Really,|b
+B|Uh-huh.|ny
+A|It must be the, uh,|sd
+B|Sometimes we have really good luck with them,|sd
+B|but then there'll be like maybe two years in a row that we can't get anything.|sd
+A|Now that's, I mean, that's something that grows like a weed here.|sd
+B|Oh, wow.|ba
+A|I mean, it grows like a weed.|sd
+A|We have to allow extra room for those, because, you know, I mean extra space,  between the rows and all.|sd
+B|Yeah|b
+B|because they take up a lot.|sd
+A|Yes,|%
+A|but  I mean, we usually get, I mean, just pulling them as fast as you can.|sd
+B|Holy smoke.|ba
+A|We usually give them to everybody.|sd
+B|Uh-huh.|b
+A|Anybody that wants a cucumber can have it.|sd
+A|But we tried it, too, where you run it up a fence|sd
+B|Uh-huh.|b
+A|and, um, we had some weird cucumbers because they grew inside the fence.|sd
+A|I mean like the little thing would be half on one side and half on the other.|sd
+B|Oh my gosh.|ba
+A|I mean, it was,|sd
+A|but they're so heavy, you know,|sd
+A|they get so heavy they kind of weigh it down.|sd
+A|But, I mean, cucumbers here grow like crazy.|sd
+B|Wow.|b
+A|Of course it's real hot here too.|sd
+B|Well, see, tomatoes grow like crazy at our house.|sd
+B|Like we have a section of tomatoes,|sd
+B|and we put the tomatoes there every year, in the same section.|sd
+B|And I swear we get tomatoes six rows up.|sd
+A|Yeah,|b
+A|yeah,|b
+A|now if we have any, like the birds will pick or something, you know,|sd
+A|and some of the seeds drop.|sd
+A|Have you ever had them just come up in different places?|qy
+B|Uh-huh.|ny
+A|I know, we do that, too, you know,|sd
+A|and at the first year,|sd
+A|because I was from the city when we got married,|sd
+A|and the first year that we planted, I couldn't figure out, I mean, the,|sd
+A|well, the first year after I mean, we planted them,|sd
+B|Uh-huh.|b
+A|but the first year, you know, after we'd had a crop all these little things like,|sd
+B|Yeah.|b
+A|we had cucumbers coming up, you know, in the middle of our okra,|sd
+A|and I thought, how did this get here|sd
+B|Uh-huh.|b
+A|I know I didn't put that seed there.|sd
+A|And it was weird, but the birds had, you know, evidently just deposited them for us.|sd
+B|Uh-huh.|b
+B|Well, sometimes, too, when we take out our garbage,|sd
+B|and we usually, you know, we just dump it in the middle of the garden, you know, after your garden's basically done|sd
+A|Uh-huh.|b
+B|and we're finding out,|sd
+B|like we have peach trees in the middle of our garden now, because we took peach seeds and dump them there, whenever the garden,|sd
+B|like in the Fall,|sd
+B|now we have peach trees coming up,|sd

@@ -1,0 +1,106 @@
+A|How big is Provo?|qw
+B|Um.|%
+A|That a little town or, or a bigger city?|qy
+B|Um, it's not one of the bigger ones. It's probably, um, I compare it to the size of Plano, maybe a little smaller.|sd
+B|Plano, Texas. No *nn|sd
+A|Oh.|b
+A|I talked to someone that was only a couple of thousand in her town, I think.|sd
+A|Yeah,|ny
+A|I forgot the name of the town.|sd
+A|I thought maybe it was you|qy^d
+A|Oh, well, anyway, we're supposed to talk about education.|sd
+A|I certainly have some ideas since I'm studying it now in college.|sd
+A|I'd say, first of all, they need to go back to spending more time on the basic reading, writing, arithmetic in grade school,|sv
+B|Uh-huh.|b
+A|because they really teach you about forty percent less than they used to,|sv
+A|and it shows up.|sv
+A|That's one idea.|sd
+A|Do you have any?|qy
+B|Um, I don't know,|no
+B|I'm pretty, I think I'm pretty satisfied with, um,|sd
+B|I I grew up in Plano|sd
+A|Uh-huh.|b
+B|and, and my dad is actually on the school board there,|sd
+B|so, I kind of kept up with a lot of things that went on.|sd
+A|Yeah,|b
+A|it's|%
+A|Plano, uh, improved greatly in the last twenty, twenty-five years|sd
+B|Yeah.|b
+A|that's for sure.|sv
+A|It used to be the pits.|sd
+A|And Arlington is excellent now,|sd
+A|but I'm just speaking overall across the country.|sd
+B|Oh.|b
+B|Yeah.|b
+A|Something is definitely wrong.|sv
+B|Uh-huh.|b
+A|And, uh, one thing, they don't spend as much time just teaching reading and writing,|sv
+A|so a lot of kids are just being promoted from year to year|sv
+A|and they truly can't read|sv
+B|Right.|b
+A|so I don't know how they expect them to, uh, pass history when they can't read anything, you know, even read a word problem in math.|sd
+A|So, um, that's definitely a problem.|sv
+A|Another problem is you're going to keep the smarter people in the system too long paying the wages they do.|sv
+B|Right.|b
+A|But, um,|%
+B|So do you, what do you think is good about the schools?|qw
+A|That is good about,|%
+A|well, it depends on where you are.|sv
+A|They're all so different.|sv
+A|That's another thing about the United States.|sd
+B|Yeah.|b
+A|There's no national curriculum, you know,|sd
+A|I mean, what they'd be teaching in an Arlington school they may not be teaching in a Plano school|sd
+B|Uh-huh.|b
+A|and in the same school district, you may, even in an Arlington seventh grade for instance, you may have an English class|sd
+A|you may have half literature for the whole year,|sd
+A|whereas in another one they're going to concentrate on grammar and give you a little literature,|sd
+B|Grammar.|b^m
+A|it's up to the teacher, in other words.|sv
+A|So that's kind of you know, that's kind of odd to me.|sv
+B|Yeah.|b
+A|It depends on, uh, what school you're in and who your teacher is, actually|sv
+B|Uh-huh.|b
+A|or is how you end up|sv
+A|Overall, Arlington is good, one of the better ones in the state,|sd
+A|so I guess we lucked out when we moved here.|sd
+B|Uh-huh.|b
+B|So, yeah,|b
+B|that's the thing is just to look at the school system in the area that you move into before you.|sv
+A|Uh-huh.|b
+A|Of course we have a slight problem in that, uh, the number of the illiterate in America is mushrooming at this point,|sd
+A|and, uh, you know, where our kids might be in a great school, we're still paying an awful lot of taxes for people who are on welfare and unemployment because they can't read, you know.|sv
+B|Uh-huh.|b
+A|So.|%
+B|But do you think that there should be, um, nationwide, um, curriculum?|qy
+A|I don't know.|no
+A|I just read about that the other day,|sd
+A|and I had never even thought of it.|sd
+A|Actually it makes sense to a certain extent,|sv
+A|because sometimes, like a third grade teacher will get kids from second grade that didn't even learn what, uh,|sd
+A|they should to do the work that she is supposed to teach, you know. and according to her plan,|sd
+B|Uh-huh.|b
+A|so I guess if there was a national curriculum we'd at least have a certain amount that all kids would learn.|sv
+B|Right.|b
+A|But, uh. We actually rank forty-ninth in the world as far as just plain literacy goes, you know.|sd
+B|Um.|b
+A|That's, that's pretty low that there's forty-eight countries ahead of us that have more more citizens percentage wise that can read and write,|sv
+B|Yeah.|b
+A|so, um, unless we want to keep paying, paying for these people that can't make it in society, we're going to have to do something.|sv
+A|I don't know.|sd
+A|Obviously nobody's smart enough to have figured it out yet,|sv
+A|so I probably can't|sv
+A|But I do think that we have to cut out some of this folderol stuff and go back in the first five, six grades and just keep going over and over and over until most of those that are capable can at least learn to read and write|sv
+A|because they can't even get the menial job without being able to read something nowadays you know.|sd
+B|Right.|b
+A|Uh, you can't, you can't even work an answering machine if you're at work and had to get a message or something you know, or fill out an application to work at McDonalds if you can't read.|sd
+B|Uh-huh. Yeah *aa|b
+A|So, uh, I think that's, that's a start at least, going back to the basics in the early grades|sv
+A|and, um, they say that the average English student nowadays does at least fifty percent less reading and writing than they did twenty years ago,|sd
+A|and that's a big jump.|sv
+B|I believe that|aa
+A|Did you go to school in Plano?|qy
+B|I did.|na
+A|Through high school.|qy^d
+B|Uh-huh,|ny
+B|uh,|%

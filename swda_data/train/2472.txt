@@ -1,0 +1,309 @@
+A|Perhaps this connection,|fo_o_fw_"_by_bc
+A|no,|^h
+A|it still echoes.|sd
+A|Okay, um,|%
+B|Do you like to cook?|qy
+A|I love it.|sd
+B|I do too.|sd
+A|Uh,|%
+B|It, it's kind of hard to find time sometimes|sd
+B|but,|%
+A|Do you work?|qy
+B|Yes.|ny
+A|And have a family?|qy^d
+B|Uh, I don't have a family,|ng
+B|but I, I usually work about fifty hours a week|sd
+B|and, by the time I get home I'm so tired it's hard to cook a full meal.|sd
+A|Oh!|ba
+A|I expect so.|ba
+A|Uh, well for a dinner party, I think one of my favorite things is baked chicken and white wine.|sd
+B|That's, that's really weird that you said that because for a dinner party, mine is, is a, is a chicken in a marsala wine sauce,|sd
+A|Oh|b
+B|so  Where did you get your recipe for it?|qw
+A|Um, I guess mostly out of an international cookbook that I have.|sd
+B|Oh, okay.|bk
+B|Well mine actually came from the, um, Texas Instruments Cafeteria.|sd
+A|Oh.|b
+B|They, they,|%
+A|They have a T I plant in Texas, in Kingsport?|qy^d
+B|Yeah,|ny
+B|we have,|%
+B|it's in Johnson City.|sd
+A|Oh, uh-huh.|b
+B|And, um, the cafeteria is real good about putting out recipes, you know, like once a month,|sd
+B|they'll put out a recipe of the month.|sd
+A|Uh-huh,|b
+A|great.|ba
+B|And they, they put this one out|sd
+B|and I tried it|sd
+B|and it was really good.|sd
+A|What is, uh, is a marsala wine a sweeter wine?|qy
+B|Yeah,|ny
+B|a little bit sweeter.|sd
+A|Uh-huh.|b
+B|And it, uh, it's a, it's a red wine.|sd
+A|Okay.|b
+B|And, uh, I'm trying to think what else.|sd
+B|I, I roll it in bread crumbs and, uh, Parmesan cheese,|sd
+A|Uh-huh.|b
+B|and, then I rub it with a little bit, I rub the chicken with a little bit of oil, and pour the wine sauce over it as, like the last twenty minutes, so that it gets just enough flavor.|sd
+A|Huh.|b
+A|Oh.|b
+A|Oh, so it kind of browns|sd
+A|and then you put wine over it.|sd
+B|Right.|b
+A|Uh-huh.|b
+A|That sounds real good.|ba
+B|And, it's really easy too|sd
+B|so,|%
+A|Yeah.|b
+B|What do you use ?|qw
+A|What do you serve with it?|qw
+B|Huh?|br
+A|What do you serve with it?|qw
+B|I like to serve, um, a wild rice with it.|sd
+A|Uh-huh.|b
+A|That's what I do too|sd
+B|This is really neat.|ba
+B|And, I,|%
+B|we're big broccoli fans.|sd
+A|Uh-huh|b
+A|that's what I've got.|sd
+A|I've got steamed broccoli down on mine|sd
+B|Well, I just, I just don't think you can go wrong with something like that.|sv
+A|No,|aa
+A|it's great.|sv
+A|I've got a good dessert recipe.|sd
+B|Oh, what?|qw
+A|Uh, do you like angel food cake?|qy
+B|Yes.|ny
+A|I just break it up in a glass bowl,|sd
+B|Uh-huh.|b
+A|and then I mix up, uh, some cream cheese and a little bit of Amaretta and some cool whip,|sd
+B|Wow.|ba
+A|and I make a thickened blueberry sauce|sd
+A|and I layer it with, uh, angel food cake and the blueberries and then that topping.|sd
+B|What time should we be there?|bh
+B|That sounds wonderful|ba
+A|It is, it's great.|sv
+B|I love desserts,|sd
+B|but since there's only two of us, it's really,|sd
+A|Uh-huh.|b
+B|I, I try to avoid making anything that, too fancy, that, we'd like too much and eat too much|sd
+A|Right.|b
+A|I know, I know what you mean.|sd
+A|We don't eat desserts much any more.|sd
+B|But I, I guess one that, that I really like, that I haven't made in awhile,|sd
+B|and it's, it's called a fruit pizza.|sd
+A|Uh-huh.|b
+B|And you take a, uh, sugar cookie, uh, recipe, and, and spread it out on a pizza pan.|sd
+A|Uh-huh.|b
+B|So you make it like a pizza crust,|sd
+B|and then you, you bake that|sd
+B|and then you, um, take things like kiwi, and strawberries and bananas and whatever fresh fruit you want|sd
+A|Uh-huh.|b
+B|and you mix that with, um, excuse me, you use cream cheese and a little bit of orange juice|sd
+B|and I can't remember what else is in it|sd
+B|and you make kind of a glaze,|sd
+A|Uh-huh.|b
+B|and then you layer your fresh fruit on that.|sd
+A|Oh, and pour that over it?|qy^d
+B|Yeah.|ny
+A|That sounds great.|ba
+B|It is really good,|sv
+B|and it, it's real light|sd
+A|It would be pretty.|ba
+B|and it,|%
+B|depending on the fruit you use it's, you know, it's real colorful.|sd
+A|Right.|b
+A|Yeah.|b
+B|Especially  with like the kiwi and the strawberries.|sd
+A|Right.|b
+A|That would be pretty.|sv
+B|So, but usually I just opt for brownies and vanilla ice cream|sd
+A|We've been fixing something lately that, well|sd
+A|we've been cooking a lot of, turkey breasts. Because it's low fat.|sd
+B|Uh-huh.|b
+B|Yeah,|b
+B|it's just so much better for you.|sv
+A|And I've been making a hot sandwich.|sd
+A|I toast a piece of whole wheat bread, and then put the turkey on it and then slices of the low fat Swiss cheese|sd
+B|Uh-huh.|b
+A|and then I make a little honey mustard dressing and put over it, and pop it in the microwave.|sd
+B|Oh!|b
+B|That sounds great.|ba
+A|It is delicious.|sv
+A|I wouldn't mind serving that to anybody.|sd
+B|No,|aa
+B|and that's that's something that just, you know, it doesn't take a long time to fix,|sd
+A|No.|aa
+B|it's really good,|sv
+B|and it's really good for you.|sv
+A|Yeah,|b
+A|it's real quick.|sd
+B|And we eat out a lot|sd
+B|and there are sometimes you just don't feel like eating out,|sv
+A|Right.|b
+B|and I wish I had something a little bit different, to just like she snaps her zap together.|sd
+A|Uh-huh.|b
+A|Yeah.|b
+A|Well|%
+A|mix up a little, uh, mayonnaise with some dijon mustard, and honey until it just,|ad
+B|Uh-huh.|b
+A|I mix it until it just tastes good  to me.|sd
+B|I was  going to say, do you just mix it to taste?|qy
+A|Uh-huh.|ny
+B|Okay.|bk
+A|Yeah,|b
+A|and it's real good.|sd
+A|And it keeps in the refrigerator.|sd
+B|How long, does it keep,|qw
+B|do you, well|%
+B|you wouldn't  have to make,|qy^d
+A|Oh, it keeps  a long time.|sd
+B|Yeah,|b
+B|and you wouldn't have to mix that much together even.|sd
+A|No,|aa
+A|uh-huh,|aa
+A|it keeps a long time.|sd
+B|I'm sorry I keep coughing.|fa
+B|I've had a bad cold.|sd
+A|Oh.|b
+A|And I put a little, um, oh, yogurt in it too.|sd
+B|Plain?|qy^d
+B|Plain yogurt?|qy^d
+A|If I,|%
+A|just plain  yogurt.|na
+A|It gives it a little tang.|sd
+B|I'll bet that is really good.|ba
+A|It makes a great sandwich.|sv
+B|Man,|ba
+B|I'm going to have to think of that.|sd
+B|We're getting company tonight,|sd
+A|Oh, are you|b
+B|and I have been debating what to cook because one of my guests is a vegetarian.|sd
+A|Oh, yeah,|b
+A|that's kind of hard.|sv
+B|So, we're going to,|%
+B|I think we'll try to do something a little bit,|sd
+B|we might try to, to, um, to grill some flounder or salmon steaks.|sd
+A|They'll eat fish?|qy^d
+B|Yeah.|b
+A|She'll eat fish.|sd
+B|And, I usually,|%
+B|when they come down I'll grill those and brush on a little lemon butter sauce|sd
+A|Uh-huh.|b
+B|and, um, definitely go with, it will have to be a rice dish lots of vegetables, to make up for the lack of meat.|sd
+A|Right,|b
+A|uh-huh,|b
+A|that sounds good.|ba
+A|Right.|aa
+A|I had a recipe from that, um, INTERNATIONAL COOKBOOK TWO, that's a great salad in summertime.|sd
+A|Do you, do you garden or not?|qy
+B|No|nn
+B|we don't,|sd
+B|our next door neighbors do|sd
+B|and some, a lot of times they'll give us something.|sd
+A|Okay.|bk
+A|it's just sliced tomatoes|sd
+A|and I put it on a glass plate because it looks real pretty. Sliced tomatoes and then green pepper strips, just over it, and some red onion slices, and just a little bit of, um, basil, and then a little Italian dressing over it.|sd
+B|Yeah.|b
+B|Oh!|ba
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|Okay.|b
+A|And everybody loves it|sd
+A|and it's so easy,|sd
+A|and it's delicious.|sd
+B|That's what I was just thinking,|sd
+B|it doesn't sound like it, it would be hard at all.|sd
+A|Huh-uh,|b
+A|it isn't.|sd
+B|where did you get,|qw
+A|And you can put some  cucumber slices on too.|sd
+B|where did you get this cook book?|qw
+A|I got it at the Checkbook Store.|sd
+B|Really!|ba
+A|And, it's got all these beautiful pictures, in there that are inspiring.|sd
+A|It's going to say, uh, edited by Charlotte Turgeon, editor of,|sd
+A|I'm not french, LaRoute, Gastro LaMink|sd
+A|the creative cooking course.|sd
+B|I'll might have to visit the State Book Store.|sd
+A|I'm trying to see who it's published by, Ottenheimer,|sd
+A|I've never heard of it.|sd
+B|I haven't either.|sd
+A|This edition is published by Bonanza Books.|sd
+B|Okay.|b
+A|It's a big book|ba
+A|but it was not expensive.|sd
+B|Well, the ones that I've been, I've been wanting to get, um,|sd
+B|I guess you've seen the THREE HUNDRED SIXTY-FIVE WAYS TO COOK CHICKEN, and the THREE HUNDRED SIXTY-FIVE WAYS TO COOK PASTA,|qy^d
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|I've been, I've been wanting to get those because we eat a lot of chicken,|sd
+B|and we do eat a lot of pasta.|sd
+A|Yeah|aa
+B|So, we, we just said the other night it wouldn't be too difficult to be, to do without red meat.|sd
+A|That's right.|ba
+A|I don't think it would.|sv
+B|You know, we don't have that much of it now.|sd
+B|As long as we have plenty of vegetables, and lots of chicken.|sd
+A|Uh-huh.|b
+A|I stir fried some the other night though.|sd
+A|Some, uh, beef and broccoli strips,|sd
+A|it was good,|sd
+A|but it didn't have much beef in it|sd
+B|Yeah,|b
+B|I've got a, I've got a Wok that we don't use near as often as we used to.|sd
+A|Uh-huh.|b
+B|We used to stir fry a lot, especially, um, a lot of chicken and, and a lot of rice dishes.|sd
+A|Uh-huh,|b
+A|it just takes the time to cut everything up.|sd
+B|Yeah.|b
+B|But usually if I'm, if I'm, if I take a day off or on the weekend especially, I try to  cook,  real, real food.|sd
+A|Cook.|^2
+A|Uh-huh|b
+B|And at least cook a couple of dishes ahead.|sd
+A|Right.|b
+B|So that we can have those to enjoy.|sd
+A|Uh-huh.|b
+B|So,|%
+A|One of my daughters sent me a COLORADO COOK BOOK, put out by the Junior League of Denver.|sd
+B|Uh-huh.|b
+A|Have you ever seen any put out by Junior Leagues?|qy
+B|Yes.|ny
+B|Cause,  we have some,  some local ones.|sd
+A|they are great.|sv
+A|Uh-huh.|b
+B|And we have a share alike column in the paper, where people, you know, write in and share recipes or write in and say I'm looking for this recipe,|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Right.|b
+B|and that's where I get a lot of my recipes.|sd
+A|Yeah.|b
+A|They are good, usually good aren't they?|qy
+B|Yes.|ny
+B|And I got, I got a real good one from a doctor's office one time.|sd
+A|Oh, is that right,|b
+A|what was that?|qw
+B|It's, uh, it's a baked bean recipe.|sd
+A|Uh-huh|b
+B|And, you mix baked beans and Lima beans|sd
+B|and, uh, let's see,  I guess,|sd
+A|You buy  the canned baked, canned baked beans?|qy
+B|Yeah.|ny
+B|Just mix the canned beans together, and brown sugar and molasses and bake them in catsup, you know,|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|and, and you just bake it.|sd
+B|And it's just, it's like a, a spicier baked bean dish.|sd
+A|Oh, that sounds|ba
+B|And, you can add hamburger if you want, to give it  a little more body.|sd
+A|Uh-huh.|b
+A|That sounds good.|ba
+B|So, I, I try to always keep my eyes open and because a lot of time you can find, find really good recipes where you wouldn't even think about it.|sv
+A|Right|b
+B|So, I try to always keep a little notebook in my purse.|sd
+A|Uh-huh.|b
+A|Jot them down, huh?|sd
+B|But, it's been,|%

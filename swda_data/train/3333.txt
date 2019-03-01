@@ -1,0 +1,164 @@
+A|All right.|fo_o_fw_"_by_bc
+A|I've never done it before,|sd
+A|so I guess that's all I have to do, right|qy
+B|I guess so.|no
+A|I've been called several times,|sd
+A|and I push in, pushed in my number,|sd
+A|they kept saying you have the invalid code|sd
+B|Oh, really.|b
+A|and then I found out that my new phone wasn't working right.|sd
+B|Oh|b
+A|Oh, so this is the first time I've even done it.|sd
+B|Yeah.|b
+A|I wonder how long it's going to be on for.|qw
+B|I think five minutes is the max.|sd
+A|Oh, no,|ba
+A|I mean, this whole thing, like for two months or something,|sd
+A|do you know?|qy
+B|Oh, I don't know.|no
+A|Yeah,|b
+A|okay,|%
+A|well back to crime,|sd
+A|I guess we're supposed to talk about that.|sv
+A|They say what aspect are you worried about,|fo_o_fw_"_by_bc
+A|well, I think at this point, I for one am worried about every aspect|sd
+B|Right,|aa
+B|especially, uh, you, since you're in the same metroplex,|sd
+B|you know, there's so much going on here.|sv
+A|I think the drive by shootings are getting to be so common, that's really a, something you got to protect yourself from.|sd
+B|Well, that, and in the schools, too starting to put metal detectors in,|sv
+A|Uh-huh,|b
+A|golly|ba
+A|I know.|aa
+B|and,|%
+A|Have they done that in Garland?|qy
+B|No,|nn
+B|I,|%
+B|not that I'm aware of.|sd
+A|Now, um,|%
+B|I just heard, you know, last week at that one school, they started putting them in because there was that one shooting|sd
+A|Right.|b
+B|so, um,|%
+A|Well, we had a vice principal shot at here last year on the, you know, on the school grounds after school.|sd
+B|Is that right?|bh
+A|And the one boy killed himself a few years ago, in the, in a grade school,|sd
+A|so you know, these kids don't have any trouble getting a hold of guns in any in any neighborhood, doesn't seem like.|sv
+B|Uh-huh. Yeah,|b
+B|yeah.|b
+A|So. Yeah,|b
+A|it's kind of scary to think, you send your child to school|sd
+A|and you wonder if he's going to get shot.|sd
+A|I mean, we didn't have to worry about that before.|sd
+B|I know|aa
+A|What next?|qh
+B|I know,|aa
+B|it's, it's, it's getting,|sv
+B|it's been out of hand, I think, for a while,|sv
+B|and it just continues to get worse.|sv
+A|Right,|aa
+A|and, you know, we can't really depend on the police to solve all this,|sv
+A|they just can't do it.|sv
+B|Yeah.|b
+A|I think it goes all the way back to the break up of the family to a certain extent|sv
+B|Right.|b
+A|and, uh, and how we going to bring that back together.|sv
+B|Yeah,|aa
+B|that's,|%
+B|I|%
+B|I agree,|aa
+B|I think that's where it stems from, is that and, um, you know, you've got a lot of, a lot more women that are working nowadays that aren't home with the children|sv
+A|Uh-huh.|b
+A|Right|b
+A|and,|%
+B|and that may impact it as well.|sv
+A|I think so,|aa
+A|and, and then there's a drop in, uh, the training of morals, really, you know.|sv
+B|Right,|aa
+B|right.|aa
+A|These, some of these young kids you read about, just doesn't bother them to kill someone at all|sv
+B|Yeah|aa
+A|I think I think years past maybe our criminals had a little more morals, you know wouldn't kill somebody in cold blood.|sv
+B|they don't think twice about it.|sv
+B|Yeah.|b
+B|Either that or I don't know if it happened and it wasn't as highly publicized as it is now, or what the, what the,|h
+A|I think it was just rare,|sv
+A|I really do.|sv
+B|Uh-huh.|b
+A|My mother, well, she's like seventy-four now.|sd
+A|She, when she was a young girl, she had a beautiful, beautiful cousin that lived in California,|sd
+A|and she was dating this millionaire's son|sd
+A|and he wanted to marry her,|sd
+A|and she wouldn't marry him|sd
+A|and so he drove out in the country one day and shot them both,|sd
+A|and, uh,|%
+B|You're kidding.|ba
+A|No,|aa
+A|I'm the one,|%
+B|Himself and her?|qy
+A|Yeah,|fo_o_fw_"_by_bc
+A|that must have been at least fifty years ago or more,|sd
+A|but the point of the story is that, that was so unbelievable a thing in those days that it was in all the papers, all over the country for weeks|sd
+B|Oh, wow,|ba
+B|I bet.|ba
+A|but now, you know, you wouldn't probably read about it here in Texas|sv
+B|Oh, I know,|aa
+A|it's just, you know, another killing.|sv
+B|Well, they were,|%
+B|I was watching some show the other day,|sd
+B|and they were talking about, uh, mass murderers|sd
+A|Uh-huh.|b
+B|and they brought up what happened in Killeen here recently,|sd
+B|and they were saying, you know, that these guys want attention, and that when it happens they're glorified because all the newspaper, it's on all the newspapers and T V and everything,|sd
+A|Um.|b
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Right,|aa
+A|lots of their picture and life story and everything.|sd
+B|Right,|aa
+B|and then you get to their life story,|sd
+B|Oh, they came from a broken family|sd
+A|Uh-huh.|b
+B|oh this person had mental problems|sd
+A|Right.|b
+B|oh duh, duh, duh you know,|^q
+A|Right.|b
+A|I know, how we and straighten up all these twisted people before they do something terrible,|qh
+B|Yeah.|b
+A|So, uh, that story I just told you about my mother's beautiful cousin, well, the same thing happened here in Arlington, when was it, I think it was, oh, it was almost a year ago in December to a girl that my daughter had graduated from high school with.|sd
+B|Is that right?|bh
+A|Yeah,|ny
+A|I think it was on a Hard Copy,|sd
+A|she was a real attractive blond girl, in, in her freshman year of college|sd
+B|Uh-huh.|b
+A|and some boy she tried to get rid of, he was like in his twenties,|sd
+B|Uh, I remember seeing that,|sd
+A|Remember that?|qy
+B|I saw that on Hard Copy|na
+A|Right,|aa
+A|right,|aa
+A|that's, uh,|%
+B|Yes.|aa
+A|My daughter graduated with her from Arlington High School.|sd
+B|Is that right?|bh
+A|Yeah,|ny
+A|can you believe it,|qh
+A|that's just, uh,|%
+B|I'm trying to remember,|^h
+B|he, um, had her in the car in front of a Taco or something|sd
+A|Taco Bueno,|sd
+A|right,|aa
+A|uh-huh.|b
+B|and he just shot them himself and her.|sd
+A|Uh-huh.|b
+A|Right.|aa
+B|I remember seeing that.|sd
+A|Yeah, uh, uh,|b
+A|isn't that weird?|qy
+B|Yeah,|ny
+B|there's just too many crazy people out there these days.|sv
+A|I know,|aa
+A|and, uh, the police are not going to do anything until they, they've committed some sort of a crime.|sv
+A|You know, he was just begging her on the phone,|sv
+A|that's not doing anything.|sv
+B|Yeah.|b
+A|And there are times I think, gee, I should give my kids|sd

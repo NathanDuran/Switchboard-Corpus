@@ -1,0 +1,138 @@
+A|Where is your favorite place to go?|qw
+B|Well, we haven't traveled outside the United States that much.|sd
+B|Uh, we usually take family type vacations.|sd
+B|We're looking forward to one in October to Disneyworld in Florida.|sd
+A|Oh, that's great.|ba
+B|We have a nine year old.|sd
+A|Have you ever been there?|qy
+B|When, when both of my kids were much younger.|na
+B|And this time we're going to be going with just one daughter|sd
+B|and she's nine,|sd
+B|so it ought to just be a ball.|sd
+A|Oh, that's a perfect age for Disneyworld.|sv
+B|Uh-huh.|b
+B|I think so, too.|aa
+A|Oh, that's great.|ba
+A|Yeah,|b
+A|so we've been there a number of times|sd
+A|and, uh, we're going next year.|sd
+A|We have a business trip every fall.|sd
+A|Well, we go on a lot of business trips.|sd
+A|I, I don't work.|sd
+B|Oh, wonderful.|ba
+B|So you travel a lot.|bf
+A|Well, we do.|aa
+A|We|%
+A|my husband travels a couple times a month|sd
+A|and in the position he's in, they don't care if I go along.|sd
+B|Uh-huh.|b
+A|So it's great.|sd
+A|I just kind of join up when it's something interesting|sd
+A|and uh, Disneyworld is the one for a week next year|sd
+B|Sure.|b
+B|Uh-huh.|b
+A|and it will be at this time of the year|sd
+A|and this year we're leaving, uh, uh, matter of fact we're leaving next Saturday for New Orleans.|sd
+B|Oh, that will be fun, too.|sv
+A|Have, have you ever been there?|qy
+B|Yes.|ny
+B|We went years ago.|sd
+B|We haven't been lately|sd
+B|and I know they've changed it a lot and upgraded everything,|sd
+B|but we used to have a lot of fun there.|sd
+A|Well, you know, we went there once.|sd
+A|In fact, we had been in Dallas|sd
+A|and we were on our way home|sd
+A|and we were driving|sd
+A|and we said let's go to New Orleans.|sd
+A|So when he said, well, this year, you know, I have a week there on a, a project|sd
+A|he's going to be,|sd
+A|and then I said, well, I'll going along,|sd
+A|I hope it's swimming season|^q
+A|because it wasn't a tremendous thing, amount of things to do. That I wanted to do there.|sd
+B|Uh-huh.|b
+B|Yeah,|b
+B|if you don't like the night life and the antique shopping, there isn't much there,|sv
+B|but, that can be fun.|sv
+A|It, well, and that's probably,|sd
+A|we do like the night life, to an extent|sd
+A|and they do have a Mardi Gras night planned.|sd
+B|Uh-huh.|b
+A|And I'm kind of anxious for that,|sd
+A|but, uh, yours to Disneyworld sounds a little bit better.|sd
+A|Did you know that next week there's several T V shows coming from there in celebration of their anniversary.|qy
+B|No,|nn
+B|I know this is a real good time to go, because they are having so many activities and special shows.|sd
+A|Well, and with a daughter, nine, it is just,|sd
+A|she's old enough to really grasp the meaning behind,|sd
+B|Yes.|b
+B|Be excited about all of it.|bf
+A|Uh, so, well, if you're working, then you're probably on a limited amount of time per year that you can go.|sv
+B|Well, not really,|ar
+B|we're doing the same thing. Tying it in with my husband's business trip|sd
+B|and I just save vacation for things like that. And, uh, just travel whenever we can.|sd
+A|Oh, that's,|%
+A|Well, I really, I think travel|sv
+A|when I heard my topic today, I thought, okay that's my that's my favorite|sd
+B|How easy|^2
+B|Right.|b
+A|And really at our point of life our children are grown|sd
+A|and, uh, it has just worked out really well with this, uh, position he's in. Because I can go at a spur of the moment or what have you|sd
+B|Uh-huh.|b
+A|and it depends where he's going whether or not I decide to go along|sd
+B|Sure.|b
+A|but I do, do like to travel|sd
+A|and it's, uh,|%
+A|I don't mind the pool life at all during the day.|sd
+B|Uh-huh.|b
+A|And I like to sight see|sd
+A|and I love to shop.|sd
+B|Uh-huh.|b
+A|So it's|%
+B|So that's perfect.|bf
+B|What more could you ask for?|qh
+A|That's right,|aa
+A|but it,|%
+B|And then got to pick and choose the places.|bf
+A|Well, and one of my very favorite is Las Vegas.|sd
+B|Oh.|b
+A|Uh, that|%
+A|I would have to say we both end up going to Las Vegas, uh, probably once every maybe year and a half.|sd
+B|Uh-huh.|b
+A|And presently we have quite a few frequent flyer miles|sd
+B|Uh-huh.|b
+A|and so I've just requested that they send us two of our coach tickets|sd
+A|because we have a lot of flying with Continental|sd
+B|Uh-huh.|b
+A|and they're recommending that you use those because they don't know the future of Continental.|sd
+B|Right,|aa
+B|it's kind of shaky.|sd
+A|And I said now that we have all the miles,|sd
+A|we better start using them.|^q
+B|That's true.|aa
+A|Uh,|%
+B|It really is.|aa
+A|So we are thinking that we might go to Las Vegas during the winter this year sometime for just kind of a quick trip.|sd
+A|Uh, when we normally go that way, we like to go to California at the same time, because we really don't get out there as often as you could probably from Texas.|sd
+B|Uh-huh.|b
+B|Our last big trip, we drove through New Mexico and Colorado and went to the Grand Canyon and, and, uh, back through Silverton and Durango|sd
+B|and, oh, it was fun.|sd
+B|It was so relaxing and a really neat part of the country|sd
+B|and the kids were old enough to really enjoy it.|sd
+B|Our,|%
+A|I think that's a good trip.|sv
+B|Uh-huh.|b
+A|And really, for the children to learn as well for a family vacation that would be excellent.|sv
+B|Right.|b
+A|Now we did, what we sometimes do since we are in Ohio|sd
+A|and it takes a while just to even get to the, what I would call the more picturesque part of the country,|sd
+A|we will fly to something like,|sd
+A|once we flew to Colorado to Denver|sd
+A|and then we rented a car for two weeks|sd
+A|and we went through the northern route and through Utah and as far west as Las Vegas|sd
+B|Uh-huh.|b
+A|and then we returned through, uh, New Mexico that you just mentioned.|sd
+B|Uh-huh.|b
+A|And it was oh, it was just great.|sd
+B|Oh, there's too much to see really.|sv
+A|Oh, I, I think that's, that's the way to,|sv

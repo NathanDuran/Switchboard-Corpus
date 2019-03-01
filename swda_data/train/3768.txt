@@ -1,0 +1,189 @@
+A|Well, what kind of vacations do you like to take? .|qw
+B|Well, we've, uh, we've been fortunate enough to take a couple of trips over to Europe|sd
+B|so So, I, I guess those are the types I like|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|We've really enjoyed them.|sd
+A|Yeah.|b
+A|Where have you gone there?|qw
+B|We've gone to, um, Germany, Switzerland, Austria, Ireland and England.|sd
+A|Uh-huh.|b
+B|We've been to Germany twice.|sd
+A|Uh-huh.|b
+B|But, um, I guess my favorite is probably Switzerland and Ireland.|sd
+A|Uh-huh.|b
+A|Yeah|b
+A|well, I've been over there too.|sd
+B|Uh-huh.|b
+B|Where have you been?|qw
+A|I even.|%
+A|Let's see, um,|^h
+A|mostly Germany and France.|sd
+B|Uh-huh.|b
+A|I lived in France for a year and a half|sd
+A|so I was able,|%
+B|Oh, how neat.|ba
+A|but, I, once when I had a chance in France to go on vacation instead of travelling around France I went to Germany|sd
+B|Uh-huh.|b
+A|because, uh, I've got relatives there|sd
+A|and I just  like it there.|sd
+B|Oh,  that's neat.|ba
+B|Uh-huh.|b
+A|So, but, um, Austria, I found really pretty and Switzerland,|sd
+B|Uh-huh.|b
+A|yeah,|%
+A|and I, I lived in the Alps in France|sd
+A|so I anything in the mountains over there I just love.|sd
+B|Oh, how neat.|ba
+B|Oh, yeah.|b
+A|Then I finally made it to England, too, uh, on my way home, um,|sd
+A|I lived in Africa, actually,|sd
+A|and on my way  home from there.|%
+B|You lived in Africa?|qy^d
+A|Yeah.|ny
+B|Oh, my goodness|ba
+A|Yeah.|aa
+B|Wow.|ba
+A|So, um, and you always have to go out, fly through, or unless you fly from Nairobi, you have to fly through, um, uh, Europe on your way home.|sd
+B|Uh-huh.|b
+A|So, I went to England,|sd
+A|and I really liked it there too.|sd
+B|It's so expensive over there|sv
+A|I know,|aa
+A|it's true.|aa
+A|That's the one thing.|sv
+B|It really is.|aa
+B|It just, it's, it's,|%
+B|I love to go over there,|sd
+B|but it's so darn expensive to go over.|sv
+A|Yeah.|b
+A|Yeah,|b
+A|actually now you can get some really good deals flying over,|sd
+A|but it's|%
+B|Yeah.|b
+A|once you're there you still have to spend money Unless you know people, you know|sd
+B|Oh, I know,|aa
+B|just.|%
+B|Right.|aa
+B|Then you can stay with them,|sd
+B|and  yeah.|%
+A|Uh-huh.|b
+A|That helps  a lot.|sv
+B|Yeah.|b
+A|But.|%
+B|You know there's a lot of places in the states that we haven't even gone.|sd
+A|Uh-huh.|b
+B|You know, I'd like to go to Hawaii some time,|sd
+B|and and, uh, we made it,|%
+A|Yeah.|b
+B|we've, we've at least gone to the Grand Canyon and Niagara Falls.|sd
+B|So.|%
+A|Uh-huh.|b
+A|Yeah.|b
+B|Feel like  we've accomplished a little bit here.|sd
+A|I haven't.|sd
+A|I've been, I've,|%
+A|most of my vacationing in the U S has been on the West Coast|sd
+B|Uh-huh.|b
+A|or this summer I went to Colorado|sd
+B|Uh-huh.|b
+A|and, uh, I'd love to go to the East Coast,  during the Fall.|sd
+B|The, oh, the|%
+B|it's, oh,|%
+B|I've always wanted to go there.|sd
+B|I've seen pictures,|sd
+B|and, and it looks gorgeous.|sv
+A|Yeah.|b
+B|We, um, we made a trip up the East Coast.|sd
+B|It was, uh, in the summer|sd
+A|Uh-huh.|b
+B|and it really is pretty.|sd
+A|Uh-huh.|b
+B|It's, uh,|%
+B|both coasts are really pretty|sd
+A|Yeah.|b
+B|but, um, I love the Carolinas.|sd
+B|It's just gorgeous over there.|sd
+A|Uh-huh.|b
+A|I haven't been there, anywhere on the East Coast.|sd
+B|Yeah.|b
+A|I think Tennessee has been the furthest east I've been.|sd
+B|Uh-huh.|b
+A|Yeah.|b
+B|Well, you'll just have to plan a vacation some time and, and go over there.|ad
+A|Yeah,|aa
+A|I guess so.|aap_am
+B|Yeah,|b
+B|but there's, you know, there's a lot to see here|sd
+A|Uh-huh.|b
+B|but I just love going over to Europe because it's so, their way of life is just so different than ours.|sd
+A|Yeah.|b
+B|You know, we're so fast paced here,|sv
+B|and over there, you know, every time we'd go and, and eat dinner or lunch or whatever we'd always have to ask for the check you know|sd
+A|Uh-huh.|b
+A|Yeah.|b
+B|they're so leisurely over there|sv
+A|Yeah.|b
+B|and it's kind of nice to, to have that.|sv
+A|Yeah.|b
+A|So the type of vacation you'd like, um,|%
+A|like, would you go over and spend a lot of time in one place, or travel to whole bunch of different places in one week?|qy
+B|Well, usually a bunch of different places.|sd
+A|Yeah,|b
+A|mainly probably because you want to see everything.|sv
+B|Right,|aa
+B|see as much as you can while you're there.|sd
+A|Yeah.|b
+A|Yeah,|aa
+A|I know.|aa
+B|Yeah.|b
+A|Yeah.|b
+B|How did you like Africa?|qo
+A|Well, I liked it.|sd
+A|I was working in Cameroon, Africa|sd
+B|Uh-huh.|b
+A|and it's not a, it's not a place for tourists,|sd
+A|I mean, they're not used to having tourists there,|sd
+A|so it's,|%
+B|Uh-huh.|b
+A|you're kind of roughing it.|sd
+A|But, um, I liked it,|sd
+A|I liked it.|sd
+B|Uh-huh.|b
+A|The people there are just very, very friendly|sd
+A|and.|%
+B|What type of work?|qw
+A|Um, I was working with an organization that does Bible translation.|sd
+B|Oh, okay.|bk
+A|So I was doing linguistic work actually, travelling around, finding out about languages, and uh, what they call survey work.|sd
+B|Oh, uh-huh.|b
+B|Uh-huh.|b
+A|Find out where the languages are.|sd
+B|Uh-huh.|b
+A|So, I travelled a lot around the country and met a lot of people.|sd
+B|Yeah.|b
+A|Um.|%
+B|That's neat.|ba
+A|Yeah,|aa
+A|I enjoyed it.|sd
+A|So.|%
+B|I've, I've always, um, I've talked to people who have been to Africa,|sd
+B|and they,|%
+B|and then of course when that movie OUT OF AFRICA came out|sd
+A|Yeah.|b
+B|Um, but I've always thought it would be neat to go on a safari over there.|sv
+A|Yeah,|b
+A|my cousin came over while I was there,|sd
+A|and she came to Cameroon|sd
+A|and then she went over to Nairobi and took a safari around you know, close to Nairobi  in Kenya.|sd
+B|Uh-huh.|b
+B|Oh how  neat.|ba
+A|So, she'd always dreamed of doing that too.|sd
+B|Yeah,|b
+B|that's  great.|ba
+A|So.  Yeah.|%
+A|So is there any place you would try to talk me into going to|qy
+B|Uh.|%
+A|It sounds like we've been to some of the same places.|sv
+B|Yeah,|aa
+B|it does.|aa

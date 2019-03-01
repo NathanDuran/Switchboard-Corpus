@@ -1,0 +1,293 @@
+B|Where are you from Tina?|qw
+A|Um, I'm from Maryland|sd
+A|and, um, I have one son who's almost sixteen months old.|sd
+A|Are, are you married, or ...|qy
+B|Yeah,|ny
+B|uh-huh.|ny
+A|You are.|bk
+B|I have, I have two children,|sd
+B|I have a seven year old and a three year old.|sd
+A|Oh.|b
+B|And, uh, so I try to spend as much time as possible with them.|sd
+A|That's good.|ba
+A|Uh, what kind of things do you do?|qw
+B|Well, um, we do a lot of things with them, you know,|sd
+B|Taylor my youngest is,|sd
+B|or my oldest is in school|sd
+B|and so she has a lot of school programs and things like that.|sd
+A|Oh.|b
+B|was it a big change in your life, to, uh have a child.|qy
+A|Oh yeah|ny
+A|Um, yeah,|ny
+A|it's really nice, uh,|sv
+A|my husband, uh, is working you know, most of the time.|sd
+A|He's working long hours,|sd
+A|but, uh, I'm staying home.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|Uh, I'm just working a couple days a month,|sd
+A|and, um ...|%
+B|Oh, uh-huh.|b
+B|What do you do during those, those days?|qw
+A|Um, we spend a lot of time at the playground|sd
+A|and we go to the zoo,|sd
+A|and we go|sd
+A|and we ...|%
+B|Well you said, you said you worked a couple days a month, though,|sd
+A|Yeah,|aa
+A|yeah.|aa
+B|what do, what do you do?|qw
+A|I'm a nurse.|sd
+B|Oh, are you?|bh
+A|So, yeah,|ny
+A|so it's, it's, it's real easy to work out my schedule, you know, to, uh, get in, to, to still stay in with that, an, and to have enough time to spend with Matthew.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+B|Yeah.|b
+A|He, he's, uh, just now really starting to, to get interested in a lot of things,|sd
+A|so, um,|%
+B|Yeah,|b
+B|I understand that,|sd
+B|yeah.|%
+B|They really grow up quick. Especially at that early age.|sv
+A|Yeah|b
+B|But my, my wife was, uh,|sd
+B|she worked part-time when my oldest was, was little|sd
+B|and now she's staying home all the time,|sd
+B|but, uh, that worked out really well because it's a big transition I think to have children.|sv
+A|Oh, yeah.|b
+B|You know, to go from, you know, nothing, you know,|sv
+B|if you want to do something every night that's fine,|sv
+B|but when you have children it doesn't work that way anymore,|sv
+B|so.|%
+A|That's right,|aa
+A|and I think a lot of people are, um, are turning to, well, I think, I think a lot of people are realizing that|sv
+A|but still there are so many people that are, you know, have their careers first|sv
+A|and, it's, uh, I think it's really hurting, uh, the kids, you know,|sv
+B|Yeah,|b
+B|yeah.|b
+A|but.|%
+B|Yeah,|aa
+B|I agree with you,|aa
+B|I, I, I think that my wife leaned that way|sv
+B|and I'm really glad she did|sd
+B|and, you know, I'm glad she's staying home,|sd
+B|but, you know, I know there are some days when she she wishes she was back at work.|sd
+A|I know,|aa
+A|That's why I like to to, to work a couple days,|sd
+A|I think it's, uh, it gives me a break.|sv
+B|Yeah.|b
+B|Yeah,|b
+B|well see that's, that's why I'm glad my wife did too,|sd
+B|'cause she worked either two to three days a week|sd
+B|and that got her out of the house|sd
+B|and yet she'd get to spend, you know, three or four days with ...|sd
+A|Most of the time at home,|bf
+A|yeah.|b
+B|Yeah,|aa
+B|yeah,|aa
+B|and so.|%
+A|Uh, we had started out like that|sd
+A|and, um, I think that was really ideal, uh.|sv
+B|Yeah,|aa
+B|I do to,|sd
+B|I agree,|sd
+B|but then when you start having two of them, it's, you know, a little bit tougher, because you've got to make a little more money, to make that payoff and stuff.|sv
+A|It's,|%
+A|yeah.|b
+A|Yeah,|b
+A|yeah,|b
+A|it's difficult,|sv
+A|but.|%
+B|Are, are you from the Maryland area?|qy
+A|Uh-huh,|ny
+A|I'm, I've, I've lived here forever,|sd
+A|so.|%
+B|Really.|bh
+A|Yeah,|ny
+A|I I live in Germantown,|sd
+A|and, uh.|%
+A|Are you, where are you from?|qw
+B|Um, uh, I'm in Dallas, Texas.|sd
+A|In Dallas,|b^m
+A|oh.|b
+B|Yeah,|b
+B|so, uh, I'm, I've lived here like eight years or so,|sd
+B|my wife's from Fort Worth.|sd
+A|Oh, yea-,.|b
+B|But,|%
+B|yeah,|b
+B|I work for Texas Instruments.|sd
+A|Okay,|b
+A|oh,|b
+A|so that explains.|sd
+B|Yeah,|b
+B|that explains it doesn't it.|qy
+A|Well, um, I don't know,|h
+A|I, uh, we, we do a lot of things on the weekends together, the family,|sd
+B|Yeah,|b
+B|yeah.|b
+A|but, uh, as far as during the week, it's, it's usually, uh, you know, just my son and I,|sd
+A|and we're ...|%
+B|Yeah,|b
+B|what's your husband do?|qw
+A|Uh, he, he works for Coca Cola.|sd
+B|Uh-huh.|bk
+A|So he, uh, he manages a plant out here,|sd
+B|Oh.|b
+A|an, and it takes a lot of time.|sd
+B|Oh, yeah,|b
+B|I'm sure it does.|ba
+A|But, um, it, you know,|%
+A|we take walks, and go to the library, and try to fill our day with things like that,|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|but, um.|%
+B|Yeah,|b
+B|what, uh,|%
+B|my wife did some teaching at like, uh, like a private tutoring place. A Sylvan Learning Center this year|sd
+A|Oh.|b
+B|and so that, that got me to to be able to spend more time with the kids at night and stuff, you know, 'cause normally if, if they need something they just go to mom. No matter what it is,|sd
+A|Oh.|b
+A|Yeah|b
+B|I mean, I I'm perfectly capable of doing it for them,|sd
+B|but, it's so much easier to go to mom,|sd
+A|Right.|b
+B|I guess they get used to it.|sv
+B|So,|%
+B|but, you know, we'd go to the library and do things like that,|sd
+B|yeah,|%
+B|but|%
+A|That's good,|ba
+A|that's good.|ba
+A|I know my husband was real, uh,|sd
+A|in the beginning when he, uh, he was transferred to a, a larger plant|sd
+A|and he, uh, he works about an hour and a half away from here, from our home,|sd
+B|Uh-huh.|b
+A|and, uh, so it takes him a little bit of time.|sd
+B|Oh, yeah.|b
+A|And I'm not able to work during the week, uh, because of that.|sd
+A|He was, I was working in the evening,|sd
+B|Uh-huh.|b
+A|and he was coming home|sd
+A|and I, I could go to work,|sd
+A|but, uh, their relationship, uh, when I was able to work in the evenings, uh, really grew.|sd
+B|Yeah.|b
+B|Uh-huh.|b
+A|He, you know,|%
+A|just the time that they were spending together,|sd
+B|Yeah.|b
+A|I think it, it really, it really helped to have that time together.|sv
+B|Uh-huh,|aa
+B|it really does|sv
+B|because I think you know, you grow closer.|sv
+B|Was your, uh, was your husband, I mean naturally a child,|qy
+B|I mean had he been around children,|qy
+B|or ...|%
+A|Uh, oh yeah,|ny
+A|he has, uh, he has seven other brothers and sisters,|sd
+B|Oh.|b
+A|and they have, we have thirteen grand,|sd
+A|well his parents have thirteen grandchildren.|sd
+B|Uh-huh.|b
+A|So it's, uh, you know, there's a lot of kids in the family|sd
+A|and, and he really enjoys it.|sd
+B|Yeah,|b
+B|yeah.|b
+A|But, uh, right now it's kind of a difficult time,|sd
+A|but ...|%
+B|Yeah.|b
+A|And, and the cost of living here is just so tremendously, you know, outrageous|sv
+B|Yeah,|b
+B|yeah.|b
+A|Um, it's difficult, uh, to do it any other way.|sv
+B|Yeah,|b
+B|I understand.|sd
+A|Yeah.|b
+B|I'm, I, you know|%
+B|it's, it's hard because, you know,|sv
+B|then you're not getting to spend as much time with, at home,|bf
+B|I mean your husband is not getting to spend as much time at home as he'd want to.|bf
+A|That's right.|aa
+B|So, yeah,|b
+B|that that's a tough situation,|sv
+B|but then, then again, you know, some,|%
+B|you got to do what you got to do, you know to get along, too,|sv
+A|Yeah.|b
+B|so.|%
+A|Yeah,|b
+A|yeah,|b
+A|at least, I, I just consider myself blessed that I can stay home|sv
+A|It, uh,|%
+B|Uh-huh,|b
+B|well like I said my wife normally feels that way,|sd
+B|there are days when, uh, I come home and she says here take these kids,|sd
+B|I'm getting out.|^q
+A|I know|ba
+B|So she's, she's had about enough during those days,|sd
+B|but. But, for the most part, I, you know, I've really feel like that's led,|sv
+A|I know.|ba
+B|the way that, you know,|%
+B|like what you said with the cost of living and everything, I think a lot of people can't afford to get by on just one salary an and won't.|sv
+A|Yeah.|b
+A|Yeah.|b
+B|And so I think that's tended to lead to a decline in, in families and family values especially.|sv
+A|Oh yeah,|aa
+A|it has.|sv
+B|And I really think that that's one of the problems the nation's facing that, you know, we need to do something about,|sv
+B|but I don't know what.|sd
+A|I believe that too,|aa
+A|and I think, uh, the kids are where they need to, you know,|sv
+B|Yeah.|b
+A|they need to really focus on the children in the in this country.|sv
+B|Yeah.|b
+B|Would, would you have said that a couple of years ago, do you think?|qy
+A|No,|nn
+A|I didn't, I didn't even really think about it that much, I mean, you know,|sd
+B|Uh-huh.|b
+A|I, I was aware, vaguely aware of it,|sd
+A|but, um, I didn't it wasn't really that important to me,|sd
+A|and, uh, ...|%
+B|Uh-huh,|b
+B|it's amazing how your whole focus on life changes after you've had a child.|sv
+A|Oh, it, it really does,|aa
+A|I,|%
+A|just the whole, uh, you know,|%
+A|seeing how you really are are, are forming this, you know, the mind|bf
+B|Uh-huh.|aa
+B|Well, you know, in the next year or so, you'll see so many instances where, you know, he'll mimic something that you've done,|sd
+B|and you see, you know, everything I'm doing, he's learning from.|sv
+A|That's right.|aa
+B|And, and, you think, if I wasn't here he'd be learning that from a baby-sitter or from a day care.|sd
+A|Yeah.|b
+B|You know, that's how they're developing their patterns.|sv
+B|And I think a lot of people either, don't care, or don't realize it, you know.|sv
+B|That's,|%
+A|Or, or they just put it in the back of their mind and let it slide.|^2
+B|Yeah.|aa
+A|I, I've seen a lot of people just say well, you know, he'll learn everything when he gets into, uh, you know,|sd
+B|Yeah|b
+B|eventually.|^2
+B|Yeah,|aa
+B|it's true.|sv
+A|but it, um,|%
+A|I, I know,|sd
+A|even just this first year, that I've been with, uh, my son, here, um, he's,|sd
+A|I can just see how much, of, of a difference it makes staying home with him, instead of, uh,|sd
+B|Uh-huh,|b
+B|Yeah.|b
+B|Yeah,|b
+B|plus, plus I think it becomes part of part of you too,|sv
+B|I mean, you get to stay home,|sd
+B|I mean it's not just for him,|sv
+B|but it's also for you, because you're both kind of bonding together there too, I think,|sv
+B|so.|%
+A|Yeah,|aa
+A|that's true.|sv
+B|Well it's been nice talking to you.|fc
+A|Well it's nice talking to you, too.|fc
+B|Okay|fc
+B|good luck.|fc
+A|Okay.|fc
+B|Okay,|fc
+B|good-bye.|fc

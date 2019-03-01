@@ -1,0 +1,156 @@
+A|Okay.|fo_o_fw_"_by_bc
+B|All right.|fo_o_fw_"_by_bc
+B|What, uh, what kind of camping is there in Texas?|qo
+A|Well, there, there are quite a few, um, parks, I guess, state parks,|sd
+A|and there's a couple of national parks, I guess, that you can camp at.|sd
+B|Uh-huh.|b
+A|Um, most of them have pretty good facilities.|sd
+A|I don't know if the camping that I've done is really roughing it without a, a whole lot of stuff.|sd
+B|Yeah.|b
+B|So, you do, uh, like backpacking and the like?|bf
+A|Uh, done a little bit of that, mainly just, um, like camping out at the state parks,|na
+A|I've been to a couple in Texas|sd
+A|and there's some real nice ones in Arkansas.|sd
+B|Uh-huh.|b
+A|Um, I think Arkansas has one of the best parks departments around.|sv
+B|Huh.|b
+B|Is the Ozarks in Arkansas?|qy
+A|Uh-huh.|ny
+A|Yeah,|ny
+A|part of them are.|sd
+B|Yeah,|b
+B|so, that's probably a pretty nice place to go|qy^d
+A|Yeah,|ny
+A|they've got, uh, real nice lake system, and, around their parks.|sd
+A|One of them, uh, the gray , I think that's one of the ones we've been to, it's real nice there, a bunch of lakes around it,|sd
+A|there's a golf course and, um, just a whole bunch of camping sites.|sd
+B|Yeah.|b
+A|What about you,|qo
+A|where have you, uh,|qw
+B|Oh, I've been camping for years, not on a regular basis|sd
+B|but, uh, I first started camping out in the desert in California. And then sometimes in the mountains also in California|sd
+A|Uh-huh.|b
+B|and, uh, then I moved to North Carolina|sd
+B|and I, I didn't camp for a long time,|sd
+B|and then I started to, uh, go camping again kind of in conjunction with white water rafting,|sd
+B|so, I'd go up somewhere and camp overnight and then do some rafting.|sd
+A|Uh-huh.|b
+B|And then maybe camp another night and drive home.|sd
+B|And that was, uh, that was pretty good|sd
+B|so, I went out and bought a whole bunch of camping gear|sd
+B|and, uh, you know, I still do it once in a while.|sd
+A|Yeah,|b
+A|I think we've collected stuff off and on over the years.|sd
+A|The more times we did it, the more serious we get about it.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|Where, where is Raleigh, in North Carolina?|qw
+B|Uh, well, it's, it's, uh, in terms of north, south I would say it's, uh, a little, a little more towards the northern border of the state and pretty much in the eastern half of it.|sd
+A|Okay.|bk
+B|So what|%
+A|Are you kind of away from the Blue Ridge Mountains,|qy
+B|Well, it, it's, uh,|no
+A|an area.|%
+B|actually the, the Blue Ridge in Virginia are closer to Raleigh.|sd
+B|They're about three hours away if you go due north.|sd
+A|Uh-huh.|b
+B|Um, of|%
+B|the Blue Ridge in North Carolina I think are much nicer|sd
+B|and you can pick those up going west,|sd
+B|but then you're talking about six to eight hours.|sd
+A|Yeah.|b
+B|The way it works.|sd
+B|But, um, it's a real, it's a real nice place to go and camp,|sd
+B|and there's some pretty decent campgrounds although , I don't think Raleigh, I don't think the state of North Carolina takes,|sd
+B|they probably just don't spend as much money as a lot of other states might.|sv
+A|Uh-huh.|b
+A|Yeah,|b
+A|my wife's from the western part of Virginia,|sd
+A|we've been down the parkway a lot,|sd
+A|but I didn't know how much, how much camping areas there were along there.|sd
+B|I think there's quite a few.|sd
+B|I can't say I've checked them all out though.|sd
+A|What, what's it like camping in the desert and California,|qo
+A|that seems, like a challenge.|sv
+B|It's, uh, it's actually kind of incredible,|sd
+B|it's really, really nice.|sd
+B|Um, I like it better than almost anything I've ever done.|sd
+B|Just the sky is so amazing.|sd
+B|You know, you really can probably count thousands of stars,|sd
+A|Uh-huh.|b
+B|and, uh, it's, it's just kind of nice.|sd
+B|I like the, uh,|sd
+B|I think the desert has a rare kind of beauty which, uh, a lot of people don't realize,|sd
+B|you know, they hear desert|sd
+B|and they think of scorpions and snakes and sand and being real dry, and lack of water,|sd
+B|course it, it has all of those qualities|sd
+B|but it also has a certain quality of beauty that you just don't find anyway else except in a desert.|sd
+A|Uh-huh.|b
+B|So, it's pretty nice.|sd
+B|The, uh, the movie, THE DOORS, has some nice desert scenes,|sd
+B|those guys all go camping out in the desert.|sd
+A|Yeah.|b
+B|Of course, they drag a lot of drugs with them|sd
+B|but, um, the, uh, the shots are, are pretty nice|sd
+B|and it's sort of like that,|sd
+B|I mean, it's just almost surreal, in some places.|sd
+A|Huh.|b
+B|It's very pleasant.|sd
+A|Are the temperatures real extreme there|qy^d
+A|or the, the,|%
+B|They can be,|na
+B|yeah.|ny
+B|I mean, you got to, you sort of have to choose your season carefully and know what's going to happen.|sd
+A|Uh-huh.|b
+B|I've been camping in Death Valley,|sd
+B|one doesn't go in July|sd
+A|Yeah,|aa
+A|true.|ba
+B|But it's beautiful in February.|sd
+A|Yeah.|b
+B|I mean, it's just beautiful.|sd
+B|The days, get up into the high eighties, uh, maybe the nineties|sd
+B|but it's, it's quite bearable|sd
+B|and then the nights are reasonably warm, you know, sixties or seventies.|sd
+B|It's just great.|sd
+B|It's really very nice.|sd
+A|Yeah,|b
+A|we've talked about planning a trip up through, um,|sd
+A|I have a sister-in-law that lives in New Mexico, up through New Mexico and into Colorado and the Grand Canyon area.|sd
+A|I don't know, don't know when I'm going to get a chance to do that|sd
+A|but,|%
+B|Yeah.|b
+B|Well, that would be, that would be pretty nice.|sd
+B|I've been, I have been camping on the south rim the Grand Canyon.|sd
+B|That's okay.|sd
+B|A lot of people like to go down and camp down inside,|sd
+B|I was just too lazy that trip to do all that walking, especially with my gear.|sd
+A|Uh-huh.|b
+A|I'll bet .|ba
+A|That one, one thing you said about the stars is really true|sd
+A|it's,|%
+A|when you're close to a big city like Dallas, the, the lights kind of wash, wash off the star|sd
+B|Oh, yeah.|b
+A|so it's nice to, to get away.|sd
+A|It's just amazing, how, how much you miss.|sd
+B|Yeah,|b
+B|it,|%
+B|Yeah,|b
+B|it,|%
+B|yeah,|b
+B|it really is.|sd
+B|I mean, I don't think I ever see the Little Dipper,|sd
+B|you hear people talk about the Little Dipper.|sd
+A|Huh Uh-huh.|b
+B|But I don't think I ever see it except when I go get out of the city and go camping in the desert or in, in the mountains.|sd
+B|Otherwise it's just too faint|sd
+A|Well, I guess we've talked as much as we need to on the subject.|sv
+B|Yeah,|aa
+B|I think we fulfilled our obligation.|sv
+B|Well, thanks for calling,|fc
+B|nice talking to you.|fc
+A|Yeah,|fc
+A|it was good talking to you Robert .|fc
+B|Okay,|fc
+B|bye-bye.|fc
+A|Bye-bye.|fc

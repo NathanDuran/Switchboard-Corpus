@@ -1,0 +1,145 @@
+A|We're supposed to talk about crime in the city.|sd
+B|Uh-huh.|b
+A|And, uh, seems like all big cities have plenty of that nowadays, doesn't it?|qy
+B|Well, uh, I,|%
+B|that's,|%
+B|sure.|na
+B|Uh, I, I think it's|%
+B|statistics, obviously, vary greatly.|sv
+B|I always thought of Dallas as being a fairly safe place.|sv
+A|Well, it is,|aa
+A|but our crimes up here, uh, as I think it must be in most cities now,|sv
+A|but, uh, I was listening to the news the other day|sd
+A|and they said they thought a lot of it, the reason it was up so was because of the, uh, so many people are without work nowadays,|sd
+A|economy's so bad|sd
+B|Do you really believe that?|qy
+B|I mean, it, it's been up every year for many years|sv
+B|and the economy hasn't been, this bad for so long, has it?|qy
+A|That's a good point|ba
+A|That's just what they quoted over the news.|sd
+B|Yeah.|b
+A|I don't know if I believe that or not,|no
+A|but, it, it does seem up|sv
+A|and,|%
+B|What kind of newspaper do you get down there?|qw
+A|What kind?|qw
+B|Yeah.|ny
+A|Well, we got a, I think we got a pretty good newspaper.|sd
+A|Uh, we have two, the MORNING NEWS and the, uh, TIMES HERALD.|sd
+B|Uh-huh.|b
+A|MORNING NEWS seems to have the largest circulation.|sd
+A|I think it's a pretty good,|sd
+A|it's a locally owned paper.|sd
+B|Uh-huh.|b
+A|The HERALD is owned, I think, by the TIMES out of, uh, L A, or somewhere.|sd
+B|Yes.|b
+A|But,|%
+B|do they, do they play up the local crime angles|qy
+B|or or do they,|%
+A|Well, they don't,|ng
+A|no,|nn
+A|not really, uh,|sd
+A|they don't play it up, I don't think.|sd
+A|Uh, but there, there is too much of it, you know, uh too many homes broken into.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|We had our, our, fact about, uh,|%
+A|last year sometime our home was broken into.|sd
+B|Really?|bh
+A|We,|%
+B|So this is a topic of personal interest.|qy^d
+A|Yeah,|ny
+A|we, uh, uh,|%
+A|I didn't think ours ever would be burgled into, burgled,|sd
+A|but, so many in our neighborhood had been,|sd
+A|and, uh, because we live on a corner and back up to a real, uh, highly traveled main street.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|But, uh, we were, so, uh,|%
+B|So, so you saw this happening in your neighborhood|bf
+B|and you figured it wouldn't happen to you.|bf
+A|Sort of, yeah.|aa
+A|And I never did get a security system,|sd
+A|but since that happened, I certainly have.|sd
+B|Yeah,|b
+B|what kind of system do you have?|qw
+A|It's, uh, uh, I guess excuse me, just a standard. Uh, with the, uh, all the doors and the, uh, infrared thing, you know, motion detector. Pretty standard.|sd
+B|Uh-huh.|b
+B|Is, Is this, is this one with some company that, that services you and takes your calls and all that stuff?|qy
+A|Yes,|ny
+A|yes.|ny
+A|It's monitored and all that.|sd
+B|Yeah.|b
+A|And,|%
+B|Well, is that a necessary feature to have somebody, you know, at the other end of the line|qy
+B|or is it enough just to have a thing that makes loud noise?|qrr
+A|I think, uh, the thing that makes a lot of noise would, would suffice.|sv
+B|Yeah.|b
+A|I really do.|sv
+A|But, uh, this deal that was part of it for, you know, three years or so to pay the unit off or whatever.|sd
+B|Yeah.|b
+B|Uh-huh.|b
+A|And, uh, but it, uh,|%
+A|the monitoring is not that bad, though|sd
+A|because, uh, uh, we've goofed it up, you know,|sd
+A|several times you'll hit the wrong key, not intentionally or something|sd
+A|and and they call back pretty quickly,|sd
+A|so I guess it's, you know, I think it's all right.|sd
+A|But I,|%
+A|to answer your question, I think, uh uh, I think, uh, that is a pretty good deterrent in itself,|sv
+B|Yeah.|b
+A|whether it,|%
+B|so you got a sign up there that says you got this alarm system|qy^d
+A|Uh-huh.|qy
+B|And what if a burglar comes along and cuts your phone line?|qw
+A|Well, it's got a back up system that doesn't work supposedly. uh, that if it's cut supposedly it notifies them anyway Supposedly.|sd
+B|How does it do that?|qw
+A|Who knows, you know.|no
+A|But that's a selling point.|sv
+A|And I think they're probably, I think it probably does these things or supposedly pretty good.|sd
+B|Uh-huh.|b
+A|Boy, they sure advertise them, you know, so many of them nowadays.|sv
+B|Sure.|aa
+A|But, uh, well don't, don't you all have a pretty high crime rate up there?|qy
+B|Well, yeah, uh,|ny
+A|I'm not saying it's any higher than anybody else's.|sd
+A|Down here, we seem to,|sd
+A|or, or not here,|%
+A|but the statistics seem to say that.|sv
+A|I don't know.|h
+B|I, I think it's the murder capital of the country now.|sv
+A|Is that right?|bh
+B|Yes.|ny
+A|I would gather probably from drugs.|sv
+B|Absolutely.|aa
+A|And I think that's the reason it's so high everywhere.|sv
+B|Yeah.|b
+A|But, I don't think there's anyplace,|sv
+A|used to,|%
+A|years ago, you thought, well, these little small cities and all, wouldn't have that problem,|sv
+A|but they do.|sv
+B|Yeah.|b
+A|We've had relatives that their children were just as involved in it, uh, as anyone, you know.|sd
+B|so, what's the solution?|qh
+A|That's a good question.|ba
+A|I don't know,|no
+A|I don't know what the solution is.|no
+A|I really don't.|no
+B|And all these politicians make, make hay over, you know being anticrime,|sv
+A|Yeah.|b
+B|but they haven't seemed to have changed anything.|sv
+A|Yep.|b
+A|and nothing seems to change.|sv
+A|And, uh, I'm not sure that anything will because these, if something could happen to make these people not want to buy it|sv
+B|Uh-huh.|b
+A|uh, but, they want to buy it,|sv
+A|so,|%
+B|Yeah.|b
+A|Supply and demand.|sv
+A|Long as somebody wants to buy it, somebody going to provide it for them|sv
+A|So, I don't know, I don't got, you know, I don't know what the solution is,|sd
+A|I really don't|sd
+B|Yeah.|b
+A|I don't think anyone does, in fact.|sv
+B|Yeah,|b
+B|what,|%

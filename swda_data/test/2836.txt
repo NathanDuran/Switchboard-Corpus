@@ -1,0 +1,225 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|Uh, far as, you know, crime in the cities, I'm sure, like in yours it's pretty, pretty bad.|sv
+A|Uh, probably the biggest thing we've got going now is the robberies|sv
+A|and theft and probably murder are the two top ones that we have.|sv
+B|Uh-huh.|b
+A|How about you?|qo
+B|Uh, well, I don't actually live in the city,|h
+B|but I'd probably say that's roughly right.|aap_am
+B|I mean crimes against property seem to outnumber crimes against life,|sv
+B|but I, I think with the current war on drugs and all this kind of stuff I'd say probably the police department would claim the number one crimes, crimes are probably solicitation of prostitution, uh, and sale of drugs.|sv
+A|Uh-huh.|aa
+A|probably right, if you look at it from that stand point.|sv
+B|Uh-huh.|b
+A|What, uh,|%
+A|is there anything, uh, that you particularly are concerned with in your particular area as far as security and that sort of thing?|qy
+B|Uh, where I live now it's, it's not so bad.|sd
+B|I mean I can basically leave my front door unlocked and not have to worry about it.|sd
+B|Uh, but I do have friends that live in the city|sd
+B|and I think that they get a lot of fallout from this war on drug thing. Uh, just because there are, like, crack houses, you know, on their street and stuff like this.|sv
+A|Uh-huh.|b
+A|Do you live in a real small town or, or out in the country?|qy
+B|I live out in the country,|sd
+B|yeah.|%
+A|How far out from the city, I mean, do you,|qw
+B|I'm about fifteen miles out.|sd
+A|About fifteen miles.|b^m
+A|I live in a little suburb, uh, which is, I guess from Dallas is twelve miles or so|sd
+B|Uh-huh.|b
+A|but it's pretty congested.|sd
+A|We are considered in the country,|sd
+B|Um.|%
+A|but it doesn't really feel like you're in the country.|sv
+B|Um.|%
+A|Our major crimes in our immediate town, uh, is probably robberies, house robberies and very few instances of, you know, alcohol, drugs, uh, reported.|sv
+B|Uh-huh.|b
+A|However, I'm sure they're there.|sv
+B|Uh-huh.|b
+A|But, uh, right now our neighborhood is running about, uh, eighty percent of the homeowners have been robbed, sometime during their, their, uh, existence in that neighborhood.|sd
+B|Wow.|ba
+B|That's huge .|sv
+A|And since that time everybody's got some sort of burglar system or, you know, uh, burglar alarms uh, and including the out, uh, the outer perimeter type, uh, devices, sensors and things like that.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|It's cut back, you know, considerably,|sd
+A|but it, it just shifts it from our neighborhood to another neighborhood to other neighborhood,|sv
+A|so it still, uh, remains city wide, pretty, pretty high.|sv
+B|Are there, are there any theories on why this is happening?|qy
+A|Uh, I would say the majority of it's happening during the day, uh, between probably ten in the morning and three in the afternoon.|sv
+B|Uh-huh.|b
+A|Most,|%
+B|But why?|qw
+B|Why is it happening?|qw
+A|Well, most families, most families are young|sd
+A|and both people are working.|sd
+B|Uh-huh.|b
+A|So they're happening during the hours they're gone from work.|sd
+B|Uh-huh.|b
+A|Uh, so, uh, I would say that's probably their prime motivation.|sv
+A|They'll, they'll stock your house and, uh, look at your pattern and then go from there.|sv
+B|So they're professionals?|qy^d
+A|Uh, they classify most of them as professionals.|na
+B|Um.|%
+A|Uh, you get a few of them that are a little bit sloppier, uh, just taking, uh, you know, just junk items that they, they can just get, you know, ten to twenty bucks for real quick.|sd
+B|Uh-huh.|b
+A|Probably the biggest items that, uh, that you get in our neighborhood, or, would be the high classed automobiles,|sv
+A|the, you know, Mercedes, Volvos, things that they can get, you know, big dollars for and the jewelry are the major targets,|sd
+B|Uh-huh.|b
+A|guns, that sort of stuff.|sd
+B|Um.|%
+A|Very few, you know, penny, penny ante stuff.|sd
+B|Well, what do you think can be done to reduce that sort of crime?|qw
+A|Well, uh, the police force, for one,|sv
+A|I think they could, uh, definitely add to the police force and the type equipment that they use.|sv
+A|Uh, it's,|%
+A|oh, right now I think, we are about thirty thousand people|sv
+A|and there's only eight officers that patrol for thirty, for that amount of people which is not very many.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|Right.|b
+A|And,|%
+B|But, I mean, that's going to tend to,|sv
+B|I mean it seems to me that sort of approach will tend to simply make the cost of committing the crime slightly higher|sv
+B|in other words, you've increased the probability of somebody being caught a little bit.|sv
+B|The real question is how do you convince people not to commit such crimes in the first place.|sv
+A|Well, the,|%
+A|course in our particular state, uh, we have the prison overcrowding, whatever,|sd
+A|so they're giving the early release, uh,|sd
+B|Right.|b
+B|They're doing that in our state, too.|sd
+A|Yeah,|b
+A|and, and it's,|%
+A|I think what they need to do is stop building more jails and start giving stiffer sentences, uh,|sd
+A|but for the,|%
+B|So you think that would be a deterrent?|qy
+A|That would be, certainly be a deterrent.|na
+B|Uh-huh.|b
+A|And, uh, not necessarily, you know, give in to their, uh, human rights desires.|sv
+A|You know, if they're overcrowded, just keep cramming them in there till they just suffocate. Uh,|ad
+B|Well, what about an innocent person who happens to have been found guilty?|qw
+A|Uh, I think they'd have to go to extra measures to make sure a person's guilty, you know, in a lot of cases.|sv
+A|Course, I, I know you can't be a hundred percent foolproof.|sv
+B|Right.|b
+A|Uh,|%
+B|So you'd, you'd rather see it harder to convict somebody.|bf
+A|I'd rather see it a little bit harder and have a little bit more evidence, uh, to convict somebody|aa
+B|Uh-huh.|b
+A|and then those convicted, especially of, you know, murder and, and, uh, you know, major crimes, uh, to reach the life sentences and, you know, death penalties and follow-through with that.|sd
+B|Uh-huh.|b
+B|Huh.|%
+A|Uh, especially, you know, in the case of murder|sd
+B|Right.|b
+A|uh, I know in my case, I, my wife and daughter were kidnapped, during a house robbery back in eighty-five|sd
+B|Oh, wow.|ba
+B|Oh, my goodness.|ba
+A|and we caught, the individuals got caught,|sd
+A|we, uh, we went through the court system and all that sort of thing|sd
+B|Uh-huh.|b
+A|and, uh, you know, two counts of kidnapping, uh you know, the, the forty-five to the head, you know, just the, the mental anguish and the whole nine yards uh, you know, the guy only got five years.|sd
+B|Uh-huh.|b
+B|Right.|b
+B|Wow.|ba
+A|And, you know, he was out within two months because of the parole system.|sd
+A|So what, what,|%
+B|Did you, did you sue him under the civil system?|qy
+A|Do what now?|br
+B|Did you sue him under the civil system?|qy
+A|no.|nn
+A|I'm not real familiar with that.|sd
+B|Well, you could probably sue him for mental anguish or something, right, and try to get money from him|sv
+A|Oh.|b
+B|and,|%
+A|Well, the insurance companies and all that tried to, tried to go after him|sd
+A|and they said, well, you know, he, they're, he has no job,|sd
+A|he has nothing,|^q
+A|there's nothing that he has that, that you could go after.|^q
+B|Yeah.|b
+B|Makes you wish that had, uh, still had indentured servitude, for this sort of thing.|sv
+A|Yeah.|aa
+A|Uh, very|%
+B|But they give the guy a job in prison and make him pay his damn debt.|sd
+A|Yeah.|b
+A|They don't do that here.|sd
+A|Course they pay them,|sd
+A|but they don't, you don't,|%
+A|you or the insurance companies never see any of that money.|sd
+B|Yeah,|b
+B|that's too bad.|ba
+A|And, uh, you know, and they're right now they're reluctant to go after him because they're, you know, they're, they're repeat offenders,|sd
+A|they, uh, been in jail before|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|they've been released, you know, several times, which is another, uh, deal I hate to see.|sv
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|But, uh, you know, basically the guy commits, you know three major crimes and, and, uh, and car theft on top of it, destroys my car,|sd
+B|Yeah,|b
+B|I, I think that's|sv
+B|Yeah.|b
+B|Yeah.|b
+A|and we're out, you know, uh, you know, fifteen thousand dollars|sd
+A|and, you know, the guy gets out in two months|sd
+B|That's awful|ba
+A|and he goes out and commits it again.|sd
+A|Fact, he's back in jail now.|sd
+A|So, what, what, uh,|%
+B|Gives you sympathy for the vigilantes.|sv
+A|Yeah.|aa
+A|What, what deterrent does he really have?|qh
+B|Yeah.|b
+A|Yeah,|b^m
+A|I think in our, in our particular neighborhood, vigilantism is becoming a real, real possibility.|sv
+B|Uh-huh.|b
+A|Uh, we've had a couple instances where break ins where the people have actually, you know, shot the people|sd
+B|Oh, my God.|ba
+A|and, uh, return offenders have,|sd
+A|they've actually waited for them, where they've robbed, you know, particular neighborhood,|sd
+A|they'll rob one house,|sd
+A|then other people will wait up, you know, and wait for somebody to do something else, try to take it in their own hands.|sd
+B|Right.|b
+A|Course it doesn't always work out in their favor.|sd
+B|Right.|b
+A|But, uh, nevertheless, I think people are just getting fed up and saying, you know, you can't arrest all of us,|sd
+B|Uh-huh.|b
+A|you can, you know, you can get some of us,|^q
+B|Right.|b
+A|you can't get all of us.|^q
+B|Uh-huh.|b
+A|Uh, and we're beginning to see more and more of that.|sd
+B|And that, that's a deterrent, too. If you think the home owner might be armed, right, and awake|sv
+A|Yeah.|b
+B|here you break in,|sd
+B|and you're going to get shot.|sd
+A|Yeah,|b
+A|that's, I mean that's certainly a possibility in, in,|sv
+A|we have had a few cases where the guy has broken in, you know, during the middle of the night and gotten himself shot to death.|sd
+B|Uh-huh.|b
+A|And, uh, it helps for a while|sd
+B|Uh-huh.|b
+A|but then just another different set of people come in,|sd
+A|and most of the people are transients from out, outside of the state.|sd
+B|Huh.|%
+A|Uh, I would say probably eighty percent of them that are caught, they're from places like up in Oklahoma, and Louisiana, Arkansas, you know, across the, the border.|sv
+B|Wow,|ba
+A|So, you know, people who don't readily read the newspapers in our town or whatever|sd
+B|Uh-huh.|b
+A|it's not many from the local communities.|sv
+B|Uh-huh.|b
+A|But, uh, it's a problem,|sv
+A|and I, I just, I think that the court systems need to be more accurate in, in, stiffer in their penalties,|sv
+B|Yeah.|b
+A|would be a definite deterrent|sv
+A|and, and, uh, giving the, uh, police, uh, agencies a little bit more jurisdiction over what they do when they, when they catch these people.|sv
+B|Yeah.|b
+B|Uh-huh.|aa
+B|I mean, I, I tend to agree with you.|aa
+B|I think, uh, what I would like to see is, number one, completely getting rid of these victimless crimes. Uh, there's no reason to enforce those and spend time and money doing it and, and worry about these things where people are getting hurt.|sv
+A|Right.|b
+B|And I think one of the big things that you can do is, to increase deterrence is, uh, if someone is found guilty of a, uh, felony level offense, they lose their citizenship.|sv
+B|And they lose their constitutional rights. You know,|sd
+A|Uh-huh.|b
+B|and just a lot of things that we're trying to worry about, you know, protecting these people from, we just don't protect them.|sv
+A|I know like in my wife's case, they made her feel like the criminal.|sd
+B|I know,|aa
+B|and I think, I think that's ridiculous.|sv
+A|They, they went to all, all ...|%

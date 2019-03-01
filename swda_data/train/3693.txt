@@ -1,0 +1,122 @@
+A|Nancy, do you have any children?|qy
+B|Yes,|ny
+B|I have a twelve year old,|sd
+B|and I've been very lucky.|sd
+B|I haven't needed child care except for my mom.|sd
+B|So I've been real lucky.|sd
+A|Oh.|b
+B|I'm a nurse,|sd
+B|I go to school, I mean, I go to work early,|sd
+B|so my mom comes over in the morning and gets her ready for her school or just hangs by while she gets ready|sd
+A|Well, that's nice.|ba
+B|drives her to school,|sd
+B|then I'm home to pick her up.|sd
+B|So I'm very, very lucky|sd
+A|That is lucky.|ba
+A|Well, how old, um, does a child have to be before you have to, you get to stop making arrangements for him, I wonder.|qw^d
+B|Well, I could do it now.|sd
+A|Uh-huh.|b
+B|But she gets lonely in the morning,|sd
+A|Uh-huh.|b
+B|and I feel better.|sd
+B|Um, she has a crazy father out there somewhere that I just don't let her out of my sight.|sd
+B|So, um  you never know.|sd
+A|Well, and, um,  it's nice for them  not to be alone.|sv
+B|Yeah,|aa
+B|yeah,|aa
+B|she feels that way, you know,|sd
+B|and we have a neighbor on the next block that she could always walk over there and go to school with,|sd
+A|Uh-huh.|b
+B|but we just feel better doing it this way.|sd
+B|So.  I don't know  what day we'll stop.|sd
+A|Not after|ba
+B|We, we were about to stop one day this year,|sd
+B|and then her father called the school and made all kinds of threats,|sd
+B|and so we didn't stop.|sd
+A|Oh, no.|ba
+B|And so, so, um, you know, you realize that it only takes one second for something to happen.|sv
+B|So even though she's twelve, she's still a kid,|sd
+A|Yeah.|b
+B|so you got to be careful|sv
+A|She is.|ba
+A|Well, I'm glad you have that, um, opportunity to have your mom.|ba
+B|Yeah,|aa
+B|I'm, I'm glad too|sd
+A|Well, I, I have two kids and, uh, five and six, a girl and a boy,|sd
+B|Uh-huh.|b
+A|and, um, so far I haven't had to make a lot of child care arrangements for them because, um, I'm at home now full time.|sd
+B|Uh-huh.|b
+A|But, um, when I was going to school, I would go to school a time that my husband wasn't, you know, when he was at home|sd
+B|Yeah.|b
+A|so that we would just switch back and forth like that.|sd
+A|But, um, it's really scary,|sv
+A|and I would really hate to be in a position to have to find child care|sd
+B|Well, I would, too, because even though a place can look pretty good on the outside, we're finding out now that it's not always on the inside|sd
+A|Uh-huh.|b
+B|and I, I just don't know what I would do if  I had  to do that.|sd
+A|No.|aa
+B|I know the hospital that I work in is a big hospital|sd
+B|and they provide child care,|sd
+B|and of course they charge for it|sd
+A|Uh-huh.|b
+B|but at least all the nurses can leave their children,|sd
+B|and they're always watching them,|sd
+B|they can eat lunch with them,|sd
+B|if they feel sick they can call them at work and they run over and check on them,|sd
+B|and they feel a little better than if they dropped them off somewhere on the way. Yeah, *aa Well that's right. *aa|sd
+A|Oh.|b
+A|Well, that's nice.|ba
+A|And I know that I have, um, done some babysitting myself,|sd
+A|and, uh,|%
+A|when I was in school and needed extra money.|sd
+A|And I know how I feel, how I felt as a provider of child care that, even though you're, you're taking care of someone else's child and you're forcing yourself to, you know, treat them equally and, you know, better, usually, better than your own|sv
+A|um, it's not the same,|sv
+A|and it made me realize that, um, no one will love your child as much as you and your mother, your and, um, the family|sv
+B|Yeah,|aa
+B|right.|aa
+A|and no one will look out, after them,|sv
+A|and I just think, um, so far I think my preference would be rather than to have like a, oh, a big day care|sd
+A|that, um, what is that like, child, Kinder Care and things like that,|sd
+B|Right.|b
+A|rather than having one where they would deliver the children to school in a van or something,|sd
+A|I would prefer to have in home care, either my own home or a neighbor or something.|sd
+B|Yeah.|b
+B|Yeah.|aa
+B|Just never know.|aa
+B|I babysat for the little girl next door for a year or so when her parents first got divorced,|sd
+B|and it was hard to treat her equally with my child.|sd
+A|Uh-huh.|b
+B|They were the same age,|sd
+B|and they played together,|sd
+B|and they were good friends,|sd
+B|but like you said, you tend to go more for the other one's side just because you are responsible|sv
+A|Right.|aa
+B|and so it, it got hard,|sd
+A|It is hard.|bf
+B|my daughter got jealous|sd
+B|and, um, it just wasn't the same as when they were just playing as friends, because she had to be there every day.|sd
+A|No.|b
+B|So I stopped that after a year, because it was difficult to balance it,|sd
+A|No.|b
+B|so.|%
+A|And I know, um, when I pick my kids up from school they want to come home.|sd
+A|And I  and I would hate for them to have, be picked up by a day care and be taken to another large group situation.|sd
+B|They do.|ba
+B|Uh-huh.|b
+B|Uh-huh. Yeah. *b|b
+A|So I think, uh, my preference would be a small, small, if I had to find day care would be a small, someone that I knew|sd
+B|Yeah, and I know that some parents, they both do have to work, *sd|b
+A|Uh-huh.|b
+B|but a lot of people where I live are working just because they want bigger and better,|sd
+B|and I would never do that.|sd
+A|No.  in the day.|aa
+B|I never have done it,|sd
+B|and I just never would do it.|sd
+B|I would rather do without some things that really aren't very important compared to being with my child when they're growing up.|sd
+B|So.|%
+B|No  there isn't,|aa
+B|there isn't any time,|aa
+B|that's true.|aa
+A|And, uh, by the time they have to eat and have homework and they want some free time,|sv
+A|and, there's just not enough to, time in the day to do anything good quality for them,|sv
+A|but that's really,|%

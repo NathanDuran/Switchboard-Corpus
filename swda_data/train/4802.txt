@@ -1,0 +1,112 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|Uh, read any good books lately?|qy
+B|Uh, yes,|ny
+B|I, I've read, uh, several good books lately.|sd
+B|Uh, lot of them related to, uh, business and financial matters since that's what I do for a living.|sd
+A|Oh, okay.|bk
+A|Uh-huh.|b
+B|How about yourself?|qo
+A|Uh, well I'm in graduate school|^h
+A|and so I read a lot of books|na
+A|but I don't know if I consider very many of them good|sd
+A|Uh, I haven't read a book for enjoyment since, I guess, around Christmas.|sd
+A|Uh, I received, uh, uh, several books for Christmas|sd
+A|and at Christmas break I read, uh, SARUM by, uh, uh, a fellow named Rutherford.|sd
+B|Yes.|b
+A|Uh, it's the history of, uh,|sd
+A|well it's sort of the the historical fiction about, uh, the Salisbury area in, in England.|sd
+B|Uh-huh.|b
+A|And so, I, I really enjoyed that book a lot.|sd
+A|Uh, he's not quite as good as, you know, Michener or some of, uh, some of the other historical writers.|sd
+A|But he, he did this job well,|sd
+A|so.|%
+B|Well, that sounds good.|ba
+A|Yeah.|b
+A|Uh, do you find do you find you have much chance to read for, for just pleasure or mostly for business?|qy
+B|No,|nn
+B|I read for pleasure some also.|sd
+B|I read a book recently called IRON JOHN.|sd
+A|Uh-huh.|b
+B|Have you seen that by Bly?|qy
+A|I don't think I have seen it.|ng
+B|Okay.|bk
+B|Well it's a book about, uh, uh, Greek gods and, and Greek, uh, mythology as well as, uh, man and interacting with other men and a book about, uh, men and how they mature through life.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Oh.|b
+B|And  how they deal with life itself|sd
+A|Okay.|b
+A|I think I have heard about that.|sd
+A|Yeah.|%
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Yeah,|b
+A|that sounds great.|ba
+A|Did, did it have something to mention about, uh, sort of, uh, cultural rituals of, of manhood?|qy
+B|Yes.|ny
+A|Okay.|b
+A|Yeah,|b
+A|I have heard of that.|sd
+A|I have, uh, someone suggested that I read it.|sd
+A|Is it IRON JOHN?|qy
+B|Yes.|ny
+A|Okay.|bk
+A|Good.|ba
+B|By Bly,|sd
+B|B L Y, I believe it is.|sd
+A|B L Y?|br
+B|Uh-huh.|ny
+A|Okay.|bk
+A|Great.|ba
+B|And, uh, it's a very interesting book.|sd
+A|Uh-huh.|b
+A|Uh, what are your favorite, uh,|qw
+A|do you have a favorite subject to read, whether it be science fiction or, or history|qy
+A|or,|%
+B|Well, it depends again if we're talking about uh,|^h
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|And I read a lot of books in the area of, uh, uh, psychology and self-help type, uh, materials.|sd
+A|Okay.|b
+B|Uh, always trying to understand people better and understand myself in relation to other people and try to understand where the people are coming from because I'm in a people business.|sd
+A|Uh-huh.|b
+A|Okay.|b
+B|And, uh, so that, that's,|%
+B|my work is my hobby|sd
+A|Uh-huh.|b
+A|That  sounds great|sd
+B|So I, I enjoy it.|sd
+A|Uh, who is your, whose your favorite religious author?|qw
+B|Well, I don't know if I have a favorite uh, religious author.|sd
+A|Uh-huh.|b
+B|I would have to say that, uh, some of the ones that consistently put out good materials, uh, you know,|sd
+B|that, that's difficult because one person might write one book extremely well and some other ones might not write as well.|sv
+A|Uh-huh.|b
+B|Uh, I had to stop here and think a second.|^h
+B|One of the ones that I've read recently that I've read several of his books|sd
+B|and I thought that each one of his books were good.|sd
+B|He's the man out of San Antonio.|sd
+B|And, uh,|%
+A|Max Lucado?|qy
+B|Max Lucado.|sd
+A|Yeah.|b
+B|Max consistently writes good books.|sv
+A|Yeah.|b
+A|Uh, he's a great man.|sv
+A|I've met him several times. Uh,|sd
+B|Yes.|b
+B|I know him,|sd
+B|yeah.|%
+A|Huh.|b
+B|But  uh, there's other authors also that have uh, uh, that write good books from time to time, but not consistently put out the materials all the time|sv
+B|Uh, I'd say another, which is a local writer here in Plano, uh, is, uh,|sv
+B|I'm trying to think of his name.|^h
+B|He's with the Bible church.|sd
+B|And that is, uh,|%
+B|I see his name|^h
+B|but I can't,|%
+B|I mean I see him|sd
+B|but I can't see his name|sd
+B|But he, uh, he talks about, uh, he talks about a lot of different topics|sd
+B|and,|%

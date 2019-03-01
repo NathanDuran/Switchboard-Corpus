@@ -1,0 +1,101 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|looks like we're ready to go.|sd
+A|Capital punishment, uh,|%
+A|the problem I have with capital punishment is that, uh, uh, it's supposed to be a deterrent to crime,|sd
+A|but I don't think that it really actually does that.|sv
+A|I don't think it deters anybody, because most of the time crimes are, uh, are committed with a, without any thought to the consequences|sv
+A|and they don't think that, uh, stop and think and say, well, maybe I shouldn't do this, uh, because, uh, I might get the gas chamber or something like that.|sv
+A|They worry about it afterwards|sv
+A|and then they try and get out of it.|sv
+A|And, uh, how about you|qo
+B|Well, I think that in some cases, it is warranted.|sv
+A|Uh-huh,|aa
+A|I do, too,|aa
+A|yep.|aa
+B|And I don't,|%
+B|I think in some cases it doesn't matter if it's a deterrent or not.|sv
+A|Uh-huh,|aa
+A|yeah,|aa
+A|you still have to do it.|sd
+A|I, I,|%
+B|I mean I mean, I'm thinking of an extreme case like a serial murderer|sd
+A|Uh-huh.|b
+B|or,|%
+A|So you're in, you're in favor of capital punishment, then.|bf
+B|Well, for some things.|aap_am
+A|Right.|b
+B|I think for serial murder it is warranted because if a person who would do something like that in cold blood,|sv
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Needs to be punished or, uh, eliminated from society.|sv
+B|I mean, you can't guarantee that they wouldn't escape from prison and do it again.|sv
+A|Right.|b
+A|And then do it all over again.|^2
+A|Uh-huh.|b
+B|And I don't think that, that rehabilitation is effective.|sv
+A|Right.|aa
+A|Have to agree with you,|aa
+A|and I'm kind of in favor of capital punishment also.|sd
+A|I just don't think that it acts much as a deterrent to these people because, uh, you still see them committing the same crimes,|sv
+A|but, I tend to agree with you that, uh, we should have it|sd
+A|I just, I don't know that it's always effective|sv
+A|but I guess we, uh, we're kind of stuck with it.|sv
+A|It's, it's a difficult, uh, problem, isn't it, to determine how you're going to punish somebody for a particular crime, uh,|sv
+B|But, then, you know, I think that, that some murderers don't really warrant capital punishment. You know, just, like, for example, uh, you know, you hear about cases where women have killed their husbands who abused them|sv
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Right,|b
+A|uh-huh.|b
+B|and I don't think, that would really warrant capital punishment.|sv
+A|Uh-huh,|b
+A|huh. Do you think they should be punished at all, or, uh, like go to prison, uh,|qy
+A|because they're not really a danger to society.|sv
+A|It was almost really self defense, isn't it, in a case like that.|qy^d
+B|Uh it is to a certain extent|na
+A|Uh-huh.|b
+B|but I think,|sv
+B|I don't know because,|h
+A|I know they put, uh, put them in jail sometimes, I guess. Uh,|sd
+B|I think in|sv
+B|and it, just would depend upon the circumstances and, and the extent of the abuse and, and if another alternative was available.|sv
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Um.|b
+A|Uh-huh.|b
+A|You know, now, I wonder what you think about this|sd
+A|and, uh, unfortunately, we, we don't get to do it,|sd
+A|but, uh, it used to be a long time ago, I guess in Biblical times when they had punishment if somebody did something, for example, to your family, then you had the right to administer the punishment.|sd
+A|So if somebody killed somebody in your family then you had the right to, uh, if that person was caught and found guilty, you had the right to, uh, execute that person.|sd
+A|And I know that, uh, if somebody had done something to my family, I would feel that I had the right to, to get revenge on them|sd
+A|and, uh, but, I, I don't think that's done much anywhere|sd
+A|That's kind of drastic punishment.|sv
+B|Well, I think that would be kind of drastic punishment.|sv
+A|Right.|b
+B|And,|%
+A|Might make you feel better|sv
+A|but|%
+B|But, one thing, I think that if there is a chance for rehabilitation then that chance should be investigated.|sv
+A|Uh-huh.|b
+A|Right.|b
+B|But, like I said, if, if someone is, is just pathologically going to murder people no matter what then I think they should be eliminated from society.|sv
+A|Uh-huh.|b
+A|Right.|b
+A|Uh-huh.|b
+A|Right,|aa
+A|because they're a danger to everybody else.|sv
+A|Huh, that's interesting.|sv
+A|I have to, uh agree with that.|aa
+B|But,|%
+A|There's a lot of folks, probably, that are in prison that, uh, that aren't really a danger to society, huh,|sv
+A|and, uh,|%
+B|And a lot of people that are a danger to society that aren't in prison.|^2
+A|Right.|aa
+A|Right,|aa
+A|probably more of them then the other way around|sv
+A|Interesting.|sv
+A|I don't, I don't, not sure|%
+A|I, I'm in Washington, D C or at least very close to it.|sd
+A|I'm not sure what kind of, uh, capital punishment we have here.|sd
+B|Well, I know in North Carolina, we do have capital punishment.|sd
+A|Uh-huh.|b
+B|And I'm I'm from South Carolina.|sd

@@ -1,0 +1,220 @@
+A|what's  your, uh,|%
+B|Uh.|%
+A|are you into the Cowboys?|qy
+B|Oh, God, no|nn
+B|Uh, no,|nn
+B|I'm not,|sd
+B|I haven't been,|sd
+B|I grew up in Dallas but I'm still not a Cowboys' man.|sd
+B|I like Philadelphia Eagles.|sd
+A|Oh, yeah?|qy
+B|Yeah.|ny
+A|Well, that  that's all  right.|ba
+B|That's  my favorite team,|sd
+B|so.|%
+B|Uh,  now that Randall's coming back next season, I hope they'll be, do a little bit better.|sd
+B|They didn't do too bad last season.|sd
+A|Yeah.|b
+B|But, I hope they can do better.|sd
+B|How about yourself?|qo
+A|Well, I don't know.|no
+A|I kind of go back and forth, uh, depending on who's really hot and who's not.|sd
+A|I guess I'm kind of a fair weather fan in  a lot of respects.|sd
+B|Uh-huh.|b
+A|But, uh, I guess if I have, uh, my druthers, I'd probably go for the Seattle Seahawks.|sd
+B|Oh,|%
+A|I kind of like them.|sd
+B|Yeah.|b
+B|That's another one of my favorites.|sd
+A|Yeah.|b
+A|They're kind of,|%
+B|They're not,  they're not my favorite totally.|sd
+B|But I do like them.|sd
+B|I like,|%
+B|yeah.|%
+B|Seahawks are good.|sv
+B|They,|%
+B|now that Steve Largent is gone, I kind of lose a little bit for them|sd
+B|but you know, he,|%
+A|Yeah.|b
+A|To be honest with you, I, I probably watch, uh, college a little bit more than I do pro.|sd
+B|Really?|qy
+A|Yeah.|ny
+B|Huh.|b
+A|I kind of like college  actually.|sd
+A|Quite a bit.|sd
+B|Yeah.|b
+B|That's kind of,  that's kind of strange.|sv
+B|It's too much running for me in, in college football.|sd
+B|I like  I like  the pros.|sd
+A|Is it?|bh
+B|They do, you know,|%
+B|it's more high tech,|sv
+B|more, you know, players are apt to act a little bit different when they, when their jobs and their, when it's a job and not just,  you know|sv
+A|Yeah,|aa
+A|yeah.|aa
+A|That could be.|aap_am
+B|when you're  getting paid millions to do it, you I think they take it to another level.|sv
+A|Yeah.|b
+B|But I can see it's more, you know, grunted out, run the ball type.|sv
+B|College football is a little bit different|sv
+B|but,|%
+A|Yeah.|b
+A|You probably wouldn't like my favorite team in college then.|sv
+B|who's that?|qw
+B|Notre Dame|qy
+A|No.|nn
+A|I root for Nebraska quite a bit.|sd
+B|Nebraska|b^m
+B|Yeah|%
+B|there's a running team.|sd
+B|Yeah.|b
+B|That, that, that's boring for me.|sd
+B|I, I'll take the passing teams any day.|sd
+A|Yeah.|b
+B|But,|%
+A|Well,  I can see, I can see definitely how you get into that.|sd
+A|I, to be honest with you, I find that too much running gets pretty boring as well|sd
+A|and.|%
+B|Yeah.|b
+B|It's just, it's four yards, three yards eight yards, tackle.|sv
+A|Right.|b
+B|That's, you know, it gets kind of monotonous.|sv
+B|After awhile, I, I prefer forty, a nice forty yard flea flicker every now and then just, just  to  juice it up a little bit|sv
+A|Sure.|b
+B|and  but,|%
+A|Well,  I think they're starting to realize that.|sv
+A|A lot of the, like the big eight teams that used to run so much. I think they're starting to realize that they just can't compete anymore.|sv
+B|Yeah.|b
+B|It's high dollar.|sv
+B|You know, it's all, it's all money now.|sv
+B|Even college  is all  can we get on T V|sd
+A|Right.|b
+B|so.|%
+A|Yeah.|b
+B|That's,  that's,|%
+A|So,  uh, what's|%
+A|this World League is coming in?|qy
+A|Uh, that's getting ready to start up, right?|qy
+B|Right.|na
+B|Yeah.|ny
+A|Have you followed that very much|qy
+A|or,|%
+B|Uh, not really.|ng
+B|I, I don't think anything will ever take over the N F L.|sv
+B|I think it's basically, you know, it's, it's an institution.|sv
+A|Yeah.|b
+B|It's like if we tried to start something to take over major league baseball.|sv
+B|It's just, I just, you know.|%
+A|Yeah.|b
+B|I mean, it, it, it can be, it can take over part of it.|sv
+B|But it's never going to be  the next,|sv
+A|Right.|aa
+A|It can  take over a small market  share|sv
+A|but nothing really,|%
+B|Yeah.|b
+B|it's going to take a little bit.|sv
+B|Some people are going to watch it|sv
+B|but it's not going to be wide spread super bowl and every Sunday afternoon or anything, you know.|sv
+A|Right.|b
+B|It's just, it's never going to reach that, that standard|sv
+B|but,|%
+A|Yeah.|aa
+A|I think I agree with you.|aa
+A|It's, it's kind of interesting to see, uh, to see their claim of, you know, like world football.|sd
+A|But, when in reality, it's really Americans playing somewhere else  you know|sd
+B|Yeah,|aa
+B|yeah.|aa
+B|It's kind of, it's kind of strange.|sv
+B|Uh, I guess we're the only ones, who take it that far.|sv
+B|Everybody else still nuts over soccer|sv
+B|but,|%
+A|Yeah.|b
+A|Actually, uh, I kind of like soccer.|sd
+A|I've  never really played it|sd
+B|Yeah?|bh
+A|but, uh, I like the idea.|sd
+A|It's, it's an interesting game to watch.|sv
+A|That and rugby.|sv
+A|I've like to watch, rugby every  now and then.|sd
+B|Yeah|b
+B|or  Australian rules football.|sd
+B|That's,|%
+A|Yeah,|b
+A|whatever you want to call it there.|h
+B|Yeah.|b
+B|That's some brutal stuff there.|sv
+B|That's, that's worse than football as  far as violence I think.|sv
+B|Golly.|ba
+B|Those guys kill each other out there.|sv
+B|Rugby is something else.|sv
+A|Yeah, .|aa
+A|Yeah,|aa
+A|there's an element  there's definitely an element of stupidity in there somewhere|sv
+B|Yeah.|b
+B|That's just wild.|sv
+B|That's why it's a a big college thing.|sv
+A|Yeah|b
+B|Rugby is definitely big in college|sv
+B|because it's something a bunch of fraternity guys can get together and get a good beer buzz going and do|sv
+A|Right,|aa
+A|exactly|aa
+A|Yeah.|aa
+B|So, yeah,|b
+B|I could see the feel for that.|sv
+B|But it's, it's pretty, it's fun to play.|sd
+A|Yeah.|b
+B|I'll give it that.|sd
+B|It is fun to play.  If you don't value your  *listen--missing a word? very much.|sv
+A|You've played it then?|qy
+B|But, you know, I don't think rugby will ever be professional|sv
+B|but  it, it's, it's,|%
+A|No I doubt it,  you know.|aa
+A|Not, at  least not in this country anyway.|sv
+B|No.|aa
+B|You can't stay healthy and do that.|sv
+B|That's a rough game.|sv
+A|Yeah.|aa
+A|It is.|aa
+B|But, uh, I don't know.|h
+B|I don't know how my Eagles are going to do this year.|sd
+B|So you,|%
+B|the, the Seahawks are an up and down kind of team.|sv
+A|They really are.|aa
+A|Yeah.|aa
+B|Yeah.|b
+B|My, my, it's kind of odd. My roommate that I live with here, he's, uh, he's lived in Pennock, Minnesota. *two utts?|sd
+B|Do you know where that is?|qy
+A|Uh, no|nn
+A|I don't.|sd
+A|To tell you the truth, I'm,|%
+B|It, it's a small town.|sd
+B|It's about two hours,|%
+B|it's in like central Minnesota.|sd
+B|It's a couple of hours, uh, west of Minneapolis.|sd
+A|Okay.|b
+B|But, uh,|%
+A|To tell you the truth, I'm not even really from here.|sd
+B|You just live there now.|bf
+A|Yeah.|aa
+A|I'm, I'm up here for a year on an internship.|sd
+B|Uh-huh.|b
+B|Well he's,|%
+A|But I, I actually live in Florida.|sd
+B|Live in Florida.|b^m
+A|Yeah.|aa
+B|Like the Seahawks|sd
+A|Well, you know, I  I mean, who, who   who  the heck is going to root for Tampa Bay, right|qy
+B|Hey,  I, I  I've only been to Philadelphia twice|sd
+B|and I, you know, I, I  still like,|%
+B|Really,|aa
+B|really.|aa
+A|I mean,  I guess I could go for Miami|sd
+A|but I don't know.|h
+B|Yeah,|b
+B|but.|%
+A|I'm from,|%
+A|I root for Nebraska|sd
+A|so I'm, I don't have a real love for Miami anyway.|sd
+A|But, I don't know,|h
+A|I, I guess, I get, into pretty much,|%

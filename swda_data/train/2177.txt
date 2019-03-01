@@ -1,0 +1,179 @@
+A|Cindy, have you seen DANCES WITH WOLVES?|qy
+B|No,|nn
+B|I haven't.|sd
+B|Have you?|qy
+A|Oh, that is a wonderful movie.|na
+B|Uh-huh,|b
+B|it's not,|%
+B|the length isn't too long?|qy
+A|No.|nn
+B|Uh-huh. Well, we all heard different opinions about it.|b
+A|Oh goodness no.|nn
+A|You don't even, you don't even realize it, you know.|sv
+B|Uh,|%
+A|Really.|bh
+B|Uh-huh,|ny
+B|one that, you know,|%
+B|yeah,|%
+B|it was too long|sd
+B|and they thought that, you know, at certain points that it was going to end,|sd
+B|and it didn't,|sd
+B|and it kept going on|sd
+B|and,|%
+B|uh-huh.|%
+A|Oh, I thought it was great.|sd
+B|Really.|bh
+A|Yeah.|ny
+B|Now, I've seen, you know, some different clips of it, um,|sd
+B|and it, it looks good,|sv
+B|it's just I haven't had the time to go to the movies lately|sd
+A|Well, yeah,|b
+A|and I heard a story about there's a, there's a certain scene in the movie where there's, um, where they're, they're on a buffalo hunt.|sd
+B|Uh-huh.|b
+A|And they have a particular child actor, uh, who's, who's being supposedly run down by a buffalo.|sd
+B|Uh-huh.|b
+A|And when they were trying to film that, the buffalo that they used for that scene was Neil Young's buffalo.|sd
+B|Uh-huh.|b
+A|I can't remember what they said his name was.|sd
+A|But he has a fetish for Oreo cookies.|sd
+B|Uh-huh,|b
+B|oh|ba
+A|And he got him to run like he was running down the kid by luring him with oreo cookies|sd
+B|Hey,|ba
+B|that'd work for me,|ba
+B|let me tell you|oo_co_cc
+A|I thought that was really funny.|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+B|Now I've seen another clip of, um, the guy that plays in MURPHY BROWN,|sd
+B|I don't know his name,|h
+B|but he played the, uh, the, the character in it that was very, like, gross, I mean, very dirty,|sd
+A|Oh, yeah.|bk
+B|Oh, I saw the one clip of him|sd
+B|and ugh,|ba
+B|it was first,|%
+B|I guess he was taking Kevin Costner to like the site where he was going to be or whatever.|sd
+A|Oh, yeah.|bk
+B|That was rather, um, gross|sv
+A|Yeah,|b
+A|the wagon, the wagon driver.|sd
+B|Yeah,|aa
+B|yeah.|aa
+B|But other than that I've heard the, the, you know, the, um, the scenery in it is absolutely beautiful.|sd
+A|Yeah.|aa
+A|And, uh, the costuming *slash error yeah, was, *slash error|sv
+B|Uh-huh,|b
+B|really.|bh
+A|the only thing about the costuming my husband remarked that it didn't, that, that, um, the Indians all appeared to be wearing new things.|sd
+B|Oh really.|b
+A|And they should have taken them out and rolled them in the dirt a little more probably to age, to age the material|sv
+B|Uh-huh.|b
+B|Uh-huh,|b
+B|uh-huh.|b
+A|so, they, they did very authentic reproductions of the, of the actual stuff,|sd
+B|The styles,|^2
+B|uh-huh.|b
+A|but they didn't, they didn't age it quite enough it seemed.|sv
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|But it was a very good movie.|sv
+B|Uh-huh.|b
+B|Well, I guess I will have to see it then.|sv
+A|What have you seen lately?|qw
+B|Um, actually have been to the movies, um,|sd
+B|I think the last movie I saw was MISERY.|sd
+A|Oh, I didn't see that.|sd
+B|Oh, very suspenseful.|sd
+A|I don't, I don't like Stephen King.|sd
+B|I really don't either,|aa
+B|but I went with someone,|sd
+B|and once I was there, I couldn't believe.|sd
+B|I mean, it's an excellent movie.|sd
+A|Really.|bh
+B|Yeah.|ny
+A|I wasn't sure,|sd
+A|because, uh, just generally, you know, that kind of scary stuff I, I just don't want to have anything to do with it.|sv
+B|It's not necessarily, it's not necessarily scary as it is suspenseful.|sd
+B|I mean it's not.|sd
+A|Yeah,|b
+A|I think I heard somebody talking about that she cuts his foot off or something, you know.|sv
+B|No,|ar
+B|in, in the book apparently she cuts his feet off,|sd
+B|but in the movie she, she disables him, but not by cutting his feet.|sd
+A|Um.|b
+B|Um, she, she breaks both of his ankles.|sd
+A|Ugh.|ba
+B|And that I couldn't watch,|sd
+B|and, but, you know, you could tell when it was coming.|sd
+A|Yeah.|b
+B|So yeah, um,|%
+B|that was so that he couldn't leave her,|sd
+B|cause she,|%
+A|It still just seems a little twisted to me|sv
+B|Yeah,|aa
+B|yeah Yeah, *b|aa
+A|I'm not sure I would have enjoyed that at all.|sv
+B|well, as far as that goes,|%
+B|yeah,|b
+B|I mean, you wouldn't like to see anything happen to anybody,|sv
+B|but it was just how she got so caught up,|sv
+B|her emotions|%
+A|Yeah.|b
+B|and, you know, and, and she feel madly in love with this writer.|sd
+A|Uh-huh.|b
+B|And there was this,|%
+B|but she was a killer,|sd
+B|and the, the character was, you know, prior to that had, had been someone that had killed other people|sd
+A|Yeah.|b
+B|but no one knew that.|sd
+A|Oh, yeah.|ba
+B|So. But.|%
+B|So, yeah,|%
+B|we just haven't had the time to go to the movies lately,|sd
+A|I know,|aa
+A|we don't see movies at the movies a lot.|sd
+B|Uh-huh.|b
+A|The last,|%
+A|we did go see DANCES WITH WOLVES|sd
+A|and we went to see NOT WITHOUT MY DAUGHTER,|sd
+A|but mostly we wait until they come out on video tape,|sd
+A|and then we rent them|sd
+B|Right,|aa
+B|right.|aa
+B|Now I want to see SLEEPING WITH THE ENEMY. yeah, *aa|sd
+A|Oh, yeah|aa
+A|that looks really good too.|sv
+B|that looks good.|sv
+B|And there were a couple others that I just haven't had the time.|sd
+A|And SILENCE OF THE LAMBS.|sd
+B|Now see I.|%
+A|I'm, I'm intrigued by it,|sd
+A|but I'm not sure I want to go see it yet|sd
+B|Yeah,|b
+B|I don't think I want to see that either.|sd
+B|I know,|%
+B|I don't think I could.|sd
+A|I think, uh,|%
+A|well, now, we had some friends that went to see it|sd
+A|and they said it was okay.|sd
+B|Really.|b
+A|So, it might not be as,|%
+A|I think they may be playing up um, some aspects of the movie that aren't the main aspects.|sd
+B|Really.|b
+B|Uh-huh|b
+A|Now, we went to see the JAGGED EDGE.|sd
+B|Oh, I liked that movie.|sd
+A|Yeah.|bh
+B|Yeah.|ny
+A|So, it's, it seems like, you know, that kind of the thriller suspense and not, not real, um, strange in other ways.|sv
+B|Uh-huh.|b
+B|Uh-huh, um.|b
+B|Well, I guess that's about it.|fc
+B|It was nice.|fc
+A|Okay.|fc
+A|Maybe we'll talk to you again.|fc
+B|Okay,|fc
+B|it was nice talking to you.|fc
+A|Alright.|fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

@@ -1,0 +1,139 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|so you have eight children.|bf
+A|Um, what type of things do you do as a family to spend time together.|qo
+B|Oh, we spend a lot of time outdoors jogging, bicycling, uh, going to the park, um, some time watching V C R movies um, generally cheap things|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Yeah,|b
+A|we know how that goes.|ba
+A|Uh, with lots of kids you don't have lots of money for recreation.|sv
+B|That's right.|aa
+A|Well, that's fun.|ba
+A|So, um, let's see, uh,|^h
+A|some of the things we do together as a family, we like to play games a lot,|sd
+A|and you may think this is funny,|sv
+A|but one of our funnest games we like to play together is hide and seek,|sd
+A|and we just have a hoot playing hide and seek when it's dark in our house,|sd
+B|Yeah.|b
+A|and that is so fun.|sd
+A|The kids just get a crack out of that.|sd
+A|Um, we like, we do like to go to the park, too you, uh, like your family.|sd
+A|Um, we don't do a lot of vacationing.|sd
+A|Have you taken a lot of vacations together|qy
+A|or,|%
+B|Most of our vacations are to go and see Grandma and Grandpa.|no
+A|Uh-huh,|b
+A|and|%
+B|We get an occasional one or two day thing|sd
+A|Oh.|bk
+B|but most of them are going and seeing Grandma and Grandpa.|sd
+A|Oh, now where do they live?|qw
+B|In Arizona.|sd
+A|Oh, so that's a bit of a drive for you there.|qy^d
+B|Yes.|ny
+A|Oh, so you like to go there for the holidays|qy^d
+A|and.|%
+B|Oh, we don't go very often for holidays.|arp_nd
+B|Generally we try to get all of our kids back home for the holidays and let Grandma and Grandpa come and visit us.|arp_nd
+A|Uh-huh.|b
+A|Oh, uh-huh.|b
+A|Uh, what are the ages of your kids then?|qw
+B|They range from twenty-four to five.|sd
+A|Oh, yeah.|b
+A|So you have some in the nest and some out,  huh.|qy
+B|That's right.|na
+B|How old are your children?|qw
+A|We have,|%
+A|ours start at twelve|sd
+A|and then they go down to four.|sd
+B|I think the hardest thing for us has been, is to find you know, leisure time activities that all of our kids can enjoy together with the age span that we have, you know,|sd
+A|I bet,|ba
+A|yeah.|%
+B|like the older kids love playing board games and that kind of thing|sd
+A|Uh-huh.|b
+B|but the young kids don't understand it|sd
+A|Yes,|b
+A|uh-huh.|b
+B|and so they get real frustrated when we try to do that,|sd
+B|and.|%
+A|Yes,|b
+A|and then if you want to play something on the little kids' level, then the older kids get real bored,|sv
+A|and they want to do something else.|sv
+A|So.|%
+B|Yeah.|b
+A|Yeah,|b
+A|I can, I can relate to that.|ba
+A|Um, do you feel that the current trend in families spending time together is a positive one or a negative one?|qy
+B|I think it's improving, actually.|sv
+A|Uh-huh.|b
+B|We had an interesting experience the other day.|sd
+B|We, we have pretty much a, a routine that we spend,|sd
+B|we don't have our kids play with other kids on Sunday|sd
+A|Uh-huh.|b
+B|and we just kind of keep them at home|sd
+A|Uh-huh.|b
+B|and our next door neighbor, uh,|sd
+B|we were at a soccer game Saturday,|sd
+B|and our next door neighbor was there,|sd
+B|and somebody came up and asked if their daughter could spend Saturday night at their house|sd
+A|Uh-huh.|b
+B|and she said, no, Sunday's our family day|sd
+A|Uh-huh|b
+B|and we keep our kids at home so we can spend time with them.|^q
+A|That's good.|ba
+B|And I think those kinds of things are happening a lot where we are right now.|sv
+A|Oh, good.|ba
+B|I think it's gone to one extreme where the families were just running all different direction|sv
+A|Uh-huh.|b
+B|and I think more people are interested in spending time with their kids now.|sv
+A|I think so,|aa
+A|and I feel like, you know, like President Bush, Bush has mentioned quite often, that we are trying to become a kinder and gentler nation,|sd
+A|and it does begin with the families at home|sv
+B|Yeah.|b
+A|and so I, I'm a firm believer in that, too.|sd
+B|I think a lot of people are panicked, how kids are turning out and how things are going for kids and realizing they've got to start doing something.|sv
+B|So.|%
+A|Yes,|aa
+A|that's, that's true.|aa
+A|Well, we see that a lot out here in Utah,|sd
+A|and, um, hopefully, hopefully it's going to spread, huh. .|sd
+B|Utah's a lot better than Texas.|sv
+A|Oh.|b
+A|Um, do you have a lot of large families out there in Texas,|qy
+A|or.|%
+B|Very few.|ng
+A|Very few.|b^m
+A|You feel like you're in the minority?|qy
+B|Oh, definitely.|na
+B|When we tell people how many kids we have they look at us like we didn't have good sense.|sd
+A|Oh, dear|ba
+B|But, uh.|%
+A|Well, out here in Utah, five is about the the average,|sd
+B|Average.|^2
+A|yeah.|%
+B|My wife and I were in Utah until I guess we were about twenty-four.|sd
+A|Oh.|b
+A|Uh-huh.|b
+B|Never been back, since then,|sd
+B|but, We have kids up there now,|sd
+A|Oh.|b
+B|so we get up occasionally.|sd
+A|Oh.|b
+A|Oh, I have some relatives out there in Texas,|sd
+A|in fact my mom's out there in Texas right now, in Dallas, spending a month with her cousins, on their ranch,|sd
+A|and.|%
+B|Where, where in Dallas?|qw
+A|Well, uh, no,|ar
+A|I'm trying, Aberdeen?|t1
+B|Huh.|br
+A|Is, is that close to Dallas?|qy
+B|I don't have any idea.|no
+B|I've never heard of it.|sd
+A|Oh.|bk
+B|Must be a little town.|sv
+A|Don't you.|%
+A|It's, I guess it's out there, clear out.|sd
+A|They have a ranch that has like five hundred acres,|sd
+A|and,|%
+B|Yeah.|b

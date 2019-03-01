@@ -1,0 +1,154 @@
+A|We could talk about my favorite subject|oo_co_cc
+B|Cooking and  food, huh.|qy
+A|Food|arp_nd
+B|What do you like to cook?|qo
+A|Uh, I don't cook a lot actually.|sd
+A|I have just started baking,|sd
+A|so, uh, I am kind of interested in cakes and, uh, muffins and stuff like that,|sd
+A|but I can't seem to get them exactly right.|sd
+A|So, I am just trying to perfect some things.|sd
+B|Uh-huh.|b
+A|I tried to make an applesauce cake. Which I will never ever try to make again.|sd
+A|It was horrible|sd
+B|Oh dear.|ba
+A|I don't know if the cake was horrible or if I made it horrible.|sd
+B|Oh, probably not.|ar
+B|I, uh, have, uh, a bread recipe that is real easy that everyone always really does like. That, uh, doesn't require kneading the dough.|sd
+A|Uh.|b
+A|Oh.|b
+A|Hey|ba
+B|And, it is always, it is wonderful.|sd
+B|It is,|sd
+B|and what is funny is that you use, uh, bran, all bran|sd
+A|Uh-huh.|b
+B|and it looks like it is a wheat bread.|sd
+A|Uh.|b
+B|But, it is actually all bran flour|sd
+A|Uh-huh.|b
+B|and, uh, you know, it is just regular|sd
+B|the type that, you know, yeast and that sort of thing|sd
+A|Uh-huh.|b
+B|and you let it rise|sd
+B|and you can let it rise in the refrigerator and then punch it down, and then, uh, make your rolls.|sd
+B|They really are good|sd
+A|Wow.|ba
+B|and they are so easy to do.|sd
+A|Uh-huh.|b
+B|That is|%
+B|seems like every time that we have a dinner party, or that we are going some place where everybody is suppose to bring something and they have had my rolls before.  They  always ask me to, bring those rolls|sd
+A|Uh-huh.|b
+A|They request it.|^2
+A|I have not gotten any requests yet.|sd
+A|Last year, I had a Christmas party, at, uh, my office,|sd
+A|and I, uh, made the tuna fish sandwiches.|sd
+A|And everyone, uh, I mean, I think, everyone knows how to make tuna fish,|sd
+A|so I thought that would be easy for me to make|sd
+A|and I can not go wrong with that,|sd
+A|and so I made it|sd
+A|and, uh, I used celery seed in my,|sd
+A|Do you use celery seed in your tuna fish?|qy
+B|No|nn
+B|I haven't.|sd
+A|And I just thought it was so strange,|sd
+A|because I never, I thought that that was what celery seed was for.|sd
+A|Was for tuna fish.|sd
+B|Oh, how funny.|ba
+A|And so, but everyone really, really loved the tuna fish|sd
+A|and they just couldn't get over the fact that I used celery in it|sd
+A|and it just surprised me.|sd
+A|Celery and onion and,|sd
+B|Well, see I,  I have always used celery, I mean, I have used celery before.|sd
+A|Uh-huh.|b
+B|But I never used the celery seed in it.|sd
+A|Oh.|b
+A|Yeah.|b
+B|Well, what else do you put in it besides the celery seed.|qw
+A|Just like, uh, really fine onions and green pepper and the celery seed|sd
+A|and I use like, uh, Miracle Whip salad dressing instead of the actual mayonnaise because I really don't like the Helman's Mayonnaise.|sd
+B|Uh-huh.|b
+A|But if you use salad dressing with kind of, uh, you know, kind of, I guess a tart taste. Then it comes out real good.|sd
+B|Uh-huh.|b
+A|But, I, uh, it was the first time I have I have ever found out that the, the, nobody else used celery seed.|sd
+A|I feel so silly|sd
+A|but,|%
+B|See, I have never put bell pepper in tuna fish either.|sd
+A|Yeah.|b
+B|Isn't that funny?|bh
+B|I was brought up with tuna fish, you know, where you put in, uh, oh, chopped hard boiled eggs which is now is a no, no with cholesterol and, uh, you know, chopped up dill pickles. And that sort of thing.|sd
+A|Right.|b
+A|Right.|b
+B|The standard old tuna fish.|sd
+A|Yeah.|b
+A|I would put that too.|sd
+A|I just did not have those things.|sd
+B|Uh-huh.|b
+A|Like I don't think I had eggs that night or something,|sd
+A|but I would have put eggs.|sd
+A|I would have put eggs in there also.|sd
+B|But isn't that interesting?|bh
+B|So you, You, you use bell pepper and onion and celery seed.|bf
+A|Uh, strange.|ba
+A|Celery seed.|^2
+B|I will have to try that.|sd
+A|Do you use a regular mayonnaise or,  The Miracle Whip.|qy
+B|Sometimes I do|sd
+B|and sometimes I use the  Miracle Whip.|sd
+B|It depends on what I have.|sd
+A|Yeah.|b
+B|And  sometimes, if I am using, like, regular mayonnaise, to spice it up a little bit uh, I will use a little bit of mustard with it.|sd
+A|Uh-huh.|b
+A|Yeah.|b
+A|I do that also.|sd
+B|Uh-huh.|b
+A|Just to, to put a little zing in it.|sd
+B|Yeah.|aa
+B|But not a bunch.|sv
+A|Uh-huh.|b
+B|But enough to, make it have a little bit more flavor.|sv
+A|I love barbecue.|sd
+A|Anything barbecued I will eat.|sd
+B|I like, uh, to barbecue baby back ribs.|sd
+A|Uh.|b
+B|And, uh, and, and, they are so easy to do if you, uh, have a good barbecue sauce|sv
+A|Uh-huh.|b
+B|and you, uh, just cook them very, very slowly in the oven.|sd
+A|Uh-huh.|b
+B|And it is not hard to cook, like some meals are.|sv
+A|Yeah.|b
+B|And it is not, of course, it is messy to eat.|sv
+B|That is the disadvantage.|sv
+A|Yeah.|b
+B|And, uh, I make lasagna from scratch|sd
+B|and people really like my lasagna|sd
+A|Yeah.|b
+A|I like to make that too.|sd
+A|I make that once in a while.|sd
+B|and so, uh, sometimes, I am requested to make that.|sd
+B|And that is not too hard to do because you can do it in advanced and just bake it.|sv
+A|It is not really, once you have all the ingredients|aa
+B|Uh-huh.|b
+A|it is just the layering really. And not breaking the, uh, the, uh, pasta.|sv
+B|Yeah.|b
+B|Uh-huh.|b
+A|That is the hardest part probably.|sv
+A|But, uh,|%
+B|Then, I have a wonderful recipe for strawberry pie.|sd
+B|It just takes forever|sd
+A|Uh.|b
+B|But, it is, uh, when the strawberries are nice, and big and fresh and yummy.|sd
+A|Do you make cheesecake?|qy
+B|Uh, uh-huh.|ny
+B|I do.|sd
+B|But this one is basically, it is like a normal pie crust.|sd
+A|Uh-huh.|b
+B|But then you use this sort of, uh,|sd
+B|it is a cream cheese, uh, uh, layering,|sd
+B|but you, use, uh, thin it out a little bit. Uh, or make it a little fluffier|sd
+A|Uh.|b
+B|and you put, uh, line the whole pie crust with that|sd
+A|Uh-huh.|b
+B|and so, it is sort of like in a way. Uh, using cheese  cake,|sd
+A|Uh.|b
+B|but, and it is not a real cheese  cake|sd
+B|and then you,|%
+A|And just put the strawberries,|qy^d

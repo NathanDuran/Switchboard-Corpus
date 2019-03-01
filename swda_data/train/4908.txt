@@ -1,0 +1,57 @@
+A|Uh, around here we have a program where, uh, we, we put out the, the, we separate the bottles and the cans and the plastic stuff from the newspapers.|sd
+A|And we keep the newspapers in a, in a,|sd
+A|they're collected twice a month and the trash and, and this bottled stuff that is put in a, in a little blue bin that's picked up and sorted out into a truck.|sd
+A|So they actually have about three passes at this collection.  One for  the regular trash, one for the, uh, uh, you know, the bottles and cans and one for the newspapers.|sd
+B|Sounds,|%
+B|But I gather you do not separate, uh, the bottles and cans.|bf
+A|No,|aa
+A|they, they do that on the truck.|sd
+B|Uh-huh.|b
+A|They  separate them as they, as they, you know, dump them.|sd
+A|And, you know, one guy comes around with his truck and, and dumps it all in there.|sd
+A|And I think they're, they're running out of, uh, you know, .|sd
+A|The sanitary landfill, I think, uh, is, you know, running out.|sd
+A|Of course, uh, you being from New Mexico, you've probably been to Washington. Especially if you're, your present location.|sv
+B|Yes.|aa
+A|You  must have come to Washington at least once.|qy^d
+B|Yes,|ny
+B|I know.|sd
+B|Not only have I come to Washington but, uh, I find it very amusing that, uh, the thing that was just instituted here is very similar.|sd
+B|That is we also have blue bins.|sd
+B|We also separate newspapers from all of the other stuff which goes into the bin and gets separated in the truck and, uh, landfill space is, in deed, the driving factor here.|sd
+B|And, in fact, uh, despite all of our open space out here, landfill space is still, uh, very hard to come by.|sd
+A|My, you've got a lot a, a lot of nothing out there. You know,|sv
+A|they got,|%
+A|I mean there, there's got to be a crevice between two mountains that nobody gives a doggone about that you could, you could use for landfill.|sv
+B|Ah,|b
+B|but  if somebody can make a regulation about it, they will.|sv
+A|Well what other, what, uh, what unique things you think, uh, that you can do about it in, in what, in Los Alamos?|qw
+B|Well, uh,|%
+B|Yes,|b
+B|other than nuking it.|b^m
+B|Um, in fact, Los Alamos, uh, has, uh, done a fair amount of research, uh, in recycling things in general.|sd
+B|Um, it, it involves, for instance, uh, creating biological organisms which can remove heavy elements like selenium, and barium and, uh, other things from, uh, waste material in general. And, uh, and purify the waste of specific, uh, uh, nasty elements.|sd
+A|Well, isn't that a, that's a, that's pretty, uh, upscale, uh, trash, uh, uh, situation.|sv
+A|I don't think anybody around here would understand all the, all those exotic techniques, you know,  getting  rid of the heavy metals.|sv
+B|And  the thing that just was in the local news bulletin was, somebody has, uh, made some special, uh, polymers that have the ability to, uh, make certain actinide elements adhere to them.|sd
+B|Uh, uh, they've, uh, looked at, uh, plutonium and uranium and, uh, some other similar things  to  try to remove those from radio active waste|sd
+A|Huh.|%
+B|and, again, this is driven by all of the documentation and, uh, E S and H, uh, uh, considerations that, uh, people are, uh, worrying about, I think, much more than they should.|sd
+B|Actually  I've been involved in recycling for long before it became fashionable.|sd
+A||%
+B|Back when I was in graduate school, I did all of the recycling of the, uh, paper from the computer center|sd
+B|and, uh, in fact I think I was the first person in our department to have my thesis published on recyclable recycled paper.|sd
+A|Huh.|%
+A|Well that's certainly, uh, you know, uh, getting into the swim of things.|sv
+A|I, I think it should be, it should go to the, to the heart of the matter though and say, okay guy,|sv
+A|you, everybody gets, you know, five pounds of garbage that they can throw away, you know.|^q
+A|Uh, but more than that every week, uh, you've got to pay by the pound.|^q
+A|I, I think  I think people would be, would get very, very, you know, they'd be very careful about how they bought stuff.|sv
+B|I think that's  a wonderful idea.|sv
+B|The only alternative I would see is, uh, and this would actually be a little more workable since weighing everybody's garbage would be a real pain. Uh, if you did it by volume rather than by weight it would, uh, speak more directly to the space needs and the landfill|sv
+A|Uh-huh.|b
+B|and it  would  also cause people to compact their garbage more.|sv
+A|Yeah.|b
+A|Uh-huh.|b
+B|Uh, and, uh, and limiting the volume is probably a little bit closer to the real problem than limiting the weight.|sv
+A|Well, of course, that, uh, you know, those big trucks can, can, probably are far more efficient in packing than any kind of little household compactor.|sv

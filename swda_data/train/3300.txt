@@ -1,0 +1,135 @@
+B|All right,|fo_o_fw_"_by_bc
+B|so, we started recording already?|qy
+A|Uh, I guess,|no
+A|I don't know.|no
+A|It's the first time I've made a phone call on it.|sd
+B|Oh, so you pressed one?|qy
+A|Right.|na
+B|Okay.|bk
+B|So, I guess we're supposed to start talking.|sv
+B|Uh what kind of books do you read?|qw
+A|I read, uh, a lot of Steven King, Dean R Koontz, uh some Danielle Steel.|sd
+B|Uh-huh.|b
+A|My aunt got me hooked on those|sd
+B|Uh-huh.|b
+A|So I,|%
+B|So it's mostly all novels?|qy
+A|Yeah,|ny
+A|they're all novels.|sd
+B|Okay.|bk
+A|I'll read some, uh, classic, too.|sd
+B|Oh, like what?|qw
+A|Uh, like THE GRADUATE by Steinbeck.|sd
+A|I'll, uh,|%
+B|Yeah,|b
+B|I like that.|sd
+B|I like Steinbeck a lot.|sd
+A|A, A ROSE FAMILY by Faulkner. That's one of my favorites.|sd
+B|I have never read a lot of Faulkner.|sd
+A|Oh, and this, this is more of a play or something that, that it was from, that, that I saw|sd
+A|and I read the book from that.|sd
+B|Oh, cool|ba
+A|And, by the way, my name's Bill.|sd
+A|I'm from North Carolina|sd
+B|I'm Doug,|sd
+B|I'm from Pennsylvania.|sd
+A|Uh, I,|%
+A|let's see.|^h
+A|What kind of books do you like to read?|qw
+B|Uh, well, a bunch of stuff, I guess, uh, fair number of novels, but mostly shorter ones.|arp_nd
+B|And, like, I don't really like the, you know, six hundred page long Stephen King novels and all that.|sd
+A|I really have to be in the mood.|sd
+B|Right?|qy
+A|I, I read one, like maybe once a year.|sd
+B|Uh-huh.|b
+A|I'm not as,|%
+B|No,|b
+B|like, I like, say, uh, Richard Broudigan a lot. Uh,|sd
+A|I've never read anything by him.|sd
+B|Okay.|b
+B|He's, uh, he's dead now,|sd
+B|but he was really a pretty amazing writer.|sd
+B|He wrote books that were, like, pretty short and pretty easy to read, you know, like written at a third grade level or whatever.|sd
+A|Yeah.|b
+B|But they were still very heavy and philosophical, also very funny.|sd
+B|Like, He wrote TROUT FISHING IN AMERICA.|sd
+A|Okay.|b
+B|So that's, anyway,|%
+B|and, uh, I read a lot of non fiction books, too.|sd
+B|Uh, let's see,|^h
+A|I like to read a lot of non fiction history when Civil War era and, and that kind of thing.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|I found that real interesting.|sd
+A|I'm reading THE LION AND THE WIND right now.|sd
+A|And that was on T V.|sd
+B|Now what's that?|qw
+A|It was, uh, during Teddy Roosevelt's time. And, uh, about a American woman that got kidnapped in, uh, Morocco.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|Uh, this is when they were having their revolution or whatever|sd
+B|Uh-huh.|b
+A|and Teddy Roosevelt sent troops over and really portrays him as a, kind of a crazy man, you know.|sd
+B|Yeah|b
+A|Surprised me.|sd
+A|I had no idea that he was like that.|sd
+B|Uh-huh.|b
+B|What, how crazy?|qw
+A|Well, just like some, one quote that he had was that he thought the America's emblem was stupid because it was an eagle,|sd
+A|and it should be a grizzly bear because|sd
+B|Oh,|bk
+A|you, you know, like the grizzly and stuff like that.|sd
+A|So it's,|%
+A|I saw the movie|sd
+A|and that's what made me want to read the book.|sd
+B|Uh-huh.|b
+A|Candice Bergen was in the movie.|sd
+A|I'm a real big fan of hers|sd
+A|so,|%
+B|Yeah.|b
+B|Cool,|ba
+B|see, I also read a lot of books about music because I'm interested in that and fair number of stuff about science and also philosophy things.|sd
+A|Uh-huh.|b
+A|I like, I like to read some of the philosophy stuff.|sd
+B|Like,|%
+B|Uh-huh.|b
+B|Like, let's see,|^h
+B|and even like reading some new age things, things that I don't quite believe in,|sd
+B|like here on my shelf I have a book called JOURNEYS OUT OF THE BODY.|sd
+A|Yeah,|b
+A|I think that,|%
+B|It's all about how to have out of body experiences and all that.|sd
+A|I'm fascinated by that.|sd
+A|Yeah,|b
+A|I'm fascinated by that.|sd
+B|Uh-huh,|b
+B|yep.|b
+A|That,|%
+A|and, and, uh, even stuff about, not like ghost stories, but real encounters with ghosts and supposedly haunted houses.|sd
+B|Uh-huh.|b
+A|I like,|%
+A|I'm kind of a doubting Thomas|sd
+A|and I like to read stuff like that.|sd
+A|Some of it really freaks me out|sd
+B|Yeah.|b
+B|Uh-huh|aa
+B|Right,|aa
+B|definitely|aa
+B|Uh,|%
+A|And I like to read, uh, I like to read some self help books like, uh,|sd
+A|I read DIANETICS once, once I got past all the gibberish on it.|sd
+B|Uh, did you like it?|qy
+A|It was okay.|no
+A|It, it, it, it took me a while to really get into it.|sd
+A|It, it didn't help me that much|sd
+B|Uh-huh.|bk
+B|I see.|bk
+A|But, uh, I think once you're set in your ways, you're set in your ways.|sv
+B|Yeah|b
+A|Uh, then I,|%
+A|one real interesting book I read recently was, when I was looking for a job,|sd
+A|I read, HOW TO GET THE JOB THAT YOU WANTED|sd
+A|and, it, it had real good tips|sd
+A|and it,|%
+A|and I got the job that I wanted by applying the, the methods that, that,|sd
+B|Uh-huh.|b

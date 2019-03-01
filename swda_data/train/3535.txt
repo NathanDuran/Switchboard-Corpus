@@ -1,0 +1,115 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|where does she live?|qw
+B|Uh, on Rutherford.|sd
+A|Rutherford.|b^m
+A|I don't know that.|sd
+B|It's, uh, corner of New York uh, just west of Mayfield.|sd
+A|Uh-huh.|b
+A|It's, oh, oh, south and, okay,|bk
+A|yeah,|b
+A|I know where you, I know the area.|sd
+B|Uh.|%
+A|Right,|b
+A|that's kind of on the other side of town,|sd
+A|so our kids probably never went to school together or anything|sd
+B|Oh, okay.|bk
+B|Oh, they're, they're little ones|sd
+A|Oh, well,  I've got one in college|sd
+B|Oh.|b
+A|By now.|fo_o_fw_"_by_bc
+B|Let's see, we're on government,  whether  we think it's honest  or can be.|sd
+A|Right.|aa
+A|Whether it is  possible to have an honest government. I'm beginning to think it's not.|sd
+A|What about you?|qo
+B|I,  I don't think under the way the system is right now, it is.|sv
+A|I don't either.|aa
+A|I, I think,|sv
+A|uh, even if people have good intentions, I think uh, power corrupts or something to a certain extent,  you know.|sv
+B|The  ultimate power, ultimately corrupts.|sv
+A|Yeah,|aa
+A|it seems like, uh, maybe more of them come in with good intentions,|sv
+A|but it's just so enticing,|sv
+A|and a lot of corners being cut and the special deals available, because they're in on the know , you know|sv
+B|I don't know  if,  there is enough money that you could pay them  just,  you know X amount of money to keep them honest.|sd
+A|Oh.|b
+B|I just, I just don't, uh,|sd
+A|Right.|aa
+A|I mean, you even see people on a small scale cheating when they have certain positions,|sv
+A|you know what I mean?|fo_o_fw_"_by_bc
+B|Right.|aa
+A|Little  bitty, little bitty positions in your own home town, and they'll cheat somehow or, you know, bend the rules, use their power.|sv
+A|So maybe it's just man's nature|sv
+B|We had, uh, here in Oklahoma we had a few years ago a major, uh, corruption on, on our county commissioners|sd
+A|Uh-huh.|b
+B|and there were several counties, uh, including the one I was in, that lost every one of their county commissioners|sd
+B|and, I mean, it was to the point of not just losing their job, but going to jail.|sd
+A|Oh, my word.|ba
+A|Oh, wow.|ba
+A|What were they doing  taking some,|qw
+B|Oh, they were  taking kickbacks.|sd
+A|Oh, no|ba
+B|Yeah|b
+A|Oh, gosh.|ba
+B|Just a little here, a little there.|sd
+A|Yeah,|b
+A|right|b
+B|Major amount here, a major amount  there.|sd
+A|Right|b
+A|Oh.|%
+B|But I think there was something like, you know, thirty or forty commissioners that ended up going to jail.|sd
+A|Um. We haven't had that big a scandal in Arlington,|sd
+A|but we do have the people that work for the convention center were falsifying records.|sd
+A|In other words, they'd go out and have a big, lavish dinner and then put somebody's name down that they supposedly had entertained,|sd
+A|but that person wasn't even anywhere near there, you know.|sd
+A|Some of them weren't even in the same city.|sd
+A|One of them had, had cancer and died|sd
+A|and I mean, that was our biggest scandal for the last few years, I think.|sd
+B|Uh, that's, that's small scale.|sv
+B|I don't know, you know,|h
+B|I really don't know what could be done.  Uh,|sd
+A|I don't,  I don't either. Uh, to make it totally honest.|sd
+A|Uh, I think there's, there's always going to be some way somebody can cut a corner, uh.|sv
+A|However, the things that have gone, gone on in the last couple of years, we can't afford too many of those, you  know, the  the HUD mess or the S and L.|sv
+B|That's  right.|aa
+A|We could almost not afford such terrible corruption.|sv
+B|The cover-ups and,|sv
+A|Right,|aa
+A|right.|aa
+A|I think that, uh, Reagan and Bush were up to their necks in that Iran Contra thing,|sv
+A|and it kind of makes you feel bad that the top people in your country would be lying to you like that,|sv
+A|but,  uh,|%
+B|I,  uh, I don't know.|h
+B|I just, uh, I'd like to believe that there is some way that our political people would really go there and look out for our interests.|sd
+A|Right.|b
+B|I think that's what upsets me worse than, that they're getting a little, you know, uh, on the side that, that,  it seems that when they  get up there it's, it's what, if I vote your way, what it'll do for me  rather,  than this is the way my constituents want it.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+A|That's right,|aa
+A|but they stay there,|sd
+A|Uh-huh.|b
+A|Right,|aa
+A|and this would be for the best for the nation overall.|sv
+A|You're right,|aa
+A|it's just a,|%
+A|I don't know.|h
+A|I guess that's where they stay in, uh, in,|sv
+A|they try to stay in office.|sv
+A|But they always please the money people too.|sv
+A|They need money so much, because they're constantly having to  run,  for office again.|sv
+B|run,|^2
+A|And,|%
+B|Maybe|arp_nd
+B|and then you think, well, if it was longer terms then they would never have to try to please the people at home|sv
+A|Uh-huh.|b
+A|That's true.|aa
+A|Boy, it is a big problem,|sv
+A|but I think most people are kind of depressed and cynical about government now,|sv
+A|don't you?|^g
+B|I don't think that they, anyone has a lot of respect or faith in the government.|sv
+A|I know.|aa
+A|It's really terrible.|sv
+A|I mean, there was a time, I mean where, I remember when I was real young, I just loved Harry Truman.|sd
+A|I thought he was great|sd
+A|Oh, you know, I had,|%
+A|some of them seemed like kind of, uh, heroic people.|sd
+B|Well I wonder if they really were,  or if we just  really didn't,|sd

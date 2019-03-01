@@ -1,0 +1,327 @@
+A|Okay.|fo_o_fw_"_by_bc
+B|Do you want to go first?|qy
+A|You can go first,|oo_co_cc
+A|or I will.|oo_co_cc
+B|Well, you go ahead.|ad
+A|Okay.|aa
+A|Well, I'm going to tell you what I'd have|sd
+A|Down in the south, we have a lot of shrimp,  okay?|sd
+B|Oh,|b
+B|yeah.|b
+A|And I have, uh, shrimp that is steamed in beer, that I cook.|sd
+B|Oh, yeah.|b
+B|Uh-huh.|b
+A|And then I have a cauliflower that I would cook, garlic bread, green salad, tea,|sd
+A|and we'd have a lemon pie for dessert.|sd
+B|Oh, it sounds fantastic.|ba
+A|Yes.|aa
+A|And what's really neat about it is, the shrimp is cooked in your, uh, like your rice steamer,  your rice  cooker.|sd
+B|Oh, yeah.|b
+B|Uh-huh.|b
+A|And, um, you place the shrimp in the, in the rice steamer,|ad
+A|and you put a bay leaf and put some, uh, red pepper over it.|ad
+B|Uh-huh.|b
+A|Now, you can either use, you know, the kind that comes in the little can|ad
+A|or you can just get some, you know, regular red peppers.|ad
+B|Is it cayenne pepper, you mean?|qy
+A|Cayenne?|qy
+B|Yes.|ny
+A|Uh-huh.|ny
+B|Uh-huh.|b^m
+A|And you put a little bit of that over it.|ad
+A|Now if you use the dried kind? Then you would only use two of them.|ad
+B|Yes.|b
+A|And you put that in there,|ad
+A|and then you pour two bottles of beer over it.|ad
+B|And how much shrimp would you use?|qw
+A|Two pounds.|sd
+B|Two pounds,|b^m
+B|okay.|bk
+A|That's the jumbo shrimp in the shells.|sd
+B|Oh, yeah.|b
+A|Leave the shells on them so they won't just roll up.|ad
+B|Uh-huh.|b
+A|And you pour the beer over the top of it,|ad
+A|and you cover it.|ad
+B|Uh-huh.|b
+A|And you only cook it until the mixture begins to boil,  and  the shrimp turn pink.|ad
+B|Okay.|aa
+B|Uh-huh.|b
+A|Then you remove it,|ad
+A|and you put it on a platter.|ad
+A|And then you serve it with melted butter.|ad
+A|And, uh, I usually put garlic powder in mine.|sd
+B|Oh, yeah.|b
+A|And they can just dip it,|sd
+A|and they shell it as they eat it.|sd
+B|Sure.|b
+A|But, uh, then the uh, the cauliflower, you,  cook  that in the microwave.|ad
+B|Uh-huh.|b
+A|And what you do is, you just, uh, wash it,|ad
+A|and you core it. And in a like a, oh, what do you call it? Like Pyrex or something like that, kind of bowl that would go in the microwave.|ad
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|A glass dish.|qy^d
+A|Uh-huh.|ny
+B|Uh-huh.|b^m
+A|But it's got to have one that has a cover on it.|sd
+B|Okay,|b
+B|uh-huh.|b
+A|And you, uh, put about two tablespoons of, uh, water into this bowl, and about an eighth a teaspoon of salt.|ad
+B|Yeah.|b
+A|And then you just set your cauliflower in there,|ad
+B|Uh-huh.|b
+A|and  then you cook it for seven minutes on high.|ad
+A|And you rotate it one time.|ad
+B|And it's, are you cooking the whole head at one time?|qy
+A|Uh-huh. Uh, when you core it, you be real careful so you won't knock your flowers off.|ny
+B|Okay.|bk
+B|I see.|aa
+A|And, uh, you just set it in there,|ad
+A|and you microwave it on high for seven minutes,|ad
+A|and you turn it one time.|ad
+B|Uh-huh.|b
+A|And while that's cooking, I take mayonnaise, about a cup of mayonnaise, and a teaspoon of mustard, and some garlic powder,|sd
+A|and I mix it all together.|sd
+A|And I shred up some just regular white cheese.|sd
+B|Uh-huh.|b
+A|And after that's cooked, you take it out and pour this on top of it,|ad
+A|and then you sprinkle the cheese on top of that.|ad
+A|And you cook it for another three minutes on high, you know,  just  mainly to melt the cheese and everything, and let all the seasoning melt into it.|ad
+B|Uh-huh.|b
+A|And,  it's  done.|sd
+B|Yeah.|b
+B|Oh, that sounds fantastic.|ba
+A|It is good.|sd
+A|But it, it looks,|%
+A|I mean, what you can do then, see is, like what I usually do is, I'll like sit the cauliflower in the middle,|sd
+A|and then I put the, uh, shrimp around the outside of it,  you know,  on my platter.|sd
+B|Um, um.|b
+B|Uh-huh.|b
+A|And then I have a green salad that I put around the outside of that.|sd
+A|And, you know, you have all the different seasonings and stuff,|sd
+A|and then I just fix little individual cups for them.|sd
+A|And they have the,  garlic  bread,|sd
+B|Sure.|b
+A|and it makes it a real nice looking,  you know.|sd
+B|And it's  not much work.|sv
+A|Huh-uh,|aa
+A|huh-uh.|aa
+A|But it looks like it, you know|sv
+B|That sounds,|%
+B|Yeah,|aa
+A|You look like you went to a whole bunch,|sd
+B|I bet it tastes good too.|qy^d
+A|Right.|na
+A|And, uh, usually I cut those little cherry tomatoes up,  and put  some color into it, you know,|sd
+B|Oh, yeah.|b
+A|and I'll lay those on top of my salad, you know, to make it look nice and things like that.|sd
+B|Now, how many could you serve?|qw
+A|Okay.|^h
+A|Uh, it usually serves six.|sd
+B|Yeah.|bk
+B|okay.|bk
+B|I figured about that.|sd
+A|Yeah.|b
+B|Oh, that's good.|ba
+B|See out here, we have so many, uh, ethnic people.|sd
+B|We have Italians,|sd
+B|and we have Portuguese,|sd
+B|and we have Russians and Polish.|sd
+B|And it depends, out here, like the type of people you're going to entertain, you know?|sd
+A|Uh-huh.|b
+B|So it's hard, uh,|sv
+B|you, you just have to pick something, for the, the group that you're going to entertain for that particular time.|sv
+A|Yeah.|b
+B|And, uh, they're big on finger food here, too. You know, chicken wings and, uh, ribs, and that kind of stuff. Uh, barbecue and, uh, cooking out in the yard, it, you know, when it's nice. Barbecue outside, chicken and that kind of stuff.|sd
+A|Yeah.|b
+A|Yeah.|b
+A|Have you ever had crawfish?|qy
+B|Uh, no,|nn
+B|but I have had shrimp.|sd
+A|Oh. You ought to try some crawfish.|ad
+A|They are good.|sd
+A|But see, that's one good thing about living down here is, usually anybody that comes over, you know, even if it's like, out of town guests and stuff, they want our cooking.|sv
+B|Oh, of course.|ba
+A|You know,  they  want it from down here.|sv
+B|That's,|%
+B|Yeah.|b
+A|Because, just like now, especially crawfish, it is starting to move out, you know,|sv
+A|and more and more people are beginning to find out how good it is.|sv
+B|Really?|bh
+A|But,|%
+B|Is it like shrimp?|qy
+A|Uh, it's similar.|na
+A|Uh-huh.|ny
+B|It's similar.|b^m
+A|Yeah.|ny
+A|It's not exactly.|sd
+A|I mean, it's got a taste of its own, you know,|sd
+A|but it is,  it is similar  to, because you only eat the,  tails  of it.|sd
+B|Oh, it does?|bh
+B|Does,  it look like a lobster?|qy
+A|Um, it looks more like a crab.|ng
+B|Oh, it looks more like a crab.|bk
+A|Uh-huh.|ny
+B|Oh.|bk
+A|But,|%
+B|Are they thin, long or wide?|qy
+A|No.|nn
+A|Um, let me think of, I can't even think of what you,|^h
+A|I guess if, it, uh, it looks like, more like a cross between, uh, a crab and, uh, and a lobster.|sd
+B|Uh-huh.|b
+A|Because it's small like that|sd
+A|and it's got the pinchers like a crab.|sd
+A|But,  you  know, it's, it's similar to a lobster too, because the tail has got the little pleats in it, like a,  lobster would.|sd
+B|Uh-huh.|b
+B|Oh, yeah.|b
+B|Yep.|b
+A|And we call them mud bugs|sd
+B|Oh|b
+A|But, I mean, they're fantastic tasting.|sd
+A|They are so good.|sd
+A|Everybody,|%
+A|it's, it's the season for them right now.|sd
+B|And, and where did you say you were from?|qw
+A|Louisiana.|sd
+B|Louisiana.|b^m
+B|Oh, well, do you do cajun cooking?|qy
+A|Oh, yeah.|ny
+B|Oh, I love, uh, blackened, you know, uh, the, the fish and the chicken and that kind of stuff.|sd
+A|Uh-huh.|b
+B|Oh! We have a few places up here that do that.|sd
+A|Yeah.|b
+B|And if ever I see it on the menu, I always get it.|sd
+A|Yes.|b
+B|It is so good|sv
+A|You know,|b
+B|Now how do they do the blackened?|qw
+A|You buy it, you buy it as a seasoning.|ad
+B|But, uh, do you have to have a certain skillet,  or  something?|qy
+A|Huh-uh.|b
+A|Huh-uh.|nn
+B|No?|bh
+A|I cook mine, well, do you have a, uh, like a black iron skillet?|qy
+B|I did have.|ng
+B|I don't have it now.|sd
+B|But I have mostly Teflon.|sd
+A|Oh, okay.|bk
+A|Well,  I guess you  could cook it in, in that too,|sv
+B|You now,|%
+B|but,|%
+A|but I don't know.|h
+A|You know, I never have.|sd
+A|I use, uh, uh, the black iron skillet to cook mine.|sd
+B|does it have to get extremely hot?|qy
+A|Uh-huh.|ny
+B|Yeah.|b
+A|But it really, it's not, it, it, it doesn't burn or anything like that.|sd
+A|The blackening is really the seasoning.|sd
+B|Uh-huh.|b
+A|I mean, there is,  it's, it's,  a blackening seasoning.|sd
+B|Oh, oh,  I see.|b
+B|Yeah.|b
+A|You know, I mean, that is a seasoning.|sd
+A|That's really, it's not like you would have to cook it for an extreme amount of time, or something like that, to get it,|sd
+B|Oh, I see.|b
+A|Because, it's called, uh, what it's called is, Blackening Magic.|sd
+A|And it, it comes in a bottle,|sd
+A|and, uh, Well, I'm trying to see.|^h
+B|Oh.|b
+A|It's got a, a picture of Dom De Luise on it.|sd
+B|Oh, really?|bh
+A|Uh-huh.|ny
+B|Oh.|bk
+B|Now would, you would cook it for the same amount of time as you would, prepare it any other time?|qy
+A|Right.|na
+B|Is that what you're saying?|qy
+A|Uh-huh.|ny
+B|Oh, uh-huh.|b^m
+B|Because,  I  could have the, uh, chicken on the skewers, with, uh, uh, blackened seasoning.|sd
+A|But,|%
+A|Uh-huh.|b
+B|And, oh, that is so good. Delicious.|sv
+A|Yeah.|aa
+A|But you do have to have it, you know, you do have to have it hot when you cook it. I mean,  your  pan.|ad
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|It does have to be really hot, you know, when you put it in.|sd
+A|But it's not like it's burned,|sd
+A|and it, what it, what blackens it, is the seasoning.|sd
+B|Oh.|b
+A|And it is so good.|sv
+A|Oh!|ba
+B|It is.|aa
+B|I, I love it.|sd
+A|Yeah.|b
+B|I, I, in fact I was in Texas for a little while.|sd
+A|Uh-huh.|b
+B|And I liked, uh, the barbecues and the Mexican food.|sd
+A|Uh-huh.|b
+B|I have a passion for all that type of different tastes.|sd
+B|Because I have been brought up mostly Italian American food.|sd
+B|Because my, uh, parents are Italian and Portuguese.|sd
+B|So we cook a lot of pasta, and, uh, gravies, and pizzas, and, you know, roasts, and that kind of thing.|sd
+A|Uh-huh.|b
+B|That's why I enjoy going to restaurants and have, you know, trying different things.|sd
+A|Well, have you ever thought about coming to Louisiana, you know, to visit?|qy
+B|I would love to.|no
+A|Yeah.|b
+A|You ought,  to  come down.|ad
+B|I,|%
+A|Um, you don't even have to go all the way to New Orleans, you know, if you want to really get some good food.|sv
+B|Really?|bh
+A|I mean, you don't have to go that far south.|sv
+B|Uh-huh.|b
+A|But, uh, of course, the further south you go, the better the food is, as far as I'm concerned.|sv
+B|Is that right?|bh
+A|And fact is, we're going to take a vacation this year.|sd
+A|We're going to go to New Orleans, again.|sd
+B|Uh-huh.|b
+A|And, uh, we're only going down there for the food, though|sd
+B|Now, where do you go when you go there? Uh, right on Basin Street and those places?|qy
+A|Uh, yeah.|ny
+A|We go to the, the French Quarters and stuff like that.|sd
+B|Uh-huh.|b
+A|And, uh, I have some friends that live down there.|sd
+A|And so, usually we go to, we don't go to the tourist ones.|sd
+B|Oh.|b
+A|We go to the ones that they tell us to go to, you know.|sd
+B|Oh, I see.|b
+A|And we went to this one,|sd
+A|it was called The Back Porch.|sd
+A|And, uh, they were cooking the stuff, you know, while we were, we went on this boat ride.|sd
+A|And then we came back and ate, out on this, it was like a back porch|sd
+A|And, uh,  usually if you  can find somebody,|%
+B|Oh, that's nice.|ba
+A|in Of course now, when you go down there, you know, I mean, they've got just,|sd
+A|there's no where you can miss.|sd
+B|Uh-huh.|b
+A|I have never gone to a restaurant, and not just been so full,|sd
+A|it's unreal.|sd
+B|Really?|bh
+A|I mean, it's so good.|sd
+A|The seasoning they, it's just unreal.|sd
+B|And don't they make a lot of, um,|%
+B|I'm trying to think what they call their soup.|sd
+B|I don't know.|h
+A|Gumbo.|qy^d
+B|Yeah,|ny
+B|jumbo.|sd
+A|No, gumbo.|ar
+B|Gumbo,|b^m
+A|Uh-huh.|ny
+B|right.|b
+A|Right.|b^m
+B|Is, is, is that with seafood?|qy
+A|Uh-huh.|ny
+A|You can even make it with chicken or you can make it with seafood.|sd
+B|Oh, you can?|bh
+A|Uh-huh.|ny
+B|That looks good too.|ba
+B|I've seen them the chefs on T V do that?|sd
+A|Uh-huh.|b
+B|And oh, it looks delicious.|sv
+A|And I'll tell you what.|^h
+B|See we do, um, uh, a thing, we call it a sea bake.|sd
+B|You, uh, you take clams,|ad

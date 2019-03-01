@@ -1,0 +1,255 @@
+B|Hello|fp
+A|Hi|fp
+B|Hi,|fp
+A|My name's Ken,|fp
+B|Hi Ken,|fp
+B|my name's Diane.|fp
+A|And, um, you're in Texas,|qy
+A|right?|^g
+B|Yes,|ny
+B|I'm in San Antonio.|sd
+A|Everybody's in Texas.|sv
+A|God,|ba
+A|I'm in Rochester, New York.|sd
+A|Everybody else but one has been in Texas.|sd
+B|Oh.|b
+A|Okay,|b
+A|well I guess we should get on with this.|ad
+B|Okay.|aa
+A|Um, did you get the message about what it was,|qy
+A|right.|^g
+B|Yes.|ny
+A|Okay,|bk
+A|go ahead,|ad
+A|I'm going to hit the button|sd
+A|Okay, um,|%
+A|do you think that the Soviet Union represents a threat to us?|qy
+B|I think they'll always represent a threat whether or not there's an active cold war or not. Uh,|sv
+B|it's, it's a totally different economy based on different beliefs, and, and, uh, different priorities,|sv
+B|and, uh, given the, the, uh, military powers on both sides, I think it's always a threat.|sv
+A|That's interesting.|ba
+A|I don't,|ar
+A|I, I suspect they're not our biggest threat anymore.|sv
+B|Probably not,|aa
+B|no.|aa
+A|I suspect it's probably some crazy man like Saddam Hussein who's our biggest threat,|sv
+B|Right.|b
+A|but, um, I wonder if they're, I wonder how much of a threat they are.|qw^d
+A|I agree with you that, that they'll always be somewhat of a threat given that they have, that there's just, it's just so big,|aa
+A|and there's just so much military machine there.|sv
+B|Uh-huh,|aa
+B|and, and it's recognized that the two great powers are us and them,|sd
+A|Right.|b
+B|and, and the great powers are always pitted against each other.|sv
+A|But I wonder how much longer they're going to be a them.|qw^d
+B|I don't know|no
+B|They, they're going downhill pretty steady.|sv
+A|Yeah.|b
+B|But I, I agree right now they're not,|aa
+B|I don't believe they're a large threat right now.|sv
+B|I think there's always some threat.|sv
+A|Yeah,|aa
+A|oh, I agree.|aa
+A|I mean, if we were to, if, if something were to happen, I'm sure they would all of a sudden band together just for the sake of, for the sake of, uh, of, of unity against us or something if, if, if need be.|sv
+B|Yeah,|b
+A|But,|%
+B|Actually I feel kind of sorry for them right now, because the people are, are, are, uh, wanting things that we have that they're not|sd
+B|I mean, just some basic freedoms,|sd
+B|and, and their government is not allowing it,|sd
+B|and Gorbachev seems to be going back on some of the things that he's been trying to push.|sv
+A|Yeah,|aa
+A|actually I noticed this I mean, this, this, this most recent scare of his, where he said, or he just decided that instead of having, uh, instead of having, I can't think of the word now, if there are any demonstrations for, in favor of Boris Yeltsin, he decided, well, I'll just cancel all demonstrations altogether.|sd
+B|Uh-huh.|b
+A|So, I, I, I think that, he, he, he's actually,|sv
+A|he, I think, is becoming very dangerous because he's making those people angry at him,|sv
+B|Yeah.|b
+A|and he's also, I think he's also making, um, the military angry at him.|sv
+B|Yeah.|b
+A|I mean, I've heard stories now where the, where the, um, the military is running around,|sd
+A|and they're sort of getting restless,|sd
+A|and a restless military is the kind of thing that happens, you know|sd
+A|like with the Baltic states when they just go in there|sd
+B|Yeah.|b
+A|divvy the people up.|sd
+B|See, I'm concerned that, that since he's banned demonstrations altogether, that he's going to do the type of thing that happened in Tiananmen Square,|sv
+B|and he's going to wipe out, no telling how many of his own countrymen, uh, right in the middle of Red Square,|sv
+A|Uh-huh.|b
+B|and, uh, it's going to cause a, more civil war than is already occurring.|sv
+A|That's interesting.|ba
+A|I, I wonder,|%
+A|I don't know if he's,|%
+A|he, he seems,|%
+A|the thing about Gorbachev strikes that he wouldn't be that dumb|sv
+A|I don't know though.|h
+B|I don't know.|h
+B|I mean, and it, it might be something that he wouldn't be able to control.|sv
+A|That's, that, that's something that really true|aa
+A|sort of a military thing I was speaking of before.|sd
+B|Uh-huh.|b
+A|That's, that's certainly true.|aa
+A|I mean, his military may just go out and say, Well, we just,|sv
+A|Gorbachev said you can't do it,|^q
+A|and we're to not let you do it, you know.|^q
+A|So.|%
+B|Yeah.|b
+A|Yeah,|b^m
+A|that, that's real scary, actually.|ba
+B|Yeah.|b
+A|I mean, I, I, I would expect their own problems would keep them away from us for a while,|sv
+A|but it could be real dangerous.|sv
+B|Yeah,|aa
+B|we've got our own worries at the moment.|sv
+A|Yeah,|aa
+A|right,|aa
+A|we don't need to worry about them.|sv
+B|I guess as long as, uh, they're fighting each other, we don't have to worry about them wasting their time with us.|sv
+A|Yeah,|aa
+A|but wouldn't it be nice if no one had to fight anybody else.|qy
+B|Well, sure,|na
+B|that, but that's a, that's an impossibility, I think given the differences in the world,|sv
+A|Yeah.|b
+B|and people are just too different.|sv
+A|Well, I don't, I don't know.|ar
+A|I think that underlying we're all pretty, probably not as, as different as everybody thinks.|sv
+B|But unfortunately, people, people aren't that insightful.|sv
+A|Right.|aa
+A|Well, that's, that's certainly true of it.|aa
+B|They just see that this guy prays differently and to someone else than I do.|sv
+B|So, therefore, he's wrong|sv
+B|and he's bad,|sv
+B|and we have to wipe, wipe him out.|sv
+A|That's true.|aa
+A|I was, I was discussing with someone before, um,|sd
+A|this, someone before, actually one of these calls|sd
+B|Uh-huh.|b
+A|matter of fact about another topic,|sd
+A|but it came up,|sd
+A|one of these calls|sd
+B|Uh-huh.|b
+A|matter of fact, about, um, another topic,|sd
+A|but it came up,|sd
+A|one of these, this, this poem, Everything I Wanted to Know I Learned in Kindergarten, or something.|sd
+B|Uh-huh.|b
+A|You've read that one before.|qy^d
+B|No,|nn
+B|I haven't read it.|sd
+B|I've heard all about it, though.|sd
+A|That, this, this is the idea that I think is actually very, is, is, what I think we should all revert to.|sv
+A|The idea that, um,|%
+A|basically they said, everything happened in kindergarten,|sd
+A|and in kindergarten we learned to share,|^q
+A|and we learned to, um, play with each other,|^q
+A|we learned to take nap, and to take naps,|^q
+A|and whenever we'd start a fight we'd all apologize and hug each other you know,|^q
+B|Yeah.|b
+A|and that would be all.|^q
+A|If we could just do the same thing sort of, with, with, with everybody else, I suspect we'd, we'd be fine.|sv
+B|Yes,|aa
+B|but people grow up,|sd
+B|and they forget.|sv
+A|Yeah,|aa
+A|unfortunately.|ba
+B|Well.|%
+A|Because I often, I often sort of wonder how, having never been to the Soviet Union, um, how different the people there really are, you know.|qw^d
+A|How much ,|%
+B|That's one of the places I would most like to go.|sd
+B|Not right now, of course|sd
+A|Yeah.|b
+B|but at some point I would like to go to Moscow and, and, to, just to see all these things that you can see on television now and can read about|sd
+B|that ten years ago we didn't have this kind of information|sd
+A|Right.|b
+B|and we didn't know what things were like.|sd
+B|So.|%
+A|I would, I would love to go there. I mean, like, again, not now, but at some point, to go see what, what this is like,|sd
+A|I mean, this, this is amazing, because, this is, this is an, this is an example of an entirely different culture that wants to be like us.|sv
+A|Like you said before,|sd
+A|so it would be interesting to watch.|sv
+B|Yeah,|aa
+B|I and, I, the, the people.|%
+B|I just feel so sorry for the people in the country, that they can't, I mean, they, they can't do|sv
+B|they can't change it.|sv
+B|They try|sv
+B|they, and they, there's nothing that they can do.|sv
+A|Yeah,|aa
+A|that's, that's|%
+A|and the ones I even feel somewhat worse for, even, um,|sd
+A|the ones in like the Baltic states where they don't have a strong leader, then, you know,|sd
+B|Uh-huh.|b
+A|at least, at least Russia has some sort of strong leader.|sv
+A|I mean they have Yeltsin who may, who may yet sort of help Russia.|sv
+B|Yeah.|b
+A|But, um, I mean, the Baltic states, I think, are just sort of trapped.|sv
+A|I mean, they were taken over couple, you know, not too long ago and then just sort of told, well, you're here now,|sv
+B|Yeah.|b
+A|you're part of our country.|^q
+A|You be this way.|^q
+A|It's a, I think it's a sad state of affairs,|sv
+A|but.|%
+B|It's, it's probably not dissimilar from the, uh, what are they, the, the, the, I'm trying to think of the name of the, the , something like that in Northern Iraq who are actually countrymen of,|sv
+A|Oh, yeah,|aa
+A|yeah.|aa
+B|I mean, some of them were split off into Israel, I believe,|sd
+B|and some of them are in Turkey when actually they, they don't, they're their own people and their beliefs and their own culture system.|sd
+A|Uh-huh.|b
+A|Right.|b
+B|And they were split up into three different countries.|sd
+A|Uh-huh.|aa
+A|Yeah,|aa
+A|well, yeah,|aa
+A|and that.|%
+B|And, and they're very dissatisfied,|sv
+B|and they're, they're causing wars right now,|sv
+B|and I don't think it's that different from what the Baltic states are, are going through.|sv
+A|Um, um, um, uh, actually it sounds very, I mean, very similar.|sv
+A|They're sort of being, they were sort of forced,|sv
+A|and now they just want to sort of speak up and say Hey,|sv
+A|we want our piece.|^q
+B|Yeah.|b
+A|And they have like a problem,|sv
+A|they have Muslims to deal with as well as Saddam Hussein.|sv
+B|Uh-huh.|b
+A|I, I mean I think their big problem up there is, you know, unfortunately,|sv
+A|not only are they|sv
+A|there's more than one group fighting for the same place.|sv
+A|They all want the, you know,|sv
+A|whereas the Baltics are saying, Oh, we want our own.|sv
+A|We just want this little tiny piece of land.|^q
+B|Yeah.|aa
+B|The, the one that I think,|%
+B|one of the women that I work for is married to an Iranian,|sd
+B|and so she has a lot of insight, because she knows a lot of the history of the countries over there,|sd
+A|Uh-huh.|b
+B|and within five or six countries there are probably ten cultures of people,|sd
+A|Yes,|aa
+A|yes.|aa
+B|And that's, they don't all have their own country,|sd
+B|and, and some of them are mad about it|sd
+A|Uh-huh.|aa
+A|Um, actually, my wife is Syrian,|sd
+A|so I, I, also I know some of the history .|sd
+B|Oh.|b
+A|And actually the other funny thing is that I'm, I'm Jewish.|sd
+A|We're sort of like the Middle East peace talks ourselves.|sd
+B|Oh, uh-huh.|b
+A|So we, I, I know,|sd
+A|I've been to Israel,|sd
+A|and I know,|sd
+A|and I sort of toured the area,|sd
+A|and I know that it really is very, lots of different cultures in one place, I mean|sd
+B|Uh-huh.|b
+A|and it's the same thing I it's, it's almost the same thing out, out in the Soviet Union right now.|sv
+A|There, you know, there are,|%
+A|you can't take a whole bunch of people who just aren't the same people and don't want to be together and put them together forcibly.|sv
+B|Yeah.|b
+A|I mean, we did it couple of hundred years ago here,|sd
+A|but they wanted to do it.|sv
+A|So.|%
+B|Yeah,|aa
+B|and I don't think the people here two hundred years ago were that different,|sv
+B|I really don't.|sv
+A|That's, that's certainly true.|aa
+B|I mean, they had the same ideals and the same basic beliefs.|sv
+A|Right, uh,|aa
+A|I wonder, I wonder if now the people in the Soviet Union don't have ideas very different from that.|qy^d
+B|they might.|aap_am
+B|The Baltic states might be feeling the same way that our forefathers felt when they were leaving to come here ...|sv

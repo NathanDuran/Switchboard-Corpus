@@ -1,0 +1,123 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|I guess it took,|sv
+A|so I guess the recording has started now.|sv
+B|Yeah.|b
+A|Uh.|%
+B|So, have you ever served on a jury?|qy
+A|I served,|sd
+A|I was in the Air Force, and served on a court martial, uh, board a couple of times, which is very similar to a jury.|sd
+A|A lot of the same rules apply.|sd
+A|Have you ever served on one?|qy
+B|Yeah,|ny
+B|I finally served on one last year.|sd
+B|I've, um, been voting for years,|sd
+B|and I couldn't figure out why I hadn't been called yet|sd
+A|Uh-huh.|b
+B|and I finally was.|sd
+B|So it was an interesting experience.|sv
+B|I was kind of boring. *listen; should I be "it"|sv
+A|Was it civil or criminal?|qy
+B|Uh, it was, uh uh, it was, uh, well, let's see, it was municipal court|sd
+A|A grand jury or,|qrr
+A|Uh-huh.|b
+B|so it was a combination of, uh,|sd
+B|and I was in the pool for a couple of weeks|sd
+A|I see.|b
+B|so it was a combination of criminal and civil,|sd
+B|and they had, uh,|sd
+B|well most of the time we, we spent sitting around in the jury room and getting to know the other potential jurors|sd
+A|Uh-huh.|b
+B|and then, it was always exciting when we got called to, to, to go, because then we thought we might be able to do something else besides, uh, just sit in the jury room.|sv
+A|Uh-huh.|b
+A|Uh, did, did the judge, uh, hand down sentences|qy
+A|or did you folks do that?|qrr
+B|Uh, yeah,|ny
+B|the judge did.|sd
+B|Uh, I, uh, I had a hard time getting seated on a jury.|sd
+B|I kept getting, uh,|sd
+B|I'd be questioned, uh, for empaneling the jury,|sd
+B|and they kept, uh, dismissing me.|sd
+A|Uh-huh.|b
+A|Um.|%
+B|Course they don't have to give a reason,|sd
+B|but it's just whether the prosecutor or the defense attorney feels like, you know,|sd
+A|No.|aa
+B|they want to get the best, uh, mix for their case,|sv
+B|so they ask all kinds of wild questions.|sv
+A|That that's a science in itself.|sv
+B|Yeah,|b
+B|well I kept getting called up for drunk driving questions,|sd
+B|and I think part of it was they didn't, uh, they didn't like the fact that I don't drink any more.|sv
+B|So.|%
+A|Uh-huh,|b
+A|I see.|b
+A|Because you'd probably be, uh, too puritanical|bf
+A|and|%
+B|Yeah,|aa
+B|that was probably it,|sv
+B|although in my case I might have been more, uh, sympathetic with the person who got caught,|sv
+B|I don't know.|h
+A|Uh-huh.|b
+A|So, uh, were, were the, uh, sentences that the judge handed out what you thought to be fair,|qy
+A|or would,|qrr
+A|if you were deciding, do you think that they would have been different.|qy
+B|Well, I was never there, never there for any sentencing.|^h
+B|Uh, I finally got empaneled on one case, uh, on my next to the last day,|sd
+B|and, uh, we got into the, uh, jury room to, uh, decide the case,|sd
+B|and there was one guy on the jury who announced to everybody that he didn't need to deliberate, because he'd already decided that the guy was, uh, not guilty,|sd
+B|and he would never vote for guilty.|sd
+A|Huh.|%
+B|So, uh, they appointed me jury, jury foreman|sd
+B|and I, uh, didn't think that, uh, going in without deliberating allowed us to reach a verdict,|sv
+B|so I told the judge that we weren't, were unable to reach a verdict because we couldn't get one member of the jury to deliberate.|sd
+A|Um.|%
+B|So the whole thing had to be tried over again.|sd
+A|Wow,|ba
+A|I bet that made him happy.|sv
+B|Yeah.|aa
+B|Yeah,|aa
+B|it was, uh, it was funny.|sv
+B|The, uh,|%
+B|I I, I don't know,|h
+B|I, uh, I didn't, uh, uh, I didn't like not being able to deliberate.|sd
+A|Right.|b
+B|I, uh, I, I wanted to vote guilty for the guy,|sd
+B|and the other people were kind of mixed|sd
+A|Uh-huh.|b
+B|so, uh, the guy had to go through the whole thing all over again.|sd
+B|Cost him a lot of money,|sv
+B|I'm sure.|sv
+A|Yeah.|b
+A|Oh, how many members were on the jury?|qw
+A|Was it a six or twelve member jury?|qy
+B|Uh, it must have been six.|sd
+A|Uh-huh.|b
+B|Yeah.|b
+A|That's kind of curious to me.|sd
+A|I didn't realize until the, uh, Wayne Kennedy Smith trial, uh, a few months ago that they had six member juries.|sd
+A|I thought that they, you know, it was always twelve, twelve men tried and true, so to speak.|sd
+B|Um.|%
+A|But, uh, apparently for some, some crimes, it's permissible to have six people sit in judgment.|sv
+B|Um.|%
+A|I know on a|sd
+A|getting to this unanimous thing, whether, you know, a jury should be unanimous or not, or not, in a court martial case it doesn't require the jury to be unanimous.|sd
+A|It's a simple majority, you know, rules.|sd
+B|Yeah.|b
+B|Well, let's  see,|h
+B|is it on, uh, capital crimes that they have to be unanimous|qy
+B|and,|%
+A|Probably on capital,|na
+A|I don't know,|h
+A|we weren't, we, we,|%
+A|the two that I were on had to do with drugs|sd
+B|Uh-huh.|b
+A|and, uh, we were, uh, unanimous is acquitting the person, even though we in our, in our, uh, gut felt that the individuals were both guilty just because of the friends, because of various things,|sd
+A|the government really failed to prove its case,|sd
+A|and, you know, being fair to the person, if the government doesn't prove its case, no matter how you feel, you have to go by what's offered as proof,|sd
+A|and we had to acquit him in both cases.|sd
+B|Uh, it was too circumstantial?|qy^d
+A|Uh, yeah,|ny
+A|it was, yeah, in some of the critical things, like the special investigations, at one time in one of the cases had videotaped this person,|sd
+A|but something happened to the camera and the tape and|sd
+B|Um.|%
+A|all they could do was testify,|sd

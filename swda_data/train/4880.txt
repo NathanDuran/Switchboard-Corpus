@@ -1,0 +1,91 @@
+B|Okay.|fo_o_fw_"_by_bc
+B|Well, uh, I'll let you start, I guess|ad
+A|Well, uh, yeah,|b
+A|I, I'm employed by a company that does do, uh, random drug testing|sd
+A|and I've got some very definite, uh, opinions about it. Uh, you know, which haven't changed all that much from my first reactions from, from when they, when they announced it. But, uh, developed a little more, I guess, but haven't changed that much.|sd
+A|What about you?|qo
+A|Are you, uh, involved at all?|qy
+B|Uh, no.|nn
+B|I mean, I'm not,|sd
+B|my employer does not do that. Uh, although, uh, I had an ex-employer that,|sd
+B|uh, the previous job I used to have, uh, they,|sd
+B|after, I guess a few years after I had started with them they made it a condition of employment that you pass a drug test.|sd
+A|Yes.|b
+B|Uh, I, I don't know.|h
+B|My feeling is that certain jobs that when there's immediate threat to life and limb, uh, if should somebody be under the influence of drugs, I, I'd be willing to support that.|sd
+B|For example, uh, uh, well, uh, uh, train engineers.|sd
+A|Yeah.|b
+B|Because it, you know, uh, like, there was an incident several years ago where an Amtrak engineer you know|sd
+A|Right.|b
+B|he crashed and killed some people because he was, uh, smoking some marijuana|sd
+B|and I guess air traffic controllers. I wouldn't want them to be on drugs. And airplane pilots.|sd
+B|But where it's not necessary, uh, in that regard, where it's not an immediate threat to life and limb or property uh, I, I'd, I would seriously question it.|sd
+A|Yeah.|b
+B|Uh, so.|%
+A|Yeah.|b
+A|Yeah.|b
+A|It, uh, that's, that's mine.|sd
+A|It, it, you know,|%
+A|I, I go back,|sd
+A|it, to me, no matter how much the, our company claims it's not a constitutional issue. That, because this is, uh, between a company and an employee it is not, it is not a government,|sv
+A|it's not,|sv
+A|the Constitution doesn't apply.|sv
+A|But I it, it seems to me that it still should.|sv
+A|I, I, our company's doing it because they're a, uh, government contractor|sd
+A|Uh, and so it's, it's required for certain, some form, some form of drug program is required to get the government contracts|sd
+B|So it's the government that's mandating it to a certain extent?|qy^d
+A|Okay.|%
+A|and our company has taken that and gone all the way.|sd
+A|Say,|%
+A|okay, uh,|%
+A|first off we don't, we don't have enough courage to, uh, pick out the people that, that have some sort of indication of possible drug usage, uh, because that would offend them, uh, if they, if they weren't.|sv
+A|So we'll just accuse everybody of using drugs and, make it all even.|sv
+A|Uh,  and  and, uh|%
+B|Yeah.|b
+B|Well,|%
+A|then, uh,|%
+A|but and they,|%
+A|so it's, a, a complete random testing|sd
+A|well it's random in the sense that you don't know when.|sd
+A|It is not random in the sense that they have said that within three years everyone in the company will be tested.|sd
+B|Huh.|%
+A|Uh, and, uh, you know, I, I sit at a terminal and, and write software all day.|sd
+A|It, it, uh, certainly has no life threatening, uh, capabilities uh, you know, in, in my job.|sd
+B|Right.|b
+B|And,|%
+A|And, and, uh, yes|%
+A|I, I agree that there are, there are, uh, jobs that are definitely life threatening|sv
+A|and, and, and there needs to be a line drawn somewhere at, reasonable and proper.|sv
+A|you know,|%
+B|Yeah,|aa
+B|yeah.|aa
+B|I agree.|aa
+B|I mean it's, well there's also the issue of, uh,|sd
+B|out here, I remember hearing a year or so ago, that, uh, a lot of,|sd
+B|there was a high error rate in the analysis of drug results.|sd
+B|or, I shouldn't say high|sd
+A|Well,|%
+B|I mean several percent|sd
+A|Yeah.|aa
+A|I, that, that I, that I will give credit to, to our, our company for in that, that, I think there's, there's a couple of levels of tests in terms of, of, uh, of drugs.|sd
+A|And essentially the first thing is is on the order of paper in the urine and, uh, or some, you know,|sd
+A|it's not quite that simple,|sd
+A|but it's fairly simple.|sd
+B|Kind of a coarse kind of test.|bf
+A|Coarse kind of test.|b^m
+A|And then there's a, a much more, uh, uh, refined test, uh, uh, spectrography or whatever it's called.  The  chemotography uh, to determine exactly what the, what the things are.|sd
+B|Is that done,|qy
+B|Right.|b
+A|And, uh,|%
+B|Now let me ask you this.|ad
+B|Uh, at the time you hired on with this company, uh, was that prior to  any,|qy
+A|No,|nn
+A|I,  I've been with this company for, uh, for sixteen years now.|sd
+B|Okay,|bk
+B|so that this is obviously not a condition of employment that you  subject yourself to this|qy^d
+A|And, uh,|%
+A|No.|nn
+A|And it, and  it, and it has, it has, you know,|sd
+A|they did that three or four years before they did it with everybody.|sd
+A|And I, uh, at that time I could justify it in terms of someone new coming in, you don't, you don't know.|sd
+A|But, on the other hand, uh, someone new coming in that knows they're going to have a test,|sd

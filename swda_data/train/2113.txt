@@ -1,0 +1,177 @@
+A|Uh, the last movie that I saw,|sd
+A|I, I don't go to that many|sd
+A|so I'll just have to talk about the ones that I went to see,|sd
+A|but, uh, it was AWAKENINGS with, uh, Robin Williams and, uh, Peter DeNiro.|sd
+B|Okay.|b
+B|Yes,|b
+B|uh-huh.|b
+A|Have you seen it.|qy^d
+B|No|nn
+B|unfortunately I haven't,|sd
+B|I heard it's really good,|sd
+B|but.|%
+A|It is.|sv
+A|I just have to take my hat off to Peter DeNiro.|sv
+B|Uh-huh.|b
+A|He is one of the best actors I've ever seen.|sv
+A|It's,|%
+A|there's a point where,|%
+A|the, uh, the show is about these, uh, catatonic type people that,|sd
+A|this doctor discovers a drug that brings them back to the, the living, more or less,|sd
+A|but it wears off.|sd
+B|Uh-huh.|b
+A|And the way it wears off is he goes through all these spastic, you know, uh,|sd
+A|it starts off with like a tic,|sd
+B|Uh-huh.|b
+A|and then it gets to where he can't, you know, control his movements at all.|sd
+A|And it was just so realistic.|sd
+A|The way, you know, you have to just keep reminding yourself that he's an actor.|sd
+B|Uh-huh.|b
+B|What does, uh,|qw
+B|is|%
+B|Robby, Robin Williams, does he have a funny part in it?|qy
+A|No,|nn
+A|it was very serious, very|sd
+B|Oh how does he do serious.|qo
+A|He's good,|sv
+A|he's, he's talented,|sv
+A|boy, he is.|ba
+B|I've only seen him in funny stuff|sd
+B|and so.|%
+A|I know,|b
+A|me too.|sd
+A|But, uh, well, what was that show, um, uh,|qw^d
+A|I want to say Garfield|sd
+A|but that wasn't it.|sd
+B|Yeah,|b
+B|uh, GARP, THE WORLD ACCORDING TO GARP.|sd
+A|Yeah,|aa
+A|THE WORLD ACCORDING TO GARP.|sd
+A|He wasn't always funny in that show, was he.|qy
+B|I didn't read, see the, the movie,|no
+B|I read the book|sd
+B|but I,|%
+A|I did too.|sd
+A|That's why I was thinking it couldn't be just a totally funny part|sd
+B|Yeah,|b
+B|in fact, it got some pretty serious deep parts in it|sd
+B|so.|%
+A|Yeah,|b
+A|right.|b
+B|Yeah.|b
+A|Well what have you seen?|qw
+B|I think the last movie that we went out to see was DANCES WITH WOLVES.|sd
+A|Oh, I saw it.|sd
+B|Good,|b
+B|we've both seen one|sd
+B|Did you cry through it?|qy
+A|Yes,|ny
+A|the whole way|sd
+B|It was telling a friend, I, I said, I only cried twice,|sd
+B|but each was about half an hour long,|^q
+B|so.|%
+A|Where did you cry.|qw^d
+B|Um, let's see,|^h
+B|when I, each time that I thought that the Indians were going to get killed, I cried.|sd
+A|Uh-huh.|b
+B|Um, I cried the first time when the, um, the wagon man got killed, when they attacked him.|sd
+A|Uh-huh,|b
+A|yeah,|b
+A|yeah.|b
+B|And, uh, I think from there on, all the way through the movie.|sd
+B|Let's see what else did it. Um, what other parts.|^h
+B|I can't remember any of the other parts right off now.|sd
+A|I cried when the horse got killed and when the wolf got killed|sd
+B|I don't remember when the horse got killed.|sd
+A|Oh,|%
+A|when he was riding back to the settlement and they shot his horse out from under him.|sd
+B|Oh, yeah.|b
+A|And then he, uh, the next day he looked out there and saw those buzzards, you know|sd
+B|Uh-huh.|b
+A|And that horse has been such a pal to him, when he was alone.|sd
+B|Yeah.|b
+A|You can tell I'm an animal lover,|sv
+A|you can hear my dog|sv
+B|Unfortunately we don't have any animals,|sd
+B|so, uh.|%
+A|Yeah.|b
+A|It was a beautiful story,|sv
+A|it really was.|sv
+B|It,|%
+B|there was a lot of pretty scenery, too, in that movie.|sv
+A|Uh-huh,|b
+A|uh-huh.|b
+B|What did you think about the buffalo scenes.|qw^d
+A|Oh, I thought it was awful, and so graphic,|sv
+B|That was,|aa
+B|Yeah.|b
+A|I mean I hadn't even imagined it, you know.|sd
+A|I think we all heard the story of the slaughter of the buffalo.|sv
+B|Uh-huh.|b
+A|Um, I had a friend who had fixed some, uh, chili, buffalo chili and, about a week before went to see the movie.|sd
+B|Oh, oh.|b
+A|Of course they raise them now, you know, to eat.|sd
+B|Uh-huh,|b
+B|yeah,|b
+B|it's not,|%
+A|But she, we were both feeling so guilty about enjoying this chili after seeing that.|sd
+B|Uh-huh,|b
+B|well at least you know that it wasn't same situation that the buffalo died in.|sd
+A|No|aa
+A|it wasn't|sd
+B|Um, I thought the scenes when the buffalos running, though, were beautiful,|sv
+B|like that was great.|sv
+A|Oh, yeah.|aa
+B|And there were so many of them.|sd
+B|I didn't know that, that many buffaloes alive, much less in one place.|sd
+A|Yeah,|b
+A|really.|b
+B|So that was pretty.|sv
+A|And to think about how it just changed the whole landscape, you know, you could follow this, this beaten down path,|sd
+B|Yeah.|b
+A|and it sounded like thunder and earthquakes and that sort of thing.|sv
+B|I wonder how they kept up with them, though,|sd
+B|it seemed like the buffaloes were moving so fast.|sd
+A|I know.|aa
+B|I guess they graze, though,|sd
+B|that wouldn't be a problem.|sv
+A|Yeah,|b
+A|yeah.|b
+A|Uh, have you seen any of the behind the scenes, uh, of, of that movie.|qy^d
+B|No,|nn
+B|huh-uh.|nn
+A|It was,|%
+A|they tried to keep it, you know, as very close to real.|sv
+B|Uh-huh.|b
+A|I mean like Kevin Costner did all of his own scenes|sd
+A|and, uh, they had to teach a wolf how to, to howl.|sd
+B|Oh.|b
+A|That's the, part they had trouble finding was wolves|sd
+B|I guess they're just not domesticated,|sv
+B|or, or,|%
+A|Yeah,|b
+A|what,|%
+A|they just don't howl that much anymore.|sv
+A|I could bring them in with my dogs and set a siren off|sd
+A|and that's all they'd have to do|sd
+A|Yeah.|b
+B|Well that's funny.|ba
+A|Well, I think we've made it.|sv
+B|Oh is that five minutes,|qy^d
+B|is that,|%
+A|I don't know,|no
+A|is it five or three.|qy
+B|Okay, oh,|bk
+B|I'm not sure.|no
+A|I'm not either.|sd
+B|Okay,|b
+B|well I think we're, we're, we've done okay, though.|sv
+A|Okay,|b
+A|me too.|aa
+B|Well thank you for calling.|fc
+A|Well thank you.|fc
+B|And I hope you enjoy some more good movies|fc
+A|Yeah,|fc
+A|you too.|fc
+B|Bye, bye.|fc
+A|Bye, bye.|fc

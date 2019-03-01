@@ -1,0 +1,243 @@
+A|Do are you on a regular exercise program right now?|qy
+B|Yes,|ny
+B|and I hate it|sd
+B|How about you?|qo
+A|Oh, well, I'm kind of off and on.|sd
+B|Off and on|b^m
+B|well, I guess I've been kind of off and on|sd
+B|I've, uh, Had some health problems that have led me to, uh,|sd
+A|Right now I'm kind of off.|sd
+B|I'd say more on than off|sd
+A|Okay,|b
+A|what type of exercise do you do?|qw
+B|Uh, I do walking on the treadmill,|sd
+B|and then I do low impact aerobics.|sd
+A|Okay.|bk
+A|I guess you don't enjoy that very much.|qy^d
+B|Not, not really.|ng
+A|Do you find that, uh, to be boring?|qy
+B|Yeah,|ny
+B|and time consuming,|sd
+B|I mean it's not just the exercise that's boring and time consuming,|sv
+B|it's, uh, you know, afterwards, you know,|sv
+B|then you have to take a shower and get cleaned up, you know.|sv
+A|Yeah.|b
+A|Well, I'm trying to get back in shape for softball this spring.|sd
+B|Oh, yeah.|b
+A|But I,|%
+B|Do you go through this, is this something that you go through every year|qy
+A|Yeah,|ny
+A|I haven't decided whether, whether I want to play yet or not|sd
+A|I just bought myself a solo flex machine,|sd
+A|I don't know if you've seen those advertised on T V.|qy^d
+B|Uh-huh.|ny
+A|It's one of those, uh, universal type machines, exercise machines.|sd
+A|But I haven't really sat down and used it match yet,|sd
+A|so it's collecting dust right now.|sd
+B|Yeah,|b
+B|a lot of things do that.|sv
+B|I had an, I had an exercise bike|sd
+A|I used to jog somewhat.|sd
+B|I use to have one,|sd
+B|and I finally got rid of sit cause I never used it,|sd
+B|but I do use my treadmill|sd
+A|Uh-huh,|b
+A|well, that's good.|ba
+A|Yeah,|%
+A|my parents have a treadmill|sd
+A|it's,|%
+A|when I go visit them, uh, I get on that thing every now and then.|sd
+B|Yeah,|b
+B|it's nice because when the weather's bad you can't, you don't have any excuse.|sv
+A|Uh-huh,|b
+A|I just got the bicycle out today,|sd
+A|and it was real nice outside,|sd
+A|had to get out to do something.|sd
+B|Yeah,|b
+B|I can't ride a bike|sd
+B|so.|%
+A|I've been sitting in here in the house all weekend with a cold|sd
+A|so thought I, better, better get outside and do something and not waist the day.|sd
+B|Oh.|b
+B|Yeah,|b
+B|it's too nice,|sv
+B|it's been too nice all weekend.|sv
+A|But, uh, yeah,|b
+A|I need to start jog something again.|sv
+A|I've always of that to be, uh, really one of the best forms of exercise,|sv
+A|but it's terribly boring,|sv
+A|and so I really don't ever keep a program up consistently.|sd
+B|Have you ever had any injuries from jogging?|qy
+A|No,|nn
+A|I never have.|sd
+A|Well, I don't job enough I think to develop any injuries|sv
+A|I usually only go about a mile or two.|sd
+B|I guess it worries me about jogging it's that I hear that it's very hard on your body and, and that, you know, you can end up getting hurt, worse.|sd
+A|Yeah,|b
+A|it's, it's tough on the joints if you jog on concrete, or on asphalt.|sv
+B|Uh-huh.|b
+A|Suppose to be much better if you find grass, uh, or, or dirt to jog on.|sv
+B|Yeah,|b
+B|that's not quite so so easy.|sv
+A|You have to have the right, type of shoes too,|sv
+A|that's, very important.|sv
+B|Yeah.|b
+B|Yeah.|b
+B|I found that, true especially from walking on toe and fronts .|sd
+A|But,|%
+A|Yeah,|b
+A|I don't have to buy jogging shoes all to often|sd
+A|my don't get very much use|sd
+B|Well, I guess my breakdown about, they say about every six months.|sv
+A|Uh-huh.|b
+A|I usually enjoy the exercise I do|sd
+A|but, uh, like I said I'm just not very consistent about maintaining a, a program.|sd
+A|So I'll, I'll bicycle|sd
+A|I get into that for, for a little while and maybe go out, uh, on a consistent basis every couple of days and ride a bike for awhile,|sd
+A|but then I'll get tired of doing that, and maybe start jogging again and go out about three or four nights a week.|sd
+A|But, uh, that gets old too in a very short order,|sd
+B|Yeah.|b
+A|I'm, I'm hoping that this, uh, solo flex will, uh, uh, change things a little bit,|sd
+A|I really need to get on a regular type of program and use that thing on a consistent basis.|sd
+B|Yeah,|b
+B|well, don't let it collect dust.|ad
+B|At least exercise while dusting it off|ad
+A|Yeah.|b
+B|well.|b
+A|Maybe if I can get interested in playing softball again this string I can, uh, start some type of, uh, regular program.|sd
+B|Yeah,|b
+B|that, that'll be good.|ba
+A|I've always found that, uh, when you write things down and set goals it's a lot easier to keep, uh, keep something going.|sd
+B|Uh-huh.|b
+A|Uh, when I was in high school we had a choice of, uh, taking, uh, physical education courses on exercise,|sd
+A|an, uh, one of those involved a six weeks session on a universal machine, lifting weights and, uh, working out like that.|sd
+B|Oh.|b
+A|And that was very helpful|sd
+A|we kept charts of our progress, and, uh, consistently increased the empty of resistance so you could see how much you improved over the weeks.|sd
+B|Uh-huh.|b
+A|I found that to be, uh, very helpful.|sd
+B|Are you going to do that?|qy
+A|Uh, I need to,|no
+A|I haven't started yet|sd
+A|but, uh, it's a thought.|sv
+B|Well, that sounds like something good to do then.|sv
+A|Sounds like something I should do.|sv
+B|Yeah,|b
+B|nice way to start off this spring. Get back in shape.|sv
+A|How often do you, uh, uh, go out each week on your walking?|qw
+B|Well, I do,|sd
+B|I switch every other day|sd
+B|one day I walk|sd
+B|and one day I do the aerobics.|sd
+A|Okay,|bk
+A|how far, about how far do you go walking?|qw
+B|Well, I'm trying to get my tolerance now|^h
+B|I just had surgery, um, less then two months ago,|sd
+B|and right now I'm just a little over about a mile and a half,|sd
+A|Okay.|bk
+B|but I'm trying to workup to three miles.|sd
+A|Well, that's good.|ba
+A|Well they say that walking is just as good if not better then jogging.|sv
+B|Yeah,|b
+A|It,|%
+B|it takes, it's just that it takes longer to get to the same effect.|sv
+A|Sure.|b
+B|Yeah,|b
+B|but.|%
+A|Well, if you keep up with a consistent pace just to, uh, keep the heart rating going, uh,|sv
+B|My walkman broke,|sd
+A|Yeah.|b
+B|so I'm upset|sd
+B|and I just have to turn to stereo up real loud|sd
+A|Yeah.|b
+A|But it's a lot less stressful on the joints then jogging is.|sv
+B|Yeah,|aa
+B|it is|aa
+B|and this doesn't, you know,|%
+B|my treadmill has an incline|sd
+B|and, you know, you can get a really good workout on it.|sv
+A|Um, do you go to an aerobics class|qy
+A|or do you watch, on T V?|qrr
+B|No,|nn
+B|I, I just do it on T V,|sd
+A|Okay.|bk
+B|I have a cassette.|sd
+A|Which, uh, shows do you watch on T V?|qw
+B|Um, it's a, it's a|%
+B|I use tapes.|sd
+A|Oh, okay,|bk
+A|okay,|b
+A|like a Cathy Smith workout,|bf
+B|Or, or Richard Simmons,|sd
+A|or Jane Fonda.|^2
+A|Okay|bk
+B|Sweating to the oldies|bf
+A|Right.|aa
+A|I, every now and then I'll watch E S P N,|sd
+A|I get cable on T V,|sd
+B|Uh-huh.|b
+A|and they have, uh, a couple of shows called basic training,|sd
+A|and, uh, what is the other one called.|qw
+B|There was one guy I use to watch on E S P N,|sd
+B|I don't know if he's still on any more or not,|sd
+B|I I don't know if I get E S P N or not|sd
+A|Uh-huh.|b
+B|But, uh, one, you know,|%
+B|I use to watch one, watch one on the air,|sd
+B|but that was back,|sd
+A|BODIES IN MOTION that's, that's the name of the one I was thinking of. With Gill.|sd
+B|That's was,|%
+B|yeah.|b
+B|Yeah.|b
+B|Yeah,|b
+B|I watched that cause he was cute|sd
+A|Yeah,|aa
+A|he's not bad|aap_am
+A|his assistants usually aren't either.|sv
+B|But, uh,|%
+A|They're always in, in Hawaii some place. On, on the beach.|sd
+B|Yeah,|b
+B|yeah.|b
+B|But then that was back when, uh, you know, the high impact and,|sd
+A|Yeah,|b
+A|well, they, they do low I pact stuff now,|sd
+B|Do they.|bh
+B|Are|%
+B|yeah|b
+B|they're still, they're still, he's still doing it then, uh.|qy^d
+A|Yeah,|ny
+A|every morning.|sd
+B|I'll have to tune in.|sd
+A|It's on E S P N, uh,|sd
+A|at what time,|t1
+A|I can't remember what time.|sd
+A|It's, uh, you know,|%
+A|I can't remember offhand what time.|sd
+B|I'll have to check it, check, check, check it back up,|sd
+A|Yeah|b
+B|and, but the thing is everybody always looks so good on that show, at least on|sv
+A|Yeah,|b
+A|every now and then.|%
+B|Not everybody has a picture perfect body.|sv
+A|Uh-huh,|b
+A|well, I found that they, they have just a much better program than the other shows that are on T V.|sv
+B|I haven't watch any other ones on T V. watch=watched Just on some of the tapes.|sd
+A|They're on weekdays at eleven o'clock every day. Monday through Friday incase you're interested in that.|sd
+B|Okay,|b
+B|thanks.|ft
+A|but, uh, I haven't done so much as, uh, watch the tape that I made.|sd
+B|Now, that's a thought.|sv
+A|So I'm kind of bad about that myself.|sd
+B|Well, that's thought,|sd
+B|I haven't thought about that,|sd
+B|well they're going to beep us pretty soon.|sd
+A|Okay,|b
+A|well, I sure enjoyed, to you about exercise and fitness.|fc
+B|Nice talking to you too.|fc
+B|Okay,|fc
+B|thanks.|ft
+A|So, all right.|fc
+B|Talk to you later.|fc
+A|Good night.|fc
+B|Bye.|fc
+A|Bye.|fc

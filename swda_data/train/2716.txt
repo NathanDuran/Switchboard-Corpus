@@ -1,0 +1,305 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|do you have any, uh, ideas on universal health insurance?|qo
+A|Do you have any strong opinions?|qy
+B|Yeah,|ny
+B|I think it's probably a good ideal,|sv
+A|You do?|qy
+B|uh, I  think, given, uh, given, well given that there are so many people who don't have health insurance. It's probably a real smart thing,  at  least to have some basic coverage for everyone.|sv
+A|Uh-huh.|b
+B|I mean, you hear these horror stories of people, homeless people going to the hospital and,  and  being thrown out because they have no insurance,  and  having to go to someplace else.|sv
+A|Yeah.|b
+A|Right.|b
+B|You know, it would be nice if, no matter where you are, or who you are, what happened, you know, what happened to you, you just go to the hospital and they say, Okay, just, just take him,|sv
+B|and we will worry about who he is later|^q
+A|Yeah.|b
+A|Yeah,|b
+A|I feel like there should be some kind of coverage made,|sv
+A|but I, I'm really leery of a, kind of a government administrative health insurance or medical plan, because I just feel like everything that the government takes over is just going to be run much poorly|sv
+A|and it is going to be about six times more expensive.|sv
+B|Yeah,|aa
+B|I know, that, that's certainly true.|aa
+B|But, I wonder about like, like in Canada.|sd
+A|Uh-huh.|b
+B|In Canada, where everybody, uh, everybody automatically has insurance in Canada.|sd
+A|Right,|b
+A|and they have that in England too,|sd
+A|but I think that it's a pretty poor,|sv
+A|they get a lot lower quality care than we do.|sv
+A|Now, I know some people don't agree with me,|sd
+A|but, uh, I know you have to wait real long time to get, for certain surgeries that aren't emergency,|sv
+A|and you don't have the kind of choices that we have here,|sv
+B|Yeah.|b
+A|And,  uh, I've worked a lot in doctor's offices and hospitals|sd
+A|and I really don't want to give up having those choices.|sv
+B|That's true.|aa
+B|That's, that's true.|aa
+A|I think,|%
+A|I mean, there is a night and day difference between good doctors and bad doctors, and good hospitals and bad hospitals.|sv
+B|That's true,|aa
+B|that's true.|aa
+A|And in England, at least at the time when I was familiar with it, about ten years ago, they just told you what day you had to show up and where you had to show up and who your doctor was going to be.|sd
+B|Oh, you|%
+B|so didn't get any choices at all?|qy
+A|No,|nn
+A|no.|nn
+A|I mean that.|sd
+B|Oh, that's a problem.|ba
+A|Yeah.|b
+B|Yeah,|b
+B|because I know, I know even among,|sd
+B|even now, the way we have it now, there are still.|sd
+A|It's getting worse,|sv
+A|isn't it?|^g
+B|Yeah,|ny
+B|I mean like we have,  an  H M O allows us to pick our own physicians.|sd
+A|Yeah.|b
+A|Right,|b
+A|right.|b
+B|I mean I picked a primary care physician and just didn't like him, you know.|sd
+A|Uh-huh.|b
+B|I had to switch because I just thought he was a quack.|sd
+A|Right.|aa
+A|That's exactly the problem,|aa
+A|there's just so many, such variation|sv
+A|and it's,|%
+A|but see, I guess, what they had in England, and I guess in Canada is socialized medicine.|sv
+A|So maybe, that's like the extreme of it.|sv
+A|Do you think?|qy
+B|Yeah,|aa
+B|yeah,|aa
+B|that is the extreme,|sv
+B|and what that, what that I think that tends to do though is I think that tends to,|sv
+B|it probably has two, a good and a bad side,  for  young people wanting to become doctors. Which again a lot of people who are motivated, because the money isn't, I guess, as much,  for  doctors anymore,|sv
+A|Uh-huh.|b
+A|Right.|b
+A|Right.|b
+B|so  you wind, you wind up getting the people who really want to be doctors, being doctors,|sv
+A|Really want to.|^2
+B|but then again, you know, you don't get those people who would be good,  and  are real smart and decided, Hey, I want to make a lot of money,|sv
+A|Right.|b
+B|so I will go into medicine.|^q
+B|You don't get those.|sv
+A|Right,|aa
+A|or that,|%
+A|yeah,|aa
+A|exactly,|aa
+A|or people also get the feeling that, well jeez, you know, you don't have to worry about, you have a lot of job security there,|sv
+A|and it's more of, uh, seniority, I would imagine kind of thing, instead of having a skill or, or whatever to advance,|sv
+B|Yeah.|aa
+B|That's true.|aa
+A|so you don't  necessarily get the kind of quality control or the kind of,|sv
+A|I don't know.|h
+B|Yeah,|b
+B|it would be nice to see something where at least,|sd
+A|I think we have to have something.|sv
+A|We really do.|sv
+B|I mean, even something that says you know look, free major medical for all, you know, everyone|sv
+B|and then,  beyond  that, you could work out on your own if you want.|sd
+A|Yeah.|b
+A|Yeah,|b
+A|I know,|ba
+A|I, I don't know,|h
+A|I,|%
+A|having worked in doctor's offices and stuff I see it from a physician's point of view.|sd
+A|And I, I think the problem with the skyrocketing cost right now is the insurance companies because,  I don't  see doctors getting real rich,|sv
+B|Uh-huh.|b
+B|Oh, yeah.|b
+A|and I think hospitals do make money, but not nearly as much as insurance companies.|sv
+B|Oh, right.|b
+B|No.|nn
+A|I think they are really making a killing and nobody is talking about it.|sv
+A|Nobody's,|%
+B|Yeah,|b
+B|they are the ones who make,|sv
+B|I mean they are the ones,|sv
+B|they have, you know, the although,|sv
+B|I mean, it's|%
+B|the unfortunate part of that is that the people, I think, tend to forget that doctors are humans as well.|sv
+A|Uh-huh.|b
+B|So that|%
+B|insurance companies have to charge a substantial amount for certain people, or certain types of, of doctors, given that, you know, someone decides to have a malpractice suit against them, well, they could take, you know, it could be millions, I mean, unfortunately.|sd
+A|Right.|b
+B|And if the doctor, whether, it was, you know,|%
+B|I mean I'm sure there are those cases where, where the doctor is wrong or malicious or something.|sd
+A|Right,|b
+A|right.|b
+B|But you know their, you know. Mistakes, you know.|sv
+A|Their mistakes are made.|^2
+A|Right.|b
+B|Everybody makes mistakes, unfortunately.|sv
+A|Sure.|aa
+B|It shouldn't be a billion dollar, you know, industry.|sv
+A|Yeah.|b
+B|and this is, this is their compensation.|sv
+B|Not,|%
+A|So, yeah,|b
+A|I think that's the legal part of it coming into it to.|sv
+B|Yeah,|b
+B|that is a big problem.|sv
+A|I wonder if we should have a limit on how much people can sue for.|sv
+B|That would be nice.|aa
+A|Or, or, I don't know because then that's where the insurance company,|sd
+B|Uh-huh.|b
+B|It would be a lot better.|sv
+B|Yeah,|%
+A|Yeah.|b
+B|I  mean I'm sort of in a, in a government run medicine program.|sd
+B|Sort of.|%
+B|I'm in a,|%
+A|Are you?|^g
+B|Well, well I'm a graduate student.|sd
+A|Okay.|bk
+B|And, uh.|%
+A|At where?|qw
+A|Oh, okay.|bk
+A|Uh-huh.|b
+B|I'll  bet you are in Texas.|sv
+A|I|%
+A|what?|br
+A|I'm in Texas|sd
+A|yeah,|%
+A|yeah.|%
+B|I was going to bet that,|sd
+B|okay.|b
+B|Uh, yeah,|%
+A|Uh-huh.|b
+A|Oh, great.|ba
+A|Yeah.|b
+B|And because the university, the university offers me two plans.|sd
+B|They offer what they call the mandatory version,  which  is basically major medical|sd
+A|Oh.|b
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Okay.|b
+B|And, they don't,|%
+B|and even though my, my wife's insurance covers me,  for  everything, I still have to pay them a hundred and some odd dollars a semester.|sd
+A|Yeah.|b
+A|Uh-huh.|b
+A|Oh, no.|ba
+B|And that's for the mandatory portion of the insurance.|sd
+A|That, that, that can't be legal.|sv
+B|Yeah,|b
+B|I'm not actually sure if it is or not|sd
+B|but, people sort of keep fighting it|sv
+B|and I'm,|%
+B|and I mean to keep fighting it,|sd
+A|Oh, my gosh.|ba
+B|but you know,  it's just one of these things where I just don't want to spend my time.|sd
+A|How can they, how can they make you pay for insurance coverage?|qw
+B|Well, the reason,|%
+B|their rational is, is they make everyone pay for it so that it, it keeps the cost of university health services down,|sd
+B|and everyone can use it.|sd
+B|You know it.|sd
+A|How, how does it keep the cost down?|qw
+B|Because everyone is now forced to pay for this.|sd
+B|And there is like an,|%
+A|Oh, so they just use the money for something else besides your insurance policy?|qy
+B|Well, no,|nn
+B|well, yeah,|ny
+B|well what they use it|sd
+B|no,|nn
+B|what they use it for is, is, is university health services.|sd
+B|We have a,  we  have a hospital here, and a subportion of the hospital.|sd
+A|So you're subsidizing the hospital.|qy^d
+B|Right|na
+B|obviously, we're paying for the welfare state.|sd
+B|Now, as it turns out, as it turns out, uh, my wife and I have chosen to use the university as,  health  services as our primary care facility.|sd
+A|Uh-huh.|b
+B|We can do that.|sd
+A|Oh, good.|ba
+B|So, in, in,|%
+B|but in effect, I'm paying twice for one service.|sd
+B|So,|%
+A|You are, you are|aa
+A|I know.|ba
+A|And see that's the thing,|sd
+A|that is the thing,|sd
+A|now that I'm in my thirties now, and I have three kids|sd
+A|and I mean, I'm very liberal.|sd
+A|I'm extremely liberal,|sd
+A|and, uh, I,|%
+A|but now I just in the last couple of years. I have gotten to the point where I am saying I just cannot afford to pay anymore,  to  help people out.|sd
+B|Uh-huh.|b
+A|I, I want to keep helping people out|sd
+A|but I need for the government or the agencies, to find a way to do it on the amount of money, you know, that I can afford.|sv
+B|Yeah.|b
+A|I just can't afford anymore.|sd
+B|Yeah.|b
+A|It's, it's just outrageously.|sv
+A|It's just starting to get me angry,|sd
+A|and for the first time in my life. I am starting to feel like I, I.|sd
+B|Yeah.|b
+B|Well that's, that's certainly true,|na
+A|I mean, if I can't afford to have some kind of optional operation for myself.|sd
+A|Because our, our medical coverage has gotten increasingly worse over, let's see, the past five years, to the point now where even if we need surgery, our insurance only covers eighty percent of it.|sd
+B|Right,|b
+B|which is ridiculous.|ba
+A|And, right|b
+A|and so no matter what happens to me, if I get in a car accident this afternoon, I have no way of, you know, no way of being able to afford the outrageous medical costs,  because  my insurance is now only eighty percent of whatever it's going to be.|sd
+B|Yeah.|b
+A|And, uh, so on top of that, uh, then, what if I, what if we decide to have universal health insurance,|sd
+A|I'm subsidizing,|sd
+B|Everybody else.|^2
+A|And what if they are lucky enough to get into a doctor and a program that's going to say, Okay, well, you really need to have those varicose veins fixed, or your teeth fixed or something like that.|sd
+B|Right.|b
+A|And I am paying for it.|sd
+A|You know, stuff like that has happened with education and with other things that you hear about|sv
+A|and it's just, Wait a minute|t1
+A|You know, my kids aren't getting that.|sd
+A|How come their, their kids are getting that?|qw
+B|Yeah.|aa
+B|Exactly,|aa
+B|I don't, I don't, uh.|%
+A|And I know it's only in a few cases|sd
+A|and I don't want them to, uh, to cut funding for welfare programs or anything.|sd
+A|I don't want them to do that, because I know a lot of people, they live right on the edge|sd
+A|and they need that.|sv
+B|Uh-huh.|b
+A|But, but.|%
+B|Yeah,|b
+B|it's, it's one of the strange,|sd
+B|I think it's strange that as you get older.|sv
+A|Uh-huh.|b
+B|I think, I think the tendency is that as people get older,  and  gain, I don't want, I don't want to say more responsibility, but you know, things like homes and kids,|sv
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Right.|b
+A|Well, yeah,|b
+A|that's,|%
+A|and it's, uh, it's funny because a couple of years ago, I heard a quote from Winston Churchill.|sd
+A|Let's see if I can remember it,|^h
+A|anybody who's not a liberal in his twenties has no heart,|^q
+A|and a person who is not a conservative in his fifties has no brain.|^q
+A|It was something like that|h
+B|That's probably very true.|aa
+A|Yeah,|b
+A|and I don't know,|h
+A|I guess that's what's happening to me,|sd
+A|but I, I think it's just starting, uh,|sd
+A|it's, it's,|%
+A|I, I don't know maybe other people,|sd
+A|I,|%
+A|do you think it's a sign of the times, that people are starting to say, All right, we really mean it, no more taxes|qy
+A|or maybe this is just my own personal.|sd
+B|No,|nn
+B|I think, I think people are starting to really mean it,|sv
+B|I mean everywhere you, you look, you are getting something new.|sv
+B|I mean, you start off,  you  know, especially, uh,|sv
+A|Yeah.|b
+B|you guys I believe in Texas you don't have state tax, do you?|qy
+A|No,|nn
+A|no income tax.|sd
+B|Right,|b
+B|we have, we have federal income tax. State income tax, local income tax.|sd
+A|Yeah.|b
+A|Oh.|b
+A|Oh.|b
+A|Wow.|ba
+B|So on top of the federal tax on gasoline,  we  have state tax on gasoline,|sd
+A|Yeah.|b
+B|so we are just.|%
+A|Yeah,|b
+A|but I tell you, uh, we have incredible property taxes down here.|sd
+B|Oh, that could be, uh, making up for the difference.|sv
+A|Yeah,|b
+A|and we don't have the services either that other states have.|sd

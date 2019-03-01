@@ -1,0 +1,152 @@
+B|Well, I suppose we both have credit cards.|sv
+A|Uh-huh,|aa
+A|yeah,|aa
+A|they seem to be a part of life|sv
+B|Yeah.|b
+A|Yeah,|b
+A|how do you use them?|qw
+B|Well, I do use them.|sd
+A|Uh-huh.|b
+B|Uh, I have a few favorites that I use more than others|sd
+B|and, uh, I try to keep my balances fairly reasonable.|sd
+B|I, I could probably pay them off any month if I wanted to.|sd
+A|Uh-huh.|b
+B|Uh, but occasionally they can get out of hand and get higher when, when you start using more than a few|sv
+A|Uh-huh.|b
+B|and, uh, they all can build up.|sv
+A|Uh-huh.|b
+B|Uh, I think they're handy.|sv
+B|I just get, uh,|sd
+B|I don't carry a lot of cash with me|sd
+A|Uh-huh.|b
+B|and, uh, I hate writing checks when you go shopping.|sd
+A|Yeah.|b
+A|Uh-huh.|b
+B|Well, do you use credit cards?|qy
+A|Yeah,|ny
+A|I use a few.|sd
+A|I, uh, I watched my grandmother go into debt on them|sd
+B|Uh-huh.|b
+A|and so I've,|sd
+A|and then I guess my  mother,|sd
+B|Grandmother|b^m
+B|huh?|br
+A|Yeah,|b
+A|so my mother learned from that|sd
+A|and I guess she taught me to be very, very careful with them.|sd
+A|So basically, uh, I just keep them,|sd
+A|I use them so that I build up a credit rating, you know.|sd
+B|Uh-huh.|b
+A|But, otherwise, uh, I generally,|sd
+A|and my husband, it turns out,|sd
+A|I've just been married seven months,|sd
+A|but he has the same habit|sd
+A|and we just keep a few you know, few of the major ones, and then use them once in a while for something,|sd
+B|That's good.|ba
+A|but we always pay it off right that month so that we don't pay any service charge.|sd
+B|Oh that's, That's wonderful.|ba
+A|So that way we keep out of debt|sd
+A|and we keep on top of what we're spending.|sd
+B|Well, the interest rates in credit cards is so high now  compared  to what your savings is bringing.|sv
+A|Yeah.|b
+B|It's really, I guess ridiculous to let them keep building.|sv
+A|Yeah,|aa
+A|yeah,|aa
+A|that's what I feel.|sd
+A|So,|%
+B|But I know some people can get, get, you know, carried away with them and let them get out of hand.|sd
+A|Uh-huh.|b
+A|It's really easy, just to forget, you know, that you, you charged that or charged that.|sv
+A|I try to keep all my receipts and keep them in someplace where I know that the bill's going to come,|sd
+A|but sometimes I forget|sd
+A|and so, you know, a bill will come in|sd
+A|and I'll think, oh, no I didn't know it was going to be that high.|sd
+B|Uh-huh.|b
+B|yeah.|b
+A|But so far, I've been able to, we've been able to pay it off every time|sd
+A|so,|%
+B|Well, that's good.|ba
+B|I'm looking, right now I'm kind of looking for a Visa that has a lower interest rate.|sd
+B|It seems that some of them have gotten higher|sv
+A|Uh-huh.|b
+B|and, uh, I saw on T V, they had a program on, uh, credit cards|sd
+B|and they're supposed to,|sd
+B|I don't know if it was Tennessee or Arkansas or some, some other state had a Visa card that was the lowest one in the country.|sd
+B|And I didn't write it down at the time|sd
+A|Uh-huh.|b
+B|and then I went and looked and, to see what my visa was|sd
+B|and I think it's eighteen percent or something|sd
+A|Um.|%
+B|so, think I want to find something that has a lower rate.|sd
+A|Yeah.|b
+A|Have you ever used Discover card?|qy
+B|No,|nn
+B|I haven't.|sd
+A|Yeah,|b
+A|I'm not even sure what their interest rate is since I pay it off|sd
+A|but you know,|%
+B|Is that the one from Sears?|qy
+A|Uh, I think Sears originally put it out,|na
+B|Okay.|bk
+A|but it's, uh, it's pretty well taken all over the U S now.|sd
+A|I mean, uh, I've haven't found many places that don't take Discover.|sd
+A|And there's no annual service fee, which is good.|sd
+B|Okay  .|b
+A|You know,  and then, uh, they also give you, they say cash back, uh, like at the end of the year.|sd
+A|For the amount that I charge, I get two dollars back or something|sd
+B|Uh-huh.|b
+A|but if you use credit cards a lot you probably get more back.|sd
+B|Oh, they give you money back for using your credit card.|qy^d
+A|Yeah,|ny
+A|basically.|sd
+B|Oh|%
+A|That's it.|sd
+B|I didn't know that.|sd
+A|And I think the service charge is pretty low, too,|sd
+A|but, I'm not sure.|sd
+B|Um. Well, you know, Sears was one of the few department stores that never would take any other credit cards.|sd
+A|Uh-huh.|b
+B|I worked at Sears for over ten years|sd
+B|and, uh, it was only a Sears card that they would take until I guess they decided to join the club and come up with their own credit card, another credit card that was accepted,|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|so, you know, now they'll take the Discover,|sd
+B|but I still don't know if Sears will take Visa or Mastercard.|sd
+A|Uh-huh.|b
+B|But, uh  I  never did apply for a Discover card.|sd
+A|Yeah.|b
+B|I just figure with the Visa and American Express, I probably have an,|sd
+A|Uh-huh.|b
+B|I can do enough damage with those two.|sd
+A|Yeah,|aa
+A|I think it's best to keep the number down that you have.|sv
+B|Uh-huh.|b
+B|Yeah.|b
+A|So,|%
+B|I've got some that I, you know, I haven't even used at all, uh, past few years|sd
+B|I probably wouldn't be able to use them.|sd
+A|Uh-huh.|b
+B|But, uh, I, I do like my Dillard's,|sd
+B|I have to admit that's one of my favorite places to shop.|sd
+A|Uh-huh.|b
+B|And I do use Dillard's probably as, more than any of the other department stores.|sd
+A|Uh-huh.|b
+B|But,|%
+A|Yeah.|b
+A|Well, Do you have anything else to say?|qy
+B|Well,|%
+B|No,|nn
+B|not too much more about credit cards|sd
+A|Okay|b
+A|I don't think I do either|sd
+A|so,|%
+B|Okay|b
+B|well,|%
+A|Well, it was good talking to you.|fc
+B|Good talking to you Beth.|fc
+A|Okay.|fc
+B|Good luck.|fc
+A|Have a good evening.|fc
+B|You, too.|fc
+A|Bye-bye.|fc
+B|Bye.|fc

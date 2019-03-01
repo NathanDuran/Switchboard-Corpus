@@ -1,0 +1,126 @@
+A|All right, have you lived in this area long?|qy
+B|No,|nn
+B|I've only been here a couple of years.|sd
+A|Okay.|bk
+B|Uh, but, uh, I've, I've noticed that, uh, this year it seems to have been a lot warmer than it has in the past.|sv
+A|Yeah,|aa
+A|it, it, it's, it's a lot warmer, a lot drier too, because usually about this time of year, this, you know, you see a little bit more rain.|sv
+A|I mean by, by mid February, I mean, we start getting a lot of rain.|sv
+B|Yeah,|aa
+B|yeah,|aa
+B|well I remember last year, or the year before, uh, we had ice and snow, uh, uh,|sd
+A|But it,|%
+B|terrible ice storm, uh, around this time of the year.|sd
+A|Uh-huh.|b
+B|And, uh, this year it's been so hot and, uh, sunny|sd
+B|it, it's really quite, uh, quite amazing.|sv
+A|Yeah,|b
+A|unseasonable.|sv
+A|I used to, my wife and I we used to live in San Antonio, couple years ago,|sd
+B|Uh-huh.|b
+A|and it was, it was I remember the first day of Spring,|sd
+A|it was so much ice that came down, later on that that afternoon and evening,|sd
+B|Um. Yes,|b
+A|it was just, it was horrible.|sv
+B|I was just talking to my son today,|sd
+B|he's up in Boston,|sd
+B|and it was twenty-nine there|sd
+B|and it was, you know, in the seventies out here|sd
+B|and, it was really, uh,|%
+A|Yeah.|b
+B|he really wished he could be here, rather than there.|sd
+A|Yeah,|b
+A|well, um, I don't know|h
+A|I, I guess I'm just sort of acclimated to colder weather.|sd
+B|Oh really.|bh
+A|Um, I, I like it warmer,|sd
+A|I mean I like it, you know, I like it warm|sd
+A|but it doesn't really matter.|sd
+A|I mean, I'd, I would much rather see it cool at this time of year anyway because it would mean a little bit more rain possibly|sd
+A|but, uh,|%
+B|Uh-huh,|b
+B|uh-huh.|b
+B|I have, you know,|%
+B|I, I,|%
+B|I think it's really been delightful.|sv
+B|I come, uh, I've spent most of my time in, in warm weather areas|sd
+B|and, uh, uh, the ice and snow just doesn't, uh, hold any allure for me at all.|sd
+A|Well I spent three years in Germany,|sd
+A|so I'm not too thrilled with the whole thing anyway|sd
+A|But I got used to it,|sd
+A|it was really strange,|sv
+A|I mean, when I, when, when, when we came to San Antonio it was just like, uh, you know, it just, just swelter|sd
+A|and then we got used to it|sd
+A|and then we went up to Dallas|sd
+A|and it was just,|%
+A|it's, it's not, not that it's just hot or dry,|sv
+A|it's just not very comfortable,|sv
+A|it just,|%
+B|do you, you think San Antonio is more comfortable than Dallas.|qy
+A|Yeah,|ny
+A|a little bit.|sd
+B|Uh-huh.|b
+A|Yeah.|b
+B|You must, well, uh,|%
+B|it must be quite a bit hotter down there, isn't it?|qy
+A|Yeah,|ny
+A|my wife and I, the last day we were in Florida, we, my visiting my, uh, my parents, and my brother and sister,|sd
+A|we were, we were down there|sd
+A|and, the last day, right before we left, we had to, I had to ride with my sister|sd
+A|and the air conditioning went out on the car|sd
+B|Oh, wow.|ba
+A|and, we, you, you just get used to air conditioning all the time,|sv
+B|Oh yes.|aa
+A|and this,|%
+A|it was just,|%
+A|the humidity was like eighty plus, eighty percent plus|sd
+A|and it was just killing us.|sd
+B|Oh yeah,|b
+B|it's terrible.|sv
+B|Orlando is the only place I've ever been where I've seen the car sweat.|sd
+A|Yeah.|b
+B|I mean, that's really bad.|sv
+A|Yeah,|b
+A|well, I mean, I, I, I guess I've been in some places, you know, where the weather was just so mild, you know, places like Monterey, California or, you know,|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|just, you know, so mild,|sv
+A|and then you've been to such extremes like San Angelo, Texas where you just, where you walk outside and you sweat,|sd
+A|you know you're sweating,|sv
+B|Yeah.|b
+A|you look down at your arm,|sd
+A|but you see the water leaving your arm,|sd
+A|it's so hot, you just feel it pulling away, bizarre.|sd
+B|Oh wow, uh.|ba
+B|I know I, I tend to, I tend to be able to get along with monotony in the weather when it's very temperate.|sd
+A|Yeah.|b
+B|Uh it doesn't,|%
+B|some people say, uh, they, they like to watch the changing of the seasons|sd
+B|but, uh, I'd rather, you know, like southern California, you know, have it kind of sunny and temperate all the time.|sd
+A|Yeah.|b
+B|So, it's kind of a luxury.|sv
+A|I tend to agree|aa
+A|but, I don't know,|h
+A|I, I think, in, in some, in some respects it probably more tolerable.|sv
+B|Yeah,|b
+B|well I guess this, the weather isn't as lively a topic as, uh, as some of the others we might have gotten.|sv
+A|No,|aa
+A|the other topics.|sd
+A|I got one topic,|sd
+A|they said talk about the Middle East well,|sd
+B|I guess we're supposed to say good-bye or something, and think about what|sv
+B|my daughter is here prodding me to say good-bye.|sd
+B|We messed up the conversation, anyway.|sd
+A|Well I mean I've had some pretty bad, I guess some pretty controversial topics|sv
+A|so it's just like well that was my fault.|sd
+A|But then the weather's like,|sd
+A|man, I mean, it gets pretty mundane,|sv
+A|I mean you can only talk about, about the situation just so long.|sv
+B|Yeah,|aa
+B|I know,|aa
+B|weather's just not all that inspiring.|sv
+B|Okay,|%
+B|well it's nice talking to you.|fc
+A|Okay.|fc
+B|Bye-bye.|fc
+A|Bye.|fc

@@ -1,0 +1,207 @@
+A|Do you all, do you get together with family reunions|qy
+A|or,|%
+B|Yes,|ny
+B|we try to.|sd
+B|Uh, we have not in some years now.|sd
+B|And I think we are going to try to have one this summer.|sd
+A|Oh, that will be fun if you have not done it in a while.|sv
+B|My aunt is planning it.|sd
+A|Uh, where is your family from?|qw
+B|Uh, Missouri.|sd
+A|Oh.|b
+A|Is it?|bh
+B|Southwest part of Missouri.|sd
+A|So you are going to have to go there?|qy^d
+B|That will, will be where it is. Uh, if, if she gets it planned.|na
+A|Yeah.|b
+B|I have been out of town,|sd
+B|so I do not know what she has been doing.|sd
+B|But, uh, they are all getting very, very old.|sd
+A|Oh.|b
+B|All my aunts and uncles.|sd
+B|So we need to see them soon.|sd
+A|Yeah.|b
+B|So,|%
+A|My family is from Kentucky.|sd
+A|Most of them is down there.|sd
+B|Uh-huh.|b
+A|I have got an uncle in Louisiana and another sister here in Texas.|sd
+B|Right.|b
+B|Do you all get together often?|qy
+B|Or,|%
+A|We did when I was growing up.|sd
+A|It was every summer we got together.|sd
+B|Uh-huh.|b
+A|Now, my grandmother just passed away this last year.|sd
+B|Right.|b
+A|So, you know,|%
+B|I think as we get older, it is more difficult to, uh, when|sd
+A|she was|%
+B|all my aunts and uncles are in their eighties now,|sd
+B|so it is, uh,|%
+A|Uh-huh.|b
+B|I have to, uh, I will probably have to take charge and do it one of these, uh, one of these, uh, days.|sd
+A|Yeah.|b
+B|But, uh, I still have elderly parents alive.|sd
+A|Well it, It sure does.|sv
+B|So, uh, it takes a lot of effort to either get everybody called or written and settle on a date, you know that,|sd
+B|And if they are,|%
+A|Well, we,|%
+A|in Kentucky it wasn't hard because everybody lives so close together.|sd
+A|We just did it word by you know, by word of mouth.|sd
+B|Right.|b
+A|You know. And, uh, my uncle in Louisiana, he is the only one that, you know, had to travel.|sd
+B|Uh-huh.|b
+A|And now I have got a sister in Germany,|sd
+A|and we are just scattered all over the place.|sd
+B|Oh, my gosh.|ba
+B|Yeah.|b
+A|So it is going to be hard this time.|sd
+B|So the,|%
+A|But we have got a huge family.|sd
+B|Yeah.|b
+B|And we need to have more and more of them.|sv
+B|I I think, I hope that is not a lost art, that people getting together as they do spread out all over the world.|sd
+A|Yeah.|aa
+A|Because it is so fun.|sv
+B|Yeah,|b
+A|I mean, we, my mother has got like thirteen brothers and sisters|sd
+B|it is.|aa
+B|Oh, I see.|ba
+A|Yeah.|b
+A|She has got a huge family.|sd
+A|And every one of them have five or six kids. And most of them, you know, have got kids|sd
+B|Uh-huh.|b
+B|Sure, that makes a big crowd.|bf
+A|Yeah.|aa
+A|It is,|sd
+B|Yeah.|b
+A|we just, we had two baseball bleachers full of people,|sd
+B|Is that?|bh
+A|and there are still about eight or six, eight or ten people taking pictures.|sd
+B|Is that right?|bh
+A|Yes.|ny
+A|And it was just,|sd
+A|the last time we had one it was so fun.|sd
+B|That is wonderful.|ba
+B|I hope,|%
+A|Yeah.|b
+B|well, we need to have another one.|sd
+B|I hope my aunt is successful as, uh, later.|sd
+B|Well, it is probably not going to be done because I have not heard from them.|sd
+B|I, it was supposed to be this June,|sd
+B|so I do not imagine there is anything coming.|sd
+B|This is hardly, almost June.|sd
+A|Yeah.|b
+A|Well, I, we have always had ours in a park or something.|sd
+B|So,|%
+B|Uh-huh.|b
+A|But it has away been the same park|sd
+A|and there is nothing really special there.|sd
+A|Only thing is, it is big,|sd
+B|Yeah,|b
+B|that is,|%
+A|and it is open.|sd
+B|we have it usually at this, uh, at this one park because there is a pavilion there, in case it rains.|sd
+A|Uh-huh.|b
+B|And, uh, you have to have it, uh, fairly early in the summer or it is too hot up there.|sd
+A|Uh-huh.|b
+A|In Missouri?|qy
+B|In Missouri,|na
+B|yeah.|ny
+B|It is too it is not,|%
+B|it is just, uh, very humid,|sd
+B|and the old people cannot take it anymore.|sd
+A|Well, that was part of the problem with the ones we have.|sd
+B|Uh-huh.|b
+A|Now, the kids would sneak off.|sd
+A|And we were just being kids,|sd
+A|and we found what we thought was just an old water hole.|sd
+A|So we was going swimming.|sd
+A|And, like I said, we was just big kids.|sd
+A|We was like eight and ten years old.|sd
+B|Uh-huh.|b
+A|And our parents came and caught us.|sd
+A|We had been playing in the sump.|sd
+A|It was part of the sewage cleaning system.|sd
+B|Isn't that great?|bh
+B|Yeah,|b
+B|Yeah.|b
+A|to child in Kyle, don't.|t3
+A|speaking to I have got a four year old.|sd
+B|Yeah.|b
+B|Well, that keeps you busy.|sv
+B|Yeah.|b
+A|Yeah.|b
+A|But if we could have gotten it by a lake or something, I thought that would have been much better.|sd
+B|Yeah.|aa
+B|It would have been. Something for the young people to to do.|sv
+A|Yeah.|b
+A|Well they,|%
+A|there was, uh, I am sorry, there was, uh, I remember now, there was like, uh, a baby pool, just about a foot deep.|sd
+B|Yeah.|b
+A|Yes,|fo_o_fw_"_by_bc
+A|I remember my little brother riding a bicycle through it.|sd
+A|We were all kids anyway noise heard in|sd
+B|Every family has all that going on,|sv
+B|I am sure.|sd
+B|So, uh,|%
+A|Oh, but I love it, all the different foods, because that,|sd
+A|yeah,|%
+B|Oh, I do too.|aa
+B|That is the best part of it.|sv
+A|That's the,|%
+B|Everybody bringing something for a potluck picnic|sv
+A|yeah.|b
+B|and oh, grand,|%
+B|yeah.|%
+A|So, how long did you say it has been since you all had one?|qw
+B|I do not know.|no
+B|I think it has been, uh, four, three or four years. Or five even, uh, since they have had it, tried to get everybody together.|sd
+B|They are just spread out so much,|sd
+B|and, and we really need to, uh, no matter what kind of crowd they get.|sd
+A|Yeah.|b
+B|I hope,|%
+A|Well, I have been married almost five,|sd
+A|so I guess it has been seven years since we have had one.|sd
+B|Uh-huh.|b
+A|And since then we have lost, oh, well, just our grandmother.|sd
+B|Yeah.|b
+A|That is surprising.|sv
+B|Well, time flies so fast,|sv
+B|it may have been that, that long since we have one.|sd
+B|It is hard to remember,|sd
+B|but I think it has been about four or five years.|sd
+A|Uh-huh.|b
+B|So, uh, anyway I, I hope both our families get to have one soon.|sd
+A|Oh, if I can ever get down to Kentucky.|sd
+A|It has been like four years since I have been home.|sd
+B|Yeah.|b
+B|It is difficult with little ones.|sv
+A|Yeah.|b
+B|I know when we had, had our,|sd
+A|That is, the reason, that is the reason I don't.|sd
+A|I would get on a bus any day by myself,|sd
+A|but I won't do it with the babies.|sd
+B|Uh-huh.|b
+B|Sure.|b
+A|Because, uh, I have got, uh, a four month old and a four year old.|sd
+B|Oh, Lord.|ba
+A|So I am just starting.|sd
+A|And I just quit too|sd
+B|Oh, I am telling you.|^h
+B|That is, uh,|%
+A|Uh, I won't be adding any more to the family reunion|sd
+B|No,|aa
+B|I hope, it, I know it takes a lot of effort right with, with that, with two little ones like that.|sd
+A|Yeah.|b
+A|They are good kids though.|sd
+B|Yeah.|b
+A|So, uh, I am not too upset.|sd
+A|Anyways, I have enjoyed talking to you.|fc
+B|Enjoyed talking to you.|fc
+A|All right.|fc
+B|Good luck in everything.|fc
+A|All right, you too.|fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

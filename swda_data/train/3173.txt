@@ -1,0 +1,55 @@
+A|All right,|fo_o_fw_"_by_bc
+A|why don't you go ahead first and tell what kind of car you'd look for in your next.|ad
+B|I think our next car, I would like something like a, an economy car that gets really good mileage and, uh, one that's really reliable.|sd
+B|I would, I think probably not a, a brand new car,|sd
+B|but maybe something like a Nissan Sentra. Or something like that, uh,|sd
+A|Uh-huh.|b
+B|something my husband,|%
+A|And, of course, it has to have air-conditioning|qy^d
+B|Oh, absolutely,|na
+B|air-conditioning and a radio, uh, A M, F M and a cassette player|sd
+B|and, uh, what else do I want|t1
+A|Does it have to be a special color?|qy
+B|Uh, I would think kind of a subdued color would be nice.|na
+B|You know, a, a navy blue or a,|sd
+A|It sounds like something your husband would drive, right?|qy
+B|Yeah,|ny
+B|that's what it would be for is for him to drive back and forth to work.|sd
+A|Yes.|b
+A|Well, I don't think we're looking for another car right now because we just bought one,|sd
+A|but when we were looking we were looking for something that had enough seat belts, of course,|sd
+A|and we wanted air-conditioning and a five speed|sd
+A|and that was kind of iffy,|sd
+A|but that made it better economically,|sd
+A|so,|%
+B|I think that's something we might want, too, is some kind of standard transmission at least rather than automatic.|sd
+A|Yeah.|b
+A|We'll probably have to look for another second car sometime|sd
+A|and we'd look for about what you're looking for.|sd
+A|but probably real cheap, too.|sd
+A|It wouldn't be a used, used car,|sd
+A|so, but, no|%
+B|I think we would want one that, even though it was a compact car or whatever that it would still be nice enough that, uh, you could take someone in it and not be embarrassed|sd
+A|Uh-huh.|b
+A|Would you like four doors|qy
+A|or doesn't really matter.|qrr
+B|well probably, probably that would be a good idea,|na
+B|yeah.|ny
+A|Yeah,|b^m
+A|it, it's hard for people to get in with a two door sometimes.|sv
+B|That's right.|aa
+B|So if we wanted it to take people out it's, that's a good thought.|sd
+B|I,|%
+B|that hadn't crossed my mind.|sd
+A|It would be fun just to win one, wouldn't it|qy
+B|Yes,|ny
+B|I would go for that.|sd
+A|That would be great.|ba
+A|All right,|fc
+A|well, I think that's all that we need to say.|fc
+B|Well, thank you for calling.|fc
+A|All right,|fc
+A|we'll talk to you later.|fc
+B|All right.|fc
+A|Bye-bye.|fc
+B|Bye.|fc

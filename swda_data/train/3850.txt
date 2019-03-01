@@ -1,0 +1,145 @@
+A|Okay.|fo_o_fw_"_by_bc
+B|So, what are your favorite shows?|qw
+A|Um, I like watching COLOMBO and, um, MATLOCK and QUANTUM LEAP,|sd
+B|Oh, really?|bh
+A|yeah.|ny
+B|QUANTUM LEAP?|qy^d
+A|Uh-huh.|ny
+B|Did you see it the other night?|qy
+A|Um, uh-huh.|ny
+B|That was, that was pretty good.|sv
+A|Yeah,|aa
+A|that one was.|sv
+A|What about,|qo
+B|What do you,|qw
+B|with the psychic and everything?|qy^d
+A|Uh-huh,|ny
+A|yeah.|ny
+B|Okay.|bk
+B|Yeah,|b
+B|I like, uh, I like NORTHERN EXPOSURE and, uh, HOME IMPROVEMENT.|sd
+A|Oh, I, well I haven't seen either of those|sd
+B|You've never seen NORTHERN EXPOSURE?|qy^d
+A|Huh-uh.|nn
+B|Oh, it's a great show.|sv
+A|Um, I also like to watch STAR TREK,|sd
+A|but it's on so late here, that I don't always get to see it|sd
+B|Really?|bh
+B|Yeah,|b
+B|we like it, too.|sd
+B|Have you seen the movie?|qy
+A|Uh, I haven't seen any of the movies because I just barely, just like in the last year or so got interested in it,|ng
+A|and they're, you know, already out with number six by now,|sd
+A|but. So I haven't seen any of the movies, yet,|sd
+A|but I.|%
+B|Oh, you haven't seen any of them.|qy^d
+A|No.|nn
+B|Oh, well, they're good,|sv
+B|they're real good.|sv
+B|They're, uh, they're getting rid of the old cast for the movies, though.|sd
+A|Uh-huh.|b
+B|Which ones are you watching, the new ones?|qy
+A|Yeah,|ny
+A|I've seen quite a few of the older ones.|sd
+A|I haven't seen really the new generation that much.|sd
+B|Oh, okay.|bk
+B|Yeah.|b
+A|Is there one you prefer better, the older one or the the newer one?|qy
+B|Well, they're, they're a lot different.|sd
+B|But, I like, I like the older ones because at that time, you know, they were really futuristic, you know.|sd
+A|Oh, yeah.|b
+B|And the newer ones are, I guess the newer ones are real futuristic, too,|sd
+B|but I like, I like both of them.|sd
+A|Yeah,|b
+A|I do too.|sd
+A|I have a brother-in-law who really likes the old ones a lot,|sd
+A|I mean, he almost hates the new ones|sd
+B|Really?|bh
+A|Yeah,|ny
+A|because he, he thinks the newer ones is like a soap opera and the other one isn't or something,|sd
+A|but,  I don't|sd
+B|No.|aa
+B|Not really.|sv
+B|It's not really like   a soap  opera,|sv
+A|Oh, I think,|%
+A|Yeah.|b
+B|but, but it's,|%
+B|but that's true,|sv
+B|I mean, you, you learn more about the characters and stuff,|sd
+B|but that's the way all shows are now.|sv
+A|Yeah,|b
+A|sure.|b
+A|Well, let's see.|^h
+A|Um, I like to watch COLOMBO because it's like a mystery thing.|sd
+B|Yeah.|b
+A|That's sort of how Matlock is,|sd
+A|but COLOMBO is way tricky|sd
+B|Yeah.|b
+A|I mean  he doesn't even try to let the person know he's getting onto them.|sd
+B|Well, it seems like they always  show COLOMBO, the same ones over and over, though you know what I'm saying, like that one where he goes to college,|sd
+A|Well, did you see the one.|qy
+A|Um.|%
+B|or is this, is there a series on.|qrr
+A|Um, yeah,|ny
+A|there's like one on,|sd
+A|well we see it Thursdays at seven,|sd
+A|and  it was,|%
+B|Okay.|b
+A|this last time it was about this, um, movie director,|sd
+A|did you|qy
+B|Yeah,|ny
+B|I  saw that one.|sd
+A|did you see that?|qy
+B|See, that was a rerun.|sd
+A|Really?|bh
+A|Oh, I guess I|%
+B|Yeah,|b
+B|I wondered if that's|%
+A|Huh.|%
+B|see I don't know if that's a, the movie of the week or, or what,|sd
+B|but it seems like there's only about four or five different ones,|sd
+B|and then, then they keep showing them over and over.|sd
+A|Oh, I guess I've, I haven't  seen it before.|sd
+B|He was a movie  director,|sd
+B|and he had that gal killed.|sd
+A|Yeah|b
+B|Okay.|b
+A|yeah,|b
+A|on the set or something.|sd
+B|That was pretty good though|sv
+A|Yeah,|b
+A|it was.|sv
+A|But, yeah,|%
+A|I like COLOMBO probably the best of any of those mystery things.|sd
+B|Uh-huh.|b
+A|But, um, there's no, never anything good on Saturdays, though|sv
+B|No kidding.|ba
+A|I don't think so.|sv
+A|Well, STAR TREK'S on at five,|sd
+A|but I'm never home|sd
+A|so,|%
+B|What is it that,|%
+B|there's something I watch, something I watch on Saturdays,|sd
+B|and I can't remember what it is.|sd
+B|Now I used to watch TWIN PEAKS.|sd
+A|Oh.|b
+B|You never saw that?|qy^d
+A|I've heard of it a lot,|ng
+A|I've heard of,|sd
+A|a lot of people somehow or something|%
+A|They'll say, so and so from TWIN PEAKS, or something, you know.|sd
+B|Yeah,|b
+B|yeah|b
+B|that was a different soap opera.|sd
+A|Oh.|b
+B|But, it was, it was a different type of show.|sd
+A|Uh-huh.|b
+B|I didn't like the way it ended, though.|sd
+A|Oh, did they end the whole series?|qy
+B|Yeah.|ny
+A|Oh.|bk
+B|Yeah,|b
+B|they didn't, they only did it for, I think, two years.|sd
+A|Oh.|b
+B|But it's all over now.|sd
+A|Oh, another show I like to watch is MASH.|sd

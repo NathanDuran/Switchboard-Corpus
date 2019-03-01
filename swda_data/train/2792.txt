@@ -1,0 +1,311 @@
+A|Okay?|qy
+B|Sure,|na
+B|go ahead.|ad
+A|What kind of books do you like to read?|qw
+B|Oh , I like all kinds of books.|sd
+A|Yeah.|b
+B|Mostly, uh, something, I like like true life,  not, uh ,  you know, documentaries or real stories about real people and that kind of stuff or dramas in real life.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|And, uh, I also like romantic novels.|sd
+B|I like, uh, I like READERS DIGEST, believe it or not.|sd
+A|Yeah,|aa
+A|so do I.|sd
+B|I usually read that from cover to cover.|sd
+A|Yeah.|b
+B|I like it because there's a little bit of everything in it.|sd
+A|Right.|b
+B|You know, that kind of a thing.|fo_o_fw_"_by_bc
+B|Uh, as far as like real novels, I haven't gotten into Shakespeare or any of that type of thing.|sd
+A|Uh-huh.|b
+B|I wish I had in, in some senses|sd
+B|but I don't have time really as much as I would like to, to get into that kind of thing.|sd
+B|How about you?|qo
+A|Um, well, I like, like you said, real life, um,|sd
+A|I like biographies of people's lives,  like,  especially like athletes,|sd
+B|Uh-huh.|b
+A|for some reason it seems to interest me, like people that make a big comeback or,  you  know, Orel Hershiser, things like that.|sd
+B|Sure.|ba
+B|Uh-huh.|b
+A|And, um, I like to read books on improve, like family, marriage, you know, things that are written by like Christian authors or, um, doctors about family and, you know, how to improve your home and all that kind of thing.|sd
+A|Um, I like to|%
+A|the magazines I|%
+A|to|%
+A|I like to read ,|sd
+A|I read a lot of bicycling magazines.|sd
+A|They're,|%
+A|I mainly look at the pictures and stuff,|sd
+A|but they usually have some good articles in it.|sd
+B|Uh-huh.|b
+A|But, uh, I don't know|h
+A|I haven't really found any romance type stuff I like to read.|sd
+A|I, I'm more true, you know,  uh,  nonfiction.|sd
+B|Yeah,|b
+B|yeah.|b
+A|I haven't found a lot of, uh, fiction books that I really like|sd
+A|but, uh, not to say I wouldn't,|sd
+B|Yeah.|b
+A|eventually  I mean. *one utt or two with a.29?|sd
+A|What was the last book you read?|qw
+B|Uh, jeez,|^h
+B|let me think,|^h
+B|it,|%
+B|I tell you I haven't read a book in a long time.|sd
+B|And it,|%
+B|I can't even really remember.|sd
+B|Uh, I think it was a romantic novel by Danielle Steel or one of those.|sd
+A|Really?|qy
+B|You know yeah,|ny
+B|honestly.|ba
+B|Um, I don't do as much reading, like I say, as I would like to.|sd
+A|Yeah.|b
+B|working a lot of hours at work|sd
+B|and,|%
+A|Really?|bh
+B|Yeah,|ny
+B|and then, of course,  we have  a home|sd
+A|I know.|aa
+B|so it's, you know,|%
+B|a lot time is spent doing things as far as the yard work or housework or,  you  know, that type of thing.|sd
+A|Yeah.|b
+A|I, I set a goal for myself to read a book a month this year which is like about eleven more books than I would have read last year,|sd
+A|but so far I've only read like two books|sd
+A|and so I'm not doing very well|sd
+A|but,|%
+B|But see I do crafts too,|sd
+A|Yeah.|b
+B|so  it's hard,|sd
+B|I, if I have a minute that's what I, I do.|sd
+A|Yeah,|aa
+A|I find it's real hard,|sd
+A|I let papers, newspapers stack up and magazines stack up, if I don't really set aside a time to look or read them.|sd
+B|That's the,|%
+B|and, and that's like myself|aa
+B|I've, I've, I miss it, because I really find it a very relaxing hobby too.|sd
+A|Yeah.|b
+B|I really do|sd
+B|and, um, I don't know|h
+B|it seems like you can get lost in a book, you know,|sv
+B|it, it,  it's  like an escape for me.|sd
+A|Uh-huh.|b
+B|I don't know about you.|h
+A|Yeah.|b
+B|It's,|%
+B|if I'm really interested in what I'm reading, I mean, hours can go by|sd
+B|and I, I look up at the clock and say, oh, my word, you know.|sd
+A|Uh-huh.|b
+B|In fact, I'd rather read sometimes than watch T V.|sd
+A|Yeah,|aa
+A|oh, I would too. Kind of train your mind. *sv^2|aa
+B|But I think you get out of the habit, like you say,|sv
+B|you have to like kind of set yourself,|sv
+B|Yep.|aa
+A|Have you ever read, uh, or heard of the book THIS PRESENT DARKNESS?|qy
+B|No.|nn
+A|That was one of the books I read this year,|sd
+A|and it's really fast paced and intense.|sd
+A|It was a nonfiction book or is a fiction book|sd
+A|but it was|%
+A|it was one of the best I read,|sd
+A|I mean, it was real good,|sd
+A|and it was, um, it was one of the few books that|sd
+A|like it, you know,|%
+A|just hurry up and go through without putting down, you know.|sd
+B|Yeah,|b
+B|right.|b
+B|See that's the other problem I have.|sd
+B|If I start into something and I really enjoy what I'm reading,  then  I have a terrible time getting away from it too.|sd
+A|Uh-huh.|b
+B|I'll stay up until two or three o'clock in the morning, you know, because I'm so engrossed in it|sd
+B|and then before you know it, it's time to get up and go to work.|sd
+B|You know, that type of thing.|fo_o_fw_"_by_bc
+A|Yeah.|b
+B|That's why|%
+B|I, I don't know|h
+B|I'm, I'm kind of a nut when it comes to stuff like that.|sd
+B|Even if I'm, uh, doing something like an afghan, if I'm close to the end, sometimes I'll do the same thing.|sd
+A|Uh-huh.|b
+B|I don't know what you would call it,|h
+B|maybe I have a problem|sv
+A|No,|ar
+A|I'm sure it's fast or something.|sv
+B|It's terrible,|sv
+B|I, I really like books that, that you can get into|sd
+B|and that's that.|sd
+A|Uh-huh.|b
+A|I know what you mean.|aa
+A|I like reading late at night right before I go to bed sometimes|sd
+A|I just sleep better or something.|sd
+B|Oh, yeah,|aa
+B|you do|aa
+B|you kind of get relaxed,|sv
+B|that's true.|aa
+A|But, uh,|b
+B|I have a lot of craft books that I have too and, uh, magazines.|sd
+B|I like PEOPLE, you know, those things that are about real people.|sd
+A|Uh-huh.|b
+B|And, um, I, I like to, uh, read about people who have been a successful,  you  know, who, who made a success of their lives. To, to give you specific titles I, I can't. *sd|sd
+A|Yeah.|b
+A|Which, what book have you read that is along those lines,  that  was really good?|qw
+A|Well, how about who,|qw
+B|Like I say, haven't done it in, in such a long time.|sd
+A|Do you know who it was about?|qy
+B|Um, well, I went to, uh, seminar on, uh,|no
+B|it was for, by American business|sd
+B|and some of the people, uh,|%
+B|what the heck was his name,|t1
+B|I'm trying to think.|^h
+B|He's one of the, uh,|%
+B|Paroe, *spelling: Perot|sd
+B|and um, it was more like, oh,|%
+B|it was tapes and things that they had about him, too.|sd
+A|Uh-huh.|b
+B|How he started out as just a salesman and now he's, you know, multimillionaire and that type of thing,|sd
+B|and how you have to, uh, be aggressive and, you know, really want something for yourself and that type of stuff.|sd
+B|It's like up to you, in other words, whatever happens in your life.|sd
+A|Yeah.|b
+B|It's not up,|%
+B|it's not someone else,|sd
+B|you have to do it.|sd
+A|Yeah.|b
+A|And then do it.|bf
+B|Do it.|aa
+B|I can't,|sd
+B|I'm not that focused on something.|sd
+B|I, I'm off in all directions.|sd
+B|Um, and I'm not, uh, uh, a planner which I wish I was.|sd
+A|Uh-huh.|b
+B|You know, kind of off the wall.|sd
+B|If someone says, do you want to do this tonight, uh, and I got a mountain of things to do, it's okay, you know, we do it.|sd
+A|Uh-huh,|b
+A|huh. Well, that's all right.|ba
+B|I know,|aa
+B|I know,|aa
+B|but I wish I was more the other way.|sd
+A|You're more fun though, see.|sv
+A|You're not ridged right? *spelling: rigid|qy
+B|Yeah,|ny
+B|right *listen: sarcastic or not?|na
+B|I, I,|%
+B|that's|%
+B|see , I like it that way though.|sd
+B|I, I, I would, I don't want to change that part of me.|sd
+A|That's good.|ba
+B|That's funny,|sv
+B|even though I admire someone who isn't,  like  I am, you know, and, and I wish I could be more that way|sd
+A|Yeah.|b
+B|but,|%
+A|There may be some schools you could read about and learn.|sd
+B|That's true,|aa
+B|that's true.|aa
+B|How many people do you supervise?|qw
+A|Uh, about twenty.|sd
+B|Oh, that's not bad.|ba
+A|No.|aa
+B|That's not bad at all.|ba
+A|No.|aa
+B|Do you like your job?|qy
+A|Sometimes.|no
+A|Sometimes more than others.|sd
+A|But, yeah,|%
+A|I do.|sd
+B|Oh, that's,  oh, that's important.|ba
+A|I've been there about three years.|sd
+B|Do you have  a family?|qy
+A|Yeah,|ny
+A|I just got married last year|sd
+A|and, um, most of my family's in Indiana.|sd
+B|Oh, uh-huh.|b
+A|So, I've only been in Texas three years.|sd
+B|Do you like it?|qy
+A|Yeah,|ny
+A|I do.|sd
+A|I love the weather down here.|sd
+B|I, I loved, I loved Abilene too.|sd
+B|That's what I liked, too, is the weather.|sd
+A|Yeah,|aa
+A|I know.|aa
+B|Except for tornados|sd
+A|Boy they, they have storms here|sd
+A|I've,|%
+B|Yes|aa
+B|they do.|aa
+B|And it, it,  it's so surprising how  it just happens, you know.|sd
+A|Hail and thunder and,|ba
+A|Yeah.|b
+B|Unpredictable.|ba
+A|Were you here during the hailstorm two years ago?|qy
+B|Uh, no.|nn
+B|Oh, I've been up here about three.|sd
+B|Uh, we were down there, uh, from eighty-six to, eighty-five to eighty-six,|sd
+B|no, uh,|nn
+B|well, part of eighty-four to eighty-six I should say.|sd
+A|Yeah,|b
+A|boy I had thirty-three hundred dollars damage done on my car,|sd
+A|a lot of people had their cars totaled just from hail.|sd
+B|Oh, wow.|ba
+A|I think State Farm went bankrupt. Just about|sv
+B|Oh, jeez.|ba
+A|But, uh,|%
+B|I know the whole situation is bad up here,|sd
+B|we're having a terrible time with the recession.|sd
+A|Really?|bh
+B|Yeah,|ny
+B|yeah.|ny
+B|It's not good at all.|sd
+A|Huh.|b
+B|I know things are pretty booming down there.|sv
+B|I heard they sold Johnson City though .|sd
+A|Yeah,|aa
+A|and Colorado Springs.|sd
+B|And Colorado Springs?|qy
+A|Yeah,|ny
+A|I talked to a guy on the phone on this the other day|sd
+A|and he was telling me about it.|sd
+B|Oh, wow.|ba
+A|They just sold it.|sd
+B|Amazing.|ba
+A|Closed up and moved down to McKinney.|sd
+B|Oh, well, that's good.|ba
+B|At least they kept the business part of it.|sv
+A|Yeah.|b
+B|It's scary though I'm telling you.|sv
+A|I know .|aa
+B|I don't know,|h
+B|and, well, you know, with the other part of this thing was, how do you feel that this influences family.|sd
+A|How do I feel what?|br
+B|That, that books influence,|sd
+B|do you know how to use them in your life or to influence,|sd
+A|Uh-huh.|b
+B|I, I feel like it's important for young children to read too. And what you read to them.|sv
+A|Yeah.|b
+B|When my children were younger, of course,|sd
+B|they were all married and grown|sd
+B|and I have grandchildren now,|sd
+B|they were, uh,|%
+B|I, I read to them a lot.|sd
+A|That's good.|ba
+B|And, uh, I think they've all developed kind of an interest in reading also.|sd
+A|That's|ba
+A|yeah.|b
+B|I'm not saying they read all the right things|sd
+B|but they do read. Uh, where a lot of people don't have any interest in it at all,|sd
+B|and I think it's important,|sv
+A|Oh, yeah.|b
+B|because, uh,  even today where people are so illiterate and they go off to school and really nothing happens, I mean, they don't learn anything.|sv
+B|It's because they can't read.|sv
+A|Yeah,|aa
+A|it's really surprising how many people graduate from high school,  and  that I work with|sd
+B|Yeah.|b
+A|and people, I mean,|%
+A|I get memos all the time across my desk|sd
+A|and things are misspelled|sd
+A|and,  it's really,  It's pretty sad.|sv
+B|Oh, it's unbelievable,|ba
+B|isn't it?|^g
+B|Yeah.|b
+A|A lot of people that work for me that can't even spell or read, you know.|sd
+B|Exactly,|aa
+B|and I think that that's why reading is so important,|sv
+A|Yeah.|b
+B|because, uh, I think even mentally when you can do some,|sv

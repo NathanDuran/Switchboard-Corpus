@@ -1,0 +1,94 @@
+A|Well, what are your,|qw
+A|did you like, do you use credit cards?|qy
+B|Uh, not very often.|ng
+B|I usually, uh,|sd
+B|the ones we use is like Visa|sd
+B|and we always try to pay it back at the end of the month.|sd
+A|Huh-uh.|b
+B|I have, uh, uh, .|%
+A|So it doesn't get , uh, uh, the credit, uh,|bf
+B|Right.|aa
+A|the interest rate is so high that you're really,|sv
+A|if you're going to use credit cards you need to use that policy, I think, don't you?|qy
+B|Yeah.|ny
+A|Otherwise, you end up paying so much more for your merchandise that it's hardly, uh, it's not a very good idea.|sv
+B|That's right.|aa
+B|Do you have a lot of credit cards?|qy
+A|Well, I have a lot of them|na
+A|but I don't use them very much, though.|sd
+B|Right.|b
+A|I use them mostly for big things, like maybe, sometimes, uh, tuition if it's, you know, if I'm short, to go ahead and get it and then try to get it saved back as quick as I can.|sd
+A|The other thing, I, I think if you do get overextended a little bit, you need to be sure and pay it off, uh, more than one at a time, because I think you could run forever paying what they require.|sv
+B|Oh, yeah.|b
+A|Just goes on and on.|sv
+B|Which is what they want.|sv
+A|Yeah.|b
+B|I think a lot of people go in debt because they think, oh, you know, I can just charge it,|sd
+B|but really, I mean, if they don't have the money then, they aren't going to have it in a month,|sv
+B|so,|%
+A|Yeah,|aa
+A|that's true.|aa
+B|they, uh, make the mistake of,  pushing all their cards .|sv
+A|There are times,  when it's, when it's very useful,  like,  uh, emergency trip, or something.|sv
+B|Yeah.|b
+B|Yeah.|b
+A|Sometimes when you, when you,|%
+A|the money will be available,|sd
+A|but it's, you know, not immediately handy.|sd
+A|I think, uh, they're very helpful, plus the fact that it's helpful not to have to carry a lot of money sometimes.|sv
+B|Right.|b
+A|But, uh, I, you really do need to be very, um, oh, responsible about it|sv
+A|or you end up in deep trouble.|sv
+B|Yeah.|b
+B|I made that mistake when I first got a job|sd
+B|and that's kind of like,|%
+B|it took me quite a while to pay them off,|sd
+A|Uh-huh.|b
+B|so after that I decided, well, I'm not going to use them at all, and just try to pay cash for everything|sd
+B|and that worked for a while|sd
+B|and then we got married|sd
+B|so we decided to, you know, if we used them we would pay them off as we go.|sd
+A|Right.|b
+B|So,|%
+A|Right.|b
+A|That can be very handy under those kind of circumstances.|sv
+A|The other thing about them is too, if you really don't, you really need to get some and use them because if you have never used them and developed, and haven't developed a credit thing. It stops you from doing a lot of things.|sv
+A|If you, if you pay for everything by cash, uh, there is a lot of things that a lot of people who will not give you credit when you need something like a house or, a car.|sd
+B|Right.|b
+B|That's true,|aa
+B|yeah.|aa
+A|So, so they, they have become a very vital part of our, of our monetary system  over the  last few years.|sv
+B|Uh-huh.|b
+A|But, uh, it's true,|sv
+A|you have to be very careful or you end up, uh, going in the deep end|sv
+A|and, uh, and an awful lot of people are in trouble.|sv
+B|Uh-huh.|b
+A|We have a boy living with us who works for a credit card, uh, company that,|sd
+A|and he makes calls to people who have problems, you know, credit problems, that are trying to work out|sd
+B|Huh-uh.|b
+A|and, uh, Poor thing he comes home very depressed every night because the world has so many problems of that sort,|sd
+B|Oh.|b
+A|so it's, it's, uh, it's, uh, it's a really big problem I think, and, um, takes mature people to, to treat it, uh,|sv
+B|Yeah.|b
+A|so that it's, so that it's a real advantage to you, instead of a disadvantage.|sv
+B|Right.|b
+B|I think, um, the way the tax system was, they encouraged people to use credit cards, you know, with a big write off at the end of the year.|sv
+A|Yeah.|b
+B|But now, it's like, it's punch money, because|sd
+A|Right.|b
+A|It didn't do you any good now, does it?|bf
+B|you cannot,|%
+B|right.|na
+B|You cannot write off your interest.|sd
+A|Even before it probably wasn't, though, because you didn't get anywhere near as much as what it, you didn't get to claim anywhere near what you ended up paying.|sv
+B|Yeah.|b
+A|So, well, I'm not,|sd
+A|other than that, I don't have too much on credit cards|sd
+A|but,|%
+A|It's good to talk to you.|fc
+B|Yeah.|fc
+B|You, too.|fc
+B|Thanks for calling.|fc
+A|Uh-huh,|fc
+A|bye now|fc
+B|Bye.|fc

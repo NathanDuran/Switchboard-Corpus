@@ -1,0 +1,360 @@
+A|Okay,|b
+A|so do you do a lot of cooking in your family?|qy
+B|Um, I do some every now and then,|ng
+B|I, I work|sd
+B|and my wife's home during the day|sd
+B|so she usually ends up doing most of it.|sd
+A|Oh, yeah.|b
+B|When I was single we used to always cook, around the house.|sd
+A|Yeah,|b
+A|do, do you like to cook.|qy
+B|Huh, yeah,|ny
+B|I really like it,|sd
+A|Yeah,|b
+A|yeah.|b
+B|um, there's  a few dishes,|%
+B|like, I, I grew up with the, um, you know, having Polish and Ukrainian food.|sd
+A|Oh, really.|b
+B|And my wife, she likes Italian and stuff,|sd
+A|Oh.|b
+B|so  we, we definitely have different tastes,|sd
+B|so.|%
+A|Yeah,|b
+A|yeah,|b
+A|but that's neat though, because you get to have different stuff|sv
+B|Uh-huh.|b
+A|Yeah,|b
+A|I'm not, I'm a pretty bad cook|sd
+A|I'm pretty bad.|sd
+A|My husband is really good,|sd
+A|he put himself through college working in restaurants.|sd
+B|Oh, wow.|ba
+A|And, uh, he's much better cook than I am,|sd
+A|so, when I was home I still cooked a lot|sd
+A|and I was in to a lot of vegetarian stuff.|sd
+A|And now, I went back to work about a year and a half ago|sd
+A|so, one of the things that he took over was the cooking|sd
+A|and the kids are thrilled,|sd
+A|they're really happy, that I don't cook anymore.|sd
+B|Uh, they're like, uh, preferring it now, right|qy
+A|Yeah,|ny
+A|they say oh dad, let dad cook mom,|sd
+A|let him do it|^q
+A|But, um, so, so do you all, do you have kids?|qy
+A|You obviously have one.|qy^d
+B|Yeah,|ny
+B|two,|sd
+B|uh-huh.|ny
+A|Okay,|bk
+A|you have two.|bf
+B|Yeah,|aa
+B|one is, uh, nine months|sd
+B|and the other is two and a half.|sd
+A|Two and half, oh.|b^m
+B|Yeah,|b
+B|that's the hard part is cooking with, uh, kids around because, uh,|%
+A|I was just going to say, makes a difference in what you eat doesn't it|qy
+A|Or are you not at that stage yet?|qrr
+B|Yeah,|ny
+B|it does|sd
+A|Yeah.|b
+B|We try our hardest to get them to eat what we, eat, you know.|sd
+A|Right.|b
+B|And my sister, uh, she's the master of the fast order grill, you know,|sd
+A|Oh, yeah.|b
+B|she can  make, uh, she makes six different meals,|sd
+B|but.|%
+A|Oh my gosh.|ba
+B|Like to have  one thing, you know,|sd
+B|one likes chicken nuggets, the other one like hot dogs,|sd
+A|Oh my gosh,|ba
+A|I couldn't|sd
+B|and then she makes noodles with,  uh, with,   soy sauce or whatever,|sd
+A|Yeah.|b
+B|so, all things.|%
+A|Boy, I couldn't do that,|sd
+A|I|%
+B|But, um, yeah,|b
+B|our favorite,|%
+B|let me think,|^h
+B|I was thinking of the one recipe that, uh, that we made.|sd
+B|I guess the thing that always turned out the best for us was something we thought looked really fancy but was real easy,|sd
+B|and that was, um,  uh, scallops,  uh, scallop, um,|sd
+A|What's that.|qw
+A|Oh really.|b
+B|it has  a French name,|sd
+B|it basically means that it has a Swiss cheese, cream sauce with it|sd
+B|and you pour it over rice,|sd
+A|Oh yeah,|b
+A|what's, what is that, Saint Jack or something.|qy
+B|Yeah, uh.|ny
+A|Scallops Saint  something,|sd
+A|or, yeah, .|%
+B|Yeah,|b
+B|I can't even remember what the recipe's name is anymore,|sd
+A|Yeah,|b
+A|yeah.|b
+B|but, uh,  it was basically just ground up Swiss cheese and then, uh, standard cream sauce base and then, uh the scallops.|sd
+A|Really,|b
+A|with scallops.|^2
+B|An, and it sounds sort of funny|sv
+B|but it tastes really good.|sd
+A|No,|ar
+A|no,|ar
+A|I'm from New England,|sd
+A|so we, we had, um, a lot of seafood before we moved down here.|sd
+A|And, uh, that sounds delicious to me.|sv
+B|Yeah.|b
+A|That sounds great.|ba
+B|Yeah,|b
+B|but, uh,|%
+A|I think, we're just thinking of having, a, uh, dinner party.|sd
+A|We went to this dinner party the other night that was kind of like a game,|sd
+A|they had, uh, a murder mystery,|sd
+B|Uh-huh.|b
+A|and  you came dressed as one of the characters|sd
+A|and you had to solve the mystery during the dinner,|sd
+B|Uh-huh.|b
+A|and  it was really fun|sd
+A|and so we, we were thinking we wanted to do, you know, we were going to try doing it ourselves,|sd
+A|but we're trying to decide what can we serve because at this one the hostess was pretty busy running around trying to get stuff ready for the table|sd
+A|and that kind of interrupted the game,|sd
+A|so,  so I  was thinking there's this Beef Bourguignonne recipe that I've tried before that's pretty good|sd
+B|Right,|b
+B|yeah.|b
+A|and then you can make that ahead|sd
+A|and you can just leave it in the pot on a stove until you're ready.|sd
+B|Uh-huh.|b
+A|So that's, uh,|%
+B|Yeah|b
+B|that's another thing|sd
+B|I have a problem with my wife,|sd
+A|Yeah.|b
+B|she,  uh, she likes to, um, she doesn't like the beef dishes.|sd
+B|She likes the chicken and fish,|sd
+A|Uh, yeah.|b
+B|and, like  I said, we always ate beef and, uh, pork,  you know,  a lot,|sd
+A|Oh, yeah.|b
+B|so|%
+A|I know,|ba
+A|my husband did too|sd
+A|His parents are Austrian|sd
+A|and they, uh, always made sure they had a lot of meat at the table|sd
+B|Oh yeah,|b
+B|red meat, plenty of good red meat.|sv
+A|Yeah,|aa
+A|yeah,|aa
+A|yeah.|aa
+B|My dad could eat, a, a meal with out any vegetables at all.|sd
+A|Oh, my gosh.|ba
+B|And, uh, Susan's, you know, they had, you know meatless meals, you know.|sd
+A|Yeah,|b
+A|yeah.|b
+B|My dad  wouldn't know what to do.|sd
+A|Oh, gosh,|ba
+A|so do you,|%
+B|Course, she grew up Catholic|sd
+B|so you know, they,  they sort of come  with the,|%
+A|Oh, they did the,|%
+B|there's a certain amount of meatless meals you have to have|sv
+A|That you do,|aa
+A|right,|aa
+A|right,|aa
+A|that's just part of it.|sv
+B|Uh-huh.|b
+A|Yeah,|b
+A|we didn't, my family didn't,|sd
+A|but when I got into the vegetarian cooking we got kind of used to that,|sd
+A|but my husband always did it kind of grudgingly,|sd
+A|he never,|%
+B|Uh-huh.|b
+A|There  was dishes that he really enjoyed, eating.|sd
+B|Uh-huh.|b
+A|there were several things that he liked|sd
+A|but it never was really, something that he would have chosen.|sd
+A|It's just that I cooked|sd
+A|so he had to put up with it|sd
+B|Right.|b
+A|So, but there was one thing that he couldn't stand|sd
+A|and that was soybeans.|sd
+A|I tried it like once or twice|sd
+A|and he just could not eat it,|sd
+A|so I never,|%
+A|I had,|%
+A|I was limited.|sd
+A|I had to make vegetarian meals without using soy beans,|sd
+A|but.|%
+B|Yeah,|b
+B|it's hard to get a protein content up then|sv
+A|Yeah,|aa
+A|yeah.|aa
+A|That's true|aa
+B|Yeah,|b
+B|I like, I like them every now and then for a change,|sd
+B|it's nice.|sv
+A|Yeah,|aa
+A|some of the stuff is good,|sv
+A|but it just, it was a tremendous amount of cooking|sd
+A|Because you do have to make sure you have the right combinations of different proteins to make sure they're complete,|sv
+B|Uh-huh.|b
+A|and  we had little kids at the time, you know,|sd
+A|when I was home with them, and it, it was just so much cooking,|sd
+A|I couldn't, I don't like to cook.|sd
+A|And  I'm not really that great at it|sd
+A|so it just turned out to be too much of a, too much, too much cooking.|sd
+A|So, well, I guess I'll let you get back to feeding your little one there.|ad
+B|No, uh,|ar
+B|he's all done.|sd
+A|He's set,|qy^d
+A|oh okay.|%
+B|Yeah,|ny
+B|yeah,|ny
+B|I set him down.|sd
+A|Okay.|bk
+A|Do you like to bake at all,|qy
+A|or do you, do you get into that's, that,|qrr
+B|Yeah,|ny
+B|we used to do that, um,|sd
+B|my mom, used to go crazy, every Sunday, until my dad like blew up, you know|sd
+A|Yeah|b
+B|after he gained about eighty pounds after coming back from the Navy, she stopped doing it.|sd
+B|But, um, she used to have, you know, two dozen sticky buns, three bread rolls, you know, every week.|sd
+A|Really,|b
+A|no kidding.|b
+B|And, um, the  sticky buns, of course, would last, you know three or four days|sd
+B|and that would be it.|sd
+A|Yeah,|b
+A|then be gone.|b
+A|I know,|ba
+A|that's the thing about baking.|sv
+A|I used to, I, I don't mind baking at all|sd
+A|and I, I can do a pretty good pie,|sd
+A|we have this pie crust recipe in our family that my grandmother gave my mother|sd
+A|and my mother taught me how to make it.|sd
+B|Uh-huh.|b
+A|And,  um, so I can make a pretty mean pie,|sd
+A|but, um, I don't do it anymore because it's just too fattening.|sv
+A|We had the same kind of problem.|sd
+A|If you make homemade bread,|sv
+B|Uh-huh|b
+A|I mean,  it's supposed to save you money|sv
+A|but you eat like three times the amount of bread that you usually eat|sv
+A|It tastes so good.|sv
+B|Uh-huh,|aa
+B|we always, we had that bread that was, uh, um,|sd
+B|you ever seen the, the starter bread,|qy
+B|I can't remember what it's called,|sd
+B|they call it the, um, Amish bread here|sd
+B|but,|%
+A|Oh, uh, yeah.|ny
+B|uh, it's made  with,|%
+B|you just leave it out,|sd
+A|Yeah.|b
+B|you  know, and you let it spoil sort of.|sd
+A|Yeah,|ny
+A|uh-huh,|ny
+A|I've heard of that, I've heard of it,|sd
+A|but I've never done it.|sd
+B|You know, yeah.|b
+A|That sounds pretty good.|ba
+B|Yeah,|aa
+B|it tasted pretty good, really.|sd
+A|Yeah,|b
+A|oh yeah.|b
+B|But, uh, it's the sort of thing where you let a portion of it go bad|sd
+B|and then you add all these other ingredients to it,|sd
+B|but.|%
+A|Yeah,|b
+A|and then you you make the bread|sd
+A|but you pinch off a portion, or save a portion of it for the next time, or something.|sd
+B|Yeah|b
+B|right,|b
+B|you take some of the batter out and give it to someone else|sd
+B|and that's how they continue the thing.|sd
+A|Yeah,|b
+A|yeah,|b
+A|yeah.|b
+A|I know, it sounds, it always sounded,|%
+A|I don't know how safe that was|qh
+B|Yeah,|aa
+B|I know it sounded strange to me too,|sd
+B|I figure, well you're baking it|sv
+B|so, you know, yeah.|%
+A|Yeah|aa
+A|that's true,|aa
+A|that's, that's got to kill anything I guess,|sv
+A|but.|%
+B|Okay,|b
+B|well, I'll talk to you later.|fc
+A|All right,|fc
+A|well, yeah|fc
+A|thanks.|fc
+B|Where are you calling from by the way, Texas.|fc
+A|Plano.|fc
+B|Where?|fc
+A|Yeah,|fc
+A|Plano, in Texas.|fc
+B|Plano,|fc
+B|okay.|fc
+A|Are you in Texas?|fc
+B|No,|fc
+B|Falls Church, Virginia.|fc
+A|No kidding,|fc
+A|gosh it sounds so close.|fc
+B|Yeah,|fc
+B|I know we've got a good connection,|fc
+B|must be a, uh, T I connection,|fc
+B|yeah.|%
+A|Yeah,|fc
+A|I thought for sure, I thought for sure you were in Dallas or something.|fc
+B|Yeah,|fc
+B|I, I talked to so many people from Texas|fc
+B|that's where practically everybody I talked to is from.|fc
+A|Yeah,|fc
+A|yeah.|fc
+B|I think that's why they call me because they want to get people outside the state, you know.|fc
+A|Yes|fc
+A|they're they're trying to get all different amount of people.|fc
+A|Well gee, my husband is from Richmond|fc
+A|and I went to U V A,|fc
+A|that's where we went.|fc
+B|Oh, oh really.|fc
+A|Yeah,|fc
+A|yeah.|fc
+B|Yeah|fc
+B|I went to school at, uh, well I went to school at West Virginia University,|fc
+A|Oh you did,|fc
+A|yeah.|%
+B|but I grew up  right here in Falls Church, right outside D C.|fc
+A|Yeah,|fc
+A|boy we'd like to get back over to the East Coast,|fc
+A|I'll tell you.|fc
+A|It's nice over there.|fc
+B|Yeah,|fc
+B|it's sort of funny,|fc
+B|I have people that want to go to Dallas.|fc
+A|Oh, really.|fc
+B|Yeah,|fc
+B|one of my, one of my friends here, he was just talking how he's thinking of leaving the company and going to Dallas,|fc
+B|saying how,|%
+A|Oh, yeah,|fc
+A|no kidding.|fc
+A|Well, things are doing pretty good down here,|fc
+A|we, we were, we tried to move over to Raleigh last year|fc
+A|and there just was, there was so little, such little going on in Raleigh, you know,|fc
+A|you couldn't get a job to save yourself over there|fc
+A|so we decided we'll try in a couple of years,|fc
+A|but, but business is,|%
+B|Yeah,|fc
+B|yeah.|fc
+B|We were saying we could sell our house here and buy one down there cash, you know.|fc
+A|Yeah,|fc
+A|you probably could, you probably could,|fc
+B|Well Northern Virginia.|fc
+B|Okay.|fc
+A|Okay,|fc
+A|well it's good talking to you.|fc
+B|Nice talking to you too.|fc
+A|Take care.|fc
+B|Bye, bye,|fc
+A|Bye.|fc

@@ -1,0 +1,330 @@
+B|What are your music interests?|qw
+A|Uh, just about any kind of music except acid rock|sd
+A|I, I don't care, for acid rock,|sd
+B|Me, too.|aa
+B|Oh.|b
+A|but, uh, I grew up with country and western,|sd
+B|Yeah,|b
+B|I did, too,|sd
+A|but, uh,|%
+B|and then,|%
+A|just about any kind of music.|sd
+A|I even like classical music.|sd
+B|Yeah,|b
+B|uh, I'm pretty diversified, too.|sd
+B|I, I don't, I don't like acid rock either.|sd
+B|I, I grew up in a small town|sd
+B|so, uh, the only, we only had one radio station|sd
+B|so it was country music,|sd
+A|Yeah.|b
+B|but then, uh, when I,|%
+A|Yeah,|b
+A|I grew up with Hank Snow, and Lefty Frizzell and Hank Williams and all of those old country and western songs.|sd
+B|Oh, really.|b
+B|You're older than I am|sd
+A|But, uh, I,|%
+A|did you happen to see last night the special on Channel Two with James Galway?|qy
+B|We don't get Channel Two.|ng
+B|My, uh, our cable doesn't,|sd
+A|Oh.|b
+B|I wish we got that what,|sd
+B|but,|%
+A|That is fabulous.|sv
+B|Was it?|qy
+B|Well, we don't get Channel Two.|sd
+A|We,|%
+A|Yeah,|ny
+A|when he played DANNY BOY it just almost brought, tears to your eyes, because he can make that flute sing.|sd
+B|Oh, really?|bh
+A|Yeah,|ny
+A|and, uh, it was tremendous.|sv
+B|Now, he, he is a, uh,|%
+B|actually, I did,|sd
+B|I played flute for, almost ten years|sd
+A|Yeah.|b
+B|and, and, uh, so, I, I, I appreciate his too, his, his|sd
+A|Yeah.|b
+B|he, he, he's from Ireland isn't he?|qy
+A|Yeah,|ny
+A|uh-huh,|ny
+A|and it was, uh, mostly all Irish tunes,|sd
+B|Was|%
+B|yeah.|b
+A|they had a band with him that, uh, had a harpist and another flute and then a guy that played the bagpipes plus the, uh, tin whistle, and a couple of violins and, uh, drum,|sd
+B|Yeah.|b
+B|Uh-huh.|b
+A|and they, they played all the Irish jigs and so forth,|sd
+A|it was just fabulous.|sv
+B|Yeah,|b
+B|I, he, he is really good.|sv
+B|Yeah,|%
+B|I, I, I come from a musical background,|sd
+A|Yeah.|b
+B|so, uh, uh, I've played flute, flute and piano,|sd
+B|so, I, I, I have a big appreciation for music, up to a point.|sd
+A|Yeah.|b
+A|Yeah.|b
+B|I, I'm getting now to the age where I don't like the new stuff that's coming and much of the new stuff that's coming out,|sd
+A|Yeah.|b
+A|Yeah.|b
+B|my husband says I'm getting old|sd
+A|Yeah|b
+A|I love, uh, I, I especially like instrumentals.|sd
+B|Do you?|bh
+A|Yeah.|ny
+A|I love to just lay back on the couch and, and turn a good, good instrumental got on and just close my eyes and listen.|sd
+B|Yeah,|b
+B|that's, that's nice to do, that is.|sv
+B|I've got a, I've got a, I've got a two year old who's now getting,|sd
+B|I'm getting well versed in, in kiddy music|sd
+A|Yeah.|b
+A|I'm, I've never played an instrument in my life,|sd
+A|I've always wanted too,|sd
+B|Yeah.|b
+A|I've always wished my parents had forced me to learn the piano or something,|sd
+B|Yeah|b
+A|but, uh,|%
+B|I was one of the forced ones|sd
+A|but I, I'd just love to be able to go to a party or something and sit down at the piano and bang out music|sd
+B|Oh, I could never do that|sd
+A|and,|%
+B|I was never that brave|sd
+B|but, uh, yeah.|%
+A|I guess the closest I've ever come to participating in music is singing in the choir.|sd
+B|Yeah,|b
+B|oh, yeah,|b
+B|I've, I've done, I've done that at church too.|sd
+A|Yeah.|b
+B|I haven't done that in a long time.|sd
+A|Yeah.|b
+B|So, let's see|^h
+B|what .|^h
+B|Well, what kind of music do you not like?|qw
+A|Well, like I say the acid rock,|sd
+A|I just do not|sd
+A|an I don't care for rap music either.|sd
+B|Oh,|%
+B|that's not music|sv
+A|Uh-huh,|aa
+A|no.|aa
+B|that is not,|sv
+B|I don't know what that is,|sd
+B|but that's not music|sv
+A|If I can't understand the words I don't want to listen to it.|sd
+B|Well, it's, it's, it's not, it's not music,|sv
+B|it's just, it's just, uh, uh, talking in a beat,|sv
+B|it is just, it's not exciting at all|sv
+A|Yeah.|b
+B|it doesn't, it doesn't give you relaxation,|sv
+A|Yeah.|b
+B|you can't dance to it,|sv
+B|you can't do anything to it|sv
+A|Right.|b
+A|But, I, and I love, I like orchestra music too. Like the, Boston Pops or, or anything.|sd
+B|Yeah.|b
+B|Yeah.|b
+B|Have you ever been to the, to, to the Dallas Symphony?|qy
+A|Uh-huh.|ny
+B|Have you?|bh
+B|Is|%
+B|are, are they good?|qy
+A|Yeah.|ny
+A|Yeah,|ny
+A|they're good.|sv
+B|Are they?|bh
+B|I, I have, I have, never been.|sd
+A|And, uh, we went and saw, uh, LES MISERABLES|sd
+B|Oh, really?|bh
+A|oh, the music in that was fantastic.|sv
+B|I, I've heard, I've heard that that is a really,|sd
+A|Yeah.|b
+B|I heard that was hard to get tickets to.|qy^d
+A|Yeah,|ny
+A|it, it, uh,|%
+A|I can't remember how far in advance we reserved, tickets|sd
+A|but it was out, you know, out at the State Fair Music Hall|sd
+A|and, uh it was well worth the price.|sv
+B|Yeah.|b
+B|Yeah,|b
+B|that was a real,|%
+B|Was it?|bh
+A|Yeah,|ny
+B|I, I bet it was,|ba
+A|Yeah.|b
+B|I, I really bet it was|ba
+B|Is that the only, uh, musical,|qy
+B|do you go see a lot of musicals?|qy
+A|Just, just ever so often you know, a real, a real good one like that one|sd
+B|Yeah.|b
+A|and,|%
+B|That, that would be, that would be nice|sv
+A|I went and saw, uh, I think it was, uh, SUGAR BABIES,|sd
+A|that was good,|sv
+A|that had good music in it.|sv
+B|Was it?|bh
+B|How, how,|%
+B|I can't, I don't know what that's about.|sd
+A|Uh, that was the one with Mickey Rooney|sd
+A|and, uh, oh, what's that real, oh, not real old, my wife she is old too, dancer, uh,|qw
+A|I can't think of her name.|sd
+A|I got it right on the tip of my tongue and can't say it, Helen something.|sd
+B|Uh, uh, uh, I think I know who you're oh, I know who you're talking about,|sd
+A|real long legs, and dark hair.|sd
+B|she's got black hair,|sd
+B|Yeah,|b
+B|okay,|b
+B|I know who your talking about.|sd
+B|I can't think ever her name either.|sd
+A|I can't think of it.|sd
+B|Yeah,|b
+B|that that was, that was,|%
+B|I remember that being, uh, here a few years ago.|sd
+A|Yeah,|b
+A|but, uh,|%
+B|Oh, oh, the last country music,|sd
+B|my, my parents still, uh, really like country, music|sd
+A|Yeah.|b
+B|and they, they like, uh, they like the Oak Ridge Boys and the Statler Brothers,|sd
+A|Oh, yeah,|b
+A|yeah.|b
+B|and, and, uh, well, my, my, my, my parents,|sd
+A|The Blackwoods.|^2
+B|yeah,|aa
+B|my husband likes, uh, country music real well|sd
+B|and he, he likes some of the new groups like Shenandoah,|sd
+A|Yeah.|b
+B|and, yeah,|b^m
+B|he really likes Shenandoah.|sd
+A|Alabama.|^2
+B|Yeah,|aa
+B|yeah,|aa
+B|well, yeah,|aa
+B|Alabama,|sd
+A|Uh,|%
+B|I think, I think they're a bit over exposed|sv
+A|Yeah|b
+B|I get kind, of get tired of every other song being Alabama on the, radio.|sv
+A|Yeah,|b
+A|either Alabama or Hank Williams, Junior.|^2
+B|Oh, I, I've never cared for Hank, Williams, Junior.|sd
+A|I never have either,|aa
+A|and I never have figured out how he won, uh, entertainer of the year for about, three or four years in a row.|sd
+B|Oh|b
+B|Oh, we, we watch those award shows too,|sd
+B|we enjoy watching the country and the Grammies and stuff|sd
+B|but I just, I just don't care for him,|sd
+A|Yeah.|b
+B|I just never have.|sd
+B|I don't,|%
+A|I guess probably my favorite all time country and western song or singer is, uh, probably Eddy Arnold.|sd
+B|Is, is it?|bh
+A|Uh-huh.|ny
+B|Okay,|bk
+B|I, I think, I, I know who that is,|sv
+B|uh-huh.|bk
+B|I think my parents have have, uh, some of his records.|sv
+A|But, uh, I got a, I've got about a hundred and, or had a, uh, some, uh, I sold some of them, I had about a hundred and fifty old seventy-eight R P M records of country and western, songs,|sd
+B|Yeah.|b
+B|Wow.|ba
+A|Smiley Burnette, I don't know if you were old enough to remember him him.|qy^d
+B|I've heard the name.|sd
+A|He was, uh, played in the old western movies.|sd
+A|He was the sidekick of Gene Autry I believe|sv
+B|Huh.|%
+A|or they,|%
+A|I think his name in, in the movie was Froggy|sv
+A|and,|%
+B|I've, I've never seen a Gene Autry movie,|sd
+A|had a real raspy voice,|sd
+B|Huh.|%
+A|and, uh,|%
+B|No,|fo_o_fw_"_by_bc
+B|I never have|sd
+A|some of those old ones, of course, Bob Wills, Miss Texas Playboys Ernest Tubbs and Red Foley an,|sd
+B|Yeah.|b
+B|Yeah,|b
+B|those go back quite a way|sd
+A|Yeah.|b
+A|I took them up here to Collectors Records and was able to get a little money for them|sd
+B|Yeah.|b
+A|but, uh, my mother and dad use to, uh, own a restaurant,|sd
+B|It's hard to,|%
+B|Oh, yeah.|b
+A|and he had, uh, they had a, uh, nickelodeon, of course, in the restaurant,|sd
+B|Yeah.|b
+A|and when they would come and change the records the guys would, the guy would give her the old records|sd
+B|Well, that|%
+B|that's neat.|ba
+A|so, that's where I got my,|sd
+B|that would be great if they weren't too worn out, at the time.|sv
+A|Yeah.|b
+A|Of course, there's not a whole lot of market for seventy-eight R P M records.|sv
+B|Is there not?|qy
+B|You, you'd, well you'd think there would be.|sv
+A|Well, the problem is most of the record players now will not play them because, you have to have that needle, that, uh, particular kind of needle|sv
+B|Well, that's true.|aa
+B|Oh, yeah.|b
+A|and, uh, they, just won't play on a modern day, uh phonograph.|sd
+B|Well, that's a shame|ba
+B|because I, I, we go to antique stores a lot|sd
+B|and you see seventy-eights, a, a lot at, at the stores, at record stores,|sd
+A|Yeah.|b
+B|you'd, think there'd be a market for,|sv
+A|Yeah.|b
+B|I'm, I'm sure you could find old players for them|sv
+B|but that would cost a fortune, if you could find them that worked|sv
+A|Yeah.|b
+A|Yeah.|b
+B|Oh.|b
+A|Of course, they, you know, just don't have the quality of records nowadays either because, you, you get that scratchy sound.|sv
+B|No.|aa
+B|Uh-huh.|b
+B|Well, those things were big and thick weren't they?|qy
+A|Yeah,|ny
+A|yeah.|ny
+B|You could kill somebody with them|sv
+A|Yeah,|b
+A|warped real easy.|sd
+B|And the ones you buy,|sv
+B|go out and buy one now|ad
+B|and they're just so thin and, flimsy|sv
+A|Yeah.|b
+B|and they just, they're not meant to last, at all,|sv
+A|Yeah.|b
+B|neither are tapes.|sv
+B|I, I we buy cassette tapes,|sd
+A|Yeah.|b
+B|and machines will eat them,|sd
+A|Yeah.|b
+B|and so, the best bet, any, these days are compact disk,|sv
+B|those things are practically indestructible|sv
+A|But, I, I guess, you know, the old country and western music you,|sd
+A|back then when I was a kid, there wasn't that much T V,|sd
+B|Oh, no.|b
+A|so that's all you had to listen to was the, radio,|sd
+B|Radio.|^2
+A|and, uh,|%
+B|that's just what, just what you had,|sd
+B|plus,|%
+A|Yeah.|b
+B|I think it was better back then to,|sv
+B|there's too much T V now|sv
+A|Yeah.|b
+B|and the radio is, you know, more exciting, really, than, than television,|sv
+A|Yeah.|b
+B|your imagination|%
+A|Yeah.|b
+B|kept|%
+B|and|%
+B|it just didn't vegetate your mind like television does|sv
+A|Yeah,|b
+A|I remember mother and dad always turned on the Grand Ole Opera.|sd
+B|Oh, yeah.|b
+A|Yeah.|b^m
+B|Was it on the radio every week?|qy
+A|Yeah.|ny
+B|what day, what day was that on,|qw
+B|do you, can you recall.|qy
+A|Uh, uh, seems like it was on a Friday,|sv
+B|Uh.|%
+A|Friday or,|%

@@ -1,0 +1,186 @@
+A|Kay.|fo_o_fw_"_by_bc
+B|Okay.|b
+A|I guess we're talking about exercise, huh?|sd
+B|Yeah,|aa
+B|yeah.|aa
+B|Well first of all I, I have to ask you how, how old you are?|qw
+A|Oh, I am twenty-seven.|sd
+B|Twenty-seven,|b^m
+B|okay.|b
+B|Well, I am quite a bit older than you are|sd
+B|But, no.|fo_o_fw_"_by_bc
+B|I think exercise is extremely important|sv
+B|and I I do exercise on a regular basis.|sd
+A|You do?|bh
+A|What type of exercise do you do?|qw
+B|Well, I do, uh, jazzercise which is an aerobic, uh, program that,|sd
+A|Oh you do.|bf
+B|are you familiar with it?|qy
+A|Yes.|ny
+B|It's, uh, you know, a national company|sd
+B|and we have a jazzercise center here in Plano that has classes like all day long|sd
+B|so you can,|%
+A|Are they different from aerobics|qy
+A|or is it the same thing?|qrr
+B|No|nn
+B|it's really, it's an aerobic routine.|sd
+B|you warm up|sd
+B|and then you have thirty minutes of aerobic activity starting, you know, slowly and then working up to, uh, you know, a high heart rate|sd
+B|and then you gradually go down again.|sd
+A|And you do that every day|qy^d
+A|or,|%
+B|No,|nn
+B|I only do it probably two or three times a week.|sd
+A|Oh, okay.|bk
+B|The minimum they want you to do is three times a week.|sd
+A|And this is a club|qy^d
+A|or, uh, do you belong to a group?|qrr
+B|Well, it's really a|sd
+B|I mean it's called a center|sd
+B|and you buy as many classes as you want to at a time|sd
+B|and then you just go in whenever you can.|sd
+B|So, like I usually choose to go at nine thirty in the morning or a nine fifteen class or a ten thirty class in the mornings.|sd
+A|Do you go with friends|qy
+A|or do you go alone?|qrr
+B|No,|nn
+B|I go by myself|sd
+B|and that's one of the frustrating things cause I can find very few people to go with me|sd
+A|Yeah.|b
+B|and most of my friends that are my age don't exercise|sd
+B|or they might play tennis|sd
+A|Uh-huh.|b
+B|and since I am not a tennis player, uh, you know, I don't get that,|sd
+B|but I am, you know, I am between, I am in my late forties|sd
+A|Uh-huh.|b
+B|so, uh, there aren't many people, you know, that want to do that.|sd
+A|Oh|b
+B|Most of the people that are in the classes are young mothers. You know, with with children between the ages,|sd
+A|Oh yeah|aa
+A|young mothers or,|b^m
+B|Young mothers.|sd
+B|You know, young women, with small children are the ones that I find.|sd
+A|Uh-huh.|b
+B|Well, what do you do?|qw
+A|Uh, I really don't have a routine.|sd
+A|I like playing basketball.|sd
+A|We just bought a new home with a basketball hoop|sd
+A|and that's what I do every day.|sd
+B|Oh, great.|ba
+B|Yeah.|b
+B|Do you play every day?|qy
+A|Yeah,|ny
+A|pretty much.|sd
+A|When my wife lets me.|sd
+B|Well, now who do you play with?|qw
+B|Do you have friends that play with you|qy
+B|or just,|%
+A|No,|nn
+A|I just shoot around by myself.|sd
+B|Yeah.|b
+A|And, uh, that's about it.|sd
+A|I use to play soccer a lot in high school,|sd
+A|but when I graduated I haven't done much.|sd
+A|I don't have a problem.|sd
+A|I know I have to do more aerobics,|sd
+A|but I don't have a problem with weight.|sd
+A|I could eat all day and not gain an ounce|sd
+B|Well see, that's, that's really good|sv
+B|and I think that keeps a lot, some people from exercising.|sv
+A|Uh-huh.|b
+B|I mean, I don't have a problem with weight either,|sd
+B|but I think I don't have a problem because I exercise.  You know|sd
+A|You  do exercise.|bf
+B|I mean, people are always saying to me, how do you stay thin|sd
+B|and it's because I exercise|sd
+A|You do it|bf
+B|but I also watch what I eat. You know,|sd
+A|Uh-huh.|b
+B|but you'll come,|sv
+B|being twenty-seven, you don't really have to worry about your heart rate and that yet|sv
+A|Yeah|b
+A|and I|%
+B|but as you get older you will.|sv
+A|well everyone's told me my waist line is going to expand one of these days,|sd
+A|but I don't know|sd
+B|Well, it might not|sv
+B|Mine,|%
+B|because everybody's been telling me that too|sd
+B|and so far it hasn't happened, you know,|sd
+B|and I, I just feel like, you know, you have to constantly weigh yourself and just keep an eye on it and cut back if it starts to get you know, too high.|sv
+A|Uh-huh.|b
+A|Yeah,|b
+A|I guess I enjoy sports a lot|sd
+A|so that's why I've kept active in that way.|sd
+B|Yeah.|b
+B|But you don't play any other sports but basketball?|qy^d
+A|Uh, basketball,|sd
+A|volleyball, uh,|sd
+A|too bad it's not really heavy as far as recreation or hobby,|sd
+A|I do that.|sd
+B|But, do you ski?|qy
+B|Being in Utah, I was wondering  if you ski.|qy^d
+A|Uh, I use  to,|sd
+A|but it got too expensive,|sd
+A|so.|%
+B|Oh did it really?|bh
+A|Yeah.|ny
+B|Cause I know that skiing in Utah is, is suppose to be great.|sd
+A|Yeah,|aa
+A|a lot of people do that|sd
+B|Yeah.|b
+A|and but, well I just I never find the time.|sd
+A|I had rather do other things.|sd
+B|Yeah.|b
+B|Well, I have never skied before,|sd
+B|but I have friends that go to Utah all the time|sd
+B|and they think it's really|sd
+A|Oh they come up here.|bf
+B|and they ski.|sd
+B|I guess there's a place where you can ski,|sd
+B|well is it Tahoe? Where you ski from,|qy
+B|no|ar
+B|that's Nevada to  California  I guess.|sd
+A|That's in Nevada.|sd
+A|Uh-huh.|b
+B|Yeah,|b
+B|I am thinking about where you can ski over the state line.|sd
+A|Oh, yeah|b
+A|but,|%
+B|But there's a there is a place in Utah called a funny name.|sd
+A|There's Snow Bird or Alta.|sd
+B|But it's like, Oh, Heavenly.|sd
+B|Is that it?|qy
+A|Heavenly?|br
+B|Yeah,|aa
+B|I think it's called Heavenly.|sd
+A|Huh. I've never heard  of that one.|sd
+B|You've never  heard of that?|qy^d
+A|Huh-uh.|nn
+B|Well, maybe it isn't in Utah.|sd
+B|But they said they've skied Heavenly|sd
+B|and it sounded like, you know, that they skied really well, and when they are actually talking about a place.|sd
+B|It's kind of funny.|sv
+A|Do they exercise much or, I mean for skiing?|qy
+A|I know when I went, you can get sore easily|sd
+A|but,|%
+B|Oh yeah.|aa
+B|You can get really sore.|sd
+B|I know you,|%
+B|I mean I've talked to people,|sd
+B|but most of these people ski enough so that they don't get sore.|sd
+A|Oh yeah.|b
+A|is one or two timer a year if I do go on them|sd
+A|and I am really sore after.|sd
+B|And then, is it your quadriceps that are the worst?|qy
+A|Yeah.|ny
+B|In your legs and,|qy^d
+A|My legs really, really ache.|sd
+B|Yeah.|b
+B|Yeah.|b
+A|But, that's,|%
+A|I am using muscles that I have never used before.|sd
+B|Well,|%
+B|and it's strange that you can do, like I did aerobics, you know, all the time|sd
+B|and then I went horseback riding|sd
+B|and still I was so sore|sd
+B|and I couldn't get over,|sd

@@ -1,0 +1,185 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|Um, do you have any advice for college?|qy
+A|I'm, I'm, I'm full of advice.|sd
+A|I'm still a graduate student.|sd
+A|So.|%
+B|Uh-huh.|ny
+B|Well, having been there not too long ago, and my wife having only recently completed a doctorate, I'm fairly full of it, of it myself.|sd
+A|Um.|b
+B|Uh, the main point that I have about choosing where you want to go to school, is that, you have to early on define what it is you want to do or at least what area you want to be in.|sv
+A|Yeah.|b
+B|Uh, I had the unpleasant experience of going through several schools that were very specialized.|sd
+B|I went through a number of them, uh, undergraduate schools, before I found a, a good school that was more general, uh, to give me time to make up my mind.|sd
+A|Um.|b
+A|Oh, that's interesting.|ba
+A|I went to a, a liberal arts school, actually, at first,|sd
+A|and you weren't really even, um, they didn't expect you to choose any sort of major or anything at all until you were in your second year,|sd
+A|and then you, you know, you had, I think you had to pick it, by, by, by the end of the second you had to pick some sort of major,|sd
+A|but until then they didn't sort of force you.|sd
+A|They, they sort of forced you to run around taking classes in everything until then. Certain requirements,|sd
+A|so that, so that you had to sort of get a general feel for everything,|sd
+A|so it wasn't that specialized.|sd
+A|So that,|%
+B|That's wonderful.|ba
+B|I'm a great proponent of liberal arts education, for anybody.|sd
+A|Yeah.|b
+A|Yeah.|b
+B|Uh, being an engineer now, I believe in it even more strongly than I did before.|sd
+A|Uh-huh.|b
+A|I was just on a committee recently, actually sponsored by, uh, the American Association for the Advancement of Science, trying to sort of, you know, where, where they were just trying to figure out how to fit science and liberal arts together, you know, because there are people who are getting just wonderful science educations and not getting enough liberal arts,|sd
+A|and then the other way around as well,|sd
+A|people are getting pure technical science educations and not getting very good liberal arts sorts of issues.|sv
+A|So,|%
+B|Well, thus far it's working to my advantage.|sd
+B|Uh, the great gap historically has, with engineers, has been while they may have all this technical information, they have no way of imparting it to, except to another engineer.|sd
+A|Uh-huh.|b
+B|And I have the ability to listen to them and then translate that into something that nonengineers can understand.|sd
+A|Well, that must be helpful.|qy^d
+B|Well, it's,  a lot of fun, at the moment.|arp_nd
+A|That could  be very helpful .|qy^d
+A|Yeah,|b
+A|well, I figure that, that, that's probably the thing I would most tell any parent, you know, to tell their kids, I think, probably|sd
+A|make sure the kid goes to a school where they get sort of a general education|sv
+A|and save specialization, I guess, for graduate school, unless they're sure they want, early on they want to do something like engineering or something.|sv
+A|Or they can,|%
+B|Even at that, I have a son, that, who's only nine at the moment.|sd
+B|But I see him very rapidly becoming the engineering personality,|sd
+B|and, uh, if he decides to pursue that, I'm going to insist that he spend two years at a liberal arts college, before I'll even let him go to an engineering college.|sd
+A|Um.|b
+B|And, yes,|aa
+B|that'll add one year to his education experience.|sd
+A|Yeah,|b
+A|but, but that's a good idea.|ba
+A|Well, where I am right now,|%
+A|actually I'm at the University of Rochester,|sd
+A|and that's a pretty good engineering school, I think.|sv
+A|I think  we do some  they have pretty good engineering here.|sv
+B|Yes,|aa
+B|it is.|aa
+A|They also have a fairly large liberal arts college as well. A sort of, a separate, you know, arts and sciences college.|sd
+A|Um, and I believe the engineers are sort of required to take classes in, in everything,|sd
+A|and I know people, I do, uh, I do work in language processing,|sd
+A|and, and, and at least one person who's in my field started off as an engineer, started off as an an electrical engineer student, and then switched over at some point into language processing, because he found that he enjoyed it more.|sd
+A|So they do force them,|sd
+A|people are forced to sort of take all different kinds of classes here, which I think is wonderful.|sv
+B|Oh, I agree.|aa
+B|Uh, I have the experience, uh,|sd
+B|the last school that I went to was Mississippi State University which is historically an engineering and agricultural school.|sd
+A|Uh-huh.|b
+A|Right.|b
+B|Uh, the typical land grant university,|sd
+B|every state's got one.|sd
+A|Uh-huh.|b
+B|Anyway, while it has both engineering and liberal arts, the engineering students tend to cluster together.|sd
+A|Yeah.|b
+B|You know, they're in classes together, even when they're outside of the engineering department.|sd
+A|Uh-huh.|b
+B|And they don't learn the communications,|sd
+B|they don't learn the thought processes of other fields of, of endeavor.|sd
+A|Um.|b
+B|It's, you know, it, that's kind of like if I were king for a day, and got to, and got to make one rule. My rule would be, no one could get out of high school without an entire year of philosophy.|sd
+A|Um, uh-huh.|aa
+A|That would,  be very good actually.|sv
+B|And it's,  that's not even true in our colleges.|sv
+A|Right,|aa
+A|you, you don't need any philosophy at all in school.|sv
+A|Uh-huh.|%
+A|Or|%
+A|yeah,|%
+A|or, or, or, or some other thought provoking area, you know.|sv
+A|Very true.|aa
+A|We had, uh, when I went to undergraduate, we had uh,|sd
+A|went to Brandeis,|sd
+A|don't know if you know of it or not, uh,|qy^d
+A|we had, uh, uh, a requirement freshman year of just Humanities.|sd
+A|Then you were given a choice of, um, you know,|sd
+A|there were ten or twelve, or whatever, or fifteen different courses that you could take,|sd
+A|but they all centered, they all came out of Philosophy, English, and Literature departments,|sd
+A|and they were, they were, they were a set of assigned readings everybody had to read, you know for,|sd
+A|so the first year Humanities courses everyone had to read the Iliad an, and  so forth,|sd
+B|Right.|b
+A|and what they did do, was they all approached it from, from very different,|sd
+A|so that you could have one class in the philosophy of something, that the philosophy of Greek mythology or something that actually approached this, or, um, one literature, you know, or a, a literature course or, just all sorts of different perspectives on it,|sd
+A|and people got to pick and choose,|sd
+A|but, but by the end, everyone had a good sample of, of, of, sort of how to think about these things nonscientifically, you know,|sd
+A|and, uh, and that sort of forced them.|sd
+A|But I believe that, that, that you, one of the, one of the best things to do, at least for me in school was, was, I was sort of forced to take lots of different kinds of courses.|sv
+A|Um, I was forced to take, I think you know, some sort of art history course,|sd
+A|and we all grumbled about it at first,|sd
+A|but then, afterward, we all wound up taking extra art history classes, because it just seemed like something, something we didn't totally know nothing about, but just enjoyed very much doing,  and something I  would never would have done if, if I wasn't forced to take it.|sd
+B|Yes, I  I remember that experience|sd
+A|Uh-huh.|b
+B|that and, uh, extra music classes.|sd
+A|Yes.|b
+A|Uh-huh.|b
+A|And that, and that really is something that, that I notice,|sd
+A|like I talk to a lot of my friends at school that are more specialized,|sd
+A|and they don't have that.|sd
+A|They just, you know, they went in and took their courses that they were expected to take,|sd
+A|and that was all.|sd
+A|They never had some of the more fun classes, I guess .|sd
+A|I feel a little more worldly now|sd
+B|Well, that will continue to grow even as you go beyond graduate school.|sv
+A|Yes,|aa
+A|I'm, I'm, I'm hoping, I'm hoping.|sd
+B|Have, have you gone straight through?|qy
+A|Yes,|ny
+A|I, I graduated, um, college in eighty-seven,|sd
+A|and I just went straight through.|sd
+A|Um, I'm finishing up next year.|sd
+A|So, yeah,|ny
+A|I didn't take any break or anything yet.|sd
+A|I've been trying actually, in graduate school, I've been trying to do the same thing, take courses, completely outside my area,|sd
+A|and I'm finding in graduate school it's a lot harder, because, uh, I just don't have the time any more to sort of sit in a course, that I'm not getting graded for.|sd
+A|Whereas before I would just sign up for credit for it, now I can't sign up for an art history course for credit necessarily.|sd
+A|So I have to try and go myself,|sd
+A|and I went for like two or three weeks and realized, not enough time for the work unfortunately.|sd
+B|That's true.|aa
+B|Are you pursuing a Master's or a Doctorate?|qy
+A|I'm pursuing a Doctorate in Psychology.|sd
+A|So, I'm just, wind up spending a lot of time doing that instead.|sd
+A|Uh, what else.|^h
+A|I, I think  I,|%
+B|Well,  let me, let me encourage you to stop and experience life along the way.|oo_co_cc
+A|Oh.|b
+B|I, I first enrolled in college in nineteen sixty-six.|sd
+A|Uh-huh.|b
+B|Uh, six years, and a, and a war later, uh, I got a degree, an undergraduate degree.|sd
+B|And then fifteen years after that, I got the first of a set of master's degrees|sd
+B|and four years after that I got another master's degree.|sd
+A|Um. You had real world experience in the middle there.|bf
+B|Oh, yes.|aa
+A|And that helped, you think?|qy
+A|Or that was,|%
+B|It, it certainly  makes acceptance of different ideas a lot easier.|sv
+A|Uh-huh.|b
+A|Um. Yeah,|b
+A|I'm getting some of that.|sd
+A|Um, I have, I have sort of some, work experience .|sd
+A|My wife is not an academic at all.|sd
+A|My wife is sort of in the real world,|sd
+A|and so I sort of hinge halfway out in the real world|sd
+A|and I, getting, you know, real world .|%
+A|Especially she works in, uh, uh, she works in the, she works for a temporary agency,|sd
+A|and I never would have had,|%
+A|she's the office supervisor,|sd
+A|I never would have had any, I've, I've learned much just sort of by watching her and her, and her business as well.|sd
+A|So yeah,|%
+A|so I, I can, I can see where that might be a,|%
+B|Well, vicarious learning is a wonderful thing.|sv
+A|Yeah|b
+B|It certainly means that we don't have to experience everything,|sv
+B|but experience is a wonderful, teacher also.|sv
+A|That's my,|%
+A|oh yeah.|aa
+A|Yeah,|aa
+A|agreed,|aa
+A|agreed.|aa
+A|Well, I'll, I'll take that, I'll take that and think that through a little bit. Uh.|sd
+B|My wife, as I may have mentioned, just finished a doctorate a couple of years ago.|sd
+A|Yes.|b
+B|and she pursued her education along the lines that I did with lots of break in between.|sd
+A|Uh-huh.|b
+B|And she feels reasonably comfortable teaching now.|sd
+B|She has an awful lot of experience to draw on.|sd
+B|No longer|%

@@ -1,0 +1,170 @@
+A|Okay, um,|fo_o_fw_"_by_bc
+A|do you have any pets now?|qy
+B|Well, we don't right now,|ng
+B|no.|nn
+B|We've, uh,|%
+B|I grew up with, uh, with pets.|sd
+B|My folks and I always had a dog and a cat,  some,  birds,|sd
+A|Yeah.|b
+B|but, uh, right now we don't have anything.|sd
+A|Oh, okay.|bk
+A|Um,  that,|%
+B|What about  you?|qo
+A|a matter of choice, or compulsion?|qy
+B|Well, we've just, uh,|%
+B|it seems like, we've always been at a place where we'd have to go away for the summer or something|sd
+B|and, uh,  it was,  never convenient to have anything.|sd
+A|Yeah.|b
+B|we were thinking about getting a dog if we get into a house.|sd
+A|Yeah.|b
+B|Uh, someplace where there, you know,|sd
+B|we can take care of it and everything.|sd
+B|We've  got,  some children who would just really, uh, enjoy having an animal, you know, a dog, I think|sd
+A|Yeah.|b
+B|and, What about you all?|qo
+A|Yeah.|b
+A|Well, right now I'm a student,|arp_nd
+A|and campus housing does not even allow thinking about that|sd
+B|Oh, no.|ba
+A|No,|b^m
+A|we almost got chased out of here for feeding a stray cat.|sd
+B|Is that right?|bh
+A|Yeah.|ny
+A|They're very strict about it.|sd
+B|But you like, uh, you like pets and things?|qy
+A|Oh, I love animals.|na
+B|Oh, yeah .|b
+A|I was raised,|%
+A|our house when I, when I was growing up there was almost never, uh, at least one cat in the house.|sd
+B|Uh-huh.|b
+A|It was  almost always at least one cat, sometimes, you know, like fifteen or twenty. But, uh, always cats in the house.|sd
+B|Oh, yeah.|b
+B|We,  we,  enjoyed them.|sd
+A|Oh.|b
+B|We like, we like pets,|sd
+B|but, uh, you know, you've got to deal with, uh, taking care of them and, and feeding them and everything like that.|sv
+A|Yeah.|b
+B|And our kids are,|%
+B|we've got some children|sd
+B|and they're not, not used to it, you know, on a daily basis.|sd
+B|They, they, uh,|%
+A|How old are your kids?|qw
+B|Oh, from fourteen down to seven.|sd
+A|Okay.|bk
+B|You sound like you've got some small ones in the background.|qo
+A|One.|sd
+B|Is  that right?|bh
+A|Our  first.|sd
+A|He's about eleven weeks now.|sd
+B|Oh, great.|ba
+A|Yeah.|b
+B|Congratulations.|ba
+A|Yeah.|b
+B|Where are  you from?|qw
+A|Uh, originally?|qy
+B|Uh-huh.|ny
+A|West Virginia.|sd
+B|Okay.|bk
+A|Um, I don't know how familiar you are with that area of the country|qy^d
+A|but,|%
+B|I've been to Charleston.|sd
+A|Charleston, West Virginia?|qy
+B|Yes,|ny
+B|uh-huh.|ny
+A|Okay,|bk
+A|that's pretty much the south end of the state, or the southern quarter of the state, anyway?|qy
+B|Uh-huh.|ny
+A|Okay,|bk
+A|in the north end of the state, you've got that little narrow strip of West Virginia going up between Ohio and Pennsylvania|sd
+B|Uh-huh.|b
+A|Right at the base of that northern peninsula is my hometown.|sd
+B|Uh-huh|b
+B|Well, that's, yeah, that's interesting.|ba
+B|So it's really up north in the country, really,  .|bf
+A|Yeah,|aa
+B|I guess  so.|b
+A|yeah.|aa
+A|It's,|%
+A|well, um, my parents' house is like three miles south of where the Mason-Dixon Line would have hit the Ohio River had it continued that far.|sd
+B|Gosh.|ba
+B|I see.|b
+A|So,|%
+B|It's pretty nice country up there?|qy
+A|Oh, it's beautiful.|na
+B|Hills, or what?|qy
+A|Uh, well, from my neck of the woods, it's hilly.|sd
+B|Uh-huh.|b
+A|Um,  you know, uh, maybe three hundred, four hundred feet elevation,  uh,  type variations from the valleys up to the hills, the hilltops.|sd
+B|Uh-huh|b
+B|Is it farmland?|qy
+A|Um, not a lot of farmland there.|ng
+A|Mostly it's, uh,|%
+A|I mean, you know, there's, you know, individuals with their own, own uh, growing their own food.|sd
+A|Uh, most of the agriculture, it's more in the way of, uh, sheep and cattle.|sd
+B|Oh, yes.|b
+A|And even that's, you know, small time mostly.|sd
+B|Sure.|b
+A|Uh, the biggest chunk of what's going on there is, is, uh, industry.|sd
+B|Uh-huh.|b
+A|It's  coal mines and chemical plants and power plants.|sd
+B|Okay.|bk
+A|Uh, aluminum plants.|sd
+A|There's like two aluminum plants  .|sd
+B|What are you,  what are you studying there at Heidelberg ?|qw
+A|Computer engineering.|sd
+B|Oh, yeah.|b
+B|What year?|qw
+A|Uh, just finished up my fourth semester.|sd
+B|Well, great.|ba
+A|Yeah.|b
+B|Yeah.|b^m
+B|I hope that works out well.|sd
+A|Yeah,|b
+A|it's a big change.|sd
+B|Yeah.|b
+A|I spent,  twenty years as a mechanic|sd
+B|What's,|%
+A|so,|%
+B|Oh, did you?|bh
+A|Yeah.|ny
+B|Well, you've got some experience behind you in the work force.|sv
+A|Yeah.|aa
+B|Yeah.|b^m
+B|Are you, uh, shooting for a bachelor's now, or a master's, or what?|qy
+A|I'm working on a bachelor's degree.|sd
+B|Oh, okay,|bk
+B|good.|ba
+A|I'm working on a bachelor's  degree.|sd
+A|It'll be|%
+B|Hope it's a good program  there.|qy^d
+A|Pardon?|br
+B|Hope it's a good program there.|qy
+A|Uh, it seems to me, from what I've been able to find out.|na
+B|Yeah,|b
+B|good.|ba
+A|That's  considered a pretty good program.|sd
+A|It's nice and small, which means, you know, if you don't get the class this semester, then you've got to wait or three or four you know, anywhere from two to four semesters to  get,  it again.|sv
+B|Huh|b
+A|But, uh, it's worth it once you get it.|sv
+B|Well, yes,|aa
+B|that's good.|ba
+B|And probably a good, uh, student teacher ratio and things.|qy^d
+A|Oh, yeah,|ny
+A|yeah.|ny
+B|Yeah|b^m
+A|Most the class are pretty small.|sd
+B|Good.|ba
+A|That works out real well.|sd
+B|Well, I, I was wondering what, if you all were to get a pet, like if you were to move into an apartment|qw
+B|or a house somewhere, what would you get?|qw
+A|Uh, well, um, first off we'd probably wind up with a, a cat or maybe a puppy.|sd
+B|Uh-huh.|b
+A|I, I, I'm partial towards the larger dogs.|sd
+B|Uh-huh.|b
+A|Um, our last, we've, we've had a couple of cats before we moved on campus.|sd
+B|Uh-huh.|b
+A|Uh, had a hamster or two,|sd
+A|and they,  they got,  to be a lot of fun.|sd
+B|A hamster.|b
+B|Oh, yeah.|b
+A|Uh, it's amazing how much character,|sv

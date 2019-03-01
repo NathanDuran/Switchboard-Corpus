@@ -1,0 +1,90 @@
+B|Go ahead.|ad
+A|Um, I haven't given this a, a lot of thought.|sd
+A|I'm, uh, that, that's a whole, pleased with the practice that is they,|sd
+A|I, uh, I don't,|%
+A|you would favor invasions of privacy on the other hand that's arguable but that, that, uh, people who's jobs are critical to public safety should have to meet special standards.|sv
+A|Uh, I haven't given this matter enough thought.|sd
+B|Do you work for T I?|qy
+A|No,  uh,|nn
+B|Oh.|bk
+A|I'm in the Washington area.|sd
+A|I work for N I S T .|sd
+B|Oh, okay.|bk
+B|Oh, all right.|bk
+B|Well, see we have the testing already here.|sd
+B|We've had it for, oh, about five years.|sv
+A|Uh-huh.|b
+B|It used to just be for new employees.|sd
+B|And now  it's for all employees.|sd
+A|And now,|b^m
+B|They, uh, randomly select employee numbers|sd
+B|and, uh, the day that they select you is when you have to go and, and be tested.|sd
+A|Okay,|b
+A|and how do people feel about it?|qo
+B|So, we're familiar with it.|sd
+B|Oh, we have a lot of, um, people upset about it at the beginning. Some not all.|sd
+B|But what was happening at T I is that they found certain parts of the company there was a lot of drug abuse. Um, mainly the areas where they were doing a lot of, um, manufacturing type things|sd
+B|and what they ended up doing is, uh, kind of like doing a little bit of an undercover agent to watch what was happening,|sd
+B|and we had people using on the premises and actually selling and dealing, you know, on the premises.|sd
+A|Well, okay,|b
+A|that's, that's a very different issue.|sv
+B|Well, yeah,|b
+B|it was, you know, combination of, of, uh, both activities and, uh, and using too|sd
+B|so they developed this, uh, drug policy so that, uh, to eliminate,|sd
+B|there's some parts of the company that we do, uh, government contracts,|sd
+B|and I think some of those require the drug testing,|sv
+B|but now T I thought well, we'll just do it for all employees that, um, not just because of safety issues but because we want a totally drug free safe environment for all people to work in|sd
+B|and that we shouldn't have, um, people on drugs within our, you know, offices and such.|^q
+A|And,|%
+B|I haven't  personally ever been tested,|sd
+B|but I don't have a problem with it.|sd
+A|Um, does the testing cover alcohol as well as illegal drugs?|qy
+B|No,|nn
+B|but one thing that to, to me was, um, going on, stretching it a little too far was that they also check, um, if you are taking somebody else's prescription drug.|sv
+B|You know, it happens a lot of times|sd
+B|like some member of the family gets the flu or whatever|sd
+B|and, you know  then  they give it to everybody else in the family and don't always go back to the, you know, doctor and get another prescription.|sd
+A|Well ,|%
+B|Well, according to what they do at T I, if you take a prescription drug it has to be in your name.|sd
+B|It, you know, it can't be in your spouse's name|sd
+B|so they will look, I mean, the testing will look for, I guess, any kind of drugs,|sv
+B|and you have to tell them what they are taking a prescription for.|sd
+A|So they ask you to declare beforehand what prescription drugs you are taking?|qy
+B|Right.|na
+B|Yes,|ny
+B|yes.|ny
+B|When you get tested you are supposed to tell them, you know, everything that, that might be there.|sd
+B|And then if they ever, um, question you or something you may have to show proof that you do have a prescription in your name.|sd
+A|Okay.|b
+A|Well, it, I mean, it's, I guess that, in fact, they don't test for, for, they don't routinely test for very many prescription drugs|sv
+A|but that I, but they don't say in advance , uh,|sd
+A|so,|%
+B|Well,  what they be testing for are the ones that would have like, you know, barbiturates or codeine things like that in them.|sv
+A|The ones that would kind of constitute controlled substances or  something anyway .|bf
+B|Right,|aa
+B|right.|aa
+B|I guess that's what they wouldn't be looking for penicillin and antibiotics and stuff.|sv
+B|They would be looking for the, yeah, controlled things, barbiturates  amphetamines.|sv
+A|So what they are  asking you to tell them is all the prescription drugs you are taking which are controlled substances.|bf
+B|Right,|aa
+B|right.|aa
+B|You pretty much, you know, put down what you remember even if it was just Contact or something like that.|sd
+B|But afterwards, uh, maybe if you had a controlled  substance  Well,|sd
+A|Is Contact a,|qy
+B|you, you probably put down, you know, you had Drixoral or Contact if you would remember that you did it.|sd
+A|Okay.|b
+A|Is Contact a,  substance?|qy
+B|No.|nn
+B|I'm,  just saying you probably put down on the sheet  anything  you have taken.|sd
+A|Okay.|bk
+A|Okay.|b
+B|But if they had a controlled substance, maybe they would ask you then to show that you had that prescription in your name.|sv
+B|I know I had one contract employee through Manpower was not a T I person, but was a contract person,|sd
+A|Uh-huh.|b
+B|and they test them too even if you are not a real, uh, T I|sd
+B|If you are a contract employee here  they test  you too.|sd
+A|Uh-huh.|b
+B|And he had taken some kind of, um, oh, you know, uh,|sd
+B|just, he had some kind of flu or something.|sd
+B|He got a real bad migraine|sd
+B|and he took his mother's,|sd

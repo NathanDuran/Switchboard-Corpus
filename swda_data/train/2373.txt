@@ -1,0 +1,214 @@
+A|Okay|fo_o_fw_"_by_bc
+B|Was I supposed to do something?|qy
+A|No.|nn
+A|I had to press one.|sd
+B|Good|ba
+B|Uh, let's see,|^h
+B|so, uh, were we right in the Middle East?|qy
+A|Sure.|na
+B|Should we have been there?|qy
+A|Uh-huh.|ny
+B|Did we do what was correct there?|qy
+A|I think we should have stayed longer.|sv
+B|Should we have fought them harder?|qy
+B|Used more weapons equal to their chemical weapons that weren't used?|qy^d
+A|Uh, I think what we did was good,|na
+A|but I think we just should have stayed there longer and continued doing what we did do.|sv
+B|Oh, you agree with Schwartzkopf who says, uh, Drive on into Baghdad.|qy^d
+A|Yeah.|ny
+A|I think we should have stayed and kind of helped the people in Iraq out now because it's kind of like a civil war going on now.|sv
+A|And it's almost like they're killing each other off|sv
+A|and there is not going to be anything left of Iraq at all like|sv
+B|Would that be so bad?|qy
+B|Was there anything there to begin with?|qy
+A|Well, I think, I don't think it would be good if we were to completely lose it, um.|sv
+B|It wasn't ours.|sv
+A|Well, no,|aa
+A|I just mean that, that, the world in general|sv
+B|We've got to talk so it's just, just as well we argue.|sv
+A|Yeah.|aa
+A|Um, I don't know,|h
+A|I think we should have helped the, the innocent people in Iraq out a little bit more, than, rather than just quitting where we did.|sv
+B|I agree.|aa
+B|Wouldn't it have been wonderful if we could have freed the country.|qy
+A|Yes|ny
+A|But I think that's almost impossible, next to impossible.|sv
+B|Yeah.|b
+B|So other political things that's going on.|fo_o_fw_"_by_bc
+B|I heard Mister Bush say, excuse me, President Bush say that he, uh, wanted to improve the highways.|sd
+A|Oh, see, I haven't really been keeping up with them|sd
+A|so I really don't know what he said.|sd
+A|What did he say about it?|qw
+B|Oh, he wanted to take the current secondary highway system and turn it into interstates like the rest of the country.|sv
+A|Uh-huh.|b
+A|We don't have the money for that.|sv
+B|But wouldn't it be wonderful.|qy^d
+A|It would be really nice because I'm kind of tired of driving in pot holes|na
+B|And back east, you all drive at fifty-five, don't you?|qy
+B|What's that?|qw
+A|I'm sorry, I dropped the phone|fa
+B|Oh, okay, um,|bk
+B|I say back east you all drive at fifty-five don't you?|qy
+A|Yeah.|ny
+B|See, out here in the west a lot of our secondary roads are fifty-five|sd
+A|Uh-huh.|b
+B|we drive sixty-five.|sd
+A|Oh, really.|b
+B|Oh, yes.|ny
+B|Well, I, uh, last weekend, went home to visit my parents.|sd
+B|My dad's in the hospital.|sd
+A|Uh-huh.|b
+B|And, uh, between here and west Texas, there was probably three and four hours at sixty-five miles an hour.|sd
+A|Oh, I didn't realize that.|sd
+B|Nonstop.|sd
+B|Have you ever been out here?|qy
+A|No,|nn
+A|huh-uh.|nn
+B|How far west have you been?|qw
+A|Only in Ohio.|sd
+B|Oh, you've never, You've never seen the great American desert.|qy^d
+A|I've never been past Ohio.|sd
+A|No,|nn
+A|huh-uh.|nn
+A|I've never seen anything out, I never seen the great,|sd
+A|I've seen,|sd
+B|The Rocky Mountains?|qy^d
+A|I've never seen,|ng
+A|I've seen pictures of it|sd
+A|but,|%
+B|Yellowstone?|qy^d
+A|I've never been there.|ng
+A|I've seen pictures,|sd
+A|I just, I'm a college student|sd
+A|and, um, I'm paying for my own education|sd
+A|and I'm, I come from a large family|sd
+A|and we, we we're never able to take vacations because there's, there's twelve kids in the family.|sd
+B|Uh,|%
+A|So,|%
+B|Well, my college uh, thirty-six,|sd
+B|worked for Texas Instruments for seventeen or eighteen now.|sd
+A|Oh, my.|ba
+B|Uh, know, virtually nothing else.|sd
+A|Uh-huh.|b
+B|Uh, yeah.|b
+B|I got my four year, got my B S in General Science.|sd
+A|Uh-huh.|b
+A|Really.|b
+B|Yeah,|ny
+B|I know,|sd
+B|it's a funny degree|sd
+B|Anyway, uh, I know nothing other than the west.|sd
+A|Yeah.|b
+B|In fact, uh, down in east Texas where the company's located there's streams and water and things I don't understand. Trees and the gulf|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|and it's really interesting.|sv
+A|Uh-huh.|b
+B|So tell me about where you live.|ad
+A|Well, um, I'm, I'm originally from Butler|sd
+A|and that's about an hour away from where I am now.|sd
+A|I'm at Clairon.|sd
+A|And, um, it's, it's pretty, like, windy and hilly.|sd
+B|Uh, how high is the highest elevation?|qw
+A|Oh, I couldn't even tell you.|sd
+B|Like, uh, probably|%
+A|It's not like a mountain.|sd
+A|It wouldn't be like a mountain.|sd
+A|It's, uh,|%
+B|three thousand feet?|qy^d
+A|Oh, I don't even know.|no
+A|I have no clue.|sd
+B|Close to sea level?|qy^d
+A|I would say it's closer to sea level.|na
+B|Okay,|b
+B|uh, right here in Colorado Springs where I live it's over six thousand foot.|sd
+A|Uh-huh.|b
+B|Um, yes|b
+B|when I lived in Texas, every year I had to drive, you know.|sd
+B|I drove every year to the gulf|sd
+B|and, you know, so I could have a feast of fresh seafood six, eight, twelve hours away. You know, just, just for fresh.|sd
+A|Um.|%
+B|I, I'm really interested in the basic concept differences between west and east coast and the central parts of America.|sd
+A|Uh-huh.|b
+B|How many hours have you been from home?|qw
+A|Uh, the farthest away from home?|qy^d
+B|Yes.|ny
+A|I'd say five or six.|sd
+B|Oh, yeah.|b
+A|Uh-huh.|ny
+B|Uh, now when I was growing up in the Panhandle of Texas,|sd
+B|look at your map later and see the, the town of Amarillo fifty miles north of that up in the Panhandle.|sd
+A|Uh-huh.|b
+B|To just go buy a pair of jeans, we'd drive an hour.|sd
+A|Oh, my|ba
+A|Oh, my Gosh.|ba
+B|When I was growing up, Now things are different|sd
+A|Uh-huh.|b
+B|and people buy jeans in town,|sd
+B|but uh, we thought nothing at all of wake up, waking up in the morning hopping into your car, grabbing the fishing poles and driving four hours.|sd
+A|Oh, yes.|ba
+A|Now see for me, that's a long ways.|sd
+B|Yeah.|aa
+B|It is I imagine.|ba
+A|Uh-huh.|b
+A|Even, well, like, I, I'm in like a little town right now.|sd
+A|It's smaller than Butler|sd
+A|and, um, Butler, Butler is about an hour north east of Pittsburgh.|sd
+A|So that will give you some idea of where I'm at.|sv
+B|Okay.|b
+A|And I'm about, I'm about two hours north east of Pittsburgh.|sd
+B|Okay,|b
+B|I'll look at my map later.|oo_co_cc
+B|Wow.|ba
+B|How neat.|ba
+A|And, uh, I mean just this, this little town here is basically a college town.|sd
+A|The college, without the college here, this town would be nothing.|sd
+A|It would be absolutely dead.|sd
+A|Because it's completely made up of fast food restaurants|sd
+A|and, and in the summer when we uh,|sd
+A|we come up here in the summer,|sd
+A|and it's,|%
+A|I mean, there's just no one around.|sd
+B|So are you working your way through college?|qy
+A|Um, well, I go home in the summer|sd
+A|and I work in the summer|sd
+A|and between what I make in the summer and student loans, that's how I go to college.|sd
+B|Well, how neat.|ba
+B|What's your major?|qw
+A|Finance.|sd
+B|Finance.|b^m
+A|Uh-huh.|b
+B|Well, that's interesting.|ba
+A|Uh-huh.|b
+B|So, uh, what do you plan to do with it?|qw
+A|Um, well, like I said my fianc3ee, *typo|sd
+B|Savings and loans, uh,|qy^d
+A|No|nn
+A|No,|nn
+A|no,|nn
+A|no,|nn
+A|and I'd actually like to work for a company rather than a bank or a, something.|sd
+A|I'd rather work for a company and, um, like be their financial advisor or something.|sd
+B|Oh, that would be great.|ba
+B|That would be neat|ba
+B|Let's see, uh, so we're all excited in Colorado Springs.|sd
+A|Uh-huh.|b
+B|Apple Computer is coming to town.|sd
+A|Oh, really.|b
+B|Yes.|ny
+B|The, uh, new employer is in the city.|sd
+A|Uh-huh.|b
+B|So we're expecting our local economy to Well, maybe not a boom, but, uh, at least, recover to where we can all hold regular forty hour jobs still.|sd
+A|Take a boom a little bit.|^2
+A|Well, well what would be the unemployment rate out there?|qw
+B|Uh, unemployment runs approximately six percent.|sd
+A|See that's what it is here too.|sd
+B|But, now under employment I would suspect to run closer to eighteen or twenty percent.|sd
+A|Uh-huh.|b
+B|And the problem is that there are no good permanent full time jobs for people without a technical four year degree.|sd
+A|Yeah.|b
+A|It's even getting hard for the four year people to find jobs.|sv
+B|Yes.|aa
+B|It is.|sv
+A|I know people they are out of school for two or three years|sd
+A|and they have a job that has nothing to do ...|sd

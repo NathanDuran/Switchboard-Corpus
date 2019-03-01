@@ -1,0 +1,95 @@
+B|Hello.|fp
+A|Hi, uh,|fp
+A|basically, I wear pants.|sd
+A|I'm a real pants person|sd
+A|and, uh, like when I'm at home since,|sd
+A|and I'll say, I'm a homemaker since that's my basic thing, uh,|sd
+A|I wear a pantsuit most of the time.|sd
+A|Not a pantsuit,|sd
+A|I guess pants and a shirt|sd
+A|and, uh, in the summertime I wear cotton tops.|sd
+A|Cotton top shirts|sd
+A|and in the winter I wear, uh, like sweaters.|sd
+A|I like sweaters a lot.|sd
+A|And so I do that.|sd
+A|But when I go out for meetings uh, then I will wear either, uh, skirts or, uh, a dress|sd
+A|and I have a couple of pantsuits because those are real in at this time,|sd
+A|but, that's basically what I do.|sd
+B|Well, I think our tastes are fairly similar,|sv
+B|although I am I government worker, I do tend to,|sd
+B|I'm, uh, a scientist.|sd
+A|Oh.|b
+B|So that technically,|%
+B|I suppose, I could get away with, with extremely casual clothes,|sd
+B|but, for the most port, part I don't.|sd
+B|I wear fairly respectable looking shoes|sd
+B|and and a pantsuit of one sort or another|sd
+A|Right.|b
+B|and, uh, I guess dress it up with a, with a, a very nice black jacket when I have, have visitors or have to give talks.|sd
+A|Well, that sounds nice.|ba
+B|Right.|b
+A|Uh, it said the seasons,|sd
+A|do, do you change much through the season|qy
+A|or,|qy
+B|No,|nn
+B|actually I guess this summer I, I wore some fairly nice jeans uh, more than I have in previous seasons.|sd
+A|Uh-huh.|b
+B|But, uh, no,|nn
+B|I tend to, to use the same things because actually our offices are very cold in summer.|sd
+B|I don't know whether they think by, you know, freezing them up overnight, then they can save electricity during the day or something.|sv
+A|Maybe.|aap_am
+B|But but, you know, you wear a heavy sweater in your office, all summer.|sd
+A|No.|b
+B|So, right,|%
+B|uh, yeah,|%
+B|I don't, I don't, I, you know, I'm not a clothes horse in the sense that some of my friends.|sd
+A|Uh-huh.|b
+B|And I guess although in, as I recall the stereotype of, of secretaries was, you know, overdress, over kill, sort of|sd
+A|Yeah.|b
+B|and in a in a sense, the people I know who spend the most on clothes are secretaries.|sd
+A|Yeah.|b
+B|Although the fact that most of the ones I know are in the government and they're not meeting the public it, I find it a little bit strange that their priorities would, would be to spend this money here|sv
+A|Right.|b
+B|You know,|fo_o_fw_"_by_bc
+A|Uh-huh.|b
+B|I mean, I suppose if you were a, a, more a receptionist and meeting the public and it was the image of your company at stake perhaps you would have to dress up.|sv
+A|Then|^2
+A|Uh, well, I don't have the resources to just go out and buy, buy, buy anyway|sd
+A|and so my don't change dramatically over the years.|sd
+A|If I need something new, I will go and buy it.|sd
+A|But, basically I'm a, a pretty much the same|sd
+A|in the summertime I wear the light cotton|sd
+A|and in the wintertime I change to the sweaters.|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|And, so, it's not a whole lot of, of change for me either.|sd
+A|And, uh, especially when I go to the meetings and wear the dresses|sd
+A|I, I, I enjoy that,|sd
+A|but it just wouldn't be, uh, smart for me to do that in my home with my children.|sd
+B|Uh-huh.|b
+A|So, I have to, uh, think about things like that, too.|sd
+A|I have given seminars before in, in creative writing and things like that.|sd
+A|Now, I don't know if they consider that a job.|h
+A|I don't really get paid for that, uh, often,|sd
+A|but, uh, when I do that then I, I think I become more businesslike.|sd
+A|Uh, but it doesn't really change my clothing style.|sd
+B|Exactly.|aa
+B|I mean, you can look businesslike in, in a the same pant suit you would, you know wear for other things.|sv
+A|Yeah.|b
+B|Yeah,|%
+B|I'm, I'm really glad about that pant suits are popular because I'm allergic to many of the synthetics.|sd
+A|Oh.|b
+B|And so I used to have a problem when, when I was working in a restaurant while I was in college and had to dress up, and nylons and things like that would just give me a terrible rash.|sd
+A|Uh-huh.|b
+A|Oh, dear.|ba
+A|That's not helpful.|ba
+B|right.|aa
+B|But otherwise, now, I'm, I guess we're both pretty practical|sv
+A|Yeah,|aa
+A|I guess so|h
+A|Well, it's been great talking to you.|fc
+B|Okay.|fc
+A|Have a great day.|fc
+B|Well, have a good day.|fc
+A|Bye.|fc
+B|Bye-bye.|fc

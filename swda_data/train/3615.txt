@@ -1,0 +1,166 @@
+A|Do you have any children?|qy
+B|Yeah,|ny
+B|I have two, two boys, twelve and sixteen.|sd
+A|Twelve and sixteen.|b^m
+B|Uh-huh,|b
+B|how about you?|qo
+A|Well, I have three,|sd
+A|and, uh, they're five and three and nineteen months.|sd
+B|Oh.|b
+A|So we kind of got different ball game|sv
+A|but, uh.|%
+B|Right|b
+A|What, uh,|%
+A|do you feel like you have any time, to spend with them?|qy
+B|Well.|%
+A|They're probably at an age where they don't want to spend any time with their parents.|sv
+B|That's true|ba
+B|You actually, of course, spend less time with them when they get older,|sv
+B|but it's, of course, still really important.|sv
+A|Right.|b
+B|I have a kind of a fortunate situation, I think, right now with my sixteen year old.|sd
+B|Um, I work two nights a week at a,|sd
+B|I'm a librarian|sd
+A|Oh, uh-huh.|b
+B|and I work two nights a week at the Senior High School library.|sd
+B|They keep it open, you know, for kids to do their work|sd
+A|Right.|b
+B|and he, um, and then they, the school district hires an aide, you know, to work for me.|sd
+A|Sure.|b
+B|Well, my son is my aide.|sd
+A|Oh, well, that's nice.|ba
+B|So, two nights a week for four hours we're stuck together|sd
+A|You're stuck together.|b
+B|and there's usually not very much business.|sd
+A|No.|b
+B|I mean, some nights it's just real, real quiet.|sd
+B|So.|%
+A|I would suspect your nights would be pretty quiet for the most part.|sd
+B|So we, I have sort of a captive audience,|sd
+B|so I really do spend probably more time with him than, than most, you know.|sd
+A|Right.|b
+B|But, uh, of course I'm away from my other son those hours, too.|sd
+B|But his dad's at home pretty much that time.|sd
+A|And so that kind of gives him, uh, time with his dad, then.|^2
+B|Yeah,|b
+B|that's true,|ba
+B|yeah.|b
+A|Gives him a little bit of that individual time.|sd
+B|But, but it is hard, once they get that age,|sv
+B|I mean, their friends are the most important thing there is.|sv
+A|Right,|b
+A|and they want to be able to spend, uh.|sv
+B|That's right.|ba
+A|Well, I've even noticed that with my five year old. She started kindergarten this year,|sd
+A|and every day that she's not at school, uh, she thinks we need to have someone over and play|sd
+B|Uh-huh.|b
+B|Uh-huh|b
+A|and that kind of|%
+B|Yeah,|b
+B|it's kind of hard.|sd
+A|yeah,|aa
+A|it's hard,|sd
+A|I think, uh, I find myself getting my little projects going and not taking the time that I should|sd
+B|Yeah.|b
+A|I'm more worried about, Oh,|sd
+A|I didn't this done,|sd
+A|I didn't get,|sd
+A|the kitchen needs to be cleaned|sd
+B|Uh-huh.|b
+A|this needs to be done,|sd
+A|and and I need to remind myself to slow down|sd
+B|Uh-huh.|b
+A|and it'll still be there tomorrow.|sd
+B|Right.|b
+B|Yeah,|b
+B|that's true.|ba
+A|But that's kind of hard to do, you know.|sv
+B|Yes,|b
+B|it is hard to do,|sv
+B|right,|b
+B|yeah.|b
+A|You don't see yourself getting.|sv
+B|Well, if you're kind of a person that likes things, you know, organized or neat|sv
+A|Uh-huh.|b
+B|or, you know|%
+A|Right.|b
+B|then I think it, it is hard.|sv
+B|It's, um,|%
+B|I think one of the nice things about holidays is that, you know, it does give you the opportunity to spend more time yeah, with family.|sd
+A|Slow down a little bit.|^2
+B|We have, we often go to Illinois for Christmas,|sd
+A|Oh, uh-huh.|b
+B|and we're not this year,|sd
+B|and it's just really nice because we can do, you know, the things you want to do.|sd
+A|You can do, uh, more than than when you travel.|qy^d
+B|Yeah.|ny
+B|Yeah,|ny
+B|that's right.|sd
+A|This is the first year we're staying home, too,|sd
+A|and, uh, I think it's going to be real quiet|sd
+A|but, uh, that's an opportunity to get out the games|sd
+A|and,|%
+B|Yeah,|b
+B|right.|b
+B|See, we usually do that,|sd
+B|my, my kids even have already gotten out, um,|sd
+B|my twelve year old got out the Legos which of course he hasn't touched since last summer|sd
+A|Right.|b
+A|Of of course.|b^m
+B|but, you know, but every now and then, I mean, he's got a lot of those technic, those hard kind,|sd
+B|you know, and he wants to be an engineer,|sd
+B|so he still likes all that kind of building stuff|sd
+A|Oh, yeah.|b
+B|and, um, we have the train,|sd
+B|and we haven't had that Lego train together for years,|sd
+B|and, um, so he sat down,|sd
+B|and I told him I really wanted him to build the train,|sd
+B|and we would put it under the tree, and that I would keep it together,|sd
+B|I wouldn't take it apart|sd
+A|Wouldn't take it apart after that.|bf
+B|yeah,|aa
+B|and every year I'd have the Lego train under the tree.|sd
+A|That'd be kind of fun.|ba
+B|And, um, so he worked on that for the longest time, ever since school was out on Friday,|sd
+B|and, um, then his sixteen year old brother started helping, too, you know.|sd
+B|you know, these are kind of things like during the normal rat race|sd
+A|Right,|b
+A|right.|b^m
+B|those kinds of things never happen|sd
+A|No|aa
+B|but.|%
+A|no.|aa
+A|In fact in, I think if people would learn to turn off the T V|sv
+A|and|%
+B|Uh-huh.|b
+B|Yeah.|b
+A|I think that's a lot of the breakdown of the communication and the communication that would take place in a family,|sv
+B|Yes,|aa
+B|yeah.|b
+B|Which is,|%
+A|usually people are not sitting in front of that.|sv
+B|Uh-huh,|b
+B|and there's always a few people in the family that, when they stare at it, you know, they're totally turned off to everything else.|sd
+B|The rest of.|%
+A|Yes,|b
+A|and you can't communicate while you're doing that, right?|bh
+B|No|aa
+B|That's right.|ba
+A|Whereas, uh, I'm the type of person, I could not sit, well,|sd
+A|I shouldn't say I could not,|h
+A|but be very hard for me to sit down and watch a program all the way through without doing something.|sd
+B|Yeah,|b
+B|yeah,|b
+B|me too.|sd
+B|Yeah,|b
+A|Because they talk so much,|^2
+A|isn't that the,|%
+B|they talk about T V shows,|sd
+B|and I, huh,|%
+B|you know, how can you watch that, you know|sv
+A|You're kind of like, what are you talking about|sv
+A|and, uh,|%
+B|it's the best show on,|^2
+B|I don't know.|h
+A|You feel like you're a little bit out of it, don't you.|qy
+A|They need to have a highlight in the newspaper or something tell us what's,|sv

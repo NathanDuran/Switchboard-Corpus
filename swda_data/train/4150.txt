@@ -1,0 +1,157 @@
+A|All right?|qy
+B|Yes.|ny
+A|Okay.|b
+A|How many kids do you have?|qw
+B|I think I think we're going to talk about parents spending time with their children.|sd
+B|We,  have  three children who are eleven, nine, and eight.|sd
+A|Right.|b
+B|So this is the big issue with us. Although I don't recall marking it on my little things to talk about|sd
+B|but perhaps they are little for words to be said like day care and quality time|sd
+B|and,|%
+A|Uh-huh.|b
+B|Anyway.|h
+B|You don't have children?|qy^d
+A|No.|nn
+B|But you're married?|qy^d
+A|Yeah,|ny
+A|we, we've been married for two and a half years.|sd
+A|We've been trying for about two years but no luck yet.|sd
+B|Oh.|b
+A|Hopefully,|%
+B|You know,  I know we're not supposed to do this long distance|sd
+B|but actually I'm getting a call.|sd
+B|I wonder if I could possibly take it on call waiting.|sd
+B|Could I ask you to hold one minute?|ad
+A|Uh-huh.|aa
+B|I'll be right back.|sd
+B|Excuse me,  just a moment.|oo_co_cc
+A||%
+B|They're going to get mad|sd
+A|whispers to someone in the She had another call.|t3
+A|She has just three kids, eleven, nine, and eight.|t3
+B|Hello?|fp
+A|Uh-huh.|b
+B|I'm so sorry.|fa
+A|All right.|aa
+B|That was my daughter's Brownie leader telling me that there is a meeting tomorrow Brownie meeting.|sd
+A|Okay.|b
+A|That keeps you|sv
+A|do you have a lot of activities with your kids?|qy
+B|Well, I don't want to, I don't want this to be a unilateral conversation|sd
+B|but, yes,|ny
+B|we do.|sd
+B|Both my husband and I work|sd
+B|and our children are sixth, fourth, and third grade.|sd
+B|And the school years are wonderful,|sd
+B|they're just wonderful.|sd
+A|Uh-huh.|b
+B|The kids, they are real people|sd
+B|and they are interesting|sd
+B|and, they, they have all their own activities|sd
+B|and, um, I think as parents we really enjoy them in, in our personal situation|sd
+B|our children have not yet decided to rebel|sd
+A|Uh-huh.|b
+A|So they're pretty  good kids, huh?|qy
+B|I'm  sure that's coming though.|sd
+B|But,  they are  wonderful kids.|na
+A|Yeah.|b
+A|Well, we had growing up|sd
+A|I guess I can talk about us.|h
+A|We had nine kids in our family.|sd
+A|We had eight boys and one girl.|sd
+A|But, my  Dad, uh,|sd
+B|You had eight  boys and one girl?|br
+A|Yeah.|aa
+A|And the time that my, we spent with our Dad was, he owned his own business|sd
+A|so we worked with him most of the time.|sd
+A|So that's how we spent most of the time  with him.|sd
+B|Are you  Mormons?|qy
+A|Yeah.|ny
+B|That's what the Utah and the large family.|sd
+A|That was a dead giveaway, huh?|qy
+B|Well, we're Catholics.|sd
+B|I came from a family of five.|sd
+B|I had four brothers,|sd
+A|Uh-huh.|b
+B|the  only girl.|sd
+A|Oh.|b
+B|And everyone always asked if the girl got spoiled.|sd
+A|Which that,|%
+B|I never  felt spoiled.|sd
+B|In fact I always thought my toys were destroyed|sd
+A|I was going to say, my sister wasn't spoiled very much.|sd
+B|No.|aa
+B|Usually busy fighting for survival.|sd
+A|Yeah,|b
+A|that's .|%
+A|But,|%
+B|Well,  I do think with working parents it is, I mean, there are some real issues here.  Um,  that I think, um,|sv
+A|Uh-huh.|b
+B|I don't know.|h
+B|It's an interesting problem.|sv
+B|I happen to, um,|sd
+B|I'm a pediatrician.|sd
+A|Oh.|b
+B|My husband is a physician,|sd
+B|so, uh, I, I I talk to parents about this a lot.|sd
+B|But children,|%
+B|I, I think working mothers or mothers who choose to work outside the home, um, need very early to come to grips with any guilt,  that they  feel and decide what's best for them and their family.|sv
+A|Yeah.|b
+A|Uh-huh.|b
+B|And I feel when my children were very young, I had jobs that helped me be flexible with my schedule and spend time with them and all that sort of thing.|sd
+B|And I long ago decided I'm a better mother because I work outside the home.|sd
+A|Uh-huh.|b
+B|I really  believe that.|sd
+B|And it has, um, helped us to afford some things for our children that we couldn't otherwise that I think are wonderful particularly at this age,|sd
+B|and I think our kids are real secure. And have a real sense of priorities and that they can do anything and be anything both male and female a lot|sd
+A|Uh-huh.|b
+B|so I know it sounds like a rationalization|sd
+B|but it's, I really think it's true for our family,|sd
+A||%
+B|and  I think it has worked very well.|sd
+A|Yeah.|b
+A|It's like you said, you know, to each his own.|sd
+A|And we're planning on having my wife stay home.|sd
+A|And but,|%
+B|There's no question,|sv
+B|I think that's really the best.|sv
+B|If, if a woman is happy doing that,|sv
+A|Uh-huh.|b
+B|I hate  to put it quite that way.|sd
+A|Yeah.|b
+B|I was twenty-nine when I had my first child|sd
+B|and, uh, I would not have been real fulfilled.|sd
+B|I really would not have been totally staying home with a young child.|sd
+A|Uh-huh.|b
+B|It's a  wonderful, it's wonderful to be a mother|sd
+B|but, uh, I like I like the way I did it.|sd
+A|Right.|b
+B|I sort of worked half time.|sd
+B|I had very flexible hours.|sd
+B|I nursed all three of our children until they were at least a year|sd
+B|and I,  you  can do that despite working very easily which is one of the things I preach all the time to, to mothers.|sd
+A|Oh.|b
+A|Uh-huh.|b
+B|Um, and I think we choose very, very carefully the, um, alternative situations that we had them in.|sd
+A|Uh-huh.|b
+B|Some baby-sitting groups,|sd
+B|again, I know it sounds like a rationalization,|sd
+B|but I really do think sometimes they very early on are around lots of other children|sv
+B|and they, they learn to share.|sv
+B|They learn not necessarily to be the center of attention but that at the same time we have to be sure they are secure.|sv
+A|Uh-huh.|b
+B|I think that helps.|sd
+A|Well, that's good.|ba
+A|Sounds like you're, have a handle on it.|sv
+B|Well, so, so . So, your wife, does she work right now?|qy
+A|Um, no,|nn
+A|not right now.|sd
+B|She's out,|bf
+A|Right.|aa
+A|Well, we just moved down here.|sd
+A|We used to live up in Seattle for a couple of years.|sd
+B|You're still trying to dry out?|qy^d
+A|It's that's no problem here.|sd
+A|Yeah,|%
+A|we really liked it up there|sd
+A|but then|%

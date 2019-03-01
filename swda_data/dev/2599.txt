@@ -1,0 +1,163 @@
+A|Uh, I don't know,|h
+A|I'm not a real, uh, great football follower,|sd
+A|I guess, there are two basic teams that I seem to follow every year.|sd
+A|One is the Dallas Cowboys|sd
+A|and the other is the Oklahoma Sooners.|sd
+B|Oh, okay.|b
+A|Uh, being a native Okie, I uh, I like to keep up with what the homeboys are doing. Uh.|sd
+B|I see,|b
+B|so you make it, uh, to that Longhorns Sooners game?|qy
+A|No.|nn
+B|Every year.|qy^d
+A|No,|nn
+A|it's funny.|sv
+A|Uh, I got out and got my bachelor's degree in uh, seventy-three and, uh, never went to a game there and have never gone to a game since.|sd
+B|How about that.|ba
+A|But I always enjoyed watching them,|sd
+A|I just|%
+A|growing up in Oklahoma, there it was always the home team, kind of like Dallas is around here.|sd
+B|Yeah,|b
+B|yeah.|b
+A|And there's always been an interest there.|sd
+B|Well, it's kind of same for me,|sv
+B|I grew up in southern New Jersey|sd
+B|and the local team was Philadelphia.|sd
+A|Yeah.|b
+B|And they were like thirty miles right up the river|sd
+B|and I'm still pretty much an Eagle fan, I guess.|sd
+A|I guess you keep those things you grew up with.|sv
+A|I worked in, uh, Missouri for a while|sd
+A|and, uh, I was probably the only one in the room several times when we were watching football on T V when the Cowboys were playing the Saint Louis Cardinals|sd
+A|and I was rooting for the Cowboys.|sd
+B|Yeah.|b
+A|But, they were kind of closer to home when, when I struck up with them.|sd
+A|I really don't know what's going to take place with the Cowboys this year.|sd
+A|Everybody keeps talking about the reconstruction they're going through and new players and how next year is going to be even bigger and better than the previous year.|sd
+A|In a way that happened this past season,|sd
+A|and I think that's quite a bit of optimism around here that still there's a chance that maybe, uh, these guys are right, maybe they will come through and, and do something this year.|sd
+A|I look for it to be a pretty good year.|sd
+B|Boy they, uh, they sure did have a big turn around from a couple of years ago.|sd
+A|They did,|aa
+A|uh, they got rid of a lot of familiar names and got a lot of names in that we weren't, weren't familiar with.|sd
+A|Some of them turned out to be pretty good players,|sd
+A|uh, some of them didn't|sd
+A|and you know maybe the stuff that, uh, Jerry Jones is talking about the construction and redefining the team and maybe the effort might be starting to pay off.|sd
+A|At least we hope it will.|sd
+B|Yeah,|b
+B|I'm, I keep waiting for the Eagles to get over the hump.|sd
+B|They make it to the playoffs it seems for the last few years|sd
+B|but they just have done absolutely nothing when they got there|sd
+B|And you know, they've got a lot of the tools to do it,|sd
+B|but doggone if they can't just put it together, uh, you know,|sd
+B|they have got the quarterback there in Randal Cunningham, who's just, you know, phenomenal,|sd
+B|but, he, he's too streaky it seems.|sd
+A|Yeah,|b
+A|but they have always been a really strong team.|sd
+B|Yeah,|aa
+B|yeah,|aa
+B|and without a whole lot of big name players.|sd
+B|They have got a few anchors on offense and defense|sd
+B|and you know they, they've managed with those guys|sd
+B|and I don't know.|h
+A|Once the pressure gets turned on they, they seem to loose it.|sd
+B|I guess, yeah.|b
+A|See that's the typical trait of the Dallas Cowboys. And the Oklahoma Sooners.|sd
+B|Yeah.|b
+A|It's funny, over the years.|sd
+B|I guess since Staubach left, they haven't been able to,  keep  it going.|sd
+A|It's.  It's been a rough tow, a rough road to hoe ever since he left.|sd
+A|I don't know why it's so hard to find, uh, a good quarterback these days.|sd
+B|Well, that, that says a lot for the, for his ability, though I think. For Staubach's, I mean.|sd
+A|Well, yeah.|b
+A|You know, he was one of the few who come through in history that can really perform,|sd
+A|uh, we hope,|%
+A|every team hopes their current quarterback is going to pull them through.|sv
+A|In a way Aikman has done some of that.|sd
+A|But, uh, the guy winds up getting hurt every other game.|sd
+B|Yeah,|b
+B|I, I tell you, it's difficult in that guy's position coming into that because there, he was just so highly touted by the press and everybody expected so many big things, you know.|sd
+A|Yeah,|aa
+A|they did.|sd
+A|They put a lot of pressure on him from the outside and from the inside.|sd
+A|Uh, it's funny watching them, them play,|sd
+A|he's probably like a lot of quarterbacks, uh,|sd
+A|when the pressure is really on when it's down to the last few minutes of the game for the season is when the guys seem to really do their best.|sd
+B|Uh-huh.|b
+A|And I haven't quite figured that out,|sd
+A|if they figure they have got it won or if there's no real hurry because the first three quarters or, uh, if, uh, if something happens that that adrenalin starts flowing. They say, hey, we got to do something now. And then start playing the game the way the game should be played toward the last few minutes.|sd
+B|Yeah.|b
+A|So, I don't know|h
+A|I'm looking for a good year.|sd
+A|I guess we're always looking for a good year.|sd
+B|So, obviously though, do you think they're going to do anything in the playoffs to make it to the Super Bowl this year|bf
+B|or who do you, who do you like to do that this year?|qrr
+A|Uh, no|nn
+A|I don't think the Cowboys have got a chance.|sd
+A|I think they will probably win one or two more games than they did this year,|sd
+A|and they'll get close to it.|sd
+A|They'll probably get everybody's hopes up and blow it toward the end.|sd
+B|So who's going to beat them?|qw
+B|Who are they going to blow it to?|qw
+A|Uh, that's a good question.|sv
+A|Uh, I'm figuring either one either the Eagles or possibly San Francisco|sd
+A|I'm not real sure.|h
+B|Boy, they'd some big changes, speaking of them.|sd
+A|They did.|aa
+A|So, I don't know how these changes are going to help or hinder the team, sometimes it brings in new motivation|sd
+A|and all you can do is get out of the way because here they come.|sd
+B|Yeah.|b
+B|I'm sure, you know, my sentimental favorite would have to be Philadelphia,|sd
+B|but I, I sure am scared of them Giants|sd
+A|Well, that's true.|ba
+B|Those guys are tough.|sd
+A|They are tough|bf
+A|and they're big,|sd
+A|they're mean|sd
+A|and they are going to come right through you if you don't do something.|sd
+B|Yeah.|b
+B|That, that sure was a fun Super Bowl to watch this year.|sd
+A|Oh, yeah,|aa
+A|yeah.|aa
+B|I mean, I wasn't pulling for either team.|sd
+A|No,|aa
+A|no.|aa
+B|But that was just a good football game.|sd
+A|And it's funny,|sd
+A|you know. You like to pull for the underdog|sd
+A|and for a long time I was pulling for Denver.|sd
+B|Uh-huh.|b
+A|Uh, Marino makes me just crazy mad sometimes, because of some of the stupid stuff he does,|sd
+A|but he's a good quarterback.|sd
+A|He's got a good arm,|sd
+A|sometimes it's too good because he throws too hard.|sd
+B|L A you mean?|qy^d
+A|I mean L A,|na
+A|sorry.|fa
+B|Boy, speaking of Denver, on another subject, I've been up there like five times in the last three, four weeks.|sd
+A|Oh, yeah?|bh
+B|Yeah|ny
+B|we've been trying get this new D N B two thousand printer up and running.|sd
+A|Has it been, uh, snowing up there?|qy
+B|Oh, boy I was just up there,|^h
+B|I just got back last night around eleven thirty or so,|^h
+B|and it was about seven inches of snow on the ground.|na
+A|Wow.|ba
+B|And it snowed all day.|sd
+A|Well, that will make the skiers happy.|sv
+B|Oh, yeah,|aa
+B|yeah.|b
+B|If, if|%
+B|it snowed that much in Denver you know|sd
+B|they got that much up in the mountains, you know, just west of there.|sd
+A|Oh, you bet.|ba
+A|Oh, yeah,|ba
+A|up around the Keystone and Copper Mountain, those guys will love that.|sv
+A|Well, good to talk to you.|fc
+B|Yeah,|fc
+B|enjoyed it Bob.|fc
+A|You guys have a good time, keep those printers coming.|fc
+B|Hey,|fc
+B|we'll do it.|fc
+A|All right,|fc
+A|bye.|fc
+B|Bye.|fc

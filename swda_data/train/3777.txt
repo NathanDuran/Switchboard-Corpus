@@ -1,0 +1,147 @@
+A|What are your favorite T V shows?|qw
+B|Uh, I guess one of my favorite ones is CHEERS.|sd
+A|Yeah.|b
+B|I always liked that one.|sd
+B|They're always so funny.|sv
+B|And I also like the COSBY SHOW|sd
+A|Yeah.|b
+A|Yeah.|b
+B|Those are probably my two favorites.|sd
+A|Yeah,|b
+A|I, I, I rather enjoy the COSBY SHOW.|sd
+A|My wife and I both like COMMISH.|sd
+B|You know, I've watched that one time|sd
+B|and it was really good,|sv
+B|but now that's on, what, Saturday night?|qy^d
+A|Uh,|%
+B|Is it Saturday night?|qy
+A|It's either Friday night,|ng
+A|it's either tonight or tomorrow night.|sd
+A|Uh, around here at least.|sd
+B|Uh-huh.|b
+A|I guess it depends on what channel you're getting. You know, what system you're getting it through.|sd
+B|I can't,|%
+B|Uh-huh.|b
+B|Yeah.|aa
+B|I,|%
+B|yeah,|%
+B|I saw it one time|sd
+B|and I really liked it,|sd
+B|but I just haven't, uh, seen it, you know, watched it since.|sd
+A|Uh, we, we always enjoyed it.|sd
+A|It, it seems to be kind of halfway between, uh, something like ALL IN THE FAMILY and, uh, HILL STREET BLUES.|sv
+B|Yeah|b
+A|it's a good show.|sv
+B|Yeah,|aa
+B|the episode that I watched, uh, I liked him because even though he's a law enforcement officer, you know, sometimes the laws are kind of ridiculous|sd
+A|You|%
+A|Yeah.|b
+A|Yeah.|b
+B|And he seems to do that sometimes|sv
+A|he's tender hearted fellow.|sv
+B|Yeah|aa
+A|Yeah.|aa
+A|I think that's what first drew us to him, the, uh, the, the relationship between he and his wife kind of looks a lot like ours.|sd
+B|Uh-huh.|b
+A|But, uh,|%
+B|Yeah,|b
+B|I thought it was a pretty good show.|sd
+A|Yeah,|b
+A|uh, Yeah,|b
+B|I always like,|sd
+B|I, I like to watch like SIXTY MINUTES and TWENTY TWENTY.|sd
+A|uh, I know we, uh, we watch COMMISH any chance we get.|sd
+B|Uh-huh.|b
+A|Uh, used to be a big fan of STAR TREK,|sd
+A|but that's kind of,|sv
+A|it's gotten more and more to where they are so totally against, uh, anything spiritual.|sv
+B|Uh-huh.|b
+A|But, uh, anyway,|%
+B|I've never gotten into the STAR TREK era|sd
+A|Yeah,|b
+A|I, I used to be a, used to be a real big fan of STAR TREK.|sd
+B|Used to be a Trekie, huh|qy
+A|Uh, pretty much, yeah.|ny
+B|Uh-huh.|b
+A|I always enjoyed the show anyway|sd
+B|Yeah.|b
+A|And STAR TREK's in a or the, uh, STAR WARS set|sd
+B|Uh-huh.|b
+A|uh, one of the first STAR WARS movie?|qy^d
+B|Yeah.|ny
+A|I think I watched it like nineteen times.|sd
+B|Oh, my goodness.|ba
+B|You must have some of their lines memorized|sd
+A|Uh, I did at one time|sd
+A|Anyway, Oh, I I was a pretty big fan of that sort of thing.|sd
+B|Wow|ba
+B|Yeah.|b
+A|Used to, used to read a, read a lot of science fiction work, too.|sd
+B|Uh-huh. going to say, I hear a baby in the background * B.66 and slash units?|b
+A|But, uh, no,|ar
+A|it, uh,|%
+A|we don't do a whole lot of T V watching,|sd
+A|but that, uh, I don't know if you heard them or not, I got a twelve year old, twelve week old baby.|sd
+A|Uh-huh.|b
+A|Yeah,|aa
+A|that,|%
+A|between  that and school it's not  ,|sd
+B|I imagine  that keeps you busy  .|sv
+A|Between him and school, there's not much time left for watching much T V.|sd
+B|Yeah.|b
+B|Well, we're, we're expecting our first in about three months,|sd
+B|so I know we won't be watching as much as we do now|sd
+A|Yeah,|b
+A|this one here is our first.|sd
+A|And we're both full time students|sd
+A|so,|%
+B|Oh, wow.|ba
+A|Yeah.|b
+B|That must be tough.|sv
+A|What are you hoping for, a boy or a girl?|qy
+B|It doesn't matter, just a healthy baby.|sd
+B|Well, we had a sonogram,|na
+B|but we told him not to tell us,|sd
+B|so it's going to be a surprise|sd
+A|Yeah.|b
+A|That's the best way.|sv
+B|Yeah.|b
+A|I mean, it's like finding out somewhere in July what you're going to get for Christmas.|sv
+A|I mean, you know, It's not as much fun.|sv
+B|Yeah|aa
+B|It's, it's not quite the same.|bf
+A|Oh.|%
+B|Yeah|b
+A|Anyway,|%
+B|I agree|aa
+B|I'm sure we'll be watching more, uh, children oriented television shows.|sd
+A|Oh, I'm about half kid at heart anyway.|sd
+B|Oh, I am, too.|sd
+A|I, I,|%
+B|I still watch cartoons sometimes, every once in a while when my sister comes to visit|sd
+B|so,|%
+A|The new cartoons don't seem to be worth much,|sv
+A|but the, uh,|%
+A|well, a couple of the, uh, ones Disney's doing aren't too bad|sv
+A|but,|%
+B|Well, you know, it seems like a lot of them are a lot more violent than they used to be.|sv
+A|Oh, yeah.|aa
+B|You know, I remember, like, the FLINTSTONES and the JETSONS|sd
+B|and those were just kind of good old cartoons.|sv
+A|Yeah.|b
+A|The, the, the worst of the violence in the FLINTSTONES was when somebody gave Fred a poke in the snoot.|sv
+B|Yeah|b
+A|But, oh, shoot, I mean, blowing up galaxies and and putting a curse on the whole planet, or, or, or you know, or on all the, you know, everything of this species, you know, just all kinds of crud|sv
+B|Yep.|b
+B|Yeah,|aa
+B|and they wonder why kids turn out the way they do nowadays|sv
+A|Yeah,|aa
+A|everything's mutations and, and and killing|sv
+B|Yeah.|b
+A|and, Gone are the days of those things they|sv
+B|Uh-huh.|b
+A|what was it I, uh, T N, Turner Broadcasting Network used to, used to, uh, do the Saturday morning and Sunday morning cartoons, the old cartoons. They used to put between the first and second feature at the theatre.|sd
+B|Uh-huh.|b
+A|Those old little ten minute jobs where, uh, the real ballooned looking art work, you know|sd
+B|Uh-huh.|b
+A|and,|%

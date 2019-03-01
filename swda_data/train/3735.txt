@@ -1,0 +1,196 @@
+A|Hello.|fp
+B|Hi.|fp
+A|Okay,|b
+A|I pressed one|sd
+A|so I guess we're recording now.|sd
+B|Okay.|b
+A|Okay,  um.|b^m
+B|Um,  as far as spare time, they talked about,|sd
+B|I don't, I think,|%
+B|who has any spare time|qh
+B|I've got a, a six year old and a, um,|sd
+B|well, my baby's one today.|sd
+A|Um.|b
+B|Today's his birthday.|sd
+A|Um.|b
+B|And I'm also, I'm expecting,|sd
+B|and, so, I, I don't know,|h
+B|I haven't had much spare time lately|sd
+B|but,|%
+A|Okay,|b
+A|well, I've, I have had some because I was working for P I E,|sd
+A|and they went bankrupt|sd
+A|so I've got quite a bit of spare time right now.|sd
+B|Oh, uh-huh.|b
+A|And I've been making dolls, cloth dolls.|sd
+B|Oh, have you?|bh
+A|Uh-huh.|ny
+B|Oh.|bk
+A|And, uh,|%
+B|You sew the bodies and everything?|qy
+A|Yeah,|ny
+A|it's a, they're all cloth.|sd
+A|It's not, uh, any porcelain at all.|sd
+B|So, so you just sew everything up, huh?|qy
+A|Yeah|ny
+B|Oh.|bk
+A|and I make the clothes for them.|sd
+B|Uh-huh.|b
+B|What kind|qw
+A|And.|%
+B|do they have yarn hair|qy
+B|or,|%
+A|Um, no,|nn
+A|you can get the little curly hair at the craft shop.|sd
+B|Oh, uh-huh.|b
+B|Oh.|bk
+A|I made some of them with that hair|sd
+A|and then, uh, don't ask me what the other hair I made,|ad
+A|it looked like, um, it looked,|sd
+A|well, I made some of them with regular wigs.|sd
+B|Oh, did you?|bh
+A|I went to the flea markets and bought, you know, like the wigs for a dollar.|sd
+B|Oh, uh-huh.|b
+A|Then I cut a V shape out of the back of them and then sewed them on.|sd
+B|Oh, my goodness.|ba
+B|It sounds like you're creative.|sv
+A|They looked really cute|sd
+B|Uh, do you sell them?|qy
+A|I have sold five of them, so far.|na
+B|Oh, have you?|bh
+A|Uh-huh.|ny
+A|I just have to get a place where, you know, I can sell them actually.|sd
+B|Yeah,|b
+B|I bet.|ba
+B|How long does it take you to make one?|qw
+A|Uh, if I would just work all day long, making the clothes and everything, probably about two and a half days.|sd
+B|Oh, really?|bh
+A|Uh-huh.|ny
+B|Oh.|bk
+A|So.|%
+B|Do you enjoy it?|qy
+A|Yes|ny
+B|Yeah.|b
+A|I really do.|sd
+B|Uh-huh.|b
+A|And, then I also crochet|sd
+A|and,|%
+B|I, I, I can crochet and knit.|sd
+B|Um, actually, I started an afghan,|sd
+B|but it's been a whole long time ago probably over a year ago|sd
+A|Yeah.|b
+B|and it's sitting in my closet half done right now,|sd
+B|but, it's a knitting one.|sd
+B|And,|%
+A|Yeah.|b
+A|I tried knitting first,|sd
+A|but, I don't know,|h
+A|I, I didn't like it.|sd
+B|Oh, didn't you.|b
+A|So then I went to crocheting,|sd
+A|but now I want to learn how to knit again.|sd
+B|Oh.|b
+B|I|%
+A|You know.|b
+B|Yeah,|b
+B|I enjoy knitting.|sd
+B|I, I kind of like that,|sd
+B|but I just, like I say, haven't done it for a while.|sd
+A|Uh-huh.|b
+B|And I do like sewing sometimes.|sd
+B|I, I've made a few of the, you know, just the little valence curtains in my house, and things like that.|sd
+A|Uh-huh.|b
+B|But, it, it's just finding the time for these things that you you enjoy.|sv
+A|Yeah,|aa
+A|yeah.|aa
+B|But,|%
+A|Yeah,|b
+A|I, in fact, I just bought a serger in December.|sd
+B|oh, I would love one of these.|sd
+A|Yeah.|b
+B|Oh, that's neat.|ba
+A|I haven't done everything on it yet, you know,|sd
+A|but just what little bit I have used it for, I really like it.|sd
+B|Oh, those are wonderful aren't they.|sv
+A|You know, especially making the seams and things like that you know, it's, it's got such a professional finish on them.|sv
+B|Oh, yeah,|aa
+B|that, and that's what I hate doing is the finishing stuff.|sd
+A|Yeah.|b
+B|It'd be nice to have that.|sv
+A|So I like that.|sd
+B|Oh, that's neat.|ba
+A|And.|%
+B|Well, do you have, um, uh,|qy
+B|I guess you're kind of young,|sv
+B|I was going to say, do you have grand kids or anything to make dolls for.|qy
+A|Well, fifty-seven's not young,|sv
+A|but no,|nn
+A|my son's, has been married for almost ten years,|sd
+A|but they don't have any children.|sd
+B|Oh, uh-huh.|b
+A|So, I just make clothes for my dolls.|sd
+B|Oh, well.|b
+B|Well, how did you get involved in that?|qw
+A|Just, you know, just like sewing and stuff and decided to buy a pattern and try to make a doll.|sd
+B|So you did buy a pattern, and then  started from there.|bf
+A|And they, they turned  out really cute.|sd
+A|Yeah,|aa
+A|you got to have a pattern for the body you know.|sv
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|And, uh,|%
+B|have you ever seen those bunnies that they dress?|qy
+A|Yes.|ny
+A|Yes.|ny
+B|Yeah,|b
+B|I, I did make some clothes for one of those dress one of those.|sd
+A|Aren't they cute?|qy
+B|Yeah,|ny
+B|I have quite a few of them actually in my house,|sd
+B|I, and most of them I have bought, um, already clothed,|sd
+B|but  I did  I did make the dress on one,|sd
+A|Uh-huh.|b
+B|and I kind of made the pattern up.|sd
+B|It's not, it's probably not the best|sd
+B|but|%
+A|No,|ar
+A|I, I bought a bunny pattern one time,|sd
+A|but when I sewed it up, the face of it looked like a mouse.|sd
+B|Oh, it did?|bh
+A|Uh-huh.|ny
+B|Oh.|bk
+A|See, it was too pointed.|sd
+B|Oh.|bk
+A|So I tore it back apart again,|sd
+A|and I haven't tried another one.|sd
+B|You haven't sewn it back up, huh?|qy
+A|No,|nn
+A|but I bought a little lamb pattern and the material and everything to make it out of,|sd
+A|but I haven't made it  yet.|sd
+B|Uh-huh.|b
+B|Uh, do you do any kind of painting or anything?|qy
+A|No,|nn
+A|I don't paint, except I stenciled my wall.|sd
+B|Uh-huh.|b
+B|Oh, uh-huh.|b
+B|I I tried that,|sd
+B|I did, I, I ended up just stenciling a, um, a blind, like a, just a roller shade.|sd
+A|Uh-huh.|b
+B|But, I, I can, I had a hard time stenciling.|sd
+B|For some reason I just couldn't do it.|sd
+A|Oh, really?|bh
+B|And people have told me it's very easy.|sd
+A|Oh, yeah,|b
+A|I, my neighbor did it first|sd
+A|and I seen her house|sd
+A|and I saw how beautiful it looked,|sd
+A|so then I decided well, I was going to do it,|sd
+A|and  uh, it turned out really, really good.|sd
+B|Well.|b
+B|What design did you use?|qw
+A|Uh, mostly flowers you know.|sd
+B|Oh, uh-huh.|b
+B|And, what room?|qw
+A|I've done it in the all, uh, all my rooms.|sd
+B|Have you?|bh
+A|I put it in the bedrooms and the bathroom,|sd

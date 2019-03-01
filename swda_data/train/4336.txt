@@ -1,0 +1,82 @@
+A|Uh, well, I'm not sure how it is in Georgia,|sd
+A|but in, in Pittsburgh the the crime rate really is not very high at the moment.|sd
+A|Is that, is that true for, for Atlanta?|qy
+B|Atlanta is kind of high.|ng
+B|Uh, it's, it's lower than it has been in the past.|sd
+B|Uh, I guess nineteen ninety is when it start to drop off,|sd
+B|and usually around the Christmas season is usually when the crime rate is a little bit higher.|sd
+A|Yeah,|b
+A|I,|%
+A|that's probably not true only for Atlanta, but for just about anywhere.|sv
+B|Yeah.|b
+B|Uh, what kind of crime problem do you usually run into?|qo
+B|Any specifics|fo_o_fw_"_by_bc
+A|Well, uh, the least, what, from what's on the news, uh, there are very few, like actual robberies reported, uh, uh, of, of residences.|sd
+A|What's more likely to occur is, uh, robbery of, uh, you know, knocking over a, a small store or a car theft, you know, it, things of that nature.|sd
+A|Very few, uh, assaults,|sd
+A|although on the college campuses, uh, there are, uh, cases of, you know, like people getting machine from a, from an automated teller and, you know, somebody trying to, to device a scam for, for, uh, getting the money for them that actually preys mostly on foreigners.|sd
+B|Um.|%
+A|But mostly petty things and, no, nothing, nothing really too big.|sv
+B|Right,|b
+B|well, I guess here we run into that sometime,|sv
+B|but I guess a lot of crimes are done with apartment type break ins that type, not much home break ins.|sv
+A|Right.|b
+B|There are some, but not, not very high.|sd
+B|Uh, as far as tellers and things like that, it's not extremely high either.|sd
+B|There were one case where, uh, this one guy, uh, was taking women from the teller and, and, you know, making them give him money and stuff and then at the same time, raping them all,|sd
+A|Uh-huh.|b
+B|so, so that's kind of like a double assault there.|sv
+A|Yeah,|b
+A|uh, a strange case that, uh, that happened, oh, it's about, about a year ago was someone actually stole a complete automated teller machine.|sd
+B|Really?|bh
+A|It was a free standing machine|sd
+A|and they backed up into it with a truck and put it on the back and drove away with it.|sd
+B|Uh-huh.|b
+B|Oh, wow.|ba
+A|Now, there's a crime for you.|sv
+B|Yeah,|aa
+B|there's a crime.|sv
+A|Yeah,|b
+A|but, uh, I guess most of the things that happen around here are, are pretty, uh, innocuous.|sv
+A|Although, uh, from what I hear in the news,|sd
+A|and, and I, I saw an episode of the T V show, COPS uh, one time that was in Pittsburgh,|sd
+B|Uh-huh.|b
+A|and, uh, it, it, it did surprise me, because, you know, they were doing drug arrests and thing, and things like that,|sd
+A|but I, I don't really think those things happen too often because, like I said, from what's reported in the news, at least, it's, it's not all that common.|sv
+B|Oh, okay.|b
+B|I don't know,|h
+B|crime situations here, they,|sd
+B|like I say, lot of, lot of cases is usually just apartments and, and break ins and things like that|sv
+B|and a lot of it is due to drugs. Uh, drug related, you know, in, in most cases,|sv
+A|Yeah.|b
+B|it's not like, uh, it's someone do steal a, a or television or V C R or something like that|sd
+B|it is for drugs, you know, because you really can't on the street make any money off of it per se, you know,|sv
+B|you going to get ten or fifteen bucks for it|sv
+A|Yeah.|b
+B|so you really not making a sizeable profit.|sv
+B|So it's not really lucrative to take chances like that, you know, even though it, it does exist.|sv
+A|You know, I, just to diverge a little bit, uh, I live in an apartment.|sd
+A|Right now I'm finishing out my last semester at the University of Pittsburgh|sd
+A|and, uh, the apartment like would be very easy for just about anyone to break in|sd
+B|Right.|b
+A|But, even so, it, I mean, it's, it's still difficult for me to convince my apartment mates to, to like lock the doors when they go out you know, and things like that.|sd
+B|Yeah.|b
+B|Uh-huh.|b
+A|Uh, it would be so easy for someone who is motivated to do so to just, you know, sit out back, take a look at when people are here and when they're not just come in, you know,|sv
+B|Uh-huh.|b
+A|there's a T V and a V C R|sd
+A|and, they could, uh, they could get in pretty easy and, and especially, uh, since there are bedrooms upstairs and people leave the door open, you know, while they're upstairs playing music,|sd
+B|Uh-huh.|b
+A|it could still happen then.|sv
+B|Yeah,|aa
+B|that's true,|sv
+B|but you'd be surprised also how, much people watch you that even not, uh, participating in any type crime.|sv
+B|I guess there was one case,|sd
+B|I was surprised, uh,|sd
+B|so happened this person worked at the same place,|sd
+B|I work for Georgia Tech|sd
+B|and they work at the same place I did,|sd
+B|but I didn't know that they had been watching me|sd
+B|because I was getting ready to, to go in my car one morning|sd
+B|and the first thing they said is, uh, you must don't have to be to work at eight, you know,|sd
+B|like shock,|%

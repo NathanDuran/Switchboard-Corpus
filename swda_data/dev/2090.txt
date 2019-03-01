@@ -1,0 +1,187 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|I guess its recording.|sd
+A|Um, what kind of hobbies do you have?|qw
+A|Do you sing or knit or anything?|qy
+B|Well, I, um, I do cross-stitch|sd
+B|and I enjoy reading and playing softball.|sd
+A|Okay.|bk
+A|I, uh, I started knitting awhile ago,|sd
+A|I knitted|%
+A|I didn't know, even know what the stitch is called.|sd
+A|I just had this, uh, uh, piece of yarn|sd
+A|and I wanted to start something|sd
+A|so I remembered something I learned I think when I was five years old|sd
+A|So I kept doing that,|sd
+A|and now I have a little blanket|sd
+A|but that's all I've done.|sd
+B|Oh, really.|b
+A|Uh.|b
+B|Well, I know that I learned how to knit one time and, um, made a few things|sd
+B|but I haven't done it in so long that I probably wouldn't remember how|sd
+A|Do you make sweaters and things or just blankets?|qy
+B|Well, if I remember I think we made some, like Christmas stockings,|sd
+B|you could make the, like the granny squares or whatever, and sew them together and make Christmas stockings and maybe some slippers or something like that.|sd
+A|Uh-huh.|b
+A|Oh.|b
+A|I see.|ba
+B|Nothing as big as a blanket.|sd
+A|Huh.|b
+B|I know that my husband's grandmother does a lot of that.|sd
+A|Uh-huh.|b
+B|And she makes a lot of afghans and all that kind of stuff|sd
+B|but,|%
+A|I probably won't make anything beyond this blanket|sd
+A|I don't know why.|h
+A|It's just too time consuming.|sv
+B|Yeah,|b
+B|do you have any other hobbies?|qy
+A|Um, I like to sing.|sd
+A|I've been trying to get some wedding gigs and things like that.|sd
+B|Oh, well that's good.|ba
+A|Um, right now my actual job is a news reporter.|sd
+A|But, uh, if I could do anything I wanted to do, it would be to sing professionally.|sd
+A|But um,|%
+B|So are you on the T V then?|qy
+A|Yes,|ny
+A|uh-huh.|b
+B|Oh.|b
+A|I'm in, uh,|%
+A|I work for channel six in Waco.|sd
+B|Oh, okay.|bk
+A|And so I do little news reports and things.|sd
+A|It's not as exciting as it as it sounds.|sd
+A|But, um,|%
+B|So you don't have too much time for hobbies?|qy
+A|No,|nn
+A|not much,|sd
+A|um, my day is usually pretty full.|sd
+B|Yeah.|b
+A|My schedule is like from nine to five thirty,|sd
+A|but I could be at work from anytime, you know, from nine until nine at night or ten or whatever,|sd
+A|so it's hard to make plans much less, you know, have a hobby.|sd
+B|Yeah|b
+A|so. What do you do?|qw
+B|Um.|b
+A|Normally.|sd
+B|I'm a housewife.|sd
+A|Oh, okay.|bk
+B|So, unless the kids are asleep I don't get, usually get much done either|sd
+A|Uh-huh|b
+B|But I've made a, um, few things, cross-stitch things.|sd
+B|I really enjoy doing that.|sd
+A|Uh-huh.|b
+B|And um, I made, uh, like stockings for both my children and a Christmas tree shirt and that, type of thing,|sd
+A|Oh.|b
+B|and it just takes a long time to get it done|sd
+B|but, you know, once you've done something like that it kind of makes you feel good, to, to see it.|sd
+A|Right.|b
+A|I I showed mine to my boyfriend|sd
+A|and he was like, you didn't make that.|sd
+B|Really?|bh
+A|Oh, yeah,|ny
+A|it looks, uh, halfway decent|sd
+A|actually, first thing I did|sd
+B|I guess you can make baby blankets that wouldn't take as long|sd
+A|How many children do you have?|qw
+B|Two.|sd
+A|Oh, okay.|bk
+A|I hear them in the background there .|sd
+B|Yeah|b
+A|All right,|b
+A|that's a hobby in itself.|sv
+B|Not quite|ar
+A|A job in itself.|sv
+B|It's a fulltime job,|aa
+B|yeah.|%
+A|Right now I was just sitting here watching T V,|sd
+A|I was getting ready to fall asleep.|sd
+B|So, um, have you sang at any weddings yet?|qy
+A|Yeah,|ny
+A|I sang at one last summer.|sd
+A|Um, it was my first wedding.|sd
+A|I've done, um, little commercials and background singing|sd
+A|and, um, I sang all through college and things like that|sd
+A|but I really haven't done anything really, professional per se.|sd
+B|Uh-huh.|b
+A|But I did one wedding last year|sd
+A|and, uh, I just now got some cards together, kind of, uh, business cards that say, singer,|sd
+B|Uh-huh.|b
+A|and what does it say, a song makes beautiful wedding or something,|sd
+A|and I've been passing them out to different wedding shops,|sd
+A|I mean when someone comes in, you know, for a wedding, for a wedding dress, and they, they might ask about it.|sd
+B|Oh, that's a good place,|sv
+B|yeah.|%
+B|Uh-huh.|b
+A|This one woman even wanted me to bring my tape in because I have a demo tape, you know, if any one wants to listen.|sd
+B|Yeah.|b
+A|And, uh, she wanted me to bring it in,|sd
+A|she's going to play it on Saturday|sd
+A|so that would be great, if someone came and heard it, and they were like, I want that voice,|sd
+B|Yeah|b
+A|but, I haven't got any calls, yet|sd
+B|Well, that's good.|ba
+A|but I only just put them out this week|sd
+B|Yeah.|b
+A|and it's the wedding season, I guess.|sv
+B|Oh, that's true.|aa
+A|Uh-huh.|b
+B|Make your hobby into a business, that would be pretty good, huh?|qy
+A|Yeah,|ny
+A|that would be great.|sd
+A|Then I could be getting paid for something I love to do.|sd
+B|Yeah|b
+A|Not that I don't like reporting,|sd
+A|but, I'd love it.|sd
+B|Did you have training in singing when you were, younger then|qy
+B|or,|%
+A|No,|nn
+A|I've never, I've never had, uh, formal training.|sd
+A|I've just been singing every chance I get.|sd
+A|I try, you know, in school|sd
+B|Choirs and that kind of stuff?|qy
+A|and, yeah,|%
+A|choirs|b^m
+A|and, um, when I was at U T, I was in a group called Ensemble One oh Nine, just twelve singers|na
+A|and we did, uh, little conventions and, um, uh, like dinner parties and things like that.|sd
+B|Huh.|b
+A|Sing pop music.|sd
+B|Well, that's nice.|ba
+A|So, that's what got me really, really interested in it.|sd
+B|Uh-huh.|b
+A|So I'm trying to be sensible, sensible, too, at the same time.|sd
+B|Yeah,|b
+B|not just give up your job and jump right into it|^2
+A|Yeah,|aa
+A|exactly.|aa
+A|My parents would have a fit probably.|sd
+A|But, uh, I think,|%
+A|I either have a call or,|sd
+A|yeah,|%
+A|I do have a call,|sd
+A|hold on one second.|ad
+B|Uh-huh|aa
+A|Hello.|fp
+B|Yes.|ny
+A|Yes,|ny
+A|okay|b
+A|that's my mother on the other line,|sd
+A|I need to go,|sd
+B|Oh.|b
+A|but, um, I think we are suppose to talk for ten minutes|sv
+A|are we suppose to hear a beep or anything?|qy
+B|I don't know,|h
+B|I've only done this one other time|sd
+B|and I thought that the man told me five minutes.|sd
+A|Oh, okay,|bk
+A|my mother said ten minutes|sd
+A|so, I don't know.|h
+B|Oh, okay.|b
+A|But, uh,  okay|b^m
+A|well, it was nice talking to you|fc
+A|and,  and good luck with your hobbies|fc
+B|It was nice talking to you, too,|fc
+B|good luck with your singing.|fc
+B|Okay,|fc
+B|bye.|fc
+A|Thanks,|fc
+A|bye.|fc

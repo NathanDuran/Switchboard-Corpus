@@ -1,0 +1,202 @@
+A|Huh?|br
+A|Okay.|b
+B|I don't know how much I know about this subject|h
+A|Well, I don't know if I know anything or not,|h
+B|Yeah.|b
+A|but I've, I've got some opinions on it.|sd
+B|Okay.|b
+B|Go ahead.|ad
+A|See those type of people that, that have the most opinions, ones that don't know anything|sv
+B|Yeah|b
+A|Well, uh, I've had teenagers|sd
+A|and I now have grandchildren that are teenagers,|sd
+A|and I don't know that it might do them a little bit of good to see the world from a different perspective.|sd
+A|Uh, I think this "me" generation has gone far too far.|sv
+A|And the young people are overly impressed.|sv
+A|And I think it wouldn't hurt them to step back from themselves just slightly and see things from a far more disadvantaged viewpoint.|sv
+B|That's true.|ba
+A|Uh, I personally know nothing about the Peace Corps though.|sd
+B|Um, me either.|sd
+B|I, I went to college and then started working and then got married|sd
+B|and,|%
+A|But they have,|%
+A|I read somewhere,|sd
+A|and I'm, I'm out on a limb here, some type of college, uh, volunteer work for teachers, that they are straight out of college|sd
+A|and they do one year of volunteer work teaching in the, uh, lower income brackets of the United States.|sd
+A|Have you ever heard about that one?|qy
+B|No,|nn
+B|I haven't,|sd
+B|I know that, uh, my sister,|sd
+B|I have a twin sister|sd
+B|and when they graduated she went to, uh, teach in a small town down in south Texas|sd
+B|and I know, that like if you have college notes, if you teach in a lower income bracket where they don't pay as much and they cancel part of your, you know, your college note or whatever.|sd
+A|Oh, really?|bh
+B|Uh-huh.|ny
+B|If it's like, you know, really a, you know, a lower paying job, you know, where in a small town you don't obviously you don't need as much as far as to, you know, to live.|sd
+A|And this is money that she's borrowed to form her college education?|qy^d
+B|Yeah,|ny
+B|she only taught there one year|sd
+B|but I,|%
+A|But she got credits for it?|qy^d
+B|Uh-huh.|ny
+A|That's very interesting.|ba
+B|And, um, I think it would be,|%
+B|I know that also one of my cousins who, uh, he is in like the therapy type thing|sd
+B|and he was, um,|%
+B|some group paid part of his college income|sd
+B|but then he was required to go back and work for a certain number of years in this town at, uh, uh,|sd
+B|I mean, it's a nursing home or something like that.|sd
+A|Huh.|b
+B|So, you know, if,|%
+B|I think that's a good way for people to, you know, maybe get people to come back to these small towns to work by helping people that normally might not be able to go to college and get the type of degree they want.|sv
+A|Yeah,|aa
+A|I think that is an excellent program,|sv
+A|I really do.|sv
+A|I like that.|sd
+A|And it's, it's beneficial to the small towns too because, they really, really have, have a disadvantage that we wouldn't understand because we're in the Metroplex.|sv
+B|Yeah.|b
+B|As far as yeah, getting doctors and all that stuff, yeah.|^2
+A|Right,|aa
+A|you know, if, if we had some really major health problem that required a specialist, we could find one it wouldn't be convenient,|sd
+B|Yeah.|b
+A|but we could find one.|sd
+B|Uh-huh.|b
+A|We wouldn't have to drive and spend the night someplace or something like that.|sd
+B|Yeah.|b
+A|So, I, I can see the advantage to that one.|sd
+A|The Peace Corps itself is really a, uh, dying out, isn't it?|qy
+B|I really don't know that much about it,|sd
+B|you know, I, I, I think of the Peace Corps, you know, more like the sixties and that kind of stuff when,|sd
+A|It's still in existence.|sd
+B|Yeah.|b
+B|And don't they go into other countries and stuff?|qy
+A|I want to believe they go into other countries and teach them how to do things like farm, uh, dig their own wells, set up, their schools.|na
+B|Uh-huh.|b
+B|Things that make the,|%
+B|yeah.|b
+B|Make them more self-supporting?|qy^d
+A|Yes.|ny
+A|They,|%
+B|Yeah.|b
+A|It's not a program to teach them to use the American money, it's a program to teach them to be more self-reliant.|sv
+B|Right.|b
+B|Yeah.|b
+A|And, yes,|fo_o_fw_"_by_bc
+A|you're right,|sv
+A|I think it's a sixties program.|sd
+A|I think it was one of Kennedy's hot points that he,|sd
+A|that was his big deal.|sd
+B|But it definitely would give a lot of the kids now that have everything given to them that they want to see what it's like if you don't have all the money and can't have what you want when you want it.|sv
+A|Right.|b
+A|Right.|b
+A|Um, I think I, I've singled out my grandchildren|sd
+A|and but actually they're, they're pretty good, along those lines as compared to what I have seen from other people's children and grandchildren, mine aren't really that bad,|sd
+B|Uh-huh.|b
+A|but at the same time I think it would do them a world of good.|sd
+B|Yeah.|b
+A|But there's a,|%
+B|I don't, I don't know that you could require everyone to, do that for, yeah, to do it for a whole year, or two years or something like that,|sd
+A|Mandatory just like, like the draft.|^2
+A|No.|aa
+B|I don't know that that would work if, somebody's, was, didn't really want to be there and didn't have,|sd
+A|Every time you,|^2
+A|They could buy their way out.|sv
+B|Yeah,|aa
+B|I mean, there would be loopholes just like there is in anything else|sv
+A|Right,|b
+A|you know, they, they'd figure a way around that one in a heartbeat.|sv
+A|But, I'm wondering if there's another issue here,|sd
+A|and maybe this is why this has died out.|sv
+A|Can you go into,|%
+A|and this wasn't the question|sd
+A|but it's, it may be the more of the issue versus should young adults,|sv
+A|can they go in there and can anyone go into, well, out of|qy
+A|the Kurdish community is a little bit extreme at this time,|sd
+A|but say, I think Bangladesh would have been a good example or some, some really desperate situation|sv
+A|and teach them to farm and teach them|qy
+A|and it doesn't do any good.|sv
+B|Yeah.|b
+A|I don't know that it does.|sd
+A|I, I, don't know that, um, if you step back from the current issue and look at it more intellectually, there are forever over, as long as we know there are races of people that are dropping out.|sd
+B|Yeah.|b
+A|You know, we're losing certain, races of people.|sv
+B|Uh-huh.|b
+A|There are people now that are obsolete point and fact just, just like endangered species of animals, so there are quote tribes of people, that are endangered or obsolete.|sv
+B|Uh-huh.|b
+A|And I'm just wondering if you're fighting a natural process there of being winnowed out.|sv
+A|There's a German word for it that's elegant,|sd
+A|but I never can remember what it was,|sd
+A|uh, but, but that they're, they're being winnowed because they're, where they are they're not adapted to their environment essentially.|sd
+B|Right,|b
+B|yeah.|b
+A|Um, and one of the quick examples is the Aborigines.|sd
+B|Yeah,|b
+B|uh-huh.|b
+A|Uh, when we were in Australia, uh,|sd
+A|sad little things. Uh, I felt sorry for them. Because their society isn't there anymore,|sd
+A|and their belief system and all their structured of theirs, all the structures of their society are gone, essentially.|sd
+B|Yeah.|b
+A|And they're just kind of more like a side show than anything else|sd
+A|and that's sad.|sv
+B|Yeah.|b
+A|But I don't think there's any way you could go, uh, the Peace Corps could go in and rescue those people,|sv
+A|and I don't think you could have done it fifty or a hundred years ago either.|sv
+B|Yeah.|b
+A|So, I, I'm wondering if the Peace Corps is, really an effective tool.|sv
+B|Well,|%
+B|Down here with the Peace Corps we're talking about all these people that aren't even in our own country when there's enough people here that I think probably need help and, could be helped.|sd
+A|Good point.|ba
+A|We've got enough without without a passport|sv
+A|there's plenty.|sv
+B|Yeah.|b
+A|Yes.|b
+A|I think we ought to worry about our own species.|sv
+B|And maybe rather than just, require somebody to join like the Peace Corps for a year maybe like, um, during college, you know, maybe have some kind of course where they'd be required to do some kind of community service type work, and help people in that area or people in the United States.|sv
+A|I wonder now in,|%
+A|and I've been out of school too long to answer this,|sd
+A|but I wonder if there aren't some sociology courses.|sd
+B|There probably are, you know,|sv
+B|for|%
+B|but I'm sure,|sv
+B|that's probably like people that do that are, are the people that are going to go into social work and stuff|sv
+B|but I think that it wouldn't really be half bad for everybody not to do something, you know, and realize it's everybody's responsibility to, um, help these people, you know,|sv
+B|and|%
+B|I'm not saying just give them money|sd
+B|but, I mean, because they have to be taught to be,|sd
+A|That's the last thing you want, to do.|sv
+B|Yeah|b
+B|I mean, I know that's what my father-in-law was talking about, you know, when you give these people money|sv
+B|or, what was it|^h
+B|they were bringing up points asking as far as whether they need to give, um, more money to these people,|sd
+B|I mean, and that's not really the answer, I mean , because if they're alcoholics they'll just go out and spend, it on, you know, booze or something like that,|sv
+A|Yeah,|aa
+A|that's exactly it.|sv
+B|but.|%
+A|They're not going to take that money you give them and go try to figure out a way to dry out with it.|sv
+A|Now come on, let's be realistic,|ad
+B|Yeah.|b
+A|that's just not realistic.|sv
+B|Or, you know, to find a job where they can learn how to support themselves,|^2
+A|Right.|aa
+B|I mean, I guess we're getting kind of off the subject, here,|sv
+B|but.|%
+A|No,|ar
+A|we're not I don't think.|sv
+A|I think, that's more realistic than making them go in the Peace Corps.|sv
+B|Yeah,|b
+B|I mean it's,|%
+B|True.|ba
+B|Yeah.|b
+A|I think that's a lot more realistic.|sv
+A|Uh, I, I think that we should be spending more time|sv
+A|and, and again I don't think the, the Peace Corps is, is as successful now simply because it's not. It doesn't fit the circumstance anymore.|sv
+B|Yeah.|b
+A|Uh, we've got plenty,|sv
+A|in fact, we've got far too many.|sv
+A|You're in, uh, what Flower Mound?|qy
+B|Flower Mound,|na
+B|yeah.|ny
+B|So, we're a little you know, farther removed from like Dallas and some of the areas where they probably have more of the homeless and that type of thing.|sd
+A|I was,|%
+A|that's exactly what I was going to ask you.|sd
+A|Have you ever, have, have you been downtown|qy

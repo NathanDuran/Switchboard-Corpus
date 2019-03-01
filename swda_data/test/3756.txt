@@ -1,0 +1,157 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|have you painted something lately?|qy
+B|Yes,|ny
+B|I have.|sd
+B|That room I showed you.|sd
+A|Yeah.|b
+B|And then since then we have painted the bedroom.|sd
+A|Oh yeah,|b
+A|another bedroom.|qy^d
+B|Yeah,|ny
+B|I showed you that one too didn't I?|qy
+B|The brown one.|sd
+A|Yeah.|ny
+A|Yeah.|ny
+A|Yeah.|ny
+B|Yeah,|bk
+B|the one that looks like a fudgesicle.|sd
+A|Oh yeah|b
+B|Yeah.|b
+A|Oh heavens.|ba
+A|Well, I painted the outside of my house and one bathroom.|sd
+B|Yeah.|b
+A|But I get, I have that problem with the the ceiling, you know, the, uh, the blown, blown, ceiling. You know where you get around the edge.|sd
+B|Oh yeah.|b
+B|Well, that is hard.|aa
+B|Now, I asked Janice, or somebody recently how you do that uh, when you paint the ceilings you know where you have got that textured stuff, that they have special rollers that are real soft and furry  that you paint that with.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Well,  how do you get the edge though?|qw
+B|How do you get the edge?|br
+A|The the straight edge?|aa
+B|You  just have to be real careful.|sd
+A|Oh, I see.|b
+B|We use, uh, uh, a two inch brush with, uh, on a slant|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|and that mostly does it even though you still make mistakes.|sd
+B|But.|%
+A|Huh. Well are you going to paint the outside of your house too?|qy
+B|Well, yeah.|ny
+B|I think I am going to do it this spring actually.|sd
+A|Oh really?|bh
+B|Yeah,|ny
+B|there are six houses.|sd
+B|See the people that own the house they, uh, pay for anything like that, that we do.  As far as  the the materials.|sd
+A|Oh nice.|ba
+B|There are three houses on this street the same color of yellow out of six houses.|sd
+A|Yeah.|b
+B|So, I am thinking I am going to change it to, uh, something, you know,|sd
+B|the brick is multi color. Mostly earth tones.|sd
+A|Uh-huh.|b
+A|Oh, that will be nice.|ba
+A|Huh.|%
+A|Or, two  tone, or two tone. You know.|^2
+B|Yeah.|b
+B|There are some columns that could be painted a different color  too.|sd
+A|Uh-huh.|b
+B|What color did you paint your house?|qw
+A|White.|sd
+B|On the out,|bf
+A|But, I  have a problem.|sd
+A|I can't get up high|sd
+A|and we can't paint the chimney|sd
+B|Well, you have got to get one of those ladders.|ad
+A|We have one of those ladders.|sd
+A|We are just not willing to get up that high.|sd
+B|Oh, yeah.|b
+B|A friend of mine that lives out in your neighborhood, he has done his house|sd
+B|and that is what he,|%
+B|I was out there last week|sd
+B|and he has finished everything except the chimney.|sd
+A|Well, we did too.|sd
+A|We did it in the fall|sd
+A|and it, it's just too high.|sd
+A|It is really scary,|sd
+A|but and the only thing I would consider doing, a professional, maybe doing that,|sd
+B|Yeah.|b
+A|but it|%
+A|other than doing our own work I prefer it to a professional.|sd
+B|Well, our house in New Mexico, it was stucco,|sd
+B|but we had all this trim to paint, and lots of it.|sd
+A|Yeah.|b
+B|And we did basically seventy-five percent of the house|sd
+B|and then I was afraid to do the eaves way up high and stuff.|sd
+A|Uh-huh.|b
+B|So, I hired this man to come in and do it. A young kid.|sd
+A|Uh-huh.|b
+B|And he came with, with his own|sd
+B|what do you call those things?|qw
+A|The blowers?|qy^d
+B|No,|nn
+B|those where you built like a rafter thing.|sd
+A|Oh, oh, oh, oh, I know what you are talking about. Uh|sd
+B|Yeah.|b
+B|Scaffold.|sd
+A|scaffold.|sd
+A|That's it|sd
+B|He came and did it that way|sd
+B|and I think he charged me a hundred dollars to finish up.|sd
+A|Huh.|%
+B|And  literally I wouldn't have done it with the scaffolds because all the places that I had left for him were above huge humongous cactus|sd
+A|Its,|%
+A|Yeah.|b
+B|and if he fell, he was dead|sd
+B|and he knew that|sd
+B|So,|%
+A|Oh, my.|ba
+A|So that was worth it getting a professional for that.|sv
+B|Yeah.|aa
+B|Plus, he cleaned up my mess.|sd
+A|Oh, I think that is what we might have to do with this chimney,|sd
+A|but other than that, it was pretty easy doing it ourself and caulking it and everything ourself.|sd
+B|Uh-huh.|b
+A|It wasn't too bad.|sv
+A|I mean  you think,|%
+B|How much  did it cost you for the paint for the outside?|qw
+A|Shoot, maybe a hundred and fifty.|sd
+B|Yeah.|bk
+A|Since, it is a one story,|sd
+A|but we did, uh, like two heavy coats over it.|sd
+A|But then that way  you know you are assured you did a good job than you are, you know, if you hire someone to do it.|sd
+B|Yeah.|b
+B|But, that friend of mine that painted his house out there in your neighborhood he went to, uh, I guess to buy his paint|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|and yet he bought like seventeen gallons.|sd
+A|My word.|ba
+B|And, anyway, he, when he checked out and he was using his charge card too. They only charged him for one gallon of paint. Like thirteen bucks or something.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Oh, my word.|ba
+B|And he had, he had, the, uh, he had already carried a ladder outside and told her that|sd
+A|Uh-huh.|b
+B|and she wrung all that stuff up and made a mistake on the price of the paint|sd
+A|Uh-huh.|b
+B|so she had to start all over again|sd
+A|Uh-huh.|b
+B|and when he got outside, he noticed his receipt was like thirteen ninety-nine or something.|sd
+A|Oh, my word.|ba
+B|And he saw .|sd
+A|So that was really worth it.  Painting his own house.|bf
+B|Yeah,|aa
+B|it was like over two hundred dollars worth of free stuff.|sd
+A|Oh, my word|ba
+A|Oh, my word.|ba
+A|Well, he really saved in that way.|sd
+B|Yeah.|b
+A|But, yeah,|b^m
+A|I think we are going to do, uh, another bathroom,|sd
+A|but I think I will probably just do it, in a roller.|sd
+A|I want to do it about the same color. And just be a little,|sd
+B|Uh. Rollers are so messy.|sv
+B|We never any more.|sd
+A|Oh, I know.|aa
+A|But it's that, it's the textured wall.|sd
+B|Well, a little paintbrush,|%

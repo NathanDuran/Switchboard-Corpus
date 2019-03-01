@@ -1,0 +1,134 @@
+A|Okay.|fo_o_fw_"_by_bc
+B|Okay,|b^m
+B|I guess we're ready to start.|sv
+B|Well, I guess, what part of what part of the country do you live in?|qw
+A|I'm in Dallas, Texas.|sd
+B|Oh, okay.|bk
+A|What about yourself?|qo
+B|Well, I'm also in Dallas.|sd
+A|Okay.|bk
+B|The reason that I ask is the two conversations I've had, have been out of state.|sd
+A|Uh-huh.|b
+B|But, uh, have you always lived here in Dallas|qy
+B|and,|%
+A|No,|nn
+A|I've lived here for almost five years now.|sd
+B|I see.|bk
+A|And I'm a, uh,|%
+A|before that I was at school in Rochester, New York|sd
+A|and I'm originally from Boston.|sd
+B|Oh, well, you are seeing quite a different climate and quite a different neighborhood.|qy^d
+A|That's right,|na
+A|but I like it.|sd
+B|You probably have enjoyed getting away from the snow.|qy^d
+A|Well, I missed it at first,|arp_nd
+A|but now I go back there|sd
+A|and I'm a real wimp about the cold|sd
+A|So I like it here.|sd
+B|Yeah.|bk
+A|It's nice.|sv
+B|Well, that's good.|ba
+B|I, I have lived in Texas essentially all my life.|sd
+A|Uh-huh.|b
+B|Around in Texas|sd
+B|and, uh, I have traveled up in the northeast and around and have enjoyed it.|sd
+A|Uh-huh.|b
+B|But, uh, I don't know,|h
+B|I'm not sure I would want to take on those winters.|sd
+B|I'm getting older and, uh, not sure that's something I want to do.|sd
+A|I know.|aa
+B|I live, uh, over in the Lake Highlands area if you're familiar with that.|sd
+A|Uh, tell me where that is, uh,|ad
+B|Okay.|aa
+A|I, I probably do know,|sd
+B|Uh, you,|%
+A|but I don't know it by that name.|sd
+B|This is pretty well where L B J and Audelia, Skillman cross.|sd
+A|Okay.|b
+A|Sure.|b
+B|We're just north of, uh, White Rock Lake.|sd
+A|Oh, okay,|b
+A|yeah,|b
+A|I know that area.|sd
+A|That's a nice area. Oh, that's quite a range.|ba
+B|Well, we have some very nice homes here in this area.|sd
+B|Uh, my particular,|%
+B|I guess they want us to describe the area,|sv
+B|so, uh my particular area, the homes run anywhere from about sixty-five, eighty thousand dollars on up to probably half a million.|sd
+B|Yes,|aa
+B|uh, the homes that were here earlier were smaller.|sd
+B|Now they've gotten larger and larger as, as they have developed the land.|sd
+B|And, of course, it's pretty static right now|sd
+B|and all the values over here have dropped off because of the economy.|sd
+A|Uh-huh,|b
+A|yeah.|b
+B|How about you?|qo
+A|Well, I am, uh, I'm, gosh, I'm barely in Dallas.|sd
+A|I'm just north of Addison Airport up on the tollway.|sd
+B|Okay.|bk
+B|Okay.|bk
+A|And, I guess we have a similar situation.|sv
+A|I mean, we've got houses two streets away that are probably around seventy, eighty thousand|sd
+B|Uh-huh.|b
+A|and then we've got Bent Tree right across the street|sd
+A|so I don't I don't even know how high those go,|sd
+B|Okay.|b
+A|but some of those are pretty big.|sv
+B|Yes,|aa
+B|those are over a million.|sv
+A|Yeah|aa
+A|So, it's, that's the strange thing about, I guess, Dallas because back where I'm from, you wouldn't have that sort of a variation at all.|sd
+A|They'd all be pretty similar to one another within a, a couple miles.|sd
+A|So,|%
+B|Well, we have suffered from real lack of land use planning in Dallas.|sv
+A|Yeah.|b
+B|Not as bad as Houston,|sv
+B|but, exactly what you're describing is what happens all over.|sv
+A|Uh-huh,|aa
+A|yeah,|aa
+A|I've noticed that.|sd
+B|Well, now, do you live in a, a home, or zero lot home,|qy
+A|Uh-huh.|ny
+B|or,|%
+A|Uh, we've got a house,|sd
+A|let's see,|^h
+A|we moved in about four years ago|sd
+A|and it was, it had previously been unoccupied,|sd
+A|but it had existed for three years.|sd
+B|Okay.|bk
+A|This is a whole block of homes that, uh, a builder built all of them|sd
+A|and, I guess he, he did some crazy thing to get some extra money from the bank and then ran away, type of deal|sd
+A|So the whole block was all foreclosed.|sd
+B|Oh.|b
+A|And, so, some were vacant for quite a while before they, you know, they finally sold them because there were so many.|sd
+B|Well, your, was your house in good shape,|qy
+B|was it damaged?|qy
+A|Yes,|ny
+A|no,|nn
+A|the only thing that we were worried about was the air conditioner because they'd have it just running constantly with the doors and windows open|sd
+B|Oh, it was?|bh
+A|But,|%
+A|yeah.|%
+B|Oh.|bk
+A|So we just, you know, we bargained to get an extra warrantee on that.|sd
+B|I see.|b
+A|And, uh, we're really, we haven't had any problems|sd
+A|and, you know, we had originally thought we'd have to get a fix up special or something because being from the northeast we figured we couldn't afford anything.|sd
+A|But the prices are much lower here|sd
+A|and this was definitely not a fix up special,|sd
+A|but I'll tell you,|^h
+A|it takes all my time|sd
+A|Between, we put in our own sprinkler system|sd
+A|and I just finished repainting the exterior and, you know, making drapes and buying furniture,|sd
+A|it's just a money pit. Really is.|sv
+B|Yes,|aa
+B|I am familiar with that.|sd
+B|I, where I live is a house that's seventeen years old when I bought it.|sd
+B|And we bought it from someone who was in it,|sd
+B|but before they had it, I found out after I had been in the house, it, it had sat empty for the better part of a year.|sd
+A|Uh-huh.|b
+B|And I'm not sure what happened,|sd
+B|but I do know the folks that we bought it from had done virtually no maintenance for, for about four years.|sd
+A|Oh, no.|ba
+B|I, I, I found a lot of things,|sd
+B|but,|%

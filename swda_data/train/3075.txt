@@ -1,0 +1,232 @@
+B|Lynn, do you, do you want to start?|qy
+A|Certainly.|na
+B|Okay.|bk
+A|Um,|%
+B|Do you want to tell me about vacations you've taken|qy
+B|or,|%
+A|Well, I, I tend to, uh, take two kinds of vacations, the vacations to visit family and the vacations to just have a week being cultural and going to the theater and doing sight-seeing and things like that.|sd
+B|Uh-huh.|b
+B|Which is your favorite?|qw
+A|Oh, well, I couldn't live without the family vacations,|sd
+A|but, uh, my favorite is the, the indulgent ones, where we go off and, and, uh, see places that have interested me since I was a kid, for the most part.|sd
+B|Uh-huh.|b
+A|And, uh,|%
+B|Your family doesn't live close, then?|qy^d
+A|Uh, not anymore.|ng
+A|They, uh, they've been in San Diego for the last few years,|sd
+A|and they're moving to Florida.|sd
+B|Okay.|bk
+A|And that's one of those things,|sd
+A|you just have to go once a year.|sv
+B|Yep,|b
+B|I understand.|sd
+A|So, uh, basically it, it sorts out into that,|sd
+A|and then once, about once every three or four years I try to get over to England, because I lived there for a while, some years back.|sd
+B|Wow.|ba
+B|I've only been there once.|sd
+A|Oh.|b
+B|and I'd love to go back.|sd
+A|Beautiful country.|sv
+A|Beautiful country,|sv
+B|And it was,|%
+A|beautiful people.|sv
+B|Yeah,|b
+B|it,|%
+A|But, uh,|%
+A|and I'd real,  really like to go  because, um, I'm fairly recently married|sd
+B|we had a great time.|sd
+A|and, and my husband has been hearing about these people for years|sd
+A|and, uh, but he's never met them,|sd
+A|so, uh, I'd like, I'd like to do that.|sd
+A|But anyway, that's, that's our typical vacation,|sd
+A|and, uh, we enjoy the family vacations,|sd
+A|but the other ones are very special getaways,|sd
+A|and we probably take one of each every year.|sd
+A|How about yourself?|qo
+B|Well, uh, we, we, as you do, take family vacations, uh, sometimes one a year,|sd
+B|and, but this year we're not going to be taking one for several reasons.|sd
+B|But vacations we really enjoy,|sd
+B|I think we've been on three cruises.|sd
+A|Oh, I've never, been on a cruise.|sd
+B|And we, we really love cruises.|sd
+B|We've gone on CARNIVAL CRUISE LINES.|sd
+A|Uh-huh.|b
+B|And, uh, we've gone fairly inexpensive from, as most cruises go.|sv
+B|Uh, we usually book just a month before it's ready to go.|sd
+A|Yeah.|b
+B|And we get upgraded.|sd
+B|Last last two times, in fact, we had an outside room|sd
+B|and it was beautiful.|sv
+A|Um.|%
+B|And we like not having to take our suitcase in and out of hotel rooms and drag it all around.|sd
+B|It's kind of,|%
+A|Well, what do you do on a cruise?|qw
+A|I've never been on a cruise.|sd
+B|Oh, my God, you do everything.|sd
+B|You, I mean, you can be as busy as you want to be, or as laid back as you want to be.|sd
+B|You can sit in the sun all day around the pool,|sd
+B|or you can take part in the games that they have going on.|sd
+B|They always have bingo.|sd
+B|They have a casino.|sd
+B|Uh, they have a massage parlor.|sd
+B|They have exercise,|sd
+B|I mean, you can do anything.|sv
+A|Huh.|%
+B|And that's just aboard ship.|sd
+B|And then when the ship docks, you get to go sight-seeing and shopping.|sd
+A|Uh-huh.|b
+B|And that's quite fun.|sv
+A|Uh-huh.|b
+A|And where have you been on these cruises?|qw
+B|Uh, Nassau, San Juan, Saint Thomas.|sd
+B|We've been there twice.|sd
+B|We went two cruises that hit those islands, but with different people.|sd
+B|We, we've gone with friends each time.|sd
+A|I see.|b
+B|And then we went to, uh, the western Caribbean, which is, uh, Port, uh, Cancun, Cozumel,  and Ocho Rios.|sd
+A|Oh, the, the Mexican coast.|bf
+B|Pardon me?|br
+A|That's all Mexico, I think.|bf
+B|Yes,|aa
+B|uh-huh.|aa
+B|And, but it was wonderful.|sv
+B|So we really like those.|sd
+B|And, uh, I guess we just like to go someplace, someplace entirely different.|sd
+B|We've been to a few places in this country.|sd
+B|We still have a lot to see, though.|sd
+A|Where are you from originally?|qw
+B|We're from Illinois originally.|sd
+A|Uh-huh.|bk
+B|And we've been down in Texas eighteen years,|sd
+B|and so, like you, we always try to make it, you know, back home to see the relatives.|sd
+B|We both still have family there.|sd
+A|Uh-huh.|b
+B|And that's fun.|sv
+B|It brings back a lot of memories.|sd
+A|Oh, yes.|b
+B|Uh, things are different there, though.|sv
+B|They're, uh,|%
+B|I don't know.|h
+B|It's just entirely different world than this|sv
+A|Well, I, I grew up in Dallas,|sd
+A|so I mean, it's not, it's not like I'm going home.|sd
+B|Did you?|bh
+A|My, my parents retired first to San Diego,|sd
+B|Uh-huh.|b
+A|and they're going now to Florida,|sd
+A|and so they're going very nice places,|sv
+A|thank God,|ba
+B|Uh-huh.|b
+A|that will be a pleasure to visit and get to know.|sv
+A|I really came to love San Diego and feel very, comfortable there.|sd
+A|They've been there eight years.|sd
+B|Uh-huh.|b
+A|And, uh, you know, I just grab the car and drive everywhere.|sd
+B|Oh, that's great.|ba
+A|So it, it is, it is nice,|sv
+A|but it's not home.|sd
+A|This is home,|sd
+A|and, um, and I've never thought about a cruise.|sd
+A|It's so funny.|sv
+B|Oh, they, they, they really are.|sv
+B|We've, yeah, as I said, we've done them three times.|sd
+B|We'd be going again this, this year if circumstances hadn't changed.|sd
+B|We, we'd probably go.|sv
+A|Uh-huh.|b
+B|My husband would, you know,|sd
+B|the minute I said the word, he, he, he's chomping at the bit.|sd
+B|He kind of likes the casinos a little bit.|sd
+A|Uh-huh.|b
+B|But I like all of that.|sd
+A|What's the best part, from your point of view?|qw
+B|I like seeing other countries and shopping in other places.|sd
+A|Uh-huh.|b
+B|I like shopping.|sd
+B|I can shop anyplace, shop in London and France and wherever.|sd
+B|Now, my kids are moving to Toronto,|sd
+B|so we're going to be able to go up there.|sd
+A|Oh, that will be nice.|ba
+B|So I'm kind of looking forward to that, except I hate to see them go.|sd
+A|Oh, sure.|aa
+B|But,|%
+A|Sure.|b
+A|Well, go in, don't go in the winter.|ad
+B|Oh, that's what everybody says,|sd
+B|and I, I think it's,|sv
+B|I think I'll try to stay away, except my, my second grandchild will be born in in the winter in January.|sd
+A|Oh.|b
+B|So that will be hard to stay away from.|sd
+A|Well, there are exceptions made for special occasions like that.|sd
+B|Yeah.|b
+A|But the ordinary thing is to stay out of the north in the winter and get out of Texas in the summer|sv
+A|so,|%
+B|Isn't that the truth,|aa
+B|uh-huh.|aa
+A|Huh. Well, that sounds wonderful.|sv
+A|I, I guess I, I would contemplate going on a cruise, uh, oh, all circumstances permitting it.|sv
+B|Well, there's all age groups too,|sd
+B|and that's, that's kind of fun.|sv
+B|Uh, you, if you sit at a table with a lot of people for your meals, you meet different people.|sd
+A|Uh-huh.|b
+B|You may meet people, you know, thirty years older than you, or younger,|sd
+B|and everybody is really interesting,|sv
+B|and everybody is there to have a good time|sv
+B|and,|%
+A|Huh. How long are the cruises?|qw
+B|Uh, we've only gone on the seven day cruises.|sd
+A|Uh-huh.|b
+B|They have shorter ones|sd
+B|and then they have ten day ones.|sd
+B|But I think seven days is long enough for us.|sv
+B|By that time we're ready to get home and get back to our routine.|sd
+A|Yeah.|b
+B|I think most vacations, uh, seven days is enough for us.|sv
+B|We've gone,|%
+B|I think when we went to England and France, we were there ten, twelve days,|sd
+B|and that was pushing it a bit.|sv
+A|Yeah.|b
+A|Uh, I tend, when, when I spend enough money to go overseas|sd
+A|I, go for a long time.|sd
+B|Yeah.|b
+B|Well, that, that makes sense, it really does.|sv
+B|I mean, oh, we went to Panama too.|sd
+A|Oh, that's interesting.|ba
+B|Went to Panama last August.|sd
+A|Uh-huh.|b
+B|Our son-in-law is from Panama.|sd
+A|Oh.|b
+B|And, uh, we went with our daughter and son-in-law to visit his parents, who live there.|sd
+A|Uh-huh.|b
+B|And his father is a, a doctor|sd
+B|and his mother is a kindergarten teacher,|sd
+B|and they took time off,|sd
+B|it was their winter|sd
+B|and they were having a little break,|sd
+B|so they took some time off that, uh, they could show us around.|sd
+B|And it, it is a beautiful country.|sv
+A|Huh.|%
+B|It is beautiful.|sv
+B|They have mountains.|sd
+B|We were an hour away from the mountains or an hour away from the shore.|sd
+A|That's really nice.|ba
+B|And it, it is gorgeous.|sv
+B|They live in a small town called David, which is northern Panama up near Costa Rica.|sd
+A|Uh-huh.|b
+B|And, uh, it's, it's just, it's just a gorgeous country.|sv
+B|Most people don't realize it.|sv
+B|I think if they could get tourists coming to their country, they'd improve the economy considerably.|sv
+A|Huh. Well, may, maybe now things are calming down again. That will happen.|sv
+B|Yeah.|b
+B|We really hope, hope so.|sd
+A|Well, that, that's really great. Uh,|sv
+B|Yeah.|b
+A|I, I mean, as I said, basically all I've done is go back and forth to parents|sd
+A|and, uh,|%
+B|Well, that, that's, that's pretty good.|ba
+B|That's pretty good.|ba
+A|And, and, uh, we had, my husband had a conference in L A,|sd
+A|so we spent a week in L A|sd
+A|and of course,|%
+B|Oh, do you like L A?|qy
+A|Uh, I'm, I'm, I'm very unusual.|h
+A|I like,|sd

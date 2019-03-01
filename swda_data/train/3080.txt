@@ -1,0 +1,202 @@
+A|All right, do you do exercise?|qy
+B|I do,|na
+B|yes,|ny
+B|I, uh, uh, I guess it actually changes,|sd
+B|I do a number of different things simply walking with my wife|sd
+A|Uh-huh.|b
+A|Right.|b
+B|and sometimes my daughter will come along on her little bicycle.|sd
+B|Uh, and then moving up, I run in the mornings,|sd
+A|Uh-huh|b
+B|not every morning, it probably averages about two days a week|sd
+A|Right.|b
+B|and then with my wife I actually go to the gym and lift weights, which isn't, I understand, quite exercising,|sd
+B|but it's along the lines,|sd
+A|Right.|b
+B|How about yourself.|qo
+A|Well, um, that's a hard question to answer because I do physical things, but I don't always set out for them to be exercise.|sd
+B|Uh-huh.|b
+A|I walk with my parents, occasionally,|sd
+A|nothing's real regular about this because I have a weird schedule and they have a normal schedule,|sd
+A|and, um, I play racquetball,|sd
+A|but I haven't since I've been out of school.|sd
+A|I don't have anywhere to do that,|sd
+A|but that's going to start soon again|sd
+B|Uh-huh.|b
+A|and, um, I play softball once a week, which is kind of more recreation than exercise.|sd
+B|Uh-huh.|b
+A|Because I really don't like to exercise,|sd
+A|I think that's the basic point of it, is I'm not, I, I don't enjoy it if I know that it's exercise,|sd
+B|Right.|b
+A|but if it's like a social activity or a recreational activity, I don't mind|sd
+B|Right.|b
+A|so I have to disguise it,|sd
+A|it's like feeding little babies food and telling them it's something else so that they'll eat it.|sd
+B|That's right.|aa
+A|That's kind of the same thing for me.|sd
+A|I have to not know that it's exercise so I can do it.|sd
+B|Right.|aa
+B|So you look at it more as a task.|bf
+A|Well, yeah,|aa
+A|if it's exercise, it's a task.|sd
+B|Right.|b
+A|I don't want to do anything I have to do.|sd
+B|I see.|bk
+A|I mean, I'll voluntarily clean the bathroom,|sd
+A|but I won't do it if I have to do it.|sd
+B|Right,|b
+B|right.|b
+B|So, I'm thirty-two years old which is probably different than yourself|sd
+A|Uh-huh.|b
+A|Right,|aa
+A|I'm twenty-two.|sd
+B|and so, it's interesting that as you get older you begin to understand that you need to exercise.|sd
+A|Right.|b
+B|My job at Texas Instruments, I have to sit in front of a computer all day and make phone calls, so, that, I don't get any exercise doing that|sd
+A|Right.|b
+B|and plus there's a build up of stress|sd
+A|Uh-huh.|b
+B|so I need to go out and take those walks after dinner,|sd
+B|and I need to go out in the morning and run|sd
+B|or I'll just get nuts|sd
+A|Right.|b
+B|so that's kind of a motivator,|sd
+B|so even though I can look at it as a task, the, you know, I kind of get the, I get some kind of global benefit from the whole thing by saying, Well, I'm lowering my chance of heart attack, and thus, that type stuff.|sd
+A|Right.|b
+A|Eating right and no cholesterol and all that.|bf
+B|Sure,|aa
+B|that all,|sd
+B|I, I do all that.|sd
+A|Yeah,|b
+A|we,|%
+A|I'm sure, I will do,|sd
+A|I'm doing that more and more than I used to|sd
+B|Yeah.|b
+A|I'm getting better about this knowing that I need exercise and doing it, but it's still at the task stage.|sd
+B|Right.|b
+A|Is it a pleasure for you,|qy
+A|or are you,|qrr
+B|Well, it's a,|%
+B|something as simple as a walk with my wife is very enjoyable.|sd
+A|Right.|b
+B|I do that at the end of the day,|sd
+B|and it takes, you know,|sd
+B|that, that during that time the stress from the day goes away.|sd
+B|I get to share whatever I did with my wife, and, and vice versa.|sd
+A|Right.|b
+B|Going to the gym is, is actually something different than, than, like,|sd
+B|oh, and the running,|sd
+B|and I enjoy that too.|sd
+A|Uh-huh|b
+B|Year,|fo_o_fw_"_by_bc
+B|I've been running since high school on track teams and the like,|sd
+A|Oh.|b
+B|so, running, I, I'm at that point which you probably get to after about six months of dedicated running where you don't feel your muscles any more|sd
+A|Uh-huh.|b
+A|Right,|b
+B|and you don't think about the pain of it.|sd
+B|You, you, you take the time to relax some how|sd
+B|and you think about other things.|sd
+B|During those first few months you have to think about running and why your elbow hurts and why you can't breathe and this and that,|sd
+A|Uh-huh|b
+B|and that's no fun.|sd
+B|And it's so hard to get past that for a lot of people.|sv
+A|Right,|aa
+A|that's,|%
+A|I never got past that stage.|sd
+B|Yeah,|b
+B|the the, uh, weight lifting on the other hand is actually, you know,|sd
+B|I think I look better.|sd
+A|Right.|b
+B|I have just a, I don't, I'm not a huge person,|sd
+B|I'm just a regular looking guy,|sd
+B|but just going to lift weights on occasion with my wife,|sd
+B|and my wife thinks the same thing about both me and herself that get that little bit of definition in your muscles is, is attractive|sd
+A|Uh-huh.|b
+A|Right.|b
+B|so that pays also.|sd
+A|That's good.|ba
+B|Yeah,|aa
+B|so, so I guess that aspect of that takes away the work the, with my wife, which is nice,|sd
+A|Yeah.|b
+B|I love her, you know,|sd
+B|I enjoy being with her|sd
+A|Uh-huh.|b
+B|I guess that's one thing,|sd
+B|but also, uh, that, that long term benefit of a little bit of tone in your muscles.|sd
+A|Right,|aa
+A|that's it,|sv
+A|I do the occasional push up and sit up.|sd
+A|I haven't really brought myself to go to the the gym, because that's very stressful to me,|sd
+B|Yeah.|b
+A|because I feel, I felt real competitive there,|sd
+A|and I need to find some place I could go and not feel like there's all these people who are just huge and hulking that are ...|sd
+B|Oh, yeah,|aa
+B|I don't, I don't let that bother me,|sd
+B|but, yeah,|%
+B|that's something that comes with time, too. You know,|sv
+A|Right.|b
+B|I'll tell you, the sit ups and push ups are excellent you know,|sd
+A|Uh-huh.|b
+B|it's your own,|%
+B|you, you're, you're struggling against your own body weight|sd
+A|Right.|b
+B|you can have variety by putting your feet higher or lower, by putting your arms further apart or closer together, by doing them real quick or real slow|sd
+A|Right.|b
+B|and you can actually get a good|sd
+B|you can, I know in the push up, at least, you can get chest muscles and the back of your arms quite built up just doing push ups.|sd
+A|Uh-huh.|b
+A|That's a good idea,|sv
+A|but I do have my ride,|sd
+A|we have a stationary bicycle and a stair step machine here at the house.|sd
+B|Oh, is that right.|bh
+A|I'll do those once in a while just you know, like at eleven thirty when Love Connection's on and I can't sleep,|sd
+B|Right.|b
+B|Yeah.|b
+B|Right.|b
+A|I'll get up and stair step for half an hour|sd
+B|That's funny.|ba
+A|so.|%
+B|Yeah.|b
+A|It's, I guess, pretty, pretty healthy,|sd
+A|but I don't have a regular plan, that's|sd
+B|Yeah.|b
+A|I need to get started on that.|sd
+B|Well, you know, maybe not.|arp_nd
+B|I'd say, I'd say at twenty-two you don't necessarily need a plan as long as you're getting, getting the exercise otherwise.|sv
+A|Right.|b
+B|When your life becomes sedentary is when you have to make yourself a plan,|sv
+A|Uh-huh.|b
+B|and what's real funny about plans is that there's a struggle between, uh, when you, when you add something to your life, when you add a plan to your life,|sv
+B|something else has to go away|sv
+A|Uh-huh.|b
+B|and that's the hard decision, is, okay, if I'm going to run in the mornings, what am I, what do I trade it off for.|sv
+B|Well, the answer's sleep, right.|sd
+A|Sleep|^2
+B|If I'm going to walk at night, what do I trade it off for.|^q
+B|Well, Star Trek|sd
+A|Uh-huh.|b
+B|or, you know, it, it, it's always trade offs,|sv
+B|and you actually have to, as you get older you have to really think what can go, and what, to, to, to replace this thing.|sv
+A|Yeah.|b
+B|It's, I mean, not just exercise, but anything.|sv
+B|It's very hard.|sv
+A|Right.|b
+B|And, uh, I don't, I don't think you should worry about not having a program yet.|sd
+A|That'll come some day when I,|bf
+B|Yep.|aa
+B|Yeah,|aa
+B|I guess if you care, or if your wife, your future wife, uh, gives you a reason to care which helps|sv
+A|Right.|b
+A|Well, I hope so.|sd
+B|Well, I think we covered it.|sv
+A|Yeah,|aa
+A|sounds good.|sv
+B|Nice talking with you, Craig.|fc
+A|Yeah,|fc
+A|you too.|fc
+A|Have a nice day.|fc
+B|You too.|fc
+B|Good day.|fc
+A|Bye.|fc
+B|Bye.|fc

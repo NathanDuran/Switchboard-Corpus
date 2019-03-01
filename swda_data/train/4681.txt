@@ -1,0 +1,143 @@
+A|Uh, taxes|fo_o_fw_"_by_bc
+A|Do you want to go ahead?|qy
+B|Sure.|na
+B|We pay far too much in taxes.|sv
+B|Well, far too much for what we get.|sv
+B|I mean it's just, I don't know, it just seems too much of the money is just lost|sv
+A|Uh-huh.|b
+A|I agree.|aa
+A|Uh-huh.|aa
+A|Well I think, uh, you know, when I look at, uh, all the things that are coming out now about over spending and spending money that's not there and buying things that are extremely expensive where they could buy it at a, at a better discount,  uh,|sv
+A|when you, when,|%
+B|Um.|b
+B|You  mean like those, you know, twenty thousand dollar toilets|qy
+A|Exactly,|na
+A|exactly.|na
+A|That's exactly, uh, the whole thing.|sv
+A|When you take a look at all those issues of where our money is going|sv
+A|and it's just,|%
+A|as long as the person that's spending the money, uh, doesn't think about|sv
+A|oh, I can go out and spend anything that  I want to|^q
+A|it's just unlimited,|^q
+B|Sure,|aa
+B|it's real easy to spend other people's money.|qy
+B|Right?|^g
+A|Right.|na
+A|An unlimited source|sv
+A|so they, they think well I'll go out and buy a four hundred toilet seat|sv
+A|and I could have went to K-Mart and bought it for, you know, ten or fifteen|sd
+A|I mean, that kind of thing|sv
+A|and, uh,|%
+B|Right.|aa
+B|I don't mind them getting what they need.|sd
+B|It's just when they pay so much for it.|sd
+A|Exactly.|aa
+B|It takes  you know, very little to just shop around and,|sv
+A|Exactly.|aa
+A|And I know a lot of, uh, corporations now are looking at their amount of money that's being spent|sv
+A|and  they're looking  at what's the best buy.|sv
+B|That's true|aa
+A|It used to be you could go, if you had a company you had to go through certain people|sv
+A|and you didn't care what you paid.|sv
+B|Yep.|b
+A|I mean you just got it done.|sv
+A|Now people are putting in bids for things and are looking at things.|sv
+A|Going to actually shop at Best Buy for, Best Buy is one of our electronic stores for fax machines, things like that, instead of going through these office supply companies that mark up their amounts and say, you know, I'll give you a legal pad for five bucks,|sv
+B|Right.|b
+A|and you can go to another shop and get it for maybe sixty cents or or ninety cents|sv
+B|Yeah.|b
+A|that kind of thing|sv
+A|so.|%
+B|I'm also wondering why our taxes are still so high considering like the world's probably in better shape now than it has been in the last fifty years|qh
+A|Except for everything keeps going up,  you know.|sv
+A|And I know as a middle class, uh, you know,|%
+A|and also I have one dependent has my daughter|sd
+B|Uh-huh.|b
+A|and I keep looking at well where's the tax, so-called tax, uh, relief  for having  children.|sd
+B|Yeah,|aa
+B|I know.|aa
+A|I mean, there is none|sv
+A|I mean, I think I paid just as much  as when  I didn't have her,|sd
+B|Oh, I know,|aa
+B|I mean  I don't even, You know, I don't even get to see half my paycheck.|sd
+A|so|%
+A|Uh-huh.|b
+B|Between Four Oh One K and, and the thirty-four percent they're taking out for taxes.|sd
+A|Sure.|aa
+A|Exactly.|aa
+B|Let alone  what I end up having to pay|sd
+A|Uh-huh.|aa
+A|Exactly.|aa
+A|Yeah,|aa
+A|that's the whole thing.|sv
+A|Now they have gotten this wonderful idea of not taking out as much taxes,|sv
+A|but you're still going to owe the government as much  money|sv
+B|Sure.|b
+A|so by the end of this coming year, what's going to happen is all these people are going to find out that they owe the government|sv
+A|and it certainly isn't going to be in their savings, uh, account.|sv
+B|Nope,|aa
+B|they won't be able to pay.|sv
+A|They won't be able to pay it|sv
+A|and there'll be a lot of problems because of that, you know.|sv
+A|Put people into, you know, January or February which is always suppose to be,|sv
+A|the month after Christmas is supposed to be high spending because everything is on sale.|sv
+A|Nobody's going to have the money to spend.|sv
+B|Sure|aa
+B|none .|aa
+A|They're going to be paying on their taxes|sv
+A|so they're going to have to just cut back|sv
+A|so, I don't know where the answer is|sd
+A|and|%
+B|I don't,|%
+B|in the first place, you know, there's also like taxation without representation.|sv
+B|Well I don't feel represented anymore in our government.|sd
+B|I mean, it it's certainly not a government for me.|sd
+A|Yeah,|b
+A|Yeah.|b
+B|It doesn't take care of my needs|sd
+A|No,|aa
+A|no.|aa
+A|Well, that's the whole thing.|sv
+A|I think people are getting so fed up with it.|sv
+A|Now, we go through another election and listen  to all these lies about the,|sv
+B|and people don't care  anymore either.|sv
+A|No.|aa
+A|No.|aa
+B|People don't want to go out  to vote.|sv
+A|Well, I don't  think people think they can make a difference.|sv
+A|And when you've got candidates as you do.|sv
+A|It's candidates that have money|sv
+B|Yep.|aa
+A|and it's backed by big business.|sv
+A|And big business says well we don't care about the little person|sv
+A|and, uh, you know, you're not going to get anymore Abe Lincolns around.|sv
+B|No,|aa
+B|but but that, that's going to backfire because  little people who  buy everything,|sv
+A|Uh-huh.|aa
+A|Well who knows, uh,|qh
+A|yeah.|%
+B|so|%
+A|Generations from now we might, uh, set back in our little, uh, rocking chairs and watch our grandchildren go through an entirely different system of things and say, you know, this government itself isn't working.|sv
+A|Just like the communist government of, uh, the  old U S S R.|sv
+B|Yeah|b
+A|And maybe that's going to happen to America where they'll say, hey|sv
+A|we're fed up.|^q
+B|Yeah,|b
+B|I wonder though|aap_am
+A|Maybe it'll have to be  just individual state tax.|sv
+A|And each state take care of itself and no government type of, uh, you know,|sv
+A|where you have to pay out to federal or whatever.|sv
+A|I don't know.|h
+A|Who knows|qh
+A|but,|%
+B|Yeah,|b
+B|I'm not|sd
+B|I don't know,|h
+B|I can't think of any easy answers to it|sd
+B|but something has to happen,|sv
+B|I mean I'm certainly fed up with it.|sd
+A|Uh-huh,|aa
+A|yeah.|aa
+A|Yeah|aa
+A|Everybody is,|sv
+A|in fact, I'm not sending in my check|sd

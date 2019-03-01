@@ -1,0 +1,180 @@
+A|Uh, do you have a pet Randy?|qy
+B|Uh, yeah,|ny
+B|currently we have a poodle.|sd
+A|A poodle, miniature or, uh, full size?|qy
+B|Yeah,|ny
+B|uh, it's, uh miniature.|sd
+A|Uh-huh.|b
+B|Yeah.|b
+A|I read somewhere that, the poodles is one of the, the most intelligent dogs, uh, around.|sd
+B|Well, um, I wouldn't, uh, I definitely wouldn't dispute that,|sd
+B|it, it's actually my wife's dog, uh, I, I became part owner six months ago when we got married,|sd
+B|but, uh, it, uh, definitely responds to, uh, to authority|sd
+B|and, I've had dogs in the past|sd
+B|and, uh, it seems, it seems to, uh, respond real well,|sd
+B|it, it|%
+B|she's, she's picked up a lot of things, uh, just, just by, uh, teaching by force, I guess is what I'd like to say.|sd
+A|Oh, uh-huh.|b
+A|So, you, you've only known the dog, how long did you say.|qw
+B|Well, about a year I guess.|sd
+A|Oh, well, uh, is it,|qy
+A|uh, uh, how old is the dog?|qw
+B|It just turned two, I believe.|sd
+A|Oh, it's still just a pup.|bf
+B|Pretty much,|aa
+B|yeah,|aa
+B|yeah.|aa
+A|Yeah,|b
+A|I have a, uh, well a mutt, myself.|sd
+A|I call it a, uh, uh, Chowperd .|sd
+B|Okay.|b
+A|It's, uh, part Chow and part Shepherd|sd
+A|and it,|%
+A|as I understand it, uh, both sides of the, were thoroughbreds.|sd
+A|So, she's a genuine Chowperd .|sd
+B|Oh, that sounds interesting.|ba
+A|She has the, the color and the black tongue of a Chow,|sd
+A|but, uh, she has the the shape of the, uh, uh, Shepherd.|sd
+B|Oh, that's, that's neat.|ba
+B|How, about how big then?|qw
+A|Oh, she weighs in at about fifty pounds,|sd
+A|so she's a medium size.|sd
+B|Yeah,|b
+B|yeah.|b
+B|Most definitely.|aa
+B|Yeah.|b
+A|and right from day one, she was teaching me.|sd
+B|Oh, I wouldn't doubt it,|aa
+B|yeah.|aa
+A|She's the most intelligent dog I've ever seen.|sd
+A|Course, I'm a little prejudiced, of course.|sd
+B|Well that's understandable,|ba
+B|yeah,|%
+B|it's, uh,|%
+A|You know, the first time I brought her home, she was only, uh, was it six weeks old.|sd
+A|And I spread the newspapers out in the kitchen area.|sd
+B|Uh-huh.|b
+A|But, uh, next morning, she let me know in no uncertain terms that she wanted to use the bathroom.|sd
+B|Okay.|b
+A|So, on next night, I spread the newspaper in the bathroom|sd
+A|and she used them there.|sd
+B|Oh.|b
+A|But it wasn't too long until she, uh, found out she could wait until I let her out in the morning.|sd
+B|Yeah.|b
+A|And since then, I, I live alone,|sd
+B|Okay.|b
+A|and, uh, I live in motor home,|sd
+A|by the way, I'm, uh, an R V, full time R V|sd
+A|and it's, it's such a pleasure to come home at night|sd
+A|and you can see her smiling from ear to ear, she's so happy to see me.|sd
+B|Yeah,|aa
+B|definitely.|aa
+A|And, uh, I don't know if you get that kind of greeting or not.|qy^d
+B|Yeah,|ny
+B|I can honestly say we do, uh, we, uh, just recently put a security system in our house|sd
+B|and so now, uh, in order to, uh, to accommodate the motion detectors we have to keep her, uh, uh, locked up in the, the master bedroom during the day|sd
+B|and then she's got the, the bedroom and the bathroom to, for free run during the day|sd
+B|but, we've always got, uh, got a nose and tongue pressed up against the window when we come walking up to the front door.|sd
+A|Uh-huh.|b
+B|She's definitely ready to get out and run around.|sd
+B|Really.|b
+A|Uh, she'd rather sleep outside on the, the cold ground at night.|sd
+B|Oh wow.|ba
+A|But, uh, I do make her come in.|sd
+B|Yeah.|b
+A|And I feed her indoors, that's to lure her in,|sd
+A|but during the day I have her on a, uh, on a leash, which is, uh, on sort of a run.|sd
+B|Okay.|b
+A|I have a, a thirty foot cable, running from one stake to another,|sd
+B|Okay.|b
+A|and then attached to that is a, uh, twelve foot leash,|sd
+B|Okay.|b
+A|so she can cover quite an area.|sd
+B|Most definitely.|aa
+A|And, uh, she's the best, uh, burglar alarm going.|sd
+B|Yeah,|aa
+B|yeah,|aa
+B|yeah|aa
+B|that's, uh, definite security involved in, uh, in a dog like that.|sv
+A|Oh, yeah,|aa
+A|she, uh,|%
+A|it's the strangest thing, though, uh, children, no matter how strange they are, or how new they might be can walk, uh, right up to her,|sd
+B|Uh-huh.|b
+A|but adults, if they're strange to her, or, or they look suspicious or something, boy she acts like she wants to chew their leg off.|sd
+B|Wow.|ba
+A|And I have not discovered yet where the, the line is between children and adults.|sd
+B|Yeah,|b
+B|that's interesting.|ba
+A|But, uh, she is a great comfort to me.|sd
+B|Yeah,|b
+B|I know our dog has had, uh, some different reactions,|sd
+B|she's never really been around children|sd
+B|and, uh, if, if the child is, is pretty straight forward, um, she's fine.|sd
+B|If, if a child is a little intimidated, she'll jump around and, and yip and bark quite a bit,|sd
+B|and if the child gets scared, uh, she's still trying to play, but she doesn't completely understand what's going on|sd
+B|and we've had a little confusion with, with, uh, with younger kids.|sd
+A|Uh-huh.|b
+B|But, uh, you know, that's,|%
+B|it's a matter of exposure really.|sv
+B|Um, we, uh, took her home to, uh, my family's place in South Dakota,|sd
+B|and she was the one that was intimidated then.|sd
+B|There was about seven kids ranging from about, uh, three years to ten years running around the house all at one time, you know come to visit Grandpa and Grandma|sd
+A|Oh, uh-huh.|b
+B|and, the dog kind of, kind of felt out of place then because she was, she was being fed, and everything else from all directions.|sd
+B|She really didn't know how to handle herself.|sd
+A|You mean she didn't appreciate all that attention.|bf
+B|She really did,|ar
+B|she just, uh,|%
+B|she, she was she was just inundated with, with all the attention.|sd
+B|Uh, she, she kind of, she kind of sat and it all in for a little while|sd
+B|and then she'd go get back in and try to play and, and what not,|sd
+B|but, uh, it was, it was just such a, such a new experience for her.|sd
+B|She's only been around one and, and sometimes two people at the most|sd
+B|so, uh.|%
+A|Uh-huh.|b
+A|What's her name by the way?|qw
+B|Uh, pardon?|br
+A|What, what do you call the dog?|qw
+B|Oh, it's, uh, Mitzi.|sd
+A|Mitzi.|b^m
+B|Yeah.|aa
+A|Mine is Gin.|sd
+B|Oh, okay.|bk
+A|As in, uh, martini.|sd
+B|Yeah.|b
+A|Actually, it's Gin two.|sd
+B|I, I see.|bk
+A|Because, uh, when I was a teenager, in high school, I had Gin one,|sd
+A|but then when I went out in the world, I couldn't take her with me.|sd
+B|Yeah,|aa
+B|yeah,|aa
+B|yeah,|aa
+B|I had, uh, a similar, uh, experience.|sd
+B|I, I grew up on a farm|sd
+B|so I always had, uh, outdoor pets|sd
+B|and, uh, the dog I had when I moved to Dallas about five years ago was a, uh, Springer Spaniel, black Lab cross.|sd
+A|Uh-huh.|b
+B|And he was a real, a real lovable type, but, uh, definitely not an apartment type animal|sd
+A|Oh yeah.|b
+B|so he, uh, he had to stay home.|sd
+A|Oh, what a shame.|fo_o_fw_"_by_bc
+B|Yeah,|aa
+B|yeah,|aa
+B|it really was.|sd
+B|He, uh, apparently had a tough time with it for a little while|sd
+B|and then he, he got, he came to accept the fact that Mom and Dad were his company from then on,|sd
+B|but, uh.|%
+A|Uh-huh,|b
+A|oh well.|fo_o_fw_"_by_bc
+B|Yeah.|b
+A|Well Randy, we've just about used up our time here,|sd
+B|Okay.|aa
+A|and I must say it was interesting.|sv
+B|Most definitely.|aa
+A|I enjoyed talking about pets with you.|sv
+B|Well that's great.|ba
+A|Maybe we'll get together again in the future.|fc
+B|That sounds real good.|fc
+A|Take care now.|fc
+B|You too.|fc
+A|Bye.|fc

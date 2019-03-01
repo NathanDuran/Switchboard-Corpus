@@ -1,0 +1,199 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|uh, do you work outside the home?|qy
+B|No,|nn
+B|I do not.|ng
+A|Okay,|b
+A|wow|ba
+B|Do you?|qy
+A|Have you?|qy
+B|Have I?|br
+A|Yes,|ny
+A|uh-huh.|ny
+B|Uh, no,|nn
+B|not actually|ng
+A|Okay,|bk
+A|well, yes I do.|ny
+B|Okay.|bk
+A|In fact, I am at work right now.|sd
+A|Uh, and so let me take the lead, uh, Angela.|oo_co_cc
+A|Uh, I think what is really important, uh,|sv
+A|of course, salary is very important, because that's why you are working for your, for the money, but, job satisfaction to me is also, uh, very important in having a job.|sv
+A|And, uh, one of the things that, uh, she asked us to discuss was benefits.|sd
+A|Uh, I'm assuming that you are married and have a husband that supports you.|qy^d
+B|Right.|na
+A|Okay.|bk
+A|And so we could, we could talk about, uh, that path, you know, how important you think his benefits are. And, and, and, uh, how important you think they are and if, what would you like to see increased in his benefits.|ad
+B|Okay.|aa
+A|Like, uh, perhaps, uh, he has, uh, the benefit of having eyeglasses for the family, uh, uh, and how much coverage, uh, it provides and also, your hospital coverage, and, uh, um, probably dental.|sd
+A|How important you think that would be.|sd
+B|Right.|aa
+B|I, I think that job wise benefits are just as important as salary is.|sv
+A|Because they, of course, if you did not have them, you would be pulling from your salary, of course.|bf
+B|Exactly,|aa
+A|Right,|aa
+B|exactly.|aa
+A|right.|aa
+B|Especially when you have a family, with children, and you are always going to the doctor for,|sv
+A|And they always have surprises for you.|bf
+B|Exactly,|aa
+A|With children,|b^m
+B|they always do.|sv
+A|You know, and so, it's, it is, uh,|%
+A|we could not do without the benefit package from, from any company that we worked for, whether they be a conglomerate or just a small, uh, uh, business.|sd
+B|Yeah,|aa
+B|I think any, any, even if your insurance policy is not the greatest.|sv
+A|You would still have something.|^2
+B|Exactly.|aa
+B|You you would not be pulling it out of your account all of the time just by yourself.|bf
+A|Right.|aa
+B|Also, for working women uh, I think a lot of the companies should start providing for day-care in the, in the, in the building.|sv
+A|Yes.|aa
+A|Uh-huh.|b
+A|They are getting a handle on that, in fact, uh, my oldest daughter is, uh, is uh, a nurse|sd
+A|and she just received her masters degree|sd
+A|and she is now into consulting|sd
+A|and that's one of the areas that she is working on. To have, uh, uh, a day care center for the the children of the, of the nurses that are staffing the facility.|sd
+B|Right.|b
+A|And that is true in many, many areas of, you know, uh, job titles and professions.|sv
+B|Yeah.|b
+B|Like in may case, I have three children *spelling: 'may' should be 'my' from ages nine to two. And, it's just unfeasible for me to try to get a job because all the money that I would, be making would be going to day care.|sd
+A|Uh-huh.|b
+A|Sure.|b
+A|Would,|%
+A|it would, It would be just futile.|bf
+B|And it would be just,|sd
+A|And they would not have the quality,|bf
+B|basically be me working to pay  for them to be at a day care,  center.|sd
+A|And they,  would be deprived of their mother.|bf
+B|Exactly.|aa
+A|Yeah.|b
+A|No,|fo_o_fw_"_by_bc
+A|I understand that totally|ba
+B|Besides which, it would be easier, uh, there's a lot of single mothers out there now, from divorces and a lot of, women are starting to have babies without a partner.|sd
+A|Oh, I hear ,|b
+A|Yes,|aa
+A|that's true.|aa
+B|And to go to work, you are worried about your child, besides which you have to get up earlier to take the child to day care.|sv
+A|Right.|aa
+B|And if they were in the same building then you are going to the same place,|sv
+A|Uh-huh.|b
+B|and you could go for your lunch hour down and visit with your child, or, you know, and take your breaks with your children, or something.|sv
+A|Yes.|aa
+A|Do you, Do you think that you should fund that if they have that as a benefit, if you would fund that somewhat from your salary that you are getting?|qy
+A|Do you think that would be, acceptable?|qy
+B|I think|sv
+B|I, think it would be fair.|na
+A|I do too.|aa
+B|I think if, if the company could not provide it all on their own, for the, for the people that would be using it, you know, a certain amount of their salary would go to it.|sv
+A|Right,|aa
+A|that you,|%
+A|Right.|aa
+A|That's right.|aa
+B|But it would still probably be cheaper with the company helping,  our if everybody,  you know, pulled their own weight in it.|sv
+A|With the company than,  than having to go,|^2
+A|That's ,|%
+A|that's right.|aa
+A|Yes,|aa
+A|I, agree with that.|aa
+B|I think it would be really. really great.|sv
+A|That would be fair.|sv
+B|Yeah.|b
+A|Yeah.|b
+B|I do.|aa
+A|Uh, and how, how do you feel about, uh, let's see, eye care?|qo
+B|Eye care is good.|sv
+B|I do not,|sd
+B|I am not|sd
+B|I do not think we have that on our policy.|sd
+A|Okay.|b
+B|But, uh, we,|%
+A|Vision, I guess it's called, vision care.|sd
+B|Yeah.|b
+B|It would be great, I mean, uh, the glasses that,|sv
+B|the exams themselves are not expensive, it's the glasses.|sv
+A|It depends on who examines your eyes.|arp_nd
+B|Yeah,|aa
+B|that's true.|aa
+A|If you have an, an optometrist or an ophthalmologist, there's a vast difference in those two, uh, professionals.|sv
+B|Right,|aa
+B|now like my ...|%
+B|Right.|aa
+B|Well, like my mother, she has to go for testing cause she has got,|sd
+A|Glaucoma.|^2
+B|Well, she does not have it,|ar
+B|but, she is like, on the verge of it or, something.|sd
+A|Oh.|b
+A|Oh, okay,|bk
+A|so,|%
+B|Her eyes are changing,|sd
+A|Yes.|b
+B|and she has to be tested periodically.|sd
+B|And, and those are expensive tests.|sv
+A|Uh-huh.|b
+A|Yes,|aa
+A|they are.|aa
+B|Now, I think your insurance covers her on that,|sd
+A|Uh-huh.|b
+B|but you know, for something like that, that's just as bad as a medical, you know,|sv
+B|that's,|%
+A|Right,|aa
+A|that's critical, because she's in need of it so often.|bf
+B|Right.|aa
+A|Yes,|aa
+A|and, you know, we have, uh, needs in our life that are unique to us|sv
+A|and, uh, you know, people have needs in their life that unique to us, to them.|sv
+B|Right.|aa
+A|I mean, we are all different|sv
+A|so,|%
+B|Now, I would like to see better dental insurance to me.|sd
+B|Was that our beep?|qy
+A|Well, no|nn
+A|that's my other phone.|sd
+B|Oh.|b
+B|Huh.|b
+A|So, that's it|sd
+A|that's okay,|sd
+A|my,|%
+A|that phone is ringing to an empty desk|sd
+A|and she's on vacation,|sd
+B|Okay.|bk
+A|so, it's okay.|sd
+B|But, with the three children um, orthopedic care, um, not orthopedic, orthodontic care,|sd
+A|Uh-huh.|b
+A|That's very expensive.|sv
+B|because on, on a lot of the dental insurance, they do not cover that well.|sd
+B|For the, the orthodontia stuff.|sd
+A|Yes,|aa
+A|that's true.|aa
+A|Orthodontic work is terribly expensive.|sv
+B|Yes,|aa
+B|it is.|aa
+A|Especially when you have a lot of problems with the children teeth, and, and you have to really get them when they are young, in order to have, uh, not, uh, a decent smile when they are fifteen, sixteen years old.|sv
+B|Uh-huh.|b
+B|Right.|aa
+A|I know, two of my daughters had to have that|sd
+A|and they started having extractions at age eight, uh, because they just had too many teeth for their size mouth.|sd
+B|Yeah.|b
+A|And we footed the bill, because there was not any such thing and when they were young.|sd
+B|Right.|aa
+B|My middle child needs to have, uh, orthodontic, he's because his, his pallet is squared, not rounded.|sd
+A|Oh, uh-huh.|b
+B|And it affects his speech a little bit, not, not anything, you know,|sd
+A|Uh-huh,|b
+A|major.|^2
+B|Right.|aa
+A|Uh-huh.|b
+B|But just enough that his bite is off a little bit|sd
+B|and it's like four hundred dollars,|sd
+B|and my insurance is only going to cover like fifty of it.|sd
+A|Well, I tell you I, I just read an article in the paper about what they are doing, I think it was an ad in, in our publication at Texas Instruments, where they are breaking the jaw and, and lining the jaw up with the teeth.|sd
+B|Oh.|b
+A|It's, it's less painful and less expensive.|sd
+B|Really.|bh
+A|Yeah.|ny
+B|That sounds like it would hurt more.|sv
+A|I, I know,|aa
+A|but it, it's, it's, uh, easier on the patient in the long run, which amazed me.|sd
+B|Oh, gosh.|ba
+B|I, I would much rather that, do that, to myself than make my five year old go in and do it.|sd
+B|That would kill me.|sd

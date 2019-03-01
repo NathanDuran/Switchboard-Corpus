@@ -1,0 +1,187 @@
+A|Okay Charles, uh, gun control,|sd
+A|what are you, uh, for, in favor or no comment?|qy
+B|I'm very much in favor of gun control.|sd
+A|Oh, you are?|qy^d
+B|Yes|ny
+B|I am.|na
+A|Well, this should be very interesting, because I'm against it.|sv
+B|I don't, I don't mind people owning guns,|sd
+B|I just think it should be a little, you know, a little, a little more regulated.|sv
+A|Well, you know, uh, now here's something that, uh, first occurred to me when they started having all these problems with these automatic, uh, weapons.|sd
+B|Yes.|b
+A|Uh, now there always has been a federal law against fully automatic weapons.|sd
+B|I believe that's correct,|sd
+B|uh-huh.|b
+A|And, yet, their, uh, the gun control enthusiasts are, are, uh, preaching about the gun control and how they should be, we should have stronger laws and what not.|sv
+B|Uh-huh.|b
+A|I don't understand why we don't enforce the laws we have.|sd
+B|That would certainly help,|sv
+B|I'm sure.|sv
+A|Now this is not just a state law,|sd
+A|this is a federal law, controlled by the Treasury Department. Uh, for fully automatic weapons.|sd
+B|Uh-huh.|b
+B|Yep.|b
+B|Uh-huh.|b
+A|And, uh, all right, now for instance, in California where they passed the uh, uh, semiautomatic|sd
+B|Uh-huh.|b
+A|or, or, uh, now what was it they called them?|t1
+A|The military version, attack weapons, or something?|qy^d
+B|Yeah,|ny
+B|right,|na
+B|uh-huh.|ny
+A|Uh, how is that going to affect the, uh, sports weapons? I mean, rifles, that are automatic or semiautomatic?|qw
+B|Uh-huh.|b
+B|Yep.|b
+B|I really don't have any problem, Jack, with, you know, uh, people using firearms for sporting purposes.|sd
+B|I don't have any problem,|sd
+B|the only thing I,|sd
+B|I am in favor of the seven-day waiting period.|sd
+B|I would like to see that, see that happen.|sd
+B|I,|%
+A|Uh-huh,|aa
+A|well, now, uh, I've got to admit I'm inclined to agree with you there uh, even though I am a member of the N R A,|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|and they are they, their reason being that well, if you let one little law get through, pretty soon one's going to stack up on top of another, and so forth and so on.|sd
+B|Right.|b
+B|Yeah,|aa
+B|I understand that.|sd
+A|And you've got to admit that Congress does kind of look at things that way.|ad
+B|Uh-huh,|aa
+B|that's true.|aa
+B|I, I, like I say, I don't have any problem with people using firearms, you know, for sporting purposes or hunting purposes,|sd
+B|I just think it's just may be a little too easy you know, to acquire one.  On, on a whim of some sort.|sd
+A|Uh,|%
+A|That, that's true.|aa
+A|Uh, now did you hear about the, the control that they have up in Virginia?|qy
+B|I'm not sure I have.|no
+A|Uh, it, it's, it's a little hard to believe,|sv
+A|but they can, uh, of course,|sd
+A|like just like just about every other state in the union they have a felony law.|sd
+A|Anyone ever convicted of a, a felony is, cannot purchase a weapon.|sd
+B|Uh-huh.|b
+A|and they don't have a waiting period, because they have access to computer records concerning all these felons.|sd
+B|Uh-huh.|b
+A|And|%
+A|uh, when you go in and buy a weapon or a handgun in, uh, uh, Virginia, the salesman just calls some number and, uh, punches in your name,|sd
+A|and if it comes up negative, okay, fine,|sd
+A|and you get your your gun right then and there.|sd
+B|I see.|b
+A|Uh, but they are the only state that does it.|sd
+B|Hm, that's interesting.|ba
+A|And, uh, according to Virginia, it didn't cost all that much.|sd
+B|Uh-huh.|b
+A|and frankly, I, I don't understand why a state doesn't have those records available anyway.|sd
+B|Yeah,|b
+A|Uh, uh,  at least  uh, records of, of, uh, known felons which are available to local police departments.|sd
+B|yeah,|aa
+B|you would think they would.|sv
+B|Uh-huh.|b
+B|Yeah,|aa
+B|right.|aa
+B|Yeah,|aa
+B|I'm surprised that more states doesn't do that.|sd
+A|Uh, uh, uh, certainly those, those records are available,|sd
+B|Uh-huh.|b
+A|and all they would have to do is expand it. To, uh, uh, well, connect them into a modem somehow.|sv
+B|Yeah,|aa
+B|right.|aa
+B|Uh-huh.|aa
+B|I wouldn't think it'd be that difficult to do.|sv
+A|Well, Virginia is not a particularly rich state,|sd
+A|and they managed to squeak out a few bucks to do it.|sd
+B|Yep,|aa
+B|right.|aa
+A|And, uh, it's, uh, uh, one-hundred percent successful.|sd
+B|Hm, that's interesting.|ba
+A|Yeah,|aa
+A|I just heard about this last week.|sd
+B|Uh-huh.|b
+A|Uh, they were bragging about it,|sd
+B|Yeah.|b
+A|with,|%
+A|uh, uh, they should have, have pride in this because it's, it's a good system,|sv
+B|Absolutely.|aa
+A|and it's  working well.|sd
+B|Yeah,|aa
+B|I agree.|aa
+A|And they don't need that seven-day waiting period.|sd
+B|Uh-huh.|b
+A|Because the whole idea of that waiting period was, so that, uh, it, uh, the police could check up on you.|sd
+B|Yep.|b
+A|Well, you know what's going to happen there,|sv
+A|those files are going to back up on somebody's desk, just some of that typical bureaucratic work.|sv
+B|Uh-huh.|b
+A|that's another, uh, uh, thorn in my side, bureaucratics, politicians.|sd
+B|Uh-huh.|b
+B|Yeah,|aa
+B|right.|aa
+B|I agree.|aa
+B|Yep,|aa
+B|right.|aa
+B|I was,  just thinking there's,|sd
+A|So anyway  well, we seem to be one in favor and one against.|sv
+B|yeah,|aa
+B|I guess that's about right,|sv
+A|Although neither one of us are, are, uh, really uh, uh, dyed in the wool.|sv
+B|Uh,|b
+A|Uh, we,|%
+A|but we both,|%
+B|Yeah,|b
+B|I'm not totally rigid on the subject,|sd
+B|I just think there should be, you know, shouldn't be quite so easy to do.|sd
+A|well, there should be some way of checking,|sv
+B|Uh-huh.|b
+A|now here in, in Texas, uh, all you need is a driver's license.|sd
+B|Right.|b
+B|Uh-huh.|b
+A|And, uh, even felons can still get a driver's license.|sd
+B|Sure, uh,|b
+A|So I, I don't think they are too,|sv
+A|well, they're not rigid enough here, in Texas.|sv
+B|Yeah,|aa
+B|that's true.|aa
+A|But don't tell the N R A I said that.|ad
+B|I|%
+B|I promise.|aa
+B|I won't|aa
+A|They're liable to tear up my membership.|sv
+B|Okay,|b
+B|I promise|sd
+A|You say you retired a year ago?|qy
+B|Yes,|ny
+B|I did,|na
+B|uh-huh.|ny
+A|I'm looking forward to it in about a, just, just over a year, myself.|sd
+B|Yeah,|b
+B|I really enjoy it.|sd
+A|Uh,|%
+B|I stay pretty busy.|sd
+A|Uh-huh.|b
+B|I do quite a, not quite a lot,|sd
+B|I do some, uh, volunteer work here in Plano.|sd
+B|I, I have a few, uh, handicapped persons that I, you know, try to do things for, help them do.|sd
+A|Oh, uh-huh.|b
+A|Well, uh, I bought a motor home here four years ago|sd
+B|Uh-huh.|b
+A|and I have been living in it ever since,|sd
+B|That's, uh,|%
+A|and I'm looking forward to just traveling.|sd
+B|Sure,|b
+B|I can understand that.|ba
+A|I have four sons scattered all over the country, and a few grandchildren.|sd
+B|Uh-huh.|b
+B|Yep.|b
+A|And I'm looking forward to just traveling around visiting them.|sd
+B|That'd be neat.|ba
+B|Sure would.|aa
+A|Well Charles, good luck to you on your,|fc
+B|Okay.|fc
+B|Nice talking to you.|fc
+A|Yeah,|fc
+A|nice talking to you, too.|fc
+B|Okay.|fc
+B|Take care.|fc
+A|Take care now.|fc
+B|Bye-bye.|fc
+A|Bye.|fc

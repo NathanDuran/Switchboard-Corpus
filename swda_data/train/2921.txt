@@ -1,0 +1,409 @@
+A|What part of the country are you in?|qw
+B|Uh, Pennsylvania.|sd
+B|Yeah.|%
+A|Oh, you are?|qy
+A|East or west, I'm from Pittsburgh. *listen|qy
+B|Oh, are you really?|qy
+A|Yeah.|ny
+B|What part of Pittsburgh?|qw
+A|Um, the South Hills area, Beaver County, well originally Beaver County .|sd
+B|Uh-huh.|b
+A|And, uh, where are you from?|qw
+B|Uh, Clarion County.|sd
+A|Oh, okay,|bk
+A|I know where that is.|sd
+B|I we live out in the country.|sd
+A|Yeah,|b
+A|that's pretty out there.|ba
+A|What, well,|%
+B|Yeah,|aa
+B|we have, we have two children that live in Pittsburgh|sd
+A|Oh, okay,|bk
+A|yeah,|%
+A|I got my brother and my whole family there.|sd
+A|I'm, I'm talking to you from Dallas right now.|sd
+B|Oh, oh, you are?|qy
+A|Uh-huh|ny
+B|Do you work, do you work for Texas Instruments then?|qy
+A|No,|nn
+A|my husband does.|sd
+B|Oh, uh-huh.|b
+A|And who, how about you?|qy
+B|No,|nn
+B|I'm just, Uh, federal company, you know,|%
+A|place that, that needed this. *listen--not sure who's saying what|^2
+B|so, yeah.|%
+A|Well that's okay.|ba
+A|I guess it's an easy thing to do.|sv
+A|So you're you have a big,|qy
+A|do you have a rural house or what do you have?|qy
+B|Uh, we have a big old farmhouse that we've you know, remodeled.|sd
+A|Oh, that's a,|%
+A|Those are beautiful.|ba
+B|It had been, you know, of course, a farm.|sd
+A|Uh-huh.|b
+B|It's a farm community,|sd
+B|and we.|%
+A|Yeah,|b
+A|is it a, is it a working farm|qy
+A|or is it?|qrr
+B|Ours is not a working farm|sd
+A|More, more,|%
+A|I can understand that,|ba
+A|that's probably what I would, uh,|sd
+B|Yeah,|b
+B|I have a garden|sd
+B|but you know,|%
+B|we have a garden.|sd
+A|Yeah|b
+B|But we don't farm.|sd
+A|I can hear the accent now|sd
+A|I hear the I hear the Western Pennsylvania, um.|sd
+B|Uh-huh.|b
+A|We live, uh, we lived in Minneapolis for about five years.|sd
+B|Uh-huh.|b
+A|We, we originally lived in Dallas|sd
+A|and we met and got married|sd
+B|Uh-huh.|b
+A|and then, um, actually married in Pittsburgh,|sd
+A|and that's, that's not what they want to hear on this call, uh|sd
+B|Uh-huh.|b
+A|at any rate we came back here with,|sd
+A|my husband was transferred around, uh, up to Minnesota and now back to Texas with T I|sd
+B|Uh-huh.|b
+A|and we're leasing a, uh, two story town home in a section of Dallas they call North Dallas.|sd
+B|Oh, uh-huh.|b
+A|And it's, uh, near a little town called Plano,|sd
+A|well, it's not little any more.|sv
+B|Uh, Grapevine,|sd
+B|do you know Grapevine?|qy
+A|Uh, yes,|ny
+A|that's out near the airport.|sd
+A|That's about forty-five miles from us.|sd
+B|Yeah,|aa
+B|my brother has a home there he's trying to sell.|sd
+B|He, he's living now up, uh, in, in Maryland|sd
+B|but, uh, he, lived in Grapevine for a long time.|sd
+A|It's,|%
+A|yeah,|b
+A|That's why we not sure, we, we're not sure we want to, uh, buy down here, because we actually, we lived up north long enough to appreciate the, um, *listen--one utt?|sd
+A|Minneapolis-Saint Paul is very clean|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|you know, in terms of, *listen; with previous slash unit?|%
+A|and in terms of housing down here, um, you really have your pick|sd
+A|but it's just everything's overpriced for the economy.|sv
+B|Oh, it's terrible.|ba
+B|I,|%
+A|It really is,|aa
+A|I mean we're, we're in a leased town home,|sd
+A|and it's, uh, you're probably, your teeth will probably fall out figuratively speaking, it's nine hundred a month.|sd
+B|Oh, I'm not surprised.|ba
+A|But, you know what,|fo_o_fw_"_by_bc
+A|if you, if you get anything under five hundred you get into what they call high density living you know, the big apartment complexes|sd
+B|Uh, right,|b
+B|right.|b
+B|Right,|b
+B|right.|b
+A|and, and I just have no tolerance for that.|sd
+B|Yeah,|b
+B|yeah,|b
+B|it's not good|ba
+A|No.|aa
+B|And the people think the income is really great in some of those areas|sv
+B|but when they sit down and look at what it costs to live|sv
+B|and, uh, of course, most of the homes are, you know, fairly nice,|sv
+B|they're, uh, done up fairly nice, uh,|sv
+A|Yeah|b
+A|this is, it's like a duplex,|sd
+A|like a two by two they call it like in Pittsburgh.|sd
+B|Right,|b
+B|uh-huh, Uh-huh.|b
+A|And it's nice|sd
+A|but it's, I mean, the girl bought it for a hundred and ten,|sd
+A|and now she can't sell it.|sd
+A|And our neighbors,|%
+B|Well, prices have come down on the homes, the duplexes.|sv
+A|Yeah,|b
+A|I mean, we'll, our neighbors, the attached on the other side, they're very nice, thank God,|sd
+B|Uh-huh.|b
+A|they paid fifty-eight for it.|sd
+B|Oh, my heaven.|ba
+A|That's how bad it,|sd
+A|I know.|sd
+B|Well, I know up in Connecticut the same thing happened, people are devastated because they paid so much for their home.|sd
+A|That's right.|aa
+A|Uh-huh,|b
+A|yeah.|b
+A|I have some friends that live in Westport|sd
+A|and it's really, really bad.|sd
+A|I mean you,|%
+B|But we like our area.|sd
+B|It, like I said, it's, it's an old house and everything|sd
+A|Uh-huh.|b
+B|but, uh,|%
+A|How far, where is Clarion County in relation to, actually,|qw
+A|because we're considering moving to Pennsylvania|sd
+B|Well, we're about a hundred miles from Pittsburgh north.|sd
+A|That's not too bad.|ba
+A|That's north.|br
+B|And yeah,|ny
+B|and it's, it's really not, you know, not that far.|sd
+A|Are you going up toward, uh, uh,|qy
+A|I'm trying to think of the name of that town that starts with an M,|^h
+A|Bradford, no that's too far north.|h
+B|Bradford's north of us.|sd
+A|So you're, you're not that far north then,|qy^d
+A|okay.|bk
+B|No,|nn
+B|no.|nn
+A|Well, you're really not too bad.|sv
+A|Yeah.|%
+B|Uh-huh.|b
+A|Um, was it a home that you've had for quite a few years,|qy
+A|or that you've,|qy
+B|Well, we've been here since sixty-six.|sd
+A|Oh, then you have,|%
+A|yeah.|%
+A|Do you have a lot of land|qy
+A|or,|qy
+B|Uh, we have fifty acres.|sd
+A|Oh, my,|ba
+A|well, then.|ba
+B|Oh, pardon me,|fa
+B|we have forty,|sd
+B|we gave ten to one of our children|sd
+A|There you go.|ba
+A|Did you have a hard time getting used to,|qy
+A|do you feel like you live in an isolated area|qy
+A|or,|%
+B|No,|nn
+B|not really,|sd
+B|and, and towns keep creeping closer and closer, you know.|sd
+A|Yeah,|aa
+A|I think that that's, um,|%
+A|I can remember in Pittsburgh when,|sd
+A|this has to do with homes, uh, indirectly|h
+A|but I can remember when Upper Saint Clair was out in the, you know, the rural end of Washington,|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|and now it's it's a terrible connection.|sd
+B|Yeah,|aa
+B|it's ours up here.|sd
+B|We have,|%
+B|our rural connections are real bad|sd
+A|Oh, well that's okay, um,|bd
+B|But we, but we live about ten miles from probably three or four, not large towns but, you know, reasonable.|sd
+A|But, but,|%
+A|yeah,|%
+A|substantially, you know.|b
+A|Um, do you like living in an older home and restoring it like that?|qy
+B|Uh, yeah,|ny
+B|we're tired of doing it though.|sd
+B|We, we don't want to do too much more|sd
+A|How big is it?|qw
+A|How many square feet do you have?|qw
+B|Uh, oh, golly,|ba
+B|I really.|%
+A|Well how many rooms do you think,|qw
+A|yeah?|%
+B|We have, uh, uh, four rooms downstairs, and a pantry|sd
+A|Uh-huh.|b
+B|and upstairs we have a bath, a bath, oh|sd
+B|we, have a half bath downstairs, too.|sd
+A|Uh-huh.|b
+B|We have a bath upstairs, and one, two, three, four bedrooms and a sewing room and a junk room|sd
+B|And, uh,|%
+A|A junk room,|b^m
+A|yeah|b
+A|I understand,|ba
+A|we have that too.|sd
+A|That's, that's large if your children aren't at home any more.|bf
+B|Pardon?|br
+A|That's large if your kids aren't at home any more.|bf
+B|Well, it really isn't too big yet.|arp_nd
+B|We, we|%
+B|a lot of people say that|sd
+B|but, um, it's,|%
+A|Uh-huh.|b
+B|we just like it real well Yeah,|sd
+A|It's enough space for two people|bf
+A|Yeah.|%
+B|we had five children,|sd
+B|so and they've all moved you know, on.|%
+A|Oh, okay.|bk
+B|They're all out on their own now.|sd
+A|Yeah,|b
+A|right.|b
+A|That's okay.|b
+A|Well, we've got, um,|%
+A|this town house is pretty big.|sd
+A|It's about eighteen hundred square feet.|sd
+A|It's got three bedrooms, two and a half baths|sd
+B|Uh-huh.|b
+A|um, it's really nice.|sd
+B|Well, it sounds like a good buy.|ba
+A|Yeah,|aa
+A|it is,|sd
+A|I mean, I would never buy it|sd
+A|but leasing it is fine.|sd
+B|Uh-huh.|b
+A|Um, but, it's just again, the, the privacy, you know.|sd
+A|Um, we had a house in Minneapolis that was on three acres,|sd
+A|and my husband was raised, um, on a working farm near|sd
+B|Oh, that makes a big difference.|ba
+A|right,|aa
+A|near Dayton, Ohio,|sd
+A|and he said, you know,|sd
+A|he's, he's slowly getting me to, um, not feel isolated if we move to where there's more land.|sd
+B|Uh-huh.|b
+B|You really aren't isolated because it's,|bf
+B|the advantages,|bf
+B|your home is far enough away that you're not bothered by being too close to people,|bf
+A|Right.|aa
+B|but yet you can have your friends, uh,|bf
+B|you can have them in,|sv
+B|you can go out.|sv
+A|Uh-huh.|b
+B|You have more of a choice,|sv
+B|you're not pressed upon as bad.|sv
+A|That's kind of what, like|%
+A|his parents have, uh, land that they retired to, um, about a hundred miles out of Atlanta and, in Georgia,|sd
+B|Uh-huh.|b
+A|and it is too far south for me,|sd
+B|Uh, uh-huh. Uh-huh.|b
+A|but, um, um, but I mean, they have one of the, um,|sd
+A|when they said log cabin, I just laughed,|sd
+A|that they retired to,|sd
+A|but they built one of these.|sd
+A|I mean, it's just beautiful.|sd
+A|It's like a custom, you know|sd
+A|it's not like what I would think of when I think of old log cabins.|sd
+A|You know, I mean, it's modern|sd
+A|it's,|%
+B|More luxury.|^2
+B|Uh-huh,|b
+B|uh-huh.|b
+A|Right,|b
+A|right,|b
+A|it's modern,|sd
+A|it's beautiful,|sd
+A|it's country|sd
+B|Right,|b
+B|yeah.|b
+A|it's you know, um,|%
+A|but, uh, I don't,|%
+A|what else about housing except it's, uh, well,|qo
+A|Pittsburgh's housing economy, I think it's holding it's own.|sv
+B|Uh, they're,|%
+B|yeah,|aa
+B|I suppose they are now.|aap_am
+B|We,|%
+B|both of our children who live there have just bought a home. Uh, in the Mount Lebanon area.|sd
+A|What part, what sections are they in?|qw
+A|Yeah,|b
+A|that's nice.|ba
+B|And, uh, the one, the one boy, the house they bought is completely livable.|sd
+B|They didn't have to do much to it.|sd
+A|Great.|ba
+B|The other one is, uh, uh, has, you know, needs more work done.|sd
+B|It's twenty years old, I think.|sd
+A|Uh-huh.|b
+B|And, but they have two children, too,|sd
+B|and they, they bought what they could afford.|sd
+A|Uh-huh.|b
+A|That's,|%
+A|yeah,|b
+A|a really good friend of mine lives in Penn Hills,|sd
+A|and they've been in their house, oh, probably about twelve years now|sd
+B|Uh-huh.|b
+A|and, um, it's, it's, you know,|%
+A|they're going to start to see their return on their investment very soon.|sd
+B|Uh-huh.|b
+A|Um, but it's a beautiful home|sd
+A|and, I mean, my brother lives,|sd
+B|They are beautiful homes.|ba
+A|is it called Baldwin or Bebble?|qy
+B|Uh-huh,|b
+B|uh-huh.|b
+A|I mean, he lives all in that same area going from Mount Lebanon, um,|sd
+A|it's real pretty up there.|sv
+A|It's just,|%
+B|It is,|aa
+B|it's real nice.|sv
+A|And the neighborhoods are stable you know.|sv
+B|Uh-huh.|b
+A|It's, uh,|%
+A|when you come to this part of the country, we've been away from Dallas long enough that you see the difference in housing.|sv
+B|Oh, my|ba
+B|you you do when you|%
+B|When we first got married, uh,|%
+B|my husband works for the state,|sd
+B|and we moved once a year usually|sd
+A|Oh, my goodness.|ba
+B|And then after they had to start paying to move us, that suddenly wasn't necessary any more|sd
+A|Uh-huh.|b
+A|That's what it is here,|sd
+A|yeah,|%
+A|that's why we're at a point now we've, uh, we're adopting|sd
+A|and we have been married ten plus years|sd
+A|and what happens is, uh, you just realize that once you get to a certain age the next house that you get we'll be staying in Yeah,|sv
+B|Right, yeah,|aa
+B|you have to stop some place,|sv
+B|yeah.|aa
+A|that's kind of like where we're,|sd
+B|Yeah.|b
+A|so we're considering Pennsylvania,|sd
+A|and we're just kind of, you know, toying with what exactly, where we want to be, you know.|sd
+B|Uh-huh. I do too,|b
+A|A lot of people say it doesn't matter where they live if they have a nice house|sv
+A|and, but I disagree with that,|ar
+A|I.|%
+B|I've heard too many people say, I hate it here.|sd
+A|Uh-huh.|b
+B|You know, they buy a place|sv
+B|and they just hate the area.|sv
+A|I know,|aa
+A|and it, and the economy here in Dallas, I mean, it, it's steady,|sd
+A|but it's still not going up.|sv
+B|Uh-huh.|b
+A|And I, um, I just refuse to buy it, um, if I know I'm not going to be there for at least five years, uh, you, you know.|sd
+B|Uh-huh.|b
+B|Yeah,|b
+B|well, my brother, they're having trouble selling their home, see.|sd
+A|Oh, I'm sure,|ba
+A|yeah,|b
+A|there, I mean, you can go down a street,|sd
+A|and here, he told you this, every other house, you know, if it's been foreclosed on or, you know, even big executives|sd
+B|Right,|ba
+B|uh-huh.|b
+B|Oh, yeah,|b
+B|yeah.|b
+A|um, it's really, I mean,|%
+A|and, and it's hard to sell the properties.|sv
+A|People from J C Penney's from New York, came here about a couple of years ago.|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|And they thought they were getting a great deal, um, because they could get a five hundred thousand dollar home with, they call it, zero lot lines, no property, And it would make you ill to see this.|sd
+B|Oh, uh-huh.|b
+B|Yeah.|b
+A|I mean it would probably be like your house on, uh, you know, a half a city block in Pittsburgh or something.|sv
+B|I, I couldn't handle that|sd
+A|Yeah,|b
+A|I know,|ba
+A|and that's, you know, like|%
+A|I can look outside right now and look into the next unit.|sd
+B|Uh-huh.|b
+A|You know, it's across the way,|sd
+A|and it's landscaped and all that with azaleas,|sd
+B|Uh-huh.|b
+A|but it's still, it's still not that private.|sv
+B|I get tired, uh, sometimes, mowing, because we mow, you know, a good bit of ground around the house area.|sd
+A|Yeah|b
+A|but you have a rider.|arp_nd
+B|And I do get tired of that|sd
+B|but, uh, I don't know,|h
+B|I don't think I'd want to change it.|sd
+A|No,|aa
+A|and your kids have,|%
+A|to tell you the truth, um, I think that if you can keep that, that way, you know, kind of like a homestead,|sv

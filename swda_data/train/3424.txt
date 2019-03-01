@@ -1,0 +1,132 @@
+A|Okay, um,|fo_o_fw_"_by_bc
+A|do you participate in family reunions?|qy
+B|I did for years.|na
+B|I don't have enough family left to have them.|sd
+A|Uh-huh.|b
+B|But.|%
+A|Did you, uh,|qy
+A|were they far away,|qy
+A|were they close?|qy
+B|Well, I come from a family that was very large in Bell County|^h
+A|Uh-huh.|b
+B|and, and my grandfather came to Bell County on a covered wagon and had ten children,|^h
+A|Oh, how neat.|ba
+B|and so sometimes we would have a reunion with that group.|sd
+A|Uh-huh.|b
+B|And then, sometimes we would go to Arkansas where they came from and have a reunion with the entire group, you know.|sd
+A|Oh, that would be fun.|sd
+B|Yeah,|aa
+B|it was a lot of fun.|sd
+A|Yeah,|b
+A|well, we, uh, we have a family reunion on my mother's side of the family that's, uh, oh,|sd
+A|it started probably about forty years ago, uh, because I remember going as a teenager before I was ever married,|sd
+A|and then my husband and I went, uh, while we were still dating,|sd
+A|and it's still going on,|sd
+A|and it used to be held at Lake Brownwood, down at Brownwood, Texas,|sd
+A|but now we hold it at, uh, Lake Texoma so that the Oklahoma group doesn't have to drive as far.|sd
+B|Uh-huh.|b
+A|And, uh, we have had as many on a Saturday night,|sd
+A|it starts on Friday and goes through Sunday,|sd
+A|and we've had as many on a, uh, Saturday night as about two hundred and fifty.|sd
+B|Um, now we would have group like that in Arkansas.|sd
+A|Uh-huh.|b
+B|We'd have two hundred and fifty or three hundred.|sd
+A|Yes,|b
+A|and we took, uh,|%
+A|our family all brought in food and everything.|sd
+B|Well, so many of us came from a long way that we, we'd usually at a motel|sd
+B|and we bought food there.|sd
+A|Oh, uh-huh,|b
+A|uh-huh.|b
+A|Well, I know on Sundays we all elect now to chip in|sd
+A|and we go get Kentucky Fried Chicken and bring out.|sd
+B|Uh-huh.|b
+A|And, uh, but we kind of take our food for three days,|sd
+A|and, uh, now our grandchildren are participating in it|sd
+A|and just love that they have all this little batch of cousins that they get to see about once a year|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|enthused and with it|sd
+A|and our children, you know, thoroughly enjoy it.|sd
+B|Right.|b
+A|So it's been kind of nice.|sd
+A|It started out when I was a youngster and watching my mother.|sd
+A|Now I'm to the mother was|sd
+B|Uh-huh.|b
+A|and, uh, I am, uh, now the older generation and doing more of the cooking and watching my daughter you know, more and everything,|sd
+B|Uh-huh.|b
+A|and, uh.|%
+B|Well, it's something I really miss, because I had twenty-seven first cousins|sd
+A|Oh, my word.|ba
+B|and, you know, we were very close family,|sd
+B|but our father's generation was enough older than I,|sd
+B|my father would be a hundred now that they're all dead,|sd
+A|Oh, uh-huh.|b
+B|and, in fact, many of my first cousins are dead|sd
+A|Oh, are they?|bh
+B|and of course they have their own families and grandchildren and all that,|sd
+B|so we really, very rarely all of us get together|sd
+A|Get together any more.|^2
+B|and, and we're a long way away,|sd
+B|and, and the younger generation, the next like my cousin's children, I don't know very well, you know.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+B|But it,|%
+B|so it's,|%
+B|I doubt that that will come to be again,|sd
+B|but as long as my oldest aunt lived we, we got together once a year.|sd
+A|I think, I do think, now we have noticed a waning of interest,|sd
+A|and I think as, as parents get older and start dying off, I think sometimes it is hard to keep the interest going.|sv
+B|Well, and, and folks have gotten so mobile,|sd
+B|I mean, like I have a son and a daughter and two nephews that are grown and a brother who has a new marriage and a younger son,|sd
+A|Uh-huh.|b
+B|but my brother and his wife live in Nevada, my daughter lives in Colorado, one of my nephews lives in New York City, one nephew lives in Memphis and my son lives here,|sd
+A|Uh-huh.|b
+B|but I think it's very unlikely we'll have a family reunion, you know.|sd
+A|Yeah,|b
+A|you probably do good just to get your immediate family together.|sd
+B|Yeah,|b
+B|and, I'm divorced,|sd
+B|and really only immediate family I have left is my, my,|sd
+B|I have a son and a daughter.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+B|But my family's really all dead.|sd
+A|Uh-huh.|b
+B|But it was great pleasure while we did it, you know.|sd
+A|Oh, yeah,|b
+A|they're a lot of fun.|sd
+A|Well, my|%
+A|I have a sister,|sd
+A|and then we have a son and a daughter|sd
+A|and we have three grandchildren|sd
+B|Uh-huh.|b
+A|and our son and daughter are both married|sd
+A|and, uh, our son's not as interested in it as our daughter,|sd
+A|but our daughter, our daughter is really interested.|sd
+A|And, uh.|%
+B|Does it bother you if your children are not interested in it?|qy
+A|I beg you pardon?|br
+B|Does it bother you if your children are not interested in it?|qy
+A|Oh, a little bit.|na
+A|I, I wish that our son was you know,|sd
+B|Uh-huh.|b
+A|and, uh, but, uh, the cousins are closer to our daughter's age, and, than to our son's and just totally different, interest group,|sd
+A|and plus,|%
+A|and he's just, he's newly married and doesn't have children|sd
+B|Uh-huh.|b
+A|and, you know, I'm hoping, that as they, you know, are, married a little bit longer and have children that they may be more inclined to want to go, you know, to it,|sd
+B|Uh-huh.|b
+A|I know that.|sd
+B|Well, what kinds of things do you do to try to get your children interested?|qw
+B|Just talk to them about it?|qy
+A|Well, talk to them about it, and, you know, tell them some of the things we're doing.|na
+A|Now when he was a uh, a young, oh, preteen, you know, when he was like ten or twelve he loved going,|sd
+B|Uh-huh.|b
+A|he had another cousin he was close to and went,|sd
+A|but that cousin kind of quit going,|sd
+A|and as he got to be a teenager, uh, he wasn't quite as, as interested.|sd
+A|He was more interested in rock and roll,|sd
+A|and this is more country western group|sd
+B|Uh-huh.|b
+A|and, uh, just lack of interest,|sd

@@ -1,0 +1,148 @@
+A|Did you hear our topic?|qy
+A|It's in regards to discussing homes.|sd
+B|Homes,|b^m
+B|yes, sir,|ny
+B|uh-huh.|%
+B|What are, are you settled in a place?|qy
+A|Yeah,|ny
+A|I'm settled in a place.|sd
+A|I've been in it for twelve years, since nineteen, uh, actually thirteen years, since nineteen seventy-eight|sd
+A|and it's in Richardson, Texas, which is north Texas or north Dallas.|sd
+B|Right|b
+B|Uh-huh.|b
+A|And we've lived in two houses in Richardson.|sd
+A|We moved here in seventy-four and, uh, changed locations in seventy-eight.|sd
+B|Okay.|bk
+A|How about yourself?|qo
+B|Well, we, uh, left here in seventy-six.|sd
+B|Uh, we were here for a few years,|sd
+B|then we, uh, have come back just this summer.|sd
+B|Right now we're looking for housing, uh, somewhere down in the Duncanville and Cedar Hill area.|sd
+B|Are you familiar with that?|qy
+A|Yeah,|ny
+A|it's a nice area.|sv
+B|Yeah,|aa
+B|it is.|aa
+B|The kids are in school here in Duncanville.|sd
+B|We're in a temporary place right now|sd
+B|and, uh, so they've enjoyed the school,|sd
+B|so we're kind of trying to stay here|sd
+B|but,|%
+A|Are you finding it tough trying to find what you want|qy
+A|or,|%
+B|Well, what, the problem we got is that we've got five children|sd
+A|Oh, boy.|ba
+B|and so, uh, we really want four or five bedroom house|sd
+B|and, uh, you know, everybody says, you know, how many houses are on the market and all that kind of thing|sd
+A|right.|b
+B|so we, uh, we look at the paper,|sd
+B|we look at our, talk to our realtor|sd
+B|and you can cut, you know, the listings, uh, in about a third when you go from three to four bedrooms you know, or five.|sd
+A|Sure.|b
+B|Are you looking|qy
+B|or you settled,|qrr
+B|I mean,|%
+A|No,|nn
+A|we're settled|sd
+A|and, uh we're, uh,|sd
+B|having,|%
+A|I'm probably older than you,|sv
+A|I'm fifty-two,|sd
+A|but anyway, I, my youngest is getting married this year graduating college,|sd
+B|Oh, great.|ba
+A|so I can board up their rooms, and look forward to retirement maybe.|sd
+B|That empty nest syndrome is going to set in, I guess.|sv
+A|Oh, gosh,|ba
+A|so, we're looking forward to retiring in about three years and maybe relocating to Florida or somewhere. Closer, closer to our families.|sd
+B|Great.|ba
+B|Okay.|b
+B|Okay,|b
+B|you, are you from Florida originally?|qy
+A|No,|nn
+A|from West Virginia|sd
+A|but everyone's, uh, my wife's parents are from the New York, New Jersey area|sd
+B|Yeah|b
+A|so, but everyone seems, uh, has seem to relocated down that area.|sd
+B|Oh, yeah.|b
+A|Seems like a nice place to go|sv
+B|Yeah,|b
+B|yeah.|b
+B|We've got five|sd
+B|and the oldest is, uh, ninth grade|sd
+B|and the youngest is second grade|sd
+B|and I think they're going to be, uh, with us forever.|sv
+B|I don't know if that's true,|sv
+B|but it's sure, you know, we're not anywhere near looking to, uh, uh, cut down in size.|sd
+B|We're, we're trying to find,|sd
+A|Oh, I understand.|b
+A|You need very minimum four and probably five.|bf
+B|Oh, yeah.|aa
+B|In fact, six would be real good.|sd
+A|Right.|b
+B|My wife and I can share a bedroom|sd
+A|It's tough to find a five and six room, bedroom house, isn't it?|qy
+B|Either,|%
+B|Oh, I don't think it's possible unless you, you know, multimillionaire, something like that.|sv
+A|Oh, I know.|aa
+B|Uh,|%
+A|Seems like you get in that category, you're in the three hundred thousand dollar homes or whatever|sv
+A|and it's that's an awful lot, you know|sv
+B|Oh, yeah.|aa
+B|Yeah,|aa
+B|it is,|sv
+B|yeah.|%
+B|Uh, we're having,|sd
+B|actually, if we find something for, uh, I'd say less than a hundred and twenty thousand, we'll be doing all right,  you know.|sv
+A|Right.|b
+B|That's, uh,|%
+B|but I think the thing's out there,|sv
+B|it's just a matter of, uh you know, looking you know finding the right place, uh,|sv
+A|Just, Matter of looking,|^2
+A|right.|aa
+A|Lot of people will buy, in your situation will buy a four bedroom house and convert maybe the garage or something or the, or do something.|sv
+A|I had a young lady used to work for me at my office from the high school|sd
+A|and she had, uh, there were seven kids in her family.|sd
+B|Wow.|ba
+A|And they converted the dining room and, did this and that,|sd
+A|but they always seemed to get along fine, you know.|sd
+B|Oh, yeah,|b
+B|yeah.|b
+B|I think once we get into a place, it will be just fine,|sd
+B|but you know, it's until then, it's, uh, oh, a little stressful, you know, just looking all the time and that sort of thing.|sd
+A|Oh, sure.|ba
+A|Oh, I know|aa
+A|and it's, there's nothing harder than that.|sv
+A|I always just sort of a, assign my wife that chore,|sd
+A|then I would let her narrow it down to three or four,|sd
+A|then I'd go look because women seem to like to look a lot more than men do.|sv
+B|Oh, yeah.|aa
+B|Maybe that's the case.|aap_am
+B|At least she's got more opinions, you know,|sv
+B|there's, uh, seems like there's more constraints more things that she thinks about. You know, openness, uh, the size of the kitchen and all this kind of stuff that I would probably gloss over and, maybe even ignore, you know.|sv
+A|Yes.|aa
+A|Why, certainly.|aa
+A|I  understand that.|b
+B|So.  What kind of business are you in?|qw
+A|I'm in the, uh, sporting goods business.|sd
+A|I'm a manufacturer's rep.|sd
+A|I represent fourteen different hunting and shooting type companies.|sd
+B|Oh, yeah,|b
+B|great.|ba
+A|What, who are you with?|qw
+B|Uh, we're with an organization called, uh, Wycliff Bible Translators.|sd
+A|Uh-huh.|b
+B|It's a, a missions organization and, uh, doing, uh, translation, linguistics, that sort of thing.|sd
+A|Well, great.|ba
+B|Uh, it's got an office down here in, uh, in, near Duncanville|sd
+B|and we just moved down to be on staff down here|sd
+B|so.|%
+A|How, how was the, uh,|qw
+A|you say you lived in the Denver area before?|qy^d
+B|Right.|na
+A|How did that compare with this area as far as housing prices?|qw
+B|Uh, we were, uh, really surprised to find that they're higher here.  Uh,|sd
+A|No kidding.|ba
+B|When we moved from Louisiana to Denver, it was astounding, you know, to find that prices were, oh, I guess almost two or three times as high as we'd expected.|sd
+B|And then, uh, to come down here, we thought things would be lower,|sd
+B|and they're not.|sd
+B|I guess, uh, really, prices for housing are just,|sv

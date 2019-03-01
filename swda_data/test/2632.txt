@@ -1,0 +1,221 @@
+A|Um,|b
+B|Hi|fp
+A|one thing you know that I always think about when I think of public education|sd
+A|cause I went through the public, um, school system of Boston,|sd
+B|Uh-huh.|b
+A|and, uh, I always felt that I graduated high school|sd
+A|and I still didn't even I, I couldn't put together a map of the United State.|sd
+B|Um.|b
+A|You know what I mean.|qy
+B|Uh-huh.|ny
+A|An yet I felt that I got a good education|sv
+A|and I, I did well in school|sd
+A|but you tell me to name, you know, five continents|sd
+A|an I, couldn't do it.|sd
+B|Uh-huh.|b
+A|I just felt like there were some real basics that are missing from education,|sv
+B|Uh.|b
+A|and the people are, are leaving school not even knowing some common sense things.|sv
+B|Yeah.|b
+B|One,|%
+B|well, talking about public education, um, I'm, we're doing a proposal,|sd
+A|Uh-huh.|b
+B|it's, we're doing it at N C State,|sd
+A|Yeah.|b
+B|we're trying to improve the computer science curriculum,|sd
+A|Uh-huh.|b
+B|So that's kind of in a higher level|sv
+A|Right.|b
+B|So it's interesting that you chose that topic|sv
+A|Yeah,|b
+A|um, did you do through a public school system or private?|qy
+B|Yeah,|ny
+B|well, I went through private an until ninth grade.|sd
+A|Uh-huh,|bk
+A|did you notice a big difference?|qy
+B|Oh, yeah,|ny
+B|a big difference.|sv
+A|Like in what sense?|qo
+B|Well, um, in, uh, public schools I guess there there are a lot of, of, you know,|sv
+B|people can take lower level courses an get away with learning nothing.|sv
+A|Uh-huh.|b
+B|But, um, private school you couldn't do that,|sv
+A|Uh-huh.|b
+B|you had to learn.|sv
+A|Yeah,|b
+A|I work in a temporary agency|sd
+A|an they're people that come in, you know, every day to fill out an application,|sd
+B|Uh-huh.|b
+A|and they'll have to bring somebody with them,|sd
+A|and they will show that they completed, um, four year of high school,|sd
+A|yet when it comes to even answering the questions on a simple application, they can't read enough to be able to fill out the answers by themselves,|sd
+B|Uh.|b
+B|That's bad.|sv
+A|it's just incredible.|sv
+B|Yeah,|b
+B|our State cut a whole bunch of a, I think it's ten million dollars out of the school budget.|sd
+A|Really.|b
+B|So they're making all kind of cuts|sd
+B|in college people cannot, I mean, the teachers can't make tests any more,|sv
+B|and the library canceling all of it's subscriptions.|sd
+A|Yeah.|b
+B|It's pretty sorry.|sv
+A|I know,|aa
+A|um, they, uh,|%
+A|I forget|sd
+A|I think it's, um, some place in New York because they're having budget problems, they're closing the libraries.|sv
+B|Uh-huh.|b
+A|I mean they're not getting rid of any of the sports, or anything like that,|sd
+B|Uh.|b
+A|they're not cutting in any other corner|sd
+A|they're closing the libraries.|sd
+A|That to me shows a little, uh, switch in priorities.|sv
+B|Yeah.|b
+A|You know.|%
+A|So do you go to college right now?|qy
+A|Are|%
+B|Yeah,|ny
+B|it's my last year|sd
+A|You're a, so you're a senior now.|qy^d
+B|Yeah,|ny
+B|I'm working on my projects trying to graduate|sd
+A|Oh, good for you.|ba
+B|Yeah.|b
+A|That's great,|ba
+A|um, is, is N C University is that, uh, State,|qy
+B|N C State.|sd
+A|What did you say?|br
+B|N C State.|sd
+A|N C State,|b^m
+A|that's a State University then.|qy^d
+B|Yeah.|ny
+A|I see.|b
+A|And you're from there also?|qy^d
+B|Well, yeah,|ny
+B|I was, uh, I was born in|sd
+B|and then I lived in most of my life.|sd
+A|Uh-huh.|b
+A|I see.|bk
+B|And now I'm back here going to school.|sd
+A|Well, pretty soon it's going to get to the point where no one is going to be able to afford to send their kids to college or to do go to college.|sv
+B|Yeah.|b
+A|It's just a outrageously expensive.|sv
+B|Luckily state is one of the cheap ones.|sd
+A|Oh is it.|qy
+B|Yeah.|ny
+A|Well, still though|%
+A|I mean, you know, thousands of dollars,|sv
+B|Yeah, state's not that bad|sv
+A|Oh, well, that's good.|ba
+B|Yeah.|b
+A|That's good.|ba
+A|I went to a private university|sd
+A|and, um, I don't know|h
+A|I look back now|sd
+A|and I, I think that I probably would have done it differently if I, um, you know, could do it over again.|sv
+B|Yeah.|b
+A|But, um, I have a lot of friends that went to state schools or didn't even go to school, some, some of them,|sd
+A|and I still feel like they came out knowing just as much as I did.|sv
+A|I really do|sd
+A|and that's probably a pretty sad thing to say|sv
+A|but, um,|%
+B|Yeah,|b
+A|I don't know,|h
+A|I, I|%
+B|Where did you go?|qw
+A|what?|br
+B|Where did you go?|qw
+A|I went to University.|sd
+B|Uh-huh.|b
+A|It's in Massachusetts.|sd
+A|And, um, I really felt like I've been working now for about four years,|sd
+B|Uh-huh.|b
+A|and I, I feel like what I've learned working is a hundred times more valuable then what learned in school.|sv
+B|Oh.|b
+A|And I know that I'm drawing a lot of what I learned in school, you know,|sv
+A|I, I probably just subconsciously rely a lot on, on art.|sv
+A|But, um, I don't know|h
+A|my sister's a principal at a school,|sd
+A|and one thing she's trying to instill in kids, um, besides just reading and writing are just some, the golden rules,|sd
+B|Uh-huh.|b
+A|she calls them just some basics about, um, you know, you don't take what's not yours,|sd
+A|uh, and if you want to, you know, you don't touch anybody else unless you have their permission.|sd
+A|Like no hitting, you know,|sd
+B|Uh-huh.|b
+A|no pulling hair or anything like that,|sd
+A|and, uh, the school that she's in is a, um, it's basically for minorities,|sd
+A|um, there's a large minority population.|sd
+A|And, um, she's really noticed that even some of the teachers that work there|sd
+A|I think they don't value that type of student as much as you get, in some.|sv
+B|Yeah|b
+B|that's, sorry.|sv
+B|That they, that they like pick on the advanced students and pay more attention to them, ignore the others.|bf
+A|Yeah,|aa
+A|it's true.|sv
+A|Uh-huh.|b
+B|Yeah.|b
+A|And I don't know if it makes them feel better|sd
+A|I mean the do teachers get,|%
+A|I mean personally I would get more satisfaction out of taking someone that wasn't as successful.|sv
+B|Yeah.|b
+A|And seeing what they could do verses somebody that did excel in, in areas and just watching them get better, you know.|sv
+B|Yeah.|b
+A|That's not much of a challenge.|sv
+B|That's true.|aa
+A|But do you have any ideal what you're going into when you graduate.|qy
+B|Um, graduate school|na
+A|Oh yeah.|bh
+B|Yeah.|ny
+A|Do you know where you're going?|qy
+B|I think I'm going to Chappel Hill.|na
+A|Where's that?|qw
+B|That's in Chappel Hill|sd
+B|the|sd
+A|Oh is that North Carolina?|qy
+B|Yeah.|ny
+A|Oh, okay.|bk
+B|Never heard of the, uh, Tarheels?|qy^d
+A|No,|nn
+A|I don't know that area.|sd
+B|The A C C Tarheels, U N C?|qy^d
+A|I know it.|ng
+B|Oh, uh,|b
+A|I don't get down there very often.|sd
+B|They won the final four, in boy's basket ball.|sd
+A|Oh, really,|b
+A|well the way I pick the final four was, um, by the state that had the warmest climate.|sd
+B|Uh-huh.|b
+A|So that's how I chose all mine,|sd
+A|so you can tell that I really didn't have that much to do with any of it.|sd
+A|But,|%
+A|so obviously you're into education.|qy^d
+B|Yeah.|ny
+A|If you can be going,|%
+A|my husband went to, is in graduate school actually right now.|sd
+B|Uh-huh.|b
+A|And, uh,|%
+A|I don't know|h
+A|I give you a lot of credit.|sd
+A|I couldn't do it,|sd
+A|I, I couldn't wait to graduate and have, it be all over.|sd
+B|Yeah,|b
+B|I know.|sd
+B|Oh.|b
+B|I can't wait to graduate either, now.|sd
+A|I know.|aa
+B|I've got all of this stuff due|sd
+B|oh wow.|ba
+B|Overloaded.|sv
+A|Yeah,|b
+A|I kind of know what you mean.|sd
+A|Well, it was really nice talking to you.|fc
+B|All right.|fc
+A|Okay.|fc
+A|Good luck.|fc
+B|All right,|fc
+B|thank you.|ft
+A|All righty,|fc
+A|take care.|fc
+B|All right,|fc
+B|bye.|fc
+A|Bye-bye.|fc

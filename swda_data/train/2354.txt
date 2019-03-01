@@ -1,0 +1,238 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|what kind of books do you like to read, for enjoyment?|qw
+B|Uh, mainly, the, the books I read are, uh, business related, or self improvement.|sd
+A|Uh-huh|b
+B|Um, I've got a, a, uh, small company on the side that I, that I do things with,|sd
+B|so, uh, a lot of the reading that I, I do has to do with, um, how can I, uh, do better at, at my small-time business uh, important issues such as a, you know taxes and, business expenses and all those kind things.|sd
+A|What kind of business is it?|qw
+A|Uh-huh.|b
+A|Well, that sounds that sounds fun|ba
+A|What kind of business is it?|qw
+B|Um, I've got a, uh, small distributorship, uh.|sd
+A|Uh-huh.|bk
+B|I, uh, sell a, uh, healthy cookie on the side.|sd
+A|Really?|bh
+B|And, uh, I have a few health food stores that I send it to.|sd
+B|I can buy the cookies in a larger quantity than they can,|sd
+A|Uh-huh.|b
+B|so I can get a deal from the, uh, from the from the supplier,|sd
+A|Well, that's interesting.|ba
+B|and then I distributed them|sd
+B|and then I I get, I can sell them at a cheaper price.|sd
+B|Plus I've got a, uh, drinking water system business that I've had on the side for years that I've done.|sd
+A|A what?|br
+B|A drinking water business,|sd
+B|uh, yeah|%
+A|Oh, really?|bh
+B|Yeah.|ny
+A|Well that sounds interesting|ba
+A|My mom always wants me to open a health food store|sd
+A|but, I'll, I'm not really into it,|sd
+A|I don't know the I don't know that much about it,|sd
+A|so anyway but, well that's interesting.|sd
+A|I, personally, I like mostly um,|sv
+A|if I had a book of my choice, I like books, I go to the library a lot|sd
+A|and it seems like I always, I never go to the fiction section,|sd
+A|I mean that to me is just ridiculous,|sv
+A|it's like, life is to interesting to read fiction|sv
+B|Uh-huh.|b
+A|but I always get books like, um,|sd
+A|I like to quilt,|sd
+A|well I'm not into quilting|sd
+A|but I check a lot of books out to learn how.|sd
+A|I just haven't done it yet because it seems to monstrous to do with a book,|sv
+A|but I like to, um, can and do food preservation,|sd
+A|and mostly canning just for fun to go pick the things and just to have fun doing it and to give them as gifts and stuff,|sd
+A|and I like to check books out like that|sd
+A|and I always come away with,|sd
+A|I'm a Christian|sd
+A|and I enjoy reading books about um,|sd
+A|I have a real heart for people involved in cults|sd
+B|Uh-huh.|b
+A|and, so I have a real, you know, heart for them,|sd
+A|and I'm going to bring my Mormon neighbors some Amish bread today|sd
+A|and that's just where my heart is|sd
+A|so, I read a lot of books on that|sd
+A|and, you know Christian books written by people about, you know to help you out and stuff|sd
+A|and I read the Bible.|sd
+A|I don't read the Bible as much as I should|sd
+A|but but I think I would always think that no matter what I did|sd
+A|so, but I do enjoy reading that|sd
+A|and, so pretty much we have different interests, I think, in reading,|sv
+A|like a but, and I have a neighbor with a big motorbike|sd
+B|Sounds like it.|aa
+A|and he likes to run down the street with it|sd
+A|and you, you can probably hear him.|qy^d
+A|But, um, I don't know|h
+A|so. Do you enjoy reading anything like that? Um.|qy
+B|Um, I haven't really read anything like that in, in, in years.|ng
+B|There was a time when I was really into the home things,|sd
+A|Uh-huh.|b
+B|and I did, uh, had my own garden|sd
+B|and I did canning, all those kind of things.|sd
+B|That was when I was about, uh, ten years younger|sd
+B|and uh, I had,|%
+A|Thirty or younger, Is that what you said?|br
+B|About ten years younger,|sd
+B|yeah.|%
+A|Oh, ten years younger,|b^m
+A|oh, that's funny.|ba
+B|And, uh, uh, the problem that I've had in the past with, uh, my children growing up and moving out of the house and, and still having three left at home, out of the five,|sv
+A|Uh-huh.|b
+B|um, I've tried to devote more time to them and trying to get them interested in, in reading more and, and spending more time at the library|sd
+B|and it,|%
+B|I've been moderately successful, uh, with my daughter and with my son, they both have different interests in books|sd
+A|Uh-huh.|b
+B|but, um, they, they, uh, they do read them.|sd
+B|Um, I have some books on, on health that I read all the time.|sd
+B|One's on vitamins that are good for you and that kind of thing,|sd
+A|Oh, really?|bh
+B|Yeah,|ny
+A|Yeah,|b
+A|Maureen Solomon . I had a, a friend of mine has a book by her right now called FOODS THAT HEAL.|sd
+A|They eat a lot of it,|sd
+A|you know, you can take your vitamins|sd
+A|and she was telling me to take zinc,|sd
+A|so, anyway I've been taking enough zinc, you know to kill a horse probably|sv
+A|I hope it doesn't hurt me|sd
+A|but, anyway, I did read one chapter of that|sd
+B|There's a, uh, a couple called, um, oh,|sd
+A|Uh-huh.|b
+B|um, and, uh, there's a book called LIFE EXTENSIONS,|sd
+B|I don't know if you've ever heard of it,|qy^d
+A|No,|nn
+A|I haven't.|sd
+B|Okay.|bk
+B|It's a book called LIFE EXTENSIONS.|sd
+B|There's also a book called THE LIFE EXTENSION COMPANION,|sd
+A|Uh-huh.|b
+B|Uh, Dirk Pearson and,|sd
+B|oh, I forgot Sally's last name, anyway it's a couple.|sd
+B|I've, I've seen them on T V,|sd
+B|and, uh, they they are pretty down to earth about uh, what you can take and, and what you can't take|sv
+A|The quantities|^2
+A|and,|%
+B|and,|%
+A|What's the name of it again?|qw
+B|Um, LIFE EXTENSIONS.|sd
+A|LIFE EXTENSIONS?|br
+B|Uh, yeah,|ny
+B|he's probably about forty years old now,|sd
+A|Uh-huh.|b
+B|I saw him probably seven years ago, on Johnny Carson show|sd
+A|Uh-huh.|b
+A|Oh, really?|bh
+B|and, uh, I was pretty impressed.|sd
+B|He had a,|sd
+B|he,|%
+B|before he started out on his experiments he had a battery of tests done on his body to determine the age of each one of his organs you know based on how well it was performing,|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|and then he embarked on this, uh, vitamin treatment|sd
+B|and then every year he had the same tests run,|sd
+A|Uh-huh.|b
+B|and at the age of thirty-two, I think it was, his, um, heart was that of a fourteen year old|sd
+A|Really?|bh
+B|and all the rest of his organs were all greatly, you know, all tested out greatly below his actual age.|sd
+B|And, of course, Sally, uh, isn't a very big woman,|sd
+A|Uh-huh.|b
+B|I mean, she's, you know, she appeared to me to be very petite|sv
+B|and um, she took a horse shoe and, and turned it, turned it into an S,|sd
+A|Oh, really?|bh
+B|and, uh, it was all from taking the right vitamins and things that, that give you the strength,|sv
+B|and, of course, doing Isometric exercises, uh, together they both exercised about five minutes a day, doing Isometrics rather than, you know physical strenuous exercises.|sv
+A|Really?|bh
+A|I know there's not any food that you can get,|sv
+A|and it's grown on good soil hardly anymore,|sv
+A|and I know my, my husband's uncle owns some acreage in, a, Eastland, Texas, which is in West Texas,|sd
+A|owns|%
+B|Uh-huh.|b
+A|and he owns a lot of acreage that's been farmed properly, you know|sd
+B|Yes.|b
+A|and, uh, we get black-eyed peas off of it and stuff|sd
+A|but, I know that, you know, the further we go from Adam the worse the food is for you,|sv
+A|but God still somehow makes us all be able to still live.|sv
+A|I think it's a miracle we're all still alive after so many generations,|sv
+A|well the last couple of processed foods,|sd
+A|you know, I mean, but, I don't know.|h
+A|I like to, I like to,|sd
+A|my,|%
+A|I like to be able to eat really healthy,|sd
+B|Uh-huh.|b
+A|you know, I think Jesus is the only one that can make this earth be restored to what it should be,|sv
+A|but, uh, in the meantime we pray over our food because I'm always looking down my plate|sd
+A|and I think man this stuff was probably grown in who knows what, you know, kind of environment|sd
+A|but I do take some vitamins on the side|sd
+A|and, I do like reading books like that I just, I have a hard time, a lot of the books are real new age oriented like Mother Earth|sd
+A|and we're going to restore the earth.|sd
+A|I just don't see that.|sd
+A|I think, I mean, I think to think that is almost,|sv
+A|it's hopeless to think that man can do anything with the,|sv
+A|you know what I'm saying?|qy
+B|Yes.|ny
+A|It's|%
+A|and I think God's in charge|sv
+A|and God's going to restore it when he wants to|sv
+A|so sometimes I get bogged down in the, you know, in the ideology that motivates a lot of health food and motivates a lot of vitamin taking,|sd
+A|but, you know there's a balance in it sometimes I read stuff like that|sd
+A|and then I just chunk off like water off your back, some of it,|sd
+A|and, you know, and try and do what's, what I can do out of it that's practical,|sd
+B|Yeah,|b
+B|there's,|%
+B|I've, I've read a lot of things, um, since I got involved in the water business back in eighty-three,|sd
+A|Uh-huh|b
+B|um, and it's amazing that the, the legislation they have, um, for food that doesn't apply to water,|sd
+B|they don't consider water a food|sv
+A|Uh-huh.|b
+B|and, uh, the basics premise is that if water was a food it would be, you know, they wouldn't be able to sell it to you through your pipes because it's toxic Um, chlorine,|sv
+A|Because it's what?|br
+B|It's toxic.|sv
+B|It's a,|%
+A|Oh.|b
+B|I don't know if your on city water,|qy^d
+B|city water has chlorine in it,|sd
+B|chlorine, causes cancer,|sv
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|they know that,|sv
+B|they've proven that.|sv
+B|Um, yet their saying well we're putting such low doses in there, that, well, you don't have to worry about dying from it.|sv
+A|Uh-huh|b
+B|The problem is that I've, that I've read books that, uh, have proven that there is a link between the ingestation of chlorine and arteriosclerosis, which is heart attack,|sv
+A|Uh-huh|b
+A|Um.|b
+B|and if you look at the history of hear attacks, heart attacks were nonexistent prior to nineteen twenty, *typo hear heart|sv
+A|Really?|bh
+B|and we started doing, um, large quantities of chlorination of water starting around, uh, where we experimented with it in nineteen oh three and nineteen thirteen most of the major cities had chlorinated water.|sd
+A|Really?|bh
+A|You know I bet that's why we have some friends that eat only,|sv
+A|I just took this Amish bread out of the oven,|sd
+A|man, it's going to be good.|sd
+A|I had a starter that friend of mine made,|sd
+A|anyway, uh, I had a friend that read a book on that|sd
+A|and, um, I've,|%
+A|all my relatives my|sd
+A|you know, you probably read BACK TO EDEN or something,|qy^d
+A|I don't know,|h
+A|we read a lot,|sd
+A|I know people have read all those books|sd
+A|but, the, um,|%
+A|they they drilled a well, I don't know how many feet|sd
+A|but it's three or four times deeper than it needed to be,|sd
+B|Uh-huh.|b
+A|and so their water comes out,|sd
+A|they live in Grand Prairie,|sd
+A|but it's,|%
+A|they live kind of in a, the planes go right over from D F W,|sd
+A|so it's not real developed,|sd
+A|and so they have a, probably half an acre,|sd
+B|Yeah,|b
+B|I'm very familiar with the area.|sd
+A|and, yeah,|%
+A|and they drilled this well|sd
+A|and the water comes out at thirty-two degrees,|sd
+A|so it's kinds of neat.|sd
+A|Would that be healthier do, to do that, to drill your own fresh water well like that?|qy
+B|It depends, a lot of, uh, a lot of things were thought that, uh, as,|^h
+B|you know, the farmers thought, okay, we got chemicals, we're putting chemicals on the field,|sv
+B|well the ground will naturally filter out the of ...|^q

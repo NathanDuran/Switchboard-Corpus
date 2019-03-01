@@ -1,0 +1,143 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|who do you like?|qw
+B|Okay,|b
+B|What kind do I like?|qw
+B|I like just about any kind except country and western.|sd
+A|Yeah,|aa
+A|that's the same with me, same with me.|sd
+B|It's, it's, course country|sv
+B|and western even I've gotten a little bit used to because it's not like it used to be.|sv
+A|Uh-huh.|b
+A|Like Clint Black, he's pretty good,|sv
+A|and who's the other big guy?|qw
+B|Well, in Oklahoma we say Garth Brooks|sd
+A|Garth Brooks,|b^m
+A|yeah,|bk
+A|that's, yeah, that's the other guy I was thinking of was Garth Brooks.|sd
+A|Yeah,|%
+A|in fact I think both of them have performed here.|sd
+A|And Kenny Rogers, he's kind of country western verge, you know on the verge of country western.|sv
+B|Right.|b
+B|Of course, Garth Brooks lives about, uh, you know,|sd
+B|his, his home town is about, uh, fifteen minutes away|sd
+A|Oh, wonderful.|ba
+B|so he is, he's a home boy|sd
+A|Well, then, of course you like him.|sv
+A|That's great.|ba
+A|But, well, I have teen age children,|sd
+A|and so, you know, I'm, hear the, the rock music, not the hard rock, but the, you know, Michael Bolton type stuff.|sd
+B|Uh-huh.|b
+A|He's my personal favorite.|sd
+B|My son is, uh, twenty-eight,|sd
+B|so, but he, he's real unusual in that, uh,|sd
+B|he likes a little bit of every kind.|sd
+B|He likes jazz and, uh, blues and, and course the rock|sd
+A|Oh, that's good.|ba
+A|Uh-huh,|b
+A|uh-huh.|b
+B|I, I can't say he's real crazy about elevator music, as he calls it.|sd
+A|No,|b
+A|no,|b
+A|I, I don't, I don't, actually, we don't listen to any elevator music at my house.|sd
+A|But I've got teenagers,|sd
+A|so.|%
+B|Well, my teenagers are all gone.|sd
+B|I can listen to any music I want to|sd
+A|Yeah,|b
+A|that's good,|ba
+A|I, actually, when I'm home alone, which isn't too often, but, uh, our Public Radio Station has wonderful classical music.|sd
+A|It's just very wonderful. Soothing, and, you know, uh, lot of symphonies|sv
+A|and, I just, I love that,|sd
+A|that's probably my all-time favorite.|sd
+B|You know, uh, I, I teach|sd
+A|Um.|%
+B|and we can have music in the classroom,|sd
+B|but it, you know, it can't be the rock or anything like that|sd
+A|Right.|b
+B|and I, I find that the classical music is very good for the kids too, it doesn't disturb them and yet it's, it's, it stimulates them,|sv
+A|Right.|b
+A|Relax,|^2
+B|and and, uh,|%
+A|Yeah.|b
+A|What do you teach, what grade?|qw
+B|Well, it's ninth, nine through twelve|sd
+A|Good for you.|ba
+B|and,|%
+A|A certain subject?|qw^d
+B|Well, it's, uh, business technology.|sd
+A|Good for you.|ba
+B|But, uh|%
+A|I was just sitting here while she was trying to find, a, a, another caller, uh,|sd
+A|I was reading|sd
+A|my, my husband and I are taking a computer class at our junior college|sd
+B|oh, boy,|ba
+A|Yeah,|b
+A|it's pretty good,|sv
+A|it's just a real basic class,|sd
+A|but we're learning a lot,|sd
+A|and we have a home computer,|sd
+A|so it's, it's very interesting.|sv
+B|Uh, yeah,|b
+B|I'd learn it too.|sd
+B|Uh, back to, I guess we'd better get back to music, though.|sv
+A|Yeah,|b
+A|the subject of music|sd
+B|I, uh,|%
+B|do you play any instruments?|qy
+A|I play, I play piano,|na
+A|I took lessons for thirteen years,|sd
+A|and right now my nine year old is taking piano,|sd
+A|and I just got a whole mess of music,|sd
+A|I, I play the, volunteer to play the piano at the children's Christmas program for the whole grade school, which is K through six five hundred kids.|sd
+B|Ooh, you took on a,|sv
+B|good job.|ba
+A|I did it last year,|sd
+A|and, and, um, I, I just sub at the school,|sd
+A|I don't want to work full time,|sd
+A|so I just sub at the school,|sd
+A|and that's kind of my volunteer thing,|sd
+A|so that, it, it's really neat,|sv
+A|and my older daughter plays the saxophone,|sd
+A|my next son plays the drums,|sd
+A|and my third son just started baritone this year,|sd
+A|and my little girl will start French horn next year,|sd
+A|so.|%
+B|Oh, well, my son played the sax and drums, my daughter the piano, organ and French horn.|sd
+A|Oh.|b
+B|So.|%
+A|French horn is absolutely wonderful instrument.|sv
+A|It's just my favorite.|sd
+A|Of course that's what I played,|sd
+A|and so I'm pushing that on my daughter because I want to play in our city band, not the symphony, with just the city band once we get the, the French horn|sd
+B|Oh, okay.|b
+A|and I get a little bit more time.|sd
+A|Right now I'm busy chasing my kids.|sd
+B|Yes,|b
+B|sounds like you've got a houseful.|qy^d
+A|I do, I do, I love it,|na
+A|but we have a, a marvelous band instructor,|sv
+A|and, and he's just, he's wonderful.|sv
+A|We have, uh, couple of hundred kids in the band,|sd
+A|our junior high band is just wonderful.|sv
+B|Oh, that's a,|%
+A|He, lot,|%
+A|and their concert band,|%
+A|and then he has a jazz band that my older daughter was in,|sd
+A|and my son will be in next year|sd
+A|that's,|%
+A|I mean, they play college level music in junior high,|sd
+A|he's that good of an instructor,|sv
+A|and the kids just love him.|sv
+B|Oh, that's wonderful,|ba
+A|So it's really good.|sv
+A|It is wonderful.|sv
+B|I, I have totally, totally a tin ear|sd
+A|Oh do you|qy
+B|and I love music.|sd
+B|I cannot carry a tune in a basket.|sd
+B|I know what I like,|sd
+B|but I|%
+A|Uh-huh.|b
+B|you know, and I love to listen to it, love to sing, and I, my kids, when I was little and, they were little|sd
+B|and I was rocking them, singing to them.|sd
+A|Uh-huh.|b

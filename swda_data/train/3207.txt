@@ -1,0 +1,129 @@
+A|Um, I don't,|fo_o_fw_"_by_bc
+A|I am only twenty-eight|sd
+A|and I haven't had much experience with nursing homes.|sd
+A|I don't, I have never visited any of them|sd
+A|and, uh, I don't think I've ever even been in one.|sd
+A|Have you?|qy
+B|Um, actually I have, um, I've, I've been in them but, um, just visiting|na
+B|and, uh, we used to when we were like in, in our teen ages|sd
+B|we'd go on Sundays and visit, you know, the older people.|sd
+B|But, um, I have an elderly grandma that lives with us.|sd
+A|Uh-huh.|b
+B|And she's lived with us for like five years.|sd
+B|So I kind of know how it is to, how to decide if you want to put somebody in a rest home|sd
+B|or, um, like we, I mean we've had those discussions, you know, about should we put her in or because she's pretty senile|sd
+B|and|%
+A|And it, it takes a lot of care|sv
+A|like twenty-four hours a day someone, has to be, Well, there's someone in my, my fiancee's family.|sd
+B|Yeah.|b
+B|It's|%
+A|His grandmother too and they're, that her son, his uncle, whatever, you know, anyway.|sd
+A|He, he has, he's recently retired|sd
+A|and so he's the one who she moved in with when she had a stroke|sd
+A|and, and all the other children are working or whatever.|sd
+B|Uh-huh.|b
+A|They're all my parents age.|sd
+A|And, uh, so he's got, you know, his retirement though is really twenty-four hours a day.|sd
+A|They have a day care two days a week.|sd
+A|They call it senior citizen day care.|sd
+A|But she goes in the senior citizen center.|sd
+B|Oh, really?|bh
+A|So he gets a break two days a week|sd
+A|but it's only for like two or three hours at a time.|sd
+B|Uh-huh.|b
+A|And, you know, just, you see a lot of things like you, you know, was a great golfer and wanted to play golf when he retired,|sd
+A|and you know that a lot of the things he thought he would do when he retired he's not able to do now.|sd
+B|Right.|b
+A|But he refuses to consider any other,|sd
+A|I don't,|%
+B|To put her in a rest home?|qy
+A|Yeah,|ny
+A|and is that how your parents feel|qy
+A|or,|%
+B|Um, well, see it's more my grandma that feels that way.|arp_nd
+A|Uh-huh.|b
+B|She says that when her husband died that he said, oh, that my uncle had said that he would never put her in a rest home.|sd
+B|So it's kind of, uh,|%
+B|I don't know.|h
+B|I mean, I don't, I don't think my parents would|sd
+B|but she is getting pretty bad|sd
+B|like she has to have like a little toilet right by her bed|sd
+B|and, it's,|%
+A|Uh-huh.|b
+B|and my mom has to take care of her pretty much|sd
+B|so it gets,|%
+B|I don't know.|h
+B|It's, it's a hard decision,|sv
+B|but I don't think I would do it to my parents personally|sd
+A|I know at this,|%
+A|I know I feel like I would never do that with my parents either, you know.|sd
+A|But I, I really feel bad for the people I see not very,|sd
+A|I'm not really, really experienced|sd
+A|but like I said I just have that one family,|sd
+A|and I just really feel bad for the guy who his whole life is different now|sd
+A|and, than he thought it would be.|sd
+A|But,|%
+B|When he retired?|qw
+A|Yeah,|ny
+A|and he's got, you know, seven brothers and sisters|sd
+A|and, and, uh, he's the one because he's the one that isn't going to work every day and that she moved in with when she needed to move in with someone.|sd
+A|And,|%
+B|Yeah,|b
+B|it's like that good for us just because my uncle and my, and my mom switch off like we have her for three months|sd
+B|and then he has her for three months.|sd
+A|Oh, well, that's great.|ba
+B|So that, that works out good.|sd
+A|That's a good idea.|ba
+A|We ought to,|%
+A|Yeah,|b
+A|and maybe when the other brothers and sisters retire or whatever, I don't know what they're going to do.|sd
+A|It's really not my family.|sd
+A|It's my fiancee's|sd
+A|so I don't, I can't say much.|sd
+B|Uh-huh.|b
+A|But I always feel like I would never put my parents in either|sd
+A|and I wonder, I'm going to be the only sibling that isn't going to have children|sd
+A|so if my parents do need to live with someone, it will probably be with me because all my brothers and sisters will be having teenagers around and everything to care for. You know,|sd
+B|Really?|bh
+A|and I'm, I,|%
+A|that's fine with me.|sd
+A|my fiancee and I both figure that's what's, we're going to end up with both of the parents or whoever.|sd
+A|If|%
+A|You know what I mean?|qh
+A|We feel like, it's our responsibility,|sd
+B|Uh-huh.|b
+A|and I feel like I would never put them in a home.|sd
+A|But I wonder how much, you know, if one of us is going to have to quit work someday or retire early or something.|sd
+B|Uh-huh.|b
+A|You think about it|sv
+A|and it's really,|%
+A|I don't know.|h
+A|This country kind of takes the worst care of the elderly of any other country.|sv
+B|You think?|bh
+B|I, I I'm not really familiar with how other countries,|sd
+A|And, It's really more of a, um, like a respect issue that the older, older people in other countries that I've been to seem to really have a lot more respect for the elderly people|sv
+A|and, and they really seem as wise|sv
+A|and, and in this country nobody really, Yeah, nobody really pays attention|sv
+B|They're seen as senile|sv
+A|and they, oh, the old-timer made with the old way|sv
+A|and nobody respects the traditions.|sv
+A|And, you know, it's I,|%
+A|I'm not saying that I do either|sd
+A|but you know, it's just funny|sv
+B|Right.|b
+A|and, and we really don't have any that don't have the Social Security|sv
+A|and everything really isn't that much for elderly people to live on.|sv
+B|Uh-huh.|b
+A|You know, even if they're in good health it's incredible.|sv
+B|Right.|b
+A|They don't have any,|sv
+A|they don't get special treatment and maybe they should, you know because we're all going to get old someday.|sv
+B|Uh-huh.|b
+B|I know.|aa
+A|And so it's a, it's kind of a depressing topic though.|sv
+A|How old are you?|qw
+B|Um, I'm twenty.|sd
+A|So it is, yeah, and it must be rough for you too to see your grandmother.|qy^d
+B|Yeah,|ny
+B|it's, it really is|sd
+B|but, and she, she drives us|sd

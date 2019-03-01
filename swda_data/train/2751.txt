@@ -1,0 +1,180 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|what did you buy?|qw
+B|A Ford Explorer.|sd
+A|I'm sorry, what?|br
+B|A Ford Explorer.|sd
+A|Oh, really.|bh
+B|Yeah,|ny
+B|one of the new ones.|sd
+A|Yeah.|b
+B|And, um, I'd, I'd probably buy another, this is the first American vehicle I've owned.|sd
+A|Uh-huh.|b
+B|So I would probably purchase another one, um, I would be more selective in the dealership that I purchased it from|sd
+B|but as far as, uh, the quality seems to be there, um, it's quiet, it's, it handles well, um,|sd
+B|but I believe I'd get that or a Porsche, one of the two.|sd
+A|Oh really?|bh
+B|No,|nn
+B|not|nn
+A|Um, if I had the money, I think I would love to own a, a B M W.|sd
+B|And why would that be?|qw
+A|I don't know, I,|no
+A|from what, or|%
+A|either that or Mercedes, just because they're put together so well.|sd
+A|It seems like they last forever.|sv
+B|What's wrong with the Volvo.|qw
+A|Oh, I don't know, they're, they're not as nice looking.|sv
+B|Oh.|b
+A|Uh,|%
+A|to me, I don't know, I'm sure there are some that are,|sv
+A|but everyone I've seen is kind of plain,|sd
+A|but.|%
+B|What, what city are you calling from?|qw
+A|Sherman.|sd
+B|Oh.|b
+A|Where are you?|qw
+B|Up in Dallas.|sd
+A|Dallas.|b^m
+B|Um.|%
+A|Yeah.|b
+B|B M W or Mercedes, yeah,|b^m
+B|well that's a, that's a,|%
+A|If I had, um, had the money, I mean that's just,|sd
+A|I know I never would own one,|sd
+A|but, uh, I don't know. I like,|h
+A|my actual favorite cars were, uh, like the Ford Thunderbirds of nineteen eighty-five.|sd
+B|Uh-huh.|b
+A|I really like that body style,|sd
+A|but I don't own one of those either|sd
+B|What do you presently drive?|qw
+A|Uh, Mercury Topaz.|sd
+B|Um, fun.|ba
+A|Cheap taste, cheap taste in cars, okay|sd
+B|Well there nothing wrong with those, uh. They're, they're nice they're nice vehicles, nothing wrong with those.|sv
+A|Yeah,|aa
+B|It, um, it's just everybody has their own taste,|sd
+B|but man the Mercedes are expensive.|sv
+B|My wife has a Volvo|sd
+B|and it, it's nice, I mean, you know, it's okay an.|sd
+A|Sorry I roped on Volvos then|fa
+B|Huh?|br
+A|Sorry I roped on Volvos then.|fa
+B|Oh no,|bd
+B|no,|bd
+B|no,|bd
+B|no,|bd
+B|no,|bd
+B|no,|bd
+B|no|bd
+B|it,|%
+B|it,|%
+B|I, I kind of wish we would have maybe gone for the G L rather than the D L|sd
+A|Oh, is it?|bh
+A|See I don't much about them I guess.|sd
+B|Yeah,|b
+B|there just safe to just,|sd
+B|that's the reason why we mainly got it.|sd
+B|We got white|sd
+B|and it's the safest four door, you know, it's good for, if you have a family, which we do.|sd
+A|Yeah.|b
+B|We just, we just|%
+B|one out|%
+B|and so it's, it's, uh, um, you know,|%
+B|they're kind of low to the ground after driving the Explorer.|sd
+B|You know, I presently,|sd
+B|I used to have a two, eighty Z,|sd
+B|and I'm a tall guy an,|sd
+B|and, uh, they're hard to get around in traffic to see.|sd
+A|Really.|b
+B|Because you can't see a car ahead of you,|sd
+B|but they're fast as lightning and all that crap.|sd
+B|But the Explorer, I mean, you're sitting up on top of everything|sd
+B|and you can really see real well.|sd
+B|And I just,|sd
+B|it's so comfortable So, you're,|sd
+A|Uh-huh.|b
+B|what are your feelings about American versus European cars?|qo
+A|Um, I like anything besides Japanese.|sd
+A|Of course everything has Japanese parts in them anymore.|sd
+A|I don't like Japanese cars,|sd
+B|Why not.|qw
+A|But, uh, European, I don't have any, I mean,|sd
+A|those are the kind I usually end up liking the most.|sd
+A|American cars, a lot of people say they, they don't last long|sd
+A|but I've never had any problem with, um, my Mercury,|sd
+A|or,|%
+A|my|%
+A|my husband has a, uh, Cougar|sd
+A|and he's never had any problem with it either,|sd
+A|so, I don't know.|h
+B|That's the way it goes, I guess.|ba
+A|Well what are your,|qw
+A|I guess this is your first time to buy American,|qy^d
+A|so.|%
+B|Yeah,|ny
+B|I was real hesitant|sd
+B|but it was|%
+A|Yeah.|b
+B|I don't know, uh, I mean, I think European cars are great, course you've got to have metric wrenches and stuff|sd
+B|and they're|sv
+B|some, some of them are easy to work on.|sv
+B|A Volvo, being a four cylinder is very easy to work on.|sd
+A|Really.|b
+B|Uh, excellent warranty, I mean, just, unbelievable warranty.|sd
+B|And, and, uh, of course, Ford isn't too bad.|sv
+B|I think Chrysler would probably make a good vehicle,|sv
+B|uh, but all of it has to do, in my opinion with the service. and the attitude of the service, of the dealership.|sv
+A|Yeah.|b
+A|Yeah.|b
+B|I wouldn't send my dog to buy a car from Middlekauff Ford.|sd
+A|Where?|br
+B|There's,|%
+B|Middlekauff Ford in Plano.|sd
+A|Okay.|bk
+B|Their just,|%
+B|their attitude is just slimy.|sd
+B|And, and, uh, I've written a, a letter to Middlekauff|sd
+B|and I've told them that, matter of fact I got another letter last night from the Quality Ford Division, their still concerned about my attitude *spelling "their" should be "they're|sd
+B|and it, it will never change about that place.|sv
+B|And, uh,|%
+B|but, uh, anyway that's my own personal comment I guess,|sd
+B|but.|%
+A|Yeah,|b
+A|this girl that works for me just bought a car down there|sd
+A|and|%
+A|they, they had a problem with they, uh, took their Camaro in to get it traded and they, they hadn't signed any papers|sd
+A|and they had all ready, uh, taken it in to paint it and everything|sd
+A|and everything was stolen out of it|sd
+A|and the people, um, wouldn't reimburse them for anything.|sd
+B|Middlekauff wouldn't?|qy
+B|She needs to find herself a lawyer.|sv
+B|She'd, she'd come out like a champ on that one.|sv
+A|Yeah,|aa
+A|so, I've heard some stuff about them.|sd
+A|But, um.|%
+B|So have you been using, well anyway.|qy
+A|What.|br
+B|That was,|%
+B|I was asking you some questions about the telephone and how long and how many have you been doing,|sd
+B|but that's,|%
+A|Oh.|b
+B|they, they don't want to hear that.|sd
+A|Oh, just about a week.|sd
+B|Is that all?|qy
+B|A week.|b^m
+A|Yeah,|ny
+A|yeah.|ny
+B|Good Lord,|ba
+B|I think I started in January or February.|sd
+A|Really.|b
+B|Oh God, I've,|ba
+B|I'm like twenty some phone calls.|sd
+A|Oh, wow.|ba
+B|That's why I, I wasn't sure if this was the second time around or what.|sd
+B|Well look, I've enjoyed speaking with you.|fc
+A|Yeah,|fc
+A|you too.|fc
+B|And keep smiling.|ad
+A|Okay,|aa
+A|thanks.|ft
+B|Bye, bye.|fc
+A|Bye.|fc

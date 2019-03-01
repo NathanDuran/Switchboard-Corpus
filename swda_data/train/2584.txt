@@ -1,0 +1,369 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|Do you go camping very much?|qy
+B|No,|nn
+B|I've haven't gone camping in years.|sd
+B|But it's is something that I've done in the past.|sd
+B|How about you?|qo
+A|Uh, we try to go once, maybe twice a summer. Uh,  we, uh, just, you know, for  like a short weekend or something.|sd
+B|That's, that's pretty average to me|sv
+A|We don't go for the long, you know, week long thing.|sd
+B|Uh-huh.|b
+A|But we usually go to, uh, a lake area, you know, where the campsites,  are  and do that. Uh,|sd
+B|Right.|b
+B|Do you tent camp|qy
+B|or do you have a camper?|qrr
+A|Oh no,|nn
+A|no,|nn
+A|no|nn
+A|a tent.|sd
+B|That's what I you know,|%
+B|that's how I camp too.|sd
+B|That's how I define camping|sd
+A|Me too|aa
+A|You're really roughing it.|sv
+B|The rest, the rest of that is really not the same.|sv
+A|Yeah.|b
+B|As a matter of fact, my, my, you know, the majority of the amount of camping I've done has been really roughing it.|sd
+B|Um, as a little girl I'd go with my dad and my uncle and my brother,|sd
+B|and we went to the Boundary Waters area in Minnesota.|sd
+B|So,  that's,  that's really wild.|sd
+A|Oh.|b
+A|Yeah.|b
+A|Are you here in local Texas,|qy
+A|I mean?|qy
+B|Yes,|ny
+B|I'm in Austin,|sd
+B|where are you?|qw
+A|I'm in Garland.|sd
+B|Oh.|bk
+A|Right outside of Dallas.|sd
+B|Uh-huh.|b
+A|So we, um, we have a five year old,|sd
+A|and we started taking her, she was pretty young when we started, uh, camping with her.|sd
+B|Oh, the kids love it.|sv
+A|I know.|aa
+B|I mean, they just love it.|sv
+B|It's wonderful for them to be outside.|sv
+A|I know,|aa
+A|and then they, and they, you know,|%
+A|there's no T V,|sv
+A|and they don't have all these modern toys,|sv
+A|and they have to use sticks and rocks and stuff like,  that  to play with.|sv
+B|Exactly.|aa
+B|Yes.|aa
+A|And I like that.|sd
+A|It's pretty fun.|sv
+B|Well, how it,|%
+B|it's really is a, is a good, good family thing,  to  do.|sv
+A|Uh-huh.|b
+A|Yeah.|b
+B|Yeah.|b^m
+B|And,|%
+A|We, we try to, uh, go with another couple that have children also.|sd
+B|Uh-huh.|b
+A|And, uh, that makes it a lot more enjoyable.|sd
+A|Plus, you know, we don't have to go out and buy all the equipment and stuff, you know,|sd
+A|we kind of split it up. Uh,|sd
+B|Good planning|ba
+A|Yeah|aa
+A|Because it gets, it really does get expensive if you, if you don't want to rough it all the way.|sv
+B|Exactly.|aa
+A|You know, even the sleeping bags, those are running, you know, a good thirty dollars a pop,|sv
+A|and,  and so  we've built that up.|sd
+B|You're right.|aa
+A|But,|%
+B|Do you have a boat?|qy
+A|No.|nn
+B|No?|bh
+A|Want one bad.|sd
+A|Do you?|qy
+B|Oh, well, actually, I would, you know what I would love?|t1
+B|I would absolutely love a sail boat.|sd
+A|Oh.|bk
+B|That doesn't go along with camping,|sv
+B|but,  now that,  that, that's what I would like,  to  have.|sd
+A|Yes|b
+A|Yeah,|b
+A|I would too.|sd
+B|Yeah.|b
+A|Would too.|sd
+A|We usually,|%
+A|uh, let's see,|^h
+A|we try to go to a lake.|sd
+A|My husband and this, uh, other couple that we go with, her husband, um, kind of likes, um, is it scuba dive?|sd
+A|And, so we'll go to a lake and, uh, where they can go do that.|sd
+B|Uh-huh.|b
+A|We're  close enough so they can do that,|sd
+A|and the girls can play on the beach area|sd
+B|And I would play on the beach area too.|sd
+A|Yeah.|b
+B|That's what I would do.|sd
+A|Yeah|b
+B|Yeah.|b^m
+A|That's fun.|ba
+B|I'm just sitting here listening to your accent and thinking what a good time the computer is going to have with that.|sv
+A|Really?|bh
+A|Am I pretty Texan?|qy
+B|You're pretty Texan.|na
+B|Yes.|ny
+B|But you know, you know what's really funny?|qh
+B|Um, I've had people tell me that I have a Texas accent,|sd
+B|and, and I mean, there is just no way I've not picked one up.|sv
+A|No,|aa
+A|you don't, you don't sound like it to me.|sv
+B|I've only lived here about six years.|sd
+A|Oh, have you?|bh
+B|So, if I have one, it must be very, very slight.|sv
+A|Yeah.|b
+B|The Yankees can hear it.|sv
+A|Yes.|aa
+A|Oh, that's true,|aa
+A|that's true.|aa
+A|I, see I don't think I do,|sv
+A|but, uh, but a lot of people do say I sound like,|sd
+A|I guess, I have, I guess more of a twang,  to  my voice almost a|sv
+B|Uh-huh.|b
+B|Are you a, a native Texan?|qy
+A|I sure am.|na
+B|Oh.|bk
+A|I've lived here all my life.|sd
+B|Well, good for you.|ba
+A|But, any way, uh,|%
+B|Have you ever been to Austin?|qy
+A|Yes,|ny
+A|yes|ny
+A|we went last summer, actually.|sd
+B|This,|%
+B|how was,|%
+B|I'm wondering, I'm really not that not familiar.|qy^d
+B|I know there are some good places to go camping along the, uh, the lakes.|qy^d
+A|Or is there?|qy
+A|Okay,|%
+A|well, we didn't go camping,|sd
+A|we just, uh, we did like, uh, we drove down to Houston to visit friends,|sd
+A|and,  we  went to Galveston and, uh, to San Antonio and then up to Austin. And, and kind of, uh, you know, doing the sight seeing type stuff.|%
+B|Uh-huh.|b
+A|So we didn't go camping.|sd
+A|That would be fun though to go.|sv
+A|That's one thing my husband wanted to do, was, on this summer's vacation was to go and camp wherever we went.|sd
+A|And I said, Well, I'd love that|sd
+A|but,|%
+B|It takes a lot more planning.|sv
+A|It does,|aa
+A|and, and ever once, you know, on my summer vacation, you know, my week-long vacation, I,  want  to be a little bit pampered, you know, by a,  hotel  and a waiter|sd
+B|Uh-huh.|b
+B|Right.|b
+B|Exactly,|aa
+B|exactly,|aa
+B|yeah.|aa
+A|So, we're hoping to do like a three day weekend.|sd
+A|There's, um, a thing called Pfeiffer Rim.|sd
+A|I don't know if you have ever heard of it?|qy^d
+B|No,|nn
+B|I haven't.|sd
+A|It's, uh, there's a town called Glenrose.|sd
+A|I think it's around two hours from here.|sd
+A|And, uh, it's, it has like dinosaur tracks,  and stuff like  that|sd
+B|Oh, that sounds,  That sounds great.|ba
+A|and it's got one of those wildlife parks.|sd
+A|Yeah.|aa
+A|I think that'll be fun.|sv
+A|So we're going to try to do that like on a three day weekend, go there|sd
+A|and,|%
+B|Have you ever camped out of state?|qy
+A|No,|nn
+A|I haven't.|sd
+B|You know, where you should try,  sometime is  Colorado.|ad
+A|Where at?|qw
+B|It is beautiful.|sv
+A|Is it?|bh
+B|Absolutely beautiful.|na
+A|I've just been up there skiing,|sd
+A|and, well, we've driven through,|sd
+A|and,  you  know,|b
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|but,  but not, you know, camping or anything.|sd
+A|But I would love to camp,  in  the mountains.|sd
+B|Yes.|b
+B|Estes State Park is fantastic.|sd
+A|That's what my girlfriend says.|sd
+A|Yes,|%
+A|she loves that place.|sd
+B|See, you need to go there.|ad
+A|She loves that.|sd
+A|She says that where we need to go sometime.|sd
+B|It is. It's, you know, it's, it's high canyon|sd
+B|and, uh, and there's this little mountain lakes|sd
+B|and it's very peaceful.|sd
+A|Oh.|b
+B|And, um, in, in the early fall time,|sd
+A|Uh-huh.|b
+B|um,  I can't remember what type of trees they are,|sd
+B|but they, all the leaves turn yellow,|sd
+A|Oh.|b
+B|and  it's just brilliant.|sd
+B|And,|%
+A|I love that.|sd
+B|Yes,|aa
+B|you would.|aa
+B|You'd like it very much.|sv
+A|That's neat.|ba
+A|That's neat.|ba
+B|I know you would.|sv
+A|I used to go camping all the time as a, a Girl Scout.|sd
+B|I was too|sd
+A|All the time. I got real used to it then.|sd
+B|Yeah.|b
+A|I felt like we roughed it then|sd
+B|Uh, well we did, you know,|sd
+B|we really did.|sd
+B|I mean, I just don't understand these people that think taking an R V,  and  parking it and sitting inside and watching T V,  and  having your microwave|sv
+A|Right.|b
+A|Yes.|b
+A|Exactly.|aa
+B|It's not  camping.|sv
+A|I mean, we had to make the fires and dig latrines and everything.|sd
+B|Right,|aa
+B|right.|aa
+B|I mean that is it|sv
+A|You have to get poison ivy and all that good stuff,  to  really be camping|sv
+B|Right.|b
+B|Oh.|b
+A|Yeah.|b
+A|Well do you, you, you say you haven't been in years?|qy
+B|No,|nn
+B|I haven't.|sd
+B|I'm, um, I'm a struggling single mom.|sd
+A|Oh, gosh, bless your heart.|ba
+B|and, uh,|%
+B|thank you.|ft
+B|Um, it's, you know,|%
+B|time is precious,|sv
+B|money's precious.|sv
+A|Yes.|b
+B|Um, and it, it,|%
+B|I think I haven't been able to do it,|sd
+B|and, you know, what, that was one of the things I really thought I'd like to do with my children,  you know,  again.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+B|And I'm a little bit fearful of trying that just women.|sd
+A|I don't blame you.|ba
+B|You know?|qy
+A|I don't blame you at all.|ba
+B|I hope,|sd
+A|Years ago it would have been fine|sv
+A|but,|%
+B|Yes,|aa
+B|I, I really now,|%
+B|I, I have gone on one little vacation, just the girls and I.|sd
+B|We drove down to Port Aransas,  and  rented a little efficiency, you know,  and,  and had a marvelous like two nights,|sd
+A|Oh.|b
+A|Yeah.|b
+A|Yeah.|b
+B|and  that was great.|sd
+B|And even at that, it, it was like the first time that I ventured,  you  know, out of the city by myself.|sd
+A|Uh-huh.|b
+B|And, and, you know, I, I stayed in a nice place.|sd
+B|But it's still, it's real different not to have another adult with you.|sv
+A|Yes.|aa
+A|I|aa
+B|You know.|b
+A|I can  imagine.|ba
+B|I'm just a chicken.|sv
+B|I know lots of women would do it all the time.|sd
+A|No|ar
+A|I don't blame you, not nowadays.|ba
+B|I haven't quite adjusted, you know?|sd
+A|Yeah.|b
+A|Now are you with T I down there?|qy
+B|Well, I, I was with T I until January.|sd
+B|I, uh, I left T I in January hoping to strike out and find a job where I could make some money.|sd
+A|Good.|ba
+B|So, well it's, It was a good plan but I haven't yet|ng
+A|Have you?|qy
+A|Okay.|bk
+B|I got into sales,|sd
+B|and,  I'm  selling, uh, telephone systems.|sd
+A|Oh.|b
+A|Oh, that's neat.|ba
+B|And it's, it's fun|sd
+B|and it's interesting,|sd
+B|but it's also, um, pretty challenging,|sd
+B|and I haven't, I haven't started making money yet.|sd
+A|Um. It's hard isn't it?|qy
+B|So, yeah,|ny
+B|it's, it's hard|sd
+A|Now, how old are your girls?|qw
+B|Eleven and fourteen.|sd
+A|Oh, goodness.|ba
+B|Yeah.|b
+B|So I'm old|sv
+A|No,|ar
+A|you're not old|sv
+A|Who is You're not old at all.|sv
+B|Well, excuse me just second.|oo_co_cc
+A|Sure.|aa
+B|speaks to Honey, I'll be|t3
+B|yeah,|%
+B|go ahead.|ad
+B|voice, There's someone at the door.|sd
+A|Oh, okay.|b
+A|Do you need to go?|qy
+B|Well, um, I'm going to listen.|arp_nd
+B|We always check and see if we should answer the door,  at  night.|sd
+A|Yeah.|b
+A|That's very smart.|ba
+B|Yeah|b
+B|so, well, I've enjoyed this.|sd
+A|Yeah,|b
+A|me too.|sd
+B|And, uh,|%
+A|And good luck.|ba
+A|How many have you made so far, calls?|qw
+B|I, I haven't made any.|sd
+B|I've been just a recipient|sd
+A|Oh, have you?|bh
+A|They're all,|%
+A|this is only about my second one I've ever made.|sd
+A|I've been a recipient on the others.|sd
+A|How many have you had so far, do you know?|qw
+B|I think I've had about four.|sd
+A|Four,|b^m
+A|that's good.|ba
+B|yeah.|b
+A|Very good.|ba
+B|That's four each.|sd
+B|Well, you know, when I had to|%
+B|this is my, my Gemini nature, you know,|sv
+B|it's like what are you interested in,|sd
+A|Yes.|b
+B|and  it's like virtually anything.|sd
+B|I'll talk about anything to anybody|sd
+A|Yeah.|b
+A|I don't,|sd
+A|yeah,|%
+A|you bet,|ba
+A|you bet.|ba
+B|And it's, it's been real interesting, the different personalities That I run across.|sd
+A|I know.|aa
+A|Yes,|aa
+A|I always try to find out where they're from,  you  know,|sd
+B|Exactly.|aa
+A|cause, because it is neat.|sv
+B|Uh-huh.|b
+A|It really is.|sv
+B|Uh-huh.|b
+A|Well then, I guess I'll let you go so you can go get the door|fc
+A|and,|%
+B|Well, thank you.|fc
+B|And, um, I enjoyed talking with you.|fc
+A|You, me too.|fc
+B|You have a good time camping,|fc
+B|when you go next time,  think  of me|fc
+A|Thanks.|fc
+A|Okay.|fc
+A|Thank you.|fc
+B|All right.|fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc

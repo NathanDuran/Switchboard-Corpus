@@ -1,0 +1,121 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|I'll let you start first, okay?|qy
+B|Okay.|na
+B|We, um, I'm presently living in a house, uh,|sd
+B|first time, uh,|sd
+B|we had the house built|sd
+B|and so this is our, our fifth year in it I guess,|sd
+B|and, uh, um, it was a real excitement to, uh, to go out and select the house and have one made and built|sd
+B|and like you wanted it, we were the fourth to build out of three hundred and forty houses.|sd
+B|And, um, as we did with probably ninety-five percent of the people here in Dallas-Fort Worth we bought a Fox and Jacobs home,|sd
+B|and they're good for about five years or four years|sd
+B|and after that they start falling apart.|sd
+B|So, I would, uh, not recommend F and J house for my dog to live in, uh, because they're overpriced, uh,|sd
+B|but they're a cheap house.|sd
+B|If you can't afford something good, you know,|sd
+B|they're good for that,|sv
+B|and, um, you can call it a home because it's a place to go home and keep the rain off your head,|sd
+B|but as far as the costs for what your getting, uh, the longevity of the house is not, uh, is not worth it.|sv
+B|How about in your case?|qo
+A|Well, in my case my husband is not a carpenter,|sd
+A|but, in fact, he's in electronics,|sd
+A|but he knew the only way we'd ever have a new home is if he would build it.|sd
+A|So it took him about two and a half years,|sd
+A|but, uh, he built us a house,|sd
+A|it's, uh,|%
+A|we have thirty-two hundred square feet,|sd
+A|and it's a brick house,|sd
+A|and price-wise, it was great because he did it all himself, you know,|sd
+A|so that way he could, we could kind of control, in, control it,|sd
+B|Uh-huh.|b
+A|and, uh, we live in kind of a small town,|sd
+B|Uh-huh.|b
+A|and I mean it's nothing fancy, you know,|sd
+A|it's, it's a house,|sd
+A|it's nice,|sv
+A|and it's real pretty|sv
+A|and we're all comfortable in it.|sd
+B|Well, that's great,|ba
+B|that's great,|ba
+B|that's, uh,|%
+B|I've heard,|sd
+B|I have another gentleman, friend of mine, who, uh, who had a house built|sd
+B|as a matter of fact another guy is building one now,|sd
+B|he's been doing it for three years|sd
+B|and the city's a little upset with him,|sd
+B|but I understand you save a lot of money off, uh, by doing that,|sd
+B|and, uh,|%
+A|Oh, you can because that way your not having to pay the middle men and everybody else.|sd
+B|Nothing wrong with that,|sv
+A|You know.|%
+B|uh, I'll vouch for that.|sd
+B|Um,|%
+A|But, uh, of course, my husband did everything except|sd
+A|my brother's a trim carpenter,|sd
+A|and he came in, you know, and did the inside for us,|sd
+A|and that helped.|sd
+B|That was a big savings.|bf
+A|And, uh,|%
+A|yes,|aa
+A|and, uh, we had to hire, of course, the plumbing and the brick and everything else, nothing, you know,|sd
+B|Well, that's great.|ba
+B|uh, have you been in it long?|qy
+B|Oh, really,|b
+B|well, have you any plans to, uh, maybe, uh, expand or move onward?|qy
+A|no,|nn
+A|we're,|%
+A|well, uh, our kids are kind of still small now,|sd
+A|and we had thought before maybe a lot older we don't need such a large house that we'll sell it,|sd
+A|but he will not build a second one himself. Because he says age-wise he'll never be able to handle that again|sd
+B|I see,|b
+B|well,|%
+B|First one is always a bear.|sv
+A|Yes,|aa
+A|yes.|aa
+B|We're having a, an architect friend of mine design a house for us|sd
+B|and that can basically be, be put on any lot, in any state, any you know,|sd
+B|so that's kind of, we just got with him and told him what all we wanted,|sd
+A|Oh.|b
+A|Uh-huh.|b
+B|and he's charging us about a buck a square foot to design it|sd
+B|and he's certified, and registered|sd
+B|so at least we know we're, it's not going to fall in or something if it's built.|sd
+A|Yeah,|b
+A|oh.|b
+B|But, uh, I have heard that your approach is, is right,|sd
+B|you can actually go out and sub it, if, even if you don't want to get hands on,|sd
+A|Uh-huh.|b
+B|you can even just sub it out to concrete and those kind of things|sd
+B|and, and that's kind of the plan I have|sd
+B|so, I'm, uh,|%
+A|Yeah.|b
+B|everyone I talk to, uh, I file in my little book and do other things with it .|sd
+B|That's great,|^q
+B|that's great.|^q
+A|But, uh, like I said otherwise, you know, the expense,|sd
+A|but, you know, we could not have one as large as we have if, you know, we hadn't did it ourselves.|sd
+B|Sure,|b
+B|I can imagine.|ba
+A|Yeah,|b
+A|I mean it's not an Eldorado house or anything like that,|sd
+A|but, you know, it's ours.|sd
+B|If your happy with it, that's all that counts.|sv
+A|That's right.|aa
+A|That's right.|aa
+B|That's all,|sv
+B|you only have to, uh, satisfy yourself and no one else.|sv
+A|apparently the appraisers likes it because our taxes sure is high|sv
+B|Oh, that's, uh, that's, uh, an encouraging sign if you ever want to resell, I guess.|sv
+A|Isn't it?|qy
+A|It really is|sv
+A|because I, I'm always shocked at about, you know, what they have it appraised at,|sd
+A|I think, oh my goodness.|sd
+B|Well that's great.|ba
+B|Well, yeah,|%
+B|I guess that about does it.|sv
+A|Okay,|aa
+A|and it was nice talking to you.|fc
+B|Nice talking with you, too.|fc
+A|Okay,|fc
+A|bye-bye.|fc
+B|Bye.|fc

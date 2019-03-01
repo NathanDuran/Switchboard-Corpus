@@ -1,0 +1,128 @@
+A|Are we tonight?|qy
+B|Yeah.|ny
+B|Sure.|sd
+A|Okay,|b
+A|well let me go ahead and press one|oo_co_cc
+A|Okay, Leslie,|b
+A|I'd like to find out a little bit about your hobbies.|sd
+A|What do you like to do in your spare time?|qw
+B|Well, and when I have my spare time I do enjoy,|sd
+A|Actually, it's a cherished commodity now days, huh.|sv
+B|That's right.|aa
+B|Uh, I do enjoy, uh, sewing,|sd
+B|I hand, uh,|%
+B|I do some needlepoint.|sd
+A|Oh, great.|ba
+B|And I, I've been doing a a picture for my father-in-law,|sd
+B|but if I, uh, ever get enough spare time, he might see it one day.|sd
+A|Uh-huh.|b
+B|And some other things I like to do are, is music and, uh, also reading.|sd
+A|What kind of music?|qw
+B|Well I enjoy singing.|sd
+A|Oh, okay.|bk
+B|Yeah.|b
+A|Well great.|ba
+A|I enjoy music too|sd
+A|and I, uh,|%
+A|one thing that I like to do, uh, is sit down and play the piano.|sd
+A|I can't play that well,|sd
+B|Um.|b
+A|I enjoy that.|sd
+B|Uh-huh.|b
+A|Uh, a couple of hobbies that I also have is, uh,|sd
+A|I really enjoy bike riding|sd
+A|and the biggest hobbies I have right now are my kids and whatever they are involved in.|sd
+B|Yes.|b
+A|Like my, uh, oldest boy is involved in soccer|sd
+A|so we go out and play kick the soccer ball around or play throw the football|sd
+A|and, uh, we also like to, uh, ride bicycles.|sd
+A|So we're riding bicycles|sd
+A|and so a lot of the hobbies that I have right now are centered around my, my children and also things that my wife and I like to do together.|sd
+B|Uh-huh.|b
+A|And uh, so personally a lot of the hobbies I had when I was growing up and, uh, going to college and so forth are having to change.|sd
+B|Uh-huh.|b
+A|I really enjoyed, uh, mountain climbing.|sd
+A|I really enjoyed skiing. Uh, and a lot of outdoor activities.|sd
+A|Uh there's not a whole lot of mountains here in Texas that I can go skiing with that right now,|sd
+B|That's right.|aa
+A|but hopefully I will be able to get back to the slopes some day|sd
+A|but,|%
+B|Oh yeah.|b
+B|I have not had the opportunity to go skiing|sd
+B|but, uh, I grew up in Arizona which has some mountains around it|sd
+B|but uh, never did get out and ski|sd
+A|Uh-huh.|b
+A|You didn't?|qy
+B|No,|nn
+B|I never did.|sd
+B|Didn't have the, uh, I guess I didn't have the person out there saying hey let me take you skiing|sd
+B|and of course, I was at that you know stage of my life where I had to be taken to places.|sd
+B|I couldn't go by myself.|sd
+A|Yeah,|aa
+A|that's true.|aa
+A|That's true.|aa
+B|And then of course, once I got to the age where I could have done it myself, I had other interests I guess.|sd
+B|So|%
+A|Oh yeah.|b
+A|I guess that for me it was very helpful.|sd
+A|My two oldest brothers were very interested in skiing.|sd
+B|Oh yeah.|b
+A|And so we, we went quite often|sd
+A|and, uh, in fact my brother still does a lot of skiing.|sd
+A|When I lived around in that area my brother would fly in from Chicago|sd
+A|and we would go skiing and enjoy that.|sd
+B|Uh-huh.|b
+A|So, but, uh, luckily it's kind of unusual because hobbies, it's a, it's a nice thing to have|sd
+A|and it's good to fall back on those hobbies when you have time to. Like you mentioned|sd
+A|and I am finding out, a lot of the spare time that I had isn't there.|sd
+B|That's right.|aa
+A|It's, uh, it's, uh, taken up by activities with, uh, work, with family, with, uh, civic and Church responsibilities for me.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|So,|%
+B|Yeah,|b
+B|I, I find if I, I make I have to make myself realize that it is important to get out there and you know just even to go for a walk is good recreation for me|sd
+A|Oh yeah.|b
+A|Oh yeah.|b
+A|Oh yeah|b
+B|Yeah.|b
+B|And my youngest daughter is going to be starting up soccer|sd
+B|so she's real excited about doing that.|sd
+A|Well, great.|ba
+B|We will be busy with that again.|sd
+A|What, again.|br
+A|So you have participated with that in the past?|qy
+B|Pardon me?|br
+A|Have you participated in that  in the past?|qy
+B|Well, I  did with my older daughter|na
+A|Uh-huh.|b
+B|and she was in it for a few years,|sd
+B|but she has got so many interests herself that, we had to start eliminating|sd
+B|and well the first one to go.|sd
+B|She still likes her piano|sd
+A|Uh-huh.|b
+B|and she is in band.|sd
+B|So, she's got lots of hobbies or, uh, activities going on.|sd
+A|It sounds like her life is full too.|sv
+B|Yeah.|aa
+A|I imagine your life is full taking them around all over the place.|sv
+B|Very much.|aa
+B|That's right|aa
+B|That's right.|aa
+A|All right.|b
+A|All right.|b
+A|Well, Leslie, it's been very nice talking to you.|fc
+A|Is there anything else that you would like to mention tonight|fc
+B|Uh.|fc
+A|or,|fc
+B|No,|fc
+B|I think we covered it pretty good.|fc
+A|Oh, okay.|fc
+A|Great.|fc
+B|Thank you for calling.|fc
+A|Well thank you|fc
+A|and you have a nice evening.|fc
+B|You too.|fc
+B|Bye,|fc
+B|bye.|fc
+A|Bye now.|fc

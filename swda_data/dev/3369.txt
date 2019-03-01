@@ -1,0 +1,111 @@
+A|Well, have you seen a new movie lately?|qy
+B|Well, uh, I am a student|sd
+B|and I have, uh, been actually watching more movies on video, than being able to go out to see, uh, movies at the store, or at the theater.|sd
+A|Uh-huh.|b
+B|Uh, I I want to see the FISHER KING and, and, uh, catch ROBIN HOOD.|sd
+A|Okay.|b
+A|I, uh, I haven't seen either one of those.|sd
+A|Uh, what, what are some of the shows that you have been able to rent though?|qw
+B|Uh, let's see.|^h
+B|Uh, I'm trying to just think of the ones that have come on.|sd
+B|Uh, WHITE PALACE which I thought was over rated, over hyped, um, recently.|sd
+B|Well, you're catching me at, it, uh, uh, at mind's end here.|sd
+B|What have you seen recently?|qw
+A|Well, maybe you, uh, you have seen DANCES WITH WOLVES.|qy^d
+B|Yes.|ny
+A|Okay.|b
+B|Yes.|b
+A|What did you think of that one?|qo
+B|Enjoyed that quite a bit.|sd
+B|Um, I thought the, uh, the the cinematography was excellent.|sd
+A|Uh-huh.|b
+B|Uh, the story was,|sd
+B|uh, though it tended to be a little one sided uh, it was good.|sd
+A|Yeah.|b
+B|Uh, it was, it was believable.|sd
+A|I, uh, I just moved down, in fact, from South Dakota in, in June,|sd
+A|and that's when the movie was filmed,|sd
+B|Uh-huh.|b
+A|and, uh, we, when, when the movie came out, we went,|sd
+A|uh, my dad lives in the state capital, which is Pierre|sd
+B|Uh-huh.|b
+A|and it was filmed right outside of Pierre.|sd
+A|In fact, the buffalo, the scene, the big buffalo herd scene, that was, that was a live scene.|sd
+B|Wow.|ba
+A|Uh, there's a guy that has got a, a buffalo farm,|sd
+A|and he has got over ten thousand head of buffalo and, and, uh, we, my dad has got a little plane, we flew over it all looked at the buffalo,|sd
+A|it was really neat.|sd
+A|But, uh, so we are watching the, the movie in the movie theater in Pierre|sd
+B|Uh-huh.|b
+A|and, uh, just every time I would start to get into the movie, and it was getting good someone in the crowd would yell, hey, there's John Red Eagle, you know|sd
+B|Uh-huh.|b
+A|or, you know, they'd start recognizing people.|sd
+B|They knew, they knew the extras or the,|bf
+A|Yeah.|aa
+A|So, I kind of, I think I enjoyed it more when I, when I watched it on video cassette than I did, uh, in the movie theater because my attention would get diverted every time they'd say that.|sd
+A|I'd go now, now which one could that be you know,|sd
+B|Uh-huh.|b
+A|and I'd, I'd start trying to focus in on people instead of, of picking up the overall,|sd
+B|Scope.|^2
+A|Right.|aa
+A|Exactly.|aa
+B|Uh-huh.|b
+A|So, but I, I thought it was a good film.|sd
+A|But you are right,|sv
+A|I think, I think it was very one sided.|sv
+B|It, it was,|sv
+B|but it's a side that hasn't been told. Uh, as far as, you know, telling it from, you know, the Indians as the good guys and the, the white men as the bad guys.|sv
+B|I, I really thought about, uh, all the, the westerns that we have seen for years and years,|sd
+A|Sure.|b
+B|and it's just, shoot the Indians,|sd
+B|and they are always the savages.|sd
+A|Right.|b
+B|So,|%
+A|In fact, I was watching WILD WILD WEST last night|sd
+A|and, it was a similar, uh, situation with the Iroquois Indians attacking a, an army fort.|sd
+B|Uh-huh.|b
+A|Um, but it was an interesting movie.|sd
+A|Uh, have you seen PRETTY WOMAN?|qy
+B|Yes.|ny
+A|Now I thought that was a good show.|sd
+B|Yeah.|aa
+B|That was, that was a good movie.|sv
+B|Um, it was just kind of a get away movie.|sv
+A|Yeah.|b
+B|Kind of,|%
+A|It didn't, uh, it didn't have any real social bearing|sv
+A|or, uh, and it wasn't really a comedy,|sv
+A|but it was an enjoyable movie.|sd
+A|It was, it was kind of like the STAR WARS series, you know, just something a little different,  yet  believable.|sv
+B|Uh-huh.|b
+B|Right.|b
+B|Yes.|aa
+B|You're bringing it,|sd
+B|I don't know,|h
+B|I had a, I sure did have a mind lock about the movies I've seen.|sd
+B|But, yeah,|%
+B|I've seen PRETTY WOMAN and DANCES WITH WOLVES,|sd
+B|and, uh,|%
+A|Uh, now are you, are you going to see, or do you, are you much of a STAR TREK fan,|qy
+A|are you going to see this next one that's coming out?|qy
+B|Oh, definitely.|na
+A|Have you seen the rest?|qy
+B|Yes.|ny
+A|I think I've missed one.|sd
+A|I'm not sure,|h
+A|but I think I've missed one.|sd
+B|I actually went to the STAR TREK twenty fifth anniversary marathon that happened about a month ago,|sd
+B|and they showed all five in a row.|sd
+A|Was that here in Dallas?|qy
+B|Oh, they had it everywhere,|sd
+B|uh, every major city had one theater that did it|sd
+B|and,|%
+A|Okay.|b
+A|Because we had one here in Dallas.|sd
+B|Right,|aa
+B|and they did it in Houston,|sd
+B|they did it, well, they did it everywhere.|sd
+B|And it was, it was really good to see all the movies and how the story developed,|sd
+B|and the thing that I didn't realize is that if you watch the movies in a row, uh, time wise they happen one after another and just no, no time between them,|sd
+A|Uh-huh.|b
+B|but you can watch the characters develop,|sv

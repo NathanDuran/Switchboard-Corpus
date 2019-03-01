@@ -1,0 +1,48 @@
+A|How would you go about organizing a family reunion?|qw
+B|Well,|%
+B|for,|%
+B|I grew up in the deep south like south Alabama.|sd
+B|So whenever I think of family reunions,|%
+B|my family, like, got together almost every week.|sd
+A|Oh, gee.|ba
+B|And there would be like thirty people.|sd
+B|So people talk about, you know, big family reunions|sd
+B|and I think, like|%
+B|I have a friend who just went to, like, Wyoming to some big ranch, you know, where like there were four hundred people for their family reunion.|sd
+A|Oh, my.|ba
+B|And I,|%
+B|so I mean, how I would go about doing it is I would just call all my relatives.|sd
+A|Uh-huh.|b
+B|Because I, since I came from,|%
+B|my father has, uh, five sisters and two brothers|sd
+B|and my mother has four brothers and two sisters.|sd
+B|So I|%
+B|both of my parents had big families,|sd
+B|and we always we always got together, just always.|sd
+B|Now it's different because I live here|sd
+B|and I,|%
+B|you know, when I go home I try to see the families, as much of the family as I can|sd
+B|but it's real different.|%
+A|Yes.|aa
+B|And I grew up in a real not, I think not normal setting.|sd
+A|With all of you living so close together.|bf
+B|Right.|aa
+B|I mean Sunday dinner was at my grandmother's|sd
+B|and, you know, like I said there would be thirty, you know, thirty people,|sd
+B|and everyone would just bring things|sd
+B|and my grandmother would cook and cook and cook.|sd
+A|Oh.|b
+B|And|%
+A|Well, I come from a very small family.|sd
+A|And we planned a family reunion this spring. Uh, where we are from Texas|sd
+A|and my family is from Ohio|sd
+A|and we met in Florida.|sd
+B|Uh-huh.|b
+A|So the seven of us went on a cruise and then went to Disney together.|sd
+A|So that's all the family,|sd
+A|so planning our family reunion was very easy you know .|sd
+B|Yeah,|b
+B|I guess so.|aap_am
+B|It really sounds like it was fun.|ba
+A|Yeah,|aa
+A|well, we had a wonderful|sd

@@ -1,0 +1,188 @@
+B|All right,|b
+B|well do you play any musical instruments or,|qy
+A|No,|nn
+A|I don't play any.|sd
+A|I used to.|sd
+B|Oh well,|b
+A|I think everybody took piano lessons|sv
+A|so,|%
+B|Everybody,|sv
+B|sure.|aa
+B|I, I started when I was in, uh, third grade,|sd
+B|and I've, I still play the piano as of today.|sd
+A|Do you?|qy
+B|Yes,|ny
+B|I do.|sd
+A|I started,|sd
+A|I think I was in the fifth grade|sd
+A|and I played it for maybe three months|sd
+B|But, then, again, I was also in, uh, the marching band.|sd
+B|I played the drums,|sd
+B|I played the clarinet,|sd
+B|I played the trumpet.|sd
+A|Wow|ba
+B|Uh, you know, whatever|sd
+B|and so I, I still sing,|sd
+B|and I sing in the choir today|sd
+B|so,|%
+A|All right|b
+B|I I enjoy the music,|sd
+B|it gives me an out.|sd
+A|Yeah.|b
+B|It always sounds like,|sv
+B|for my playing the piano when I was depressed and didn't have anything else to do and there was no one to play with I could always go play with the piano, you know.|sd
+A|True|aa
+B|So, how long did you play?|qw
+A|Only for about three months.|sd
+B|Three months.|b^m
+A|Yeah,|b
+A|me and my brother both took the classes|sd
+A|and we got pretty bored quick|sd
+B|I was going to say, you got as far as the, uh, chop sticks, huh.|sd
+A|Um, well, I could play, uh, the wood chuck song.|sd
+B|Oh, the wood chuck song|b^m
+A|And I still can to this date.|sd
+B|And your mother's saying, and although, the money that we spent for those piano lessons this is all we got was the wood chuck song|sd
+A|Yeah.|b
+A|Yep,|b
+A|they went out and bought us a piano|sd
+A|and for three months|sd
+B|Oh, bless your heart.|ba
+B|Did you ever, did you ever just bang on it or do anything with it at all.|qy
+A|Oh, yeah,|ny
+A|any time I got bored|sd
+B|Oh, okay,|bk
+B|but I mean, can you play anything on it, other than wood chuck song?|qy
+A|No.|nn
+B|No.|b^m
+A|And Jaws,|sd
+A|but I think everybody can.|sv
+B|Okay.|bk
+B|I I, I can still read music if I'm lucky|sd
+B|because I,|%
+B|if I work real hard I can still barely read the music,|sd
+B|but, see, I played the piano from the third grade all the way through high school,|sd
+A|Yeah.|b
+B|so|%
+A|Yeah.|b
+B|I played uh, concertos and other stuff|sd
+B|but,|%
+B|I got to the point where I wasn't really reading music, I was memorizing music,|sd
+B|so because of that, I can't read music as well as I used to,|sd
+B|but anyway,|%
+A|Yeah.|b
+B|but I enjoy it, though.|sd
+B|I find it to be a good out|sd
+B|and I still enjoy the marching band|sd
+B|and I still enjoy, uh, singing in the choir|sd
+B|so,|%
+A|Do you sing at choir at your church?|qy
+B|Yes,|ny
+B|I do.|sd
+A|Yeah.|b
+B|Yes,|ny
+B|I do.|sd
+B|That's,|%
+B|in fact, that's about the only musical thing that I still do is sing in the choir.|sd
+A|Yeah.|b
+A|I tried out for choir when I was, think, in the seventh grade|sd
+A|and they wouldn't let me in.|sd
+A|So, I never tried again.|sd
+B|Well, I sing in the choir,|sd
+B|I do know if they want me to or not,|sd
+B|but at least I do sing in it|sd
+A|Yeah,|b
+B|That's pretty good.|sv
+B|Well,|b
+A|I never really learned the music or anything.|sd
+A|I never learned,|sd
+A|I got right to where I was figuring out where all the keys were on the piano|sd
+A|and that's about when I quit.|sd
+B|I was at,|%
+B|I actually went to the University of Texas at one time thinking that I would, be a musician.|sd
+B|I wanted to be a high school band director.|sd
+A|Yeah.|b
+B|But after one semester of that, I said no, no,|sd
+B|this isn't for me.|^q
+B|enjoy it, but not for profession, no.|sd
+A|Yeah.|b
+B|And besides that I kind of learned I wasn't really that good|sd
+B|I gave up.|sd
+A|Yeah.|b
+B|Course, my mom thought I was,|sd
+B|but, uh, you know,|%
+A|Of course,|aa
+A|parents always do.|sv
+B|Oh, yeah,|b
+B|so,|%
+A|They're nice that way.|sv
+B|Yes.|aa
+B|Well, what else can we uh, talk about,|qy
+B|uh,|%
+A|Uh, well, I don't,|%
+A|so you listen to kind of church music, gospel?|qy^d
+B|No,|nn
+B|no,|nn
+B|I, I listen to K V I L.|sd
+A|Oh, yeah?|bh
+B|Yeah.|ny
+A|Yeah.|b^m
+B|So I listen to the radio,|sd
+B|I like the pop music.|sd
+A|Oh, yeah.|b
+B|I like people like Neil Diamond and all, all the folks that you're not supposed to like,|sd
+B|but that's who I go for|sd
+A|Oh, yeah,|b
+A|the jeezer music as I call it.|bf
+B|Oh, the jeezer music.|b^m
+A|Yeah.|aa
+B|Oh, okay,|b
+B|well,|b
+A|My boss listens to that.|sd
+A|We listen to ninety-seven point nine|sd
+A|and that's his station, so I call it the jeezer music.|sd
+B|Okay,|b
+B|now what kind of music do you listen to?|qw
+A|Well, I listen to like ninety-seven point one, you know, more,|sd
+B|What what is that?|qw
+A|It's more, uh,|%
+A|I don't know how to explain it,|^h
+A|kind of pop, you know, rock.|sd
+B|Rock.|b^m
+A|Yeah.|aa
+B|Hard rock?|bf
+A|Well, not hard|ar
+B|Not hard rock.|qy^d
+A|Just kind of,|%
+B|Not like the eagle.|qy^d
+A|Huh?|br
+B|Is that the eagle?|qy
+A|Yeah.|ny
+B|Okay,|bk
+B|I know, I know what the eagle is.|sd
+A|It's not too hard,|sv
+A|it's,|%
+B|That's not too hard.|aa
+A|You know.|%
+A|But it's not enough to put you to sleep|sv
+B|True,|aa
+B|true.|aa
+A|Which some of the songs on K V I L can.|sv
+B|Well, course, see, I listen to K V I L for the contests.|sd
+B|I mean|%
+A|Oh, yeah,|b
+A|got the bumper sticker, too?|qy^d
+B|Oh, yes,|ny
+B|oh, yes.|ny
+B|You can't drive a car without bumper sticker|sd
+B|and you know they're going to call you up.|sd
+A|Someday.|^2
+B|Yeah|aa
+B|Well, listen, I've enjoyed talking.|fc
+B|I, I'm sure that the switchboard will probably give us that sign off message very shortly anyway.|fc
+A|Okay.|fc
+B|I appreciate it.|fc
+A|Okay.|fc
+B|Catch you later.|fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc

@@ -1,0 +1,185 @@
+A|Uh, so, Jack, what type of music do you like?|qo
+B|Well, I like, uh, classical, and, uh, sort of, uh, popular rock type music. Uh,|sd
+A|Uh-huh.|b
+A|Yeah.|b
+A|I enjoy classical too.|sd
+A|I never really had listened to it till I, I got married,|sd
+B|Oh.|b
+A|and, and my wife, uh, enjoys it.|sd
+B|Uh-huh.|b
+A|So I had never listened to it till then,|sd
+A|but now I listen to it well, whenever she does.|sd
+A|And even every once in a while I put it on myself, you know.|sd
+B|Yep.|b
+A|Um,|%
+B|Yeah,|b
+B|I, I used to play the piano,|sd
+B|and I like, uh, Bach and, Um, sort of the baroque music, Handel and, uh, Vivaldi and those kinds of,|sd
+A|Oh, yeah.|b
+A|Uh-huh.|b
+A|Oh, yeah,|b
+A|see those, those are really nice.|sv
+A|I like those.|sd
+B|Yep,|b
+B|yep.|b
+A|Though I, I couldn't tell you anything about them other than when my wife says, This is Bach, you know.|sd
+B|Oh.|b
+B|Yep,|b
+B|yep.|b
+B|Well, I, you know, I don't, I don't know all that much myself,|sd
+B|I just, I just know, when I hear it that I like it.|sd
+A|Uh-huh.|b
+A|Yeah,|b
+A|that you|%
+A|what you like.|%
+A|How about popular music?|qo
+B|Yeah.|^h
+B|Uh, whatsever's on the radio is, is usually okay with me,|sd
+B|but, um, sometimes I have a hard time you know, hearing the words clearly if I'm in the car and there's noise and stuff|sd
+A|Um. Yeah.|b
+B|so,|%
+B|It's mostly just the tunes.|sd
+A|Yeah,|b
+A|I'm pretty much the same way.|sd
+A|You know, people always say, Wow! the meanings of those words.|sv
+B|Yeah,|aa
+B|I know.|aa
+A|And I'm always, meaning?|sd
+A|There's well, you know,|%
+A|I just thought they just all sort of rhymed, you know.|sd
+B|I know,|ba
+B|I know.|ba
+B|About the only thing I can remember after the song is over is the refrain.|sd
+A|Right,|b
+A|yeah.|b
+A|That, whenever they say it two or three times.|sv
+B|Yeah,|aa
+B|yeah.|aa
+A|I'm the same way|sd
+A|Yeah.|%
+A|It's funny, uh, depending on where you live,|sv
+A|I, I, I commute back and forth between Baltimore and a rural town called Salisbury, which is two and a half hours away,|sd
+B|Uh-huh.|b
+A|and the difference in the radio with popular music, is totally different, you know,|sd
+B|Uh-huh.|b
+A|when,|%
+B|Oh, really?|bh
+A|Yeah,|ny
+A|because Baltimore will play more, uh, what might be considered a little bit more progressive?|sd
+B|Uh-huh.|b
+A|And as soon as you go down to Salisbury, this town that's, you know, uh, two and a half hours away in the suburbs or whatever, uh, in a real rural uh, Maryland, they, it turns into basically classic rock.|sd
+B|Yes?|bh
+B|Yeah?|bh
+A|And they don't, you know.|%
+B|Oldies or what?|qy
+A|Yeah,|ny
+A|mostly oldies.|sd
+B|Yeah.|b
+A|But classic rock, you know, with,|%
+A|if, you know, like when the Doors movie came out, you know, Doors was really on the radio there, you know. Where, you know, you'd hear one or two of their more famous songs, maybe top forty in Baltimore,|sd
+B|Uh-huh.|b
+A|but in Salisbury, you that's all you would hear was, This is the Doors!, you know.|sd
+B|Oh, yeah,|b
+B|yeah.|b
+A|So, it was sort of a funny thing.|sd
+B|Yeah,|b
+B|yeah.|b
+B|There's a big variation among the country,|sv
+B|I mean, if you, go down south, country music and,|sv
+A|Yes,|aa
+A|that's,|%
+A|I'm starting to realize that.|sd
+A|I never really thought about that much,|sd
+A|but there is.|aa
+B|Yeah,|b
+B|yeah.|b
+A|Yeah,|b^m
+A|I never, I never, I didn't,|%
+B|So,|%
+A|I, I lived in Pittsburgh before Baltimore,|sd
+A|and I didn't, I never really noticed the difference when I moved to this area?|sd
+B|Uh-huh.|b
+A|I really didn't notice at all.|sd
+A|It just seemed the same.|sd
+B|Yeah.|b
+A|But when I went more rural, you know, that, it really changed.|sd
+B|Yeah.|b
+A|So,|%
+B|Yeah.|b
+B|Chicago has a lot of good stations, uh,|sd
+A|Oh, does it?|bh
+A|Yeah.|%
+B|Yes.|ny
+B|Uh, in fact they have, they have a continuous news station, which is nice if you're driving and you want to|sd
+A|Yeah.|b
+B|now, you don't have to wait till the hour mark.|sd
+B|It's, it's, it's sort of constant.|sd
+B|You just turn there,|sd
+A|Uh-huh.|b
+B|and, uh, you get the latest news and everything.|sd
+B|It's, uh, it's sort of like C N N, you know,|sd
+B|you turn on your T V|sd
+B|and it's on.|sd
+A|Right.|b
+A|Yeah.|b
+A|Boy, that would really be beneficial.|ba
+B|So, yeah.|b
+A|Because you never hear the, you never hear the news basically on the radio.|sv
+A|I never get it.|sd
+B|Yeah,|aa
+B|yeah.|aa
+A|You know, and if you don't, if you don't read the paper, you sort of fall behind if you're in, the car all the time.|sv
+B|Yep.|aa
+B|Yep,|aa
+B|yep.|aa
+A|Yeah,|b
+A|that's pretty good.|ba
+B|So,|%
+B|yeah,|%
+B|I like to listen to tapes, uh, of music or, or, um, stuff on a long trip.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|And, um, now you can even get books on tape, um.|sv
+A|Yeah,|aa
+A|yeah.|aa
+A|On fact, my, uh, my grandmother does that a lot, because she's blind,|sd
+B|Uh-huh.|b
+A|or she's losing her sight or whatever.|sd
+B|Yeah.|b
+A|But,|%
+A|yeah,|%
+A|that, of, in,|%
+A|I can imagine, you know, if you're driving cross country, you know, uh, listening to a story.|sd
+B|Uh-huh.|b
+A|lot of the classics are really, on tape.|sv
+B|Right.|b
+B|Yep,|aa
+B|yep.|aa
+A|Yeah.|b
+B|So, that's a lot of fun|ba
+B|but,|%
+A|Yeah,|b
+A|that's, that would be good.|ba
+B|Yep.|aa
+A|Well, we strayed a lot from music.|sv
+B|Yeah,|aa
+B|I guess so.|aa
+B|Well,|%
+A|But I, but I guess music comes into that whole aspect of listening. So as long you're listening.|sv
+B|Right.|b
+A|So,|%
+B|Right.|aa
+B|Yep.|aa
+A|But if you do, if you do have to go something, I guess we can just cut off.|fc
+B|Yep.|fc
+B|Okay.|fc
+A|Well, Jack, it was nice to talk to you.|fc
+B|Yep.|fc
+B|Nice talking to you, Tom.|fc
+A|and good luck,|fc
+A|and I hope you get some more calls and make some more calls.|fc
+B|All right.|fc
+B|Good.|fc
+A|Bye.|fc
+B|Thank you.|fc
+B|Bye, bye.|fc

@@ -1,0 +1,158 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|Uh, do you live in a home?|qy
+B|Yes.|ny
+A|Uh-huh.|b
+B|We, we, it's a house we bought, uh, about two and a half years ago now.|sd
+A|Oh, did you?|bh
+B|Uh-huh.|ny
+A|Uh-huh.|b^m
+B|First house.|sd
+A|We've lived in ours for about six years.|sd
+A|We had it built, actually.|sd
+B|Uh-huh.|b
+A|And, uh, uh, it's our first home, too.|sd
+B|Uh-huh.|b
+A|Yeah.|b
+B|So what do you think of, of owning a home as opposed to, to renting somebody else's?|qo
+A|Um, well before we built our home we were managing some apartments that we were living in,|sd
+B|Uh-huh.|b
+A|and, um, that was quite an experience|sd
+A|I, I much prefer having my own home and, and, uh, just the space and, and more privacy.|sd
+B|Uh-huh.|b
+A|Yeah.|b
+B|Do you have, is it a fairly large house?|qy
+A|Um, it's, uh, uh, it's like twenty-four fifty square feet.|sd
+B|Oh, that's pretty good size.|ba
+B|Yeah.|%
+A|It's a two story.|sd
+B|Uh-huh.|b
+A|Yeah.|b
+A|How about yours?|qo
+B|It's tiny.|sd
+A|Is it small?|qy
+B|It's not much bigger.|na
+B|Actually we had an apartment, two bedroom apartment that was about as big as this house is.|sd
+B|So.|%
+A|Oh, really.|bh
+B|Yeah,|ny
+B|it's, uh, it's only like eleven hundred square feet.|sd
+A|Oh, uh-huh.|b
+A|Do you, do you have children?|qy
+B|Just one.|sd
+A|Just one.|b^m
+B|Yeah.|b
+A|Oh.|bk
+B|But, it, it, uh, all the rooms are small, I mean,|sd
+B|but it ends up giving us three bedrooms, which we wanted. And, uh. Use an extra one for an office which is handy.|sd
+A|Oh, uh-huh.|b
+A|Yeah.|b
+B|I'd rather have, have more rooms and less space in each one I guess. Rather have lots of rooms and lots of space,|sd
+B|but, uh, that ends up costing me.|sd
+A|Oh yeah,|b
+A|yeah.|b
+A|Well, like, um, how does it compare to the ones in your neighborhood?|qw
+B|Well, they're, it's pretty typical, I mean, it's a very, very middle class neighborhood.|sd
+B|Uh, lots of, lots of young couples with, you know, oh,|sd
+B|I'm sure that virtually everybody in the neighborhood, that's their first homes|sd
+A|Oh, uh-huh.|b
+B|and, uh, lots of kids and stuff,|sd
+B|and, so it, it fits well, in the neighborhood.|sd
+B|It's, it's certainly not a real upscale neighborhood,|sd
+B|but on the other hand, it's clean and kind of suburban little bit more than I want.|sd
+A|Yeah.|b
+A|Yeah.|b
+B|Is, is yours also pretty  much in conformance with the neighborhood|qy
+A|Uh.|b
+A|Yeah,|ny
+A|it, it,  it, it does, it, it seems about, oh, probably average. Um.|sd
+B|or is it?|qrr
+B|Uh-huh.|b
+A|But our neighborhood has a, just a wide variety of, of, um, people,|sd
+A|and, you know, there's older people here, and, and, um, people that are our, our age,|sd
+A|we're in our thirties.|sd
+B|Uh-huh.|b
+A|And, um, there's a lot of kids, a lot of kids.|sd
+A|People across the street have eight.|sd
+B|Uh-huh,|b
+B|wow, eight kids?|bh
+A|Uh-huh.|ny
+B|Oh, my gosh.|ba
+A|Yeah,|b
+A|their home just burned down matter of fact, and, um, last summer,|sd
+B|Ooh.|b
+A|and they're just rebuilding|sd
+A|and, um, their house is going to be really big|sd
+A|It's.|%
+B|I'm sure, with eight,|aa
+B|gosh.|ba
+A|Yeah,|b
+A|they're building a lot bigger.|sd
+A|He's, uh, um, uh, oh, not an obstetrician, an, an orthopedic surgeon.|sd
+B|Uh-huh.|b
+A|And, um, so since the house did burn, they're, they're going,|sd
+A|it's quite different than it was before,|sd
+A|and it's it's a lot bigger.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|And, um, but ours is about,|sd
+A|it's, you know, it's a nice home,|sd
+A|it's definitely not one of the, the smaller ones,|sd
+A|and, um, it's not the biggest either.|sd
+A|But.|%
+B|Yeah,|b
+B|new ones, I mean, they, they tend to, to be real tiny, but that uh, especially in newer neighborhoods,|sv
+B|my, my brother just built a new house.|sd
+B|He lives in Wichita, Kansas,|sd
+B|and the, um, the neighborhood actually fought him on it,|sd
+B|because he, he was, um, the house was going to cost less to build than any other house in the neighborhood.|sd
+A|Oh.|b
+B|Now, that's because he was, he's doing a lot of it himself and, you know, for example, landscaping and, and lots of the other stuff,|sd
+A|Yeah.|b
+B|and his house actually ended up being nicer than lots in the neighborhood,|sd
+B|but but they were, they were pretty touchy on it.|sd
+A|Yeah.|b
+A|You.|%
+B|He was a little surprised.|sd
+A|You know, that's interesting|ba
+A|you say that, because we do have, we have those architectural codes here|sd
+B|Uh-huh.|b
+A|and when we, um, put out house in, um, they wanted us to have,|sd
+A|there was one,|%
+A|we have part siding on, on the two story part and then on the back,|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|and, they, there was one side where our chimney was,|sd
+A|and just the chimney was going to be brick,|sd
+A|and they wanted us to have more brick,|sd
+A|so we ended up having to go halfway up|sd
+B|Uh-huh.|b
+A|which, it does look nicer,|sd
+A|and, you know, we would have like to have had all brick,|sd
+A|but, of course at that point we couldn't afford it,|sd
+A|and, but, it's funny that you'd say that, because there were homes in here that didn't have any brick at all.|sd
+B|Right.|b
+A|So it's kind of like, they were.|sv
+B|Kind of depends on when they get in, you know.|sv
+A|Yeah,|aa
+A|yeah,|aa
+A|and, I, and so it was kind of like it's they,|%
+A|ours is the last street that they built on.|sd
+A|So the houses actually on our street are a little bit, they're kind of gone a little bit nicer.|sd
+B|Oh, they have,|%
+B|it's gotten,|%
+B|yeah.|%
+A|Yeah,|b^m
+A|I mean, just they, you know,|%
+B|Yeah,|b
+B|oh.|b
+A|it's like the second phase|sd
+B|Uh-huh.|b
+A|and, and so they've kind of changed the, the codes a little bit,|sd
+A|and so that's kind of why, I guess, they stuck us with more brick when there were other homes that didn't have any.|sd
+B|Um.|b
+B|Well, see, my sister kind of got in the opposite end of that, because they, they moved into a neighborhood and bought a, a real nice stone house down in South Austin.|sd
+A|Oh, uh-huh.|b
+B|And, uh, and, the, what the builder apparently plans to do, is they, they do phase one,|sd
+B|and they kind of give it a very upscale and very tightly controlled, uh, codes and, and, and stuff,|sd
+B|and then they come back in,|sd
+B|and, and then they sell,|sd

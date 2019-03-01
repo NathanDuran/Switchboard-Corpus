@@ -1,0 +1,163 @@
+A|This is Archie.|fp
+B|Hi, Archie.|fp
+B|I'm Sharon.|fp
+A|Have you seen DANCING WITH WOLVES?|qy
+B|Yeah.|ny
+B|I've seen that,|sd
+B|that's, uh, that was a really good movie.|sv
+B|Probably one of the best things about it was the scenery|sv
+B|and, uh, I thought the story was pretty good, too.|sv
+B|I, I think Kevin Costner did a really good job with it.|sv
+A|Have you ever lived in that part of the country?|qy
+B|No.|nn
+B|I haven't.|sd
+A|Have you ever visited it?|qy
+B|Um, I've visited the Wyoming area.|no
+B|I'm not sure exactly where DANCES WITH WOLVES was filmed.|sd
+A|I think it was the black hills of South Dakota.|sv
+B|Could be.|aap_am
+B|I, I haven't been to South Dakota.|sd
+B|Have, have you been up to that?|qy
+A|Well, I lived in Omaha for five, winters,|no
+B|Oh.|b
+B|Okay.|bk
+A|and that rolling kind of, uh,|sd
+B|Terrain.|^2
+A|Yeah.|aa
+A|Is, is fairly .|sd
+A|The thing that I thought was interesting was that the critics,|sv
+A|apparently it's going to win everything.|sv
+B|Really?|bh
+A|Uh, and I had been told, you know, you wouldn't notice that it was three hours long, and all this, kind of,|sd
+B|That's true.|aa
+B|I agree with that.|aa
+B|Um, I, I noticed yesterday in the paper, something said that it,|sd
+B|I think it's been nominated for twelve awards|sd
+B|and, and all the critics initially said that, you know, it wouldn't go anywhere, that it was just going to be a dud.|sd
+B|So, it, it has surprised everybody.|sv
+A|Well, the interesting thing was is I had heard that,|sd
+A|and I, I, I tend to, I think, overreact occasionally when somebody tells me it's that great.|sd
+A|And, and it was, the thing is, it was, it was a good story.|sv
+B|Uh-huh.|b
+B|Right.|aa
+A|And, and, and I guess that's what I really like.|sd
+A|Although, I must admit I did look at my watch after about an hour.|sd
+B|Did you?|qy
+A|Yeah.|ny
+B|Have you seen SLEEPING WITH THE ENEMY?|qy
+A|No.|nn
+A|I've heard, I've heard that's really great, though.|sd
+B|you have to go see that one.|sv
+B|And how about SILENCE OF THE LAMB?|qy
+A|No,|nn
+B|Go.|ad
+A|You must really keep up.|sv
+B|I do.|aa
+B|I go every weekend|sd
+B|I, I, uh,|%
+B|those are two definite must see movies, I think.|sv
+A|Well, isn't, isn't SLEEPING WITH THE ENEMY, isn't that a,|%
+A|is it, is it a terror movie|qy
+A|or is it just suspenseful?|qy
+B|It's suspenseful.|sd
+B|I don't think it's very|%
+B|I mean, there's not really any, uh, blood and guts in it or anything like that.|sd
+B|It's, it's more suspense.|sd
+B|Um, the other one, SILENCE OF THE LAMBS, is kind of a, a gory movie, if, if somebody's not into that kind of stuff.|sd
+B|It's, it's pretty graphic at points.|sd
+B|But, uh, I think they're both excellent movies.|sv
+A|Do you, do you listen to Gary Cogill?|qy
+B|No. Huh-uh. *two utts|nn
+A|Is, uh,|%
+A|do you know who he is?|qy
+B|Yeah.|ny
+B|Somebody in South Carolina told me about him.|sd
+A|He's a, the movie critic.|sd
+A|Um, oh, you've, oh,|%
+A|okay.|fo_o_fw_"_by_bc
+A|He's a movie critic on channel eight in Dallas.|sd
+B|Yeah.|b
+A|And he does, uh, he has a talk show on the, K L I F.|sd
+A|Anyway, it's on from seven to nine, or something.|sd
+A|And, and, and people call in|sd
+A|and it's, if you keep up with movies, it's kind of interesting.|sv
+A|There's a certain a mount of dribble that they do.|sv
+A|They've got, uh, they've got a couple of kids, ten or twelve years old,|sd
+A|and they call in|sd
+A|and they review movies.|sd
+A|But it's, uh|%
+B|Oh.|b
+A|he, anyway, he,|%
+A|it's interesting.|sd
+A|You listen to him|sd
+A|and then you, you go watch the movie.|sd
+A|In fact, they had, people had just seen,|%
+A|I was listening Sunday night a little bit when, I was going to pick up my daughter.|sd
+B|Uh-huh.|b
+A|But, anyway, it was, uh, the,|%
+A|it, it's interesting, though,|sv
+A|or did he just do it?|qy
+B|I think that, I think he really,|%
+B|his heart was in it,|sv
+B|but I, I don't think he really knew it was going to be as big as it was.|sv
+B|I think it was something that he really wanted to do.|sv
+B|He wanted to direct it,|sv
+B|he wanted to, to star in it.|sv
+B|You know, he, he enjoyed the story line|sv
+B|and I think he just really he really wanted it.|sv
+B|And whether it, whether it won all kinds of awards or whether it just was okay at the box office, I think he would have been happy.|sv
+B|Because I think that, I think he did a good job|sv
+B|and, and the self-satisfaction he got out of it is much greater than any awards that they can give him.|sv
+A|Do you know who the guy was that was playing the, uh, the, the wagon driver?|qy
+B|Um.|^h
+A|A little piece of trivia.|sd
+A|You know, the guy when he first headed out from the army post.|qy^d
+B|Yeah.|ny
+B|Who,|%
+B|no|nn
+B|I don't know who that guy is.|sd
+A|He, he plays on MURPHY BROWN.|sd
+B|Oh, he does?|qy
+A|Yes.|ny
+A|He's, he's Eldon, her housepainter.|sd
+B|As a recurring character every week?|qy
+B|Oh.|bk
+A|Can you, believe that?|qy
+B|No,|nn
+B|now see, I'd, I'd a never put those two together.|sd
+A|That's, that's one of those interesting pieces of trivia that somebody said, did you notice that?|qy
+B|Huh-uh.|nn
+A|I thought, no, it's really funny.|sd
+A|But I thought, it, it,|sd
+A|you think back,|sd
+A|and yeah,|sd
+A|it was him, but with a you know, with the beard and all that stuff.|sd
+B|Yeah.|b
+A|I mean, it's, uh,|%
+B|Yeah,|b
+B|real scruffy looking|sv
+A|Yeah.|aa
+A|Real scruffy looking,|sv
+A|and it it was really funny, it's, uh, that, that he winds up playing in the movie.|sv
+A|But I thought, it's good that, you know,|sv
+A|it was a lot of fun.|sv
+B|Yeah.|b
+A|I don't know how long this conversation is supposed to go|sd
+A|but we're at about five minutes.|sv
+A|I should think we've done enough.|sv
+B|You think so?|bh
+B|I mean, I haven't been watching my watch.|sd
+B|Um, I guess,|%
+B|yeah.|%
+B|Does it usually cut off?|qy
+B|Is that what, it does?|qy
+A|Well, I don't know.|no
+A|Why do we end this thing?|qw
+B|It used to, it used to just automatically cut off|sd
+A|I think it just says hang up.|sd
+B|but it says when the conversation is over just say your good-byes and hang up.|sd
+B|So, I, I guess so.|h
+A|Why don't we do that?|qw
+B|Okay.|fo_o_fw_"_by_bc
+A|Good-bye Sharon.|fc
+B|Good talking to you Archie|fc

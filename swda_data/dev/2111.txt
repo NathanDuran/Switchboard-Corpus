@@ -1,0 +1,252 @@
+A|Our community doesn't really have any organized recycling drive.|sd
+B|Where do you live?|qw
+A|I live in San Antonio.|sd
+B|San Antonio!|ba
+A|Uh-huh.|b
+B|Well, uh, I live in Garland|sd
+B|and we're just beginning to,|%
+B|we, we just built a real big recycling center, that recycles everything imaginable|sd
+A|Uh-huh.|b
+B|but, as far as, uh, trash pick up and stuff that a lot of the communities are doing, they're testing that.|sd
+A|Uh-huh.|b
+B|So, they're really not full, full force into it,|sd
+B|but they're trying,|sd
+B|so we're attempting it,|sd
+B|but I wish we could do more.|sd
+A|Yeah,|b
+A|there's, there's been no emphasis on recycling at all in San Antonio.|sd
+A|I used to work for the power company here|sd
+A|and there was discussion for a while about, uh, building a garbage burning, uh, electric generation plant|sd
+B|Uh-huh.|b
+A|but it just wasn't cost effective,  at the time.|sd
+B|Oh.|b
+A|And there's, there's a little recycling trucks and things throughout the city|sd
+A|but there isn't any, uh, advertising campaign.|sd
+A|There's just not any push to recycle.|sd
+B|Huh.|b
+A|I recycle my newspapers and, uh, my aluminum stuff.|sd
+B|Right,|aa
+B|that's what I do.|sd
+A|But, uh, they make it as hard as possible,|sv
+A|it's not very convenient to do.|sd
+B|Right,|aa
+B|when they put centers and stuff like that.|sv
+A|Uh-huh.|b
+B|Yeah,|aa
+B|well we have those, uh, which I think is one of the best things is those cash for cans.|sv
+B|I don't know if you all have those things around.|qy^d
+A|Yes.|ny
+B|And I really like that because that makes it real convenient because they're in almost every shopping center,|sd
+B|and you can just stop by.|sd
+B|Now everything else like the uh, paper and plastic and stuff you still have to go to the centers|sd
+B|but, but for aluminum that's real nice|sv
+A|Uh-huh.|b
+B|and I started doing that at work.|sd
+B|Um, I put out a, a trash can and, and for people to put their aluminum cans in,|sd
+A|Uh-huh.|b
+B|and that's really helped a lot,|sd
+B|I mean, everybody's pitched in|sd
+B|and, you know, it doesn't bother them to walk little bit farther put their aluminum in a can rather than just throwing it in their trash can.|sd
+A|Yeah.|b
+A|Yeah.|b
+B|So, I really, I really like that,|sd
+B|but, people are really concerned,|sv
+B|it's just that sometimes it's not the right people, which is really, really sad because, I wish we would do more|sv
+A|Yeah.|b
+B|At work we started, uh, all the recycling stuff.|sd
+B|They're really trying,|sd
+B|I think what started it at work was that planet earth thing we had last year.|sd
+A|Yes.|b
+B|And, uh, that really, started a lot of stuff off,|sd
+B|but, you know sometimes it dwindles down.|sv
+A|Yeah,|b
+A|where I work now we recycle all the computer paper.|sd
+B|That's good.|ba
+A|But that's about the extent of it.|sd
+B|Well that's, uh,|%
+B|at least your trying something.|ba
+A|Yeah,|aa
+A|yeah,|aa
+B|It's just yeah,|%
+B|it would be nice if it could be more.|sv
+A|And I'm sure that the, uh, driving factor for recycling the computer paper is that we get paid to do so.|sv
+B|Oh do you really.|bh
+A|We sell the paper back to the, uh, to a paper manufacturing company.|sd
+B|Well that's a neat idea.|ba
+A|Well, it, it defrays the cost of buying the paper, I think.|sv
+A|I,|%
+A|not by much, but it does defray it some.|sv
+B|Right.|b
+A|Enough to make it worth our while to have several bins through out the building.|sv
+B|Well that's, that's really good,|ba
+B|I mean at least they're trying.|ba
+A|Yeah.|b
+B|Yeah|b
+B|I know a lot of companies that waste so much that,|sd
+B|I'm even trying,|%
+B|you know that was one thing we noticed last week that we had some new people move into our building And they were just used one time and thrown in the dumpster|sd
+A|Yes.|b
+B|and I thought, I don't understand this, you know.|sd
+A|Yeah.|b
+B|We're trying to cut cost and everything like that, and, and recycle and all that stuff|^q
+B|and, and here we are wasting.|^q
+B|And I don't understand, sometimes, the way, the thinking, the logic behind it.|sd
+A|Well the last time, uh, someone moved offices in my building|%
+A|and, uh, the, uh, properties people came in with all, with the good cardboard boxes.|sd
+A|Not the cheap ones of course. And packed everything up and moved them and left them lying around,|sd
+B|Uh-huh.|b
+A|I, I took several home because I'm moving pretty soon|sd
+A|and they're good boxes.|sd
+B|That's exactly what I did.|sd
+A|And they were just going to throw them away.|sd
+B|Exactly what I did, exactly.|sd
+A|Yeah.|b
+B|Because I didn't want to waste that.|sd
+A|Huh-uh.|b
+B|And it's hard enough to find good packing boxes .|sv
+A|Right|aa
+A|and, and these boxes are,|%
+A|you can unfold them.|sd
+B|Right.|aa
+A|So, you know, there, they don't take up much storage space.|sd
+B|Exactly right,|aa
+B|well that's very good|ba
+A|Yeah,|b
+A|yeah|b
+A|I, I felt a little guilty about taking the boxes for about two seconds until I realized they would be thrown away,|sd
+A|so.|%
+B|Right,|aa
+B|right,|aa
+A|I thought, well I was doing them a favor by taking them.|sd
+B|I found about five, uh, about nine of them that had not even been folded into boxes, that were in the dumpsters.|sd
+A|Yeah.|b
+B|Oh gosh,|ba
+B|so many people need, so many people go to the grocery store and stuff and get those boxes, when, you know, these are perfect,|sd
+A|Uh-huh.|b
+B|so.|%
+A|Yeah,|b
+A|the ones at the grocery store, half the time, they've pulled the lid off|sd
+A|so you can't use it anyway.|sd
+B|Right,|aa
+B|right,|aa
+B|right.|aa
+A|Those|%
+A|and the real sturdy boxes that copy room paper comes in, with the nice lids. Those get thrown away.|sd
+B|Uh-huh,|b
+B|right.|aa
+A|And I am constantly scouting out the copy room for those boxes.|sd
+B|That's exactly what I do.|sd
+A|Those are perfect boxes to put files in.|sd
+B|Uh-huh.|b
+B|They're good for storage and stuff like that.|sd
+B|That's what I do with a lot of my daughter's things is I'll store her, you know, like her out dated or, out of, out of season clothes in them|sd
+B|and they're just perfect.|sd
+A|What, what I've done in the past,|%
+A|I don't have any now,|sd
+A|but I would buy some cheap wallpaper from somewhere and cover those nice boxes with the lids,|sd
+B|Uh-huh.|b
+A|and you can stack them up and, and leave them out and put things in them, even.|sd
+B|And they look just as good.|^2
+B|That's a smart idea.|ba
+A|Uh-huh,|b
+A|yeah.|aa
+B|I think I'll have to try that.|sd
+B|That's really cute.|ba
+A|Yeah|b
+A|well, you know, it's cheaper than going and buying the kind at Target that are all ready with the little design on them or whatever.|sd
+B|They're the exact same thing.|sv
+B|That's all they are,|sv
+B|they just made them look fancy.|sv
+A|Uh-huh,|b
+A|yeah.|aa
+B|You saved me some money.|sd
+B|And you're recycling|sd
+A|yeah.|aa
+B|Well that's neat.|ba
+B|Well do you all have, uh,|%
+B|we have places that, uh, pay for paper to recycle,|sd
+B|I know you do yours at work,|sd
+B|but for newspaper.|%
+A|Uh-huh.|b
+B|But ours are real hard to find.|sd
+B|That's the one thing that really discourages me.|sd
+B|I saved you know, I recycle paper,|sd
+B|but they,|%
+B|it's almost like they don't want the paper, because they don't pay, at all,|sv
+B|I mean, they're real hard to find the places that pay.|sd
+B|And that's really discouraging.|sd
+B|I mean, I just go ahead and take it to the, the regular place, where it's, you know, they just accept it.|sd
+B|But they, uh, I think they should|sd
+B|yeah,|%
+B|if they want people to recycle I think it's, uh, you know,|sv
+B|like the aluminum, you know,|%
+B|it gets people to, uh, doing it, you know,|sv
+B|you might, you don't have to pay them a lot.|sv
+A|Yeah,|b
+A|I live near a Walmart|sd
+A|and there's a big, uh, uh, huge dumpster looking thing sitting out front,|sd
+A|in fact I think there's two of them, that have several openings,|sd
+B|Uh-huh.|b
+A|and it's for recycling|sd
+A|and they have aluminum and newspaper and plastic and some other category,|sd
+B|Uh-huh.|b
+A|I don't,|%
+A|maybe there's two for aluminum.|sd
+A|And you don't get paid|sd
+A|but it's real convenient just to chunk the newspapers in there.|sd
+B|Well that's, that's good.|ba
+A|Yeah.|b
+B|I,|%
+B|the one thing I don't like about the newspaper also is, uh,|%
+B|like at work we have two different trash cans at your desk.|sd
+B|You have one for paper and one for just your normal trash,|sd
+A|Uh-huh.|b
+B|but in, uh, in the paper one you have to separate.|sd
+B|You have to make sure you don't throw away any of the slick paper, like magazines.|sd
+A|Uh-huh.|b
+B|You can't throw any of that away|sd
+B|and you can't throw certain file type things away,|sd
+B|and I just think it's such a hassle,|sd
+B|it seems like it would be, it would be easy to take it all,|sv
+B|I don't know,|h
+B|of course, I don't know all that about recycling|h
+B|so, it probably is a hassle.|sv
+A|Uh-huh.|b
+B|But I do get tired of having to separate paper, you know.|sd
+A|Uh-huh.|b
+A|It gets to be, uh,|%
+A|I guess you have to make it a habit,|sv
+A|I mean, you have to get so used to doing it that it's a habit.|sv
+B|Right,|aa
+B|right.|aa
+B|And we had, uh, a write up in our paper, uh, this last time at work about, um,|sd
+B|they come and empty your trash every other day they do your normal trash|sd
+B|and every other day they do your recycling trash.|sd
+A|Uh-huh.|b
+B|And somebody was writing in complaining that the people had, uh, dumped all the trash in the same bin.|sd
+A|Oh.|b
+B|And when they were questioned about it they said well, we're running late,|sd
+B|or we didn't have time to do those bins or something|sd
+B|and that's real discouraging. Thinking you're sitting there working to separate it|sd
+B|and then they,|%
+A|And someone else isn't going to take the time to put it in two separate bags.|^2
+B|Right,|aa
+B|right,|aa
+B|so they're, they're really, trying to start keeping an eye out for those, you know|%
+B|talking to the people again about, you know,|%
+B|separate them|%
+B|because that is discouraging when you, when you do that the|sv
+B|It was hard to get used to those two different trash cans.|sd
+A|Uh-huh.|b
+B|But luckily that will all get straightened out|sd
+B|and, and they'll, they'll start separating them.|sd
+B|Because, I don't mind doing that,|sd
+B|I feel like I'm doing, uh, doing something for the community when I'm doing that.|sd
+A|Yeah.|b
+B|But anyway.|%
+A|Well, I've enjoyed talking to you.|fc
+B|You too.|fc
+A|Well, I, thank you.|fc
+A|Bye,|fc
+A|bye.|fc
+B|Bye.|fc

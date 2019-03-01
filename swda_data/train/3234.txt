@@ -1,0 +1,101 @@
+A|Carolyn, I have a little Schnauzer, little miniature Schnauzer.|sd
+B|Oh.|b
+A|What do you have?|qw
+B|Well, it's kind of a mixed breed that we got from the Humane Society|sd
+A|You know, those make the best animals, uh, best pets.|sv
+A|My, uh, son has a, uh, oh,|sd
+A|it's a real mixture,|sd
+A|it's part, uh, Doberman and part Husky|sd
+B|Oh, my.|ba
+A|Yes,|b
+A|and they, gentlest dog you ever met,|sd
+A|and they got him from the, uh, Humane Society here in Oklahoma City|sd
+B|Oh,|b
+A|and she's just turned out to be a jewel.|sd
+A|My, my little Schnauzer is, is my friend.|sd
+A|She is so spoiled.|sd
+A|She's a year and a half old now,|sd
+A|and being single, she's become very important in my life|sd
+B|Uh-huh.|b
+A|it's so nice to have, come home and find something, or someone who's really so happy to see you.|sd
+B|Well, my children are the ones that wanted our pet,|sd
+B|and this one is probably the best one that we have had.|sd
+B|Um, as I say, we got it from the Humane Society,|sd
+B|and, uh, we had lost a pet,|sd
+B|and we really went there looking for the one that we had lost.|sd
+B|It got out under the fence while we were on vacation,|sd
+B|and we just looked all over for it and couldn't find it,|sd
+B|but, uh, when we walked in to the, to the Humane Society, this little dog was, uh, in the office and would sit up and beg,|sd
+B|and just, oh, he was so cute,|sd
+B|and the kids just fell in love with it.|sd
+B|We just couldn't leave without it.|sd
+B|But, it's, um, whoever had it before must have trained it real well, because it's just, you know, it's, uh, a good house dog.|sd
+B|I've never had one that I could keep in the house before and tolerate it|sd
+A|Sometimes I wish I had not gotten this one, it's a puppy, because I work|sd
+A|and I'm not home|sd
+B|Uh-huh.|b
+A|and unfortunately she's not as well trained as, as I would like her to be|sd
+B|Uh-huh.|b
+A|and I realize it's my fault,|sd
+A|I'm not doing a really great job as a disciplinarian,|sd
+A|but, uh,|%
+B|It's hard to do that when you're not there constantly,|sv
+A|It is,|aa
+A|it is.|aa
+A|She's, you know, she's real good,|sd
+A|I can leave her all day in the bathroom with her toys and her food and everything,|sd
+B|Um.|%
+A|and, and, not one mess does she make|sd
+B|Oh.|b
+A|and then we go outside,|sd
+A|and she'll stay outside for, oh, thirty minutes to an hour, come inside and use the restroom.|sd
+B|Um.|%
+A|I just want to kill her at those times.|sd
+B|Oh.|b
+A|But she's a doll,|sd
+A|she's a love,|sd
+A|she really is.|sd
+B|About the only time we have,|sd
+B|well, I shouldn't say the only time,|h
+B|but most of the time when we have problems with restroom is in the night,|sd
+B|and, uh, she usually stays inside at night.|sd
+B|We try to take her out right before we go to sleep,|sd
+B|but, uh, sometimes it doesn't work|sd
+A|You know, I, I, we always had a pet when I was growing up, oh always had a dog.|sd
+A|My mother did not like cats.|sd
+A|So we always had a dog,|sd
+A|and, and then, course, when my children were growing up, we always had a dog, and always said it was because the children wanted the pet|sd
+B|Uh-huh.|b
+A|and I find that I'm enjoying this one far more than I ever did when it was the children's dog,|sd
+B|Oh.|b
+A|I, uh, in fact my children gave me this, this little puppy for Christmas.|sd
+B|What a cute idea.|ba
+A|Yeah,|aa
+A|I think so|sd
+B|Well, we got one one year for Christmas,|sd
+B|and, uh, I had a baby the next day|sd
+A|Oh, my goodness.|ba
+B|and, uh, so that one wasn't really well trained|sd
+A|Two babies,|bf
+A|huh.|b
+A|Oh.|b
+B|Oh, I just didn't have time to take care of baby and train puppy at the same time,|sd
+B|so,|%
+A|That, that is really probably bad timing.|sv
+B|Yeah,|aa
+B|I|%
+B|it was,|sd
+B|it really was.|sd
+B|The older kids had wanted one, though,|sd
+B|and, you know, we thought, well that would be a fun time for them to have it, you know, get it at Christmas time.|sd
+B|It was a little Spitz, a little white fluffy and, you know, looked like it came right from the north pole,|sd
+A|Oh, yes,|ba
+B|and that was fun,|sd
+B|but, um, I, I sure wasn't good at training it|sd
+A|Do you|%
+B|I think you have to have time, you know to do those things.|sv
+A|and patience|^2
+A|and you have to, you really have to be, just like your children,|sv
+A|when you set a rule you have to stand by it, and be consistent|sv
+B|That's right.|aa
+A|and ...|%

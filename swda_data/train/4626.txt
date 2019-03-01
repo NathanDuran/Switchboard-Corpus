@@ -1,0 +1,111 @@
+A|Okay|fo_o_fw_"_by_bc
+B|How are you?|qo
+B|You want to go ahead and start talking about whether you budget|qy
+A||ny
+A|Yeah.|ny
+A|Well I, I, I feel like, uh, I am from Mars.|sd
+A|I mean I'm fifty years old|sd
+A|and, uh, I've been divorced for, um, eighteen years.|sd
+A|But I've two kids and all.|sd
+A|But I, uh, I, I've never had a budget|sd
+A|and I don't, uh, do any planning|sd
+A|and I don't know,|h
+A|I don't, uh, uh, I don't have a long-term financial plan.|sd
+A|I don't try to control my expenses.|sd
+A|But I'm, I'm glad you're a stranger.|sd
+B|That sounds kind of like me.|sv
+A|But, really, I'm, I happy, I, I, well I'm curious how other people live.|sd
+A|Uh, so maybe we should start with you|sd
+A|What do you do?|qw
+B|About the same thing.|sd
+A|Really?|bh
+B|Yeah.|ny
+A|Oh.|b
+A|Maybe they're going to arrest us both.|sd
+B|I'm even in worse shape because I have eight children|sd
+B|and, uh, we live from hand to mouth|sd
+B|We hope that there's enough money at the end of the month to pay for the bills and if there's not, then we due for the next month.|sd
+A|Wow.|ba
+B|A couple of times we've tried some things|sd
+B|and they worked|sd
+B|but I'm not disciplined enough to keep doing it.|sd
+A|Uh-huh.|b
+B|The best program we ever had is at the beginning of the month we took and, uh, took my check and divided it out into envelopes and then paid for the expenses out of that envelope|sd
+A|Yeah.|b
+B|and when the envelope was empty then you didn't have any more money to spend in that area.|sd
+A|Uh-huh.|b
+B|And that worked out real well cause we didn't have to keep writing down what we'd spent.|sd
+A|Uh-huh.|b
+B|It was just that when that was empty, you knew you were out of money.|sd
+B|And we did that pretty successfully for about three months|sd
+B|and then we started borrowing from one envelope to put it in the other envelope|sd
+B|and in about two months we were back to doing the same thing we always do.|sd
+A|Huh. The, uh,|%
+A|I had a part-time job around, oh gosh, fifteen years ago, seventy-six,|sd
+A|and, uh, uh, this was a sort of a career shift at the time|sd
+A|and so I was willing to take a half time job to do that.|sd
+A|And I actually did,|sd
+A|my bank account would, uh,|sd
+A|I'd, I, I kept bouncing checks, just at the end of the month|sd
+A|but I, I had miscalculated.|sd
+A|I, well I didn't keep a balance|sd
+A|It's one of the problems this very|sv
+A|I never had to in the past.|sd
+A|I always kept plenty of money in my checking account,|sd
+A|but when you're only earning half the salary. Even though I wasn't spending much money, I sometimes I sometimes would just,|sd
+A|things would get to tight.|sd
+A|Uh, and sometimes what I would do is keep a piece of paper in my wallet|sd
+A|and every time I, uh, I spent money, I mean cash mostly, I would, uh, write it down so I could see at the end of a month how much I spent on food so I could do better planning.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|But I would forget to write the things down|sd
+A|and it, that I, I don't know if I ever went as far as three months or not in keeping that kind of data.|sd
+A|I certainly haven't done that in sixteen years or whatever.|sd
+B|I even find now like with the automatic tellers, I'll go take money out of that|sd
+A|Yeah.|b
+B|and then I forget to take that out of my checking account.|sd
+A|Uh-huh.|b
+B|And, uh,|%
+A|Yeah.|b
+B|So I, I, I leave a little bit of a slush fund in my checking account and I figure that, so the balance showing in the checking account is always somewhat different that what's really there.|sd
+A|Uh-huh.|b
+B|And I figure that gives me room for the mistakes I make.|sd
+A|Uh-huh.|b
+A|The, uh,|%
+A|I, I have to say that,|sd
+A|let's see, at this point on, I don't run out of money.|sd
+A|Uh, and it, uh,|%
+A|and I don't, I mean|%
+A|someday, if I were to get remarried I might want to buy a house which requires lots of money which I don't have|sd
+A|and I, I, I think my strategy if, if I may, is to, is to not spend money.|sd
+A|I mean I don't have expensive tastes.|sd
+A|I don't go out.|sd
+A|I mean I buy a car,|sd
+A|well the last car I got rid of I'd had,|sd
+A|it was nineteen years old.|sd
+B|Yeah.|b
+A|people were embarrassed for me.|sd
+A|I mean it was, it was a good car|sv
+A|and,|%
+B|it still running.|bf
+A|Oh, it was great.|sv
+A|My, my mechanics loved it because it was an old, it was a sixty-five Buick|sd
+A|and it just wouldn't stop.|sd
+A|Uh, and it,|%
+A|I, I just didn't feel the need for a new car.|sd
+A|It isn't like I couldn't afford one.|sd
+B|Uh-huh.|b
+A|Uh, and now, I mean I, I don't, uh,|%
+A|I tend to eat expensive food.|sd
+A|I mean I don't mind buying a good steak|sd
+A|but for me, I only do that every week or, without even, I mean, maybe once a month.|sd
+B|Yeah.|b
+A|I mean you buy a, a tenderloin steak, it costs outrageous, like twelve dollars a pound.|sd
+A|You buy a, a, less than half a pound so it's six or seven dollars.|sd
+A|To me, I realize if you have eight kids you're not going to run out and do that.|sv
+B|Not very often|aa
+A|But, but I'm just, I'm just saying as a single person, that's, that's a drop in the bucket.|sv
+A|And so if you're extravagant on how you buy food, it doesn't add up. If you're buying, I mean if you're not going to super expensive restaurants, which I don't care to go to.|sv
+B|That's right.|aa
+A|So, so that's, I think, one of the reasons I don't need to budget is that I don't have, I don't, I don't have to hold myself back from buying that expensive thing because I can't afford it, because I'm not interested in that expensive thing.|sd
+B|lot|%

@@ -1,0 +1,113 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|you got any hobbies that you want to talk about?|qy
+B|Well, I, uh, don't seem to have as much spare time as I used to,|sd
+B|but, I guess I'll have to say my computer has probably taken the place of most of my hobbies.|sd
+A|What in the world do you do with your computer that takes so much time?|qw
+B|Well, I sit and design cards|sd
+A|Oh, really?|bh
+B|and, uh, oh, I, I'm really into graphics,|sd
+B|so, it, it just, I sit and learn new programs|sd
+B|and I play|sd
+B|and I do this,|sd
+B|and I do that|sd
+B|and, I'm, I'm starting a side business in desk top publishing|sd
+A|Did you have, uh, your own business|qy
+A|or you do that as, just on the side, or what?|qrr
+A|Uh-huh.|b
+B|and, uh, it's just getting going.|sd
+B|I, I'm teaching in the daytime|sd
+A|Well.|%
+B|and, uh, I teach business and computer technology.|sd
+A|What do you teach?|qw
+A|Oh, that's good.|ba
+B|Well, I guess|bd
+B|It's, uh, to high school kids, it's, uh, alternative learning|sd
+A|Uh-huh.|b
+B|and, uh, it's, it's really a challenge,|sd
+B|but. What hobbies do you have?|qw
+A|Well, I, uh, play trombone in the Plano Community Band.|sd
+B|Ooh, neat.|ba
+A|And I, uh, like to do a lot of bicycling when the weather allows, and during summer when there's daylight savings time's when I get out and bike.|sd
+B|Well, I hope you all had as pretty a day today as we did.|sd
+A|Well, it wasn't too bad, other than the Cowboys didn't do so hot.|sd
+B|Oh, well now, yes|aa
+B|I don't think you can blame the weather on that.|sd
+B|We had.|%
+A|No,|aa
+A|just a crummy, well, actually|sv
+A|the Lions are pretty good, I'm afraid, they a lot better team than the Cowboys were today.|sv
+A|And, uh, .|%
+B|On any given day, they say.|fo_o_fw_"_by_bc
+B|Uh, I haven't, I haven't played in a while, but I do, when I get time and it's pretty weather and it's summer I like to play golf.|sd
+A|Oh, okay.|bk
+A|I, I play that about six times a year|sd
+A|and every year I hang my bag up if I get that five or six|sd
+A|and I swear, swear that game off for another year,|sd
+A|but I always go back to it|sd
+B|Oh, I, uh, oh, I take spells,|sd
+B|I'm, I'm kind of a compulsive obsessive person|sd
+B|and when I start something, I, I go into it a thousand percent|sd
+A|I  understand that.|ba
+B|and then I get,  I get burned out on it.|sd
+B|But, uh, I do some counted cross-stitch and some painting on shirts.|sd
+A|Well, you do lots of stuff.|sv
+B|Well, it doesn't seem like I get anything done,|sd
+B|but I guess I do|sd
+B|and, I, I like to bake.|sd
+B|It's just me in the house,|sd
+B|so, when I bake it's usually to take out for something.|sd
+A|Gosh,|ba
+A|I come up there I'll have to stop by and have, try some of your baking.|ad
+B|Well.|%
+A|I call on people in .|sd
+A|My business is, uh, machine tool sales,|sd
+A|and I have some,|sd
+A|I, I cover Texas and Oklahoma.|sd
+B|Oh, okay.|bk
+A|So, I, what I said that I wasn't being real facetious about that.|sd
+A|I got customers in Oklahoma City and Tulsa and  Perry, Oklahoma  and Eda and all that, all that way.|sd
+B|Oh, how neat.|ba
+B|So you do quite a bit of traveling then.|bf
+A|Yes,|aa
+A|yes.|aa
+A|I,|%
+A|about thirty-three thousand miles a year.|sd
+A|So.|%
+B|Ooh, well that doesn't leave a lot of time for hobbies,|sv
+B|does it?|^g
+A|Well, I usually,|sd
+A|see, we, we have our, our band practice is on Monday night,|sd
+A|and during the summer we, uh, we have concerts every Monday night in the park,|sd
+A|and, uh, we, we have, you know, some concerts during the year,|sd
+A|and, you know, various people in the communities want us to play for things,|sd
+A|but those are usually on the weekend,|sd
+A|so that isn't too bad.|sd
+B|How big is your band?|qw
+A|Well, we got, uh, pretty good size band.|sd
+A|Not everybody shows up,|sd
+A|but if everyone did we'd probably have over a hundred|sd
+A|but we only average about forty to fifty people a, you know, usually.|sd
+B|Ooh.|ba
+B|Well, that's still a pretty good size band.|bf
+A|Yeah.|aa
+B|It's not like there are four or five of you there.|sd
+A|Oh, no,|aa
+A|no.|aa
+A|This is a,|sd
+A|it's a concert band,|sd
+A|and, uh, we have a lot of,|sd
+A|I, I don't pretend to be that good,|sd
+A|but there's a lot of people that, uh, you know, are band directors at schools, or have been,|sd
+A|or, uh, you know, there some people that are actually music majors.|sd
+A|They don't necessarily follow that any more, you know,|sd
+A|that isn't necessarily their career,|sd
+A|but, uh, we have some extremely good talent in there,|sd
+A|and, uh, as a rule, it sounds pretty decent,|sd
+A|so|%
+A|It's fun.|sd
+B|I, I have absolutely no musical ability whatsoever,|sd
+B|and I'm always very envious of people who do.|sd
+A|Well, I don't know if I have any or not.|sd
+A|I, I've always enjoyed it.|sd
+A|I sing in a church choir on Wednesday nights when I'm around, and play in the band on Monday nights, and keeps you out of trouble that way.|sd
+B|Well, I'm probably one of the few people that the,|sd

@@ -1,0 +1,179 @@
+B|What's your favorite T V show?|qw
+A|Oh. You know, I used to like ST. ELSEWHERE.|sd
+B|Uh-huh.|b
+A|That's one of my old favorites.|sd
+A|Um, and that's,|%
+A|I'm being beeped,|sd
+A|so I'll just ignore it.|sd
+A|Um, and now, I, I did like THIRTY SOMETHING|sd
+B|Uh-huh.|b
+A|oh, yes,|^h
+A|my daughter says NINE OH TWO ONE OH.|sd
+A|We like that one.|sd
+B|Yeah,|b
+B|that's one of my favorites.|sd
+A|Good,|ba
+A|and how old are you?|qw
+B|I'm twenty-eight.|sd
+A|Oh, so you're little bit younger than I am,|sd
+A|but yeah,|b
+A|I think if my seventeen year old, my fourteen year old, my other two children like it,|sd
+A|I'm over forty,|sd
+A|and I like it.|sd
+A|I think it's wonderful.|sd
+B|Yeah,|b
+B|it's a good show.|sv
+B|I like MURPHY BROWN and DESIGNING WOMEN, too.|sd
+A|Oh, yeah,|b
+A|now see, I, we are so busy with, all of our kids are in sports,|sd
+A|and I hardly ever watch T V,|sd
+A|but that's one that, that we watch.|sd
+A|And then Sunday nights we watch, uh, LIFE GOES ON.|sd
+B|Yeah,|b
+B|I like that,|sd
+B|that's, that's a good show, too.|sv
+A|Very good.|ba
+A|Did you see the one on Sunday?|qy
+B|Yes,|ny
+B|it was a, uh, uh|%
+B|I did miss that Sunday,|sd
+B|no|nn
+B|I didn't.|sd
+A|That one kid that Becca likes he has AIDS.|sd
+B|Yeah,|b
+B|it's a good episode.|sv
+B|Yeah,|b
+B|the, the new character on there did.|sd
+A|Right,|b
+A|right.|b
+A|All the way to North Carolina.|sd
+A|What time is it there?|qw
+B|Uh, it is twenty minutes to nine.|sd
+A|Oh, my gosh.|ba
+A|See, I'm twenty minutes to six here|sd
+B|Three hours difference.|bf
+A|Yeah,|aa
+A|yeah.|aa
+A|Okay.|b
+A|What else do you like?|qw
+B|Uh, let's see, I like a lot of different shows.|sd
+B|Let's see, um, I like MURDER, SHE WROTE.|sd
+B|That's, that's,|%
+A|Oh, I never, I never watched that ever in my entire life.|sd
+B|And MATLOCK is another good one I watch.|sd
+A|Uh-huh.|b
+B|Um, then during daytimes I like, I like ALL MY CHILDREN.|sd
+A|A small bowl will be plenty.|t3
+A|Oh, that's mine.|t3
+A|That's the only one I watch whenever I, oh,|sd
+A|a small bowl will be better because it's pretty fattening.|t3
+A|Talk to my daughter.|sd
+A|Um, um,|%
+B|ALL MY CHILDREN,|sd
+B|I've watched that for about twelve years.|sd
+A|Yeah,|b
+A|I've, I'm sure I watched it for more than that probably.|sd
+A|Twenty something.|sd
+A|I used to watch GENERAL HOSPITAL when I was a teenager because I,|sd
+B|I quit watching GENERAL HOSPITAL when Leslie got killed.|sd
+A|Oh.|b
+B|So that was a long time ago.|sd
+B|I used to watch it, was in high school and college when Laura's mother got killed.|sd
+A|Right.|b
+B|She was my favorite character on there.|sd
+B|I just,|%
+B|I read the reason she got, they, they killed her off was because they couldn't settle a contract,|sd
+B|and I said, well, if they're going to do that to her, I won't watch it.|sd
+A|Oh, that's great.|ba
+A|Well, I do like ALL MY CHILDREN,|sd
+A|and I, and I like it, you know, I don't know.|h
+A|I just,|%
+A|I like the people on it, I guess, you know.|sd
+B|I, I, I like it.|sd
+B|I just wish they'd bring some of the old characters back.|sd
+A|Yeah,|b
+A|well, Tad's going to come back, I bet, do you think?|qy
+B|Yeah,|ny
+B|I'm sure he will.|sd
+A|He'll come back, show up at just the right moment.|sd
+B|I kind of wish that, uh, Nina would come back because she because the story, you know,|sd
+A|Oh.|b
+B|just for a brief visit or whatever, because it never has been resolved with Palmer remarrying, and everything,|sd
+A|Yeah,|b
+A|like Daisy, pops in once in a while,|sd
+A|and, I forgot about Nina and Cliff, right.|sd
+B|Yeah,|b
+B|Cliff's on THE YOUNG AND THE RESTLESS now.|sd
+A|Oh, he is.|b
+A|So he's out for good.|ba
+B|Yeah,|aa
+B|he's out for good.|sd
+A|Did they marry?|qy
+B|Uh|%
+A|Nina and Cliff?|qy^d
+B|that's how they left the show, but not in real life.|sd
+A|Um.|%
+B|Now she's married to some guy in New York,|sd
+B|and she's happily married|sd
+B|and that's the reason she left the show.|sd
+B|I guess she wanted a private life.|sd
+A|Oh, okay,|b
+A|oh, see I, I, I watch it maybe twice a month,|sd
+A|so, I don't watch it everyday like I did when I had babies.|sd
+B|Oh, well, I, I watch.|sd
+A|Because I play lots of tennis|sd
+A|and I'm gone a lot,|sd
+A|so, I don't get to watch,|sd
+B|I watch it everyday, religiously.|sd
+B|I videotape it when I have to miss it.|sd
+A|Oh, no kidding.|ba
+B|Yeah.|aa
+A|I use to be, I used to be like that|sd
+B|I'm that way about a lot of different shows.|sd
+B|I'm that way about MURPHY BROWN, DESIGNING WOMEN.|sd
+A|Now isn't DESIGNING WOMEN, don't they have a new chick on there instead of the, instead of what's her name?|qy
+B|Uh, yeah,|ny
+B|there's two new characters on there.|sd
+B|There's, um, uh, Jan Hooks from SATURDAY NIGHT LIFE.|sd
+B|I don't know if you know her or not.|qy^d
+A|Huh-uh.|ny
+A|That's a show I like.|sd
+B|And then, and then, uh, uh, the blond headed girl that used to be on NEWHART.|sd
+A|Oh, yeah, oh.|ba
+B|I don't like her on it,|sv
+B|I never have liked her,|sv
+B|so.|%
+A|Well, I, I just know which one she is.|sd
+A|I don't, you know.|%
+B|She's taken the Suzanne's part,|sd
+B|and then Jan Hooks has taken Charlene's part.|sd
+A|Charlene was Delta Burke?|qy^d
+B|Charlene was Jean Smart, the blond headed.|ng
+A|Oh, okay,|bk
+A|well, see, I never watch that one either.|sd
+A|I really don't watch a whole lot of T V, just, you know, on Sunday nights,|sd
+A|LIFE GOES ON comes on about the time that we eat dinner,|sd
+A|and my whole family's home, because I don't allow the kids out on Sunday night you know, because they've got to go to bed and go to school the next day,|sd
+B|Yeah.|b
+A|and so we, we sit around and eat popcorn|sd
+A|and, oh, then we watch AMERICA'S FUNNIEST HOME VIDEOS.|sd
+A|Those are always pretty cute.|sv
+B|Well, MURDER, SHE WROTE comes on opposite of that,|sd
+B|and so,|%
+A|Oh, so you don't watch that one instead of,|qy^d
+B|Yeah|ny
+B|I I pick nights pretty much so on T V that I watch different networks,|sd
+B|but BEVERLY HILLS NINE OH TWO ONE OH, I, I watch it religiously.|sd
+A|Sure.|b
+A|Yeah,|b
+A|we like that real well.|sd
+B|It,|%
+B|be sure to watch it tomorrow night because somebody's getting killed on it.|ad
+A|Uh-huh.|b
+A|I know.|sd
+A|The kids already know who it is,|sd
+A|I don't know who it is, though,|sd
+B|Who is it?|qw
+B|Ask them|ad
+A|Let me ask Nicole.|oo_co_cc
+A|to someone in Nicole.|t3

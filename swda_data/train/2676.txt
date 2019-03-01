@@ -1,0 +1,341 @@
+B|Do you live in Plano or work in Plano, or both?|qy
+A|Both.|sd
+B|Both,|b^m
+B|are you a T I|qy
+A|Yes.|ny
+B|Are you at work right now?|qy
+A|Uh-huh.|ny
+B|So am I.|sd
+B|In building, which building?|qw
+A|Well, are you Summit or are you, uh,  Spring Creek?|qy
+B|I'm, I'm,  I'm Spring Creek.|sd
+A|Oh this is fun.|sv
+A|What building are you in?|qw
+B|I'm building, uh, one.|sd
+A|Oh, I'm building two.|sd
+A|At least we found something different|sv
+A|That's,|%
+A|I've never had a call,|sd
+B|Not like that.|aa
+B|Neither have I.|sd
+A|No,|aa
+A|isn't that funny?|bh
+A|I usually get some place,|sd
+A|I got a woman in New Jersey the last time I called, I think.|sd
+B|Right.|b
+B|That's funny.|sv
+A|That is funny.|aa
+A|So,|%
+B|So how's the how's the weather in building two?|qo
+A|The weather in building two is cold|sd
+A|it's been cold.|sd
+A|It's been cold in the building.|sd
+A|Outside the building it's not bad.|sd
+A|Typical T I, or T I,|fo_o_fw_"_by_bc
+A|listen I got me doing it.|^h
+A|Typical Texas Spring.|sd
+A|Are you a native to Texas?|qy
+B|No,|nn
+B|no,|nn
+B|I'm, I'm a transplant.|sd
+A|From?|qw
+B|From California.|sd
+A|So what do you think of the Texas weather?|qw
+B|Not as nice as California|sd
+A|How long have you been here?|qw
+B|Oh, five years now.|sd
+A|Oh, okay.|bk
+B|I've been here long pretty long.|sd
+B|So.|%
+A|You, you, you know about August then.|qy^d
+B|Yes,|ny
+B|oh, I've been through five of those|sd
+A|Okay,|b
+A|there's no surprises left.|sv
+B|Right,|b
+B|right.|b
+B|A lot of people try to leave the state for a couple of weeks in August, for, you know,|sd
+B|if they're going to go out of state for vacation that's the time to go.|sv
+A|Uh-huh.|b
+A|Good idea.|ba
+A|Real good idea.|ba
+B|Yeah,|b
+B|we went up to Wyoming this last, uh, Summer during that time.|sd
+B|And it was like you know, eighty degrees up there.|sd
+B|It was beautiful.|sd
+B|Nice to get out of Texas for a while.|sd
+A|We went to Alaska.|sd
+B|Well, that's, that's the even, even farther away.|sd
+A|That is really nice.|sd
+A|It is so cool, you wear a jacket, you know.|sd
+B|Even in the Summer time, huh.|bf
+A|Yeah,|aa
+A|or keep one handy. Because it's, it rains a lot in Alaska.|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+B|Is that right?|bh
+A|Uh, it,|%
+A|they call it their liquid gold.|sd
+B|Um.|%
+A|But it, you know,|%
+A|you get sunshine,|sd
+A|and it's lovely,|sd
+A|and then it rains just enough to keep everything nice and moist and very green. And blooming.|sd
+B|Green.|^2
+B|Um.|%
+A|Oh my goodness, it's pretty.|ba
+B|Right.|b
+A|Well, Texas isn't bad.|sv
+B|No,|aa
+B|no.|aa
+A|Not in the Spring.|sv
+B|Right.|b
+B|I have to think every year to try to remember what it was, what's it supposed to like this time of year.|sd
+A|Spring is nice.|sv
+B|Yeah.|b
+B|Because March we usually get a lot of rain, in March, you know.|sd
+B|It'll seem the news, the Harold Taft, you know, on the local news.|sd
+A|Right.|b
+B|March we typically get a lot of rain,|sd
+B|and we've had this many inches,|sd
+B|and, you know, we're right on target, you know,|sd
+B|and just seem like we were getting a lot of rain in March,|sd
+B|but I|%
+A|Oh, we always we always do though.|sd
+B|it's hard to remember twelve months ago what it was like.|sd
+B|Yeah|b
+A|uh, it,|%
+B|I wish, I just wish it wouldn't come all at once|sd
+A|That's right,|ba
+A|and then we get all that heat.|sd
+A|Right.|b
+B|Well, it's just that, you know,|sv
+B|when it rains, it rains.|sv
+B|In California you get these nice, lovely rains, you know, nothing really you know, like downpours like you have here.|sd
+B|The other day we had some hail, the biggest hail I've ever seen in Texas.|sd
+A|Oh, really.|b
+B|Yeah,|b
+B|I live in Garland.|sd
+A|Oh, you got into that bad stuff.|sv
+B|Yeah.|aa
+B|We got hail the size of marbles.|sd
+B|I mean, just so noisy hitting the house|sd
+B|and the glass on the windows.|sd
+B|It didn't break anything,|sd
+B|but we went out there afterwards|sd
+B|and there's ice balls the size of marbles all over our lawn.|sd
+A|Isn't that strange.|ba
+B|I know, I,|%
+B|you pick them up, you know,|sd
+B|and they're perfectly round.|sd
+B|And I go, gee, how did they form, you know, so perfect like that.|sd
+A|I think that's one of the strange, strange things,|sv
+A|and you very seldom see it though.|sv
+B|Right,|b
+B|right.|b
+B|I've seen hail, you know,|sd
+B|but usually the size, you know, of, uh, tiny, tiny pebbles.|sd
+B|You know, really small, you know.|sd
+B|But this was, uh, really large.|sd
+A|So it had come, it's a drop of water that had come through quite a few rain clouds apparently.|sv
+A|Is that correct?|qy
+B|Uh, I don't know how hail is formed to tell you the truth.|no
+A|I think, I think that's,|sv
+B|You don't think it's cold enough, you know to,|sv
+A|It's not on the ground,|sd
+A|but in the clouds it is.|sd
+B|Right,|b
+B|must be.|sv
+B|I guess,|sv
+B|and then, I think, you know, all that falling would warm it up and melt it,|sv
+B|but maybe that's what rounds it, I don't know. But, tumbling.|sv
+A|I was dumb.|sd
+A|I was in, um, Florida for a week on business.|sd
+B|Uh-huh.|b
+A|And I had called back to the house.|sd
+A|I stayed the weekend,|sd
+A|and I called back to the house.|sd
+A|My housekeeper was baby-sitting my cats and dogs, pitched said something to the effect of, now we've made the national news, don't get upset, and don't worry,|sd
+A|it's in Garland where all the bad weather is.|sd
+A|I said, Okay, you know|sd
+B|Uh-huh.|b
+A|and I watched the news,|sd
+A|and I thought, ha ha, that's Garland, that's not Plano,|sd
+A|I don't have anything to worry about.|sd
+A|I was on the plane heading back to Dallas before it dawned on me, stupid, you own property in Garland|sd
+A|Felt so dumb.|sd
+B|Um.|%
+A|Finally I got home and found out my property was okay.|sd
+B|Yeah.|b
+A|There was no problem with it.|sd
+A|But I guess you just tend to think of, of where your house is you know, and nothing else.|sv
+B|Right.|b
+B|Right,|b
+B|and close to that, what's called Duck Creek that runs through part of Garland, that's the part that always seems to get hardest hit when there's, there's the hard rain.|sd
+A|Oh, oh, I see.|b
+B|The creek overflows|sd
+B|and a lot of houses, a lot of houses around that creek seem to, to get flooded|sd
+A|Oh, okay.|b
+B|the streets and stuff around that area,  get a lot of  flooding.|sd
+A|The house, that house,  that I bought is close to a Firewheel golf course.|sd
+B|Okay.|b
+A|Just going to be blocks off of that new highway one ninety that's going through.|sd
+B|Right.|b
+B|That's where I live, close to that.|sd
+A|Oh really.|b
+B|Yeah,|b
+B|uh, uh, not quite,|sd
+B|I don't live in that Firewheel division.|sd
+B|But I live close by there in north, far north Garland.|sd
+A|Is that a nice area?|qy
+B|Yeah|ny
+B|they're supposed to,|sd
+B|it's getting built up, you know, with more new, new shopping centers and things. You know,|sd
+B|it's a fairly new area.|sd
+B|Yeah|%
+B|and, uh, and they're supposed to be building a mall somewhere close by, by the next, by ninety-three or ninety-four or something,|sd
+B|a brand new mall not too far away from that area,|sd
+A|Well,|%
+B|so.|%
+A|The house that the house that I bought was really, really nice.|sd
+B|It'd be nice.|ba
+B|Uh-huh,|b
+B|in the Firewheel Estates there, whatever.|qy^d
+A|Yes,|ny
+A|yes.|ny
+B|Uh-huh.|b
+A|Really, really nice home, very pretty. Uh.|sd
+B|Uh-huh.|b
+B|But you're not living there right now.|qy^d
+A|No,|nn
+A|I'm going to lease it.|sd
+B|Oh, I see.|bk
+A|It's, it's investment property.|sd
+B|I see.|b
+A|But it is really, it's a very nice place.|sd
+A|Uh, I, I would cheerfully live there.|sd
+A|Of course it's not my home,|sd
+A|and I've lived in my home in, well, almost ten years,|sd
+A|and, you know, I've got everything just exactly like I want it.|sd
+B|Right.|b
+A|But if I were to live some place else, it certainly meets my standards.|sd
+A|It's a nice house.|sd
+B|Uh-huh,|b
+B|yeah,|b
+B|that's a nice area.|sd
+B|Is it on the golf course?|qy
+A|No,|nn
+A|it's not,|sd
+A|it's off the golf course,|sd
+A|and I'll be honest with you,|sd
+A|I'm going to have to get a map to figure out exactly where is the golf course versus where my house is.|sd
+B|Is that right.|b
+A|But it's in the estates that adjoin it.|sd
+B|Yeah,|b
+B|right,|b
+B|right.|b
+B|Well that's a nice area.|sd
+A|Yes,|aa
+A|it is.|sd
+B|That really is a nice area.|sd
+B|When they get that highway finished, you can hop on that and get anywhere you need to go fairly quick.|sd
+A|Yeah,|b
+A|that one nine that one ninety is just going to be the the outermost loop around.|sd
+B|Right,|b
+B|another belt line, just, uh, farther out.|sd
+A|Right,|b
+A|just continue to do that.|sd
+B|Right,|b
+B|right,|b
+B|right.|b
+A|Where are you from in California?|qw
+B|Southern California.|sd
+A|San Diego?|qy^d
+B|I've lived in San Diego for six years when I was a younger, and L A area,|na
+B|and my parents live in Anaheim right now.|sd
+B|Lived up north of Los Angeles in Thousand Oaks area, where the Cowboys have their training camp, or used to anyway.|sd
+A|I've been through all of that.|sd
+B|Yeah.|b
+A|Uh, there is an area beyond Thousand Oaks, north of Los Angeles that is really an eerie, strange looking area with boulders,|sd
+A|I|%
+A|they're not really hills,|sd
+A|they're more like just huge boulders with very little vegetation.|sd
+B|Huh.|b
+B|I'm not familiar with what,|sd
+B|is it along the coast or or inland.|qy
+A|Uh. Well, you know, it may be a little bit more inland.|sd
+A|That is one of the strangest areas I have ever seen.|sd
+B|Um.|%
+A|Uh, I had to go up to T I on business a couple years ago|sd
+B|Out there,|^2
+B|uh-huh.|b
+B|Uh-huh.|b
+A|and we went up that coastline,|sd
+A|and I was just amazed how unusual that looks.|sd
+B|Huh.|b
+A|Here, hang on just a second,|ad
+A|I've got a Los Angeles map.|sd
+A|Let me just quick|oo_co_cc
+B|Yeah,|b
+A|valley.|^2
+A|Yes|aa
+B|Okay,|b
+B|I know where that is.|sd
+A|beyond Thousand Oaks.|sd
+B|I know where Valley is,|sd
+B|I've been out there before,|sd
+B|sure.|%
+A|You don't think that's strange looking.|qy^d
+B|I didn't notice anything strange, I guess about it.|ng
+A|Oh, okay|bk
+A|maybe, maybe I'm used to Texas.|sd
+B|Maybe Texas the way,|sd
+A|The elevation is extremely high.|sd
+B|Uh-huh.|b
+A|It's got curving roads on it,|sd
+A|but, but the,|%
+A|it's just a strange landscape,|sd
+A|there's very little vegetation.|sd
+B|Huh.|b
+B|I didn't, I don't remember seeing that part of it.|sd
+B|I know Valley,|sd
+B|yeah,|%
+B|it's just a suburb of L A.|sd
+A|Right.|b
+A|It's a,|%
+B|And they've built some new highways out to that area, and things, lately.|sd
+B|People can get in and out of L A easier.|sd
+A|Maybe it's a place I went to,|sd
+A|it was far extreme, thought we'd never find the place.|sd
+B|Huh.|b
+A|It was interesting. Because we went out the Ventura highway to Thousand Oaks and on up through that way.|sd
+B|Yeah,|b
+B|sounds interesting.|ba
+B|Right.|b
+B|Right,|b
+B|right.|b
+B|I, I know exactly that area.|h
+B|It's a nice area out there.|sd
+B|I love Thousand Oaks.|sd
+B|Uh, Texas, I don't know,|h
+B|thing, things,|%
+B|you just have less a variety, I guess.|sv
+B|I think, I don't think it's quite as green, you know.|sv
+B|It's green with all the trees and things out here|sd
+B|but it's just,|%
+A|Oh, it's green sometime.|sd
+B|Yeah,|b
+B|but it's just, you know,|%
+B|I don't know.|h
+A|Well, it doesn't stay green, you know|sd
+B|Right.|b
+A|the really,|%
+A|and in all honesty,|sd
+A|I know this sounds like a Texas story,|sd
+A|all honesty, you haven't seen the hottest of summers if you've only been here five years.|sd
+A|We haven't had a really bad one,|sd
+B|Yeah|b
+B|I missed that one of eighty or eighty-two or eighty-one that had the heat wave.|sd
+A|Oh.|b
+A|It may be eighty-two, because we bought our house in eighty-one|sd
+A|and we built a pool in eighty-two,|sd

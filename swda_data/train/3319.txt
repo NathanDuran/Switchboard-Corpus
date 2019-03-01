@@ -1,0 +1,127 @@
+A|Golfer?|qy
+B|Well, yes,|ny
+B|I am as a matter of fact.|sd
+A|Well,|%
+B|Not a good one,|sd
+B|but I am a golfer.|sd
+A|Well, that's about the way I am.|aa
+A|I don't consider myself a good one,|sd
+A|but I do enjoy it.|sd
+B|I, uh, haven't been out all year.|sd
+B|I didn't get out this year,|sd
+B|but, uh, I enjoy both watching it and playing it.|sd
+A|I usually play a couple of times a month.|sd
+A|Sometimes more,|sd
+A|but lately it's been just about that.|sd
+A|But, I do enjoy,|sd
+A|I think the, one of the things I enjoy the most is the beauty of the golf courses.|sv
+B|Yes,|aa
+B|and, the, the peacefulness.|^2
+A|Uh-huh.|aa
+A|You can get out there,|sd
+B|And the little critters that are around.|^2
+A|Yeah,|b
+A|that's really neat.|sd
+A|You can just get out there and lose yourself in it and forget everything else in the world except what you're seeing out there.|sv
+B|That's right|aa
+B|and it's such a personal challenge.|^2
+A|Uh-huh,|aa
+A|yeah,|aa
+A|it really is.|aa
+B|More than competitiveness against someone else.|sv
+B|It's, it's a competitiveness against yourself.|sv
+A|And, you know, it's so frustrating,|sd
+A|I keep wondering sometimes why do I do this because it's so frustrating.|qh
+A|You think you do pretty good one day|sd
+A|and you're doing a whole lot better, you know,|sd
+A|and then all of a sudden you go back out|sd
+A|and it's just terrible.|sd
+B|Well, you'll,|%
+A|You can't do anything, right|sd
+B|Or you'll hear thirty and think, boy I got my game together.|sd
+B|I've had a par and a birdie, and a bogey|sd
+B|and then you quadruple bogey|sd
+A|And you think, my goodness, why did I think I was doing better|qh
+B|Being down there, do you, uh, get to see, like the colonial or any of those?|qy
+A|I don't,|%
+A|I guess I could.|^h
+A|I've never been to a golf, to a major golf tournament.|ng
+B|Oh.|b
+A|I, uh, watch them on T V a lot.|sd
+B|You really should go at least once.|ad
+B|You know, we've had, uh, the P G A up here.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|Uh, and in Tulsa|sd
+B|and I've been to both of them|sd
+B|and it's it is so much fun to see these players you see on T V to, and to hear that ball go whizzing by.|sd
+A|Really?|bh
+A|Uh-huh.|b
+B|I mean, it's, it's like a bullet going by.|sv
+A|I'll bet, um.|ba
+B|And, you know, to, to see their concentration and yet to see them, how friendly they are when they're, walk by you, you know, and how good they are to their spectators.|sd
+A|Uh-huh.|b
+A|Well, I've only been playing like about three years now.|sd
+A|My husband's played for twenty-five.|sd
+A|But, I just took it up about three years ago|sd
+A|and, uh, we play in a lot of couple's scramble tournaments.|sd
+A|We belong to a country club a little ways outside of Dallas,|sd
+B|Both,|%
+B|Yes.|b
+A|and, you know, it's fun to go on vacations and things and go to golf courses.|sv
+B|Yes,|aa
+B|it is.|aa
+A|You can meet some really neat people.|sv
+B|The scrambles are fun.|sv
+A|Uh-huh,|aa
+A|they really are.|aa
+A|I just love them.|sd
+B|I belong to the country club there in El Reno when I lived there|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|You really, on those, you really go out for fun.|sv
+A|That's right.|aa
+B|And, you know, you won't,|sd
+B|you know you're stroke is just one of one or two or three or four, you know, that's going to make any difference.|sv
+A|Uh-huh.|b
+A|That's right.|aa
+A|And you just do your own thing and be relaxed and enjoy it|sv
+B|That's right.|aa
+B|I used to, when I worked at Kerr McGee, I used to play in their tournaments.|sd
+A|Really?|bh
+B|And, uh, now that was very competitive.|sd
+A|Really?|bh
+B|And, I enjoyed it tremendously,|sd
+B|but, uh, I, I'm more, I think I get more enjoyment just couple friends going out.|sd
+A|Uh-huh.|b
+B|And if, if it takes one of us ten shots to get up to the green, so be it.|sd
+A|Uh-huh.|b
+B|You know, we just think, well, the next time has got to be better|sd
+A|Yeah,|b
+A|I have never played in any tournament except just a scramble.|sd
+A|They have a lot of them there at the club, you know,|sd
+A|they have A B C D type tournaments|sd
+A|and then they, they have the club championships and everything with the women's slots as well,|sd
+A|but, I don't know,|h
+A|I've just never really gotten into that.|sd
+A|Now, my husband and all the men, I mean, they love the real competitiveness of playing for money, you know.|sd
+B|Oh, yes,|b
+B|every hole.|bf
+A|Uh-huh.|b
+A|But I, I'm not good enough for that|sd
+B|Does your club have a good woman's association?|qy
+A|Yes,|ny
+A|they do.|sd
+A|I don't do much with it since, uh, most of theirs,|sd
+A|they have a traveling league,|sd
+A|and, uh, most of their meetings and all are during the week|sd
+A|and I don't, don't get to play except on the weekend.|sd
+A|I work during the week all the time.|sd
+B|It's hard to be a weekend golfer and improve your game.|sv
+A|Uh-huh.|b
+A|Someday when I, I get where I live closer to the club and partially retired, maybe I'll, uh, be able to play a little more|sd
+A|but,|%
+B|It, uh, it's, it's a, it's a good game.|sd
+B|I, uh, I wish I had more time to play|sd
+B|and I felt, you know, had more energy to play it, too.|sd
+A|Uh-huh.|b

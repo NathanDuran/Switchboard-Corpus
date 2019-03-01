@@ -1,0 +1,129 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|What would you rather have?|qw
+A|Or you want salary too plus what?|qrr
+A|What's most important to you?|qw
+B|Well, as far as tangible benefits go I would say that, uh, health insurance of all forms is probably my next most important concern.|sv
+A|Right.|b
+B|I feel that a company that can provide good health benefits such as health care, dental and vision as well as good long-term and short-term disability plans, uh, goes a long way toward satisfying my needs.|sv
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Well, I'll tell you.|oo_co_cc
+A|I think that is the most important thing|sv
+A|I've, uh, I'm not working right at the moment|sd
+A|but the company that I did work for|sd
+A|excuse me I had health benefits. You know, dental, vision, all that, pension plan, uh,|sd
+A|now I don't have that, although I do have a pension that I'm drawing from them which, thank God, I had.|sd
+B|Right.|b
+A|But, uh, man, I think those medical benefits are the most important.  Uh,|sd
+B|You,  you really don't realize how important they are until you find yourself on the other side of the fence without them and having to cover your own medical|sv
+B|and, uh, you can quickly see where they become a very important part of your, your compensation package.|sv
+A|Right.|b
+A|Uh, I should knock on wood.|sd
+A|I haven't, you know, had any serious health problems or anything.|sd
+A|I've only probably been to the doctor a couple of times since I left work|sd
+A|and it was only for a cold, you know,|sd
+A|and they can't really do anything for you anyhow,|sv
+A|so you might as well not even go|sv
+B|Yeah,|b
+B|they look at you, say, well you're still breathing,  so, uh,  Yeah.|sd
+A|Yeah,|aa
+A|right|aa
+A|Oh, you've got a cold.|^2
+A|Go home and take, uh, liquids and, uh, rest.|^2
+A|But,|%
+A|uh, that is definitely, the most important.|sv
+A|Uh, pension, I guess, is next.|sv
+A|Uh, thank God that I had one.|sd
+A|I don't know what happened to the salary employees when, uh, the company went bankrupt|sd
+A|but I was union,|sd
+A|so mine was being put into a, like a trust fund, you know.|sd
+B|Right.|b
+A|So, but I don't know if they ever got anything or if they lost all of theirs|sd
+A|or,|%
+B|I suspect that it just disappeared.|sv
+A|Yeah,|aa
+A|that's what I was thinking too.|aa
+A|I really feel sorry for all those people that spent all that time there, you know.|sd
+B|Right.|b
+A|So where,|%
+A|what company do you work for?|qw
+B|Uh, I work for a little start-up company here in Pittsburgh called Trans Ark.  Uh,|sd
+A|Um,  uh-huh.|b
+B|Have you heard of them?|qy
+A|No.|nn
+B|They,|%
+B|we do, uh, distributive system software for Unix based workstations|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+A|Uh-huh.|b
+B|So.|%
+A|No,|nn
+A|I,  I worked for a trucking company P I E, nation wide.|sd
+A|You probably heard  of that|qy^d
+B|Ah, yes,|ny
+B|yes.|ny
+B|In fact, my mom drives trucks|sd
+B|so,|%
+A|Oh, does she really?|bh
+B|Yes.|ny
+A|Oh, how about that.|ba
+B|So, yeah,|b
+B|I see, uh,|ba
+B|after the merger, uh, you see a lot of Ryder PIE stuff on the road.|sd
+A|Well, you did.|sd
+B|So, did, did Ryder get out of the business?|qy
+B|Is that what happened or?|qy
+A|Well Ryder and P I E went together  you  know,|sd
+B|Right.|b
+A|and then, then that ended it|sd
+B|Huh.|b
+B|So that the merger pretty much ended the whole thing.|sv
+A|It really did.|aa
+A|It's, it started, I think, a little bit before that|sv
+A|but that,|%
+A|when P I E and, and Ryder went together, why that was downhill from then on, you know.|sv
+B|Yeah,|b
+B|and the, the problem with that is, you know, when you leave a job, you can continue your benefits for some finite period of time.|sv
+A|Right.|b
+B|But when, when the company goes bankrupt, I mean, the, they're just cut off completely|sv
+B|and you're responsible for your own.|sv
+A|Right.|b
+B|And,  and that's exceedingly expensive.|sv
+A|Yes,|b
+A|it was over three hundred fifty dollars a month if we wanted to continue our own benefits.|sd
+A|We could do that for eighteen months.|sd
+B|Right.|b
+A|But three hundred and fifty dollars a month.|sd
+B|It's definitely excessive.|aa
+A|So, but anyhow, uh, and jobs aren't that hard to find, to get another one that does pay your benefits, you know.|sv
+B|True.|aa
+A|And a  lot of them that,|sv
+A|if you do get a job, they don't pay benefits.|sv
+B|Yeah,|b
+B|they're starting to, to cut back. Especially start-ups.|sv
+B|I know here at Trans Ark, we get, uh, we get health care|sd
+B|and that's it.|sd
+A|Uh-huh.|b
+B|I mean, there's no dental or vision.|sd
+A|Uh-huh.|b
+B|And the, the short-term disability policy is, is a ninety day policy|sd
+B|and there is no long-term disability policy.|sd
+A|Huh.|b
+B|So, you know, at least in the case of this particular company, they tend to scrimp a little bit  there.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+B|And, you know, of course, they can use the excuse|sv
+B|well, we're start-up.|^q
+A|Yeah,|aa
+A|right|aa
+A|But you know what's happening is the, disability plan, you know,|sv
+A|so many people are lying about their things.|sv
+A|God, there's been big articles in the paper about that.|sd
+A|Uh, you know, they claim a back injury|sd
+A|and then someone goes out and spies on them|sd
+A|and they're lifting refrigerators into trucks and and everything else, you know.|sd
+B|Right.|b
+A|So I don't know what's happening and what's going to happen.|sd
+A|But, uh|%
+B|Well that certainly doesn't help matters any.|sv
+B|I mean, you, you get people who are willing to put their neck on the line to get you, you know, these additional benefits,|sv

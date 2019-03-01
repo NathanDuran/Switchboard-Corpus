@@ -1,0 +1,129 @@
+A|Brian in Plano, Texas. How are you doing today?|fp
+B|Hi,|fp
+B|fine,|fp
+B|I'm Nancy.|sd
+B|How are you?|qw
+A|Great, Nancy.|sd
+B|I'm in Plano also|sd
+A|You're in Plano also, huh?|sd
+B|Yes,|b
+B|we're not too long distance today.|sd
+A|Well, good to hear.|b
+A|I was just talking to someone the other day from Pennsylvania.|sd
+B|Oh, that was good.|ba
+B|Utah, I've had a couple of,|sd
+B|but that was it.|sd
+A|Really?|qy
+B|Yeah.|ny
+A|All right.|bk
+A|Well, good to hear,|b
+A|good to hear.|b
+B|Learned about their basketball team|sd
+A|Which one?|qw
+B|Uh, Jazz.|sd
+A|Oh, yeah.|b
+B|Yeah.|b
+A|The Utah Jazz.|sd
+B|Yeah.|b
+A|Yeah,|b
+A|they're, they're pretty good.|sv
+A|They've got some good good, some good, uh, good players out there.|sv
+B|Yeah.|b
+A|Well, you ready for New Year's Eve?|qy
+B|I am.|na
+A|Good.|ba
+A|Should we, uh, start this so we can,|ad
+B|Okay.|aa
+A|What was your name again?|qw
+B|Nancy.|sd
+A|Nancy, that's right,|sd
+B|Right.|b
+A|and I'm Brian.|sd
+B|Right.|b
+A|Just a moment|ad
+A|Okay Nancy, then I guess the, today's subject is benefits in the job other than salary.|sd
+B|Right.|b
+A|What, uh what do you feel are important to you or other people as, as crucial benefits?|qw
+B|Uh-huh.|b
+B|Well, I'm a little different than other people because I don't have benefits with my job.|sv
+A|Uh-huh.|b
+B|I'm a nurse|sd
+B|and I work,|sd
+A|Oh|b
+B|I float so that I have no benefits except higher pay for doing that.|sd
+A|Uh-huh.|b
+A|Right.|b
+A|Uh-huh.|b
+B|So I find that it makes up for what I pay for insurance|sd
+B|and I, I make enough money by the hour to make up for that.|sd
+A|To, to compensate for some of the benefits.|qy^d
+B|Right.|na
+B|Uh-huh.|ny
+A|Oh.|bk
+B|Yeah,|b
+B|it's cheaper for me to buy insurance by the month than to work staff someplace.|sd
+A|Yes.|b
+B|And then I have my freedom.|sd
+B|I can work seven days in a row and take a week off or whatever I want to do.|sd
+A|Well, that, that's an excellent,|ba
+A|so actually that is a benefit, uh,|qy^d
+B|Well, it is to me.|na
+B|Most people prefer the security of nine to five, and weekends off and knowing that their insurance is paid and their retirement,|sv
+A|Yeah.|b
+B|and I'm just really not interested in all that.|sd
+A|Right.|b
+A|Right,|b
+A|well I guess that's a good point, uh,|sv
+B|Uh-huh.|b
+A|I do belong to a, a large corporation|sd
+A|or my, that where I'm currently employed|sd
+A|and there's, uh, there's some different things, uh, one that you've already mentioned is, is health insurance.|sd
+A|I think through our health insurance that I can get better rates as a, through a group plan as opposed to going out and getting health insurance on an individual basis because I had to do that at one time when I wasn't employed with a large corporation|sd
+B|Right.|b
+A|and that got to be somewhat expensive,|sd
+A|so I I think one of the benefits I, I see is the, uh, is the group, uh, group discount.|sd
+B|Yeah.|b
+B|Right,|b
+B|and especially if you have a family.|sv
+A|Yes.|b
+B|Then I think it makes a big difference.|sv
+A|Yes,|b
+A|and that's, that's one thing I do have.|sd
+B|Yeah.|b
+A|If I didn't have a family, I don't think I would have, as, as a male or as a, as an individual of, in this stage of my life,|sd
+A|I don't think I would have insurance, uh, other,|sd
+B|Right.|b
+A|I don't think I would go through that expense.|sd
+A|One other benefit that you mentioned is the flexible work hours|sd
+A|and in my previous job, I really enjoyed because they had what was called flex schedule where I could go and I could work, uh, nine hour days and have like Friday only work four hours|sd
+B|Oh, yeah.|b
+A|or I could do, uh, work four days a week at ten hours a day and have a, you know, three day weekend. And make, uh, make my job flexible in that case.|sd
+B|Right.|b
+B|Could you change that as you felt like it|qy
+B|or did you have to do it the same every week?|qrr
+A|Well, basically, yeah|sd
+A|I had to do, that, uh, the same, uh, for about every quarter of the year.|sd
+A|I mean uh, because I was in a, in a position of management I had responsibilities over people that, uh, I needed to make my schedule, uh, so that if I was not there I would have coverage by some other management personnel,|sd
+B|Uh-huh.|b
+A|so, so I, I think that, uh, that was a, that was an excellent benefit that I really enjoyed|sd
+B|Yeah.|b
+A|and I don't have that in my current operation,|sd
+A|but, uh, you mentioned, uh, flexible work schedule|sd
+A|and that's, that's good.|sv
+B|Yeah.|b
+A|And, uh, what other benefits do you think are important?|qw
+B|Oh, well, I guess, retirement, that kind of thing which I don't worry much about so|sv
+A|Yeah,|b
+A|yeah,|b
+A|that's true.|ba
+B|I just prefer to worry about today,|sd
+B|probably not a practical attitude|sd
+B|but that's who I am|sd
+B|so,|%
+A|Well, and that's an individual thing.|sv
+B|Uh-huh.|b
+A|Yeah,|b
+A|with, uh, with our current, uh, organization, we do have a nice retirement package|sd
+A|and also a, a nice thing that, that we have in our corporation is a, uh, is a profit sharing plan where we can, uh, participate in the, the profits of the company. If we're, you know, if we've been there a while and we're vested, uh, which means that, you know, we have a, an interest, uh, in the company that we can, uh, get some of the benefits of the, either the profit high times or, or in a sense, suffer during the low times|sd
+B|Right.|b
+A|and, uh, also, uh, in one of my wife's, uh, companies where she worked, they'd had a real nice profit sharing plan that, that,|sd

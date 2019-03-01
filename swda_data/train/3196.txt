@@ -1,0 +1,117 @@
+A|Hello.|fp
+B|Hello.|fp
+A|Hello,|fp
+B|Hello,|fp
+A|Hi.|fp
+A|Boy|ba
+A|it took forever to find somebody.|sd
+B|Oh, well I'm glad you found me.|sd
+A|Good,|ba
+A|well I'm, my name's Gail,|sd
+A|and I guess we have to, talk about credit cards.|qy^d
+B|Yes.|ny
+B|My name is Carolyn.|sd
+A|Okay,|b
+A|well, if you're ready, then uh,|qy^d
+B|Okay.|aa
+B|I'll just let you start,|sd
+A|Okay,|aa
+A|I'll press one|sd
+A|Okay,|%
+A|well, I'm not,|%
+A|this is kind of an interesting subject to come up for me, because credit cards are my downfall.|sd
+A|I just find it so easy to, to charge something when I don't have the money to pay for it,|sv
+A|and I'm really trying to get out of that habit.|sd
+A|So. I think they're kind of dangerous.|sv
+B|I think they are, too.|aa
+B|And, unfortunately, um, we use ours in, we don't use them all the time,|sd
+B|but we use them like at Christmas time,|sd
+B|and then it seems like it takes all year to pay them off when you use them like that|sv
+A|Uh-huh.|b
+B|But, um, I would love to just take some scissors and cut them in half.|sd
+A|Yeah,|aa
+A|me too.|sd
+B|I think sometimes when you look at the interest that you're paying on them, um, that's what gets to be the really scary part, you know, if you think, when it comes around to income tax time, and you look at how much money you paid out just in interest all year,|sv
+B|you could really get a lot more stuff if you were just able to pay outright for it.|sv
+A|Uh-huh.|b
+A|Yeah,|aa
+A|that's true,|sv
+A|that's true.|sv
+A|Seems just like our society is so, um, pushes so hard for, you can have it, you know, and then no interest, no payments for a year, and stuff like this,|sv
+A|they're really trying to get you into that situation, because they know they've really got you then,|sv
+A|so.|%
+B|all I know is some of my credit cards,|sv
+B|like, um, we have a Sears one,|sd
+B|and we always get a maintenance agreement every year|sd
+A|Uh-huh.|b
+B|and it's just easier to say, you know, just put that on my credit card.|sv
+B|Well that's probably four or five hundred dollars, you know, that goes on at that point|sv
+A|Uh-huh.|b
+B|and then it seems like takes forever to pay that off.|sv
+A|It's funny, that we've got a Sears card, and we bought a washer and dryer on it, four years ago, and we still owe.|sv
+A|I mean, I, I think like half the amount that they cost in the first place.|sd
+B|Wow.|ba
+A|It's just, uh, you know, you never, never get it out,|sv
+A|and now that's real irritating.|sv
+B|It sure is.|aa
+B|We eventually did,|sd
+B|one time we just borrowed, took a personal loan and paid off all our credit cards,|sd
+B|and the interest on the loan was cheaper than it was, you know, to just have that.|sd
+A|Uh-huh.|b
+B|We haven't done it lately.|sd
+B|We probably need to do it again.|sv
+A|Well, we did, you know,|sd
+A|one time, we wanted to buy a truck, a used truck,|sd
+A|and so we went down to the bank,|sd
+A|and they said, Sure we'll give you a personal loan.|sd
+A|It was only a thousand dollars that we needed for the truck.|sd
+B|Uh-huh.|b
+A|And they said, sure that's no problem, but, you know, why don't we consolidate your bills,|sd
+A|and at the time we thought, Oh, that would be great, you know, we could,|sd
+A|and it's going to be a lower payment than it was for all of them,|^q
+A|you only have to write one check a month, not all those.|sd
+A|You never miss one or whatever|sd
+B|Uh-huh.|b
+A|and we did that,|sd
+A|but we didn't realize at the time, until several months later, that we, we were real,|sd
+A|I mean this was four three years ago,|sd
+A|we were pretty young|sd
+A|and we were just kind of like,|sd
+A|well, I guess that means these credit cards are closed,|^q
+A|and we didn't, you know,|sd
+A|about six months later we realized we could use them,|sd
+A|and so we charged them all up again.|sd
+B|Oh, no.|ba
+A|Yeah.|b
+A|So then we were not only paying those bills regular like we were before, but also adding the lower payment for all of them,|sd
+A|So we were paying like twice.|sd
+A|Um, so we didn't ever make that mistake again, luckily|sd
+A|But, uh, we're definitely working on not doing that credit thing.|sd
+A|We just,|sd
+A|as a matter of fact, this, it's real interesting the subjects I get.|sv
+A|They always seem to be so pertinent.|sv
+A|But we just discussed this last night at church, talking about debt and things like that.|sd
+A|It's so, so alluring, and uh, so easy to get,|sv
+B|Uh-huh.|b
+A|uh, sometimes,|%
+B|I know,|aa
+B|they really encourage you not to go into debt for anything except for maybe your house and your car.|sd
+A|Uh-huh.|b
+A|Yeah,|b
+A|yeah,|b
+B|And, uh, if you could stick to that, you know, we'd get rid of a lot of indigestion and everything else.|sv
+A|Yeah.|b
+A|That's true.|aa
+A|Oh, I just picked up my daughter|sd
+A|and she was eating a cupcake and now her crumbs all over.|sd
+B|Oh, dear.|ba
+A|Yeah.|b
+A|What a mess you are.|t3
+A|Oh, so I don't know, if I, if I, I just feel kind of.|h
+A|My big thing was my husband really wanted to get rid of our Visa card,|sd
+A|and I just thought, you know, if we ever had something go wrong with our refrigerator or something, you know and we had to, had to buy one, then we would really need that,|sd
+B|Uh-huh.|b
+A|and so he said, Okay we'll keep it,|sd
+A|and then we weren't smart enough to not use it,|sd
+A|so.|%
+B|You know, one thing you might do with, in a situation like that, though, it's just like keep,|sv

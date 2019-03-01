@@ -1,0 +1,120 @@
+A|I'm ready|fo_o_fw_"_by_bc
+B|Why don't you go ahead and start off|ad
+A|Okay,|aa
+A|well, I don't have an elderly person that I could send to a, a nursing home or anything.|sd
+A|My, both of my parents are dead,|sd
+A|but I did have a friend that was in a convalescent home, uh, like a nursing home|sd
+A|and I went there very often to visit her and, uh, made me feel really sad.|sd
+A|If I did have a mother living, I don't think I could do that.|sd
+A|I think they would be better off being at home with their family, you know.|sv
+B|I agree, although, we're in that situation right now.|aa
+A|Uh-huh.|b
+B|We have a, an eighty seven year old mother in law living with me right now|sd
+A|Uh-huh.|b
+B|and because of her circumstances she can no longer live independently.|sd
+B|And even moving from her house to our house has been tremendously unsettling for her|sd
+A|Uh-huh.|b
+B|and we have several young children|sd
+A|Uh-huh.|b
+B|and they about drive her crazy.|sd
+A|Oh, I can believe that.|ba
+A|Yes,|%
+A|because most elderly people can't take having a lot of noise and kids running around and things like that.|sv
+A|In a situation like that maybe it would be better.|sv
+B|Well, we've, you know, we've struggled a lot with it because, again, most of the nursing homes I've been in are very depressing to me.|sd
+A|Uh-huh.|b
+B|And she's still alert enough that I think she would really know that we were putting her there|sd
+A|Oh, yeah.|b
+B|and I think she would really resent it,|sd
+B|and I think that would make it very hard.|sd
+A|Uh-huh.|b
+B|But, on the other hand, I see my wife with,|sd
+B|I guess our youngest one now is five|sd
+A|Oh.|b
+B|and her trying to struggle because her mother really cannot take care of herself.|sd
+B|She needs to be bathed and dressed and a lot of those kinds of things.|sd
+A|Uh-huh.|b
+A|Oh|b
+A|see, now that's, that's, that's really a sad situation.|sv
+B|And so the drain on the family.|sv
+A|Yeah,|aa
+A|really, you know.|aa
+B|And when the kids have kids come, you know, she's always saying, you know, why do they have to be here,|sd
+B|why can't they send them home,|^q
+B|it's too noisy|^q
+B|and she'll say that to the kids' friends.|sd
+A|Uh-huh.|b
+A|Yeah,|b
+A|right,|b
+A|right.|b
+B|So it's a hard situation, either way, I think.|sv
+A|Yeah,|aa
+A|in a case like that, you know, you more or less think it would be better if she were in a nursing home because you have your family growing up where,|sv
+B|I think that's one of the things we're really wrestling with.|sd
+B|When does it become detrimental to our family to the point that you have to consider that as opposed to considering her current circumstances|qh
+A|Uh-huh,|b
+A|uh-huh.|b
+B|and,|%
+A|Uh-huh,|aa
+A|but the cost of these nursing homes are so, You know,|sv
+B|Oh, prohibitive.|^2
+A|a lot of people can't afford that.|sv
+B|Yeah.|b
+A|You know, so you really have no choice that way if you, you know, if you're not rich or you know.|sv
+A|Uh, I know this lady that, you know, that was a friend of mine,|sd
+A|now her husband was still alive at the time when she was in there, you know,|sd
+A|and it was costing him a small fortune to keep her in there.|sd
+B|Yeah.|b
+A|So,|%
+B|I think we need to develop some alternatives like adult day care that's more readily available, you know,|sv
+A|Uh-huh.|b
+B|I think if we could send her someplace for the day and she could be around some elderly people and have some activities would be of more interest to her and then in the evening have her return and be with the family.|sv
+A|Yeah,|b
+A|then bring her back home at night.|^2
+A|Uh-huh,|aa
+A|uh-huh.|aa
+A|Yeah,|aa
+A|you know, just come home for dinner|sv
+A|and then usually they want to go to bed fairly early anyhow.|sv
+B|Yeah.|b
+A|You know, so that would probably be nice if we could ever get something like that|sv
+A|but,|%
+B|But there's not many of those available right now|sv
+A|Yeah.|b
+B|and they're very hard to get them into|sv
+B|and we tried sending her to a senior citizen center.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|But they're really not prepared to cope with her because she's somewhat senile.|sd
+A|Uh-huh.|b
+B|And so a lot of the activities that they're engaged in, she can't participate in.|sd
+A|Uh-huh,|b
+A|uh-huh,|b
+A|um.|b
+B|But I think it's an issue that, you know,|sv
+B|with the graying of America, we're really going to have to, as a, as a country figure out how we're going to deal with this.|sv
+A|Uh-huh.|b
+B|Because it is a difficult situation|sv
+B|and, you know, you hate seeing them just, sort of send off and not well cared for.|sv
+A|Yeah,|aa
+A|if if they don't know anybody and they don't know what's going on around them and everything like that, well, I can see, maybe a nursing home would be better, you know.|sv
+B|And yet,|%
+A|But if they, they have their wits about them and everything, why, it's kind of hard|sv
+B|And then I think it depends on their physical ability, too, you know,|sv
+B|if they could be up and doing some things it might be better than when they're just sort of needing almost constant supervision and care.|sv
+A|Uh-huh,|aa
+A|uh-huh.|aa
+A|Uh-huh,|aa
+A|uh-huh.|aa
+A|Well, uh, my mother always said she hopes she never had to be like that|sd
+A|and, uh, luckily, I mean, she lived by herself|sd
+A|and then, you know, one day she had a heart attack|sd
+A|and she was gone,|sd
+A|so she never did have to go into a nursing home or anything like that,|sd
+A|but there's, so many of us kids, there was like seven of us that, my, we wouldn't have probably allowed that to happen anyhow.|sd
+B|Yeah.|b
+A|You know, she could have taken turns living with each one of us, you know, for a a a period of time because we all don't live in the same city anyhow, nor the same state|sd
+A|so,|%
+B|Do you live at all close to each other?|qy
+A|Uh, I, I have a couple more that live out here in California,|no
+A|but then I have a|sd

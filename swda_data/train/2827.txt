@@ -1,0 +1,254 @@
+A|Okay, um, do you like to cook?|qy
+B|Well, I love to cook as a matter of fact I'm making dinner right now|na
+A|Oh, really,|b
+A|what are you making?|qw
+B|Um, I, um, I'm making, some, uh,|sd
+B|I have a little turkey left from a passover which was in April.|sd
+A|Uh-huh.|b
+B|And I had frozen it|sd
+B|and I'm defrosting that and making some dressing and gravy and making corn and wheat stuff that you can buy at a store, which is like, uh, rice pilaf,|sd
+A|Uh-huh.|b
+B|but  we|%
+B|with, with, with wheat kernel that,|sd
+A|And do you cook,|qy
+A|I mean are you single do you cook every night for yourself?|qy
+B|No,|nn
+B|um, I'm married|sd
+B|and actually the,|%
+B|my wife is a vegetarian,|sd
+A|Uh-huh.|b
+B|so  this isn't for her,|sd
+B|this is for our friends that came over and helped. helped me do some stuff|sd
+A|Uh-huh.|b
+B|so,|%
+A|Uh-huh.|b
+B|stuff  so,|sd
+A|Uh-huh.|b
+B|he  and I,|%
+B|and, and she's having,|sd
+B|I, I do cook, um, virtually,|sd
+B|I cook most of the time because I,|sd
+A|Uh-huh,|b
+A|well like if you were having a dinner party what, would you cook a variety of things, I mean, you know, vegetarian and nonvegetarian?|qy
+B|Yeah,|ny
+B|we, we, consistently,|sd
+B|if we cook,|%
+B|if, if we have a dinner party we usually make it vegetarian just to make life easier.|sd
+A|Uh-huh.|b
+B|So we'll make something, you know, uh, some sort of pasta or something,  you  know, homemade pasta or lasagna or something.|sd
+A|Uh-huh.|b
+A|Yeah,|b
+A|that's something that's, you know, really easy.|sd
+A|In fact I'm having a dinner party next Saturday|sd
+A|and that is what I'm having is pasta.|sd
+B|Oh, good idea.|ba
+A|Well for,  for  Christmas I got a, um, pasta machine,|sd
+B|What,|qw
+B|Um.|b
+A|and  all, all my friends are really anxious, you know, to have the homemade noodles|sd
+A|so, um,|%
+B|Electric or, uh,|qy
+A|No|nn
+A|it's the hand kind,  old  fashion kind|sd
+B|Best,  kind.|sv
+B|That, that, that, that's|%
+B|we, we bought one in Italy.|sd
+A|Uh-huh.|b
+B|That's the best kind to have.|sv
+A|Yeah,|b
+A|yeah,|b
+B|Uh-huh,|b
+B|that's real  good.|ba
+A|But, um, yeah,|b
+A|so that's what I'm going to be cooking, you know,|sd
+B|Um.|b
+A|I  thought I would|sd
+A|, um, pasta salad first,|sd
+A|and, um, then just something for desert, you know, bread and wine and cheese stuff like that.|sd
+B|That would be great.|ba
+B|Have you made pasta before?|qy
+A|Uh-huh.|ny
+A|Yeah.|ny
+B|Um, so you know, so you know that it's a, a lot of fun actually.|sv
+A|Yeah,|b
+A|yeah.|b
+B|I,|%
+A|A lot of people think though that I've talked to about it think that it's, you know a lot of hard work|sd
+A|and I said heck it's kind of easy.|sd
+B|It actually is, if, if, if you have a food processor,|sv
+B|I don't know if you have a food processor or not.|qy^d
+B|Actually,  it, it turns  out that if, if you really want to be nice and easy about it you can make the dough in the food processor really simply.|sd
+A|Yeah,|ny
+A|I do.|sd
+A|Uh-huh.|b
+A|Right,|b
+A|right.|b
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|I making yucky .|sd
+A|Uh-huh.|b
+B|It's also,|%
+B|people think it's real hard,|sv
+B|it just time consuming to get all of the little things right.|sd
+A|Uh-huh.|b
+B|Otherwise it's real ,|sd
+A|Uh-huh.|b
+B|it's  good stuff.|sd
+B|What other kinds of, uh, dinner parties do you serve?|qw
+A|Um, well, I don't entertain that often,|sd
+A|uh, when I do though I, I have some friends that I always like to experiment on.|sd
+A|But, you know, um, I see a recipe and think, oh wow, I'd really like to try this, cause I'm single|sd
+A|and I live by myself,|sd
+B|Uh-huh.|b
+A|so  it's not necessarily something that I would cook just for myself.|sd
+B|Right,|b
+B|you didn't want to cook.|bf
+A|but, here we go|ad
+A|and usually I'm, I'm pretty good about it.|sd
+B|That's great.|ba
+A|Um, I have this really good recipe for this, um, pork chop and apple casserole kind of thing|sd
+A|and, um, you put stuffing and put poached apples and everything|sd
+A|and my girlfriend and her husband loved it,  in  fact she passed it on to her parent|sd
+A|and I was quite impressed with myself if I should say so.|sv
+B|Yeah,|b
+B|that's how these things sort of make it for one person as an experiment  little  bit and little here and there|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Well, I'm the kind of cook that I don't normally measure things,|sd
+A|I just kind of throw them in|sd
+A|and, you know, I don't to the point of, you know, measuring down to the exact amount that they say.|sd
+B|That means you're a real cook.|sv
+A|Oh, is that what it means.|bd
+A|Uh-huh.|b
+B|It's real good.|sd
+A|Uh-huh.|b
+B|Yeah,|b
+B|we have a, we do, uh, uh, middle eastern dinner quite a bit actually,|sd
+A|Uh-huh.|b
+A|No,|nn
+A|I haven't.|sd
+B|We make, uh, cause we're my wife is Syrian.|sd
+A|Uh-huh.|b
+B|And, um, her families always have this food she grew up in,|sd
+B|and I've made some of it before as well,|sd
+A|Uh-huh.|b
+B|so  we make, uh, four or five middle eastern dishes that are just all real simple.|sd
+A|Uh-huh.|b
+B|We put them out for people|sd
+B|and that's always a real big kick for people who want, you know, who've never tried it before.|sd
+A|Uh-huh.|b
+B|That's , that's, that's, that's a fun idea I mean if you ever, uh, want something different to try.|sd
+A|Uh-huh.|b
+B|I would try that.|oo_co_cc
+A|Um, yeah,|b
+A|I've been wanting to take an, um, oriental cooking class|sd
+A|and I just haven't gotten around to it yet.|sd
+B|Oh, do you have a wok though?|qy
+A|Yeah,|ny
+B|Yeah.|b
+A|I  stir fry things on occasion|sd
+A|but I'd like to know more about, you know, more elaborate things like guess.|sd
+A|Uh-huh.|b
+B|it's  easy, um,|sd
+B|and the food just comes out,|sd
+B|you know, if you do it right I think it comes out, the food comes out very tasty not very mushy,|sd
+A|Uh-huh.|b
+B|you  know, and, and it doesn't taste like a million calories of oil|sv
+A|Uh-huh.|b
+A|Uh-huh,|b
+A|really.|b
+B|Yeah,|ny
+B|we, we, we like to eat even when we eat out and stuff we eat a lot of Chinese food,  or  Japanese food or, you know,  Korean  ,|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|and  that seems to,|%
+B|so wok food seems to be our thing.|sd
+A|Uh-huh.|b
+B|So anything else you cook|qo
+A|Um, I just kind of, you know cook here cook there|sd
+A|I don't have any one specialty|sd
+A|I mean I'm always willing to try anything usually.|sd
+B|Well, that's good,|ba
+B|that's always the way to do it.|sv
+B|I think it's, uh, .|%
+A|And I, I especially like baking and making deserts.|sd
+A|I've taken a cake decorating class|sd
+A|and,|%
+B|Oh, the Wilson course?|qy
+A|No,|nn
+A|no,|nn
+A|actually it was a private course,  through like a|sd
+B|I like it .|sd
+B|That's great,|ba
+B|I haven't the Wilson class.|sd
+A|It is, it's, it's neat but it takes a long time,|sd
+A|and it's like, you know, you bake the cakes|sd
+A|and then I guess just because I don't have the expertise to just hurry up and do it,  like,  you know, some, a professional would I try to, I go real slow|sd
+B|Right.|b
+A|and, you know, it's a little time consuming,|sd
+B|Uh-huh.|b
+A|but  it's really worth your effort once you see how you do.|sv
+B|Yeah,|b
+B|oh, yeah,|b
+B|we have, um,|%
+B|my brother can do it,|sd
+A|Uh-huh.|b
+B|he's,  he's, uh, got a degree in business management|sd
+B|so he learned to, uh, how to do this .|sd
+A|Uh-huh.|b
+B|Can you hold on one second?|ad
+A|Sure.|aa
+B|Thank you.|ft
+B|Sorry about that.|fa
+A|That's okay|bd
+B|Some one kept beeping in our calling waiting ,|sd
+A|Uh-huh.|b
+B|so.|%
+A|Uh-huh.|b
+B|Yeah,|b
+B|he, he, does that a lot,|sd
+A|So.|%
+B|so,  you know, he cooks a lot  you  know, he bakes a lot whenever he,|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|and he baked us, he made a real big cake himself,|sd
+A|Uh-huh.|b
+B|It was amazing|ba
+B|I never ,  could  do anything with cakes|sd
+A|Uh-huh.|b
+B|and it's,  it's  just horrible.|sd
+A|Well, you learn helpful hints in the classes at least.|sv
+B|Yeah,|b
+B|I'm,|%
+A|You know, the instructor told us certain things about well, don't follow what's really necessarily on the box, you know, if you're making just a cake from a box, you know, do this cause, you know, make it a variety.|sd
+B|Oh that, that you mean about the,  mix itself.|bf
+A|You know, some different hints.  Yeah.|sd
+B|Well, that helps.|ba
+A|Some different hints, you know, and the different the different kinds of frostings you can make,|sd
+A|you know, and I have a book an it,|sd
+A|and, you know, all of the different, you know, decorating tips an things like that.|sd
+B|Yeah.|b
+A|So.|%
+B|Well, most frostings are sort of butter cream to aren't they. * to = too|qy
+A|Yeah,|ny
+A|yeah.|ny
+B|Those are, those kill me|sd
+B|it's like, it's like I'm eating sugar,|sd
+B|but they're good sugar.|sd
+A|Well, yeah|b
+B|I think that's part of the problem,|sv
+B|yeah.|%
+A|Yeah,|b
+A|so that's about it.|fc
+B|Yeah,|fc
+B|I guess so.|fc
+A|Okay, well.|fc
+B|It was, it was a pleasure chatting with you.|fc
+A|It was nice talking to you.|fc
+B|Yes,|fc
+B|well, have a good time cooking for your dinner party next week.|fc
+A|Thank you.|fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

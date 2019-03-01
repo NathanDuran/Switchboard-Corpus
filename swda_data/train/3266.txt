@@ -1,0 +1,142 @@
+A|Very good.|fo_o_fw_"_by_bc
+A|Uh, discussion or on child care.|sd
+B|Do you have any children?|qy
+A|Uh, they're all grown up.|arp_nd
+B|Oh|b
+B|I work in a day-care center|sd
+B|and .|%
+A|Oh, well, you know all about it then.|sv
+B|Yes,|aa
+B|I enjoy it a lot.|sd
+A|It's been quite a few years.|sd
+A|I have grandchildren but, uh, haven't really been into selecting child care for them,|sd
+A|so.|%
+B|Oh.|b
+A|And it's been quite a few years since I've had to think about that.|sd
+B|Do they go to a day-care center|qy
+B|or do they stay at,|qrr
+A|No.|nn
+A|Uh, my daughter that has three stays home with her children,|sd
+B|Oh, that's nice.|ba
+A|and one of my daughters has one|sd
+A|but an aunt keeps the baby.|sd
+B|Oh, that's nice.|ba
+A|But I would, I would not really know how to go about selecting one nowadays,|sd
+A|but I would imagine it's very hard.|sd
+B|I, I think so.|sv
+B|I think it's hard to find a good day care.|sv
+B|I have worked in at some other ones that were not very good in my opinion.|sd
+A|Uh-huh.|b
+B|But this one that I'm in now is, is very good.|sd
+B|And one of the key things is how many adults are there in ratio to the children.|sd
+A|Uh-huh.|b
+B|And like in Pennsylvania for babies, that's what I work with, there has to be a one to four ratio at the most. No more than four babies per care giver.|sd
+A|Uh-huh.|b
+B|But we keep it down to like two to one.|sd
+A|Oh, well, that's good.|ba
+B|Yeah,|aa
+B|that makes it a little easier to deal with.|sd
+A|I've always thought, you know, it would be really tough.|sd
+A|What if you had a fire or something with babies?|qh
+B|Oh, I know.|aa
+B|We,|%
+A|You would have to be able to have enough,|sv
+A|you know, you'd have to be able to get them all out.|sv
+B|What we do is we have these cribs in the back room where they sleep that are, um, low to the ground|sd
+A|Uh-huh.|b
+B|and they're reenforced real strong|sd
+B|and they'll sit four babies.|sd
+B|We would just lie them in there|sd
+B|and they roll real well and maneuver.|sd
+A|Oh, well, that's, that's a,|%
+B|That will get them out.|sd
+A|I hadn't thought about that.|sd
+A|But I was thinking, oh, my gosh, if they had very many babies, they couldn't possibly get them all out.|sd
+B|No|ar
+A|But you could put them in one of these cribs and then roll the crib out I guess.|bf
+B|Right.|aa
+A|Oh|%
+B|Right.|b
+A|well, that's neat.|ba
+B|Yeah,|b
+B|that's certainly something we hope never happens.|sd
+A|Well, do most of your day-care workers really care about the children,|qy
+A|or is it just a job for them?|qrr
+B|Most really care, in this center, really care.|sd
+B|Uh, most everyone has a college degree in like early childhood education.|sd
+A|Uh-huh.|b
+B|And really there's only like eight children per room|sd
+B|and then there's like two or three, mostly three care givers in each room.|sd
+A|Uh-huh.|b
+B|And that enables them to spend more time with the children.|sd
+B|Sometimes I feel like all I'm doing is changing diapers, giving bottles, and putting babies down for a nap.|sd
+B|So, it's nice to be able to play with them and really get to know them.|sd
+A|Uh-huh.|b
+B|It's easy to get attached to them too.|sd
+A|Yeah.|b
+A|How old a group, how old are the children go with this center where you work?|qw
+B|Um, in my room they go from eight weeks to nine months.|sd
+A|Uh-huh.|b
+B|And throughout the center it goes up to like age twelve.|sd
+A|Uh-huh.|b
+B|So, I have the real, real young ones in my room.|sd
+A|You've got the little bitty ones.|bf
+B|Uh-huh.|aa
+A|Those are the, probably the the best group to have.|sv
+B|They're, you know, they're wonderful.|sd
+B|They don't complain too much|sd
+A|And they're fun.|sv
+B|Yes.|aa
+B|They are a lot of fun.|sd
+A|Babies are fun,|sv
+A|and they're not quite big enough to be getting into everything yet,|sv
+A|so.|%
+B|Not quite.|aa
+B|It's a,|%
+B|when they start to crawl they try to climb up on things|sd
+B|and|%
+A|Uh-huh.|b
+B|you have to be real careful all the, everything is baby proof.|sd
+B|You know, all the doors have latches and stuff so they can't get into anything|sd
+B|but they try.|sd
+A|Uh-huh.|b
+A|Do you think there's very many really good day-care centers around your area?|qy
+B|But, yeah,|b
+B|In my area|b^m
+B|because I live in a college town in Penn State University|sd
+A|Uh-huh.|b
+B|so I,|%
+B|there is a lot of, a lot of college educated people and stuff that are in the centers that really seem to have an idea of what's going on.|sd
+A|Uh-huh.|b
+B|And, uh, in general though I've, I've been really disappointed with a lot of other centers I've worked at, and it, all and all|sd
+A|Uh-huh.|b
+B|it's not my choice for when, when I have children|sd
+B|but, but some people don't have a choice.|sd
+A|Sometimes it's a have to.|bf
+B|Yes.|aa
+A|I hear a lot of the girls I work with, uh, constantly, oh,|sd
+A|I wish I could find someplace I really felt good about. You know?|^q
+B|Uh-huh.|b
+A|Most of them don't really feel that it's a great place to leave their kids.|sd
+B|That is sad.|ba
+A|And it's really bad, you know.|sv
+A|One of the girls she was leaving hers at where she felt like was a really good place,|sd
+A|and then they called her one afternoon and said, well, we thought we'd better call and tell you before you got over here.|sd
+A|Lacy fell asleep on the bus after our field trip today,|^q
+A|and we just now found her.|^q
+B|What?|br
+A|They had left her on the bus closed up all afternoon.|sd
+B|Oh, my God.|ba
+A|And so immediately she says, well, I can't have any confidence in them anymore,|sd
+A|if they'll take a group of kids to the zoo or somewhere and then come back and not even count them and realize they're one short.|^q
+B|Oh.|b
+A|But one of the teachers happened to walk by and see her pounding on the window trying to get out of the bus.|sd
+B|Oh, my God.|ba
+A|And this was four hours later, you know.|sd
+B|Oh, that poor child.|ba
+A|And, uh, so, you know,|%
+A|what do you do?|qh
+B|That's awful.|ba
+A|So she has switched to a different center now|sd
+A|and, uh,|%
+B|Well, I,|%

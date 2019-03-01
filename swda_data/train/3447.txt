@@ -1,0 +1,112 @@
+A|The way,|%
+A|I'll go ahead and start|sd
+A|the way I work, uh, the way I dress for work is, uh, this year, nineteen ninety-one has been really suit and tie,|sd
+B|Uh-huh.|b
+A|or I shouldn't say suit, but coat and tie every day.|sd
+B|Uh-huh.|b
+A|A, a year ago, I changed jobs from being a researcher to doing marketing for the research group.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|Which means kind of a, I guess it's a different set of standards, I guess.|sv
+B|Yeah.|b
+A|So, uh, I, I dress almost the same every day.|sd
+A|I mean, pretty much it's a white shirt and slacks and shoes and a coat.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|But, it was very different before.|sd
+A|How do you dress?|qo
+B|Well, I'm a drafter,|^h
+B|so I just wear blue jeans and tennis shoes|sd
+B|and I have sweatshirt on today.|sd
+A|Uh-huh.|b
+B|And that's pretty much the norm for me.|sd
+B|If I come in in a dress, everybody's shocked|sd
+A|Yeah,|b
+A|I understand.|b
+B|They ask me, you know, what are you doing in a dress|sd
+B|and it's usually I haven't done my laundry lately|sd
+A|Right.|b
+B|Ran out of jeans|^q
+A|I understand,|b
+A|that's funny|ba
+A|So, does it change?|qy
+B|No.|nn
+A|Your dress,|b
+A|no.|b^m
+B|No,|nn
+B|huh-uh.|nn
+A|So, or, I guess, do you have things like presentations to do or anything like that?|qy
+B|No,|nn
+B|huh-uh.|nn
+A|So, back in my old job, up until through nineteen eighty I would usually wear blue jeans and pullover shirts and the like,|sd
+B|Uh-huh.|b
+A|but, probably once a month or so, there was some reason that I would have to put on a suit. For a customer presentation or something.|sd
+B|Yeah.|b
+B|Yeah,|b
+B|yeah.|b
+B|Every now and then I'll get dressed up and come in,|sd
+B|but that's for my husband's job and not mine|sd
+A|Oh, I see,|b
+A|I understand.|b
+B|I have to go to a business meeting once a month with him,|sd
+B|but So,|%
+A|Oh. Well, that's interesting.|ba
+A|Let's see, uh, what else about this, uh,|^h
+A|it, it seems like T I is pretty cut and dried with two, like, two or three levels.|sv
+B|Uh-huh.|b
+A|That there's the upper management that always wears gray suits. And the people that don't, uh,|sv
+B|Uh-huh.|b
+A|I would, if you, if I want to say don't have power or don't have authority or whatever like I used to be in that research|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|and I guess you are.|qy^d
+B|Uh-huh.|ny
+A|That we dress in the jeans|sd
+A|and then there's kind of the, the branch manager level or marketing people that kind of do that middle thing.|sv
+B|Uh-huh.|b
+B|Yeah,|aa
+B|yeah.|aa
+A|But there's not much,|sv
+B|middle of the road.|sv
+A|It's nice that there's not a requirement for it.|sv
+B|Uh-huh,|aa
+B|uh-huh.|aa
+B|Sometimes I think there should be.|sd
+B|Some of these women around here look like they came off of Harry Hines.|sv
+A|Oh, yeah,|aa
+A|right|aa
+A|Yeah,|b
+A|I guess you see those once in a while.|sv
+B|And you know the, they have the no shorts deal,|sd
+B|and some of these mini skirts, you know, are worse than shorts ever thought about being.|sv
+A|Sure.|aa
+B|But, uh, You know, that's, I guess that's one of the things you got to put up with when you don't have a dress code.|sv
+A|Yeah.|b
+A|That's right,|aa
+A|that's right.|aa
+A|I guess they're, the, isn't there a dress code, something about spaghetti straps,|qy^d
+A|I'm not even sure what they are.|sd
+B|Supposedly and backless things|sv
+A|Oh, backless,|b
+A|all right.|aa
+B|but, I've seen those, too,|sd
+B|but,|%
+A|Okay,|b
+A|so this wasn't necessarily a big conversation,|sv
+A|but, I think we, we did it|sv
+B|Uh, yeah.|b
+A|Okay,|b
+A|and, and your name was Lisa.|qy^d
+B|Lisa.|na
+A|Great.|ba
+B|Are you the Expressway sites?|qy
+A|I am,|na
+A|yes,|ny
+A|and I work in the north building.|sd
+B|Oh, okay.|bk
+A|Uh, well, thank you.|ft
+B|Thank you.|ft
+A|All right,|fc
+A|good day.|fc
+B|Uh-huh,|fc
+B|bye-bye.|fc

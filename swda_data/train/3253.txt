@@ -1,0 +1,111 @@
+A|Hi.|fp
+B|Hi.|fp
+A|I'm wondering what, what camping means to you.|qw^d
+B|When I think of camping I think of, of bugs and sleeping bags and, and tents, uh, like along the Appalachian Trail.|sd
+A|Oh, very good.|ba
+A|That's sort of the same thing that, that I do.|sd
+A|I don't think of, um, trailers and campers and all this stuff.|sd
+B|No.|aa
+A|Um, do you do much camping?|qy
+B|I have never been camping|ng
+A|Oh, you've never been camping.|b^m
+A|Oh, gee.|ba
+B|No.|nn
+B|Do you do much?|qy
+A|Well, um, yes and no,|no
+A|and, the, uh,|%
+A|I haven't done much recently,|sd
+A|but, um, up until, gee, maybe five or six years ago, I did a lot of it|sd
+B|Really,|b
+A|and, you know I've,|%
+B|Where you live now,|qy^d
+A|Say?|br
+B|or,|%
+A|No, um,|nn
+A|I used to live abroad,|sd
+A|and so, I, I camped a lot in, um, the Middle East|sd
+B|Oh, okay.|bk
+A|and I was able to camp right in ruins, which was always very exciting and, a bit exotic for those who love bugs,|sd
+B|Oh, I bet.|ba
+A|but, um, and then when I used to come back to the states in summer we'd often go up, um, to the lake country in New York with my brother's family and, and do camping there.|sd
+B|Uh-huh.|b
+B|Oh, okay.|b
+B|Well, my uh, husband and, and his uncle especially, uh, grew up camping together,|sd
+B|and, uh, they, they just love it,|sd
+B|and they're planning a trip, uh, into Canada this, I guess in about a year,|sd
+B|and they're going to spend about a week and a half camping up there,|sd
+A|And you're not going?|qy
+B|No,|nn
+B|this is, this is a, a man's trip|sd
+A|Oh, that's too bad,|fo_o_fw_"_by_bc
+B|So they're really looking forward to that|sd
+A|Oh, gee.|ba
+B|so.|%
+A|I guess it makes a difference.|sd
+A|I grew up camping, being in Girl Scouts and things like that,|sd
+A|so.|%
+B|And see I was, I was never exposed to it|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+B|so,|%
+B|I, I feel like I'm a little bit too, uh, much of a city, city mouse to try doing it|sd
+A|Oh, that's too bad.|fo_o_fw_"_by_bc
+A|I think you know, there's certainly a lot of aspects you would like,|sv
+A|but maybe not the, you know the Canada men's trip, but some other, you know,|sv
+A|a nice tent on the, the shore of a lake,|sv
+A|and,|%
+B|What's the best part about it to, to you, the, the quiet, the getting away?|qw
+A|Right,|na
+A|the, the, the no telephone, the,|sd
+A|gee whiz, you go to bed when it gets dark,|sd
+A|and you get up when it gets light|sd
+B|Wow.|ba
+A|Yeah,|b
+A|and, um, I guess just, just the change, from the rat race.|sd
+B|Now, do you usually, like do you usually go and there's lots of other people around,|qy
+B|or is it pretty much isolated.|qrr
+A|No,|nn
+A|it's, uh, it's pretty isolated, um,|sd
+A|and to me, I like that, I guess, too, although there are people,|sd
+A|I mean, you know, it's really hard to get away|sv
+B|Yeah.|b
+A|and I guess when, when we did sites in, in the Middle East, of course it was with a group, in order to make it safe|sd
+B|Yes.|b
+A|but, I mean, we'd go in different parts of the ruins, and, and things like that.|sd
+A|But we didn't even have tents there,|sd
+A|we just sort of put out the sleeping roll|sd
+B|Oh, good grief.|ba
+B|That, that does sound neat,|ba
+B|but I don't think I, I've got quite enough nerve to do that.|sv
+B|I know my husband's gone, uh, for several days on the Appalachian Trail before,|sd
+B|and he said that you can, a lot of times you can go for, you know, a good day before you'll see or meet anybody else on the trail.|sd
+A|Right.|b
+B|So it's not for the faint of heart, I don't think.|sv
+A|Right.|aa
+A|Actually I just joined, um, the Appalachian Trail Walking Club, or whatever they call it,|sd
+A|what,|%
+B|Oh.|b
+A|I love to walk|sd
+B|Uh-huh.|b
+A|and, um, I'm going to start with day trips, though, because I don't know the territory and all,|sd
+A|and I'm not sure,|h
+A|my son is not eager to go|sd
+B|I think it would be,|aa
+B|yeah.|b
+B|Well, that sounds really neat.|ba
+A|Oh, but, you know, I'm going to try|sd
+A|Well, gee whiz,|ba
+A|I hope you get into camping some day, just slowly.|sd
+B|we talk about sometimes going up to Chincoteague|ad
+A|Oh, yeah.|b
+B|and, uh, I,|%
+B|maybe, like you said, start out slow and, and kind of get used to it, and find out that it, maybe it's not as bad as I, I fear it might be|sd
+A|Right,|b
+A|I think that, you know,|sv
+A|I guess one time recently we went up to Maine, and had planned to camp,|sd
+A|and you know, the only site left when we got there was in the middle of a field,|sd
+A|and I said, Gee whiz, for twenty dollars we can go down the road and get a, a motel which we did,|sd
+B|Yeah.|b
+A|and, so that, you know,|%
+A|if the setting was right and that, it's, it's great,|sd
+A|but if it's,|%

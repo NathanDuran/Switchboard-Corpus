@@ -1,0 +1,101 @@
+A|Well, I've been real, um, thinking I'd love to buy a new car, right now, if I could afford it.|sd
+B|Oh|b
+A|But we have two cars right now|sd
+A|and we're still paying on them,|sd
+A|but I would love to have one of these new mini vans.|sd
+A|I've got two little ones|sd
+A|and I think that would be just the perfect family car|sd
+B|I,|%
+B|right now my car is terminally ill|sd
+A|Oh|b
+B|so I am really looking at, uh, facing the purchase of a car.|sd
+B|And,|%
+B|uh, what I would like to have is so totally impractical for me that, I won't do it.|sd
+B|But|%
+A|What is it?|qw
+B|Uh, well, I would like for one time in my life to have a convertible.|sd
+A|Oh.|b
+B|And, uh, you know, I don't even like the wind blowing in on me|sd
+B|so I don't know why I think I want one|sd
+B|but I do.|sd
+B|Uh, I will probably stay with a foreign make.|sd
+B|I've had real good luck with them.|sd
+A|Yeah.|b
+A|We have, um, we have,|%
+A|we went out to buy an American car|sd
+A|so we bought, um, a Chevy Nova about three years ago.|sd
+A|And, and we opened up the, the hood|sd
+A|and it said Toyota, made in Japan, right across the front of all the engine parts|sd
+B|Is that right?|bh
+A|Uh-huh.|ny
+A|Toyota, uh,|sd
+A|well, the Chevy Nova is the same car as the Toyota Camry.|sd
+A|Uh, at that time was the same car|sd
+A|so they just put different names on them depending on who they're being shipped to.|sd
+B|Oh,|b
+A|I thought that was pretty|%
+B|well, I didn't realize it.|sd
+B|I knew that one of the, that Nissan which is Toyota had, uh, joined with, had a plant over here.|sd
+B|but I, I never thought of,|sd
+A|Yeah.|b
+B|I know, uh,|ba
+B|you think it's a Chevrolet in the good old U S A.|sv
+A|Uh-huh,|b
+A|uh-huh.|b
+A|That's why we were so surprised to see Toyota written, I mean, imprinted on the engine.|sd
+A|It was real interesting.|sd
+B|Huh.|b
+A|But, uh, I,|%
+A|with so many options now available, you know, where, where cars are concerned, it just seems like there is, there's almost too much of a choice anymore.|sv
+A|You know, there's so many different options and so many different prices and who has this cash back and whatever.|sd
+A|I think that if I were really serious about looking for another car, I would take into consideration the price naturally.|sv
+A|But, um, you know, I would really want something that I would want for that much money. For ten or twelve or fifteen thousand dollars or whatever.|sv
+B|Well, yeah,|aa
+B|and that's minimum.|sv
+A|Oh,|aa
+A|definitely|aa
+B|It, you know it's, it's a major purchase, now.|sd
+B|What we used to pay for homes is now what a car, can cost.|sv
+A|I cannot imagine that, you know, somebody,|sv
+A|I heard a commercial or something about a sixty thousand dollar car about, oh, it would, how, exciting it is to make that kind of a purchase,|sd
+A|and I thought, I don't think I'd find that exciting|sv
+A|I'd be wondering, you know, here I am buying this expensive of a car and my house isn't worth that much money|sd
+B|If they held their value, that would be one thing.|sv
+A|That's true.|aa
+B|But when you consider that when you drive them off of the show lot, they're immediately two thousand dollars depreciated.|sv
+A|Yeah.|b
+B|And, you know, that,|qy
+B|I don't know that, I'll go with,|sd
+B|I've bought a new car the last three that I've bought|sd
+B|and I don't know that I'll buy a brand new one again.|sd
+A|Yeah.|b
+A|Well, we had a pretty,|sd
+A|we bought our Chevrolet brand new|sd
+A|and then we bought a used car|sd
+A|to Just a minute,|t3
+A|I'll change your diaper.|t3
+A|Then we bought our, our next car used|sd
+A|and, uh, we had better luck with our used car,|sd
+A|and I like it more.|sd
+A|It cost us less money|sd
+A|and we got more features and air-conditioning and whatever on it then we did on our brand new one for twice as much money.|sd
+B|Well, I'm, I'm seriously considering going that route instead of a brand new car.|sd
+A|If you can find one that's uh, you know, reliable|sv
+A|If you can get someone that you trust to buy one from|sv
+A|or, you know, make sure that you can have it checked out well enough|sv
+A|Uh, I wouldn't|ar
+B|and they don't drive them that much.|sv
+A|Uh-huh.|b
+A|Sh ,|%
+B|Six thousand is just getting broken in for them.|sv
+A|Yeah.|b
+B|And if I can find one or a repossession.|sd
+A|That's,|%
+A|we bought one like that.|sd
+B|And with the banks being in such financial, you know, problems now that people,|sv
+B|you can find the banks willing to sell you a car.|sv
+A|Uh-huh|b
+A|We bought one car that way|sd
+A|and had,|%
+A|we bought it real reasonably|sd
+A|and it was in real nice condition so, because apparently whatever the bank get ...|sd

@@ -1,0 +1,366 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|cars,|sd
+A|you, you|%
+A|maybe this is a fantasy we can to talk about any kind of car, we want here|ad
+A|I want a Rolls Royce and a Cadillac|sd
+B|Hey,|ba
+B|that sounds like a great deal to me|sv
+B|You have great aspirations|sv
+B|Well, let's see|^h
+B|I, we just bought, uh, a seventy-three Mercedes that we have restored|sd
+A|Oh, that's great.|ba
+A|I'm, I'm a hobbyist too,|sd
+B|and it,|%
+A|I like to work on cars too.|sd
+B|Yeah,|b
+B|it has really been a lot of fun.|sd
+B|Uh, we found some guys that actually, you know, worked for a Mercedes dealership|sd
+B|and, uh, they also repair them for other the people on their off time so have, we, we have redone that thing from stem to stern, I mean inside, outside, you know, we've redone the body, repainted it, detailed it, so, you know, I really haven't thought much past that it seems like, you know,|sd
+A|Oh, that's good.|ba
+B|I don't know if I'll ever want another new car again, you know.|sd
+A|Was you,|%
+A|why they, they didn't,|sd
+A|say buy it|sd
+A|they didn't necessarily say buy it new they just said, what would you buy, you know.|sd
+B|Maybe not.|aap_am
+B|Yeah,|aa
+B|that's true.|aa
+B|I, I don't know it just seems like, uh, you know, for what we've put into it I feel like that's something that might retain it's value a little bit more, than, you know,|sd
+A|Oh, sure,|aa
+A|a restored, vehicle is, is great, I think, certainly if it's an old Mercedes will be good.|sv
+B|yeah,|b
+B|yeah,|b
+B|yeah,|b
+B|yeah,|b
+B|yeah,|b
+B|right,|aa
+B|we, the one thing that, uh, we did decide as, it's, it's,|sd
+B|we wanted it to be as authentic as possible|sd
+B|but we did break down and put a C D player in it,|sd
+A|Well, that's great.|ba
+B|that's not quite authentic,|sd
+B|but at any rate that, that was one thing that I, one of the features that I did want,|sd
+B|I'd passed up on one and put a sunroof in it,|sd
+A|Oh, yeah,|ba
+A|you all, done a lot more,|sv
+B|I had to stop there.|sd
+A|when I talk about working on cars I sure don't do that.|sd
+B|Yeah,|b
+B|well, of course, we do it ourselves|sd
+B|but, like I said, we were just lucky to find these guys that do it, you know,|sd
+A|Oh, okay.|bk
+B|they're, they just weren't really expensive,|sd
+A|Oh, that is good, acknowledgeable people.|ba
+B|and, uh, yeah, you know,|aa
+B|right,|aa
+B|and they work on it,|sd
+B|so, the things that can be done here they just come here to our home and, and work on it or work on it,|sd
+B|so,|%
+A|That's amazing.|ba
+B|yeah,|aa
+B|it's, you know, it's really, it's really been nice.|sd
+B|We, uh,|%
+A|I, I do all my own work, uh,|sd
+A|so, I, I have Chevies, mostly,|sd
+B|Uh-huh.|b
+A|well, that's all I've got right now|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|I've got three Chevy V Eights.|sd
+A|I'm, uh, I'm, uh, a Chevy, I'm an American car person,|sd
+B|You're an American car person.|b^m
+A|but I do like Mercedes.|sd
+B|Yeah,|b
+B|yeah,|b
+B|I, I have always had an American, American car|sd
+B|and, uh, I had a real, real bad experience with the Cougar that I had,|sd
+B|it was an eighty-two Cougar,|sd
+A|Yeah.|b
+B|and, uh, I don't know,|h
+B|I think it just soured me on it for some reason because I had trouble with it starting,|sd
+B|the engine blew up in it,|sd
+B|I had to replace the engine when it was only two years old so, you know, I, I thought what the heck, you know,|sd
+A|Yeah.|b
+B|we'll try something different|^q
+B|so.|%
+A|Well, I'm not a Ford person and never have been as a kid,|sd
+B|Yeah.|b
+A|and, uh, I do like the V Eight engines|sd
+A|and I think the,|sv
+A|I went to the auto show with my daughter recently, down in Dallas|sd
+B|Uh-huh.|b
+A|and, I, to me the American cars are far superior to the Japanese in styling, engines, right now, I mean,|sd
+B|Uh-huh.|b
+B|Really.|b
+B|Yeah,|b
+B|right,|b
+A|I'm not saying that they were, a couple of years ago.|sd
+B|yeah.|b
+B|Yeah.|aa
+B|I would that that there's,|sd
+B|I see a marked improvement, you know, as far as, uh, what I've heard about performance and such, you know, so, uh, uh, hopefully it'll stay that way, I mean, you know,|sd
+A|Oh, yeah.|ba
+B|I'd, I'd, I would hate to see the American car industry suffering more than it already has you know, even though right now I'm not driving an American car,|sd
+A|Oh, yeah.|ba
+B|but, uh, I think,|%
+A|I,|%
+A|uh, you know, they said, they said what do we want to buy,|sd
+A|I, I'm, uh, not seriously thinking|sd
+A|but I, I would like to, put it in that category, uh, by a Cadillac|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|but I wouldn't, buy a new one|sd
+B|Yeah.|b
+A|and, you know, of course, if I had the money I'd be happy to by a new one,|sd
+B|Yeah,|b
+B|yeah.|b
+A|but, uh, I do look for a one year old vehicle, with twenty some odd miles or whatever twenty thousand miles, whatever.|sd
+B|Uh-huh.|b
+B|Yeah,|b
+B|twenty thousand,|b^m
+B|yeah,|b
+B|yeah.|b
+B|Well, that's what my parents are avid Cadillac freaks.|sd
+B|They had, uh,|%
+B|and I think my, my mother drives the SeVille now that's, uh, I guess it's a couple of years old,|sd
+B|and, uh, she had a SeVille before that that had the odd backs that was, that was so, uh,|sd
+A|Oh, yeah,|ba
+A|I remember those.|sd
+B|yeah,|%
+B|yeah,|%
+B|and she, it final just wore out|sd
+B|they had, they had purchased it,|sd
+B|I don't, can't remember how many years they had that car,|sd
+B|but she loved the styling of it.|sd
+A|That she may want to save, if she, she doesn't have it anymore.|sv
+B|No,|ar
+B|she sold it|sd
+B|and she,|%
+A|That,|%
+A|since they don't make them anymore, she, that could be turned into a classic, in, in ten, fifteen years, uh.|sv
+B|Yeah.|b
+B|I know.|aa
+B|Yeah,|aa
+B|she kept telling herself that|sd
+B|and it's sort of a bone of contention between she and my dad because my dad said well, just let me take it down there and find out what's wrong with it,|sd
+B|I mean he came back with a new car|sd
+A|No,|b
+A|he wanted new one ,|bf
+A|yeah,|b
+A|right,|b
+A|yeah.|b
+B|Yeah,|aa
+B|I think he had an ulterior motive|sd
+B|he could just see, you know, dollar signs starting to flip by as far as repairs went|sd
+B|but, uh, they, they really are nice cars, there, there,|sd
+A|I'm still a full size person,|sd
+B|Yeah.|b
+A|and I like a full size Cadillac,|sd
+A|I, I want one of those,|sd
+A|I think they are, I don't know, a classic|sd
+A|but they're, certainly not,|sv
+B|Uh-huh.|b
+A|they haven't changed in about, uh, twenty years,|sd
+A|and, and they'll eventually phase them out|sv
+B|Yeah,|b
+B|yeah.|b
+A|and I sure would like one ever those, uh, uh, within the next five years, or so.|sd
+B|Yeah,|b
+B|it seems funny you how within the last couple of years cars have gotten bigger again, you know,|sv
+A|Right.|b
+B|they had, they've scaled everything down so much|sd
+B|and, uh, I have, I don't, I've never owned a really large car,|sd
+B|I don't know,|h
+B|I think that Cougar was the biggest thing I ever had|sd
+B|and,|%
+A|Well, even the Japanese cars are bigger too|sd
+A|but, uh,|%
+B|Yeah,|b
+A|I've never had a|sd
+B|now the Lexus are very nice looking cars, you know.|sv
+A|I've never had, a Japanese car,|sd
+A|I, I've had friends who had them,|sd
+B|Uh-huh.|b
+A|and I think they're a lot over|sv
+A|and they're is just no styling to them,|sv
+A|you can't tell one Japanese car from the other, because they all a like,|sv
+B|That's true,|aa
+B|that's true.|aa
+A|you know, I don't mean that as a joke,|sd
+A|I mean, they really all look a like,|sd
+B|Yeah.|b
+B|Yeah.|b
+A|and the|%
+A|I don't have any idea what, which car it is, until I look at it to see what it is,|sd
+B|What is what,|bf
+B|yeah.|b
+B|Uh-huh,|b
+B|uh-huh.|b
+A|and I think they have not, uh, lead the field in styling,|sv
+A|they do have sports cars|sd
+B|Yeah.|b
+A|but the price is way more,|sd
+A|you can get a Cadillac for, the same price as you can get a small Japanese, car,|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+B|Yeah,|b
+B|yeah.|b
+A|it's ridiculous now.|sv
+B|Yeah.|aa
+B|I know that, uh,|sd
+B|I've, I've sort of always felt like with Buicks it seems like all Buicks to me look alike you know,|sd
+A|Uh-huh.|b
+B|I guess it just, uh, it seems to me they're all the same shape.|sd
+B|I have a very good friend that has a Buick Regal|sd
+B|and she, she's had, she's got way offer a hundred thousand miles on it|sd
+B|and that's what she's going to buy again|sd
+B|and I'm like, oh, please, it looks exactly the same as this old one that you've got|sd
+B|and, so I guess it's in the eyes of the beholder, I suppose.|sv
+A|Yeah.|b
+A|Oh, yeah.|aa
+A|Yeah,|aa
+A|well, if, if you're interested you ought to go to the next auto show.|ad
+A|I, I look at the Cadillacs|sd
+A|and boy there were some Cadillacs that I didn't even realize they made|sd
+A|but they were, just styled so differently,|sd
+B|Really.|b
+B|Uh-huh,|b
+B|uh-huh.|b
+A|they were standard Cadillacs|sd
+A|but they really looked beautiful.|sd
+B|Are they still,|qy
+B|are what they're,|qy
+B|what they have out for like the next year, is everything still pretty square,|qy
+B|it seems like the Cadillacs is one of the few makers that are still making really, I, I can't think of a car that they make are the than maybe the Alliance .|sv
+A|Oh, no,|nn
+A|they have, they have convertibles now in the Cadillac, field|sd
+B|Yeah.|b
+A|and they have that new, uh,|sd
+A|it's not the big, uh, Fleetwood, the one I want, which is been the same in the last twenty years,|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|there's another one that has came out in the last two year, not the Seville,|sd
+A|the Seville is totally different,|sd
+B|Uh-huh.|b
+A|now at the auto show they had fantastic looking cars.|sd
+B|Now when, when was this,|qw
+B|was this recently?|qy
+A|Oh, yeah,|ny
+A|it was a month or so ago.|sd
+B|Oh, okay,|bk
+B|because I have,|%
+A|Well, they have it every year.|sd
+B|Yeah,|b
+B|usually when I see the new cars it's during the fair when I go to the auto building at the State Fair|sd
+B|and that's usually when I see anything, you know.|sd
+A|Right,|b
+A|now this was, uh, in it was downtown in the, uh, Convention Center|sd
+A|and, they had all the cars|sd
+B|Oh, I see.|bk
+A|they had Japanese and German cars,|sd
+B|Yeah.|b
+A|they had the full range ,|sd
+A|and they had some, they had some new cars that weren't even out|sd
+A|they had, uh, a new Chevy Suburban, truck, you know,|sd
+B|Oh, really.|b
+A|that big, big one that was, uh,|sd
+A|they didn't have a price on it, nor did they know had a it would cost,|sd
+B|Uh-huh.|b
+A|it had a microwave in it and everything,|sd
+B|Oh, my word.|ba
+A|it was,|%
+A|they had several futuristic cars.|sd
+B|That's wild, you know,|ba
+A|Yeah.|b
+B|you hear about things like that|sd
+B|and you think that can't possibly be done,|sv
+B|I mean, it just, that's just too weird.|sv
+A|I know.|aa
+A|And I like engines|sd
+A|they had a lot of broken down not broken down, I mean, you know, cut, uh, displayed engines, you know.|sd
+B|Uh-huh.|b
+B|Right,|b
+B|uh-huh,|b
+B|so you could tell,|bf
+B|see the inside of them or whatever.|bf
+A|Yeah,|aa
+B|Yeah.|b
+A|but, uh, that, that sold me in buying a new car, you know,|sd
+A|I mean, certainly interested in buying a new car|sd
+A|but again the, yeah, the American cars were for superior in styling and, new engines,|sd
+B|Yeah,|b
+B|yeah,|b
+B|well, maybe,|aap_am
+A|and, uh, I thing so, because they've been making these four cylinder and six cylinder engines for a while * spelling "think"?|sv
+B|somebody's finally woken up, you know.|sv
+A|and, I think that, I, I would definitely buy,|sd
+B|Yeah.|b
+A|again there's the question are we in the market, uh,|sd
+B|Yeah.|b
+A|and I could buy anything, you know.|sd
+B|Oh, yeah,|aa
+B|you know, if I could fine, * spelling "find"?|sd
+B|I, I was really crazy about Jags for a while|sd
+B|and the convertible, had a is it X J S or something like that,|sd
+B|and I, you know, thought that's a dream car,|sd
+A|Yeah,|b
+A|Yeah.|b
+B|and, and you really would have to be a dream car because the repair bills are supposedly just constant, you know.|sv
+A|Well, I haven't work on them myself so I don't, that, you know, my cars don't go to the shop, you know,|sd
+B|Yeah,|b
+A|so, uh,|%
+B|yeah.|b
+A|I am the kind of engineer|sd
+A|and I've always done it myself|sd
+A|and, uh I've got three of them|sd
+B|Well, that's good that you can.|sv
+A|and, uh, I can't remember one,|sd
+A|I think I had one someone welded a muffler on for me, in a years time,|sd
+B|Oh, really,|b
+B|that,|%
+B|oh, gosh,|ba
+B|that's great.|ba
+A|I think that's the only thing of the three vehicles that I've in it just the welding on|sd
+A|like I said I don't do that you know.|sd
+B|I think it takes a talent to do that, you know,|sv
+B|my, my husband is, uh, engineer|sd
+B|but he cannot, I mean,|sd
+B|or maybe he's just doesn't want to mess with it|sd
+B|that's might be part of it,|sd
+B|but, uh, you know, we just, I just say forget it we'll just take it in, and get it taken care it.|sd
+A|Yeah.|b
+B|He drives, drives a Honda.|sd
+A|I, I, noticed that when I was a kid, uh,|sd
+A|I was wasn't a mechanical engineer|sd
+A|but I worked my way through college as a mechanic|sd
+A|so,|%
+B|Uh-huh,|b
+A|I learned early from, fifteen on, and dropped it for a long time when, when after I got out of college and, then picked it up again later on|sd
+B|Right.|b
+B|Yeah.|b
+B|Uh-huh.|b
+B|Yeah.|b
+A|and now again, I've got three vehicles|sd
+A|and I don't, I never get in them and just go to the shop at you will, you know.|sd
+B|Well, that's to, that's one thing that when you would consider,|sv
+B|see when I go out to think about a new car or buy another car, I don't think about, well, is this engine that I can work on or that, you know, my husband can work on or whatever, you know|sd
+A|Uh-huh.|b
+B|so, you're, you're pretty lucky in that respect that,|sv
+A|Yeah,|aa
+A|I'm keeping V eight, V eight Chevy engines, because that's what I know,|sd
+B|Yeah.|b
+B|That's when you know,|bf
+B|yeah.|b
+A|and, in fact, I stock the same part,|sd
+A|I'm like a little stock,|sd
+A|if you, brought your Chevy to me I could, I'd probably have some parts, for it right now, you knows|sd
+B|Uh-huh.|b
+B|That's pretty good,|ba
+B|it's really been funny because we have like been you are own contractors kind of with this car|sd
+B|and when I say we have redone everything I mean we have done everything,|sd
+A|Oh, that's great,|ba
+B|and it's, it's really been so interesting the people you meet because, uh, my husband Carl has called all over the country, you know,|sd
+A|I've always wanted to that too.|sd
+B|he's gotten these catalogs|sd
+B|it's really more difficult to find these vintage parts when you might think this is for a seventy-three,|sd
+A|Oh, I can imagination,|ba

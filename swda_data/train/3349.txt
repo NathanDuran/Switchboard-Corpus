@@ -1,0 +1,161 @@
+A|Well, what are your hobbies?|qw
+B|Well, actually my hobbies now are T shirt making.|sd
+B|I'm making T shirts and sweat shirts.|sd
+B|In fact that's what I was doing when you called.|sd
+A|Well, that sounds interesting.|sv
+A|What kinds of, uh, sweat shirts and T shirts do you make?|qw
+B|Um, right now I'm making Christmas ones with poinsettias and bears and all that kind of thing.|sd
+A|Okay.|b
+A|Is that silk screening, or,|qy
+B|Um, no,|nn
+B|I'm, have material that I cut out,|sd
+B|and then you, um,|sd
+B|there's this stuff called Wonder Under that you that you iron it on|sd
+B|and then you iron that on the T shirt, and you paint around it.|sd
+A|Oh, I see.|bk
+B|So, it's real fun.|sd
+B|I started doing it as a, um, just something fun to do,|sd
+B|and now I'm selling them and pretty,|sd
+A|Well, how's it going?|qo
+B|Pretty good.|sd
+B|I just started last week,|sd
+B|and I sold seven.|sd
+B|I didn't, wasn't expecting that,|sd
+B|so,|%
+A|Well, that sounds great.|ba
+B|I guess in my spare time I'll be making T shirts|sd
+B|So.|%
+A|Well, somebody has to do it,|sv
+B|That's right, you know.|aa
+A|Give you a little Christmas money, any way.|sv
+B|That's correct.|aa
+B|Well, what are your hobbies?|qw
+A|Well, I, I kind of have hobby fads, I guess.|sd
+B|Uh-huh.|b
+A|When I was growing up I was, was into coin collecting,|sd
+A|and that dropped off about the time I hit puberty, I guess,|sd
+A|and then, my hobbies in high school went just to the sports.|sd
+A|Now my latest one is classic cars.|sd
+A|I've I had a sixty-six Mustang I was rebuilding.|sd
+B|Um.|b
+A|Almost had it done,|sd
+A|and I went on, went ahead and sold it.|sd
+B|Oh, my gosh.|ba
+A|But it was fun.|sd
+A|I really enjoyed it.|sd
+B|Well, how'd you learn to do that to fix them up?|qw
+A|Oh, you just,|sd
+B|You just get a book that tells you how to do it or what?|qy
+A|No,|nn
+A|you just kind of,|sd
+A|all I did is, uh, I bought the car|sd
+A|and then, uh, you know, you can,|sd
+A|I, uh, was just in a supermarket|sd
+A|and I seen a, a magazine for, you know,|sd
+A|basically it, it was called MUSTANG MAGAZINE|sd
+A|and and so I bought it|sd
+B|Uh-huh.|b
+A|and they had, uh, some names, some companies that sold mustang parts,|sd
+A|and I just started ordering some parts|sd
+A|and, and, you know, basically, you know, I, what I did was, I redid the whole interior.|sd
+A|I didn't do too much to the engine, because the engine was pretty good, but the, the whole interior and then part of the exterior,|sd
+A|just kind of do it.|sd
+B|Where'd you get the car?|qw
+A|Well, we lived, we lived in South Dakota,|sd
+A|and I bought it up there before I moved down here.|sd
+B|Wow.|ba
+A|So it was, it was kind of rusted out there,|sd
+A|there isn't too much rust on any vehicles down here.|sd
+B|Well, that's true,|aa
+B|that's true.|aa
+B|Well that sounds neat.|ba
+A|Well, gee I guess there really isn't too much to talk about on hobbies.|sv
+B|Let's see.|^h
+A|That, that about covers mine|sd
+A|and T shirt making about covers yours.|sv
+B|Well, let's see,|^h
+B|I've done other hobbies.|sd
+B|I'm a hobby person.|sd
+B|I've always done a lot of craft stuff.|sd
+B|I always have done needlepoint and cross stitch and all that,|sd
+B|and, I collect dolls,|sd
+B|I have a huge collection of dolls which is still in New Mexico with my parents|sd
+A|In New Mexico?|br
+B|Uh-huh,|aa
+B|from New Mexico.|sd
+A|Okay.|bk
+B|So. Let's see,|^h
+B|what else?|qh
+B|I started collecting music boxes.|sd
+B|I guess that's a hobby.|sd
+A|Yeah|aa
+A|that is.|sd
+B|So.|%
+A|That's interesting.|ba
+A|How many music boxes do you have?|qw
+B|Probably uh, about twenty.|sd
+A|Do they all play different songs|qy
+B|Uh-huh.|ny
+A|or do some of them play the same song?|qrr
+B|They, they all play different songs.|sd
+A|Well, that's neat.|ba
+A|What's the most expensive one you bought?|qw
+B|The most expensive.|b^m
+B|I don't know.|sd
+B|I've gotten all of them for gifts.|sd
+B|I don't|%
+A|Oh, really.|b
+B|bought a few of them.|sd
+B|I usually get them for Christmas gifts or, and like when people go, you know, to, on trips or something.|sd
+A|Well, that's interesting.|ba
+A|It used to be tea spoons, was the thing.|sd
+B|That's true|aa
+B|I never collected those, never collected those.|sd
+A|Well, that's interesting, music boxes.|ba
+B|I have dolls from all over too.|sd
+B|That I started when I was a little girl,|sd
+B|and I have a lot of dolls.|sd
+A|.|%
+B|People would always bring them when they go to the countries,|sd
+B|and, um, and I did that when I went to Europe one summer.|sd
+B|I bought a doll everywhere we went|sd
+B|so.|%
+A|Well how was Europe?|qo
+B|economy.|sd
+B|It was great,|sd
+B|it was quick.|sd
+B|I was in, I was in high school,|sd
+B|and I was in a tour,|sd
+B|and we went all,|sd
+B|it's kind of a, it's kind of to establish better rapport with the different countries,|sd
+B|and, um, it was called People to People,|sd
+B|and we'd stay in people's homes,|sd
+B|and then we got to also tour big cities,|sd
+B|and I really enjoyed it.|sd
+A|Was that in high school|qy
+B|Uh-huh|ny
+A|or was that a college thing?|qrr
+B|in was in high school.|sd
+B|So I'd like to go back, because we had, you know,|sd
+B|everything was rushed|sd
+A|I bet.|aa
+B|everything was like an hour or two hours at the Louvre, you know, things like that where you need the whole day,|sd
+B|but but it really,|%
+A|Right.|b
+A|That's where a camcorder would come in handy.|sv
+B|Exactly,|aa
+B|that's true.|aa
+A|Well that sounds real neat.|ba
+A|So you, you haven't been back to Europe since then, huh?|qy
+B|No,|nn
+B|I always thought I would,|sd
+B|but who knows now.|qh
+B|I got married and, maybe some day.|sd
+B|Maybe it's one of those retirement things|sd
+A|There you go.|aa
+A|Well, does you husband, uh,|qy
+A|what does he think of your, uh, T shirts and,|qw
+B|Well, he likes it all right.|sd
+B|He's been pretty good, because there's T shirt stuff all over the house.|sd
+A|Does he help out much|qy
+A|or,|%

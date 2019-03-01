@@ -1,0 +1,115 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|we're energized.|sd
+B|Okay.|b
+A|Um, painting,|sd
+A|interesting.|sd
+A|Uh, the guy called me,|sd
+A|when she called me, the computer called me, I thought that they were reading my mind.|sd
+A|I'm in the middle of, um, going out for bids to have my house painted.|sd
+B|Oh.|b
+A|Uh, painting is not hard to do, uh, as long as it's not in, not to the point of where it 's, uh, needs to be scraped and peeling,|sd
+B|No.|aa
+B|Right.|b
+A|and our house is not|sd
+A|but it's starting to bleed through and burn through because the paint's real cheap|sd
+A|and it's just a hassle to go through it|sd
+A|so I'm looking for the easy way out.|sd
+B|Yeah,|aa
+B|uh, I know.|aa
+B|is easy to find uh, painters to do this for you?|qy
+A|It's easier to find painters,|no
+A|but you have to be, you have to be aware of what, uh, how messy they can get and are they going to put on a good, a good two coats, and are they, going to caulk,|sd
+B|are you talking, outside or inside?|qy
+A|Exterior.|sd
+B|Exterior,|b^m
+B|yeah.|b
+A|Yeah.|b
+A|Uh, interior's not so bad because it's more fun,|sv
+A|it's more,|%
+A|but yeah,|%
+B|Yeah.|b
+A|outside you have high peeks, and those kind of things,|sd
+B|Yeah.|b
+A|it can be a real issue.|sv
+B|Well, when we've painted, um,|sd
+B|right now our house doesn't have to have the same kind of exterior painting there,|sd
+B|it's more trim because it has some of the old asbestos shingles, on the back and there's some sort of stone or something in the front|sd
+A|Uh-huh.|b
+B|so there isn't as much wood that has to be painted.|sd
+B|Um, but, it,|%
+B|the problem is that it hits, the sun hits it.|sd
+B|So preparing is a real problem,|sd
+A|Uh-huh.|b
+B|you've got to prepare it well|sd
+B|or else it will flake.|sd
+A|Uh-huh.|b
+B|Um,|%
+A|Here they,|%
+A|some of the home builders are,|sd
+A|they don't put brick on the side of your house just to save money|sd
+A|so they put up, uh, a quarter inch Masonite, basically,|sd
+A|and they painted it kind of like a spun of a sorts|sd
+A|so it's real cheap.|sd
+A|And, uh, uh, I've had thirteen hundred dollar bid and I, as low as five hundred and forty dollars|sd
+A|so it's, just a matter of,|%
+B|Wow. that's quite a range.|ba
+A|it's,|%
+A|Oh, there one guy brags about his piece of equipment he's using and the drop cloths and all that kind crap|sd
+A|and I'm so much worried about that as what, I don't want it all over the brick and windows|sd
+B|Yeah.|b
+A|and,|%
+B|Yeah,|aa
+B|which might be a bigger problem than it would be, uh,|sv
+A|Oh, sure.|ba
+B|Yeah,|aa
+B|absolutely|aa
+A|So y'all, you haven't had any, any jobs painted in your house or recently .|qy^d
+B|No,|nn
+B|we 've have, uh, done a little painting ourselves, um,|sd
+B|we painted the bedroom, uh, well within the last couple of months,|sd
+A|That's fun.|ba
+B|and we have, we have some more that need to be done,|sd
+A|Uh-huh.|b
+B|but the, the problem that we've, we've owned this house almost five years now,|sd
+B|and, um, when we bought it the, um, it had been vacant for a while because the family will retired,|sd
+B|but the daughter was a real estate agent|sd
+B|and she was selling it|sd
+B|and it's been lived in briefly by her before she bought her town house.|sd
+B|So she told us that the house had been, uh, professionally painted recently.|sd
+B|And it looked pretty good, you know, the, uh, the interior walls all basically white,|sd
+B|but they obviously had been done without to much, uh, wear afterward.|sd
+B|The only problem was when we started having the movers move the furniture in we identified various rooms by pieces of masking tape on the uh, the door frames,|sd
+A|Uh-huh.|b
+B|when we took the masking tape off half the painted came with it.|sd
+A|Uh, that's not very,|ba
+B|Big long strips.|sd
+B|So what had happened is that professional painters had not prepared the surface properly.|sd
+B|And some of still has to be redone.|sd
+A|Oh, they just painted over varnished wood.|bf
+B|Yeah,|aa
+A|Oh, my,|ba
+B|well, no|ar
+B|actually it had been, uh, it would have been, it had been a repaint job.|sd
+A|Um.|b
+B|But they had not,|sd
+B|either they had painted with the wrong kind of paint over top|sd
+B|or they hadn't really roughed it up or whatever they,|sd
+B|because it was woodwork|sd
+B|so it looked as if it had been painted, correctly with, you know, uh, an enamel or something,|sd
+A|Uh-huh.|b
+B|but, um, it had not,|sd
+B|either that or it had not been prepared underneath|sd
+B|and it was greasy or something,|sd
+A|Sure.|b
+B|it comes off in strips, I mean not even little bit.|sd
+B|So we still have some of that trim work to do because we put it off all this time,|sd
+A|Oh, no.|ba
+B|we know what a job it's going to be|sd
+B|because you almost have to strip the whole thing, in order to do it again.|sd
+A|Um.|b
+A|I wish you good luck.|fc
+B|Okay|fc
+A|Thank you very much.|fc
+B|Thank you.|fc
+A|Bye-bye.|fc
+B|Bye.|fc

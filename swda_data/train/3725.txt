@@ -1,0 +1,145 @@
+B|Okay.|fo_o_fw_"_by_bc
+A|Your  family have reunions on a regular basis?|qy
+B|Probably, once every five years.|no
+A|Once every five years?|qy
+B|Uh-huh.|ny
+A|Yeah.|b
+A|Uh, you have got a pretty big family.|qy^d
+B|Yeah|ny
+B|and that is the hardest part about getting the the stuff together|sd
+B|and everyone is spread out all over Timbuktu.|sd
+A|Oh, yeah.|b
+B|And you?|qy
+A|Yeah,|ny
+A|we have a pretty big family,|sd
+A|but most of us,|%
+A|well, uh, uh, I am originally from West Virginia.|sd
+B|Uh-huh.|b
+A|Most of the family is right in the West Virginia, uh, uh, what they call Tri-State area, uh, northern West Virginia, eastern Ohio, southwestern Pennsylvania.|sd
+B|Yeah.|b
+A|Most everybody is right in that area.|sd
+B|That makes it a lot easier.|sv
+B|A lot more convenient.|sv
+B|That is why we only do it once every five or ten years.|sd
+A|Yeah.|b
+B|because it is always that hard to get everyone together.|sv
+A|Yeah.|b
+A|They put one together for our family about once every June.|sd
+A|It was on my grandmother's birthday,|sd
+A|but she is, she is gone now.|sd
+B|Yeah,|b
+B|see that is kind of what happened with ours.|sd
+B|That is why we have not had one in a long time.|sd
+A|Yeah.|b
+A|Uh.|b
+B|So,  so, to make one successful, I mean, I mean what do you all do.|qo
+A|Oh,|^h
+B|Do you all just start planning real far ahead of time?|qy
+A|Pardon.|br
+B|Uh, do you all start planning real far ahead of time?|qy
+A|Well, no.|nn
+A|There is kind of a set pattern to it.|sd
+A|There is, uh,|%
+A|so, uh, the day it happens is ninety-eight percent of the planning usually.|sd
+B|Oh, really|bh
+A|Yeah.|ny
+A|Uh, we, uh, get together, at the, uh, the park, uh, the, uh, the park, and playground area of the Church I was raised in|sd
+B|Yeah.|b
+A|and, uh, everybody brings lots of food|sd
+A|and some put up the volleyball net and sit around and tell stories and catch up and play volleyball all day and get really fat|sd
+B|Eat a lot.|qy^d
+A|Oh, gosh.|ba
+B|It is a lot harder for us because we are like I said we are spread out|sd
+A|Yeah.|b
+B|and so we have to plan anywhere from six, well really probably a year ahead of time so that everyone, can uh, start their, uh,  vacation time.|sd
+A|Schedule vacation  time|b
+A|and yeah.|b
+A|We|%
+A|uh, Sat, uh, Sunday afternoon or, uh, sometimes it has been like on a Saturday afternoon.|sd
+B|Uh-huh.|b
+A|Usually, it is like Sunday afternoon|sd
+A|and most people do not have more than you know a couple of hours drive at tops to get there and back.|sd
+B|Yeah.|b
+B|Yeah,|b
+B|is that one of your, uh,|qy
+B|I mean, uh,|%
+A|Well, where I am calling from is southern Mississippi.|sd
+A|So, we have got, uh, uh, my wife and I have, uh, a bit longer ways to go than most.|sd
+B|But, you also manage to make them.|qy^d
+A|uh, actually, we, we have only made one of them since we got married about four years ago. One of the family reunions.|arp_nd
+B|Yeah.|b
+A|But we are both in school|sd
+A|so that makes it kind of tough.|sd
+B|Yeah.|b
+A|They usually, uh, they have been happening, uh, just after the summer semester starts.|sd
+B|You can't really get away.|qy^d
+A|Usually not.|ng
+A|We managed to get to one.|sd
+A|That was before I started school|sd
+A|and she took that summer off.|sd
+A|But, uh,|%
+B|Well, now that we have been talking about it, I, uh, I am kind of getting home sick now.|sd
+B|Because it has been over three years since I have been home  to see  my grandparents.|sd
+A|Oh  goodness.|ba
+B|Well, my, my grandfather is the only one that is still around.|sd
+A|Yeah.|b
+B|And see, my grandmother is the one that use to plan this stuff basically.|sd
+A|Yeah.|b
+B|So, unless the aunts and uncles really get on the ball and put stuff together, it is kind of like.|sd
+B|She was like the glue,|sd
+B|so.|%
+A|Yeah,|b
+A|I understand.|ba
+A|Where is home for you?|qw
+B|Originally, uh, I, uh, was born in Missouri.|sd
+A|Yeah.|b
+B|But, uh, you know, we have relatives scattered out all over Louisiana, Mississippi, uh, here in Texas|sd
+A|Yeah.|b
+B|but it is harder for everyone to get in, get home.|sd
+A|Yeah.|b
+A|Well, maybe this year you can find a more central location.|qy^d
+B|Well, but the majority of them are in, like, just like how you said in close, close quarters.|arp_nd
+B|So it is easier for us few stragglers to go home.|sd
+A|Oh, okay.|bk
+A|Then the majority of them are still in the Missouri area.|qy^d
+B|Yeah.|ny
+A|Okay.|bk
+A|You know our family right now, uh, the most of it, there is only a few stragglers, uh, with any distance.|sd
+A|There is one cousin out in Colorado, uh, uh, some cousins over in Phoenix, uh,|sd
+A|I got a sister over in, in, uh, Washington State|sd
+A|Uh, the rest of them are within, you know, a couple hours drive.|sd
+B|Well, uh, how do you all communicate? Like to plan it and every thing.|qo
+B|Do you all just call each other up on the phone and say this is the weekend we are going to do it,|qy
+B|or do you all like mail out stuff?|qrr
+A|That is pretty much it.|na
+A|Yeah.|ny
+A|It is going to be such and such, uh, weekend|^q
+A|and, uh, you all come.|^q
+B|Yeah.|b
+A|That is about it|sd
+A|And you know this is the standard pattern.|sd
+A|It, uh,|%
+A|everybody brings their favorite dish|sd
+A|and, somebody brings the volleyball net,|sd
+A|somebody brings a whole lot of ice for the watermelon|sd
+A|and,|%
+B|Well, uh, uh, I guess probably the last one I went to I met so many people that I had not seen in probably ten, over ten years.|sd
+B|It was like, don't you remember me.|sd
+B|And I am like no|sd
+A|Am I related to you?|^q
+B|Yeah.|aa
+B|I know.|aa
+A|Yeah,|b
+A|I married your cousin's brother's uncle or something like that.|^q
+B|Do you,|%
+B|I mean, is that since,|%
+B|I mean do you have them every year?|qy
+A|Uh, yeah,|ny
+A|every year.|sd
+A|And, uh,  still, you wind up meeting people you, uh, you never knew you were related to. Let alone|qy^d
+B|Yeah.|ny
+A|And,|%
+B|Well, I think that is probably why our is probably so interesting is cause we don't have them that often|sv
+A|Oh, yeah.|b
+B|and then when we do, and everyone finally does get together,|sd
+B|it is like after the, you know,|%

@@ -1,0 +1,124 @@
+A|So, do you have any credit cards?|qy
+B|Yes,|ny
+B|I do.|sd
+B|I keep, uh, I have an American Express, and a Visa card that I keep, you know, kind of for emergency purposes,|sd
+B|and I have, you know, I use a gasoline credit card which I, you know, pay off every, every month.|sd
+A|Uh-huh.|b
+A|Okay.|b
+B|But I've, I've gotten rid of all of the credit cards, you know, that I possibly could,|sd
+B|and my balances are practically zero on the ones that I have.|sd
+B|Especially since, you know, it's no longer after this year,|sd
+B|or after tax year nineteen ninety, there's no deductions for, you know, credit card interest that you pay.|sd
+A|Uh-huh.|b
+B|So it's a, you know, gosh,|%
+B|credit cards run, what, anywhere from, up to eighteen, nineteen percent, I guess.|sd
+A|Yeah.|b
+B|It's just a bad deal.|sv
+B|Course, there are emergencies, you know, that you, you know, probably need to have a card.|sv
+A|Yeah,|aa
+A|I have one card.|sd
+B|Uh-huh,|b
+B|that's, that's probably enough.|sv
+A|And I try not to use it,|sd
+A|but right now, it's maxed out|sd
+B|Absolutely.|aa
+B|It's, it's very easy to, you know, to do that or, you know, to abuse it,|sv
+B|it really is.|sv
+A|Uh-huh.|b
+B|It's so easy to pull out the plastic,|sv
+B|but we're trying our best not to, not to add any, you know, credit card debt to our structure here.|sd
+A|Yeah.|b
+A|Um, I have, uh,|sd
+A|the thing that bothers me worse than the credit cards, I think, is, uh, you mentioned the gasoline credit card.|sd
+B|Uh-huh.|b
+A|I don't have that,|sd
+A|but I've got, you know, one of the the, the instant teller cards that you can use for point of sale purchases.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|And we use that usually to buy gasoline,|sd
+A|and it's just it's really amazing how quickly that goes.|sd
+B|Uh-huh.|b
+B|Uh-huh.|aa
+B|I'm sure you're right.|sv
+B|I don't, I don't, I don't participate in that,|sd
+B|but, you know, a lot of folks do.|sd
+A|Uh-huh.|b
+B|Yeah,|b
+B|at least with the, uh, gasoline company credit cards you have, you know, up to thirty, twenty-five, thirty days, you know, interest free for it.|sd
+A|Yeah.|b
+B|But, you know, the instant thing may be, may, may be the way of the future to, you know, to replace checks and every other thing.|sv
+A|Yeah,|aa
+A|that's what they've, they've talked about it.|sd
+B|Yeah.|b
+A|Course it eliminates any waiting period.|sd
+B|It certainly does.|aa
+A|God help those people who have to float checks occasionally because you won't be able to with that.|sd
+B|Absolutely.|aa
+B|That's right.|aa
+B|Do you get any sort of discount when you use a card like that?|qy
+A|No.|nn
+B|I see.|bk
+A|Oh, it was, well,|%
+A|they consider it to be the same as cash well, cause it actually is.|sd
+B|I see,|bk
+B|I see.|bk
+B|It certainly is,|aa
+B|yeah.|aa
+A|Yeah.|b
+A|It's better than cash|sv
+B|Uh-huh.|b
+A|They don't even have to deposit it,|sd
+A|it just goes straight in there.|sd
+B|That's right.|aa
+B|No returned checks or anything.|bf
+A|Right.|aa
+B|Yeah.|b
+B|No,|fo_o_fw_"_by_bc
+B|I, I understand it's becoming, you know, the popular thing to do.|sd
+B|We're not participating in that particular program at the moment,|sd
+B|and I don't really perceive doing it unless we absolutely have to.|sd
+A|Uh-huh|b
+B|But, uh, I have in times past gotten into a bit of trouble with credit cards.|sd
+B|It's just, you know, too easy to do.|sv
+A|Yeah,|aa
+A|but I'm so glad he told me that when, that they, they got to such a point with their credit cards they didn't want to cut them up because they were afraid sometime they might actually need them.|sd
+B|That's right.|aa
+A|They paid them off,|sd
+A|and then they stuck them in a thing of water and froze them.|sd
+A|She said at least before she could use them she'd have to thaw them out.|sd
+A|I mean, that's funny.|sv
+B|Well, that's a novel idea.|sv
+B|Yeah,|%
+B|that would cause you think a little while, wouldn't it.|qh
+B|That may not be a bad idea.|sv
+B|But I'm kind of getting a little more leery of credit cards, you know, as time goes by.|sd
+B|Unless you just absolutely have to.|sd
+B|Now, there are times when you'd at least think you do, anyway.|sd
+A|Yeah.|b
+A|Yeah.|b
+A|I, I want to still have just one just in case.|sd
+B|Yeah.|b
+A|But, I'd sure want to get the, get it paid down and not use it for a while|sd
+B|Uh-huh.|b
+B|Yeah.|b
+B|That's right.|aa
+B|My wife and I really, I guess are fortunate.|sd
+B|We're really not compulsive shoppers, you know.|sd
+A|Uh-huh.|b
+B|We, we plan purchases, you know, pretty well, you know, watch for the best buys, things like that.|sd
+B|But, uh, some people have a real problem with it.|sd
+A|Yeah.|b
+A|Well, our, our limit is, you know, fairly low|sd
+B|Uh-huh.|b
+A|and, uh, so that's, that's one thing that's good.|sd
+B|Sure.|aa
+B|Absolutely.|aa
+B|Yeah.|aa
+A|Oh, I've got another call.|sd
+B|Oh, I'm sorry.|fo_o_fw_"_by_bc
+B|Was nice talking to you.|fc
+A|Okay.|fc
+B|Take care.|fc
+A|All right.|fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc

@@ -1,0 +1,115 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|now then you heard the question,|sv
+A|what  what do you like to do for yourself in car automobile repairs?|^q
+B|Uh-huh.|b
+B|Well, I'll tell you, I used to do a lot more repairs when cars were easy to work on, than I do now.|sd
+A|Okay.|b
+B|I do, uh, I do the easy stuff now.|sd
+B|I change oil,|sd
+B|uh, and then what some people would consider a little more difficult, I, I'll change spark plugs|sd
+B|and I'll change, you know, points and, you, you know, do air filters, that kind of stuff.|sd
+A|Um.|%
+A|Well.|%
+B|But, uh, I can't do as much as I used to,|sd
+B|um, I used to do a whole lot more, but not any more,|sd
+B|they're just too weird to work on now.|sd
+A|Is that the reason you're not doing it,|qy
+A|or are you so busy you don't have time to do it?|qrr
+B|Well, that's part of it|sd
+A|Uh.|%
+B|yeah,|aa
+B|part of it is, like you said, I don't have time.|sd
+A|Okay.|bk
+A|Well being a female and being alone, you, I don't do anything but put gasoline, in my car, and let someone else check the oil even.|sd
+B|Uh-huh.|b
+A|But, uh, have you had any major repairs recently?|qy
+B|Well, um, on this car I've got now, no,|ng
+B|but I had a van before,|sd
+B|and it was only two years old,|sd
+B|and it had transmission go out on it.|sd
+A|Oh.|b
+B|But fortunately that was covered under the warranty.|sd
+A|Okay.|b
+A|Well, you should be, feel very fortunate.|sd
+A|I had to have a transmission replaced in an eighty-six automobile|sd
+B|Um.|%
+A|and I'll declare, that's an expensive.|sd
+B|Oh, yeah.|aa
+A|Yes,|aa
+A|uh-huh.|b
+A|Maybe I should have just traded the car in.|sd
+B|Yeah,|b
+B|sometimes it makes you wonder.|sv
+A|Oh, it just,|%
+A|well, I have a very comfortable car and I have a health problem that I need a large comfortable car.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|So, um, anyway, I have a new transmission,|sd
+A|and I'm sure that any of them would have cost or charged me almost the same amount.|sv
+A|But|%
+B|Yeah.|b
+A|it hurts, it hurts real bad.|sd
+B|Did you take it to a dealership?|qy
+A|No,|nn
+A|I took it to an independent out in Garland.|sd
+B|Uh-huh.|b
+B|Oh, I see.|bk
+A|I had, um,|%
+A|these people were recommended by a neighbor|sd
+B|Uh-huh.|b
+A|and, you know, that's the only thing,|sd
+A|I am not a native of Dallas.|sd
+B|Oh, I see.|b
+A|So that means I have to depend on, on trustworthy friends|sd
+B|Right.|b
+A|and that's.|%
+A|Anyway, it's fixed,|sd
+A|it's running,|sd
+A|and I pray that I get my thirteen hundred dollars out of it.|sd
+B|Oh, gosh.|ba
+A|Uh-huh.|b
+B|It's going to run for a for a while yet.|sv
+A|Oh, I know it.|ba
+A|It certainly is frightening.|sd
+A|What work are you in?|qw
+B|Uh, I, I work for T I.|sd
+A|Oh.|b
+B|I, I work in the networking area.|sd
+A|Okay,|b
+A|okay.|b
+B|Do you work for T I?|qy
+A|No.|nn
+B|No,|b^m
+B|okay.|b
+A|No,|nn
+A|I have just retired from, um, the Southwest Medical Center.|sd
+B|Oh.|b
+A|Yeah, where there are a lot of people down there that could help me with my car,|sd
+A|but they're all too busy.|sd
+A|So.|%
+B|Yeah.|b
+A|I have to do it the other way,|sd
+A|and that's find someone and pay them to do it.|sd
+B|Yeah,|b
+B|yeah.|b
+A|So I certainly hope you have a nice New Year.|fo_o_fw_"_by_bc
+B|Oh, yeah,|fo_o_fw_"_by_bc
+B|I'm, I'm planning on it.|sd
+B|Oh, it can't be any worse than last year,|sd
+B|that's for sure.|sd
+A|Oh, it could be,|sv
+A|but I don't much think so|sv
+B|Yeah.|b
+B|That's true,|ba
+B|that's true.|ba
+A|I'm, well, we're starting out a new one,|sd
+A|so let's make it a good one.|ad
+B|Yeah,|aa
+B|I'm going to try and plan on it.|sd
+A|Okay.|b
+B|All right, well, I enjoyed the conversation.|fc
+A|Thank you.|fc
+B|All right,  thank you.|fc
+A|Bye.|fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc

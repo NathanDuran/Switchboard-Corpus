@@ -1,0 +1,127 @@
+A|Um, hello, um,|fp
+A|what is your favorite, um, food for a dinner party?|qw
+B|Um, I don't know,|h
+B|I, I think I make things, you know,|sd
+B|I do things kind of simple because I, you know, I just have close friends over.|sd
+B|I make like lasagna|sd
+B|and, uh, oh, we like to have barbecues outside so, you know, when the weather's nice because in Texas you have a lot of nice weather,|sd
+B|so, we do a lot of, um, things like that.|sd
+B|Um, I'm not really into gourmet cooking,|sd
+B|so, I don't know how to do that,|sd
+B|so, I don't have gourmet foods|sd
+A|Do you do Tex-Mex?|qy
+B|Um, yeah,|ny
+B|you know, like fajitas and stuff like that,|sd
+B|so.|%
+A|Oh, fajitas,|b^m
+A|how do you make fajitas?|qw
+B|Um, it's kind of like made out of skirt steak|sd
+B|and you marinate it.|sd
+A|Uh-huh.|b
+B|You can buy marinating mixes here|sd
+B|I don't know, get it up there.|sd
+A|Oh.|b
+B|Uh, you can, you know, marinate it in any kind of barbecue sauce you like|sd
+B|and then you, uh, you quick fry it real fast with, in hot, hot grease. You know, not a not, not deep frying it|sd
+B|but you can either barbecue it which is really good, with, uh, green beans, not green beans but green peppers and red peppers and onions.|sd
+B|And, uh, then you put it on a flour, like, you know,|sd
+B|you make your meat real, uh, thin, you know, bite-size pieces.|sd
+A|Uh-huh.|b
+B|Then you put it on flour tortillas with, you know, guacamole and, uh, sour cream and, you know, all kinds of, you know,|sd
+B|it's like a Tex-Mex type thing.|sd
+A|Oh, it sounds good.|ba
+B|It's really good.|sd
+B|You can do it with chicken too.|sd
+B|Chicken fajitas and stuff.|sd
+A|Okay.|b
+B|So.|%
+A|Well, that's nice.|ba
+B|So, what kind of cooking do you do up there?|qw
+A|Oh, well, basically, um, because I lived in the Middle East for a while I tend to fix Middle Eastern foods when I have, have people over.|sd
+A|And so, um, some of the dips are like chick peas mashed with, um, sesame.|sd
+B|Uh-huh.|b
+A|And, uh, cold um,|%
+A|what's it called,|t1
+A|I forgot, what it's called,|sd
+A|anyway and, and my,|%
+B|You cook them so often you kind of forget their names.|qy^d
+A|That's right,|na
+A|that's right.|na
+B|Yeah,|b
+B|yeah.|b
+A|It's called ,|sd
+A|now I remember it.|sd
+B|Oh.|b
+A|And, um, dipping Arabic bread, the thin piece of bread in that.|sd
+B|Uh-huh.|b
+A|Or another dip is made with, very similar but with, um, eggplant which has been actually|sd
+A|it ends up with a barbecued taste.|sd
+A|I,|%
+A|although we usually bake it in the oven|sd
+A|or if we have, uh,|%
+A|those of us that have gas stoves bake it on top just like putting it in the gas flame and sort of getting it black, on the outside but mushy on the inside.|sd
+B|Oh.|b
+B|Oh, that's unusual I'd never heard of anything like that, you know.|sd
+B|Here in Texas it's all, you know, Tex-Mex cooking and barbecue|sd
+B|and,|%
+A|But barbecue is it like steaks|qy
+A|or is it, uh, turkey?|qrr
+B|Yeah,|b
+B|you barbecue|%
+B|Pardon me?|br
+A|Would you barbecue a turkey or a chicken|qy
+A|or,|%
+B|Oh, yeah,|ny
+B|you can barbecue turkey if you have a big enough grill|sd
+B|but my, I cook my turkeys inside, you know,|sd
+B|it|%
+B|you can buy smoked turkeys.|sd
+A|Uh-huh.|b
+B|And or, uh, but most the stuff that we barbecue is like steak and chicken and hamburgers, hot dogs, you know,|sd
+A|Uh-huh.|b
+B|the simple things like that,|sd
+A|Uh-huh.|b
+B|You know, barbecue beans and baked beans|sd
+B|and,|%
+A|Uh-huh.|b
+A|I'm sure that the chicken that we barbecue from the Middle East has a lemon garlic sauce.|sd
+A|I wouldn't imagine that a barbecued chicken would.|sd
+B|No,|nn
+B|no,|nn
+B|this is more like hickories, hickory type, you know,|sd
+A|Uh-huh.|b
+B|depending on the|sd
+B|it's like a smokey flavor, if you've ever, you know, had stuff like that.|sd
+A|Uh-huh.|b
+B|Yeah,|%
+B|it's totally different.|sd
+B|Sounds like it would be interesting to eat some of the Middle Eastern cooking,|sd
+B|so.|%
+A|Right,|b
+A|right.|b
+B|Yeah.|b
+A|Well, it's been fun talking to you.|fc
+B|Yeah,|fc
+B|it's been fun,|fc
+B|it's been nice,|fc
+B|it's, uh, you know, new to learn some, what different people eat,|fc
+A|Right.|fc
+B|I come from Wyoming|fc
+B|and it's basically the same, same type of thing except for you do eat more the Tex-Mex down here,|fc
+B|so.|fc
+A|Uh, in Wyoming it would be less spicy?|fc
+B|Yeah,|fc
+B|yeah,|fc
+B|you, you know,|fc
+B|down there it's just like meat and potatoes, you know.|fc
+A|Vegetables once in a while.|fc
+B|Yeah,|fc
+B|right|fc
+A|Oh, dear.|fc
+B|Well, it's been interesting to talk to you.|fc
+A|Okay,|fc
+A|very good.|fc
+B|Thank you for calling.|fc
+A|Okay,|fc
+A|bye-bye.|fc
+B|Bye-bye.|fc

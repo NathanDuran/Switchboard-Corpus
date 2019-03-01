@@ -1,0 +1,134 @@
+A|Well, do you have any pets?|qy
+B|Yes|ny
+B|I do.|sd
+B|I have a dog named Grisly, who's a ten year old, uh, mixed breed between Golden Retriever, Afghan Hound and Chow.|sd
+A|Oh.|bk
+B|And I have a pair of box turtles.|sd
+A|Oh,|bk
+A|I used to have box turtles, um, well, years ago, when I was growing up|sd
+B|Yeah,|b
+A|I, I really like them.|sd
+B|Oh, yeah,|b
+B|I do, too.|sd
+B|Lucky and Spot, that's their names|sd
+A|Oh.|b
+B|and they live in an aquarium without water in my family room,|sd
+B|and my dog thinks he's a mother turtle, and always has his nose all around my turtle box,|sd
+B|so do you have any pets now?|qy
+A|Yes,|ny
+A|um, we have one dog, a Bichon Frise.|sd
+A|Um, our friends in Houston bred the dogs.|sd
+A|I had never heard of them|sd
+B|No,|nn
+B|I haven't either.|sd
+A|they're, um, they're all white|sd
+A|and they're small, and, um, and fluffy,|sd
+A|they don't shed.|sd
+A|I guess they're distantly related to a poodle,|sd
+A|but they're not very well known in this country,|sd
+A|and they're not, um, high strung or over bred um.|sd
+B|Oh.|b
+B|And how big do they get.|qw
+A|Ours is, uh, on the small end,|sd
+A|and she's about ten pounds,|sd
+A|and they range from probably ten to sixteen pounds|sd
+B|Oh, that's interesting.|ba
+A|and they love people, um, and kids|sd
+A|and that was something we were looking for, um,|sd
+A|our, our love is Golden Retrievers,|sd
+A|and that's what we had intended to get in Houston,|sd
+A|but we had a small yard and a pool|sd
+A|and knowing how they love to dig and love the water, um, and we thought that was kind of a tough climate|sd
+B|the water,|sv
+B|yes.|%
+B|Yeah.|b
+A|so, uh, we ended up getting this,|sd
+A|and, uh, my son would rather have a Golden Retriever, though, I think|sd
+B|Oh.|b
+A|now he wants a, a good size dog|sd
+B|Uh-huh,|b
+B|well, we've got a good size dog,|sd
+B|and we were considering getting a puppy, a small house, lap top dog for him, because he likes other animals and for me, because we used to have a miniature Dachshund,|sd
+B|and I miss having a little one you know, around.|sd
+A|Oh.|b
+A|Yeah.|b
+B|The kind you have sounds very interesting, though.|ba
+A|Well, they really are, um, they're really sweet dogs.|sd
+A|We've, uh, we thought probably our neighborhood in Houston had more of this breed than any other place just because of, um, the family that had them and, and bred them.|sd
+A|They had five litters of puppies,|sd
+A|and and a lot of them stayed in the neighborhood|sd
+B|Oh.|b
+B|Uh-huh.|b
+A|because, um,|%
+B|And how do you spell that breed?|qw
+A|It's B I C H O N F R I S E.|sd
+B|F R I S E.|b^m
+B|And how do you pronounce that?|qw
+A|Bichon Frise.|sd
+B|Okay.|bk
+B|I'm writing it out phonetically,|sd
+A|Yeah.|b
+A|They're, uh,|%
+A|and they don't shed|sd
+A|so they're, they're good dogs for people with, with allergies,|sv
+B|Yes,|b
+A|and they love people,|sd
+A|and they're,|%
+B|Do they bark a lot?|qy
+A|Um, no,|nn
+A|not really.|sd
+A|Ours, um, ours barks more than, um, than some, because she spent a lot of time at our friends' house.|sd
+A|We used to swap back and forth dogs.|sd
+A|they have three dogs.|sd
+A|They had a Cockapoo, and, and two Bichons um,|sd
+B|Uh-huh.|b
+A|and she didn't bark at all until she spent time there|sd
+B|Oh.|bk
+A|and, uh, now it's funny.|sd
+A|She's, she's a good watch dog|sd
+B|Uh-huh.|b
+A|and if there's, she'll bark that way,|sd
+A|but she also talks a lot,|sd
+A|she um, has a definite personality|sd
+B|Yes.|b
+A|and so, if we're leaving her, she barks at us, because she doesn't want to be left. Um.|sd
+B|Oh.|b
+B|Does she ever mess in the house?|qy
+A|No,|nn
+A|no,|nn
+A|and they're, um, they're very smart dogs.|sd
+A|The circuses in Europe used to use them um, for the acts.|sd
+B|Oh.|b
+A|They, uh, oh, they'll dance on their hind legs each|sd
+B|Uh-huh.|b
+B|Oh, gee.|ba
+A|um, but they're very easy to train|sd
+B|Uh-huh.|b
+A|and,|%
+B|And about how much are they?|qw
+A|Well, they range,|%
+A|I'd noticed up here they're a lot more expensive it seemed to me from the ads in the paper.|^h
+A|They run anywhere from two hundred to four hundred dollars, I think which I thought was a lot.|sd
+B|And how about the, And how about the person in, uh, Houston?|qw
+A|Well, she's no longer breeding them|arp_nd
+B|Oh.|bk
+A|but, um, because her dogs, um, the, the second one that she has was one of the puppies from the litter,|sd
+A|and, uh, the one male that she used had a tooth problem|sd
+B|Uh-huh.|b
+A|and so she only bred that dog once because it had the tooth problem, and did them strictly as, um, pets, you know they weren't, weren't show quality.|sd
+B|Oh, yes.|b
+B|Just pets,|b
+B|Yes,|b
+B|that's what we'd rather have is just a pet, instead of|sd
+B|we used to show Saint Bernards when I was a little girl.|sd
+B|We did that every weekend,|sd
+A|Oh, but, yeah, takes a lot of time.|sv
+B|Yes,|aa
+B|and it's very expensive.|sv
+A|Yeah,|aa
+A|um, but she might have some contacts here,|sd
+A|I know I know that the dog's grandmother, um, was from Plano,|sd
+B|Oh, that's where I live,|sd
+A|Oh, that's where I live, too.|sd
+B|Yeah,|b
+B|I'm at Coit and Legacy ...|sd

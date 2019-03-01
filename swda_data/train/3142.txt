@@ -1,0 +1,178 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|well I guess I enjoy eating out, um, uh, here and there,|sd
+A|or it's, it's a good change and, a good change from cooking and eating at home|sd
+A|and I guess I like a variety of, a variety of restaurants.|sd
+B|Uh-huh.|b
+A|Uh, sometimes it's fun to go out and just have a hamburger and french fries and, and sort of a hamburger and french fry meal,|sd
+A|and sometimes it's, I enjoy it's, I enjoy going out having a formal meal.|sd
+B|Yes.|b
+A|And, uh, sometimes it's nice to go out and have a salad.|sd
+B|Uh-huh.|b
+A|Something,  you know,|%
+B|Do  you usually go out, uh, with the children or without them?|qy
+A|Well, a variety.|sd
+A|I, I like to go sometimes without them|sd
+A|and, sometimes I, sometimes it's okay to take them along.|sd
+A|So|%
+B|Right|b
+A|Sometimes I think we pay the baby-sitter as much as paying for their dinner or lunches|sd
+B|Yes.|b
+A|so, uh, it just, you know, it just varies,|sd
+A|we do a mix.|sd
+A|Sometimes it's really nice to be able to go out and eat with just my husband|sd
+A|and it wouldn't even really matter which restaurant it was, just to, you know, have a moment of peace and quiet without little ones at the table.|sd
+B|Yes.|b
+B|Yes.|b
+A|So, uh,  I guess  I guess actually on those, those times, uh, we even, there are times I even say, oh, please don't sit us next to a table with other children,|sd
+B|Well,|%
+A|this is our night out.|^q
+A|So but, uh, anyway, where do you like to eat?|qw
+B|Uh, well, uh, we don't have any children|sd
+B|so, uh, we tend to, like to try all sorts of different things.|sd
+B|And, uh, we're very attracted to exotic food.|sd
+A|Uh-huh.|b
+B|And, uh, we like Indian food, and Thai cuisine and, uh, sort of gourmet Mexican and, uh, things like that, as well as Tex-Mex and Italian and, uh, Chinese and things, and, and things of that sort.|sd
+B|Now, yes,|fo_o_fw_"_by_bc
+B|of course, we like to occasionally go out and get down and dirty with barbecue or hamburgers or something like that, too.|sd
+A|Right.|b
+B|And, uh, we probably go out one to two times a week.|sd
+A|Right.|b
+B|And, uh, uh, we're pretty much regulars at an Italian, local Italian restaurant.|sd
+A|Oh, which one do you like?|qw
+B|Momo's.|sd
+A|Oh, okay.|bk
+A|Well, it's been a long time since we've been in there|sd
+A|but, uh, but it's good.|sv
+A|There's an Italian restaurant over, over by the mall, over by, uh, Plano Parkway there,|sd
+B|Uh-huh.|b
+A|Oh, is it Campari's or something?|qh
+B|I've heard about it,|sd
+B|I haven't been in there.|sd
+A|Well, it's good.|sd
+A|I haven't, my husband had been in there several times|sd
+A|and we went in there, actually we went in there for lunch one day.|sd
+B|Uh-huh.|b
+A|And, uh, their pastas were great.|sd
+B|that's one of the things, a good pasta means a lot to me.|sd
+B|I, I like different kinds of food.|sd
+B|So, when we go out, I'm always looking for something other than the standard menu, even if, it's a Mexican Restaurant, like something other than, uh, you know the standard tacos, enchiladas, tamales and  fajitas now.|sd
+A|You're brave|sv
+B|Yes,|aa
+B|yes|aa
+B|and once in a while things backfire.|sd
+B|I mean, we've gone for Romanian food and Lebanese food, and things  like that|sd
+A|Oh, God.|ba
+B|And I'm not fond of some of those things|sd
+B|but we'll try, we'll try anything.|sd
+A|Right.|b
+B|Ethiopian, we've had Ethiopian. And, uh, not in Plano of  course|sd
+A|No,|aa
+A|I don't think so|sv
+B|But, we really, we really do enjoy going out|sd
+B|and uh, and, um, I'm pretty adventurous in cooking, too, which also occasionally backfires.|sd
+A|Oh, well. Even though traditional it can backfire.|sv
+B|Yeah.|aa
+B|I think we're supposed to say what will bring us back to a restaurant or, or what attracts us to a restaurant.|sd
+B|How do you usually find a, a new restaurant?|qw
+A|Uh, well my husband's kind of the he, he's the ethnic fan.|sd
+A|So he's,|%
+A|I don't know.|h
+A|You know what, we read, we read the, uh, D MAGAZINE|sd
+B|Uh-huh.|b
+B|So do we.|sd
+A|we, we check that and, uh, the Friday section in the newspaper the pull out section there.|sd
+B|Uh-huh.|b
+A|They often do ratings of restaurants,|sd
+A|so|%
+B|Right.|b
+A|uh, we've, uh, we've usually, we often save those and ventured out on, from there, uh, just for something that had a high rating.|sd
+B|Uh-huh.|b
+B|We have found, uh, a number of restaurants either through D and the, Friday paper and sometimes the, the OBSERVER. Which my husband usually picks up. And also through coupons.|sd
+A|Okay.|b
+B|When a new restaurant opens up, they usually send out coupons.|sd
+A|That's,  That's right.|aa
+B|And you know, when  they say, you know, buy one get one free. It's hard to resist,|sd
+B|so we'll go in.|sd
+B|And very often we'll, find a place that we like|sd
+B|and we'll stick with it|sd
+B|once they, give, they no longer give coupons. We'll, we'll, uh, we'll stay there.|sd
+A|Oh good.|ba
+A|Oh, good.|ba
+B|But  we've found probably half of our sort of regular restaurants through coupons, and the other half through the, through the newspaper reviews.|sd
+A|Oh. Oh, yeah.|aa
+A|We, I guess we, we use the coupons, too.|sd
+A|That's true.|aa
+A|That's true.|aa
+B|I mean it's wonderful, particularly if you have more than two people and you've got say four or something like that.|sd
+B|It's very expensive to go out to eat.|sv
+A|Oh right.|aa
+A|Right.|aa
+B|So, yeah|b
+B|that, that is really one of our,|sd
+B|it's almost a hobby with us.|sd
+A|Well I think that it's just, that's sometimes I think going out to eat it's, it's sort of a recreation.|sv
+B|Yes.|b
+A|So, uh, just a, just a change of pace from, uh, eating at home.|sv
+B|Yes.|b
+A|So, uh  anyway. I guess, uh, as far as, as far as service when we go out gosh, it's nice, it's nice to have someone come and wait the table. And clear the table and,|sd
+B|Yeah.|b
+B|Uh-huh.|b
+B|Oh, absolutely.|aa
+B|And do the dishes|^2
+A|Yeah,|aa
+A|and do the dishes.|b^m
+A|And, uh, actually it's kind of nice to, you know,|sv
+A|I always,|%
+A|uh, a waitress or waiter that waits the table, it's nice that they're attentive|sv
+A|but it's not nice when they're too attentive.|sv
+B|Oh, yes.|aa
+A|So, uh, we've had experience with that, too.|sd
+A|So,|%
+B|my sister, who also lives here in Dallas, uh, tends to, uh, chat with waiters and waitresses and become their best friends during the course of dinner, which drives me absolutely batty.|sd
+A|Oh, yeah.|aa
+A|Well,  how we|%
+B|but ,|%
+A|it may, it may help their tip, may not, huh.|sv
+B|What's your favorite restaurant?|qw
+A|Gosh, I guess just in Plano, I, Plano I like to go to Souper Salads.|sd
+B|Uh-huh.|b
+A|Uh, Chili's, Chili's is always fine.|sd
+B|Sure.|b
+A|I guess if we go to Dallas, into Dallas, we like, uh, the Routh, is it Routh Street Cafe.|sd
+B|You know, we've never been there.|sd
+A|Well  well, you would like it.|sv
+B|And  that's supposed to be wonderful.|sd
+B|Um.|%
+A|You'd like it especially it you're adventuresome.|sv
+B|Uh-huh.|b
+A|It just, we've, we've taken people there several times|sd
+A|and, uh, they have a good, they have a good choice of things that are very different sounding.|sd
+A|I guess, it's, whether you call it Southwestern|sd
+A|but, uh, oh we had venison venison chili one time. Which was absolutely wonderful.|sd
+B|Ooh.|ba
+A|And then I guess it must be seasonal|sd
+A|and we've been back,|sd
+A|oh, I guess it's in the winter season|sd
+A|well they've never had it when we've been back,|sd
+B|Uh-huh.|b
+A|so. But, uh, well you ought to try that.|ad
+A|It's, it's, it's very  good.|sd
+B|I  would probably like that.|sd
+B|One or two times in my life I've ever had venison, I've loved it.|sd
+B|But, you know, just, it's just not,|sd
+B|I don't know people who hunt|sd
+B|so|%
+B|uh|%
+A|No.|fo_o_fw_"_by_bc
+B|That's, that's supposed to be a wonderful place.|sd
+B|uh, uh, uh, here in Plano, well, we tend to go to Momo's a, fairly often.|sd
+B|And, uh, sometimes we'll go, you know,|sd
+B|we, we also go to Chili's and, uh, Colter's Bar B Q,|sd
+B|and, and uh, we go to, there is a little Thai place that's over on Park that, we go to.|sd
+B|My husband particularly likes that.|sd
+B|We go into Dallas, a lot and, because we're both were from the Richardson, North Dallas area, up until fairly recently.|sd
+B|And, uh, we'll go down to, uh, Blue Mesa Grill, Mexican food,|sd
+B|and|%
+A|Oh, that's good.|sv
+A|Yes,|aa
+A|I've been there.|sd

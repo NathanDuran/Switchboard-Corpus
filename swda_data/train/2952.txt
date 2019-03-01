@@ -1,0 +1,321 @@
+A|Okay,|%
+A|what kind of things do you like to do in your spare time?|qw
+B|Well, uh, I have two children,|sd
+A|Uh-huh.|b
+B|so I do not have a whole lot of spare time right now.|sd
+B|One of the things that I have made time for is, uh, playing softball.|sd
+A|Uh-huh.|b
+B|I really enjoy,|sd
+B|I enjoy softball,|sd
+B|but I enjoy all kind of sports.|sd
+B|I enjoy watching and participating.|sd
+B|I really like water sports like swimming and skiing,|sd
+B|but I do not get to do that too often.|sd
+A|Yeah.|b
+B|And then I, I really enjoy sewing,|sd
+B|but I do not get much of a chance to just really sit down and do much sewing.|sd
+B|How about you?|qo
+A|Oh, I, uh, like sports type things too.|sd
+A|We like to get out and walk,|sd
+A|and we like the water sports too.|sd
+B|Uh-huh.|b
+A|But like you, unless you have a pool in your backyard, it is kind of hard to get to do that very often.|sd
+B|I, know it.|aa
+B|It is.|aa
+B|Do you work full time?|qy
+A|Yeah.|ny
+A|Well, part time.|arp_nd
+A|We are going to have a baby in July.|sd
+B|Part time.|b^m
+B|Oh.|b
+A|So part of my big hobby has been trying to put together a nursery and all that kind of stuff, lately.|sd
+B|Right.|aa
+B|Yeah,|aa
+B|that definitely takes over your time.|sv
+A|Yeah,|aa
+A|it does.|sv
+A|I have been,|%
+B|Is this going to be your first?|qy
+A|Yes.|ny
+A|Uh-huh.|ny
+B|Oh.|b
+A|I have been doing some cross-stitch for something I wanted to put in the nursery.|sd
+A|So, I have not done that in years,|sd
+B|Uh-huh.|b
+A|but I have kind of enjoyed that.|sd
+B|Yeah.|b
+A|It is just hard to find the time to sit there and do it.|sd
+B|Right.|aa
+B|Well, that is,|%
+B|it sure is fun to do that kind of thing because then you have got something to show for it.|sv
+A|Right,|aa
+A|yeah.|aa
+B|Yeah.|b
+B|That is neat.|ba
+A|And I guess I kind of consider shopping a hobby|sd
+B|Yeah.|aa
+B|I do too.|sd
+A|I just go out just to, just to enjoy it and not really spend money sometimes, just look.|sd
+B|Yeah.|b
+B|Yeah.|b
+B|But you will probably find after your children get bigger, uh, like when they want things like tricycles, toys, things that cost quite a lot in the store, you can find that kind of stuff at garage sales for just a few dollars.|sd
+A|Yeah,|aa
+A|yeah,|aa
+A|we bought some baby clothes, yeah, last weekend at a garage sale.|sd
+B|And,|%
+B|Yeah.|b
+A|Yeah.|b
+B|So, I am,|sd
+B|I have become a garage sale shopper.|sd
+B|And it is fun.|sv
+A|Uh-huh.|b
+B|On the weekends I drive around, look to see, you know, who is selling what.|sd
+B|And I found my little daughter some tap shoes for her tap class. And just, you know, all kinds of things like that, that you would probably pay thirty dollars for,|sd
+A|Oh|b
+B|and I got them for two dollars|sd
+A|Wow!|ba
+A|Yeah.|b
+B|Yeah.|b
+B|So,|%
+A|Yeah, at a lot of places.|b
+B|Yeah.|b
+B|Yeah,|aa
+B|it is.|aa
+B|It, it does take more time.|sv
+B|But I do not work,|sd
+B|so, uh, that is something I have decided I am going to make sure my kids have a, have a happy growing up years|sd
+B|and|%
+A|Right,|aa
+A|yeah.|aa
+A|I think that is important too.|sd
+A|I am not going to work after the baby comes.|sd
+B|Yeah.|b
+B|Well, Well, that is good.|ba
+A|So, I guess, hopefully I will have more time for hobbies.|sd
+B|I am glad,|ba
+A|I do not know|h
+B|Well, at first, when you first have a baby, you, uh, seems to take every moment of your time. Partly because you are not used to, you know, juggling your time around like that.|sd
+B|But, eventually the, you will, you will be doing lots of stuff.|sv
+A|Right.|aa
+B|So,|%
+A|Yeah.|b
+B|But I think, my husband is real into sports too.|sd
+B|He plays on a T I softball team and the church softball team.|sd
+B|And by the time he plays two games a week and I play a game a week, we go to lots of softball|sd
+A|Wow!|ba
+A|Yeah|b
+B|But the kids enjoy going because there's usually a lot of other kids for them to play with|sd
+B|and we, that is getting outside and, you know, doing things they like to do too.|sd
+B|So,|%
+A|Yeah.|b
+A|So that is good.|ba
+A|A whole|bf
+A|your whole family can enjoy those hobbies.|bf
+B|Yeah.|aa
+B|And one other thing we are doing this year is, uh, we bought Wet and Wild passes.|sd
+A|Oh.|b
+B|We have never done that before,|sd
+B|but the kids are always wanting to play in the water.|sd
+B|And, uh, like you said, unless you have a pool in your backyard or access to a good place to play, it is kind of hard.|sd
+B|And, uh, they have real good kiddie areas, uh, at both of the Wet and Wild's around here.|sd
+B|So, we are planning on going two or three times a week|sd
+A|Oh, wow.|ba
+A|That will make the summer go by in a hurry.|sv
+B|Yeah.|aa
+B|I think it will.|sd
+A|Keep the kids busy.|sv
+B|Yeah.|aa
+B|Because my oldest daughter is in school,|sd
+B|and she gets bored real fast when she is home with nothing to do.|sd
+A|Right.|b
+B|So, I think that will be a lot of fun.|sv
+A|Yeah.|b
+B|So we are looking forward to that.|sd
+A|Yeah.|b
+A|Uh, do you consider yard work a hobby at all|qy
+A|or is that just a chore?|qrr
+B|Well, when I got married, I thought it was going to be fun|sd
+A|Uh-huh|b
+B|But my husband and I both, I think, consider it a chore.|sd
+B|It's,|%
+A|Yeah.|b
+B|our yard has had so many problems.|sd
+B|It has completely died out two times.|sd
+A|Oh, no.|ba
+B|And, uh, we have had to start all over trying to plant grass.|sd
+B|So it has become a chore|sd
+A|Huh.|b
+B|Do you and your husband like to work in the yard?|qy
+A|Oh, well, we like it once in a while but not as often as we have to do it|arp_nd
+B|Yeah.|b
+A|I like to put flowers out and, you know, a few little things like that.|sd
+B|Uh-huh.|b
+A|But as far as mowing every week, and finding time to get all that stuff done, it gets to be a chore.|sd
+B|Yeah.|b
+B|Yeah.|b
+B|Yeah.|b
+B|Yeah.|aa
+B|That is true.|aa
+A|Seems like sometimes hobbies do that.|sv
+A|They kind of take over and turn into work instead of fun.|sv
+B|Yeah.|b
+B|Well, that is how sewing.|sd
+B|I love to sew,|sd
+B|and, uh, I wish I had more time to do it.|sd
+B|But sometimes I will get started on a project and then finishing it is more of a chore than|sd
+A|Yeah.|b
+A|If it does not go quite, quite right.|bf
+B|Yeah.|aa
+B|Another thing I enjoy doing is cooking.|sd
+B|I, I like especially,|sd
+B|it is real strange,|sd
+B|but I like to cook for other people.|sd
+B|Like I have a friend that is, uh, pregnant|sd
+B|but she can't get up and walk around right now.|sd
+A|Oh, no.|ba
+B|So, I enjoy, you know, cooking things to take over to her house|sd
+B|or,|%
+A|Oh, that is nice.|ba
+B|Yeah.|b
+B|And it, it is fun for me to do that.|sd
+B|It is, it is something I enjoy doing.|sd
+B|It is funny though, it is like I do not really want to cook for us|sd
+B|It is kind of like when you are a kid and, and someone else's house was fun to clean,|sv
+B|but you did not want to do your own|sv
+A|Yeah.|b
+A|Your,|%
+A|How funny.|ba
+A|I think I will enjoy cooking more when I am not working, when I do not get home until five-thirty or six, and I have to cook and clean up,|sd
+B|Yeah.|b
+B|Oh, yeah.|aa
+A|it is not, it is not fun.|sd
+A|But I think I will like it better.|sd
+B|Yeah.|aa
+B|When you are home it's, it makes a difference.|sv
+A|Yeah.|b
+B|It sure does.|sv
+A|Uh-huh.|b
+B|Well, do you guys go camping or anything like that?|qy
+A|Uh, yeah,|ny
+A|we have done a little bit of camping.|sd
+A|We like that.|sd
+A|It's,|%
+A|there again, it is just so hard to find time to get away for a whole weekend.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+B|Well, that is something that we are planning to do not this weekend, but the next.|sd
+B|My parents go camping a lot,|sd
+B|and they invited the kids and my husband and me to go with them|sd
+B|and,|%
+A|Oh.|b
+A|That sounds fun.|ba
+B|Yeah.|aa
+B|We are really looking forward to it.|sd
+B|The girls love it.|sd
+B|They have been a couple of times, and, uh, just getting to be outside, you know, all the time and sleep in a tent. And that is really fun to them.|sd
+B|So, We are looking forward to that.|sd
+A|Yeah.|b
+A|Well, that sounds nice.|ba
+A|I, I think that would be a good family thing to start doing more often.|sv
+B|Yeah.|aa
+B|I think so.|sd
+B|Yeah.|aa
+B|My, uh, my husband loves to fish.|sd
+B|I am not much into fishing,|sd
+B|but, uh, my daughter thinks she wants to learn how to fish|sd
+B|so I think it will be real good for them|sd
+A|Uh-huh.|b
+B|They can go fishing.|sd
+A|Yeah,|b
+A|we have camped with some friends who have young children|sd
+A|and, uh, if you can find some place where those little sunfish are right around the shore where they can just pull in a line.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|Oh, they have so much fun doing that.|sd
+B|Yeah.|b
+A|And they think they are really great fishermen because they are catching so many|sd
+B|Yeah,|b
+B|yeah.|b
+B|Oh, I know.|aa
+B|Yeah,|b
+B|uh, she is really looking forward.|sd
+B|I am hoping,|sd
+B|that is another thing though, when sometimes your, uh, hobbies can interfere with each other.|sd
+B|Because my husband is afraid he is going to have a softball tournament that weekend.|sd
+A|Oh.|b
+B|And I am saying, no, no|sd
+A|Yeah.|b
+A|Skip this tournament|bf
+B|Yeah.|aa
+B|If you are doing a lot of things, sometimes you have conflicts,|sv
+B|and you have to decide what you enjoy the most.|sv
+A|Right.|aa
+B|So,|%
+A|Yeah.|b
+A|Do you do any other crafts or anything besides your sewing?|qy
+B|Well, not really right now.|ng
+B|I keep thinking when the kids get bigger and I have a little more time, uh, I might take up, there is, I would love to cross-stitch.|sd
+B|I think cross-stitching is so pretty,|sv
+B|but I have never done any.|sd
+A|It is not too hard.|sv
+A|It is,|%
+B|Yeah.|b
+A|I do not think it is as hard as like knitting or crochet or something like that.|sv
+B|Yeah.|b
+B|Yeah.|aa
+B|I, I crocheted when I was younger.|sd
+B|It is funny, when I was in high school, I made a blanket.|sd
+B|And,|%
+B|but you know, I can't even remember how I did it now|sd
+A|Yeah|b
+B|It has been so long since I did it that|sd
+B|but,|%
+A|Yeah.|b
+A|I started to to knit a sweater.|sd
+B|Uh-huh.|b
+A|And I got off on my rows somehow,|sd
+A|and so what should have been the back all of a sudden was on the front.|sd
+B|Oh, yeah.|b
+A|And then I tore it out and threw it down.|sd
+A|And I never have, picked it back up again,|sd
+A|and now I can't remember anything about it|sd
+B|Yeah,|b
+B|well, I did the same thing.|sd
+B|Uh, when I was pregnant with my first daughter, I was really bored,|sd
+B|and I bought one of those latch hook rug kits.|sd
+A|Oh, uh-huh.|b
+B|It was a real pretty rug.|sd
+B|And I thought, well I could use this as a gift or something, you know.|sd
+B|And oh, it was so,|sd
+B|it was beautiful,|sd
+B|but I did not realize how long it took.|sd
+B|And I got about two, two-thirds of it done,|sd
+B|and then I just,|sd
+B|I had the baby|sd
+A|Yeah|b
+B|And then it was just like I forgot all about it.|sd
+A|Forget it.|^2
+B|And every once in a while I will be digging through the closet,|sd
+B|and I will find that thing.|sd
+B|And I will think, oh, maybe I ought to get the rest of that out, you know, and finish it.|sd
+A|Yeah.|b
+B|But, uh, for a while there latch hook rugs were a real big, uh, hobby.|sd
+A|Yeah.|aa
+A|I remember that.|sd
+B|It seemed like people did them a lot.|sv
+A|Yeah.|b
+B|Uh, uh, people do not do that much any more.|sd
+B|So, it was something easy I could do|sd
+A|Yeah,|b
+A|yeah.|b
+A|They are pretty easy.|sv
+B|Yeah.|b
+A|Well, it has been real good talking to you.|fc
+B|Yeah.|fc
+B|You too.|fc
+A|And I hope you enjoy your camping trip.|fc
+B|Oh, thank you.|ft
+B|And thanks for calling.|ft
+A|Uh-huh. *used to mean "you're welcome"|fo_o_fw_"_by_bc
+A|Bye.|fc
+B|Bye-bye.|fc

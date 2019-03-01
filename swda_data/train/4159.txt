@@ -1,0 +1,100 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|So, uh, Mike, what are your opinions on, uh, trial by jury?|qo
+B|Well I work for an insurance company|^h
+B|so I see a lot of, uh, verdicts that are pretty crazily decided. Um, by juries particularly,|sd
+B|and I know in England the judges set all of the awards.|sd
+B|You know juries will decide the guilt or innocence,|sd
+B|but then they leave the awards up to more learned people.|sd
+B|And I think maybe that avoids some of these totally ridiculous, you know, like millions and millions of dollars|sv
+A|Uh-huh.|b
+A|Yeah.|b
+A|That, that seems to make sense|sv
+A|but leave it up to the more experienced person who knows how it fits into the, uh, kind of the rate for different  .|bf
+B|Oh, exactly.|aa
+B|Each individual jury really doesn't have any perception of what, um, the going, you know, if you will the going, uh, award should be for a certain type of case, you know, within some kind of range.|sv
+A|Uh-huh.|b
+B|When you get one way out like that|sd
+B|but then really doesn't wind up penalizing the person that they went after.|sd
+B|Who it really penalizes is their insurance company which then translates into higher rates for all of us. If they get some of those mega awards against them.|sd
+A|Right.|b
+B|You know, they're not going to sit there and lose money.|sv
+B|If they are losing money, then they're going to raise rates.|sd
+A|Right.|b
+A|they|%
+B|So it all  comes filtering down to us all individually.|sv
+A|Right.|b
+B|And, uh, granted some people need to be compensated if they have really been wronged,  you know.|sv
+A|Well,  how do you feel about setting, like, well, for example, a car type accident where, uh, or some incident where someone loses a limb.|qo
+A|Do you think the jury should have a dollar figure for losing an arm, a dollar figure for losing different body parts?|qy
+B|I don't know.|no
+B|You know some of the health insurance is written that way. You know, that, uh, if you buy an accident and death or dismemberment policy, you know, it pre specified in the policy so much|sd
+B|but I don't know that you can necessarily put a, a value on somebody's limb,  uh,  arbitrarily that is always going to fit in all cases.|sv
+A|Uh-huh.|b
+B|I think maybe you look at, uh, the age of the person and their station in life and, and, uh, how much longer they have of work years that they would have to put up, you know, with, with that.|sv
+B|I mean maybe you don't award an eighty-five year old guy the same thing that you would award a twenty-one year old.|sv
+A|Huh.|b
+B|I, I think it has to be some kind of common sense applied there.|sv
+B|And there may be where the judiciary is a little more learned about that type of thing because they can be schooled in that kind of thing,|sv
+A|Uh-huh.|b
+B|and  that can be part of continuing education, maybe for judges|sv
+A|Yeah.|b
+B|I don't know.|h
+A|Right.|b
+B|You know, to get into the economics of things, uh,|sd
+B|because if they wheel somebody into a courtroom and the jury's heart goes out to that person and they do one of these mega awards,  it  really, you know, ultimately is not penalizing the person that they're trying for get away.|sv
+A|Yeah.|b
+A|That's true.|ba
+B|If it's a company, you know that they're insured. Unless the award is so staggering that it goes all beyond their layers of insurance which is another pet peeve of mine when they do award punitive damages,|sd
+A|Huh.|b
+B|I  think those should be uninsurable.|sv
+B|I think those should have to be paid by the corporation itself that,  that did the damage.|sv
+A|Oh, out of|bf
+A|As opposed to the insurance paying the bills,|bf
+B|Yeah.|b
+B|Yeah.|b
+A|Uh-huh.|b
+A|Well, we're,|%
+B|For, for  honest mistakes where they've done something and, and something happens.|sd
+B|One of their employees causes damage or something.|sd
+A|Who, who|%
+B|Sure.  That's what they buy insurance for.|sv
+A|do they get, they get insured, they get insured from other insurance companies|qy
+A|or how does that work?|qw
+B|Well, I was just talking about any company.|sd
+B|Uh,  let's just say a  lumber manufacturing company|ad
+A|Oh, okay,|bk
+A|your talking about|bf
+B|and,  uh,  somebody is on the premises|sd
+A|Sure.|b
+B|and one of the employees actually is driving by with a forklift|sd
+B|and he pushes the wrong button|sd
+B|and he drops a load of lumber on somebody|sd
+B|and it injures,  them.|sd
+A|Okay.|b
+A|Well,|%
+B|Sure.|sv
+B|Insurance should pay for that.|sv
+A|But in some instances you're going to put companies out of business by taking that stance, if they have to take it out of their own retained earnings.|sv
+B|Well I'm not talking about any loss.|ar
+B|I was talking about only losses that are judged for a punitive damage which is another category of, the juries are awarding damages these days based on the person's actual injuries and what they are due.|sd
+B|And then they are awarding a second amount as punishment to the company which is a usually a lot less.|sd
+B|But it's an, an amount they're, designed to sting them a little for their,  negligence.   For gross  wanton negligence in a claim.|sd
+A|That,|%
+A|For, oh,|%
+A|Uh-huh.|b
+B|And unfortunately the the,|%
+B|lately the courts have been deciding that those could be paid for by insurance too.|sd
+A|Uh-huh.|b
+B|So again, it never really penalizes,  the company  doing the wrong.|sv
+A|Right.|b
+A|That will,|%
+B|They can go right on doing the same old thing they always used to.|sd
+A|Huh.|%
+B|And if, if they know some practice is wrong, you know,|sv
+B|I'm not talking about your isolated occurrences,|sd
+B|I'm talking more about the, you know, the thing that they know,|sd
+B|maybe they're willfully manufacturing something that they know is hurting people out there|sv
+B|and they continue to do it even after they become aware of that.|sv
+A|Sure.|b
+A|Okay.|b
+B|Then I think they ought to have to pay something out of their own pocket.|sv

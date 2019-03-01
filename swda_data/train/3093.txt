@@ -1,0 +1,156 @@
+A|Well, this is the season for vacations.|sd
+A|And, uh, I guess for places I like to go, I enjoy going to the beach and having, having outdoor, being outdoors somewhere.|sd
+A|Someplace that's very different than Texas.|sd
+B|Right.|b
+A|And I,|%
+A|as far as, maybe, maybe as the summer heat comes along I would sort of like going somewhere where it's not so hot. And being able to be outside, enjoy outside activities,|sd
+A|so.|%
+B|Yeah.|b
+A|Enjoy going places where,|sd
+A|I enjoy playing tennis,|sd
+A|so I like to have a tennis court there,|sd
+A|or, or if it's at the beach, the beach is great.|sd
+A|A pool is great.|sd
+A|And, I ,|%
+B|Where, where do you usually go?|qw
+A|Oh, well, let's see,|^h
+A|we have plans this year to drive up to the, uh, to Colorado.|sd
+B|Uh-huh.|b
+A|And, we will be going to Estes Park, and Colorado Springs,|sd
+A|so.|%
+B|Uh-huh.|b
+A|One year we went to the southwest corner of Colorado, into Durango and north of the area there.|sd
+B|Uh-huh.|b
+A|And I,|%
+A|boy that's a nice, a nice place to visit.|sv
+A|It's really nice at,|sv
+A|there's a nice, nice train ride that goes up to the city of Silverton where they used to do a lot of silver mining.|sd
+B|Right.|b
+A|And, uh, and then actually, north, north of that is another town and, a smaller, on a smaller scale, I guess, than Silverton.|sd
+A|But, I, and then there's lots and lots of real, of mountains that are covered with, uh, boulders.|sd
+B|Uh-huh.|b
+A|So, I guess people Jeep through that area|sd
+A|and we did not have a chance to do that.|sd
+A|But, I sure would like to go back there and do that again.|sd
+B|Right.|b
+B|We are, uh, we have not had a vacation in several years,|sd
+B|so, be our first chance in awhile, uh,|sd
+B|we are going to go to, uh, Destin, Florida, which is a very nice beach area, if you are not familiar with it.|sd
+A|I have not been,|sd
+A|but I have heard it's wonderful.|sd
+B|Oh, it's, it's gorgeous.|sd
+B|Uh, we used to go quite a bit, uh, before I moved out here.|sd
+B|We were closer and, uh, used to go almost every summer, uh, and, rent a condo there on the beach.|sd
+B|Uh, there's quite a few, uh, there's a lot of development of, of condominiums there on the beach front.|sd
+A|Right.|b
+B|And, uh, so they have, uh, they are very, very large condos.|sd
+B|And, they have quite a few rooms, and, uh, so we, we will usually rent one for about a week or so.|sd
+B|And,|%
+A|Right,|b
+A|and the, beach is nice,|sd
+B|go down.|sd
+B|Oh.|b
+A|the beach is really nice, isn't it.|qy
+B|Yes,|ny
+B|it's, uh, it's beautiful white sand and very clear blue green water, and a, lot of nice waves usually, uh,|sd
+A|Oh.|b
+A|Sea shells.|^2
+B|enough, enough to make it.|sd
+B|I am sorry.|fa
+A|Sea shells.|sd
+B|Uh, there's not as many sea shells along there, uh,|sd
+B|that's the only thing that they really do not,|sd
+B|they have some, but not, not so much.|sd
+A|Yeah.|b
+B|Um, if you go further down, uh, you will usually find some, but not right in there.|sd
+B|Uh, I do not know why it is,|sd
+B|but, uh, it just,|%
+B|it seems not, it seems not to have as many there, right there.|sd
+B|But, uh, we, we enjoy it, uh,|sd
+B|it's,|%
+B|the place where we stay is, we usually stay at the same place every year,|sd
+B|and they are, like I say right on the beach.|sd
+B|So,|%
+A|Oh, where do you stay?|qw
+A|My husband always wants to go to Destin,|sd
+A|we just have not gone that direction yet.|sd
+B|It's a place called Jetty East, uh, J E T T Y E A S T,|sd
+B|and it's, uh, called that because it's at the very end of, uh, a jetty there, which is, uh, sort of at the end of this little, little point|sd
+A|Okay.|b
+B|and, uh, it's a, at the very end,|sd
+B|it's the last set of condominiums there,|sd
+B|and it's, uh, it's very nice. Uh,|sd
+B|it's not very expensive, uh,|sd
+B|you can,|sd
+B|I think we are going to go with another couple and their kids.|sd
+B|And, uh, they have a, we have a, uh, I think it's three bedroom or two bedroom, uh, condominium, which will sleep, I do not know, quite a few about , six or eight. And, uh, cause it's got, you know, pull out couches and all that,|sd
+A|Right.|b
+B|and, uh, I think it's going to cost us, per couple, about three hundred dollars for the week.|sd
+A|Oh. That's nice.|ba
+B|Yeah,|aa
+B|it really is,|sd
+B|because, uh, the, uh, you know, it has got its own kitchen, full size, kitchen and everything.|sd
+A|Great.|ba
+B|And, this one, I think has two baths,|sd
+B|and it's,|%
+B|the one we got is on the, on the beach side.|sd
+B|So,|%
+A|Oh, nice.|ba
+B|We have got a beautiful view and balcony,|sd
+B|and, uh, just,|%
+B|you know, it's really a nice stay. Uh,|sd
+B|in fact, we stayed there on our honeymoon,|sd
+B|we, I had won a trip to the Bahamas, but did not get to take it on our honeymoon time,|sd
+B|so we instead went there, uh, and loved it just as much as, as if we had gone to the Bahamas.|sd
+B|We, in fact, we stayed an extra day or so, because we liked|sd
+A|Oh.|b
+B|the, uh, the particular uh, uh, uh, suite we had gotten was very nice|sd
+B|and, so we decided to stay.|sd
+A|Great.|ba
+A|Oh.|b
+B|But, uh, it's a pretty nice place,|sd
+B|you will need to try to go and, stay there sometime.|sd
+A|Well, we have just we have just,|sd
+B|It's a little far from here,|sd
+B|but, uh,|%
+A|Are you driving?|qy
+B|Yeah,|ny
+B|we are.|sd
+B|We are,|sd
+B|it will take, uh, a day and a half to get there, probably.|sd
+A|Oh.|b
+B|So.|%
+A|Well, we are,|sd
+A|the neighborhood that we live, they are switching to an alternate calendar this year,|sd
+A|so it,|%
+A|starting, well, starting at the end of July, we will have two vacation weeks in October and two vacation weeks in March.|sd
+B|Uh-huh.|b
+A|So that will be an interesting turn on vacations for our family.|sd
+A|So, I,|%
+B|Uh, what does, what does that mean, alternate?|qw
+A|Well, it's,|%
+A|what it truly is supposed to mean is nine weeks of school, three weeks of vacation, nine weeks of school, three weeks of vacation.|sd
+B|Oh.|b
+B|Uh-huh.|b
+A|And, uh, in, and in the summer would be more like a two month, two month break.|sd
+B|Right.|b
+A|So, and they hope to boost the, they hope to boost the learning of the children. Just the retention of the material for them.|sd
+B|I see.|bk
+A|So, uh,|%
+B|Kind of scattering the vacation out, throughout the year.|sd
+A|Yeah,|b
+B|Yeah.|b
+A|yeah.|b
+A|So, it's|%
+A|so, anyway, so maybe, maybe within a year, we will see how that falls|sd
+B|Right.|b
+A|We will head for, we will head for Florida, maybe in somewhat of an off season, instead of summer.|sd
+B|Right.|b
+A|So, uh.|%
+B|Okay.|b
+A|Well, that's probably all we need to do today.|ad
+B|Okay.|aa
+A|Alright.|fc
+B|So long.|fc
+A|Thanks a lot.|fc
+B|Bye-bye.|fc

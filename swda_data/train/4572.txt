@@ -1,0 +1,71 @@
+A|So, uh, what things do you consider an invasion of privacy?|qo
+B|Ooh, well I don't know.|no
+B|What do you think?|qo
+A|Oh, I don't know.|no
+A|I had a little bit more time to think about it.|sd
+A|I was thinking of, like, uh,|sd
+A|I don't know,|h
+A|I was started to think about all the big, you know, data bases they have with all the information about you on them like the credit reports and all those, you know, demographics studies that they do that, um, you know, have, who knows, how much, you know, stuff about all the purchases that you've made and everything kept tract somewhere|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|and I don't know,|h
+A|I don't know how much the stuff actually, what they actually have in there|sd
+A|but I know they use that, I mean they  sell those,|sv
+B|Huh.|b
+B|Well what about,  uh, required drug testing, uh, as a, uh, condition of employment?|qo
+A|Yeah,|^h
+A|that was, that, that was the other one I was thinking of|sd
+A|I think that's, uh,|%
+A|I mean I know  drugs are illegal.|sd
+B|It thing  actually.|%
+B|Uh, I, uh, have worked at Texas Instruments.|sd
+A|Huh. Uh-huh.|b
+B|And, uh, they instituted a drug policy there. Drug testing policy where they randomly would test, uh, employees|sd
+A|Uh-huh.|b
+B|and actually, to tell you the truth, I really did not think much about it.|sd
+B|I, I hadn't, you know,|sd
+B|it really didn't relate to me.|sd
+B|But there were some things that people brought up like well what happens if they, they get a false positive, you know, what recourse do you have.|qh
+A|Uh-huh.|b
+B|And, also, uh, uh, this is against the law for the government to do this kind of thing, this kind of big brother activity|sv
+B|and yet, uh, a lot of these large corporations such as Texas Instruments, although they don't admit to it, it's actually, oh, a drug testing policy comes about as a result of government pressure.|sv
+A|Uh-huh.|b
+B|So what that means is, to me, that really it's the government that's requiring this,|sv
+B|although they don't actually execute it themselves, it's really the government that .|sv
+B|So, in that sense, it, at least, philosophically, it's really borderline legal.|sv
+A|Uh-huh.|b
+A|Well I, I think the, I think that, you know, a person's competence should be more determined by, you know, their actions and their behavior|sv
+A|and if they're, you know, if they're on some kind of, you know, controlled substance then, you know, it kinds of takes away from the job of, you know, the supervisor or manager type person, you know, who is able to evaluate them.|sv
+A|I think they should be evaluated that way rather than with a, you know, a chemical,  you know,|sv
+B|Well, what about  this, uh, AIDS epidemic now?|qh
+B|Where you find that, uh, uh, you know, certain people are actually are, are criminal in their disregard for  others.|sv
+A|These people that are carriers and  don't  that don't reveal it?|qy
+B|Yeah,|%
+B|and and, uh, of course, the ultimate solution is to operate on their brain so that it doesn't,|sv
+B|it, uh, it destroys their libido.|sv
+A|Yeah, that would be kind of an extreme.|sv
+B|Now, uh,  you know if they ever,|%
+A|I mean I've  heard of things like, you know, making them, you know, marking them somehow or, you know, or something like that or, you know, putting them all someplace like in a  kind of,|sd
+B|So what  about that as an invasion of privacy?|qo
+A|Yeah.|^h
+A|I guess it kind of borders on where, I mean what do you value more. The invasion of, uh, the person's privacy or the possible danger to, you know, other people.|sv
+B|So really,|b
+B|it gets to balancing, uh, personal freedom against, uh, the general welfare of society.|bf
+A|Yeah.|aa
+A|I guess that's that's been the big role of government, I guess  I mean generally.|sv
+B|Well, it, it's supposed  to have been.|sv
+A|Yeah|aa
+A|Yeah.|aa
+A|Well, that's kind of a difficult one to go into.|sv
+A|I mean that, that particular case.|sv
+B|No,|ar
+B|it ,|%
+A|Because I mean, there's a lot of people that, uh, I mean they could require, you know, obligatory AIDS testing for everyone because I'm, you know, there's a huge part of the population,|sv
+A|not a huge part but a, you know|sv
+B|A growing part.|^2
+A|the AIDS population I guess that have it, that don't know they do are spreading it.|sv
+B|Uh-huh.|b
+A|But, again, to require, you know, such a test and and then to make, make it is to subject them to, to discriminatory practices and other things.|sv
+A|I don't know,|h
+A|uh, I don't know how exactly I feel about that.|sd
+B|Maybe chop their weenies off.|sv

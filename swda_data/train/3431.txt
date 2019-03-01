@@ -1,0 +1,133 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|Mike, I guess we'll be talking about painting recently.|sd
+A|Any kind of recent painting you've done, uh, yourself?|qy
+A|Have you done any recently?|qy
+B|Well, we, uh, remodeled a bathroom. And, which required, uh, completely repainting the bathroom,|sd
+A|Uh-huh.|b
+B|and the other project we've done around here is, uh, we've remodeled all our, all our closets which required quite a bit of painting.|sd
+A|Wow,|ba
+A|wow,|ba
+A|that's, that's quite a chore.|sv
+A|Yes,|aa
+A|I imagine it did.|sv
+A|Did you have that done professionally|qy
+A|or  did you do that yourself?|qrr
+B|No,|nn
+B|we did it ourselves,|sd
+B|did it myself.|sd
+A|Did you enjoy that?|qy
+B|Yeah.|ny
+A|Oh, that's, that's fun.|ba
+A|We just recently, uh, had our boys' room,|sd
+A|our two oldest boys share a room,|sd
+A|and they're, uh, the paint has, uh, kind of faded and deteriorated,|sd
+A|and so we decided to paint their room and put up wallpaper and border and so forth,|sd
+A|and, uh, looks quite good.|sd
+A|We were quite pleased with the result.|sd
+B|Is this a project you did yourself?|qy
+A|Yes,|ny
+A|it's a project, uh, that I did,|sd
+A|yes,|ny
+A|and, and, uh.|%
+B|What, what brought about the fading of the paint?|qw
+A|Well|%
+B|Just sun exposure?|qy
+A|I don't think it's sun exposure,|ng
+A|but, uh, boys will be boys,|sv
+A|and there, there were crayon marks on there|sd
+A|and we had to, to scrub the crayon marks off, of course, try and get it clean.|sd
+B|Oh, okay,|bk
+B|yeah.|b
+B|Latex paint?|qy
+A|Pardon me?|br
+B|Latex?|qy
+A|Yes|ny
+A|it was.|sd
+A|It was latex paint,|sd
+A|and that's, uh, what we put back on there, was a latex paint.|sd
+B|Uh-huh.|b
+A|Plus, uh, they had bunk beds,|sd
+A|and the boy, one of the younger boys, when he was younger, about three years old, got a, uh, got a nice marker and got up on the ceiling and decided to draw pictures|sd
+B|On the ceiling?|qy
+A|Yes,|ny
+A|on the ceiling.|sd
+B|Yeah.|b
+A|And, uh, you scrub and you scrub,|sd
+A|but you can't it all off.|sd
+B|No,|aa
+B|that's true.|aa
+A|And so, that's one of the reasons why we painted,|sd
+A|and, uh.|%
+B|Did you go, what kind of paint did you use on the ceiling?|qw
+A|We used a flat, latex paint|sd
+B|Okay.|bk
+A|and in the bedroom, as I understand, that's, uh, one of the better type of paints to have because it's not so reflective and, and glassy colored,|sd
+B|Uh-huh.|b
+A|and it, uh, turned out real, real well.|sd
+B|Seems like, uh, I've, we've done some remodeling of some, uh, rental houses that we have|sd
+A|Uh-huh.|b
+B|and it appears as though that, uh, oh, in the fifties or sixties when some of these houses were built, uh, they used a lot of, uh, semigloss type enamel for ceiling paints|sd
+A|Uh-huh.|b
+B|and that was a little difficult to cover with today's paints, it seemed like.|sd
+B|We had an occasion, uh, where we had to do some sealing of, uh, the of the, this type of paint before we could paint it.|sd
+A|Uh-huh.|b
+A|Oh, you had to prime it and and cover over it.|bf
+B|Yeah.|aa
+B|Right.|aa
+A|Huh.|b
+B|You had pretty good luck with one coat type paint?|qy
+B|You use a particular brand or anything?|qy
+A|Well, I like to use this, this Sears, uh, the ten year guarantee or the fifteen year guarantee.|sd
+B|Weather beater type stuff?|qy
+A|Yeah.|ny
+B|Yeah.|b
+A|And the reason being is once I painted, I don't want to have to go and do it another five or seven years later|sd
+B|Understand.|ba
+A|but, uh,|%
+A|and, uh, we're quite satisfied with that|sd
+B|Uh-huh.|b
+A|and, and occasionally you can watch for it and get it on sale,|sd
+A|and we do, do that.|sd
+A|In fact, I was just reading an article,|sd
+A|you mentioned painting your bathroom.|sd
+B|Uh-huh.|b
+A|I read an article recently that, uh, you have to be very careful on the kind of paint you put on the ceiling in your bathroom because it does tend to, to peel or come off because of the moisture, high moisture content in your bath, bathroom.|sd
+B|Yeah,|aa
+B|it's a lot like, uh, wall paper.|sd
+B|That's true.|aa
+A|And, uh, did you have any problems with that|qy
+A|or,|%
+B|Well, the particular bathroom that we did is a half bath,|sd
+B|so we didn't have a problem with that.|sd
+A|Oh, good.|ba
+B|Uh, I have had, I've, uh, have never experienced that type of a problem uh, with a latex paint.|sd
+A|Uh-huh.|b
+A|Oh, good.|ba
+A|neither have I|sd
+B|So, you shouldn't have a, you shouldn't have a problem with it.|sv
+A|Oh, good.|ba
+B|They're, they're pretty well refined today a lot of the paints,|sv
+A|Uh-huh.|b
+B|and Sears is one of the better ones.|sv
+A|Yeah.|b
+B|I've used, uh, many a gallon of them, myself.|sd
+A|Do you, uh, have you ever used an oil base paint?|qy
+B|Uh, used oil base paints for trim you know, like around doors and, and on doors, things like that.|na
+A|Uh-huh.|b
+A|why do you use that?|qw
+A|I'm, I'm kind of learning at this, new at this,|sd
+A|but. It adheres better, or lasts longer?|qy
+B|Uh, primarily because it, it seems to be a little more, uh, well, let's say|sd
+B|well, not so much that.|arp_nd
+B|It seems to hold up a little bit better towards the nicks and dings as opposed to, uh, a latex type paint.|sd
+A|Oh, okay.|bk
+A|Uh-huh.|b
+B|And, uh, it just, you know, it, it gives you a, a variance even though it's the same color.|sd
+A|Right.|b
+A|Well, that's good,|ba
+A|that's good.|ba
+B|So it's worked out pretty well for us.|sd
+A|Uh, have you ever done any painting outside?|qy
+B|Uh, quite a bit,|na
+B|painted a couple of houses.|sd
+B|Uh, recently this summer we painted a, uh, out building, which is a shed that we have on the,|sd

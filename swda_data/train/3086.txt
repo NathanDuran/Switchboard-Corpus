@@ -1,0 +1,193 @@
+A|So do you have P C|qy
+B|I have a personal computer at home.|sd
+B|It's an A T compatible.|sd
+B|I don't use it very much any more.|sd
+B|I used to use it quite a bit.|sd
+A|Uh-huh.|b
+B|I also have a P C at work that I use as a terminal.|sd
+B|I do some P C stand alone work on it,|sd
+B|and I can transfer data back and forth between the P C and the main frame.|sd
+A|Uh-huh.|b
+B|What about you?|qo
+B|Do you own a computer?|qy
+A|Um, well I sort of own a computer.|no
+A|We have two P C at home,|sd
+A|but neither one do we really own. Um.|sd
+B|Are you leasing them?|qy
+A|No,|nn
+A|both of them are sort of work related,|sd
+A|and,|%
+B|Loaners from work?|qy^d
+A|Yeah,|ny
+A|that's the nicer way, right.|sd
+B|Do you work for T I?|qy
+A|No,|nn
+A|no.|nn
+A|Um, I, actually I'm doing consulting right now because I just had a baby,|sd
+A|and my husband's working at Bell Labs,|sd
+A|but he's really from France,|sd
+A|and these computers actually are from France.|sd
+B|What brand are they?|qw
+A|One of them's a Compaq|sd
+B|Uh-huh.|bk
+A|it's a three eighty-six|sd
+B|I'm jealous.|ba
+A|and the other is actually a I B M P C compatible,|sd
+A|it's a three eighty-six,|sd
+A|I guess it's twenty-five,|sv
+A|yeah,|aa
+A|three eight six twenty-five C maybe|sd
+A|I don't know,|h
+A|no we don't have the|sd
+A|we decided not to get the which is actually another loaner one too that we picked up for a consulting job that my husband was doing|sd
+A|and,|%
+B|What kind of consulting do you do?|qw
+A|Um, well, I actually do some work, working at M I T and at NIST, National Institute of Standards and Technology in Washington,|sd
+B|Uh-huh.|b
+A|and then I worked for Dragon Systems for a while.|sd
+B|What kind of work do you do when you're consulting?|qw
+A|Um, well, it depends,|^h
+A|it's very different in the different places,|sd
+A|but,|%
+B|Is it programming related?|qy
+A|Yeah,|ny
+A|yeah.|ny
+A|Program related, research related,|sd
+A|and I work in the speech field,|sd
+A|and I do a lot metacoustic phonetics and looking at the acoustic characteristics of speech,|sd
+B|Uh-huh.|b
+A|and I do that type of stuff typically for other people,|sd
+A|and we, like here we use the P C to do that.|sd
+A|Mostly I use it for writing papers and things like that.|sd
+B|Word processing.|bf
+A|Well, more, uh,|ar
+A|do you know Latek? Word text processing,|qy
+B|No I'm not familiar with that.|ng
+A|so I don't, I don't use, I mean,|sd
+A|you can call it word processing,|sd
+A|but I don't usually use a word processor to do it|sd
+B|Uh-huh|b
+A|and we don't have too much standard software.|sd
+A|Like I haven't bought, we haven't really bought any commercially available software at all.|sd
+A|So we don't use it for things like our accounts and addresses and things like that.|sd
+A|We use it more for just writing programs when we need to or, um, doing research, looking at the speech signal and then doing writing, and also as a just as a terminal,|sd
+A|and we connect to other computers to read our net mail and things like that.|sd
+B|So, you've got, you've got a modem in it then.|bf
+A|Uh, neither one has a modem,|ng
+A|but we have a modem.|sd
+B|At home you have a modem that you can connect to each of them?|qy^d
+A|Neither one,|sd
+A|Right.|na
+B|Uh, and so it's an external modem.|qy^d
+A|Yeah,|ny
+A|we have|sd
+B|I got, when I got mine I had an internal modem in it|sd
+A|Uh-huh.|b
+B|I used it, uh, quite a bit when I was, uh, uh, looking at, uh, information on a large bulletin board sponsored by a newspaper in a, in Fort Worth|sd
+A|Uh-huh.|b
+B|but, uh, went out of town for a while,|sd
+B|and, and sort of got off the, uh, bulletin board and off of my micro completely|sd
+A|Uh-huh.|b
+B|and after a while the modem started making noises on its own without, uh, even without using it on the computer,|sd
+B|I could turn a computer on,|sd
+B|it'd start squawking.|sd
+B|So I finally opened up the box and took it out.|sd
+A|So that was it.|bf
+B|I think that's the thirty second warning.|sv
+A|Oh, I didn't hear it.|sd
+A|Do you hear, the, the beep in the background.|qy
+B|Yes.|ny
+A|Oh, that's a, an ambulance or something going on here, I think.|sv
+B|Okay.|aa
+B|Where, Where are you,|qw
+A|I haven't ever noticed the thirty second warning actually.|sd
+B|and, uh,|%
+A|In Manhattan.|sd
+B|Are you at home now?|qy
+A|Yeah,|ny
+A|I'm at home.|sd
+B|So you've got a lot of traffic noise real close.|qy^d
+A|Uh-huh.|ny
+A|So it'd be interesting for the people that look at this signal I mean, because there's a lot of background noise that, you know, people can hear.|sv
+A|So it'll be interesting how much of it actually gets picked up.|sv
+A|Um, yeah,|%
+A|and often times that,|%
+A|I can't talk on can't do this much later than now, between sort of like six, five thirty and six thirty or something like that, because the traffic outside, they honk the horn so loud I can't even hear the phone call.|sd
+B|What time is it now where you are?|qw
+A|Uh, about twenty after four.|sd
+B|So you're an hour ahead of where I am.|sd
+B|I'm in Central Central time zone.|sd
+A|Okay,|b
+A|yeah|%
+A|we're Eastern.|sd
+A|And, um, what did, did you ever try using like Prodigy or any of those systems?|qy
+B|No,|nn
+B|I haven't done that.|sd
+B|Uh, I know someone who has,|sd
+B|and, and she's, uh, very, uh, pleased with it.|sd
+B|She told me some of the things you can do,|sd
+B|and it's just a, a very handy tool to have.|sd
+A|Uh-huh.|b
+B|Yeah,|b
+B|and you can do a|sd
+B|it makes things very convenient.|sv
+B|You can save a lot of money, too. Certainly cut down on long distance charges if you, if that's what you have in mind.|sv
+A|Uh-huh,|b
+A|yeah,|b
+A|I've never tried using that,|sd
+A|I don't know too much about it.|sd
+A|What about,|qw
+A|have you, did you use commercially available software|qy
+A|or,|%
+B|I have, I have used Lotus.|sd
+B|I have used, uh, Word Perfect|sd
+A|Uh-huh.|b
+B|uh, I,|%
+B|not heavy use.|sd
+B|I've used, uh, D Base|sd
+B|and, uh, I've used a substantial amount of shareware.|sd
+B|Um, I haven't done much Lotus work connected with my job.|sd
+B|I've been through three classes|sd
+A|Uh-huh.|b
+B|and I have a great deal of respect for it.|sd
+A|Uh-huh.|b
+B|Um, I haven't done much word processing work with my job.|sd
+B|I do some|sd
+A|Uh-huh.|b
+B|and I,|%
+B|and the D Base work I've done was strictly class related.|sd
+A|I've never used D Base, um,|sd
+A|but I've heard both good things and bad things about it.|sd
+B|Well, it's probably the granddaddy of most, uh, data base management systems.|sd
+A|Uh-huh.|b
+B|It's got some pretty strong competitors.|sd
+B|Some of them have reviews that are better than D Base,|sd
+B|so, I, I think by now, it's a matter of, uh, personal taste.|sv
+A|Yeah,|b
+A|people told me that it was sort of cumbersome to use.|sd
+B|I can understand that very easily.|sd
+B|I've used, I've had a class on, um, R Base and also in Paradox|sd
+A|Uh-huh.|b
+B|and both of those seem very easy to use compared to D Base.|sv
+A|Uh-huh.|b
+A|Do you think you D Base is more flexible or allows you to do more.|qy
+A|Or do you think the others are pretty much compatible these days?|qrr
+B|Um, I wouldn't say compatible, but certainly comparable.|sv
+A|But, uh|%
+A|yeah,|b
+A|I didn't mean compatible,|sd
+A|I meant comparable.|sd
+A|My brain is going to mush.|sd
+B|Uh-huh.|b
+A|And what do you work on at T I?|qw
+B|I'm a computer programmer on the I B M main frames.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|I do, uh, mainly business data processing.|sd
+A|Uh-huh.|b
+B|I also handle production support for the systems in my area of responsibility.|sd
+A|Uh-huh.|b
+B|Um, sometimes I get called late at night at home because there's a production problem,|sd
+B|and that gives me the opportunity to, uh, come in to work and fix it, if I can't think of some thing to tell the trouble shooter while we're on the phone.|sd
+A|Right.|b
+B|Um, I also, uh, handle most of the calls from our users and other programmers who need to find out something connected,|sd

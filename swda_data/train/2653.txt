@@ -1,0 +1,188 @@
+A|So I own a, a P C A T at my home.|fo_o_fw_"_by_bc
+B|Uh-huh,|b
+B|I could never justify owning a personal computer at home, uh,|sd
+B|I mean, that's quite an expense to look for, uh,|sv
+B|well, who is this,|qw
+B|what do you use yours at home for?|qo
+A|Well, that's actually a good question.|arp_nd
+A|My wife works out of the home, our home.|sd
+A|She has an office|sd
+A|and in fact she sits in the office|sd
+A|and she uses it to compose and print out letters.|sd
+B|Okay,|bk
+B|well now.|%
+A|So that's a very regular use of it that she has.|sd
+B|Uh-huh.|b
+A|And in addition to that I tinker around with it.|sd
+A|I'm a computer scientist.|sd
+B|Oh.|bk
+A|And so I write programs to do little things|sd
+A|I'm actually working on a data base at home just to keep track of things nothing special.|sd
+A|And also I'm interested in writing some programs that will kind of like remind me of things like remind me that Wednesdays is trash day and the like.|sd
+B|Uh, huh, well, excuse me, I, uh, uh, well I'm a technician, electronics tech.|sd
+B|Years ago T I sent me to their, uh, computer school down in Austin.|sd
+A|Uh-huh.|b
+B|So, uh, I learned to repair one|sd
+B|but you know I never really learned to operate one.|sd
+A|Oh, that's a key thing.|sv
+A|Well, actually that's a,|%
+A|there's really two issues to that that there's so many software packages available today. That just require no programming.|sv
+B|Yes.|aa
+A|So that|%
+A|in other words when someone built that software packet they had to use the programming|sv
+A|but if they were careful, they could make the use of it totally without understanding how the computer works.|sv
+B|Uh-huh.|b
+A|But I think you you really hit the nail on the head.|sv
+A|For the average person is exactly what he can use it for.|sv
+A|And if your wife isn't working out of the home and sending letters|sv
+A|or if you don't want to build a data base to keep track of the nuts and bolts in your garage,|sv
+A|whatever|sv
+A|there, your issue is then there really,|sv
+B|Well, uh, space is a handicap with me,|sd
+B|I live in a motor home.|sd
+A|Oh, I see|b
+A|well.|%
+B|And I'm preparing for retirement.|sd
+A|I see|b
+A|well, congratulations on that.|ba
+B|And I'm not to far from it another year and a half.|sd
+A|Yeah,|b
+A|well, actually one other thing I might ought to mention is that they are actually getting quite cheap.|sv
+B|Yes,|aa
+B|definitely,|aa
+B|but just like the computers.|sv
+A|Uh-huh.|b
+B|Uh, remember how they started out running three, four hundred dollars.|sd
+A|Right.|b
+A|Oh, the calculators you mean.|bf
+B|I mean calculators,|na
+B|I beg your pardon.|fa
+A|Yeah,|aa
+A|they sure do.|aa
+A|Yeah|aa
+A|I actually was thinking about upgrading mine very recently and kind of look at the whole spectrum.|sd
+A|You can actually buy a whole brand new computer with a not not a necessarily a slow one or inadequate one but a pretty good one for six hundred dollars.|sv
+B|You're kidding.|bh
+A|No.|nn
+B|Including a printer?|qy
+A|Well, actually I wasn't including a printer,|arp_nd
+A|but you you can buy a printer now for a hundred dollars|sd
+A|so make it seven hundred.|sd
+B|A hundred?|qy
+A|Yeah.|ny
+B|Wholly smoke,|ba
+B|a respectable one?|qy
+A|Yes,|ny
+A|uh-huh.|ny
+B|Well, see of not being particularly interested I don't keep track of prices on them,|sd
+B|but I'm, I'm, that does amaze me.|sd
+A|Yeah,|b
+A|the prices had plummeted,|sd
+A|you can buy the computer the guts just the guts with the power supply,  the  box and the mother board of a type of computer called an eighty, eighty-eight, for about two hundred dollars.|sd
+B|Uh-huh.|b
+B|Huh.|b
+A|And then the keyboard is another fifty,|sd
+A|the monitor with the card that drives is another hundred|sd
+A|and then the disk drive is two fifty.|sd
+B|Well, what, what is a a good brand a inexpensive.|qy
+A|Well, that's that's the deal is you're not buying brands now,|arp_nd
+A|you're buying these knock offs,|sd
+A|so there's,|%
+A|probably the way to do it if you really wanted to buy one is there's a magazine called COMPUTER SHOPPER.|sd
+B|Uh-huh.|b
+A|It's a big magazine,|sd
+A|it's twelve inches narrow, the narrow side and seventeen inches the tall side|sd
+B|Oh, wow.|ba
+A|and it's probably an inch thick a thousand pages.|sd
+A|But the book is, the magazine is full of these mail order, computer mail-order houses|sd
+A|and they're all competing with each.|sd
+B|Uh-huh.|b
+A|So you just flip through there until you find a eighty, eighty-eight computer|sd
+A|that that's called, it's the original P C.|sd
+A|So it's,|%
+A|we call the T I, I'm sorry an I B M P C compatible.|sd
+A|And you'll find all these things and you'll find the monitors forty dollars and the card that drives the monitor that goes in the back of the board for twenty-five dollars which is amazing to me.|sd
+B|Uh.|b
+A|And you mix and match|sd
+A|and then you do it by mail-order.|sd
+A|But there's no real brands|sd
+A|it's probably a half a dozen companies around the world that are making those mother boards, the main computer, the circuit board.|sd
+B|I see.|bk
+B|How do you go about getting one of those a catalogs?|qo
+A|They're available in, you know, the B Daltons, that that type of thing.|sd
+B|Uh-huh.|b
+A|You'll notice that in that it's, it's a, it's a, although it's a magazine it's large.|sd
+A|And like I said it's about an inch thick|sd
+B|Uh-huh,|b
+B|well, getting back to the P C|sd
+B|I'll tell you,|^h
+B|I ya,|%
+B|first of all I don't like a machine that's smarter than me.|sd
+B|And secondly, I did learn this much about computers,|sd
+B|they they are pretty stupid because they add one and one up and come up with ten.|sd
+B|In binary.|sd
+A|That's right|aa
+A|There's great.|ba
+B|Well, anyway that's one ever my favorite jokes.|sd
+A|Oh, yeah|b
+B|One and one equals ten.|sd
+A|Yeah,|b
+A|that's great.|b
+B|Course it's it's kind of an inside joke, you know.|sv
+A|Yeah.|b
+B|You can only tell that to somebody who understands binary.|sv
+A|I understand,|ba
+A|that's great,|ba
+A|that's a good joke.|ba
+B|So what,|%
+B|do you, uh, uh, work with a computers a at T I?|qy
+A|I did for years|na
+A|and then I was a scientist over in central research labs|sd
+A|and just recently I've changed my job to actually do some of the marketing.|sd
+B|Uh-huh.|b
+A|Uh, now I I type that one,|sd
+A|but I don't use it anymore.|sd
+B|Uh-huh,|b
+B|well I just recently started using one.  In  connection with my work.|sd
+A|Uh-huh.|b
+A|Yes.|b
+B|Uh, I keep track of an inventory here.|sd
+A|Uh-huh.|b
+B|And of course now that is where a computer is very handy.|sv
+A|Yes,|aa
+A|I agree.|aa
+B|And, well I, it's my responsibility to see that equipment is sent off to be calibrated.|sd
+A|Oh, yeah.|b
+B|See I'm with the Q R A lab. Qualification and evaluation|sd
+A|Oh, I see|b
+A|that's fascinating.|ba
+B|so naturally our equipment has to be in top condition and is constantly calibrated,|sd
+A|Uh-huh.|b
+B|and  they're dated.|sd
+B|So I have to keep up with them, uh,|sd
+B|and and it's very handy doing it on the computer.|sd
+A|Yeah.|b
+B|I just run a printout every week|sd
+B|and and it puts me right up-to-date what I'm, what I have to do, what I have to ship, what I should be expecting to be returned.|sd
+A|Uh-huh.|b
+B|So a,|%
+B|it it is handy.|sd
+A|Right.|b
+B|And I must admit that up until I did start using one, uh, it was, I had very little interest in computers.|sd
+A|Yes|b
+B|But they are amazing.|sv
+A|Yeah,|aa
+A|they certainly are.|aa
+A|So let's see, see|^h
+A|so I guess with respect to the question,|sv
+A|yeah,|%
+A|I guess we've kind of covered it.|sv
+B|I think we did.|aa
+A|Great,|ba
+A|nice little conversation with you Jack.|fc
+B|Yeah,|fc
+B|Mike you take care now.|fc
+A|Good day.|fc
+B|Good luck  to you.|fc
+A|Thank you.|fc
+A|Same to you.|fc

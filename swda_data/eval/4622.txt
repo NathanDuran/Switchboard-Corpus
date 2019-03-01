@@ -1,0 +1,105 @@
+A|What do you usually wear to,|qw
+B|Well, let's see.|^h
+B|It turns out that, uh,|sd
+B|I work at TEKTRONIX|sd
+B|and it's a very, uh, low key place as far as dress goes.|sd
+A|Uh-huh.|b
+B|You just wear, uh,|sd
+B|let's see.|^h
+B|When I first came here, I wore suits|sd
+B|but after a while I got, uh, found out that that wasn't all that important.|sd
+B|I'm an engineer.|sd
+A|Oh, I see.|b
+B|And, uh, so, I get to wear just, uh, how shall I say it, uh, walking shoes as opposed to dress shoes and well walking, how shall I say it, kind of like Avia, uh, walking shoes, uh,|sd
+A|Uh-huh.|b
+A|Well, that's nice comfortable stuff.|sv
+B|Yes.|aa
+B|Open shirt, open at the neck, you know, no tie.|sd
+A|Wow.|ba
+B|And, uh, just, uh, reasonable looking, how shall I say it, uh, sports clothes or some guys wear, some people even wear Levis.|sd
+A|Wow.|ba
+A|That's nice.|sv
+B|Now, being from Philadelphia, I don't expect your dress code to be quite that relaxed, right?|qy
+A|Well actually right now I'm a full time college student|sd
+A|so my dress code is very, very (( )).|ng
+B|Oh, okay.|bk
+A|Yeah,|b
+A|I usually wear jeans and stuff to classes or shorts in the summertime.|sd
+A|But over the summers I've had a job, internships with the newspaper.|sd
+B|Uh-huh.|b
+A|And that's so,|%
+A|generally then I dress, you know, nicer.|sd
+A|Usually nice summer slacks or more, sometimes skirts, stuff like that.|sd
+A|So, then it's still, you know, the emphasis is on comfort a lot because it's a lot of walking and coming out of office|sd
+A|but you still have to have a professional imagine kind of thing. To go out to meet people and interview people and stuff like that|sv
+B|Yes.|b
+A|so.|%
+B|Yeah,|b
+B|well I, uh, I just recently applied for a different job in the company here|sd
+B|and so I decided well I'd wear a suit.|sd
+A|Oh, really.|b
+A|Uh-huh.|b
+B|And it, it was very interesting,|sv
+B|uh, like I said, most of the people at, at this company don't wear suits.|sd
+B|Uh, most of the engineers and technical people are just very casual, almost the same clothes that, that you'd wear to school.|sd
+A|Wow.|ba
+A|That must be nice atmosphere then.|qy^d
+B|Well, it has been.|na
+B|Although the new president and C E O of the company is from a much more formal eastern, uh, background.|sd
+A|Oh.|b
+B|And so the result is that, uh,|%
+B|so anyway I wore this suit|sd
+B|and I went over to, uh, uh, to one of the buildings that has a lot more of the financial people in it|sd
+A|Uh-huh.|b
+B|and it, and I, I was almost converted because, uh, the effect of that suit on the way people reacted and responded to me as opposed to the,|sd
+B|uh, just to kind of,|%
+B|how shall I say it,|h
+B|they know you're there|sv
+B|but they don't|sv
+B|uh, you don't,|%
+B|there's no notice at all.|sv
+B|But when I wore a suit that day, uh, it was obvious that people didn't know whether I was a worker bee or a manager.|sd
+A|Wow.|ba
+B|So people, uh, how shall I say it, made a, made much more effort to notice you, acknowledge your presence, say hello and, uh, things like that,|sd
+B|so.|%
+A|That's interesting.|ba
+A|It's like a mini, little study there|sv
+B|Yeah.|b
+A|That's really interesting.|ba
+B|And so this dress for success thing, I think is, uh,|sv
+B|by and large I've, I'm kind of, uh, convinced that, uh, by that, just that one, uh, uh, experience and then having talked to several other people that, that, uh, unless you're in a, an environment where they're going to make fun of, of, of better clothes, that better clothes always pay off.|sv
+A|Right.|b
+A|Huh.|b
+A|That's interesting.|ba
+B|Doesn't mean they have to be, uh,|sd
+B|how shall I say it,|h
+B|they don't have to be the, the most, uh, the absolute best|sv
+A|Uh-huh.|b
+B|but, uh, a little dressing a little bit above the standard, I think, would, uh, pay off|sv
+B|so I'm in the process of telling my wife we got to go shopping for clothes again.|sd
+A|<Laughter> That's neat,|ba
+A|that's neat|ba
+B|And, uh, I, I don't know,|h
+B|now I, I know eastern,|sd
+B|now the other thing we do here, of course, is a single, not quite a single climate.|sd
+B|We have, uh, we do have some snow in the wintertime|sd
+B|and it can be quite warm in the summertime.|sd
+A|Uh-huh.|b
+B|Not hot like, uh,|sd
+B|I lived in the midwest for a while.|sd
+A|Oh.|b
+B|And I know that, uh, you know, it can be freezing cold in the wintertime, and hot and, uh, sticky in the summertime.|sd
+A|Uh-huh.|b
+B|We don't have that much.|sd
+B|It's, uh, it's a very mild climate.|sd
+A|Oh, well that's nice.|ba
+A|That's good for the clothes budget, I would imagine.|qy^d
+B|Yes,|ny
+B|it is.|sd
+A|Because here, gosh, we had, uh,|sd
+A|the winter hasn't been bad this winter.|sd
+A|It's, it it's only snowed maybe once or twice|sd
+A|but it's been cold.|sd
+A|Low twenties, let's say,|sd
+A|and then the summer gets up to eighties, nineties|sd
+A|so,|%

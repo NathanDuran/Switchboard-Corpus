@@ -1,0 +1,148 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|Uh, so your, you, I guess you're probably in the same, uh, same situation uh, we're in.|sv
+A|We're kind of past having to provide child care.|sd
+A|Our, our kids are grown up.|sd
+A|We don't have any grandchildren yet.|sd
+A|But, uh, uh, they're,|%
+B|Uh-huh.|b
+B|How old are your children?|qw
+A|Uh, one's twenty-six|sd
+A|and the other is, uh, twenty, twenty-one.|sd
+B|Uh-huh|b
+A|So they're, uh, uh, They're, they're getting there.|sd
+B|Well, they're going to be getting there.|^2
+A|You know,  there's no  no, no prospects right away for anything to happen.|sd
+B|Yeah.|b
+B|uh-huh.|b
+B|Oh, I see.|b
+A|But, uh,|%
+B|I have, uh, five children.|sd
+B|I have a eighteen year old son.|sd
+B|The of my girls are like twenty-three, twenty-six, twenty-eight, and twenty-nine.|sd
+A|Uh-huh.|b
+B|And I have three granddaughters right now.|sd
+A|Oh.|b
+B|And, uh, I, uh,|%
+B|one's in Iowa.|sd
+A|Uh-huh.|b
+B|And, uh, she's, she's a teacher|sd
+B|and what she does is she, teaches at a preschool.|sd
+A|Oh, okay.|b
+B|And,  and so she kind of,|%
+B|and they let her bring her, her little daughter in for free.|sd
+A|Uh-huh.|b
+B|And then, so|%
+B|but she just works part-time.|sd
+A|Uh-huh.|b
+B|Then I have another daughter in, uh, Bountiful, Utah|sd
+B|and she has to work full-time|sd
+B|and it's just tearing her apart.|sd
+B|She has a private baby-sitter.|sd
+A|Yeah.|b
+B|And, uh, the baby just screams.|sd
+B|I mean, the baby is like seventeen months|sd
+B|and she just screams.|sd
+A|Uh-huh.|b
+B|Well even if she knows that they're fixing to get ready to go over there.|sd
+B|They're not even there yet you know.|sd
+A|Uh-huh.|b
+A|Yeah.|b
+A|It's  hard.|sv
+A|We,|%
+B|And,  and then I have my, uh, uh, I have a seven month old granddaughter|sd
+B|and, uh, her mother stays home|sd
+B|and she, they live, they live with us. You know, in, as Orange County is really expensive.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|They live with us|sd
+B|and so, of course, we love it. Because we get to see this cute little baby all the time.|sd
+B|But, uh, uh, she just,|%
+B|uh, she used to work in pre, in the preschool and, and, and child care|sd
+B|and she says after working in there|sd
+B|and, and, you know, here she was a provider|sd
+B|but, you know, there's only so much one person can do.|sv
+A|Yeah.|b
+B|She said it's so awful.|sd
+B|She said she'll never put her child in a, in a, in a in a in a preschool.|sd
+A|Uh-huh.|b
+B|I'm sure there must be some good ones around here somewhere.|sv
+A|Huh.|b
+B|But it's really, it's really, really very difficult|sv
+B|and,|%
+A|Yeah.|b
+A|What did you do when your kids were growing up?|qw
+A|Were you,|%
+B|Well, when, when|%
+B|the, uh, the first, uh, ten years, see first ten or twelve years, I stayed home.|sd
+A|Uh-huh.|b
+B|And, uh, then after that I, I went to work.|sd
+A|Uh-huh.|b
+B|And, uh, uh, uh, a couple of times I just, uh, uh, you know,|sd
+B|then I had one job|sd
+B|and then that job ran out because it was kind of a government seeded type job.|sd
+B|And then, and then like about, later I, I tried to get the baby to a baby-sitter.|sd
+B|Supposed to be good, uh, recommended person from the church|sd
+B|and I knew her personally.|sd
+B|She had two kids of her own and everything.|sd
+B|But I quit my job because I couldn't stand how she was taking care of my child.|sd
+A|Uh-huh.|b
+B|I mean, first of all, uh, her children were sick all the time.|sd
+B|So when my son stayed over there, he got sick.|sd
+A|He got sick,|b^m
+A|yeah.|b
+B|Same thing,  same thing that the, her kids had,|sd
+B|right?|^g
+A|Right.|b^m
+A|Well,|%
+B|And so,  uh, we didn't take her over there until like about eleven o'clock.|sd
+B|Then he, she'd take my son and her daughter over to kindergarten.|sd
+B|But|%
+B|that day, uh, I was saying now he, he's sick.|sd
+B|And she goes well, she goes, he has the same thing that all my kids have.|sd
+B|That's what he got, you know.|sd
+B|Goes, well, okay,|sd
+B|so it's not like he's going to infect her kids.|sd
+B|But then what happened was, is, I said, uh, he just threw up|sd
+B|and kindergarten starts at eleven thirty|sd
+B|so she said well she'll keep him home|sd
+B|and he'll probably just sleep anyway.|sd
+B|Well, you know, what|qh
+B|that woman sent her, sent him to kindergarten.|sd
+B|She sent him to kindergarten.|sd
+B|As soon as he went there, the teacher took one look at him|sd
+B|and he threw up again|sd
+B|and they put him in the nursery, uh, they put him in the nurse's office.|sd
+A|yeah.|b
+B|And then what happened was, is, you know, they gave her a call because they knew that she was my baby-sitter.|sd
+B|Called her|sd
+B|and they said, uh, that he's sick.|sd
+B|Well she wasn't home.|sd
+A|Huh.|%
+B|I mean her, all her kids were sick|sd
+B|but she wasn't home, right.|sd
+B|And her, and her, her daughter that was in kindergarten with him also did not go to school because she was sick.|sd
+B|Now why didn't he, why didn't she keep him home with her?|qh
+B|No,|nn
+B|she didn't do that.|sd
+B|So, it got to the point where he's, he's supposed to get out of, uh, kindergarten like about two thirty.|sd
+B|And I had to leave work.|sd
+B|It was, it was five o'clock in the evening|sd
+B|and I found out he was still there at school.|sd
+B|And they were calling me|sd
+B|and they said somebody's got to pick him up.|sd
+B|And I kept thinking that she was going to get picked up, she was going to pick him up because she only lives in like two blocks away from the school.|sd
+B|I was trying to get my husband to come and pick him up and all that kind of stuff.|sd
+B|And he had a hundred and four fever.|sd
+B|They couldn't, uh, give him anything because they're not allowed to at school and  everything.|sd
+A|Right.|b
+B|I was so furious.|sd
+B|I, I quit that job|sd
+B|and I stayed home for awhile longer.|sd
+B|Then I went and got a, uh, a job in real estate where I can kind of adjust my time a little bit better.|sd
+A|Yeah,|aa
+A|a little more flexibility.|bf
+A|You can  come and go.|bf
+B|Yeah,|aa
+B|but,  uh, I haven't had any good, really very good  experience with child care|sd
+A|Yeah.|b
+A|When, when  our kids were small we had a couple of, uh, good, good women who, uh, would often uh, get them to come to the house.|sd

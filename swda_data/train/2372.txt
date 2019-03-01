@@ -1,0 +1,216 @@
+A|Well, how about you.|qo
+A|Do you use P C|qy
+B|Oh constantly.|na
+A|Yeah.|b
+A|You and me both.|sd
+B|It seems everything I do is computer related.|sd
+A|Huh-uh.|b
+B|And if it goes down, then we're stuck all day.|sd
+A|Yeah.|b
+A|And so I like the I B M P C, personally.|sd
+B|Huh-uh.|b
+A|But that's pretty much everything I've worked with|sd
+A|and, uh, I've become so accustomed to it that, uh, it's second nature.|sd
+B|Yeah.|b
+A|What do you use?|qo
+B|Well, I have an, I, I B M P S two, model thirty.|sd
+A|Yeah.|b
+B|It's kind of, kind of getting too slow for me,|sd
+B|but my job, I'm an E D P auditor,|sd
+B|so I audit, uh, computer applications both on the personal computer and the mainframe level.|sd
+A|Oh, huh-uh.|b
+B|And I use my personal computer constantly,|sd
+B|not only do I do P C type things like, uh, using lotus or word processors,|sd
+A|Huh-uh.|b
+B|I also use my P C to emulate a mainframe terminal for our I B M mainframe and also to emulate a deck terminal for our deck machine.|sd
+A|Huh-uh.|b
+A|Oh, okay.|b
+B|So all I have on my desk is my P C,|sd
+B|but I'm, I'm getting, not only our local area network,|sd
+B|but I'm getting two separate mainframe machines, also.|sd
+A|Oh, okay.|b
+A|So we, um, we use, it's an I B M P S two also.|sd
+B|Huh-uh.|b
+A|And, um, you know, every now and then the file gets so big, that, you know, it moves slower than I'd like|sd
+B|Huh-uh.|b
+A|but I, uh, I do mainly graphic work on it. And, uh, a little bit of word processing and then lotus applications to it.|sd
+B|Huh-uh.|b
+B|Yeah.|b
+A|And, uh, I don't know,|h
+A|I just, I enjoy working with them.|sd
+B|Yeah|b
+A|There's so many capabilities out there,|sv
+A|I mean, the things you can do are endless.|sv
+B|Yeah.|aa
+B|I've become kind of the P C guru in our audit department because it's mostly financial auditors with an accounting back ground,|sd
+A|Huh-uh.|b
+B|And there's three of us E D P auditors|sd
+B|and one of the three of us has an accounting background|sd
+B|and so she's not real proficient in P C's|sd
+B|and the other just has, not used P C's that much,|sd
+A|Yeah.|b
+B|so I ended up taking on the load of making sure everybody knows what they're doing|sd
+B|and I'm the administrator for our local area network.|sd
+B|And I need to keep that going|sd
+B|and, So, I, I'm, I couldn't live my life without a P C.|sd
+A|Huh-uh.|b
+B|I don't have one at home,|sd
+A|We have one at home,|sd
+A|but I just don't find the time that I can use it.|sd
+B|Yeah.|b
+B|Right now I would rather not have one at home, because I would work at home.|sd
+A|Yes.|b
+B|Um, we've got a couple of portable lap top P C's at the office that I end up bringing one of them home a lot, to do work.|sd
+A|Huh-uh.|b
+B|If I had a machine already installed at home I would probably work just about every night|sd
+A|One of the reasons why I got mine, was before I went on maternity leave,|sd
+A|they didn't know how they were going to do without me at work because, I am pretty much the, like you said, the guru, in the office with the different programs and any trouble shooting that there is,|sd
+B|Yeah.|b
+B|Huh-uh.|b
+A|and, um, so they didn't know how it was going to work,|sd
+A|they knew they were going to have to get a modem so that we could, in the decks machine so that we could, in my home, so that we could make it through this eight weeks or so.|sd
+B|Yeah.|b
+A|But, uh, you know, it's, uh, it's almost like we could become too dependent on them.|sv
+B|Yeah.|b
+A|And oh, I, we use a lot of free lance.|sd
+B|Huh-uh.|b
+A|And, uh, that's, uh, pretty much takes up a lot of our day so for as producing transparencies and things.|sd
+B|Yeah.|b
+A|And, um, it,|%
+A|uh, compared to the way the things have upgraded, Have, uh, really,|sv
+B|Right.|b
+A|what's the word I'm looking for,|t1
+A|I'm just totally drawing a blank|sd
+A|But, uh, the way things have changed over the years with the P C and the different programs is just great.|sv
+A|It's remarkable the things we can do now, and compared to, you know, a few years. Just the power,|sv
+B|Yeah.|b
+A|I'm, I'm trying to, uh, get an updated machine.|sd
+A|Mine, uh, is just putting along|sd
+B|And it's not fast enough for a new four eighty six chip,|sv
+B|but, uh, I don't know if my boss will spring for it.|sd
+A|Yeah.|b
+B|But I'm determined to brake mine|sd
+B|so he has to get me another one.|sd
+B|We think about that a lot.|sd
+A|Yeah|b
+B|Well, that's what I do.|sd
+B|We had a printer, a Hewlett Packard Ready Writer.|sd
+A|Huh-uh.|b
+B|And we had about ten people sharing this printer|sd
+B|by, it was attached to like a central P C|sd
+B|and you had to take your diskette to the P C to print something.|sd
+A|Um, now that's awful.|ba
+B|So the first thing has when I started working at this bank, is, I said, well, now first of all we need to all be able to share this P C without getting up.|sd
+B|So I talked my boss into investing in a, it's not a, uh, a uh, real elaborate local area network,|sd
+A|Huh-uh.|b
+B|but we can share the printer|sd
+B|and we can, uh, send files to each other,|sd
+A|Okay.|b
+B|And we can mail, send mail messages to each other, which is good enough,|sd
+A|Oh, okay.|b
+B|it's what we need.|sd
+A|Right.|b
+B|And then I talked them into buying a H P Laser Jet.|sd
+A|Oh, yes.|b
+B|And that was a major ordeal to get him to buy it.|sd
+B|But once he bought it, he has been so pleased.|sd
+B|It's, it's fast,|sd
+B|it's quite,|%
+B|oh, it has good copy.|sd
+A|Right.|aa
+A|The copy that you can with one of those as compared to one of those dot matrix printers.|sv
+B|Yeah.|aa
+B|I've got a little, little, uh, I B M Pro Printer on my desk,|sd
+A|Yeah.|b
+B|but, and I can use either the Pro Printer|sd
+B|or I've got my P C configured to where I can use either printer. The one that's on the network or my own.|sd
+A|Huh-uh.|b
+B|So if I just need something real quick, and I don't feel like getting up and going and getting what I printed,|sd
+B|I can just print it in my office.|sd
+A|Um, we're just trying to talk ours into getting a laser printer.|sd
+B|Yeah.|b
+A|And, uh, it's just so,|sd
+A|the budget restraints and things like that, it's, makes it difficult|sd
+A|and, uh,|%
+B|They have gotten really cheap.|sv
+B|Hewlett Packard makes, it's actually a dot matrix printer|sd
+A|Huh-uh.|b
+B|but the quality is almost laser quality.|sd
+A|Oh, huh-uh.|b
+B|And I think it's called the desk jet|sd
+B|and they're, you understand, I think they're about five hundred dollars now.|sd
+A|And we, uh, got a quote on some laser printers the other day at six hundred dollars.|sd
+B|Oh, really.|bh
+A|Yeah,|ny
+A|I don't remember what kind they were,|sd
+A|but, uh, we do a lot of transparencies.|sd
+B|Huh-uh.|b
+A|Sometimes the color would take too long to plot out.|sd
+B|Yeah.|b
+A|So they just want black and white, which see we can just run them through the laser printer real quick. Because it will only take a minute to print one of those out and then run a thermal copy of it.|sd
+B|Yeah.|b
+B|Yeah.|b
+A|But, uh, it, uh,|%
+B|So that's all you need for like charts and stuff.|qy^d
+B|You don't need them in four colors.|qy^d
+A|No,|nn
+A|huh-uh.|nn
+A|If it was a customer presentation then that would be different.|sd
+B|Yeah.|b
+A|We would want to razzle-dazzle a bit.|sd
+A|But, uh, it's, uh,|%
+A|yeah.|%
+A|We have one in the office|sd
+A|and if we want, well in our area, if we want to use it, we have to, you know, like you said, you had to change it, put it on a disc, And carry it over to there, and see if they're not using the printer,|sd
+B|You use the system.|qy^d
+A|Right|na
+B|Yeah.|b
+A|And, uh, wait for an opportunity to use it.|sd
+B|Yeah,|b
+B|we you'd have to just sit and wait while someone else was using the printer.|sd
+A|Huh-uh.|b
+B|Until they got off the machine.|sd
+A|I know,|aa
+A|I know,|aa
+A|I understand.|aa
+B|That was,|%
+B|I was amazed when I came to work,|sd
+B|I worked at the, uh,|sd
+B|well, it used to be the largest bank in San Antonio until N C N B came up and bought the rival|sd
+B|and now N C N B. And now N C N B's got a little larger market share,|sd
+A|Huh-uh.|b
+B|but it's the only, uh,|%
+B|well, it's part of the bank holding company and that bank holding company of the ten largest banking holding companies in Texas.|sd
+B|It's the only one that's still alive.|sd
+A|Oh, huh-uh.|b
+B|Any way, I work in a big prestigious place.|sd
+A|Right.|b
+B|And I couldn't believe when I walked in the door on my first day and here's the audit department of this, this huge holding company, sharing a H P Rugged Writer|sd
+B|I was going oh, wait a minute|sd
+B|Come on guys,|^q
+B|this is crummy.|^q
+A|So how are you supposed to expect to stay number one when you're behind the times in technology.|qh
+B|Yeah,|aa
+B|yeah.|aa
+B|We're pushing real hard though.|sd
+B|We're, we're trying,|%
+B|well, see, the entire bank is not like that.|sd
+B|We,|%
+B|the, the bank philosophy is one of innovation and, Lead the market.|sd
+A|Huh-uh.|b
+B|It's just the audit department happened to be just a little behind the times because the, uh, the senior vice president, over audits, is cheap.|sd
+A|Huh-uh.|b
+B|And it's real hard to pry money out of him to, to do these things,|sd
+B|but I was, I was able to convince him that it would be cost effective and that our board presentations would be much better|sd
+B|and,|%
+A|Right.|b
+B|Um.|b
+A|We find it hard to believe sometimes, or hard to understand when, uh, we work for a computer company, and, uh, how are we supposed to present the imagine that we're supposed to present with equipment that's outdated, That's obsolete|sd
+B|Yeah.|b
+A|and the guys that, some of the guys that run this place are very tight|sd
+A|and it's like, Well, why do we need this,|sd
+A|can't you do that with, you know, what we have,|^q
+A|and when we try and then they complain about, this doesn't look good.|sd
+B|Yeah.|b
+B|Unfortunately, the, the, uh, computer equipment and, and related peripherals are changing and improving so rapidly,|sv
+B|like for instance, we bought a have ...|sd

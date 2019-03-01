@@ -1,0 +1,136 @@
+A|So, P C personal computers.|fo_o_fw_"_by_bc
+A|Do you have a personal computer?|qy
+B|No|nn
+B|I don't, not at home.|sd
+A|Uh-huh.|b
+B|I work with them quite a bit though.|sd
+A|Uh-huh,|b
+A|I, I work with them at Kelly Services, doing, uh, data entry.|sd
+B|Oh, okay.|b
+A|Uh-huh.|b
+A|What do you, what do you think about them?|qo
+B|Well, I think they're useful,|sv
+B|I think they're in some instances they're, they're over used,|sv
+B|well, that's not the right way to say it.|^h
+A|You mean instead of people|bf
+A|or,|%
+B|Well I think that, uh, some, some work places where I've been they, they set up|na
+B|like every body has their own P C which a lot of times everybody doesn't need a P C,|sd
+A|Uh-huh.|b
+B|and it really,|%
+B|without them knowing how to use it properly, it slows them down, more than it helps them accomplish something.|sv
+A|Right.|b
+B|They spend more time messing with the P C than they would actually accomplishing the tasks that they're trying to do if they didn't have a P C at all.|sv
+A|Uh-huh.|b
+A|And you really have to be able to type pretty fast before, you know, before it really saves time.|sv
+B|Uh-huh,|b
+B|that's true.|ba
+A|Uh-huh.|b
+B|And you have to, you know, be familiar with it,|sv
+B|like there're so many different software packages, it, you have to be familiar with the one that you're going to be using most.|sv
+A|Uh-huh|b
+B|A lot of times, uh, people know about half of the capabilities of a package that they should know to actually be able to use it properly,|sv
+B|and so they waste more time with their trying to, uh, figure out how to do, you know, other things, than they would if they, if they actually understood what they were trying to do.|sv
+B|You know, like, uh, they want to, to format a report a certain way|sv
+A|Uh-huh.|b
+B|and if they really understood the capabilities of the package they could, they could do that in about, you know, half the time that they spend trying to figure out how to do it without spending the time to learn the package properly.|sv
+A|To set up the boundaries correctly, and how many lines you're going to use in an,|^2
+B|Right,|aa
+B|exactly.|ba
+B|Uh-huh.|b
+B|A lot of times they, they, they do it manually on the computer, which just really is a waste of time,|sv
+B|and then, if they ever have to change anything in that, in that, in the document, they have to go back and redo it all manually, whereas if they had learned the package properly to start with and had set it up correctly, the package would do that for them whenever they wanted to make a change,|sv
+A|Uh-huh.|b
+A|Can't you, can't you put, Can't you put it on a disk and then just edit it, if you need to when you go back.|qh
+B|so I, I've seen that as a problem.|sd
+B|Right,|b
+B|but in some, in some cases the with the formatting, what I'm talking about is that they would set up, they set up a certain document,|sd
+B|and it may be eight pages long.|sd
+A|Right.|b
+B|And they set it up manually, so that they have all their spacings and formattings and tabs set manually.|sd
+A|Uh-huh.|b
+A|And and um,|%
+B|And, um, then when they have to make a change, say they want to insert a paragraph. They got to go through the document and reset all the page breaks manually and rewrite the whole thing instead of having the,|sd
+A|Rewrite the whole thing.|^2
+B|if, if they had set up the formatting on the system itself, it would do that for them, and save them a lot of time.|sd
+B|But a lot of people don't spend the time to learn the package.|sd
+A|How does the word wrap work on that?|qo
+A|Do you end up with very different length lines?|qy
+B|Oh, no,|nn
+B|no|nn
+B|you can left and right justify the whole thing.|sd
+B|It comes out just perfectly spaced like a block.|sd
+A|Um.|%
+B|It'll, it'll automatically,|sd
+B|it's like typesetting.|sd
+B|It'll automatically do that for you.|sd
+A|And it divides the words by itself?|qy^d
+B|Usually it doesn't divide words.|ng
+A|Oh, okay.|bk
+B|They usually have it space the words in a line rather than divide a word.|sd
+A|Uh-huh.|b
+B|So, you see, like in a newspaper, they typeset.|sd
+B|They don't usually break words in a newspaper.|sd
+A|Right.|b
+B|If the, if one line is going to be a lot shorter than another line, they just add spaces to that line to make it look long as the rest of the lines.|sd
+A|Uh-huh.|b
+A|They space it out in, in the line itself.|bf
+B|Right.|aa
+A|Oh.|b
+B|And most computers do that.|sd
+A|They,|%
+B|Most most software packages will do that for you.|sd
+A|Uh-huh.|b
+B|I've, I've known people that have used a package for, for five years, you know,|sd
+B|and I would say, well, have you, you know, you know more about this package than I do,|sd
+B|how do you left justify?|^q
+B|And they would say, I don't know.|sd
+A|Uh-huh.|b
+B|And it would take me maybe two or three minutes looking in the manual to figure out what command it was that caused this to happen.|sd
+B|And they would say, how did you do that?|sd
+B|And I'm like, well it's really easy.|sd
+B|And they were like, well, I never knew that.|sd
+B|So obviously they'd never considered looking it up, you know.|sd
+A|Uh-huh.|b
+A|Do you think it's a lack of training,|qy
+A|or it's just that they don't use the materials that are available to them.|qrr
+B|Sometimes it's,|no
+B|sometimes,|no
+B|well, it's a number of different things.|no
+B|Sometimes they don't, uh, they don't think that they can get any information out of the manual.|sv
+B|Some manuals aren't really designed very well.|sv
+A|Uh-huh.|b
+B|But some of them, are,|sd
+B|and more and more of them are coming out written in a way that it, that just a basic, general user can understand them.|sd
+B|So, I think, um, people think it's going to take them a lot longer to learn it properly than it really would,|sd
+B|and so they're really wasting time rather than saving themselves time, because they think, well, it's quicker just to do it myself when it's really not.|sd
+A|Right.|b
+A|Uh-huh.|b
+A|It's better to learn it directly from the manual.|sv
+B|Well, I think so.|sv
+A|Especially when you have to trouble shoot some things.|sv
+B|Uh-huh.|b
+B|Exactly.|aa
+A|Because a lot of the times the computer the program still has, uh, bugs in it,|sd
+A|and you have to work around it.|sd
+B|Uh-huh.|b
+A|Have you worked mostly on I B M,|qy^d
+B|With P C they're either I B M or I B M compatible, mostly.|na
+A|Uh-huh.|b
+A|Yeah,|b
+A|that's that's all I've seen in offices, is I B M.|sd
+B|That is the, you know, the industry standard.|sd
+B|Uh-huh.|b
+B|There's a lot of really good I B M compatibles, too.|sv
+B|They don't have to necessarily be the I B M brand,|sd
+B|but they have to adhere to that industry standard.|sd
+A|Right.|b
+A|Well do you think it's been five minutes yet|qy
+A|or,|%
+B|Oh, probably.|na
+A|Oh, okay.|bk
+A|Well it was nice talking to you.|fc
+B|Okay.|fc
+A|Thank you.|fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

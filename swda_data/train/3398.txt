@@ -1,0 +1,117 @@
+B|Hello.|fp
+A|Hi.|fp
+B|Hi.|fp
+A|My name is, uh, Donna Donahue,|fp
+A|and I live in Plano, Texas.|fp
+B|Hi.|fp
+B|My name is Lowell,|fp
+B|and I live in Raleigh, North Carolina.|fp
+A|Oh, okay.|b
+A|Um, do you want to start|qy
+A|or should I start?|qrr
+B|Go right ahead.|ad
+A|Okay, um,|aa
+A|I would say that our home is a very typical home for the area that we live in.|sd
+A|We have, um, three children,|sd
+A|and, um, they attend the public school here and are very active in a lot of the sports, soccer and baseball|sd
+A|and, well, my little girl goes to tap dance,|sd
+A|and my little one goes to preschool|sd
+A|and, um, I'm home with the children, just do a lot of running around.|sd
+A|It seems like a lot of my neighbors kind of have a similar type, I don't know, life.|sd
+A|Um, what about you?|qo
+B|I'm, I'm single,|sd
+B|and I, I live in a town home here in Raleigh,|sd
+A|Uh-huh.|b
+B|and it's pretty typical of the other town homes in the area|sd
+A|Uh-huh.|b
+A|Okay.|bk
+B|we, we have a lot of town homes here as well as single family homes,|sd
+A|Uh-huh.|b
+B|and at the time that I bought this one it was just a, a much better arrangement for me personally.|sd
+B|I'm not home a lot.|sd
+B|I travel a great deal with my job,|sd
+A|Uh-huh.|b
+B|and so it was easier to have a home that didn't exactly that somebody else looks out for the maintenance.|sd
+A|Was sort of maintenance free.|^2
+A|Yeah.|b
+A|Oh yeah,|b
+A|well, um, that, that sounds, that sounds pretty good for|ba
+A|I know my husband takes an awful lot of time on the weekends, not so much now, but to, um, maintain the lawn and the edging and the flower beds,|sd
+A|and it's a lot of work, owning a home with a little bit of property attached to it.|sv
+A|It's|%
+B|It certainly is.|aa
+A|sometimes I think, um, it would be nice to have a town home, with not having all that responsibility.|sd
+B|Well, if you ever get one, be sure the walls are good and thick because if they're not you can hear.|ad
+B|I, that's the main thing when I was shopping for one,|sd
+B|I wanted to make sure I could, I couldn't hear my neighbors|sd
+B|and that was|%
+A|Right.|b
+B|so I bought one that's more like living in a,|sd
+B|once you're inside, you don't know you're in a town home.|sd
+A|Oh, that sounds lovely.|ba
+B|It is.|aa
+B|They're kind of built on a catty-cornered instead of like side by side|sd
+A|Uh-huh.|b
+B|so you don't actually hear anybody next door to you.|sd
+A|Uh-huh.|b
+A|So in, in your area then there's probably a lot of, um, career type people that have those type homes|qy^d
+A|and|%
+B|Yes,|ny
+B|definitely.|sd
+A|uh-huh,|b
+A|and, um, the area that we're settled in is, um, definitely young, young families with, with kids.|sd
+A|They're still doing, um, a lot of building in the neighborhood.|sd
+A|So the people that move here seem to move from all over the country, which we're from, um, the northeast,|sd
+A|and, um, seems like a people just don't, or also don't have any family around.|sd
+A|So it, um, also gives you a common bond when you don't have a lot of relatives visiting your neighbors,|sv
+A|and you know, um But, um ,|%
+B|Well, we also in this area seem to have a lot of retirees people who don't want the heat of Florida but don't want the heat of the, the cold of the northeast|sd
+A|Uh-huh.|b
+B|so they settle sort of in-between.|sd
+A|Right,|b
+A|right.|b
+A|Uh-huh.|b
+A|Now it's, um, is it very wooded around where you are,|qy
+A|there lots of pretty trees and,|qy^d
+B|Yes|ny
+A|Yeah.|b
+B|as a matter of fact this is a, uh, this particular community that I live in is very wooded.|sd
+A|Oh, how pretty.|ba
+B|It is nice.|sd
+A|I do miss that.|sd
+A|Around here in Plano there are very few trees|sd
+A|and it's pretty flat and, and kind of barren|sd
+A|and that's the only thing that we don't like about living in Texas, is we miss all the beautiful trees and the Fall|sd
+A|and, and, um, uh, the landscape is much different here in Texas than it is, you know, in the north. Um, or even where you are.|sd
+B|Uh, we definitely have a lot of trees here.|sd
+A|A lot of leaves to rake up too, I bet.|qy^d
+B|Yes|ny
+B|but fortunately the home owner's association does all that.|sd
+A|Does that,|b
+A|well, see, that's another plus.|ba
+B|Yes,|aa
+B|I don't have to worry about that|sd
+B|and this is the time of year we're starting to lose,|sd
+B|they're all falling now.|sd
+A|That's right,|aa
+A|that's right,|aa
+A|they are.|aa
+A|I'm going to get the kids to get outside with the other neighbor kids and do the little bit of raking that needs to be done.|sd
+A|We just have a few trees in the front and a few in the back but, not, not much. Just, just a little kind of just in more of a make a little bit of a mess for a few weeks|sd
+A|and if you didn't do anything about it, then they'd probably the leaves just blow away|sv
+B|Right.|b
+A|It's not too bad.|sd
+A|Okay,|%
+A|do we have to speak for a certain amount of time?|qy
+B|No,|nn
+B|I don't think so.|sd
+A|Okay.|bk
+A|Okay.|bk
+A|It was really nice speaking to you.|fc
+B|It was good to speak with you too.|fc
+A|Okay,|fc
+A|and have a happy Thanksgiving.|fc
+B|Thank you,|fc
+B|you too.|fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc

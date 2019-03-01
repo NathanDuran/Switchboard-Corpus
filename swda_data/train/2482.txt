@@ -1,0 +1,292 @@
+A|Uh, so, you have children I take it?|qy^d
+B|like she is cooking, i. e. banging pots, water, No,|nn
+B|I don't.|sd
+A|You don't?|qy
+B|No,|nn
+B|huh-uh.|nn
+A|So, it's not a very valid topic.|bf
+B|No,|aa
+B|it's not.|aa
+B|Do you have children?|qy
+A|Uh, yes.|ny
+B|Uh-huh.|b
+A|One.|sd
+B|One.|b^m
+A|Stepdaughter.|sd
+B|Uh-huh.|b
+A|Ten.|sd
+B|Ten.|b^m
+A|And, uh, you know how they are at that age, I guess. you having been ten once, yourself.|qy^d
+B|Yeah.|aa
+B|Once upon a time I was.|sd
+B|Well, I have two dogs,|sd
+B|those are my kids.|sd
+A|Oh, we have one.|sd
+B|What kind is it?|qw
+A|A Keeshonden.|sd
+B|Oh, really.|bh
+A|Yeah,|ny
+B|Uh-huh  .|b
+A|fuzzy  little thing.|sd
+B|A what?|br
+A|A fuzzy little dog.|sd
+B|Yeah,|aa
+B|yeah,|aa
+B|they're cute.|sv
+A|Rather, rather odd personality,|sd
+A|he, he's fun.|sd
+B|Uh-huh.|b
+A|Anyway, uh, time we spend with our children.|sd
+B|Uh-huh.|b
+A|It seems almost as though children hate it.|sv
+B|Do they?|qy
+A|Yes.|ny
+A|Time spent with Mom and Dad is, uh, next, is probably one of the worst punishments spent on earth to them.|sv
+B|Yeah,|aa
+B|especially when they get like into the teenage stage.|sv
+A|Yeah.|b
+B|I guess.|h
+B|Yeah,|b
+B|I remember when I was that age.|sd
+A|They, you know,|%
+A|parents are a curse that they just have to live with.|sv
+B|Uh-huh.|b
+A|So, it, it's interesting.|sv
+B|Yeah.|b
+A|But we do spend time driving in the mountains,|sd
+A|and ...|%
+B|Uh-huh.|b
+B|Oh, how nice,|ba
+B|I would love to live up there.|sd
+A|Well.|%
+A|Do you work for T I?|qy
+B|Uh-huh,|ny
+B|uh-huh.|ny
+A|You're working then?|qy^d
+B|Yeah.|ny
+A|With every passing day we wonder if we will be.|sd
+B|That's what I heard.|sd
+B|like running I've always thought about maybe transferring up there,|sd
+B|and I thought if I do that, I might not have a job|sd
+B|so|%
+A|It's, it's better to be employed.|sv
+B|Uh-huh.|aa
+B|Uh-huh.|aa
+A|Especially these days where there is not a job right around the corner.|sv
+B|Uh-huh.|aa
+B|I know it.|sd
+A|And that creates family tensions.|sv
+B|Yeah.|aa
+B|Yeah,|aa
+B|I'm sure it does.|sv
+B|So, you only have the, you only have the stepdaughter at home?|qy^d
+A|Yes.|ny
+B|You all don't have any other children around there?|qy^d
+A|No,|nn
+A|no.|nn
+A|I don't have any, children.|sd
+B|Uh-huh.|b
+B|So, how does she feel about going out and doing stuff with you all.|qw
+A|Uh, well it varies what it is, of course,|sd
+A|but usually, Mom and Dad are a curse.|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|You know, they, they'd much rather be with friends,|sv
+B|Oh,  yeah  .|ba
+A|friends  are cool, parents aren't.|sv
+B|No,|aa
+B|huh-uh.|aa
+A|Well, I remember,|sd
+A|well I'm sure part of it is a male, female thing, you know,|sv
+B|Uh-huh.|b
+A|I, I remember whenever I was growing up, often times spent with my Dad was, oh, just wonderful, you know, go, go hunting, or go to the races, or, or, oh, any number of things.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|And we'd have, um, great times,|sd
+B|Oh, yeah.|ba
+A|and it seems that well now the bank's not available.|sd
+B|Yeah.|b
+B|Um. Uh-huh.|b
+A|And, entirely too much time is spent,|sd
+A|my wife and I were wondering what if,|sd
+A|and, and what if's always rough.|sv
+B|Oh, yeah.|aa
+B|Yeah.|aa
+A|But, you know, we do have our trips|sd
+A|and we do have our fun|sd
+A|and, I don't know, little girls aren't interested in lot of the same things little boys are or were.|sv
+B|Uh-huh.|b
+B|Like fishing and ...|bf
+A|Hunting and, and, Looking for arrowheads, and ...|^2
+B|Yeah.|b
+B|My husband will say that he'd like to have a little boy to take hunting and fishing|sd
+B|and I said, well, you can take a little girl hunting and fishing just as easily.|sd
+A|Uh, but they don't like it.|sv
+B|That's probably right.|aap_am
+A|There, there, there is a difference there.|sv
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|And, and ...|%
+B|No,|aa
+B|if my Dad had done that when I was a kid I probably wouldn't have liked it.|sd
+B|I go now, with my husband.|sd
+B|And, I enjoy it,|sd
+B|but ...|%
+A|Well, girls at that age, Video games, boys and malls.|sv
+B|Uh-huh.|b
+B|Yeah,|b
+B|yeah.|b
+A|Not necessarily in that order, and friends of course.|sv
+B|Uh-huh.|b
+A|And, that's a little tough for fathers.|sv
+B|Uh-huh.|aa
+B|I imagine.|sd
+A|Fathers don't even like malls,|sv
+A|they despise shopping.|sv
+B|Uh.|%
+A|So, is that quality time?|qh
+B|Huh,|b
+B|no,|aa
+B|I think not.|sd
+A|Yeah,|b
+A|if,|%
+A|but there is camping|sd
+A|and we both enjoy that.|sd
+B|Uh-huh,|b
+B|she likes to do that?|qy^d
+A|Somewhat, yeah,|ny
+A|yeah  .|ny
+B|Yeah|b
+B|, yeah.|b
+B|Well, that's good.|ba
+A|Getting up in the mountains and getting away from it all|sd
+A|and, that's somewhat fun.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|She  ...|%
+A|It's  ,|%
+B|Huh?|br
+A|so what do you think about child rearing?|qo
+A|Is,|%
+A|how, how would you spend time with kids?|qw
+B|Probably doing outdoorsie stuff, and keeping, trying to keep them away from the T V, I guess And, McDonald's|sd
+A|Oh, yeah.|ba
+B|I, I always said that if I had a kid they wouldn't know what McDonald's is.|sd
+A|Yeah,|b
+A|but|%
+B|But  , they learn from their friends,|sv
+B|don't they?|^g
+A|Well, yeah,|ny
+A|and amazingly a lot of times it's real easy.|sd
+B|Uh-huh.|b
+A|You know, a lot of times, whenever we head out of town on a trip or something, it's real easy to swing in there for breakfast.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|Breakfast and run.|sd
+B|Yeah.|b
+A|And breakfast is a kind of a funny meal anyway,|sv
+B|Yeah.|aa
+B|It is.|aa
+A|and, uh, kids eat funny.|sv
+B|This lady in our bass club, we had a tournament yesterday|sd
+B|and she was talking about her daughter, said, one week her daughter will, uh, be on a no meat kick,|sd
+B|and one week she'll eat nothing but Twix candy bars, you know,|sd
+B|she just eats weird.|sd
+A|And little girls are worse about it than little boys.|sv
+B|Yeah,|b
+B|yeah.|b
+A|They ...|%
+B|They're always wanting to go on a diet or something.|sv
+A|Or, or something, yeah.|aap_am
+B|Uh-huh.|b
+A|Go on a diet or they, they have a, well,|sd
+A|to some extent the public schools, or the schools in general, influence them, the eating meat kick.|sv
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|Yeah.|b
+A|You know, like it's really morally wrong to eat meat or something, I, I'm not sure.|sd
+B|Uh-huh.|b
+A|Of course, that's not the way I was raised, being raised in West Texas.|sd
+B|Yeah.|b
+B|Oh, is that where you're from?|qy
+A|Oh, yeah.|ny
+B|Uh-huh.|b
+A|Born in Denton, raised in Lubbock.|sd
+B|Oh. Um.|b
+A|So, I understand about bass.|sd
+B|Yeah|b
+B|Huh.|b
+A|But it, but it is interesting,|sv
+B|Uh-huh.|b
+A|I, I will tell you,|^h
+A|yeah.|%
+A|Every person out there should have kids, at least once or, or have some they can borrow for a time, because everyone needs some torture in their lives.|sv
+B|That's the kind I like.|sd
+B|My Mother used to put that curse on my sister.|sd
+B|I hope you have kids just like yourself.|^q
+B|And, my Grandmother must have put that on my Dad because he got my sister,|sd
+B|she's just like him.|sd
+A|Uh. But, Jenny is a sweet kid.|sd
+B|Yeah,|b
+B|I'm sure she is.|sv
+A|And, yeah,|b
+A|we do do things,|sd
+B|Yeah.|b
+A|and, it, it's funny,|sd
+A|it's almost like a lot of things that were available to us as children, to go do,|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|The money's not available.|sd
+B|Uh-huh,|aa
+B|I know,|aa
+B|I don't know how people can afford kids.|sd
+B|I mean  ...|%
+A|You know  , we were talking about how much it cost to go to Disney Land.|sd
+B|Uh-huh.|b
+A|Golly!|ba
+A|A couple,|sd
+A|three hundred dollars.|sd
+B|Oh, yeah.|ba
+A|You know, for just, for just a day, not you know, a day or two, not including lodging and food and all that.|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|It's,|%
+A|I don't see how anyone can afford it.|sd
+B|Uh.|%
+A|And, I understand Six Flags is real expensive now.|sd
+B|It's, uh,|%
+B|I heard it's twenty bucks a whack.|sd
+B|For adults.|sd
+A|Oh, yeah.|ba
+B|Yeah.|b
+B|That is awful high.|sv
+B|Oh, well ...|%
+A|Twenty bucks a whack now.|b^m
+B|Yeah,|aa
+B|or twenty-one.|sd
+A|But, at least once you pay your way in there,  at Six Flags  ...|sd
+B|Yeah,|b
+B|yeah  .|b
+B|yeah,|b
+B|everything's free except for the food.|sd
+A|Yeah,|b
+A|yeah,|b
+A|food and junk to carry out.|bf
+A|So that's, that's not as bad.|sv
+B|Yeah.|b
+B|Yeah.|b
+A|But, golly!|ba
+A|You know, Disney World or Disney Land.|sd
+B|Uh-huh.|b
+A|Well, our problem is that, you know, a trip to Six Flags or Disney World or, uh, Disney Land, or God forbid, Disney World, would take forever.|sd
+B|Really.|b
+A|Or you'd have to pay air fare,|sd
+B|Uh-huh.|b
+A|and, ooh, for a family, you know, for a family it gets pretty expensive pretty quick.|sv
+B|OH, yeah.|ba
+A|Rent a car when you get there and all that.|sd
+A|Yeah.|%
+B|That's why I lucked out,|sd
+B|my Dad worked for Braniff when I was a kid so we got, you know, our air fare free|sd
+B|and we got ...|sd

@@ -1,0 +1,136 @@
+A|All right.|fo_o_fw_"_by_bc
+A|I think that gets us off to discussing the topic for tonight.|sv
+B|Which is movies,|^2
+B|correct?|^g
+A|That is correct.|na
+B|Okay.|bk
+A|Are you  a movie buff?|qy
+B|Um, yeah.|ny
+B|I don't like going to see them in the theaters|sd
+B|but outside of that, rent a lot,|sd
+B|watch them on T V mostly.|sd
+A|Well, I have a V C R|sd
+A|and I see most all of mine there.|sd
+A|What have you seen recently that you enjoyed?|qw
+B|Uh, I don't know, um,|^h
+B|actually earlier tonight we were watching TO LIVE AND DIE IN L A.|sd
+B|Have you seen that movie?|qy
+A|No,|nn
+A|I haven't.|sd
+B|It's a kind of one of those psycho ones.|sv
+A|Now, I, I live alone.|sd
+A|Consequently, I don't like these psycho things.|sd
+B|Oh, it's not too bad.|sv
+B|One of those cop thrillers|sd
+B|but,|%
+A|Oh, okay.|b
+A|Have you seen the|qy
+A|if,|%
+A|do you have a V C R?|qy
+B|Yes,|ny
+B|we do.|sd
+A|Have you seen the movie CLASS ACTION with Gene Hackman?|qy
+B|Uh, no,|nn
+B|I haven't yet.|sd
+A|I saw it this weekend|sd
+A|and it is, uh, to me an outstanding movie.|sv
+A|I thoroughly enjoyed it.|sd
+A|He is, uh, an attorney and his daughter is an attorney|sd
+A|and she has a suit against his company.|sd
+A|You know, it's one of those things.|sd
+B|Yeah,|b
+B|that,|%
+A|But  there's a lot of|%
+A|well, it's just it's something that anyone can watch and enjoy.|sv
+B|He's a good actor though.|sv
+A|Beg your pardon?|br
+B|Um, Gene Hackman's a good actor.  I think.|sv
+A|Yes,|aa
+A|he is.|sv
+B|Do you see HOOSIERS?|qy
+A|Yes.|ny
+A|I've seen HOOSIERS.|sd
+A|Saw it just again the other night,  for,|sd
+B|Yeah,|b
+B|actually I, we saw her just the other night too.|sd
+A|Oh, did you?|bh
+B|Yeah.|ny
+B|It's one of our favorite movies.|sd
+B|I, I live with, um, a roommate and my girlfriend the three of us.|sd
+B|We've seen that movie probably six times in the last six months.|sd
+A|Have you seen the movie, um, CROSSING DELANCY?|qy
+B|Yeah.|ny
+A|Now, that's one I have watched, oh, six or eight times.|sd
+A|I always feel so good when I get through with that movie.|sd
+B|Yeah,|b
+B|I like those movies that you watch time and time again.|sd
+A|I do too.|sd
+A|DIRTY DANCING and CROSSING DELANCY are two of my favorite.|sd
+A|So, well what business are you in?|qw
+B|I'm, I'm an electrical engineer.|sd
+A|Oh.|b
+A|In New Hampshire.|qy^d
+A|All right.|bk
+B|I work  in Massachusetts actually.|sd
+A|Oh, all right.|bk
+A|Okay.|b
+A|So is everything going all right up there?|qy
+B|Um, it's only about, um, half an hour.|sd
+B|I live on the border.|sd
+A|Oh, well that's that bad then.|sv
+A|Half an hour, we do that just going to downtown Dallas.|sd
+B|That's right.|aa
+A|So,|%
+B|See we live up in tax free New Hampshire and drive down to Massachusetts to work.|sd
+A|That makes a lot of sense|sv
+A|But, um, we,|%
+A|are you a native of that part of the country?|qy
+B|Yeah,|ny
+B|I grew up in New Hampshire.|sd
+B|It seems, southern town,|sd
+B|it's called|sd
+B|It's, I don't know, fifteen minutes from the border and five minutes from the main border. *main = Maine?|sd
+B|We live right in the corner.|sd
+A|Oh.|b
+B|That one little spot in New Hampshire, we have ten miles of coastline,|sd
+B|I live on one of that little ten mile spot.|sd
+A|Uh, sounds wonderful.|ba
+A|Did you have damage this year with hurricanes?|qy
+B|Not up, um, where I live|ng
+B|but further down the coast in Massachusetts they got hit pretty bad.|sd
+A|I happened to be in Nassau|sd
+A|and we got the backlash of that thing.|sd
+A|And they had record high waves, thirty year high waves come in there,|sd
+A|and it was quite an experience|sd
+A|so.|%
+A|Well, what movies are you looking forward to seeing now?|qw
+B|Um, well, I'm, I'm only twenty-seven years old|^h
+B|so THE DOORS movie, that's out on video. I want to watch that.|sd
+A|Okay.|bk
+A|Have you seen GREEN CARD?|qy
+B|That would be pretty good.|sv
+B|No,|nn
+B|I haven't seen that one.|sd
+A|That's a real warm movie.|sv
+A|It, it really just turned out nicely.|sv
+A|So I would recommend that if you have a chance.|sd
+B|I'm in for it.|sd
+B|We rent a lot of movies|sd
+B|so we, we often sit around and say, what movies should we rent?|sd
+B|And we  don't know.|sd
+A|Well if you,  if you can get GREEN CARD, go for it.|ad
+B|All right,|aa
+B|we'll try that one.|sd
+A|I have been working at, uh, as an accountant at the medical school here in Dallas|sd
+A|and I have watched, uh, GROSS ANATOMY.|sd
+A|Have you seen that one?|qy
+B|Yeah,|ny
+B|I did.|sd
+A|Okay.|bk
+A|And I don't know|h
+A|I can associate with some of the people in that movie because of the young students I see over at the medical school.|sd
+A|But I hope you have a very Merry Christmas.|sd
+B|You too.|sd
+A|I'm looking forward to it.|sd
+B|I think we're going to have a white Christmas up here just like the song says.|sv
+A|Well,|%

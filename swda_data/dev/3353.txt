@@ -1,0 +1,109 @@
+A|Um, tell me some about your camping experiences, Carolyn.|ad
+B|Well, um, I have gone to girl's camp a few times, as a, you know, a chaperon or a leader, whatever|sd
+A|Okay. where do you go camping at around here?|bk
+B|and, uh, I enjoy camping.|sd
+B|I,|%
+B|we we have a tent,|sd
+B|and we've gone, even with our family a few times out camping and have a camp stove, um,|sd
+B|I guess our, our, my biggest memory is when we froze to death|sd
+B|We just didn't take enough blankets and whatever.|sd
+B|Uh, we went camping at, uh, Lake Bonham, which is, is pretty close here. Um,|sd
+B|we went fairly early in the season for this area, which is probably April is when we went,|sd
+A|Okay.|bk
+B|and, and it got really cold at night,|sd
+B|and of course we were close enough that we could go back and get some more blankets and things in the morning,|sd
+A|Sure.|b
+B|but,|%
+A|Uh, what, uh, what activities do you do when you're camping?|qw
+B|Oh, we take little nature hikes|sd
+B|and, and, uh, we take along games that we can play with the, with the kids, and just that kind of stuff.|sd
+B|Usually try to have a, uh, occasionally a camp fire at night, you know, and roast the marshmallows and what all.|sd
+A|Uh-huh.|b
+A|Well, that sounds like fun.|sv
+A|I, uh, I grew up in South Dakota, up in the Black Hills|sd
+B|Oh.|b
+A|and so we used to go camping,|sd
+A|my dad would take us,|sd
+A|there was, there was four of us kids,|sd
+A|we'd, he'd take us,|sd
+A|and we'd all go camping, my dad and my mom and, and the kids,|sd
+A|and it was always fun, uh,|sd
+A|because what I always remember is, my dad would let us pick our camp spot|sd
+A|and, uh, he'd always tell us, you know, okay, look for, you know, a nice flat little area where we can pitch our tents,|sd
+A|and it always had to be somewhere near a, a river so we could go fishing,|sd
+A|and hopefully we'd catch our supper,|sd
+A|but we never did|sd
+B|Um.|%
+A|but it was, it was always fun.|sd
+A|We'd always,|sd
+A|Mom was always prepared|sd
+A|and she'd bring along, you know, something, because tradition had it we would never catch anything,|sd
+A|so we always had, something along to eat,|sd
+A|but then we'd roast, roast marshmallows,|sd
+A|and it, it was always an enjoyable experience.|sd
+A|Uh, about nineteen eighty-two I moved from Rapid City in the Black Hills,|sd
+A|I crossed the state to, to Aberdeen,|sd
+A|and, uh, there's no hills,|sd
+A|it's flat,|sd
+A|and then I was in high school,|sd
+A|and, uh, couple of friends, couple of my high school friends and I, we'd go camping out by a river, of course, and, and go fishing,|sd
+A|but by then, of course, I was able to catch, uh, catch some things,|sd
+A|but, it, it was always fun.|sd
+A|It was a different experience camping in the hills versus camping just by a river|sd
+B|Uh-huh.|b
+A|you know, in the hills we, we would do like you you folks did, you folks did, would take the nature hikes and, you know, and look for animals,|sd
+A|and we always, you know,|sd
+A|in the hills, you can see quite a few different animals,|sd
+A|but,|%
+B|Uh,|%
+A|Go ahead.|ad
+B|We used to live in Utah|sd
+A|Okay.|b
+B|and, uh, of course, there's lots of mountains around there to camp in, and, and streams and stuff.|sd
+B|That's, that's a great place to go camping,|sv
+B|and the hiking is just really great.|sv
+B|You know, hike up those mountains is just really fantastic. Um.|sv
+A|Sure.|b
+A|Now is there anything, uh, are there any mountains or big rocks a person could hike around this area.|qy
+B|I'm not acquainted with any, you know,|ng
+B|I,|%
+B|there's woods and things out in East Texas Tyler area, you know,|sd
+A|Okay.|bk
+B|there's a Tyler State Park that's, uh, really a nice camping area,|sv
+B|but it, it's just a lot of trees,|sd
+B|it's not,|%
+B|I don't know of any place in Texas that has, uh, really big, you know, what I call mountains|sd
+A|Uh-huh.|b
+A|I,|%
+B|The Rocky Mountains are so much, uh, bigger than anything that they've they've got down here that,|sv
+A|Right.|b
+A|Is the one in Tyler, has it been pretty commercialized, I suppose?|qy
+B|No,|nn
+B|it's not, well, it's not too bad.|sd
+B|They have, um, screened in areas, you know,|sd
+B|they're not really cabins, I wouldn't say,|sd
+B|I guess they could call them that, but they're, they're more just a screened in, uh, camping area whatever,|sd
+A|Okay.|bk
+B|they're, they're not bad.|sv
+A|Helps, helps keep the, the pests out, I suppose.|qy^d
+B|Yeah,|ny
+B|yeah|ny
+A|Well, that sounds,|%
+A|I don't know if I can rate camping,|h
+A|but, you know, it sure beats driving a thousand miles, to to find a mountain, I guess.|sv
+B|Yeah,|aa
+B|that's right.|sv
+B|I, I take it you haven't done a whole lot of camping in this area.|qy^d
+A|No,|nn
+A|we just moved down in, in June.|sd
+B|Oh, I see.|b
+B|Well, you're still, uh, you're just trying to get over the culture shock still|qy^d
+A|Yeah,|ny
+A|I'm still trying to find my way around.|sd
+A|I, if I can get on Central from anywhere, I'm happy.|sd
+B|Yeah.|b
+B|Yeah,|b
+B|well, really the ideal times to camp in this area are early spring, and, in, in the fall.|sv
+A|Okay.|b
+B|It just gets so hot in the summer you can hardly,|sd
+B|I mean, there's, there's a lot,|%

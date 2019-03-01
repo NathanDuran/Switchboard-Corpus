@@ -1,0 +1,117 @@
+A|So, so what have you seen lately that, um, you think is worthwhile?|qw
+B|Um, the last movie I saw was REGARDING HENRY.|sd
+B|Have you seen that yet?|qy
+A|No,|nn
+A|I, I saw the previews.|sd
+B|It's really good.|sv
+B|I loved it.|sd
+B|Um, it's, um.|%
+A|Does, does he, does it have a happy ending,|qy
+A|or.|%
+B|Yeah,|ny
+B|really good ending|sv
+A|Uh-huh.|b
+B|um, uh, it was the, it's one of the best movies I've seen in a long time.|sd
+B|I generally don't get into movies that much,|sd
+B|but I saw that one,|sd
+B|and then before that one, I saw, um, oh, NAKED GUN TWO AND A HALF.|sd
+A|Oh, that was funny, wasn't it|qy
+B|Yeah,|ny
+B|did you, have you seen that one?|qy
+A|Yes,|ny
+A|and, and, and, and the regular NAKED GUN and AIRPORT and, you know.|sd
+B|Yeah,|b
+B|it's exactly like AIRPLANE wasn't it|qy
+A|Yes.|aa
+B|But it was silly.|sv
+A|Right.|b
+A|So, now these are for two very different movies.|sd
+A|One, one, uh, absolutely slapstick comedy and one clearly, you know, serious subject.|sd
+B|Yeah,|b
+B|yeah.|b
+A|Yeah,|b^m
+A|I, I guess I have similarly broad tastes.|sd
+A|Um, my most recent, um, movie that I, that I liked a lot, not my most recent movie, was HENRY THE FIFTH.|sd
+A|I only rented it, you know, maybe a month ago|sd
+B|Uh-huh.|b
+A|and it's been out for a couple of years,|sd
+A|but. Have you seen that?|qy
+B|I haven't seen that yet.|ng
+A|Well, it's, it's a, it's an adaptation of the, of the Shakespeare play,|sd
+A|and it's beautifully done.|sv
+A|Um, I believe that all the language is as Shakespeare wrote it, except it's been shortened a little bit|sd
+A|and there might be a word or two changed.|sd
+B|Right.|b
+A|Uh, but it's, it's, it's a glorious movie|sv
+B|Um. Such as|br
+A|um, and I like, as you know, these, these, these silly movies,|sd
+A|and I also like just some strange movies.|sd
+A|Do you have any.|qy
+A|Well, the, the one that comes immediately to mind, I, um, is the THE COOK, THE THIEF, HIS WIFE, HER LOVER.|sd
+A|Um, but there are also these various, um, David Lynch movies.|sd
+B|Uh-huh.|b
+A|Um, I got, I got hooked on TWIN PEAKS.|sd
+A|That made me go out and watch every David Lynch movie I could lay my hands on.|sd
+B|Oh, really.|b
+B|I haven't seen any of those.|sd
+A|Oh.|b
+A|Um well, I don't, I don't especially recommend,|sd
+B|They're really good?|qy^d
+A|I mean, you have, you have to just sort of like this thing,|sv
+A|you have to like,|sv
+A|did you see TWIN PEAKS?|qy
+B|Huh-uh,|nn
+B|no.|nn
+A|No,|b
+A|so, okay.|%
+A|So, if you weren't, if you weren't drawn to watch that, you, maybe you wouldn't be drawn to these movies, either.|sv
+B|Uh-huh.|b
+A|They're, they're just strange.|sv
+B|Are they, I mean, is it, like mystery, or suspense|qy
+A|Well, uh. I think suspense is the right word.|sv
+B|or,|%
+A|Uh, and, but, but, a little bit strange and esoteric|sv
+A|and, uh, in the case of TWIN PEAK a little, there's some elements of the supernatural in it, too.|sd
+B|Oh really.|b
+A|That was the television show.|sd
+B|Um.|%
+A|Um, there's also a, a a producer of movies in Baltimore called, um, John Walters, who, who puts, puts on even weirder movies.|sd
+A|Uh, his most recent ones have actually been fairly mainstream, like HAIR SPRAY.|sd
+A|Um, but back in his early days, he, he, he had things, um, um,|sd
+A|what, what are the titles,|t1
+A|I can't remember the titles any more. But, some really weird ones, uh, with quite a random crew of, of characters.|sv
+A|Um, it would have made, you know, these Fellini movies look normal.|sv
+B|Right.|b
+B|So do you like, um, movies a lot?|qy
+B|See I don't do,|sd
+B|I don't.|sd
+A|I do, I do like movies a lot.|na
+B|Right.|bk
+B|See, I don't do that,|sd
+B|I don't go to movies that often,|sd
+B|but, just recently I've been to a couple|sd
+A|Do, do you rent them,|qy
+A|or.|%
+B|Um, no,|nn
+B|we, I just go to like the dollar movie theater around here generally,|sd
+A|Yes.|b
+B|but, I don't know,|h
+B|I just, I usually fall asleep|sd
+B|or I get bored pretty easily|sd
+B|so.|%
+A|Yeah,|b
+A|that's what my wife does too, um,|sd
+A|I mean, she falls asleep|sd
+B|Uh-huh.|b
+A|So we have to, we have to pick just the right kind of movie to, to, to, to appeal.|sd
+B|Yeah.|b
+B|Right,|b
+B|that's exactly right.|ba
+A|Well, well it was good talking to you.|fc
+B|Yeah,|fc
+B|it's good to talk to you, too.|fc
+A|Take care.|fc
+B|Uh-huh.|fc
+A|Okay,|fc
+A|bye.|fc
+B|Bye-bye.|fc

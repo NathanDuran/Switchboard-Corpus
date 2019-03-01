@@ -1,0 +1,157 @@
+A|Well I usually keep up with news by watching A B C news on television and reading the papers here the local DALLAS MORNING NEWS|sd
+A|and then I also take the WALL STREET JOURNAL.|sd
+B|Do you get a chance to do it at home|qy
+B|or do you mostly like catch up while you're at work?|qrr
+B|Do you have a chance to look through the WALL STREET JOURNAL?|qy
+B|I'm not sure what you do.|sd
+A|Yeah,|ny
+A|well I, well I,|%
+A|at the office I generally catch the WALL STREET JOURNAL at lunchtime.|sd
+B|Um.|%
+A|I  use part of my lunch period to, uh, read the WALL STREET JOURNAL.|sd
+B|Well|%
+A|Then, uh,  I read the, the newspaper at home generally in the evening.|sd
+A|I'd rather sleep the extra thirty minutes in the morning.|sd
+B|I understand that.|ba
+B|Well and you have a little bit better newspaper.|sv
+B|The DALLAS MORNING NEWS is a good paper.|sv
+B|Lubbock is kind of small|sd
+B|and the A J uh, kind of dominant.|sv
+B|There's no competition, so what you get is what you get.|sv
+B|We used to take the paper every day|sd
+B|and I finally quit taking it because it stacked up.|sd
+B|I never got around to reading it|sd
+B|and so I try to take, you know, weekend papers,|sd
+A|Yeah.|b
+B|and  then during the week, I catch up, you know, on the radio on the way to work or if I'm traveling around at lunch or on the way home|sd
+B|and hopefully I'm sitting down by the ten o'clock news to where I can kind of get a recap on T V, uh.|sd
+A|Yeah,|b
+A|that's, uh, what we do to,|sd
+A|it, we're never in home in time to really watch the six o'clock news on television,|sd
+B|No|aa
+A|so we  catch the ten o'clock news,|sd
+B|Yeah|b
+A|But I catch  the news on the radio coming to and from work,|sd
+A|but radio news is, is rather short. Uh,|sv
+B|It is.|aa
+A|most of  the news stations, most of the stations here that are not all news stations you get about five minutes on the hour.|sd
+B|Uh-huh.|b
+A|And if you catch the news stations, uh, you don't catch that much in the car.|sd
+B|Oh, I see.|bk
+A|Yeah|b
+A|but, uh,|%
+B|uh, it's frustrating to me because I really wish that I did have more I don't know, uh, what do I want to say? I wish that I was around more news.|sd
+B|It's frustrating when I don't know what's going on.|sd
+B|I feel like it's hit and miss|sd
+B|and I haven't found anything yet that keeps me there on a constant basis.|sd
+B|Somebody will say, oh did you hear about this that happened last week|sd
+B|and it might be local|sd
+B|and it might be national|sd
+B|and I'm like, no, I missed that one|sd
+A|Yeah,|aa
+A|I have the same situation.|sd
+A|I tried the news magazines like TIME, NEWSWEEK, U S NEWS and WORLD REPORT,|sd
+B|Yeah.|b
+A|and  they'd just stack up.|sd
+A|I wouldn't find time to read them.|sd
+A|You have to have time to sit down and concentrate on, on the stories|sv
+A|or  all  of a sudden you look and there's three, uh, three weeks worth laying on the coffee table|sv
+B|Uh-huh.|b
+A|and you wind up throwing them out without reading them.|sv
+B|Yeah,|aa
+B|that's true.|aa
+A|Because it's too much trouble to try and catch up,|sv
+A|so have to depend,|sv
+B|That's true,|aa
+A|I guess we're becoming more of a television oriented nation in that I don't think that, uh, my children even read newspapers, other than the T V guide section.|sv
+B|Uh, oh no|ba
+A|There's is all, uh, strictly television news.|sd
+B|A little bit that worries me, because I feel like the news is so biased.|sd
+A|Oh, yeah.|aa
+B|And yes,|sd
+B|they report facts,|sd
+B|and yes|sd
+B|you can get an idea of what's going on,|sd
+B|but, you know, it's, an,|sd
+B|and I wish they would just report the incident and then leave the commentaries out.|sd
+B|But so many times you get, well, uh, this is my opinion of what he meant by that,|sd
+A|Yeah.|b
+B|and  I'm like, who are you to judge. You know,|sd
+A|Right,|aa
+A|it's the same  thing with, the news magazines, like TIME and, and the other magazines.|sv
+B|just report the facts.|^q
+B|Uh-huh.|b
+A|It's hard to uh, to celebrate, to separate the news from the comment, because,  in the  way it's presented their opinions is print, or presented as being the news.|sv
+B|Yes.|b
+B|Uh-huh.|b
+A|And so then you have to try and sort out what really is the news.|sv
+B|And I feel like they sensationalize things that shouldn't be sensationalized.|sv
+B|I feel like they focus too much on things that, I don't know, you know,|sv
+B|so much during the Gulf War, they would ask questions that, uh, you wouldn't want broadcast.|sv
+B|It's like if you tell us the answer to that you're telling our enemy what your strategy is.|sd
+A|That's right.|aa
+B|But they  keep asking these questions|sd
+B|and I thought it was really, well I don't know, asinine actually.|sv
+A|Right.|b
+B|Stupid.|sv
+A|Well so many of them also come through|sv
+A|and they have discovered that this is the most popular issue of the time. Whether it be the homeless or, uh, cancer or whatever|sv
+A|and then they devote, uh, an inordinate amount of time on the news cast to their personal ax to grind.|sv
+B|Uh-huh,|aa
+B|yes.|aa
+A|And, uh, uh,  particularly the local television. Uh, I know the, the Wednesday's Child bit|sv
+B|I agree.|aa
+A|and they'll take up ten minutes of a newscast and leave out something.|sv
+A|I'm not saying that's not important,|sd
+B|Yeah.|b
+A|but  they leave out a real news issue to devote to one of their local pet projects.|sv
+B|Yeah,|aa
+B|that's true,|aa
+B|that's true,|aa
+B|and it's frustrating.|sd
+A|Yeah,|b
+B|So I guess, I guess when I get to listen to the news, it's, it's probably television or radio.|sd
+B|I see very little paper|sd
+B|but, I, I don't get to see that as much as I want|sd
+B|and when I do I'm wondering why I wanted to see it so bad|sd
+A|That's, yeah, that makes sense.|aa
+A|We, uh, again,|%
+A|like I say, by the time I read the newspaper it's the, the it's that morning's news from the day before|sd
+A|and I'm reading it in the evening,|sd
+A|so.|%
+B|Yeah.|b
+A|I'm a, I'm about a day behind most of the time anyway|sd
+B|Exactly,|aa
+B|exactly.|aa
+A|Yeah.|b
+B|Well I'm glad|sd
+B|it makes me feel like I'm not alone, though, in the world.|sd
+B|I, I used to think that I was probably the only one that just, I don't know, was running around so much.|sd
+B|I look at other, uh, women workers or, men at work,  that  have kids and families|sd
+A|Yeah.|b
+B|and I'm like, how do they seem so together all the time.|sd
+B|I always feel like I'm running a rat race.|sd
+A|Yeah,|b
+A|we, we,|%
+B|So, I guess  news is just part of that rat race for me.|sd
+A|Yeah,|aa
+A|yeah|aa
+A|my wife and I feel that we never have a moment that we can call our own.|sd
+B|Yeah.|b
+A|It's  always, there's something going on all the time, uh,|sd
+A|you don't really have time to sit down and, and thoroughly read a newspaper.|sd
+B|Exactly.|aa
+A|As a matter of fact I read the Sunday paper this evening.|sd
+B|Well.|%
+A|We  had such a busy day yesterday.|sd
+A|Didn't find time to even read it.|sd
+B|Yeah,|b
+B|that's incredible too.|ba
+A|Yeah,|b
+A|well that's about all then.|ad
+B|Well I appreciate talking to you.|fc
+A|Nice talking with you.|fc
+B|Have a good evening.|fc
+A|Same to you.|fc
+B|Bye-bye.|fc
+A|Bye.|fc

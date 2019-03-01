@@ -1,0 +1,137 @@
+B|So how many, um, credit cards do you have?|qw
+A|Um, I think I'm down to one.|sd
+B|Oh, my gosh,|ba
+B|I wish I was that way.|sd
+B|Is that why you said I had more experience than you?|qy
+A|Well, no.|nn
+A|I was pulling your leg.|sd
+B|Oh.|bk
+B|Well, how, how do you use your credit card?|qw
+B|I mean, do you just keep it in reserve,|qy
+B|or.|%
+A|I, I, well,|%
+A|the way I'd like to try and use it is, um, you, you, you make your purchases at, at prime buying time|sd
+B|Uh-huh.|b
+A|and then you pay that off and don't use it until, uh, it's paid off.|sd
+B|Uh-huh.|b
+A|That's, that's my ideal way|sd
+B|Uh-huh.|b
+B|How, how do you use it?|qw
+A|Emergencies come along,|sd
+A|and I and I use it.|sd
+B|Yeah|b
+B|that's understandable, exactly.|ba
+A|Uh, like, uh, my car, uh, had a major problem, and seven hundred dollars,|sd
+B|Uh-huh.|b
+A|and uh, things just come up|sd
+B|Right,|b
+B|right.|b
+A|and you just never get to use it the way you'd really like to.|sv
+B|Uh-huh,|aa
+B|uh-huh.|aa
+B|Well, actually I do have quite a few more credit cards than you have|sd
+B|Um, and I use them, you know,|sd
+B|like my American Express I use for, you know, gas, things like that,|sd
+B|and I pay that off monthly,|sd
+B|and then, um, some other credit cards, like store credit cards, you know, I do have them up there a little bit,|sd
+B|but, uh.|%
+A|Uh-huh.|b
+B|I try not to use them too often.|sd
+B|But living in this area, uh, like I live fifteen miles west of Washington, D C|sd
+A|Um.|b
+B|it's a very expensive area|sd
+A|Yeah.|b
+B|So, sometimes you have no other choice if you need to buy something.|sv
+A|Yeah.|aa
+A|Well, I, I know I was up in there and a lot of credit cards,|sd
+A|and I was just starting to get to where it was getting me in trouble|sd
+B|Right.|b
+A|so we just disposed of them, paid them off, and got out of it.|sd
+B|Uh-huh.|b
+A|I just.|%
+B|Uh-huh,|b
+B|well that was good that you had the opportunity to do that.|sv
+A|Yeah.|b
+B|Uh-huh.|b
+B|Now are you married, that you both, you and your wife use a credit card,|qy
+B|or?|%
+A|Yeah,|ny
+A|yeah.|ny
+B|Uh-huh.|b
+A|Well, now we pretty much just pay cash for as much as we can there.|sd
+B|Uh-huh. Um.|b
+B|Uh-huh.|b
+A|Our, our only credit card is Sears,|sd
+A|so and I have that for automotive purposes.|sd
+B|Uh-huh, um.|b
+B|Right,|b
+B|right.|b
+B|Well, well that's great.|ba
+B|Um, everyone I know here uses, um, credit cards like they're going out of business to be honest with you.|sd
+A|Yeah.|b
+A|Yeah,|b
+A|it's, it's just too easy, basically, uh, just get yourself in trouble with those.|sv
+B|Yeah,|aa
+B|yeah.|aa
+B|Yeah,|aa
+B|the only other one I have,|sd
+B|I have like a Diner's Club through my, um, where I work|sd
+A|I see.|b
+B|so that I use, because I travel some.|sd
+B|So I use that,|sd
+B|and I don't really have to worry about that, because I only use it for business,|sd
+B|so I automatically have the money to pay it off.|sd
+A|Yeah.|b
+B|But. Um.|%
+A|Uh, I wouldn't mind, uh, you know, getting back into one if they would, you know,|sd
+A|you start out at a low limit,|sv
+A|and then they just keep wanting you to increase your limit|sv
+B|Uh-huh.|b
+A|and, and if I can get one that'll keep my limit at five hundred and I can never go over that or something like that, then that's fine,|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|but they|%
+A|eventually gets up there to five thousand, ten thousand, whatever fifty thousand|sv
+B|Uh-huh.|b
+B|Yeah.|b
+A|forget it,|ba
+A|I don't want that.|sd
+B|Um, the temptation's too great.|sv
+A|Yeah.|b
+B|Um.|b
+A|So, I don't know,|h
+A|just, uh,|%
+A|writing checks is just as easy I guess.|sv
+B|Yeah,|aa
+B|that's true,|aa
+B|that's true,|aa
+B|but. So, I guess, uh, we've kind of exhausted this, uh, topic|fc
+A|Yeah,|fc
+A|well, really,|%
+A|what, what can you.|%
+B|Yeah,|fc
+B|you can't say too much about it really.|fc
+A|Other than, you use them or you don't use them.|fc
+A|You like them|fc
+A|or you don't like them.|fc
+A|So.|%
+B|Uh-huh.|fc
+A|I guess, uh, they don't care if we end it early.|fc
+A|So, uh, hopefully, uh, you have a good Thanksgiving.|fc
+A|That's coming up,|fc
+A|and. And, then, uh, maybe we'll talk again.|fc
+B|Okay,|fc
+B|you, too.|fc
+B|Yeah,|fc
+B|may be,|fc
+B|you're the furthest person, actually, that I've talked.|sv
+B|I've talked to a lot of people in Texas.|fc
+A|Yeah.|fc
+B|Yeah.|fc
+A|Texas is the big one.|fc
+B|Yeah,|fc
+B|so.|%
+A|Okay, then.|fc
+A|Well,  bye now.|fc
+B|okay,|fc
+B|bye-bye.|fc

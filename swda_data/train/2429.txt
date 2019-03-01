@@ -1,0 +1,235 @@
+A|Well, what would you have at a dinner party?|qw
+B|Well, uh, lately, since I have children I've cut down on having dinner parties|sd
+A|Uh-huh.|b
+B|but when I do I try to keep it pretty simple on things that I can prepare ahead of time|sd
+B|uh, I have one recipe for, uh, a really good, um, type of a meatball.|sd
+B|It's called burgundy meatball|sd
+B|and it's made with red wine and,|sd
+A|Oh, gosh, that sounds great.|ba
+B|um|%
+B|It's, it's really good|sd
+B|and you can make it ahead of time and then, um, make the sauce when you're ready to, um, to serve it.|sd
+A|Uh-huh.|b
+B|That's one of my favorite things to, to serve.|sd
+A|Well, um, I think it would probably depend on whether this was a formal or a informal dinner party.|sv
+B|Sure.|aa
+A|But if it was informal, my first choice would be crawfish.|sd
+B|Oh, really.|b
+B|Well, I guess being from that part of the country.|sd
+A|Because, I mean, crawfish, everybody over here likes crawfish|sd
+A|but you know, I, I wouldn't have to worry about satisfying my guest.|sd
+B|Uh-huh.|b
+A|But if it was a formal dinner party I would probably think of something else like, uh,|sd
+A|shrimp, shrimp fettucini is real easy to, um, make and everything|sd
+B|Yeah.|b
+A|and it's usually well liked by people, I guess,|sv
+A|I'm just a seafood fan|sd
+A|so, I think on the lines of,|sd
+B|Well, how do, make, how do you, you cook crawfish?|qw
+B|I, in fact, I just came back from the grocery store|sd
+B|and being in Texas we don't have too many, you know, people that, that eat crawfish|sd
+B|but they had live crawfish, on sale.|sd
+A|Oh, yeah,|ba
+A|um, you're not supposed to, I mean, you're not supposed to eat them dead.|sd
+A|I mean, well, you eat them dead|ar
+B|Uh-huh.|b
+A|but,|%
+B|Don't buy them that way|^2
+A|Right.|aa
+A|Because if, if they are dead for too long,|sd
+A|you can always tell whenever they're cooked if they've been dead for a long time because their tail straightens out.|sd
+B|Uh-huh.|b
+A|And you're not supposed to eat those because they're bad for you.|sd
+B|Okay.|b
+B|Well, I'll remember that.|oo_co_cc
+A|Yeah,|b
+A|so if you ever go in a restaurant, order crawfish,|ad
+A|I mean, every once in a while you'll see|sd
+A|I mean, it doesn't happen very often because it's just an accident|sd
+A|but if the tail is straight on it then, yeah, don't eat it.|sd
+B|Uh-huh.|b
+A|But, um, you just put some Cajun, well, lots of pepper|sd
+B|Uh-huh.|b
+A|and you just boil them|sd
+A|and they're absolutely wonderful|sv
+A|but there's, uh, they're a pain to peel for some people.|sd
+A|Once you get used to it they're real easy|sv
+A|but, um, you know, if you have nails or anything you can plan on those being shot.|sv
+B|Huh. When you were, um, when you serve it do you shell them and then serve em too?|qy
+A|I think for a dinner party|sd
+A|I, I don't know|h
+A|it depends.|sd
+B|Um-hum.|b
+A|Like if, like my age, if there was a bunch of college kids coming over for a dinner party, no, I, they would shell their own,|sd
+B|Sure.|b
+A|you know, we'd just have crawfish and beer or something|sd
+A|but, um, if it was more formal like if I was, you know, working environment then I would probably, um, shell 'em or at least disconnect them from the head|sd
+A|But there's a, There's a, big thing over here that everybody sucks the head.|sd
+B|Still have see that. *slash error Ooh *slash error should be 'ba'|fo_o_fw_"_by_bc
+A|So, um it, it would just depend.|sd
+A|That's the best part of the crawfish.|sv
+A|Sucking the head|sv
+A|But um I don't know|h
+A|it it just depends on what type it was I guess|sd
+A|But you can buy uh the crawfish shells already peeled 'n everything|sd
+A|And usually you use those like for frying or to put in salads or to um You know make a sauce with or something like that|sd
+B|Um-hum|b
+A|But you can go ahead and buy 'em cooked and shelled|sd
+A|and they're more expensive of course|sd
+A|but|%
+B|Does it taste a lot like shrimp|qy
+A|Um Yeah|ny
+B|Uh-huh.|b
+B|Yeah.|b
+A|Just um The crawfish I mean it just has a taste of its own|sd
+A|It also depends on who's cooking it and how much seasoning they use stuff like that|sd
+B|Sure|b
+A|but um I think that|%
+A|And also to get totally off the subject of crawfish lots of vegetables and hors d'oeuvres and stuff like that for a dinner party I think that that really helps|sv
+B|Yeah.|b
+B|We have a a friend another couple where the husband is the one who cooks all the time|sd
+B|And|%
+A|That's what I need|sd
+B|Yeah|aa
+B|that's what I wish I had|sd
+B|but in our family I am the one who who cooks|sd
+B|And I I really enjoy it|sd
+B|it's gotten a little more difficult with kids|sd
+B|But I really do enjoy cooking|sd
+B|And we um we have them over for dinner back and forth quite a lot|sd
+A|Uh-huh|b
+B|And before I had my second child we sort of had a contest going where you know he would cook and then the next time it would be my turn and I'd try to outdo him and then he'd try to outdo me|sd
+A|Oh!|ba
+B|and we we|%
+B|was really a lot of fun|sd
+A|I bet|ba
+B|and|%
+A|that that got pretty competitive you know as far as who could come up with the best recipe|bf
+B|Yeah|b
+B|it did|aa
+B|we we tried to be fancier or more courses than the other|sd
+A|That would be fun|sv
+B|or|%
+B|Uh it was a lot of fun you know|sd
+B|it something unique you know|sd
+B|and then we got into different um themes you know um whether it would be ethnic food Or um sometimes it would be um oh Oh I don't know maybe an outdoor theme or uh elegant theme or you know|sd
+A|Uh huh|b
+B|It was a lot of fun|sd
+A|Sometimes it might be the candlelight|bf
+A|and sometimes it might be the picnic out back or something|bf
+B|That's right|aa
+A|Well that's you know that's fun|ba
+B|it was fun|sd
+B|and and we threatened to make the other two uh make us dinner one time Uh Just to even it out since we seemed to be unfairly doing all the cooking and they were doing all the enjoying|sd
+A|Uh huh|b
+A|That sounds right I would I'd take him up on that|sv
+B|I'm|%
+B|It does|aa
+B|except that knowing them they would probably do something ridiculous and terrible just just to uh make sure that they didn't have to do it again|sd
+A|Uh huh|b
+A|I'd be|%
+B|make hot dogs or some potato chips|sd
+A|I that's about how much I can cook You know|sd
+A|I'm I'm doing a lot more cooking now than I used to|sd
+B|Uh-huh|b
+A|but that's only because my mom just started working|sd
+A|so she's tired when she comes home in the afternoon|sd
+A|so I try to have things cooked for her|sd
+A|but uh um I usually try to stay out of kitchen|sd
+B|Oh that's nice|ba
+A|I don't know|h
+A|not one of my favorite hobbies|sd
+B|It can it can be fun I if you have the time|sv
+B|But you know a lot of times it's too much of a rush really be able to enjoy it able to|sv
+A|Well um my grandma speaking of those meatballs again she owned every Christmas and and Easter|sd
+A|whenever we have at the big get-together over at her house she makes this meat ball sauce|sd
+A|and it has|%
+A|I don't know|h
+A|they are just kind of like quarter size meatballs|sd
+A|and they are absolutely delicious|sd
+B|Uh-huh|b
+A|I don't know what she calls them in|sd
+A|I don't I'm sure she puts wine in it because um she cooks everything with alcohol|sd
+A|But|%
+A|um|%
+A|I don't know|h
+A|I would I would be interested in getting that recipe for you if you have it around|sd
+B|Yeah|aa
+B|it's um it's in the other room|sd
+B|I don't know if we have enough time for it|sd
+A|Oh|b
+B|it's real easy|sd
+B|one of the unique things in this it's like a pound of ground beef some bread crumbs um an egg um whatever seasonings|sd
+B|you can just light|ad
+A|Yeah|b
+B|so salt and pepper Um and chopped up water chestnuts which is something different um|sd
+A|Oh|b
+A|that would be wonderful|ba
+B|makes them a little bit crunchy|sd
+B|you need to chop em up real fine|ad
+A|Yeah|b
+B|But um it makes them crunchy|sd
+B|and that adds something new to it|sd
+B|And then the sauce is just made with um bouillion cubes water burgundy wine and um cornstarch instead of flour|sd
+A|Um-hum|b
+A|Oh|b
+B|So it's not a it's not a thick rich type of a sauce|sd
+B|it's more of a|sd
+B|when you use corn starch in in gravy like you know when you have um Chinese food|sd
+A|Um-hum|b
+B|And it gives it a bit of a different consistency|sd
+A|Well um how long do you cook the meatballs|qw
+B|The meatballs you just um after you form them fry them in a pan until they're uh browned on all all sides|ad
+A|Uh huh|b
+B|and then drain off all the grease|ad
+B|Uh then what I usually do is I freeze them|sd
+B|And then when you're ready to serve them then you cook the sauce and then put the meatballs into the sauce And heat it|ad
+A|Oh|b
+A|yeah|b
+B|probably you have to heat it up for a good oh|ad
+B|if they're frozen you know it may take a half for them to thaw out|sd
+B|But then heat them thoroughly in the sauce itself|ad
+B|Let them simmer in the sauce itself|ad
+A|Hum|%
+B|and it's real good|sd
+A|That sounds great|ba
+A|Especially I mean the fact that you can prepare the meatballs so so far in advance|sd
+B|Right.|b
+A|I mean like if if you are having a dinner party on Wednesday night you could do it on a weekend|bf
+B|And then freeze them|^2
+B|Sure|aa
+A|That would be great|sv
+A|I think I'm going to have to keep that in mind for my future because I hope to have to have lots of dinner parties Cause I like to|sd
+A|I mean um Um I'm sure that I'll be involved in a big company|sd
+A|and I know that my future husband will be You know|sd
+A|He's going to be working for Chevron in Houston|sd
+B|Uh-huh.|b
+A|so he's going to be|sd
+A|Um You know I'm sure that dinner parties will come in handy|sv
+B|Yeah|aa
+B|you'll meet friends|sv
+B|invite invite the boss over and and friends at work|ad
+A|Oh yeah|b
+A|I have to impress the boss and clients cause Um I'm in I'm in public relations in school|sd
+B|Uh-huh.|b
+A|so I'm going to have You know my whole job's going to be based on my clients 'n stuff like that|sd
+A|so I'm going to have lots of dinner parties|sd
+B|Sure.|b
+A|And have to take 'em out to eat|sd
+A|Right now I'm taking a class on ettiquesy * Did she really say "ettiquesy"??|sd
+A|and all the little bitty things that I didn't even know|sd
+B|Oh|b
+B|really|b
+A|I mean I thought for sure I'd been raised properly|sd
+A|but I've been doing a lot of things wrong I didn't know about|sd
+A|but um So Is there anything else|qy
+B|Well I I think we've covered the subject|sv
+B|I got some interesting information about crawfish|sd
+B|I was in fact|%
+B|It's good cause I was curious about that today when I saw those for sale|sd
+A|Oh|b
+A|yes|b
+A|you need to try em|ad
+A|Oh they're wonderful.|sv
+B|Oh I will|oo_co_cc
+B|I'm sure my husband will be surprised, 'cause we were talking about them the other day before|sd

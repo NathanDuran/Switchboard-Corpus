@@ -1,0 +1,293 @@
+A|Oh, go ahead|ad
+A|I, I am glad to talk to an expert.|sd
+A|I always wanted to know who an expert was.|sd
+B|Oh, well, I'm not an expert,|sd
+B|I just had a little, I've, I've seen a little pollution in my time.|sd
+B|It's, uh,|%
+B|the, the chemicals we were dealing with were, uh, a Raid repellent|sd
+B|and, uh, that was really quite dangerous,|sd
+B|I'm not certain that that was,|sd
+B|that, that's really a pollution issue.|sd
+B|I think pollution issue is, is, uh, is, is the argument over, over people catching, uh, things like, uh, respiratory disease.|sd
+A|Uh, well, there, there's two things, uh,|sd
+A|the one I'm interested the most, I guess, myself, uh, would be the, the Freons I mean , for air|sd
+A|the one, I guess, that's the one I'm most curious about is how they're going to replace the Freons in air-conditioning.|sd
+A|That seemed to be the biggest surprise to me|sd
+A|and whether,|%
+A|when they replace it, you know, they're going to really come up with something that is not just as bad.|sd
+B|Well, the, you know,|%
+B|that, that's another arguable issue|sv
+B|and I, I've seen the, uh, uh, uh,|sd
+B|assuming you can buy into global warming I|sv
+A|Yeah,|b
+A|I, uh, was, uh, you know,|%
+A|where they were all concerned about that,|sd
+A|but that, that it seems to be,|sd
+B|Well, did you see Carl Sagan on SIXTY MINUTES on, uh, when he was talking about when if, if the, if the war started in, in Kuwait and they'd set those, uh, all|qy
+A|No,|nn
+A|I heard about it though.|sd
+B|uh, it was, it was, it was interesting|sd
+B|but, uh, I'm just curious what he has to say now that they've got them all lit.|sd
+A|Was that before,|qy
+A|I didn't see it,|sd
+A|was that before they actually did that|qy
+A|or it was|qrr
+B|Yes.|ny
+B|And his argument was, uh, was that, that you would see a, uh, a year with no summer.  Which actually happened.|sd
+A|Because of that,  you know.|^2
+B|And it, it|%
+B|yes,|b
+B|it actually happened,|sd
+B|uh, it was a volcano erupted|sd
+B|and it was high enough up|sd
+B|but, uh, they had some people from the national meteorological center I think it was which is the national, anyway, research people|sd
+B|and they said that the, uh, that the pollution would not go high enough.|sd
+B|And it's going to be interesting to see if Carl Sagan and his billions and  billions of stars,  may have once made a mistake,|sd
+A|Right.|b
+B|but the, the the general, the opinion among, among the, uh, meteorologists at, uh,|sd
+B|I'm, uh, member of the American Meteorological Society,|sd
+B|and|%
+A|Are you|qy
+A|you didn't work at T I?|qy^d
+B|Yeah,|ny
+B|I do.|sd
+A|Oh, okay.|bk
+B|But I'm, uh, I, I did that in my .|sd
+A|Where do you work in research,|qy
+A|or|%
+B|No, I'm a planner, a production planner.|ng
+A|Oh, okay.|bk
+B|But I, I, I'm in the active reserves as a weatherman,|sd
+B|so.|%
+A|Oh,  okay,|bk
+A|yeah.|b
+B|Uh,  I, I keep up from time to time,|sd
+B|but what the, the argument is that, uh, that, uh, maybe there isn't global warming and maybe there is.|sd
+B|But, um, if there is, uh, we probably could do something about it now,|sd
+A|Yeah.|b
+B|and if there isn't, if there isn't and we do some the right things, I think,|sd
+B|how do you feel about, about all this smog and stuff on cars.|qo
+A|Uh, well, I'm kind of a car buff myself,|sd
+A|I was going to ask you another question,|sd
+A|but, uh, I'll do that in a minute.|sd
+A|I, I think that the changing, you know, from leaded fuel was a tremendous advantage,  you know, not using  ...|sv
+B|Well, do you have an  older car?|qy
+A|No,|nn
+A|no,|nn
+A|no.|nn
+B|I, I have been working on an older car|sd
+B|but it|%
+B|yeah.|%
+A|Really?|bh
+A|Oh, I'm a car  buff too,|sd
+A|we ought to talk about that one day, uh, uh,|ad
+B|Well, I'm restoring one.|sd
+A|I think you can use the, you can use high, you know, the ninety-two percent, uh, ninety-two octane I don't think you'll have any trouble.|sd
+B|I'm not having any problem it's a seventy.|sd
+A|Oh, yeah.|b
+A|Yeah.|b
+B|And the.|%
+A|No,|fo_o_fw_"_by_bc
+A|I, I think, uh,|%
+A|I, uh, work on my own cars|sd
+A|and, uh, I don't think that's a problem.|sd
+A|I thought,|%
+A|I'm saying, I was glad to get rid of leaded gasoline,|sd
+A|'n.|%
+B|But did you have another|qy
+B|you said you had another|sd
+A|Uh, oh,|%
+A|the same thing about the war, uh, or related to the war on,|na
+A|I was watching C N N|sd
+A|and I cannot remember what station it was,|sd
+A|what,|%
+A|did you see the advertisements, uh, where they talked about nuclear war, what that would have been like in changing the atmosphere,|qy
+A|it is so scary that I hope that every one of the government officials saw that because it was just total disaster, you know.|sv
+B|Uh,|%
+A|Did you see any of those, uh, I,|qy
+A|it was,|%
+B|No,|nn
+B|I didn't see that , that,|sd
+B|I know that the, uh,|%
+B|that's ...|%
+A|It must have been channel thirteen,|sd
+A|I don't recall,|sd
+A|although, I thought it was on C N N, oh,|sd
+A|I,|%
+B|Well, that,|%
+B|they called nuclear winner|sd
+B|and, and I suppose that's, that's the ultimate, uh, pollution problem.|sv
+A|It was a somewhat of a commercial because it I saw it regularly|sd
+A|and it showed that|sd
+A|and it was really devastating|sd
+A|and, it would, uh ,|%
+B|Well it,|%
+A|how much  ash would fall|sd
+A|and, and how it would essentially literally destroy the world, you know.|sd
+B|Well, the Chernobyl accident, uh,|sd
+B|actually, um, because the circulation budget as high as it went, uh, covered, uh, a fairly remarkable amount|sd
+B|they did some tracers|sd
+B|and they|%
+B|I, I think it's drawn in, uh,|sv
+B|I think, gets in there|sv
+B|I can't think of the other trace,|^h
+B|but I saw a, a presentation on, on that|sd
+B|and they,|%
+B|it went quite a long ways but I, I, I guess I can be a little sympathetic|sv
+B|but, you know, there's some argument that in, in, in the blue grass of Kentucky that the Smoky Mountains that that's the, uh, the pine trees giving off pollution|sd
+B|and,|%
+A|Oh, really,|b
+A|yeah,|b
+A|there, there's probably a lot of natural things, uh,|sv
+B|But the,|%
+B|but when you when you get up in the morning in, in Dallas and, and see all that haze from west Texas, is that, is that pollution?|sv
+A|Yeah.|b
+A|Uh, it,|%
+A|I guess it's got to be really,|sv
+A|I don't know,|h
+A|I don't know if it's air pollution it's, uh, it's dust pollution whether it's natural or not I don't know.|sd
+B|Well, it,|%
+B|that's the thing is that I think, I think Dallas really does have a problem in this,|sv
+B|the idea if we could get some cleaner fuel, burning fuel,|sv
+B|the problem is, is it's like Los Angeles.|sv
+B|People don't, people don't want to use mass transit,|sv
+B|so.|%
+A|Yeah.|b
+A|Oh, yeah,|b
+A|well, I live in Arlington|sd
+A|and there, there, there are no buses.|sd
+A|I mean, there, there is,|sd
+A|the only school bus, the only buses you see are school buses,|sd
+A|so.|%
+B|But who wants to, who wants to, um, ride a bus?|qh
+A|Well, I know it, it's, uh, you know,|%
+A|the car is,|%
+A|we have this big romance with the car,|sd
+A|but, uh, I think people are, would be interested if you had one, I mean.|sd
+B|Well, my boss drives forty miles one way each day.|sd
+A|Yeah.|b
+B|And one of the guys that works with me drives forty-five miles.|sd
+A|Yeah.|b
+B|And, and they don't think it,|sd
+B|well, I guess they do think something of it|sv
+B|but, um, not even to, you know,|%
+B|you consider how much, um,|sv
+B|but then you get into all these issues of, of whether it, it's the types of pollution and what it's doing to your lungs|sd
+B|and, are we going to die of, of respiratory,|sd
+A|Yeah.|b
+B|so, we all move out of the, out of downtown|sd
+B|so we get away from the, the smog.|sd
+B|My, my wife grew up in southern California|sd
+B|and they moved out to the valley before Los Angeles, uh, when the valley was clean.|sd
+A|Yeah.|b
+B|And now the valley is not|sd
+B|and so people move out one more valley and, General Motors apparently has one that they're, they're testing,|sd
+A|Well, you said you were car buff, uh,|sd
+A|I think that, uh, all of us could use one electric car right now, I mean, today, because I think, uh, you said people drive forty miles and fifty whatever,|sv
+A|yeah,|b
+A|when you go to trips and all you can have one gasoline car|sd
+A|but I think we all could, in a family, say, have an electric car where my, one of my daughters or my wife, my wife, she could use one now if they had one, you know, because they, she don't even, she doesn't put fifty miles a day on the car.|sd
+B|I think it's, no, it's alcohol vehicles that they're testing .|sd
+A|No,|aa
+A|no,|aa
+A|you're right.|sv
+A|I, I have seen them|sd
+A|but, uh, they have a battery car.|sd
+B|But they  suppose,|sd
+A|Uh,  I went to the auto show this past week|sd
+A|and they did not endorse,|sd
+A|now that I think of it,|sd
+A|and I was so interested in the auto show I didn't think to ask anybody,|sd
+A|there were no electric cars.|sd
+A|I was surprised|sd
+A|but now that you just mentioned that.|sd
+B|Huh.|%
+B|Well, the ROAD and TRACK was talking about that this, apparently General Motors has some, uh,|sd
+B|they apparently think they're close.|sd
+A|Yeah.|b
+A|I, I think, uh, there could be a lot of|sv
+A|I|%
+A|people close this is really,|sv
+A|we're, we're nine years away or less, I guess, from the next century and I think,|sd
+B|Well, there's still a lot of research,|sd
+B|I was over in, in the research lab a couple, I guess, it's been about a month ago|sd
+B|and saw this, research it was a little light that says solar, solar powered research.|sd
+A|Yeah,|b
+A|they've got a, they've got a area over in, the S M building too which is, uh,|sd
+A|but it's a solar, uh,|sd
+A|it's for, uh,|sd
+A|gots some money from a power company|sd
+A|and it's probably more generating power for, you know, uh, electricity, a hundred and twenty volt or whatever.|sd
+B|Yeah.|b
+B|Well, do you work in that C building?|qy
+A|No,|nn
+A|I'm actually in the south building|sd
+A|but, uh,|%
+B|Oh, I'm at ,|sd
+A|I was, uh, I'm the facility|sd
+A|so I've been in all, most of the buildings anyway.|sd
+B|Oh, well, I'm in, I'm in the C building,|sd
+B|been there for,  all my life.|sd
+A|Oh, yeah,|b
+A|well,  the, the solar area is right, right around from the auditorium now.|sd
+A|And it,|%
+A|they've got several different, uh, areas where they're called solar lab.|sd
+A|It's, right there on the first floor you look, walk by there.|sd
+B|Huh.|b
+B|Well, that's been a|%
+B|I know the focal plain array is they were taking space to, a long time.|sd
+A|Yeah,|b
+A|but the solar project, you know, T I's been into it for years,|sd
+A|and I guess it's just not, uh, economical yet because of the other fuels.|sd
+B|Well, the problem is that gas at a dollar a gallon, you know, who wants to,|sv
+B|yeah,|b
+B|I mean, we want to not pollute,|sv
+B|but, uh, at a dollar a gallon, uh, it's hard to beat, the amount of energy you get from, uh,|sv
+A|Yeah.|b
+A|I've seen some.|sd
+A|I think|%
+A|then again I'm surprised now I didn't think they'd asked anybody when I was in the auto show.|sd
+A|There was nothing, uh,|sd
+A|and there was no, place for air pollution or companies or anyone there.|sd
+A|It was just pure automobiles.|sd
+B|Well, I thought I saw an ad for Volkswagen that had an alcohol,|sd
+A|There?|qy
+B|they had one with spots on it and something.|sd
+A|Huh.|%
+B|I didn't go|ng
+B|but|%
+B|it was showing they,|%
+B|I mean, uh,|%
+A|I didn't see,|sd
+B|an article.|sd
+A|did you go?|qy
+B|No,|nn
+B|I didn't,|sd
+A|Oh.|bk
+B|I didn't go,|sd
+B|so. I|%
+A|Uh, I was, uh, quite impressed with all the cars, you know,|sd
+A|the engines are so much smaller now and everything|sd
+A|and they're, they all have brand new engines, even General Motors, uh,|sd
+A|very few|sd
+A|only the Caprice and them and the Cadillac had eight, uh, the old V-eights,|sd
+A|they're all brand new engines,|sd
+A|uh, of course, they're burning gasoline, of course.|sd
+B|They've done a lot.|sd
+A|Yeah,|b
+A|and, uh, whether, you know,|%
+A|that's one way, you know, uh, uh,|%
+A|on air pollution I, I, I don't know if the automobiles are the biggest contributor or not really.|sv
+A|They've got catalytic converters,|sd
+A|everyone seem to have gone to that, whether they last, uh, and do a good job|sd
+A|and now that they, the inspection systems are analyzing that, uh,|sd
+A|well, what do you think if you're in that, you know, if you're concerned about that,|qo
+B|Well,|%
+A|I mean, if you're, you're, you're knowledgeable on that.|qw^d
+B|Well, they, uh,|%
+B|it's interesting though because my cars are older|sd
+B|and so I didn't have to,|sd
+B|if you live in Dallas County you have to have your, have to have it checked|sd
+B|and it's ,|%
+B|I had a friend with a Fiero that, uh, they tried and tried and tried and had all kinds of terrible getting that pinned|sd
+B|and, so, apparently ...|%

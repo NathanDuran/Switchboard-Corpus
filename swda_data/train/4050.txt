@@ -1,0 +1,135 @@
+B|Hello.|fo_o_fw_"_by_bc
+A|I pressed the button one,|sd
+A|so we're recording right now.|sd
+A|I'm sorry|fa
+B|That's okay.|bd
+B|I'm Bill from Raleigh.|sd
+A|Okay,|b
+A|and I'm Melanie from Harrisville, Utah.|sd
+B|Oh, another one from a different state besides Texas.|sd
+A|Yeah.|b
+A|Um, okay,|b
+A|Bill, we're talking about family reunions.|sd
+B|Right.|b
+A|Okay, um,|fo_o_fw_"_by_bc
+A|have you ever had to plan a family reunion?|qy
+B|Uh, yes|ny
+B|and no,|nn
+B|it wasn't really a a planning one,|sd
+B|but it was kind of, uh, it was a birthday|sd
+A|Oh.|bk
+B|and I brought a lot of family together then.|sd
+A|Uh-huh.|bk
+A|And how did you feel it went?|qo
+B|It went pretty good.|sd
+B|I'm, I've worked in hotels,|sd
+B|so I, I kind of know how to do these things.|sd
+A|Oh.|bk
+B|I used to, you know.|sd
+A|All this planning and, and getting together and such.|qy^d
+A|Um, oh, let's see what else.|^h
+B|Usually when we have kind of our family reunion it's my grandmother's birthday,|sd
+B|and and it's all of like, she, she comes from a big family.|sd
+A|Uh-huh.|b
+B|She has like seven sisters I think.|sd
+A|Oh, boy|ba
+B|They show up and all their kids.|sd
+B|And then all, she has, uh,|%
+B|I have like, uh,|%
+B|let's see,|^h
+B|she has four sons and two daughters,|sd
+B|and they show up and all their kids,|sd
+A|Uh-huh.|b
+B|so it's a pretty big reunion,|sd
+B|it's about two hundred people, maybe.|sd
+A|Oh, my word.|ba
+A|Well, what did you find was most helpful in planning the birthday get together?|qo
+B|Um, the, probably the biggest challenge was getting a place where everyone, you know, could eat comfortably and, and everything, uh.|sd
+A|Uh-huh.|bk
+B|I guess probably the most helpful thing was that, um, for the rent, we rented like a, a rescue squad building or something like that.|sd
+A|Oh.|bk
+A|Uh-huh.|bk
+B|And, uh, each one of the, everybody that showed up donated some money for the rent and for, for like soft drinks|sd
+B|and and so nobody like really got stuck with the bill.|sd
+A|Oh.|bk
+A|Oh, that's good.|ba
+B|And each person in the family, you know, brought a dish, or something.|sd
+A|Uh-huh,|bk
+A|and then did you have a main meal,|qy
+A|or did everyone just bring,|%
+A|it  was just pot luck.|qy^d
+B|It was kind of  pot luck.|na
+A|Uh-huh.|b
+B|You know, everybody brought their specialties, I guess you would say.|sd
+A|Yeah,|b
+A|yeah,|b
+A|show off a little bit|qy^d
+B|Yeah.|ny
+B|And of course my grandmother's food was, as always, gone first because she's such a great cook.|sd
+A|Oh.|bk
+A|Oh.|bk
+A|Now how old is she?|qw
+B|Uh, she's eighty-six.|sd
+A|Oh, goodness.|ba
+A|Is she pretty spry, is she, you know, pretty.|qy
+B|Now she does,|%
+B|she looks probably like she's in her early sixties|na
+A|Oh, wow.|ba
+B|and if she didn't have arthritis, she'd get around better than me as a matter of fact|sd
+A|Uh-huh.|b
+A|Oh.|bk
+A|Oh, that's neat, that she's in good health, and that, at that age.|ba
+A|Yeah.|%
+B|Oh, yeah.|b^m
+B|My nickname for her is Honey Woman.|sd
+B|That's what I call her.|sd
+A|Really.|b
+A|Well that sounds fun.|ba
+A|Well, I I had a real challenge of planning a family reunion a few years ago,|sd
+A|and there were,|%
+A|we sent out five hundred, uh, announcements, because our family is quite large, like your, your family there.|sd
+A|And so that was a real challenge,|sd
+A|and I was president of our family reunion for two years,|sd
+A|and I wasn't very at that duty, for two years in a row,|sd
+A|but I found that advance planning was the key to success.|sd
+B|Uh, also one thing that's helpful,|sv
+B|and I don't know if your family's spread out or whatever|qy^d
+A|Uh-huh.|ny
+B|but most of, all my family lives like in the same county|sd
+B|so|%
+A|Oh, that's wonderful, though|ba
+B|But it's just kind of like get on the telephone|ad
+B|and, it's so and such days from such and such date|^q
+A|Oh.|b
+B|and everybody just shows up.|sv
+A|Oh, well, that is, that is helpful.|aa
+A|Yeah,|%
+A|our family ranges from, oh, goodness, well, Australia,|sd
+A|I have a brother lives in Australia, to, uh, Boise, Idaho, and, and, uh, all kinds of places.|sd
+B|I would say you're spread out, then.|sv
+A|We are|aa
+B|Uh, my immediate family, you know, my, my parents and my brothers and sisters, I guess we're the ones that have the gypsy blood or whatever,|sd
+B|because my dad was in the Army|sd
+B|and we're we're pretty strung out all over.|sd
+A|Oh.|b
+B|But since they've moved back to Carolinas, we still are the only ones do not live in in Yantsen County.|sd
+A|In.|%
+A|Oh.|b
+B|I live in Raleigh,|sd
+B|and then my, my parents live in Greenville,|sd
+B|and I have one brother and his wife live in Greenville, and, uh, another brother that lives in, outside of Fayetteville.|sd
+A|Uh-huh.|b
+B|So I mean, we're, we're spread out,|sd
+B|but everybody else is centralized in, in, my home town, Waynesboro|sd
+A|Boy.|ba
+B|so.|%
+A|Oh, my gosh.|ba
+B|Nobody moves away except us|sd
+A|They must really like it there.|qy^d
+B|Yeah,|ny
+B|I got out as soon as I graduated.|sd
+A|Yeah.|b
+A|Oh.|b
+B|Just like this town is too small for me,|sd
+B|Good-bye.|^q
+A|Oh, you're ready to move on to|qy^d

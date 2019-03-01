@@ -1,0 +1,216 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|What, uh, go ahead and tell me about your home|ad
+B|Well, my home at the moment is an apartment.|sd
+A|Oh, is that right?|bh
+B|Yeah|ny
+B|I work here in Germantown,|sd
+B|but I live in Pensacola, Florida.|sd
+A|Oh, that's interesting.|ba
+B|So, I own a home in Pensacola,|sd
+B|and, uh, let's see,|^h
+B|we are to compare homes. Correct?|qy
+A|Okay.|b
+A|Yeah.|ny
+B|Uh, my home is, well, is typical for the area.|sd
+B|I live in a development, uh,|sd
+B|it's a relatively, I would say, well,|sd
+B|God, it sounds like, sounds like I'm bragging|sv
+A|No,|ar
+A|that's okay|bd
+B|But it's upper middle class, uh, kind of an environment.|sd
+A|Okay.|b
+B|It's a two story colonial, which my wife and I designed.|sd
+A|Oh, that's neat.|ba
+B|Uh, it has around thirty-two hundred square feet. Uh, five bedrooms and so forth and so on,|sd
+A|Wow, that's large|ba
+B|and it is, I would imagine in terms of, of size and so forth, it's relatively typical for the area.|sd
+B|It might be,|%
+B|I would say it's probably midsized for the area.|sd
+B|There are some smaller,|sd
+B|and there are, you know, several larger.|sd
+A|Uh-huh.|b
+B|And, uh, but based, you know, in terms of, you know, in, in Pensacola, in that area of Florida it, uh, it's what now,|sd
+B|it is, uh, probably ten years old.|sd
+A|Oh, well, that's not too bad,|ba
+B|Yeah.|b
+A|that's still fairly new.|ba
+B|And so it's,|%
+B|in terms of cost and, and, and size and so forth, it, uh,|sd
+B|the you know, housing there is extremely affordable, and, uh, compared to other parts of the country, you know,|sd
+B|let's say compared to Maryland that same house here would probably cost three-quarters of a million dollars|sd
+A|Well,|%
+B|but,|%
+A|Oh, you're kidding|bh
+A|Well, do you mind if I ask what it's worth down there,|qy
+A|I mean, what it's,|%
+B|I really haven't, I really haven't, uh,|%
+B|when we built it ten years ago, it was, it ran around a hundred and forty thousand dollars.|sd
+A|Okay.|bk
+B|So, I, I would have really, I haven't really priced, you know, in the market,|sd
+B|so I,|%
+A|It, it sounds like,|%
+A|I mean, from the way you described it a home like that here would be at least two hundred and fifty thousand|sd
+B|Uh-huh.|b
+A|I mean, Dallas is a very marked up area,|sd
+A|although right now it's a lot lower um, because of all the layoffs and everything|sd
+B|Uh-huh.|b
+A|the economy around here is real poor|sd
+B|I thought that was on the upswing again now.|qy^d
+A|Well, no,|nn
+A|not really|sd
+B|Uh-huh.|bk
+A|Um, the area itself, uh, the Fort Worth Dallas area, um, has become kind of depressed because there's been so many layoffs with big companies, including Texas Instruments|sd
+B|Yes.|b
+A|Um, there's been tremendous amounts of, of, uh, layoffs|sd
+A|so, really housing is real bad.|sd
+A|The economy itself around here is not too terribly bad,|sd
+A|but housing is still real bad|sd
+B|Uh-huh|b
+A|Yeah.|b
+B|Well,  Pensacola has|sd
+B|it's really is a buyer's market there now|sd
+A|Yeah.|b
+A|This is,|%
+B|And it isn't because of the, well,|sd
+B|there has been a lot of speculative building. Uh, I don't know, perhaps not in Dallas,|sd
+A|Oh.|b
+B|but, uh, I'm sure people in, uh, you know, in, uh, Galveston and so forth would be knowledgeable about it, uh,|sd
+B|Pensacola is a Navy town.|sd
+A|Uh-huh.|b
+B|And home porting was a possibility a few years ago.|sd
+A|Oh.|b
+B|They were expecting an influx of something on the order of fifty thousand people or more from the Navy,|sd
+A|Wow.|ba
+B|a new carrier was coming in and, uh, the, uh, attendant, uh, support vessels.|sd
+B|Well, that's no longer, the case.|sd
+A|So, do you think,|qy
+A|it was overdeveloped then?|qy
+B|Oh, it's, it is.|na
+B|I mean, the, the number of single family units on sale is phenomenal compared to the population.|sd
+A|Wow.|ba
+B|And so|%
+B|overbuilding is, has been a real problem there.|sd
+A|Um.|b
+B|So you can still get a, get a, a good house for a very, very reasonable price.|sd
+B|And I mean good, I would,|%
+B|let's say typical, say three bedroom, uh, two and a half baths, on a half acre or so of land uh, reasonable construction would probably run you, uh, right now anywhere between, somewhere between a hundred and a hundred and forty thousand dollars. And probably, perhaps, cheaper, depending upon the neighborhood.|sd
+A|Um|b
+A|yeah.|b
+A|Yeah.|b
+B|What about your home?|qo
+A|Well, right now we're just renting,|sd
+A|but it is a home. Um,|sd
+B|Uh-huh.|bk
+A|it's a four bedroom home|sd
+A|It has about, I guess, eighteen hundred square feet|sd
+A|It's on one floor|sd
+B|Uh-huh.|bk
+A|Uh, we have no basement|sd
+A|I don't know,|h
+B|Nor do we,|sd
+B|but,|%
+A|Okay|b
+A|I wasn't sure.|sd
+A|Most of the ones, you know, up north and everything do,|sd
+A|but, um, anyway, it's, uh, it's pretty, also pretty typical for the area.|sd
+A|Most of this area was developed,|sd
+A|this house was built in seventy-four.|sd
+B|Uh-huh.|bk
+A|So most of the,|%
+A|it's almost twenty years old,|sd
+A|and most of the houses around here were built pretty much the same style|sd
+A|Uh, we have a friend that lives two blocks over,|sd
+A|and his house is almost identical to us, except his is three bedrooms and ours is four|sd
+B|Uh-huh.|bk
+A|but otherwise the layout is pretty much the same.|sd
+A|So I, I think most of them are|sd
+A|there was,|%
+A|it,|%
+A|like most areas that are built, um,|sd
+A|there were probably, like two or three styles you could choose from|sd
+B|Right.|bk
+A|And, and, uh, that's pretty much all the houses in the area, for probably a square mile, I'd say, at least, maybe even a little bit more than that.|sd
+B|Well, the housing here in Maryland is just atrocious. And in, in the entire D C area.|sd
+B|I'm, I'm only about, uh, twelve miles or so from the, uh, border of Washington D C, and Montgomery County,|sd
+B|Maryland is probably one of the most expensive, places to,|sv
+A|Where are you in relation to Sevren?|qw
+A|are you close to Sevren?|qy
+B|No,|nn
+B|we are west.|sd
+A|Okay.|bk
+B|Sevren is east, near the eastern shore,|sd
+A|Well, I just,|%
+B|if I had,|%
+A|I have a sister that used to live in Sevren.|sd
+B|Uh-huh.|b
+A|And they bought their home in I, I want to say like around nineteen seventy-five or something like that,|sd
+A|and they paid like,|sd
+A|they, they had it built from, you know,|sd
+A|they, they designed it and everything,|sd
+A|and to have it built they only paid forty thousand for it,|sd
+A|and when they left the area they sold it for a hundred and twenty thousand|sd
+B|Oh, that's not unusual, yeah.|ba
+A|Yeah,|b
+A|so I just wondered, you know, if the whole area was like that  or,|qy^d
+B|Well, that's, that area over there is not as expensive as in the, the immediate, you know, Washington area.|arp_nd
+A|Uh-huh.|b
+B|And so, we, uh, I was just looking,|sd
+B|for example there is a, uh, condominium complex next to the apartment complex where I live,|sd
+B|and I was over there recently looking at the possibility of buying a two bedroom condominium.|sd
+B|And ninety-two thousand dollars for a two bedroom, which is essentially a two bedroom apartment.|sd
+A|Um.|b
+B|Now, it was very nicely done.|sd
+A|Yeah.|b
+B|I would have thought ,|%
+A|Sounds like a lot of money though|qy^d
+B|Yes.|ny
+B|I, I can't, I can't envision spending that much money, and on, on something along those lines.|sd
+A|sure.|b
+A|Yeah.|b
+B|So, you know, it's,|%
+B|I guess you pay the piper|sv
+B|but, Plus the, the, the taxes around here are phenomenally, high.|sd
+A|Right.|b
+A|Oh, yeah.|b
+B|Uh, for the,|%
+B|and so, you, on that|%
+B|it's not unusual, for example, for somewhere around here on a, on a, on a,|sd
+B|what we would, you know, what you described as your house and what I would describe as my house|sd
+B|say, for example, in Pensacola, Florida, on that house with the homestead exemption and so forth and so on, might pay three or four hundred dollars a year taxes. maybe, you know, maybe a little bit higher than that now,|sd
+A|Wow.|ba
+A|Yeah.|b
+B|but that same house here, you'd pay almost six thousand dollars a year, taxes on it.|sd
+A|Wow|ba
+A|Wow, that's,|ba
+B|So, it's, uh, so, the question of whether to buy here or move to another county, say, drive twenty more miles north, buy a condominium for approximately, uh, the same price, maybe a little lower,|sd
+B|but the taxes would be, you know, perhaps, maybe one-third uh, of,|sd
+A|Really?|bh
+A|That much of a difference?|qy
+B|Oh, absolutely. Yeah,|na
+A|Wow.|ba
+B|so,|%
+B|it's, it's really sad|sd
+A|Yeah|b
+B|This is one, this is one of the most highly taxed areas in the country.|sd
+A|Wow.|ba
+A|Why is that?|qw
+A|Do you know?|qy
+A|I mean|%
+B|Well, they it, the, their, they do have an extremely good, such things as extremely good school systems, for example.|sd
+B|It has one of the best school systems in the country.|sd
+A|Uh-huh|b
+B|Uh, and because the cost of living around here is so high,|sd
+A|Oh.|bk
+B|public employees make great salaries around here|sd
+A|Oh|bk
+B|I was reading just recently where the typical administrator in the, Montgomery County Public Schools makes,|sd
+B|and I'm not,|%
+B|this is, uh, the figure,|sd
+B|he makes eighty thousand dollars a year.|sd
+A|My goodness|ba
+B|That's,|%
+A|Wow|ba
+B|and I,|%
+B|by administrator I, I think I mean,|sd
+B|I, they didn't, they did not define it,|sd
+B|but for example, a curriculum supervisor or principal or someone, you know, in that, uh, in that range.|sd

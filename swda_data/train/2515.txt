@@ -1,0 +1,193 @@
+A|Hi, Maureen.|fp
+A|How are you?|fp
+B|All right.|fp
+A|Well do you have a family budget?|qy
+B|No,|nn
+B|we probably should,|sd
+B|but we haven't.|sd
+B|So why don't you explain to me some good tips about what you've done, which you've found useful and workable.|ad
+A|Okay.|aa
+A|We do a few things,|sd
+A|and I have to say we're, my husband and I are both from financial backgrounds.|sd
+A|I, I'm an accountant.|sd
+B|Uh-huh.|b
+A|And, uh, he has an M B A,|sd
+A|so, uh, we were sort of, you know, keyed in on expenses and things like that.|sd
+A|So|%
+B|Um, okay.|b
+A|Um, coming from that background, what we pretty much do is we, in our household, as far as living expenses, we live on a cash budget.|sd
+A|Every month, my husband, uh, goes to the credit union and withdraws, you know, X amount of dollars for the month,|sd
+A|and then that money is used during that month.|sd
+A|We have a certain budget.|sd
+B|Uh-huh.|b
+A|Excuse me. For instance, I control all the household expenses, the groceries, uh, the haircuts, the gasoline for my car, any miscellaneous expenses, baby-sitting, things like that.|sd
+B|Uh-huh.|b
+A|And, uh, excuse me, if, uh, it comes the end of the month and I don't have any money, uh, we don't buy any more milk|sd
+B|Uh-huh|b
+A|But, uh, we've gotten pretty good at it,|sv
+A|we've been doing it a couple of years now.|sd
+B|Uh-huh.|b
+A|So, we, our budgets are realistic|sv
+A|and they are not so stringent and, you know to make us feel uncomfortable.|sv
+B|Hm.|%
+A|And I, I really try to stretch my, my dollars here and there, shopping, uh, at warehouses sometimes, like at Sam's and things like that.|sd
+B|Uh-huh.|b
+A|But, uh, we live, we live on, on a cash budget|sd
+A|and it, sometimes it's tight come the end of the month,|sd
+A|but generally, we always make it.|sd
+B|What do you do for the surprise things that you don't necessarily plan for,|qw
+B|the, you know are sometimes several hundred dollars, like, uh, tires for the car or car repair of some sort, or, like a, a dental bill or something that you're not prepared for?|qrr
+A|Right.|b
+A|Well, uh, most of our medical things, we don't, uh, have to worry about, because of insurance|sd
+A|and they're, they're relatively small.|sd
+A|Uh, we've been lucky.|sv
+A|In the past we didn't have that problem|sd
+A|but right now we don't.|sd
+A|For the other things, the things that crop up, that we aren't really expecting, we have different funds set aside for different things.|sd
+A|Like we have a car fund|sd
+A|and we put a certain amount of money into that every single month whether we need to or not.|sd
+B|Oh.|b
+A|So, I mean,|%
+A|and I, I can't really remember what it is.|sd
+B|Do you kind of continue, call this like, a part of savings account or a different savings account|qy
+B|or,|%
+A|It's all part of the savings account.|sd
+A|We just keep track of it on paper.|sd
+A|Uh, you know a certain amount goes straight to the savings account.|sd
+A|We decide, okay, you know, let's say it's a hundred dollars.|sd
+A|You know, every month fifteen dollars is for car fund. You know,|sd
+B|Oh.|b
+A|Ten dollars is for vacation fund whatever.|sd
+A|Uh, and we just, we constantly do that, so that there's a buildup of money for those things if something does come up.|sd
+A|Like I know that my washing machine is going to go any day.|sd
+B|Oh, okay.|b
+A|So, but, we have the money set aside,|sd
+A|so if it does it's not going to kill us.|sd
+B|Hm.|b
+A|Uh, so we're, we're actually, we're pretty disciplined,|sv
+A|so it makes those surprises not so difficult to get through.|sv
+B|Okay,|b
+B|then, so like your pay, what kind of a percentage do you basically keep out that you think that, you know, will cover all of the expenses, kind of thing?|qw
+A|Well, in.|%
+B|Or like what, what percent, do you then save or something?|qo
+A|Uh, we have a lot of different things.|sd
+A|Right now, we save about twenty-five percent of our, of our pay.|sd
+B|Hm, okay.|bk
+A|It, and it goes toward different things,|sd
+A|it's for, you know, for vacations like I said, for, you know, emergencies like for car, uh, breaks down, something like that.|sd
+B|Uh-huh.|b
+A|Uh, and we also put money aside for our kids college.|sd
+B|Uh-huh.|b
+A|Neither of us had any help with our college degrees,|sd
+A|and just this last month we paid off my final school loan.|sd
+A|So|%
+B|Oh.|b
+A|We're starting our kids a little bit early.|sd
+B|Okay.|b
+A|Do you, uh, use a lot of credit cards or your checking account when you go out and buy things?|qy
+B|Checking account a lot, uh, not so much credit cards.|sd
+A|Sure.|b
+B|and so pretty much now, uh, we don't use them too much.|sd
+B|If we travel or something, yeah. But, you know. Standard, we usually don't.|sd
+A|Uh-huh.|b
+B|Or if it, it is a purchase, uh, then it's paid off when the bill comes.|sd
+B|You know, so it isn't any extended, uh,|sd
+B|it may be that I picked up something at the store,|sd
+B|but then when the bill comes we always pay it off then,|sd
+B|so it's not any, you know, uh, build up on the charge cards at all.|sd
+A|That's good.|ba
+B|And, but that hasn't always been the case|sd
+B|So, I'm kind of,|%
+B|I feel at least better now that I have finally gotten some of those things, uh, you know, in the past,|sv
+B|and I don't have, you know, big cumulative amounts due to those charge cards, because that interest rate just is a killer.|sv
+A|Oh, and it's not deductible anymore.|sv
+B|Yeah,|b
+B|well, I've never been in the situation of itemizing anyhow.|sd
+B|But, uh, pretty much when I always, I go to the grocery store or something I just always write checks.|sd
+A|Yeah.|b
+A|We did, we did that for a long time|sd
+A|and it got to the point where we had no idea how much we were spending on things.|sd
+B|Hm.|b
+A|And it seemed like we didn't have enough money when things cropped up, you know,|sv
+B|Uh-huh.|b
+A|so we decided to put ourselves on a cash budget.|sd
+A|Well the first time we did it, we just took some arbitrary amount that we estimated it would be,|sd
+B|Uh-huh.|b
+A|and then we kept track of everything for a month. You know, how much we spent on food, how much we spent on gasoline, how much we spent on everything, and from that built, you know, a cash budget.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|So now, I mean, I have,|%
+A|I don't remember what it is now, four hundred dollars for the month, let's say.|sd
+B|Uh-huh.|b
+A|And, uh, I mean some months I may spend three hundred on groceries and a hundred on everything else,|sd
+A|and some months it may be different.|sd
+B|Uh-huh.|b
+A|It's not as though we feel like we have to keep ourselves, you know, down to the dollar or the penny in certain categories kind of thing,|sv
+A|but the way we set up, you know the amount that we want to save and the amounts that we have to spend for, you know, uh, utilities and, uh, the house payment and all that.|sd
+B|Yeah.|b
+A|those are things you don't really have much control over.|sv
+B|Uh-huh.|b
+A|Uh, the cash budget just fits right in there|sv
+A|like I said if we don't have, we also set aside money for entertainment.|sd
+A|I mean, but again it's a set amount every month. And, uh, on special occasions, I mean birthdays and things like that.|sd
+B|Uh-huh.|b
+A|We, we don't, we still have fun on things|sv
+B|Yeah.|b
+B|Uh, we are in the process of trying to buy a house,|sd
+B|do you know, how did your budget work|qw
+B|or did you have a budget to, uh, get your down payment going to get a house?|qrr
+A|Well, no|nn
+A|not originally, because when we, we did buy, when we bought our first house, it was at a time where you|sv
+A|and the kind of loan we got, you really didn't have to put down anything.|sv
+B|Huh.|b
+A|So, we got into it fairly cheaply,|sv
+A|and then, uh, after we sold the first house, we were left with enough cash that there was enough to make the down payment on this house.|sd
+B|Oh, okay.|bk
+A|So, we, we got out of that one pretty easily|sd
+B|Okay, uh,|b
+B|yeah,|b
+B|I just keep thinking all the time|sd
+B|I mean, it, it's really rough to keep yourself on a strict budget for a long long time when your, you know, your priority, at least mine is to save for the house.|sv
+B|But then it's awful hard to really scrimp for a long, long time and keep putting all the money into that down payment.|sv
+B|You feel like you want to live a little bit in the meantime.|sv
+A|Sure,|aa
+A|I know.|aa
+A|That's how I feel sometimes about my kids' education,|sv
+A|I mean jeez, they are one and four|sd
+A|We have got a long time to save,|sd
+A|my husband, he's the real, he's the real disciplinarian when it comes to that money usually.|sd
+B|Uh-huh.|b
+A|Oh, no,|sv
+A|no|sv
+B|Well, I know,|ba
+B|but there are times when I sit there and I think, wow, you know we make X amount of money and where is it.|sv
+B|I mean you look  around|sv
+B|and you go,  where is it,|sd
+A|What do you do with it,|^2
+A|I know.|ba
+B|you, you haven't made, uh, big purchases|sv
+B|and that's the easier thing to see,|sv
+B|if you can see a big purchase and you go okay, well this is the year that we bought the couch or the T V, or something like that.|sv
+A|Uh-huh,|b
+B|But, all those, just monthly payments and stuff that just go out the door|sd
+B|and there's big chunks of your money to pay like the utilities and the gas and the groceries, and stuff.|sd
+B|That you don't have tangible, I mean the perishable kind of things that's gone, used and gone.|sd
+A|Yeah,|b
+A|it's, it's amazing how much we spend on some things.|sv
+A|My husband cut himself down to ten dollars a week for his lunch at work.|sd
+B|Oh.|b
+A|And that's all he has,|sd
+A|he has a ten dollar bill.|sd
+B|Huh.|b
+A|And, I mean, so I'd say at least, two usually three times a week he takes his lunch.|sd
+B|Uh-huh.|b
+A|The other times, he'll, uh, I don't know go out somewhere, eat in a cafeteria or whatever.|sd
+B|Uh-huh.|b
+A|But, but he keeps himself on that,|sd
+A|I mean, he found it's, it's so easy to spend five dollars a day on lunch.|sd
+B|Uh-huh.|b
+A|That's a hundred dollars a month on lunch.|sd
+B|Uh-huh.|b
+A|That's, that's twelve hundred dollars a year just on lunch.|sd
+B|Yeah.|b
+A|When he can take a sandwich, you know.|sd

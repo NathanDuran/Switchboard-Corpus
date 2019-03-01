@@ -1,0 +1,220 @@
+A|Okay, um.|fo_o_fw_"_by_bc
+A|How has it been this week for you?|qw
+B|Weather-wise, or otherwise?|qy
+A|Weather-wise.|sd
+B|Weather-wise.|b^m
+B|Damp, cold, warm|sd
+A|Oh, no,|ba
+A|damp.|b^m
+B|We have, we have gone through, what might be called the four seasons, uh, in the last week.|sd
+A|Uh-huh.|b
+B|We have had highs of seventy-two, lows in the twenties.|sd
+A|My goodness.|ba
+A|Well, I don't even want to tell you what ours has been like then.|sd
+A|It was ninety-six yesterday,|sd
+B|I heard about that.|sd
+A|and we set a record yesterday. And, uh, very windy,|sd
+A|but then today the wind has dropped off, and also, the temperature, so, very cool, uh,|sd
+A|I think right now it's like sixty-nine,|sd
+B|Um|%
+A|and that's cool for|sd
+A|or it feels cool compared to yesterday, but very pleasant,|sd
+A|no rain in the last month, I don't think.|sd
+A|The ground's very dry|sd
+A|and our yard work, everything is in bloom,|sd
+A|so our yard work is pretty tough, the ground being dry,|sd
+A|but I guess it also, uh, brings about allergies,|sd
+A|we're having a lot of allergies down here right now.|sd
+B|Uh-huh.|b
+A|Everything blooming,|sd
+A|and, and the weather.|sd
+B|Uh-huh.|b
+A|And, uh, I think a lot of people have contracted, uh, spring fever too,|sd
+A|so. Had a lot of people out at work, you know, for fishing, and, and uh, and golfing, reasons and things like that.|sd
+B|The blue flu,|bf
+A|Yeah.|b
+B|yeah,|b
+B|the blue flu, or the white collar flu, depending on where you work, I guess.|bf
+A|Yes.|aa
+B|Oh, we have had, uh, as I've said, we have had variable weather. Uh,|sd
+A|Um.|%
+B|It has been untypically wet for this time of year,|sd
+A|Um.|%
+B|and, also, we have a lot of green, you know,|sd
+B|the grass has been growing|sd
+B|and if you look outside, you would like to go out and mow your lawn, if you could go out and buy a new spark plug, or something along those lines,|sd
+A|Uh.|%
+B|but fortunately it rains|sd
+B|and you, uh, do not have to go out and buy the spark plug, you know.|sd
+A|Yeah.|b
+B|But, we've had an unusually, uh, uh, warm spring,|sd
+B|and, well I guess we're still in winter,|sd
+B|and, uh, we have had no snow.|sd
+A|Uh-huh.|b
+A|No snow?|bh
+B|To speak of, to speak of.|sd
+A|Um.|%
+B|We usually average, oh, anywhere from six to twelve inches during the winter|sd
+B|and this year, as well as last year, we have had less than four inches total accumulation.|sd
+A|Um.|%
+B|So, it's been inordinately warm, uh, here, for, uh, for this time of year.|sd
+A|Um.|%
+B|So, uh, in that regard, it's fine,|sd
+B|but, uh, I envy you your ninety-four degrees.|sd
+A|Uh-huh.|b
+B|I thought I heard this morning that in San Antonio it was in the nineties yesterday.|sd
+A|Yes,|aa
+A|yes|aa
+A|it is.|sd
+A|Down in the more southern and western areas.|sd
+A|And, of course we are, um, about two hours from the northern border, straight south,|sd
+B|Yeah.|b
+A|and, and, uh, very windy.|sd
+A|It's amazing to me|sd
+A|because I have only lived in Dallas for three years,|sd
+A|and I cannot believe that the wind blows all the time.|sd
+A|It does,|sd
+A|I, I|%
+A|very seldom, if any,|sd
+A|I can't remember, you know, a day that I walked out and the wind wasn't blowing.|sd
+B|Uh-huh|b
+B|Well, I spent six years in graduate school at, in Indiana. In the flatlands,|sd
+B|and it was that way every day.|sd
+A|Um.|%
+B|Rarely a day went by when the wind was less than fifteen or twenty miles an hour. Summer and winter,|sd
+A|Um.|%
+B|so, that, uh,|%
+B|you, you became accustomed to it, I guess.|sd
+A|Uh-huh.|b
+B|But, uh, otherwise as I said, we have had, uh, a relatively mild winter, speaking for this area of the country.|sd
+A|Uh-huh.|b
+A|Oh, where did you go to school in Indiana?|qw
+B|Purdue.|sd
+A|Purdue.|b^m
+A|I have a brother that lives in, uh, uh, South Bend, Indiana.|sd
+B|Oh, yes.|ba
+A|And, I had to always,|sd
+A|I've lived there for eight years myself.|sd
+A|I'd always said I was going to go back to school and go to Notre Dame.|sd
+A|But, I didn't. Uh.|sd
+B|Well, you are not from that area originally, I can tell.|sv
+A|No,|aa
+A|originally I'm from New Mexico.|sd
+B|Oh, okay.|bk
+A|I was born in New Mexico|sd
+A|and we lived in, uh, South Bend for eighty, eight years, and, uh, then moved to, uh, Tennessee actually.|sd
+B|Uh-huh.|b
+A|And, uh,|%
+B|Well, I thought I heard a little Tennessee in there somewhere.|sd
+A|Very much,|aa
+A|very much,|aa
+A|cause I, I spent thirteen years there. And, uh, then moved to Dallas about three years ago.|sd
+B|Uh-huh.|b
+A|So,|%
+B|Gee,|ba
+B|you've moved almost, moved around as much as I have|sv
+A|Yeah, uh,|aa
+A|my father was in the Air Force,|sd
+A|so,|%
+B|Oh, I see.|bk
+A|Uh-huh.|b
+B|Well, I worked for the government,|sd
+B|so I, I moved, uh, much more frequently than I had intended for sixteen years,|sd
+A|Uh-huh.|b
+B|but, uh, I guess the, uh, this is my first conversation in this, uh, uh, series.|sd
+A|Oh, uh-huh.|b
+B|I, I received a call last night because of the, uh,|sd
+B|I had not received my, uh, personal identification number.|sd
+A|Right.|b
+B|So, I had to call Jack Godfrey today to ask him what it was, because I, I had to abort the call last evening because I couldn't get on the line.|sd
+A|Yeah|b
+B|So, uh, is there any,|qy
+B|I'm not sure how long we're supposed to talk.|sd
+A|It's, um, it's just as long as you want to.|sd
+B|Oh.|%
+A|I mean it's just, uh, as long as you want to, and just, you know, a reasonable lengthy conversation.|sd
+A|Uh, do you work for Texas Instruments?|qy
+B|No,|nn
+B|I do not.|sd
+B|I work for G T E.|sd
+A|Oh, okay.|bk
+B|And, I, uh, of course, was, I was sent a, uh, an application from, uh, from Jack.|sd
+A|Uh-huh.|b
+B|I've known Jack for some time.|sd
+B|I'm in the speech processing business, and have been for a number of years,|sd
+A|Oh, okay.|bk
+B|so I was very much interested, in, in being a speaker for this|sd
+A|Yeah.|b
+A|Well, actually, I, I work for Texas Instruments,|sd
+A|and, uh, I'm an a, I'm an environmental engineer,|sd
+B|Oh, I see.|bk
+A|and, uh, they just published this internally, you know, getting people involved.|sd
+B|Uh-huh.|b
+A|So, that, that's really strange.|sv
+A|I, I was wondering why we had somebody from Maryland though.|sd
+A|I was saying, God, do we have a TI in Maryland|sd
+A|or,|%
+B|I'm sure you have a representative somewhere in the area. If just nothing more than a business representative or government services representative,|sd
+A|Uh-huh.|b
+B|and, um, but I have, uh, I have been a speaker in other, uh, similar type of activities.|sd
+A|Uh-huh.|b
+B|And, I know the reason why this is, why the, uh, this is being gathered and the program and so forth,|sd
+B|so, I was interested as I said, I was interested in being a speaker.|sd
+A|Uh-huh.|b
+B|We haven't talked much about the weather|sd
+A|Oh, well.|b
+B|I know that's what we're supposed to do.|sd
+A|Yeah,|aa
+A|yeah.|aa
+A|Well, really it, uh, the letter just says, um,|sd
+A|let's see, I can't,|^h
+A|I was looking at it,|sd
+A|I was trying to find out speedy short cuts,|sd
+A|and I always thought it's not necessary to measure your time, just to go ahead and enjoy the conversation, and, and, end it when needed.|sd
+A|So.|%
+B|Uh-huh.|b
+B|In environmental engineering, uh,|bf
+A|Uh-huh.|aa
+B|is that with regard to work place engineering, or just, you know, the work place environment|qy
+B|or,|%
+A|Uh, well, it's actually, um, waste water.|arp_nd
+B|Oh, I see.|bk
+A|Taking, taking care of uh,|sd
+A|I'm actually in the air division,|sd
+A|and we monitor, um, anything that comes out of a stack, or out of a building,|sd
+A|or, um, we do have customers that, um, their concerns are in the work place|sd
+A|and we take care of that,|sd
+A|but , within our department. We take care of everything. Waste water, uh, solid waste, and recycling, and, and air and|sd
+B|Uh-huh.|b
+B|Well, I had|%
+B|my, the, the call last evening was supposed to be about, uh, concerning recycling in the community.|sd
+A|Oh, uh-huh.|b
+B|The call I received,|sd
+B|and so, I had, uh, I had thought a little bit about it, um, before hand.|sd
+A|Uh-huh.|b
+A|Oh, uh-huh.|b
+B|So, I,|%
+B|but that, that's interesting.|sv
+B|I have a, uh, uh, friend who is a planner. Uh, a city planner.|sd
+A|Oh, uh-huh.|b
+B|And, one of his,|sd
+B|and he models, uh, city districts, and so forth, uh, does computer modeling.|sd
+A|Uh-huh.|b
+A|Yeah.|b
+B|And, one of the, uh,|sd
+B|he has inputs, or gets inputs from, uh, an environmental engineer. .|sd
+A|Uh-huh.|b
+A|Yeah,|b
+A|we actually, our division is corporate wide,|sd
+A|and we take care of just the Dallas area.|sd
+B|Uh-huh.|b
+A|Of course we have several plants here,|sd
+A|but, um, we do air modeling also.|sd
+B|Oh, I see.|bk
+A|And, and, yeah, I take care of all the air modeling, specifically for the Dallas area.|sd
+A|What we do, we have a weather station, that we get all of this information, you know, temperature, wind speed, wind direction,|sd
+A|and, uh, we have a huge chemical data base.|sd
+B|Well, that's interesting.|ba
+A|And, uh, our, our chemical data base, so that we know every chemical on site|sd
+A|and, and, um, its concentration,|sd
+A|and if, if anything ever happened, God forbid, you know, a building explosion or something we'd be able to track chemicals from that building with our weather station.|sd

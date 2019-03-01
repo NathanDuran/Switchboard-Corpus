@@ -1,0 +1,149 @@
+A|Well, you keep up with current events?|qy
+B|Um, somewhat.|na
+B|Yeah,|%
+B|somewhat|na
+A|Not,|%
+B|not as well as I would like to probably|sd
+A|Is that right?|bh
+B|but that's the way it goes.|sd
+A|Yeah,|b
+A|where, whereabouts in Pennsylvania.|qw
+B|What?|br
+A|Where in Pennsylvania?|qw
+B|Um, State College,|sd
+B|I go to Penn State.|sd
+A|Oh, do you,|bk
+A|well, great.|ba
+B|Yep.|b
+A|How's, uh,|%
+A|well no,|ar
+A|we're not supposed to talk about that.|sd
+A|We're supposed to talk about current events.|sd
+B|Right,|aa
+B|exactly, uh.|aa
+A|Well, I'm a current event junkie.|sd
+A|So I, I watch, I try to watch the news,|sd
+A|and I read the newspaper,|sd
+A|and I like to read TIME magazine and PEOPLE magazine to keep up with what's going on in the world.|sd
+B|I see.|b
+B|Well, what particularly are you interested in?|qw
+A|Well, I just, pretty, uh, little, you know, about everything.|sd
+A|And, not and then again not everything,|sd
+B|Uh-huh.|b
+A|but you know, I like to know pretty well what's happening.|sd
+A|Political things don't interest me a great deal, except I do like to stay informed enough to, feel like I halfway vote intelligently, you know|sd
+B|Uh-huh.|b
+A|but, uh, other than that, uh, I just, you know,|sd
+A|just the events that happen around the world interest me. Stay in touch with it and know, feel like I know what's going on.|sd
+B|Yeah.|b
+A|Now I have to say all three of my children, none of them are too interested in current events.|sd
+B|I see.|b
+A|But I always have been|sd
+B|Uh-huh.|b
+A|and I stay up with it.|sd
+A|But, uh, how do you, how do you, uh, stay aware of most of the current events. Uh, newspaper? T V news, or what?|qo
+B|Um uh, well, some of both.|sd
+A|Uh-huh.|b
+B|I read, I read the newspapers sometimes|sd
+A|Uh-huh.|b
+B|and I watch C N N, that sort of thing occasionally|sd
+A|Right.|b
+A|Yeah,|b
+A|that's good.|ba
+B|and I read magazines, and such.|sd
+A|Well, you stay up with it pretty well, then.|bf
+B|Well, yeah,|aa
+B|I mean, not, not that badly anyway,|sd
+A|Uh-huh.|b
+B|so I am, I am interested in what's going on,|sd
+B|and I'm particularly interested in certain things of course, like all the news about Haiti recently because I've been down there|sd
+A|Uh-huh,|b
+A|yes,|b
+A|uh-huh.|b
+A|Oh, you've been there|bh
+B|and, yeah.|ny
+A|well, you would be interested in it then.|sv
+B|Right,|aa
+B|exactly.|aa
+A|Yeah, uh,|b
+A|I follow it, you know,|sd
+A|I don't just read everything about it,|sd
+A|but I'm always aware of what's going on like that|sd
+B|Yep,|b
+A|and, uh, because it is, it's interesting|sv
+B|Uh-huh.|b
+A|and, uh, I don't know,|h
+A|I feel sorry for those people down there,|sd
+A|they've just been so terribly mistreated for so many, many years, you know. I mean, through Papa Doc,|sv
+B|That's true.|aa
+B|They've never really had a good leader,|sv
+A|I mean he was a terrible tyrant|sv
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|and I think it's been better since he died,|sv
+A|but it's still been bad|sv
+B|Yeah.|b
+A|but, uh, even that priest that was in control there for a while that they overthrew, uh,|sd
+A|I've read some things about him that he was, he wasn't too good himself.|sd
+B|Oh, yeah?|bh
+A|Yeah,|ny
+A|he was pretty, pretty much a,|%
+A|he didn't mind having people bumped off for certain things, you know.|sd
+B|Uh-huh.|b
+A|But, uh, It's, one of the reasons the U S wasn't so, you know, didn't do more than they did at the time because they weren't all that excited about him, although he's probably better than a lot of them,|sv
+B|I see.|b
+B|Uh-huh.|b
+A|but, uh, but then again, who, you know,|%
+A|those people are so used to it|sv
+A|I guess it's the only thing that works.|sv
+B|Yeah,|b
+B|so what do you think about the quality of news coverage in America?|qo
+A|I think it's pretty darned good,|sv
+A|I think we're lucky to have as good a coverage as we have|sv
+B|Uh-huh.|b
+A|I really do.|sd
+A|Now, I, they sometimes they jump on it and, and, and go a little to the extreme,|sv
+A|the media does,|sv
+A|but, uh, but, that's kind of understandable, because, you know, of course if you watch it more, more than once a day, I mean, it's the same thing over and over and over and over,|sv
+A|and I listen to the radio|sd
+B|Right,|b
+B|right.|b
+A|so I, you hear so much,|sv
+A|you get a little tired of it,|sv
+A|but then again, so many people you got to understand only catch it once a day, maybe|sv
+B|Yep.|b
+A|but I think the quality of our, uh, our news is just, uh, I don't believe it could be better|sv
+B|Uh-huh.|b
+A|I really don't.|sd
+B|Yeah,|b
+B|well, you know, I think it probably could be, it always could be better,|ar
+B|but I,  would agree that  it's pretty good.|aa
+A|I  don't think so.|ar
+A|I don't think our news could be better.|sv
+B|Yeah.|b
+A|I, I mean, I mean, what else could they do to make it better.|qh
+B|Um.|b
+A|I don't see anything that they could do.|sv
+B|Yeah,|b
+B|well, I think that, um,|sv
+B|I don't know.|h
+A|Well, you always want to think everything can be improved upon|sv
+B|The, um,|%
+B|Right.|aa
+A|I understand what you're saying,|ba
+B|Right,|aa
+B|I think that,|sd
+A|But by trial and error over the years, I think they got it about as good as they're going to get it.|sv
+B|Well, that may be so,|aa
+B|yeah.|%
+A|Uh nothing is perfect.|sv
+B|I think that I'm not always satisfied with how dig they deep into the how deep they dig into things and such.|sv
+A|Uh-huh.|b
+A|Well, that's true,|aa
+A|I understand what you're saying,|ba
+A|and then again, I understand why they can't dig too much deeper,|sd
+A|that's why we have C N N.|sv
+B|Right.|b
+A|C N N has the time, since that's all they do is news to dig deeper.|sv
+B|Uh-huh.|b
+B|Right.|b

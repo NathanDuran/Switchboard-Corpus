@@ -1,0 +1,128 @@
+A|So I've been concerned about crime lately.|sd
+B|Uh-huh.|b
+A|Uh, it's really scary to listen to the news every night and to hear about all the problems.|sv
+B|Uh-huh.|b
+A|I wondered if you were taking any special precautions in your neighborhood?|qy^d
+B|Well, I, I think we have a neighborhood watch|na
+A|Uh-huh.|b
+B|I think.|sd
+B|I'm not real,|%
+B|we don't get real involved.|sd
+B|We're never home,|sd
+B|so|%
+A|Uh-huh|b
+B|uh, uh, well, I know they were going to start one,|sd
+B|but, uh, I haven't heard any more since,|sd
+B|so I don't really know.|sd
+B|But as far as personally doing something, no.|sd
+A|No, um.|b
+B|How about you?|qo
+A|Well we moved in, when we moved in, there, there wasn't any outside lights|sd
+A|and so we've been trying to install some, uh, outside lights|sd
+B|Uh-huh.|b
+A|and we put up a fence in the backyard.|sd
+B|Uh-huh.|b
+A|Mostly, you know, not so much thinking that we would deter someone to break in, but that our children would be safe playing in the yard. You know.|sd
+B|Yeah.|b
+B|Yeah.|b
+B|Huh.|b
+A|And I guess most of the crime that I'm concerned about generally is against my kids. To let them go play with someone and because of what you hear about people getting picked up and everything|sd
+B|Oh, I'm sure it is.|ba
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|and so I have to spend a good deal of time watching them walk down the street and, say, call me before you leave and come back|sd
+B|Uh-huh.|b
+A|and,|%
+B|We don't have any.|sd
+B|We did install a, a a, uh, motion detector light back in our driveway.|sd
+A|Uh-huh.|b
+B|And that was, mainly it was so when we pulled up, the light would come on,|sd
+B|but also we have a boat back there|sd
+A|Uh-huh.|b
+B|and we have neighborhood kids that like to get into mischief,|sd
+B|so|%
+B|we thought with that light, you know, it would maybe keep them from doing something to the boat|sd
+B|Yeah|b
+B|so,|%
+A|Well, we've been real lucky that,|sd
+A|I don't believe there's been, you know, much trouble in our neighborhood,|sd
+A|but it  but it does seem there, that there is a lot more here in Plano of, uh, just bored teenagers|sv
+B|Uh-huh.|b
+B|Yeah,|b
+B|yeah,|b
+B|that's|%
+A|Vandalism.|sd
+B|what it is.|%
+B|We live in, Coppell|sd
+B|and, and that's pretty much what it is, is you know, kids that are bored, like you say.|sv
+A|Uh-huh.|b
+A|Yeah,|b
+A|and they don't, uh,|%
+A|I know my sister-in-law who lives in our neighborhood they've had their,|sd
+B|Uh-huh.|b
+A|they parked their car out on the street before and it's been spray painted and a few things like that|sd
+B|Oh, no.|ba
+A|and, course, you know,|%
+A|I don't know|%
+A|I'm getting scared for kids to get older,|sd
+A|because you don't know if it's someone their teenagers know who, and, or is it just random crime,|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|but, uh, we've been real lucky that no one in my family with the, anywhere that they live has had, been a victim of, you know, a serious crime.|sd
+B|Yeah,|b
+B|yeah.|b
+A|But, uh, it's really scary to know that you can live a normal life and try to be a good citizen but it doesn't mean you'll be safe|sv
+B|Uh-huh.|b
+A|and, But, I guess I take a lot of, uh, little bit of, uh, safety in knowing that a lot of the crimes that they report are, like drug related or uh, things that,|sd
+B|Uh-huh,|b
+A|places usually that I wouldn't be going. And things I usually wouldn't be involved in.|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+B|Yeah.|b
+A|And, uh, there's not so much of it completely innocent victims compared to,|sv
+B|Yeah.|b
+A|but it is scary.|sv
+B|Yeah,|b
+B|it is.|ba
+A|Were you raised in this area?|qy
+B|Really is|%
+B|Yeah.|ny
+B|I'm originally from Chicago, but I've been in this area, in the Lewisville area for, uh, let's see, about twenty-three years.|sd
+A|Uh-huh.|b
+A|So, has it been getting worse that you noticed, or  about the same?|qy
+B|Oh  definitely.|na
+A|Um.|%
+B|In the last few years, I think,|sd
+B|and, uh, like I say,|sd
+B|now I don't think necessarily in this area here, but just Dallas in general.|sv
+A|Uh-huh.|b
+B|I don't know,|h
+B|I think back of when I was, uh, younger and in my party days, some of the things I did, you know, I wouldn't be caught dead, like, being out that late at night.|sd
+A|Right.|b
+B|In the dark parking lot|sd
+A|Right.|b
+A|Take a lot of chances.|sd
+A|Well, I noticed that, uh, that, uh, when|sd
+A|we, we moved here from Houston not too long ago.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|And so, of course, we were interested in schools|sd
+B|Uh-huh.|b
+A|and, uh, but the schools in Houston all have big, tall fences around them|sd
+A|and they're not really very safe|sv
+B|Uh-huh.|b
+A|and so it's been interesting to come to the Plano area where the schools don't have fences at all around them,|sd
+A|and it's just a whole different idea that, that, at least the people here feel that their kids are pretty safe at school.|sd
+B|Uh-huh.|b
+A|And in Houston that there was the mentality that they weren't safe at school.|sd
+B|Huh.|b
+A|And so that's been something that's been good for the, you know, in this area that you feel like, uh, you know, there's not going to be too many knifings or shootings at school today.|sv
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|And I guess,|sv
+A|I don't know how people live with that every day.|sd
+B|Um.|%
+B|I don't either.|aa
+A|Pretty scary.|sv
+B|Yeah, um.|aa
+A|But, anyway, well, I guess I won't take up more of your|fc

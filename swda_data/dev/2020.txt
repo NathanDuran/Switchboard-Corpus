@@ -1,0 +1,249 @@
+A|Hi.|fp
+B|Hi,|fp
+B|um, okay|%
+B|what, now, uh, what particularly, particularly what kind of music do you like?|qw
+A|Well, I mostly listen to popular music.|sd
+A|I, uh, listen to it all the time in, in my car,|sd
+A|so, I, I tend to be one of those people who switches stations a lot because I don't like commercials.|sd
+A|But, uh, I find myself listening to popular music,|sd
+B|Yeah.|b
+A|and, uh, quite honestly, I, I have some little children|sd
+A|and I, unfortunately, found myself listening to a lot of nursery rhyme music here lately,|sd
+A|but that's not by my choice.|sd
+B|Oh, really.|b
+A|How about you?|qo
+B|Well, um, I don't have that, I don't have that are experience to share|sd
+A|Lucky you.|ba
+B|I, I do, I do listen to a lot of,|sd
+B|you know, I do, I switch the stations a lot because I don't have a cassette player in my car.|sd
+A|Um, um. Uh-huh.|b
+B|Uh, uh, however, I, I do, I do like a lot of different forms of music|sd
+B|so I switch quite often.|sd
+B|Um, I think I like,|sd
+B|I, I'm really particular about the type of music that I listen to.|sd
+A|Uh-huh.|b
+B|But, the, uh,|%
+B|there's such a wide selection,|sd
+B|I think I like a lot, I like a little bit of a lot of different types of music.|sd
+B|You know, I, I, I like music that is, that I feel|sd
+B|if it is performed correctly or if it's done right, or if the version is done right, I like it|sd
+A|Yeah.|b
+B|but, if, if it's not, then I won't.|sd
+B|I, I really don't,|sd
+A|How do you feel about rap music?|qo
+B|Rap.|b^m
+A|It seems to be so popular these days.|sv
+B|Yeah.|b
+B|Well, I, I don't really have anything against rap music.|sd
+B|I,|%
+B|the one thing I do object to about rap music is, is when it becomes militant, or, if it's, uh, violence oriented.|sd
+A|Uh-huh.|b
+A|Right.|b
+B|I, I have strong objections to that.|sd
+B|Um, actually I listen to,|sd
+B|one time I remember, this was back when, even, uh,|sd
+B|I would say about ten or fifteen years ago I,|sd
+A|When it was really just starting.|qy^d
+B|Yeah,|ny
+B|right|b
+B|when it was just starting, I heard what was called talking blues, which actually is rap.|sd
+A|Yeah.|b
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|And, uh, it was about,|sd
+B|the, the piece of music, the piece of music was about, I think about forty or fifty years old.|sd
+B|And, it was incredible, I mean, the parallel, you know, between it and rap.|sd
+A|Right.|b
+B|And, um, you, you listen a lot,|sv
+B|if you, if you hear a lot of old gospel, uh, uh, especially well, the black gospel.|sv
+B|You know, you will, you know, you can really pick it up. I mean,|sv
+A|Yeah,|b
+A|you really.|%
+A|It seemed to be influenced by a lot of different music.|sv
+A|A lot of times you'll hear songs that you know, they're not original, but have been put to a rap kind of a rhythm.|sd
+B|Yeah.|b
+A|And, uh, sounds, it sounds so much different|sv
+A|and yet, I, I have a much younger sister who listens to a lot of rap music|sd
+A|and, uh, she thinks its pretty funny how often I know all of the words to songs that she's listening to,|sd
+A|and yet, she thought they were brand new, original pieces.|sd
+B|Yeah.|b
+B|Yeah.|b
+B|they, they do, they do copy versions, they do cover versions of, of, you know, like standards, I guess you could call it.|sd
+A|That's right.|ba
+B|I think it's kind of absurd, you know, the fact that, you know, they don't really, they don't really give, you know, the original artist, or the original composer, the credit that is really due to them.|sv
+A|No.|aa
+A|Yeah,|b
+A|I guess there was even a, a bit of ruckus caused by the M C Hammer, who's really, you know,|sv
+B|Yeah.|b
+A|seems to be the hot one of, of today.|sv
+A|He used, um, WILD THING.|sd
+A|Do you remember that, that song.|qy
+B|Yeah.|ny
+A|he used, um,|sd
+A|I can't remember who the artist was on that.|sd
+B|Jimi Hendrix was the original.|sd
+A|Who?|br
+B|Jimi Hendrix was the original.|sd
+B|He wrote|sd
+A|Was it,|qy
+A|well, maybe it wasn't that one.|sd
+A|Because, it was a living, it was a living person that I'm, I'm thinking of that, um, that said, "You know, hey that, those are my words."|sd
+B|Okay.|b
+A|And, uh, I guess that they, because they hadn't originally gotten, um, permission, from him to use it.|sd
+B|Uh-huh.|b
+A|And, he, he since then has, has amended that, and paid them his royalties every time the, the song goes on|sd
+A|but,|%
+B|Yeah.|b
+B|I don't know|h
+B|it may have, it may have been somebody else, because I think, I think that even Jimi Hendrix did it,|sd
+B|I think that was a|sd
+B|you know, come to think of it, I think that was a cover version of, like a John Lee Hooker song, or something,|sd
+A|Maybe so.|ba
+A|I, I, can't think.|h
+B|I mean it was just like,|sd
+B|it was really old.|sd
+B|I mean I, I,|%
+B|there are a lot, there are so many different songs,|sd
+B|I mean like the whole thing about cover versions a lot of times. I mean I've heard some songs that, that I just thought were horrendous cover versions of,|sd
+B|I'm like, you know, I, I don't want to listen to this. Because you know, you think of the original is like,|sd
+A|Yeah.|b
+B|you know, oh, that was really great.|^q
+B|That was a, you know, a really good piece of work,|^q
+B|and then when you hear the cover it's like, you know, God, what are they doing.|sv
+A|Right.|b
+A|They destroyed it.|sv
+B|I, I think a good one was, um,|sv
+B|there was a Peter Frampton song,|sd
+A|Oh, yeah!|ba
+B|and, then the cover version, I think, I mean, I thought, was absolutely, it was pitiful.|sv
+A|I, I remember seeing the video of it on M T V,|sd
+A|and I thought it was hideous.|sv
+B|Yeah.|aa
+B|I did too.|sv
+A|It was,|%
+A|ugh, I didn't like that either.|sv
+B|Yeah,|b
+B|but you know, whatever became of Peter Frampton.|qw^d
+B|I mean, there was nothing,|sv
+B|he was a phenomenon,|sv
+B|I there was no reason for him to really come into, you know, great stardom or anything.|sv
+A|I remember, I saw him in a concert, when I was,|sd
+B|Yeah.|b
+B|Yeah,|b
+B|I think, I think it,|%
+A|I think it was in high school.|sd
+B|Yeah,|b
+B|I think that probably what did it for him was the fact that he was a good stage performer.|sv
+A|Uh-huh.|b
+A|He was very good.|sv
+A|I remember I saw him in a huge stadium in, uh, Philadelphia.|sd
+A|It was in J F K Stadium, if I can remember.|sd
+B|Oh man.|ba
+A|Hundreds of thousands of people is what it seemed like.|sd
+B|Yeah.|b
+B|I've, I graduated back in seventy-nine,|sd
+B|so,|%
+A|Um, um. Uh-huh.|b
+B|but, but I've really,|%
+B|I, I loved,|sd
+B|I mean, I was, I was really into the album oriented music, even then,|sd
+A|Uh-huh.|b
+B|so I was really familiar with a lot, with a lot of, of the A O R type music.|sd
+B|Um, the album oriented like the, uh, James Taylor, and, the, uh, the Beatles,|sd
+A|Oh, yeah.|b
+B|and you know, I mean, a lot of people they go, they're better than the Beatles,|sd
+B|and I'm like, you know, you don't know what you're talking about.|sd
+A|No|aa
+B|I mean, the comparison made between New Kids On The Block with the Beatles It was just,|sv
+A|You can only laugh|sv
+B|Yeah,|b
+B|you just sort of,|%
+B|you know, well I guess I can just humor them, you know At this point.|sv
+A|Right|b
+A|well, they,|%
+A|I guess our age is showing when, we, we think that.|sv
+B|Yeah,|b
+B|but well, you know, I, I, I've liked a lot of the new music.|sd
+B|I think, um, um, when|%
+A|Uh-huh.|b
+B|I saw some promise, you know, with, with a lot of the new wave, when it, when it came out, uh, back in the mid and early eighties.|sd
+A|Yeah.|b
+B|And then, um, I don't know|h
+B|music is kind of in a weird, it's in a very weird position right now.|sv
+B|I think that,|%
+B|I mean, I like, you know, things like to hear, you know, what they call world music. Which is, you know, using all these natural forms of music|sv
+B|and,|%
+A|Like Paul Simon.|qy^d
+A|Like,|%
+B|Yeah,|ny
+B|yeah,|ny
+B|Paul Simon.|sd
+A|Yeah.|b
+B|Well, you know, really that's not world music.|sv
+B|But, what, what Paul Simon's doing, I think is, is, is great because he's, you know I think, I think that using, I guess what they call it is eclectic, you know. drawing from a lot of different sources and making, you know, a synthesis of a new type of music. Um,|sv
+A|Yeah.|b
+A|What do you mean by world music?|qw
+B|Well, world music is, um,|sd
+B|a lot of the, a lot of where they, where they make music that they adapt to a, to another kind of, to another type of listener.|sd
+A|Uh-huh.|b
+B|Uh, for example, let's say you're taking like an original Brazilian form of music and, with a certain style,|sd
+B|and then you try to make it a little bit more listenable for, let's say another audience, let's say a North American.|sd
+A|Uh-huh.|b
+B|And, then when they hear it, it, it's a really, it's another form of music, and, you know, sort of, um, trying to draw out the best sources.|sd
+A|Um.|b
+B|The, the best of every type of music.|sd
+A|Right.|b
+B|Because, I mean, there are some, I mean,|%
+B|I, I|%
+B|there are some, you know, types of heavy metal that I really like,|sd
+B|but, but I wouldn't, I wouldn't say that I, I completely like heavy metal.|sd
+A|No.|aa
+B|I, I think,|%
+B|you know, and it's the same way with,|sd
+B|you know, world music takes the forms that have really been, um,|sd
+B|I guess, I|%
+B|you know, the best example or, you know, the cream of the crop, I guess you could say,|sd
+B|and then, and then taking those, those qualities, and then applying, in the styles, that are really, um, that are extremely enjoyable, and then taking,|sd
+A|So then it becomes a kind of music of, of its own, so to speak,|qy^d
+A|or, uh,|%
+B|Yeah,|ny
+B|yeah,|ny
+B|it becomes a kind of music of its own.|sd
+B|I mean, when you listen to it, it's um, uh,|sv
+B|I think that they don't use,|sv
+B|some of it,|sv
+B|it's,|%
+B|they use electronic and acoustic interchangeably,|sv
+A|Uh-huh.|b
+B|so, you know, well a lot of the stuff you hear coming from South Africa now, and from West Africa, that's considered world music, because it's not particularly using certain types of folk styles.|sd
+A|Right.|b
+B|But, they're, they're trying to make it somewhat more modern.|sd
+B|I, I, I,|%
+B|a good, another good example was I heard Miles Davis,|sd
+B|and Miles Davis worked with Robbie Shoncar, if you can believe it, I mean,|sd
+A|Uh-huh.|b
+A|Uh-huh|b
+B|You know, he's a jazz performer,|sd
+B|and then he's playing with Robbie Shoncar,|sd
+B|who's a very good, he's a very good arranger.|sd
+B|Uh, arrangement to, uh,|sd
+B|we're going to have to get off.|ad
+A|The,|%
+A|are they trying to ,|qy
+B|I don't know.|no
+B|But, uh,|%
+A|We've talked our five minutes though.|sd
+B|Yeah,|b
+B|okay,|b
+B|but, I mean, when I heard his album, I heard it and it was just incredible.|sd
+A|I've been listening to that a lot lately.|sd
+B|Yeah,|b
+B|I, I listened|sd
+B|and, I heard,|sd
+B|you know, you hear this guitar,|sd
+B|and then you hear the muted trumpet.|sd
+B|I|%
+B|me,|%
+B|and you never would think that they, that they can actually play together|sv
+B|but,|%
+A|Oh yeah.|b

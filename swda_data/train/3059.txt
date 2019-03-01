@@ -1,0 +1,158 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|Um, the last movie that I have seen,|sd
+A|it's been, it's been a couple of months.|sd
+A|I saw, um, SLEEPING WITH THE ENEMY and FLATLINERS.|sd
+B|Yes,|b
+B|I saw that one.|sd
+A|Those were the last two that I've seen.|sd
+B|What was the second one?|br
+A|FLATLINERS.|sd
+B|I didn't see that one.|sd
+A|Oh.|b
+B|Did you see those because of, uh, Julia Roberts, or for, uh, the subject matter of the two?|qy
+A|Oh, it was just,|sd
+A|well, someone had,|sd
+A|I had seen the advertisement for FLATLINERS on T V,|sd
+A|and I thought I'd like it,|sd
+A|and then, uh, one of my friends who went to see SLEEPING WITH THE ENEMY, and she told me to go.|sd
+A|It was good.|sd
+A|So that's why I saw that one.|sd
+B|Uh-huh|b
+B|Well, I've, uh,|%
+B|I saw SLEEPING WITH THE ENEMY|sd
+B|and I, um, I've seen, uh, well , just recently, um, WHAT ABOUT BOB?|sd
+A|No,|nn
+A|I haven't gotten to see you know, any real recent ones.|sd
+A|I like comedies better than I do dramas.|sd
+B|I, uh, am not one for the, uh,|sd
+B|I don't need the suspense movies or the, the movies with lots of, uh, the horror movies with, uh, trying to shake you out of your chair.|sd
+A|Uh-huh.|b
+A|Did you care for SLEEPING WITH THE ENEMY?|qy
+B|Um, I'm not sure|no
+B|I, uh, I saw it and, uh, because my wife wanted to see it.|sd
+A|Uh-huh.|b
+B|Uh, but on the other hand, I'm not sure I would have gone otherwise,|sd
+B|and having gone, uh,|%
+B|well, it really wasn't on a theme that I was, uh, uh, that into,|sd
+B|or, as I say, I prefer the light movies that, uh,|sd
+B|my style of entertainment is, is comedy, uh, primarily and then into action films.|sd
+A|Uh-huh|b
+A|well, I didn't care for the movie myself.|sd
+B|What?|br
+A|I didn't really care for the movie either.|sd
+B|Yeah,|b
+B|you kind of have to like to be, uh, drawn to this point where you aren't sure what's going to happen.|sv
+A|Yeah,|b
+A|uh-huh.|b
+A|Well, okay,|b
+A|on likewise then, did you see PRETTY WOMAN?|qy
+B|Uh, yes.|ny
+A|Do you enjoy that one?|qy
+B|Uh, it was interesting,|na
+A|Uh-huh.|b
+B|well, I'm trying to think of the other one I saw recently, the one on, um, DEFENDING YOUR LIFE.|sd
+A|Oh, I haven't even heard of that one.|sd
+B|Well, that was one where, uh,|sd
+B|it's kind of like,|%
+B|to me it's somewhat like PRETTY WOMAN.|sv
+B|The, the story line, um,|sd
+B|if you accept a few of the basic starting points, I guess the rest falls in place.|sd
+B|Uh, it was hard to accept that, uh, this, uh, multimillionaire wheeler dealer would, uh, would, you know, find himself and allow himself to get into that situation.|sd
+A|Uh-huh,|b
+A|yeah.|%
+A|Well, I really liked PRETTY WOMAN.|sd
+A|You know, I just,|%
+A|well, you just kind of went with it.|sd
+A|Like you said, you had to accept the beginning of it and just kind of go.|sd
+B|Yeah.|b
+B|It's sort of a modern CINDERELLA type of story.|sv
+A|Yeah.|b
+A|But, um, FLATLINERS, now, it's a drama,|sd
+A|and I don't usually like them,|sd
+A|and I really enjoyed it.|sd
+A|I, um, I don't know,|h
+A|it was kind of,|%
+A|it made you think a lot I think.|sv
+B|Uh-huh.|b
+A|Did you see GHOST?|qy
+B|Yes.|ny
+A|Okay,|bk
+A|now, did you care for that one?|qy
+B|Uh, that was,|%
+B|I enjoyed that one.|na
+B|I, in that I, I guess I, I hate to be too surprised in a movie,|sd
+B|and in that one you could, you could pretty well guess where it was, going to end up.|sd
+B|You weren't sure exactly how it would get there,|sv
+B|but you knew where it would end up.|sv
+A|Uh-huh.|b
+A|See, now, I didn't,|%
+A|I thought it was an okay movie,|sv
+A|but it wasn't something that I would enjoy seeing twice or three times.|sd
+B|Uh-huh.|b
+A|I didn't think so, um,|sd
+A|I really didn't care for the ending of it.|sd
+A|I thought it was just of like you didn't know this was going to happen,|sv
+A|when, you know,|%
+A|but, um, I don't know, you know.|h
+A|Well, of course, uh, a bunch of girls had told me and warned me,|sd
+A|and they said, "Oh, it's a real tearjerker," and da, da, da, da, da.|sd
+A|Meanwhile, I sat through the movie and said well, when are you, when are you supposed to start crying, you know|sd
+B|Yeah.|b
+A|I didn't really, Uh, I didn't really find it to be a tearjerker|sd
+B|Well, whenever she starts crying|sd
+B|Well, do you go to many movies more than once?|qy
+A|Um, if I see them more than once, I see them on video.|na
+B|Uh-huh.|b
+A|But like you said, I, I enjoy the comedies a lot better.|sd
+A|In fact, that's where I've seen most of my movies, have been on video.|sd
+B|Uh-huh.|b
+B|Well, these days it's, uh,|%
+A|You see it on video just as soon as it is on the movie screen.|sv
+B|Well, if you don't, with some of the movies, if you don't go to them within the first four weeks, the movie may have, uh, left town, never to show up again until it comes back in video.|sv
+A|Uh-huh.|b
+B|So, uh, unless a movie is popular and stays around, uh, you probably will see it on video these days more likely than at the movie.|sv
+A|Yeah,|b
+A|uh-huh.|b
+B|So we have, um,|%
+B|well, I think just most people have V C R now|sv
+B|and we probably watch twice as many movies at home as we do at movie theaters.|sd
+A|Oh, yeah.|b
+A|Uh-huh.|b
+A|No,|nn
+A|I saw one, it was a drama also,|sd
+A|and I can't think of the name of it now, that, um,|sd
+A|it was a book before it came out in a movie,|sd
+A|and it was, it it was a drama.|sd
+B|Did you go to DANCES WITH WOLVES?|qy
+A|I wanted to see that.|sd
+A|I didn't get to.|sd
+B|I, at least what I hear on that one, that it's coming out a second time in a, in a longer version even though it was a long movie.|sd
+A|Oh, really?|bh
+B|It's sort of the uncut version.|sd
+B|At least that was some of the rumors.|h
+B|We'll have to see, because it's, uh, there was some talk about that.|sd
+B|I,|%
+B|maybe it will come out this fall.|sd
+B|There,|%
+B|we're sort of in the middle of the summer, um, season of a lot of new movies coming out,|sd
+B|but then there's these, um, periods like early fall before Christmas or early spring when there's sort of a quiet period where if you bring something out again, it, uh, will increase the revenues from the movie.|sv
+A|Uh-huh.|b
+A|Well, um, what movies are showing down there now?|qw
+B|Oh, I, I'd actually have to get a newspaper out.|sd
+B|My approach to movies is I kind of hear about them, uh,|sd
+B|I keep track of them a little,|sd
+B|but, you know, ask me to name the ten that are out there right now,|sd
+B|and I'd have to say, uh, I, uh, I don't know.|sd
+B|I, I just look at the newspaper before I decide to go|sd
+B|and,|%
+A|Yeah,|b
+A|that's pretty much what I do.|sd
+A|I, I know for sure that that one about,|sd
+A|what was that one about Bob?|qw
+B|Uh, it's kind of, WHERE'S BOB? or WHAT ABOUT BOB?|sd
+A|I think it's just,|sv
+A|Yeah,|b
+A|I think it's just playing now up here.|sv
+B|Yeah.|b
+B|Because some of them, they, uh, they'll start in one area of the country,|sv
+B|and if they it's,|%

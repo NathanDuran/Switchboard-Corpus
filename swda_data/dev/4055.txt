@@ -1,0 +1,120 @@
+A|Okay, Bill,|fo_o_fw_"_by_bc
+A|right?|qy
+B|Yes.|ny
+A|Okay, Bill,|bk
+A|have you done much camping?|qy
+B|Uh, yes.|ny
+B|I'm a scoutmaster in Boy Scouts.|sd
+A|Uh-huh.|b
+B|And I camp, uh, every month, uh, camp at least one weekend|sd
+B|and during the summer we camp, uh, two or three weeks a year|sd
+A|Oh, well, that, that sounds good.|ba
+B|I'd say I camp quite a bit.|sv
+A|Yeah,|aa
+A|you do.|aa
+A|Um, now do you have a lot mountains,|qy
+A|well, you don't have mountains in Texas, do you.|qy
+A|Where do you find places to camp?|qw
+B|Well, uh, we, we do a lot of canoeing when we go camping|sd
+A|Oh.|bk
+B|and we, uh, we also, uh, carry all our equipment with us|sd
+A|Uh-huh.|b
+B|and so we canoe down the river and then, sleep on the river on one of the, um, sand bars and then get up the next morning, cook our breakfast, and go down the river again.|sd
+A|Oh.|bk
+A|Oh, my word.|ba
+A|Well that sounds adventuresome|ba
+B|How about yourself?|qo
+A|Well, um, I've done, oh, I would say quite a bit of camping, mostly with my husband and I.|sd
+A|Um, we have five children,|sd
+A|and so we have found that camping with the little ones isn't as enjoyable as just when we go ourselves.|sd
+A|So we've tried to get out once a year and go on a anniversary camp out,|sd
+A|and we have gone up into the mountains and, uh, not necessarily roughed it,|sd
+A|but we have just found it just real enjoyable to be alone up in the mountains.|sd
+B|Well, that's good.|ba
+A|And, then the boys are, our boys are old enough now,|sd
+A|they're twelve and eleven,|sd
+A|and so, they're involved in the scouting|sd
+A|and they do a lot of camping with the scouts|sd
+B|Uh-huh.|b
+A|and last time our one twelve year old went to the scout camp for a week,|sd
+A|and so this year they'll both be going,|sd
+A|and so that's been real enjoyable for them.|sd
+B|Great.|ba
+A|So.|%
+B|What, uh, what kind of camping do they like best?|qw
+B|Do they like it where they have tents|qy
+B|and, uh, do they cook on stoves?|qy
+A|Um, yes,|ny
+A|they've, well,|%
+A|no,|nn
+A|actually they've, I remember, they have taken the, the the heavy cast iron dutch ovens and done their cooking there over the fire,|sd
+A|and I don't think they've taken the stoves.|sd
+A|Um, last year they camped in tents,|sd
+A|and this year I believe they will be in tents also.|sd
+B|Uh-huh.|b
+B|Course I imagine it gets cold in parts of Utah.|qy^d
+A|Uh-huh,|ny
+A|yeah.|ny
+B|It doesn't get very cold in Texas,|sd
+B|so lots of times we don't even take tents.|sd
+A|Oh, is that right?|bh
+B|We just use trail tarps.|sd
+A|Oh, and what does that consist of?|qw
+B|Uh, it's just a piece of material that has, uh, that has a lot of places where you can tie off to it and make it into a tent uh, like a, uh,|sd
+A|Oh.|bk
+A|Uh-huh.|b
+B|they're very light weight|sd
+B|and we use them when we go backpacking.|sd
+B|So we go backpacking fifteen or twenty miles, then, uh,|sd
+B|they're not very heavy, see|sd
+A|Uh-huh.|b
+B|so you carry them with you,|sd
+B|and they'll keep you dry or whatever.|sd
+A|Oh.|bk
+A|Yes,|b
+A|well, see, when, when we go camping here,|sd
+A|we have to take our big huge, heavy sleeping bags, and lots of tents|sd
+A|and, I like to sleep on the air matresses.|sd
+A|I'm not,|%
+A|my bones are getting so old,|sd
+A|so I like to, I like to sleep on the matresses.|sd
+B|Uh-huh.|b
+A|Um, so, have you had any adventures on your camping trips, with, encounters with wild animals or anything like that?|qy
+B|yes,|ny
+B|in fact, uh, um, last month we went camping,|sd
+B|we saw a lot of deer uh, in the morning and the afternoon just deer everywhere.|sd
+A|Oh.|bk
+A|My word.|ba
+A|Gee.|ba
+B|Uh-huh,|b
+B|so, uh, but, it, even though, uh, it wasn't hunting season,|sd
+B|and we were with Boy Scouts,|sd
+B|so of course we don't, uh, want to go  hunting.|sd
+A|Uh-huh.|b
+B|But we got to see a lot of deer um, out and about|sd
+A|Oh.|bk
+B|and there's,|%
+B|of course, we see smaller animals all the time,|sd
+B|and, uh, one thing that is a big concern in the evening, at night, uh, is, uh, make sure that all the food's put away and so forth because, uh, we have, uh, armadillos.|sd
+A|Oh.|b
+B|Do you know what  armadillo is?|qy
+A|Oh.|b
+A|Uh, they're covered like with a heavy armor type stuff,|na
+B|Uh-huh.|b
+A|uh-huh.|ny
+B|And possums, and, uh, raccoons.|sd
+A|My word.|ba
+B|And we have those creatures down here that they like to, uh, they like to go hunting for a midnight snack.|sd
+A|Uh-huh|b
+B|And so that, that, uh, that can be a problem if you don't put all your equipment away.|sd
+A|But they won't necessarily attack a human or bite you or anything.|qy
+B|They will if you attack them.|sd
+A|Oh.|bk
+B|But most time they run away from you if they, if they see you're up, you know|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|but they don't have any problem walking right by you if you're asleep.|sd
+A|Oh, my word|ba
+B|So.|%
+A|Well, that sounds a little less fierce than bears.|sv
+A|We, we want to,|%

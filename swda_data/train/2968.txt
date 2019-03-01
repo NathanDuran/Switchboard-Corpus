@@ -1,0 +1,299 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|what do you read?|qw
+B|Uh, well, I read everything, uh, I guess, uh,|sd
+A|What is your favorite?|qw
+B|Uh, well, I like all kinds, uh,|sd
+B|in fact I was just reading, uh, a magazine now. An automobile magazine.|sd
+B|Uh, I like historical, uh, books, TIME magazine, newspaper, how, how to do it type things, uh, uh.|sd
+A|Oh, I am not much into magazines.|sd
+A|I do read them.|sd
+A|I like GOOD HOUSEKEEPING and stuff like that.|sd
+A|I will get ideas out for my own house and yard and stuff|sd
+B|Uh-huh.|b
+A|Main thing, I like Pierce Anthony.|sd
+A|I love Pierce Anthony novels.|sd
+B|Oh, the novels, yeah.|sd
+B|No,|arp_nd
+B|I am not into soap, soaps and all that stuff.|sd
+B|I am, uh, not into novels at all really, other than historical things.|sd
+B|Uh, uh, I am kind of a, a chore person.|sd
+B|I like to do,|sd
+B|I am again, I am a fix it person.|sd
+B|I, I would read all those kinds of things.|sd
+A|Figures . What, like those, uh, magazines you get through the mail?|qy
+B|Yeah.|ny
+B|I will buy car magazines,|sd
+B|course I am an engineer|sd
+B|and I read the engineering magazines, and the money magazines.|sd
+A|I,|%
+B|And, uh, well, I am reading historical, uh, not a novel, but historical book now about the, uh, Russia before, uh, the czar, not before the czar, during the czar's time and what it was like and everything.|sd
+A|Uh-huh.|b
+A|What about like those TIME books that they put out about, uh, uh, oh, ancient discoveries?|qo
+A|You know,|%
+A|how they found out like that, uh, ancient man, performed, uh, brain surgery successfully?|qy
+A|And stuff like that.|sd
+B|Oh, you mean the ancient astronauts things?|qy
+A|Uh-huh.|ny
+B|I have read some of that.|sd
+B|I, I did not,|%
+B|some of that is, uh, it is very interesting, without question.|h
+A|Uh-huh.|b
+B|I, I do not really know that they have the answers in those books.|h
+B|they, make conclusions in them that may or may not be true.|sv
+A|Yes.|b
+A|Oh.|b
+B|But they are very interesting. that, they have, what they have discovered.|sv
+A|Uh-huh.|b
+A|Oh, I like far out facts or whatever.|sd
+B|Yeah.|b
+A|I like to read stuff like that.|sd
+A|But I am a superficial buff.|sd
+A|I cannot take a day I just,|%
+B|You are what kind of buff?|qw^d
+A|Superficial,|sd
+B|Oh, okay.|bk
+A|I like, I like it if it is fun.|sd
+A|I do not get too into it.|sd
+B|Oh, yeah.|b
+B|Right.|b
+A|Yeah.|b
+B|Well, I am kind of a hobbyist|sd
+B|so I, I read all those things that, uh,|sd
+B|and being an engineer, all those books that would bore everybody else, you know, how to do things.|sd
+A|Uh-huh.|b
+A|Yeah.|b
+A|Well,|%
+B|I am one of those crazy people that reads the directions.|sd
+B|It always make my wife mad.|sd
+B|I,|%
+A|Because you read it|^2
+B|when she ever there is something, I say, well, have you read the directions?|sd
+B|another "No,|^q
+B|I hate reading the directions."|^q
+B|I say, well, engineers, we, we are the few people in the world that read|sd
+A|You are an engineer?|qy
+A|Are you an engineer for T I?|qy
+B|Yeah.|b
+A|Okay, uh,|bk
+A|I worked at T I for a little while.|sd
+B|Uh-huh.|b
+A|Uh, we have got a book that says, uh, HOW DO THEY DO THAT?|sd
+B|Yeah.|b
+A|And it answers everything.|sv
+B|Oh, really?|bh
+A|Yeah|ny
+A|And I,|%
+A|well, not everything|sv
+A|but a lot of silly little questions.|sd
+B|Oh, yeah.|b
+B|That,|%
+A|Like what makes a firefly light,|sd
+B|Oh,|b
+B|yeah.|b
+B|Those are, oh, interesting.|sv
+B|Oh, you like science things?|qy
+B|Uh, I have not gotten them in a long time.|sd
+B|What is that, uh, one that is on T V?|qw
+B|That book, uh, NATIONAL GEOGRAPHIC is really a fascinating book, uh, uh, if you ever get those|sv
+A|Now.|%
+B|or|%
+A|Yeah,|b
+A|uh-huh.|b
+A|Well, that, do not,|%
+B|But I have not gotten them in years, uh,|sd
+B|they were kind of expensive.|sd
+B|I know people just collect them like they are,|sd
+A|Yeah.|b
+B|uh,|%
+B|They have wonderful photographs and just amazing photographs that they have done.|sd
+A|Yeah.|b
+A|We used,|%
+A|my little sister was blind and going to school,|sd
+A|and she would have to come home at night, cut out different,|sd
+A|she was not fully blind, just legally blind.|sd
+B|Yeah.|b
+A|But she would have to cut out different colors,|sd
+A|and that is the best book to go through, those NATIONAL GEOGRAPHIC.|sd
+B|It is.|ba
+B|It is.|ba
+B|They, they, they, uh,|%
+B|the photographers just got fantastic pictures in those things. Uh,|sv
+A|And they are great.|ba
+A|I love reading about animals.|sd
+B|Uh-huh.|b
+A|The gorillas and stuff.|sd
+B|Yeah.|b
+A|And the sloth, it fascinates me.|sd
+A|That's something moves that slow|sd
+B|Oh, yeah.|b
+A|And it is just weird.|sv
+B|You know, I have not, uh,|%
+B|of course, was it all books and things|sd
+B|or was it any,|%
+B|did it say anything about newspapers?|qy
+B|I have forgotten what the question was exactly.|sd
+B|But, uh, what do you read, I guess, in general?|qw
+A|Oh, well,|%
+B|Or,|%
+A|Yeah.|b
+A|Well, we can talk about anything we want.|sv
+B|Yeah.|b
+B|Uh, I, I glance at all newspapers.|sd
+B|I do like, uh,|sd
+B|since the since the economy is doing so bad, I never have read the, uh, uh, financial pages more often than now, you know. And trying to analyze and look for some good news in, in there, you know. Uh, to see if the,|sd
+A|Well, for me there is no|sv
+A|well, you know,|%
+A|But like I said, I do not keep up on all that.|sd
+B|Well, I have only been more interested because of things are doing so bad and everything.|sd
+B|I thought well, uh, see if there is anything in there that, uh, uh, would be positive, you know.|sd
+A|Yeah.|b
+A|The,|%
+B|You always look for things with, with this terrible recession that we are in, uh, to see if there is any|sd
+A|Yeah.|b
+A|With everything going down?|qy^d
+B|Oh, yeah,|ny
+B|yeah.|ny
+B|It is, uh,|%
+B|hopefully, uh, we will recover here, uh,|sv
+A|Yeah,|b
+A|I know I heard Bush say that, you know, we are either bottoming out or seem to be.|sd
+B|Yeah.|b
+A|But that is Bush saying that|sv
+B|Yeah.|b
+B|Right|b
+B|and he, he,|%
+B|yeah,|%
+B|I know,|%
+B|I do not really know if, uh, any one person knows, uh, uh, what some of the problems are.|sv
+B|Uh, but there, there are some, there are some interesting things in the paper, really.|sv
+A|Yeah.|b
+A|Well, I like Ann Landers|sd
+B|Yeah|b
+A|No.|%
+A|I like getting the paper and reading the want ads|sd
+A|and just,|%
+A|I do skim over it.|sd
+B|It,|%
+A|But mainly I am a front page person.|sd
+A|I do not go into the details.|sd
+B|Yeah.|b
+B|No,|aa
+B|I glance at it.|sd
+B|I, I|%
+B|with the, so much, uh,|%
+B|you sound like you have a family too.|sv
+B|But with a family and everything, there is just so much going on that I, uh, actually I am more of a|sv
+B|not more of a radio buff|sd
+B|but, uh, it is easier to do when I do some chores, or yard work or anything, put the radio on and listen to that.|sd
+B|And,|%
+A|Well, I know at T I they have most of the stuff on the printout, don't they? I mean, on the computer where you can read the daily news?|qy
+B|Oh, yeah.|b
+B|I do,|sd
+B|every time I come in, uh, I will punch up,|sd
+B|but they call it T News and all that.|sd
+A|Uh-huh.|b
+B|And I, I do get, uh,|sd
+B|it gets a little bit of everything. you know, about, you can read it in one minute, you know.|sd
+A|Uh-huh.|b
+A|Yeah.|b
+A|When I|%
+A|Huh.|%
+B|Uh-huh.|b
+A|I know you do, being an engineer.|sv
+B|Yeah.|b
+A|There are some times when you have got ten or fifteen or even an hour off|sv
+B|Yeah.|b
+A|Not much,|fo_o_fw_"_by_bc
+A|not in the area I worked in|sd
+A|We had an engineer in there every ten minutes.|sd
+B|Yeah,|b
+B|yeah.|b
+A|So,|%
+B|Oh, yeah.|b
+B|It is, it is, it is, uh, interesting, uh, with the computer to read the computer news and, all that.|sv
+B|I, I guess that is a, that is a source of reading.|sv
+B|I hadn't thought about that in that respect, uh,|sv
+A|Yeah.|b
+A|Well, it just encouraged me to read it.|sd
+B|Oh, yeah,|b
+B|yeah.|b
+B|It, it does have a good, uh, simple, uh, you know,|sv
+B|again you can read it in, uh, in a lot less than ten minutes.|sv
+B|It is usually,|%
+A|Uh-huh.|b
+B|you can, you can page through it in,|sv
+A|Yeah.|b
+B|I do not read everything on,|sd
+B|some of the stuff is pretty boring.|sv
+B|I, I skip over some of that.|sd
+B|But, uh, uh, it is,|%
+A|Uh-huh.|b
+B|Yeah.|b
+B|Yeah,|b
+B|yeah.|b
+A|I do not,|%
+B|Well,|%
+A|uh, I read it so less|sd
+A|and I watch so little T V, I did not even know what the deal was with this, uh, oh,|sd
+A|I cannot remember his name now.|^h
+A|Him and his wife are getting divorced,|sd
+A|and he is tycoon or something.|sd
+B|Oh, yeah. Uh,|b
+A|What is his name?|qw
+B|uh, Trump.|sd
+B|Donald Trump.|sd
+B|Yeah.|b
+A|Yeah.|aa
+A|Trump.|sd
+A|I did not even know, I still do not know what the whole deal was with that.|sd
+B|Well, I guess because he was so rich, you know.|sv
+B|When you are that rich, uh, you always get into the paper, whatever, if you have a family problem, whatever.|sv
+A|Oh|b
+B|Well, he had a young girlfriend.|sd
+B|He was, he is well into his forties,|sd
+B|and I guess he got a young girlfriend who, uh,|sd
+B|and, and then every, every time you take,|%
+A|Yeah.|b
+A|Immediately.|ba
+A|So that is all it was?|qy
+A|He was just having an affair on his wife?|qy
+B|Well, that|na
+B|and, uh, his business is going down the tubes so bad, you know.|sd
+A|Huh.|b
+B|He was, uh, uh, essentially like you said, a tycoon.|sd
+B|Uh, Donald Trump and had it all.|sv
+B|He was high roller for about ten years,|sd
+B|and then he is now, uh, essentially bankrupt, you know.|sd
+A|Oh.|b
+B|And so, uh,|%
+A|That has got to be hard to go from really rich|sv
+B|Yeah.|b
+B|Yeah.|b
+B|No,|aa
+B|right, uh,|b
+B|who knows, uh, what he has really got.|h
+B|But, uh, he was kind of an arrogant guy,|sv
+B|so I think the newsmen, uh, enjoyed, uh, writing about him on his way down, you know.|sv
+A|Yeah.|b
+B|It was, uh, she was actually somewhat of a business partner of his, uh, did very well.|sd
+A|Huh.|%
+B|Ivana Trump, uh.|sd
+B|Oh, yeah,|%
+A|Well, see that is like I said. I like, I do not watch much T V any more either.|sd
+B|Huh.|b
+A|But I have got three kids|sd
+B|Oh, yeah.|b
+B|I can imagine.|sd
+B|Right,|b
+B|yeah.|b
+B|Uh, uh, I know what you mean, really.|sd
+A|Well, anyway, I have enjoyed talking to you.|fc
+B|Okay.|fc
+B|Yeah,|fc
+B|well, uh, hang in there.|fc
+B|And good luck with those kids.|fc
+A|Yeah.|fc
+A|And have a good holiday.|fc
+B|Right.|fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

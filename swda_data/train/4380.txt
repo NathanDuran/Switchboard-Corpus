@@ -1,0 +1,104 @@
+A|Recently graduated from high school. Meaning like, uh, you know, three or four years ago.|sd
+A|I'm a senior in, in, uh, college now.|sd
+B|Uh-huh.|b
+A|And, uh, I can't really talk too much about the problems with, uh, public education in detail because the school system I went to was, uh, really superb even though it was a  public school  system.|sd
+B|Really?|bh
+B|Yeah.|ny
+B|I feel that my, uh,|sv
+B|I'm a junior in college now.|sd
+B|And  I go to Tech, Georgia Tech?|sd
+A|Oh.|b
+A|Okay.|sd
+A|Yeah.|b
+B|And I,|%
+A|I got  a friend who goes there, by the way|sd
+A|I want to talk to you about that  afterward,|sd
+A|okay.|^g
+B|Okay|na
+B|Uh, I've,|%
+B|the high school I went to was, uh, was a good one also.|sd
+B|And I, well, I guess you could say one of the problems with the public education system is the disparity between different schools.|sv
+B|Because the one I went to was, you know, I'm sure a, a lot nicer than, you know, a lot of the inner city schools and the things around Atlanta.|sv
+A|Yeah.|b
+A|Yeah.|b
+A|was a, a, it's more or less a suburban school system?|qy^d
+B|Yeah.|ny
+A|Yes.|b
+A|That, that was true for mine too.|sd
+A|Uh, although I I'm sure to some extent, that money is part of the problem in the disparity,|sv
+A|but I don't think, I honestly don't think that's the biggest part of it.|sv
+A|You know, I  think that, uh, I mean I know that in my town, you know, most of the, most of the parents, they're valued education.|sv
+B|What|qw
+A|And, uh  you know, and so the students were, you know, to some extent, motivated to learn.|sv
+B|Yeah,|aa
+B|that's  true.|aa
+A|I mean  know|%
+B|Yeah.|b
+B|And I'm also|%
+B|I mean, in the, in those places where, uh, like the economy is really bad, they might, you know, be more tempted to, to quit school and get jobs and that kind of thing because they need the, you know, money to put food on the table and stuff like that. More than they would you know, in areas where they|sv
+A|Yeah,|aa
+A|that's true.|aa
+A|But but, uh, I think, I mean even more than that, even, I mean if you drop out in high school you should still be able to read you know?  Which  it I mean it sounds like, uh,|sv
+B|Uh-huh.|b
+B|Yeah.|aa
+B|That's true.|aa
+A|now I think maybe it's started changing in the past few years because, uh, they have of these, uh, sort of mandatory tests if you have to take before  you get  a diploma.|sv
+B|Right.|b
+A|But, uh, but, uh, certainly before that, there were people that, you know, would graduate from high school and could barely read.|sd
+A|Uh, and that's just sort of inexcusable|sv
+A|and you can't really,|%
+A|I, I, I mean I just can't even picture how that could happen. You know, except maybe to someone whose, you know, really badly learning, uh, disabled or something.|sd
+B|Yeah.|b
+A|But these people obviously weren't.|sd
+B|That's hard for me to say since I didn't, I didn't really grow,|sd
+B|well when I went to elementary school it, it wasn't in a great area|sd
+B|but I still, I mean, I learned to read, started learning to read when I was in kindergarten, you know.|sd
+A|Yeah.|b
+B|So  I guess I can't really I can't say what it would be like to, uh, grow up in a really oppressed region|sv
+A|Yeah.|b
+A|Yeah.|b
+B|You know, I guess the whole, the whole environment and attitude towards school and learning is different for the  people.|sv
+A|Yeah.|aa
+A|And  I think that's almost a bigger factor, than anything else probably.|sv
+A|I mean, I don't, I think  you know, people just,|sv
+B|So, I guess the  problem is the, the thing to do is to try to, uh, to get some kind of motivation to learn|sv
+B|and,|%
+A|Yeah.|b
+A|And, again, I don't, I mean|%
+A|got know the, you know, how qualified, I mean,|%
+A|I think it'd be interesting to, you know, to spend a couple of days just looking around an inner city school. Uh, you know, sort, sort of maybe from elementary through, uh, high school.  You know,  just sort of to get a feel for what it's like.|sv
+B|Uh-huh.|b
+B|Yeah.|b
+B|Uh-huh.|b
+A|I think that'd be an interesting experience.|sv
+A|But, uh, I haven't done that|sd
+B|No,|b
+B|I, I can't say that I have either.|sd
+B|But, uh,|%
+A|But I do, I do think that, uh, I mean, public education in general I think can work.|sv
+A|And I think it's a good thing.|sv
+B|Yeah.|b
+B|I've, I've heard some, I mean I've heard statistics and things that, that compare a public education to a private education. I mean within like, within the same, uh, income groups.|sd
+A|Yeah.|b
+B|If you compare the, like the people that could have, that could have sent their kids to private schools and the people that, you know, the people that, uh, did send their kids  to private  schools.|sd
+A|Yes.|b
+B|I think they compare you know, fairly well.|sv
+A|Yeah.|b
+A|Yeah.|b
+A|I mean, I don't, I honestly don't really think I could have, you know, done much better than I did in the school system I was in. mean|sv
+B|Yeah.|b
+B|I, I, I, my schools, I mean, there,|%
+B|I have a lot of|sd
+B|once, once it seemed I got into high school, they had a lot of, uh, accelerated programs and all kinds of stuff like that.|sd
+A|Yeah.|b
+B|That, I mean, that makes a big difference|sv
+B|cause I wondered when they're taking classes with, uh, with people that are really, are interested in the, the subject  and stuff like that.|sd
+A|Yeah.|b
+A|I mean, and  and in the,|%
+A|once you junior high, uh, start junior high, starting in eighth grade all the way through high school, there were four levels.|sd
+A|Well, no,|ar
+A|I guess it in junior high, it was still three.|sd
+A|Then in high school it changed into four levels of, uh, of instruction in the major subjects. Uh, which,|sd
+B|Uh-huh.|b
+A|I mean, actually I think that works pretty well.|sv
+A|and that, that makes,|%

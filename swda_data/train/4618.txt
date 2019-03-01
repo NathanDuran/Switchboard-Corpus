@@ -1,0 +1,106 @@
+A|Go ahead|ad
+B|Uh, have you every been tested for a new job or anything?|qy
+A|Uh, no|nn
+A|I haven't.|sd
+A|But, in my job, I'm a nurse, and we are allowed to be.|sd
+A|I mean, you know, this is the rules that they can do this anytime.|sd
+A|Uh, I don't know of anyone who ever has been picked out and been tested.|sd
+B|So it's just sort of, uh,|%
+B|they can if they,|%
+A|They can if they choose to.|sd
+B|Oh, okay.|b
+A|Right.|b
+A|Have you, well have you had any experience with it at all?|qy
+B|Uh, not really|ng
+B|but I've always worked on a university level|sd
+B|but a lot of my friends had to be tested before they got summer jobs and stuff.|sd
+A|Uh-huh.|b
+A|So what do you think about that?|qo
+B|Uh, I don't, I don't think they're very accurate|sv
+B|because, I mean, I know their lifestyles changed prior to the drug test|sd
+B|and I know they changed afterwards.|sd
+A|Right,|aa
+A|right.|aa
+A|See I know of that too.|sd
+A|And I also know that things like antihistamines, Sudafeds, things like that, can really throw it off.|sd
+A|And you cannot get a job because of it Uh-huh.|sd
+B|Yeah,|b
+B|I, I had a friend,|sd
+B|it didn't cause her any problems with her job|sd
+B|but it came back that she tested positive for using a hallucinogen.|sd
+B|But what it was, was she had been she had been, uh, in the jungle|sd
+B|and it was some Malaria medication|sd
+B|and she tested positive for that.|sd
+A|See, and so it really is a dangerous thing that way|sv
+A|because I know of somebody that tested for an airline and didn't get the job|sd
+A|and they weren't told why.|sd
+A|But a lot of people say the reason why, after you take a physical, will be because of the drug testing|sv
+A|or they would tell you.|sv
+A|Or this person never use any drugs.|sv
+B|See, I always,|%
+B|I thought they got, you got called back if you tested positive, for more tests.|sv
+A|Uh, you should.|sv
+A|Because you should be given another chance or at least be able to justify it or something.|sv
+A|I have real mixed feelings about it.|sd
+A|I don't know.|sd
+B|How, do you know how wrong they are?|qy
+B|Are they, I mean, is there a  margin of error?|qy
+A|The accuracy?|br
+A|I don't know.|no
+A|I don't know.|no
+A|But, I know there are a lot of things that can influence them|sd
+A|and I think that a person deserves a second chance with it or something because most things will stay in your system for a long time.|sv
+B|Yeah.|b
+A|And if you could show that,|sv
+A|I, I interviewed for a job recently|sd
+A|and I was taking Entex. And my doctor gave me a prescription for it.|sd
+B|Uh-huh.|b
+A|And he said this way if it were to make the drug test positive, you have proof that your doctor ordered this for you, you know.|sd
+A|And it didn't come up that I needed to do it|sd
+A|but this could happen to anybody|sv
+A|and if they would just say oh, this person's drug test is positive we won't hire them you know. Then you could lose out on a job when really you didn't do anything.|sv
+B|Yeah.|b
+B|Yeah.|b
+A|So I don't know.|h
+B|And I, I'm not  so sure they are that needed. *b|sv
+A|Yeah,|aa
+A|I'm not  sure either.|sd
+A|The only way I can see it is that if they really suspect a person of using it, then they have the right to go ahead and prove it|sv
+A|because they say they can spot check.|sd
+B|if you're using it while at a job, I can see a problem.|sv
+A|Yeah.|b
+B|But the occasional person, then it's almost like, it's almost an infringement of your privacy.|sv
+A|Well, it sort of is.|aap_am
+A|And this is it,|fo_o_fw_"_by_bc
+A|this,|%
+A|I'm not real sure how I feel about it because I can see it from two ways.|sd
+A|You know, as a health professional, I wouldn't want somebody to take care of me that was using drugs.|sv
+B|Yeah.|b
+A|You know, so as a patient, I feel well, yeah, we probably should be protected.|sv
+A|But, on the other hand, there's a lot of things I should be protected from that they don't test my patients for too.|sv
+A|So you know, I guess you sort of, you have to have trust some place along the way.|sv
+B|Yeah.|b
+A|You can't go around testing everybody for everything.|sv
+B|Yeah|b
+A|So, I don't know.|sd
+A|And I, I think it could be used to hassle somebody.|sv
+A|If someone was out to get you, I think that a company or a boss could use this.|sv
+A|You know, they could keep on doing this to you or something, I guess.|sv
+A|I can see where it could become a problem.|sv
+B|And it, it's like, it seems like now they have tests|sv
+B|I guess they can test your hair|sd
+B|and they can find out if you use drugs up to several years ago.|sd
+A|Really. maybe you shouldn't be held responsible for something you did several years ago. *sv|b
+B|So,|%
+B|I know.|aa
+A|That's the other thing.|fo_o_fw_"_by_bc
+A|I mean a lot of, a lot of people as kids or, you know, young people get into some things that they get out of later on|sd
+A|and I don't think they should really have to pay for that forever.|sv
+B|Yeah.|aa
+B|There's a lot of things you do as a kid  that  you wouldn't do as an adult|sd
+A|Yeah.|b
+B|but  you can't say it was  wrong at the time.|sv
+A|I think that's true.|aa
+A|Yeah,|aa
+A|yeah.|aa
+A|So that probably wouldn't be too good either.|sv

@@ -1,0 +1,100 @@
+A|Are, are we paying too much in taxes,|qy
+A|and are we getting what we pay for?|qy
+A|What's your opinion?|qo
+B|Well, it's kind of a broad subject, uh,|sv
+B|I, I think there are some areas where we, where we, uh, pretty well, you know, get our money's worth,|sv
+B|but I, I also think there are a lot of areas especially in, uh, big government, federal government, uh, where we're short changed. Uh, lot of money spent for, uh, things that are not used|sv
+B|and, uh, I was, I was in the Air Force|sd
+B|and I was at, there were, there was equipment at every base I was ever on that was just going to waste.|sd
+B|It was just sitting and rusting|sd
+B|and, you know, and|%
+A|Okay.|b
+A|I, I tend to agree with you.|sd
+A|When it comes to government spending, there are so many studies done that don't mean anything|sv
+B|Yeah.|b
+A|but we'll spend hundreds of thousands, if not millions, of dollars on.|sv
+B|Yeah.|b
+A|And it's nice to know something doesn't work or something doesn't exist,|sv
+A|but, it could be put to more practical use.|sv
+B|Yeah,|aa
+B|and I, I think that, uh, it's a, a tone of our times that politicians, uh, are into themselves more than they are into, you know, doing something worthwhile for the people they represent, which is really unfortunate.|sv
+A|That is true.|aa
+A|I agree with you in that area.|aa
+A|Uh, I have a tendency to,|%
+A|I'm in, from Texas|sd
+A|and I read, you know, how our politicians voted each week in the paper.|sd
+B|Yeah.|b
+A|And it's, you know, it's interesting how the votes vary|sv
+A|and what they ran on in platform don't necessarily come true in their voting in the senate or Congress, whatever.|sv
+B|Uh-huh.|b
+B|And don't really respond to, uh, people who write them and call them|sv
+B|and, uh, you know, unless they're in the limelight and under pressure|sv
+B|So,|%
+B|yeah,|%
+B|I think we get short changed on that.|sv
+A|Right,|aa
+A|that's very true.|aa
+A|What, what state do you live in?|qw
+B|Texas.|sd
+A|Okay.|bk
+B|That's,|%
+A|What do you think about Robin Hood?|qo
+B|Well I work for school district|sd
+B|and, uh, it's, it has hurt us a lot.|sd
+B|Uh, there has to be some way, I think, to equalize education opportunities.|sv
+B|But, uh, you know, our, we, we tend to think, I think, especially big government, tends to think that the solution to everything is to throw money at it.|sv
+B|And I don't, you know,|sd
+B|that's just not true.|sv
+B|I don't think the, you know, I don't think money is going to take the place of intelligence or, uh, problem solving skills.|sv
+B|Uh, I think there are, there are too many things that money can't uh, that, that money can't buy that, that are important as far as education is concerned.|sv
+A|That's true.|aa
+A|What school district do you work for?|qw
+B|Richardson.|sd
+A|Okay.|bk
+A|I work for Plano.|sd
+B|Oh.|b
+B|Great,|ba
+A|So, we're comparable.|sv
+B|Yeah.|aa
+A|As a matter of fact, I just paid my Richardson taxes because I live in Richardson and supplemented the Robin Hoods very thoroughly, I think.|sd
+B|Yeah,|b
+B|I think we've, uh, Yeah, we have got it on the line don't we.|sv
+A|Our taxes went up tremendously.|sv
+A|Yes.|aa
+B|And it's not going to get any better.|sv
+B|you know, I mean, it's going up and up and up.|sv
+B|Uh, I used to live in the Plano school district,|sd
+B|and, uh, there was a, an organization, a taxpayers organization that, uh, finally communicated the message to the, I think to the people in Plano that, you know, we didn't want our taxes raised.|sd
+A|Yes,|b
+A|I remember there was about four, five years ago.|sd
+B|Yeah.|b
+A|Yes.|b
+B|But, this, you know, this, uh,|%
+B|I think living in Richardson, we're kind of spoiled because I think we get, we come closer to getting our money's worth as far as the city is concerned, I think than probably any, any city in the country.|sv
+A|Yes,|aa
+A|well, did you read in the Dallas paper where they increased the the administrators' pay by thirty three percent after they laid off all those teachers.|qy
+B|Is that incredible?|bh
+B|That's, that's the biggest mess I've ever heard of.|sd
+B|You know, how can you, how can you justify raising anybody's salary if you, you know, if you have to lay people off?|qh
+A|Right.|aa
+A|But, you know, I'm not going to complain because Plano got, we all got a pay raise this year.|sd
+B|Yeah.|b
+A|You all got a pay raise this year.|qy^d
+B|Yeah.|ny
+A|Is that correct?|qy
+B|Well, yeah, I think the teachers uh, did,|na
+B|and I don't know about administrators.|sd
+B|I, I'm semiretired|sd
+B|and I was, I was an administrator,|sd
+B|so I, you know, I don't get a raise anymore.|sd
+B|I just, I, I work part-time and just get, uh, you know,|sd
+A|Okay|bk
+B|my pay doesn't change.|sd
+A|Are you on the early retirement?|qy
+B|Yes.|ny
+A|Oh, are you enjoying it?|qy
+B|Yes,|ny
+B|very much.|sd
+B|Uh, course, I, I still work two part-time jobs|sd
+B|So, it's not really total retirement.|sd
+A|Well, it's interesting, you know, because when you look at what Richardson has done with the early retirement you,|sv

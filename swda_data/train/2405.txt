@@ -1,0 +1,277 @@
+A|Hi,|fp
+A|how are you today?|fp
+B|I'm great|fp
+A|Good.|fp
+A|Well as a matter of fact I'm, before we started this conversation I was working on my P C at home.|sd
+B|Yeah.|b
+A|Do you have one?|qy
+B|No,|nn
+B|I don't have one at home.|sd
+B|I work with one on, at work continually, you know,|sd
+A|Yeah.|b
+B|but I do not have one of my own at home.|sd
+A|Do you have,|%
+B|What do you have, at home?|qo
+A|We have an, um,|%
+A|actually it's a T I computer,|sd
+A|but it is the I B M um, clone.|sd
+B|Uh-huh.|b
+A|It's not the T I P C from back when.|sd
+B|Right.|b
+B|From the oldies but the goodies.|bf
+A|Right.|aa
+B|It's probably pretty close to what I have, because I have the same kind of thing at work.|sd
+B|I have a three eighty-six S X which is T I computer,|sd
+B|but everything in, is in I B M mode.|sd
+B|So.|%
+A|Yeah,|b
+A|that's what we have. Um.|sd
+B|Do you use it a lot at home?|qy
+A|Well, I really do.|na
+A|I, um, am an accountant|sd
+A|and, but I work at home.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|So you're on it a lot.|qy^d
+A|So I use it for that quite often.|arp_nd
+B|Uh-huh.|b
+A|We have, you know, used some of it for some personal things.|sd
+A|We keep track of personal budgets and things like that on it.|sd
+A|I,|%
+A|since it's tax season, I'm doing a lot of taxes,|sd
+A|so I do a lot of, um, a lot of that work on it as well.|sd
+B|I was amazed when I took our taxes to our tax person|sd
+B|and she works out of her home also.|sd
+A|Uh-huh.|b
+B|And the, uh, software that does the taxes is just incredible.|sv
+A|Oh it is.|aa
+B|You know, I mean, she just, you know,|%
+B|I expected to go and, you know, drop the stuff off and go back two weeks later.|sd
+B|And, you know, she had it done and out in twenty minutes on her little P C.|sd
+A|Yeah,|b
+A|you can.|sd
+B|It was great.|sd
+A|Yes,|aa
+A|you can,|sd
+A|that's right.|aa
+B|That's wonderful.|ba
+B|I have often thought that, that having one at home would be neat.|sd
+B|I just don't know if we would really use it that much. You know.|sd
+A|We really,|%
+A|we we didn't decide to get one until I started working at home.|sd
+B|Uh-huh.|b
+A|Then, you know, then, we thought, well we can use it for, you know, some personal things.|sd
+A|We|%
+A|for us it really took, you know, a business application to justify the expense of it.|sd
+B|Uh-huh.|b
+B|Oh, definitely,|aa
+B|definitely.|aa
+B|I know my stepfather bought my mother a little personal computer, oh, I guess, probably three years ago for Christmas,|sd
+B|and, you know, it's got some stuff on it.|sd
+B|It's got a nice little word processing software on it, you know, and some budgeting type things and stuff.|sd
+B|And I don't think she's ever touched it you know.|sd
+A|Really.|b
+B|It just, it just seems like a lot of trouble for something at home.|sv
+B|You know, she always seems to have better things to do than to try to sit down and figure out how to use her computer you know.|sd
+B|So.|%
+A|Right.|aa
+A|She could just as easily do those things by hand.|sv
+B|Yeah,|aa
+B|just as quickly.|sv
+A|Yeah.|b
+B|Now I know my boss has bought the software, um, that he can, that his checkbook is on, on on a disk,|sd
+A|Uh-huh.|b
+B|and he goes in and and types his checks on the screen and then hits print,|sd
+B|and they print out on the checks,|sd
+B|and he's ordered envelopes with the windows in the right places you know,|sd
+A|Oh my gosh.|ba
+B|and he just whips, out, you know,|sd
+B|I saw him yesterday morning over there,|sd
+B|and, and he paid his monthly bills,|sd
+B|and he just, you know, wrote all the checks on the screen and hit print|sd
+B|and it printed out like ten checks,|sd
+B|and he just, you know,|%
+B|they're perforated,|sd
+B|and he just ripped them off.|sd
+B|They go through just a continuous thing on the printer|sd
+A|Right.|b
+B|and he ripped them off and stuck them in the envelopes|sd
+B|and there they went.|sd
+B|You know, and he said, you know, I can balance my checkbook in seconds, you know because it's all in the computer, you know.|sd
+A|Right.|b
+B|So.|%
+A|And you know there's not going to be those adding mistakes that we all make.|sv
+B|That's exactly why.|aa
+B|He said, you know, he said, used to be I always sat looking for those, you know.|sd
+B|He said this way there isn't any.|sd
+B|You know, it does it for you.|^q
+B|So. This, you know,|%
+B|there are some definitely, some, some advantages to it.|sv
+B|It's just a matter of, like you say, are the advantages, does it justify the cost, if you're using it strictly for personal business.|sv
+B|So.|%
+A|Right|aa
+A|I, I think in most cases I'd have to say no.|sv
+A|Not unless somebody really enjoys it. Or perhaps is using it for education.|sv
+B|Right.|b
+A|I have a four year old son,|sd
+A|and we have some education programs that he likes.|sd
+A|A little Sesame Street one|sd
+B|Yeah,|b
+B|yeah,|b
+A|and we have another one that plays music,|sd
+A|and he really likes that one.|sd
+B|As he grows up he'll be even more and more too.|sv
+A|That's right.|aa
+B|That'll be great.|ba
+A|And yeah,|%
+A|on,|%
+A|now I think about it,|sd
+A|I guess for, for kids like, as they get older,|sv
+A|especially now when they get to junior high school, high school, and even college.|sv
+B|Uh-huh.|b
+A|I mean, my sister went to college, started about three years ago,|sd
+A|and she had to have a, a computer.|sd
+B|Really.|b
+A|I mean, it was like a necessity.|sd
+B|Well, yeah,|b
+B|I.|%
+A|She couldn't imagine going through college without a computer.|sd
+B|Well I'm going through right now.|sd
+B|I'm, you know, going part time in the evenings,|sd
+B|and, you know, I do,|%
+B|yeah,|%
+B|everything has to be typed.|sd
+B|I mean, they require it.|sd
+B|You have to type it you know,|sd
+A|Right.|b
+B|and, and so I'm up here, you know, nights and weekends you know, working on the little on the P C up here, you know, typing stuff.|sd
+B|So I can see where it would be a great advantage to have one at home, you know, if you were going to school.|sd
+A|Yeah,|aa
+A|any more I don't even know if they have, if a college kid would have a typewriter|qy^d
+B|Well, you,|%
+B|I don't know.|no
+A|Probably not even,|sv
+A|no.|nn
+B|No,|nn
+B|no,|nn
+B|and they probably used to have it.|sv
+B|I just finished a, a major research paper a couple of weeks ago,|sd
+B|and I couldn't imagine not having that thing on a disk where I could go back in and move stuff around and change it.|sd
+A|Uh-huh.|b
+B|I, I don't know what they used to do before they,|sd
+A|Well, unfortunately in our family, my husband and I went through college together|sd
+A|and then he went on and got his Master's degree while I was working.|sd
+B|Uh-huh.|b
+A|And I'm the better typist, of us,|sd
+B|Uh-huh.|b
+A|and we just had a regular old typewriter, not even a correcting one back then.|sd
+B|Oh and you had to type all of his papers.|qy^d
+A|It wasn't that long ago,|sd
+A|but I typed his Master's papers and things on a typewriter.|sd
+B|Oh gosh,|ba
+A|Oh boy, to have a computer back then.|sd
+B|Oh, cut your time in half at least.|sv
+A|At least.|aa
+B|At least.|b^m
+A|I mean,|%
+A|and then of course you have some changes to make, and do the whole thing over.|sv
+A|You take out a sentence,|sv
+A|on a computer you take it out, bleep, print it out, fine.|sv
+B|Uh-huh.|b
+A|Take out a sentence on a piece of paper,|%
+B|You do the whole thing over.|sv
+A|Right.|b
+B|That's right.|aa
+B|You know, I remember when I was working in high school, you know, I was working in an office, right after I got out of high school|sd
+B|I continued working there for probably another year.|sd
+B|And we did everything on a typewriter everything.|sd
+A|Oh, yeah.|b
+B|But it's amazing, you know,|sv
+B|then, when, where, you know, someone would have you type a letter, they did it right, they did it right.|sv
+B|I mean, they were,|%
+A|The first time.|sv
+B|Yeah,|aa
+B|they sit there|sv
+B|and they go, is this really what I want to say,|sv
+B|and you typed it|sv
+B|and that was it,|sv
+B|and now, you know people just send it back over and over and over and over.|sv
+A|That's probably one of the problems and frustrations that it's brought about, because people do feel like, Oh well, we can just change it.|sv
+B|Well, we'll try this out and see what it looks like.|^q
+B|Yeah.|b
+A|Yeah,|b^m
+A|use it as a, just a,|%
+B|Yeah,|b
+B|instead of knowing what they want to say before they they just, you know, play with it, and, which in a way is nice to be able to do,|sv
+A|Right.|b
+B|but, you know, it, it gets a little out of hand sometimes.|sv
+B|I've seen it get out of hand up here, you know where we've got a secretary that sits over here that's keeping metrics right now, and keeping up, you know, of all the letters I type, how many how many of them do I make changes on. And on each letter, what types of changes.|sd
+A|Oh yeah.|b
+B|Are they typos?|qh
+B|Are they because I couldn't read it|qh
+B|or people just change a, like, one word because they think it sounds better, or whatever.|qh
+B|And, you know, she's also keeping a percentage, you know, what percentage of letters am I retyping for whatever reason.|sd
+A|Uh-huh.|b
+B|And there's like one week, she did retypes on ninety percent of what she typed you know,|sd
+A|I believe it.|ba
+B|and it's like, you know, it's ridiculous|sv
+B|and that was, that was the high week,|sd
+B|but it's running about seventy which is still ridiculous to have to make changes to seventy percent of everything that she types.|sv
+A|Uh-huh.|b
+A|Well, it's good that she does that, I mean, bring it to people's attention.|sv
+B|Well, that's exactly right.|aa
+B|You know, she keeps, you know keeps several weeks' worth of data and then in addition is keeping copies of all the changes to show, you know, look, this didn't really need to be changed.|sd
+B|You know, this is ridiculous and you know, changing, add this time to now.|^q
+B|You know, I mean, that's the kind of things, you know, that she's keeping and showing, that, this was a big waste of time, it was a waste of paper, it was a waste, you know to change something like that.|sd
+A|Right,|b
+B|So. Anyway, maybe, you know, maybe it'll, it'll help in some way,|sv
+B|but I don't know.|h
+B|There, there definitely even with the few disadvantages like that are far better than the alternative.|sv
+A|Oh I have to,|%
+B|Without a doubt.|sv
+B|Without a doubt.|sv
+B|Well, I would like to get one at home some day.|sd
+B|We've got a two year old son,|sd
+B|and so, you know, some day I would like to get, even just like the video tell, or something like that, you know, just to, to be able to pull in sources from outside would be wonderful.|sd
+B|You know so,|%
+A|Especially when they're in school, I think they would get a lot out of it.|sv
+B|Oh, I do too,|aa
+B|I do too.|aa
+B|The on line encyclopedia just sounds wonderful,|sv
+B|you know, that sounds like such a great idea,|sv
+B|you know, it'd be kind of fun to be able to play with it.|sv
+B|So. I know, my father had a P C,|sd
+B|and when we were in high school it was always fun.|sd
+B|We could, um, link in,|sd
+B|and I don't even remember now what it was called.|sd
+B|But you could link in and talk to other talk to people all over the country, you know.|sd
+A|Uh-huh.|b
+B|And, like, you have your own little code name, you know,|sd
+B|and you'd type in du du du, Hi how are you, du du du,|sd
+B|and they'd type back and everybody,|sd
+B|and you'd have five or six or seven people talking to each other at the same time,|sd
+B|and everything everybody said prints out on your screen as they're typing it,|sd
+B|and it was just great fun, you know,|sd
+B|It was very expensive, because the whole time you were on there you were on long distance, you know.|sd
+B|It was like a long distance phone call.|sd
+A|Ooh.|b
+B|So, we were each limited to like twenty minutes a day, you know,|sd
+B|so.|%
+A|Ooh,|b
+A|that still could add up.|sv
+B|Oh it added up big.|aa
+B|Well, you know, we, my parents were divorced|sd
+B|and so the time we were like visiting our father in the summer time, you know,|sd
+B|so he felt like he could splurge and let us do it.|sd
+A|Yeah.|b
+B|I'm sure we would not have been allowed to do that under normal situations, you know.|sv
+B|But when you're doing the guilty father complex, you know, because he's not there to watch us grow, you can kind of get all kinds of stuff.|sv
+B|That's sad.|ba
+B|Well, it was nice to talk to you.|fc
+A|Yeah,|fc
+A|you too.|fc
+B|Have a,|%
+A|Have a nice day.|fc
+B|You too.|fc
+A|Bye-bye.|fc
+B|Bye.|fc

@@ -1,0 +1,128 @@
+A|Do you have any?|qy
+B|Yes,|ny
+B|we do have a pet.|sd
+B|We have a, a dog that we got from the, uh,|sd
+B|well, we call it the S P C A.|sd
+B|It's the, uh, from an animal shelter.|sd
+A|Uh-huh.|b
+B|Uh, he'd come in there as a stray.|sd
+A|All right.|b
+B|Uh, he's a Pomeranian and Sheltie cross.|sd
+A|Yeah.|b
+B|Uh, well, he was very well trained when we got him.|sd
+B|Uh, he's,|%
+A|Oh, that's good.|ba
+A|You don't often find that,|sv
+A|I don't think.|h
+B|No, uh,|aa
+B|we suspect that he was hurt in an accident, you know, got away from somebody traveling through, and hurt in an accident because a dog that looks as good as he does and is trained as well is someone that has lost him and not have been able to locate him.|sv
+A|Right.|b
+A|Uh-huh.|b
+B|And, uh, if they were local people, they would have been able to find him.|sv
+A|Sure.|aa
+A|There's a,|%
+A|okay, uh,|%
+A|that's interesting.|sv
+A|Yeah,|%
+A|the only pet that I've had, uh,|sd
+A|I'm a, I'm a doctoral student right now|sd
+B|Uh-huh.|b
+A|and in my, in my earlier days as a student I kind of time shared on a dog with a, a good friend of mine|sd
+A|and, uh, it was an amazing dog,|sd
+A|it really was.|sd
+A|They had, he had gotten it from the pound|sd
+A|and, uh, it, it's a Spanish Pointer named Domino. Kind of looks like a a Dalmatian|sd
+B|Oh, yeah.|b
+B|Uh-huh.|b
+A|and we trained it from a pup,|sd
+A|and basically it, right now it, it's fully trained|sd
+A|and it can do a lot of things.|sd
+A|It will get beer for you out of the fridge,|sd
+A|and it will get the newspaper and do all kinds of stuff.|sd
+A|So, it's really, it's, it's kind of a show piece|sd
+A|and whenever anybody comes over, we all have to show him Domino you know .|sd
+B|Oh, I think so.|ba
+A|Yeah,|b
+A|it's, uh,|%
+A|she's been a real good, a real good dog|sd
+A|and, uh, just, it's kind of a shame that I'm, I'm I'm away from it now.|sd
+A|I, I I actually live in Florida|sd
+B|Uh-huh|b
+A|but I'm on an internship up here for a year|sd
+A|and then I go back down,|sd
+A|but, uh,|%
+A|yeah,|%
+A|Domino's a real good dog.|sd
+B|Yeah.|b
+A|Uh, what, uh, possessed you to get the dog?|qw
+B|Well, I guess, in one sense we felt that, it, it's nice to have a dog even though there are, you know, complications come with it.|sv
+A|Yeah.|b
+B|And then with our children, uh,|sd
+B|at the time they were, oh, grade five and, and grade eight,|sd
+B|so it was an age where it was, uh, we thought it was be good for them to have the discipline that goes with, with having a pet.|sd
+A|Uh-huh.|b
+A|Sure.|b
+B|Uh,|%
+A|Sure learn a bit, learn a little bit of discipline and how to care for it and things like that.|bf
+B|Yeah,|aa
+B|right.|aa
+A|That's good.|sv
+A|That kind of builds some character a little bit.|sv
+B|So ,|%
+B|Well, that's the idea.|aa
+B|I think the reality of it is, that they perhaps,|sv
+B|uh, it depends on the, on everyone's discipline.|sv
+A|Uh-huh.|b
+B|And, uh, from that aspect, I'm short on the discipline, because I don't, uh, enforce that the kids look after the dog|sd
+B|and, uh, we've had him about four years now.|sd
+A|Uh-huh.|b
+B|Uh, but I think it does, it, it, you know,|sv
+B|it's necessary that individuals have the discipline to look after the animal properly, uh,|sv
+A|Yeah,|aa
+A|that's something that's important for sure.|sv
+B|Yeah.|b
+A|I think, uh, do you live in a, in a, in a fairly rural part of the, uh|qy
+B|Uh,|%
+A|or,|%
+B|Actually no,|ng
+B|we live in a, in an area that's, oh, probably about two and a half miles from the university.|sd
+A|Oh, I see.|bk
+B|Uh, we live right, might say we live right in, uh, in the middle of a residential area.|sd
+A|Um.|%
+B|And, uh, so that is not as good, uh, you know,|sv
+B|this dog, being a small dog it's, uh, more you, more acceptable|sv
+A|Yeah|b
+B|but again,|h
+A|it's not that big of a problem.|sv
+A|With Domino, she was full grown,|sd
+A|I would estimate seventy pounds.|sd
+B|Yeah.|b
+A|And, you know, we lived in Oviedo, which is a small town,|sd
+A|it's a suburb of Orlando|sd
+B|Uh-huh.|b
+A|but there's not, there wasn't a lot of room for her to run around,|sd
+A|and she was a dog that loved to run,|sd
+A|so that was the biggest problem I saw,|sv
+A|and I think that's one of the, uh, the issues people need to think about before they get a dog is, you know, do you have the room for this dog to run around,|sv
+A|or, you know, I guess you can't really say for cats.|sv
+A|Me and cats don't get along too well, uh|sd
+A|but, you know, that whole space issue, I think, is real important.|sv
+B|Yeah,|b
+B|it's, uh, that's one of the biggest concerns.|sv
+B|It's like, uh,|%
+B|there's a lot to be gained from a relationship with an animal,|sv
+B|but the same time, one has to recognize the reality of physical requirements of of the animal|sv
+A|Right.|b
+A|Yeah,|b
+A|that, that,|%
+B|and the larger they are, the more room they need to exercise.|sd
+A|Sure,|aa
+A|and that's all part of of keeping your part of the relationship. You know, showing the maturity and responsibility to recognize those, uh, those issues.|sv
+B|Right.|b
+B|Well ,|%
+A|You know, and also, the whole, whole thing with noise.|sd
+A|My mother, oh, she freaks out because she's got neighbors that have dogs, that don't train them|sd
+B|Uh-huh.|b
+A|and, you know, we we had a neighbor in Nebraska when we lived there that had, uh, Brittany Spaniels|sd
+A|and they're very high strung animals to begin with,|sd
+A|but, uh,|%

@@ -1,0 +1,219 @@
+B|Well, we have,|%
+B|we used to, when I was younger|sd
+A|Yeah.|b
+B|we'd go every weekend.|sd
+A|All right .|b
+B|But we haven't done whole lot of it lately.|sd
+A|Yeah.|b
+A|I'm kind of into it.|sd
+A|I'm, uh, kind of a sailor.|sd
+B|Yeah.|b
+A|I'm up in Minneapolis now,|sd
+A|but I was in Florida|sd
+A|so, uh, yeah,|%
+A|I was kind of into it for a while there.|sd
+B|Were you sailboating?|qy
+A|Yeah,|ny
+A|for the most part.|sd
+A|Yeah|ny
+B|Yeah.|b^m
+A|I had a little sail,|sd
+B|Well, we don't get to do a whole lot of that up here|sd
+A|No|b
+B|Just motorboat's all we,|sd
+A|What part of Texas you from?|qw
+B|Uh, Nacogdoches.|sd
+A|Okay,|bk
+A|whereabouts is that?|qw
+B|That's between Houston and Dallas.|sd
+A|Okay,|bk
+A|all right.|bk
+B|It's the oldest town in Texas.|sd
+A|Is that right?|bh
+B|Yeah.|ny
+A|Wow,|ba
+A|that's pretty wild.|ba
+B|We have, uh, Lake Sam Rayburn out here and Lake Nacogdoches,|sd
+B|so we do a lot of boating on.|sd
+A|Okay,|b
+A|so you got some lakes around you can do that on.|bf
+B|Yeah.|aa
+A|You do skiing and stuff|qy^d
+A|or,|%
+B|Yeah,|ny
+B|little bit.|sd
+A|Yeah?|bh
+A|All right.|%
+B|Just got through snow skiing|sd
+A|Yeah?|bh
+B|Yeah.|ny
+A|All right.|b
+B|Just came back from Denver|sd
+B|but,|%
+A|Yeah,|b
+A|that sounds good.|ba
+A|Yeah,|%
+A|we've, uh, our,|%
+A|the snow up here is really kind of starting to melt now.|sd
+B|Yeah,|b
+B|it, it, it was heavy when we were there though.|sd
+A|Yeah.|b
+B|I didn't see any boats there, though.|sd
+A|Not, not, not too many, no.|aa
+A|But, uh, no,|%
+A|I just got back from a weekend.|sd
+A|We went and, uh, had a, kind of a picnic in the woods type thing.|sd
+A|It was pretty nice,|sd
+A|but, uh, no, I, I have, uh, I had a boat last summer that I took out, a catamaran that I do, did a lot of sailing on and stuff.|sd
+B|Yeah?|bh
+A|That's a lot of fun,|ba
+A|but, uh, my parents are pretty big sailors, too,|sd
+A|they're kind of into it.|sd
+B|Uh, all we, all we have up here mostly bass boats.|sd
+A|Oh, yeah,|b
+A|I guess it's pretty, uh, fishing's a pretty big thing, huh?|qy
+B|Uh-huh.|ny
+A|Yeah.|b
+B|Lot of, lot of fishing going on up here.|sd
+A|Yeah.|b
+A|All right.|b
+A|So, where about in Texas is that?|qw
+A|Is that centrally located|qy
+A|or,|%
+B|It's, uh, well,|%
+B|you ever heard of Lufkin?|qy
+A|Uh, no,|nn
+A|what, what major city is nearby?|qw
+B|Houston.|sd
+A|Okay,|bk
+A|and that's south or north of there or something?|qy
+B|Let me see,|^h
+B|Houston's north.|sd
+A|Yeah?|bh
+A|Okay.|bk
+B|Dallas is south.|sd
+A|Oh, okay,|bk
+A|all right.|bk
+A|Well, that sounds pretty good.|ba
+A|Does, uh,|%
+A|I guess the weather,|%
+A|does that stay pretty constant there|qy
+A|or,|%
+B|It's, it's gets cold at night, and then warm in the afternoons.|ng
+A|Yeah?|bh
+B|Probably seventies, eighties in the afternoon.|sd
+A|Okay,|bk
+A|well, that's pretty temperate.|ba
+A|Yeah,|%
+A|that's not too bad.|ba
+A|But, uh, yeah,|%
+A|have you done, uh, any other boating then|qy
+A|or,|%
+B|No,|nn
+B|I hadn't done any in a uh, lately,|sd
+B|but that's all,|sd
+B|I used to uh, have a friend that owned, his daddy owned a boat shop.|sd
+A|Yeah?|bh
+B|And we used to, when I was in high school, we used to go out, go boating every day just about.|sd
+A|Oh, that's great.|ba
+A|Yeah,|%
+A|I,|%
+B|And we had a different boat every day.|sd
+A|Oh, that's fantastic.|ba
+A|Yeah,|%
+A|I used to, uh, kind of be that way myself when I lived in, uh, north western Florida in the panhandle,|sd
+A|I used to sail about every day.|sd
+A|I'd work, go to work,|sd
+B|I'd like to do some sailing.|sd
+A|Yeah,|b
+A|it's a lot of fun.|sd
+A|It's, uh,|%
+A|especially if you get a, a pretty fast boat|sd
+A|like those catamarans are pretty fast.|sd
+B|Yeah,|aa
+B|what,|%
+A|You can actually,|%
+B|Do, if you get one like that do have somebody teach you that|qy
+B|or they just,|%
+A|Well, actually, I, I've known how to sail pretty much my whole life.|arp_nd
+A|Uh, my family's pretty into it|sd
+B|Yeah.|b
+A|and, uh, I took sailing lessons when I was about six|sd
+A|and then, uh|%
+B|Is it pretty easy?|qy
+A|Yeah,|ny
+A|it, it's kind of a thing where you get the hang of it after a while, you know, uh, just kind of get a feel for the wind and how it works and, and the physics behind it.|sd
+B|Yeah.|b
+A|So it's, it's not too bad,|sd
+A|it's pretty easy to get the hang of, I think|sd
+A|and, uh, generally, everybody I've, I've known has kind of gotten into it,|sd
+A|but some people are more motorboaters, you know which is fine.|sv
+B|Yeah.|b
+B|Well, that's about all we have|sv
+A|Yeah,|b
+A|yeah,|b
+A|lot of people don't, don't see the excitement in sailing,|sv
+A|but, then, again, they may they may never have tried anything like, uh, catamaran|sv
+B|Uh-huh.|b
+A|and, uh, that's when you really start getting into speed. You know,|sd
+A|you actually, some catamarans you can actually pull people behind, the skiers,|sd
+A|they get so fast, you know.|sd
+B|I didn't know that.|sd
+A|Yeah,|b
+A|they get pretty quick,|sd
+A|but|%
+B|That that would be something.|ba
+A|uh,|%
+A|Yeah,|aa
+A|yeah,|aa
+A|I haven't, I haven't personally done that,|sd
+A|but, uh, the races,|%
+A|I, I work with a guy right now that, uh, races catamarans in the summertime|sd
+B|Uh-huh.|b
+A|and, uh, he's pretty gassed about it.|sd
+A|He's got a good, uh,|sd
+B|What kind of, what lake do you all use?|qw
+A|Well, he, uh, he's from Detroit|arp_nd
+B|Uh-huh.|b
+A|so he usually goes on one of the Great Lakes, I think, and does his sailing. Uh,|sd
+A|for me, I, I go back to Orlando, uh, in about a month, and so, down there, basically just go to the coast.|sd
+A|We're about thirty miles from Coco Beach and the east coast,|sd
+A|and there's a lot of places there you can go, you know.|sd
+A|So, uh, so that's a good thing.|sd
+B|Yeah.|b
+A|But, yeah, so, what do you do for a job?|qw
+B|Uh, I build transformers.|sd
+A|Oh, really?|bh
+B|Yeah.|ny
+A|Okay,|bk
+A|is that for T I|qy
+A|or,|%
+B|No,|nn
+B|it's for Cooper Industries.|sd
+A|Okay.|bk
+A|Are they primarily electronic, then?|qy
+B|Yeah.|ny
+A|Okay.|bk
+B|Well|%
+A|Well that,|%
+B|they have a, you know, worldwide,|sd
+B|but|%
+A|Right.|b
+B|all we do here is make transformers electronics and stuff like that.|sd
+A|Oh, okay.|b
+A|Great.|ba
+A|Yeah,|%
+A|how do you like it down there in Texas?|qo
+B|It's real nice.|sd
+A|Yeah?|bh
+B|Been here all my life.|sd
+A|Oh, no doubt.|ba
+B|Yeah.|b
+A|Okay.|b
+A|I've never been to Texas.|sd
+A|I've been to Oklahoma,|sd
+A|but, uh, that's about as far as,|%
+B|Oh, it's, Oklahoma's nothing like it.|sd
+A|Yeah?|bh
+A|Okay,|%
+A|well, that's good, because I didn't like Oklahoma that well|sd

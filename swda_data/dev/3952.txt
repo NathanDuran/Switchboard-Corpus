@@ -1,0 +1,119 @@
+A|I'm ready.|fo_o_fw_"_by_bc
+B|All right.|b
+A|Do you exercise, uh, during the day time or go to a gym or anything?|qy
+B|Oh.|b
+B|Yeah,|ny
+B|I, I used to go to a gym, um, last summer,|sd
+B|but then I started school again,|sd
+B|so, it's, um, so I don't exercise as much as I'd like.|sd
+A|Uh-huh.|b
+B|But, I, I do enjoy, um, going to a gym and working out,|sd
+B|or just like, I do sit ups sometimes before I go to bed or when I wake up,|sd
+B|and I ride a exercise bike a lot.|sd
+B|So.|%
+A|Uh-huh.|b
+A|Well, I try to do it at night before I go to bed.|sd
+B|Uh-huh.|b
+A|Um, it's really weird,|sv
+A|because I'll get down on the floor,|sd
+A|and I'll holler and tell my cat Nikki,|sd
+A|I'll say, Nikki, I'm going to do my exercises, now.|sd
+A|And she can be upstairs in the bedroom,|sd
+A|and I don't know.|h
+A|She knows what I'm talking about.|sd
+A|You know, pretty soon, here she comes.|sd
+A|So, I lay out there in the living room floor and do my exercises, you know.|sd
+B|Uh-huh.|b
+A|Uh, I had a problem with my back,|sd
+A|so, when I went to physical therapy they gave me some exercises for my back.|sd
+B|Uh-huh.|b
+B|Oh.|b
+A|So, I just try to keep that up, because it seems like if I don't, then, then my back gives me a problem again.|sd
+B|Right.|b
+A|So I try to do it every night,|sd
+A|and uh.|%
+B|Oh, that's  good.|ba
+A|Yeah,|aa
+A|it seems like it's, you know,|%
+A|I can tell when I do it and when I don't do it you know,|sd
+B|Uh-huh.|b
+A|so you know it's got to be good for you.|sv
+B|Right|b
+A|But, um, a long time ago I belonged to a gym|sd
+B|Uh-huh.|b
+A|but, uh, now I notice that this, in this small city that I live in, they do have a, a gym that just opened up here about a month ago.|sd
+B|Oh.|b
+A|So, I was kind of thinking about joining it,|sd
+A|but I haven't even gone down there and talked to them yet.|sd
+B|Yeah.|b
+A|But, uh, it does really make you feel good,|sv
+A|and I like to bicycle, too.|sd
+B|Oh, yeah.|b
+A|So, that gives you, you know, lots of exercise.|sv
+B|Yeah,|aa
+B|it does.|aa
+B|Yeah.|aa
+A|So.|%
+B|I enjoy that a lot.|sd
+B|I, um, bike in the summer.|sd
+B|I belong to a biking club here in Kenosha.|sd
+A|Uh-huh.|b
+B|And, um, we go on a, like fifty to a hundred miles every Sunday.|sd
+A|Oh, my goodness.|ba
+B|So I try to keep up in the winter with the exercise bike, so, I, you know, can be in shape .|sd
+A|Yeah,|b
+A|otherwise you wouldn't be able to go very far, huh?|qy
+B|No,|nn
+B|huh-uh.|nn
+B|No,|nn
+B|I go with my dad.|sd
+B|He exercises a lot more than I do, though.|sd
+A|Oh, really?|bh
+B|Oh, yeah,|ny
+B|he's  always exercising.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|But, I'm not that energetic|sd
+A|Yeah.|b
+B|I get lazy sometimes.|sd
+A|Yeah,|b
+A|well, like I say, I just do it at night, you know,|sd
+A|and, um.|%
+B|Yeah.|b
+A|Do you like you try, try to get my stomach muscles toned up.|qy
+B|Oh, yeah,|ny
+B|that's what I like to do.|sd
+A|You know, because, boy, they seem like they really get out of shape,|sd
+A|and once you get out of shape it's hard to get back into shape  you know.|sv
+B|Uh-huh.|aa
+B|Yeah.|aa
+A|So, I've just been doing it, I try to do it every night you know,|sd
+B|Yeah.|b
+A|like I say, you just, I'd rather do that than watch television anyhow you know|sd
+B|Oh.|b
+B|Wow|ba
+A|So it's just kind of nice, and especially when I have my cat that comes down and joins me.|sd
+B|Oh, yeah,|b
+B|that is neat|ba
+A|You know, so. Well, I guess that's about all I can tell you about my exercising.|sd
+A|I wish I knew how to swim,|sd
+A|but I don't,|sd
+A|so I don't go swimming.|sd
+B|Yeah,|b
+B|um, I don't swim much, neither.|sd
+A|Uh-huh,|b
+A|but they do say that swimming is really, really good for you you know, for every part of your body.|sd
+B|Yeah.|b
+B|Uh-huh.|b
+A|So I wished I, I wished I did know how to do that.|sd
+A|If they had a pool here in Patterson I'd probably, you know, put my bathing suit on and go down there,|sd
+A|but they don't have a pool in this small city, either.|sd
+B|Oh.  Um.|b
+A|So.  Well, listen then,|fc
+A|it's been nice talking to you.|fc
+B|Yeah,|fc
+B|nice talking to you.|fc
+A|Okay then.|fc
+B|Okay.|fc
+A|Bye-bye.|fc
+B|Um, bye.|fc

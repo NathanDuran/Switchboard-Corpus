@@ -1,0 +1,134 @@
+A|Well, how did you like that topic?|qo
+B|Uh, I don't know,|sd
+B|I've got mixed feelings about the topic.|sd
+A|Do you?|qy
+A|I don't.|sd
+B|No.|bf
+B|Okay.|b
+A|No,|aa
+A|I'm pretty opinionated about that and many other things as you well know.|sd
+A|I agree with it.|sd
+A|I think, uh, I think a company should be able to test at, any, any employee any time they see fit.|sv
+B|Well,|%
+A|I just, I just don't think there's a place in our environment, you know in the work force for drugs, or alcohol either.|sv
+B|Well, I don't believe in drugs or alcohol,|sd
+B|but if you'll remember when the teachers had to take the T CAT they were talking about drug testing us|sd
+A|Right.|b
+A|Uh-huh.|b
+B|and we were laughing that we'd have to go to that examination to prove we could read and write with a specimen of urine|sd
+A|Uh-huh.|b
+B|and we found it belittling.|sd
+A|You did?|qy
+B|Yeah,|ny
+A|Uh-huh. Well, I can sort of understand that, uh,|sd
+A|but not being a teacher, as you are, you know, I, I was not quite as sympathetic as, you know, as I probably would have been if, if Kay were a teacher or something.|sd
+B|That's true.|aa
+A|But, uh,|%
+B|But then, you know, at the same token, I'm not against|sd
+B|because I look at airline pilots bus drivers you know, people that really have other peoples' lives in their hands truck drivers|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|That's right.|aa
+A|That's right.|aa
+B|it's supposed to be a huge problem with truck drivers using drugs and alcohol,|sd
+A|Uh, that's right|aa
+A|and I think it is a big problem with them using drugs from what you read, you know,|sd
+B|And,|%
+A|but, uh,|%
+B|You know, in those areas I really, you know, do believe that maybe we should clean up our, you know house.|sv
+A|Yeah,|aa
+A|I think so too,|sd
+A|I, I agree with it.|sd
+A|Uh, I know Kay's company, you know,|sd
+A|they started it couple of years ago,|sd
+A|and so many of the people, even the professional people were, boy, they were so against them doing that, you know,|sd
+A|and I thought, Jeez, to me it's quite simple,|sd
+A|uh, you either need a job or you don't.|^q
+A|The, the job is what provides all of your needs,|sd
+A|and, uh, if they say, Hey, you can't do this work, I'd say, Hey, I agree, I don't, I won't do that.|sd
+A|And I think most of them have agreed to that now, although they didn't like it at first.|sd
+B|Yeah,|b
+B|I think it's just like anything else, a new concept, you know,|sv
+B|as I said, if I have to go to a testing area with my urine specimen I was insulted,|sd
+A|Yeah,|aa
+A|it is,|aa
+A|I can see where you would think,|sd
+A|Yeah,|%
+B|But at the same token, in education we can't do drug, random drug testing on kids|sd
+A|Yeah,|aa
+A|that's true,|aa
+B|you know, I mean, their rights are protected.|sd
+A|You bet.|aa
+A|Oh, gosh, they, they would really raise a stink if that was to happen.|sv
+B|What|%
+B|well, but why, if you're going to do teachers or professionals, why not do the kids, when we see them and they're, you know, under the influence.|qh
+A|Right,|aa
+A|yes,|aa
+A|I agree with that.|sd
+A|I, I, I wouldn't be opposed to it at all,|sd
+A|it's just our bleeding heart liberals that would fight it tooth and nail, you know|sv
+B|That's true.|aa
+A|but, uh, well, Lynn, I've enjoyed talking with you.|fc
+A|I don't know how long we're supposed to carry on a conversation, do you?|qy
+B|It's three minutes,|sd
+B|and the clicker comes in when it's time to,|sd
+A|Oh, well, we'd better keep talking because I've not heard it have we.|ad
+B|Yeah.|aa
+A|Have you heard it?|qy
+B|No.|nn
+A|Anyway, we both sort of agree on it, don't we about random testing.|qy
+B|Well do we agree, or unless it's not me|qy
+A|Well, listen,|h
+B|You know, here we go again, I mean|fo_o_fw_"_by_bc
+A|Yeah,|b
+A|yeah.|b
+B|yeah, you know|b
+A|If you agree that, uh,|sd
+B|I believe that truck drivers and people that have,|sv
+B|even though teachers have other kids lives in their hands, and if they come in stoned or they come in drunk|sv
+A|Yeah.|b
+B|and there was an incident in my children's high school, where a teacher stayed drunk,|sd
+A|Is that right?|bh
+B|Uh-huh.|ny
+A|You just don't think of that happening with teachers|sv
+B|And he,|%
+A|I really don't,|sd
+A|when I think of drug testing, I'm thinking of the, you know, outside of education.|sd
+B|Uh, well, no,|ar
+B|you know, we are as susceptible a society as anybody else|sv
+A|Sure sure,|aa
+A|I know that,|sd
+A|but, uh you don't think of that first hand, normally.|sv
+B|and, uh|%
+B|Yeah,|b
+B|well, did you hear on the news where the teacher of the year was up for child molestation.|qy
+A|Isn't that, isn't that mind boggling,|bh
+B|It was on the news tonight.|sd
+A|goodness,|ba
+A|it, it is, it's mind you know, well, you know,|sv
+A|I agree with you,|sd
+A|I know teachers are just like everybody else, same problems the same, uh, good qualities as anybody else.|sd
+B|Yeah.|b
+B|Then, I think, you know, if if it came, push came to shove, I'd probably be drug tested you know,|sd
+A|Yeah,|b
+A|yeah.|b
+B|because it does, you know,|sd
+A|You, you think the benefit would be greater than the,|qy^d
+B|Yeah,|ny
+B|because, you know, as I say, I'm sitting there fussing and fussing,|sd
+B|and yet, I know of, you know, one teacher who was an alcoholic in school as well as, you know, I presume out,|sd
+A|Uh-huh.|b
+A|And that was in your children's high school,|qy^d
+B|Uh-huh.|ny
+A|Isn't that amazing,|bh
+B|And, you know, my children brought it to my attention.|sd
+B|I never was there to see it.|sd
+A|If it, if it's if it was true there, I'm sure it's true with just about probably to some degree every school there is|sv
+B|Uh-huh.|b
+A|you know, because they represent a pretty good,|sv
+B|And that's not giving a good example to students.|sv
+A|No,|aa
+A|certainly not,|aa
+A|certainly not,|aa
+A|they don't need that example|sv
+A|but,|%

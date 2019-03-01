@@ -1,0 +1,138 @@
+A|not be a very good conversationalist on fishing.|sd
+A|I don't do a lot of it.|sd
+B|Well, I do love to fish.|sd
+A|Well good,|ba
+A|maybe I can learn something.|sv
+B|Well, I don't know how much you can learn.|arp_nd
+B|I'm not so sure I'm good at it,|sd
+B|but I do enjoy doing it.|sd
+A|Do you?|qy
+B|Yeah.|ny
+A|Well, it is fun, what little I do.|sd
+A|Of course, I don't, you know,|h
+A|I think when they refer to different kinds of fishing|sd
+A|I told my husband last night when I had called and they had, told me that this was a topic, I said, well, I can tell them how to fish with a minnow or how to fish with a worm|sd
+A|He said, I don't think that's the different kinds of fishing they're talking about|sd
+B|Well, I hope it is,|sd
+B|there's not a whole lot of different kinds.|sd
+A|That's about the only kind I know how to do.|sd
+B|I don't do a lot of deep sea fishing,|sd
+B|I, because I get seasick,|sd
+B|but we have a lot of lakes here in this area|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|and I do a lot of fishing for, uh, bass.|sd
+B|We have a lot of, uh, uh, couple of lakes in our area that are just filled with good sized bass.|sd
+A|Uh-huh.|b
+B|And then when I get tired of them outwitting me, I fish for catfish|sd
+A|Uh-huh.|b
+B|and we use worms and shiners, which is pretty much like minnows a little bit bigger than minnows,|sd
+A|Uh-huh.|b
+B|and then I also use spinner baits and plastic worms.|sd
+A|Uh-huh.|b
+B|It all depends on what I'm fishing for, and the time of day.|sd
+A|Well, it sounds like you do quite a bit of it.|bf
+B|I do.|aa
+B|Uh, there's a lake like maybe two or three miles from here,|sd
+B|and it's very convenient on afternoons when I want to just get away and sit and think.|sd
+A|Uh-huh.|b
+B|Fishing's a good way to do that,|sd
+B|and I have a lot of friends who like to go fishing.|sd
+A|Do you have a boat?|qy
+B|No,|nn
+B|I don't.|sd
+B|I have a friend who has a little inflatable raft,|sd
+B|and we use that sometimes.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|I wish I had a boat,|sd
+B|but I don't.|sd
+A|I think the lakes are probably different in Michigan than they are in Texas.|sd
+A|The ones around here are so big, that you can fish off the dock|sd
+B|Uh-huh.|b
+A|but unless you have a boat you can't really get into the, where they call the good fishing holes, you know.|sd
+B|Right.|b
+B|That's the same way here, isn't it?|qy
+A|Is it?|qy
+B|You have to get back in the sticks in the,|na
+A|Uh-huh.|b
+A|My in-laws live on a lake, uh, a little bit east of Dallas, kind of in the Piney Woods,|sd
+A|and the lake is beautiful,|sd
+A|and I like to go out and stand at the end of the dock and fish,|sd
+A|but actually catching fish to eat per se, you don't really do much of that right there.|sd
+A|I catch a lot of little old, uh, I think they call them perch|sd
+B|Right.|aa
+A|and then the, the, uh, turtles try to eat up all my bait|sd
+B|Oh.|b
+A|So it's, it's so close to the dock that I think all I do is feed them a little bit|sd
+B|We don't have, We don't have a big problem with turtles,|sd
+A|but it's kind of fun.|sd
+B|but we do have a awful lot of snakes in our lakes.|sd
+A|Um I would be afraid of that.|sd
+B|And I, Well, I can't think of a time that I've been fishing that I haven't run into one or two of them.|sd
+A|Do they ever get on your hook?|qy
+B|No,|nn
+B|we, uh,|%
+B|occasionally I'll catch an eel on a, on a hook, but never the snakes.|sd
+A|Uh-huh.|b
+B|They just kind of,|%
+A|Are they poisonous snakes?|qy
+B|Uh, we have a lot of cotton mouth,|sd
+B|so yes|ny
+B|they are, definitely|sd
+A|Uh-huh.|b
+B|and they live in little shallow, little coves that I like to fish in,|sd
+B|so I seem them swimming by every once in a while.|sd
+A|Yeah,|b
+A|I think I'd be a little bit afraid of those.|sd
+B|Yeah,|b
+B|they can, they're, they're certainly ugly.|sd
+A|Uh-huh.|b
+A|We, uh, saw a large snake right off the dock there at my in-laws' place last year.|sd
+A|It was probably four inches in diameter or something like that you know.|sd
+A|Great big snake,|sd
+A|and it, of course, it scared the women to death, you know,|sd
+A|but the men come out and said oh, well, that's only a, a king snake, it won't really hurt you, you know.|sd
+A|But it looked so bad|sd
+B|Yeah.|b
+A|and it was so big, that it might not would have hurt us,|sd
+A|but we sure felt like it was hurting us, just being there, you know|sd
+B|Definitely.|aa
+A|But they're scary looking.|sv
+B|Do you have bass?|qy
+A|Yes, uh,|ny
+A|I think that, uh, probably around here people fish for bass and crappie and catfish more than anything else.|sd
+B|Right.|b
+B|Well, that's pretty much the same way here.|sd
+A|Uh-huh.|b
+B|I,|%
+A|Now, they have a lot of bass tournaments.|sd
+B|Well, we have those.|sd
+B|I don't|%
+A|Uh-huh.|b
+B|I inevitably, if I enter one of those, I never catch a thing.|sd
+A|Oh, no.|ba
+B|I just go out there and sit and watch other people do it.|sd
+A|Uh-huh.|b
+A|Well that's kind of,|%
+A|we've never entered a tournament or anything.|sd
+A|We're not that big into fishing,|sd
+A|but I see a lot of people,|sd
+A|you know, early in the morning there'll be all the boats going out,|sd
+A|and they'll say, Well, there's a big bass tournament this weekend,|sd
+A|and all those people are here for the tournament, you know.|sd
+B|Oh, yes.|ba
+A|So I think there's a lot of people that have, you know, really, I guess that you'd call it really sport fishing,|sv
+A|they're really into it to try to win.|sv
+B|Yeah,|aa
+B|oh, definitely.|aa
+A|My.|%
+B|Certainly here they are.|sd
+A|But it is, it's very, a very relaxing sport to be able to just be out on the water and looking around.|sv
+A|The peace and calmness is really relaxing.|sv
+B|Yeah,|aa
+B|it's a good thing to take a nice book and sit back and read and fish.|sv
+A|Uh-huh.|b
+B|That's what I do a lot.|sd
+A|I've never tried taking a book with me.|sd
+A|I'll have to try that one of these days.|sd

@@ -1,0 +1,112 @@
+A|Okay, Eric.|fo_o_fw_"_by_bc
+A|Uh, are you married|qy
+A|and do you have a family?|qy
+B|Uh, yes I am to, uh, both questions.|ny
+A|Okay|b
+A|and do you and your wife have a budget plan for your finances.|qy
+B|Uh, yeah|ny
+B|we do.|sd
+B|We, uh, uh,|%
+B|basically there's the, you know, the expenses that are fixed during the month you know the ones that come every, every month|sd
+A|Uh-huh.|b
+B|and we, uh, enter those into, uh, into a spread sheet|sd
+B|and, uh, whatever is left, uh, after that we, you know, we sit down and agree on kind of what, what sort of range we are going to generally going to shoot for.|sd
+A|Uh-huh.|b
+A|I see. Uh|bk
+B|So what do you do?|qo
+A|Well, that's basically what we do.|sd
+A|Uh, about every, every three months or so, we re-evaluate our budget|sd
+A|and we sit down and just write from the largest bills down to the smallest|sd
+B|Uh-huh.|b
+A|and then we divvy them up between our four pay checks.|sd
+A|I work part time at night|sd
+B|Wow|ba
+A|and he works, and my husband works full times days|sd
+A|and so we have four checks,|sd
+A|but that works out nice because we get paid every week|sd
+A|and  so that does help,|sd
+B|Yeah.|b
+A|that helps a lot.|sd
+A|And then, uh, we don't have a lot extra for extra spending,|sd
+A|so it's pretty well  ear marked.|sd
+B|Yeah.|aa
+B|All allocated out.|bf
+A|Yeah|aa
+B|Yeah.|b
+A|Yeah.|b
+A|Every penny is ear marked|sd
+A|but, uh it, we have found that works the best|sd
+A|and and so if we can just divide them up, all the major bills up.|sd
+A|In fact, we found it easier to divide the major bills up, you know, cut the house payment in half and cut the loan payment in half,|sd
+A|but and divide those up between all,|sd
+A|uh-huh.|%
+B|All the checks,|bf
+B|yeah.|b
+A|And so we are not taking a huge sum out, out of one|sd
+A|and then the next pay check we're real short|sd
+A|or,|%
+B|Right.|aa
+B|Yeah,|aa
+B|we found that, uh, it's definitely helped, uh, get a handle on kind of the unnecessary expenses.|sd
+A|That's true.|aa
+B|We were, before we started doing that kind of a thing, we were, uh, spending, uh, money for things that, you know,|sd
+B|we kind of tended to eat out a bit more than we should have,|sd
+A|Uh-huh.|b
+B|and it was easy to, uh, let things get out of hand.|sd
+B|We thought it uh, thought it to be really helpful.|sd
+B|We have gotten some of our loans paid off really because of this and stuff like that|sd
+A|Yeah.|b
+B|so,|%
+A|Well, it helps you to focus where your money goes|sv
+B|Yeah|b
+A|and and I am sure you felt the the same frustration before you got on a budget,|sv
+A|but you're wondering my, when you put down all the money that you do bring in|sv
+A|and then you're saying, my word  where did all that money  go.|sv
+B|That's a lot of money,|bf
+B|but|%
+A|Where does it go?|^q
+B|Yeah.|b
+A|Uh|%
+B|But,|%
+A|and also we have found that if we write down,|sd
+A|and we did this.|sd
+A|We are not real consistent with this,|sd
+A|but we did it for about a month|sd
+A|and we wrote down everything that we bought when, you know, every pay check|sd
+B|Uh-huh.|b
+A|and so we could see where every penny went|sd
+A|and it was really interesting to see just what you do spend|sd
+A|and like I say we haven't been real consistent with it.|sd
+A|It's,|%
+A|we should cause it does help.|sd
+B|Yeah,|aa
+B|the other, the other thing that that we've found that helps is, you know, we tend to fudge on the budget a little bit|sd
+A|Uh-huh|b
+B|it's just to, uh, uh, get up the money in advance and put it in, uh, uh, so long as it wasn't you know, unreasonably high, but for things like food expenses or whatever. Just put it in uh in an envelope or whatever if the entertainment amount was gone for the month say, oh, it's gone|sd
+A|Uh-huh.|b
+A|just  stick to that,|bf
+A|uh-huh.|b
+A|That is,|%
+A|Yeah.|b
+A|That that sounds like a really good idea.|sv
+B|So.|%
+A|And it really helpful.|sd
+A|Uh, have you developed a savings plan or I R A s or anything like that yet?|qy
+B|We, we haven't.|ng
+B|We our our initial goal was just to retire debt, uh, completely retire debt for car payments and credit card uh, credit card debt and all of that.|sd
+A|Oh, uh-huh.|bk
+A|Uh-huh.|b
+B|We are just at a point where, where we could start thinking about it|sd
+B|so|%
+A|Oh that's good.|ba
+A|That's a good feeling|sv
+B|Yeah.|b
+B|Well I|%
+A|My husband just graduated from the university, uh, a year ago|sd
+B|Uh-huh.|b
+A|so finally finally we are getting to that point too.|sd
+B|A student.|bf
+A|So, are you still going to school|qy
+A|or,|%
+B|Yeah,|ny
+B|I am actually in the, in the|sd

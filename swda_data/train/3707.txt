@@ -1,0 +1,136 @@
+A|Uh, we have a Sheltie Collie, a miniature Sheltie.|sd
+B|Do you?|bh
+A|Yeah.|ny
+A|It's about, oh, about six months old,|sd
+A|and we're|%
+A|we live in an apartment,|sd
+A|so, we don't have a yard,|sd
+A|so it has to stay inside|sd
+A|and we're having a difficult time trying to train it.|sd
+B|How old is it?|qw
+A|It's about six months.|sd
+B|Uh, you, you're, you're in the roughest stages of  pet  ownership, I think.|sv
+A|Really?|bh
+A|But they're supposed to be real intelligent dogs,|sv
+A|but I guess every one, one one, one of them, or every once in a while, you get one that's not so intelligent because this one, it.|sv
+B|Well. I don't, I don't know if that has anything to do with the intelligence, really, the, the, the training bit, uh.|sv
+B|I've had dogs through the years.|sd
+B|Right now I've got two, and three cats,|sd
+B|but, uh, and my son and daughter-in-law have kind of a Sheltie mix,|sd
+B|and we watched it this summer for two to three months,|sd
+B|and it wasn't trained quite fully either|sd
+A|Uh-huh.|b
+B|and, uh, but it was a sweet and an intelligent dog.|sd
+A|Yeah,|b
+A|so how'd you all, how do you,|%
+A|what's the best method?|qw
+B|I don't know.|h
+B|I, I'm old fashioned,|h
+B|and when I got my, my dogs, when they, when they did something I hollered at them and threw them outside.|sd
+A|Right.|b
+B|They say that's not the way to do it now.|sv
+B|You're just supposed to|sv
+A|Stand outside with them  until they.|^2
+B|No,|ar
+B|just, just, put them outside, I guess. Unless you catch them in the act.|sv
+A|Well, we're hardly ever at home,|sd
+A|so it's kind of difficult,|sv
+B|Yeah.|b
+A|and, you know, you don't want to, you don't want to spank it or scare it, or anything like that,|sv
+A|so.|%
+B|No,|aa
+B|no,|aa
+B|you don't want to do that,|sv
+B|but, uh.|%
+A|Yeah,|b
+A|we, we try to take it, you know,|sd
+A|it gets, it gets frustrating when you take it outside|sv
+A|and, you know  and then it runs right  inside|sd
+B|Does, does it just want to sniff around?|qy
+B|Does it just want to sniff around and play when it's outside?|qy
+A|Yeah,|ny
+A|a lot of times,|sd
+A|and you know, it won't it's little job outside|sd
+B|Yeah.|b
+A|and it comes inside.|sd
+B|Have you praised  it and given it a treat maybe when it does something outside?|qy
+A|Uh, yeah,|ny
+A|we've tried that,|sd
+A|and, uh, you know, there's certain spots in the house where he likes to go,|sd
+B|Yeah.|b
+A|so, and he chews on plants and all that,|sd
+A|but, you know, that's  natural  for a little puppy.  Huh?|sv
+B|That's nothing,  huh.|^2
+B|Well,  it, it, it'll, it'll catch on pretty soon, I'll, I'll bet you.|sv
+B|I, I have a sixteen year old, almost sixteen year old Golden Retriever,|sd
+B|and she's gone the other way,|sd
+B|because she's so old, she doesn't have much control|sd
+A|Oh, really.|bh
+B|so we're battling with that problem|sd
+A|Oh, that's sad.|ba
+B|and she still feels good.|sd
+B|Uh, she can't hear worth a darn or see very well,|sd
+B|but she's got a great appetite,|sd
+B|and she knows we're there, by smell.|sd
+A|How old is it?|qw
+B|She'll be sixteen in May.|sd
+A|Man that's sad.|ba
+B|And yeah,|b
+B|but we can't bear to do anything because she's been our friend for all these years,|sd
+A|Oh, of course not.|aa
+B|so we're putting up with all her accidents,|sd
+A|I couldn't.|sd
+B|and the|%
+B|two nights ago, she had diarrhea,|sd
+B|and so that was a bad one.|sd
+B|But, uh, I think we're buying a carpet shampooer this weekend|sd
+A|That is really sad.|ba
+A|What, what's the deal,|qh
+A|we, we try to, we're trying to take it on walks now, you know|sd
+B|Uh-huh.|b
+A|and we can't because it's not accustomed to being on a leash|sd
+B|Yeah.|b
+A|and so it, I mean this dog really feels like it's being killed or something when you try to, you know, tug on it to walk it.|sd
+A|I mean, it just goes like a mad dog,|sd
+A|I mean it just jumps up and down and starts  yapping,|sd
+A|and  it's, you know, I mean, it's not even close to even being trained on a leash.|sd
+B|Does it,  oh.|ba
+B|Uh-huh.|b
+B|You know, maybe you you can get it signed up this spring or summer for some of the dog obedience classes.|sv
+A|Uh-huh.|b
+A|Well, we've heard bad, we've heard some bad things about some of those, you know,|sd
+A|they sometimes misuse their license or whatever you know,|sv
+B|Oh.|b
+A|they treat them bad.|sv
+B|Well, you know, we went, we went to the junior college, Richland|sd
+A|Oh, really?|bh
+B|and we took,|sd
+B|my, my daughter was living at home then,|sd
+B|and she took our Golden Retriever, oh, not the Golden Retriever, the Norwegian Elk Hound over there|sd
+A|Oh, really?|bh
+B|and, it, it, it's a pretty good class,|sv
+B|and they did pretty good, except this dog is,|sd
+B|she's just pretty,|sd
+B|she's not smart|sd
+A|Uh-huh.|b
+B|So, she didn't learn a lot,|sd
+B|but it, I think it calmed her down a little bit,|sv
+B|and she's used to being around other dogs now.|sd
+A|How long did it take?|qw
+B|I think it was like a six week program.|sd
+A|Every, what?|br
+B|Uh, I think it was one night a week for like six weeks,|sd
+A|Oh, really?|bh
+B|and, uh, you know, it was a group class, outside.|sd
+B|It was fairly reasonable, too.|sv
+A|Well, Sheltie Collies are, you know, timid,|sv
+A|and they don't really,|sv
+A|unless they get used to something, they're really nervous|sv
+A|and.|%
+B|Yeah,|b
+B|they're, they're usually, a high-strung dog aren't they?|qy
+A|Yeah,|ny
+A|yeah,|ny
+A|and, uh, if they're not accustomed to something, they, they're really scared.|sv
+A|So.|%
+B|Um, our, our friend has a,|sd

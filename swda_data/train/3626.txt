@@ -1,0 +1,105 @@
+A|Uh, let's see.|^h
+A|Personal computers.|sd
+B|Yes.|b
+A|So, do you use them?|qy
+B|Uh, yes,|ny
+B|um, we own one.|sd
+A|Terrific.|ba
+A|What kind?|qw
+B|Uh, its an Emerson eighty eighty-six, um, two low density floppy drives, and no hard drive yet.|sd
+B|But, uh, you know, it's, it comes in mighty handy.|sd
+A|Mostly for word processing type things?|qy
+B|Uh, yeah,|ny
+B|a big chunk of it's word processing.|sd
+B|We're also taking programming classes,|sd
+B|and, uh, so there's a fair amount of programming getting done on it.|sd
+B|But, uh, uh, the, uh,|%
+B|right now we got a project going where we're trying to put, uh, all my wife's stray recipes on the disk.|sd
+A|Nice.|ba
+A|Did you buy a program to handle menus?|qy
+B|Uh, it came with a menus program,|sd
+B|but, uh, that doesn't,|%
+B|it, it|%
+B|both, excuse me,|%
+B|mostly kind of a pain in the neck without a hard drive|sd
+A|Oh, yes.|ba
+B|and hopefully sometime this spring we'll be able to get one and get it configured.|sd
+A|Eighty eighty-eight is what you said?|br
+B|Eighty eighty-six.|sd
+A|Eighty,|b^m
+A|oh gosh, it's worth your time to just upgrade,|sv
+A|they're so darned cheap now.|sv
+B|Which,|qw
+A|Computers.|sd
+B|Uh, impoverished college student.|sd
+A|Oh, no.|ba
+B|This one went on a credit card,|sd
+B|and we got a way out, while to pay it off yet.|sd
+A|Uh, I've, I've got one at home too.|sd
+A|It's a three eighty-six, thirty-three megahertz, forty, four meg ram and hundred and thirty meg drive|sd
+A|and super V G A|sd
+A|and, yeah, it's fun.|sd
+A|I do programming, too.|sd
+A|My job is, uh, E D P auditor,|sd
+A|and so I'm into computers all the time.|sd
+B|E D P.|b^m
+A|Electronic Data Processing.|sd
+B|Okay,|bk
+B|that sounds like fun job.|sv
+A|Yeah,|b
+A|I really enjoy it,|sd
+A|and it treats me well.|sd
+B|Yes.|b
+A|Uh, what are you studying in college  computers?|qy
+B|Uh.  Computer engineering.|sd
+A|How nice.|ba
+B|Well, computer engineering technology, uh, which, uh, all I can understand is it's a slightly more hands on version of computer engineering.|sd
+B|But, I've got a ways to go yet.|sd
+B|So far most of what I've done is getting, gotten core classes out of the way,|sd
+B|taken some electronics classes, and one class in, um, with computer logic.|sd
+A|How they work is fascinating to me.|sd
+B|Oh, yes.|aa
+B|I enjoy it myself|sd
+B|The, uh, lab for that, uh, computer logic class was a lot of fun.|sd
+A|Was it.|bh
+A|Did,|%
+B|Yeah,|ny
+B|we got to hook up a few, uh, counters and, uh, encoders.|sd
+A|Hardware stuff, huh.|bf
+B|Yeah.|aa
+A|What do you think of that fuzzy logic?|qo
+B|I've not had a chance to work with it, although, um, my, uh, data structures teacher was telling us something about how fuzzy logic works as far as the concept behind it.|sd
+A|Uh-huh.|b
+B|Now how you'd implement that software wise or mechanically I don't know,|sd
+B|but, uh, it sounds like a very impressive piece of, piece of work.|sd
+A|Yeah,|b
+A|they're pretty amazing.|sv
+A|Uh, I've written a couple of programs for, commercially, uh|sd
+B|Yes.|b
+A|and it's a fun field.|sd
+B|In the fuzzy logic direction?|qy
+A|What,|br
+A|no,|nn
+A|in, uh,|%
+A|no,|nn
+A|just regular, uh,|sd
+A|but you have to take into account, you know, with any computer program all the type of things people can do to you to make your program crash or things you normally don't consider.|sd
+B|Yeah.|b
+B|Entering bad information of one sort or another|sd
+B|and,|%
+A|Yeah,|aa
+A|pushing keys certain times and, Uh, messing up your files and things like that.|bf
+B|Yeah.|b
+B|Uh-huh.|b
+A|And you're going to be an engineer, computer engineer type.|qy^d
+B|Uh, yeah,|ny
+B|well, what the computer, what the C E T program seems to be so far is just a broad based specialized from,|sd
+B|you get programming, a fair amount of programming,|sd
+B|you get hardware,|sd
+B|you get, uh, more or less, uh, you get basic electronics courses that, uh, deal with, you know, not only the digital circuitry but, uh, you know, power supplies and, and, uh, just the whole gambit, but mostly towards, uh, computer electronics.|sd
+B|So, the idea is that, um, you can go in a variety of direction from C E T major,|sd
+B|but I I have more with the hardware than I do with the software,|sd
+B|so, yeah|%
+B|I pretty much plan on, I mean, so far I'm planning to go in the engineering direction.|sd
+A|I don't,|%
+A|That's good, uh,|ba

@@ -1,0 +1,111 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|the topic of the conversation is national health insurance, and the pros and cons, and do I, do we think that the government should finance it.|sd
+A|What is your opinion?|qw
+B|I say yes.|sv
+A|You say yes.|bf
+B|Yes.|aa
+B|Mother lives in Florida,|sd
+B|and there are, in her subdivision there are fifty percent Canadians who won't give up their Canadian citizenship because of the health insurance.|sd
+A|I have heard someone else, uh, say that, uh, the Canadian health insurance is absolutely excellent|sd
+B|It's wonderful.|sv
+A|and one of the ways that they're financing it is they have an exorbitant tax on their cigarettes.|sd
+B|Oh,|b
+A|This is evidently this is one of the ways that they're paying for the program plus discouraging the people to quit smoking so they don't have to pay out as many, uh, benefits on like lung cancer and things like this.|sv
+B|Well,|b
+B|Well, even if that's|%
+B|so, you know, really when you look at it, they have full coverage,|sv
+B|they have H M O, which, you know, after you get used to it, it's not too bad,|sv
+B|and, uh, everything is covered|sv
+A|Yeah,|b
+A|we,|%
+B|and we have so many people in the United States that we spend,|sv
+B|well, in my family alone, we spent four thousand dollars in July on medical bills|sd
+A|Oh, my word, Lynn.|ba
+B|insurance didn't cover a penny.|sd
+B|Yeah.|%
+A|That's horrible.|ba
+B|Yes,|aa
+B|it is horrible.|sv
+A|Well, we're fortunate in that we, so far, knock on wood, most of us have been real healthy|sd
+B|Yeah,|b
+B|but,|%
+A|so we don't have a lot of medical bills.|sd
+B|Uh, if you're healthy it's fine,|sv
+B|but I had two kids in the hospital in July.|sd
+A|Yeah,|b
+A|but what worries me is the fact that I don't like the government telling me who I can see and who I can't see.|sd
+B|Yeah,|b
+B|but, you know, Richardson School District has the H M O|sd
+A|Uh-huh.|b
+B|and ninety percent of the doctors you would choose are on that list.|sd
+A|Are they?|bh
+B|Yeah.|ny
+A|Well, I know that James had it.|sd
+B|McCullum is.|sd
+A|I beg your pardon.|br
+B|McCullum is.|sd
+A|Yeah,|b
+A|yeah.|b
+A|I know that when James was with Continental Steel, McCullum was part of that,|sd
+A|and, and that's good.|sv
+A|But I also heard, for instance, like, uh, my friend's daughter was on it through Texas Instruments,|sd
+A|and she was on that Kaiser Permanente|sd
+B|Uh-huh.|b
+A|and they had screwed up her appointment,|sd
+A|and when she went in, she had to take whichever doctor was available,|sd
+A|and they,|%
+A|she would have had to wait like two months to get the doctor she wanted.|sd
+B|Well, but that's that's a screw up in an appointment, you know,|sd
+A|But then again, I guess you can even do that in McCullum.|sv
+B|I'm going back to the days when I was pregnant|sd
+A|Uh-huh.|b
+B|and I had two doctors,|sd
+B|and one was my favorite, personality wise|sd
+A|Uh-huh.|b
+B|but when I delivered Ronnie, he was not on call|sd
+A|Uh-huh.|b
+B|the other guy delivered him|sd
+A|Well, that's true,|ba
+A|and that still goes on.|sv
+B|you know, and that,|%
+B|and, you know, if, um, I go to Townsend|sd
+A|Uh-huh.|b
+B|he's got a new partner.|sd
+B|I go to both of them now.|sd
+B|You know, I have no choice because when I want to go, if Dr. Howe or whatever his name is is on duty, I go to him.|sd
+A|Right.|b
+A|Well, you know, it, uh,|%
+A|how do you think we're going to pay for it?|qh
+A|More and more taxes?|qh
+B|Well, no,|ar
+B|we need to cut some of our spendings, cut some of the fat off the top and whittle it down to the rest of us.|sd
+A|I know that it's getting to the point that the insurance doesn't pay that much on catastrophic illnesses.|sv
+B|No.|b
+A|They don't pay anything on, uh, implants or transplants,|sd
+B|No.|b
+A|and, you know, people are needing these,|sd
+A|and the average person can't afford, you know, a heart or a kidney on just their own.|sd
+B|Yeah.|b
+B|But you known, Ronnie, in Austin, went to a program and went to a social worker|sd
+A|Uh-huh.|b
+B|and at the same token there is something,|sd
+B|because he can get his pills for two dollars, when I'm paying fifteen on my medical insurance|sd
+A|Good grief.|ba
+B|and he can get free medical care, but he has to go to the city hospital instead of seeing David and so again, you know,|sd
+A|Uh-huh.|b
+B|we went through it, Ronnie's home tonight,|sd
+B|and we talked about it and said, you know, is it worth it?|sd
+B|Yeah,|b
+B|you know, he pays forty-five dollars a month for his prescriptions, where he could pay six dollars.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+B|So, there are programs, you know, if you get on Medicare or Medicaid or one of those,|sd
+A|Very true.|ba
+A|Well, I know they have the Medicaid, you know, for those that have trouble,|sd
+A|and I know that like we have the, uh, prescription cards which,|sd
+A|that's helped bunches|sd
+B|Yeah.|b
+A|and, wonder if the insurance companies are fighting the national health,|qy^d
+A|or wonder if they're wanting it.|qy^d
+B|That's what I read.|sd
+A|That they are wanting,|bf

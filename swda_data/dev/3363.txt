@@ -1,0 +1,155 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|what kind of car are you going to buy next?|qw
+B|Well, one of the cars I'm thinking about buying next is, uh, a nice, safe, small car,|sd
+B|but, um, uh, the reason being, is we just purchased a van a little while ago because we have a big family,|sd
+A|Uh-huh.|b
+B|and we use that to get back and forth and haul kids around and so forth,|sd
+A|Uh-huh.|b
+B|and we have another four door car that I drive to work,|sd
+B|and I think it'd be more economical if I were able to a smaller car and, uh, wouldn't be, wouldn't cost much with gas.|sv
+A|Uh-huh.|b
+A|That's true,|aa
+A|that's true.|aa
+B|What, what are you looking at?|qw
+A|Well, I'm really not looking at anything for a while,|arp_nd
+A|but you know, when you're driving down the road you see all these pretty new ones that are out,|sv
+B|Uh-huh.|b
+A|and you think, Oh, well, maybe, maybe I would like a new car.|sv
+B|Oh, yeah|b
+A|But I think I'll be driving mine about two or three more years anyway.|sd
+B|Oh, yes,|b
+B|oh, yes.|b
+A|But, uh.|%
+B|Well, the cost of new cars recently are extremely outrageous for the|sv
+A|Right,|aa
+A|they are.|aa
+A|I sure do like the looks of that new Mitsubishi Diamante.|sd
+B|Oh, yes,|b
+B|oh, yes.|b
+A|That is a pretty car.|sv
+B|I'm, uh, I really like the looks also of the new Mazda that they have,|sd
+A|Uh-huh,|b
+A|that's pretty, too.|sv
+B|but um, I, uh, you know, the, the costs of a new car and those new models are extremely out of our price range right now.|sd
+A|Yeah,|b
+A|they get pretty expensive.|sv
+B|Yes,|aa
+B|they do.|aa
+A|The last one I bought, I bought a, uh,|sd
+A|well, it's a, it's a Town Car,|sd
+A|but it was a demo, returned|sd
+B|Uh-huh.|b
+A|and I got it with like, you know, I think it was like fourteen thousand miles on it and nearly ten thousand dollars less than what the list price was.|sd
+B|Right.|b
+B|Well, you can't go wrong with that kind of opportunity.|sv
+A|So I was really pleased to find that,|sd
+A|and I then, I bought it for cheaper,|sd
+A|I was looking at a Honda Accord, a brand new one|sd
+B|Yes.|b
+A|and I bought this, uh, the, the Lincoln Town Car for just a little less money than what I was going to buy the new Honda Accord.|sd
+B|Wow.|ba
+B|Well, you get a much bigger, better comfortable ride.|sv
+A|And the thing about it is they give you that ten, uh, that hundred thousand mile, five year warranty where it only costs you twenty-five dollars to have anything repaired.|sd
+B|Yes.|b
+B|Well, that's fantastic.|ba
+B|That's real, real good.|ba
+A|So, uh, I have really been impressed.|sd
+A|I said, I probably never be able, to find another one that I can afford, you know.|sd
+B|No,|aa
+B|do you,|%
+A|But I have loved this car better than anything I've ever driven, because you can go on the road and get there|sd
+A|and you're not even tired.|sd
+B|Very comfortable, smooth ride, huh.|qy
+A|And it gets like twenty-six miles to the gallon on the road.|sd
+B|Oh, it does?|bh
+A|It sure does.|na
+B|That's, that's unbelievable for that size of car.|sv
+A|I, they kept telling me that,|sd
+A|and I thought they're crazy,|sd
+A|so the week after I got it, well, actually before I signed the papers on it, I took it over to Boozier City|sd
+B|Yes.|b
+A|and it did it.|sd
+B|Wow.|ba
+B|That's great.|ba
+A|But it's, uh,|%
+B|That's great.|ba
+B|That kind of gas mileage, uh, we're, we're kind of hoping for on our van.|sd
+A|Yeah.|b
+A|Well, that's kind of what we've always been told, you know, they'll do,|sd
+A|and then we hope for it,|sd
+A|and it never happens|sd
+B|Uh-huh.|b
+A|but it really, it does get good gas mileage.|sd
+B|Well, that's excellent.|ba
+A|Most of the time when I don't go anywhere I can drive it for like three weeks from to and from work, you know, and then fill it up,|sd
+A|so.|%
+B|Uh-huh.|b
+B|Do you, uh, do, does it, uh, need a lot of repairs?|qy
+B|Is it a very reliable kind of car?|qy
+A|I haven't had anything,|sd
+A|I've taken it in twice for like just really minor things,|sd
+A|and it cost me the twenty-five dollars.|sd
+A|The, uh, really something really silly when we first got it,|sd
+A|we couldn't get the light,|sd
+A|they have all these lights in the car|sd
+B|Yes.|b
+A|and it has this fancy little light that gives you a reading light for the passengers in the back seat|sd
+B|Yes.|b
+A|and we couldn't get the light to turn off.|sd
+B|Um.|b
+A|And we kept trying, you know,|sd
+A|and we went out to dinner with some friends,|sd
+A|and it stayed on all night, you know just shining right down on them, you know|sd
+B|Oh dear.|ba
+B|Oh dear|ba
+A|and we couldn't get it to turn off,|sd
+A|and the next day my husband goes out there|sd
+A|and he tries to get it off,|sd
+A|we turn the knob, you know, in the front that's supposed to turn the lights on and off|sd
+B|Uh-huh.|b
+A|and we turned everything we could,|sd
+B|Uh-huh.|b
+A|and he took it in,|sd
+A|and they said, you know, you just have to press the switch.|sd
+A|He says, I've pressed every switch in that car,|sd
+A|and I can't get the light off,|^q
+A|it's broken.|^q
+B|Yes.|b
+A|So they took it in and charged us the twenty-five dollars,|sd
+A|and they called and told us though, that all you have to do is turn the off switch,|sd
+A|and they showed us where the switch was.|sd
+B|They charged you twenty-five dollars just to tell you that, huh.|bf
+A|They, they thought there was really something wrong with it when he told them he had already done the switch.|aa
+B|Uh-huh,|b
+B|oh, so they probably went through the,|qy^d
+A|But he hadn't, he hadn't done the right one.|sd
+B|I see|b
+A|And it's right on the arm rest in the back|sd
+B|Uh-huh.|b
+A|and we didn't know it was there.|sd
+B|Oh, okay.|b
+A|And the guy hit it with his arm when he got in the car|sd
+B|And found it right away.|qy^d
+A|and so we thought, you know, there, there was, it was broken.|sd
+B|Uh-huh.|b
+A|But we've had just, uh,|%
+A|I guess it's been in two times.|sd
+A|I've had it three years now.|sd
+B|Yes.|b
+A|And, uh, it's been in two, maybe three times.|sd
+A|But it's just been real minor things.|sd
+B|Well, I think that, uh, you have an excellent deal then,|sv
+B|and the, the company is able probably to offer that kind of warranty on the car because they know it's so well built that they don't expect any kind of major repairs whereas with an awful lot of other lower quality cars you would be getting repairs after repair after repair|sv
+A|That's right.|aa
+A|Uh-huh.|b
+B|and those companies wouldn't be able to afford that for that kind of extended warranty or warranty at all,|sv
+B|so.|%
+A|That's right.|aa
+A|But it's really, it's been an enjoyable car.|sd
+A|Like I say, I'll probably never be able to have another one, because I think we bought it for about sixteen thousand, you know|sd
+B|Yes|b
+A|and I said, I'll never find another one for that price.|sv
+B|No,|aa
+B|not at all.|aa
+A|And they keep going up,|sv
+A|so I'll have to enjoy it,|sd

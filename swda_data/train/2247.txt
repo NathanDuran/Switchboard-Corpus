@@ -1,0 +1,117 @@
+A|Okay, um,|fo_o_fw_"_by_bc
+A|now the term personal computer, uh,|%
+A|I don't happen to have one at home. Um,|sd
+A|but I do have a personal computer on my desk here.|sd
+B|A type of work station?|qy
+A|Yeah,|ny
+A|uh, yeah,|ny
+A|just kind of, it's kind of a kluge that was pieced together to, to, uh, shall we say bypass the formal procurement process.|sd
+A|And, uh, it, it works just fine.|sd
+A|It says it's a monochrome monitor, Panasonic printer, uh, no big deal,|sd
+A|it, it does the things I need for it to do.|sd
+B|Is it a two eighty-six or three eighty-six base machine?|qy
+A|No,|nn
+A|it's not even that.|sd
+B|It's eighty eighty-eight?|qy
+A|Uh, I think that's about where it is.|na
+B|Okay.|bk
+B|Uh what type of, uh, utilizations do you make of it?|qw
+B|Word processing obviously.|sd
+A|Uh, yeah,|aa
+A|I do that,|sd
+A|I, I do, uh, some Lotus on it. Uh, do some, uh, Samna, some, uh, P F M, uh, nothing extremely complex.|sd
+B|Okay.|b
+B|Uh, I use them both here at work and at home.|sd
+A|Uh-huh.|b
+B|And I have I B M clones in both cases.|sd
+A|Yep.|b
+B|Here at work I have the T I one thousand which is a three eighty-six base machine.|sd
+A|Oh, yeah.|b
+A|I bet that's a pretty nice setup.|ba
+B|Yes,|aa
+B|it is.|sd
+B|Uh, unfortunately I need all of it.|sd
+A|Yep.|b
+B|Uh, for example, I was messing around with a spreadsheet this weekend that's a third of a meg in beta size.|sd
+A|Wow.|ba
+B|And that, I know that, uh, brings an eighty eighty-eight machine to its knees because I had taken it over from a friend who was working on it|sd
+B|and he had a two eighty-six machine,|sd
+A|Yep.|b
+B|and it brought it to its knees. Just in the ability to handle.|sd
+A|Wow.|ba
+B|And then I have, uh, a three eighty-six F X a sixteen bit machine, at home.|sd
+A|Uh-huh.|b
+B|And I'm really pleased with it.|sd
+A|Uh-huh.|b
+B|It manages to take care of all my home needs in terms of word processing and spreadsheets and, uh, databases, database searches.|sd
+A|Sure.|ba
+A|Uh-huh.|b
+B|Uh, what I've gotten into more recently are the tools to use them.|sd
+B|Have you,|%
+A|Yeah.|b
+A|Yeah.|b
+B|To try to make them more effective and useful.|sd
+A|Right.|b
+B|Have you been, uh, struggling along those lines?|qy
+A|Well, um, I seem to always be in the, the next to the last generation of word processing software.|no
+A|When everyone was in Samna I was still in P F M,|sd
+A|and now that I finally become proficient in Samna everybody's going to WordPerfect.|sd
+A|So, I can never quite stay current with that.|sd
+B|Well, I think you will be real pleased to get away from the banana as I used to call it.|sv
+B|It's, uh,|%
+B|I used it on, uh, some other machines in days gone by and was real pleased to leave it.|sd
+B|It was a real memory hog when you started making large blot changes to it.|sd
+A|Uh-huh.|b
+B|The,|%
+B|at least the version I had tended to keep copies of that. Of what you were changing and deleting off in memory until all of, all of a sudden you got a disc full error. Not a fun thing to try to recover from.|sd
+A|Oh.|b
+A|Huh.|b
+A|I can I can believe that.|ba
+B|Very frustrating.|sd
+B|Uh, but again I've been dealing with large files both data and, and otherwise.|sd
+B|Uh, that was a engineering spec on B two.|sd
+B|You come here with the B level of specs?|qy
+A|No,|nn
+A|not really.|sd
+A|I'm not that up be on that sort of thing.|sd
+B|Well, it's just a huge file that tries to describe the requirements of what you're trying to build. Uh, to one level down from assistant description.|sd
+A|Oh, okay.|bk
+A|Oh, okay.|bk
+A|Okay.|bk
+A|Oh, well, it sounds like you're pretty much into computers.|sv
+B|Well, I sure need them.|aap_am
+B|Uh, there's no way that I could begin to process and keep up with the kinds of information or the magnitude of information that I need to, to try to do my job without them.|sd
+A|I can believe that.|ba
+A|Well, it's, it's been interesting.|sv
+B|Yes, uh,|aa
+B|maybe you'll play around some and figure out how they can help you do different things.|sv
+B|I think that's when you, you start deciding that you really need greater assets than you already have.|sv
+B|When you start seeing what all they can do for you.|sv
+A|Yeah,|b
+A|of course, needs and wants aren't necessarily the same thing.|sv
+B|Well, I understand that you know.|ba
+B|if, needs and wants were the same I'd have a four eighty-six machine at home|sd
+A|I|%
+A|is, is that the newest thing now, the four eighty-six?|qy
+B|Right.|na
+A|That, that must be a fairly recent release.|bf
+B|Uh, that's,|%
+B|came out around the first of the year.|aap_am
+A|Okay,|bk
+A|okay.|bk
+A|Because I, I had done capital packages for two eighty-sixes and three eighty-sixes,|sd
+A|but I didn't know they had a four eighty-six just yet.|sd
+B|It does a few more things, uh, than had been available before.|sd
+A|Uh-huh.|b
+A|Yeah.|b
+B|But I'm not sure that it's such a massive improvement. Uh, you know,|sd
+B|once you get passed thirty-three megahertz, all help is, kind of lost in the, in the translation. Because you no longer can think that fast anyway.|sv
+A|Sure.|ba
+A|Yeah.|b
+B|Well, okay.|fo_o_fw_"_by_bc
+B|I enjoyed our discussion.|sd
+A|I did too,|aa
+A|and you have a good day.|fc
+B|You do the same.|fc
+A|Bye-bye.|fc
+B|Bye.|fc

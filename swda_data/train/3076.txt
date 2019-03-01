@@ -1,0 +1,220 @@
+A|Well, well, Pat, did you vote in the last election?|qy
+B|Most assuredly.|na
+A|Oh, you did?|bh
+B|Yes ma'am.|ny
+B|I've voted in every major election since I turned twenty-one.|sd
+A|Oh, that's great.|ba
+A|Well, why do you think,  people don't.|qo
+B|Don't always  vote for somebody.|sd
+B|I sometimes vote against somebody|sd
+A|That makes sense too.|ba
+B|I think that a lot of it is, uh,|%
+B|I know that my late husband was simply indifferent.|sd
+B|He didn't feel like he had any say.|sd
+B|There was too many people, too many other votes.|sd
+B|For example, you know, he'd say, Well, look, you and I see different sides of the fence.|sd
+B|If I go vote you'll cancel my vote.|^q
+B|I said, I sure will.|sd
+A|And,|%
+B|He said, So, I just won't vote.|sd
+B|I said, Then mine counts, because you could cancel mine too.|sd
+A|Then does,|%
+A|Yeah,|b
+A|I think, I think, that's a lot of people,|sv
+A|just indifferent|sv
+A|I know that I've moved around a lot.|sd
+B|Uh-huh.|b
+A|In the past, um, three years I've had three different addresses.|sd
+B|Uh-huh.|b
+A|Each time I change jurisdictions or whatever.|sd
+B|Sure.|b
+A|So I just haven't,|%
+A|because, I mean, graduate school or whatever,|%
+A|so I haven't kept track of it.|sd
+A|I did, when I lived steadily in one community, I always, I voted.|sd
+B|Uh-huh.|b
+A|But this past time I didn't.|sd
+A|Well, actually I voted it for the presidential election,|sd
+A|but then I didn't vote uh, I guess, in the two year for, uh, some legislators and things|sd
+B|Uh-huh.|b
+A|and,|%
+B|Well characteristically, in some, in the local elections typically those people who vote are those who feel very strongly about an issue.|sv
+A|Uh-huh.|b
+A|Right,|aa
+A|uh-huh.|aa
+B|If I do not feel very strongly about an issue, then I see no reason to go vote.|sd
+A|Right,|aa
+A|yeah,|aa
+A|and that's probably one reason why I voted in the the last election, but not really this one|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|because this one really didn't matter that much.|sv
+B|Uh-huh.|b
+A|Yeah,|aa
+A|it's probably true.|aa
+B|Well, of course, of course listening to government, the instructors, you'll find out that everything matters,|sv
+B|but then you could go crazy worrying about everything.|sv
+A|Well, you know, they also say that most people vote their local politics, that, that local is far, much more important than, uh, national issues.|sd
+B|Well that's the way you get to national|sv
+A|Uh-huh.|b
+B|and that's the way you make changes about your neighborhood,|sv
+A|Right.|b
+A|Oh, I definitely think so.|aa
+B|Uh, I know that I have been involved in preparing and in, in, uh, carrying out a lot of the local petitions that take place.|sd
+A|Uh-huh.|b
+B|Even something so simple as getting a street light in between lights on the end of the block.|sd
+A|Right.|b
+A|Uh-huh.|b
+B|But it makes a big difference when it's the difference in having a child run over in the dark.|sv
+A|Yeah,|aa
+A|that's true.|aa
+A|Yeah.|b
+B|And, uh, it took a close call to wake us up and cause us to take that kind of action,|sd
+A|Uh-huh.|b
+B|and that's completely unnecessary.|ba
+B|In another particular case they were trying to put in a, um, senior citizen's home in, in an area very near our neighborhood,|sd
+A|Uh-huh.|b
+B|but if you just cross that major street, the character of the neighborhood changes,|sd
+B|and it's less savory.|sd
+A|Uh-huh.|b
+B|Okay.|b
+B|And that, I was just very, I felt very strongly about that,|sd
+B|those people simply did not have access to safety, to security|sd
+B|and they were at risk.|sd
+A|Uh-huh.|b
+B|And it was for elderly people who lived alone,|sd
+B|and they were going to put a cluster of, of houses there for them.|sd
+B|But even clustering together for the elderly does not ensure safety.|sv
+A|No,|aa
+A|most now,|%
+A|that's true,|aa
+B|And all it, all it did was to, in my judgment, make them, easier targets|sd
+A|Prepare them to be, victims,|^2
+A|yes.|%
+B|Uh-huh,|aa
+B|yeah,|aa
+B|easier targets,|sd
+B|and so we, we did get a petition together|sd
+B|and we very strongly resisted it,|sd
+B|and it was placed in a actually, it was placed clear, closer to my neighborhood|sd
+A|Uh-huh.|b
+B|but it was on the,  right side of the street.|sd
+A|Right side,  of the tracks,|^2
+A|yeah.|%
+B|And, uh, it, it, I think that they're, they're much more comfortable there.|sd
+A|Uh-huh.|b
+A|Did they,|%
+B|Uh, I haven't seen too much crime in my neighborhood,|sd
+B|although we have a good crime watch program|sd
+A|Uh-huh.|b
+B|but it's, it's very serious just across the street.|sd
+A|Yeah.|b
+A|Did, um, did you think,|%
+A|I know that Texas's last gubernatorial, uh, election probably brought out a lot of voters.|qy^d
+B|Well.|%
+A|Did that, did that seem to,|qy^d
+A|because that that got national attention, national attention, I guess, having a woman governor running against a man and whatever.|sv
+B|Well.|%
+B|No,|ar
+B|I don't think it had to do to with woman running against man.|sv
+B|I think it had to do with dirt running against dirtier.|sv
+A|Uh-huh.|b
+B|And that's it|%
+A|Yeah.|b
+B|it was a dirty election.|sv
+B|People were calling each other, uh, names and every bit of the trash,|sd
+B|it was a, it was a dirty campaign.|sv
+B|It was a dirty, mud slinging campaign.|sv
+A|Well, you know, what's funny, up here, uh, I live, I see a lot of Virginia news|sd
+B|Uh-huh.|b
+A|and I guess, uh, Senator Robb and Governor Wilder are active right here,|sd
+B|Uh-huh.|b
+A|and they have some type of wire tapping problem going on,|sd
+B|Uh-huh.|b
+A|and the people in Virginia are complaining,|sd
+A|see Robb is married to Lynda Bird Johnson|sd
+B|Uh-huh.|b
+A|and the people in Virginia are complaining that he is, he's using Texas politics in Virginia|sd
+B|Uh-huh.|b
+A|and they're really complaining big time,|sd
+A|because they said that We don't have that type of trashy politics up here like they do in Texas all the time.|sd
+B|Well,  of course, now, that's not all  the time.|sv
+A|So you, you guys were getting  yeah,|sd
+B|We've had some pretty We were having some pretty healthy uh, campaigns that were based on issues there for two or three of the gubernatorial races|sv
+A|you were getting slandered, I think,|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|but, I, historically, Texas has had mud and muddier campaigns|sd
+A|Yeah.|b
+B|I mean, it's just, I think that eventually, you know, the better people have sensibilities|sv
+B|and they vote on those people who are least likely to do damage.|sv
+B|Unfortunately, that's not always the way it should be.|sv
+A|Uh-huh.|b
+B|You don't want to vote for the person who is least likely to do damage.|sv
+B|You want to do the one who can do the most good.|sv
+A|Do the most good,|b^m
+A|yeah,|aa
+A|that's true.|aa
+B|And, uh,|%
+A|I guess that's why,|%
+A|I know that, um, I'm previously from Pennsylvania|sd
+B|Uh-huh.|b
+A|and Dick Thornburg who's now the attorney general is going to run for senator because, uh, John Heinz, a senator from Pennsylvania, died in an airplane crash|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|and I know that they're expecting a gigantic turn out to landslide Dick Thornburg into, as, into the senate because they don't like the the governor's political appointee, or whatever|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|and they're almost expecting landslide out, uh, turn out, right now for for that election.|sd
+B|Uh-huh.|b
+B|Okay,|b
+B|so you So, you see,|^h
+B|that's very negative motivation isn't it|qy
+A|Uh-huh.|b
+A|Yeah.|ny
+B|isn't that too bad.|qy^d
+B|We really could use a little positive motivation|sv
+A|Uh-huh.|b
+B|hey, we think this guy can really make some changes|^q
+B|and we're going to support him.|^q
+A|Yeah.|b
+B|That was true in a lot of cases in, in a couple of the older sixties campaigns.|sd
+A|Uh-huh.|b
+B|Uh.|b
+A|What,|qw
+A|in Texas,|qy
+A|was that when, you,|qy
+B|No,|nn
+B|I'm talking about national campaigns.|sd
+A|That's, that's true.|aa
+B|Yeah.|b
+B|Uh, even when John Kennedy was elected, there were so many strikes against him,|sd
+B|but there were people who believed he could make a difference.|sd
+A|Right.|b
+B|Now, that's not to say what has transpired or what really was,|sd
+B|I'm saying that's how it was perceived.|sv
+A|Uh-huh.|b
+A|that's, right,|aa
+A|that's perception,|aa
+A|that's true.|aa
+B|And, uh,|%
+A|Because the, those were big political, that was a big, um, turn out election.|sd
+B|Oh, yeah.|b
+B|Absolutely.|aa
+A|Uh-huh.|b
+B|And, and it was people going to vote for, I think, more than those who voted against.|sd
+A|Uh-huh.|b
+B|I know, I know that in my own, uh, area of people, whom I knew and how they were going to vote, they didn't go to vote against, uh, a politician as they did a little bit later when Nixon was running.|sd
+A|Uh-huh.|b
+B|They went to vote against the less of, lesser of the two evils in certain cases.|sd
+A|Yeah.|b
+B|But I think that one was one that you had some very strong feelings among people,|sv
+A|Uh-huh.|b
+B|and they voted their convictions.|sv
+A|Uh-huh.|b
+A|Well, I think that also happened with Ronald Reagan.|sv
+B|Absolutely.|aa
+A|He was he was landslided in|sv
+B|You're right.|aa
+A|and people really saw that was,|%

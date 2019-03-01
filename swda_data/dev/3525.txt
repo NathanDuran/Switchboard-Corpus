@@ -1,0 +1,147 @@
+A|They tell you what our topic was?|qy
+B|I think golf, isn't it?|qy
+A|Right.|na
+A|How much of a golfer are you?|qw
+B|Are you a hacker?|qy
+A|You bet.|na
+A|I'm fifty years old,|sd
+A|I've been a hacker,|sd
+A|I think, I think I played better golf when I was fifteen, John, than I play right now.|sd
+B|I know I, Oh, I know I did,|sd
+B|I know I did.|sd
+A|And, uh,|%
+B|Course, I know I watch my thirteen year old play now, you know,|sd
+B|and it's like they don't have a muscle in their body.|sv
+A|Oh, I know,|aa
+A|it's just unreal.|sv
+A|I, you know, I'm a guy that plays,|sd
+A|if I play a lot of golf, I play six to eight times a year|sd
+A|and that's about it.|sd
+A|I figure that's my retirement game.|sd
+A|I really,|%
+A|I come from a family of golfers.|sd
+B|Uh-huh.|b
+A|I mean, I was raised by a man, my stepfather who, with a two handicap, I mean, he, he, he, he could get down on his knees and hit the ball, I mean, further than most people could hit it.|sd
+B|Sure.|b
+A|And my mother who is now, he's, my stepfather is dead, but my mother who is now seventy-one I can remember her being, I believe a sixteen or a fourteen handicap,|sd
+A|but, but, uh, all they did every day in their life was to play golf every,|sd
+A|they'd leave work and go to a golf course, or a little country club they belonged to back in Richmond, Virginia and just, uh, play nine holes of golf.|sd
+B|Yeah.|b
+A|That was their deal,|sd
+A|they,|%
+B|That's what it takes,|ba
+B|you, you need to play that often to get a really good handicap .|sv
+A|But, uh I just, I just never could do it.|sd
+A|I have a brother-in-law who is, uh, an ex-college coach and like a pro|sd
+A|and he has a very good handicap and plays good golf|sd
+A|sort of like the non golfer golfer of the family.|sd
+B|Well, I went to,|sd
+B|I decided this past year that I was going to get out and start playing a lot more|sd
+B|and I, I went after it|sd
+B|and did, and I really didn't find much improvement.|sd
+B|Fact, ever time I'd start trying to correct something, it seemed like the score would *listen go, go back up,|sd
+A|Oh, really?|bh
+B|yeah,|ny
+B|I, I think I need to, uh,|sv
+A|Yeah.|b
+B|I probably need to take some, some more lessons, uh, more current and, uh, and practice more often.|sv
+A|Yeah.|b
+B|Spend more time on the,|sv
+A|I think I'm probably the same way.|sv
+A|Lessons do help.|sv
+A|I know ever year we buy,|sd
+A|I go to this Ducks Unlimited dinner,|sd
+A|it's a hunter's type affair|sd
+B|Uh-huh.|b
+A|and I buy in, in Austin, Texas,|sd
+A|I go down to Austin,|sd
+A|I live in the Dallas area, but I go down to Austin and go with my good customer and friend of mine|sd
+B|Uh-huh.|b
+A|and we always buy this weekend at a, at a country club in the hill country. You know, at, uh, Horseshoe Bay.|sd
+B|Oh, yeah.|b
+B|Oh, yeah,|aa
+B|I'm familiar with it.|sd
+A|And we just have a ball,|sd
+A|and we play three days in a row, three different courses|sd
+A|and, course, believe it or not by the end of the third day and the end of the, uh, third course, my score has gone from, you know, a hundred and twenty down to about a hundred and five.|sd
+A|So,|%
+B|Oh, yeah,|aa
+B|if you play regular, I think it makes a big difference.|sd
+A|You bet,|aa
+A|so it, that makes a lot of difference to me.|sd
+B|Yeah,|aa
+B|yeah,|aa
+B|I, well, I've also found, too, I, I try to work out regularly|sd
+B|and when I am doing that, uh, and feeling loose and, that I swing better,|sd
+B|I, I, I get through the ball better.|sd
+B|Uh, and I also, if I,|%
+B|I found as I've gotten a little older here, I worry less about my distance.|sd
+A|You bet.|aa
+B|And I,|%
+B|my control is a little bit better there.|sd
+A|Yeah.|aa
+B|Uh, so,|%
+A|That's super.|ba
+A|I haven't learned to hit the ball easy|sd
+A|and I just sort of,|sd
+A|I'm always wanting to hit it hard|sd
+A|and, that's something my stepfather never could teach me, you know, just to relax and hit the ball,|sd
+A|and, you know, so, subsequently when I do tire out from playing like twelve, fourteen holes, my, you know, a lot of my energy's gone,|sd
+A|when I do swing it's an easier swing|sd
+B|Uh-huh.|b
+A|and I do, actually, hit the ball better.|sd
+B|Uh-huh.|b
+B|Have you ever, have you ever tried a one iron?|qy
+A|No,|nn
+A|I have a two through, you know, two through wedge.|sd
+A|I hit a two iron awful lot.|sd
+A|Off, now, off the tee.|sd
+B|Uh-huh.|b
+A|I don't hit a driver off the tee.|sd
+A|That, that's why I need my driving lessons.|sd
+B|Well, you know, I put mine back in my bag this year, too,|sd
+B|and I, I used a three wood rather than a driver.|sd
+A|That helps.|ba
+B|Uh, I had a lot more control on it, uh,|sd
+B|I sacrificed distance,|sd
+B|but I wasn't in trouble every time I got down the fairway.|sd
+A|Well, that's, that's a good idea.|sv
+A|I think this next year, I'm going to, I'm going to attempt to play more|sd
+A|and I'm going to do the same thing.|sd
+A|I, I laid off my woods about three years ago|sd
+A|and I just use a two wood off the fairway|sd
+A|and I'm a fairly strong person|sd
+A|so I get a pretty good little drive|sd
+B|Uh-huh.|b
+A|and I, and I guess control my irons, better, you know,|sd
+A|if you'll take lessons, the first thing they put in your hand is an iron.|sv
+B|Oh, yeah,|aa
+B|absolutely.|aa
+A|And, uh, I still remember that watching myself and my son|sd
+A|so, but I think the key is you just need to, you need to play more often than I play.|sv
+B|Yeah,|b
+B|well, I, I read recently here, they say, if you're playing, if you're scoring well, you should play more.|sv
+B|If you're scoring poorly, you should spend more time on the practice uh, range.|sv
+A|Right.|b
+B|Uh, I think there is less frustration factor there, too, uh,|sv
+A|Makes good, makes good sense.|ba
+B|So, but I, I,|%
+B|the one iron is something I've been thinking because my driver's gone so badly lately that I, I should pick one up and try to start.|sd
+B|Apparently they're very difficult to play with,|sv
+B|but with practice, I would imagine you could groove that swing, too.|sd
+B|And I play with a fellow that can knock a one iron,|sd
+B|it's incredible.|sd
+A|Oh, yeah.|b
+B|And, but, and his accuracy is what's so startling with it.|sd
+B|And I,|%
+B|and it, but it's an iron that he's really practiced with.|sd
+B|He has used a lot,|sd
+B|and, uh, it would be fun to get that good at a with an iron. Uh, distance iron.|sv
+A|You bet.|ba
+A|My my challenge of the game is just, if I can get off the first tee when everyone's standing around watching you, I'd be great after that|sd
+A|That, boy,|%
+A|I just,|%
+A|if I get off the tee box and I, and I've, you know, you know, anything from a hundred fifty to two hundred yard drive through a straight, I just want to get down and kiss the ground, you know|sd
+B|And get away without embarrassing yourself,|bf
+B|right|aa
+A|Because,|%

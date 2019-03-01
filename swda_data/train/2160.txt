@@ -1,0 +1,181 @@
+A|Hello.|fp
+B|Hello there.|fp
+A|Did I reach the Dallas area?|qy
+B|I beg your pardon?|br
+A|Did I reach the Dallas area?|qy
+B|No,|nn
+B|you've reached Dayton, Ohio.|sd
+A|Dayton, Ohio,|b^m
+A|I'm from North Carolina.|sd
+B|Oh, you're from North Carolina.|sd
+B|Where in North Carolina?|qw
+A|In Raleigh.|sd
+B|Raleigh,|b^m
+B|great.|ba
+A|Yeah, My name is Fernando. *sd|b
+B|Well, my name's Mary.|sd
+B|Fernando, glad to know you.|fo_o_fw_"_by_bc
+A|So, um, do you, well,|%
+A|how'd you find out about this?|qw
+B|Uh, I was visiting my son down in Dallas,|sd
+B|and.|%
+A|Oh, okay,|bk
+A|he works for T I.|bf
+B|No,|nn
+B|no,|nn
+B|but his wife has a contract with T I,|sd
+B|and that's how we learned about it,|sd
+B|uh-huh.|%
+A|Oh, okay,|bk
+A|because I'm down at N C State.|sd
+B|Yeah,|b
+B|uh-huh.|b
+A|And so I took a class,|sd
+A|and he said, sign up and get some money and just talk for five minutes.|sd
+B|Right|ba
+A|So are you ready?|qy
+B|I'm ready.|na
+A|Okay,|%
+A|let's get started. like a phone beeping|ad
+B|All right,|aa
+B|okay.|aa
+A|Okay,|%
+A|so, uh, what do you think, that, uh,|qo
+A|what do, what do, what do you think we can do to solve the crime in America?|qo
+B|Oh, if I knew that I'd be a very wealthy person.|sv
+A|Yeah,|b
+A|but what, what, what are the steps?|qo
+B|Well, you have to see,|sv
+B|I, the way I look at it, you have to think first of all why, *listen|fo_o_fw_"_by_bc
+B|or has crime increased,|qh
+B|and if so, why has crime increased?|qh
+A|Well, see the problem is, is that, um, what happens is as, that you're, uh, you know, as you go from the country to a city, crime always increases, right?|sv
+B|Uh-huh.|b
+A|Because in the country, people still respect, uh, the property of other people.|sv
+B|Right.|b
+A|And so, as, as,|%
+A|and the people in the country don't want as much as the people in the city.|sv
+B|Uh-huh.|b
+A|Now what happens is all those that don't have any money in the country move to the cities,|sv
+A|and they rush to get the same thing.|sv
+A|They say, why can't we have the same things that these other people have,|sv
+A|and the thing that we can do is, we need money for drugs,|sv
+A|and what we have to do is, we have to go, uh, get some stuff, steal it, and then, you know, just resell it.|sv
+B|It's easy,|bf
+B|you said the magic word there.|sv
+A|Which one?|qw
+B|Drugs.|sd
+A|Yeah.|b
+B|And that certainly is one reason why crime here has increased.|sv
+A|That's, uh, that's, uh, the main reason I think, uh, everywhere|sv
+A|because, uh, you have deaths.|sv
+A|I mean, I mean, you have murders|sv
+A|and you have, you know, people stealing other people's stuff,|sv
+A|and that's|%
+A|a lot of it has to do with drugs.|sv
+B|Oh, yes.|aa
+A|It doesn't have to do,|%
+A|I mean, the thing is is that, you know, it's like you might be standing somewhere, right,|sv
+A|and like let's say you, you're, you're, you know, you're driving out|sv
+A|and you're driving back home|sv
+A|and it's late at night.|sv
+A|And you stop by one of these, you know, twenty-four hour, you know, gas stations joints.|sv
+B|Yeah.|b
+A|And, uh, somebody walks in there with a gun.|sv
+A|I mean, they're going to want the money,|sv
+A|and you can tell by the people who are always caught, that these people are there to get money for drugs.|sv
+A|I mean, they don't want the money so, uh, so they can do something else with it.|sv
+B|No,|aa
+B|they don't want the money for food,|sv
+B|that's for sure.|sv
+A|Right,|aa
+A|right,|aa
+A|and so.|%
+B|Well, but you know, the,  the strange thing, uh, perhaps, not strange, but something that many people don't realize, is that you can go back as far as nineteen fifty-one and fifty-two and find that there were drug dealers at that time trying to influence the high school kids,|sv
+B|because, uh, I'm a retired educator.|sd
+A|Okay|bk
+B|And, in fifty-one and fifty-two, the police came to the high school where I was and were telling us how to recognize when kids were on drugs, how to recognize the pushers outside the one entrance, that they were giving their drugs away in order to get the kids started, and so on, and so on.|sd
+A|Yeah.|b
+B|So it's a problem that's been around for over forty years,|sv
+B|and we're just really, uh, uh, now, trying to, uh, figure out how to cope with the problem because it has grown so huge.|sv
+A|Yeah,|b
+A|there's a, there's a, uh, a song that I know which says, you know,|sd
+A|it's like, in, uh, nineteen eighty-eight, nineteen eighty-nine, the local, state, and federal governments spent the least amount of money on crime in America,|sd
+A|and, uh, their figures, I think are too, so|sv
+A|I mean it's like, compared to, you know, compared to, weapons or stuff like that, I mean, you're spending nothing on, on crime in the country itself.|sv
+A|What you're doing is, you, you know,|%
+A|it's like, you have other things, you know,|sv
+A|you have the AIDS|sv
+A|we're going to solve, try to solve the AIDS problem while, while, you know, some people are getting killed here and there|sv
+B|Uh-huh.|b
+A|and then|%
+B|Yeah|b
+B|and another one of the problems is that the people who are the dealers, the big dealers in drugs, may be, may be part of the power structure that's keeping us from spending the money in that direction.|sv
+A|Uh-huh.|b
+A|But those people never get caught.|sv
+A|The people that that, that I,|%
+B|That's right,|aa
+B|they'll never get caught.|sv
+A|see, their theory is that if I'm surrounded, and I'm going to be caught, I'm going to try to find my way through,|sv
+A|and they're not going to take me alive.|sv
+B|Uh-huh.|b
+A|But I have such a big army outside of my place, that nobody can touch me.|sv
+B|That's right.|aa
+B|But they'll,|%
+A|You know, it's like,|sv
+A|of course, I mean I might be, you know, the the leading drug dealer here,|sv
+A|but you won't find me dealing in drugs,|sv
+A|I mean, there's no connection between me and the people that were caught, you know.|sv
+B|That's right.|aa
+B|That's right,|aa
+B|and, they,|%
+B|one person doesn't know the other person down the line.|sv
+A|Right.|aa
+B|But the guy at the very top, the one who's, who's really making the millions and the millions is the one who also many times is part of the power structure, uh, the, uh, and had the political uh, pull to keep things from, uh, keep the interest or the emphasis in some other direction, other than on the drug dealing,|sv
+A|Yeah.|b
+B|because it sure is monstrous in this country.|sv
+A|Yeah,|b
+A|I was, I was at a, at a party on Saturday,|sd
+A|and this guy comes over,|sd
+A|he goes, hey, how you doing,|sd
+A|he started talking to me,|sd
+A|and this guy was from Jamaica, right.|sd
+B|Uh-huh.|b
+A|And he's got his little brother selling drugs in|sd
+B|Uh-huh.|b
+A|You know, and he goes, yeah, I just came up here to work,|sd
+A|and I go, oh you did, you make very good money up here.|sd
+A|He goes, yeah, I make a lot, a lot of money,|sd
+A|he goes, you know.|%
+A|And, uh, in the movie GOOD FELLOWS.|%
+B|Yeah,|aa
+B|might. *spelling??|aa
+A|Did you see it?|qy
+B|Nope,|nn
+B|I only heard about it.|sd
+A|Okay,|bk
+A|in one part, the guy goes out of jail,|sd
+A|and within, uh, two months, he has all his house payments gone everything paid, you know,|sd
+B|Uh-huh.|b
+A|and he had enough money to, you know,|sd
+A|it's like, those guys, at one point, you know, they had so much money that they didn't know what to do with it|sd
+B|Yeah,|b
+B|really, you know,|%
+B|even in our prison systems they're finding that they're, they're having drugs smuggled into them.|sv
+A|Yeah,|b
+A|yeah,|b
+A|that's, that, that was also in the movie.|sd
+B|Right.|b
+A|Yeah.|b
+A|So hello Mary.|fp
+B|Been nice talking with you.|fc
+A|We've been talking for five minutes?|fc
+B|I beg your,|fc
+B|we've been talking for a little bit.|fc
+B|I appreciate the call.|fc
+B|I enjoyed talking with you.|fc
+A|All right,  okay,|fc
+A|same here.|fc
+B|Uh-huh,|fc
+B|bye-bye.|fc
+A|Bye-bye.|fc

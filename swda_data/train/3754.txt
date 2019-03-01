@@ -1,0 +1,204 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|And, I've pressed the button.|sd
+B|Okay.|b
+B|Let me tell you.|oo_co_cc
+B|I haven't been too many places|sd
+A|You haven't been to too many places.|b^m
+B|No,|nn
+B|no.|nn
+B|I haven't.|sd
+A|Well, okay.|b
+A|I have been to Hawaii.|sd
+B|See now, that is where I want to go.|sd
+B|That is where I have always wanted to go.|sd
+B|I have never been there.|sd
+A|It is beautiful.|sd
+B|I know.|ba
+B|Is it, is it, uh,|%
+B|I had an aunt that lived there|sd
+B|and she couldn't stand it any more.|sd
+B|She moved out because she said the whole island was, uh, you know being taken over by the Japanese.|sd
+A|Well, there is, there is a lot of Japanese over there.|sd
+A|And they are,|%
+B|Yeah,|b
+B|and she, uh, also told me that,|sd
+B|well not her, uh, necessarily, other people that have been there have said that it is too commercialized.|sd
+A|Uh-huh.|b
+B|Is it?|qy
+A|Uh, well, yeah.|ny
+A|There is,|%
+A|it is commercialized.|sd
+B|Yeah.|b
+B|Sure.|b
+A|I don't think I have enough,|%
+A|Oahu naturally has got more people on it than the other islands.|sd
+B|Uh-huh.|b
+A|But, it is still beautiful.|sd
+A|You have got to see at least once.|ad
+B|Oh, well I will. You know,|aa
+B|eventually|aa
+A|So,|%
+B|Well, what is the most, uh, you know the nicest island?|qw
+A|Uh, I like Maui.|sd
+B|Maui.|b^m
+B|I think that is what usually people, uh say they do, they like the best.|sv
+A|Yeah.|b
+A|Well, I like it because the beach is nice and white|sd
+A|and you know it is like Oahu,|sd
+A|you can go over there and lay on the beach|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|But, uh, Kauai,|sd
+A|I mean, the beaches are nice,|sd
+A|but I don't know, just not nice as Maui.|sd
+B|Yeah.|b
+A|And then, uh, where, where have you been?|qw
+B|Well, I have been to California.|sd
+B|I've been to San Francisco.|sd
+A|Oh you have?|bh
+B|I loved it.|sd
+B|I absolutely loved it.|sd
+A|Oh.|b
+B|Yeah,|b
+B|and, uh,|%
+A|How long ago?|qw
+B|Oh, uh, eighty-six.|sd
+A|Huh.|b
+A|Okay.|b
+B|My sister  lives out there|sd
+B|My sister lives in Piedmont.|sd
+A|Oh, yeah.|b
+B|Yes.|b
+B|Uh-huh.|b
+A|So.|%
+B|Oh, well that is right near Piedmont.|sd
+A|Yeah,|b
+A|right.|b
+A|Right.|b
+B|Yeah,|b
+B|that is like a suburb or something, whatever.|qy^d
+A|Yes,|ny
+A|uh-huh.|ny
+A|Uh-huh.|ny
+B|Oh, yeah.|ba
+B|Okay.|b
+B|Well she was in Berkley also|sd
+B|and she|%
+A|Uh-huh.|b
+B|lets see I went when she was, uh, was living,|^h
+B|well when I went out there she was in, uh, now I can't, oh, Lafayette.|sd
+B|She was living in  Lafayette.|sd
+A|Oh yeah,|b
+A|right.|b
+B|And then they moved to Piedmont.|sd
+A|Uh-huh.|b
+B|So I, uh, I haven't seen, uh, you know, her house in Piedmont|sd
+B|but, but I loved San Francisco.|sd
+B|I would like to go back.|sd
+A|Yeah.|b
+A|Did you go on the cable cars and everything?|qy
+B|Oh yeah.|b
+A|Yeah.|b
+A|Isn't that fun?|qy
+B|Went to Alcatraz.|sd
+B|You know we did the whole bit.|sd
+B|And then we went to the wine country.|sd
+A|Oh yeah.|b
+A|Up by Napa.|sd
+B|Yeah.|b
+A|Yeah.|b
+B|Oh, beautiful.|sd
+A|Yeah.|b
+B|And we went to Carmel.|sd
+A|Uh-huh.|b
+B|And we took the eighteen mile drive.|sd
+A|Isn't that pretty.|qy^d
+A|I love it down there.|sd
+B|Oh, it is beautiful.|sd
+B|That is really beautiful.|sd
+A|Uh-huh.|b
+B|My girlfriend was down there a few months ago.|sd
+B|First time she has been down there|sd
+B|and they wanted to take that drive|sd
+B|and they had closed the whole road because of, uh, uh,  fog,|sd
+A|Oh, the  weather.|^2
+B|Yeah.|b
+B|So they never got to do that.|sd
+A|Huh.|b
+A|Well I have also been to the Carribean.|sd
+B|Oh, I haven't been there either|sd
+B|You name it, I haven't been there|sd
+A|Well I, uh, have been there a couple of times.|sd
+B|Uh-huh.|b
+A|I went on a cruise.|sd
+B|Oh, that is nice.|ba
+A|The last time I went, I went with my two sisters.|sd
+B|Uh-huh.|b
+A|And it was over Christmas time.|sd
+B|Yeah.|b
+A|And we really had a good time.|sd
+B|Uh-huh.|b
+A|Well they, they had this cruise director dress up like Santa Claus,|sd
+A|and we went to the beach|sd
+A|and they had put a Christmas tree on the beach decorated it up.|sd
+B|Uh-huh.|b
+A|It was, it was a lot of fun.|sd
+B|Well, that's nice.|ba
+A|So.|%
+B|Is, uh, a cruise nicer than, uh, if you just go, on a regular, uh, you know, to a hotel?|qy
+A|Oh, yeah.|ny
+B|It is.|bf
+B|I have heard it is.|sd
+B|Yeah.|%
+A|Yeah,|b
+A|because you don't have to worry about unpacking or anything like that you know.|sd
+A|You put your clothes in your room,|sd
+B|Uh-huh.|b
+A|Oh, you will have to go on one.|ad
+B|You don't get seasick?|qy
+B|That is what I am afraid of.|sd
+A|No.|nn
+B|No,|b^m
+B|huh.|b
+A|I mean there was,|%
+A|some people did, uh, on that last cruise that we took because they was having a storm come in|sd
+B|Uh-huh.|b
+A|but that is unusual.|sd
+B|Yeah.|b
+A|Uh, one of my sisters got sick,|sd
+A|but the other one didn't|sd
+B|Uh-huh.|b
+A|but, uh, it is really nice|sd
+A|and they, they just do so many things for you, you know, to make you enjoy the trip and everything.|sd
+B|Right,|b
+B|yeah.|%
+A|So, you will have to do that once.|ad
+A|I want to go on another one,|sd
+A|but I want to go to Alaska.|sd
+B|Oh, yes.|b
+B|Now someone I know was on a cruise to Alaska.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|Was it to Alaska?|t1
+B|Yeah,|%
+B|I am pretty sure.|sd
+B|That is right my hairdresser|sd
+A|Oh, really?|bh
+B|She went last year.|sd
+B|She said she went on a cruise.|sd
+B|And I was thinking, you know, cruise I am thinking.|sd
+B|So on|%
+B|and she is laying on the beach.|sd
+B|And I said, well you are not very tan for someone who has been on a cruise|sd
+B|She said we went to Alaska|sd
+A|Yeah.|b
+A|Right.|b
+B|And, uh, that, that I would like to go,|sd
+B|well Hawaii is my, uh, is number one.|sd
+B|I would also like to go to Australia|sd
+B|and get a,|%
+A|Oh, I think I would like to, too.|aa
+B|Yeah.|b
+A|I keep hoping to win the lottery where I can do all these things. You know.|sd
+B|Oh, well see, I am, am just in the Publisher's Clearing House and the READER'S DIGEST, because we don't, uh,|sd
+B|right now the lottery here,|sd

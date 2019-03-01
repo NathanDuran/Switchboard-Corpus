@@ -1,0 +1,124 @@
+A|Hi, Cynthia.|fc
+A|What did you wear to work today?|qw
+B|Um, let's see.|^h
+B|What did I wear to work today?|t1
+B|Um, actually I wore corduroy shorts with a white blouse, um, and flat shoes.|sd
+A|So, can you dress pretty casually?|qy
+B|Um, on occasion. On occasion.|na
+A|Yeah.|b
+B|Um, I do vary.|sd
+B|Um, you know, I wear suits,|sd
+B|I wear skirts and sweaters.|sd
+B|On occasion I can wear jeans.|sd
+B|Um, how about you?|qo
+A|Well, I, um, run a business out of my home.|sd
+B|Uh-huh.|b
+A|So I tend to get up in the morning, put on, sweats, um, do whatever I want to do with the kids, then whenever I have a meeting with a client, I'll put a suit on. And then come home and get back into regular clothes again|sd
+B|Yes.|b
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|Um, you know, there's real no, no real dress code where I work.|sd
+B|Um, you see people wearing, you know, all different attire.|sd
+B|I, um, don't like to wear heels, that really tires me out.|sd
+B|I work in a big building.|sd
+A|Yeah.|b
+B|So, I predominantly wear flat shoes.|sd
+B|Um, you know, in the winter I wear sweaters,|sd
+B|in summer I, you know, I like one piece dresses, short sleeves, things like that.|sd
+A|I've recently, um, tried to update my wardrobe, trying to put suits together that I can interchange, the, jackets and the blouses and all that a lot.|sd
+B|Right.|b
+B|Right.|b
+A|That's helped me a lot with having,|sd
+A|I can only have a, a limited wardrobe, since I'm only, working part-time right now.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|Um, but still, it gives it some variety. Add different blouses and scarves and belts and things like that.|sd
+B|Uh-huh.|b
+B|Right,|b
+B|right,|b
+B|accessories,|b
+B|uh-huh.|b
+A|What about your casual wear?|qo
+A|Do you like to wear jeans most of the time?|qy
+B|Um, yeah|ny
+B|mostly.|na
+B|I mean, at home I predominantly wear laughs while saying remainder of sweatpants and things like that, also.|sd
+A|Yeah.|b
+A|It's nice you can wear shorts, especially on a day like today when it's so hot.|sd
+B|Yeah,|b
+B|well, they're, um, you know, they're like|sd
+A|Dress shorts.|^2
+B|yeah,|aa
+B|they're like black corduroy Bermuda shorts.|sd
+A|Yeah.|b
+B|And sometimes I wear a blazer with them,|sd
+B|and I get really a lot of compliments on them.|sd
+B|Um, where I work is predominantly male.|sd
+A|Yeah.|b
+B|So, you know, they,|%
+B|their attire is always the same, you know. Suits or slacks, you know, jeans, whatever.|sd
+A|Yeah,|b
+A|but ,|%
+B|And, um, but I'm really the only woman, I guess, at work that does that,|sd
+B|but seems to work for me|sd
+A|Yeah,|b
+A|but .|%
+B|In fact, I just bought, I, I just got a new outfit as a gift that, um,|sd
+B|it's one of those skorts,|sd
+B|you know,|%
+B|it's shorts but it looks like a skirt.|sd
+A|Uh-huh.|b
+B|So, I think that'll be good for work, too.|sd
+A|Oh, yeah.|b
+A|It'll be comfortable.|sv
+B|Yeah.|b
+B|Yeah.|b
+B|So,|%
+A|I guess down here, uh,|%
+A|we just recently moved to Texas,|sd
+A|so my wardrobe has changed quite a bit.|sd
+B|Uh-huh.|b
+A|Um, we moved from Colorado where,|sd
+A|and I have a closet full of sweaters.|sd
+B|Uh-huh.|b
+A|That,|%
+B|Well, see, I live in Virginia.|sd
+A|You live in Virginia, now?|qy^d
+B|Uh-huh.|ny
+A|Oh, that's interesting.|ba
+B|Yeah.|b
+B|Yeah.|b
+B|So, I'm,|%
+B|you know, like right now, today was in about, you know, the fifties.|sd
+A|Uh-huh.|b
+B|But, um, you know, I, I do wear a lot of sweaters and things like sweater dresses.|sd
+A|Yeah.|b
+A|I'd like to be able to wear those here.|sd
+A|Today it's eighty-eight degrees.|sd
+B|Oh, my|ba
+A|So|%
+B|Uh-huh.|b
+A|Needless to say, my sweaters have been hung in the closet for quite a while now|sd
+B|Uh-huh.|b
+A|Today was, uh, definitely a shorts day around here.|sd
+B|Uh-huh.|b
+B|Yeah,|b
+B|we're still pretty much, you know, in winter, as far as that goes here.|sd
+A|This is pretty unseasonal,|sd
+A|but, uh, at least, we,|%
+A|you know, it, it, it feels good,|sd
+A|it gets, uh,|%
+A|everybody doesn't have cabin fever today.|sd
+A|It's nice to get, out and about.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|I guess we've discussed everything there is about clothing|sv
+A|Okay.|b
+A|Sounds good.|sv
+B|Okay?|bh
+A|It was nice talking to you.|fc
+B|Okay,|fc
+B|it was nice talking to you, also.|fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc

@@ -1,0 +1,150 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|did they tell you our topic?|qy
+B|Uh, no,|nn
+B|somebody else answered the phone and put my number in.|sd
+A|Okay,|bk
+A|it's, uh,|%
+B|Uh, what is the topic?|qw
+A|The topic is cars.|sd
+A|What kind of car will you buy next|^q
+A|and what kind of decision you'd, do you think about getting, you know, pick that car out and, uh, and why.|^q
+B|Okay.|bk
+B|Uh, my next car to buy probably would be a Cadillac.|sd
+A|Okay.|b
+B|I've had, uh,|sd
+B|well, I'm on my third one.|sd
+B|And I'm not real sure that I'd be in the market for a car for quite a while.|sd
+A|Yeah,|b
+A|I'm the same way.|sd
+A|I was, uh, I had two Cadillacs.|sd
+A|I went to my first Lincoln this last time.|sd
+A|I travel|sd
+A|and, uh, my grandfather worked for Ford Motor Company|sd
+A|so he always said why don't you drive a Ford, or why don't you try a Lincoln|sd
+B|Uh-huh.|b
+A|so I finally tried one after fifty years|sd
+B|My,|%
+A|and, uh, I've had, I guess, I guess four Cadillacs and, and one Suburban in my last five cars,|sd
+A|but I bought a Lincoln|sd
+A|and I like it.|sd
+B|My dad has been a, a, uh, Lincoln man for a lot of years,|sd
+B|but I've always been a G M man.|sd
+B|I'm in the auto parts business myself.|sd
+A|Oh, are you?|bh
+B|And, uh, the last Cadillac I bought was an Allante.|sd
+A|Uh-huh.|b
+B|And I just love it to death.|sd
+B|I'm not sure I'd ever get rid of it.|sv
+A|Well, I'm a, I'm a traveling salesman.|sd
+A|I travel on the road|sd
+A|so I like a little heavier car|sd
+A|but,|%
+B|I used to do that quite a bit myself.|sd
+A|So that's why I choose, you know, to drive a heavier car and more luxury car.|sd
+B|Yeah.|b
+A|But, I tell you what,|fo_o_fw_"_by_bc
+A|I will probably get a Cadillac the next time quite honestly.|sd
+B|Really?|bh
+A|Yeah,|ny
+A|because I like the Lincoln|sd
+A|but, there's just something about that Cadillac that, whether it's a G M C product or whatever. Seems they handle better.|sv
+B|They seem to put, They seem to be put together a little bit better.|sv
+A|I think so, too.|aa
+B|And, you know, the buttons on the controls and things like that are a little easier to get to than Ford products|sv
+B|and I think that's one of the things that makes me shy away from, uh, imports is they put so much, you know, gadgetry on the dash|sv
+B|and, and the, the buttons are so small to push|sv
+A|Yeah,|aa
+A|they really do.|sd
+B|and G M doesn't seem to do that.|sv
+B|I kind of like that feature,|sd
+B|so.|%
+A|You know, I'm a funny duck|h
+A|that came, it comes to the simple things like front end alignments|sd
+B|Uh-huh.|b
+A|I have never had to have a front end alignment on a Cadillac.|sd
+A|I don't know why, why whether I just seem to drive them better or what,|sd
+B|Uh-huh.|b
+A|but, I've never had to have a front end alignment on a Cadillac.|sd
+A|They always appear to hold well.|sv
+B|I've, uh, I had an Eldorado, was my first one, was an eighty|sd
+A|Uh-huh.|b
+B|and, uh, I think at about sixty thousand miles I finally had it lined up.|sd
+A|Did you.|qy^d
+B|And I had them do all four wheels.|sd
+A|And the only thing I miss about a Cadillac is,|sd
+A|a Fleetwood Brougham was my last car|sd
+A|and I traded it in, traded it in on my Lincoln|sd
+A|and they're just not as large as before.|sd
+A|I do miss that.|sd
+B|That's true,|sv
+B|yeah.|aa
+B|But, what is big today.|qh
+A|Well, you're right.|aa
+B|You know. Lincoln is still as big as it always has been|sv
+B|but,|%
+A|Yeah,|aa
+A|it's big,|sv
+A|but the trunk space for me, uh,|sd
+A|what I usually do is I usually take the back seat out of my car|sd
+A|and that's where I put my samples because trunks just aren't big enough.|sd
+B|You know a car I ran across recently that has a tremendously large trunk is the Lincoln Continental.|sd
+A|Yeah,|b
+A|now, I have the Town Car|sd
+A|and it's, it's a deep trunk, but not as broad as the, uh, the Cadillac.|sd
+B|Well, the Town Car, I noticed, uh,|sd
+B|or with the, with the Continental, uh, I was, rented one, one time uh, we could, uh, put golf clubs in them.|sd
+A|Uh-huh.|b
+A|Oh, good.|ba
+B|You know, straight across.|sd
+B|I mean,|%
+A|They went all the way down?|qy^d
+B|Front to back.|na
+A|Well, that's good.|ba
+B|Not going from side to side.|sd
+A|That's good.|ba
+B|And we got three full sets in there and still had room for luggage.|sd
+A|Yeah,|b
+A|I sell sporting goods, uh, hunting related items,|sd
+A|I sell guns, gun cases and things like that|sd
+B|I see.|ba
+B|Yeah.|b
+A|and I need to, you know,|sd
+A|that's about the same size as a golf club.|sd
+B|Uh-huh.|b
+A|They need to, samples need to stretch out and gun cases and things like that|sd
+A|and,|%
+B|I don't know if you've ever looked at a Continental.|qy^d
+A|Nope.|nn
+B|Uh, it's not as peppy as a, as a Town Car|sv
+A|Right.|b
+B|because it's a V Six,|sd
+B|but it, uh,|%
+B|I I drove it from here to Memphis|sd
+B|and I really enjoyed driving that car.|sd
+B|If I was going to buy a Ford product, that's what I would buy.|sv
+A|Yeah.|b
+A|I drove mine a couple weeks ago to our, one of our big national sales meetings in Nashville.|sd
+A|I usually fly.|sd
+A|I drove it with another one of my guy that worked for me.|sd
+A|We drove it ten hours to Nashville,|sd
+A|and it, it handled real well,|sv
+A|but, my main thing is space,|sd
+A|so if a Continental,|sv
+A|I might consider it the next time,|sv
+A|a Continental has more trunk space.|sd
+B|You might take a look at them.|ad
+B|They, they had a, a lot more trunk space.|sv
+B|As a matter of fact, they had more trunk space than my, uh, Sedan De Ville had.|sd
+A|You always have leather interiors on your Cadillacs?|qy
+B|Uh, all three of mine have had leather interiors,|na
+B|yeah.|ny
+A|Yeah,|b
+A|I like leather interiors also.|sd
+B|Uh, I had a eighty Eldorado, which was leather|sd
+B|and, uh, then my eighty-six was a touring sedan.|sd
+A|Uh-huh.|b
+B|And, uh, it had the gray leather package in it|sd
+B|and my Allante has, uh I guess saddle, saddle colored type thing.|sd
+A|That's a nice car.|sv
+A|You bet,|ba
+A|and I'll, I will say one thing about Cadillacs versus,|sd

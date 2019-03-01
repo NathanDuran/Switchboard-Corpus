@@ -1,0 +1,148 @@
+B|Hello.|fp
+A|Hello.|fp
+A|My name is Nola.|fp
+A|I'm in Plano, Texas.|fp
+B|Hi Nola,|fp
+B|I'm Steve.|fp
+B|I'm in Dallas, Texas.|fp
+A|Not too far away.|sv
+B|No,|aa
+B|that's unusual.|sv
+B|Seems like  usually,|sv
+A|I've  had some from Plano, too.|sd
+B|Oh yeah.|b
+B|I think all mine have been East Coast people so far|sd
+A|Uh-huh.|b
+A|Okay|b
+B|So,|%
+A|um, let's see.|^h
+B|social changes,|sd
+A|Social changes.|b
+B|what's that mean?|qw
+A|That sounds like not as recent social changes, too, like back to the sixties or fifties, I guess|sd
+B|Yeah.|b
+A|Think we can handle that?|qy
+B|Yeah.|b
+B|Yeah,|b
+B|I definitely,|%
+B|I mean there's plenty of things to talk about there.|sv
+B|That's a,|%
+A|Okay, uh,|b
+A|shall I go ahead and push one?|qy
+B|Yeah,|ny
+B|sure.|na
+A|Okay|aa
+A|You want to go ahead and start?|qy
+B|Uh, I was hoping that you would|sd
+B|but,  oh,|%
+A|Oh|b
+B|In social changes is that,|sd
+B|uh, it seems to me that, uh,|sv
+A|That involves  a lot of different areas,  I think.|sv
+B|Does that,   Yeah.|%
+B|Like a lot,|sv
+B|it seems like the rich are getting richer and the poor are getting poorer, is even more, true today. You know?|sv
+A|Yeah,|aa
+A|there is a a big difference in the, uh, economic, um, status of, uh, people although I think that has been true, uh, always.|sv
+A|Um, perhaps there's less of the middle range then there was.|sv
+B|Yeah.|aa
+B|It's like people are starting to give up hope|sv
+B|and they start out very poor.|sv
+B|Let's see,|^h
+B|that's a bad tangent to get on.|sv
+B|What else has changed between the sixties and the eighties  and  the nineties?|qh
+A|Uh,|%
+B|No.|fo_o_fw_"_by_bc
+A|I think, uh, in my situation,|sd
+A|I have three children|sd
+A|and we're, uh, home schooling.|sd
+A|So, education, you know, things that relate to education, um, are things that I think about a lot.|sd
+A|Um, I think that, and I think that involves social changes a lot.|sv
+A|Uh, for instance I think the schools are having more and more problems because of, uh, things that are happening socially in the world around them and in, in, because of their parents|sv
+A|and things that are being taught in the home are not taught in the home, rather. More not than are. And children being put in day-care centers from very early,|sv
+A|and, and I think that a lot of these things that have been happening, such as the day-care centers and things, are having a big effect on the social changes.|sv
+A|Because of the way children are being raised, they're not learning the values they need to learn.|sv
+B|Yeah.|b
+A|And they're not, um, they don't have the self-esteem that they need to have|sv
+A|and they don't have the, um, a solid family life that they need to have to confidently and deal with the things in the world.|sv
+A|And, uh, I think we're seeing a lot of rebellion and things because of that and the things like the gang, gang things that are happening|sv
+A|and, and, um|%
+B|Yeah.|aa
+B|It seems, so that,|sv
+B|yeah,|%
+B|that is a pretty big change.|sv
+B|It seems, even not just single parent families but with no guidance|sv
+B|but it seems like, some of these even ladies that, that'll work and have,  a baby  and then, you know, after two or three months, go back to work.  You know,|sv
+A|Yeah.|b
+A|Yeah.|b
+A|Oh it's,|%
+B|well that, that, I mean that's very, young for  a baby.|sv
+A|That's  really sad.|sv
+A|I think that a lot of people,|sv
+A|and they think they have to|sv
+A|but,|%
+B|Yeah.|b
+A|I, I think that if they really tried, they wouldn't have to.|sv
+A|And,  I, I think that if they didn't that, and it became more of the standard not to that, uh, I don't know maybe companies would start paying men more so that their wives could stay home.  You  know? And have a more solid, uh, foundation for the kids.|sv
+B|Yeah.|b
+B|Yeah.|b
+B|Yeah.|b
+B|I mean they're going to,|sv
+B|like you said, I mean, there's, they might be saving money,|sv
+B|I mean even if they had to pay more now, I mean in the long run it's going to cost society more to  force  two people to work. Even though  it's higher  productivity is short-term.|sv
+A|That's  right.|aa
+A|It's already,  It already costs society much more because of it.|sv
+A|You know it,|sv
+A|trying to do all these programs like Headstart and things like those. You wouldn't have to do that if mothers would stay home with their children and do things with them, you know.|sv
+B|Yeah.|b
+A|Um, there's,|%
+A|and I think, uh, a lot of it is selfishness.|sv
+A|People have become very selfish.|sv
+A|They don't want to stay home with the kids or something like that.|sv
+B|yeah|b
+A|There are a lot of two parent, um, situations where the woman goes back to work because that's what she wants to do, you know.|sv
+B|Oh rather than she needs the money  just she wants the   stimulating  environment|^2
+A|Rather than that,  she has to have the money  particularly.|sv
+A|Or, maybe there's a small need for money|sv
+A|so she does it partly because of the money but partly for herself, too  You know,|sv
+B|Huh. It,|%
+B|Yeah.|b
+B|It's interesting how, uh,|sv
+B|home study. Is that what you  said?|qy
+A|Home  school.|sd
+B|Home school.|b^m
+A|Yeah.|aa
+B|Is that, uh, is, is it like, uh, a preschool level then or  through  grade school  or,|qy
+A|No.|nn
+A|I  , I have, uh, one going into fourth grade and one starting kindergarten and then a preschooler.  And  one on the way|sd
+B|Oh I|%
+B|Oh, well you sound busy|sv
+B|So you're teaching them, completely|qy^d
+A|Yes.|ny
+A|Yes.|ny
+B|Huh.|b
+A|And I think, uh, it's becoming, uh, more popular then it has been for a while, I think.|sv
+A|Home schooling's always been around|sd
+A|but, uh, I can see more and more families going to it because of the problems in the schools.|sd
+A|Um, and a lot of it is discipline problems.|sv
+B|Yeah.|b
+A|A lot of it is,|sv
+A|and you can tell which kids have been in day-care centers.|sv
+A|It, it's really obvious to look at them and watch the way they act and things.  That,  um, they've been raised in a day-care center.|sv
+B|Yeah.|b
+B|Yeah.|aa
+B|That's pretty sad because, I mean, I don't know, something's got to change with the schools.|sv
+B|That's what it all boils down to in the end, usually anyway.|sv
+A|Well, I think  it's going to,  change in the homes before anything changes anywhere else.|sv
+B|When they're young,|bf
+B|Yeah|b
+A|The home is the base,|sv
+A|it's the basic unit.|sv
+A|And that's the, where it all starts|sv
+A|and if we don't start making changes in the homes|sv
+A|and maybe part of that is educating parents better.|sv
+B|Yeah.|b
+A|And educating, uh, you know|%
+B|Changing people's expectations.|bf
+A|I know they do do some,  they do have some classes in, um, high schools and things for kids to, uh, give them an idea of what family life is like and the, uh, you know, and, uh, that kind of thing|sd
+A|but, uh,|%

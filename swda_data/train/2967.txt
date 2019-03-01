@@ -1,0 +1,232 @@
+A|So what movies have you seen?|qw
+B|Uh, well, I have, uh, seen DANCES WITH WOLVES, which is probably the, the best movie that I have seen lately.|sd
+B|Uh, I do not go out to films very often. So, as far as out of the house.|sd
+A|Uh-huh.|b
+B|So we do get a lot of videos that we bring in,|sd
+B|uh, and I see some that way.|sd
+B|But, uh, I am not real current on films.|sd
+B|How about you?|qo
+A|Yeah.|fo_o_fw_"_by_bc
+A|I saw DANCES WITH WOLVES and, uh, HOME ALONE|sd
+A|and,|%
+B|I hear that is really good, but I have not seen it yet.|sd
+A|Yeah.|aa
+A|It is.|sd
+B|Yeah|b
+A|It is about a little kid that, that his parents go off to Paris.|sd
+B|Uh-huh.|b
+A|And they, they forget all about him.|sd
+A|The oldest daughter, they take a head count and the oldest daughter counts one of the neighbor kids instead of,|sd
+B|Oh, cute.|ba
+A|And he is up in the attic asleep because he got in trouble.|sd
+B|Oh, dear.|ba
+A|So she made him go sleep upstairs.|sd
+B|Uh-huh.|b
+A|And there is, there is a couple of burglars, uh, breaking into the houses in the neighborhood.|sd
+B|Oh,|b
+A|And, uh,|%
+B|Oh, and he hears them or something|^2
+B|and,|%
+A|Yeah.|aa
+A|And he sets up traps for them all over the house.|sd
+B|Who wins?|qw
+A|Uh, he does.|sd
+B|Oh, great,|ba
+B|great.|ba
+B|Yeah,|%
+B|I had heard people talk about it,|sd
+B|and they say it was really cute, but I had not seen it.|sd
+A|Uh-huh.|b
+B|Uh, we usually wait|sd
+B|and eventually it comes out on video,|sd
+B|and then we get it and see it that way.|sd
+A|Right.|b
+B|And that is, it,|sd
+B|movies are very expensive.|sd
+B|Uh, movie theatres here, they are six dollars, uh, for evening performances.|sd
+B|And that is kind of steep,|sv
+A|Uh-huh.|b
+B|I think.|sv
+B|I don't know.|sd
+B|How much is it in Dallas?|qw
+A|Well, it is six dollars,|sd
+A|and then but you get, um, matinee prices.|sd
+A|But,|%
+B|Yeah.|b
+B|You can do that, but it is difficult if you, if you work or, you know,|sv
+A|Uh-huh.|b
+B|uh, that is taking the middle of the afternoon.|sv
+B|And if I am looking for entertainment usually I, I, have more, uh, time in the evening than I do in the middle of the day to, uh, see things.|sd
+B|What do you think of movies in general?|qo
+B|As far as the, as the trends?|qo
+A|Well, I think they are a lot better than they than they were,|sd
+A|well, like, um, in the early eighties or the, during the, like the SMOKEY AND THE BANDIT era.|sd
+B|Uh-huh.|b
+A|When it was,|sd
+A|they,|%
+A|I do not think they were very good during that time.|sv
+B|Yeah.|b
+A|At least there were not as many good ones.|sv
+B|Did,|b
+B|Yeah.|b
+B|The quality I think maybe has improved in that respect.|sd
+A|Uh-huh.|b
+B|Uh, the only thing that disturbs me is that now they think they have to add just a little bit of sex and violence in order to get a, a tougher rating. Which suggests that, that, you know, it will be more enticing to the, to the public.|sv
+B|And a lot of times it is added for no real, uh, valid reason.|sv
+A|Uh-huh.|b
+B|Uh, which does not make,|sv
+B|and I think SMOKEY AND THE BANDIT was a little bit like that.|sv
+A|Yeah.|b
+B|Uh, but DANCES WITH WOLVES did not seem to have anything added.|sv
+B|It was just all legitimate kind of, uh, film.|sv
+B|And that is where reason why I suppose it won so many Oscars, uh,|sv
+B|because it really was good even though it is such a long movie.|sv
+B|You know, they said, "Oh, people won't, won't be interested in a three hour movie." But it certainly gotten good acclaim everywhere it has gone.|sd
+A|And it was shocking at the end too.|sv
+A|So,|%
+B|Oh, oh, yeah.|b
+A|Yeah.|b
+B|Absolutely.|aa
+B|Uh, but much more true to life|sv
+B|and I think that is, that is the point.|sv
+A|Yeah.|aa
+A|That is right.|ba
+B|Uh, they do not have to keep making up stuff if they want to make something good.|sd
+A|Uh-huh.|b
+B|I hate sequels too.|sd
+B|I hate these, uh, you know, number one, two, three, four.|sd
+A|Uh-huh.|b
+B|Usually if a movie is good, once is enough|sv
+A|Yeah.|aa
+A|Especially JAWS.|sd
+B|Right.|b
+B|That was on Prime Time Television here, uh, recently at seven thirty in the evening.|sd
+B|And, uh, it was kind of shocking because that is a scary movie. And children, young children could see, could have seen that movie, uh, at that hour.|sv
+A|Uh-huh.|b
+B|And I thought, that, you know, that would not have been the sort of thing I would have wanted my children to see at that age, uh, I mean when they were young.|sd
+B|And here it was quite easily seen by anybody that turned on the T V.|sd
+A|Right.|b
+B|Uh, which was a,|sd
+B|it was a good movie.|sv
+B|I mean it was well done but, uh, that is one reason why it was scary.|sv
+A|Uh-huh.|b
+B|So, but I do not know that I have seen any of the, uh, sequels to that.|sd
+B|I think one is enough.|sv
+A|Yeah.|b
+B|Uh,|%
+A|Just more of the same.|sv
+B|That is what people say.|sd
+A|In one of them they have a mother shark, uh, destroy a whole, uh, marina and aquarium. Which is kind of far fetched.|sd
+B|Oh.|b
+B|Yeah.|aa
+B|It,|%
+B|just a touch.|sv
+A|Yeah.|b
+B|Well, the whole movie is kind of far fetched.|sv
+A|Uh-huh.|b
+B|But, I mean the whole idea behind it is far fetched.|sv
+A|They hardly ever play music when a shark attacks somebody.|sv
+B|Not, not too often|sv
+A|Yeah.|b
+B|That has gotten to be a whole camp idea now though, you know.|sv
+B|If you hear that music, you know, everybody knows what you are talking about.|sv
+A|Yeah.|b
+B|It's funny.|sv
+B|Well, it sounds like neither one of us are real movie buffs.|sv
+A|Well, uh, every once in a while, I go, but it, it has to be like somebody that I like|sd
+A|or,|%
+B|Yeah.|b
+A|you know. I did not, I did not go see FIELD OF DREAMS when it was in the theatre because I did not know it was any good.|sd
+B|Uh-huh.|b
+A|And then when it was, I, I found out it was Kevin Costner when it was on, um, I guess A B C the other week,|sd
+A|then I,|%
+B|Right.|b
+B|Yeah.|b
+A|Yeah.|b
+A|And then I really liked it.|sd
+B|It was good.|sv
+A|Uh-huh.|b
+B|It was very good.|sv
+B|But, uh, um, uh, see I have, uh, teenagers in my house.|sd
+B|And of course sometimes they rent movies and, you know, have friends over or something.|sd
+B|And sometimes movies are here that I did not, I am not even aware that I could have seen, you know.|sd
+B|Because my family tells me that, that, that it had been actually in the house before|sd
+A|Huh.|b
+B|But I had missed it.|sd
+B|But I did see it on T V,|sd
+B|and I thought it was good.|sd
+A|Yeah.|b
+A|It was really,|%
+A|and then, and then, uh, Shoeless Joe Jackson really was a player.|sv
+A|I thought they made him up, and then I found out, you know, after I saw the movie that, they, they started talking about that scandal|sd
+A|and,|%
+B|Oh, really?|bh
+A|Yeah,|ny
+A|when the, when the anniversary came up|sd
+B|Uh-huh.|b
+A|that was around the time of anniversary, you know.|sd
+B|No kidding.|b
+A|And then it was on the news.|sd
+B|Oh, I did not realize that.|sd
+B|Yeah.|b
+B|Uh, you know, the character that, uh, James Earle Jones played?|sd
+A|Uh-huh.|b
+B|Uh, uh, I teach in school,|sd
+B|and we are doing a book called INVISIBLE MAN by Ralph Ellison.|sd
+A|Uh-huh.|b
+B|And I wondered if maybe he was patterned after him.|sd
+A|Yeah.|b
+B|Uh, I do not know,|h
+B|I had not heard anybody talk about it.|sd
+B|But, uh, he certainly could have been. Uh, which was kind of interesting. You know, someone who, uh, who was a real activist but then took up the cause. Uh, kind of gave up, you know, because he did not think anything was happening,|sv
+A|Yeah.|b
+B|and so, uh, it was kind of fun.|sd
+A|Yeah.|b
+A|And I wondered who it was too.|sd
+B|I do not know for sure,|h
+B|but there are certain, uh, qualities that suggest it could be he.|sv
+B|Because they were, uh, they were suggesting that this Ben was something of a recluse.|sd
+B|That he had stopped writing and had stopped, you know,|sd
+B|and that is true for Ellison.|sd
+B|He, he wrote that one book and a few essays and that is about it. And, uh, has pretty much dropped out of public life.|sd
+A|Huh.|b
+B|But he is still alive|sd
+B|and that, you know, that is what makes it so interesting.|sv
+A|Uh-huh.|b
+B|And that book, have you ever read that book? INVISIBLE MAN.|qy
+A|Uh, I|%
+A|What is that?|br
+A|INVISIBLE MAN?|qy^d
+B|INVISIBLE MAN by Ralph Ellison.|qy^d
+A|Uh, no.|nn
+A|Huh-uh.|nn
+B|It is an incredible book.|sv
+B|It, uh, really is very, very interesting.|sv
+B|I highly recommend it.|sd
+A|Uh, did they make the movies after that|qy
+A|or,|%
+B|Uh, the,|%
+B|yeah,|%
+B|the movie,|%
+B|the|%
+B|in|%
+B|FIELD, FIELD OF DREAMS came out after, uh, that novel.|sd
+A|Uh-huh.|b
+B|So it could easily have been patterned after him.|sv
+B|But the, the movie did not have anything to do with, with the story that I am talking about.|sd
+B|But|%
+A|Right.|b
+B|I just thought the the, uh, author could have been patterned after that, uh,|sv
+B|I mean that character could have been patterned after him or someone like him, certainly.|sv
+A|Uh-huh.|b
+B|Sort of interesting,|sv
+B|so. Well, I guess we have talked probably our time limit, haven't we?|qy
+A|Oh, yeah.|aa
+B|Okay.|fc
+A|Okay.|fc
+A|It was Nice talking to you.|fc
+B|Very good.|fc
+B|It was nice talking to you.|fc
+B|Okay.|fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

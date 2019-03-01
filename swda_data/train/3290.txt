@@ -1,0 +1,156 @@
+A|Uh, the only work I do outside the home is I am an Avon representative.|sd
+B|Oh, okay.|b
+A|And I sell family products.|sd
+B|Uh-huh.|b
+A|And, uh,|%
+B|Do you,|qy
+A|So I, I don't really, I don't really dress up a whole lot.|sd
+A|Do you work outside?|qy
+B|Well, I, I work, uh,|arp_nd
+B|I'm a C P A|sd
+B|and I do contract work.|sd
+A|Oh, uh-huh.|bk
+B|And so, and I work with another C P A who just started his own practice|sd
+A|Oh.|b
+B|and I work with him a couple days a week|sd
+A|Uh-huh.|b
+B|and so when I go to his office or to other clients' offices, then I'll dress up|sd
+A|Uh-huh.|b
+B|but otherwise it's great being at home in jeans or shorts or whatever|sd
+A|Uh-huh.|b
+A|Uh-huh,|b
+A|uh-huh.|b
+B|So that, that makes it pretty nice.|sd
+B|It's kind of weird because before I used to work, you know, full time|sd
+A|Uh-huh.|b
+B|and, and, uh, it seemed like I was wearing a suit every day, just about.|sd
+A|Well, you'd have to dress differently when you're working every day, I think.|sv
+B|Right.|b
+A|Yeah.|b
+B|Right,|b
+B|and so it's, uh,|%
+B|some of my suits I haven't put on for quite a while.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+A|Uh-huh.|b
+B|So it's, It's, it's very nice.|sd
+A|It's kind of nice to relax a little bit.|sd
+A|Yeah.|b
+B|Gosh,|b
+A|Well, my, my dress up,|sd
+A|I live out in the country also|sd
+A|so what I wear depends on the weather.|sd
+B|Uh-huh.|b
+B|Sure.|b
+A|Uh, so I really, I know a lot of the Avon representatives are portrayed as being very dressed up.|sd
+B|Uh-huh.|b
+A|But, I mostly dress, I try to dress nice, but for convenience, because when the weather's bad, when I go into the home I take off my shoes which I try to wear something easy to take off, you know and put on.|sd
+B|Uh-huh.|b
+B|Right.|b
+A|And I don't too often take off my coat even, we really only have maybe three, four months of, I'd say warm weather.|sd
+B|Yeah,|b
+B|yeah.|b
+B|Well, I imagine that where you live, uh, you're in warm clothing quite a bit of the year.|sv
+B|Not really?|qy
+B|Oh, is that right?|bh
+A|Yeah,|ny
+A|and the rest is, uh, gets into the cooler weather.|sd
+B|Uh-huh.|b
+A|Uh-huh.|b
+A|Course, they keep saying the weather's going to change and we're going to have more Florida type weather up here|sd
+A|so I don't know.|h
+B|Uh-huh.|b
+A|But for now, But for now, we have a lot of ice and snow in the wintertime and, uh, cold weather. And that type of thing.|sd
+B|So you all are waiting for that|sv
+B|Uh-huh.|b
+B|Yeah.|b
+A|Now, my daughter works all the time,|sd
+A|so she dresses.|sd
+A|I think, you know, you have to spend more money on your clothing, and that because you do have to have the appearance, a good appearance to do a good job where you work.|sv
+B|Right.|b
+B|Right.|b
+B|Yeah.|b
+B|Well, down here it's sunny most of the time. And, uh, usually warm.|sd
+A|Uh-huh.|b
+B|I mean, we had a few cool days, uh, this month,|sd
+B|but not anything, I'm sure, compared to what you've had so far.|sd
+A|Um, uh-huh.|b
+B|So, I mean people are still wearing shorts|sd
+B|and and, uh, usually around Halloween it starts getting cooler,|sd
+A|Uh-huh.|b
+B|so you start you know, breaking out a coat at that time,|sd
+A|Uh-huh.|b
+A|Uh-huh,|b
+A|uh-huh.|b
+A|Right,|b
+A|yeah.|b
+B|but, that, that lasts, you know, for a few months|sd
+A|Did you find you wore, uh, slacks when you were working full time|qy
+A|or did you did they wear more dresses and skirts.|qrr
+B|No.|nn
+B|No,|nn
+B|never wore slacks.|sd
+A|No slacks.|b^m
+B|It was, I think it was one of those things where, it's not like someone came out and said you can't wear them.|sd
+A|Uh-huh.|b
+B|It was one of those understood things that you just, you know, either wore, you know, a dress or,|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+A|Uh-huh.|b
+A|Not even a dressy slack, a dressy suit, slack suit even if it's all,|qy^d
+B|Not,|nn
+B|No,|nn
+B|not, not with what I did. Uh,|sd
+A|Uh-huh.|b
+B|Most people didn't.|sd
+A|Uh-huh.|b
+B|Sometimes, like the secretaries might|sd
+A|Uh-huh.|b
+B|but even then you didn't see them wearing slacks too much.|sd
+B|And I really, you know,|%
+B|there's some nice pantsuits out|sv
+B|and and I wouldn't have minded, you know, wearing those especially when it gets pretty cold.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+A|Uh-huh.|b
+A|Uh-huh,|b
+A|uh-huh.|b
+B|But, uh,|%
+A|I know my daughter mostly,|sd
+A|I don't think she ever wears slacks to work.|sd
+B|Uh-huh.|b
+A|But I didn't know if the trend changes, you know, if, uh,|sd
+B|You know, I think it's one of those things where it's not viewed upon as being professional.|sv
+B|I guess they expect women to be in skirts or dresses.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Look more like a woman, huh|sv
+B|Yeah|aa
+B|That's right|aa
+A|Uh-huh,|b
+A|uh-huh.|b
+B|And it's the men that make the rules|sv
+A|Uh, well, then you, you, you know why they make them then that way.|sv
+B|But, no,|fo_o_fw_"_by_bc
+B|we usually, you know,|%
+B|skirt and, skirt and blouse or suit or dress is what you see down here.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+B|So it's nice with me working at home because I can wear pants.|sd
+A|Yeah.|b
+B|No, no one can see me unless I'm, you know,|sd
+A|Yeah.|b
+A|But, yet, you need to keep up an appearance for your husband, too, though at home. Because that's, I, I believe,|sv
+B|Yeah.|b
+B|Yeah.|b
+B|But, I'm not going to put a skirt on just for him|sd
+A|Oh, you don't think you will, huh|qy
+A|Well, you'll be excused because considering everything|sd
+B|Yeah,|b
+B|I think that the main issue at home is being comfortable in your clothing|sv
+A|Uh-huh.|b
+A|Yeah.|b
+A|But I, I look at homemaking as a job also. Uh, being a homemaker|sd
+B|Right.|b
+A|and I, I think sometimes we lose sight of that. Uh, by the fact that we don't sometimes watch our dress,|sv
+B|Yeah.|b

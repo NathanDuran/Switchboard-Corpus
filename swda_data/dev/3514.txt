@@ -1,0 +1,112 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|we're supposed to talk about vacations.|sd
+B|Right,|aa
+B|so, uh, well, uh, what kind of vacations do you like?|qw
+A|Well, uh, I haven't been to many places,|sd
+A|but I have a opportunity to go to, uh, Paris, France, uh, with, uh, with my friend in April.|sd
+A|She is, her, uh, her family, you know, lives there,|sd
+A|and she's only been there once.|sd
+A|Her grandmother lives there|sd
+B|Uh-huh.|b
+A|so I'm hoping to I'm praying I get to go. Uh,|sd
+B|Oh, that's great.|ba
+A|Yeah,|aa
+A|it's, it will be probably the most exciting place I'll ever get to go.|sd
+B|Uh-huh.|b
+A|Have you ever been to, uh, like New Mexico?|qy
+B|Uh, no, actually.|nn
+A|Oh.|b
+B|Why,  have you?|qy
+A|I was curious.|sd
+A|I was just wondering what it was like.|sd
+B|Oh, okay|bk
+B|No, uh,|nn
+B|I have been to Europe once and to Haiti and, uh,|sd
+A|Tahiti?|br
+B|Yeah.|aa
+A|Tahiti,|b
+A|oh.|b
+B|No,|ar
+B|no,|ar
+B|Haiti.|sd
+A|Oh, Haiti.|b^m
+B|Right.|aa
+A|Where is that?|qw
+B|It's, uh, well, it's in the Caribbean|sd
+B|and it's the western half of an island,|sd
+B|with the eastern half that's the Dominican Republic.|sd
+A|Uh-huh.|b
+B|And I was down there with a program from the college that I went to where we would just spend like three months in a foreign country, most of them third world countries. And study the language and then do a little service project.|sd
+A|Uh-huh.|b
+A|Um.|%
+B|So, yeah,|b
+B|that turned out to be a really good experience for me.|sd
+A|So, what did you do when you were in Europe?|qw
+B|Uh, well, see, I went there when I was in high school, actually|sd
+A|Uh-huh.|b
+B|and I mostly went to Germany and visited some friends of my family and, uh, hung out with them, worked a bit on one of their farms and also went to a youth camp.|sd
+A|What did you do on the farm?|qw
+B|Uh, uh, uh, well, not that much|sd
+B|Just, uh,|%
+A|Are you just  kind of sight, just kind of, uh,|qy
+B|Right,|na
+B|I mean, I wasn't a great asset to them or anything|sd
+B|But I, you know, drove a tractor, helped them weed beets and that sort of thing.|sd
+A|Um.|%
+B|And, uh, yep,|b
+B|and I went to a youth camp that included working at an old people's home|sd
+B|and that was pretty interesting.|sd
+B|And while I was there I visited my aunt and uncle who were, uh, staying for their vacation in France in Nantes, which is on the west coast, like right across from England.|sd
+A|Um.|%
+B|Uh, so, uh, where in France are you,|qw
+A|Paris.|sd
+B|Right,|b
+B|Paris.|b^m
+A|Yeah.|b
+B|And, uh, um, how long do you plan to be going for?|qw
+A|Uh, two weeks.|sd
+A|Last time she stayed two months,|sd
+A|but we're only going to stay two weeks.|sd
+B|Uh-huh.|b
+A|So,|%
+B|Great.|ba
+B|And, uh,|%
+A|We're going to take a cooking class there,|sd
+A|so that might be fun.|sd
+B|A what?|br
+A|Cooking class, you know,|sd
+A|French cooking.|sd
+B|Oh, great.|ba
+A|Yeah.|b
+B|And, uh, what else are you planning to do, if anything?|qw
+A|Museums, you know,|sd
+A|go to museums and,|sd
+B|Uh-huh.|b
+B|Yeah, um,|b
+A|Do you go to museums in Europe?|qy
+B|Uh, actually, no,|nn
+B|I don't think I went to any of them.|sd
+B|Uh, the closest thing I did was go to some like, uh, restored castles and stuff.|sd
+A|Um.|%
+B|That, there is some on that west coast of France|sd
+B|and I went to a vineyard or two in Germany.|sd
+A|Um, that's neat.|ba
+B|Yeah,|aa
+B|that was nice.|sd
+B|Uh, um, but, so, uh,|%
+A|Hey,|fo_o_fw_"_by_bc
+A|what about,|qo
+A|have you ever been to Hawaii?|qy
+B|Uh, no,|nn
+B|I haven't.|sd
+A|No?|bh
+B|Have you?|qy
+A|No.|nn
+B|Okay|bk
+B|Well, uh, well,|%
+A|I'm wanting to go there.|sd
+B|Where have you gone first?|qw
+A|Oh, where have I gone that's anywhere.|qh
+B|Yeah,|b
+B|I mean,|%
+A|Uh,|%

@@ -1,0 +1,175 @@
+A|Okay, uh, I guess, we are just supposed to talk about things we do in our spare time.|sd
+B|Uh-huh.|b
+A|Uh, I basically read books.|sd
+B|Uh-huh.|b
+A|It is,|%
+A|I do.|sd
+A|Sometimes, when everybody's gone to bed, my kids are in bed and my husband in bed,|sd
+A|so I will just stay up and finish a book that I am,|sd
+A|I have about three books that I am going on.|sd
+A|And I will work on one for a little bit, you know, and then the next one.|sd
+A|But that's just kind of,|%
+B|Well, that is pretty impressive to have three books going.|sv
+A|Not always,|bd
+A|just sometimes.|bd
+B|Oh, yeah.|b
+B|And what what kind of books do you read?|qw
+A|Uh, just really different ones.|sd
+A|Uh, I have one that I was reading on, uh, raising your children and then another one on a, an autobiography, and another one on, uh, uh, uh, like a crime story|sd
+B|Oh yeah|b
+A|A true crime story.|sd
+B|Oh, do you like those detective stories?|qy
+A|Yeah.|ny
+A|But this,|%
+A|it was a true one.|sd
+A|It was just a little different though.|sd
+A|Reading that one last night.|sd
+B|Oh, well that is interesting.|ba
+B|Actually, I like to read also,|sd
+B|but, uh, usually fall into one or two categories, either true science fiction or fantasy on the one hand or highly technical.|sd
+A|Yeah,|b
+A|like my husband.|sd
+B|Yeah|b
+A|Yeah|b
+B|Yeah,|b
+B|kind of one or the other.|sd
+A|You must, uh, work for T I?|qy^d
+B|Yes.|ny
+A|Yeah,|b
+A|my husband does too.|sd
+B|Yeah,|b
+B|and I am a computer scientist.|sd
+A|Yeah.|b
+B|But, I have a lot of other hobbies.|sd
+A|Uh-huh,|b
+A|really.|b
+B|Well, yeah,|b
+B|I am kind of, uh, I guess what you would call it, a project person.|sd
+A|Oh, really.|b
+B|Yeah,|b
+B|and I love,|sd
+B|like I have a shop|sd
+B|and when things break around the house, I always try to fix them myself|sd
+B|and so, hobby,|%
+B|it's, it's funny, uh,|sd
+B|from the one stand point, it is work.|sd
+B|But it is a hobby too, that I enjoy to do.|sd
+A|Yeah.|b
+B|To find broken,|sd
+A|Yeah,|b
+A|yeah.|b
+A|What kinds of things do you fix?|qw
+B|Well, essentially anything you find in a house. Uh, a stove, or oven or a broken piece of porcelain or, uh, chipped tile on the floor. I mean just anything.|sd
+A|Oh.|b
+A|And you have a shop?|qy
+B|Well it, it is not anything elaborate.|na
+B|It is just a work bench and a gazillion tools.|sd
+A|Yeah.|b
+B|But, enough that, again for anything in the house I could  probably,|sd
+A|Yeah,|b
+A|you can fix just about everything and anything.|^2
+B|Right.|aa
+A|Well, that is great.|ba
+B|And in the car,|%
+B|I guess the car too.|sd
+A|Yeah.|b
+B|And so, uh, I think I probably would consider that a hobby.|sv
+B|Although, sometimes it gets to be excessive.|sd
+A|Yeah.|b
+A|That is pretty much like my husband.|sd
+A|He is, he is pretty, uh, mobile in that area too.|sd
+A|He, he works on the cars.|sd
+A|He rarely takes them in|sd
+B|Yeah|b
+B|I,|%
+A|and, uh, he works on irons, and all T V and stuff too.|sd
+A|We rarely have to take those things in too.|sd
+B|Right.|b
+B|Yeah,|b
+B|I think it, it,|%
+B|not only can it be fun,|sv
+B|but it can certainly help your finances.|sv
+A|Oh, yeah.|aa
+A|Yeah,|aa
+A|definitely.|aa
+B|So, do you have any art, uh, how do I say it, creative or artistic  hobbies?|qy
+A|Uh.  Not really.|ng
+A|I mean during Christmas I work on, you know, like, uh, holiday sweat shirts and those kinds of things.|sd
+B|Oh yeah,|b
+B|well that's good.|ba
+A|But, but, uh, not really|bd
+B|Yeah.|b
+B|Well, I don't necessarily either.|sd
+B|I can plink out a song or two on a piano|sd
+A|Oh.|b
+B|and I can, uh,|%
+B|I don't necessarily draw or do any of that kind of art,|sd
+B|I guess uh, graphic arts is that what they call it,|sv
+A|Yeah.|b
+A|Yeah.|b
+B|I can't do any of that,|sd
+B|but sweat shirts is certainly impressive.|sd
+A|Uh-huh.|b
+A|Uh, I belong to this organization for, uh, if, if you have preschool children|sd
+B|Uh-huh.|b
+A|and, uh, every once and a while they will have a craft, uh, section for the moms|sd
+B|Oh, yeah.|b
+A|and those are really neat|sd
+A|and we learn to do the, uh, transfer pictures on the sweatshirts transfer photos|sd
+B|Oh, yeah.|b
+B|Uh-huh.|b
+A|and, uh, those are really neat.|sd
+A|So we learn different crafts like that uh|sd
+B|I see.|ba
+B|Well, that is neat|ba
+A|Yeah.|b
+B|I guess you could consider that a hobby.|sv
+B|Do you, do you cook for a hobby|qy
+B|or do you,|qrr
+A|No|nn
+A|I cook dinner|sd
+B|That's not something you,|sv
+A|I don't consider it a hobby|sv
+B|I understand that.|ba
+A|But, uh, you know, I|%
+A|no|nn
+A|I am not a real elaborate cook or anything like that unfortunately.|sd
+B|Yeah.|b
+A|I like to bake off and on.|sd
+A|And usually once a week I will bake something,|sd
+A|but it's not anything elaborate, you know|sd
+B|Right.|b
+A|At least, I don't think it is.|sd
+B|Yeah.|b
+A|So,|%
+B|But, I think that still borders on hobby.|sv
+A|Yeah.|b
+B|Probably the other thing I do which I am sure will sound horrible to you, but is I program for fun. Uh, on the computer.|sd
+A|Uh-huh.|b
+B|So, I have little projects little computer projects going on that I consider hobbies.|sd
+A|Uh-huh.|b
+B|But, drive my wife crazy.|sd
+A|Oh.|b
+A|Well good.|ba
+A|You have a computer at home?|qy^d
+B|I do,|na
+B|yes.|ny
+A|Oh, good.|ba
+A|Yeah.|%
+B|In fact, there is actually several of them here right now.|sd
+A|Oh,  really.|b
+B|Not all of them  being mine.|sd
+A|Wow.|ba
+A|Then you are busy|qy^d
+B|Yeah.|ny
+A|Uh-huh,|b
+A|that is very good.|ba
+B|Uh, I wonder if you can construe raising children as being a hobby?|qy
+A|Well, you know one of the books that I did, that I was reading,|sd
+A|and I stopped because it was so,|sd
+A|it's|%
+A|the book is so detailed|sd
+B|Uh-huh.|b
+A|and you have to,|sd
+A|sometimes I have to go back and read the page over again cause I didn't quite get it all.|sd
+A|And, uh, it is so detailed,|sd

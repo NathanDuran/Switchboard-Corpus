@@ -1,0 +1,110 @@
+A|Do you have any hobbies?|qy
+B|Yes,|ny
+B|I do.|sd
+A|What are yours?|qw
+B|China painting and ceramics.|sd
+A|Ooh, how great.|ba
+B|I enjoy it.|sd
+B|Uh-huh|b
+A|Oh, uh, ceramic painting.|fo_o_fw_"_by_bc
+B|I enjoy the china more.|sd
+A|The china more.|b^m
+B|And now that I have my eyes, corrected to the point that I can see the delicate part of china painting, I do enjoy it.|sd
+A|How did you ever get into that?|qw
+A|That sounds so interesting.|sv
+B|My husband kept begging me,|sd
+B|and he's been dead now for twenty years,|sd
+B|so you understand that this was a long time ago.|sd
+B|But he finally brought me the china, the book, the brushes and he said I have made arrangements for your lessons.|sd
+A|How|ba
+A|I,|%
+B|And I said I'll do it for three months|sd
+B|and if I don't like it, that's it.|sd
+B|Well, I painted an awful lot until his death, which was several years.|sd
+B|And it has just been the most relaxing, enjoyable self-satisfying thing I've had.|sd
+B|I,|%
+A|Now, do you do it just for yourself,|qy
+A|or do you do it to give as gifts,|qrr
+A|or do you actually sell it?|qrr
+B|I have sold quite a bit.|sd
+B|I give a lot to our two daughters that are grown and have their home|sd
+B|and then I just have the rest of my house with lot of hand painting in it.|sd
+B|Uh-huh.|b
+A|Oh, that sounds|ba
+A|now, do you work outside of the home?|qy
+B|I have just retired.|sd
+A|You've just retired.|bf
+B|Yes.|aa
+A|Oh, oh, what a great hobby|sv
+B|No,|arp_nd
+B|it's not,|sd
+A|I,|%
+B|It's a great hobby,|sd
+B|but don't retire|ad
+A|Don't retire.|b^m
+B|Oh,|b
+A|Well, see, I don't,|sd
+A|I never, uh, returned to work for the|sd
+A|I have stayed home for about the last nine years.|sd
+B|Oh, have, well,|%
+A|We've transferred around,|sd
+A|and our last area was in a rural section right on the lake, uh, on Lake Erie.|sd
+A|So the lake life appealed to me,|sd
+A|and my husband's working|sd
+A|and he left it up to me if I worked or not.|sd
+B|Wow.|ba
+A|So, in my spare time, I love to sew.|sd
+A|There aren't too many people around anymore that really enjoy sewing,|sd
+A|but I do make all my own clothes|sd
+A|and we recently purchased a new home,|sd
+A|so I enjoy doing my, uh, toppers for my window applications and things like that.|sd
+B|Oh, uh-huh.|b
+A|But, uh, just when I thought I really enjoyed my hobby, yours sounds great|sd
+B|Well, my sister is the seamstress of the two of us.|sd
+B|And, but she doesn't china paint|sd
+B|so we both have our expertise side.|sd
+A|That is excellent.|ba
+B|What part of Ohio are you in?|qw
+A|We're in the I'm in the suburb of Cleveland|sd
+A|and I'm about, uh, fifteen miles, probably, from downtown Cleveland, something like that.|sd
+A|And Cleveland is located right on Lake Erie|sd
+A|and prior to this, we were fifty miles west from here.|sd
+A|So we were right on the lake.|sd
+A|And Cleveland isn't all as bad as what you've heard|sd
+B|Oh, what's that,|%
+A|And you do find people, uh, into the crafts and the things that, uh, various things for spare time,|sd
+A|but, I have never heard and I have actually never run into anyone into the china painting|sd
+A|and I'm just intrigued with it.|sd
+B|If you ever start, be sure and start with a large piece that you can, I mean a large flat plate.|sd
+B|Um, that way you can get the feel of,|sd
+B|you're not cramped on these smaller objects.|sd
+A|Right,|b
+A|where you're getting into the delicate work.|sd
+B|That's right.|ba
+A|Now, do you, where did you first get your lessons from?|qw
+B|In Abilene, Texas.|sd
+A|Through a, uh, an adult ed, or strictly a china type,|qy^d
+B|She just taught china painting.|sd
+B|Uh-huh,|b
+B|and,|%
+A|Oh, how marvelous.|ba
+B|Then, then we had so much fun there,|sd
+B|I had a friend from Albany, which is about thirty-six miles away,|sd
+B|and we would meet every Thursday morning at our instructor's home, because she did our firing for us,|sd
+B|and she would help us|sd
+B|and we bought lots of equipment from her, supplies|sd
+B|and it was just such a delightful time.|sd
+B|And then after I,|%
+A|Oh, and it's so nice,|ba
+B|Beg pardon?|br
+A|It must be so nice for you, now that you're retired.|sv
+B|I have been a little bit negligent about it because I was so tired when I had to go to work after my husband's death.|sd
+B|So I have put it aside for a little while,|sd
+B|but I'm, I have just found me an instructor to get started again,|sd
+B|uh-huh.|b
+A|Oh, isn't that great.|ba
+A|And you'll probably really, uh, regain your enthusiasm for it once you get into a, a class again.|sd
+B|Uh-huh.|b
+B|Of course, I just have one beautiful with peonies, uh, umbrella stand,|sd
+B|and I have two daughters|sd
+B|and they're both,|%

@@ -1,0 +1,122 @@
+A|So, uh, what kind of home repair work have you done?|qw
+B|Well, um, done a little, uh, repair on the, uh, shingles on the roof recently.|sd
+B|We've had a lot of wind around here.|sd
+A|Been pulling them up, huh, or just loosening them until the rain came in?|qrr
+B|Yes.|ny
+B|It looks like I'm going to have to get up there again, because we may have a leak.|sd
+A|Are you in the section of Texas that's been getting so much rain?|qy
+B|We've been getting quite a bit, maybe not quite as bad as some of the folks down around San Antonio,|arp_nd
+B|but, uh, well, I'm right,|%
+B|Plano's just north of Dallas|sd
+A|Oh, okay.|bk
+B|and there are parts of downtown or near downtown Dallas that are under water right now, I guess,|sd
+B|I saw on the news.|sd
+A|Yeah.|b
+A|But you're probably, what, about halfway across the state from San Antonio, though, aren't you?|qy
+B|Well, we're up, uh, we're north and, uh, oh, about, uh, I don't know, uh, eighty to a hundred miles south of the Oklahoma line, I guess.|arp_nd
+A|Yeah.|b
+A|Yeah,|bk
+A|okay.|bk
+A|But you're still getting a good bit of the rain, though.|qy^d
+B|Uh, we did have a little bit of rain yesterday.|ng
+B|So far we haven't had any today.|ng
+B|And, uh, I suppose that means I should be, uh, getting up there to look at that, uh, shingle,|sd
+B|but, uh I had something else planned today,|sd
+A|Yeah.|b
+B|so I guess I'll let it go awhile.|sd
+A|Yeah.|b
+A|Is it asphalt shingles,|qy
+A|or, or .|%
+B|They're, uh,|%
+B|no,|nn
+B|they're, uh, wood shake.|sd
+A|Ooh,|bk
+A|that should be a lot of fun.|sv
+B|Yeah|b
+A|Did you put them up originally or just going up and stopping leaks in them?|qy
+B|No,|nn
+B|I,|%
+B|uh, as a matter of fact, we've never had a leak actually yet.|sd
+B|Now this,|%
+B|we just bought the house last year,|sd
+B|and, uh, uh, just before we took possession of it we had a fellow go up there and do whatever needed to be done on the shingles.|sd
+B|So, I've just recently had to start looking at it myself.|sd
+A|Yeah.|b
+B|So, it's a small problem so far,|sd
+B|but I guess you just have to keep on top of it.|sd
+B|What kind of roof do you have?|qw
+A|Uh, we're in, uh, campus apartment buildings with flat top, uh.|sd
+B|Oh, then you don't have to do too much with it|qy^d
+A|Not too much.|ng
+A|They're just tar and gravel treated flat top roofs.|sd
+B|Uh-huh.|b
+A|Have you got pretty well pitch on that roof, or is it pretty steep?|qy
+B|Oh, it's pretty steep.|sd
+B|Uh, parts of it are steeper than others.|sd
+A|What do you use to keep from sliding off that rascal?|qw
+B|Well, uh, you wear, uh, shoes with good traction, and, and, and try to remember where you are at all times|sd
+A|Yeah,|aa
+A|I imagine, I imagine.|ba
+B|And remember to yell Geronimo, if all else fails.|sd
+A|Yeah,|b
+A|yeah,|b
+A|that would be just too much of a fall for me.|sd
+A|Um, have you been, uh,|%
+A|was, was the house reasonably new,|qy
+A|or you been doing some remodeling work on it.|qrr
+B|It's actually just twelve years old, now.|sd
+A|That's pretty new house yet.|sv
+B|Yeah,|aa
+B|it, uh,|%
+B|this part of the country,|%
+B|actually, they say that when the house is, uh, fifteen, it's already old,|sd
+B|but just take good care of it.|sv
+A|Yeah.|b
+B|Thing is,|%
+B|we've, uh, the main thing that we've had with this house recently has been some, uh, squirming, I call it, of the foundation.|sd
+B|We're just on a concrete slab, you know|sd
+A|Yeah.|b
+B|but, uh, the soil right under this is a clay,|sd
+B|and it, uh,|%
+A|It's settling unevenly?|qy
+B|Well, it, uh, depending on its moisture content, it either swells up or shrinks,|arp_nd
+B|and, uh of course the soil right under the slab retains its moisture a lot longer|sd
+A|Yeah.|b
+A|Uh-huh.|b
+B|and so during the dry season you have to water the foundation to keep your foundation from, uh, from, uh, drooping|sd
+A|Uh-huh.|b
+B|and, uh, but anytime there's a change in the weather, like the temperature, drastic changes in temperature or in, uh, moisture, uh, you get little spider web cracks all around, uh, windows and doors.|sd
+A|Well, that sounds like a lot of fun.|sv
+B|Well, usually what you do is just wait until you think it's stopped,|sd
+B|and then you patch them up|sd
+A|Um. What is it like, uh, stucco walls or,|qy
+B|Uh, well, this is all, uh, it's all drywall|arp_nd
+A|Oh, drywall.|bk
+B|uh, I think, with, uh|sd
+A|Wood framing?|qy
+B|yeah,|ny
+B|right.|na
+A|Okay.|bk
+B|But, uh, somehow or other that does manage to, uh, show these little cracks.|sd
+B|I don't know quite how that works.|sd
+B|Maybe it isn't drywall.|sd
+B|I don't really know.|h
+A|they plastered over drywall.|qy^d
+B|Yeah,|ny
+B|I think it is.|sd
+A|I remember my parents home is drywalled and then they, uh, almost like a small grade stucco type plastering over the drywall to give it a textured sort of a look,|sd
+B|I expect that's what it is,|sd
+B|yeah.|%
+A|and made for kind of a hard shell on the, on the drywall.|sd
+B|Yeah,|b
+B|I think that's the way this is done.|sd
+B|Fortunately we haven't had any real big holes in it yet|sd
+B|so I,|%
+A|Yeah,|b
+A|that's good.|ba
+A|Yeah.|b
+A|Yeah,|b
+A|that would, that would be in terribly, terribly exasperating to have the, the slab floor like that swelling and giving like that.|sv
+B|Yes,|aa
+B|well, the previous owner had a major problem with it, because, uh, oh probably a variety of things.|sd
+B|His neighbor used,|sd

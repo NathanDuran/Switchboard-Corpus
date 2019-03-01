@@ -1,0 +1,155 @@
+A|Well, tell me about your home.|ad
+B|Okay.|aa
+B|Uh, right now we're living in,|sd
+B|well it's me, my wife and, uh, two young boys.|sd
+B|And, uh, right now we're in a, uh, I guess it's either a zero lot line or a garden home. Which you might call it.|sd
+A|Uh-huh.|b
+B|So we don't have a, a big yard. Uh,|sd
+B|but, uh, when my wife and I first moved in, it was just the two of us.|sd
+B|So it was enough.|sd
+A|Uh-huh.|b
+B|Uh, and it's, uh, I guess what they call a story and a half.|sd
+B|Because it's not a full two story. Where, you know, everything on top is on bottom.|sd
+A|Yeah.|b
+B|So, it's got real high ceilings on half the house|sd
+B|and the other half is just standard sized ceilings.|sd
+A|Huh.|b
+B|And, uh, it's about a five year old house now.|sd
+A|It sounds nice.|ba
+B|It's, uh, pretty nice.|aa
+B|Unfortunately, the builder who built it went out of business already|sd
+A|Oh, yeah?|bh
+B|Yeah.|ny
+B|It was a,|%
+B|Landmark is the one who built it.|sd
+A|Yeah.|b
+A|Well, you know, these guys that gambled high lost big you know.|sv
+B|Yeah.|b
+B|That's true.|aa
+A|And, uh I'm insulating myself from that problem.|sd
+B|Exactly what happened to them.|aa
+A|I'm building my own house.|sd
+B|Oh, that's nice.|ba
+A|And as I look out the window of my trailer, I can envision all the insulation that's going up today|sd
+B|Oh, really.|bh
+A|Yeah.|ny
+B|Are you doing it yourself?|qy
+A|Yeah.|ny
+B|Wow.|ba
+A|I used to be a builder.|sd
+B|Oh, that's nice.|ba
+A|And I retired about five years ago  and  started college.|sd
+B|Oh, I  see.|b
+B|Huh.|b
+A|And now I'm a college educated builder|sd
+A|There's still no work, you know.|sv
+B|Yeah.|b
+A|So, uh,  you know, I decided this summer that, uh, you know, we had enough credit on the credit cards to buy the materials|sd
+A|so I did.|sd
+B|That's great.|ba
+A|And, uh, see the, the, the state has a law that says you cannot borrow the money to build your own home.|sd
+B|is that so?|bh
+B|I didn't know that.|sd
+A|You can borrow the  money to pay somebody else to build your house|sd
+A|but you can't borrow the money to build your own.|sd
+B|Well that sounds kind of dumb.|ba
+A|Well, it's to protect the, the banks from guys that say yeah I want to build my own house and go out a build a spec home|sd
+B|Uh-huh.|b
+A|and then it doesn't sell|sd
+A|and then the  bank's  holding the bag.|sd
+B|Yeah.|b
+B|Yeah.|b
+A|Well.|%
+B|Huh.|b
+A|As, as you know, anything that involves the government is, works half as well as it's supposed to  costs three times as much. Right?|sv
+B|That's right|aa
+A|Hence the savings and loan problem we have.|sv
+B|Yeah,|aa
+B|that's true.|aa
+A|But, uh, you know, my home is, uh, fairly simple.|sd
+A|It's designed to be added on to.|sd
+B|Uh-huh.|b
+B|That's good.|ba
+A|Yeah.|b
+A|Well, I figure it's just me and my wife|sd
+A|but, you know, I like to do stuff with my hands and whatnot,|sd
+A|so  I want  to have a shop.|sd
+B|Yeah.|b
+B|How big a lot do you got it on?|qw
+A|Ten acres.|sd
+B|Wow.|ba
+B|That's nice.|ba
+B|That's real nice.|ba
+A|Well, yeah.|aa
+A|It's really nice too because I can't see my nearest neighbor.|sd
+A|He's on the other side of a hill.|sd
+B|Oh.|b
+A|And my second nearest neighbor is a dot on the horizon.|sd
+A|Seriously.|sd
+B|God.|ba
+B|That's pretty good.|ba
+A|Well, in the winter time, I can see, see another guy|sd
+A|but, you know, he's|%
+B|Uh-huh.|b
+A|I can just make out his place, you know. I've got a thirty mile view to the east and about ten miles to the north.|sd
+B|Yeah.|b
+B|Yeah.|b
+A|And, uh,|%
+B|Oh, that's pretty good.|ba
+A|Yeah.|aa
+A|Well, I took a lot of time in choosing this site because the, the house has no heating or air conditioning.|sd
+B|Uh-huh.|b
+B|Oh, you, you, you don't plan on putting any, any of that in?|qy
+A|Well, it's got a, a very small furnace.|arp_nd
+B|Uh-huh.|b
+A|And a, uh, we'll use a wood burning stove as well.|sd
+B|Yeah.|b
+A|But, in the house itself, I've been working inside, you know, these, these many months|sd
+B|Uh-huh.|b
+A|and I have not had to use the heat.|sd
+B|Wow.|ba
+A|Because it's all geothermal.|sd
+B|Yeah.|b
+B|That's pretty good.|ba
+A|And with all the,|%
+A|see I've got,|%
+A|on the south side is all glass.|sd
+A|Well, as much as I could get in it, you know. And, uh, the east side is glass.|sd
+B|Yeah.|b
+A|I've got one, two, three, four, five, six windows in the east side on forty-eight feet.|sd
+A|So it's almost all glass.|sd
+B|Wow.|ba
+A|And,  uh,|%
+B|My  wife would love that|sd
+A|Oh, yeah.|b
+A|I mean,  you know.  There's no place in the house where you can stand and not see four windows.|sd
+B|She loves  lots of windows.|sd
+B|That's great.|ba
+A|So, uh,|%
+B|Is it a single story?|qy
+A|Well, not really.|arp_nd
+A|It's, uh, it's on the side of a hill.|sd
+B|Oh, I see.|bk
+A|So the first, you know,|%
+A|the, the, the,|%
+A|what I call residential level at the side that's in the hill is about four feet deep.|sd
+B|Uh-huh.|b
+B|Um, I see.|bk
+A|And the side that's on the, uh, the other side is about six feet high.|sd
+B|Oh.|bk
+A|So I've got a pretty good grade there.|sv
+B|Yeah.|b
+A|And then when I put the verandas which will be twelve feet out all the way around on the north, south and east sides that will define the shop.|sd
+B|Uh-huh.|b
+B|Yeah,|b
+B|that's kind of like, like a Victorian style?|qy
+A|Exactly.|na
+B|Yeah.|b
+B|I, I've always liked that.|sd
+B|The,|%
+B|you know, I, we don't have much yard|sd
+B|but I built a small deck in the back.|sd
+A|Uh-huh.|b
+B|But, you know, I, I see these magazines where, you know, dig your, your own deck.|sd
+A|Uh-huh.|b
+B|I, I kind of wish I had them, those size property and, and, uh, one with a grade on it so I can build a real nice deck.|sd

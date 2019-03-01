@@ -1,0 +1,231 @@
+A|All right.|fo_o_fw_"_by_bc
+A|I, I like keep forgetting to make these calls.|sd
+A|I've been on this list for two months.|sd
+B|Oh, really,|b
+B|I just, Oh, I just got mine last week,|sd
+A|I think I've made four calls|sd
+B|and I haven't started yet because I wanted to get one first see how it worked.|sd
+A|Right.|b
+A|Well there are some kind of nice prizes,|sd
+A|and it's worth doing it.|sv
+A|I so mad I think I've had this for two months|sd
+A|and, like I've said, I've made four calls,|sd
+A|and lot of times we don't answer the phone, probably when I get mine early in the evening|sd
+B|Really.|b
+B|Yeah.|b
+A|Well, we're supposed to talk about movies.|ad
+A|Have you been to any lately?|qy
+B|I have, I was trying to think of the one I went to a couple of weeks ago,|sd
+B|but I forgot it already.|sd
+A|Uh, I haven't really seen one since probably August because, uh, every weekend in, in the Fall we go to our high school football game on Friday then we go out with friends after,|sd
+B|Oh.|b
+A|and that's kind of the our social for the,|sd
+B|That's your weekend.|^2
+B|Yeah|b
+B|really.|b
+A|But, oh, I saw, uh, ROBIN HOOD, which I didn't care for.|sd
+B|Really.|b
+B|I didn't see that, because I didn't think I would care for it.|sv
+A|No,|aa
+A|and my husband dragged me to it.|sd
+B|Oh.|b
+A|I like, I think Kevin Costner's a nice fellow,|sd
+A|and he's nice looking,|sd
+A|but he just, to me, is not a very dynamic actor.|sd
+B|Yeah,|b
+B|I think that's why a lot of people go to see him, though|sv
+A|I guess because he is good looking.|sv
+A|I don't know|h
+B|Right|b
+A|I don't know|h
+A|Oh.|b
+A|I saw CITY SLICKERS.|sd
+A|Did you see,|qy
+A|that was a,|%
+B|Yes|ny
+B|I did see that|sd
+A|That's the last one I saw, I think.|sd
+B|and I really enjoyed that.|sd
+A|I did too.|aa
+A|I thought that was so cute,|sd
+B|Yeah.|aa
+B|I thought that was appropriate just for everyone.|sv
+B|Yeah.|aa
+B|It was great.|sd
+A|Oh, I, I really enjoyed that.|sd
+B|Yeah,|b
+B|and my daughter went to see that one too.|sd
+B|So, it was fine for her|sd
+A|Right.|b
+B|so, yeah.|b
+A|Which most of them probably aren't|sv
+B|Right,|aa
+B|well that's right.|aa
+A|I don't know what my kids see any more.|sd
+A|My kids are twenty and sixteen,|sd
+A|so they've probably seen about everything at this point|sv
+B|Probably they have.|aa
+B|Well, my daughter is twelve|sd
+A|Oh.|b
+B|and we had a sleep over one night.|sd
+B|They wanted to watch PRETTY WOMAN, which I have|sd
+A|Uh-huh.|b
+B|and I was hesitant,|sd
+B|and they all had seen it anyway.|sd
+A|Oh, I know it.|ba
+B|all twelve,|sd
+B|so.|%
+A|That's the way it is.|bd
+B|Yes,|aa
+B|they do|sd
+B|yes,|aa
+B|they do.|sd
+A|there's no way to protect them any more.|sv
+B|Right,|b
+A|So.|%
+B|but I didn't think they were great for my daughter|sv
+A|No,|aa
+A|it'll teach a great lesson, because she ended up so, in so|sv
+B|No.|aa
+B|Really,|b
+B|really.|b
+A|But it was a fun movie to watch.|sd
+B|Oh, I love PRETTY WOMAN,|sd
+B|and then I like that one after that where, oh,|sd
+B|what was it?|t1
+B|It was like a FATAL ATTRACTION thing.|sd
+A|Oh, the scary one?|qy
+B|Yeah.|ny
+A|Oh, I didn't see that,|sd
+A|but the,|%
+B|I don't remember the name of it|sd
+B|but that was so good.|sd
+A|Oh, really.|b
+B|That was really excellent.|sd
+A|Oh, I like scary ones that are realistic.|sd
+B|Yeah,|b
+B|that, that was, that was.|%
+A|They say is really frightening, too.|sv
+B|What was?|br
+A|, the new one that came out.|sd
+B|Oh, I don't know.|h
+A|They say it's really horrifyingly scary|sv
+B|Really.|b
+A|but, uh, I'd never get my husband to that.|sd
+A|He doesn't like to be scared|sd
+B|Oh.|b
+B|The last scary thing I saw was MISERY.|sd
+A|Oh, and my kids both saw that.|sd
+A|They liked it.|sd
+B|That scared me to death,|sd
+B|and I watched it at a friend's house on video|sd
+B|and I was just.|%
+B|Oh, yes.|aa
+A|Gosh.|ba
+B|It was horrible.|sd
+B|It was so awful.|sd
+A|Oh, no,|ba
+A|that one sounded gross,|sd
+A|I know my husband wouldn't have stood for that.|sd
+B|Really.|b
+A|He, he likes MARY POPPINS and things|sd
+B|I like that, too.|aa
+A|Yeah|b
+B|I like funny movies|sd
+B|and I like scary movies.|sd
+A|I do too,|aa
+A|I, I really like a variety.|sd
+B|Yeah.|b
+A|Where are you from?|qw
+B|I'm from New York.|sd
+A|Oh, I was going to|sd
+A|well my husband's from New Jersey,|sd
+A|and we lived there for five years when we first got married|sd
+B|Is he really.|b
+B|Oh.|b
+A|and so, it sound kind of nice,|sd
+A|it was familiar your accent.|sd
+B|Yeah,|b
+B|yes,|b
+B|it's so close,|sd
+B|I'm from Long Island|sd
+A|Oh.|b
+B|so that's close, you know,|sd
+B|that's more related to New Jersey than it is to like Rochester, New York, those, that kind of thing.|sd
+A|Right.|b
+A|I don't know up there.|sd
+B|Yeah,|b
+B|different,|^2
+B|it's it's different,|^2
+A|Just, uh,|%
+A|different,|aa
+A|uh-huh.|aa
+B|yeah,|%
+B|I guess.|h
+A|Well, see the accents up there fascinated me, because even in his family alone, there were several different accents the way they would pronounce words differently.|sd
+B|Oh.|b
+B|Really.|b
+A|And, and his family, they lived in the same house there,|sd
+A|most of them were twenty or so you know.|sd
+B|Really,|b
+B|and they were all from New Jersey.|sd
+A|Yeah|b
+B|Um.|b
+A|uh-huh,|b
+A|and they lived, you know,|sd
+A|they never moved into apartments when they were young,|sd
+A|they always stayed at home until they got married,|sd
+A|it seemed to be the custom up there.|sd
+A|Or they went in the service,|sd
+A|and so they were together for all that time|sd
+B|Really.|b
+A|But they still,|%
+A|their accents differed a little in the family|sd
+B|Um.|b
+A|so, and it.|%
+B|When did you live there?|qw
+A|Uh, in the sixties.|sd
+B|Oh, yeah.|b
+A|I finally.|sd
+B|I was in New York in the sixties.|sd
+A|Oh, yeah.|b
+A|I converted him to being a Texan.|sd
+A|I, I just thought life would be,|sv
+A|I knew it was easier back here.|sd
+B|Are you from Texas?|qy
+A|Well, sort of.|na
+A|I'm an Air Force brat,|sd
+A|but I was real familiar with Texas.|sd
+B|Oh, yeah,|bk
+A|I went to college here and everything.|sd
+B|Oh, yeah.|b
+A|And I just thought, you know, we could probably get a better house,|sd
+A|and life is a little slower, a little easier.|sv
+B|It is, it is,|aa
+B|yeah.|aa
+A|He loves it.|sd
+A|He, he really, would never want to leave,|sd
+A|so it worked out.|sd
+B|I'm used to it now.|sd
+B|So, I like.|%
+A|Not hard when you first came.|qy^d
+B|Um?|br
+A|Was it hard when you first came?|qy
+B|Oh, yes|ny
+B|it was. Because we're here eighteen years|sd
+A|Oh, my.|ba
+B|and you can imagine what Plano was like eighteen years ago.|sd
+A|Oh, I know,|ba
+B|It was very difficult.|sd
+A|Oh, compared to New York, oh,|^2
+A|yes.|aa
+B|Yeah,|b
+B|it was very, very difficult.|sd
+B|I didn't even want to talk.|sd
+A|Were you all transferred?|qy
+B|Yeah|ny
+A|Um.|b
+B|yeah.|b
+A|I have a friend down the street's from New Jersey|sd
+A|and they were,|sd
+A|he got a,|sd

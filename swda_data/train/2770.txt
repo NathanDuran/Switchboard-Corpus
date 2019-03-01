@@ -1,0 +1,130 @@
+B|So have you got a pet.|qy
+A|no,|nn
+A|I don't,|sd
+A|an|%
+A|my kids would love a pet.|sd
+A|I had a pet when I was a girl.|sd
+A|I had a Cocker Spaniel.|sd
+A|And I think one thing about pets is they're a lot of company.|sd
+B|Yeah,|b
+A|You can, you can tell them anything|sv
+A|and they won't tell anybody.|sv
+B|That's right,|aa
+B|that's like unconditional affection.|bf
+A|Right,|aa
+A|as a matter of fact, I was thinking that same thing, unconditional love.|sd
+A|They just give it, and don't expect too much.|sv
+B|Yeah.|b
+A|Anyway, do you have a pet?|qy
+B|I had a cat,|na
+B|I've had several cats.|sd
+B|My pet, uh, was hit by a car New Year's Eve,|sd
+B|but, uh,|%
+A|Oh! like a|b
+B|I'm going to get another one as soon as I get back in town.|sd
+B|I'm going out of town this weekend,|sd
+B|when I get back I'm going to find a cat.|sd
+B|So,|%
+A|Oh, I'm so sorry.|fo_o_fw_"_by_bc
+A|But that's good that you're going to get another one.|sv
+B|Yeah.|b
+A|I know some of my friends who have pets, uh,|sd
+A|and they just are really, you know,|sd
+A|the ones that have dogs are very, uh, protective of them|sd
+A|and I think that's one reason they have them, especially older people that I know, that have pets.|sv
+A|But they just, um, really take care of them, or, uh, are protective of them.|sd
+B|I work and go to school|sd
+B|and it's kind of nice|sd
+B|you come home your, your pet's there for you and wants a little food a little attention.|sd
+A|Yeah,|b
+A|an,|%
+A|and my, my kids,|sd
+B|And that's,|%
+B|it's kind of fun.|sd
+A|um, they really want a dog badly,|sd
+A|and they've been looking and looking|sd
+A|and want, you know,|%
+A|they'd take anything I think|sd
+B|Yeah.|b
+A|but, um, I don't know do you like,|sd
+A|I guess your cat was an indoor cat.|qy^d
+B|No|nn
+B|it was an kind of indoor, outdoor,|sd
+B|it, it was,|%
+A|It kind of traveled around|^2
+A|travel .|%
+B|well yeah,|aa
+B|I don't, I don't care for the smell of the litter box|sd
+B|so my cat was trained to go outside,|sd
+B|other than that it was inside when it wanted to be, it was outside when .|sd
+A|Yeah,|b
+A|when I had a Cocker Spaniel it, it was an outdoor dog|sd
+A|and, uh, I think I liked that better.|sd
+B|Yeah,|b
+B|I, I, think, you know,|%
+B|I like dogs,|sd
+B|but I think that, uh,|%
+B|I'm,|%
+B|kind of like big big dogs|sd
+B|and you have to have room for them.|sv
+A|Yeah,|aa
+A|that's true.|aa
+B|And dogs take a lot of, a lot more care than cats do.|sd
+B|Cats are pretty independent, you know,|sd
+B|you feed them|sd
+B|and they keep themselves clean|sd
+B|and, if you, if you raise them right, you know, you don't have to worry about the litter box thing, where with dogs you really do have to let them out and take them for walks and things like that.|sd
+A|Yeah,|aa
+A|that's true.|aa
+A|Take them for walks,|^2
+A|right.|b
+A|Yeah,|aa
+A|I see all the people on, on Sunday going for a walk with their dogs|sd
+A|and, and I, I'm kind of skeptical with my son getting a dog,|sd
+A|I'm like I know it will be fun the first week maybe,|sd
+B|Yeah.|b
+A|and then mom gets to take care of it, or something.|sd
+A|So, I|%
+B|Yeah,|b
+B|I got to take care of a friend of mine's dog.|sd
+B|He's just got a puppy|sd
+B|and he was out of town last weekend|sd
+B|and of course the dog is not trained for anything yet,|sd
+B|so it was, go over there and clean up after the dog,|sd
+A|Oh, that's exciting.|ba
+A|Yeah.|b
+B|And, uh, kids kind of,|%
+B|they want the, they want the fun part and not the, not the work.|sd
+A|Yeah,|b
+A|I think it's really important to that, that if you get a pet that they're either spayed or neutered so that, you know, we're not just going on with this pet population and having to, just get rid of them.|sv
+B|Yeah.|b
+A|That, that kind of gripes on me some,|sv
+A|but, but I don't know.|h
+B|Well if you're, if you're going to have a pet,  and not have it neutered or spayed you need to be willing to, you know deal with the consequences, take care of the offspring|sv
+A|More and more people are,|^2
+A|Right,|b
+A|right.|b
+B|and, and I think, you know,|sv
+A|But, uh,|%
+B|when I was growing up we had cats|sd
+B|and, you know, just seeing the cats, you know, the, the miracle of birth, you know, put that in quotes, is that's a, that's a neat thing to, to experience as a kid and understand,|sv
+A|I think that's really true.|aa
+B|and, and it was a real positive thing,|sv
+B|but on the other hand you don't want to, you'd be one of these people that dumps the kittens off on the side of the road, you know,|sv
+A|Yeah.|b
+B|they're, they're, getting old now,|^q
+B|and it's time to get rid of them.|^q
+A|Yeah,|aa
+A|exactly.|aa
+B|So.|%
+A|Exactly.|aa
+A|I think our community is a lot more conscious now though too,|sv
+A|and, and that's good too.|sv
+B|Yeah.|b
+A|Well, I think that's all I have to say.|sv
+B|Okay,|b
+A|Okay,|b
+A|have a good night.|fc
+A|All right,|fc
+A|bye-bye.|fc
+B|Bye.|fc

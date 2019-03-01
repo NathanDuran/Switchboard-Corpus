@@ -1,0 +1,97 @@
+A|Okay, uh,|fo_o_fw_"_by_bc
+A|well, we just got our income tax return|sd
+A|and I'm perfectly happy.|sd
+A|What about you|qo
+B|Well, let's see.|^h
+B|I haven't got mine yet because my parents are getting all that stuff at, uh, at home in the Bay area.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|So, I'm not sure how much I'm getting back|sd
+B|but I'm pretty sure I should get back a little bit since  student,|sd
+B|so|%
+A|Yeah.|b
+B|It's not too much.|sd
+A|Yeah.|b
+B|Not too bad though|sd
+A|But as far as writing checks out and paying taxes, I think it's pretty high.|sv
+A|But I, I'm, you know,|%
+B|Yeah.|aa
+B|It, it's one of those necessities of life that we all have to, you know , pay taxes but, although it is kind of a pain sometimes though.|sv
+A|How high are the taxes going to be when my children are my age?|qh
+B|Uh-huh.|b
+A|You know, that, that's, that's scary too.|sv
+B|Uh-huh.|b
+A|Because it's not anything like the way it was when I was young and small and a child.|sd
+A|So, you know, that, that's a scary part too, that you have to think about.|sv
+B|Yeah.|aa
+B|And, and  like, as time goes on, you know, things get more expensive|sv
+B|and because we were increasingly complex society that day by day things get more, uh, things get more expensive as well as more complex.|sv
+A|Uh-huh.|b
+A|Yeah.|b
+B|And, you know, taxes are one of the ways to help pay for a lot of the things that are needed in this society.|sd
+A|Yeah.|b
+B|I mean, everything from, you know, from medicare to, uh, to social security to, uh, to feeding the to, uh, to, you know, feeding the homeless, to maintaining prisons, to maintaining polices or fire departments and things like that.|sd
+B|And it's,|%
+B|now there's more and more things that need attending to and that sort of thing.|sv
+B|And, you know it's, it's becoming a larger responsibility|sv
+A|Uh-huh|b
+B|but someone has to pay for it|sd
+B|and that's us.|sd
+A|Yeah|aa
+A|and then you find out about all these things about are your taxes, you know, taxpayers, are, is your money going to where you want it to go|sv
+A|and. There's going to a special this week.|sd
+A|I, I can't, I can't if it's TWENTY TWENTY or one of those things where,|sd
+A|uh, I think it's one of the local news.|sd
+A|I think they're having a documentary. Something about that.|sd
+A|About their trying to catch some people that not spending your tax monies right and fraud and that kind of thing, you know|sd
+A|and that's kind of scary too|sv
+B|Uh-huh|b
+A|And, uh, so that would be interesting to see|sv
+A|I wanted to see that program.|sd
+B|Yeah.|b
+B|And, and, even, even today it's like the amount of taxes that, you know, we're paying for.|sv
+B|But you'd think that we're still in , that|sv
+B|we're still not able to pay off things just because the budget's not big enough as it is.|sv
+A|Oh, I know|aa
+A|Yeah.|b
+B|And, makes you wonder when there's, you know, countries out there that have, you know, tax rates of like close to fifty percent or higher.|sv
+B|You know, it's like fifty percent of everything you make is already gone before you even get it.|sd
+A|Uh-huh.|b
+B|And that, that's kind of a scary thought.|sv
+B|I hope it doesn't come down to that.|sd
+A|Yeah|b
+B|But, on the other hand, they also, while those countries that have high taxes, also have things like, uh, socialized medicine, things like that too, which are nice fringe benefits of it.|sv
+B|So everyone has, everyone has the access to medical facilities as well as the doctors. That sort of thing.|sd
+A|Uh-huh.|b
+B|And it's good|sv
+B|but it's, it's the price they pay|sd
+A|Yeah.|b
+B|I mean it can be argued one way or another whether economically it's actually good for the country or good for any given country to have that because those countries tend to be, uh, as far as cash flow, a lot, uh, have be, tend to have a much slower cash flow and don't generate a larger a, a large amount of revenue because there's so little, uh, currency flow through out the economic system|sv
+A|Uh-huh.|b
+A|Huh.|b
+A|Well you sure do know a a lot|sv
+B|Well, just keeping up with the times,  that's all.|bd
+A|Yeah|b
+A|yeah.|b
+B|As, as it turns out, you know, it's one of those, one of those interests , you know, I kind of like to keep up on.|sd
+B|Because, well it's nice to know that when I'm actually, you know, I do start working that, I like to know where my tax dollars are going too.|sd
+A|Uh-huh.|b
+B|work hard to get, you know.|sd
+B|I like to know where it's going to.|sd
+A|Yeah,|aa
+A|yeah.|aa
+A|That's true.|aa
+B|Uh-huh.|b
+A|What do you think about these items that are going to be, uh, taxed even more. Like, uh, tobacco and that kind of thing|qo
+B|I think in a, in a way it's good, in a way it's not.|sv
+B|Uh, but I think in general it's probably good.|sv
+B|I mean, a lot of things like tobacco and alcohol and things like that have been, have been, in the past, uh, have been not taxed because there's been such a large lobby against them,  against  the taxes for them. Sponsored by the alcohol and tobacco companies.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|And it's things like tobacco are, uh, they're, they're a proven health hazard to  smokers  as well as nonsmokers|sd
+A|Yeah.|b
+A|Right.|b
+B|And it's,|%
+B|as far as the safety thing, in, like in San Luis Obispo, for example, there's an ordnance which states that, uh, there's no smoking in any public areas. *typo ordinance|sd
+B|And so if you walk into any restaurant or any hotel there's no smoking allowed anywhere.|sd
+A|Oh, really|b

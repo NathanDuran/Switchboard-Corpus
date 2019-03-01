@@ -1,0 +1,123 @@
+A|Okay Jerry.|fo_o_fw_"_by_bc
+A|I guess, uh, tonight's topic is about, uh, personal computers and level of interest and, uh, and your, your expertise.|sd
+B|Oops|b
+B|Oh, well.|b
+A|Oh, well.|b
+B|Well, okay,|b
+B|well, let's, let's fire away.|ad
+B|Uh, well, Brian,|%
+A|Okay.|aa
+A|Well, first of all,|%
+A|you want me to start off?|qy
+B|Yeah,|ny
+B|why don't you, why don't we, why don't you do about thirty seconds|ad
+B|and I'll do thirty seconds|oo_co_cc
+B|and then we can work off of there.|ad
+A|Okay,|aa
+A|real, real fine.|aa
+A|Uh, first of all, uh, yes,|sd
+A|uh, I do own a P C here at home|sd
+A|and I also have one at the office.|sd
+A|And my level of interest is quite high with P C|sd
+A|and I was really, I am really interested in them, however, not to the extent as I was about, uh, two years ago when I basically knew about everything there was to know about different things|sd
+A|and that was the time when we were shopping for one.|sd
+A|And I think we got a top of the line at that time,|sd
+A|but, uh, as you know P C change quite rapidly|sd
+A|and the technological advances kind of outdated our P C where I can get the same P C I got two years ago at the fraction of the cost.|sd
+A|And I also enjoy using ours at home|sd
+A|and we use it for a, a number of different things.|sd
+A|Plus I get in a lot, an awful lot of good use of one at work, where I work.|sd
+A|Lot of, uh, analytical, uh, testing, reviews, uh, lot of different things I use it at at work,|sd
+A|so I enjoy P C|sd
+A|and they, they make my life and my work a lot easier.|sd
+A|How about yourself?|qo
+B|Well, uh, since, uh,|%
+B|well, I guess since this time last year I've changed, uh, jobs within the firm I'm with|sd
+A|Uh-huh.|b
+B|and, uh, I now am learning to be a sys admin on, on, not only P C but, uh, uh, professional work stations as well.|sd
+A|Wow.|ba
+A|All right.|ba
+B|And these are the big mamas, i. e. sons, uh, Hewlett Packards, uh uh, uh, oh, the big Solburns and, and so forth.|sd
+A|Uh-huh.|b
+A|Yeah.|b
+B|And, uh,|%
+B|and, and, uh, we have, uh, two P C here.|sd
+B|We have, uh, an X T|sd
+B|and then recently we, we made a, the command decision to go ahead and get, uh, the absolute top of the line because spouse is a, uh, programmer.|sd
+A|Uh-huh.|b
+B|And so we got one that,|sd
+A|Oh, yeah.|b
+A|Oh, yes.|b
+B|So, uh, I, I get to see all kinds of different applications.|sd
+A|Sounds like you're an expert at it, too.|sv
+B|No,|bd
+B|no.|bd
+B|Learning,|bd
+B|I'm learning I'm learning to be, uh, one who knows what's he's doing|bd
+A|Yes.|b
+B|but, expert,|qh
+B|no|nn
+A|Oh, well, well.|%
+B|I frown on that, that term because, uh, too many people, you know, uh, misuse the word|sv
+B|but my area, my level of expertise is increasing almost daily.|sd
+A|Well, that's great,|ba
+B|And, uh, yeah,|b
+B|so, I've got a P C and a work station at work|sd
+B|and I|%
+A|Uh-huh.|b
+B|and we have two P C here at home.|sd
+A|Right.|b
+B|And the,|%
+B|a lot of the, the, the new mama we're, uh,|sd
+B|I've got Aldus and, uh, Micrographics on it as far as, uh, technical publishing|sd
+B|and we do a, quite a bit of church work with ours.|sd
+A|Great.|ba
+B|And, uh,|%
+A|We do an awful lot of that, too with ours.|sd
+B|You know, some,|%
+B|I, I, I've found that, uh, the more we do with it, uh,|sd
+B|it seem,|%
+B|and the Lord's just pleased that we're kind of,|sv
+B|this is, this is, part of giving back a portion of what He's given to us.|sv
+B|So, uh, I don't mind, because seems like the more we do, there's, there's the more stuff that's, uh, available that comes along and so forth.|sv
+A|Oh, yes.|aa
+B|And,|%
+A|Definitely agree with that.|aa
+B|So, uh, rather than being niggardly and, and, chintzy, uh, we've just said, you bet, boss, seeing as he was the one that, uh, enabled us to get the money to buy the Four Eighty-Six.|sv
+A|Uh-huh.|b
+B|Because the top of the line we've got,|sd
+B|well, we've got a compatible.|sd
+B|It,|%
+A|Yeah.|b
+A|Wow,|ba
+A|wow,|ba
+A|you got,|%
+A|that's a Four Eighty-Six processor, too?|qy
+B|Uh-huh,|ny
+B|uh-huh.|ny
+A|Wow|ba
+B|Like I said|sd
+A|That's,|%
+A|Yes.|b
+A|you have to have that to support UNIX.|^2
+A|Uh-huh,|b
+A|of RAM.|^2
+B|and then, uh, it, it, it likes to live on about a hundred and fifty megabyte hard drive.|sd
+A|Right|b
+B|So the next size up was a Two Hundred and Eleven|sd
+B|and so rather than just have one, we went ahead and got two.|sd
+B|Uh, at some point in time I'm going to do the mirroring, uh, experiment to where one disk mirrors the other for fault tolerance.|sd
+A|Yeah.|b
+A|Wow,|ba
+A|okay.|b
+B|And, uh, oh, speak, speak of the angel, she just walked in|sd
+A|Well, good for her|sd
+B|T I stuff another|t3
+B|So, uh, uh,|%
+A|You say she's a programmer also.|qy^d
+B|Yeah,|ny
+B|she's, she's a squirrel for, uh, uh, contractor out at American Airlines.|sd
+A|Uh-huh.|b
+B|So,|%
+A|Well, great.|ba
+A|Well, she probably needs that kind of a powerful type of a machine to do her work.|sv

@@ -1,0 +1,111 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|is it Mike?|qy
+B|Yes.|ny
+A|Do you repair your own car?|qy
+B|I try to, whenever I can.|na
+B|I've always been a, a I guess a product of a handyman father.|sd
+A|Well, I tell you what, that's, count your blessings because uh, it really is good when someone can do some things to a car themselves.|sv
+B|Yeah.|b
+B|Yeah.|aa
+B|There's,|%
+B|although I'll tell you, you know, over the years the cars get more complicated.|sv
+A|Well, that's why I don't do as much as I'd like.|sd
+B|Right,|b
+B|yeah.|b
+A|Because they are, I mean they've got, they've gotten complicated haven't they?|qy
+B|Yes.|ny
+B|One of my first cars was a fifty-six Buick. Which, after awhile I could, you know, take it apart in my sleep if I needed to.|sd
+A|Uh-huh.|b
+A|Is that right?|bh
+B|Yeah.|ny
+B|It, it got to be pretty straightforward to understand|sd
+B|and, now since then, you know, the closer a car is to a fifty-six Buick, the, the more I know about it.|sd
+B|And then start getting into these Nissans and the like|sd
+B|and I just can't keep up.|sd
+A|Yeah,|aa
+A|I, I agree.|aa
+A|About all I ever,|sd
+A|I never was too mechanically inclined,|sd
+A|but I used to always change my own oil and do the points and plugs and,|sd
+B|Yeah.|b
+A|Course, they don't use, uh, points anymore.|sd
+B|That's right|aa
+A|But, Uh, they do still use plugs.|sd
+B|Yeah.|b
+B|Yeah.|b
+A|And, uh, now brakes, I've always done a lot of, you know, changing brakes.|sd
+B|Uh-huh.|b
+A|And I used to do, I could always do the alternator, you know, and starter.|sd
+B|Yes.|b
+A|I don't anymore,|sd
+A|but I have on a lot, a lot of times.|sd
+B|Yes,|b
+B|I understand.|ba
+B|My last car repair actually had to do with brakes|sd
+B|and it's one I did not do myself.|sd
+B|I took the car, my,|sd
+B|I have a seventy-nine El Dorado, took it to be inspected|sd
+A|Uh-huh.|b
+B|and the parking brake failed.|sd
+B|So I got under there and messed with the, the that, uh, that adjustment to make, to tighten it up|sd
+A|Uh-huh.|b
+B|and that didn't do the trick|sd
+A|Uh-huh.|b
+B|and then I got there and tried to,|sd
+A|It probably slipped loose, didn't it?|qy
+B|Well, actually that wasn't even eventually the problem.|arp_nd
+B|I, I did a lot of things that I, I did everything that I could think to do.|sd
+A|Uh-huh.|b
+B|And, eventually I brought it up to a, a place called Just Brakes|sd
+A|Uh-huh.|b
+B|and it turns out that there's a,|sd
+B|the parking brake in the rear,|sd
+B|there's a, there's disc brakes|sd
+B|and the parking brake is a piston deal.|sd
+A|Um.|%
+B|And because the parking brake hadn't been used in so many years, the piston froze up.|sd
+A|Oh.|%
+B|So they ended up having to pound it out.|sd
+B|And one of them, they, were able to get running, uh, kind of oiling it and playing with it|sd
+B|and the other one they just, it was just frozen solid,|sd
+B|so I ended up having to buy one|sd
+B|and all total, it was just under two hundred dollars, believe it or not, to get all that done|sd
+A|well, it really wasn't quite, as bad as you thought, was it, was it?|qy
+B|yeah,|ny
+B|actually, I, I think it was a lot of money,|sd
+B|but I, I don't, like I|sd
+A|Well, it was a lot of money,|bf
+A|but,|%
+B|Yeah,|aa
+B|but, I,|%
+B|it got to the point where I didn't know what was going on|sd
+B|so,|%
+A|You had to have the help, didn't you?|qy
+B|That's right,|na
+B|that's right.|na
+A|Yeah.|b
+A|Well, do you still do much work on them, then?|qy
+B|I do.|na
+B|actually that was just a, at, at the beginning of September|sd
+B|and, whenever I can, I do try.|sd
+B|I|%
+B|actually, I'd say this.|h
+B|I, I've gotten to the point where I don't change the oil anymore. Only because,|sd
+A|Disposal is a problem.|^2
+B|Well, that is one problem,|aap_am
+B|but also these, uh, these fast oil change places, you just can't beat them.|sv
+A|That's true.|aa
+B|For sixteen bucks they'll not only will they change the oil in ten minutes, and do a you know, as good a job as I can do, but they'll, uh, lube, too|sd
+A|That's true.|aa
+A|Right,|aa
+A|that, that,|%
+A|I've, I've quit doing that myself.|sd
+B|Yeah.|b
+A|And, but one of the main reasons was the disposal of the oil, you know.|sd
+B|Yep,|aa
+B|that's right.|aa
+A|And, uh, but, it,|%
+A|but, no,|ar
+A|I guess,|%
+A|that,|%
+A|and the main reason that it's, it's quick.|sd

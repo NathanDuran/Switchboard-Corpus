@@ -1,0 +1,357 @@
+A|Uh, what kind of house do you live in?|qw
+B|Uh, we live in a one story, just like a style home, you know, the standard Texas, uh, Fox and Jacobs.|sd
+A|Oh, yeah.|b
+A|With, with a yard and fence.|qy^d
+B|How about you guys?|qo
+B|Are you in a apartment or a home?|qy
+A|I'm in an apartment in, uh, Plano.|sd
+B|Well, they say those are easy to or difficult to find.|sv
+A|Yeah,|aa
+A|they are, if, uh,|aa
+A|kind of depends on what you're looking for.|sv
+A|Mine's just a one bedroom place,|sd
+A|that's, uh,|%
+B|How are rents doing?|qw
+B|I haven't looked at rents in a long time.|sd
+A|Uh, it's hard for me to tell, because I haven't rented in, uh, probably twenty, twenty-five years|sd
+B|Uh-huh.|b
+A|and, uh, just,|%
+A|I'm getting back into apartment life,|sd
+A|and it's,|%
+B|What's a, what's a one bedroom,|qw
+B|are you in a, um|qy
+A|Yeah,|ny
+B|well, Plano,|sd
+B|most, most complexes in Plano are pretty nice,|sd
+B|so you're probably in a, you know,|sd
+A|Well, they vary, from place to place,|sd
+A|it's hard to tell, you know, how well they've been kept up how old they are,|sd
+B|Uh-huh.|b
+A|and these are probably, oh, one of the nicest that I found,|sv
+A|and, uh, they're almost five hundred a month for a one bedroom place.|sd
+B|Ooh that does get high,|ba
+B|yeah,|%
+B|I mean,|%
+A|Yeah,|b
+A|it does, considering that, you know, uh, house payments are, not a whole lot more than that,|sd
+B|Yeah,|b
+B|I was going to say, our mortgage is, is between, depending on,|sd
+B|you know, it drops, um,|sd
+B|seems like in the last six months we, um, got lucky|sd
+B|and we refinanced,|sd
+B|and it,|%
+B|but it was like eight hundred and something,|sd
+B|but it went down to like seven hundred and twenty|sd
+A|Yeah.|b
+B|so that's really not,|sd
+B|I have friends that pay about nine hundred dollars for a town house in,|sd
+A|Wow, that's a lot for a townhouse.|ba
+B|yeah,|%
+B|in,|%
+B|actually they're near Plano in North Dallas too,|sd
+B|but I couldn't believe it,|sd
+B|but, you know,|%
+A|But that's what happens when you get up in this area, you know, you got all these companies are up here,|sv
+A|and these|%
+B|Yeah.|b
+A|and, I guess they know they're going to get it,|sv
+B|And then I think that, um, nobody was really buying houses there for a long time there because of just,|sv
+B|I mean, we've been in ours for about ten years,|sd
+B|but, uh there's no investment in it,|sd
+B|you know all it allows you to do is itemize, on your on your taxes yeah,|sv
+A|Yeah.|b
+A|Yeah,|aa
+A|that's true,|aa
+A|you just take off your mortgage interest|sv
+A|and that's about it,|sd
+B|that's really about it,|aa
+B|it's, uh,|%
+B|have you ever owned your own home,|qy
+A|Yeah,|ny
+A|I've owned, uh, several, built several,|sd
+B|So you know what it's like,|qw^d
+B|yeah,|%
+B|it's like, when you first,|sd
+B|this is our third one,|sd
+B|it's not, um,|%
+B|and it's not that exciting after a while|sd
+A|Well and especially around North Dallas, or at least in Plano area, they, they basically all look alike because Fox and Jacobs,|sv
+B|Yeah,|b
+B|suburban tract,|bf
+B|yeah,|%
+B|we, uh, we lived out of state for a while and came back|sd
+B|and, uh, we lived in a smaller city,|sd
+B|and now we say, Gee, Dallas really is big and polluted|sv
+A|Isn't it.|aa
+A|I can remember,|sd
+A|I've only been here eight years,|sd
+A|but I can remember coming to work from,|sd
+A|I used to live in Wylie|sd
+B|Uh-huh.|b
+A|and I could see downtown Dallas,|sd
+A|and now there's this brown haze over it,|sd
+A|and it's moving north.|sd
+B|Yeah,|b
+B|it's really it's really sad because they're not doing anything,|sv
+B|well we're getting off the subject, I guess,|sv
+B|but just like with housing, I mean, they're not doing anything about pollution,|sv
+B|they're not doing anything about,|sv
+B|it's going to look like,|sv
+B|have you ever been to Houston?|qy
+A|Oh, yeah.|ny
+B|You know, um, I used to think that Dallas was better than Houston because their zoning for where you can put a house next to a,|sv
+A|Yeah,|b
+B|now it looks just like Houston to me.|sv
+A|Yeah,|aa
+A|it does.|aa
+A|How long have you been in this house?|qw
+B|We've been in here ten years.|sd
+A|Ten years.|b^m
+B|Yeah,|b
+B|so we've got, you know, got some investment in it,|sd
+B|but, you really don't get anything out of it.|sv
+A|No,|aa
+A|you really don't.|aa
+A|Were, you said you were out of state for a while, was that a smaller town than Dallas area.|qy
+B|Yeah,|ny
+B|smaller,|sd
+B|we were up in Pittsburgh, Pennsylvania.|sd
+A|How was it|qw
+B|My home town.|sd
+A|how were the house prices up there?|qw
+B|The prices, actually, a lot better, because Pittsburgh is about the size, I've been trying to think, like a Louisville, or Minneapolis, that type of size.|sd
+A|Yeah.|b
+B|And the prices, what you get here for about a hundred thousand you could get there for about seventy-five, eighty.|sd
+A|Wow.|ba
+B|Yeah,|b
+B|it's really,|sd
+B|and we didn't think it was that clean,|sd
+B|but then after you're gone for a while, it looks cleaner, you know|sv
+A|Oh, yeah|b
+B|uh,|%
+A|well, you know, a lot of these people that I've talked to that are coming down from, uh, like what I call, the back East especially from J C Penney, uh, are selling two and three hundred thousand dollar houses up there and buying a hundred and fifty, hundred and seventy-five thousand dollar houses down here,|sd
+B|Yeah,|b
+A|and they've wound up getting better houses here than they had there|sv
+A|so in a way, I guess it works both ways.|sv
+B|I guess it's,|%
+B|yeah,|%
+B|but, and here I guess it depends on what you want,|sv
+B|you know, here, I got a lot of people that work for J C Penney in marketing|sd
+A|Yeah.|b
+B|and a lot of the people that came from that area, probably like what you're talking about, they had no, um, they had a lot of property but not a lot of house,|sv
+B|and now they have a lot of house and hardly any yardage around it|sv
+A|That's a fact,|aa
+B|but, but they love it.|sv
+B|I mean, they, they, they think they're getting,|sv
+B|you know, you say, sun room to them, and you enclose and you can sell it|sv
+A|I guess that's true.|aa
+B|Yeah.|b
+A|And they don't have to worry about yard upkeep if they don't hardly have any.|sv
+B|Yeah,|b
+B|and a lot of them I know, a couple women that work there,|sd
+B|and they don't miss, in Public Relations,|sv
+B|and they don't miss having a basement to run up and down to, you know,|sv
+A|That's true,|aa
+A|there's not too many basements in Texas.|sd
+B|And I said, You haven't heard about tornados|sd
+B|How about those, you know,|qh
+A|Yeah,|b
+A|gosh I remember when I was little, uh, we didn't have a,|sd
+A|I lived, grew up in southern Oklahoma|sd
+B|Uh-huh.|b
+A|and, uh, people across the street had a cellar,|sd
+A|and we never did,|sd
+A|and it's just like Dallas area, it was tornado alley up there,|sd
+A|and every spring mom would drag me up at three o'clock, four o'clock in the morning and pajamas and teddy bear across the street,|sd
+A|and we'd go into the cellar,|sd
+A|and I to this day, I don't care if I go or not,|sd
+B|Yep.|b
+A|you know, if it's going to get me, it's get me.|sv
+B|That's exactly, uh,|aa
+B|growing,|%
+B|I grew up in western Pennsylvania, near Pittsburgh,|sd
+B|and, uh, we used to call the basements actual cellars,|sd
+B|so it's funny to hear that word, because I never hear it,|sd
+B|you know, it's like the back porch used to be a stoop, you know|sd
+A|Yeah.|b
+B|but, uh, um, the housing is just,|sv
+B|we like the older houses,|sd
+B|and I don't know if we're going to stay here or not, depends,|sd
+B|you know, I mean,|qy
+A|You ever thought about building a house?|qy
+B|Pardon me?|br
+A|Have you ever thought about building a house?|qy
+B|Yeah,|ny
+B|actually when we were up north, um,|sd
+B|but some family things changed|sd
+B|so we ended up come back down here, and all that, because it helped my husband's work,|sd
+B|but, um, we really would like to,|sd
+B|but we don't know if we're going to do it unless we stay here, you know.|sd
+A|Yeah,|aa
+A|that's true,|aa
+A|especially when,|sv
+A|with T I it's like anybody else, you never know how long you're going to be here, be in one place, you know,|sv
+B|Yeah,|b
+B|it's real tough,|ba
+B|I mean, the economy any more,|sd
+B|I mean, I think everybody just lives under an umbrella, the uncertainty with housing and everything,|sv
+A|Yeah.|b
+B|you know, it's,|sd
+A|Do you work?|qy
+B|Pardon me?|br
+A|Do you work?|qy
+B|Yes,|ny
+B|I do.|sd
+A|Well, how do you handle,|qw
+A|do you have kids?|qy
+B|No,|nn
+B|we don't.|sd
+A|So you got,|sd
+A|he's working and working to get this big house to take care of,|sd
+A|how do you manage both of those?|qw
+B|Uh, how do we take care of the house.|^h
+B|Well, I don't have a|sd
+B|I don't, shouldn't say that,|t1
+B|I don't have an ethnic maid|sd
+A|Yeah.|b
+B|I don't have,|sd
+B|we have some friends that live near North Dallas off of Campbell Road,|sd
+B|and they have like a four thousand square foot home,|sd
+B|and she's got a, uh, a live out nanny. Um,|sd
+B|but any rate, I don't have any of that, um,|sd
+B|I don't know,|h
+B|it's really not too difficult with no children and just two people, you know.|sd
+A|You basically can take care of everything yourself,|qy^d
+B|We have a,|sd
+B|Yeah,|ny
+B|we have a dog,|sd
+B|and we're pretty,|sd
+B|I mean, we're not fanatically neat,|sd
+B|but, um, we keep things up, you know not like where there is three feet of weeds or anything in the yard by the time you need to, um, get around to fertilizing and cutting in the spring.|sd
+A|Yeah,|b
+A|Yeah.|b
+A|What about home repairs and stuff,|qw
+A|do you have to do all that yourself,|qy
+A|or,|%
+B|Um, no,|nn
+B|we're pretty much, um,|sd
+B|we, we've been around long enough as a couple that we learned a long time ago not to wall paper together and things like that.|sd
+A|Oh, you too.|aa
+B|Uh, we pretty much hire,|sd
+B|we subcontract mostly everything I mean other than anything that's not a, um,|sd
+A|Yeah.|b
+B|I mean, I know how to fix a running toilet|sd
+A|Oh, yeah.|b
+B|he does what he needs to,|sd
+B|but mostly if it's something major, um, you know, cleaning out the air conditioning ducts or something like that, we just hire out to do that,|sd
+A|Sounds like you've already got the makings for being a general contractor,|sv
+B|Yeah,|aa
+B|no thanks,|bd
+B|I,|%
+A|If you don't wall paper it well together, you should probably not build a house together.|sv
+B|Have you ever done that,|qy
+A|Yeah,|aa
+A|I built three houses in my life|sd
+B|And how'd that go?|qo
+A|the building process was a lot of fun|sd
+B|Uh-huh.|b
+A|but puts a lot of strain on things.|sd
+B|Getting to agree to things, I'm sure,|sd
+B|and I also think that once you get to be, um, you know, certain,|sv
+B|when you get to be thirty something and thirty something gets to be a little bit older you start, um,|sv
+A|Yeah.|b
+B|the dollar value on things I,|sv
+A|You bet.|aa
+B|you know, I think people that own homes a lot in North Dallas are very materialistic.|sv
+A|Oh, you bet.|aa
+B|I know I'm supposed to talk about homes,|sd
+B|but people that, the people that own them are the homes themselves,|sv
+B|and you know, um, spending sixteen dollars a yard for custom draperies, for custom drapes just doesn't|sv
+A|Oh, yeah.|b
+A|Well, to some of them I guess it doesn't matter, you know, that maybe they've got enough coming in to take care of it,|sv
+B|Yeah,|b
+B|that's,|%
+B|I mean, and, and you know, you see a lot of these people that came east from, uh, west, from, uh, from New York with Exxon or J C Penney,|sd
+B|and it's just a hoot to watch them.|sv
+A|Are they, they,|qy
+A|as far as they're concerned, they've come to the promised land,|sv
+A|you know, they've got it made,|sv
+B|Right,|aa
+B|right,|aa
+B|exactly,|aa
+B|so, well was it hard to adjust living in an apartment after being in a house.|qy
+A|Oh, yeah,|ny
+A|because you're uh, confined by space,|sd
+A|you know, I had a,|sd
+A|I came out of a thirty-one hundred square foot two story house.|sd
+B|Oh, my goodness|ba
+B|yeah.|b
+A|And I had room for everything,|sd
+A|in fact I had more room than knew what to do with.|sd
+A|I don't know|h
+B|Uh-huh.|b
+A|just seems like room, stuff always expands to fill available space, uh.|sv
+B|Yeah.|b
+B|Well, in a way you can travel light.|sv
+A|you can,|%
+A|you know, you you adjust, you figure out,|sv
+B|How is, how is apartment dwelling living in terms of general privacy and noise and things like that?|qw
+A|It's not as bad as I thought it was|sd
+B|Uh-huh.|b
+A|it's not as bad as I remembered, especially going to college and living in apartments there, you know how noisy that can be.|sd
+B|Yes,|aa
+B|I do.|aa
+A|Uh, there seems to be more a mature crowd in, uh, apartments, at least where I am, uh, even though, you know, there's kids all around|sd
+A|and there's, there's traffic|sd
+A|and there's people running up and down the sidewalks and stuff like that,|sd
+A|but still, uh,|sd
+B|Everybody pretty much keeps to their own turf, so to speak.|qy^d
+A|Yeah,|ny
+A|pretty much,|sd
+A|and, uh, there's never really any,|sd
+A|oh I remember in school,|sd
+A|there's just,|%
+A|seem like there was a fight or a party or something going on every night|sd
+B|Yeah.|b
+A|You don't run into that up here, I think, I think because there's so many, uh, professional people, if you want to call them that that go spend all day at work|sd
+B|Uh-huh.|b
+A|and they want to come home|sv
+A|and they want some quiet,|sv
+B|Relax and try to go to sleep,|bf
+B|really,|b
+B|yeah.|%
+A|You see a lot of activity outside, people riding bikes, playing ball, or jogging|sd
+A|or they're doing this and that,|sd
+A|and they, they're trying to, to unwind.|sd
+B|I think Plano in general is getting a little more,|sv
+B|well it's gotten so big it's almost a town in it's own right.|sv
+A|Oh, yeah,|b
+A|it's a hundred and what, eighty thousand, something like that.|sd
+B|Or something,|b^m
+B|yeah,|%
+B|the price of home,|%
+B|now we paid, oh, we paid, um about seventy-eight nine for our house like I said, about a decade ago, not even, about nine years ago,|sd
+B|and, I'd say they appraised it,|sd
+B|it's gone up, you now, maybe like five percent|sd
+A|Oh, yeah.|b
+B|so it's an investment,|sv
+B|but it's something that,|sd
+B|you know, when you're first married or starting out, you think if you really have something,|sd
+B|but you really,|sd
+B|it's just real,|sd
+B|nowadays, with the way the income tax, I think housing is strictly to itemize.|sv
+A|Oh, you bet,|aa
+A|and the thing that, that gets me is, uh, you never really catch up, you never really finish doing things,|sv
+A|and, uh you're always paying for something.|sv
+B|Yeah,|aa
+B|exactly,|aa
+B|we,|%
+B|Yeah,|b
+B|and even,|%
+B|you know, I mean, like we had, I called them prefabs, just a tract home,|sd
+B|you know, I mean, we, we had one of their homes that was nicer in Pennsylvania,|sd
+B|but, um, it was an older home,|sd
+B|but then, you buy an older home and you're always fixing things up,|sv
+A|Oh, you are, constantly,|aa
+A|there's always something going wrong,|sv
+B|So, you know,|%

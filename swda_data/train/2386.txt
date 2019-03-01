@@ -1,0 +1,337 @@
+A|Well, Patricia, I was just about to get on my tread mill,|sd
+A|and then I remembered that I didn't make a call last night,|sd
+A|and I thought I'd make one tonight.|sd
+B|Well, I have an exercise bicycle in my bedroom, but it usually's holding clothes|sd
+A|That's what I did with mine, for a long time, put it on the handlebars so I can hang them up.|sd
+B|Right|b
+A|And sometimes she just flops them all over the seat.|sd
+B|Well, that's not why I got it,|sd
+B|right|b
+B|How do you like your tread mill?|qo
+A|I like it.|sd
+B|You don't get,|%
+B|is it less boring than the bicycle or not.|qy
+A|No,|nn
+A|it's just as boring.|sd
+B|You watch T V or something while you do it?|qy
+A|I read a book while I'm doing it.|na
+B|Oh.|b
+A|But I was doing that on the exercise bike.|sd
+B|Well, I do that too.|sd
+A|I feel like I'm getting a little better of a workout, and I'm losing more weight on this than on the other.|sd
+B|Really.|b
+B|Are you?|bh
+A|And my legs, you know,|%
+A|how,|%
+A|okay,|%
+A|I'm going to turn forty this summer,|sd
+A|I was getting all dimpled up|sd
+B|Yeah.|b
+A|And those are going away.|sd
+B|Really.|b
+A|So that's real good.|sv
+B|Uh-huh.|b
+A|We got it at a little bit of an incline.|sd
+B|Are they kind of expensive.|qy
+A|this is five hundred.|sd
+B|Uh-huh.|b
+A|I know they get cheaper.|sd
+B|They do?|bh
+A|Uh-huh.|b
+B|Probably the more you pay, though, the better the machine you have.|sv
+A|Well, I hope so.|sd
+B|Well, you can believe that anyway, right.|qy
+A|Yeah.|ny
+A|I didn't buy it really.|sd
+A|My husband bought it because we, we'd never get out and go walking or anything,|sd
+A|and we go to the lake|sd
+A|and we ski and swim in the summer|sd
+A|but  besides that,|%
+B|During the year.|^2
+A|uh-huh.|b
+B|Yeah,|b
+B|well, in bad weather, you know, well you'd have to do something inside.|sv
+A|Yeah.|b
+B|Do you work at T I?|qy
+A|Uh-huh.|b
+A|I think, your voice sounds familiar.|sd
+B|Really.|b
+A|Where do you|qw
+B|I live in Arlington.|sd
+A|I wonder if we talked before.|sd
+B|Where do you live?|qw
+A|I'm in Garland.|sd
+B|No, uh,|nn
+B|well,|%
+A|You sound like this girl that I talked to about books, and we got into movies one night.|sd
+B|Oh, really.|b
+A|Uh-huh.|b
+B|Uh, no,|ar
+B|this is the first time I've done it.|sd
+B|Uh, my husband was just running out the door,|sd
+B|he's working at night tonight.|sd
+B|So I decided to do it|sd
+B|I haven't talked before.|sd
+B|Uh, what subjects have you talked about?|qw
+A|Let's see,|^h
+A|education.|sd
+B|Oh|bk
+B|Well, that's  interesting.|ba
+A|that one was.|sd
+B|It's more interesting than the treadmill and the bicycle.|sv
+B|Right?|^g
+A|The most boring one was about what meal would you cook for a sit down dinner.|sv
+B|Oh, my goodness|ba
+A|The other woman didn't cook too much either.|sd
+A|Right.|%
+B|really have a lot of variety.|sv
+A|Yeah,|aa
+A|they do.|sd
+A|I talked to this old woman that was a retired administrator in Ohio one night about education.|sd
+B|Oh,|b
+A|And she was,|%
+B|A school administrator.|^2
+A|Uh-huh,|b
+B|Well that could, That would have been interesting.|sv
+A|Retired, but.|sd
+A|Yeah,|b
+A|and then one night I talked to these two guys, no, one night I talked to one guy|sd
+A|and then a couple of weeks later I talked to the guy's roommate, in Virginia, about different things.|sd
+B|Really,|b
+B|well that's neat.|sd
+A|Uh-huh.|b
+A|One was about painting.|sd
+A|When was the last time you painted something?|^q
+A|Did you feel like you did a good job?|^q
+A|Did you feel, uh, rewarded while you were doing it.|^q
+B|Hm.|b
+A|Uh-huh.|b
+B|How long is this going to go on, do you know?|qy
+A|I don't know.|no
+B|I don't either|sd
+B|It's interesting, though.|sv
+B|I never heard of such a project before.|sd
+A|Huh-uh.|b
+A|Well, how'd you find out about it?|qw
+B|Pardon me?|br
+A|How did you find out about it?|qw
+B|Oh, I don't know.|sd
+B|I guess my husband got a letter at the office,|sd
+B|I, I presume,|sv
+B|and they must have been asking.|sv
+B|Does your husband work with T I.|qy
+A|Uh-huh.|nn
+B|Oh really.|bh
+A|Uh-huh.|aa
+A|I have a friend that had a roommate that worked at T I|sd
+B|Uh-huh.|b
+A|and she saw it on the computer screen and they made copies of it.|sd
+B|Oh, so they wanted any, anybody,|sd
+B|don't have to work at T I.|sd
+A|Uh-huh.|b
+B|Well, that's interesting.|ba
+A|Uh-huh.|b
+B|I had no idea that was just for the employees,|sd
+B|and I couldn't understand,|sd
+B|I kept getting these calls,|sd
+B|I thought it was an advertisement and they just were also called T I, you know,|sd
+B|there is Texas Industries and different things.|sd
+A|Uh-huh.|b
+B|I kept hanging up on them for days, until my husband told me what it was|sd
+A|Oh|b
+B|I didn't know.|sd
+A|Well, if you work for T I you're supposed to get a prize, is what I heard,|sd
+A|and if you don't work for them you're supposed to get cash.|sd
+B|Ooh.|ba
+A|But then on the letter it says cash or prize.|sd
+B|Oh.|b
+B|Well the prizes are pretty nice.|sd
+B|He brought a booklet home|sd
+B|and depending on how many calls, I think three was the minimum.|sd
+B|But it went up to, I don't know, nine or ten.|sd
+A|I don't know,|h
+A|gobs.|sd
+A|This is going on my fourth week to do it.|sd
+B|Oh, my.|b
+B|And some of the prizes are pretty nice.|sd
+A|Well, like what,|qw^d
+A|tell me.|ad
+B|Oh, I wish I had that booklet here.|h
+B|Oh, I think I do,|h
+B|it's right here.|sd
+B|I'll look at the end because those would be the best ones, okay?|qy
+A|Yeah.|ny
+B|Um, well, they have some watches that look really nice.|sd
+B|There's one that's got some diamonds on it.|sd
+A|For how many calls?|qw
+A|Does it say?|qy
+B|I haven't quite figured that out.|sd
+B|I thought it was eight or nine,|sd
+B|but seems like too nice a prize for nine, just nine calls, isn't it?|qy
+A|Uh-huh.|b
+B|Says when we have enough calls from you, you will receive in the mail a numbered certificate for your calls and and explanation how to redeem, for gifts.|sd
+A|background saying Stephen did you start the|t3
+A|in background: pour some charcoal in|t3
+B|Are you listening to him?|qy
+A|No,|nn
+A|I'm trying not to.|sd
+A|He's telling me to start the grill.|sd
+B|Oh|b
+B|It says three for a B gift, five for a C gift, et cetera.|sd
+B|And this only goes up to F.|sd
+B|So I thought that was somewhere around nine.|sd
+B|But anyway, it's got these beautiful watches on it.|sd
+B|Let me see what else|^h
+B|it has a, uh, clock radio that also plays uh, you know, tapes.|sd
+B|Then it's got, oh some binoculars, and some pretty brass lamps.|sd
+B|Got some, oh, a food processor.|sd
+A|So it's not all stuff that T I makes.|qy
+B|Oh no,|nn
+B|I don't,|%
+B|I haven't seen anything in here that T I makes. The Mister Coffee, the double Mister Coffee, you know, the two.|sd
+B|Oh, and there's a phone in here that's hilarious.|sd
+B|It has a button you can push,|sd
+B|if you get a call you don't like then it makes machine gun noise|sd
+B|And then there's an attache case, and cordless telephone,|sd
+B|and then there's a card table, doesn't have any chairs, just a card table. Oh, some more jewelry, suitcases,|sd
+B|and have you seen those anniversary lamps where the little balls go around.|qy
+A|You mean the clocks.|bf
+B|Yeah,|aa
+B|clocks.|sd
+A|Yeah.|b
+B|I can,|%
+B|I'm going crazy,|sd
+B|my daughter's playing the piano|sd
+B|and I can't think.|sd
+A|Oh, god.|b
+B|It's got one of those,|sd
+B|and um, well, it's got a lot, I mean, pages and pages.|sd
+B|It's got wheelbarrows. A lot of kitchen stuff, of the mixer, the toaster, a waffle maker, popcorn popper, all kinds of stuff like that.|sd
+B|Here's where, here's a calculator but it's not even made by T I,|sd
+B|isn't that funny.|qh
+A|Did they mail that to you, or he brought it to you?|qy
+B|He brought it home.|sd
+A|Huh.|b
+B|I believe it came in his, uh, his mail.|sd
+B|Here's a camera and a dustbuster and some tools, someone, a lot of tools, a man might like you know.|sd
+A|Yeah,|b
+A|so you're bound to find something you want.|sd
+B|Oh yeah,|b
+B|you're bound to.|sd
+B|All kinds of phones and clocks|sd
+B|and, uh, here's more jewelry|sd
+B|and oh, there's even pictures and little porcelain things to put on a coffee table.|sd
+B|Oh, here's some brass animals, brass candlesticks,|sd
+B|they're pretty.|sv
+B|So I'm sure you'd find something.|sv
+A|Yeah.|b
+B|And, uh.|%
+A|Well, you know,|%
+B|Silver plated bowls and stuff. There's a lot of stuff, it's a big booklet.|sd
+A|Well, do you know you have a ten limit, a ten minute time limit.|qy
+B|Oh, no.|nn
+A|Well that's okay,|bk
+A|and then they come on and tell you, and they tell you got five seconds to say good-bye.|sd
+B|Oh, well, it's been fun,|sd
+B|this is my first time to do it.|sd
+A|We'll keep talking if we want to come up with something else.|sd
+B|Yeah.|b
+A|Let's see, oh,|^h
+A|I tried exercise classes,|sd
+A|and I never would go.|sd
+A|We fin,|%
+A|we joined, ex.|sd
+B|I went to Metropolitan a couple of years ago,|sd
+B|so I sit and study,|sd
+B|I sit in class,|sd
+B|and I have really ballooned up since then,|sd
+B|and, so, he's says I ought to join one of those that makes you go,|sd
+B|but ,|%
+A|They don't either,|sv
+A|Well the first one I joined, they went out of business|sd
+A|and they transferred it to another one that was really far away.|sd
+B|That's a very common experience.|sv
+A|And we were going to do it,|sd
+A|there was four of us together.|sd
+A|Well, then forget that,|sd
+A|it wasn't near me.|sd
+B|No.|b
+A|And then the second time I was going to do it at Richland College,|sd
+A|and we,|%
+A|I just get with another friend,|sd
+A|and we'd end up just smoking cigarettes and riding around like we couldn't find the place|sd
+B|That's funny|ba
+A|So my husband's just discouraged me on those things.|sd
+B|Right,|b
+B|well, if you, if you can make yourself do the tread mill, I mean, gosh, that's a good workout.|sv
+A|Oh yeah,|b
+A|my husband said he's never joined a course, right.|sd
+A|And I got one of those Jane Fonda workout tapes that I dubbed from a friend.|sd
+B|Uh-huh.|b
+A|That didn't last long|sd
+A|I had a baby, I think|sd
+B|Yeah,|b
+B|right,|b
+B|each one of those puts on a few pounds, doesn't it.|qy
+B|How many children do you have?|qw
+A|Two.|sd
+B|Yeah,|b
+B|I do, too.|sd
+B|Two,|sd
+B|a girl, one's in college,|sd
+B|so I don't have a, have a baby anymore|sd
+A|Oh, Lord,|b
+A|you're lucky.|sv
+A|Well, I've got a step-daughter,|sd
+A|she's in college.|sd
+B|Oh, well.|b
+A|So there's where the money goes.|sd
+B|tell me about it,|ba
+B|tell me, ,|ba
+A|Where's you|qw
+B|putting two of us through, isn't he lucky.|sd
+A|Two.|bf
+B|Well, me, I'm going, and my daughter Janet in Austin.|sd
+A|Uh.|%
+B|Yeah,|b
+B|right.|b
+B|So, I'll probably have to sell the prize I get|sd
+A|Where you going to school?|qw
+B|U T A right here.|sd
+A|And what are you doing?|qw
+B|Well, I'm, um, going to be certified as an English teacher teach English as a second language.|sd
+A|I just got my certification.|sd
+B|You're kidding.|ba
+A|Huh-uh.|b
+B|Oh, that's ,|%
+A|The test is a booger. The test, the exit test.|sv
+B|Hard.|bf
+A|It's hard.|aa
+B|Oh, no.|ba
+A|It is so hard.|sv
+A|Uh-huh.|b
+B|how are the other ones.|qo
+B|I haven't taken any of the exit tests.|sd
+A|See I didn't have to take any other exit test because I've been teaching for quite a while.|sd
+B|Oh, yeah,|b
+B|before they started ,|fo_o_fw_"_by_bc
+A|But I've heard they're terrible.|sd
+B|Really.|b
+A|Bilingual is just horrendous.|sd
+A|I've had friends fail that twice.|sd
+B|Really.|b
+B|I didn't know any of this.|sd
+B|None of my friends have failed the English or the education ones|sd
+A|Good.|b
+B|I really ought to take those quickly while I still remember some.|sd
+A|Uh-huh.|b
+A|Yeah,|b
+A|right after you get out.|sv
+B|I know. .|sd
+A|Boring|%
+A|and they really don't help you a whole lot.|sv
+A|Now see, I went to E T|sd
+A|and I took one course through T W U|sd
+A|and boy yelling in most of the training I've got has been through Dallas just teaching E S L.|sd
+B|Oh .|b
+A|From Chapter One Tea ...|sd

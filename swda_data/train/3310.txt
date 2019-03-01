@@ -1,0 +1,111 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|Have you faced, uh, elderly care yet, uh, nursing home care for any of your parents?|qy
+B|Unfortunately, yes.|ny
+B|Uh, in fact, tonight I had the dinner with, uh, my three brothers and our wives|sd
+B|and we were talking, uh,|sd
+B|we had a review with the nursing home staff.|sd
+B|My mother's in a nursing home.|sd
+A|Uh-huh.|b
+B|And, uh, we had a review today|sd
+B|and a few things we had to do that are part of it that you don't really like, like, uh making decisions on living wills and extended care, that type of thing,|sd
+A|Yes.|b
+B|so, yes,|ny
+B|I'm very familiar with it|sd
+B|and it's not something that is, uh, you know,|sv
+B|I never thought I'd have to go through this kind of experience.|sd
+B|But I guess we all do.|sv
+A|I think sooner or later, uh,|aa
+A|both my mother and my husband's mother, we had to end up putting in nursing homes|sd
+A|and they were to the point that they only lived, both of them, about six weeks once they got in.|sd
+B|Oh, really?|bh
+A|And, uh-huh.|ny
+A|And it's absolutely, I believe that was one of the hardest things I ever did. In my life.|sd
+B|Uh-huh.|b
+A|I, that, it just, you know, it's absolutely devastating.|sv
+B|Right.|b
+A|What have you found in dealing with the nursing homes?|qw
+B|Well, they're not, every, all the horror stories you hear about them I think are true.|sv
+A|Yes|aa
+B|Uh, we've, you know, we've looked around|sd
+B|and, my wife has looked at, extensively at all the ones in the area|sd
+B|And the one she is in now, uh, there's a lot of drawbacks, a lot of things we don't like.|sd
+B|But, again, it's no different than every one.|sv
+B|And, you know, the cost of it, the, three thousand dollars a month|sd
+A|Um, uh-huh.|b
+B|when you think about it, for what you're paying a hospital for almost the same, well, even not as much care.|sv
+A|Yes.|aa
+A|Yes.|aa
+B|It's not that expensive, really.|sv
+A|No,|aa
+A|uh, there, well, there's a little bit of difference in, in the two between my mother and my mother-in-law.|sd
+B|Uh-huh.|b
+A|And, uh, theirs both ran,|%
+A|oh, I think my mother-in-law's was like fifteen hundred|sd
+A|and my mother's was two thousand.|sd
+A|Then, this has been five years ago.|sd
+A|And, uh uh, one of the things that, you know, I had discovered is that if they knew that I came in there at all different hours, they got much better care than if,|sd
+B|Uh-huh.|b
+A|when I started out with my mother-in-law, because she was in there first, I would go certain hours|sd
+B|Uh-huh.|b
+A|and they knew.|sd
+A|And if I'd pop in unexpectedly, I discovered, you know, they did a little bit, they did better.|sd
+B|Oh, really?|bh
+A|You know, uh-huh.|ny
+A|And, you know, a couple of times with my mother-in-law, I would catch something not being taken care of. And, you know, would have to rate,|sd
+B|Uh-huh.|b
+A|so I got to where, I knew then when my mother was in that, you know, not to go the same time all the time. Because they would,|sd
+B|Yeah.|b
+A|and when I was looking for the nursing homes, another thing that I learned, uh,|sd
+A|we had my mother all set to go into one|sd
+A|and for some reason I just went back, and on my own went around the different floors.|sd
+B|Uh-huh.|b
+A|And, I saw areas that they had not shown me|sd
+A|and they did not come across as well as, you know, what they had originally shown me,|sd
+B|Well, I'll be darned.|ba
+A|so, uh, we did not put her in that one.|sd
+A|We put her in another one that I, I went a couple of times when they weren't expecting me and saw, and, you know, was much, uh, better pleased with the situation.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+B|Yeah,|b
+B|you, you know, this is the whole point.|sv
+B|You've got, you've got to shop them.|sv
+A|Yes,|aa
+A|you do.|aa
+B|I know my mother's in now, in a unit that's mainly Alzheimer's|sd
+A|Uh-huh.|b
+B|and, uh, we're convinced that she probably would be better off in a geriatric.|sd
+A|Uh-huh.|b
+B|Uh, the fact that these people are they're up and around,|sd
+B|but they're, they're, it's reminds me too much of an asylum type situation.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|And it's very, very,|%
+A|Does your mother have Alzheimer's?|qy
+B|She,|%
+B|well, who knows.|no
+B|They call it, uh, dementia.|sd
+A|Uh-huh.|b
+B|And, uh, we don't know.|no
+B|I, I mean she does not know us anymore|sd
+A|Uh-huh.|b
+B|and whether it's Alzheimer's or what it is nobody really knows,|sd
+A|Uh-huh.|b
+B|but it's, basically the same.|sd
+B|And her health is not that bad.|sd
+B|Although she has gone down, downhill drastically since this, this last,|sd
+B|well, she had been in a retirement community|sd
+B|and somewhere in the back of her mind she had it that she would live with her children.|sd
+B|Well she, we, we just did not have the capabilities to, to take care of her.|sd
+A|Uh-huh.|b
+B|And, uh, but she, she has gone down steadily since she has been in,|sd
+B|and she's been in the nursing home now for, oh, I would say about three months.|sd
+A|Uh-huh.|b
+B|And,|%
+A|Did she know that she was going to a nursing home?|qy
+B|I'm sorry?|br
+A|Did she know that she was going to a nursing home?|qy
+B|She,|%
+B|no,|nn
+B|as far as she knew, she was going to a hospital. And that she could, she could handle a hospital|sd
+A|Uh-huh.|b
+B|and we says, you know, mom, if you, you know, if you get a, you get better, you've got to have the care, the doctor insisted on it, you know, if you get better that you could come out.|sd

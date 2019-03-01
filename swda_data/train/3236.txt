@@ -1,0 +1,145 @@
+A|Why don't you go ahead and say what you feel,|ad
+A|and then I'll respond.|sd
+B|All right.|aa
+B|Well, I'm, uh, I'm very guilty of, of not doing my part with recycling, I'm afraid.|sd
+B|We, um, recently moved here from North Carolina,|sd
+B|and they had curbside recycling,|sd
+B|and it was very easy to, you know, to put everything out there,|sd
+B|but we don't have it in, at least in our neighborhood right now|sd
+A|Yeah.|b
+B|and, uh, so, I've been very guilty about not making the effort to, to take things where take things where they belong.|sd
+A|Well, how long have you been here?|qw
+B|Well, we've been here since January,|sd
+B|so we, we still feel very new,|sd
+A|Well,|%
+B|but, uh it's working up to a year now,|sd
+A|Yeah.|b
+B|so, I guess we're old timers compared to some people.|sv
+A|Yeah,|b
+A|I think that's a good excuse.|sv
+A|You need to get into the the system a little more and know where to take things.|sv
+B|Right.|b
+B|Yeah.|b
+A|We've been here probably two and a half years,|sd
+A|and, and we didn't recycle at all before we came|sd
+B|Uh-huh.|b
+A|so I think we're doing well.|sd
+A|We, we save most of our aluminum cans and glass and newspaper right now.|sd
+B|Uh-huh.|b
+B|Well, where do you take those things?|qw
+A|Well, the, um, glass and the newspaper we usually take to Walmart.|sd
+A|They have, um, in behind Walmart they have bins|sd
+B|Uh-huh.|b
+A|and then we usually save up our cans and, and change them in for money.|sd
+B|Well, where do you do that,|qw
+B|because we've been saving cans for my daughter's choir um,|sd
+A|Uh-huh.|b
+B|but I didn't know where to take them.|sd
+A|Um, there's a place on Parker Road, um,|sd
+A|it's just over the overpass before you get like to K-Mart.|sd
+A|I think there's a, a service station there.|sd
+A|There's usually a semi truck that has a, a person there that will weigh them|sd
+A|and, Now they aren't worth much right now,|sv
+B|Oh.|bk
+A|but it's better than nothing|sv
+B|Yeah.|b
+A|so|%
+B|Better than nothing,|b^m
+B|right.|aa
+A|and what I hear a lot of neighborhoods do have the, the pickup now,|sd
+A|and we, hopefully we'll be getting them in the month of October.|sd
+B|Yeah,|b
+B|I,|%
+B|it seems like ever since we've moved here we've been hearing that, you know it's coming in a couple of months,|sd
+A|Yeah,|b
+A|and, I think it's been delayed.|sd
+B|but|%
+A|I think it was originally scheduled for February,|sd
+A|but the trucks that were supposed to do it, there's been some problems with from what I've read in, you know, the mail that we get|sd
+B|Oh.|b
+B|Right.|b
+A|and I can't wait for that,|sd
+A|that will be easy.|sv
+A|I get tired of newspaper littering the garage|sd
+B|Yeah,|b
+B|it gets to be a bit much to haul it off,|sv
+B|but.|%
+A|I feel guilty we don't recycle our, our milk containers because they seem like a big waste.|sv
+B|Well, they, yeah they, they're a lot of bulk, anyway|sv
+A|Yeah|b
+B|yeah.|b
+A|yeah,|b
+A|they fill up the whole kitchen garbage can|sd
+B|Right.|b
+A|so, I'll be glad when the bins do come,|sd
+A|and I think that's when I'll, I'll start doing the plastic, too.|sd
+B|Yeah,|b
+B|it was real easy with the bins,|sd
+B|it really was,|sd
+B|it was just no effort at all, um, no more trouble than taking out the garbage,|sd
+B|so, um,|%
+A|Yeah.|b
+A|I've gotten used to washing the, you know, the, um, salad dressing bottles and things like that,|sd
+B|Right.|b
+A|it's not that big of a deal,|sv
+A|and it's nicer to just throw them out,|sv
+A|but we can do our part take an extra minute or two.|sv
+B|Yeah.|b
+B|Well, how much do you earn on the cans,|qw
+B|I, I didn't know what kind of an idea to give her for,|sd
+A|Oh, when we first were, were here, it was like we'd take maybe a, oh, a grocery sack full or maybe two grocery sacks full,|sd
+B|Uh-huh.|b
+A|and it would be like two dollars but since last time we've gotten more like a dollar.|sd
+B|Yeah.|b
+B|So it's gone down.|bf
+A|Yeah|aa
+B|Yeah,|b^m
+A|which is understandable,|sv
+A|I think, more people are are recycling.|sv
+B|Right.|b
+B|Yeah.|b
+A|That's something we, we don't really make any effort to,|sd
+A|and whatever pop we drink, we used to take the boys out for a bike ride, and pick up the litter, you know, the, the cans|sd
+B|Uh-huh.|b
+A|and that was kind of fun,|sd
+A|but we haven't done that for a long time|sd
+B|Yeah.|b
+A|so.|%
+B|Well, that sounds like a pretty good project.|ba
+A|Well, the boys think it's fun, plus you get your exercise|sd
+A|and you do get to stop once in a while when there is a can to rest|sd
+A|so|%
+B|Oh.|b
+A|but.|%
+B|Well, I'll have to keep myself and, and get on it.|sd
+B|My neighbor across the street, um, is so careful about recycling,|sd
+B|and so I keep telling myself, I'll, I'll get it organized,|sd
+B|but, may, maybe they'll beat me and, and do the city wide first.|sv
+A|Well, hopefully the bins will be here in this month|sd
+A|and that will spur you on,|sv
+A|so|%
+B|Right,|aa
+B|right,|aa
+B|I won't have any excuse then,|sv
+B|that's for sure.|sv
+A|All right, well, it sounds like we're doing our part and at least starting, Trying|sv
+B|Thinking about it, anyway|^2
+A|that's all you can do|sv
+B|Yeah,|b
+B|but, Well, um, have you,|%
+A|so.|%
+B|do they time this thing for us,|qy
+B|or do we,|qrr
+A|Um, yeah,|ny
+A|you can do it as long as you want.|sd
+A|They, you know,|%
+A|if it's been long enough, five minutes is, is when they cut in and say, say, we don't have any more room for recording|sd
+B|You can't chat all day, huh|qy
+A|So we can say good-bye now.|fc
+B|Okay.|fc
+A|It was good talking to you,|fc
+A|and maybe we'll get on line again.|fc
+B|Okay.|fc
+A|Thanks, Sherry.|fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

@@ -1,0 +1,106 @@
+A|Actually, I've been involved in electronics a long time. Uh, in computers|sd
+A|and I have really resisted the impulse to get one for the home. Uh, up until, I guess, maybe about a year and a half ago,|sd
+B|Oh yeah.|b
+A|I got one for my son. A, a Macintosh uh, L C.|sd
+B|Uh-huh.|b
+A|It's a real easy to use color, uh, computer|sd
+A|and I got a very nice printer that goes along with it|sd
+A|and he uses it for his school work.|sd
+B|Uh-huh.|b
+B|Well, I've, I'm currently in school|sd
+B|so I, I've had an I B M clone, I guess, for a couple of years now, which I've been trying, continually upgrading I guess.|sd
+B|And, uh, I've found, I've found that I pretty much become addicted to it|sd
+B|and I can't really,|%
+B|I've found that most of homework assignments really require some sort of computer, uh, simulation or analysis,|sd
+B|so|%
+A|Huh.|b
+B|it, it's very essential for me.|sd
+B|Schools have them,|sd
+B|uh, but lot of times so difficult to get on them at school.|sd
+B|It's very easy, it's much more convenient to have one at home.|sv
+A|Where you going to school?|qw
+B|At Georgia Tech.|sd
+A|I see.|bk
+B|Yeah,|b
+B|so.|%
+A|In engineering?|qy^d
+B|Yes, actually.|ny
+A|So that explains all the, uh, computer assignments.|bf
+B|Yeah,|b
+B|it, uh,|%
+A|Well, do you use your P C for things other than explicit computer work?|qy
+B|Um, sure.|na
+B|I have some games, of course, which I play on there|sd
+B|and, uh, uh, I have a program which allows me to access a, uh, weather data bank|sd
+B|so I can, like, check up on the weather around the country or whatever which is a hobby.|sd
+B|So, it provides other means other than just strict, uh, you know, computations and so on,|sd
+B|so. Have you, do you have a computer for yourself at home?|qy
+A|No.|nn
+A|No,|nn
+A|I just have one for my son|sd
+A|and I really sort of have the feeling that word processing is a big market  for  home computing.|sv
+B|Oh, yeah.|b
+B|Yeah.|b
+A|At at work, uh, I'm a technologist, uh,|sd
+A|and I, in the past, have done a great deal of, of, uh, system development just through, uh, software development programming.|sd
+A|Uh, but now I find myself using the computer,|sd
+A|even the computer at work is primarily a, uh, word processing system and a communication system.|sv
+B|Uh-huh.|b
+B|Yeah,|b
+B|yeah.|b
+B|Do you use Email and like that?|qy
+A|Yes.|ny
+A|Emil is, probably pulls down a third of all my time.|sd
+B|Yeah.|b
+B|It's,|%
+B|I, I, uh, I have modem night computer|sd
+B|so I can log into the the, uh, network at Georgia Tech and access my account through there, which is, which can be useful.|sd
+B|But, uh, yeah|%
+B|that's, that and word processing is|%
+B|while I tend to,|sd
+B|I mean, obviously, I do most of my, almost all of my report writing on, on my computer, uh, whether it's term papers or even some smaller homework assignments.|sd
+A|Uh-huh.|b
+B|So it's, it's really become, I don't know, really become my mainstay I guess.|sd
+B|I can't even remember,|h
+B|actually I don't think I've ever used a typewriter in, in my life to do a, a to do a report. Because my family, when I was growing up, we got a basic computer. T R S Eighty when they first came out.|sd
+A|Uh-huh.|b
+B|And I even used that to do my first reports when I was in junior high,|sd
+B|so|%
+A|Huh. Well I'm a old-timer.|sd
+A|I did my Master's thesis on, uh, a typewriter.|sd
+B|Oh, yeah.|b
+A|Uh, I rented an I B M Selectric.|sd
+B|Oh.|b
+A|And it was a pretty big deal.|sd
+B|Yeah.|b
+B|It must have been tough.|ba
+B|It's a little bit strange for me.|sv
+B|I, I did my Master's thesis, uh, last year|sd
+B|and I did that on a computer|sd
+B|and it seems like,|sv
+B|I just can't imagine how people did it before.|sd
+B|It must have been just so much, so much work|sv
+A|Yeah.|aa
+A|It, uh, well, you know, it's just, it was just a completely different world then.|sv
+B|Yeah.|b
+B|So, uh, so you used your son's Macintosh then?|qy
+B|Do you, do you find it, do you like that kind of computer?|qy
+A|I like it,|na
+A|yeah.|ny
+A|I like it from a distance really.|sd
+A|I, I see the packages on it, uh, that are available|sd
+A|and it's nice.|sv
+A|I really don't use it myself.|sd
+B|Uh-huh.|b
+A|Uh, I, when I come home from work, I, I like to stay far away from computers and electronic things|sd
+B|Yeah.|b
+B|Huh.|b
+A|Uh, so I let my son do it|sd
+A|and, Uh, of course, you know, there's, uh, there's an intellectual evolution taking place where,|sv
+B|Yeah.|b
+A|it's sort of a joke|h
+A|but it's really true,|sv
+A|the old-timers, even the people who are technologists don't know how to operate these electronic things like V C R and whatnot|sv
+A|and the kids, they just take to it like candy.|sv
+B|Yeah.|b
+B|Well, if, if, if the interface is there so that it's like fun to use and the challenge|sv

@@ -1,0 +1,210 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|what types of music do you like to listen to?|qw
+B|Well, I primarily listen to classical music when I have my druthers, partly because I find it more soothing.|sd
+B|I don't know a lot about classical music so far as, uh, any background in music,|sd
+B|but it's the the music I enjoy the most.|sd
+B|How about you?|qo
+A|I like classical music also.|sd
+A|I, uh,|%
+A|like you, I don't know a whole lot about it,|sd
+A|and I, I would like to buy more classical tapes and stuff,|sd
+A|but I'm not sure which composers or which I really like,|sd
+B|Right.|b
+A|so I kind of hesitate to buy something.|sd
+B|Uh-huh.|b
+A|There are certain kinds I like and certain kinds I don't.|sd
+B|I tend to listen to the classical music, uh, on the radio a lot.|sd
+B|There's, uh, one particular, well there several stations in this area that play, uh, classical music all the time,|sd
+B|but there's one in particular that is on both A M and F M so I can listen to it without, uh, worrying.|sd
+B|It's cute, though, because my children, when they get in the car, and I have, uh, the button pushed for that, they always switch it to something else|sd
+B|Because naturally that isn't their taste at this point in time anyway.|sd
+A|Yeah.|b
+A|Yeah,|b
+A|I understand that.|sd
+B|Are, are you involved in music?|qy
+A|Uh, no,|nn
+A|not really.|ng
+A|My husband is,|sd
+A|but not, I do, uh, the world a favor|sd
+A|and I don't sing aloud, to anybody but myself|sd
+B|Well, my whole family is somewhat musical, um, and not from training, but just because we sing in our choir|sd
+B|and my daughter's quite involved and all that sort of thing.|sd
+B|So, um, I think that one of these days maybe she'll get involved in classical music, too, because that's usually what happens if you, unless you get into rock, which isn't her voice style.|sd
+B|So,|%
+A|Yeah,|b
+A|I, I don't care for rock, at all.|sd
+A|I guess I'm real old fashioned in my musical tastes.|sd
+B|No,|ar
+B|I,|%
+B|well most of it is not all that exciting in that it is terribly repetitious.|sv
+A|Yes.|aa
+B|It's loud and repetitious without having a great deal of meaning.|sv
+B|Now I do like folk song.|sd
+B|Um, and there have been some nice folk songs over the years that, you know, kind of still hang around.|sv
+A|Right.|b
+B|But, um, but, uh, the more popular music I don't care for, usually.|sd
+A|Yeah.|b
+B|Um, even when I was a teenager I didn't really like the music of that period so much because I found I liked, um, a little bit more melodious music than what was often the popular, rock and roll kind of sound.|sd
+A|Yeah,|b
+A|I agree with that too.|aa
+B|Although now I kind of enjoy hearing the rock and roll, I guess it makes me think I'm young again|sd
+A|Yeah,|aa
+A|now rock and roll seems tame compared to like the New Age and all that stuff.|sv
+B|Isn't that the truth?|bh
+B|It's funny.|sv
+B|In fact, it's interesting to me that so many of the songs,|sd
+B|now I grew up in the late fifties and early sixties,|sd
+B|and so much of the music that was popular at that time, has come back.|sd
+A|Uh-huh.|b
+B|And, you, you don't hear everything all the time,|sd
+B|but you hear much of the same music, perhaps a new version of it,|sd
+B|but it's the same stuff. Um, which is always kind of funny.|sd
+A|Right.|b
+B|Um, and I remember my older sister.|sd
+B|I have a sister who's sixteen years older,|sd
+B|and at the time that I was a teenager, a late teenager I guess, I can't remember the year, SMOKE GETS IN YOUR EYES became popular.|sd
+B|I think it was done by maybe the Platters or something.|sd
+A|Uh-huh.|b
+B|Then,|%
+B|and she laughed|sd
+B|and she said, Well, you know, when I was a teenager, that had been,|sd
+B|you know, some years before, she said, that was a version of, you know, a song then.|sd
+B|And she said, It's very similar,|sd
+B|but they've changed a little bit.|^q
+B|She said, I like the original version better.|sd
+B|Well, they did it again, about two or three years ago,|sd
+B|and I laughed again.|sd
+B|I said, Oh no, here we are|sd
+A|Crops up every so often.|bf
+B|Right,|aa
+B|right.|aa
+B|It does indeed.|sd
+A|I listen to, um, the Christian radio station when I'm in the car.|sd
+A|K L T Y.|sd
+B|Uh-huh.|b
+A|I like to listen to some of that.|sd
+B|Yes,|aa
+B|now there, there's some wonderful Christian music when you can find good stations.|sv
+A|Yeah.|b
+B|Uh, the problem that I found, um, in this area is that the, there, there is inconsistency in the quality here.|sd
+A|Uh-huh.|b
+B|If you get someone who's very good at selecting, it's okay,|sd
+B|but sometimes they kind of get on a, a, a binge,|sd
+B|and they play the same sort of thing over and over again, without really necessarily quality.|sd
+A|Yeah,|b
+A|where do you live?|qw
+B|Uh, I live in the, uh, Washington, D C area, Maryland.|sd
+A|I thought maybe you lived in Dallas, because that's the complaint I make to my husband about the radio station too.|sd
+A|I said, Oh, they're playing one of their ten songs.|sd
+B|Yes.|b
+A|It seems like every week they pick ten|sv
+A|and they just play them over and over,|sv
+B|Uh-huh,|aa
+B|and I, I, you know,|%
+B|there's so much available that I don't understand why they do that.|sv
+A|Yeah.|b
+A|Yeah.|b
+B|But, um, now my children have, have sometimes,|sd
+B|um, they've gone to a few of the concerts and so on of Christian musicians that come to our youth group at our church.|sd
+B|And, um, and when they buy a tape or something, sometimes that's fun because it's different and something I've not always heard,|sd
+B|and, you know, I enjoy that.|sd
+A|Right.|aa
+A|My husband likes Sandy Patty songs.|sd
+A|He likes to sing those in church.|sd
+A|He'd buy all the sound tracts he could get his hands on *typo tracks if he had the money to.|sd
+B|Oh, wow.|ba
+B|Yeah,|b
+B|that's nice.|ba
+B|So, is your husband a singer?|qy
+A|Well, just an amateur singer.|na
+A|He sings in the choir|sd
+A|and he likes to do special music and stuff at church.|sd
+B|Right.|b
+B|Yeah.|b
+B|Well, that's a good thing to do.|sv
+A|Yeah,|aa
+A|yeah,|aa
+A|I like to hear him sing.|sd
+A|a very soft He does a good job.|sd
+B|That's nice,|ba
+B|uh, well, do you have children?|qy
+A|No,|nn
+A|not yet,|ng
+A|we're expecting a baby in July.|sd
+B|Well, wonderful.|ba
+A|I guess we'll start listening,|sd
+B|That'll be a musician.|sv
+A|Yeah,|aa
+A|maybe so.|aap_am
+A|We'll start listening to children's music|sd
+B|Oh, there's some wonderful Christian, uh, children's tapes. You can, uh, you can get,|sv
+A|Yeah,|aa
+A|there are.|sv
+B|and I know when my children were younger, um, we found a lot of really nice tapes that they, that they liked.|sd
+B|Um, there was an Agape music group,|sd
+B|and, um, I, some of the songs I still find going over in my head over and over again because they were really, um, very memorable even though my children are now,|sd
+A|Uh-huh.|b
+B|my youngest is almost sixteen.|sd
+A|Oh, uh|b
+B|But I still find some of the same tapes, I, uh, some of the same songs from those tapes I enjoy.|sd
+A|Uh-huh.|b
+B|Um, there's one that's, um, a little girl singing Practice Makes Perfect.|sd
+A|Uh-huh.|b
+B|And, uh, she's playing the piano.|sd
+A|Oh.|b
+B|And so she, she gets the wrong note every now and then.|sd
+B|But then she keeps repeating it, practice makes perfect,|sd
+B|and then you know, talking about that so far as Christian life, too,|sd
+B|and it's really cute.|sd
+A|Yeah,|aa
+A|that sounds really cute.|sv
+B|Yeah.|b
+A|Uh, I tell my husband to sing to my stomach, because they say that babies can hear quite a lot while they're still in the womb,|sd
+A|and I said, then when, when it's born you can hold it and sing that again|sd
+B|Yeah,|aa
+B|right.|aa
+A|and maybe it'll comfort her, you know, when she's fussy and stuff.|sv
+B|Yeah,|aa
+B|well do you know something?|qy
+A|What?|qw
+B|Because I have always played classical music, uh, or classical style,|sd
+B|it's not always classical as, you know, the official, uh, word might go,|sd
+B|but, um, even when I was pregnant, of course I listened to that,|sd
+B|and when our first child was, you know, an infant, um, of course, when I was around the house, I played that music, too.|sd
+B|When he first made sounds that you could detect they were in the scale, the music scale.|sd
+A|Huh.|b
+B|Someone else noticed it|sd
+A|How strange.|ba
+B|and I said, well, I guess that's true.|sd
+B|And it was somewhat melodious,|sd
+B|in other words it wasn't just|sd
+A|Uh-huh.|b
+A|Babbly.|^2
+B|you know, it was really funny|sd
+A|I'll say, that is|aa
+A|Well, we'll have to keep up with that then.|sv
+B|Right,|aa
+B|right.|aa
+B|I do think there is probably an influence there, because I noticed that even though popular music, the, the wilder stuff, was around when my older children were, were, you know, adolescents, early adolescents, when they first start listening to music on their own they first get, ask for a radio of their own, and so on,|sd
+A|Uh-huh.|b
+B|um, this same child, um, really listened to more, um, ballady or, um, pleasant sort of songs rather than, and even classical, rather than the real hard rock stuff that so many other kids listen to.|sd
+A|Huh.|b
+B|And I, I never, I didn't want to say too much for fear he would think it was wrong and wouldn't do it anymore|sd
+A|Right,|aa
+A|yeah,|aa
+A|have something to rebel against|bf
+B|Right|aa
+B|But, uh, then I must say they all kind of like a variety of music, which is nice,|sd
+B|I like that.|sd
+A|Yeah,|b
+A|that's good,|ba
+A|yeah,|%
+A|variety is good.|sv
+B|Yeah.|b
+A|Well, I guess that covers it.|sv
+A|It was real good talking to you.|fc
+B|Well, it was nice talking to you,|fc
+B|and good luck with the baby.|fc
+A|Well, thanks,|ft
+A|bye.|fc
+B|Bye-bye.|fc

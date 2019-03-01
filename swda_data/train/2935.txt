@@ -1,0 +1,181 @@
+A|Well, what kind of garden do you have?|qw
+B|Well, we've tried having,|sd
+B|let me turn the T V off,|^h
+B|we've tried having a vegetable garden,|sd
+B|and I'm from Chicago,|sd
+B|and the way that, uh, bugs and weeds grow down here is very different from Chicago.|sd
+B|And we have tried several years in a row,|sd
+B|and we've given up, between the fire ants, the pill bugs, the weeds, the drought, and a hundred and ten degree heat all Summer,|sd
+B|and we just kind of, uh, decided to go with a few flowers and give up on the vegetable garden|sd
+A|Oh.|b
+B|We had to put so much poison out on everything that we thought, Who'd want to eat that stuff.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+B|You know, so we have really been frustrated by our gardening attempts here,|sd
+B|and, uh, if you really water a lot, you can do it,|sd
+B|but, you know, when you have to pay for water, it really gets to be an annoyance to have to water constantly.|sd
+A|Uh-huh.|b
+B|So, right now we're just,|sd
+A|Do you have a lawn?|qy
+B|Yeah,|b
+B|we, we just try to maintain the lawn and the shrubs right now, and the trees.|sd
+B|We have a peach tree.|sd
+B|That's the extent of our, um, contributing to our food supply.|sd
+B|But that's nice to have|sd
+A|Oh, yeah.|b
+B|yeah.|b
+B|So what do you do up there?|qw
+A|Well, um, actually it,|%
+A|we've sort of had an ideal Spring.|sd
+B|Um.|%
+A|And, um, the, the peonies have been out for now about three weeks|sd
+B|Oh, wow.|ba
+A|and the roses have been blooming for two weeks,|sd
+A|and the grass is, uh, this lush green,|sd
+A|and of course I've got lots of weeds in mine because, I don't use any poison either.|sd
+B|Yeah.|b
+A|But, um, you know, I just keep looking at,|sd
+A|and I say, Jeez, you know, this is the first year it's been so perfect.|sd
+B|Really.|b
+B|Gosh.|ba
+A|But, and my garden, you know,|%
+A|my tomatoes are two and a half feet tall|sd
+B|Oh, boy|ba
+A|the plants and,|%
+B|that sounds wonderful.|ba
+A|you know, I'm I'm going, Gee, this can't, you know,|sd
+A|we'll have a freeze.|^q
+B|If you don't have a frost you'll be all right|sd
+B|That's what I remember from living up north, is that you'd get everything set and then you'd have a frost|sd
+B|and half the stuff would get frostbitten,|sd
+B|and you'd have to.|sd
+A|Well, that's it.|ba
+A|Last year, I think it was, you know, my peonies were, were, budding in January,|sd
+A|and, you know, there was no way that was going to make it,|sd
+A|and sure enough, you know, we had really mild weather until I think it was May or something|sd
+B|Wow.|ba
+B|Uh-huh.|b
+A|and then, you know, everything just got hit hard|sd
+B|Oh, boy,|ba
+B|that's frustrating.|ba
+A|So, but yeah,|%
+A|it, it's interesting,|sd
+A|and I enjoy gardening.|sd
+A|My son does the mowing of the grass.|sd
+B|Oh, yeah,|b
+B|my husband does that, thank goodness, because I, that's not a pleasure for me|sd
+A|I don't think that's a pleasure for anybody, the the mowing.|sd
+B|I love gardens that are well tended,|sd
+B|and I just,|%
+B|there's been a few different places I've lived where I've just|sd
+B|I don't know whether it's little old ladies living there or what, but you could just tell that they had a love, uh, a love affair with their gardens, with beautiful wild flowers,|sd
+B|and just,|%
+B|I love the host of colors that just keep coming all, you know, year long.|sd
+B|And, uh, I, I was in England once,|sd
+B|and that's one thing that impressed me so much is no matter what size yard somebody had, they had a beautiful garden in it.|sd
+B|You know, it could be three feet by four feet or something.|sd
+A|Uh-huh.|b
+B|So I do admire that, but I haven't really put, uh, too much energy into it.|sd
+B|Course we have two little kids that are two and three years old|sd
+A|Oh, they help you.|sv
+B|So that has put a crimp in my every activity other than diapers and laundry, I'll tell you|sd
+A|Oh dear.|ba
+A|Oh but that's nice, you know,|sv
+A|I mean the peach tree is, is a start|sv
+A|and,|%
+B|yeah,|%
+B|that's really lovely.|sd
+B|I would love to have different fruit trees.|sd
+B|It's, it's been wonderful to have the peaches.|sd
+B|They're just delicious.|sd
+B|And, we, we we have, still have to spray some,|sd
+B|but we don't have to just asphyxiate ourself with the poison, which is good,|sd
+B|because I just,|%
+B|I can't see the point in doing that and eating anything out of it afterwards.|sv
+A|Right.|b
+A|What about tomatoes,|qo
+A|aren't they pretty hardy?|qy
+B|Um, we've tried them,|sd
+B|but again, it's just like the sun scorch.|sd
+A|Oh.|b
+B|We've tried them in kind of halfway in the shade and halfway in the|sd
+B|I mean it's just,|%
+B|you really, really have to be prepared to water constantly during the Summer.|sv
+A|Uh-huh.|b
+B|People that have been successful out here have done this drip irrigation and installed that,|sd
+A|Oh.|b
+B|and um, that's really what makes the most sense,|sv
+B|because you don't have to use so much water,|sv
+B|and|%
+A|Uh-huh.|b
+B|it really does the job.|sv
+B|But it's just amazing how hot and dry and for how long it gets out here.|sd
+B|And if you're not really committed to it,|sv
+B|I mean, me, I'm, you know, I'm real committed to it for about a week, and then I forget about it for a week,|sd
+B|and then I go, Oh, yeah, I need to do something,|sd
+B|and by then it's burned up, you know.|sd
+A|Uh-huh.|b
+B|It's just too distracting right now with these little ones in our lives,|sd
+B|so maybe when I get older I'll find, uh, some joy in that|sd
+A|Well, I would assume, too,|sv
+A|I mean, you've got three or four months you're talking about of, of bad weather.|sv
+B|Yeah.|b
+B|Yeah,|b
+B|it just gets so hot so fast here.|sd
+B|We don't have really a Spring or a Fall|sd
+A|Uh-huh.|b
+B|and it just, uh, immediately heats up.|sd
+B|So, that's one thing I miss about living up north, as I remember, um, you know, the long Springs and long Falls and the cooler weather.|sd
+B|It was really nice.|sd
+A|Uh-huh.|b
+B|We always had gardens when I was, uh, living in Chicago.|sd
+B|In fact, my mother once tore up our entire back yard and redid it.|sd
+B|I'll never forget.|sd
+B|Got my stepfather to put in, uh, a waterfall and a little pond in one corner.|sd
+B|I mean, that was like the most energy invested in anything in the whole time I ever knew him|sd
+B|They remodeled the entire back yard.|sd
+B|Then they sold the house and got divorced,|sd
+B|so I don't know what that says about it all|sd
+A|Oh, dear.|ba
+B|Oh, but she used to love to do stuff like that.|sd
+A|Sounds like it would have been pretty.|ba
+B|Yeah,|b
+B|it really was.|sd
+B|I enjoyed it there.|sd
+B|But maybe when the boys get a little older, we'll do some more planting,|sd
+B|because they like to see things grow.|sd
+B|They've done a couple of little seed projects,|sd
+B|and so I think it would be fun for them.|sd
+A|Oh, sure,|ba
+A|sure.|ba
+B|Yeah,|b
+B|yeah.|b
+A|Well, it sounds like you, you've got your hands full|sv
+B|Oh, yes|aa
+B|They're both running around now.|sd
+A|And, you know, gardening isn't, isn't high on the list,|sv
+A|but it's not off the list.|sv
+B|Yeah,|b
+B|well, it's very therapeutic,|sv
+B|I think, really to get out there and dig in the dirt, you know.|sv
+A|Uh-huh.|b
+B|They certainly enjoy that part of it|sd
+B|It's just trying to keep anything.|sd
+B|I planted bulbs last, uh, Fall on the side guard, and when I went out there in the Spring|sd
+B|and the first day they came out the little one went and pulled all the flowers off,|sd
+B|and the flower petals were scattered all over the walk|sd
+A|Oh.|b
+B|He thought, what are these fun toys that mommy put out here with all these colors for me to play with?|sd
+B|At least he didn't eat them,|sd
+B|I mean, I guess I could be thankful for that.|sd
+A|Right.|b
+A|Maybe next year they'll do better.|sv
+B|Yeah,|b
+B|really.|b
+B|If they survive this year.|sd
+B|Oh, well, good luck to you.|fc
+A|Okay,|fc
+A|well, thanks.|fc
+B|Nice talking to you.|fc
+A|It was nice talking to you too.|fc
+A|Bye-bye.|fc

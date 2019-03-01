@@ -1,0 +1,125 @@
+A|Well, what's your favorite baseball team, Rita?|qw
+B|Well, I suppose I'm supposed to say the Rangers, right|qy
+B|Is that what|qy
+B|is the million dollar question here?|qy
+A|Well, that isn't a, a true false or right or wrong test here.|no
+B|Yeah.|b
+B|Uh, uh, you know, I would like to say the Rangers,|sd
+B|but unfortunately they're not.|sd
+B|I was from Illinois,|sd
+B|and my favorite team was the White Sox.|sd
+A|Not a Cubbies fan, huh.|qy
+B|No,|nn
+B|no,|nn
+B|my family, my dad was,|sd
+B|but I turned out to be a White Sox fan.|sd
+A|Well, that's all right.|bd
+B|I lived in Chicago.|sd
+A|How do you expect them to do this year?|qo
+B|Yeah|b
+B|they did pretty well.|sd
+A|Okay.|bk
+B|What did you think of the World Series?|qo
+A|Well, I'll tell you.|^h
+A|I just, uh, moved down from South Dakota in July,|sd
+A|and, uh, in South Dakota, the Minnesota Twins are the closest professional sports team to where I was living|sd
+B|Uh-huh.|b
+A|and so everybody was a Twins fan,|sd
+A|and I was kind of, uh, didn't have much interest in the Twins, you know,|sd
+A|it was, it was kind of pathetic, I mean,|sd
+A|we only had two radio stations,|sd
+A|and one of them broadcast every Twins game live, you know,|sd
+A|and, and the other one was country.|sd
+B|So you didn't really have a lot of choice, did you.|qy
+A|So, that's right.|na
+A|There's was Twins there, or, you know Skip Williams.|sd
+B|Or country.|^2
+B|Yeah.|b
+B|Oh, uh, and I was routing for the Twins myself because, uh, they, a couple of Ranger players that I had watched when we first moved here, uh, went to Minnesota,|sd
+B|and we used to tease about, my son|sd
+B|and I used to have a bet going about some of the players that had moved from here to Minnesota,|sd
+B|but it was it certainly was an exciting Series, anyway.|sv
+A|It sure was,|aa
+A|it sure was.|aa
+B|What do you think going to happen to the Rangers?|qo
+A|Well, I I would like to assume that they're going to do, do better this coming year,|sd
+B|Or can we predict?|qrr
+A|I was sure hopeful anyway.|sd
+A|When we moved down, uh, I was able to go to my first, you know baseball game, and thought, this is great, this is incredible.|sd
+B|Uh-huh.|b
+A|So I became a Rangers fan.|sd
+A|I didn't really have one in South Dakota.|sd
+A|So I adopted the Rangers,|sd
+A|or rather they adopted me, I guess|sd
+B|Uh-huh.|b
+A|and, uh, it was just exciting, you know,|sd
+A|you can watch baseball on T V|sd
+A|and they hit the long ball,|sd
+A|and it looks like wow, they really hit that ball.|sd
+A|But when you go to the ball park, it's really not all that far you know,|sv
+B|No.|aa
+A|and it's so much more exciting watching a ball come at you,|sv
+A|and.|%
+B|Oh, isn't it though.|ba
+B|You know, but, oh, I, I think going to the ball park just really makes it. Because then you watch it on T V you feel like you're more a part of it too.|sv
+A|That's right,|ba
+A|that's right.|ba
+B|Well, I'm a great sports enthusiast,|sd
+B|so I love, you know, baseball teams,|sd
+B|and they,|%
+B|in fact, on the news tonight, Nolan Ryan was on there.|sd
+B|He was being, he was put in the, which I never knew existed, the Restaurant Hall of Fame|sd
+A|The Restaurant|b^m
+B|The Restaurant Hall of Fame inducted him tonight,|sd
+B|and he, uh, says he's coming back, you know, uh,|sd
+A|Huh.|b
+B|he doesn't know how many years I mean, to pitch.|sd
+A|Right.|b
+B|He'll be at least one more,|sd
+B|and he said he's been saying one more, and it's been two and three, might be two and three more.|sd
+B|He likes it.|sd
+A|That's right|ba
+B|Yeah.|b
+A|and he's still doing great still doing excellent.|sv
+B|That's right.|ba
+B|You know, and he said, I get a kick out of it, you know,|sd
+B|he's, he's such a nice man.|sv
+A|Well, didn't he just sign a twelve year contract with the Rangers?|qy
+B|Yeah,|ny
+B|and he,|%
+B|you know when he quits at being active, he will go into, you know being a, managing and, yeah, you know, being a coach, I'm sure.|sd
+A|Management.|^2
+A|Right.|b
+B|But, he's, uh, he certainly is a good example, uh, for the kids.|sv
+A|That's right.|ba
+B|You know, you like to have someone like that you could point to say, see what a fine man, that, he is.|sv
+A|You know, some of the,|%
+A|like, uh, Ivan Rodriguez wasn't even born when, when, uh, Nolan Ryan started pitching.|sd
+B|That's right.|ba
+A|And it's just incredible to think that there's, uh, there are players who are the sons of ball players that used to play against Nolan or with Nolan, you know,|sv
+B|Uh-huh.|b
+A|and now their sons are.|sd
+B|Oh, he's been a legend for so many years, you know,|sd
+B|and I don't know,|h
+B|were you here, had you moved here yet when he did the exhibition at U T with his son.|qy^d
+B|His son pitched for U T|sd
+B|and he pitched for an exhibition game for the Rangers.|sd
+A|Uh-huh,|nn
+A|I wasn't.|sd
+B|Yeah,|b
+B|it was a,|%
+B|I think it was a little early part of the summer,|sd
+B|and uh, Nolan against.|sd
+A|Was it Nolan against, uh|qy
+A|Ryan against Ryan, huh.|qy
+B|Ryan against Ryan,|na
+B|yeah,|ny
+B|his son pitched for U T|sd
+A|Well that is neat.|ba
+B|and, uh, only, uh, Ryan didn't want too much publicity on it because he didn't want his son getting too nervous about this whole thing.|sd
+A|Uh-huh.|b
+B|A game is a game, you know.|sv
+B|Well, the Rangers really, uh, knocked the socks off of them, which you would expect you know, anyway,|sv
+A|Right.|b
+B|but Nolan I think took himself out after a couple of innings or something, you know, of the game|sd
+B|so,|%

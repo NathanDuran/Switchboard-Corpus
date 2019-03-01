@@ -1,0 +1,88 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|you want to go ahead and tell me your favorite team, or who you think will be doing well this year.|ad
+B|Uh, well, where I'm from the Atlantic coast conference is a very big conference|sd
+B|and, course, we have Duke University that was the national champions last year,|sd
+B|so I'm kind of hoping that they'll repeat again this year.|sd
+B|They have a lot of the same players back.|sd
+A|Are we talking about, is this the N B A?|qy
+B|No,|nn
+B|this is college basketball.|sd
+A|This is college, College, okay|b^m
+B|Right.|b
+B|We have like Carolina, and Duke, and Georgia Tech, and N C State, teams that are normally ranked in the top twenty.|sv
+A|Uh-huh.|b
+B|So, hopefully we'll have a good year.|sd
+B|I don't really follow the N B A very closely.|sd
+A|And see that's probably all, all I saw.|sd
+A|I, we have moved in the last couple years from Utah to Texas|sd
+A|and there's so many colleges and universities in Texas, we haven't really followed them too much|sd
+A|and none of them are our, our alma mater|sd
+A|so, that seems to help.|sd
+B|Do you like professional basketball?|qy
+A|Uh, I, I follow it especially around the playoffs,|na
+A|so, course, I was real familiar with the Utah Jazz,|sd
+A|and the Mailman or Karl Malone was, you know, pretty big thing|sv
+A|and, the Lakers have always been amazing to watch.|sv
+B|Yeah.|b
+A|I, I did keep track a little bit of the Mavericks.|sd
+A|They've not had any good seasons for a long time, and have a lot of problems with, with Tarpley|sv
+A|and, maybe now that that's over they'll, they'll come out of it|sv
+A|but,|%
+B|Well, that's an up and coming team, though.|sv
+A|Yeah,|aa
+A|I hope they do something.|sd
+A|They need to|sv
+A|or they're not going to have any of the team left at all.|sv
+B|That's somebody you can get behind and, be patient.|sv
+A|Yeah.|aa
+A|Kind of like the Cowboys I guess.|sv
+B|Yeah,|aa
+B|they seem to be kind of not having a very good few seasons.|sv
+A|Yeah,|aa
+A|they, coming out of it this year.|sv
+A|We'll see if it's held on.|sv
+B|But, I think Chicago will probably with the N B A again.|sv
+A|The Bulls?|qy
+B|Yeah,|ny
+B|uh-huh.|ny
+A|Yeah.|aa
+A|They'll probably be pretty good.|aa
+A|Course, the Celtics are always really, really good, too, with their players.|sv
+B|That's true.|aa
+A|Be interesting to see how the Olympics does this year with all the, the N B A players playing on the Olympic team.|sv
+B|That's true,|aa
+B|it will be interesting.|aa
+A|So,|%
+B|It will certainly be different|sv
+A|Yeah.|aa
+A|I don't know, how close I'll follow them, though.|sd
+A|And the season hasn't started yet.|sd
+A|I'm usually more the end of the season person,|sd
+A|and we need to talk about baseball|sv
+A|and so,|%
+B|Yeah,|b
+B|oh, my Atlanta Braves.|sd
+A|Well,|%
+B|Well, I really do, uh, you know,|sd
+B|the basketball season's supposed to start in the next couple of weeks.|sd
+A|It's,|%
+A|yeah,|b
+A|yeah.|b
+B|It's a long season.|sv
+A|It is, it is,|aa
+A|and that's why I've,|%
+A|I guess my mind went blank.|sd
+A|It's like last season was so long ago|sv
+A|and I haven't really even started thinking about basketball yet|sd
+A|so,|%
+B|Yeah.|b
+A|But, this wasn't a good subject,|sv
+A|but, We'll see how our predictions come true.|sv
+B|It's a little early.|sv
+B|We definitely will.|aa
+A|Okay,|fc
+A|it's good talking to you.|fc
+B|Good to talk to you.|fc
+A|All righty,|fc
+A|bye.|fc
+B|Bye-bye.|fc

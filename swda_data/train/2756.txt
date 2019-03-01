@@ -1,0 +1,319 @@
+A|And, uh, what part of Virginia, uh?|qw
+B|Uh, I live down in the south western part of Blacksburg.|sd
+A|Blacksburg.|b^m
+A|Okay,|b
+A|I've been,|sd
+B|Uh-huh,|b
+B|have you ever heard of Virginia Tech?|qy
+A|Sounds vaguely familiar.|na
+B|V P I.|sd
+A|Yeah,|ny
+A|okay.|b
+B|Yeah,|b
+B|okay.|b
+A|I, I hadn't been down in that part of the state really.|sd
+B|Uh-huh.|b
+B|Okay.|b
+B|Well, we vacation a lot.|sd
+B|How about you?|qo
+B|Quite frequently.|sd
+A|Uh, I wish we did|sd
+B|Well, we retired early|sd
+A|Oh, okay.|b
+B|so, we're, we take trips pretty often.|sd
+A|Where all you guys go?|qw
+B|Well, we go to Maine every Fall|sd
+A|Uh-huh.|b
+B|then that's kind of a family visit and a vacation all up and down the coast|sd
+A|Uh-uh.|b
+B|and I have a daughter in Texas and one in New Mexico,|sd
+B|so we go out there|sd
+B|and we go to Florida|sd
+A|Uh.|b
+B|and down, oh,|%
+B|we were just out recently at the outer banks of North Carolina.|sd
+A|All these places that I've never been|sd
+B|Is that right|qh
+B|Where do you go?|qw
+A|Uh|%
+B|What type of vacation?|qw
+A|well, it really depends,|sd
+A|I mean, uh, seems like I do a lot in the Midwest lately,|sd
+A|uh, my, uh, fiancee's family's from Wisconsin|sd
+B|Uh-huh.|b
+A|and so we've been out there a couple of times|sd
+A|and, uh, I, uh, went to Purdue for a couple of years,|sd
+A|so I've gone up to Indianapolis on occasion to visit friends|sd
+B|Uh-huh.|b
+A|and, uh, uh, I'm a real big baseball fan|sd
+A|so I usually try to combine it with, uh, catching a couple of games somewhere.|sd
+B|Uh-huh.|b
+B|What club do you follow?|qw
+A|I'm, uh, I'm a big Red Sox fan,|sd
+B|Red|%
+B|good,|ba
+A|but, uh, I, uh,|%
+B|me too|sd
+A|uh, you're a Red Sox fan too?|bh
+B|Yeah,|ny
+B|uh-huh.|ny
+A|I usually try to catch whoever's in town though, I don't specifically,|sd
+A|I, you know, go to Cleveland to see them play,  the  Indians or the Red Sox,|sd
+B|Uh-huh.|b
+A|uh, uh, that's about it,|sd
+A|we don't, I mean, we do a lot of little trips around here, uh,|sd
+A|and, uh,|%
+B|Ever go up in Pennsylvania in the mountains|qy
+B|or,|%
+A|Not that much.|ng
+A|We've gone out to, um, uh, a place in western Pennsylvania called Falling Water.|sd
+B|Oh.|b
+A|Uh, have you ever heard of it?|qy
+B|I've heard of it.|na
+B|I've never been there.|sd
+A|Yeah,|b
+A|it's, it's really neat.|sd
+A|It's this house built on, on a waterfall|sd
+A|and it's, uh, really cool|sd
+B|Uh-huh.|b
+A|Um, of course, we keep picking crummy weather to go out there,|sd
+A|uh,  the first time we went out there was, uh, the day after hurricane Hugo had come through|sd
+B|Gee.|ba
+A|So, I mean they, they didn't have any power|sd
+A|and it was really cold and, and rainy|sd
+A|and, uh, we went up about a year later|sd
+A|and it was better but not a whole,  lot  better|sd
+B|Uh-huh.|b
+A|So, uh, where else did we go, uh,|^h
+A|we've gone to Richland, last year and, uh, had a good time,  down there.|sd
+B|Oh, did you?|qh
+B|Did you go,  to Williamsburg,|qy
+B|have you been down there?|qy
+A|Uh, my girlfriend has with her sisters|sd
+A|but I haven't been,  down  there.|sd
+B|Uh-huh.|b
+A|Uh, I hear that's nice.|sd
+A|We're going to get down, probably down Norfork sometime this Summer,  just  to see why, catch a football game actually|sd
+B|Uh-huh.|b
+B|We were down,|sd
+B|well, when we came back from the outer banks we came up due Norfork and spent the night there with a friend in Portsmith and then went to Williamsburg and spent a night.|sd
+A|Uh, spend a day and a lot of money|^2
+B|Yeah|aa
+A|Yeah,|b
+A|I've heard, uh,|sd
+A|I'm not real interested in Williamsburg because of the, of the price attached,  to  it.|sd
+B|Yeah.|b
+A|We just,|%
+A|we,|%
+A|I,|%
+B|But it's a pretty neat down to just go and walk around, if you like to walk,|sd
+B|it's a good town to just,  walk  in.|sd
+A|Uh.|%
+A|Uh, yeah,|b
+A|we'll,  do that.|oo_co_cc
+B|You can go,  to the buildings and not go in if you're not,|sd
+A|Oh, okay,|b
+A|so I can wander around without,|qy^d
+B|Yeah,|ny
+B|you can wander,|sd
+B|it's a good town to wander in.|sd
+A|Oh, okay,|bk
+A|I just have it pay somebody to get into the buildings?|qy^d
+B|That's right.|ba
+A|Oh, okay,|bk
+A|I didn't know that.|sd
+A|Yeah,|%
+A|I think, uh, they do the whole with, you know, paying,|sd
+B|Yeah.|b
+A|they  really did throw away a lot of money to get, getting one thing or another,|sd
+B|Yeah.|b
+A|but  they had a good time|sd
+A|so.|%
+B|We really didn't do that really this time, we just, uh, visited around.|sd
+A|Uh, uh,|%
+B|We've done it a couple of times|sd
+B|and that's enough for, uh, probably another twenty years.|sd
+A|Yeah,|b
+A|I was, uh,|sd
+A|we use it live in California|sd
+A|and, uh, my, um,|%
+A|up, up around San Francisco,|sd
+A|and, uh, there was one year when my father was, uh, my father's company was starting to do stuff down in Los Angeles,|sd
+A|so, my father was working down in Los Angeles for like, uh, six months or so,|sd
+A|uh, actually I think it was closer, I think to a full year|sd
+A|and, you know, we'd, he'd fly down there on Mondays and fly back on Fridays,|sd
+A|well, any time we had a school vacation or something like that we went down to Los Angeles,|sd
+A|so I saw, I went to Disneyland about five times,  in one  year|sd
+B|Oh|b
+A|and I really have no great urge to go back now.|sd
+B|That's great as a kid though, isn't it, I mean,|qy
+A|Oh, it was great, because, uh, well, the times that were really fun were when, uh, we had vacation|na
+A|but the kids in Los Angeles didn't|sd
+B|Uh-huh.|b
+A|so we basically had one of the parks.|sd
+B|Right.|b
+A|Uh, Disneyland, I mean there's still a lot of people at Disneyland,|sd
+A|but there was another, um, another amusement park down there, Busch Gradens, uh,|sd
+A|there was nobody there when we were there, we got, we won a log floating ride like five straight times,|sd
+A|we just get, get done with them and they go, oh, do you want to go again,|sd
+A|sure.|b
+B|Have you ever,|qy
+B|you've never been down to Epcot at Florida and Disney|qy
+A|No,|nn
+A|I'd like to,  sometime|sd
+B|that's good,|ba
+A|but,|%
+B|we, we really enjoy that,|sd
+B|we've been two or three times and probably go back again this winter.|sd
+A|Yeah,|b
+A|I've never been,|sd
+A|the fartherest south I've been on the East Coast is Charlotte.|sd
+B|Oh.|b
+A|So, I, um, keep wanting to get further,|sd
+A|you know, I thought I would go to Florida a couple Summers,  ago|sd
+B|Uh-huh.|b
+A|but never did it.|sd
+B|Charleston is a really nice place to visit.|sd
+A|My, uh, my sister lives in Charlotte|sd
+A|and they've gone to,  Charleston  a couple of times and had a real good,  time.|sd
+B|Uh-huh.|b
+B|Yeah,|b
+B|it's a real pretty place.|sd
+A|Uh, yeah,|b
+A|one of these days we'll get down there, although I don't know when we're going to have vacation to do it|sd
+A|We're, uh, we're getting married in about,  a year|sd
+B|Oh, are you.|b
+A|and,   our  honeymoon, we're going up to this, um, uh, place in Wisconsin called Door County,|sd
+B|Yeah.|b
+A|it's up by Green Bay.|sd
+A|It's a place my girlfriend's also wanted,  to  go,|sd
+B|Uh-huh.|b
+A|and, uh,|%
+B|Is it on, uh, one of the lakes?|qy
+A|It's, um, uh,|%
+A|I don't if you've ever seen a map of Wisconsin|sv
+A|but there's kind of like a little, a little thing sticking out, uh, in the Lake Michigan,|sd
+B|Uh-huh.|b
+A|that's  Door County|sd
+B|Oh, okay,|b
+B|yeah,|b
+B|that would,  be  really nice.|sv
+A|So,|%
+A|Yeah,|b
+A|they call it the Cape Cod of the, uh,  the Midwest|sv
+B|Oh|b
+A|so, uh, we're thinking that'll be a lot of fun,|sv
+B|Uh-huh.|b
+A|she,  uh, she had this, uh, book of pictures from it that were really nice, kind of like a travel guide|sd
+B|Uh-huh,|b
+B|sounds good.|ba
+A|so, uh, that should be a lot of fun.|sd
+B|Well, I don't know what our next trip will be, I guess our next,|sd
+B|well, I know what my next trip, I'm going to be a grandmother in July|sd
+A|Oh.|b
+B|The first, the first one,|sd
+A|Oh, boy.|ba
+B|so my  next trip is going to be to Texas|sd
+A|Oh, that'll be fun|ba
+B|Yeah,|b
+B|in the middle, in the middle of the Summer.|sd
+A|Well, yeah,|b
+A|you won't even,  notice  it though|sv
+B|Well, they'll be air-conditioning anyway|sd
+B|so.|%
+A|Is that, is that how you got into this, uh, this,  you  know, uh, data base?|qy
+B|Yeah,|b
+B|my daughter's a temp at Texas Instruments,  and working  on this project.|sd
+A|Oh, okay.|bk
+A|Yeah,|b
+A|I was, I was just,|%
+A|I mean most of the people I've talk to are from, are from Texas,|sd
+B|Uh-huh.|b
+A|so,  when I, you know, when I heard you were from Virginia I was like, oh, okay, there's somebody different,|sd
+A|and you said, oh, I got somebody down in Texas,|sd
+A|I go, okay, that the connection,  right there|sd
+B|That's it,|ba
+B|yeah|b
+B|I talked to one in California,|sd
+B|I never asked him the other day how he was connected,|sd
+B|I don't think he was T I employee.|sd
+A|Uh, I, uh,|%
+A|most people talk to Texas,|sd
+A|there's been a couple of other the people, uh, most of whom are like me that work in, in speech labs that are going to use data base,  eventually.|sd
+B|Oh, I see.|b
+A|So, uh,  it was fun|sv
+A|I, actually yesterday, I ended up talking to somebody else from the same lab I'm in.|sd
+B|Is that right.|bh
+B|Well, we spent last week end in Charlotte with real good friends that had just,  moved  to back East from Oklahoma,|sd
+A|Oh.|b
+A|Uh-huh.|b
+B|and  she's, uh, working on this project too,|sd
+B|I mean she's talking on the project too|sd
+A|Uh-huh.|b
+B|and, uh, we got back Monday|sd
+B|and I got a call yesterday|sd
+B|and it was her, on T I Network|sd
+A|Uh, that's neat.|ba
+A|I haven't, uh, I haven't had something like that happen, just, uh, just getting the one guy,  from  the lab.|sd
+B|Uh-huh.|b
+A|Uh, you're sure have a nice town,|ba
+A|uh, my, uh, sister lives on Lake,  Norman, just,|sd
+B|Oh, does,  she,|b
+B|that's nice out there.|ba
+A|Yeah,|b
+A|uh, we keep wanting to get down there and visit them over the Summer|sd
+A|and it's,  never  really works out.|sd
+B|Uh-huh,|b
+B|yeah,|b
+B|it's real pretty.|ba
+A|Yeah|b
+B|Well|%
+A|Traffic , not much else we do for vacation really,|sd
+A|uh, just so we don't, haven't been able to take really.|sd
+B|Are you a golfer?|qy
+B|No.|fo_o_fw_"_by_bc
+A|No.|nn
+B|Me either.|sd
+A|No.|b^m
+A|Are you guys,  golfers|qy
+B|No,|nn
+B|uh-huh,|nn
+A|or, uh,|%
+B|no,|nn
+B|uh-huh,|nn
+B|nope,|nn
+B|not too much into sports.|sd
+A|Except our outside , though.|sv
+B|Just walking that's all|sd
+A|Oh, I don't think there are any, traveling that was in my early teens down in that area|sd
+A|and I'm know real sure there are, um,|sd
+B|No professionals|sd
+A|When, uh,|%
+A|I was thinking I might be minor league|sd
+A|but,|%
+B|Oh, there's one in Salem, Salem Rebels.|sd
+A|Yeah.|b
+B|Salem Rebels,|sd
+A|Buccaneers.|ar
+B|Buccaneers.|b^m
+B|Oh, okay.|bk
+A|Yeah,|b
+A|um, yeah,|b
+A|I may be seeing them, um, in a town just west of here, Frederick has a, uh, has a minor league team that plays in the same league with Salem|sd
+A|and, uh, I think we may be seeing them this,  weekend|sd
+B|Oh,|b
+B|is that right up there in Frederick?|qy
+A|Yeah,|ny
+A|I think they're out of town.|sd
+B|Uh-huh.|b
+A|Yeah.|b
+A|Uh, that's a nice little town actually, Frederick, uh,|sd
+B|I've never been up there.|sd
+B|I've never visited Baltimore.|sd
+B|I'd like to go just sight see a little bit sometime.|sd
+A|Oh, there's, there's some nice things in Baltimore, you know,|sd
+A|the Inner Harbor and the, uh, the Aquarium and all that are very nice.|sd
+B|Uh-huh.|b
+A|Uh, they've just done a, uh,|sd
+A|you known, I,|%
+A|you know, the Aquarium is one of those things that, you know, because everybody,|sd

@@ -1,0 +1,126 @@
+A|So, how you like New Jersey?|qo
+B|Uh, it's pretty good, you know.|sv
+B|You get, uh, closer to the, uh, coast here,|sd
+B|and you do get a good bit of, uh, smog and stuff, especially from all the, uh, fuel cracking towers and chemical plants.|sd
+A|Right,|b
+A|I guess, uh, I don't know what part of New Jersey you're in, but I guess it's, uh, fairly industrial?|qy
+B|Yeah,|ny
+B|it's,|%
+B|when you get further east towards New York City it gets very industrial|sd
+A|Right, uh-huh.|b
+B|but I'm, I'm about, uh, thirty miles west of there|sd
+B|so you have, uh, actually green trees and such that you don't notice that, that other part of New Jersey exists.|sd
+A|Yeah.|b
+A|Yeah|b
+A|Right.|b
+B|Actually very,|%
+B|you know, you go even a few miles out and you got, uh, farms and everything|sd
+B|so you, relatively clear air.|sd
+A|Right.|b
+B|But, uh,|%
+A|Well, I don't know about you,|h
+A|but I've always considered automobiles to be, probably the, the prime contributor.|sv
+A|I mean there's a lot of contributors,|sv
+A|but it seems that automobiles would probably do more than their fair share of that.|sv
+B|Oh, definitely.|aa
+B|It's|%
+A|Yeah.|b
+B|uh, you know, there are a large number of them on the road.|sd
+B|They're all, you know, going,|sd
+B|and a lot of them are in relatively poor repair.|sv
+A|That's, yeah, that's, that's a big issue is, you know,|sv
+A|a lot of states don't have a, uh, inspection law|sd
+A|so you get, you get a lot of people out there without E T R, emission control systems on their cars and things like that.|sv
+B|Oh, even where you do have the inspections, you know, the inspection is once a year.|sv
+A|Yeah,|b
+A|and it's like,|%
+B|You get the car that's in the accident|sv
+B|and muffler falls off or something|sv
+A|Sure.|b
+B|and guy keeps driving along for long period of time after that.|sv
+A|Right.|b
+A|I guess, from what I hear, though, uh, next year Ford is coming out with their electric cars.|sd
+A|They're actually coming out with the first prototypes in California.|sd
+B|Yeah,|b
+B|that,|%
+B|and I think also some of the, uh, car companies are coming out with, uh, gas powered fleets so you,|sd
+A|Yeah.|b
+B|natural gas powered rather than, uh, gasoline.|sd
+A|Right.|b
+A|I hope, I, I'm hoping that comes along quick|sd
+A|Uh, I was reading a, an article in TIME the other day about the ozone layer and how fast that's going|sd
+A|and I guess it's, it's really disappearing a lot quicker than people realize|sv
+A|and I know that's not due to, uh, it's not due to, to gasoline or to, you know, carbon monoxide so much as the C F C|sv
+A|but,|%
+B|It, it is coming from cars, though.|sd
+A|Uh, yeah,|aa
+A|I think that's a, that's a contributor definitely.|sv
+B|I mean, the, uh, car air conditioners is one of the major leaking sources of, uh, the, uh, freon. Which is one of the major fluorocarbons.|sd
+A|Right.|b
+A|Right.|b
+A|Yeah,|b
+A|I guess right now what they're, what they're primarily worried about is third world countries because I guess United States and, and Russia have kind of taken the lead in terms of eliminating C F C production,|sv
+A|but it,|%
+B|Well, it, it,|%
+A|go ahead.|ad
+B|No,|ar
+B|it's, it's the type of thing there that, uh, you know,|sv
+B|the Third World countries are less industrial|sd
+B|and they want to become industrial|sd
+A|Uh-huh.|b
+B|so they're on the different part of the cycle of the U S.|sd
+B|The U S used, you know, all the air pollution stuff and air polluting technologies to get where it is today.|sd
+A|Right.|b
+A|And that's one of the arguments that the Third World countries have been using is, that basically they don't want to have to pay for our mistakes if, if that makes any sense.|sd
+A|Uh, in terms of,|%
+B|Or, or they want the right to make the same mistakes themselves to bootstrap them up to the way, where we got to.|sd
+A|Exactly.|aa
+A|Exactly.|aa
+A|Uh, those of kind of, yeah, those are joining arguments,|sv
+A|but, uh, I don't know,|h
+A|that's, that's kind of an interesting situation there.|sv
+A|Uh, what they don't realize, those third world countries, what they don't realize is how quickly the ozone is depleting.|sv
+A|I guess the latest figures are up to fifty percent at the Poles|sd
+A|and it's, it's increasing even as far near the Equator as like Florida and Cuba and those places.|sd
+B|Yeah.|b
+A|So it's kind of an interesting situation.|sv
+A|It's not not a real good one actually.|sv
+B|No.|aa
+A|But,|%
+B|Well, you also have the very close related thing of the, uh, rain forest destruction which is the main source of what's clearing out the atmosphere and replacing some of the pollutants.|sv
+A|Yeah.|b
+A|Uh-huh,|b
+A|yeah.|aa
+A|Yeah,|b
+A|you don't get that, that source of cleansing anymore.|sv
+A|Are, have you been in big cities a long time?|qy
+B|Mostly, I've mostly been in the east coast,|na
+B|so that's going between Atlanta, D C area,|sd
+A|Okay,|bk
+A|so you've got,|%
+A|Yeah,|b
+A|those are actually areas that are hit pretty hard, I would think.|sv
+B|Well, not, not as hard as some places out west because you don't get the, uh, major pollution sources as you do out in Denver with the  inversion  and Los Angeles and rest of California which is just terrible it sounds.|sd
+A|Yeah,|aa
+A|Denver's  definitely|sd
+A|yeah,|aa
+A|that's one of the worst.|sv
+A|Sure.|aa
+A|Yeah,|aa
+A|Denver's that, that real good that real good, uh, example of sitting in a valley, kind of like Mexico City does, I guess.|sd
+B|Uh-huh.|b
+A|Mexico City is historically been one of the worst in the, in the world for that.|sd
+B|Yeah.|b
+A|But I've been pretty lucky,|sv
+A|I've lived in cities that really haven't had that much of a problem, although, uh, I'm really kind of based in Orlando, Florida|sd
+A|and there, you can tell that it's getting worse.|sv
+A|I mean, it, it definitely it's not at a level comparable to Los Angeles or Denver|sd
+A|but you can,|%
+B|Yeah,|b
+B|there, it's almost all automobiles because there's not that much in the way of heavy industry, you know, that would be causing it.|sv
+A|Exactly.|aa
+A|Yeah.|aa
+A|And there's not that much in terms of, of public transportation down there.|sd
+B|Uh-huh.|b
+A|There is,|%
+A|but it's kind of it's,|%

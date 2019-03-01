@@ -1,0 +1,195 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|Do you work?|qy
+B|Yes,|ny
+B|I do.|ng
+A|I think that's the main change.|sv
+A|What do you think?|qo
+B|Well, I think that's a big part of it|sv
+B|and I, I think it maybe started because women wanted outside of the home|sv
+B|and,  I  almost think with our society and, and inflation and the cost of things it's anymore it's almost couples have to work outside the home.|sv
+A|Right.|aa
+A|That's right.|aa
+B|But, but yeah, I think that's a big change|sv
+B|I'd like to not work.|sd
+B|What about you?|qo
+A|Well, I've worked all the time up until just about a year ago.|sd
+B|Yeah.|b
+A|And I just,|%
+A|physically I wasn't able to|sd
+A|and I mean, I love my job.|sd
+B|Uh-huh.|b
+A|But I have four children,|sd
+A|and that's real hard.|sd
+A|You have children?|qy^d
+A|I assume so.|qy^d
+B|Yes.|ny
+B|I have two|sd
+B|and that's been a big deciding factor because I mean I never wanted to be a career woman,|sd
+A|Right.|b
+B|but as long  as I you know, was going to work I was going to do as, as much as I could,  as well as  I could et cetera.|sd
+A|Right.|b
+A|Right.|b
+B|And I, I wanted to stay home when I had kids.|sd
+B|Well, I have two.|sd
+B|I have a four year old and a three year old.|sd
+A|Oh.|b
+B|And we would like two more|sd
+B|but I,|%
+B|it's like, we talked. Uh, I don't want two more unless I can quit and stay home and take care,  of them which is,   something right now  financially it takes both people to work.|sd
+A|Right.|b
+A|Oh.|b
+A|It's real hard.|bf
+B|Yeah.|aa
+A|It's real hard.|bf
+A|I mean even I,|sd
+B|It's full time work.|sd
+A|Yeah.|b
+A|It was so hard for me to work full time.|sd
+B|Uh-huh.|b
+A|Of course, my kids are, are a little older|sd
+A|but then you, then you give up the money.|sd
+B|Yeah.|b
+A|You know?|qy
+B|You do there's|%
+B|of course, you know, everything you give up something|sv
+B|but I just,|%
+B|I,|%
+B|the kids are so wonderful|sd
+A|Yeah.|b
+A|.|%
+B|But I do  think that's one of the major changes. You know,|sv
+B|my mama I remember her being home uh,  you know,  she made breakfast in the morning for us.|sd
+A|Yep.|b
+A|Fine .|fo_o_fw_"_by_bc
+A|Yep.|aa
+A|I know.|sd
+B|And if  she worked it was part time|sd
+B|and it was work that was done while we were maybe at school,|sd
+B|and she was there when we got home.|sd
+A|Yeah.|b
+B|You know, and,|%
+A|Well,  I've decided now in fact, I'm just, I'm substitute teachers aid which is a, afar cry from my travel agent career,  which I loved.|sd
+B|Uh-huh.|b
+A|But I'm, I'm there in the same school as my children, my two littler ones.|sd
+B|Uh-huh.|b
+A|And I'm home when they are home.|sd
+A|In fact, I've had an offer to just work the Christmas season at a local jewelry store,|sd
+A|and I'm just really hesitating,  because  I've, I enjoyed my, the first summer home ever,  so like  seventeen years with my kids.|sd
+B|Yeah.|b
+B|Oh.|b
+B|Oh.|b
+A|I mean, well, I didn't have babies or day care or working as a travel agent|sd
+A|and it was wonderful.|sd
+B|Yeah.|b
+A|My kids  and I, we just had a ball.|sd
+B|See,|%
+B|and I think,|sv
+A|Of course, their,  their ages, they are almost seventeen well, sixteen, fourteen, eleven, and nine|sd
+B|Oh.|b
+B|Oh.|b
+A|and we are just running every direction|sd
+A|and,|%
+B|But see,  it's such an important time to be home. You know.|sv
+A|It is.|aa
+B|And that,  was important to me enough,|sd
+A|It is.|aa
+B|you know, my husband was raised, uh,|sd
+B|his, his parents were divorced when he was young so his mom always worked,|sd
+A|Always worked.|b^m
+B|and he's like  well, you know, what's the big deal about being home,  for your kids.|sd
+A|What, yeah.|b^m
+B|Well, as our kids are getting older, you know, he sees it more.|sd
+B|I said, Russ, you don't understand what it was like to have her home or to if you needed,  Mom  at school, you know, she was there to help|sd
+A|Right.|b
+B|or,  she was  there to take you,|sd
+A|Right.|b
+B|and, and I want to be able to do those things|sd
+B|so.|%
+A|I think that, you know, it's good.|sv
+A|You know, sometimes I'll have the cookies ready when they,  come home|sd
+B|Yeah.|b
+A|and, and a lot of my boys, uh, my older boys' junior high friends will come over.|sd
+A|In fact, everyday,  I've got boys  hanging around,|sd
+A|and it's wonderful|sd
+A|I'm real close to the schools|sd
+A|and, you know, we are just|sd
+A|I, I'm very happy to be staying home.|sd
+B|I think that's wonderful.|ba
+A|But again I miss,  the .|sd
+B|So, where do you see,  us changing in the future?|qw
+A|I don't.|sd
+B|Well, see that was one of the things the, the question I think is,  you know,  what changes do we see|sd
+A|I keep on working .|sd
+A|Right.|fo_o_fw_"_by_bc
+B|and I'm, I'm not sure I, I see it go anywhere.|sd
+B|I think they are still going to have to work.|sv
+A|That we are because it's so expensive.|bf
+A|If we want, uh, extra clothes, the extra car, the extra,|bf
+B|Right.|aa
+A|The thing is, when a woman does work, then there is the clothes to buy,|sd
+B|Uh-huh.|b
+A|and then  there is the gas,|sd
+B|Uh-huh.|b
+A|and then  there is the lunches and then the day care.|sd
+B|The day care eats,   me alive.|sd
+A|You must pay for ,|sd
+A|day care.|sd
+A|Yeah.|%
+B|You know, I pay four hundred fifty to five hundred fifty,  a month  for two kids|sd
+A|Oh  my gosh.|ba
+A|Yeah,|b
+A|for two.|b^m
+B|They would eat you,  alive.|sv
+A|It's almost hardly worth it for you,  to work until they get in school.|sv
+B|I know.|aa
+A|Then you work summers unless you are a teacher.|sd
+A|Are you a teacher?|qy
+B|No,|nn
+B|I'm not,|ng
+B|and I  would love,|sd
+B|you, you, you talked about having the summers off|sd
+B|and I thought, oh, that would be so wonderful.|sd
+B|And I  love the little preschool they are in.|sd
+B|It's wonderful.|sd
+A|Uh-huh.|b
+B|You know, so I feel good about them being there|sd
+B|but it's still not the same.|sd
+A|No.|aa
+A|It's not the same.|b^m
+B|It's just not.|sd
+A|I, I don't see things changing really,|sd
+A|and, and it's terrible for divorced women you know, who are forced to work who maybe don't have a college education.|sv
+B|Uh-huh.|b
+A|Thank goodness I have mine,|sd
+A|and I could get a real good paying job,  if I wanted  to, you know, in fact, I still have offers, you know, please come back,|sd
+B|Uh-huh.|b
+B|Please come back to work.|b^m
+A|and we'll pay you this .|^q
+B|Sure.|b
+A|Yeah,|b
+A|yeah.|b
+A|And it's been a real tough decision|sd
+A|but I'm very happy to be here with my kids.|sd
+A|My kids, we've seen a remarkable difference in,  now that  I'm home.|sd
+B|That's wonderful.|ba
+B|That's wonderful.|ba
+A|Yeah.|b
+A|I'm real,|%
+A|and I'm,|%
+A|but I've been doing a lot of volunteering at the schools and playing lots of tennis|sd
+B|I like that.|ba
+A|Yeah,|aa
+A|yeah.|aa
+A|I know .|aa
+B|Well, we're working on it.|sd
+B|I'm hoping in about three to five years I'll be able to stay home|sd
+B|and my kids, of course, will be in school then|sd
+B|but I'll,  be there  mornings, I'll be there noons,  I'll be  there afternoons and all.|sd
+A|Right .|b
+A|Yeah.|b
+B|I feel like,  that's good|sd
+A|Well,|%
+B|and I can work part days in my husband's business, you know, so that,  he can afford for us to do that,  you know.|sd
+A|Oh, that would be great.|ba
+A|Right.|aa
+A|I think the, the other thing that, that has changed for woman because we are working is we are having less children.|sv

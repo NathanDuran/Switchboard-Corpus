@@ -8,7 +8,7 @@ tokeniser = nlp.data.SpacyTokenizer('en')
 metadata = dict()
 
 # Processed data directory
-data_dir = 'output_swda/'
+data_dir = 'swda_data/'
 
 # File with all swda data
 all_swda_text_file = "all_swda.txt"

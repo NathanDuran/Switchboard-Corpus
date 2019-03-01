@@ -1,0 +1,102 @@
+B|Okay, Lowell,|fo_o_fw_"_by_bc
+B|so I'd like to know, um, what, what do you do in lawn and garden,|qw
+B|what, uh, what's, what's of interest to you|qw
+B|and how do you go about it?|qw
+A|Well, I have a town home,|sd
+A|so I don't do a lot of regular maintenance,|sd
+A|but I do have a large garden out in back,|sd
+A|so we do a lot of things with perennials and, uh, also a few annual plants, uh,|sd
+A|and then every year I grow a garden.|sd
+B|Oh, you do, you do actually, uh, grow a garden to produce food?|qy
+A|Yes.|ny
+B|Uh-huh.|b
+B|So how much room do you have?|qw
+A|Um, we have virtually no room out in front,|sd
+A|and then in the back I'd say we have about an eighth of an acre|sd
+B|Uh-huh.|b
+A|and we pretty much fill it up with, uh, like I said, perennials, things that aren't, don't have to fool with every year,|sd
+A|but then I've got, uh, a twenty-five by twenty area that I do gardening, as far as, you know, tomatoes and cucumbers and beans|sd
+A|and.|%
+B|Oh, that's what I was curious about,|bk
+B|I was wondering whether you had actually some of the flowers that you had planted were bulb type that you would dig up and, and then put down your garden and then put them back in later, or something like that.|qy^d
+B|So you.|%
+A|No,|nn
+A|we have a separate area for the garden.|sd
+B|Uh-huh,|b
+B|you do have a separate area.|b^m
+A|Yeah,|aa
+A|and last year was the first year we tried two new things.|sd
+A|We tried corn,|sd
+A|and we tried a watermelon.|sd
+B|Oh.|b
+B|Uh-huh.|b
+B|Well, tell me this, uh, Lowell,|ad
+B|do you do you enjoy doing that kind of work,|qy
+B|and do you have the time to relax so that you can take advantage of it?|qy
+A|Uh.|b
+A|I enjoy doing it on a limited basis.|na
+A|I don't think that if I,|%
+A|the reason I bought a townhouse is so that I wouldn't,|sd
+A|I get,|%
+A|I'm allergic to grass.|sd
+A|So I don't mow grass or anything like that.|sd
+A|So I think if I had a big home and a big lawn I'd, I don't believe I would enjoy it.|sd
+A|But just on the limited basis that I do it, I do enjoy it very much.|na
+B|Uh-huh.|b
+B|Well, I'm a little more fortunate I think from that point of view.|sv
+B|I'm not allergic to things,|sd
+B|and I moved here in State College quite a while ago and was fortunate to get some land.|sd
+B|So, actually I have nine acres|sd
+A|Oh, wow.|ba
+B|And, uh, for many years I grew sweet corn,|sd
+B|uh, and, and my kids were there,|sd
+B|and so we set up a shop there,|sd
+B|and, uh, I would, uh, collect the corn very carefully, ear by ear,|sd
+B|and it was never more than one to two hours old,|sd
+B|and people came from miles and miles around to get that corn, because they knew it was individually picked and very, very fresh.|sd
+A|How about that.|ba
+B|So we had a nice thing going there,|sd
+B|and it was delicious.|sd
+B|Huh, I really enjoyed that,|sd
+B|and then I also have a, a garden.|sd
+B|Oh, it's probably, uh, twenty-five by thirty or forty, something like that, that I put in my normal food garden things each year,|sd
+B|and, uh, I have a little bit of everything, or a whole lot of everything in the|sd
+B|actually. I love, uh, broccoli, brussels sprouts,|sd
+B|and I have all kinds of tomatoes, kale, and all those good things,|sd
+B|and I rent out my field that I used to plant in sweet corn to a local farmer,|sd
+B|and then he plants about a quarter of an acre of sweet corn for me to use,|sd
+B|so I get out of that amount of work at any rate.|sd
+A|Well, that's nice.|ba
+B|It is, it is very, very nice.|sd
+B|I, I really enjoy it.|sd
+B|My problem is not having enough time to do the job as completely and as thoroughly as I would like.|sd
+B|I enjoy it very much.|sd
+A|That much land requires an awful lot of time.|bf
+B|Yes,|aa
+B|it does.|aa
+B|Uh, and actually I had a pony there for twenty-five years,|sd
+B|and he had two acres that he had for his own grazing|sd
+A|How about that.|ba
+B|So he had his own backyard garden, too.|sd
+B|But that, that worked out very nicely too.|sd
+B|I built him a barn back there where, in the part of my corn field,|sd
+B|and he lived in that,|sd
+B|but, uh, as far as gardening is concerned, we do enjoy it.|sd
+B|My wife is in charge of the flowers.|sd
+B|She does all of the flower gardening throughout the whole property,|sd
+B|and we have, you know, an acre, an acre and a half that the house is sitting in the middle of,|sd
+B|and she has flower gardens and bulbs, perennials and things.|sd
+B|We have blueberries, blackberries.|sd
+B|I have two or three, uh, apple trees,|sd
+B|the Golden Delicious were fantastic this year.|sd
+B|My neighbor has pear trees, and, um, oh, blueberries, all kinds of food around there, if we just had time to take advantage of it.|sd
+B|My wife has spent probably I don't know how many hours in the last two or three weeks canning pears, because there were so many of them,|sd
+B|and I have been totally engulfed with Golden Delicious apples.|sd
+B|I just couldn't handle the, the amount of them we got this year.|sd
+B|It's really been a remarkable year.|sd
+A|Well, I bet you could answer a question for me.|sv
+A|What's a good apple to bake pies with?|qw
+B|I use my Golden Delicious,|sd
+B|and they make delicious pies.|sd
+A|Are there 'n|qy
+A|there's an|%

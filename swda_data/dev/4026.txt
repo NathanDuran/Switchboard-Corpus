@@ -1,0 +1,120 @@
+A|So. How's your products been?|qo
+B|Um, I really haven't had, uh, too many problems.|sd
+B|Uh, seems to me that everything that I buy goes bad just after the warranty runs out.|sd
+A|I hear that one.|ba
+A|Have you had any lately go out?|qy
+B|Yeah,|ny
+B|I've had a dryer, an ice maker, a microwave, all three,|sd
+B|and they,|%
+B|unfortunately I bought them all three at the same time, when I bought my new house,|sd
+B|and, uh, I really don't have any recourse,|sd
+B|so I had to call and have them all repaired and that.|sd
+A|Oh, wow.|ba
+B|Yeah,|b
+B|it was a hassle.|sd
+A|So you didn't get anything,|qy^d
+A|even, all the, all the warranties were out?|qy
+B|Yeah,|ny
+B|the warranty on the refrigerator, uh,|sd
+B|the|%
+B|the refrigerator warranty's still good,|sd
+B|but the ice maker itself, passed its three years,|sd
+B|and it was three years and two months.|sd
+A|You're kidding.|ba
+B|No.|nn
+A|Yeah,|b
+A|we just moved into a new house, too,|sd
+A|so we had to buy all those, too.|sd
+B|Uh, watch out.|ad
+A|Yeah,|aa
+A|the only thing I've had problems with is, um,|sd
+A|I buy a lot of wood working equipment through the mail|sd
+B|Uh-huh.|b
+A|and I bought this paint stripper where they advertise that it's nontoxic and such,|sd
+A|and when you get the product it ends up being toxic and all these warnings.|sd
+A|So.|%
+B|Um.|%
+A|I didn't return it because it'd probably cost me more than,|sd
+A|I just ended up using it.|sd
+A|But, that's about the only thing I've had gone wrong.|sd
+A|But.|%
+B|I usually have pretty good luck with appliances,|sd
+B|but I just, uh,|%
+B|it was within two days that all three of these stopped working,|sd
+B|and the the ice maker was, uh, had to have a new pump,|sd
+A|That's incredible.|ba
+B|and the, uh, microwave had to have, uh, some kind of something I can't even pronounce,|sd
+B|and they, uh,|%
+B|the dryer had to have a new heating element,|sd
+B|so it was about, almost three hundred dollars for all three of them.|sd
+A|And they all went out at the same time?|qy^d
+B|Uh, within  two days of each other.|na
+A|Or two days.|b^m
+A|Wow.|ba
+B|I was,|%
+B|it wasn't a good week.|sd
+B|I was pretty mad.|sd
+B|And plus the place that I'd bought them all had gone out of business,|sd
+B|so even if I, I think even if I had, uh, had kept the warranty, the service agreements were with the companies that, that manufactured,|sd
+B|but still they were through that retailer,|sd
+B|so I don't know if I could have taken it to another retailer or not.|sd
+A|Wow,|ba
+A|it's frustrating.|sd
+B|But I didn't have to worry about all that, because they weren't under warranty.|sd
+B|So. It was a call to the local appliance dealer who came out and fixed them all,|sd
+A|Uh-huh.|b
+B|but, I,|%
+B|the only other things that I've ever had trouble with, uh,|sd
+B|I seem to have a real bad trouble with electric hair dryers, blow dryers.|sd
+A|Uh-huh,|b
+A|they go out a lot?|qy^d
+B|Yeah,|ny
+B|I've had two or three of those go out.|sd
+B|One was under warranty,|sd
+B|and the other two weren't,|sd
+B|but, I just,|%
+B|other than that, you know, T V and things like that, I haven't ever had any trouble with.|sd
+B|I don't think products are getting much better though.|sv
+A|Yeah.|aa
+A|See I'm in the manufacturing|sd
+A|home from work|sd
+A|and make, um, automotive air bags, the safety air bags.|sd
+B|Oh, really?|bh
+A|Yeah.|ny
+B|That's interesting.|ba
+A|At Morton International,|sd
+A|and, I|%
+A|well, it's, it's changed a lot with the manufacturing environment.|sd
+A|We test everything after each assembly process,|sd
+A|and so our testing is pretty thorough,|sd
+A|but.|%
+B|Do you, do you test each individual one|qy
+A|Um.|%
+B|or do you just test,|qrr
+B|like if you've got ten, you test one,|qy^d
+B|and by the test results of the one you assume that the other nine are okay?|qy^d
+A|Um, the tests that,|no
+A|well, we test every one electrically.|na
+A|We don't,|%
+A|I think they test four or five a day, actually exploding the air bags|sd
+B|Uh-huh.|b
+A|and, but we do test after, during the assembly project, product, um, after we assemble each part of the inflator or what explodes the bag, we check to make sure it's there after we install it,|sd
+A|so, each assembly process has an inspection right after it's done,|sd
+A|and then we do electrical tests on them during the process,|sd
+A|so.|%
+B|Well, that's something I've never had to use,|sd
+B|it's never, I've never been involved in an automobile accident,|sd
+B|so, luckily that's a product that I haven't had to test.|sd
+A|Yeah.|b
+B|But I think it's a great idea.|sd
+B|I'm, I'm,|%
+B|seems like all the good logical ideas take forever to come about|sd
+B|but that.|%
+A|Well, they do the, all the testing that we have to do through the government,|sd
+A|it's incredible how much testing they have to do.|sd
+B|Oh, I'm sure they want to be thorough before they.|sv
+B|But, uh, even,|%
+B|you know, I don't mind spending the extra money on the car if, you know, even if they pass the savings, the cost onto the consumer, because it just seems like a real worthwhile thing.|sd
+A|Uh-huh.|b
+B|I'm not a real big seat belt,|sd
+B|my, uh,|%

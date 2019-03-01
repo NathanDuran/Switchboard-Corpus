@@ -1,0 +1,270 @@
+A|Hi, this is Judy,|fp
+A|I'm from Maryland|fp
+A|and I'm in California visiting right now.|fp
+B|Hi, Judy.|fp
+B|This is Norma,|fp
+B|and I live in Virginia|fp
+A|Oh, okay.|b
+B|We got a great topic|sv
+A|I know.|aa
+A|I'm sitting here going oh, dear|sd
+A|Should we give it a try?|qy
+B|I guess we might as well|na
+A|Okay|bk
+A|Okay.|bk
+B|Okay.|b^m
+A|Well, um, so|%
+B|Let you start|ad
+A|So, so what changes have you seen?|qw
+B|What changes, uh,|t1
+B|I  guess the biggest,|%
+B|I don't know your age Judy,|qw^d
+B|but, uh, in my lifetime the biggest is in more women working,  definitely.|sd
+A|Well, actually,  that's  what I was thinking too.|aa
+B|Yeah.|b
+A|And, um, you know, just to jump ahead a little bit|sd
+A|but then we can back up.|ad
+A|Is it, perhaps, woman in politics is for the future.|qh
+B|For the well, yeah.|sv
+A|Because I don't see that really yet in positions of power, really.|sv
+B|Right.|aa
+B|I don't see them in positions of power in corporation either|aa
+A|Uh-huh.|b
+B|not many.|sv
+A|That's true.|aa
+A|That's true.|aa
+A|Um, do you work in private corporation or government?|qy
+B|I did work in government.|sd
+A|Uh-huh.|b
+B|And before that I worked in a bank for eight years.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b^m
+B|And now I'm retired.|sd
+A|Oh, you,|%
+A|That's the best status.|sv
+B|That's right.|aa
+A|Yes, um,|b
+A|I don't, I see, um,|%
+A|and,|%
+B|Which do you work in, excuse me?|qw
+A|A government.|sd
+B|A government.|b^m
+A|And I work in academia before.|sd
+B|Uh-huh.|b
+A|And, um, actually there's one, um, woman in our, I don't know what you'd call it, uh, institute who is a manager|sd
+A|and, I mean, in a since, perhaps, um, a lot of, she gets protected a lot because it's almost like a token.|sd
+B|Oh.|b
+A|And, and it's sort of unfortunate because, I think that they don't accept her technically|sd
+A|and, but she's a good paper pusher.|sd
+B|Uh-huh.|b
+A|And it's in a technical position really.|sd
+A|And you know she should be more technical for what she does.|sd
+B|Uh-huh.|b
+A|And I think that's sort of unfortunate,  because  it doesn't, it doesn't really help the cause in the long run|sv
+B|Right.|b
+A|But, um, you know, I don't know.|h
+A|And, and teaching I still see that that's where most of the woman are.|sv
+B|In teaching.|qy^d
+A|In teaching.|na
+A|And, you know, and it's always been that way.|sv
+B|But not at the college level.|sv
+A|Right.|aa
+A|Not, well,|%
+B|We live in a college town|sd
+B|and I worked at the university for a while.|sd
+A|Uh-huh.|b
+B|And there are, there are woman there|sd
+B|but they're not the high paid  professors that,  the men are|sd
+A|Uh-huh.|b
+A|Not department,  chairmen.|^2
+A|Yeah.|b
+A|Not the deans and things like that.|bf
+B|Well, they did have one woman dean|ar
+B|but, and I guess she, she probably did very well|sd
+B|but that's the minority.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b^m
+A|Um, and do you think it's because women aren't qualified or, or just don't, or don't want the job or just aren't hired for the jobs.|qy
+B|None of the above|ng
+B|I think they are extremely well qualified.|sv
+A|Uh-huh.|b
+B|Uh, I don't know how,|%
+A|They're just not selected somehow.|sv
+B|I think they're not selected,|aa
+A|Uh-huh.|b
+B|And, of course, at this university, uh,|sd
+B|this, it's a big engineering school|sd
+B|and I don't think there are many women in the engineering college.|sd
+A|Uh-huh.|b
+B|And that's where the high pay is.|sv
+A|Oh, okay.|bk
+A|But I'm wondering how many women actually major in engineering.|qw^d
+A|but, you know, I say that|sd
+A|but yet I know too.|sd
+B|Quite an,|%
+B|well, I think there are more than there used to be.|sv
+A|Yeah,|aa
+A|I'm sure there are, yeah.|aa
+B|But they may not go into teaching,|sv
+A|Uh-huh.|aa
+A|Yeah,|aa
+A|I mean, the two that I know obviously are not in teaching|sd
+A|but,  um,  it's, I suppose in a since I was surprised when they told me they majored in engineering.|sd
+B|Uh-huh.|b
+A|I don't know why.|sd
+A|I, but I don't know that many men that have majored in engineering,  either.|sd
+B|Uh-huh.|b
+A|I mean it's just, because I'm in the humanities it's just,|sd
+B|Oh, uh-huh|b
+A|You know,  it's not,  it's  not something that I tend to hear about.|sd
+B|Yeah.|b
+B|Uh-huh.|b
+A|But, um, yeah,|b
+A|it's a,|%
+B|Well, I met one one day that, uh, had just joined the faculty in agricultural engineering|sd
+B|and that really surprised me.|sd
+A|Oh, that's interesting,|ba
+B|Uh-huh.|b
+A|Yeah.|b
+A|Yeah,|b
+A|I mean, I, I suppose that, that it's difficult to really say why because, uh, you know, there, there probably are a limited number of women who are interested in the subject and well qualified.|sv
+B|Uh-huh.|b
+A|And maybe there aren't, you know,|sv
+A|Maybe they don't apply for the job.|sv
+B|I don't know.|sd
+B|I don't, I don't know how many go on and get a P H D in engineering.|sd
+A|Right.|b
+A|Right.|b
+A|Which could be, you know, partially cultural anyway.|sv
+B|That could be.|aa
+B|That's true.|aa
+A|So that it might be circularly being the same problem of, of expecting not to get hired for the good jobs anyway,|sv
+B|Uh-huh.|b
+A|so  why spend your time getting qualified.|qh
+B|That's right.|aa
+A|It's a, it's a rough It's a rough, a rough situation.|sv
+A|Um, and I guess what I, what, amazes me is the number of men who are willing to stay home with the kids|sd
+A|or and, in our case we actually have one father who works part-time, a six,  hour  day so that he can take the kids, kids or kid, I'm not sure,  to school  in the morning and be home when the children or child,  comes  home in the afternoon.|sd
+B|Oh.|b
+B|That's interesting,|ba
+B|Is it, uh, was she the major wage earner,|qy
+A|This is, uh,|%
+B|I mean, did  she earn more money that he did|qy
+B|or  you know.|%
+A|Well, see,  I don't know  anything about the family|no
+A|but, but, yeah,|ny
+A|I would imagine she might. Um,|sd
+A|because he's, you know, he's a really nice guy|sd
+A|but he did say that because he was in the humanities and he's now working in more of a technical situation that he had trouble finding a job.|sd
+B|Oh, uh-huh.|b
+A|So that maybe he, you know, maybe she was more qualified.|sd
+A|But, but still it's interesting that, you know, he,  he's  been doing this evidently for a, a good number of years.|sv
+B|Uh-huh.|b
+A|And, uh, but it's unusual.|sv
+B|Uh, I know one, uh, gal|sd
+B|that's, she's a C P A,|sd
+B|and her husband is a house husband.|sd
+A|Uh-huh.|b
+A|Yeah|b
+A|I,|%
+B|And then they had a child|sd
+B|and he, he was still the house husband.|sd
+B|He wasn't,  going to,|sd
+A|Oh, he was,  even before they had children.|qy^d
+B|Uh-huh.|ny
+B|Even before that,|sd
+B|right.|na
+A|Oh, now that, that really is|sv
+B|She was a little perturbed about it.|sd
+A|Oh, she was.|bh
+B|At one time.|na
+A|Uh-huh.|b
+B|I don't know how, she's moved away. I don't know how it is now|sd
+B|but I know, uh, we're, we all went out one evening|sd
+B|and after work and, uh, she was, there was an underlying note she was perturbed about it.|sd
+A|Uh-huh.|b
+A|Yeah,|b
+A|I mean I think that would be, it would, it would strike one as strange if there's no reason for somebody to stay home that,|sv
+B|Uh-huh.|b
+B|I don't think there was a valid reason|sv
+A|Yeah|aa
+A|That's true.|aa
+B|Because her statement was, I told him let's face it|sd
+B|you're a house husband|^q
+B|that's what your going, that's what you'll always be.|^q
+A|But, but yet, you know we have to think about that|ad
+A|because if, if she had offered to stay home we wouldn't have thought anything|sv
+B|She wouldn't have be,|sv
+B|that's right.|aa
+B|Uh-huh,|aa
+B|that's right.|aa
+A|So, so we're,  carrying our own prejudice|sv
+B|it would, it  wouldn't have been a doubter .|sv
+B|Uh-huh.|aa
+B|That's true.|aa
+A|Yeah.|b
+A|Oh, gee.|ba
+A|I guess we can't win|sv
+B|Huh-uh.|aa
+B|Oh.|%
+A|Because if, yeah, if, if somebody does if and breaks tradition you're surprised.|sv
+A|But if|%
+B|That's right|aa
+A|Oh, dear.|ba
+A|So, so,|%
+B|I think maybe more men would like to be if they weren't put down so badly|sv
+A|If they could get away with it|^2
+A|Oh, dear.|ba
+A|You know, well, uh, I mean it, it's an interesting topic|sv
+A|yet I must say it's not one that I've given a great deal of,  of  thought to|sd
+B|Huh-uh.|aa
+A|but, uh,  in the past.|sd
+B|No,|aa
+B|I didn't.|sd
+A|It's, um, one of those things that, you know, seems to happen.|sv
+B|How do you feel your career has gone?|qo
+A|I don't, I don't feel for the most part that I've been discriminated against.|sd
+B|You don't.|bh
+B|That's good.|ba
+A|No.|nn
+A|I was a department chairman.|sd
+A|I, but I don't like administration.|sd
+B|Oh.|bk
+A|So then I'm, uh, uh, probably a poor example, although, you know, I was an administrator and could still be I suppose.|sv
+B|Uh-huh.|b
+B|I was discriminated against very definitely in banking.|sd
+A|Uh-huh.|b
+B|It was terrible.|sd
+A|Oh, really.|bh
+A|You were, you were more ambitious than they would let you be?|qy
+B|Right.|na
+B|And the money didn't go with the positions.|sd
+A|Yeah.|b
+A|Yeah.|b
+A|Well, I would,|%
+B|The promotion, promotions came|sd
+B|but there there comparable pay for the responsibility.|sd
+A|Uh,|b
+B|And I was told you don't need as much pay as I have because your children are older than my children,|sd
+B|or your husband has a good job|sd
+B|and|%
+A|Oh, jeez.|ba
+A|Yeah,|b
+A|actually in a since I suppose, when I was hired into the government, um, at, I was taken advantage of|sd
+A|and, and that's true that, you know, sometimes other people get, get higher increments,  for, you know,  even,|sv
+B|I|%
+B|uh-huh.|b
+B|I think we, uh, are programmed to just take it as it comes.|sv
+A|Right.|b
+A|Right.|aa
+A|That's probably true.|aa
+A|I hadn't, I hadn't thought about it because I do like what I do|sd
+A|and,  uh,  I just sort of ignore the administrative,  part  of it since I didn't like it when, when I had to do it.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|So I, I figure, you know, nobody must, uh, nobody must like it.|sv
+A|It must be a rotten job for everybody|sv
+A|But I know some people thrive on it|sd
+A|Oh, gee.|ba
+A|Well, since I don't have a whole lot more to say on the topic.|fc
+B|I don't,|%

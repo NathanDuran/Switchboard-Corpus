@@ -1,0 +1,196 @@
+B|What kind of a car do you drive now?|qw
+A|I drive a Honda Prelude.|sd
+B|Do you?|bh
+B|I drive a Honda Accord.|sd
+A|Oh, yeah|b
+B|Yeah|b
+A|I bought mine a year ago|sd
+A|so I'm not buying a car any time soon.|sd
+B|Yeah,|aa
+B|me either.|sd
+B|I just bought mine, uh,|sd
+B|it will be a year in August.|sd
+A|Yeah.|b
+B|I love it though.|sd
+B|I love Hondas.|sd
+A|Yeah.|b
+A|It,|%
+B|I think I found my car.|sd
+A|Well, I, I like where all the controls are they're, they're in good spots|sd
+B|Right.|b
+B|Oh, really,|bh
+A|Yeah.|ny
+B|I have a standard.|sd
+A|But, um,|%
+A|I,|%
+A|it's, an it's supposedly real reliable|sd
+A|the only thing I've ever heard about Hondas is that the breaks go out first.|sd
+B|Oh, really?|bh
+A|Yeah.|ny
+B|I hadn't heard that.|sd
+A|Yeah.|b
+B|What did you have before you bought that.|qw
+A|I had a Buick Regal.|sd
+B|Did you?|bh
+A|Yeah.|ny
+B|I had, uh, a Mazda R X Seven before that|sd
+B|and that was the worse car I've ever driven in my life.|sd
+A|The Buick was, was great.|sd
+A|It was nine years old|sd
+A|and it, was still going strong.|sd
+B|Really?|bh
+A|The only problems I had with it in the nine years that I owned it, I had to replace the compressor when it was about seven years old.|sd
+B|Really?|bh
+A|And that was the only major problem that I had, I mean,|sd
+A|I had like little piddly things like I had to replace the muffler|sd
+B|Yeah.|b
+A|and I had replaced the tires|sd
+A|and, uh, seems like it had a radiator leak once.|sd
+A|But I never had any major anything, other than the compressor.|sd
+B|Right.|b
+B|I really never had anything major with my Mazda|sd
+B|but it was a standard also|sd
+B|and the clutch went out on it toward the end,|sd
+B|I had it five years|sd
+B|and the last year, last two years it seemed to go out really easily.|sd
+B|I think it went out twice in two years|sd
+B|and that's, that's a lot|sv
+B|it shouldn't go out that much.|sv
+A|Huh-uh.|aa
+B|And so I went ahead and bought another standard when I bought the Honda|sd
+B|but I don't think I'm going to do that again.|sd
+B|I think I'm going back to automatic now.|sd
+A|Well, I never, well,|sd
+A|I kind of know how to drive standard|sd
+A|but I've never owned one|sd
+A|so I hadn't, I don't drive one a lot.|sd
+B|Right.|b
+A|So, I don't feel comfortable in traffic with it.|sd
+B|Right.|b
+A|And for everything I've heard it's a lot easier to sell an automatic.|sd
+B|Yeah,|aa
+B|it is.|aa
+A|And, and resale value is really important to me|sd
+B|That's true.|aa
+B|Yeah,|aa
+B|it is me too|sd
+B|that's why I got the Honda.|sd
+A|Yeah.|b
+B|Hondas have great resale value.|sd
+A|Yeah.|b
+B|The Mazda definitely did not|sd
+B|Not at all.|sd
+B|They're worse than American cars I think or just as bad as far as resale goes.|sd
+A|I did pretty well with my, uh, Regal because it was in really good shape|sd
+A|but, it still looked real nice,|sd
+B|Yeah.|b
+A|the, the interior was still really nice,|sd
+A|there wasn't cracks all over the dash board and stuff.|sd
+B|Right.|b
+A|And it had some, some nice features.|sd
+A|So I ended up okay with the Buick,|sd
+B|Good.|ba
+A|and I anticipate the same thing with the Honda whenever I decide to sell it,|sd
+A|of course, I may never sell it|sd
+B|Right.|b
+A|I may drive it until it's dead|sd
+A|but,|%
+B|Yeah.|b
+B|That's what I did with the Mazda, drive it until the, until the clutch went out and the wheels fell off,|sd
+A|Yeah.|b
+B|so, probably what I'll do again.|sd
+A|Yeah.|b
+B|But I really like the Hondas.|sd
+B|I like foreign cars a lot.|sd
+A|Uh-huh.|b
+A|Well,|%
+B|I looked at the Mitsubishi Galant.|sd
+B|I was looking for a four door car having driven the R X Seven so long,|sd
+A|Uh-huh.|b
+B|and it was so small|sd
+B|and it's really impractical.|sd
+B|So, I wanted something with a real trunk, and four doors something easy to get in and out of|sd
+B|and I looked at the Galant|sd
+B|and those were really nice|sd
+B|and I can get them for a great price.|sd
+A|Yeah.|b
+B|But I found it hard to deal with the, the dealership I was going through.|sd
+A|Oh.|b
+B|So, that's how I ended up with a Honda.|sd
+A|I wasn't even looking for a car when I bought this car.|sd
+A|I, uh, I was thinking about buying a Prelude from a friend who was moving to New York or something|sd
+A|so and she was going to sell her car because she didn't need it anymore|sd
+A|and it was only like a year old|sd
+A|and I had never driven, uh, a Prelude.|sd
+A|So, I went to a dealership because they had like, uh, the same year and same model, of Prelude on their used car lot|sd
+B|Right.|b
+A|and I went and I test drove it|sd
+A|and, you know, I just fell in love, with this brand new white Prelude, uh, you know, two liter S I with the sun roof and the moon roof|sd
+B|Oh, yeah.|b
+B|They're nice I think.|sv
+A|and I, bought it loaded.|sd
+B|Oh, yeah.|b
+B|Oh, yeah.|aa
+B|I have to have them loaded,|sd
+A|Oh,|%
+B|um, I love all those little things that you don't need|sd
+B|but they're so wonderful.|sv
+A|Yeah.|aa
+A|I went there looking at a used car|sd
+A|and two days later I bought this car.|sd
+A|I felt like, I felt like that was the worst impulse, that was, that was largest impulse that I, that I had ever made.|sd
+A|The the two, other things that I bought on impulse are a V C R and a washer and dryer.|sd
+B|I understand.|ba
+A|I go for the big stuff.|sd
+B|Yeah.|b
+B|I noticed|sd
+B|Mine was definitely not impulse|sd
+B|I really needed a new car.|sd
+B|Mine was just, it was getting worn out I guess from being a sports car.|sd
+B|I drove it kind of hard,|sd
+A|Oh.|b
+B|and I got it right after high school.|sd
+B|So, by the time I traded it in it was ready.|sd
+A|Yeah.|aa
+A|I got, I got my Buick as a high school graduation gift.|sd
+B|Did you?|bh
+A|Yeah.|ny
+A|But I, I guess this wasn't really an impulse, I mean,|sd
+A|buying it right then and, you know, right quickly was kind of impulsive|sd
+A|but I'd been thinking about buying a new car for about three years|sd
+A|and I was just scared to.|sd
+B|Right.|b
+A|I was scared to start taking on payments because the Buick was long since paid for.|sd
+B|Right.|aa
+B|That's the same with me.|sd
+B|Would you ever buy a used car for a new car for yourself?|qy
+A|Buy a, you, buy a used car?|br
+B|Like,|%
+B|Right.|aa
+A|Sure.|na
+B|I, I was going to buy one once|sd
+B|but I just, I worry about who's driven them and what they've been through and the warranties and things like that.|sd
+A|Yeah.|b
+B|Just, I can't seem to get over that.|sd
+B|That just bothers me|sd
+B|I don't know why.|sd
+A|Well, um, like on Hondas they,|sd
+A|supposedly, the maintenance records was supposed to be registered with Honda or whatever|sd
+A|and you can request whatever maintenance records exist on cars|sd
+A|and you can have them checked out by mechanics and stuff.|sd
+B|Yeah,|aa
+B|that's true.|aa
+A|I mean they can't stop you from doing it.|sd
+B|Hoping that they do go to a Honda dealership to get them serviced.|bf
+A|Yeah.|aa
+B|Yeah.|b
+A|Well, and even if they didn't, you can still get a good idea from a, if you can get a good mechanic to, check it over real carefully and check the block and everything.|sv
+B|Yeah.|b
+B|That's true.|aa
+A|So.|%
+B|Well, I guess that's all.|sd
+A|Okay.|aa
+A|Well, I enjoyed talking to you.|fc
+B|I enjoyed talking to you.|fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc

@@ -1,0 +1,99 @@
+B|Uh, tell you what. Um, I'll let you start|oo_co_cc
+A|Okay.|aa
+A|My major source of information, I guess, is T V news|sd
+A|Excuse me. I, uh, wake up to it in the morning.|sd
+A|This is my, I guess, my prime time for news, first thing in the morning while I'm getting ready to go to work.|sd
+A|Oh, I quite frequently glance through headlines or, in the newspaper.|sd
+A|But, uh, primarily mine is T V news.|sd
+A|How about yourself?|qo
+B|Yeah.|b
+B|I have to, have to agree with you, um,|sd
+B|I normally don't have time in the morning to, to watch any type of T V.|sd
+B|Usually catch it going to work on the radio. Or when I drag the paper in from the front and it catch the head lines, which is normal what you see the night before on the evening news.|sd
+A|Huh-uh. * I think this, and successive "Huh-uh" answers, should be "Uh-huh"|aa
+A|True.|aa
+B|So I've, I've kind of,|%
+B|we have a one year old in the house|sd
+B|so it's kind of hard sometimes to watch T V during the night,|sd
+B|but I usually try to catch the ten o'clock or, um, those type of .|sd
+A|Huh-uh.|b
+B|I have to say, during the war we're, the American public was probably flooded with too much information|sv
+B|and as far as the sub question about the, was, am I satisfactorily covered , I have to say yes.|sd
+B|But when it came to the war issues, who's telling the truth.|sv
+B|Between the channels there was, uh, the casualties, the amount of missiles launched were different|sd
+B|and it was almost too much information, over communicated.|sv
+A|Well, that's true,|aa
+A|but I,|%
+A|my personal opinion is that the various network news medias were trying to interpret the news to the best of their abilities since they were not very well informed by the military.|sv
+B|True.|aa
+B|I agree with you.|aa
+A|Now, I can appreciate that, especially after what happened in Vietnam.|sd
+B|Yeah,|aa
+B|which is a joke.|sv
+A|Uh, let's face it,|fo_o_fw_"_by_bc
+A|today's, uh, means of communication, we could, a newscaster could very well giveaway a piece of top secret information. And, uh, pat himself on the back for, for, uh, making a good scoop.|sv
+B|Huh-uh.|b
+B|Yeah.|aa
+B|That's a good point.|sv
+B|Um, but I would have to say across-the-board, I'm satisfied with the way, uh, the news is spread.|sd
+B|Um, of course here at Texas Instruments, uh, the rumor mill runs rampant.|sd
+B|The secretary's probably the best resource, of what the layoff status is.|sd
+A|Very true.|aa
+A|I find T-News very enlightening, too.|sd
+B|Yeah.|b
+A|And I check that everyday.|sd
+A|Of course, with that goes along with the stock price of T I.|sd
+B|Yeah.|aa
+B|I agree you.|aa
+B|I think, I'm glad you mentioned that, because I think I have to, since I don't have the opportunity in the morning I'll probably catch the head lines on T-News .|sd
+B|That's a good point.|sv
+A|Of course, T-NEWS is more or less headlines,|sd
+B|Huh-uh.|b
+A|Uh, I don't think much of their sports coverage.|sd
+B|Yeah|aa
+B|True.|aa
+B|Kind of,|%
+A|Only give the scores.|sd
+B|Yeah.|b
+A|But, uh, that's all right.|sd
+A|I'm not, outside of pro football, I'm not too interested in other games, other sports, anyway.|sd
+B|Huh-uh.|aa
+A|But, the, uh, T-NEWS is a good way to keep up-to-date.|sv
+A|I think they do a pretty good job of selecting the most important items.|sv
+B|Yeah.|aa
+B|They do.|aa
+B|Surely do.|aa
+B|Uh, anything else crossed your mind.|qy
+B|I guess most of us go by the audio, which is the television or the radio.|sv
+A|Huh-uh.|b
+B|Um, but you need to continue to read, so you people learn to read, you know|sv
+A|Well, I spent twenty years in profession, commercial broadcasting radio and T V,|sd
+A|and I know what it takes to get some of those little bits and pieces of news on the air,|sd
+B|Huh-uh.|b
+A|I mean, there, there are times where, uh, the reporter actually will risk is life, life and limb.|sd
+A|I've seen it happen time and time again.|sd
+A|And, uh, well, I remember one time up in Nashville, Tennessee.|sd
+A|One of the fellows got mixed up in a riot that was going on down there,|sd
+B|Huh-uh.|b
+A|but he was lucky he got out of it for some reason.|sd
+A|Because he was carrying a camera,|sd
+A|uh, they left him alone.|sd
+B|Ouch.|ba
+B|Everybody got excited.|bf
+A|Huh-uh.|aa
+B|That's tough.|sv
+B|That's tough.|sv
+B|Well, I've enjoyed speaking with you.|fc
+A|Nice to talk to you, too, Jim.|fc
+B|Did you get your catalog on your, your gifts?|qy
+A|No.|nn
+B|Really I just got mine in the mail|sd
+B|so, it kind of sparked me to keep calling|sd
+A|Oh.|b
+A|Well I'll be looking for it then.|sd
+B|There not to shabby. *Correction "They're not too shabby"|sv
+B|They're pretty good.|sv
+A|Is that right?|bh
+B|Yeah.|ny
+B|Have a great day.|fc
+B|Bye-bye.|fc

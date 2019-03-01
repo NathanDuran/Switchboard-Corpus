@@ -1,0 +1,166 @@
+A|Well, uh, let's see,|^2
+A|what type of car do I want?|^2
+A|Well, I'd like to have a Corvette.|sd
+B|Oh, wow.|ba
+A|But my, uh, weekly wages don't apply for me to have that kind of car,|sd
+A|so|%
+B|Yeah.|b
+A|uh, I'm engaged to get married|sd
+A|so, I'll more likely get a car for economic reasons.|sd
+B|Right.|b
+A|Yeah,|b
+A|and, uh, so, uh, to drive back and forth to work is all I'll need a car for pretty much.|sd
+A|And we have a truck,|sd
+A|so probably a economic size car or, uh,|sd
+B|What kind of a car do you have now?|qw
+A|Right now I have a eighty-seven Cavalier.|sd
+A|It's a piece of|sd
+B|My car is really old, too,|sd
+B|because, uh, I drive out of town a lot of the weekends|sd
+A|Uh-huh.|b
+B|and, uh, I would like my next car to have good gas mileage.|sd
+A|Right.|b
+B|And, uh, same here, uh,|sd
+B|you know, a nice car, American made|sd
+B|and, uh, you know, a, a nice car, but not too expensive,|sd
+B|because, uh, I couldn't afford like a brand new like Lamborghini|sd
+B|I hardly drive,|sd
+A|But while we're talking,|%
+A|right|b
+B|While we're talking, my next car, I'd like to be sporty and, you know nice,|sd
+A|Right.|b
+B|but, you know, it's expensive|sd
+B|and then insurance is really high for that, too|sd
+B|so, Something with a, that's not too sporty because of insurance, then|sd
+A|Oh, I know.|ba
+A|Right,|b
+A|that insurance does come into play.|^2
+A|I forgot about that.|sd
+B|Yeah.|b
+A|What kind of insurance do you have up there|qw^d
+A|or is it real high up there?|qrr
+B|Uh, no|nn
+B|mine just got lowered because I just turned twenty-one|sd
+B|and, uh, I'm not sure really how much I pay.|sd
+B|I just,|%
+B|my mom's helping me out, you know, because I'm a college, I'm in college|sd
+B|and, uh, so I just give her the money and take her word for it|sd
+A|Right.|b
+A|Right,|b
+A|I mean that insurance is high dollars.|sd
+B|Yeah,|b
+B|yeah,|b
+B|it is,|sd
+B|so,|%
+A|But,|%
+B|And the more expensive the car, the higher it is|sd
+B|so, Unless I win the lottery, I won't be driving, anything too expensive.|sd
+A|Right,|b
+A|yeah.|b
+A|Right.|b
+B|I don't plan on buying a car for many, many years|sd
+B|so,|%
+A|Right,|b
+A|yeah.|b
+B|I have to make this one last as long as I can.|sd
+A|What's everybody drive up there?|qw
+B|Uh, in Kenosha?|qy^d
+A|I mean in Wisconsin, they drive them little four wheelers or four wheel drive|na
+B|Oh, it just is,|%
+A|or, do you all need four wheel drives up there because of snow and everything?|qrr
+B|Yeah,|ny
+B|we, we have a Jeep with four wheel drive because, uh, because of the snow, you mean|sd
+B|or,|%
+A|Right,|b
+A|it never snows down here,|sd
+A|so,|%
+B|Well, we don't have any snow here now.|sd
+A|Really?|bh
+B|It all melted.|sd
+B|Yeah,|b
+B|there is no snow at all.|sd
+A|We haven't had snow yet.|sd
+A|We usually only get like once a year or so.|sd
+B|Huh.|b
+A|Kind of strange to you all, huh?|qy
+B|Yeah.|ny
+B|Yeah,|ny
+B|it is.|sd
+A|Because, how,|%
+A|it's like seventy degrees here right now.|sd
+B|Oh, don't tell me that|ad
+A|Yep,|b
+A|how, how cold is it there?|qw
+B|Well, actually, it's been warm,|sd
+B|it's in the forties.|sd
+A|Really?|bh
+B|Yeah,|b
+B|and that's, that's really warm.|sd
+A|Huh.|b
+B|Uh, and it's supposed to rain tomorrow|sd
+B|so we,|%
+B|I've only seen snow once this year.|sd
+B|And it was really bad|sd
+B|and then it all melted like within the week.|sd
+A|Really?|bh
+B|And now there is no snow,|sd
+B|so,|%
+A|Huh.|b
+A|But, um, so what, what is your dream car?|qw
+B|Uh, I haven't really thought about it.|sd
+B|I'm not too big on cars.|sd
+B|I mean, I don't know the names and stuff,|sd
+B|but if I were to go to a car lot and like look at them I would pick out one that, you know looked really nice.|sd
+A|Uh-huh.|b
+A|What's your favorite color?|qw
+B|Uh, for a car?|qy^d
+A|Yeah.|ny
+B|Probably blue. Like if it, you know, was just an average, middle class car.|sd
+A|Blue?|bh
+B|But if I were to get a sports car, maybe white or red|sd
+A|Right|b
+A|right.|b
+B|Yeah.|b
+A|So, what kind of car do you drive right now?|qw
+B|Uh, it's a Sky Hawk Buick.|sd
+A|Really?|bh
+B|Eighty-three,|sd
+B|I think.|sd
+A|Really?|bh
+B|Yeah,|ny
+B|uh, like eighty-two thousand miles.|sd
+A|Really?|bh
+B|Yeah.|ny
+A|Oh.|b
+B|I'm afraid it's not going to last me that long|sd
+B|and I hope it does, though.|sd
+A|Yeah.|b
+B|It's a two door.|sd
+B|I like, I like smaller cars.|sd
+B|They're,|%
+B|I find them more comfortable to drive.|sd
+A|Right,|b
+A|does everybody have their windows tinted up there?|qy
+B|Uh, no,|nn
+B|I don't see too many cars tinted.|sd
+A|Everybody has tinted down here.|sd
+B|Oh, I'm sure,|ba
+B|yeah.|b
+B|I could, I could see why.|sd
+A|So, you been down here before?|qy
+B|Yep.|ny
+A|Really?|bh
+B|Uh,|%
+A|Did you like it?|qy
+B|It was busy|sd
+A|Yeah,|b
+A|it's different I bet, huh.|sd
+B|Yeah,|b
+B|It was nice.|sd
+B|I remember, uh, swimming on Easter day|sd
+B|and it was like really cold up here,|sd
+B|but came back with a little tan,|sd
+A|Right|b
+B|so that was nice|sd
+A|It's like, you know,|%
+A|everybody freaks out when it|sv

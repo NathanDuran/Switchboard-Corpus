@@ -1,0 +1,134 @@
+A|Dave.|fo_o_fw_"_by_bc
+A|What kind of pets do you have?|qw
+B|Oh, we have one rotten cat.|sd
+A|One rotten cat|b^m
+B|Yeah,|aa
+B|it's my son's cat.|sd
+A|I heard a laugh in the background.|sd
+B|Yeah,|aa
+B|that's the boys.|sd
+B|They know I don't like it.|sd
+A|Don't you like cats?|qy
+B|Well, I like cats.|sd
+B|This, this cat is a, uh, more like a dog.|sd
+A|Oh yeah.|b
+B|Yeah|b
+B|he's, uh, a one owner.|sd
+B|He likes one boy in the family and that's about it|sd
+A|That's odd.|ba
+A|How does he treat the other people?|qw
+B|Just, uh, stays away or runs usually.|sd
+A|Wow.|ba
+B|But he follows, he'll follow my oldest son around.|sd
+B|You know when he is in the house, he will come up and he'll jump on his lap,|sd
+B|but if anybody reaches over to pet him or whatever, he'll just kind of look at them like what are doing.|sd
+A|Did he raise him or something?|qy
+B|He's, he, we bought the cat for him|sd
+B|and so he's, uh, been the one that you know spent the most time with him.|sd
+B|But I, I've never owned a cat like that.|sd
+B|I've had cats growing up all the time|sd
+B|and you know they are usually either that way with everybody or friendly to everybody|sd
+A|Uh-huh.|b
+A|Huh, that's  interesting.|ba
+B|So,  it's a weird cat|sd
+A|Huh. We have a, a mutt.|sd
+B|A mutt.|b^m
+A|Well, we, we named it Hooper because that's where we got it from.|sd
+B|Uh-huh.|b
+A|Uh, some lady, she, uh,|sd
+A|a lot of people, uh, uh, drop off abandoned, abandoned pets at her house|sd
+B|Oh.|b
+A|and she use to work for a veterinarian|sd
+A|so she would uh, neuter them give them all their shots|sd
+B|Uh-huh.|b
+A|and we saw an ad saying it was free,|sd
+A|so we went down there and picked it up|sd
+A|and it's been an excellent dog,|sd
+A|but it's my first dog I've had|sd
+A|and we got it because my wife stays here at home  alone  while I go to work|sd
+B|Uh-huh.|b
+A|so that's mostly why we got it. To keep her company while I am away at work.|sd
+B|So that, is that, is that kind of your child right now?|qy^d
+A|Uh yeah.|ny
+A|Right now  it, it is.|sd
+B|You feel like.|bf
+A|It's kind of good training.|sd
+A|I mean we have been trying for kids,|sd
+A|but right now we haven't had any,|sd
+B|Oh, uh-huh.|b
+A|but it's pretty good training, I think really, keeps her on her toes|sd
+B|Have, have you had dogs before?|qy
+A|Uh, my brother has.|sd
+A|Uh, we didn't do a lot with them.|sd
+A|Uh, I never felt like it was mine or anything,|sd
+A|you couldn't do anything.|sd
+B|Uh-huh.|b
+A|But, I mean, that did, did more responsibility. When its yours and not your brother's|sd
+B|Yeah.|b
+A|But,|%
+B|Well, I just, uh, we've, you know|%
+B|when I was growing up I had, we always had a dog|sd
+B|and we had mostly mutts,|sd
+B|well not mutts, but mixes you know like one or two mix|sd
+A|Uh-huh.|b
+B|and those dogs always seem to be the best dogs.|sv
+A|That's what we found.|sd
+A|Ours is, uh, like a cockapoo.|sd
+B|Uh-huh.|b
+A|I think it's half cocker spaniel and half poodle.|sd
+B|Uh-huh.|b
+A|But, it's a really good dog.|sd
+B|Yeah.|b
+A|I don't know,|h
+A|they seem to be, I mean, listen better or something.|sv
+B|Uh-huh.|b
+A|Is your cat a purebred?|qy
+B|No.|nn
+B|No,|nn
+B|it's just uh an accident|sd
+B|From a uh, from my, my son's friend down the street.|sd
+B|They're their cat was an outside cat and just end up with some kittens|sd
+A|Uh-huh.|b
+B|and so,|%
+A|Would you ever want a dog in the family?|qy
+B|Uh, we, I would.|na
+B|We, uh, we had a dog that was a, uh, mix between an Alaska Malamute and a Labrador|sd
+A|Uh-huh.|b
+B|and, uh, I should say a pup|sd
+B|and he was just too big for our kids when we got him|sd
+A|Oh yeah.|b
+B|and we, when we moved into our house that was the first thing we wanted to get was, uh, you know, was a pet|sd
+B|and it was a dog that we gotten|sd
+B|and he was, he was just too big.|sd
+A|Uh-huh.|b
+B|Uh, the kids couldn't handle him|sd
+B|and I was still going to school|sd
+B|and my wife was working|sd
+B|and I was working|sd
+B|and so we just didn't have time to really train him|sd
+B|so he was kind of you know, he was too big for the kids to handle,|sd
+B|so he was just tied up to a post|sd
+A|Oh, yeah.|b
+B|so we gave him to, uh,|sd
+B|I don't know if you've,|sd
+B|there is a place out here, uh, called Shorties Lane out here in Harrisville|sd
+A|Uh-huh.|b
+B|and they have, uh,|sd
+B|I guess it's kind of an animal shelter|sd
+B|but he just takes a few the animals in|sd
+B|and some he destroys|sd
+B|and some he keeps.|sd
+A|Uh-huh.|b
+B|So we took him up there|sd
+B|and he ended up keeping him.|sd
+B|Uh, cause he has had him for six or seven years.|sd
+B|We, we've, saw him just about a year ago|sd
+B|and, uh, I thought boy that sure looks like that pup we gave away|sd
+A|Uh-huh.|b
+B|and so we asked him about it one day|sd
+B|and he said yeah,|sd
+B|he's been the best dog I've ever had in my life|^q
+A|Wow.|ba
+B|just goes everywhere with him.|sd
+B|I, he would have been a great, great dog.|sd
+A|He just needed a lot of time.|sd

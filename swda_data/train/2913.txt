@@ -1,0 +1,359 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|well what movies do you like?|qw
+B|Gosh,|^h
+B|I like just about anything.|sd
+B|We, I think the last one we saw was, uh, TEENAGE MUTANT NINJA TURTLES PART TWO.|sd
+A|Oh, now, I I like the turtles.|sd
+A|My little boy's four|sd
+A|and he loves them.|sd
+B|Well, we don't have any kids|sd
+B|but we like them anyway.|sd
+A|Oh, that's okay.|ba
+A|How old are you all?|qw
+B|Um, we're late twenties.|sd
+A|Oh, and you just don't have any yet,|bf
+A|okay.|bk
+B|No.|aa
+A|Well I've got two.|sd
+B|Oh, gosh.|ba
+A|Yeah,|aa
+A|my little girl is three months old|sd
+A|and my little boy just turned four.|sd
+A|I had his birthday party yesterday.|sd
+B|Oh.|b
+A|But he's a turtle fanatic.|sd
+A|He even had turtle cake yesterday|sd
+A|But I've been wanting to see TURTLE TWO.|sd
+A|Is it as good as they say it is?|qy
+B|It was,|sd
+B|it was actually better than the first one, I thought.|sd
+A|Good.|ba
+B|What's the last movie you saw?|qw
+A|GHOST.|sd
+B|Oh|b
+B|we were just, when, when the topic came up, we, I was asking my husband right quick, what's the last movies we saw.|sd
+B|He said well GHOST and TURTLES.|sd
+B|I really liked it.|sd
+A|Now GHOST,|%
+A|yeah,|aa
+A|I love tearjerker movies.|sd
+A|But that wasn't too bad on tearjerker|sv
+A|but, It was, oh, it was good movie,|sv
+B|Not too awful bad.|ba
+B|Yeah.|b
+A|Because that was just so good.|sv
+A|And I like Demi Moore.|sd
+B|Did you see PRETTY WOMAN?|qy
+A|No,|nn
+A|but I've been hearing a lot about it.|sd
+A|I we don't get to the video store very often|sd
+A|and we don't have cable.|sd
+B|Oh, gosh.|ba
+A|Well we don't really want cable,|sd
+A|it's just, you know, glued to the T V all the time anyway.|sd
+B|Yeah.|b
+A|So we get two channels down here.|sd
+A|I'm from Kentucky originally,|sd
+B|Uh-huh.|b
+A|and we used to get five channels without cable.|sd
+B|Yeah.|b
+A|You know, forty,|sd
+A|well I don't think you all have the same channels,|sd
+A|but here in Texas we only get two channels,|sd
+A|and that's, um,|%
+A|do you watch soap operas?|qy
+B|Uh, once in a while, when I'm home.|na
+A|Okay,|bk
+A|you work then?|qy
+B|Yeah.|ny
+A|Okay,|bk
+A|well we get the channel with YOUNG AND THE RESTLESS on it.|sd
+B|Okay.|bk
+A|And then, uh, I think GENERAL HOSPITAL|sd
+A|and that comes on different channel.|sd
+B|Yeah,|aa
+B|it does.|aa
+A|But that's all we get,|sd
+A|and that's no cartoons for my little boy.|sd
+A|But we've got a V C R and a lot of tapes.|sd
+B|Yeah.|b
+A|And, uh, my husband is a movie fanatic.|sd
+B|I think you would really like PRETTY WOMAN,|sv
+B|it was, it was really a,|%
+B|it made you feel really good.|sv
+B|It was just a happy movie.|sv
+A|Oh, what about TOTAL RECALL,|qw
+A|have you seen that.|qy
+B|Yeah,|ny
+B|I saw that one.|sd
+A|That's good.|sv
+B|I, I was disappointed in it just because of how violent it was.|sv
+A|Yeah,|aa
+A|it was violent.|sv
+A|I try to get away from that.|sd
+A|My little boy, oh, he loves ROBO COP.|sd
+A|And that movie, I have to, I'll fast forward it every time they come to the part where there is,|sd
+A|have you seen it?|qy
+B|Yeah.|ny
+A|The part where they're shooting mercy .|sd
+B|I don't like that.|sd
+A|That, oh, that's horrible,|sv
+A|that is horrible|sv
+A|and their, their, the language on that's filthy.|sv
+B|I don't see why they have to do that,|sv
+B|I mean, I mean everybody knows that it, that the, the language is there so they could just ignore it and, you know, use different words instead, I think.|sv
+A|Yeah.|b
+A|Yeah.|b
+A|Yeah,|aa
+A|yeah,|aa
+A|I know.|aa
+B|But I, I think lately PRETTY WOMAN'S been my favorite.|sd
+B|I went and bought the video.|sd
+B|I've probably seen it about fifteen or twenty times.|sd
+A|Um, my husband bought me, like, um, uh, I think PRETTY IN PINK for my birthday.|sd
+A|With, a,|%
+A|wait a second,|ad
+A|I will in a minute Kyle, to child in the|t3
+A|Sorry.|fa
+B|That's okay.|bd
+A|Uh, he bought me PRETTY IN PINK.|sd
+A|Just a second.|ad
+A|the phone and talks to Sorry,|fa
+A|now, you're glad you ain't got a four year old.|sv
+B|That's okay|bd
+B|Now, Now I haven't seen PRETTY IN PINK, Molly Ringwald? *br|sd
+A|It this is the first time he's interrupted my phone calls.|sd
+A|Molly Ringwald.|^2
+A|Yeah.|aa
+A|It was cute,|sd
+A|but, it wasn't,|%
+A|I like the, um, SIXTEEN CANDLES, or sixteenth birthday or,|sd
+B|I think, I think SIXTEEN CANDLES was the name of it.|sv
+A|Yeah,|aa
+A|oh, that was so good.|sv
+A|Of course I was a teenager when I seen that|sd
+A|and I loved it.|sd
+B|I haven't seen it either.|sd
+A|Oh, well if you like love stories, it's sweet.|sd
+B|I do.|sd
+A|Oh, it's sweet,|sd
+A|it really is|sd
+A|And that's a tearjerker|sd
+A|it gets you,|sd
+A|I mean it makes you feel really sorry for her.|sd
+B|Oh, gosh.|ba
+A|But it's hilarious too, especially with that, uh, little guy in it.|sd
+A|Oh he looks like little, I don't know, he looks like a little boy next door,|sd
+B|Oh.|b
+A|but he's sixteen.|sd
+A|Oh, it's a cute movie.|sd
+A|I can't remember his name.|sd
+A|He kind of looks like DOOGIE HOWSER.|sd
+B|Huh, I don't know.|sd
+A|Don't know either.|sd
+A|He's got curly blonde hair,|sd
+A|he just a little freckly, little boy.|sd
+B|Probably know him if I saw him.|sv
+A|Yeah,|b
+A|if I could remember the name, I know you'd know his name, because he's played in a few movies.|sd
+A|But, uh,|%
+B|I was just thinking another good one I saw not too long ago was, um, SLEEPING WITH THE ENEMY.|sd
+A|Okay,|b
+A|I've heard about that|sd
+A|but I can't remember it.|sd
+B|That, that's, that's Julia Roberts' new movie.|sd
+A|Okay,|b
+A|yeah,|b
+A|Julia Roberts is good.|sv
+B|Yeah|aa
+B|she's,|%
+B|this one,|%
+B|you know PRETTY WOMAN was kind of a light comedy and a romance,|sd
+A|Uh-huh.|b
+B|and, and this one was a lot more dramatic.|sd
+A|Wasn't it a murder mystery?|qy
+B|well,|arp_nd
+A|Like, sort of|%
+B|it was like, uh, it was a, it was a mystery.|sd
+B|She disappeared from her uh, husband who was abusing her.|sd
+A|Oh, okay,|bk
+A|the, yeah, that's the one I wanted to see where he was on, she was on a carnival, at a carnival on a Ferris wheel or something.|sd
+B|Yeah,|b
+B|yeah.|b
+A|Well did that come on T V|qy
+A|or did it come out in the,|qy
+B|No,|nn
+B|it came out in the theater.|sd
+A|Oh.|b
+B|And I think, you know, around here, it's all ready quit playing.|sd
+B|But I don't, I don't know if it's still playing any where else.|sd
+A|Well I, I think,|%
+B|But it was, it was, it was one of those that kept you on the edge of your seat.|sd
+A|Real good.|^2
+A|I want to see that.|sd
+A|Yeah,|b
+A|I seen the, uh, previews for it on T V down here,|sd
+A|but it's just been down here a couple weeks, I think.|sd
+B|Oh, okay,|b
+A|Yeah.|b
+B|because we saw it, probably, four or five months ago.|sd
+A|A month|sd
+A|Well I know it hasn't been that long since I've seen the previews for it,|sd
+A|but yeah,|%
+A|I wanted to see it.|sd
+A|Her husband was a, dark haired guy with a beard and moustache,|sd
+A|or|%
+A|no|ar
+A|he shaved the beard off.|sd
+B|Yeah,|aa
+B|he's, uh, he was a real psycho in the movie.|sd
+A|Yeah.|b
+B|It was, it was scary.|sv
+A|Oh, I'd like to see that.|sd
+A|What about, oh,|%
+A|there was a,|%
+A|we got one back here a while,|%
+A|I want to see WAR OF THE ROSES too,|sd
+A|have you seen that?|qy
+B|Oh yeah,|ny
+B|boy I, I didn't like it.|sd
+A|You didn't?|qy
+B|No,|nn
+B|it was,|%
+B|I didn't like the way it ended.|sd
+A|I know,|aa
+A|well the only reason I know why it ended is on ARSENIO HALL one night, Christopher Reeves told, that, you know,|sd
+B|Uh-huh.|b
+A|I can't believe they killed them.|sd
+A|Or, or who was it|qw
+A|Christopher Reeve or Mike Douglas.|qy
+B|Might have been Michael Douglas. Oh, that starred in it. *listen|sv
+A|Yeah.|b
+B|Yeah,|aa
+B|it was Michael Douglas.|sd
+A|Christopher Reeve wasn't in it at all?|qy
+B|Huh-uh.|nn
+A|Okay.|bk
+A|Well Arsenio Hall is the one that jumped up and said that I can't believe they killed them|sd
+A|and Christopher Reeve, or, Mike Douglas went after his throat, you dummy|sd
+A|So I know that they die,|sd
+A|but I haven't told my husband.|sd
+A|We've both been wanting to see it.|sd
+B|It was, I, I, it was, it was weird.|sd
+B|It was a different movie from anything I've ever seen.|sd
+A|well we was, uh, teasing, about, you know, splitting our house down the middle|sd
+B|Yeah|b
+A|They did that didn't they|qy
+A|and they marked off routes that they could go or something|qy
+B|Yeah,|ny
+B|that would be kind of hard for us,|sd
+B|we've only got one bathroom,|sd
+B|I don't know|h
+A|We've got two bathrooms|sd
+A|but, well|%
+A|actually, if he takes,|%
+A|my house kind of looks like two trailers put together.|sd
+A|And one bathroom is at the end of one side|sd
+A|and one's in the middle of the other,|sd
+A|so we could do it.|sd
+B|That wouldn't be too bad.|ba
+A|No,|aa
+A|and he could climb out the window|sd
+A|and we, our whole house has, you know,|%
+A|every room leads to three rooms,|sd
+A|so we can, you know|sd
+B|Get around.|^2
+A|yeah,|aa
+A|you can get around|sd
+A|You just can't go out the front door honey,|sd
+A|sorry.|fa
+B|Well did you see FATAL ATTRACTION?|qy
+A|Yeah,|ny
+A|that's coming back, on too|sd
+B|I know it's going to be on, on the, on C B S Tuesday night|sd
+B|an, and that's kind of what, in a way, you know, how it kind of bothered you, the way it ended and stuff.|sv
+A|Uh-huh.|b
+B|That's kind of how WAR OF THE ROSES was.|sd
+A|Huh, I,|%
+B|Parts of, parts of WAR OF THE ROSES was funny|sd
+B|but then other times it was like it was just deadly serious,|sd
+B|and it just left you with this kind of uneasy feeling, you know.|sd
+A|Eerie feeling,|bf
+A|or, I want to see it though.|sd
+A|I'd like to see that and, uh, THE NEVER ENDING STORY, came out on Disney this month, I think.|sd
+B|I I've heard about that|sd
+A|I wanted to see that.|sd
+B|but I don't know what it's about.|sd
+A|THE NEVER ENDING STORY?|br
+B|Yeah.|aa
+A|It's a child's movie,|sd
+A|but, oh, it's good,|sd
+A|I enjoyed it.|sd
+B|I love Disney movies.|sd
+A|Yeah,|aa
+A|I do too Yeah,|aa
+B|I mean, they're some of the best of, that are made.|sv
+A|yeah.|b
+A|And, uh, well it's about this little boy who, uh,|sd
+A|I think he's up in a attic, or some part of school.|sd
+A|He got locked in the school|sd
+A|and he got scared,|sd
+A|but he starts dreaming|sd
+A|and then, uh, he's saving the land of, uh, oh,|sd
+A|it's been so long since I've seen it.|sd
+A|All I know, all's I can really remember is him flying this great big dog, this great big huge sheep dog sort of looking thing,|sd
+B|Oh|ba
+A|it flies through the air.|sd
+A|And he's trying to save the land from some, ooze|sd
+A|But it's really good,|sd
+A|I mean it sounds|sd
+A|it, it had, uh, Fred Savage in it.|sd
+A|No,|ar
+A|no,|ar
+A|no,|ar
+A|no,|ar
+A|no.|ar
+A|Did you see that movie with Fred Savage in it, though,|qy
+B|I don't think so.|no
+A|with, uh, oh,|%
+A|he had, uh, uh,|%
+A|oh it was THE PRINCESS BRIDE.|sd
+B|Nope,|nn
+B|I didn't see that.|sd
+A|You didn't see that,|b^m
+A|that was cute,|sd
+A|that was real, that was a good one.|sd
+A|I, I like, I like slapstick comedy.|sd
+B|So do I|aa
+B|and a lot of times we'll go to rent a movie or something|sd
+B|and, and you're not sure whether it will be any good or not|sd
+B|so sometimes we stick with the stuff we've heard more about than,|sd
+A|Yeah,|b
+A|well I heard,|%
+A|a friend of mine told me she got NAKED GUN last night|sd
+A|and she said that was hilarious.|sd
+B|Yeah,|aa
+B|now, we saw that,|sd
+B|and and they're coming out with a sequel to it.|sd
+A|Two and a half *is this a title??|sd
+B|It was funny.|sd
+A|It|%
+A|yeah,|b
+A|I want to see that.|sd
+A|She said she rented it last night|sd
+A|and said it was real good|sd
+A|an,|%
+B|And, and WORKING GIRL is really good.|sd
+A|Now, I seen that,|sd
+B|That was good.|sv
+A|was that with that blonde,|qy
+A|she pretended to be the boss or something.|sd
+B|Yeah.|ny
+A|Yeah,|b
+A|I rented that one night by myself.|sd
+A|I was home alone.|sd
+A|Did you see HOME ALONE?|qy
+B|Yes,|ny
+B|I did,|sd
+B|that, that just reminded me of that.|sd
+B|Did you like it?|qy

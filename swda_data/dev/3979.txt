@@ -1,0 +1,65 @@
+A|Afternoon, Doug,|fp
+A|it certainly is, uh, going to be a pleasure to chat with you.|fp
+B|Uh-huh.|b
+A|And I'm, uh, certainly was surprised to, uh, to hear from you.|sd
+A|Normally I talk to people in Plano, Texas.|sd
+B|Yeah,|aa
+B|me too.|aa
+A|How did you get on this list?|qw
+B|Uh, through Nancy Dahlgren.|sd
+B|She, um, she had somehow gotten the information from T I and was distributing it around.|sd
+A|Well, okay.|bk
+A|All right.|b
+A|Well, now, what would you say about these everyday invasions of our privacy?|qw
+A|What ideas do you have on that, Doug?|qo
+B|Um, see, I'm not sure that,|%
+B|I don't think they're necessarily widespread in this country,|sd
+B|but I think that the opportunity is definitely there for, um, people to invade your privacy when they want to,|sv
+B|I think it's, um,|%
+A|In what manner?|qw
+B|Well, it's certainly not that difficult to tap a phone.|sd
+B|It's completely trivial to, for instance, listen in on someone's car phone or walk around phone, since they're just radio signals.|sv
+A|Uh-huh.|b
+B|It's, um,|%
+B|and let's see,|^h
+B|well, what's the first thing that comes to your mind?|qo
+A|Well, the thing that I thought they were, uh, concerned about was, was people calling on the phone from all over the country to sell you something|sv
+B|Uh-huh.|b
+A|and in reality in many cases, they knew, or they had information about you that was purchased from some other organizations.|sd
+A|And I thought was, uh, beginning to invade the privacy of people, because the things about where you live and, and maybe what you purchased in past months is then put down and sent to someone else in the same business,|sd
+A|and they in return, come back and try to sell you something with this additional knowledge.|sd
+A|To me that's an invasion of privacy.|sv
+B|Yeah,|aa
+B|I agree with you there, for sure.|aa
+B|Um, and I think that all that information is quite easy for anyone to get.|sv
+B|It's possible for almost anyone to get information about your credit history, for instance, if they just, um, twist the right arm or claim to be from the right organization when they're calling the credit company.|sd
+A|Uh-huh.|b
+B|It's, you know, possible for a thirteen year old hacker with a modem to find out almost anything about your personal history, not to mention, change it if he wants to.|sv
+A|You mean your history in regards to, uh the charge card company or something like that?|br
+B|Well, um.|%
+B|Well, yes,|ny
+B|well, for instance, yes, um,|ny
+B|and they'll probably goes into other things, like, you know, your records with the government or utility companies or anything.|sd
+A|Do you consider these serious, uh, problems?|qy
+B|Um, uh, not, not yet anyways, because I don't think they're widespread enough,|ng
+B|but I think they have the potential of becoming serious problems.|sv
+A|Uh-huh.|b
+A|Well, what should we do about it,|qw
+A|or what could be done about it, do you think to correct it?|qrr
+B|Um I'm not really sure, because the, I mean society is going more and more electronic,|sv
+B|and there are certainly benefits to its doing so,|sv
+B|and it's hard to, hard to say whether the, um, risks have potential of outweighing the benefits or not,|sd
+B|and I'm not sure what can be done to ensure that they don't.|sd
+B|Why,|qw
+B|do you see any out for us?|qy
+A|Well, I would think that, uh, information held on records, uh, by any company or charge card dealer or person should be absolutely private and, and not be allowed to be, uh, to, given out by those companies.|na
+B|Uh-huh.|b
+A|I mean, it should be made a, a, uh, national or a state law to protect people so that, uh, you would then feel more free to deal direct with these companies.|sd
+B|Uh-huh.|b
+A|In other words, if you call the company yourself, directly, uh, and then know that what you tell them will be on their records but will not be available to anyone else, uh, you know, from the outside, so to speak then you would, you would feel more free to, uh, to go into detail with them|sv
+B|Uh-huh.|b
+B|Yeah,|b
+B|I.|%
+A|but, but we have no control of that now|sd
+B|Uh-huh.|b
+A|and then, uh, you, you're, when you're talking with them you really don't want to tell them everything that's on your mind because you, you feel that it someday might be used against you.|sv

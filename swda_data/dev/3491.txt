@@ -1,0 +1,163 @@
+B|Well, let me see,|^h
+B|what have you seen lately?|qw
+A|Well, uh, CITY SLICKERS, and STAR TREK FIVE.|sd
+B|FIVE?|qy
+A|Yeah|ny
+A|yeah.|ny
+B|only, only five?|qy
+A|Yeah.|ny
+A|I thought I'd better see that one before I go and see six.|sd
+B|Well, no,|ar
+B|didn't need to.|sv
+A|No,|aa
+A|I found that out|sd
+A|How about yourself?|qo
+B|I just saw the latest one.|sd
+A|How is it?|qw
+B|It was fantastic.|sd
+A|Oh, I can't wait.|sd
+B|Yeah,|b
+B|it's,|%
+B|the lines in there were just perfect.|sd
+B|I mean, it was classic TREK.|sd
+A|Now, does the old STAR TREK guys meet the new guys?|qy
+B|No,|nn
+B|huh-uh.|nn
+A|No,|b
+A|it's just the old guys still.|qy^d
+B|Yeah,|ny
+B|it was just a rumor that that would happen this time.|sv
+B|However, the rumor is, is that it will happen next, happen next time|sv
+B|so,|%
+A|You know, that I read in PEOPLE or somewhere, no, it was U S A TODAY|sd
+B|Uh-huh.|b
+A|that they said they weren't going to do anymore.|sd
+A|That was it.|sd
+B|Uh-huh.|b
+A|But,|%
+B|Yeah,|b
+B|uh, except that the rumor is, is that they still might,|sv
+B|but it may not include the entire crew|sv
+B|and it will be a next generation meets this generation|sv
+A|Huh.|b
+B|So,|%
+A|I'm not sure what the difference in light years between the new generation and the, the old guys was.|qw^d
+B|I think it's a hundred years.|sd
+A|Huh.|b
+B|Somewhere in that range.|sd
+B|Considering that Spock was on an, uh, you know, couple weeks ago and that the, the very first episode of NEXT GENERATION, they had McCoy.|sd
+A|Oh, that's right.|aa
+A|Is that right?|bh
+A|He was a doctor still?|qy
+B|And,|%
+B|Uh-huh.|ny
+B|Yeah,|ny
+B|well, you know, he was rear admiral, whatever, you know,|sd
+B|and he just kind of hobbled down the halls real slow.|sd
+B|Vulcans age a lot better|sv
+A|Well, yeah,|aa
+A|he didn't look too bad, did he?|qy
+B|No,|nn
+B|huh-uh.|nn
+B|Matter of fact, he looks just as about as old and the, uh, NEXT GENERATION as he does in the latest STAR TREK|sd
+B|Imagine that.|ba
+A|Yeah,|b
+A|that's amazing.|ba
+A|But, did they have some pretty good special effects?|qy
+B|Oh, excellent, excellent special effects.|na
+B|But I think the script was, you know, just incredible compared to the last one.|sv
+A|Yeah,|aa
+A|FIVE was, the script was bad, bad, bad|sv
+B|Well, you know why?|qh
+A|No,|nn
+A|I don't.|sd
+A|Why?|qw
+B|Uh, William Shatner wrote it.|sd
+A|Oh, is that right?|bh
+B|And even worse, he directed it.|sd
+A|Uh,|b
+A|Leonard, Nimoy, he does a lot better.|sv
+B|Oh, yeah,|aa
+B|he, in fact, uh, he didn't direct this one.|sd
+B|He produced this one|sd
+B|But he directed the one before, uh, I think STAR TREK FOUR, something like that.|sd
+A|IN SEARCH OF SPOCK, or, no, JOURNEY HOME, I think that was.|sd
+B|Yeah,|aa
+B|uh-huh.|aa
+A|Are, you're a real life Trekkie?|qy
+B|I think so|na
+A|I really like them.|sd
+A|I, I wouldn't go so far as being a Trekkie,|sd
+A|but|%
+B|Uh-huh.|b
+A|uh,|b
+B|Well, I've gone to, you know, one for real live Trek Convention|sd
+B|but,|%
+A|Oh, really?|bh
+B|Yeah,|ny
+B|I saw James Doohan, you know, the guy that plays, uh, Scotty.|sd
+A|Huh, did you get to talk to him?|qy
+B|No|nn
+A|It was crowded.|sd
+B|Not in a crowd like that.|qy^d
+B|Huh-uh.|b
+A|No.|nn
+B|It was like, uh, want an autograph, want to stand in line for about four hours.|sd
+A|Yeah.|b
+A|Wow.|ba
+B|It was a pretty crowded place.|sd
+A|Huh. They have some good management principals in this NEW GENERATION.|sd
+B|Oh, yeah,|b
+B|yeah,|b
+B|I,|%
+B|it's, it's kind of funny.|sd
+B|I, uh, was reading in, uh, a book. Uh, trying to think,|sd
+B|I can't quite remember the name of the book,|sd
+B|but it was, it was saying don't do STAR TREK management style.|sd
+B|And they were referring to, you know, Captain Kirk,|sd
+B|every time he left the Enterprise, everything went to hell.|sd
+A|Oh.|b
+B|And nothing got righted until he got back up on the ship|sd
+A|Right,|b
+A|so he kind of was a cowboy type, too.|qy^d
+B|Uh-huh|ny
+A|Made all the decisions|qy^d
+A|but, uh, Jean Luke does more of a, a, committee type of management.|sv
+B|Uh-huh,|aa
+B|yeah,|aa
+B|uh, it's definitely a lot better A lot more realistic really.|sv
+A|What other movies have you seen?|qw
+B|Uh, saw THE ADDAMS FAMILY last week.|sd
+A|Oh, how was that?|qw
+B|It was pretty good.|sd
+B|Uh, there were a few things different than the old series,|sd
+B|but on the, on the whole, it was pretty similar. And, a lot of fun.|sd
+A|Lots of little funny spots, huh.|qy
+B|Oh, yeah,|ny
+B|yeah.|ny
+A|Did they have Thing|qy
+A|and,|%
+B|Oh, yes,|ny
+B|in fact, Thing has a big, much bigger role than he does in the series.|sd
+B|I mean, you know, there is lots of areas where Thing saves the day.|sd
+A|Really?|bh
+B|And he runs around a lot.|sd
+A|How did,|%
+A|I've always wondered how he gets around.|qw^d
+B|Uh, you know, just finger hopping.|sd
+A|But he's in a box, right?|qy
+B|No,|nn
+B|no,|nn
+B|no,|nn
+B|in fact, it's funny.|sd
+B|He never did, does come in out of a box, I don't think.|sd
+B|Yeah,|%
+B|he was just kind of walking around.|sd
+A|Didn't he used to?|qy
+B|Not really.|ng
+B|He was always in the box before.|sd
+A|Oh.|bk
+A|Oh, that's, yeah, that's, okay.|bk
+B|Yeah.|b
+A|Yeah,|b^m
+A|that's what I was thinking.|sd

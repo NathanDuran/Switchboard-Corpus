@@ -1,0 +1,156 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|what kind of fishing do you do?|qw
+B|Well, mostly, uh, a, a little fresh water fish,|sd
+B|but mostly lake fishing like rainbow trout and stuff because I used to live in Utah.|sd
+A|Uh-huh.|b
+B|But, uh, down here I haven't fished much in Texas.|sd
+A|That's one of the few things I've ever fished for is rainbow trout.|sd
+B|Oh, they're really not,|sd
+B|I think they're good to eat.|sv
+A|What, what kind of bait do you use to catch them?|qw
+B|Oh, just, usually worms, night crawlers.|sd
+B|Sometimes fish eggs.|sd
+A|Oh, really?|bh
+B|Sometimes|na
+A|Fish eggs?|b^m
+B|Yeah.|ny
+A|Oh, I didn't know that.|sd
+A|Huh.|b
+B|Just little, just little fish eggs.|sd
+A|Uh-huh.|b
+B|And, uh, there's this one kind of cheese that you can put on the end of a hook|sd
+B|and it will stay relatively well|sd
+A|Oh, I didn't know that.|sd
+B|Yeah|b
+A|That's a great way.|ba
+B|and, and they really like that.|sd
+A|I think that would probably be a good way to catch catfish,|sv
+B|Now I have never caught catfish.|sd
+A|personally I like to catch large mouth bass and catfish because they fight the best|sd
+B|Uh-huh.|b
+B|Because they fight the best|sd
+A|But a, a catfish will really just tear into anything like that, like liver or, uh, cheese or anything that smells terrible|sd
+B|Oh, is that right?|bh
+B|Now in Amarillo did you fish any of this ?|qy
+A|Uh, no.|nn
+A|Actually I always used to go to my grandparents' in Oklahoma|sd
+A|and they have the, uh, Lake Texoma right next to them.|sd
+A|So the,|%
+A|we used to catch some, uh, sand bass off Lake, there's a Roosevelt Bridge|sd
+A|and what we'd do is let the line all the way to the bottom and crank up, you know turns on the reel about six to twelve times|sd
+B|Uh-huh.|b
+B|Right.|b
+A|and the fish would be sitting at different levels.|sd
+B|Oh, how about that.|ba
+A|So, yeah,|b
+A|you just leave it at that level|sd
+A|and in no time something would hit it|sd
+A|and you could pull them up two and three times in a row,|sd
+A|but you had to find out what level, how many cranks they were off the bottom.|sd
+A|And if you left it on the bottom, there was a good chance that you'd catch catfish.|sd
+B|Oh.|b
+A|And, of course, depending on how big your bait was, uh, you know, would be depending on what you caught.|sd
+B|Oh, I think that is really interesting.|ba
+A|Yeah,|b
+A|that was a lot of fun.|sd
+A|My grandfather used to do that|sd
+A|and we used to have a light at the top of the water.|sd
+B|Uh-huh.|b
+A|He'd really spoiled me in that respect.|sd
+B|I think they're,|%
+B|see, and I wish I could go fishing here because I don't really know much about the fishing here.|sd
+B|I guess it would,|%
+B|if you did it like you were just, uh, saying, that's pretty much like rainbow trout.|sd
+A|Uh-huh.|b
+B|You bait the hook,|sd
+B|you throw it in,|sd
+B|you troll it a little bit|sd
+A|Uh-huh.|b
+B|and then you wait|sd
+A|Yeah.|b
+B|and they troll it a little bit.|sd
+A|Well, if you,|%
+A|do you have any friends with ponds?|qy
+B|No.|nn
+B|I don't|sd
+A|I, uh,|%
+A|well, if you can|%
+A|well, or even a lake.|sd
+A|If, uh,|%
+A|seems like every time somebody's on the bank, all they want to do is throw it out just as far as they can and, uh, bring it in to you.|sv
+B|Yeah.|b
+A|But it's the opposite when you're fishing from a boat.|sd
+A|You, you want to make it land right on the shore and then drag like a plastic worm and just have it come into the water like a, a regular animal or, or fish uh, well, you know, something coming off from the bank like they usually do|sd
+B|Oh, uh-huh.|b
+B|Uh-huh.|b
+A|So you don't have to really get, uh, fish from a boat, you know, because they're actually right there at the shore.|sd
+B|Huh.|b
+A|But, I didn't used to be sold on plastic worms,|sd
+A|but, uh, if,|%
+A|I am now|sd
+B|You are now.|b^m
+A|Oh, yeah|b
+B|I've never used those.|sd
+B|That's really interesting.|sd
+A|Yeah.|b
+A|It just, uh, just a slow reel|sd
+A|and then let it sit on the bottom,|sd
+A|but the key is to always have your line tight.|sd
+B|Yeah,|b
+B|yeah.|b
+A|And that way you can feel when they're hitting it,|sd
+A|and believe me you'll know the difference.|sd
+B|Uh, what kind of fish do you like the best to eat?|qw
+A|Oh, crappie actually.|sd
+B|Oh, do you|^g
+A|Yeah|ny
+A|I've been fishing in the, the ocean.|sd
+A|We're about three hours from the ocean.|sd
+A|And I also like Spanish mackerel.|sd
+A|And you catch blues|sd
+A|and, uh, that's a different kind of fishing off the pier, too.|sd
+A|Have you ever fished off the pier?|qy
+B|I've done fishing like that|sd
+B|but, but, uh, tell me what, uh, where you'd catch crappie.|qw^d
+B|My, my neighbor has gone before and, and done that,|sd
+A|Uh-huh.|b
+B|but,|%
+A|Oh, the best thing for crappie is those little spinner baits and, and jigs.|sd
+A|Uh, they have like yellow, uh, fuzz on a hook, you know, that kind of comes out.|sd
+B|Oh, oh, I know.|ba
+A|Yeah.|b
+B|Uh, they're sort of like, well, I want to say flies,|sd
+B|but not exactly like,|sd
+A|Yeah,|b
+A|get,|%
+A|but they're a little heavier|sd
+A|and they're bigger.|sd
+B|Yeah.|b
+A|Get the yellow ones.|ad
+B|The yellow.|b^m
+A|Those are the ticket|aa
+B|Okay|b
+A|And let them drop to the bottom and maybe do a, a kind of a slow reel.|ad
+A|You don't even have to have a good rod or anything. Just, just even a regular line|sd
+B|Uh-huh.|b
+A|and you throw it out|sd
+A|and, uh, the, the other thing that's real good is small, uh,|sd
+A|it's a real small rapalla .|sd
+A|It's about an inch and a half long|sd
+A|and they're pure all silver, something real shiny about that long.|sd
+B|Uh-huh.|b
+A|They'll go after that in a heartbeat also. Just anything that really shines or spins.|sd
+B|Yeah,|b
+B|my mom, she just loves to fish|b
+B|and she has a lot of those, those little, uh,|sd
+B|they almost look neon.|sd
+B|You know, they're just real colorful things on, onto her end.|sd
+A|Oh, yeah,|b
+A|yeah.|b
+A|That's it.|sd
+B|Yeah.|b
+B|And she she's really a good fisher woman.|sd
+A|Oh, really?|bh
+B|Yeah.|ny
+A|That's neat.|ba
+B|Well, you sound like you're a good fisher woman, too.|sv

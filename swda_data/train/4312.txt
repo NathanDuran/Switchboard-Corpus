@@ -1,0 +1,81 @@
+A|So, what kind of music you into?|qw
+B|Well, I have a, uh, pretty wide taste, uh, in music, ranging from progressive rock to jazz to, uh, lot of different forms of, uh, music.|sd
+B|In fact, it's easier for me to say, uh, the types of music that I don't like are opera and, uh, screaming heavy metal.|sd
+A|The opera, yeah, it's right on track.|aa
+A|I like classical,|sd
+A|but I can't deal with opera at all.|sd
+A|And heavy metal, uh, it's noisy.|sv
+A|I'm into, uh, some industrial music that's, a, a bit even harder than that.|sd
+B|Uh-huh.|b
+A|But it's, it's got to have a point to it.|sd
+B|Oh, I don't mind music that's difficult to listen to,|sd
+B|but, uh, the, the, uh, basic point of heavy metal which seems to be music to annoy you, is, uh, gets a little annoying.|sv
+A|Yeah.|b
+A|What kind of progressive stuff?|qw
+B|Uh, lot of stuff that actually has, uh, ended up becoming popular like, uh, Nirvana and, uh, oh, you know,|sd
+B|I'm thirty,|sd
+B|so lot of the stuff I was listening to in my teens like the Clash and, and the Sex Pistols and R E M, that sort of stuff.|sd
+A|uh.|%
+B|Uh, R E M makes me laugh because they've gone from a college radio progressive group to being, uh, you know, ultra mainstream at this point,|sv
+B|and it's not really that they've changed their musical style so much as the stream changed.|sv
+A|Oh, yeah.|aa
+A|Yeah,|aa
+A|it's, a lot of people like, saying that, you know, bands in that position, you know, sold out.|sv
+B|Uh-huh.|b
+A|I think that's pretty much, you know, bull.|sv
+A|Because R E M really hasn't changed.|sv
+A|If, it's, it's interesting.|sv
+A|They're producing, uh, similar music|sv
+A|and it's good music|sv
+B|Uh-huh.|b
+A|but, you know, people have picked up on it.|sd
+A|That's good.|sv
+B|I think it is.|aa
+A|I'm impressed.|sv
+B|Uh, for a while there, music seemed to really popular music seemed to have, uh, not a lot of point to it.|sv
+B|I was really tired of, uh, the Michael Bolton.|sd
+B|Michael Bolton really got on my nerves because he, he was making all this money doing mediocre cover tunes.|sd
+A|Oh, yeah.|b
+B|And I could, uh, go down to a bar that's about three minutes from my house and hear people doing covers better than him not making nearly as much money.|sv
+A|Uh, but he picked the right songs|sv
+A|and and that that's about all he had going for him. Or still has, for that matter.|sv
+B|I guess.|aa
+B|That, and a marvelous hairdo.|^2
+A|Oh, yeah.|aa
+A|Yeah,|aa
+A|I'm sure that, that that sold a lot for him.|sv
+A|That's all you really need for a lot of, lot of pop.|sv
+A|I'm I've kind of like developed a, a short hatred for, for pop.|sd
+A|It just seems like there's no, no real point.|sv
+A|You hear the same, same tune over and over again in a thousand guises|sv
+B|Uh-huh.|b
+A|and,|%
+B|Well, it's interesting because you were, you were saying that you liked classical music|sd
+A|Uh-huh.|b
+B|and I like a lot of classical music,|sd
+B|but I also dislike, uh, some classical music,|sd
+B|and what gets me even more is the attitude of people who are really into classical music, and feel that if, if it's not seventy five years old, it hasn't stood the test of time.|sd
+A|Yeah,|b
+A|I can, I can believe that.|sv
+A|What kind of things are you, do you like in classical?|qw
+A|What's the standard?|qo
+B|Uh,|%
+B|Stuff that I like,|^h
+B|uh, I like Bach.|sd
+B|I tolerate Vivaldi.|sd
+B|I can't, stand, uh, uh, Debussy or Debussy different|sd
+B|Uh, uh, I like Tchaikovsky.|sd
+B|He can make a lot of noise when he's, uh, so inclined.|sd
+A|Oh, yes.|aa
+B|Uh, and some of, some stuff that I like, uh,|h
+B|for instance, Frank Zappa has done a fair amount of orchestral composition|sd
+A|Uh-huh.|b
+B|and that's interesting music,|sv
+B|but it would not get performed by any, uh, municipally funded, uh, philharmonic, uh, just because, number one, it's Frank Zappa and he's weird, number two, isn't he still alive.|sv
+B|You know, we're, we're, much better off playing, uh, Beethoven's ninth,|^q
+B|that's right, you know,|^q
+B|we'll do, we'll do the ninth|^q
+B|and everyone will know it and and hum it|^q
+A|It's safe.|^2
+B|and it, it just isn't chance taking enough for me.|sd
+B|Uh, I feel that, uh, that, that music should take chances in one way or another and that, uh, you know, if you've heard a piece, oh, a hundred, a hundred times,|sv

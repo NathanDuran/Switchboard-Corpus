@@ -1,0 +1,160 @@
+A|Uh, which ones have you seen lately?|qw
+B|Oh, I just sort of blanking tonight.|sd
+B|I just got done saying I just saw one, uh, fairly recently.|sd
+B|Uh, oh, gosh, oh, I know, uh, uh, the one with the two girls that take off from, uh, uh, across, across the country on a crime spree.|sd
+A|THELMA AND LOUISE,|sd
+B|THELMA AND LOUISE,|b^m
+B|yeah.|aa
+A|Yeah.|b
+A|I haven't seen that.|sd
+A|Is it good?|qy
+B|Yeah,|ny
+B|it really is,|sd
+B|it's, it's interesting.|sv
+A|Is it?|bh
+B|Oh, yeah,|ny
+B|I enjoyed it.|sd
+B|I was going to go see, uh, the Billy Crystal movie, also, which was,|sd
+B|I'm a little bit behind.|sd
+B|I usually rent them|sd
+A|Yeah,|b
+A|I, I'm not familiar.|sd
+A|Which, which Billy Crystal movie?|qw
+B|Oh, this is the,|sd
+B|uh, just the one, oh,|sd
+B|gosh,|ba
+B|it was the, uh, CITY SLICKERS,|sd
+A|Oh, CITY SLICKERS,|^2
+B|right.|aa
+A|That's a real good show.|sv
+B|Have you seen that?|qy
+A|Yeah,|ny
+A|it's great.|sv
+A|Uh, it says a lot about, uh, uh, you know,|sv
+A|I, I'm young,|sd
+A|but it says a lot about middle life you know,|sv
+B|Uh-huh.|b
+A|and, uh, uh, it's a really good show.|sv
+B|Yeah,|b
+B|I, I, I've heard lots of good things about it|sd
+B|and I would have, would have liked to have seen it,|sd
+B|but I was with my wife|sd
+B|and I figured she'd like THELMA AND LOUISE better|sd
+B|so,|%
+A|Yeah.|b
+B|And I'd heard it was really good, too|sd
+B|so,|%
+A|Yeah.|b
+A|Uh, yeah,|%
+A|I'm not too familiar with THELMA AND LOUISE.|sd
+A|Uh, uh, uh, recently I, I've seen, uh, the FISHER KING.|sd
+A|Have you seen that?|qy
+B|No.|nn
+A|It's a really good show.|sv
+B|Okay.|b
+A|Uh, has Jeff Bridges and, and, uh, Robin Williams.|sd
+B|Uh-huh.|b
+A|Uh, really, really good.|sv
+B|Yeah,|b
+B|there's, there's been a, a fair number of, of pretty good movies out recently.|sv
+A|Yeah.|b
+B|I mean it kind of runs in, in batches,|sv
+B|I mean, for a while, sometimes they come in a whole bunch of them that just, I don't even, you know doesn't even sound like something I want to see.|sd
+A|Yeah.|b
+A|Uh-huh.|b
+B|What, what kind of movies in general do you like to watch?|qw
+A|Uh, well, I like to be entertained once in a while|sd
+A|but, I, I really enjoy watching a movie that, uh, where they don't really try and attract the, you know, the great audience, but rather put out a, a real good movie.|sd
+B|Uh-huh.|b
+A|Uh, it always,|%
+A|my, my favorite movie of all time has been, uh, uh, THE MISSION.|sd
+A|Did you ever see that?|qy
+B|No,|nn
+B|in fact, I'm not even familiar with it,|sd
+B|I don't think.|h
+A|Uh, it's a, a|%
+A|I think it's put out by Landmark Productions, the same people who put out CHARIOTS OF FIRE.|sd
+B|Uh-huh.|b
+A|Uh, it's a, it's a,|%
+A|has Robert DeNiro in it.|sd
+A|Uh, he plays one of the main characters|sd
+A|and, uh, it's about, uh, Jesuit community in, uh, at the Inca Falls in, in, uh, South America, Northern Argentina.|sd
+B|Oh, uh-huh No,|b
+A|Uh, really, really good show.|sd
+B|in fact, I, I, I'll, I'll look for it because I|sd
+A|Yeah,|b
+A|it's, it's something that, you know,|sv
+A|it's, it's really stirring.|sv
+A|The cinematography is just beautiful and really beautiful scenes and real good music.|sv
+B|Actually yeah,|b
+B|my wife's from down in that region around the the, called the, the Seven Missions which are, which are right down in this, where I'm sure where it was filmed at.|sd
+A|Oh.|b
+B|And, uh, I'm sure that, that would make it worth, worth her watching.|sd
+A|Yeah.|b
+B|She,|%
+B|my, my, uh, my movie watching has, has, severely, uh, has, has changed a lot since I got married.|sd
+A|Oh, yeah?|bh
+B|Yeah,|ny
+B|she, she likes, uh, action movies and, uh, and, and comedies|sd
+B|and so anything that's, has anything little, is a little, little bit less than sort of mainstream Hollywood is is boring to her|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Oh.|b
+B|And, and so I, I, I, I really, I used to watch a fair number of foreign films.|sd
+B|I used to watch a lot of, sort of, the less, the less popular films.|sd
+A|Uh-huh.|b
+B|And I find I don't do it anymore or else I have to watch them on my own.|sd
+A|I'm much the same way.|sd
+A|I, I, I, I have a fiance|sd
+A|and, it, it gets very difficult to, uh, uh,|sd
+B|Find something both of you will watch.|^2
+A|Yeah,|aa
+A|yeah.|aa
+B|She,|%
+B|it's funny because most women aren't really,|sv
+B|she's sort of Schwarzenegger fan type of.|sd
+A|Oh, really?|bh
+B|Yeah,|ny
+B|she really likes all these gory shoot them up films.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|Keep her on the edge of her seat.|sd
+B|I'll watch them, you know,|sd
+B|they're kind of fun to watch in a way.|sv
+A|Yeah,|aa
+A|they are.|sv
+A|Sometimes you're in the mood for it even.|sv
+B|But, uh, so it, it, it varies,|sd
+B|I don't seem to get, you know, as much variety these days lately as I used to.|sd
+A|Uh-huh.|b
+A|I found when, when I get, when I get with my, uh, old college buddy, we, we usually rent, uh, good gladiator movie or two|sd
+A|Uh, I still enjoy watching those.|sd
+A|You can't just watch them by yourself or else, it's not bearable.|sv
+A|But it's, it's fun to,|sv
+B|Well, yeah,|aa
+B|on the other hand, you know, given that my wife likes those, I, I, say, I occasionally like to watch them|sd
+B|and, and so, uh, you know, so it's, you can always count on her to watch something like that|sd
+B|And she'll even watch things like karate movies and stuff like that. You know, which most, most women now won't,|sd
+A|Oh, yeah?|bh
+A|Yeah,|aa
+A|yeah,|aa
+A|that's, that's, The ones where they dub in, dub in the English.|bf
+B|they won't come within ten feet of, All the, all the ya All the sounds of the karate chops flying through the air|sv
+B|A-cha! .|ba
+A|That's great.|ba
+A|Uh, uh, on foreign films did, uh, did you, did you watch,|qy
+A|are you, uh, fluent in another language|qy
+A|or,|%
+B|I|%
+B|yeah,|ny
+B|I speak several, uh,|sd
+B|but, I, I don't mind watching subtitle movies. Uh,|sd
+A|Oh, you don't?|bh
+B|No,|nn
+B|I, I,|%
+A|I don't either.|sd
+A|I, I feel foolish sometimes because I, I don't speak another language fluently|sd
+A|but I do enjoy watching you know, subtitles.|sd
+B|Yeah.|b
+B|I mean, for some people, that's just, you know, that's out of the question, you know.|sv
+B|You give it subtitles, they won't watch,|sv

@@ -1,0 +1,149 @@
+A|Well, I, uh, before I was married, I used to play a lot of sports.|sd
+B|Uh-huh.|b
+A|And, uh, but when I got married and had children and everything, it seems like I keep all my activity just chasing around fulfilling my obligations|sd
+A|so I haven't done a lot of, uh, exercise on purpose.|sd
+B|Uh-huh.|b
+A|What about you?|qo
+B|Well, it's funny,|^h
+B|this week,|%
+B|yesterday I started exercising seriously.|sd
+A|Oh, really?|bh
+B|This weekend I cleaned out my closets|sd
+B|and, uh, a couple years ago I, too, got married.|sd
+B|I haven't have any children yet,|sd
+B|but this weekend I cleaned out some closets|sd
+B|and I found a bathing suit that I had bought.|sd
+A|Uh-huh.|b
+B|Tried it on and decided I really did not like how it looked on me.|sd
+A|Oh no,|nn
+A|that can be awful.|sv
+B|So yesterday I went to, uh, a spa.|sd
+B|I belong to a private spa and went in and, and got with a trainer|sd
+B|and, uh, he checked body fat content|sd
+A|Uh-huh.|b
+B|and we set up a program for me to work on,|sd
+B|and I went back tonight also.|sd
+B|So I've been two nights in a row|sd
+B|and I, I'm going to take it pretty seriously.|sd
+B|I'm going to start going every night just, you know,|sd
+B|even if I, I,|%
+B|like tonight I only went for thirty minutes,|sd
+B|but I at least did something.|sd
+A|Do you work out on,|qy
+A|like, is it the weight machines or aerobics or what is it?|qrr
+B|Last night I did about thirty minutes of riding a bike and a few, like, three different types of, uh, uh, weight lifting for my legs and, and my hips|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|and then I did a hour of aerobics.|sd
+A|Uh-huh.|b
+B|And that was really tough|sd
+A|Oh, I bet.|ba
+B|And I was sore this morning when I got up,|sd
+B|but then tonight I got into a, a,|sd
+B|it's sort of like an aerobics class|sd
+A|Uh-huh.|b
+B|but it's only thirty minutes|sd
+B|and it's for your abdominals your thighs, and your butt.|sd
+A|Uh-huh.|b
+A|Um.|b
+B|So, and that was,|%
+B|thirty minutes was definitely plenty.|sd
+B|So,|%
+A|Doesn't sound like low impact.|qy^d
+B|No,|nn
+B|it was a lot of sweat|sd
+A|Well.|%
+A|Well that's good.|ba
+B|So,|%
+A|So are you|qy
+B|Have you started exercising at home|qy
+B|or,|%
+A|Well, I, like, I am undisciplined in the sense that I can't just go and do exercise,|sd
+A|but I like to, uh, play tennis and play racquetball|sd
+B|Uh-huh.|b
+A|I, I like to get exercise when I'm playing a game of some sort,|sd
+A|and so that's always been the way that I have kept myself in, uh, the shape that I was satisfied with at least.|sd
+A|And, uh, then I have given that up,|sd
+A|but, uh, I would really like to start that again, because I am now, you know, not in a position that I like myself.|sd
+B|Uh-huh.|b
+A|I don't feel good|sd
+A|and I get, you know,|%
+A|when you get out of shape and you don't,|sv
+A|if,|%
+A|you're easily tired|sv
+B|Uh-huh.|b
+A|and so that has made me,|sd
+A|but I, I'm not the kind of person that could go to a spa and work out,|sd
+B|Yeah.|b
+A|I just,|%
+A|if something like, uh,|%
+A|I mean I have so many chores and so many obligations every day for, to add another obligation would make me feel stressed.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+B|Uh-huh.|b
+A|And I wouldn't enjoy it.|sd
+A|But if I have something, some team sport or some activity, then it's kind of like having fun, playing|sd
+B|Yeah.|b
+A|and then you, then you get some of the, uh, good exercise and some of the desired results,|sv
+A|but you, you're doing it for fun.|sv
+B|Uh-huh.|b
+B|Yeah.|%
+A|But I really admire people who can go and work out|sd
+B|Well, I don't, you know,|%
+B|a lot of people,|%
+B|I have a girlfriend that goes for the social aspect of it|sd
+B|and she walks around, talks to people|sd
+B|and and, I don't really get into that.|sd
+B|Naturally I'm married|sd
+A|Uh-huh.|b
+B|so my husband goes a lot|sd
+B|and we'll go and, and just do what we want to do and then leave.|sd
+A|Well, that's nice.|ba
+B|But, yeah,|b
+B|and swimming is a, is a part that I, I'd like to get into as far as my you know,|sd
+B|just aerobic activity they say that swimming is real good,|sd
+A|Uh-huh.|b
+B|so I'd like to try that as well.|sd
+B|And that's probably something that, that you could do, you know family, included.|sv
+A|Yes.|b
+A|It is kind,|%
+A|It is family,|^2
+A|and it's fun.|sd
+B|Uh-huh.|aa
+A|It's a fun thing|sd
+A|and kids enjoy that and and all.|sd
+A|And also, the nice thing about belonging to a club is that you can have some of the relaxation, you know, like saunas, or you know, uh, hot Jacuzzis or whatever, they have that kind of is, kind of makes it fun and stuff, you know,|sv
+B|Yeah.|b
+B|Right.|b
+A|you can relax that way, afterwards and things.|sv
+B|Uh-huh.|b
+B|Yeah.|aa
+B|I agree|aa
+A|Well, I guess it's getting late.|sd
+B|Yeah.|b
+A|And I should take off,|sd
+A|but, uh, I appreciate that,|sd
+A|that helped me, helped motivate me|sd
+B|Okay.|b
+A|Think someone can do it.|sd
+B|Yeah.|b
+A|Maybe I should start thinking about it again.|sd
+B|Well, try it|ad
+B|or, or maybe just exercise at home.|ad
+B|I bought a tape,|sd
+B|and I'm going to try doing that.|sd
+A|Yeah,|b
+A|I bought one,|sd
+A|I went to the,|%
+A|I bought the low impact first.|sd
+B|Uh-huh.|b
+B|Yeah,|b
+B|that's me.|sd
+A|So, but I haven't done it.|sd
+B|Uh-huh.|b
+A|But I'm going to try it.|sd
+A|Well you have a good night.|fc
+B|Thanks a lot.|fc
+A|We'll see you.|fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc

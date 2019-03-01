@@ -1,0 +1,89 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|Do you, have you noticed any new, uh, trends in politics?|qy
+B|Well, the one I think is interesting is the California, Los Angeles police chief who says he won't resign.|na
+B|And did you hear yesterday that Mayor Bradley said that, uh, he should?|qy
+A|Oh, really?|bh
+A|No,|nn
+A|I didn't hear that.|sd
+B|I think it's, I think what's interesting is that, uh, the political activists, Jesse Jackson and a lot of other people went out there and are demonstrating.|sv
+B|I find it interesting that, uh, outsiders would bother to go in.|sv
+B|How do, how do you feel about people like Jesse Jackson getting involved?|qo
+A|Uh, I think sometimes it's good for people outside.|sv
+A|They get a different uh, perspective on an issue and stuff.|sv
+A|So, yeah,|%
+A|I don't see any problem with outsiders going in and getting a little bit involved.|sv
+B|Well, do you but do you think Gates should resign?|qy
+A|I think, though, that it should still be, uh, sort of up to the majority in the area.|sv
+A|I don't know,|h
+A|on something like that, they wouldn't really vote on it or anything, though.|sv
+A|Uh, probably so, just because they were under his authority|na
+A|and he obviously failed somewhere along the line.|sv
+B|Well, well, speaking of that kind of issue, have you kept up with John Wiley Price?|qy
+A|Yeah.|ny
+B|What do you think of him?|qo
+A|Oh, um, I think he's got good intentions,|sv
+A|but I'm not sure if the way he goes about what he does is really right.|sv
+B|He's an interesting person.|sv
+B|I was talking to someone who said that, uh, for all his obvious attention to, efforts to get media attention that he actually is a worker on the, uh,|sd
+B|I guess he's on the County, uh, oh, Board of Supervisors or|sd
+A|Right.|b
+B|and, the, the, the, uh, at those meetings he really comes quite well prepared and is well informed and is a hard worker and is really quite agreeable, uh,|sv
+A|Uh-huh.|b
+B|and that this stuff we see in the, you know, in the media is, uh,|%
+B|well, he's really just trying to make a political statement.|sv
+B|I, I find that an interesting element of politics that we don't, that, that most people would not know that John Wiley Price apparently is a, is a, you know,|sv
+B|of course, he's got in this, this deal of racism and the, you know, name calling and all this.|sd
+B|But apparently, he's a, a worker.|sv
+B|Uh, you may disagree with him,|sv
+B|but I, I, I find this whole,|%
+B|what do you think of this, uh, fourteen one and ten four one in Dallas?|qo
+A|Oh, I think that they should go ahead and go to the, uh, fourteen one.|sv
+A|I, to me it's just fair, you know,|sv
+A|an equal, it seems like every area should have an equal voice.|sv
+B|I agree with you|aa
+B|but did you see the map they drew up on, uh, on how they were going to divide up the districts?|qy
+A|No.|nn
+B|It was, it was the strangest,|sv
+B|I'm, I'm not sure it was gerrymandered,|sd
+B|but the way they drew these little patterns and stuff, I, I, I guess I'm a little cynical of the, of the power base.|sd
+B|I, I, I, and I don't quite understand why the power base, uh, doesn't, uh, why they don't go with fourteen one.|sd
+B|I, you know, and, you know, the, it seems to me that what happened in the, in the election, that a lot of the people, they said particularly the, the, uh, I think it's Hispanics don't vote because they don't think that they have any affect,|sv
+B|and it's,|%
+A|Yeah.|b
+B|I, I guess I am disappointed with Dallas in that, uh, the fourteen one, it,|sd
+B|I don't know.|h
+B|You can, you can disagree with Al Lipscomb and, uh,|sv
+B|what's, what's the lady's name?|qw
+A|Diane Ragsdale?|qy
+B|Yeah.|ny
+B|You can disagree with, uh, what they're doing and what they're saying,|sv
+B|but in reality I think they're, they're trying to represent their constituents.|sv
+A|Yeah.|b
+B|and I think Dallas is doing itself a disservice.|sv
+B|I think they ought to get on with something important.|sv
+A|Yeah,|aa
+A|they really make themselves look bad,|sv
+A|and I don't know why certain groups are fighting so hard to keep the ten four one.|sd
+B|Yeah,|aa
+B|and I, but I think even, I, even those people are,|%
+B|it's like Pauken and Box and these people,|sd
+B|I think it's, it's kind of interesting that everybody's so busy politicking that the question is are we getting anything good done.|sv
+B|It's like this whole school issue.|sv
+B|Are you involved in the schools at all public schools? This whole thing down there where they're, they're trying to, um, uh, you know, devote all our money and raise our taxes and better schools|qy
+A|No,|nn
+A|huh-uh.|nn
+B|and, and it all seems, you know, like everybody's trying to one-upmanship on everybody else|sv
+B|so,|%
+A|Yeah,|b
+A|yeah,|b
+A|I,|%
+B|I, I have got to run to a meeting.|fc
+A|Okay.|fc
+B|It was good talking to you.|fc
+B|I don't think we've gone our, our ten minutes|fc
+B|but I think we've, we've talked long enough.|fc
+A|Okay.|fc
+A|Good talking to you.|fc
+B|Okay.|fc
+B|Good night.|fc
+A|Bye.|fc

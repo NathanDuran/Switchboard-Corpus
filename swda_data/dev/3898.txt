@@ -1,0 +1,166 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|Gene|sd
+A|So, it's nice to talk with you|fp
+A|and, um, food is a very intriguing thing.|sv
+A|Our lives are, are built around foods that we like and, nutritionally good for us.|sv
+B|Yes, sir.|ba
+A|What kind of dining out do you like?|qw
+B|Well, there is two kinds.|sd
+B|One I guess I'd say is with my wife where we enjoy, uh oh, I guess we usually enjoy a good seafood restaurant.|sd
+A|Oh.|b
+B|Uh, you know, something nice.|sd
+A|Yeah.|b
+B|And the other is with my whole family whom we, uh, go somewhere that the kids will enjoy|sd
+B|Uh, recently we have been hitting Pancho's up.|sd
+B|It's a local Mexican restaurant.|sd
+A|Uh-huh.|b
+B|because they have got a good rate on, you know, good prices and everything.|sd
+A|Pancho's, that's,  a new  one.|qy^d
+B|Yeah.|b
+B|Yeah,|ny
+A|Uh-huh.|b
+B|it's, it's a chain down uh,|sd
+B|it goes up into Colorado and down here.|sd
+B|I don't know where else it is.|sd
+B|What about you?|qo
+A|We have  one called Chi Chi's in in our area.|sd
+B|Oh, yeah.|b
+A|And, uh, we had a restaurant called La Bamba|sd
+A|but it's just, it closed recently.|sd
+A|But Chi Chi's is a national restaurant, I think.|sv
+A|Isn't it Mexican?|qy
+B|I think,  think it might be.|sv
+A|Do you  have it there?|qy
+B|I've I think I've seen it around.|sd
+B|Yes, sir.|ny
+A|Uh-huh.|b
+B|Yeah.|b
+A|Well,  I love Mexican food myself.|sd
+B|Oh, do you?|bh
+B|Yeah.|%
+A|But you go ahead now|ad
+B|Oh, we, we do too.|sd
+B|We, uh, we enjoy Mexican food.|sd
+B|I'm just not impressed with the quality of it.|sd
+B|It's just primarily the price that's, uh, satisfying at this point.|sd
+B|But the kids,  seem to enjoy it.|sv
+A|Is that right?|qy
+A|Uh-huh.|b
+B|Uh, and, uh, let's see.|^h
+B|We've, uh, just recently discovered a super restaurant down here|sd
+B|but it's, uh, not part of a chain|sd
+B|it's just an individually owned seafood restaurant.|sd
+B|But the first one we've been to that, uh, I don't think there was anything on the menu, that, that any of us had|sd
+B|that was, uh, not just really super.|sd
+B|It's nice to find a place like that.|sv
+A|Oh, boy that is wonderful.|ba
+B|Yeah.|b
+A|Well, I, I agree with you on that.|aa
+A|And I was really a seafood addict myself.|sd
+A|I, I love crab meat in particular.|sd
+B|Um.|%
+A|I, uh, I can almost live on, on seafood and almost live on the crab meat if I had to.|sv
+B|Oh, boy.|ba
+B|Have you ever been to, uh, what is it, Original Book Binders in Philadelphia?|qy
+A|I, uh, know the name|^h
+A|but I haven't been there.|ng
+B|Uh, that's an old established, uh, restaurant.|sd
+B|I used to go there when I was in college.|sd
+A|Uh-huh.|b
+A|Where did you go to college?|qw
+B|Uh, I went to the Naval Academy.|sd
+A|Oh, the  U S ,  Naval Academy?|br
+B|And we used to,  we use to go up there on, uh, for football games sometimes. And have some liberty.|sd
+A|Uh-huh.|b
+B|And,|%
+B|yeah,|%
+B|we would go over there to, uh,|sd
+B|pretty sure it was original, Original Book Binders|sd
+B|I think it was,|h
+B|yes.|aa
+A|I'll be darn.|ba
+B|I haven't been back there in years.|sd
+A|Well, we're, we're supposed to be talking about dinning out,|sd
+A|but I'll just make one comment that, uh, I just retired from Penn State,|sd
+A|and, uh, all my work has been in research for the Navy|sd
+B|Okay.|b
+B|What area?|qw
+A|Underwater acoustics.|sd
+B|Is that right?|bh
+B|Did you have any dealings with the, uh, underwater sound reference laboratory in Orlando, Florida?|qy
+A|I have dealt with nearly all of the, all of the research laboratories that the country has.|no
+B|Yes, sir.|ba
+B|My dad worked there for years, and years.|sd
+A|Uh-huh.|b
+B|That's that's, uh, that's where I grew up was down in Orlando.|sd
+B|So,|%
+A|Oh,  you grew up in Orlando.|qy^d
+A|Uh-huh.|%
+B|That's, uh, that's interesting, Well, I was in submarines. Uh,|sd
+A|Well, that's what I worked on.|sd
+B|Okay,|b
+B|yeah,|%
+B|must have had some interesting, uh, assignments for you there.|sv
+B|when did you retire?|qw
+A|The end of last month.|sd
+B|Well, great.|ba
+B|I'm sure you've seen some interesting developments in acoustics.|qy^d
+A|I certainly have|na
+B|Yeah.|b
+A|So, I hate to, uh,|sd
+A|I wish I could talk to you about that, uh,|sd
+A|but, uh, I guess we should continue on, uh,|sv
+B|Okay.|aa
+A|Okay.|b^m
+B|Right.|b
+B|Where's,|qw
+A|How  do you like Chinese food?|qw
+B|Oh, we, we do enjoy that.|sd
+B|Yes, sir.|%
+B|Uh, I don't know if we are particularly adventurous,|sv
+B|we find something we like, uh, like cashew shrimp or something that's got a good, uh, at a particular restaurant|sd
+B|and then we usually stick by it.|sd
+B|But do you,  What about you?|qo
+A|Uh-huh.|b
+A|Well, I, uh, enjoy the Szechuan type of, uh, Chinese food.|sd
+B|Hot?|br
+A|Yes.|ny
+B|Uh-huh.|b
+A|Yep, uh,|b
+A|it's, uh,|%
+A|I, I do a lot of Chinese cooking myself.|sd
+A|I have in the past.|sd
+A|I haven't done recently,|sd
+A|but, uh, it's in the sweet and sour porks and things like are just really delicious meals.|sv
+B|Um. Where did you learn how to do Chinese cooking?|qw
+A|Uh, just at home.|sd
+B|Uh-huh.|b
+A|I, I enjoyed the food|sd
+A|and I bought a lot of, uh, good cookbooks,|sd
+A|and I've been following through on that.|sd
+A|When you find the right cookbook, why it works out.|sv
+B|Uh-huh.|b
+B|What's a good reference cookbook for Chinese food?|qw
+A|Okay,|b
+A|well, that one's a good question.|^h
+A|Here it's right under my nose if I can find it|sd
+A|Oh, boy.|ba
+B|I guess one of the things we've, uh, started avoiding is the, uh, run of the mill chop suey and things like that.|sd
+A|Yeah,|b
+A|right.|b
+B|But we enjoy  trying, uh, different kinds of chicken or, uh, you know, even, uh, shrimp, uh, dishes that are fixed in a Chinese restaurant.|sd
+A|One of this book I have is called CHINESE COOKING MADE EASY.|sd
+A|Uh, it's a paperback|sd
+A|and I think it's by someone named Chang.|sd
+A|Yeah,|aa
+A|Isabelle Chang.|sd
+B|Okay,|bk
+B|thanks for that, uh, reference.|ft
+A|Yeah,|bd
+A|yeah.|bd
+A|I think you will enjoy that.|sv
+B|Okay,|b
+B|good.|ba
+B|Yeah.|%
+A|Well, it certainly is nice talking with you Gene.|fc
+A|And, uh, what is your phone at home?|qw

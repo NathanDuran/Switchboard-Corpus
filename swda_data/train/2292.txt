@@ -1,0 +1,206 @@
+A|Hi, Kay.|fp
+B|Hi.|fp
+A|I, uh, was thinking about salaries and benefits and uh, was wondering what's the most important thing to you besides a salary in a job.|qw
+B|Uh-huh.|b
+B|Well, um, I, we just recently graduated from Rice University,|sd
+B|and, uh, we were going through a lot of job interviews and things,|sd
+B|and some of the things that were important to me, uh, when my husband was looking for his job, was, um, hours, you know,|sd
+B|we,|%
+B|he'd been in graduate school so I was used to his not being home at all|sd
+A|Yeah|b
+B|So I was, you know, didn't want him to have a job that would make him kind of be on call all the time, and have to go in at any time, and you know, even on the weekends and, um, and things.|sd
+A|Uh-huh.|b
+B|So that was important to me, and also insurance for the our family because we'd like to be able to take care of our medical needs and not be thinking so much about whether or not you can afford it.|sd
+A|Sure.|b
+A|Yeah,|b
+A|I don't ever want to have to worry about that.|sd
+A|That's real important to me.|sd
+A|Um, you know we have that, that Aetna|sd
+B|Uh-huh.|b
+A|that's what we, the insurance that we have right now.|sd
+B|Uh-huh.|b
+B|Us, too.|sd
+A|When we were in Colorado, they had, um, a different type of H M O there that I really liked a lot.|sd
+B|Uh-huh.|b
+A|It was, um, not that kind of H M O where you have to go to their, their sort of like clinics, you know|sd
+B|Uh-huh.|b
+A|but this was just an H M O where you could go to private practice doctors and to the regular hospitals and all that,|sd
+A|but it was with a certain list of, of doctors that, you know, participated in the H M O,|sd
+B|Uh-huh.|b
+A|and, um you know, then you only had to pay the,|sd
+B|Well, that's nice.|ba
+A|for us it was a five dollar co-payment every time you went to the doctor, and, uh, three dollars for the prescriptions.|sd
+B|Uh-huh,|b
+B|that's good.|ba
+A|And, uh, I especially liked the prescription, especially since my children tend to have ear infections all the time|sd
+B|Uh-huh.|b
+A|That, those prescriptions can be very expensive.|sd
+B|Oh, I know.|ba
+B|We just went through that ourselves.|sd
+B|We just, you know, are like fifty dollars for this series of antibiotics and things.|sd
+A|Oh, I know,|ba
+A|especially if you get, what is it, Seclor I think that that just about breaks the bank right there.|sv
+B|Uh-huh.|b
+B|Yes.|aa
+B|Yes,|aa
+B|it's pretty bad.|sv
+B|Well, yeah,|%
+B|and we, um, we were interested in having dental insurance, too,|sd
+B|because, um, having been in school, we kind of put things off and only went in when we knew there was a problem somewhere and stuff|sd
+A|Uh-huh.|b
+B|and we wanted to be able to go in and have our teeth cleaned and just checked all over|%
+A|Do, Do you have the basic plan or do you have the, the other one?|qy
+B|and,|%
+B|We have, um, you know|sd
+B|we're at Aetna with an, uh,|sd
+B|we have like the the dental insurance is separate.|sd
+B|Is that what you mean?|qy
+A|Right.|na
+B|I don't think it's the basic,|sd
+B|I think it's the other one.|sd
+A|The one that's like you get additional,|sv
+A|they'll pay a little bit more I think for the different procedures.|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|We just have the basic right now,|sd
+A|and for most things it tends to cover it|sd
+A|We don't too many major, um, expenses at this point,|sd
+A|but we have been able to find dentists that will accept pretty much whatever the basic plan pays.|sd
+A|A couple of times we've had to pay, oh I don't know, three to five dollars but that's not that bad.|sd
+B|Uh-huh.|b
+B|No,|aa
+B|that's great.|ba
+B|Yeah,|b
+B|we need to go shopping for dentists and things like that too.|sd
+B|Yes|b
+B|and, let's see,|^h
+B|besides insurance, other things that we looked at, um,|sd
+B|well, my husband does not like to commute very far,|sd
+A|Uh-huh.|b
+B|and, and we don't like him to be, you know, having to drive an hour to work or something|sd
+A|No,|aa
+A|we don't like that either|sd
+B|So we kind of looked for where, where the, uh, his office would be located|sd
+B|and well, he's at, you know, he's at the one that's at, um, seventy-five at, uh, six thirty-five and so we, by living in Plano we're just about fifteen minutes away.|sd
+A|Is his office in Plano?|qy
+A|Uh-huh,|b
+A|uh-huh.|b
+A|Oh, that's not bad.|b
+B|Um, especially when they finish all the construction out here|sv
+A|Right.|b
+B|and we didn't want him to let, you know, to,|sd
+B|like we had some job offers in the New York area,|sd
+B|and we thought, well, you know, he would be really commuting|sd
+A|Oh, yes,|ba
+A|you're not kidding.|ba
+B|and not only is it, you know, trouble to have to drive, but it takes time away from your home and your family when you're out driving.|sv
+A|That's right.|ba
+B|And, um, so, that was something that was important to us,|sd
+B|and, because, like I say, we kind of felt deprived that he had been in school and been away from us for so long|sd
+B|that we were anxious to do everything we could to have, you know, made us be more together,|sd
+B|and, and what other,|%
+B|can you think of another thing that you guys looked at|qy
+B|and,|%
+A|Well, those are some of the things that are very important to us too.|sd
+B|Uh-huh.|b
+A|Um, we, we'd like, you know, other benefits that are provided, um,|sd
+A|the athletic facilities that you sometimes take advantage of I think that's, that's pretty nice,|sd
+B|Uh-huh.|b
+A|but I have to say that since we've come here we haven't done it too much though,|sd
+A|we haven't enrolled in too many of the classes or, or any of that.|sd
+A|But that's, that's a nice benefit to have.|sv
+B|Uh-huh,|aa
+B|that's true.|ba
+B|That's really important.|sv
+B|Um, also, what, um, opportunities there would be for advancement, I think, we looked at besides just, you know, what salary you would be having now.|sd
+B|But when, when could, uh, your salary increase|sd
+A|Right.|b
+B|um, is there, was there somewhere to go.|sd
+A|Yeah,|b
+A|that's, that's one of, I think, the hard things right now,|sd
+A|I mean they're going through some tough times to say the least.|sd
+B|Uh-huh.|b
+A|I know many of us are thankful that he still has a|sd
+B|Yes,|aa
+B|that we can make our mortgage payments|^2
+B|and, yeah,|aa
+B|that's really true.|ba
+A|um, if, if an employee is especially exemplary, I think it's often,|sv
+A|in a smaller company it's a little bit easier for them to say, Hey, you know, this person did a wonderful job, give him a big bonus kind of thing.|sv
+A|A lot of times smaller companies have bonus plans, where I think in a large company it's hard to do that because there're just so many people to deal with|sv
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|and you have to have guidelines, you know, for salary increases, and things like that,|sv
+A|that's one of the things that, that happens when someone, when you're dealing with a large company.|sv
+B|Uh-huh.|b
+A|But.|%
+B|But, we also were interested in, um, you know, being sure that he felt like he liked the people that he would be working with and that there would be some opportunity for friendships that way, so that you would feel happy going to work every day and Rather than thinking Oh, I really, I can't stand these people.|sd
+A|Uh-huh.|b
+B|But, so that's something that was important to him, in thinking he could work under.|sd
+B|Oh, just since last summer.|sd
+A|Uh-huh.|b
+B|It's only been, not even a year yet,|sd
+B|so.|%
+A|Well, I was going to say it sounds like you, you picked out a lot of good things, you know, for him, to, to, uh, to choose in a position and have a lot of thought put into it.|sv
+A|In a big company, though, you also get moved around a lot|sv
+B|Yes, well.|b
+A|He may be having to drive over here to Lewisville some time.|sd
+B|Oh, yeah.|b
+A|Or we may be having to drive to Plano,|sd
+A|you never know.|sv
+B|You never know,|b^m
+B|we're hoping that that won't be the case|sd
+B|We, I think one of the most deciding factors of why we chose, um, this area is that, um, my husband was raised in Irving|sd
+A|Uh-huh.|b
+B|and so he, we have a lot of family here, his side of the family.|sd
+B|And being,|%
+B|when we were down in Houston, we were isolated,|sd
+B|I mean, it's not that far, but, people would|sd
+B|we didn't have anyone in town that was our family.|sd
+A|Right.|b
+B|And although we had really good friends and we had church and school support and things, um, we were anxious to move close to family members, just because we wanted our children to know their grandparents and things like that.|sd
+A|Yeah.|b
+A|We're very,|sd
+B|So, that really made a big difference, I think, in why we chose T I, and chose to move this way.|sd
+A|We're very far from our families,|sd
+A|and it's really hard.|sd
+A|I have little children,|sd
+A|and, um, they were the only grandchildren,|sd
+A|and so, our, our families are, are really far away.|sd
+A|In fact, this is a little off the topic, but yesterday, my mother happened to be on a train going from Phoenix to, back to Chicago|sd
+B|Uh-huh.|b
+A|and it stopped in Dallas for half an hour, so I loaded the kids in the car,|sd
+A|and we went downtown, and met her train for half an hour, and brought her a little snack and an Easter basket|sd
+A|and I think it, it made her trip a little bit nicer.|%
+B|Oh, that's nice.|ba
+B|Yeah,|b
+B|and it is, I think it is important to, you know, want to be close to your family|sv
+B|and,|%
+A|Yeah,|aa
+A|and it's, it's hard,|^2
+A|I mean, just for us to snatch a half hour like that is a special occasion for us.|sd
+B|Uh-huh.|b
+A|So, um,|%
+B|Yeah,|%
+B|that's the same, way we felt.|sd
+A|it's nice. It's nice that you can have your family close like that.|sv
+B|We're really enjoying it.|sd
+B|I wonder what it would be like,|sd
+B|I mean, I wanted to be close to family, but I also thought it would be harder to be close to family.|sd
+A|Yeah,|aa
+A|sometimes it can be.|sd
+B|But it's turned out really good,|sd
+B|and I think that, you know, we're really satisfied with that choice,|sd
+B|and we, you know, kind of felt like, um, it was worth it to us.|sd
+A|That's good.|ba
+B|But anyway.|fo_o_fw_"_by_bc
+B|Well, I, my children just ran out the door, so I need to go check on them|sd
+A|Okay|b
+B|Well I've really enjoyed the conversation.|fc
+A|Well, I have too.|fc
+B|And, uh, nice to have met you,|fc
+B|and you have a good day.|fc
+A|Okay,|fc
+A|you too.|fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

@@ -1,0 +1,245 @@
+A|So, the topic is vacations?|qy
+B|Alright,|na
+B|that's a good, that's a good topic, huh?|qy
+A|I think so.|na
+A|I enjoy them.|sd
+B|Where did you go on your last vacation?|qw
+A|Uh, the last was back down to Lubbock to visit parents.|sd
+A|It was,|%
+B|What?|br
+A|The last one was back down to Lubbock, Texas,  to visit  family.|sd
+B|Uh-huh,|b
+B|yeah.|b
+B|Uh.|b
+A|But that's not the tradition for us.|sd
+B|Oh, yeah.|b
+B|What's your out of the, out of the state type,|qw
+B|where do you like to go?|qw
+A|Uh, we enjoyed Yellow Stone real well last year.|sd
+B|Really?|bh
+A|Yeah.|b
+B|What kind of, uh, vacation spots are there in Colorado?|qw
+A|Oh, Rocky Mountain National Park.|sd
+B|Uh-huh.|b
+A|It's, it's just like any of the other national parks.|sd
+A|It,|%
+A|you know, there's camping and fishing and hiking and wildlife watching|sd
+A|and,|%
+B|I think my parents took me there when I was real young.|sd
+B|We went to Colorado Springs and, uh, Rocky Mountain National Park.|sd
+B|It was real pretty.|sd
+A|Oh, it's,|%
+B|Got to see Pike's Peak.|ad
+A|Yeah,|b
+A|we usually try and drive up there, oh, once every year or two.|sd
+B|You drive by yourself up there?|qy
+A|Sure.|na
+B|Oh, wow.|ba
+A|To the top the of the peak,|sd
+A|sure.|na
+B|Oh, that's tough.|sv
+B|I don't, I don't think I could do that|sd
+A|Oh, it's not bad at all.|bd
+A|It's, it's a beautiful drive.|sd
+B|Oh.|b
+A|Now I admit up there, the altitude is kind of interesting,|sv
+B|Yeah,|b
+B|yeah.|b
+A|You know you get a little lightheaded and giddy,|sd
+A|but it's fun. You know, take along a picnic lunch|sd
+A|and,|%
+B|Sure is pretty up there.|sd
+A|Oh, we love it.|sd
+B|You have mountains all around you?|qy
+A|Uh, no,|nn
+B|Uh-huh.|b
+A|you know, it's right there at the very foot of the Rockies.|sd
+A|You know, and once a week we drive up into the mountains, usually, you know, usually once a week, once every other week.|sd
+B|Wow,|ba
+B|that's neat.|ba
+B|I'm jealous|sd
+B|There's hills in Texas.|sd
+A|Yeah,|b
+A|well, I enjoy hills, in Texas too.|sd
+A|I've been in Sherman.|sd
+A|No,|nn
+A|I haven't,|sd
+A|you?|^g
+A|Uh, once to Mexico City,|na
+A|but just a little day thing on business.|sd
+B|Uh-huh.|b
+B|I went to, uh, the Bahamas last year, on a cruise for my honeymoon.|sd
+A|Uh, that's nice.|ba
+B|It was really neat,|sd
+B|I had never been out of, really, out of Texas or out of Indiana much, out of the United States.|sd
+B|I'm from Indiana|sd
+B|so,|%
+A|Did you enjoy it?|qy
+B|What?|br
+A|Did you enjoy it?|qy
+B|Yeah,|ny
+B|it was great.|sd
+A|Uh-huh.|b
+B|It was really pretty down there.|sd
+A|Uh, got to eat some different kinds of foods and meet people from a different culture|bf
+A|and,|%
+B|Uh-huh.|b
+B|Yeah,|b
+B|really did.|sd
+B|There,|%
+B|in fact, one, uh, family that sat at our table every meal was from London,|sd
+A|Oh.|b
+B|and  they had never been to the United States,|sd
+B|so they were really enjoying it|sd
+B|and they were telling us about all their trips.|sd
+A|Huh.|b
+B|They had been to Disneyland,|sd
+B|and it was neat to meet different people.|sd
+A|So the place that I went, that we've gone on vacation that I think I enjoyed the most,  was  Seattle.|sd
+B|Uh-huh.|b
+B|Oh, really?|bh
+B|I've heard it's really pretty up there.|sd
+A|Well, we, uh,|%
+A|was, two years ago,  we  went during the drought.|sd
+B|Uh-huh.|b
+B|Oh.|b
+A|I'm sorry, three years ago.|sd
+A|It had been dry for a whole week.|sd
+B|Oh, wow.|ba
+A|It didn't rain for a whole week.|sd
+B|Yeah|b
+B|that would have been nice.|sd
+B|That would have been best time to go.|sv
+A|Yeah,|b
+A|somehow we picked the right time and, uh, walked down on the wharf,|sd
+A|and I think we ate seafood every meal for, well, not quite every meal, but most meals for a week.|sd
+B|Uh-huh.|b
+A|Uh, it was wonderful.|sd
+A|Uh, the Pacific Science Museum, the little girl really enjoyed.|sd
+A|It's very interesting.|sd
+B|Pacific Science?|br
+A|Yeah.|ny
+B|Really?|bh
+A|Yes.|ny
+A|It was, it was super,|sd
+A|and, uh, went to the Seattle Aquarium.|sd
+B|Uh-huh.|b
+A|And it's right down there, on the, right there on the ocean, and down there on the wharf by the piers and all,|sd
+A|and you walk down in a dome, a glass dome,|sd
+B|Uh-huh.|b
+A|and  the bay is circulating over your head,|sd
+A|and you,  and you  can watch the fish swim by and sharks|sd
+B|Oh, wow.|ba
+A|and oh it's,|%
+B|Oh, neat.|ba
+A|Yeah,|b
+A|and then there's walrus and sea lion and porpoises, and oh, it's,  it's  amazing.|sd
+B|That's the vacation you recommend, huh?|qy
+A|Oh, absolutely.|na
+B|Yeah.|b
+A|Without a doubt.|sv
+A|Seattle is beautiful,|sd
+A|and the mountains,  the mountains to the east  of Seattle,  are  just incredible.|sv
+B|Yeah,|b
+B|I've heard it is.   Uh-huh.|sd
+B|Really?|bh
+A|I rode a ferry for the first time in my life.|sd
+B|Oh, wow.|ba
+A|You know, up there, you go from the mainland to a whole bunch of islands around there by ferry,  Instead  of by bridge.|sd
+B|Uh-huh.|b
+A|And you drive your car on.|sd
+A|You park your car,|sd
+A|you set your brake.|sd
+A|You walk upstairs|sd
+A|and you have a beer,  or  coffee, or whatever, depending on the time of day.|sd
+A|It's amazing.|sd
+B|And your car is on a ferry?|qy
+A|Yes.|ny
+B|And it goes across with you?|qy
+A|Yes.|ny
+B|That's really neat.|ba
+A|Yeah,|b
+A|yeah.|b
+A|And there are people, literally that everyday, take the ferry, you know, and drive, on to it,|sd
+B|To work?|^2
+A|yeah,|aa
+A|live on an island off, off shore from Seattle.|sd
+B|That's really wild.|ba
+A|And, you, uh,|%
+A|everyday they drive on the ferry.|sd
+A|They go upstairs and have their morning coffee.|sd
+B|Huh.|b
+A|Take, for the twenty to, hour and ten minutes that it takes to get across and, you know, depending on where it is.|sd
+B|Hour and ten minutes?|br
+A|Well, in some places, you know,  in  some areas, you know, depends on how far they are commuting.|sd
+B|Yeah.|b
+B|That's really interesting.|ba
+A|Oh, it, it's strict,|%
+A|I'm, I'm a West Texan.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|You know, it's, it's a different life style than we are used to.|sd
+B|Yeah,|b
+B|it is.|sd
+B|I've been wanting to go to the West Texas, and see different parts of Texas, because I haven't lived here very long,|sd
+B|and I haven't really seen much.|sd
+B|So what are some good things in Texas to go visit?|qw
+A|Oh, Galveston.|sd
+B|Galveston?|br
+A|Yes,|ny
+A|I liked Galveston real well,|sd
+A|uh, there's, uh,|%
+A|one of the areas down there close to Galveston is,|sd
+A|I forget the name of the island,|sd
+B|Uh-huh.|b
+A|but  it's a bird sanctuary,  with  all kinds of wild birds. Whooping and sand hill cranes, and ducks and pelicans|sd
+B|Uh-huh.|b
+A|and it's very pretty.|sd
+B|Uh-huh.|b
+A|Of course, you haven't lived until you have been to San Antone, to the,  to  the Alamo.|sv
+B|Yeah.|b
+B|Boardwalk and all that.|sd
+A|Yeah,|b
+A|the river walk.|sd
+A|Oh, it's,|%
+B|Yeah.|b
+A|And you need to go in the Spring when all the flowers are in bloom all up and down through there.|ad
+A|Oh, it's just simply beautiful.|sd
+B|I've heard it's really pretty.|sd
+A|And, of course, always when I lived in West Texas, had to annually go down to San Antone just,|sd
+B|Really?|bh
+A|Yeah,|b
+A|and go to, uh, Lone Star,|ad
+A|and uh, you know make my annual pilgrimage to the Lone Star Brewery,|ad
+B|Yeah|b
+A|You know, go across the border and all.|sd
+A|Uh, the Davis Mountains are interesting,  out  there in West Texas.|sd
+B|Uh-huh.|b
+B|Down by Big Bend?|^g
+A|Yeah,|ny
+A|yeah.|ny
+A|Uh, now the right time of year to go there is in the middle of winter,  because,  there's a beauty to the desert that it can most be, it can best be appreciated when you are not burning up.|sv
+B|Uh-huh.|b
+B|Yeah.|b
+A|You know, whenever you've been kind of cold where you are at. It's most enjoyable,  to  get, you know, to get warm.|sv
+B|Um.|b
+B|Uh-huh.|b
+A|That's nice,|sv
+A|uh, down there, in the lower Rio Grande Valley closer to where the Rio Grande empties into the Gulf, that's interesting.|sv
+A|I love the Texas Hill Country.|sd
+B|Yeah.|b
+A|And, uh, Austin is neat for, for an occasional visit.|sv
+B|I've heard to go to Austin too.|sd
+B|A lot people say to go down there.|sd
+A|Yeah,|b
+A|yeah|b
+A|it's a fun few days. Uh,|sd
+B|What's there to see in Austin?|qw
+A|Oh, U T is real pretty.|sd
+B|Uh-huh.|b
+A|Uh, there's a lot of little limestone lakes and caverns around that area, Marble Falls and all.|sd
+A|That's real pretty.|sv
+A|Uh, I would say definitely go see that part|ad
+A|and, uh, I'd say go to, uh, Midland once, just for the heck of it.|ad
+A|I don't know why, exactly.|h
+A|But, uh, you know, find out when they are holding the petroleum fair, uh,|ad

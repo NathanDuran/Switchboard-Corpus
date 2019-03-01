@@ -1,0 +1,205 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|Uh, I really haven't thought about the topic of drug testing.|sd
+A|But, uh, just off the top of my head, I, I don't think I see much wrong with it.|sv
+A|Um, if I owned a company and I wanted to make sure that it was run smoothly and that the people that I had, uh, coming in, uh, were trust worthy, et cetera, and so on, I think I would, I would, uh, probably do the random testing just to insure that my company, uh, runs safely and smoothly.|sv
+B|Yeah.|b
+B|Um, I, I also haven't thought too much about it.|sd
+B|Uh, but I suspect it, it very much depends upon the job.|sv
+A|Huh-uh.|b
+B|Maybe.|aap_am
+B|There are some jobs where I guess it doesn't really,|sv
+A|Yeah.|b
+B|and it's, it's, it's, if it's not affecting someone's performance then I'm not sure if it's a problem.  If, if, if,|sv
+A|Yeah.|b
+A|That's true|aa
+A|I didn't think about that,|sd
+A|like for instance,  Uh, if someone's working on  heavy machinery,  or  say driving trucks or buses, city buses or something like that.|sv
+B|Right.|aa
+A|Then that is something that affects the, that affects the community.|sv
+A|You know, if you're, you're drinking or on drugs or whatever, you're driving a city bus you taking several lives in your hands.|sv
+B|Right.|aa
+B|And then if you're a computer operator and, uh, there's really no big deal,|sv
+B|I think, you know,  that  maybe it's not necessary.|sv
+A|Yeah.|b
+A|And for me, I think that drug testing, it follows the path that society is going in.|sv
+A|If more and more people are using drugs then I think that some people have to guard against people that are using drugs.|sv
+B|Huh-uh.|b
+A|I mean, it's just, it's just where society is right now,|sv
+A|and you know, something we have to cope with|sv
+A|and I think the drug testing is something that the drug users have to cope with.|sv
+B|Yeah.|b
+B|Well, I think it may, it may, that's in, in that respect, I think it may help a lot.|sv
+B|I think it may be pushing people, hopefully push people away from drug use, If they no that, you know. *spelling:know|sv
+A|Yeah.|b
+A|Yeah,|aa
+A|I think that may be.|aap_am
+B|If you use drugs, you won't get the job.|sd
+A|That means one of the points of it.|sd
+A|Of course I think, um, I'm not sure, you know, what the time span is,|h
+A|but, I mean, if I used drugs last week and I had a, you know, job interview that I wouldn't use drugs the day before or something|sd
+A|and they wouldn't even see it.|sd
+A|You know, what I'm saying?|qy
+B|I don't know,|sd
+A|They may not be able to trace it.|sd
+A|I don't know how far they trace.|sd
+A|I don't know what the, you know, limits are.|sd
+B|I don't know|sd
+B|that would actually be an interesting thing to find out, I think.|sd
+B|I don't, I don't actually know how long those things stay in the blood, in the system.|sd
+B|I've heard some, I've heard some things will stay there for six months,|sd
+B|some stay for less,|sd
+B|some stay for longer.|sd
+A|Yeah. Oh, really. *bh|b
+B|Things like L S D, I guess, stay forever.|sd
+B|In some ways,|h
+B|you get flashbacks for, uh, forever.|sd
+B|I, I, I guess so.|no
+A|Something like that,|aap_am
+A|yeah.|aa
+B|I mean, there must be some, some, something,|sd
+B|I mean, people get these little flashback things, you know,  of  some sort,|sd
+A|Um.  Yeah.|b
+B|so I don't really know.|sd
+A|I mean, I don't use any drugs.|sd
+A|I don't really drink or anything,|sd
+A|so I'm pretty, uh, uh, I guess, decisive about that,|sd
+A|just the fact that since I don't use drugs, I have no problem with taking a test.|sd
+B|Right.|b
+B|Well, see, if you actually used drugs at all,|sv
+A|Yeah.|b
+B|and  I'm, I'm at, at most a social drinker,|sd
+A|Yeah.|b
+A|Yeah.|b
+B|so it's  never a problem.|sd
+A|So the only thing I would hate is if I were to go and, uh,|sd
+A|I mean it's kind of the same thing with the lie detector test.|sv
+A|If you don't have anything to hide, you're not going to mind it.|sv
+B|Right.|b
+A|And then there are some things that just aren't peoples business,  that come out at  that point|sv
+B|Right.|aa
+B|That, that, that,|%
+A|so I think that a lot of people have trouble with that.|sv
+B|But,  that's a fine line to draw.|sv
+A|I can, I can understand that.|sd
+A|Huh-uh.|b
+A|Huh-uh.|b
+B|I mean, uh, that's really|%
+B|do you, uh,  do  you worry about, you know, this or that,|qh
+A|Yeah.|b
+B|I mean, you know, what about the rights,  to  privacy,|qh
+A|Huh-uh.|b
+B|what if they're doing something legal,|qh
+B|but they would rather have it private,  you  know.|sv
+A|Right.|aa
+A|Right.|aa
+B|Like, especially in the case of drinking.|sv
+B|You know, if someone is something more than a social drinker, shall we say, yet, they're not an alcoholic, what do you do?|qh
+A|Yeah.|b
+A|Yeah.|b
+B|So.|%
+A|I mean, I took a lie detector once|sd
+A|and I didn't mind it,|sd
+A|but I was just offended by some of the questions, I guess.|sd
+A|I mean, there was one question, do you like your mother?|sd
+A|You know?|qy
+A|I said, yes.|sd
+A|Do you hate your mother?|^q
+A|No.|^q
+A|Have you ever killed your mother?|^q
+A|And I was going, you know, What in the world.|sd
+B|Well, those are just,|ba
+B|yeah,|b
+B|Those are just to get, probably to get some sort of, those are to get the shock value out of you.  Shock.|sv
+A|Is that what it was?|qy
+B|I do  some, I'm a graduate student in Psych.|sd
+A|Oh, okay.|bk
+B|And we sort of, you know, figure out,|sd
+B|um, I know a little bit about that kind of stuff.|sd
+A|Huh-uh.|b
+B|What they're trying to do there is, they want to sort of get a base line measure for you, you know.|sd
+B|How is it that when you see these things and, you know,  and,  and, and,|sd
+A|Huh-uh.|b
+A|Kind of get,  Kind of get something to measure my responses by.|sd
+B|Yeah.|b
+B|But with them they have no idea if you're just sort of jumping,  around  and being fidgety,|sv
+A|Yeah.|b
+A|Yeah.|b
+B|Maybe  .|aap_am
+B|It can be shocking|sv
+B|and,   shock you.|sv
+A|Yeah|aa
+A|they ask why I was going,|sd
+A|what in the world are you asking me about here. But I guess, I don't know, some people have probably killed their mothers.|^q
+B|Yeah.|ny
+A|I don't know|h
+B|Yeah,|aa
+B|well, I guess so,|h
+B|I mean, I guess, I don't know how, what actually happens if, uh, if you have killed your mother|h
+A|Yeah|b
+B|Big jump there. But, yeah,|sv
+A|Yeah.|b
+B|I think it's their way of saying how well you do,  in  a shock situation without worrying about,  stuff  like that.|sv
+A|Huh-uh.  I never thought about that,|b
+A|that makes me feel a little better|ba
+A|Of course, that was years and years ago.|sd
+B|Yeah.|b
+B|Yeah,|b
+B|and I don't think that you killed your mother though,|sd
+B|I wouldn't worry about that.|sv
+A|because in society a lot of people are taking drugs.|sv
+A|There is also people that are getting off drugs and trying to do better with their lives.|sv
+A|But they take a lie detector test or a drug test, or whatever|sv
+A|and the stuff that happened to them, you know, five years ago comes up|sv
+A|and it spoils their chances for just making it a little better.|sv
+A|You know, when they might be actually trying to,  improve  their lives.|sv
+B|Yeah.|b
+B|Yeah.|b
+B|That's, uh, you know, it, it could blow things right away for them, you know.|sv
+A|Huh-uh. Huh-uh.|b
+B|Unless they say, well, look, unless they walk in, they could walk in and say, look, I did do drugs a year ago,|sv
+B|and  I'm off them for a year now.|^q
+B|I'll be happy to take the test,|^q
+B|but it will show up positive.|^q
+A|Yeah.|b
+A|Yeah.|b
+B|versus,|%
+A|I would probably do that.|sd
+A|And I would probably bring something in showing that I had been to such and such hospital for help or, you know,  Whatever  the twelve month program.|sd
+B|Yeah.|b
+A|Or whatever it is that they do.|sd
+B|Yeah.|b
+B|Because, I mean then, although then, they can't legally discriminate, I think on the basis .|sv
+A|Huh-uh.|b
+B|But I don't really know.|sd
+B|I don't know what the laws are pertaining to this.|sd
+A|Yeah.|b
+A|Yeah.|b
+B|My wife probably does.|sd
+A|I'm not sure what they are either.|sd
+B|I don't, I don't .|%
+A|Yeah.|b
+B|But, it's an interesting topic that I never actually thought about .|sd
+A|Yeah.|b
+A|The other day we had talked about, uh, capital punishment.|sd
+B|Oh, I .|b
+A|And I really, really hadn't thought about it.|sd
+A|I mean, I think about it because I hear about it,|sd
+A|but I hadn't had to sit down and, and well, what do I think about it|sd
+A|You know, and that's kind of like today.|sd
+A|I'm not real sure what I think about it.|sd
+A|I'm kind of, you know, in the middle on that one.|sd
+B|Yeah.|aa
+B|Well, these are tough.|bf
+B|I sort of like that stuff,|sd
+B|it makes you think.|sv
+A|Huh-uh.|b
+A|Really,|aa
+A|really.|aa
+B|So I think that's real good.|sv
+A|Okay.|fo_o_fw_"_by_bc
+A|It was very nice talking to you.|fc
+B|Nice talking to you to.|fc
+A|Okay.|fc
+A|Take care.|fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

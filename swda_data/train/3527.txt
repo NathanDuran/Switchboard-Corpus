@@ -1,0 +1,183 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|do, do you have a home, or apartment?|qy
+B|Uh-huh,|ny
+B|I have a home.|sd
+A|Okay,|bk
+A|do you have to do a lot of upkeep?|qy
+B|Not really,|ng
+B|we have a small backyard and small front yard|sd
+A|Uh-huh.|b
+B|but, uh, uh, I do basically like the shrubbery and the planting and the weeding|sd
+B|and he mows the lawn because the lawn mower is too heavy|sd
+B|That's another story.|sd
+A|Okay|bk
+B|And, uh, and, uh, I do the edging and stuff like that,|sd
+B|but, uh, it doesn't take us that long because our, our yard is so small.|sd
+A|Uh-huh.|b
+B|But, uh, I try and do as much, you know flowering as I can, and that kind of stuff. The seasonal things.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Yeah,|b
+A|uh-huh.|b
+B|But, uh, I think we have one of the nicest yards in the, in the neighborhood|sd
+A|Well, that's nice|ba
+A|I wish I could say that.|sd
+A|Ours is pretty small, too,|sd
+A|but it, it takes about an hour with the two of us working to, you know, do the bushes and all of that sort of thing.|sd
+B|Yeah.|b
+B|Yeah.|b
+A|Uh, the worst part is controlling the weeds. Which I hate because we don't like to use a lot of the chemicals and, because, like, we have a dog and, and, you know, he's going to be out in the yard and who knows who he eats out there.|sd
+B|Oh, yeah.|b
+B|That's true.|ba
+A|But we try not to use them but we end up using some anyway.|sd
+A|Uh um, what else.|^h
+A|I get to put out all the Christmas lights out there and all that, sort of thing|sd
+B|I don't|sd
+A|No?|bh
+B|No,|nn
+B|he does that.|sd
+A|Oh, okay.|bk
+A|Well, if they, if they go up|sd
+A|like, one year we did the edge of the house all the way up on the roof|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|and I I went up on the roof once and I'll never do it again|%
+A|I decided I was afraid|sd
+B|Yeah.|b
+B|Don't blame you|ba
+A|So this year, he got lazy so I said, fine|sd
+A|I'll put some on the bushes.|sd
+A|And that's about it,|sd
+A|that's all it gets.|sd
+B|Yeah.|b
+B|Huh, okay,|b
+B|we don't have that many bushes to put them on.|sd
+B|Uh, our, our yard is very, uh, narrow|sd
+A|Uh-huh.|b
+B|and so we have some bushes, but we don't have too many,|sd
+B|but we have a nice tree in the front|sd
+B|and uh, we have people that, an association that comes and mows everybody's front yard|sd
+A|Uh-huh.|b
+A|Oh, wow.|ba
+B|and, uh, they keep hitting it, the tree with the lawn mower.|sd
+A|Oh, no.|ba
+B|You know, every time you do that, it, uh, kind of kills the tree for a while.|sd
+A|Yeah.|b
+B|And so that's kind of stunt its growth for just a while until we get it back going again.|sd
+A|Oh.|b
+B|And we started mowing our own lawn|sd
+A|Uh-huh.|b
+B|because they were doing that.|sd
+B|And so, anyways I have a nice full tree now|sd
+B|and, and we put , we fill it with lights and that kind of thing.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|So,|%
+A|Um. But you still have to pay for it, though, even though they're not going to do it?|%
+B|And they would, uh, they also edged,|sd
+B|when they would edge in, into the shrubbery and oh, gosh, it was getting really bad,|sd
+B|so we,|%
+B|Yeah,|ny
+B|because it's an association fee.|sd
+A|Oh, is it real expensive?|qy
+B|Yes|ny
+A|Oh, gosh.|ba
+B|it's like seventy a month.|sd
+A|Oh, my goodness.|ba
+B|Yeah,|b
+B|and I don't like,|sd
+B|I, I just get really upset every time I make that check out.|sd
+A|Yeah.|b
+B|But, uh,|%
+A|Well, do, do they do other things for you all?|qy
+B|They take care of the, uh, landscape,|sd
+B|because we live in a cul-de-sac|sd
+B|and there is a island in the middle|sd
+A|Uh-huh.|b
+B|so they care of that|sd
+B|and there is a pool and they take care of the pool|sd
+A|Uh-huh.|b
+B|and, and there is a pond,|sd
+B|they take care of the pond in the park area and that kind of thing.|sd
+A|Uh-huh.|b
+B|And, uh, so you're basically paying, oh,|sd
+B|and the sprinkler system that,|sd
+B|that|%
+B|our yard doesn't have a sprinkler system, but the island does|sd
+B|and, uh certain sharing areas have sprinkler systems|sd
+A|Uh-huh.|b
+B|and and so that way if someone moves out, the entire neighborhood is mowed and watered and that kind of thing, you know.|sd
+A|Uh-huh.|b
+A|Um.|%
+B|So,|%
+A|But you knew when you moved in, you'd have to pay that, didn't you?|qy
+B|Well, it, it, it went up what we pay.|na
+A|Oh|b
+B|And that's the bad thing.|sd
+B|I just hope it doesn't go up any more|sd
+B|because we just can't afford it anymore.|sd
+A|Yeah.|b
+B|I don't know what to do if you can't afford it|sd
+A|I don't know either.|ba
+A|That's interesting.|ba
+B|So, uh, but, they're,|%
+B|that's what they do.|sd
+B|They take care of basically the front yards and unless you don't want them to do it.|sd
+A|Uh-huh.|b
+A|Now do at a|%
+A|do things like plant bushes and trees?|qy
+B|They,|%
+B|only in, like, in the common areas and in the island.|na
+A|Oh, okay.|bk
+B|But they don't do it in your yard.|sd
+A|So, there is, like, no restriction on what types of bushes you can have or anything like that?|qy
+B|Right,|na
+B|uh-huh,|ny
+B|yeah,|ny
+B|so we've added bushes and, and shrubbery, too.|sd
+A|Uh-huh.|b
+A|Yeah,|b
+A|when we moved into our house I just hated the bushes they had.|sd
+A|I, I ripped most of them out and put them somewhere in the back.|sd
+B|I know.|ba
+A|And put new ones out front.|sd
+A|But that was a lot of work.|sd
+B|Yeah.|b
+A|Took me a long time.|sd
+B|Yeah,|b
+B|that's what we did when we first moved in, too.|sd
+A|Uh-huh.|b
+B|Just rearranged some things|sd
+A|Yeah,|b
+A|and then, then we put in a sprinkler system,|sd
+A|and, We won't go through that again,|sd
+B|Oh.|b
+A|I will pay someone to do it|sd
+B|Oh, really?|bh
+A|Oh, it took so long.|sd
+B|Oh.|b
+A|Because my husband was, you know, digging the trenches because he didn't want to get a trencher, you know,|sd
+A|there is a machine that will do it.|sd
+B|Oh, yeah.|b
+A|Because, you know, there is so many people that broke either their water main or their gas main doing it.|sd
+A|And I guess that costs you an absolute fortune.|sv
+B|Oh.|b
+B|That's true,|aa
+B|so gosh,|ba
+B|you did it manually.|bf
+A|By hand.|sd
+B|Oh.|b
+B|Oh, gosh.|ba
+A|Yeah,|b
+A|but it works great now that we've got it.|sd
+B|I bet.|ba
+A|Yeah,|b
+A|it's nice.|sd
+B|Yeah,|b
+B|that's a good investment there.|sv
+A|Yeah,|b
+A|well, we needed to because we're having some foundation trouble,|sd
+A|you know, you have to keep the, the area moist around the house or it makes it worse,|sd
+B|Oh.|b
+A|so, we had an incentive there to do that.|sd
+B|Oh.|b

@@ -1,0 +1,123 @@
+A|Been on the line for awhile.|sd
+A|I almost forgot what the topic was.|sd
+B|Okay.|b
+B|Uh,  based,|%
+A|Uh,  but I know what it is.|sd
+B|Oh, okay.|b
+B|Good.|ba
+A|Uh, let me see.|^h
+A|I, I, I, I, I'm kind of,|%
+A|I don't,|%
+A|you know, I'm, I'm kind of in the middle.|sd
+A|I, I think it's a great idea|sv
+B|Uh-huh.|b
+A|but when it comes to me, it's like, almost an insult, you know,|sv
+A|so it's|%
+A|I, I've come from the teaching field.|sd
+B|Right.|aa
+B|So do  I|sd
+A|So,  so it's just like I don't know. I, I guess, I guess I'd have to go with, uh,|sd
+B|Uh-huh.|b
+A|But I, I, I would, I would probably go for, for going ahead and doing it, you know. If it's got to be done for everyone.|sv
+B|Right.|aa
+B|I think if it's got to be done for one person in the company, it should be random testing, it should be for everybody.|sv
+A|Right.|b
+B|You know, when they answer the company, I think it'll make it a lot easier|sv
+A|Right.|b
+A|Yeah.|b
+B|I don't know, I come from the teaching field too|sd
+B|and it sort of, uh,|%
+B|it's a pro and a con|sv
+B|I don't know where to stand on it.|h
+A|Yeah.|b
+B|I'm more or less, if they told me I had to well then fine,|sd
+B|but  if, you know, if they made me then I'd probably,|sd
+A|Yeah.|b
+B|if I had my druthers I'd probably say well no|sd
+B|you know just this,|sd
+A|Yeah.|b
+A|You kind of  goes into your privacy|^2
+A|and you know, but I guess if they,|sd
+B|Right.|aa
+A|you know, you know, there's, uh,|%
+A|I guess there's some companies that aren't, that are doing it.|sd
+B|Uh-huh.|b
+A|And it, it seems to be working out|sv
+A|so,|%
+B|Yeah,|b
+A|Yeah.|b
+A|Right.|b
+B|And, uh, anybody who, uh, gee, is, you know, doesn't accept the rehab program then they're, more or less, getting laid off.|sd
+A|See, that's hard.|fo_o_fw_"_by_bc
+B|that's a,|%
+B|it's really weird issue.|sv
+B|I'm  sort of  on the fence about it.|sv
+A|Yeah.|b
+A|Yeah.|b
+B|But I,|%
+B|you know, that, that's what's they're coming across as is some of the companies anyhow.|sv
+B|Oh, we can get you into a drug program.|^q
+B|But then you wear that stigma you know|sv
+A|Yeah.|b
+A|Yeah.|b
+A|Yeah.|b
+B|yeah.|%
+A|Then I kind of hear it goes into like, uh,|sd
+B|Right.|aa
+B|Anything with a,|^2
+B|you know, if you drink a lot of caffeine  or,|^2
+A|Oh,  I didn't know that.|sd
+B|Yeah,|b
+B|somebody was saying, telling me if you drink it in, you know, an awful lot of caffeine, that that can show up as a positive test.|sv
+A|Um.|b
+B|I know I'm an epileptic|sd
+B|so I'd probably test positive  and  and then I'd have a heck of a time explaining what drug is in my system, you know|sv
+A|Yeah.|aa
+A|See  things like that|sv
+A|so,|%
+A|Yeah.|b
+B|And a lot of times, those are the things I don't like to disclose to an employer because then they don't want to have anything  to do with you|sv
+A|Right,|aa
+A|right.|aa
+A|Uh-huh.|b
+B|You know, it's very personal.|sd
+B|I wouldn't want to have it disclosed  because  then I'd always wonder if they fired me, you know, why did you fire me|sd
+A|See that's,|%
+A|Yeah.|b
+A|That's where I kind of get into,|sv
+A|cause it kind of gets into your personal life, you know.|sv
+A|And what's kind of next.|qh
+B|Uh-huh.|b
+B|Yeah.|b
+A|The what?|br
+B|Orwell.|sd
+A|Huh.|b
+A|Oh.|b
+A|Yeah.|b
+B|and I|%
+B|I'd hate to have to,|sv
+B|if I had my choice between a company that did testing and a company who didn't|sv
+A|Right.|aa
+A|Yeah|b
+A|Right.|aa
+B|But I can understand why they need it with all the, you know, train accidents and everything else.|sd
+A|So do you think they'll kind of push into the teaching field eventually?|qy
+A|I kind of think they will.|na
+B|I think they will too because, uh, you know, it's just going to follow.|na
+A|Yeah.|b
+B|I don't know. I, we haven't had any of it in our school system.|sd
+B|So, uh, you know  hopefully, we won't|sd
+A|Yeah.|b
+A|We haven't either.|sd
+A|Yeah.|b
+A|But I, I, I just kind of think it's heading that way though, you know. It's just, because it's just hitting to close to home with the kids and stuff|sv
+A|and I just I just kind of think it's going to eventually head that way.|sv
+B|Right.|b
+B|Well and eventually it's going to be not only the|aa
+B|you know,  the kids are  going to be under scrutiny, it's going to be the teachers.|sv
+A|Yeah.|b
+A|Right.|b
+B|And if they can test the teachers, that gives them the full right to test the kids.|sv
+A|Right.|b
+B|And then they, you know, caught everybody.|sv
+A|Yeah|b

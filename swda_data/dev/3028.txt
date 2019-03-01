@@ -1,0 +1,231 @@
+A|Are you ready?|qy
+B|Uh-huh.|ny
+A|She didn't announce that to you?|qy
+B|Oh, I didn't, I didn't quite hear all of it.|arp_nd
+A|Oh, I see.|bk
+A|That's fine.|ba
+A|Um, I think, uh, that's pleasurable for all of us, if we choose the right restaurant|sv
+B|Right|b
+A|So, what are your thoughts on dining out?|qw
+B|Well, I, I really choose restaurants more for the quality of food than anything else.|sd
+A|Not for the price?|qy^d
+B|Well, a little bit for the price,|na
+A|Okay.|bk
+B|but, uh, I think that as far as quality of food goes the some of the most expensive places I've been had the the, really the, the worst quality of food.|sd
+A|Uh-huh.|b
+A|The|%
+A|Really?|bh
+A|Okay.|bk
+B|Really.|na
+B|Um, a lot of places that even don't look, don't look like much.|sd
+A|Uh-huh.|b
+B|Some of the, some of the best food I have ever had was out of a, outside or inside of a place that we drove up|sd
+B|and I was like, I'm not eating in there|sd
+B|Are you nuts?|^q
+B|And, uh, we went in|sd
+B|and it was the it was the most wonderful food.|sd
+A|My word,|ba
+A|it's like mama in the back kitchen, huh?|qy
+B|Yeah.|qy
+A|Oh.|bk
+B|I'm serious.|sd
+A|Yeah.|b
+B|Um, a lot of, uh, one place that we went just recently uh, was to Atchafalaya.|sd
+A|Uh-huh.|b
+B|No,|ar
+B|that's not right.|ar
+B|That's not right.|ar
+B|That's not right.|ar
+A|Okay.|b
+B|someone in the What's the name of that restaurant?|t3
+B|in the background Where at? .|t3
+B|someone in the background The Hari Krishna.|t3
+B|in the background relies Oh. Kalachandji's .|t3
+B|Kalachandji's.|sd
+B|It's all vegetarian,|sd
+B|and it, it was just fabulous.|sd
+B|I mean, my husband was aghast because I ate turnip greens and liked it.|sd
+A|Wow.|ba
+A|And where was that at, near your,|qw
+B|Um, Kalachandji's.|sd
+B|It's, uh, it's a Hari Krishna run restaurant.|sd
+A|Where,|qw
+A|is it in Dallas?|qy
+B|Yes.|ny
+A|Is it in the phone book?|qy
+B|Uh, I think so.|na
+B|It should be.|sd
+A|Do you know how to spell it?|qy
+B|Uh, it starts with a K.|sd
+A|Okay.|bk
+B|So K A L A, I think, C H A N D.|sd
+A|Kalli , K A L L I?|qy
+A|Okay.|bk
+B|That should get you close enough to, to be able to find it.|sd
+B|I think it's, uh, probably listed in the restaurants, you know.|sd
+A|Uh-huh,|b
+A|section,|b
+A|yes,|b
+A|uh-huh.|b
+B|But it's, uh, it's just fabulous food.|sd
+A|What about fast foods?|qo
+A|Do you have a preference if you were going to, eat a fast food?|qy
+B|Well, we like Arby's. As far as, fast food goes.|na
+A|You do, like Arby's?|bh
+A|See I don't like Arby's.|sd
+B|Oh, really?|bh
+B|Why?|qw
+A|No,|nn
+A|because they use everything they can and make this into pressed whatever.|sv
+A|They use the, they use the insides of the animals, heart and liver|sv
+A|and they, they form it,|sv
+A|and they make it look like roast beef,|sv
+A|and I said, no,|sd
+A|thank you.|^q
+B|Oh, no,|ar
+B|no,|ar
+B|no.|ar
+B|Someone has been lying to you.|sv
+B|What they use is roast beef.|sv
+A|Well, that's not what I heard, from one of, somebody that was supposed to know what they were talking about.|sd
+B|That's what,|%
+B|Oh, my goodness.|ba
+A|Uh-huh.|b
+B|I'm surprised.|sd
+B|My dad worked for Arby's for several years.|sd
+A|Really?|bh
+B|Yeah.|ny
+A|Unless somebody is trying to blackball them.|sv
+B|Well, that's happened before.|sd
+A|Uh-huh.|b
+B|But we like good uh, we're, we like Mexican food.|sd
+A|Okay.|bk
+B|And stuff like that.|sd
+B|And so, um,|%
+A|How about the health food, uh, restaurants? Well, like this one|qo
+A|but it's probably not advertised as such, is it?|qy
+A|Or,|%
+B|A health food?|qy
+A|Uh-huh.|ny
+A|Health food, uh, restaurants that,|sd
+B|Like, like,|%
+B|name one|ad
+A|Well well, like, um, well, I can't really think of any off the top of my head right now because there's so few and far between.|aa
+B|I'm not sure what you're talking about.|sd
+A|But they ought, there are restaurants that cater to the people that are very health conscious. You know, as far as their cholesterol levels and their, their fat content and, you know, the amount of calcium and so forth that are in each product|sd
+A|and they list them.|sd
+A|Now there's one restaurant that does that|sd
+A|and it's called Rodolfo's|sd
+A|over on Preston Road and Royal Lane I believe.|sd
+B|Huh.|b
+A|And they have very good food over there.|sd
+B|I don't guess I've ever been to anything like that|sd
+B|so, I really don't have anything to compare it to.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+A|They do list, um, you know, list the fat,|sd
+B|It would be good I think,|sv
+A|Uh-huh,|aa
+A|uh-huh.|aa
+B|uh, I don't know how expensive they are.|qw^d
+B|It sounds like that it would probably,|sv
+A|Well, it was pretty reasonable.|sv
+A|I, it was around ten dollars for lunch. Okay,|sd
+A|which is kind of high for lunch I guess.|sv
+B|For one person?|qy
+A|Yes.|ny
+B|Oh|bk
+A|Yes,|ny
+A|uh-huh.|ny
+B|A bit|sv
+A|Yeah.|aa
+A|Uh, but, um, you were served by maitre d's and, and, uh, um, men waiters.|sd
+B|Yeah,|b
+B|I, I won't really be interested in going to, in going there. Because, I feel like I'm, I'm paying, you know, five dollars for the food probably and five dollars for something that I could get along quite well without|sd
+A|Well, if you're looking for a nice,|sv
+A|Uh-huh.|b
+A|Well, I guess if you were having, if you were trying to impress somebody like taking somebody that you hadn't seen for a long time and wanted to show them a good restaurant. It's a special occasion, type thing.|sv
+B|Yeah.|aa
+B|Maybe, maybe that.|aa
+B|Yeah.|aa
+A|Yeah.|%
+B|Yeah.|aa
+B|I could see that, then maybe.|aa
+A|Uh-huh.|b
+A|And now the Red Lobster I found is very nice at lunchtime.|sv
+B|Yeah,|aa
+B|I like the, the seafood that they, when they had it, you know, the broiled,|sd
+A|Because they're,|%
+A|Well, they have lunch specials that|%
+A|you can't, you can't beat that price, uh, if you went to a cafeteria.|sv
+B|Yeah.|aa
+B|Probably that's true.|aa
+B|But I know a lot of their, a lot of their specials sometimes are fried things, that you can't really get away from the fried,|sv
+A|Well, I had the, I had a broiled chicken breast|sd
+A|and it was excellent.|sd
+A|It was a marinated, broiled chicken breast|sd
+A|and it was|sd
+B|Now why would you go to a seafood restaurant to eat chicken?|qw
+A|Oh, it was,|sd
+B|That's one of my husband's pet peeves.|sd
+B|He doesn't understand why somebody would go to a seafood place and eat either chicken or steak, you know.|sd
+A|Well, I've never had catfish either in a restaurant because I'm from the north|sd
+A|and that was a no no.|sd
+B|Oh, really?|bh
+A|And I haven't gotten over that from the north.|sd
+B|Oh, catfish is wonderful.|sv
+A|I know they say that, that is,|sd
+B|Oh, really.|b
+A|but I'm, but they've got all these caution signs now on fish|sd
+B|Really.|b
+A|and so I kind of stay|sd
+B|Why?|qw
+A|Because of all the pollution in the lakes and the, everywhere. I mean there isn't any safe haven anymore for fish.|sv
+B|Oh.|bk
+B|Huh.|b
+A|and especially, uh, in Wisconsin and Michigan they say, no, buying of our fish.|sd
+B|That's too bad, because I'm probably not going to stop eating it|sd
+A|I,|%
+A|Well, yeah.|b
+A|So I am,|%
+A|and the, the best brand of chicken to buy is the, uh, Pilgrim Pride because they don't use all these hormones to remote , uh, unnatural growth in their products.|sv
+B|Uh-huh.|b
+B|Yeah.|b
+A|So I mean, we have to be on the lookout if we want to stay healthy.|sv
+B|That's true.|aa
+A|So I'm, I, you know, I,|%
+B|Oh, on one hand I see that|sd
+B|and on the other hand, uh, my older sister remembers when, uh, at one point they were taking radioactive wastes and storing them in tin barrels which I guess, had a half-life of, oh, five years if they sit empty on dry land.|sd
+A|Uh-huh.|b
+A|Yeah.|b
+A|Corrode.|^2
+A|Huh.|b
+B|So they're putting radioactive waste in it which reduces it dramatically.|sd
+A|Uh-huh.|b
+B|And then they take these things that will rust|sd
+B|and they throw them in the ocean which is going to speedup the process even more.|sd
+A|Well, I'd like to get ahold of some engineers and knock their heads together if it would do any good.|sd
+B|Oh.|b
+B|And then they wouldn't think.|sd
+B|They were floating around|sd
+B|so they shot holes in them to sink them.|sd
+A|Oh, dear.|ba
+B|And this is before I was born.|sd
+A|Wow.|ba
+B|So, I mean we're taking thirty years ago, this happened,|sd
+A|Sure.|b
+A|Yeah.|b
+B|and, and who's, you know, the tuna is radioactive to a certain extent.|sv
+A|That's right.|aa
+A|Everything we eat.|sv
+A|Everything, everything we eat should have a label on it|sv
+B|You can't get away from it|sv
+B|so I think, To some point,|%
+A|Yeah.|b
+B|yeah,|b^m
+B|you know. So there's, you know, there's some things I think we can we, you know we can't avoid for health purposes and some things that we just need to like, you know,|sv
+B|this is not in my control.|sv
+A|Well, you know,|%
+B|So I'm either going to be, I'm either going to starve to death|sv
+B|or I'm going to get over it and just go ahead and eat as healthily as I possibly can, you know.|sv
+A|Well, Becky, you know, even if you lived off your own land, that you would have to put caution signs,|sv

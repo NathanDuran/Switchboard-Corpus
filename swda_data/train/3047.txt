@@ -1,0 +1,196 @@
+B|Do you have children?|qy
+A|Uh, yes,|ny
+A|yes,|ny
+A|I have a daughter.|sd
+B|Do you.|bh
+A|Yeah.|ny
+B|How old is she?|qw
+A|She's only about, uh, uh, a little less than two years old.|sd
+B|Uh, I guess you have not reached the stage where you need to, uh, promote a college or anything, huh.|qy^d
+A|No.|nn
+B|I've got one that's seven and one that's three,|sd
+B|so, we, uh, we started saving,|sd
+B|but that's all.|sd
+A|Yeah|b
+B|So, do you, is there, are you planning to, like, encourage your children to go to a particular school?|qy
+A|Uh, no, uh, um,|nn
+A|no particular school.|nn
+A|Uh, I think that's really a decision  that,|sv
+B|That  you are going to let them make.|qy^d
+A|They,|%
+A|well, help them make in terms of, you know, what they are, they are wanting to do.|arp_nd
+B|Right.|b
+B|Uh-huh.|b
+A|You know, that, that's a big influence, I think and, You know what, not only what you can afford, but what, what's going to be best for them in terms of what their career goals are.|sv
+B|Yeah,|aa
+B|yeah.|aa
+B|Right.|b
+B|Uh-huh.|b
+A|So, uh, you know, you need to go to a school that handles whatever it is you want to do.|sv
+B|Yeah.|aa
+B|Where did you go to school?|qw
+A|Uh, University of Mississippi.|sd
+B|Oh.|bk
+B|Was that local or, uh,|qy
+A|Uh, well, it was, well, it was within the state.|sd
+B|Uh-huh.|b
+A|But it, it was not necessarily local, it was,|sd
+B|Yeah.|b
+B|But I, I mean, so what's, ,|%
+A|What's the criterion for choosing to go there?|qy
+B|Yeah.|ny
+A|Uh, well, at the time, I was, uh, thinking of going pre med|sd
+B|Uh-huh.|b
+A|and in the state, uh, they had the best pre med uh, curriculum for the, uh, state institutions.|sd
+B|Uh-huh.|b
+A|It was choice between there and, uh, a private college that, uh, was a bit more expensive.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|At the time, we really could not afford it|sd
+A|so I ended up going there although it was quite a drive away for me.|sd
+B|Yeah.|b
+A|It,|%
+A|uh, I enjoyed it.|sd
+B|So you, did you commute everyday then|qy
+B|or,|%
+A|No.|nn
+B|Oh, okay.|bk
+A|No,|nn
+A|no,|nn
+A|it was a six hour drive.|sd
+B|Oh, okay,|bk
+B|when you said it was quite a, quite a way away, I did not know it that meant you had to drive like an hour|sd
+B|or,|%
+A|I was, uh, it was like another world.|sd
+B|Uh-huh.|b
+A|Basically, it was a, no it was a,|sd
+A|did not get home that often, you know,|sd
+A|and at that age it's, uh, it's kind of, kind of difficult sometimes.|sv
+B|Yeah.|b
+B|Yeah.|b
+A|Especially, if you have not been away a lot that extended|sv
+B|Yeah.|b
+B|So, did you go there, like, straight out of high school?|qy
+A|Yeah.|ny
+B|Yeah.|b^m
+B|Uh, see I did not get my degree until later on,|sd
+B|so I just finished mine a couple of years ago.|sd
+A|Uh-huh.|b
+B|And, uh, you know, I guess, you know, when you have to do it that way, it makes, makes your choices a lot easier|sv
+B|but,|%
+A|Uh, that's true.|aa
+A|Yeah,|aa
+A|that, that's like, you know, when I went on to get my, my master's I, uh, basically was, you know, it was where I was at the time.|sd
+B|Uh-huh.|b
+B|Right.|b
+A|You know, I was not going to try to pick and go somewhere else because I was pretty much settled|sd
+B|Right,|b
+B|right.|b
+A|and I was trying to work.|sd
+A|But, uh, so when you are first going to school that, you kind of have the luxury of being able to have some latitude in choosing the place to go.|sv
+B|Exactly.|aa
+B|Yeah.|b
+B|which group do you work in in T I?|qw
+A|Um, uh, the computer science center.|sd
+B|Oh, uh, where is that at?|qw
+A|Uh, north building.|sd
+B|I see.|bk
+B|How long do you work for T I?|qw
+A|Uh, about three years.|sd
+B|Did you work somewhere else,|qy
+B|like sounds like you got your master's before here|bf
+B|or,|%
+A|Uh, yeah,|ny
+A|I have, uh, uh,|sd
+A|no|ar
+A|actually, I mean I came straight from school to here.|sd
+B|I see.|bk
+A|So, cause this was the first, first real job after getting my degree.|sd
+B|Uh-huh.|b
+B|After your master's or after your,|qy
+A|After my master's.|sd
+B|I see.|bk
+A|My undergraduate degree was not in, not in what my master's was.|sd
+B|I see.|b
+A|So I made a career change basically.|sd
+B|Uh-huh.|b
+B|I see.|b
+B|Well, let's see|^h
+B|I, have not you know,|%
+B|there's a lot of pluses and minuses for different schools, you know, just like you said.|aa
+B|Uh, depending on what they want to specialize in and what you can afford, different things like that,|sv
+B|so I, I have not really made up my mind, you know, whether to encourage them to go different places|sd
+A|Yeah.|b
+B|or,|%
+A|One day I would like to, uh, you know, the, uh,|sd
+A|I, I like the school where I went.|sd
+B|Uh-huh.|b
+A|I mean, and I would not hesitate at all to, to encourage her to go there there if she wanted to.|sd
+B|Right.|b
+B|Right.|b
+A|Or the school where I got my master's at, which, which was a different school.|sd
+B|Right.|b
+A|And, uh, I liked it almost as well.|sd
+B|Uh-huh.|b
+A|Uh, but, uh, you know, that, I'm not going to hold them to that just because I went there.|sd
+B|Right.|b
+A|I, you know, think that's|sv
+B|Yeah.|b
+A|If they want to, that's fine, but otherwise not. Although I uh, would get quite a break on, on tuition|sd
+B|Yeah.|b
+B|Um, because you went there.|qy^d
+A|Yeah,|ny
+A|because they, uh, allow for, uh, uh, tuition, uh, break for out of state students who children of alumnae.|sd
+B|Um.|b
+B|I didn't know that.|sd
+A|Well certain schools do it.|sd
+B|Yeah.|b
+A|This school does.|sd
+A|So, uh, It's, it ,|%
+B|Huh.|b
+A|I, I was involved in some, uh, oh, alumnae recruiting, uh, here in town, uh, recently, uh, well last year|sd
+B|Uh-huh.|b
+A|Uh, and it was kind of fun, because you are trying to to, trying to get people interested in your school, you know.|sd
+B|Uh-huh.|b
+A|And they were,|%
+A|this was a college night at a, at a high school in Richardson.|sd
+A|And it was,|%
+B|Uh-huh.|b
+A|And there were a bunch of kids, you know, and a bunch of schools.|sd
+A|There were a hundred schools, probably there all competing for the same kids.|sv
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|It's kind of interesting to, to, to talk up, you know, your,  school|sv
+B|Yeah,|aa
+B|your  own school,|^2
+A|And, I was surprised by the number of kids that came, came by and had heard of, you know, our school. And, and were interested in it.|sd
+B|Uh-huh.|b
+B|Um.|b
+A|Uh, you know, we, uh,|%
+A|situations like that, you don't realize, you know, until you start thinking about it, the kinds of advantages you school may have over others.|sv
+B|Uh-huh.|b
+A|And so, I, I was real, real pleased with that.|sd
+A|That worked out so well.|sd
+B|Yeah.|b
+B|So did you drum up any interest then|qy
+A|I think so.|aap_am
+A|I don't know offhand|no
+A|but, uh, it seemed like there were quite a few kids that were definitely interested in going there.|sd
+B|Uh-huh.|b
+A|So, there,  There was one mother who, uh, came by right, even, before we started, who, who obviously was, uh, very interested in getting her, her daughter in or, or having gotten her daughter in or something|sd
+B|And that,|%
+A|and she was wanting some more information.|sd
+A|But she was, her, her daughter was, uh, a, a, a majorette or something. You know, a baton twirler or something|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|and she was she was, letting us know she, how, how good her daughter was.|sd
+A|She had cards printed up, actually describing, you know, business cards describing her daughter's, uh, you know, she had won several different twirling awards, and all  this,|sd
+B|Oh, really.|b
+B|Uh-huh.|b
+A|and she was, had these business cards she was passing out|sd
+A|and it was quite a production.|sd
+A|I think some parents go a little bit overboard.|sv
+B|Yeah|aa
+B|it sounds like it.|aa
+A|Yes.|b
+B|Well you know I think Richardson is probably you know one of the places that would definitely|sv

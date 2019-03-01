@@ -1,0 +1,236 @@
+A|Okay, uh,|fo_o_fw_"_by_bc
+A|could you tell me what you think contributes most to, uh, air pollution?|qw
+B|Well, it's hard to say.|^h
+B|I mean, while it's certainly the case that things like automobiles and factories, uh, pollute a lot, uh, if you look at how much pollution is say kicked up by an active volcano, uh, it's certainly less than clear that anything man can do in this sort of scale of things has much effect at all.|sv
+B|What do you think?|qo
+A|Um, well, you talked about, uh, volcanos.|sd
+A|I'm not sure how many active volcanos there are now, and, and what the amount of material that they do, uh, put into the atmosphere.|sd
+A|I think probably the greatest cause is, uh, vehicles, especially around cities.|sv
+B|Uh-huh.|b
+A|Um, uh, do you live right in the city itself?|qy
+B|No,|nn
+B|I'm more out in the suburbs,|sd
+B|but I certainly work near a city.|sd
+A|Okay,|bk
+A|so Can you notice,|qy
+B|How about you?|qo
+A|well it's, it's,|%
+A|I live in a rural area.|sd
+B|Uh-huh.|b
+A|It's mainly farms and, uh, no heavy industry.|sd
+A|Attleboro, itself,|sd
+A|I live in Rhode Island.|sd
+B|Oh, I see.|b
+A|And, it's in the north,|sd
+A|I live up in the, uh, northeast corner|sd
+A|and Attleboro sits in just over the line, where T I's plant is,|sd
+B|Uh-huh.|b
+A|but there isn't a lot of heavy industry.|sd
+A|There's the freeways|sd
+A|and we get an occasional,|sd
+A|it depends which way the wind's blowing from Boston, cause we're like forty miles south of Boston,|sd
+A|so we'll pick up that.|sd
+A|And, uh, I've noticed over the past say, maybe five or six years, uh,|sd
+A|we live about twenty miles away from the state airport|sd
+A|and I notice that the fly patterns now of the jets are getting bigger,|sd
+A|they're swinging wider so that now they are coming over, over our homes.|sd
+B|Uh-huh.|b
+A|And, it seems like, uh, we're catching all that residue.|sv
+A|I'm not sure if it's kerosene or what that's dropping.|sd
+A|But, other than that, you know, we don't have the, unless we're catching it from the midwest, the emissions. You know from the power plants. Um.|sd
+B|Yeah.|b
+B|You mean like from the coal.|bf
+A|Yeah,|ny
+A|yeah,|ny
+A|we generate,|sd
+A|one of our, our biggest electrical plants in Rhode Island uses coal to, uh, generate electricity.|sd
+B|Um,|%
+A|Um, there doesn't seem to be much emission from them,|sv
+A|but I'm not sure about the rest of the country.|sd
+B|Yeah,|b
+B|I notice locally a major problem is Kodak.|sv
+B|Um, it's interesting|sv
+B|because in order to, uh, keep with the E P A standards which, which tend to be visible, uh, what's coming out of your smokestack, they do all their emissions at night.|sd
+B|Uh, so people get up,|sd
+A|Okay,|b
+A|well, is that right?|bh
+B|Yeah,|ny
+B|people get up in the morning in that neighborhood|sd
+B|and they've got this black ash on their cars, which, you know, seems to be,|sd
+A|Yeah,|b
+A|surprise, surprise.|ba
+B|Yeah,|b
+B|I mean, I really think that if the E P A had anything on the ball they'd go in there with a few phosphorous grenades, light up the sky, photograph the emissions at that point, and, uh, you know,|sv
+A|Yeah.|b
+A|There, there must be, uh, uh, some of the, some of the, uh, larger plants up, uh, up around one hundred twenty-eight.|sv
+B|Uh-huh.|b
+A|Um, we've got reports that, uh,|sd
+A|during the night seems like they'd blow off their, their stacks from, uh, the warehouses, for powerhouses,|sd
+B|Right.|b
+B|Uh-huh.|b
+A|and, they do that at night too, because, employees been complaining that the cars have been pitted, and, you know, spots all over them.|sd
+B|Right.|b
+B|Yeah,|b
+B|yeah.|b
+A|So, you're right,|sd
+A|they could do something about, about that, I guess.|sv
+B|Yeah.|aa
+B|That seems a little ridiculous.|sv
+A|How are your, uh, your lakes,|qo
+A|and, uh,|%
+B|Oh they've been getting cleaner.|sd
+A|They have?|qy^d
+B|Sure.|na
+B|But, um, yeah,|%
+B|I'm not sure how much the water pollution is, is directly related to the air pollution, other than acid rain,|sd
+B|yeah,|%
+A|Acid rain,|b^m
+A|yeah,|b
+A|that's, that's what I was, uh,|sd
+B|I mean the stuff I've read recently in Technology Review basically indicates that acid rain may be a little bit, uh, overstated. That a lot of the die off they've seen in forests may not really be due to acid rain at all.|sd
+B|Um,|%
+B|I'm not an expert.|h
+A|Yeah,|aa
+A|no.|aa
+A|Didn't they just have an article, oh, on, uh,|qy
+A|they were dumping lime.|sd
+B|Up here?|b
+A|Up, upstate New York somewhere, over huge areas,|sd
+B|I haven't read that.|sd
+B|Oh yeah.|b
+A|and they thought that was more beneficial because, you know it, it, some of it does soak in|sd
+A|and some of it runs off right away into the, in to the streams and rivers|sd
+A|and some of the fish were supposedly making a comeback.|sd
+B|Uh-huh.|b
+A|I can't remember where|sd
+A|I, I read that recently somewhere,|sd
+A|and I can't remember where.|sd
+B|Yeah,|b
+B|that's|ba
+A|But I, I thought it was up there.|sv
+A|So, that's interesting because New Hampshire, and parts of Vermont, um, they showed pictures of, of extensive tree damage that they attributed to acid rain.|sv
+B|Uh-huh.|b
+B|Um.|%
+A|Um, you kind of think it's something else then?|qy
+B|Well, that's what the environmentalists were claiming in this article.|arp_nd
+B|So that,|%
+A|Oh, they didn't say, they didn't say what though,|bf
+A|they just said they thought it was,|fo_o_fw_"_by_bc
+B|They didn't say what,|na
+B|they just said they thought acid rain's contribution may be less than was previously suspected. Um, that it may be other natural things at work. Um,|sd
+A|Uh, natural disease,|bf
+B|Yeah,|aa
+B|so it's, it's less than clear.|sv
+B|Like I said, I don't remember the article that well.|sd
+A|Yeah,|b
+A|yeah.|b
+B|But, um, I don't know,|h
+B|I mean, what do you think we can, uh, I guess as individuals or as a group, do about, uh, air pollution?|qw
+A|Uh, we can demand, uh, more efficient automobiles for one thing.|sv
+A|I still think that's, that's, uh, one of our major causes of pollutants.|sv
+B|Uh-huh.|b
+A|Uh, how we go about that, it's uh, uh, it's a little bit difficult.|sv
+B|I think it's up to individuals too, to ask automakers for, for less pollutant vehicles.|sv
+A|Yeah,|b
+A|Yeah,|b
+A|you I think you need a, a vehicle something like, uh, Ralph Nader, Nader's Raiders, or, where, uh, or, uh, uh, A A R P, which has a lot of members. Uh, if you can get those types of groups.|sv
+B|Yeah.|b
+B|Uh-huh.|b
+B|Do you really think that new vehicles though is a big problem.|qy
+B|I mean, I remember reading an article that said like, it's, uh, the older polluters,|sd
+B|the, the twelve and fifteen year old cars, you know, contribute like ninety percent, of the automobile pollution|sd
+A|Yeah,|b
+B|and the new cars it's hardly is, hardly anything.|sv
+A|Yeah,|aa
+A|they're better,|sv
+A|but how about all the trucks and buses that are out there.|qh
+A|Uh, when was the last time you saw a truck that didn't belch, smoke, or, uh,|qw
+B|Yeah,|b
+B|but doesn't that just mean they're out of tune.|qy
+A|Uh, I'm not really sure.|no
+A|You think that, that, that the, uh, the trucking industry is that, uh, incompetent, that they wouldn't, you know,|qy^d
+A|fuel is, is one of their biggest costs.|sd
+B|Right.|b
+A|So, you would,|%
+B|But diesel engines.|%
+A|Yeah,|b
+A|diesel engines.|sd
+B|It, you know, it's, it,|%
+B|I mean, they do generate a lot of soot|sv
+B|but that at least, that kind of particulate comes out of the air pretty quickly.|sv
+A|Yeah.|b
+A|Yeah.|b
+A|We could also, uh, push for legislation for, uh, rapid transit systems.|sd
+A|This country seems to be a little behind on that.|sv
+B|Yeah.|b
+B|On the other hand most people don't use rapid transit because it's so inconvenient.|sv
+A|Um, yeah,|b
+A|but only because we got used to, uh, single person, single car, driving.|sv
+B|Uh-huh.|b
+A|A lot of people don't even like to carpool.|sv
+B|Uh-huh.|b
+A|But we could that.|sd
+A|That'll help, pollution, air pollution,|sv
+B|Uh-huh.|b
+A|The, uh, United States and Canada are I guess, is, is, going into, uh, some types of agreements to limit, uh, what's being given out by power plants,|sd
+B|Uh-huh.|b
+A|I guess Canada's quite concerned that we're sending a lot of our stuff up there,|sd
+B|Yeah,|b
+B|sure.|b
+A|So that's helping.|sv
+B|Well, what do you think about like a device, a meter right on a tail pipe|qw
+B|and you pay the tax based on how much you polluted?|fo_o_fw_"_by_bc
+A|Now that's an idea.|ba
+A|don't say that too loud though because, uh, every city and town will have a meter on your tail pipe generating  generating revenue,|ad
+B|Well, it just means if you don't pollute, right, or you pollute very little  you don't have to pay any tax|sd
+B|or you just buy one of these things|sd
+B|and it, it, uh,|%
+B|maybe you, you could probably devise them so it slowly closed off your tail pipe|sv
+B|and, uh, the less you pollute the longer the devise lasts|sd
+B|and if you pollute a lot then it closed off your tail pipe|sd
+B|and you couldn't start your car anymore.|sd
+A|That's a, that's an interesting concept.|ba
+A|Is that your idea?|qy
+B|Yeah,|ny
+B|but, uh, you know, it's, uh,|%
+B|I guess the difficulty would be to, that somebody could obviously just take it right off the tail pipe again|sv
+B|so you probably would have to build it right into  the muffler or something.|sv
+A|Well I was going to say,|sd
+A|right.|aa
+A|You could put it in, you could, you could, it could be installed like a catalytic converter.|sd
+B|Right.|b
+A|I mean I guess you could take those off too|sv
+A|but,|%
+B|You could take|%
+B|but mufflers would be a little more obvious if you took that off.|sv
+A|Yeah,|aa
+A|if you can take a muffler off and only replace,|sd
+A|well not unless it was built into every muffler.|sd
+B|Right.|b
+A|And that's .|%
+B|But if you was talking about something which was more or less universal that, uh, busses and any kind of vehicle, had to pay a pollution tax, uh, this would penalize the heavy polluters and not penalize the light polluters,|sd
+A|That's a, that's quite a concept.|ba
+A|You should, uh, pursue that I think, or patent it, you know.|sv
+B|Yeah,|aa
+B|patent it,|sd
+B|that's a good idea.|sv
+A|If you could come up with a device that's the thing.|sv
+B|Right.|b
+A|But it shouldn't be too hard to do something like that.|sv
+A|But that's a, that's a thought.|sd
+A|No,|%
+B|Uh-huh.|b
+A|you're right|sv
+A|and that will solve, uh, a lot of problems.|sv
+A|I don't know if you, uh, if you approached the automobile industry if they would be too keen on installing something like that.|sv
+B|Uh-huh.|b
+A|Uh, but you know a proposal to, uh, uh, I guess the proper authorities,|sv
+B|Uh-huh.|b
+A|well you might, uh, generate some|sv
+B|Yeah,|b
+B|the automobile regulatory agencies or something.|bf
+A|yeah,|ny
+A|you might generate some interest in it.|sv
+A|But that's, that's a good idea.|sv
+A|Other than that I'm not sure what, what individuals can do other than like I said get involved through a group or an organization.|sv
+B|Uh-huh.|b

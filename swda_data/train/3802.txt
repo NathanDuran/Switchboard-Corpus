@@ -1,0 +1,118 @@
+A|Mike, I'm calling from Dallas, from Richardson.|fp
+B|Oh, okay, great.|ba
+B|I'm in Addison here.|fp
+A|Okay,|b
+A|well, good.|ba
+A|You know, our subject is on boating and sailing|sd
+B|Right.|b
+A|and, quite honestly, with the exception of being involved in a part ownership of a little bass boat, I have never really got into sailing or boating.|sd
+B|I do, uh, quite a bit of sailing.|sd
+B|I own a sailboat that I keep it parked up on the scout lot of my scout troop|sd
+A|Oh, do you, well, great.|ba
+B|and we take it out|sd
+B|and we do some teaching of sailing with the scouts,|sd
+B|but I haven't really been taking it out, recreationally too much lately|sd
+A|Well, that's neat.|ba
+B|It's just I don't have a trailer hitch on my car anymore|sd
+A|Right.|b
+B|so it's hard for me to get it somewhere|sd
+B|but,|%
+A|I've seen some nice, nice sailboats.|sd
+A|The guy that used to live next to us in Richardson before we moved twelve years ago, or whatever, he had a sailboat, used to park it right in the, uh, driveway|sd
+A|and it seemed, uh,|sd
+A|I think it held probably, uh,|sd
+A|it must have slept four people anyway.|sd
+B|Yeah,|b
+B|this one is not that big.|sd
+B|It's a day sailer.|sd
+B|It does have a little kind of cabin thing that you can store things in|sd
+A|Right.|b
+B|but you couldn't really sleep in there unless you sort of stuck your body out the hole, back into the main part of the sailboat.|sd
+A|I I understand.|ba
+B|But, but it's,|%
+B|they're,|%
+B|they can be black holes to throw money into|sv
+A|I tell you, Oh, they are,|aa
+B|Boats are kind of expensive to maintain.|sv
+A|and, you know, we have a swimming pool at our house|sd
+A|and I think of all the time, now that my kids are gone and away and married and going to college or whatever, that I put in there, I just could not imagine a boat because I know it's a lot of maintenance.|sd
+B|Especially a bigger one.|sv
+A|Oh, gosh|ba
+B|The bigger they are, if you get a big cabin cruiser or or a big ski boat, power boat, then there's always, uh, stuff to go wrong with it.|sv
+A|yeah.|b
+A|You bet.|aa
+B|A sailboat at least doesn't have an engine to mess up,|sd
+B|but you still have to worry with the hull and the condition of the sails and spars and rigging, uh, everything that's in it.|sv
+A|Sure.|aa
+B|It takes a, a pretty good amount of maintenance to keep one up it's a lot of fun, I think uh, just from the standpoint of getting away from the dodge here,|sv
+A|You bet.|aa
+A|I know, my wife and I were first married here|sd
+A|aunt and uncle,|%
+A|aunt and uncle up in New York, they kept a boat on Jamaica Bay|sd
+A|and we used to go out with them and back then they had bought an older Chris Craft|sd
+A|and we were involved every weekend in just, uh,|sd
+A|as we visited, we were involved every weekend in just helping them redo this and refinish that.|sd
+A|We just worked all the time.|sd
+A|But their boat slept about four people plus had a little kitchen.|sd
+A|It was sort of neat.|sd
+A|We,|%
+A|but I think that was the last time we were really involved,|sd
+A|and that was twenty years ago, or twenty-five years ago.|sd
+A|It is a lot of fun.|aa
+B|and when you work hard and you're under pressure and everything all week long, a boat can be a lot of relaxation, uh, to especially with a group of friends and cook out or camp out or whatever, uh, or a cabin or something, depending on how much you like to rough it.|sv
+A|You bet.|aa
+B|But, but it's, uh|%
+A|I visited my cousin a couple of years ago, my wife and I|sd
+A|and our daughter and he had a place on Lake of the Ozarks|sd
+A|and he had a boat|sd
+A|and, uh, the I never seen so many boats in all my life.|sd
+A|People actually park their car when they get to their place they're staying, townhouse or condominium, whatever they own|sd
+A|and they, they go boat.|sd
+B|Use the boat for transportation.|^2
+A|I mean they go,|sd
+A|if they want to go to the lounge to have a cocktail, they use the boat.|sd
+B|They just go across the boat and get a, and tie it up and go in, huh|bf
+A|And that was sort of neat.|sd
+A|That, that, that's true, that's exactly how they do it.|aa
+A|They go to dinner that way, go to all the restaurants|sd
+A|and that was sort of a neat setup.|sd
+A|I enjoyed that.|sd
+A|We spent a week with them.|sd
+A|I enjoyed that.|sd
+A|I'm envious, I'm envious of people that have the big boats|sd
+B|That would be fun.|sv
+A|and, uh,|%
+B|I've just never|%
+B|I've never moved up to a really big class of sailboat.|sd
+B|Uh, once I get my son into and through with college, he's going to be starting, uh, Rice next year|sd
+B|so he's going off,|sd
+B|but uh, once I get to that stage where I'm not paying for something else and, uh, I don't have to worry about a lot of other scheduling things, where I've actually got the time to go out and enjoy it, uh, I might do something differently.|sd
+A|You bet.|aa
+B|I might just donate my little one to the scout troop and let them, keep it and maybe consider getting a, a better one for me. Uh,|sd
+A|Think,|%
+A|you think you'd really enjoy it?|qy
+B|Yeah,|ny
+B|I think I would.|na
+B|Uh, the sailing part of it I like because it's so quiet.|sd
+A|Yeah.|b
+B|And if you get a big enough one, then you've got a little motor on it also, where if it's light wind, you can still putt around a little bit and have fun.|sd
+A|Oh  I,|%
+B|Or if,  or if the wind dies, you're not stuck in the, middle of the lake.|sd
+B|I've,|%
+B|with my little one, I've been out there many times on a calm summer day, where all of a sudden the wind stops|sd
+A|Yeah,|b
+A|that's great.|ba
+B|and you're just stranded out there trying to pick up what little gusts you can to work your way back in|sd
+B|and and that gets hot and, and wearisome, doing that.|sv
+A|Oh, I know.|aa
+B|And if you if you're a big enough boat to have the little auxiliary motor on there, at least you can kind of drop the sails and putt on back in|sd
+A|And putt putt.|^2
+A|Sure.|aa
+A|Well, that's neat.|ba
+B|But it's fun.|sv
+A|Where do you work?|qw
+A|Who are you with?|qw
+B|I own an insurance agency, a managing general, a wholesaler of insurance, uh out in Addison|sd
+A|Well, good.|ba
+B|and, uh, I'm a scout leader, though,|sd
+B|so I'm, I'm out with,|sd

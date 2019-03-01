@@ -1,0 +1,161 @@
+B|Um, are you from this area?|qy
+A|I'm from Dallas.|sd
+B|Okay,|bk
+B|I'm in Garland,|sd
+B|so.|%
+A|Okay.|b
+B|Well, I'm in Dallas right now,|sd
+B|but I live in Garland.|sd
+A|Uh-huh.|b
+B|Um, well, I don't know if you know,|sd
+B|but Garland has got a real big recycling center that, in fact, we went to it yesterday.|sd
+B|You drive up|sd
+B|and you take the stuff out of your trunk,|sd
+B|and they have different bins for the different materials, like clear, glass and colored glass and plastics|sd
+B|and, uh, they have all the different plastics separated by those little symbols on the bottom.|sd
+B|That's pretty neat.|sd
+B|My, my daughter is four,|sd
+B|and she's real interested in recycling.|sd
+A|Uh-huh.|b
+B|So we're, we're trying to promote that, because she thought we just put them in a special trash can and threw them away,|sd
+B|but, we went to the recycling center to show her what we actually did with them.|sd
+B|Uh, does Dallas have a curbside recycling program yet?|qy
+A|Um, well, I don't know Dallas,|no
+A|in Richardson does.|sd
+B|Oh, okay.|bk
+A|Um, they started with newspapers and, uh, of course aluminum cans, and and bottles and plastic.|sd
+B|Yeah.|b
+A|I didn't know there were different types of plastic, though.|sd
+B|Yeah,|aa
+B|um, like soda bottles are one one type of plastic,|sd
+B|and milk jugs are one type of plastic.|sd
+B|You can|%
+B|it's got little,|sd
+B|most of the recyclable containers have the little symbol on the bottom with the, with the arrows around it that tells whether it's a one or a two or a three.|sd
+A|Uh-huh.|b
+A|Oh.|b
+B|It's, it's just different kinds of plastics, like the clear plastic is different from that milky looking plastic.|sd
+A|Oh, okay.|bk
+B|And that's, that's what the different types are.|sd
+A|Yeah.|b
+B|Yeah.|b
+A|It seems to be made out of something different.|sd
+B|Yeah,|b
+B|yes|b
+A|Yeah.|b
+B|I, I know there's a long scientific name|sd
+B|but it's like polytechnochloride and all that fun stuff.|sd
+A|Uh-huh.|b
+B|Um, I, I don't know if they do it all over,|sd
+B|but our Kroger does a newspaper recycling every Saturday.|sd
+B|You can drive up,|sd
+B|and they have one of the clerks up there, no, the bag boys out there, um, that will take the papers, newspaper out of your car,|sd
+B|and they'll put it in their little bin,|sd
+B|and they do the recycling,|sd
+B|I mean, they collect the newspapers and their their plastic grocery bags which I think is pretty neat.|sd
+A|Yeah.|b
+A|.|%
+B|That's something since we all seem to have an abundance of those plastic grocery bags|sv
+A|That's right.|aa
+A|Yeah.|aa
+B|I know we use them for trash can liners and a lot of other things.|sv
+A|Uh-huh.|b
+A|Lunch bags.|bf
+B|Yeah,|aa
+B|in fact I have one today.|sd
+A|Right.|b
+B|The only problem with those is sometimes they get holes in the bottom.|sd
+A|Yeah,|aa
+A|they do.|sd
+B|It's like, whoops, there goes my chips|sd
+A|Yeah.|b
+B|okay,|^q
+B|fine.|^q
+A|Uh-huh.|b
+B|Now, I,|%
+B|in fact did you happen to see TWENTY TWENTY the other night?|qy
+A|Uh, no.|nn
+B|They did a program,|sd
+B|or one of their articles was on recycling,|sd
+B|and, uh, it was actually on a town that has a dump that they charge other cities, or towns to come in and dump their trash there.|sd
+B|They have made so much money from that, that they built, they bought a brand new fire engine,|sd
+B|and when the fire engine was delivered the fire house wasn't big enough, so they bought a new, or built a new one and paid for it in cash with the money that they've earned from this landfill.|sd
+A|.|%
+A|Yeah.|b
+B|They have built up one mountain.|sd
+B|They call it Mount Trashmore|sd
+A|Yeah.|b
+B|They built up one mountain, covered it with grass, and put ski lifts on it,|sd
+B|and in the winter they put snow on it,|sd
+B|and they charge to ski on it.|sd
+B|So the city gets the money from that,|sd
+B|they built a golf course at the bottom,|sd
+B|and they get the money from that.|sd
+A|Wow.|ba
+B|I's like,|%
+B|that's,|%
+B|it's a, it's, Riverview, Ohio or some place up there.|sd
+A|Uh-huh.|b
+B|But it was, I thought it was a pretty neat idea.|sd
+B|They, I mean, their city hall looked better,|sd
+B|it was nicer than Dallas',|sd
+B|and they only have fourteen thousand people in the city.|sd
+A|Um.|%
+B|And they like the trash.|sd
+B|So|%
+B|Well, okay|%
+B|But I thought it was pretty neat.|sd
+B|It, it would be nice if more communities could do that,|sv
+B|but, you have to know from beginning,|sv
+B|and you have to have the space to do it|sv
+B|and,|%
+A|Yeah,|aa
+A|they'll run out of space before long.|sv
+B|Yeah,|aa
+B|see, that's,|%
+B|well they're already planning a second mountain.|sd
+A|Uh-huh.|b
+B|So, they're going to get, going to be called the Twin Peaks.|sd
+B|I was like, uh-huh. Go back two T V shows.|sd
+B|This, it would be nice if more communities could get really involved in recycling|sv
+B|It,|%
+B|I know, I've got a two year old and a four year old,|sd
+B|and that's,|%
+B|my daughter thinks that any time she sees newspapers bundled up, they're being recycled.|sd
+A|Uh-huh.|b
+B|So, it's like, well, no, Honey.|sd
+B|So that, like,|%
+B|so that was one reason we went to show her what people did with their, their stuff when they recycled it and try to explain well, yeah, you melt down the cans|sd
+A|Right.|b
+B|and you make them into new things,|^q
+B|and you get the paper all wet|^q
+B|and you make it into new paper,|^q
+B|and, that's fun, trying to explain that to a four year old|sd
+A|Right,|b
+A|yeah.|b
+B|Um, so do you all go ahead,|qy
+A|They don't even know that paper comes from trees now,|sv
+A|so.|%
+B|Well, yeah,|aa
+B|she,|%
+B|that was her next question, was, how do you grow paper?|sd
+A|How do you grow paper?|b^m
+B|Was like, well, from trees um. That's why you have to cut down trees and why you have to plant more trees.|sd
+A|Uh-huh.|b
+A|And how do you grow aluminum?|^q
+B|Yeah,|aa
+B|exactly.|aa
+A|Um.|%
+B|Well, let's see, um,|^h
+B|we really don't,|^q
+B|but. And then she was like, well, what do you do with the glass?|sd
+B|Well, you crunch it up real small|^q
+B|and then you melt it down.|^q
+B|Well, what if it breaks?|^q
+B|Well, okay,|^q
+B|It, it, it was an interesting weekend trying to explain all that fun stuff to her.|sd
+A|Right.|b
+B|But at least she knows that that is something that people need to be doing,|sd
+B|and she got our baby-sitter to start recycling her newspapers and cans, because that's all she talked about.|sd
+A|Uh-huh.|b
+B|So, I guess what,|%

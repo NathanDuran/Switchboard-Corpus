@@ -1,0 +1,238 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|so, uh, do you own a P C?|qy
+B|Um, no,|nn
+B|not personally|sd
+B|but,|%
+A|But you have one at work.|qy^d
+B|Yes,|ny
+B|uh-huh,|ny
+B|Yeah,|ny
+B|several|sd
+A|Okay,|b
+A|and, now because, um,|sd
+A|see I'm, I'm doing my, uh, Master's in Computer Science and Computer Engineering.|sd
+B|Uh-huh.|b
+A|And, um, and I, I don't have one,|sd
+A|but I have to use them, like during, especially during my undergrad.|sd
+B|Right.|b
+B|Uh-huh.|b
+A|You, you use, um,|%
+A|like your first couple of years you use personal computers because, uh, you know, the software.|sv
+A|You know, like it's easier for you to go to and run a program, you know, through the disk, because, um, the grader can do it at home.|sv
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|Yeah.|b
+A|Then, as the, you know, as you go up higher, like in your senior level, you're doing projects which are, are so big,|sv
+A|and you have to have so many people sharing the same data, that you can't use personal computers, so you have to use, you know, a main frame.|sv
+B|Uh-huh.|b
+B|Right,|aa
+B|right.|aa
+B|Yeah,|%
+B|I know I, uh, I do have a, uh, you know, a computer at home,|sd
+B|but it's one that the company has loaned me.|sd
+A|Oh, okay.|bk
+B|And, that, that's been my situation, is that, uh, that way I can get in, access our, uh, computers that I have up here and, you know, do work from home.|sd
+A|But does it have, uh, like, a disk drive?|qy
+B|Oh yeah.|ny
+B|Yeah,|ny
+B|yeah,|ny
+B|yeah,|ny
+A|Oh, okay,|bk
+A|because, uh, the ones that we use, you know, are like UNIX base systems.|sd
+B|Right.|b
+B|Uh-huh.|b
+A|And, so they don't have a disk drive.|sd
+B|Right.|b
+A|You know, so you can't,|sd
+A|the only way that you can do it is through a modem.|sd
+B|Right.|b
+A|And, you, you know, you just do it that way.|sd
+B|Yeah.|b
+A|But, that's, uh, that's the only way that you can get to, through to the system,|sd
+A|you can't store it anywhere.|sd
+B|Right.|aa
+B|Yeah,|aa
+B|no|fo_o_fw_"_by_bc
+B|I, um, I, I have both, because that, that's what I use all the time is UNIX Systems. Um, versus the DOS.|sd
+B|But then I teach DOS classes, uh, at night.|sd
+A|Oh, okay.|bk
+B|Uh-huh,|b
+B|part time.|sd
+B|So,|%
+A|And then you also have to do all your grading on the P C.|bf
+B|Well, that, that's the really neat thing, I teach in the continuing education classes, so I don't, uh, I don't have to have any grades, no grade books, so that's great|sd
+A|Oh, okay.|bk
+B|But, no,|fo_o_fw_"_by_bc
+B|I find that I use the, the personal computer a lot though for my WordPerfect, and also for my spread sheets.|sd
+A|Okay.|b
+A|Yeah.|b
+B|Um, so I think it's extremely helpful and very useful.|sd
+A|Well, uh, for us it's, uh, uh, you know, it's like for doing like, you know, like resumes, and, presentations.|sd
+B|Uh-huh.|b
+B|Um, um. Uh-huh.|b
+A|We use like for example, a Mackintosh, which is a lot easier for graphics, than the than you know, the I B M P C's or anything compatible with that.|sd
+B|Yeah.|b
+B|Right.|b
+A|Due, due to the fact that, well, you know, I, I haven't tested the, the P S two yet.|sd
+B|Um, um. Uh-huh.|b
+A|but I don't know if the software is as easily, you know, like you can manage it a lot easier than, than the old one.|sd
+B|Right.|b
+A|The old one you had to go pick a line, use little arrows to go onto the screen and check where you wanted to start, and where, you know, with the mouse you do it, you know, like, a hundred times faster.|sd
+B|Right.|b
+B|That's true.|aa
+B|That's true.|aa
+A|And, uh, you also get, you know,|sd
+A|when you see it on the Mackintosh with, you know, the one I have,|sd
+A|that doesn't have any color,|sd
+A|you can look at it|sd
+A|and that's the way it's going to print out.|sd
+B|Uh-huh.|b
+A|And, especially if you have a laser printer, it's going to print out the same way as it's on the screen.|sd
+B|Oh, Uh-huh.|b
+A|And, so, with, you know, with the I B M what would happen is, uh, since the software that I had was, it was basically, you know, you only see part of the page.|sd
+B|Uh-huh.|b
+A|And, so, the whole page you, you never can actually see it,|sd
+B|Oh.|b
+A|you just draw it|sd
+A|and they have to zoom out and zoom in|sd
+A|and, you know, it's like, every time that you have to do something is, it's really a pain.|sd
+B|What a hassle,|ba
+B|yeah,|b
+B|yeah.|b
+A|And, also, you know, it's like for, for presentations,|sd
+A|it's like if you have to do any statistical data it can be easily represented on a, on a P C.|sd
+B|Uh-huh.|b
+A|it can be easily represented on a, on a P C.|sd
+A|You know, like years back when you didn't have that you would have to map out all this, all these numbers.|sd
+B|Yeah.|b
+A|and get a graph which you weren't sure if it was okay or not, you know.|sd
+B|Right.|b
+B|Yeah.|b
+A|But, with a, with a new system I can calculate everything so fast, you know, like for spread sheets.|sd
+B|Uh-huh.|b
+B|Right.|b
+B|Right.|b
+A|You can see what the trend is over the years.|sv
+B|Yeah.|b
+B|And, I love all the windows that they have out now too,|sd
+A|Yeah,|b
+A|that, that|%
+B|they have really simplified things.|sv
+A|I, I had a, I had a program due|sd
+A|and uh, one, one window I had the program|sd
+A|and the other one I had the program running. so if there was ever a mistake, I could easily check, you know,|sd
+B|Right.|b
+B|Right.|b
+A|I could look at the program and say, this is where I made the error.|sd
+B|Right.|b
+A|Instead of saying, where did I make the error?|sd
+B|Uh-huh.|b
+A|You know, go back and forth|sd
+A|and, and, you know, you always, you know,|sd
+A|the old ones you had to go out of your program, load up, um, uh, well load up the program again, in this case.|sd
+B|Uh-huh.|b
+A|After you load it up change it, hope that's right, get out of that, run the program, run, uh-huh, as long as it took, and then go back and see if that worked or not.|sd
+B|Yes.|b
+B|Yes.|b
+B|Yeah.|b
+A|But with windows you can have the program|sd
+A|and say it messed up in line fifty-four.|sd
+B|Yeah.|b
+A|So, you take a look at line fifty-four,|sd
+A|you take a look at the output at the same time,|sd
+A|and you can see that, where it messed up, because, you know it's like in the old computers, the ones that, uh, we're using here a couple of years ago, you would always have to have a printout,|sd
+B|Uh-huh.|b
+B|Yeah.|b
+B|Yeah,|aa
+B|right,|aa
+B|right.|aa
+B|Yeah,|%
+B|I know, I, uh, I remember my college days And having to do that too.|sd
+A|did, did you learn it in computer science?|qy
+B|Oh, yeah,|ny
+B|uh-huh.|ny
+B|I sure did.|sd
+A|And, when was this.|qw
+B|Uh, I graduated in eighty-six.|sd
+A|Oh, okay.|bk
+B|Yeah.|b
+B|So it's been fairly recent.|sd
+A|Yeah,|b
+A|I know because, uh, all I know is that when I came here in eighty-seven, they still had, uh, it was the last year to, to put all your punch cards in.|sd
+B|The cards.|^2
+B|Oh, oh dear.|ba
+B|I didn't have to bother with that at all, thank goodness.|sd
+B|Yeah.|%
+A|So, yeah.|b
+A|No,|fo_o_fw_"_by_bc
+A|but it, it was just sensational because I walked in|sd
+A|and they go, Oh, my God, they're still using this.|sd
+B|Yes.|b
+A|It was like, this is the last year you can put your punch cards in and get your program out|sd
+A|and, you know You can get a hard copy of it,|sd
+B|Wow,|ba
+B|wow.|ba
+A|and that's about it.|sd
+B|Uh-huh,|b
+B|wow.|ba
+A|So. But, I mean, the price of computers has gone down.|sd
+A|They said that, um, if the auto industry would have kept the same trend as the computer industry has ever since, you know, it started, they said that, uh, cars would cost two dollars|sd
+B|Uh-huh.|b
+A|and they would run forever.|sd
+B|Oh, that would be great.|sv
+A|So, I mean it's like, you know, the, the joke with the Yugo, you know,|sd
+A|it's like, yeah, you know, like when your, uh, car runs out of gas just throw it away.|sd
+B|Uh-huh.|b
+A|And, that, that's the way it would be.|sv
+B|Wow.|ba
+A|It's like yeah, I think I'll buy a new car today, you know,|sd
+A|so,|%
+A|Yeah,|b
+A|but I mean the price has really gone down.|sd
+A|I mean, I B M which, uh,|sd
+A|an I B M P C in like in nineteen eighty-one it would cost you five thousand dollars,|sd
+B|Oh, sure,|aa
+B|oh, sure.|aa
+A|and now you can get it, you know, like for, one thousand dollars, because, you know, because of the parts basically.|sd
+B|Right.|aa
+B|Yeah,|aa
+B|and the two eighty-six too,|sd
+B|so, yeah.|%
+A|Yeah.|aa
+A|The parts and the labor is what they're charging you,|sd
+A|they're not charging you, you know, over pricing, it because it's like, if we sell it for less, you know, it's like we're losing money, you know.|sd
+B|Uh-huh.|b
+B|Right.|b
+A|It's like we want to sell it to break even at least.|sd
+B|Uh-huh.|b
+A|And, I think they stopped producing the I B M P C.|sd
+B|Uh-huh.|b
+A|And, uh, and the, uh, P C Junior was a total failure, to them.|sd
+B|Oh.|b
+B|Yeah.|b
+A|They had, uh,|sd
+A|they're trying to get out small computers,|sd
+A|but, the only problem was that when they took that one out, the small computer was the I B M P C|sd
+A|And, so, you couldn't, you know,|sd
+A|it's like, sure bring out. into the market something that's smaller when nobody uses anything that's smaller than, you know, this, you know.|sd
+B|Yeah.|b
+A|And, so.|%
+B|Oh. Uh-huh.|b
+A|But, over the past years it's like I B M has been producing like|sd
+A|every two years they bring out a whole new system. You know, like the P C X T, A T, and the P S one, P S two things, you know,|sd
+A|and so. It's just that you have to always compete|sv
+A|and, uh, Mackintosh took a lot of the market from a lot of schools.|sd
+B|Yeah.|b
+A|Because of, of their, you know,|sd
+A|you can work with it a lot easier.|sv
+B|Yeah.|aa
+B|That's true.|aa
+A|So, that's what they're trying to do.|sd
+A|Oh, well, I'll leave you back to your work.|ad
+B|Well.|%
+B|Okay.|aa
+A|And, uh, have a good lunch.|sv
+B|Thanks.|ft
+B|Bye.|fc
+A|All right,|fc
+A|bye, bye.|fc

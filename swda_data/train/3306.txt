@@ -1,0 +1,191 @@
+A|Supposed to talk about boats.|ad
+A|Have you got a boat|qy
+B|No,|nn
+B|I don't,|sd
+B|do you?|qy
+A|No,|nn
+A|I don't.|sd
+A|I, I've had one for quite a few years,|sd
+A|but I, I've not had one the last couple of years.|sd
+B|Oh, really?|bh
+A|But, it's something I've always enjoyed.|sd
+A|Do you, do you like boating?|qy
+B|Yeah,|ny
+B|I love them|sd
+A|Yeah,|%
+A|but, uh, my children all have been grown for a few years|sd
+A|and we were using it less and less and less,|sd
+A|so we decided to sell it.|sd
+A|And,|%
+B|Well, I heard, that's the second happiest day of your life|sd
+A|What's that?|br
+B|The day you sell your boat.|sd
+A|Oh, no,|ar
+A|now I loved having a boat.|sd
+A|I loved having it.|sd
+A|No,|%
+B|No,|b^m
+B|I just heard that.|sd
+B|That's just a joke, I guess.|sd
+A|Oh, okay|bk
+B|First best day is the day you get and the day you get rid of it|sd
+B|but, I'd like to have one.|sd
+A|Oh, yeah|b
+B|I just don't know if I'd have the time to use it.|sd
+A|Yeah,|aa
+A|guy just you know,|%
+A|he needs his weekends free, or to be able to use it or a day during the week or something,|sv
+B|Yeah.|b
+A|but, but, no|%
+A|I guess for the cost of them you don't really,|sv
+A|it's hard to get,|sv
+A|I don't know,|h
+A|I felt like I got my money's worth out of mine|sd
+A|I had bought it used and kept it, uh, I don't know, ten years and got within, uh, three hundred dollars of what, when I sold it, of what I'd paid for it and had it all those years, you know.|sd
+B|Uh-huh.|b
+A|So they hold their, you take care of them they hold their value real well.|sd
+B|Really?|bh
+A|So, you know, you couldn't complain about that.|sv
+B|Did you go fishing?|qy
+A|No,|nn
+A|no,|nn
+A|it was a uh, big boat, big ski boat type thing.|sd
+B|Oh, okay.|bk
+A|I had a hundred, hundred sixty horse, uh, Murcruiser in it.|sd
+B|Oh, wow.|ba
+A|Inboard outboard.|sd
+A|Oh, I did fish out of it occasionally,|sd
+A|but I'm not too much of a fisherman.|sd
+B|Really?|bh
+A|And, uh, but I but I did enjoy owning a boat,|sd
+B|Yeah,|b
+B|I like to fish.|sd
+A|would recommend it to anybody.|sd
+A|And, uh, uh, but, uh, and now sailing, I've never been sailing.|sd
+A|Have you been sailing?|qy
+B|Uh, yeah,|ny
+B|I've sailed some.|sd
+B|I just like, uh, fourteen foot Sunfish.|sd
+A|Uh-huh.|b
+B|Nothing big.|sd
+A|I've never tried.|sd
+A|I've always thought, I bet that would be more fun.|sd
+A|But I'd want to be with a skilled sailor|sd
+B|Yeah,|aa
+B|really.|aa
+A|But it,|%
+B|Well, they offer classes out at, uh, Ray Hubbard.|sd
+A|Yeah,|b
+A|well, I, I've always thought I'd like to.|sd
+A|I've never wanted to bad enough to make any effort to do it, you know.|sd
+B|Yeah.|b
+A|And, at this stage of the game, I'm not that interested in it anymore.|sd
+B|Oh, okay.|bk
+A|We go out with friends on the,|sd
+A|we go to the lake just about every weekend down at Mount Vernon|sd
+A|and parents' next door neighbors have a big barge|sd
+B|Okay.|b
+A|and we go out and take them out on their barge.|sd
+A|They're getting kind of old|sd
+A|and they like us to take them out on their barge quite often,|sd
+A|so we we get out on the water occasionally, you know.|sd
+B|Oh, that's nice.|ba
+B|Yeah.|b
+A|But, uh, uh, anyway, it's it's, it's fun.|sd
+A|I, I do enjoy the lake,|sd
+A|but, uh, once the children were grown,|sd
+A|and we'd go down there|sd
+A|and I'd get the boat out on the, you know, Saturday,|sd
+A|and we'd go for a ride and enjoy it so much.|sd
+A|It's such a pretty lake down there.|sd
+A|We'd enjoy it so much|sd
+A|and, I'd say, well, I'm going to leave the boat out, because, uh, we'll probably do this again tomorrow|sd
+A|It got to where the, tomorrow the boat was still sitting there|sd
+A|and we never did go out again|sd
+A|and I'd have to go load it up the next day.|sd
+A|And,|%
+B|Where is that?|qw
+A|Uh, Mount Vernon.|sd
+B|Yeah.|b
+A|Cypress Springs,|sd
+A|Cypress Creek Springs.|sd
+B|Okay,|bk
+B|that's south of here?|qy^d
+A|Yeah,|ny
+A|it's down at Mount Vernon.|sd
+B|Okay.|bk
+A|It's probably the prettiest lake in the state of Texas.|sv
+B|Really?|bh
+A|Yeah,|ny
+A|it's just a hundred miles from here.|sd
+B|Huh. What do you take, I Thirty-five?|qy
+A|No,|nn
+A|you go down I, uh, uh, you, uh, you go down, uh, yeah, thirty, thirty.|sd
+B|Thirty.|b^m
+A|It's east of here.|sd
+B|Oh, okay.|bk
+A|East of here.|sd
+A|Hundred miles due east of here.|sd
+B|All right.|bk
+A|And, uh,|%
+B|Yeah,|b
+B|it just we just moved down here a couple years ago,|sd
+B|so,|%
+A|Did you?|bh
+A|Where did you all move from?|qw
+B|Colorado Springs.|sd
+A|Oh, did you?|bh
+B|Yeah.|ny
+A|How are you liking it?|qw
+B|Oh, we love it up there|sd
+A|Well, good.|ba
+B|That's where I grew up|sd
+A|Yeah.|b
+B|So,|%
+A|Uh-huh.|b
+B|But, uh, we're, we like it down here pretty good.|sd
+A|Oh, I think you'll like it better,|sv
+A|but, of course it's hard when you don't have any family around.|sv
+B|Yeah,|aa
+B|we got two kids that are under two|sd
+A|Yeah.|b
+B|and it's kind of tough when my folks call and they want to see them|sd
+A|Uh-huh.|b
+A|Yes,|aa
+A|it's hard on the your folks, too,|sv
+A|I know.|sd
+A|They're all, yours|sv
+A|and your wife's folks still live in Colorado?|qy^d
+B|Yeah.|ny
+A|Uh-huh.|b
+B|So,|%
+A|Uh, there are supposed to be, uh, some people moving down here from Colorado Springs for T I.|sd
+B|Oh, really?|bh
+A|Yeah,|ny
+A|supposed to be.|sd
+B|Yeah,|aa
+B|that's right. Uh,|aa
+A|Do you work at T I?|qy
+B|I don't,|ng
+B|no.|nn
+A|Uh-huh.|b
+B|Uh, a friend of mine's dad is, was a program manager up there|sd
+A|Uh-huh.|b
+B|and he just moved down here to|sd
+B|what do you,|qw
+B|I guess it's,|sd
+B|he's working in McKinney.|sd
+A|Uh-huh.|b
+A|Yeah,|b
+A|I don't either.|sd
+A|My wife does|sd
+B|Okay.|b
+A|But, it's a good company.|sv
+A|But, anyway, we're supposed to be talking about boats,|sd
+A|so back to boats.|ad
+A|So, tell me the last time you went for a boat ride.|ad
+B|Well, actually, I went, uh, canoeing down the Brazos this weekend.|sd
+A|Oh, my gosh, now that had to be, that's boating.|sv
+A|That had to have been fun.|sv
+B|It was fun,|sd
+B|it was fun.|sd

@@ -1,0 +1,109 @@
+A|Hello|fp
+B|Hello|fp
+A|Hi.|fp
+B|Hi.|fp
+A|My name's Gail.|fp
+A|I'm calling from Texas.|fp
+B|I'm Sandy.|fp
+B|I'm in Texas, too.|fp
+A|Oh, what a deal.|ba
+A|Took long enough to find you.|sd
+B|Oh, really?|bh
+A|Yeah,|ny
+A|seems like they take forever any more,|sv
+A|but, um, so did you hear what the topic was|qy
+B|Yes.|ny
+A|did she tell you,|qy
+A|okay.|%
+B|Yeah.|ny
+A|Great,|ba
+A|well, if you're ready, then, uh, I'll just go ahead and start.|qy
+B|Okay,|na
+A|Okay,|bk
+A|hold on|ad
+A|Okay,|%
+A|well I guess we're supposed to talk about the changing roles of women.|sd
+B|Yeah.|b
+A|Seems like, um, to me, everything is just changing so much that it's almost like, um, you can't keep up with things any more,|sv
+A|and everything is, uh, everyone's striving so much to make it equal between men and women,|sv
+A|I personally, I'm a stay home mom,|sd
+A|and I like it the way it used to be.|sd
+B|So am I.|sd
+A|Are you,|b
+B|You know, I think it's kind of coming back around to that, don't you,|sv
+B|I mean, that there's a lot more people that stay home now than before,|sv
+B|but I guess more than anything I think maybe people were just kind of wanting to have the choice of what they could do, you know|sv
+A|Yeah.|b
+B|I don't know,|h
+B|I mean I think sometimes some of the, the women's lib though, is kind of like they wanted it all, you know,|sv
+B|and you can't have everything|sv
+A|Uh-huh.|b
+B|I don't, I don't think that you can have, I mean, there's no way I could have a career and then be the kind of mom that I want to be|sv
+A|Yeah.|b
+B|and to me that's more important.|sv
+A|how many kids do you have?|qw
+B|Two.|sd
+A|Two?|qy
+B|Uh-huh.|ny
+A|Are they young,|qy
+A|or,|%
+B|Five and two.|sd
+A|Five and two.|b^m
+A|I have two,|sd
+A|and mine are two and nine months,|sd
+A|so, um, being, being home is real,|%
+A|I, I just am fortunate because I don't know a real lot of moms that get to stay home,|sv
+A|and, uh, I just, it's just weird that I was just talking to somebody this morning who's, who's a working, uh, lady, a working mom,|sd
+A|and, you know, these people have secretaries and these high power jobs,|sd
+A|and it just seems like, um,|%
+A|she, she told me now her daughter took her first steps at the day care,|sd
+A|and, uh, I just think, I, I, I just don't agree with that.|sv
+A|I think it should be that people should get back to staying home and, and being family, more family oriented than, than not.|sv
+A|You know, it seems like everybody's always so busy with everything that they're doing that there's no time for this and that and the other,|sv
+A|and I hope it just doesn't get to where, you know, there's more women, more and more women going into the work force.|sv
+B|Well, I agree,|aa
+B|I mean, but, I, I hate for them to make people feel bad that have to work, too, saying, you know, you should stay home, you know, otherwise your children aren't going to, you know, turn out, or whatever because that's not fair to, you know, like the single moms that have to work,|sv
+A|Yeah.|b
+B|or, if they wouldn't be able to make ends meet not working or whatever,|sv
+A|Uh-huh.|b
+B|I mean, I think it's got to be a personal choice,|sv
+B|and, it's nice that, that we could have the choice to stay home.|sv
+A|Yeah,|aa
+A|well I find that I, whenever I have to, whenever I'm in a group of people and we're discussing things,|sd
+A|like just over the weekend I visited my family, and some cousins I hadn't seen in a long time,|sd
+A|and everyone's all interested in what everybody's doing,|sd
+A|and, uh, you know, well, I had my baby with me,|sd
+A|and I found that all I talked about was my baby, which was fine with me,|sd
+A|but it's like, you know, here these people are,|sd
+A|they're going to school, getting degrees, making all this money,|sd
+A|and, you know, they kind of looked at me like I was from the dark ages, you know, like I, because I didn't have really all that much to talk about, uh, where career and things like that were concerned,|sd
+A|and you kind of feel little bit like an outcast for a while in social situations sometimes,|sv
+B|Yeah.|b
+A|which is too bad, because, you know, I, I feel like I don't, obviously I don't get paid for my job,|sd
+A|but I should get paid at least double what my husband makes working in an office for staying home|sv
+B|Yeah|b
+A|that's what I figure,|aa
+A|I'm worth a lot just for what I do every day,|sv
+A|but, you know, I don't know,|h
+A|this is kind of a, um,|%
+A|at, at least here I've noticed,|%
+A|I'm not from here,|sd
+A|I'm from Colorado,|sd
+A|but I've really noticed that there are a lot of, uh, a lot more people that are more comfortable, at least, with some women being home and, at least in the circles I've travelled and in the church that I go to, you know,|sv
+A|that|%
+A|men don't treat you like you don't know anything, generally speaking.|sv
+B|Yeah|b
+B|Well, and I think a lot of companies are realizing this and offering more opportunities as far as like job sharing or, you know, even having a day care on site and that kind of stuff,|sv
+B|and I think that's really important that, that they do that|sv
+A|Yeah.|b
+B|and they realize there's a need for that,|sv
+B|and, um, I don't know,|h
+B|I found when I did do some work when my son was young, it was like contract work,|sd
+B|and it wasn't where I had to be there every day,|sd
+B|but, I mean, we were going to the doctor once a week,|sd
+B|so, I don't know how you could have a full time job and ever have any vacation time to do anything besides go to the doctor.|sv
+A|Yeah,|aa
+A|yeah,|aa
+A|I can see where that would definitely hinder the problem,|ba
+A|definitely.|aa
+A|Well,|%

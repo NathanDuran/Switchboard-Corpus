@@ -1,0 +1,193 @@
+A|Okay.|fo_o_fw_"_by_bc
+A|My children are all grown up.|sd
+B|Oh.|b
+B|Okay,|b
+B|well, now see, I've got two children|sd
+B|and, uh, they're,|%
+B|one is uh, just turned to be a teenager|sd
+B|and the other one is on his way,|sd
+B|so.|%
+A|Uh-huh.|b
+B|I, uh, I'm a single parent,|sd
+B|so I think it makes it more difficult for me to, uh, you know, find time with my, my children since I work|sd
+A|I'll bet.|ba
+B|and then, of course, take care of the house and all this good kind of stuff.|sd
+B|Uh, so it's a real, uh, it's a real problem for me.|sd
+A|I'll bet it is.|ba
+B|Yeah.|b
+A|What is the favorite thing you do with your children?|qw
+B|Uh, the, the thing that we like to do the most is to watch T V together.|sd
+A|Uh-huh.|b
+B|And, uh, the kids like to play Nintendo,|sd
+B|but I'm no good at it,|sd
+B|so I don't like to play.|sd
+A|You just watch them play, huh?|qy
+B|That's right,|na
+B|that's right.|na
+A|I, I tried it once or twice,|sd
+A|but I didn't feel like I was very good at it either.|sd
+B|Me either.|aa
+A|My grandson got me to one day,|sd
+A|but,|%
+B|Yeah,|b
+B|they talk about these different levels and stuff|sd
+B|and I've never got off of level one|sd
+A|Different worlds|sd
+B|Yes.|ny
+A|and how do you get to another world, you know?|qh
+A|And I, I don't even know what they're talking about.|sd
+B|I, I know,|aa
+B|I agree with you,|aa
+B|the other thing I think we like to go to the movies, too.|sd
+A|Do you?|qy
+B|That's,|%
+B|yeah,|%
+B|that's a, that's a neat thing.|sd
+B|So I guess we're all in, uh, you know, movie, uh, fanatics or whatever around here.|sd
+A|Yeah.|b
+B|So we like to do those kind of things.|sd
+A|I know when our kids were growing up, our, we were big into water sports.|sd
+B|Uh-huh.|b
+A|We had a boat|sd
+A|and they all skied|sd
+A|and in the summer we spent most weekends on the lake with them skiing|sd
+A|and they always took other friends with them|sd
+A|and we had a lot of fun doing that,|sd
+A|but I had all girls|sd
+B|Oh, how neat.|ba
+B|Uh-huh.|b
+A|so we didn't do too much sports wise.|sd
+B|Oh.|b
+A|I find my grandchildren are very involved in soccer and baseball|sd
+B|Uh-huh.|b
+A|and little boys do all of those things|sd
+B|Uh-huh.|b
+B|Oh, yeah.|b
+A|but,|%
+B|Oh, yeah.|b
+B|Yeah,|b
+B|see, I have a son|sd
+B|and, uh, you know, it's football in the fall and, and baseball in the spring|sd
+A|Uh-huh.|b
+B|I, I'm constantly going back and forth.|sd
+A|I'll bet you really are.|ba
+B|Yeah.|b
+B|And my daughter has, uh, tennis,|sd
+B|so it's between tennis and, and bowling.|sd
+B|My,|%
+B|I bowl|sd
+B|so, you know, we're pretty active as a sports, you know in, in the family,|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Well, when mine were real little, they all played soccer you know, that was just for a couple of years when they were pretty small for girls|sd
+B|Uh-huh.|b
+A|and then they got more interested in other things,|sd
+B|Boys|^2
+A|I'm not sure that they would admit it at that age, that it was boys,|sd
+A|but I think that's probably what it was.|sv
+B|Oh, yeah.|b
+B|I, I know that, uh, my daughter, uh, even though she goes out with the, the sports and everything, uh, yeah she likes to watch the football for, uh, the kids|sd
+B|I'm sorry.|fa
+A|Uh-huh.|b
+B|Uh, that was a cat that hit the telephone.|sd
+B|Get away, cat,|t3
+B|gosh to|t3
+B|I guess it's why they wanted to do it on this type of telephone because there's all kind of activity that goes on.|sv
+B|But, uh, yeah,|b
+B|my, uh, my kids are, they're starting to grow up, you know.|sd
+B|It's not going to be too many more years before I, uh, uh, you know, they'll be gone|sd
+B|and, and, uh, there won't be as many activities.|sd
+B|Do you, uh,|qy
+A|But they,|%
+A|but you enjoy them,|sd
+A|I think, the older mine get, the more I enjoy them.|sv
+B|Yeah,|aa
+B|I, I agree with you.|aa
+B|I, I do.|aa
+B|I'm so glad they're out of the, that young, real young age|sd
+A|Uh-huh.|b
+B|and the babies,|sd
+A|And, I mean, I didn't,|%
+A|it wasn't that I didn't like them when they were little,|sd
+B|Right.|b
+A|but the older they got, I enjoyed them as teenagers.|sd
+B|Yes,|b
+B|yes.|b
+A|And now that they're each,|sd
+A|of course three girls, they're each becoming the, they've all become women in themselves that it's been neat to watch them.|sd
+B|Uh-huh.|b
+A|How,|%
+A|what kind of mothers they are,|sd
+A|what kind of wives, you know.|sd
+B|Oh, yeah.|b
+B|Yeah,|b
+B|that's so true.|sd
+A|How they do things|sd
+A|and,|%
+B|Well, do you, do the, do your daughters live close where you can go out?|qy
+A|Two of them live real close to me.|na
+B|Oh, good.|ba
+A|So we, we spend a lot,|sd
+B|Oh, yeah,|b
+B|yeah.|b
+A|and we play with the kids, you know.|sd
+B|Yeah.|b
+A|But, uh,|%
+B|Yeah.|b
+A|Where oh,|%
+A|we go camp out,|sd
+A|they camp out|sd
+B|Uh-huh.|b
+A|and we spend weekends at the, in the country with them quite a bit,|sd
+B|Uh-huh.|b
+A|but as far as doing any activity, now that the grand kids are here, we all just stay around the house mostly.|sd
+B|That's true.|b
+A|It's too much effort to go somewhere with all the kids.|sv
+B|Oh, yes,|aa
+B|oh, yes.|aa
+B|Boy, I know, especially when they grow up like that,|sd
+B|so I'm trying to, these last five or six years, I'm trying to make them really special and uh, very precious since that's, uh, about the only time we've got left.|sd
+A|Uh-huh.|b
+A|They'll always remember it, too.|sv
+B|Yes,|aa
+B|yes,|aa
+B|absolutely.|aa
+B|I, I think so, too.|sv
+A|I hear mine saying, well, I remember mother and daddy used to take us to do so and so.|sd
+A|I need to take my boys to do this or that, you know.|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+B|There we go.|sd
+B|I know, I know they can't wait|sd
+A|Yeah,|b
+A|they just really can't wait to be able to take their kids where they had fun.|sv
+B|That's right,|aa
+B|that's right.|aa
+A|But,|%
+B|Yeah,|b
+B|so well, I still got a few more years,|sd
+B|so I'm, uh, I'm hanging onto those and doing as much activity as I can with them.|sd
+A|Do you work?|qy
+B|Yes,|ny
+B|uh-huh,|ny
+B|I sure do.|sd
+A|Uh-huh.|b
+B|And I work full time,|sd
+B|so, uh, it, it,|%
+B|that cuts into our free time right there.|sv
+A|It really does.|aa
+A|The time you have with them has to be quality time then.|sv
+B|That's right,|aa
+B|that's right|aa
+B|and, uh, vacations are very special for us, and activities.|sd
+A|I imagine that they have, uh, some, a lot of homework, too.|sd
+B|Yeah,|b
+B|yeah.|b
+B|You know, this being a school night and stuff,|sd
+B|so, uh, it's, it's in the same old you know, routine of, uh, you know, doing homework and, you know, trying to talk between all of that and, and, uh, the other activities that we all have.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+A|Well, there's just so many things to do with them nowadays, though,|sv
+A|and especially if they're active kids.|sv
+B|Uh-huh.|b
+A|Like you say you bowl.|qy^d

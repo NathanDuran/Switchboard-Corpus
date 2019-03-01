@@ -1,0 +1,257 @@
+A|So where was your last vacation?|qw
+B|Uh, actually my last vacation was in Connecticut.|sd
+B|Uh, we went home to visit family.|sd
+B|Before that we were in Hawaii.|sd
+A|Oh, I, I'd, well actually I did visit Hawaii once|sd
+A|but I never made it off of Oahu, which I've heard is not the nicest of the islands.|sd
+B|Oh.|b
+B|It wasn't actually.|ar
+B|It,|%
+B|when we were in Oahu, uh, I couldn't wait to get off|sd
+B|We, we took a cruise|sd
+B|and we went to four different islands|sd
+B|and it was a really nice,|sd
+B|Kauai was nice and Maui was nice.|sd
+B|We had, we had a great time.|sd
+A|Uh-huh.|b
+B|We were there for ten days.|sd
+A|Oh that's,|%
+A|wow.|ba
+A|Yeah.|%
+B|Yeah,|b^m
+B|yes.|b
+B|So where have you been?|qw
+A|Oh I've I've been lots of places.|sd
+A|My last vacation was actually in Morocco I guess|sd
+A|we, that one would count ,|%
+B|Morocco.|b
+B|Really.|b
+A|Uh, that was about a year and a half ago,|sd
+A|and,|%
+B|No kidding.|ba
+B|what, what, did you just decide to go there|qy
+B|or,|%
+A|Uh, well my husband is French|arp_nd
+A|and we were living in France at the time|sd
+B|Uh-huh.|b
+A|and we decided that I, I've never been to Africa|sd
+A|and I needed to get that continent since I hadn't been there yet.|sd
+A|And it, it's, actually it's a fairly common vacation place for French people to go|sd
+A|and they speak French|sd
+A|and, so, uh, you know, in that sense is just a little bit easier|sv
+B|Uh-huh.|b
+A|and it just seemed like it would be a fun place to go.|sd
+A|And, So we, we didn't really have enough time.|sd
+B|Yeah.|b
+B|Oh I'm sure it was wonderful.|sv
+A|We had about, a little bit less than two weeks.|sd
+B|Uh-huh.|b
+A|And as always, it it seems a bit, uh, rushed.|sv
+A|We do a lot of traveling around.|sd
+A|We rented a car and drove pretty much everywhere.|sd
+B|Was it hot?|qy
+A|No,|nn
+A|in fact some of the days we froze.|sd
+A|It was,|%
+B|Really?|bh
+A|well we were there in the winter. In uh, January or February, I don't remember which,|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|I was born in Saudi Arabia|sd
+B|and, uh, when my father worked there we, they used to travel quite a bit, all around you know, in, in Europe and whatnot,|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|but I was very young|sd
+B|so I don't remember that|sd
+B|and, I was three when we moved back here.|sd
+A|At at, excuse me, at what age did you,|qw
+A|Oh, that's too bad|ba
+A|because,|%
+B|So I don't remember|sd
+B|but we have all these wonderful pictures of all these great places that they have been|sd
+A|Uh-huh|b
+B|and that I was when I was a baby|sd
+B|but so, Morocco I think would be wonderful|sv
+B|because that's, you know, that's, that area of the world I think would be great.|sv
+A|Yeah.|b
+A|It was a very interesting vacation.|sd
+A|The only thing I didn't like was in some of the more touristy areas uh, um, the, it would just be besieged by people wanting to be your guide|sd
+B|Uh-huh.|b
+A|and you, there were some places, where people,|sd
+B|Yeah.|b
+A|there would be kids there that were excellent at ripping you off,|sd
+B|Uh-huh.|b
+A|and we had nothing taken because we knew|sd
+A|and we had things in inside pockets and in, you know, in jacket underneath a coat type of thing.|sd
+B|Really.|b
+A|But,|%
+B|We, we found that in Jamaica.|sd
+B|It was the same way, that people would come up and try and sell you, well try and sell drugs and things like that|sd
+A|Uh-huh.|b
+B|but they, they were so destitute|sd
+B|and I guess they, they make all their money on tourism|sd
+B|and, and they would come up and ask you, you know, if, if you want to buy different things|sd
+B|and really, after awhile it really gets annoying,|sd
+A|Yeah.|b
+B|you know, it, it's a little scary too when they're coming up and they're all over you.|sd
+A|The, the worst place was in Marrakech|sd
+B|Uh-huh.|b
+A|and the other cities it wasn't nearly as bad|sd
+A|and a couple of them it was, what we did in some of the other cities|sd
+A|and they tell you to do that is to hire a local guide|sd
+B|Uh-huh.|b
+A|it doesn't matter who it is|sd
+A|and they keep everyone else away from you.|sd
+B|Oh really.|b
+A|And it's worth it|sv
+A|and it's like ten dollars a day or something|sd
+A|and its worth it just to keep everyone else away from badgering you|sv
+B|Really.|b
+A|and you feel stupid doing that|sv
+A|but we did it,|sd
+B|Uh-huh.|b
+A|and we were much happier,|sd
+B|Uh-huh.|b
+A|and you also get in to see things that you might not get into if you were alone, uh,|sd
+B|Uh-huh.|b
+B|Well that's great.|ba
+B|Where else have you been?|qw
+A|Uh|^h
+B|Well you lived in France,|qy^d
+A|Yes.|ny
+B|so you've been all through Europe.|qy^d
+A|No|nn
+A|actually I haven't been  all through Europe,  like I haven't been to Italy yet.|sd
+B|No.|b
+B|Really.|b
+A|Uh, we're going to go for a conference in September|sd
+A|and so, hopefully, we'll get to travel a little bit too.|sd
+B|Uh-huh.|b
+A|Uh, my more exciting spots have been,|sd
+A|I've been to the Galapagos Islands.|sd
+B|Really?|bh
+A|Uh-huh,|ny
+A|that was one of the most  wonderful vacations I've ever had.|sd
+B|Lots of wildlife huh?|qy
+B|Yeah.|%
+A|Yes.|ny
+A|If you like wildlife, it's a fabulous vacation.|sv
+B|Uh-huh.|b
+A|If you don't like wildlife it's probably not of interest|sv
+A|But it, that was really, really fabulous|sd
+A|and just the photos I have of it and gosh, incredible and be so close,|sd
+B|Now when was that, when were you there?|qw
+A|Um, August, eighty-eight.|sd
+B|Uh-huh.|b
+A|And then, actually, after there I went to um, Hawaii,|sd
+A|a lot of my travel has been sort of based around conferences or business meetings|sd
+B|Uh-huh.|b
+A|and so, I went to Hawaii and then to Australia and  Japan and China,|sd
+B|Uh-huh.|b
+B|Did you go on the Barrier|qy
+B|did you see the Great Barrier Reef and,  and go snorkeling?|qy
+A|I, I,  actually I didn't go diving.|ng
+B|Uh-huh.|b
+A|I, I'm a diver|sd
+A|and so, that's, that's actually been another of my favorite vacations has been taking little diving trips|sd
+B|Oh diving.|b
+B|Uh-huh.|b
+A|but, uh,|%
+A|no|nn
+A|I didn't get to the Great Barrier Reef.|sd
+A|I drove from Sidney down to Melbourne and over to Adelaide.|sd
+B|Uh-huh.|b
+A|It's gorgeous, absolutely gorgeous.|sd
+A|The coastline was just incredible.|sd
+A|It's huge.|sd
+B|Is it really?|bh
+A|Australia.|b
+A|Yeah.|ny
+B|Yeah,|b^m
+B|yeah.|b
+A|Uh, but,|%
+B|Did you have shrimp?|qy
+B|I've seen in, you know,|%
+B|they, they show all this wonderful seafood and, and great big prawns, you know the big shrimp|sd
+B|and,|%
+A|I don't remember if I had shrimp.|no
+B|No?|bh
+B|Didn't have shrimp there huh|qy
+A|I don't think so.|ng
+B|I remember food|sd
+A|Oh, I like that too.|sd
+A|But, uh, in fact I didn't eat out that much there because I was traveling by myself in a car,|sd
+A|it would have been, I think, much more fun to do it like in the van, with a bunch of people.|sv
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|But, uh,|%
+B|Oh you're adventurous.|ba
+B|You went by yourself.|qy^d
+A|Uh-huh.|ny
+B|Really.|b
+A|And I was by myself in China too.|sd
+B|Really?|bh
+A|Yeah.|ny
+B|Oh wow.|ba
+A|China was a little bit more, uh, of a challenge.|sd
+A|But, it, it wasn't more of a challenge in a sense because I hired a guide all the time,|sd
+B|Uh-huh.|b
+A|and so I never, you know, got out by myself, or not much,|sd
+B|Uh-huh.|b
+B|Was it very expensive?|qy
+A|No,|nn
+A|actually I paid about either a thousand dollars or a little bit,|sd
+A|no|ar
+A|maybe it was about a thousand dollars, maybe a little bit less,|sd
+A|I don't really remember, for ten days including all my meals, a guide, a car, the airfare|sd
+A|and,  but this is from Hong Kong,|sd
+B|You're kidding!|ba
+B|No kidding!|ba
+B|Uh-huh.|b
+A|because I was already in Hong Kong|sd
+A|and, um, but it only cost you about a thousand dollars to go there|sd
+A|and I went to Beijing, Shanghai, Chengdu|sd
+A|and actually then I took a train up from Shanghai to a little, Quingdao I think is the name of it.|sd
+A|It's a little, uh, sort of getaway retreat village not far from Shanghai.|sd
+A|It's just a train ride.|sd
+B|Uh-huh.|b
+A|And that,|%
+A|I had two internal, one, yeah, two internal plane flights and a couple of other things.|sd
+A|It was really,|%
+B|All for a thousand dollars?|qy
+A|Uh-huh.|ny
+B|Wow!|ba
+B|That really surprises me.|sd
+A|Around a thousand.|sd
+B|I guess I relate it to, to Japan where things are very expensive,  aren't they?|qy
+A|Oh, Japan's  ridiculous.|na
+B|Yeah.|b
+B|Yeah.|b
+A|And I stayed, I didn't stay in the top of the line hotels|sd
+A|but I stayed in,|%
+A|they were all completely clean,|sd
+B|Uh-huh.|b
+A|and, you know, they were newly built|sd
+A|and they were sort of the lower end of the top of the line, hotels, because they said you can't stay in the cheap stuff.|sd
+B|Uh-huh.|b
+B|Yeah,|aa
+B|yeah,|aa
+B|and you don't want to stay in the very, very, very exclusive, because you don't really even get a flavor of the country if you're,|sv
+A|Right.|b
+A|Right.|b
+B|Yeah,|b
+B|yeah.|b
+B|Wow.|ba
+A|Uh, but|%
+A|yeah,|%
+A|that was,|%
+A|I highly recommend that way to go.|sd
+A|If you're ever interested in going the route, I dealt with this woman,|sd
+A|her name was Rita at China Tours in Boston|sd
+B|Oh really.|bh
+A|Yeah.|ny
+A|Uh, and a friend of mine who had gone for a business trip to China|sd
+A|and she just gave me this woman's name to contact|sd
+A|and it would really be fun, I think ideally with like two couples because you have a car and a driver and a guide|sv
+B|Uh-huh.|b
+A|and then,|%

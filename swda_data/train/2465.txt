@@ -1,0 +1,302 @@
+A|Well, do you own a P C?|qy
+B|No,|nn
+B|I don't,|sd
+B|I have one at, uh,|sd
+B|the company I work for furnishes,|sd
+B|so I can work at home.|sd
+A|Oh, wow.|ba
+B|And it's just an old, old compact, that is super slow|sd
+B|and, but it does, it does its job,|sd
+B|so.|%
+A|What processor does it have in it?|qw
+B|Um, I don't know,|no
+B|it's so old.|sd
+B|It's one of,|%
+A|Oh what kind of work do you do on it?|qw
+B|Um, I do, um, television ratings|sd
+B|and I process some ratings and put, do graphics for their television stations, their clients,|sd
+A|Oh, okay.|bk
+B|so.|%
+A|Yeah.|b
+B|It's basically just data entry and running, you know, some, some software|sd
+B|so it doesn't really have to be anything sophisticated, you know.|sd
+A|Huh, yeah,|b
+A|I don't own a P C|sd
+A|but I've, I've, yeah, I work for T I|sd
+A|and, uh,|%
+B|Yeah,|b
+B|my husband does, too,|sd
+B|so.|%
+A|Well, I have, uh, pretty, a fairly fancy one,|sd
+A|it's a T I model.|sd
+A|It's an S P one thousand which, has a, it has a fast processor in it, a three eighty-six.|sd
+B|Uh-huh.|b
+A|And I,|%
+A|the, the job that I do,|sd
+A|I do a lot of training of our customers for new products.|sd
+B|Uh-huh.|b
+A|And I have to develop, uh, functional specs and disk and desk top publishing and everything,|sd
+A|so it's, it's kind of fun,|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|I mean, I, I always say that I need to buy a computer for the house|sd
+A|but I just haven't got around to doing it yet.|sd
+B|Oh, yeah,|b
+B|I'd like to have one for the house, too,|sd
+B|but sometimes my husband, my husband says usually, I work on the computer all day at work,|sd
+B|I don't want to come home and have to work on one, too .|^q
+A|Your husband, what, what group is your husband in?|qw
+B|Um, something with the defense.|sd
+A|Oh, ?|b
+B|Huh?|br
+A|Defense systems and electronics group?|qy^d
+B|Yeah,|ny
+B|something like that,|sd
+B|yeah,|%
+B|they've changed their name so many times I've lost track,|sd
+B|so.|%
+A|I see.|b
+A|Yeah.|b
+B|He works up in Plano.|sd
+A|Oh, okay.|b
+B|So|%
+A|Yeah,|b
+A|I work on, uh, printers and, the peripheral products division, basically, uh,|sd
+B|Uh-huh.|b
+A|I work in the airline, marketing group.|sd
+B|Oh.|b
+A|So, we, we do a lot of,|%
+B|I didn't even know they had anything like that.|sd
+A|Oh, yeah.|b
+B|Man,|%
+B|there's so,|%
+B|they're,|%
+B|I learned so many things that they, they do,|sd
+B|they're into so many different things,|sd
+B|so.|%
+B|Yeah,|b
+B|I just kind of,|%
+B|in for a while, you know,|%
+B|he had a, he had, uh, one of those, what are they, top secret things, you know, where he couldn't talk about what he did, so. For a while|sd
+A|Uh-huh.|b
+A|Yeah.|b
+B|but then he switched jobs.|sd
+B|I don't understand half the stuff he does|sd
+B|and, I have, uh,|%
+A|Is he a programmer?|qy
+B|Uh-huh.|ny
+A|I see.|bk
+B|Software design engineer, so, as they call it,|sd
+B|so.|%
+B|But I have a degree in information management, which is computer, you know,|sd
+A|Uh-huh.|b
+A|Right.|b
+B|it's basically the, more the business end of it than the programming end of it, you know.|sd
+A|Right.|b
+B|So, but I've been at it for, you know, five years,|sd
+B|so. Everything's changed so much I probably couldn't even get a job right now.|sd
+B|It seems like it's changed so much,|sd
+B|so, you know, they've made such advances in computers,|sd
+B|so.|%
+A|Really.|ba
+A|So, uh, does your husband ever use, uh, a laptop or a notebook?|qy
+A|Does he bring a little one home with him|qy
+A|or,|%
+B|No,|nn
+B|huh-uh,|nn
+B|sometimes he he brought home a, uh, a portable one,|sd
+A|Uh-huh.|b
+B|but, uh, it, it quit working|sd
+B|so he brought it, brought it back|sd
+B|and he just hasn't brought another one home.|sd
+B|But they did give him a new computer at work,|sd
+B|so.|%
+A|Oh, I see.|b
+A|Yeah,|b
+A|we, we build, uh, laptop and notebook computers here in Temple also.|sd
+B|Oh, uh-huh.|b
+A|And those are really handy,|sd
+A|I mean, we, they, they have modems in them, you can send a fax from your P C,|sd
+B|Oh, how nice,|ba
+A|but they're, they're really,|%
+B|no,|fo_o_fw_"_by_bc
+B|he doesn't have one of those,|sd
+B|so.|%
+A|What's that?|br
+B|He doesn't have one of those.|sd
+A|Yeah,|b
+A|they're, they're pretty handy because, you know, when I travel, it's easy to check messages,|sd
+A|just, you know, plug in the phone to your computer and dial in|sd
+B|Uh-huh.|b
+A|and,|%
+B|Yeah.|b
+B|Well, my husband doesn't have to travel,|sd
+B|so.|%
+A|Oh, okay.|b
+A|Yeah,|b
+A|I just found out I'm going to Denver Sunday night again.|sd
+B|Oh, boy.|ba
+B|Well at least you get to,|%
+A|So that kind of reeks havoc with plans,|sd
+A|but, it, it's really not enough to become a big hassle.|sd
+B|Uh-huh.|b
+B|Well, that's good.|ba
+B|Some people enjoy the travel|sd
+B|but I don't think I'd like it, if he traveled a lot .|sd
+A|I see.|b
+B|Yeah,|b
+B|I would love to have a computer,|sd
+B|they,|%
+B|but they're so expensive.|sd
+A|Well, I don't know,|h
+A|there, you can get, well,|%
+A|depends on what you consider expensive,|sd
+A|I mean,|%
+B|Uh-huh.|b
+A|you can get real high powered stuff now for under two thousand dollars, where, you know, just a few years ago it would have been six, seven, eight, nine thousand dollars.|sd
+B|Yeah. You know,|b
+B|I guess it's not, it's all, you know, it's, inexpensive compared to what it used to be|sv
+B|but it's a lot to put into one.|sv
+A|Yeah,|b
+A|it's still, I mean,|%
+A|you know, two thousand dollars isn't just, just pocket change to a lot of people|sv
+B|That's right|ba
+B|No,|aa
+B|it's not.|sv
+B|It's, it's not pocket change,|sv
+B|so it's major .|sv
+B|Maybe when the kids get in school that will be, you know,|sd
+B|when they start needing something, you know, then that will be different|sd
+B|but,|%
+A|Yeah,|b
+A|when I started at, uh, T I, I was a Summer development student, and finishing up at school|sd
+B|Uh-huh.|b
+A|and so those papers really,|sd
+A|I mean, it was nice having access to the, equipment to, uh,|sd
+B|Oh, yeah.|b
+B|Yes,|b
+B|I remember that.|sd
+B|I had to do some of my husband's papers because I had access to one|sd
+B|but, you know, he, his was more for scientific stuff than for word processing, you know,|sd
+B|so,|%
+A|Yeah.|b
+B|I did a lot of his papers.|sd
+B|Yeah,|b
+B|they come in real handy,|sd
+B|that was a lifesaver.|sd
+A|Well, how many different types of packages do you use?|qw
+B|At home?|qy^d
+A|Uh-huh.|b
+B|Um, all I,|%
+B|the packages I, I don't really use,|sd
+B|I what I use that outside development that we use most of it's just stuff that's been written in house that I use.|sd
+A|Oh, okay.|b
+A|Yeah.|b
+A|Golly,|b
+A|I've got,|%
+A|up, up at work anyway, I use WordPerfect and Lotus and, and which is, uh, uh, a, a line-draw package.|sd
+B|Yeah,|b
+B|I know those two.|sd
+B|Uh-huh,|b
+B|I've just used WordPerfect and Lotus and, the most.|sd
+A|Yeah.|b
+A|You probably use or something like that, for your, uh, data entry stuff that your, talking about.|sv
+B|Yeah.|b
+B|Yeah.|b
+B|A lot of the data entry stuff they used, uh, survey system and, and, um, you know, just in-house programs to do what they needed.|sd
+B|I work,|%
+A|Do you get, do you work at home all the time|qy
+A|or just,|%
+B|Well, no,|nn
+B|I worked for this company before I had my first daughter,|sd
+A|Uh-huh.|b
+B|and they just wanted me to continue working for them at home doing other things,|sd
+B|so.|%
+A|Oh, that, that was, that worked out pretty good then.|sv
+B|Yeah,|aa
+B|it did.|sv
+B|You know, I don't do, I don't really don't do basic, a lot of what I used to do,|sd
+B|I just do, you know, something really minor|sd
+B|but, it's something that nobody else wants to do,|sv
+A|Uh-huh.|b
+A|Yeah.|b
+B|and it's time consuming.|sd
+B|So,|%
+A|So, it keeps you in the company, huh?|qy
+B|That's right, you know,|na
+B|it gives me a paycheck, you know,|sd
+B|it's only like the work's only, you know, three weeks.|sd
+B|Goes for like three to four weeks three times a year,|sd
+A|Uh-huh.|b
+B|you know, it's not something that's continual because, you know, the television ratings don't come out, you know, all the time.|sd
+B|They only come out four times a year,|sd
+B|so but.|%
+A|Yeah.|b
+A|Boy|ba
+A|I tell you if I could bring a computer home and do stuff here, I'd get all kinds of stuff done.|sd
+B|Oh.|b
+A|Phone's always ringing|sd
+A|and, people always asking me to do something else.|%
+B|Uh-huh.|b
+B|Yeah.|b
+A|I've got a lot of,|sd
+A|especially right now, we've got several new products coming out,|sd
+A|and I've got lots of documentation I need to review and some I need to revise.|sd
+B|Uh-huh,|b
+B|will they let you take a computer home to work?|qy
+A|Well, yeah,|ny
+A|but, you know, I need to be at the office, too.|sd
+B|Oh, uh-huh.|b
+A|You know I've just got to deal, with all those other things that happen|sd
+A|but, a P C at the house would really take a lot of the load off.|sd
+B|Yeah.|b
+B|Yeah,|b
+B|I bet.|ba
+B|Yeah,|b
+B|my he took one home when they, when they had it, you know, they had a big deadline coming up|sd
+B|and it was looking a little touchy to meet,|sd
+B|so.|%
+A|Uh-huh,|b
+A|well, I've, I've done that before on, a couple times.|sd
+B|Yeah.|b
+A|But that would make it just that much easier|sd
+A|instead of bringing home a computer, you just bring home a few floppy disks, you know.|sd
+B|Uh-huh,|b
+B|that's right.|ba
+B|I thought that would be, you know,|sd
+B|because it's real nice with this because I don't even have to go into the office|sd
+B|I've maybe been into the office once in the past three years, you know.|sd
+A|Oh, my.|ba
+B|They just, um, they just send me everything and pick it up courier or whatever,|sd
+B|so, you know.|%
+A|Man that sounds really nice.|ba
+B|Yeah.|b
+B|It is real nice, you know,|sd
+B|I just deal with them on the telephone,|sd
+B|half the people don't even know who they're talking to.|sd
+A|Uh-huh.|b
+B|But I, you know, worked,|sd
+B|I know most of them, well,|sd
+B|I can't say that,|h
+B|a lot of people changed around there|sd
+B|but, most people know who I am,|sd
+B|but I don't know who they are, you know.|sd
+A|Uh-huh.|b
+B|A lot of them just know me by name and phone voice.|sd
+A|Right.|b
+A|Yeah,|b
+A|I've got a lot of folks that I've worked with like that as well.|sd
+B|Yeah,|b
+B|you just know them by the telephone,|sd
+B|so. But, well, it's been good talking to you,|fc
+B|I think we've got the subject|sv
+A|Yeah,|b
+A|we sort of stayed to the topic anyway.|sv
+B|Yeah,|b
+B|we tried.|sv
+B|It's hard to sometimes.|sd
+A|Okay,|b
+A|well, we'll talk to you later.|fc
+B|Okay, well, thanks,|fc
+B|bye, bye.|fc
+A|Bye.|fc

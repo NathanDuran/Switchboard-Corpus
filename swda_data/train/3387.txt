@@ -1,0 +1,106 @@
+A|Well, I don't know what to do about the federal budget.|sd
+A|Um, there certainly have been ideas surfaced, uh, recently, uh, matter of fact repeatedly by many people|sd
+A|and I sort of wondered what your, what thoughts you had on that area.|qw^d
+B|The, the first one is we need people in there that, that understand, uh, numbers. The numbers that are being thrown around when, when we're talking in trillions of dollars. Uh, which is an astronomical sum|sv
+A|Uh-huh.|b
+B|and, and the people that are talking this numbers have no concept of what that number means.|sv
+A|Now are you, are you talking about the elected people|qy
+A|or are you talking about  others?|qrr
+B|The elected  people.|sd
+B|Yes.|ny
+B|Uh-huh.|ny
+A|Uh-huh.|b
+B|Our, our, our Senate and Congress and, and people that, that deal everyday and, and what's going to be done with those monies um, and don't really understand what that is or how a budget even works.|sv
+A|Yes.|b
+A|Uh-huh.|b
+B|Uh, we need to elect people that are more, uh,|sv
+B|or ...|%
+A|I'm not sure how you would|sd
+A|how would you achieve that?|qw
+A|I mean if,|%
+B|Well, let's, let's make them have a degree in economy, uh, or economics.|sv
+A|So you would trust the decision making economists?|qy
+B|Well|arp_nd
+A|Sometimes called the dismal science.|sd
+B|Yeah.|b
+B|But, but people that, that know the value of a dollar that understand the  value of a dollar,|sd
+A|Uh-huh.|b
+A|Yes.|b
+B|um, and|%
+B|in, in, in|%
+B|the, the, uh, lobbyists,  needs  them to be eliminated, uh,  from  Congress. Um,|sv
+A|Uh-huh.|b
+A|Uh-huh.|b
+A|Yes.|b
+B|They don't make pragmatic decisions.|sv
+B|They make a decision based on constituency instead of a decision based on what they really believe.|sv
+A|Yes.|b
+A|Uh-huh.|b
+B|Um, you know, or they tack on this, uh, pork bellies and, and do things that, that are good for their area to pass something that is, that is not good for the country.|sv
+A|Right.|b
+A|So, so you would favor a law which said there could not be lobbyists.|bf
+A|I mean right now lobbyists require to register you'd just say, make them all .|sv
+B|Oh, I, I definitely would.|na
+B|Yeah.|ny
+B|Get rid of them.|^2
+B|Totally. Uh,|aa
+A|No causes that you think the lobbyists would be good for?|qy^d
+B|I, I think that any company or anything that wants to contribute to a fund should be able to do that, and be registered with what they ever contribute.|sv
+A|Uh-huh.|b
+B|But they should not have a one-on-one relationship with the people making the decisions that affect them.|sv
+A|Uh-huh.|b
+B|That, that's a conflict of interest as far as I'm concerned.|sv
+A|Yeah.|b
+B|When you are talking again, uh, billions and trillions of dollars uh, you're, you're jeopardizing the future of the country, uh, for today.|sv
+A|Uh-huh.|b
+B|That,|%
+A|So, uh, you talk about jeopardizing the future.|sv
+A|Would you be against any deficit spending?|qy
+B|I, I think to bring it in line you are going to have to have a generation that's going to really bite the bullet to bring it in line.|na
+B|You can't ease into it.|sv
+B|It took years and years to build up the momentum that's there now.|sv
+A|Uh-huh.|b
+B|Uh, I, I forget the figures on the interest rate|h
+B|but it's something like, uh, hundreds of thousands of dollars a second in interest.|sv
+A|Uh-huh.|b
+A|Yeah.|b
+B|Part  of the problem is we don't loan from ourselves.|sv
+B|We, we buy from intimate international banking.|sv
+B|That's why we have interest.|sv
+A|Uh-huh.|b
+B|And, and I, I, I really feel that, that, that is part of the problem that we, we've let things get so out of control that, that we don't want to put the brakes on them.|sv
+A|But what practical steps could could one take? Um,|qw
+B|By, by having a, a, a budget that is, is feasible, that is reasonable.|sd
+A|Well, but everybody will say that he is for that.  Uh,|sv
+A|and,   and how will you,  make that actually happen?|qw
+B|Oh, of course.|ba
+B|Sure .|b
+B|And then add on to it.|sv
+B|You take the gross national income and you say our budget is X number of percent of this gross national income.|sv
+A|Uh-huh.|b
+B|One thing we could do is give a ten percent income tax. Across-the-board,|sv
+A|Uh-huh.|b
+B|everyone no matter what,  pays a  ten percent income tax.|sv
+A|Yep.|aa
+A|Sounds like a good idea.|ba
+B|Uh,|%
+A|Nothing  escapes, right?|qy
+A|No, no,  deductions,  nothing.|qy^d
+B|That's right.|na
+B|Right.|na
+B|No deductions.|sv
+A|Just ten percent.|sv
+B|You pay a ten percent income tax.|bf
+A|Yep.|aa
+B|That's what you pay|sv
+B|if you make forty million dollars, uh, then you're going to pay four million.|sv
+A|Right.|b
+B|if you make forty dollars, you're going to pay four dollars.|sv
+B|And, and that's it.|sv
+A|Yep.|aa
+A|So that, that's it.|sv
+A|That's I mean|%
+A|I, I agree with that|sv
+A|that's a good idea|sv
+A|and is it your expectation that that would raise the total revenues collected or, or lower them or what?|qy
+B|I don't know that it would or wouldn't.|arp_nd

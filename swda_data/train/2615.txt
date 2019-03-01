@@ -1,0 +1,252 @@
+A|I don't know what the, the last thing I've done as far as car repairs go is, is change oil and filter an, and that kind of stuff.|sd
+A|I haven't gotten really involved in anything, uh, extensive in car repairs in, oh, oh, probably a year or so.|sd
+A|I think the last thing I did of any significance was change the water pump on an Oldsmobile.|sd
+B|Yeah,|b
+B|I had a similar thing, that I've worked on cars ever since I was, uh, a kid|sd
+B|And that was some time ago,|sd
+B|but I've gotten to the point where, uh, the newer cars are getting so complicated to work on that, uh, oh, most of the cars|sd
+B|I buy, I try to buy as simple a car as possible.|sd
+A|Yeah,|b
+A|I know what you mean.|ba
+B|So, you know, changing the oil, changing the spark plugs|sd
+B|and most of them now, you know, you don't go through the ignition stuff anymore because that's all solid state or, or fuel injected|sv
+A|Yeah,|aa
+A|or fuel injected,|^2
+A|and so there's,|%
+B|so there goes the carburetor|sv
+B|and if the fuel injection system breaks down,  there's  no way in the world you're going to work on that.|sv
+A|Yeah.|b
+A|No|aa
+A|there's no way.|aa
+A|Somebody once said, uh, I had a car that said fuel injection on the side of it|sd
+A|and a woman asked me what that meant|sd
+A|and I said that means that I can't work on it.|sd
+B|Oh, yeah,|b
+B|yeah,|b
+B|basically that's it.|ba
+A|You know, they've gotten so complicated  or so high tech that, uh, the guys, average guys can't really go out in the, in the garage and do a whole lot of repairs, uh.|sv
+B|Yeah,|aa
+B|I've got, uh, an eighty-four Chevy van that's, uh, a one ton van with a camper conversion on it.|sd
+A|Yeah.|b
+B|It's got the, the, the good old three fifty,  standard  engine in it.|sd
+A|Absolutely.|aa
+B|Regular gas engine,|sd
+B|and that engine I understand,|sd
+B|I can, I can actually work on that engine.|sd
+A|Yeah,|b
+A|I used to have, uh, Chevy van,|sd
+A|it was a short van,  that  had the, the three fifty in it.|sd
+B|Yeah.|b
+B|Uh-huh.|b
+A|And  basically it, it was a motor|sd
+A|and you didn't have all the other junk around it,|sd
+B|Right.|b
+A|and  you could get to it to work on it.|sd
+B|Yeah,|b
+B|I had to change the water pump in that, here about a year ago.|sd
+B|And it was really fairly easy.|sd
+B|Take the grill out and the radiator out|sd
+B|and you can just stand there and work on it.|sd
+A|Yeah,|b
+A|the hardest part about, uh, water pump changes is getting all the junk off, before you can get too it.|sv
+B|Well that's true|aa
+B|You're right, you know,|aa
+B|by the time you've finally got down to it,|sv
+B|I was hoping I could remember where all those other things went.|sd
+A|Well that's kind of the way I was,|sd
+A|I tried to remember as I took stuff off where it went,|sd
+A|and I don't think I had too many nuts and bolts left over when I got it all put back together.|sd
+B|A few years ago I had an Oldsmobile diesel|sd
+B|and, uh, the,|%
+B|uh, it,|%
+B|after about a hundred thousand miles the injector pump went out on it.|sd
+B|And, uh, I bought it when we were living in Lubbock,|sd
+B|when I came back here, I brought the car back here|sd
+B|and, uh, I don't know, diesels got pretty unpopular|sv
+B|and you couldn't sell the|sv
+B|I mean, though for what you could get for one,  you might  as well drive it over a cliff.|sv
+B|And, uh, the injector pump went bad|sd
+B|so I found a outfit down here to rebuild it. And, uh, reinstalled that|sd
+B|and that was probably one of the most miserable things I had gotten into in a long time.|sd
+A|I don't think I'd know where to start with a diesel.|sd
+B|Oh, well, it, you know,|%
+B|diesels don't require mechanics,|sv
+B|they require plumbers.|sv
+A|Well that's true.|aa
+B|And, uh,|%
+A|I think the closest thing I've come to, to a diesel is, I've worked for a tractor repair shop, uh, when I was in high school|sd
+A|and, uh, we used to overhaul farm tractors basically,|sd
+B|Yeah.|b
+A|and  they were nearly all, all diesel,|sd
+A|but as far as cars I've never, never been involved with them.|sd
+B|Well the injector nozzle and stuff in, you know, the big diesel farm tractors, you know, what are about the size of your thumb,|sd
+B|and|%
+A|Well, yeah,|b
+A|and you you can get to them.|sv
+B|yeah|aa
+B|you can get to them,|aa
+B|and the ones in, in the diesel cars were little tiny things and just almost impossible to do anything with.|sd
+A|Well I,|%
+B|I've had a lot of good service out of that car,|sd
+B|but, uh, uh, I finally gave it to my son|sd
+B|and he drove it literally into the ground, you know|sd
+A|Yeah.|b
+B|He was out at Tech|sd
+B|and he, he finished it off.|sd
+A|I'm, I guess you're right|aa
+A|the, the diesel has almost fallen into unpopular status.|aa
+A|I don't know exactly why.|sd
+A|One of the reasons is|%
+A|I, I'm beginning to wonder is, where do you get gas at.|qh
+A|I|%
+A|I don't know if it's still, uh, limited like it was,|qy^d
+A|I don't notice it, probably because I|sd
+B|What,|qw
+B|the availability?|qy
+A|Huh?|br
+B|You mean the diesel availability?|qy
+A|Yeah,|ny
+A|I don't, I don't notice|sd
+A|but maybe because I'm not looking for it.|sd
+B|Yeah,|b
+B|well I'd bought, uh, a G M C diesel pickup and, uh, loved that thing, you know,|sd
+B|I really liked it.|sd
+B|But it turns out a pickup wasn't what I really needed,|sd
+A|Yeah.|b
+B|and  it was the van that I needed then, to buy the, you know,|sd
+B|traded it in on the Chevy van.|sd
+B|But, uh, sure enjoyed it.|sd
+A|But you got the, the three fifty in the van?|qy
+B|Yeah,|ny
+B|yeah|ny
+B|the three fifty regular gas engine.|sd
+A|Yeah,|b
+A|that's what I like because, they've got plenty of power,|sv
+A|and, uh, if you treat them right, they're not the gas guzzlers I think that they've got the reputation to be.|sv
+B|Uh-huh.|b
+A|I'm convinced that, uh, Detroit or whoever it is made a major mistake,  years ago when  they stopped putting the small V eights in and went to the fours and some of the sixes.|sv
+B|Yeah|b
+B|Uh-huh.|b
+A|I'm convinced that the small V eight like the, the Mustang's original two eighty-nine or some of the Chevy two eighty-threes,  were  good little V eight engines that were not gas guzzlers|sv
+B|Uh-huh.|b
+A|but they had enough power pull all this weight.|sv
+B|Yeah.|b
+A|And  the four cylinders just don't have it.|sv
+B|I think that little, the little Chevy V eight when it started out in sixty, in fifty-five, I think was two sixty-five, something like that.|sd
+A|Yeah.|b
+B|Little, you know, not whole lot more than the, than the, than the six cylinder that I think was like about two thirty-five or so.|sv
+B|But, uh, they kept boring that block out to where you could a get a four hundred, small block four hundred that was, uh, the same block, you know, just, just kept boring it out and boring it out and stroking it a little bit more, an.|sv
+A|I think those those little V eights could have been made to be pretty powerful little engines, if they would have gone with it,|sv
+A|but.|%
+B|Well that was, uh, that was a short stroke engine it could really wind up.|sv
+A|Oh, yeah.|b
+B|The two little cars I've got now,|sd
+B|bought a Mitsubishi Mirage here a couple of years ago|sd
+B|and, and it was normally carbureted|sd
+B|and it's fairly easy to work with because there's not just a whole lot in it to go wrong,  and you know changing the  plugs and stuff.|sd
+A|Yeah,|b
+A|that's kind of like,|%
+A|the, the first, well my first car was a fifty-six Mustang|sd
+A|and, uh, over the years, uh, all|%
+A|I had a, uh, Dodge pickup several years ago,|sd
+A|and, uh, I can't remember the size of the engine|sd
+A|it was a three oh, seven or something like that,|sd
+B|Yeah.|b
+A|but,  uh, I remember working on those cars,|sd
+A|you'd open the hood|sd
+A|and there was basically nothing in there but an engine, and a few things.|sd
+B|Uh-huh,|b
+B|uh-huh.|b
+A|Now, you open the hood and it's scary.|sv
+B|Yeah.|b
+A|Like you say it takes a plumber to figure out where all this stuff goes.|aa
+B|The friend of ours over here, he's got, uh, sixty-five, or sixty-six Mustang the six cylinder.|sd
+A|Yeah.|b
+B|And,  uh, I was look under the hood of that the other day|sd
+B|and like you say, you can see the road.|aa
+A|Yeah.|b
+B|It's amazing.|sv
+A|Well if you had to you could climb up in there and do what you needed to.|sv
+B|You yeah, you could stand in there if you really wanted to, I guess.|sv
+A|My dad's got a new, um,|sd
+A|I guess it's an eighty-nine or ninety, uh, Chrysler something or other.|sd
+A|It's one of those transverse mounted V sixes, front wheel drive.|sd
+B|Oh, yeah.|b
+A|And, uh, he was showing it to me|sd
+A|and we're looking under the hood and everything's nice and clean|sd
+A|and, you know, you can see the three spark plugs there in the front.|sd
+A|And I said well where are the other three.|sd
+A|And he'd never really thought about it.|sd
+B|Yeah.|b
+A|And  he says well, hopefully I won't have to change them, before I trade it off.|sd
+A|Yeah,|%
+A|it's going to be a problem getting back there because it was shoved right up against the fire wall.|sd
+B|Yeah.|b
+A|So they just about complicated the things so much that shade tree mechanics can't do much with them.|sd
+B|Yeah.|b
+B|Well when they went to the,|%
+B|started with the newer engines, you know,|sv
+B|when they started putting all that pollution control stuff on the older engines is where they started getting into so much, you know, trouble. Because the three fifty with all the, you know,|sv
+B|like well, actually, I guess,|%
+B|within a couple of years ago anyway was the last I've paid any attention to it.|sd
+B|The three oh five was that, that,  V  eight that they put in the, the three quarter and, and half ton van.|sd
+A|Uh-huh.|b
+B|And it had all the air pump and, uh, uh, I don't know, all that, all that stuff.|sd
+A|Right.|b
+A|Yeah|b
+A|the anti-smog pumps.|sd
+B|And all the anti-smog stuff.|aa
+B|And, uh, boy that was, uh, really a mess back under there under the, in that van.|sd
+A|And all that stuff loads the motor down.|sv
+B|Uh-huh,|aa
+B|uh-huh.|aa
+A|So it's trying to push the weight plus have all this drain on it from all sorts of belts and things.|sv
+A|But that's one good thing|sv
+A|I've got a, uh, eight ninety, uh, Chevy Blazer now|sd
+A|and it's got one, uh, belt on it a serpentine belt.|sd
+B|Oh, it's that one that's about, uh, what an inch and a half wide.|qy^d
+A|Yeah.|ny
+B|Got a bunch of groves in it.|qy^d
+A|I haven't had to replace the thing yet.|sd
+A|It looks like it would be, uh, better than having,|sd
+A|I've got an, an Olds Toronado that, I think's got six belts on the sucker.|sd
+B|Yeah.|b
+A|And  I had to get all those off, you know, when I was replace that, uh, water pump.|sd
+B|Yeah.|b
+A|And,  uh, I had to struggle with that for a while to figure which belt goes where.|sd
+B|Yeah,|b
+B|it's kind of like the inside dual on a truck.|sv
+B|You know, when one of them breaks,  it's not  the outside one,|sv
+A|Oh man.|ba
+B|it's, it's the, it's usually that power steering|sv
+B|or something that's way back in there.|sv
+A|You bet,|ba
+A|everything else's got to come off first.|sv
+B|Everything's got to come off.|aa
+A|Well, it's a pleasure meeting you.|fc
+B|Yeah,|fc
+B|and we'll, uh,|%
+B|how many times have you done this now?|fc
+B|Is this,|%
+A|Uh, I've got, uh, five stickers here from T I,|fc
+A|so I guess I've done probably, uh, I'd say seven or eight of them.|fc
+B|Yeah,|fc
+B|I hadn't, uh, hadn't, not gotten any calls here in the last, uh,|fc
+B|this is the first one in a week or so.|fc
+A|Yeah,|fc
+A|I haven't gotten any calls in two weeks,|fc
+A|so I don't know, if, if it's tapering off, or what.|fc
+B|If it's winding down or what.|fc
+A|I had a difficult time the past couple of times of getting, uh, answers.|fc
+B|Finding a taker.|fc
+A|So it sounds,|%
+A|it's taken them ten, fifteen minutes at a time,|fc
+A|so, people are either not,|fc
+A|maybe they're burnt out or,|fc
+A|yeah.|%
+B|Yeah, well.|fc
+A|Anyway let you go.|fc
+A|Thanks for talking.|fc
+B|Okay,|fc
+B|all right.|fc
+B|Bye-bye.|fc

@@ -1,0 +1,298 @@
+A|What kind,|qw
+B|What kind of cars do you, do you usually drive?|qw
+A|Right now we, I've got a, uh, four year old Subaru and a two year old Honda.|sd
+B|Oh, my goodness.|ba
+B|Well, we're, we're, we're sort of, sort of a General Motors family,|sd
+B|I guess that's the way we were raised.|sv
+B|And, uh, uh, we were overseas with T I for a number of years|sd
+B|and when we came back we suddenly find out we've got five licensed drivers in the family.|sd
+A|Oh, goodness.|b
+B|Yeah,|b
+B|and four cars|sd
+B|and we bought some year old cars from National Car Rental.|sd
+A|Really?|bh
+B|At least two of them.|sd
+B|We bought an Olds Calais and a Buick Skylark.|sd
+B|Uh, for, you know,|%
+B|they each had twenty-one thousand miles or something like that.|sd
+A|Uh-huh.|b
+B|Turns out that's a pretty good place to buy cars because they maintain them|sv
+B|and they can show you the records they've gotten all their maintenance on schedule and everything like that.|sd
+B|Uh, then we've got an eighty-six Chevy Spectrum that we bought new.|sd
+B|My daughter was a freshman in college when we bought it for her.|sd
+A|Uh-huh.|b
+B|And we've got a eighty-four Toyota that we bought used.|sd
+B|So we've got four cars for our five licensed drivers.|sd
+B|It's like musical chairs|sd
+A|I bet.|ba
+B|You're one short.|sd
+A|I bet.|ba
+B|And, uh,|%
+B|but you know, it's interesting the two,|sv
+B|even though my dad was a Chevrolet man forever and ever and ever|sd
+B|and we were in the retail milk business|sd
+B|and he had all Chevrolet milk trucks|sd
+B|and, and we bought automobiles and all that,|sd
+B|it was almost like|%
+B|and a Chevrolet dealer was our friend|sd
+B|and it was almost like the minute we got old and bought anything like a, but a Chevrolet it would be like going and spitting on his grave|sd
+B|But, uh,|%
+A|Yep.|b
+B|as we got older and got away,|sd
+B|and then we thought, well, you know, you still could buy General Motors products|sd
+B|and it was probably not that bad.|sv
+B|But, uh, we lived in Malaysia for T I in nineteen, uh, eighty-one, two, three, and four.|sd
+A|Uh-huh.|b
+B|And, and, of course you don't buy General Motors products over there|sd
+A|No.|aa
+B|But we bought a Volvo|sd
+B|and I have never had a car that I've loved more.|sd
+B|I just can't afford them here.|sd
+B|Uh, but I, I just loved that car.|sd
+A|Uh-huh.|b
+B|And, uh, we bought a, uh,|sd
+B|we lived in the Philippines for T I in eighty-five, eighty-six, and eighty-seven|sd
+B|and we bought a, uh, Ford Telstar,|sd
+B|which is somewhat similar to the Taurus.|sd
+B|It's sold in, uh, in uh, the Far Eastern uh, Far East countries more than here.|sd
+A|Uh-huh.|b
+B|But we really liked that.|sd
+B|And have you had experience with cars other than the ones you have?|qy
+A|Well, yeah|ny
+A|we had, uh, we had,|%
+A|these are the first cars that my husband and I have ever purchased ourselves.|sd
+B|Um.|b
+A|The others were hand me downs through the families.|sd
+B|Yeah.|b
+A|And those were always G M cars.|sd
+B|Yeah.|b
+A|Uh, Buicks and Chevrolets.|sd
+B|Uh-huh.|b
+A|And, uh, we were real happy with them,|sd
+A|but all the ones that we ever had were the, you know, eight cylinder,|sd
+B|Oh, yeah.|b
+A|really rugged, G M cars.|sd
+B|The the big,|bf
+B|Yeah.|b
+A|And all we had heard was, was a lot of negative press about the smaller cars,|sd
+A|and we both drive, well, forty-five miles round trip every day.|sd
+B|Sure,|b
+B|sure.|b
+A|And so we wanted a smaller car,|sd
+B|Yeah.|b
+A|when we got ready to buy, we needed a smaller car to get better gas mileage|sd
+A|and quite frankly, we were afraid of the, of the G M small cars.|sv
+B|Uh-huh,|b
+B|uh-huh.|b
+A|You know, as far as durability.|sd
+B|Right.|b
+A|So we kind of,|%
+A|when we had our larger cars, we didn't mind, uh, keeping them up,|sd
+B|Uh-huh.|b
+A|you know, doing the maintenance and everything on them as long as we didn't have to do it very often.|sd
+B|Yeah.|b
+A|But, once they got over a hundred thousand miles on them, all of them, you know,|sd
+A|it just kind of seemed to be the magic number for them|sd
+B|Yeah,|b
+B|yeah,|b
+B|it seems that something goes every month.|bf
+A|Yeah|aa
+A|it,|%
+B|And I'm afraid we're going to be in that in another year with all of ours,|sd
+B|you know,|%
+B|we got three eighty-sixes and an eighty-four|sd
+A|Uh-huh.|b
+B|And we'll probably be there with all of them.|sv
+B|You know, it's the same thing, you know,|sv
+B|I don't know whether, uh, you classify the Skylark and the Calais as,|sd
+B|well I guess they're intermediate.|sv
+A|Uh-huh.|b
+B|Uh, but, uh, we went on a family trip to Massachusetts|sd
+B|and there were five of us|sd
+B|and five, five of us never go anywhere together here.|sd
+B|everybody's heading off in their own direction.|sd
+A|Right.|b
+B|And I rented a Buick Le Sabre,|sd
+A|Uh-huh.|b
+B|and it's the first big car I had since I had my nine passenger Impala station wagon from seventy-six to eighty.|sd
+B|And it made all the,|%
+B|I, I had forgotten what driving a big car was like.|sd
+A|It's like a yacht.|sv
+B|It was just nice.|sv
+B|It floated.|sv
+A|Yeah.|b
+A|What,|%
+A|we, we sold or we, we traded in our Le Sabre for our Subaru.|sd
+B|Oh, yeah.|b
+A|Yeah,|b^m
+A|it was a great car.|sv
+B|Yeah.|b
+A|It just,|%
+A|we ran the wheels right off of it.|sd
+B|Yeah,|b
+B|yeah,|b
+B|yeah.|b
+B|And, uh, you know I've read,|sd
+B|I'm in the quality business at T I,|sd
+B|I'm a quality manager|sd
+B|and we're, we're uh, we deal,|sd
+B|we sell,|sd
+B|I'm in the semiconductor group|sd
+B|and we sell to, uh, Ford, Chrysler and G M, uh, G M Delco.|sd
+A|Uh-huh.|b
+B|And there is a, amazing,|sv
+B|I am just, uh, really impressed with the, with the quality consciousness that the, these companies have put into their procurement|sd
+B|and it's, I, it's come out as a result of the competition from the Japanese.|sv
+A|Uh-huh.|b
+B|And, uh, uh, I|%
+B|and, you know, we used to think Ford products were tinny.|sd
+B|I mean I was growing up,|sd
+B|I was taught when I was growing up, you know, that, that that real people bought General Motors products,|sd
+B|and peons bought, Ford products.|sv
+A|That's right.|aa
+B|But just with the quality requirements that Ford is putting on us and the way they come into our plants|sv
+B|and they're really, uh, uh, stressing this partnerships in quality,|sd
+B|and you know, G M and Chrysler are doing that,|sd
+B|but I really think Ford's got a ship position in this right now.|sv
+B|And I think it's showing up in their automobiles.|sv
+B|Their automobiles are getting a very good quality reputation right now.|sv
+A|Uh-huh.|b
+B|And, uh, uh, we went to, uh, Austin a while back to a basketball tournament|sd
+B|and we were going to be meeting some of my wife's relatives down there,|sd
+B|so we decided rather than drive one of our cars down, we'd rent one,|sd
+A|Uh-huh.|b
+B|and we went up to the local Budget|sd
+B|and we were going to get a Olds eighty-eight or something.|sd
+B|He said I'll tell you what, for a dollar a day more I'll give you a Lincoln Town Car.|sd
+A|Um.|b
+B|And we drove that down|sd
+B|and I hated to turn that back in.|sd
+A|I bet|ba
+B|We had that for three days.|sd
+B|And I absolutely loved,|sd
+B|except I couldn't want to have to park it in tight places all the time.|sd
+A|No.|aa
+B|Uh,|b
+A|I wouldn't want to have to pay for the gas, either.|sv
+B|but I absolutely loved that automobile.|sd
+B|And, you know, it wasn't that I'd,|%
+B|driving around down there we might have got sixteen to eighteen miles per gallon,|sv
+B|but on the trip down and back I filled up both coming and going|sd
+B|so I knew what I actually got on the trip|sd
+B|and it was about twenty-four miles a gallon.|sd
+A|Uh-huh.|b
+B|Uh, and, you know, we just got it out on the highway and put it in cruise control at about sixty and let it, let it float.|sd
+A|Uh-huh.|b
+B|And, it was pretty nice.|sv
+B|Are, are, are you planning on getting any additional or other cars?|qy
+A|No time soon.|ng
+A|Uh, we're, our, our, we won't have any more licensed drivers for about thirteen years.|sd
+B|Um.|b
+B|Oh, yours is small.|qy^d
+A|Yes.|ny
+A|So, we, uh, so we don't plan on purchasing any more any time soon.|sd
+A|Both of our cars are getting, oh, around sixty thousand miles on them.|sd
+B|Um.|b
+B|Oh, yeah.|b
+A|We drive a lot.|sd
+B|Yeah.|b
+B|You got another, another thirty or forty thousand if you maintain them.|sv
+A|Uh-huh.|b
+B|Uh, we've got,|sd
+B|probably we'll get something in the next couple years.|sd
+B|My son will graduate from high school this year,|sd
+B|and, and he's going to go to Richland College one year behind us,|sd
+A|Uh-huh.|b
+B|it's right,|sd
+B|in fact, uh, our house is adjacent to the Richland property.|sd
+B|He wants to go to Texas Tech|sd
+B|and he's probably going to have to go to Richland a year to get some grades in order,|sv
+B|but, uh, the next year when he goes out to Tech, he wants a pickup,|sd
+B|and I want, a pickup.|sd
+A|A pickup aint.|b^m
+B|I may get one and not let him have it|sd
+B|But, we have been looking at these red|sd
+B|they, they're very popular around here.|sd
+A|Uh-huh.|b
+B|These, uh, uh, red Chevy pickups,|sd
+B|and, uh, we'll probably do something like that,|sd
+B|uh, uh, incidentally,|%
+B|uh, uh, I don't know,|h
+B|uh, the, uh, the Credit Union has got a deal now where you decide what you want|sd
+B|and you call this number|sd
+B|and, uh, they go negotiate the price for you.|sd
+B|And, and, or, or send you to a guy with whom they've already got a deal|sd
+A|Uh-huh.|b
+B|and, uh, my boss just bought a Chevy pickup|sd
+B|and he got three thousand dollars off the sticker price doing it this way.|sd
+A|Really?|bh
+B|Yeah.|ny
+B|And, uh, uh, you know, you, you figure out the options, go around look at the dealers and get the best price you can and then go call this guy and, and tell him what you want|sd
+B|and he'll put you in touch with a certain guy, a certain person at that dealer's place.|sd
+A|Uh-huh.|b
+B|So I'm going to try that the next time I buy one.|sd
+A|I think that would be a good idea.|sv
+B|And, and, so, you know, I can go around and comparison shop and see if I can get a better negotiation on my own.|sd
+B|But, once, one thing that's a pain in the neck buying automobiles is negotiating.|sv
+A|Yeah.|b
+A|I've, we've, we've, we've kind of been the types that will say, this is what we intend to spend,|sd
+B|Yeah.|b
+A|this is the car we want,|^q
+A|will you sell me this car for that price.|^q
+B|And for that price.|^2
+A|And, and we've had|%
+A|we, with our,|%
+A|when we bought our Subaru, the guy was like, you can't do this to me,|sd
+A|and we're were just, like, okay fine, we, we won't then.|sd
+B|We'll go somewhere else.|bf
+B|Yeah.|%
+A|You know.|%
+A|I mean he's like, no, no, no.|sd
+B|Yeah.|b
+A|But,|%
+B|And, uh, and I, I think that's probably the way you've got to do it.|sv
+B|When, when I was young, I went in and bought a, uh, or made a deal on a sixty,|sd
+B|this is nineteen sixty,|sd
+B|I'd first come to Texas, and made a deal on a sixty red Impala convertible that I just loved,|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|and this guy gave me this deal, you know,|sd
+B|I told him how much I wanted to pay,|sd
+B|and for every fifty dollars he'd have to go in and check with the boss|sd
+B|and then I'd have to sign something saying that if he could get this rate, uh, we would go ahead and buy.|sd
+B|Uh, uh, if he could get this rate I promised to buy|sd
+B|and I left there on a Saturday afternoon just totally exhausted.|sd
+B|I, I was only twenty-five years old or something|sd
+A|Uh-huh.|b
+B|I, I left there|sd
+B|and I, I, uh, I'd never done this before because I'd always bought my previous cars from the guy my dad bought his milk trucks from,|sd
+B|and, uh, uh, so I, I got back|sd
+B|and a salesman that lived in the apartment had, asked me, uh, uh, if,|sd
+B|he'd heard I was going to get a car, and asked me what I paid for it.|sd
+B|He said, well, hey, uh, before you go buying anything,|sd
+B|he says call this friend of mine at Will's Point.|sd
+B|There was a guy that owned a Chevrolet dealership up there.|sd
+A|Uh-huh.|b
+B|And I called the guy and made an appointment to come up Monday morning|sd
+B|and just driving fifty miles out of town, it was a difference,|sd
+B|and, I mean it was a difference of four hundred dollars,|sd
+B|but this was four hundred dollars on only twenty-five hundred,|sd
+A|Goodness.|ba
+B|is all we paid for cars in those days.|sd
+B|And, uh, uh, so I called back the guy in Dallas|sd
+B|and I told him that,|sd
+B|I'd left him a check for tax, title and license and everything,|sd
+B|and I said I want to cancel my order and, and don't try to cash the check because I'm going to, I've stopped payment on it already|sd
+B|and he says oh, somebody's taking,|sd
+B|he said what did you get a deal for, Bill.|sd
+B|And I told him,|sd
+B|he says, somebody's taking you for a ride.|sd
+B|And I said, no somebody took me for a ride last Saturday|sd
+A|That's right.|aa
+B|And, uh, uh, and I, I find that, uh,|%
+B|and for the longest time then I drove up to Will's Point|sd
+B|and, and the, and the fellow died since then,|sd
+B|and, and some of his relatives have taken over the business|sd
+B|and that,|%
+B|but|%
+B|and, since then I had ...|sd

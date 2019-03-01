@@ -1,0 +1,116 @@
+A|I've, uh,|%
+A|are you there?|qy
+B|Yes, sir,|ny
+B|I'm right here.|sd
+A|All right|bk
+A|Okay, um,|%
+A|I'm in an area where, um, we can, uh, enjoy it year round,|sd
+A|so, I've actually been, uh, uh, been out within the past couple of weeks.|sd
+A|I'm mainly a freshwater fisherman.|sd
+A|How about yourself?|qo
+B|Well, actually I've done both kinds|sd
+A|Uh-huh.|b
+B|uh, I'm originally from the State of Virginia and, uh, lived near, near Virginia Beach where we could, uh, surf cast and, uh catch a lot of things in the ocean there.|sd
+A|Uh-huh.|b
+A|Did you Did you ever do the James River?|qy
+B|I don't believe I have fished the James River.|ng
+B|There's a possibility, but that was so long ago|sd
+A|Uh-huh.|b
+B|I moved here to, to State College, uh, in nineteen fifty-five|sd
+A|Uh-huh.|b
+B|and that has pretty well limited my fishing to fresh water|sd
+A|Uh-huh.|b
+B|and we have a lot of, uh, beautiful fresh water streams that come through this area.|sd
+B|I'm in an area called Center County, which is in the very center of the State of Pennsylvania,|sd
+A|I've I've been in that area|sd
+A|and the trout fishing is supposed to be legendary.|sd
+B|The trout fishing is really, uh, beautiful.|sd
+B|As I say, the, the streams are, oh, eight, ten, fifteen feet wide and so forth,|sd
+B|and, uh, you, you stand on the edge and you, you cast out and you, you work, uh, from your feet most of the time|sd
+A|Uh-huh,|b
+A|for brookies.|^2
+B|and then there are, there are a few lakes of course, close|sd
+A|Yeah,|b
+A|what do you like, brookies or, uh, rainbows|qy
+A|or,|%
+B|I,|%
+B|wherever the area,|%
+B|whatever the fish is the specialist in that area, I, uh, I enjoy fishing for it,|sd
+B|and I try to,|sd
+B|I haven't fished in several years I'll have to admit, but when I do fish, I do contact, uh, some of the local specialists so that I can then find out the, uh, the type of lures that they use and where they fish, and any unique, uh, techniques that would help you.|sd
+A|Uh-huh.|b
+A|Yeah.|b
+A|Do you fly fish, or are those streams too small?|qy
+B|Uh, no,|na
+B|we, we fly fish.|na
+A|Yeah.|b
+B|Uh-huh.|b
+A|I used to do that a little when I lived up in New York,|sd
+A|but right now it's, uh, uh, bass and striped bass is the only thing that I go for down in in, uh, Texas.|sd
+B|Uh-huh.|b
+B|Oh, that's a pretty big fish.|sv
+A|Uh, yeah,|aa
+A|they're, they've, uh,|%
+A|the striped bass have accommodated themselves to the big fresh water lakes,|sd
+A|and they're pretty exciting when they're, when they're running.|sd
+B|Uh-huh.|b
+A|It's a salt water fish in fresh water, uh, environment.|sd
+B|Well, our, our streams here are replanted with fish about every year so that, well, they, they, they, uh, they have a pretty good idea of, of, uh, what the number of fish are in these various locations,|sd
+A|It's all put and take.|sd
+B|and and they have have certain areas that they plant, you know, a hundred here and a hundred there,|sd
+A|Uh-huh.|b
+B|and this is, of course, X number of weeks or months before fishing season opens|sd
+B|so,|%
+A|What's the season?|qw
+A|April to October or something like that?|qy^d
+B|That sounds about right|na
+A|Uh-huh.|b
+B|uh-huh,|ny
+B|pretty close.|sd
+A|Uh|%
+B|You know.|%
+A|what's a license cost?|qw
+B|Well, as I say, it's been several years,|sd
+B|but the licenses weren't that expensive,|sd
+B|I,|%
+B|seems to stick in my mind, five to seven dollars is about all, from what I remember it.|sd
+A|Yeah.|b
+A|Uh-huh.|b
+A|It's about the same as Texas.|sd
+B|Uh-huh.|b
+A|Yeah.|b
+B|And I have, oh, probably a half a dozen different kinds of, uh, fishing poles and, and fly rods and so forth,|sd
+B|and, and I had been so busy in my work in these last few years that I haven't had time to fish.|sd
+B|But I'm going to be retiring at the end of December,|sd
+B|and I, I hope, uh, the next fishing season, that I can sort of get back in and, uh, enjoy that.|sd
+B|That, that was a really enjoyable, uh, thing for me to do.|sd
+A|Well, I have all sons, so I think I'm probably going to be fishing for a long time|sd
+B|Huh, I just have one son and he, he lives out of the state now, rather, in the eastern corner of it,|sd
+B|so, I don't think he has time to fish either|sd
+A|I caught the disease from my father,|sd
+A|and I'm passing it on to my children.|sd
+A|It's really|sd
+B|Oh, is that right?|bh
+A|They love it,|sd
+A|yeah.|ny
+B|Oh, my goodness.|ba
+A|Right.|b
+B|Well, I, I, the disease I caught was simply because, uh, I, I was in the Norfolk Portsmouth area,|sd
+B|and people there,|%
+A|Uh-huh.|b
+B|there's, there's so much water around that, you, you're either boating or you're fishing|sd
+A|Right.|b
+A|Right.|b
+B|and, uh, I fairly enjoyed at that time.|sd
+B|I have a small aluminum boat here that, uh,|sd
+A|Uh-huh.|b
+B|when I go on one of the large lakes that we have here that I enjoy fishing for, for trout from that,|sd
+A|Uh, uh, I don't, I don't know about the lakes in central Pennsylvania.|sd
+A|Are there many?|qy
+B|Well, as I say, I'm in Center County.|sd
+B|There's, um, there're two different size lakes about, well, five, six miles from State College.|no
+A|Uh-huh.|b
+B|Now these aren't huge lakes from your point of view|sv
+A|Uh-huh.|b
+B|but they are probably fifteen, twenty acres maybe which, which here is a lot of water,|sd
+A|Uh-huh.|b

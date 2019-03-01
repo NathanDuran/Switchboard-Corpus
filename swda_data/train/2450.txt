@@ -1,0 +1,66 @@
+A|So what kind of weather have you had in Dallas?|qw
+B|Well, it's been very windy,|sv
+A|Really?|bh
+A|Yeah|aa
+A|see, I didn't, I don't,|%
+A|I thought, uh, I thought,|sv
+A|I lived in Euless|sd
+A|and I thought it was pretty normal,|sv
+A|but anyway, but I guess you're right though it has been real hot,|sv
+A|because it, um,|%
+A|I've had to use the air conditioner in March,|sd
+B|we've already had to use that,|sd
+A|my husband usually,|%
+B|and we've had like,|sd
+B|I mean, this is probably typical though, uh, we,|h
+B|like tornado weather and tornado warnings,|sd
+B|and, uh,|%
+A|Uh-huh.|b
+B|so, uh, you know, I, I forget from year to year.|sd
+B|I'm getting too old.|sd
+B|But, the, uh, it, the wind's blowing very hard,|sv
+A|Yeah.|b
+B|but I guess, you know, we're just out of March, and, uh will bring the rain in, uh, April.|sd
+A|Yeah,|b
+A|I know,|sd
+A|The trees are real pretty right now and everything.|sv
+A|And, uh, I don't know.|h
+A|I know the pollen is real high,|sd
+B|Yes,|ny
+B|it is.|sd
+B|Seems very high.|sv
+B|It hasn't bothered me,|sd
+B|but I know that people that have allergies it seems to be pretty high.|sd
+A|I know.|sd
+A|It's been bothering me a lot,|sd
+A|but|%
+A|yeah,|%
+A|I think, I think the weather overall has been, um, probably like you said, probably a little bit warm|sv
+A|and, Uh,|%
+B|A little bit warm and a little bit blowy, I think.|sv
+A|Anyway,|%
+A|so we basically live in the same area|sd
+A|so it's real hard to,|sv
+B|Really hard to make too big of different comparisons, right?|^2
+A|I know.|aa
+B|Yeah.|ny
+A|I just think it's been warm,|sv
+A|and it's been hot,|sv
+A|and I liked it,|sd
+A|and it's beautiful,|sv
+A|and all the trees are pretty,|sv
+A|and I wish it would stay like this all the time|sv
+B|Yes,|aa
+B|I could stand this all summer.|sd
+A|So yeah,|aa
+A|I could too.|sd
+A|And, uh, gah, I don't think we can say anything else really.|sv
+B|I don't think we can either,|aa
+B|let's cut off.|ad
+A|Yeah,|aa
+A|that sounds like a good deal.|sv
+A|Well, you have a nice day.|fc
+B|You too.|fc
+A|And we'll talk to you later.|fc
+B|Bye-bye.|fc
+A|Bye.|fc

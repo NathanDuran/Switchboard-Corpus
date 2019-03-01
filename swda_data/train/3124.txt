@@ -1,0 +1,214 @@
+A|Well, the weather has been, certainly has been hot|sd
+A|and it's been humid.|sd
+A|I don't remember a year in a long time that the humidity has stayed up this high for, uh, this late into, uh,|sd
+A|well, it's not really late into the summer,|sd
+A|but the, the humidity has hung around all of June.|sd
+B|Yeah.|b
+B|Are you native to this area?|qy
+A|No,|nn
+A|I grew up in Michigan, But I've been, I've been in Texas for fifteen years. *sd|sd
+B|Oh, okay.|bk
+B|Uh-huh.|b
+A|So, uh, but, you know, I know the summers get hot|sd
+A|but it certainly, uh,|%
+B|Uh-huh.|b
+A|this humidity has just really hung on there.|sd
+B|Yeah.|aa
+B|Yeah,|aa
+B|it seemed like, well, you know, last year was so strange having all those heavy, heavy rains in April|sv
+B|and this year we really didn't have heavy rains until May.|sv
+B|Kind of like pushed the season back a little farther|sv
+B|and now it's kind of lingering with kind of still a bit of humidity|sv
+B|and it just tried to rain,|sd
+B|I mean, I was coming in from my car just a few minutes ago|sd
+B|and it was trying to rain which seems strange to have it raining in July.|sd
+A|Yes.|aa
+B|Normally we don't have too much, uh, humidity or, or, uh, rainy time when it's past June.|sv
+A|Oh, that's right,|aa
+A|that's right.|aa
+A|I can remember it not,|sd
+A|it's really August that it happens.|sd
+A|You get those great big cracks in the ground where it's been so dry|sd
+B|Right.|b
+A|and it just gets so dry|sd
+A|and, the earth opens up.|sd
+A|I can remember the first year I moved here|sd
+B|Uh-huh.|b
+A|and it didn't rain,|sd
+A|I moved here like in late August|sd
+A|and it didn't rain from August until December|sd
+A|and, I went home and told it just doesn't rain in Texas.|sd
+A|I mean it was great after growing up in Michigan and not, and you know, every day was cloudy,|sd
+A|almost every day was cloudy|sd
+A|and I, you sort of forget how much it did rain|sd
+A|and coming here and then it didn't rain,|sd
+A|it was just wonderful.|sd
+B|Well, yeah,|b
+B|see I, I lived in, uh, Ohio mainly.|sd
+B|I lived in, uh, Pontiac just a little while before I came down here|sd
+A|Oh, yeah.|b
+B|and, you know, so many times when you were trying to schedule outdoor activities, you just never knew if it was going to be a go or not because of the weather.|sv
+B|It might rain on your little parade.|sv
+A|That's right,|aa
+A|that's right.|aa
+B|You know, and here it was like, pretty much you could schedule some activity outside anytime|sd
+B|and you really didn't have too much of a chance of it getting rained out.|sv
+A|Yeah.|b
+B|You could pretty much do whatever you wanted to do.|sv
+A|That's right.|aa
+B|What part of Michigan were you living in?|qw
+A|Oh, I grew up in Dearborn which is a suburb of, of Detroit.|sd
+B|Okay.|bk
+B|Yeah,|b
+B|yeah.|b
+A|You probably know where that is because I know where Pontiac is, Anyway,|sv
+A|yeah.|%
+B|What brought you down here?|qw
+A|Oh, a teaching job.|sd
+B|So you teach in Plano schools?|qy
+A|Yeah,|ny
+A|I did, I did for a while,|sd
+A|uh-huh.|ny
+A|So, I'm home with, home with two children, So,|sd
+B|Oh.|b
+B|Okay|bk
+A|New career. New career|sd
+B|Okay.|bk
+A|but, uh, anyway,|%
+A|so that kind of, uh,|%
+A|well, I had been down here to visit|sd
+A|so I school and said hey, let's, you know, find a place that has a nice job|sd
+A|and, uh, that's how it worked out.|sd
+B|Well, yeah,|b
+B|I think a lot of people were, uh, leaving Michigan all about the time I came here in the early eighties|sv
+B|and it seemed like it was almost a mass exodus.|sv
+A|Oh, yeah.|b
+B|You know, the, the little joke about, will the last person leaving Michigan just turn out the light|sd
+A|Oh, well, it's a nice place, you know,|sv
+A|I mean it's, it's a nice, that's a nice place, though.|sv
+B|Well, you know, I, I said I lived in, uh, the Pontiac.|sd
+B|I didn't live in the city of Pontiac,|sd
+B|I lived to the west of it.|sd
+B|Uh, I forget the, the county,|sd
+B|but you know where all the lakes are around there.|sd
+A|Okay,|bk
+A|sort of.|h
+B|I lived in an apartment complex on one of the lakes.|sd
+B|It was real close to where I worked.|sd
+B|It was only like four miles to work|sd
+B|and it was wonderful being on the lake like that.|sd
+B|You know, in the summer, you feel like you're, you know, on a vacation all the time because you're right on a lake|sd
+B|and everybody's, you know, out enjoying the water and such,|sd
+B|and, uh, in the winter time the lakes froze over,|sd
+B|you could still kind of go sledding and such out there|sd
+B|but I thought it was just really neat to be out there on all those lakes.|sd
+B|There's lots of really small ones out there.|sd
+A|Yeah.|b
+B|You know, like maybe a mile, two long.|sd
+A|Yeah.|sd
+B|That's enough to, uh, do some boating|sv
+A|That's right.|aa
+B|and it was lots of fun.|sd
+A|That's right. Which is,|aa
+B|Um.|b
+A|well, I think it's, I think it's toward Ann Arbor,|sd
+A|so it's probably out in that direction,|sd
+A|but that's the only one I probably could name after all these years|sd
+B|Uh-huh.|b
+A|so, But, uh,|%
+B|Yeah,|b
+B|yeah.|b
+B|But it was, yeah, just lots of little lakes|sd
+B|and, of course, it was, you know, a little more expensive to live on the lake,|sd
+B|but I just thought that was grand.|sd
+B|And I think a lot of people didn't really know that there were all those lakes out there unless you were from that area and kind of spotted them,|sv
+B|but there was quite a few lakes all around there.|sd
+B|It seemed like, it was almost like you were living on an island|sv
+B|there was so much water around where I was.|sd
+B|I said I wasn't close to downtown Pontiac,|sd
+B|I was way out to the west maybe four or five miles from, from the city limits|sd
+B|and it was really nice out there.|sd
+A|Yeah.|b
+B|We had, uh, Pine Knob you know, to go skiing and stuff.|sd
+A|Oh.|b
+A|Right.|b
+A|Right.|b
+B|So there were things around there.|sd
+B|Really was pretty nice.|sd
+A|Sure,|ba
+A|sure,|ba
+A|and isn't that where they have a summer music festival there, too?|qy
+B|Right,|na
+B|right|na
+B|in the summertime they have musicals there|sd
+B|and in the winter time they make snow and have a ski slope.|sd
+A|That's right,|bk
+A|that's right.|bk
+A|I know, we used to,|%
+A|we, we didn't do a lot of it,|sd
+A|but we did. We did,|%
+B|Yeah,|b
+B|yeah.|b
+A|so those are always fun.|sv
+A|And Alpine, was it Alpine was another ski slope that we went to, It was nice.|sd
+B|Uh-huh.|b
+B|Uh-huh,|b
+B|uh-huh.|b
+A|I always tell people that in the winter we use, we used to, uh,|sd
+A|my dad would kind of bank up the snow in the backyard and turn the hose on, you know, make a pond in the backyard for us.|sd
+B|Oh, yeah,|b
+B|yeah.|b
+A|So but, uh, you know, we probably did some ice skating on it,|sd
+A|but then it chipped, chipped|%
+A|and, you know, it would melt or whatever and get pretty uneven|sd
+A|so,|%
+B|Yeah,|b
+B|yeah.|b
+B|We used to have a|sd
+B|Christmas time, uh, some of our relatives would come up from Alabama,|sd
+B|and I think most times we would have snow around Christmas|sd
+B|and the kids when they were young would just go nuts.|sd
+A|Yeah.|b
+B|You know, because they were from Alabama where it never snowed|sd
+A|Oh.|b
+B|and they just had a grand time watching the snow and getting out there and playing in it, you know, eternally.|sd
+A|Oh.|b
+A|Oh, right,|b
+A|right.|b
+A|If only it would make nice snow here in Texas, we'd be okay at Christmas time.|sv
+B|My first winter here,|sd
+B|I, I came down in, uh, early eighty-two|sd
+B|and there was just a freak snowfall early one morning in December couple days before Christmas.|sd
+B|It lasted only a few hours,|sd
+B|like by noon it was gone.|sd
+A|Yeah.|b
+A|Yeah.|b
+B|And I remember getting up and somebody telling me, hey, better wait to go to work because the roads are all, you know, snow|sd
+B|And I was laughing, going yeah, right, that's a good practical joke,|sd
+B|ha ha.|^q
+B|They said, no really, there's snow|sd
+B|and there was, but a very short time|sd
+B|and the weather got warm so quick|sd
+A|Yeah.|b
+B|it just melted it all away.|sd
+A|Yeah,|aa
+A|yeah,|aa
+A|I know.|aa
+B|Course, when we get an ice storm, that's not too much fun.|sv
+A|No,|aa
+A|that's not fun either,|sv
+A|so, uh, I, I just as soon have all the slushy snow on the streets than have the ice on the streets|sv
+A|so, But, uh, well we have,|%
+A|our house is kind of on a little hill,|sd
+A|so, uh, we get the sled out|sd
+A|and, uh, the kids go down the the hill on the sleds when it's icy,|sd
+A|I mean they just go down the ice.|sd
+B|Yeah.|b
+A|And if it's cold, we say, okay, out you go.|sd
+A|I think we must be the only people on the block that make use of that cold weather and get out there.|sd
+B|Oh, yeah.|aa
+B|I think it's fun,|sv
+B|even the couple of ice storms I've gotten out there in my ski pants or something and still just been out and enjoying it a little bit.|sd
+B|I mean, sometimes the ice is pretty bad,|sv
+B|but if you get on the, the, uh, grassy kind of part, you get a little bit of traction, you know, not slip and fall.|sv
+B|I mean, first,|%

@@ -1,0 +1,250 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|now you can tell me what you do.|ad
+B|Uh, well, I work with computers, just like your son|sd
+A|Uh-huh.|b
+B|and I actually do research in speech recognition|sd
+A|Oh, great.|ba
+B|part of the reason I'm participating in the project is to see how the stuff goes.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|But, um, I was working|sd
+B|well, actually I haven't worked for any large companies per se uh, recently|sd
+A|Uh-huh.|b
+B|but hopefully the job that I will have will have lots of benefits namely lots of vacations not real good salary but lots of vacations.|sd
+A|Uh-huh.|b
+A|Yeah|b
+A|Well, the one John works for seems to have a you know, good benefits,|sd
+A|and the pay is decent.|sd
+B|Yeah|b
+B|the, uh,|%
+B|well actually, where I was working the company|sd
+B|one of the companies I was working for actually had very good health care benefits which these days I think are really important|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|because health care is so ridiculously expensive.|sv
+B|Because we're, we're paying our own insurance right now.|sd
+A|uh-huh,|b
+A|uh-huh.|b
+B|But and I'm,|%
+B|we actually had a little baby so I'm taking a little bit of a time off from work.|sd
+A|Oh,|b
+A|Great,|ba
+A|I had, I had a granddaughter|sd
+B|Oh, congratulations.|ba
+B|And so one thing that I'm very concerned with now is first of all health benefits|sd
+B|because it's more important with a family|sd
+A|Right.|b
+B|and you know, our doctor's routine doctor's visits covered,|sd
+B|my health insurance only covers, um, the emergency care.|sd
+A|Uh-huh.|b
+A|Do you have major medical benefits?|qy
+B|Right, yeah,|na
+B|but I don't,|sd
+A|That, that helps some,|sv
+A|if,|%
+A|it depends on what your deductible is how high it is.|sv
+B|Right.|b
+B|Well, my,|%
+B|our deductible's five hundred|sd
+B|but it's for each event.|sd
+A|Each person.|^2
+A|Yeah,|aa
+A|that's pretty that's pretty high,|sd
+B|Right|b
+B|but, you know, so it covers the emergency things but it doesn't cover if you get sick|sd
+A|Right.|b
+B|it doesn't cover doctor's visits, things like that.|sd
+A|That's, that's right.|ba
+A|And five hundred dollars is a lot to come up with for each person to be able to start using your major medical, too.|sd
+B|Oh, yeah,|aa
+B|it certainly is.|sd
+B|Uh.|%
+A|Yeah,|b
+A|I know where my daughter works,|sd
+A|now she, she,|%
+A|course we live in a, a rural sort of setting|sd
+B|Uh-huh.|b
+A|and where she works she has no benefits at all.|sd
+B|Wow.|ba
+A|And her wage is not, not very good|sd
+B|Uh-huh.|b
+A|But it's, it's the type of area we live in.|sd
+A|Of course, living expenses aren't as bad either, though, which makes a difference.|sd
+B|And probably the medical care is less expensive, too.|sv
+A|Well, she has to pay for it herself|sd
+B|Uh-huh.|b
+A|you know, they have to pay for their own insurance.|sd
+A|But, uh|%
+B|So I think that in general the doctor's fees are probably lower there,|sd
+B|and so the insurance would cost lower,|sd
+A|Uh, well, from what I've seen,|sd
+A|from my aunt and uncle really from Florida up to here,|sd
+A|they're not that much different.|sd
+B|Well, I know that friends of mine had a baby up in Boston|sd
+A|Uh-huh.|b
+B|and their costs were about fifty percent of what it cost to have it in Manhattan.|sd
+A|Is that right?|bh
+B|And they were at one of the better hospitals, you know|sd
+A|Uh-huh.|b
+B|and, you know, good doctors in Boston.|sd
+A|Wow|ba
+A|that's a big difference.|ba
+B|And I was at one of the big hospitals in New York.|sd
+A|Uh-huh.|b
+B|But that's a huge difference just between|sd
+A|Uh-huh.|b
+B|you know, and it's two big cities that I think of as somewhat comparable.|sd
+A|Oh, yeah,|aa
+A|should be.|sv
+B|So I was pretty shocked at that.|sd
+B|But the other thing that I'm really concerned about,|sd
+B|and most companies don't have,|sd
+B|some are starting to have, is day care|sd
+B|because it would be really nice to be able to have, you know, someone that could watch my daughter at work.|sd
+B|And I'd go to work,|sd
+B|and if she were sick I could go down and see her, if she needs to be fed, whatever.|sd
+A|And it would be much more convenient.|^2
+A|Yeah|b
+B|And I,|%
+A|it would be more convenient, too.|^2
+B|It would be more convenient, more productive I think,|sv
+A|Oh, yeah.|aa
+A|My other daughter works and has,|sd
+A|they have to take their two children to day care, you know.|sd
+B|Uh-huh.|b
+A|And, uh, it, it's,|%
+A|I don't know how they do it,|sd
+A|I really don't. You know,|sd
+A|getting them there and then, and going to work, and then picking them up and, all the preparations.|sd
+B|And, and your hours are, much more constrained and things like that.|^2
+A|Uh-huh,|b
+A|uh-huh.|b
+B|And, that, to me, well, that, you know,|%
+B|those three things, the health care, vacation, and day care are probably the most important benefits.|sv
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|I suppose I should be concerned with life insurance and, uh, retirement plans|sd
+B|but,|%
+A|Oh, I don't know,|h
+A|I think those benefits you mentioned, sometimes they're even more important than the wage itself.|sv
+B|Yeah.|b
+A|If you can get those benefits even, uh,|sv
+A|they, they come out to much, a much better benefit than, than an increase in your wage a lot of times.|sv
+B|Right|b
+B|because you're, you know,|%
+B|certainly something like day care at the work place would make life so much simpler that it's worth paying, you know, having a lower salary.|sv
+A|Uh-huh.|b
+A|Uh-huh,|b
+A|uh-huh.|b
+B|I would certainly accept a lower salary for that. You know, everything else being equal|sd
+A|Oh, yeah.|b
+A|Oh, yeah,|aa
+A|it would make it a lot better.|sv
+B|because your life would be so much easier.|sv
+A|Uh-huh.|b
+B|And there's a question of quality of life also.|sv
+A|Uh, well, and if it was there, you would really have a little more, uh, knowledge on what's going on probably, you know, with your child.|sv
+B|Yeah.|b
+B|Right,|b
+B|and, you, you, you don't feel like you're a half hour away if she something happened. And, you're less preoccupied with it, I think.|sv
+A|Right.|b
+A|Yeah.|b
+A|Right,|b
+A|yeah.|b
+B|But unfortunately, there aren't,|sv
+B|I think I B M has started having that in certain locations.|sd
+A|I don't know,|h
+A|my daughter, one daughter works for M C I,|sd
+A|and they don't, they, where she works they don't have anything like that.|sd
+B|Uh-huh.|b
+B|Is that locally?|qy
+A|Uh, Pittsburgh.|ng
+B|Uh-huh.|b
+A|Pittsburgh, Pennsylvania.|sd
+B|Yeah|b
+B|because Pittsburgh's a big enough city, too.|sd
+A|Uh-huh.|b
+B|But you know, I wouldn't be surprised if thing's like that didn't happen more in smaller communities before they happen in bigger ones. Just because people might be more flexible in smaller locations and things like that.|sv
+A|Uh-huh.|b
+A|Yeah,|b
+B|Because many times small companies offer better benefits in terms of quality of life than larger companies.|sd
+A|Uh-huh.|b
+B|Like, uh, one company had proposed to me that I could come back to work after having the baby, um, any where between ten and forty hours a week. And, um, call my own days, call my own hours,|sd
+A|Uh-huh.|b
+A|Oh, so they were very flexible|sd
+B|Yeah,|b
+A|and that, that would be great,|sv
+A|yeah.|%
+B|and which|%
+B|many times at a large company it's almost impossible to do things like that.|sv
+A|Uh-huh,|b
+A|uh-huh.|b
+A|They say you're going to do it this way, and that's the way it's going to be.|sv
+B|Right.|b
+A|Yeah.|b
+B|And if you get two weeks off, you get two weeks off and you're not allowed two weeks and one day.|sv
+A|Uh-huh.|b
+A|Yeah,|b
+A|yeah,|b
+A|yeah.|b
+B|So it all depends on what your position is there, too.|sv
+A|True,|ba
+A|well, that's true in any, any company, I think.|sv
+B|Yeah.|b
+A|I've, I've never, well I can't say I've never,|%
+A|I've maybe worked five years out of our married life out of the you know, out of the home|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|but, uh, the rest of the time I've been an Avon lady and a lady.|sd
+B|Was that when you were, um, well,|qy
+B|those have its pluses and minuses, too.|sv
+B|I've been a consultant recently and so I don't have any benefits at all|sd
+A|Uh-huh.|b
+B|and,|%
+A|Uh-huh,|b
+A|and you have to take care of any benefits you want yourself,|sd
+A|yeah.|%
+B|Right,|b
+B|and the same thing|%
+B|my husband is unfortunately being paid as a consultant|sd
+A|Uh-huh.|b
+B|and we tried to argue that he should get more salary for that than what he is|sd
+A|Uh-huh.|b
+B|and, um, they, they, they,|%
+A|Usually consultants make very good income.|sv
+B|Right,|b
+B|and they, they refuse to give him more salary.|sd
+A|Is that right?|bh
+B|Because they say they can't pay more than this and that, and they're not allowed to pay him more than what his previous salary was and things like that|sd
+A|Oh.|b
+A|Uh-huh.|b
+B|and, you know, times are rough now,|sd
+B|so it's, new,|%
+B|it's harder to get the, uh, you know, increases and things|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|but, um,|%
+A|A consultant really is, should be more knowledgeable than everybody else, you know|sv
+B|Yeah,|aa
+B|well he's,|sd
+A|so it stands to reason they should really have more benefits.|sv
+B|Right,|b
+B|well, he's been doing a long term,|sd
+B|he's being called a consultant,|sd
+B|and he's really sort of a temporary employee at a place.|sd
+A|Uh-huh,|b
+A|uh-huh.|b
+B|And, they, they pay him as a consultant but he doesn't get any health benefits,|sd
+B|he doesn't get, well|sd
+A|Um.|b
+B|we don't care about retirement benefits.|sd
+B|He doesn't get, um, vacation benefits|sd
+B|and he does a lot of things that get factored into somebody else's salary.|sd
+A|Uh-huh.|b
+A|Uh-huh.|b
+B|So really his salary should be, you know, twenty percent or thirty percent higher just based on that, not including the fact that you know, it's a less, long term commitment for the company and all that sort of stuff.|sd
+A|Uh-huh.|b
+A|Yeah.|b
+A|Uh-huh.|b
+A|Yeah,|b
+A|and they'll do it,|sv

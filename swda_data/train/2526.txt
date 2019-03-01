@@ -1,0 +1,302 @@
+A|Okay,|fo_o_fw_"_by_bc
+A|what kind of car are you thinking about buying next?|qw
+B|Well, what a what do we currently have,|t1
+B|I have a Subaru, uh, G O X T.|sd
+A|What year?|qw
+B|Eighty-eight.|sd
+A|Oh, okay.|bk
+A|Well, I have a ninety Honda Civic,|sd
+A|and I'm ready to get rid of it|sd
+A|Actually,|%
+B|Oh, it's not pretty old.|sv
+A|No,|aa
+A|uh, well, I I had an eighty-eight that I really liked|sd
+A|and it got wrecked,|sd
+A|and so I bought a ninety, um, because I, I really liked my eighty-eight|sd
+A|and I've had a lot of problems with this one,|sd
+A|so,|%
+B|So, you think their quality control's going down over there, kind of ?|qy
+A|Well, you,|%
+A|it's, it's kind of funny, um,|^h
+A|I know a lot,|sv
+B|Well, I, I, I think we're going to see that I think, uh, that the quality that the Japan carmakers had is slipping a little bit, while American carmakers are trying to get their, put together,|sv
+A|Oh.|b
+A|Yeah.|b
+B|so.|%
+A|It's, it's true,|aa
+A|it's definitely true because,|aa
+B|But, but that's one reason|%
+B|I, uh, I've had no problems with my Subaru,|sd
+B|that's one reason I went with it because I, Subaru had a good reputation, uh, for, you know, low maintenance,|sv
+B|so.|%
+A|Yeah,|aa
+A|well, Honda does too that's why I was really,|sv
+B|Well, really,|b
+B|there's, there's no question|sv
+B|but you have a nineteen,|%
+B|I mean, I've got to see if ,|%
+B|I mean, I've seen and I've had friends that have, uh, like, uh, eighty-one or eighty, uh, Celicas,|sd
+A|Uh-huh.|b
+B|and those things just keep ticking.|sd
+A|Yeah.|b
+B|I mean, they just, they can rack up a, a hundred fifty K on them,|sd
+A|That's true.|aa
+B|and they're still beating on them,|sd
+A|That's true.|aa
+B|and it's just amazing|sv
+B|and then they got,|%
+B|and you know they're not making them like that now, you know,|sv
+A|No,|aa
+B|so,|%
+A|not at all.|aa
+B|but they're still, they're still a lot, I think, definitely better than the American carmaker system .|sv
+A|Oh, I, I definitely agree with you there, because I had, uh, uh, uh, Ford T Bird before I got my Honda,|aa
+A|and it was the worst car I've ever owned|sd
+B|Yeah.|b
+A|and, um, that's why, I mean, I was so tickled with my Honda|sd
+A|it was just a wonderful car|sd
+A|and then it got wrecked|sd
+A|and, you know, I wouldn't even look at another car|sd
+B|Yeah.|b
+A|I just went and bought a Honda, I mean, I didn't even, I didn't look around or anything I just said that this is what I want,|sd
+A|and I really have had a lot of problems with it,|sd
+A|but I don't know.|h
+B|Well, maybe you need to unload it on somebody|sv
+A|Well, I'll probably hold on to it since it's still under warranty|sd
+A|but in the first twelve months that I owned it, it was in the shop an average of about once a month,|sd
+A|it was in the shop about twelve times the first twelve months|sd
+B|Yeah,|b
+B|that's a lot.|ba
+A|Yeah,|aa
+A|it was,|aa
+A|I was really disappointed because I was, you know, so, hyped up on Honda,|sd
+A|so.|%
+B|Oh, well.|b
+A|Yeah.|b
+B|Anyway,|b
+B|so, what's your next purchase supposed to be?|qw
+A|Well, I know this,|%
+B|Oh, really ,|b
+B|if you had a choice of your car, what would you get?|qw
+A|Well, it's, this is going to sound really strange,|arp_nd
+A|but I really like to have a Mazda M P V van,|arp_nd
+A|I really like those|sd
+A|and I have kids,|sd
+A|so.|%
+B|I'm not sure I'm real familiar with the body style on that.|qw^d
+A|They're a lot,|%
+A|I don't like the new style, like of the Toyota van, and the, the new Chevy Lumina van,|sd
+B|Uh-huh.|b
+B|Uh-huh.|b
+A|I don't like those styles, um, the M P V is more of, uh, uh, just, uh, I don't know what you, normal,|sd
+A|I don't know how to explain, more of an old fashioned type.|sd
+A|I, I'm not sure how to explain it,|sd
+B|Yeah.|b
+A|I mean it looks, I guess, kind of like, uh, the Chevy Aerostar or Arrow,|sd
+B|Yeah.|b
+A|no,|ar
+A|what|%
+A|Astro, Astro, I guess, is what it, something like that,|sd
+B|Oh, okay,|bk
+B|yeah .|%
+A|but I used to really like the looks of the M P V because it looks more like a mini van rather than I think,|sd
+B|Do you have, uh, do you have a family?|qy
+A|Yeah,|ny
+A|I have a couple kids|sd
+B|Okay,|bk
+B|well, that's probably influenced maybe a little bit .|sv
+A|Oh, yeah,|aa
+A|definitely.|aa
+A|But, I know that it's got to have a radio, it's got to have air conditioning,|sd
+A|I'm sure you can, uh, relate to air conditioning Um, living in Arizona,|qy^d
+B|Oh, yeah.|ny
+A|but, and cruise control and tinted windows, that's about it,|sd
+A|I mean, it's got to have those things, otherwise, I don't care.|sd
+B|Yeah,|b
+B|well, when I bought my car, it was right out of college|sd
+B|and, uh, you know, I always been looking for something sporty|sd
+B|and I ended up getting, you know, basically something that I could, you know, afford.|sd
+A|Uh-huh.|b
+B|The only gripe I have is performance.|sd
+B|I probably, uh,|%
+B|a few girls that I've gone out with, I've had, uh, like Mazda R X sevens and stuff|sd
+B|and they're, they're pretty fun to drive,|sd
+B|so, so, I think that's what, uh, I, I'm going to have to get next time around, I keep, I keep holding off|sd
+A|Yeah.|b
+A|Oh, really?|bh
+B|and then I could, I could upgrade now if I wanted to|sd
+B|but I just, I,|%
+B|it's just such a huge expense|sv
+B|and, and, uh, I, I'm just going to keep holding off|sd
+B|but I'm definitely going to look for something, uh, in the, you know, nice, you know,|sd
+A|Sports car|^2
+A|I'd like to have a sports car too,|sd
+A|but it's not practical for me,|sd
+A|but,|%
+B|Yeah|b
+B|I'm in,|%
+B|are you still there?|qy
+A|Yeah.|ny
+A|Whoops.|ba
+A|There's some kind of problems.|sv
+A|Hello,|qy
+B|Hello.|qy
+A|are you still there?|qy
+B|Okay.|na
+A|This is,|%
+A|something's wrong.|sv
+B|Wonder what happened.|qw
+A|I don't know,|no
+A|it sounds funny though, doesn't it?|qy
+B|Huh,|b
+B|anyway, um, but I'll probably, um,|%
+A|Huh.|b
+B|it just depends,|sd
+B|I know that's what I want,|sd
+B|but I don't know if I'll get myself to spend that kind of money,|sd
+B|you're looking at, you know, for a new R X seven or, a Supra or something,|sv
+B|you're looking at twenty-five K or something, that like|sv
+A|Oh, at least,|aa
+A|yeah,|aa
+B|and so, anyway but, Anyway my ultimate car though, the, the one that I really want is, uh, five sixty or so, Mercedes,|sd
+A|I know, well, new cars aren't cheap anyway,|sv
+A|but,|%
+B|so,|%
+A|Huh.|b
+B|maybe someday|sv
+A|Yeah,|aa
+A|we have, we all have those kind of dreams too, don't we?|qy
+B|Yeah.|ny
+A|What I'd really like to have|%
+B|That's the only one that I, you know,|sd
+B|I you know, I see, uh, you know, early on that, that, that says, it says, you there?|qy
+A|Yeah.|ny
+A|This is strange.|sv
+B|Hello.|qy
+A|Hello,|qy
+A|I think, something's wrong with this.|sv
+B|Okay.|b
+A|I hope it's recording|sd
+B|I hope it's not my ,|sd
+B|you there?|qy
+A|Yeah|ny
+B|It may be my phone, um,|sv
+B|anyway it's the only car that says, you know, sporty and class, uh,|sv
+B|so,|%
+A|Yeah,|aa
+A|you're right|aa
+A|Yeah.|aa
+B|uh, kind of what I'm,|%
+B|but it's,|%
+B|at the other one my brother's got a Miata|sd
+B|and those are fun.|sv
+A|Oh, those are nice,|sv
+B|And, uh,|%
+A|yeah,|b
+A|they're, they're cute cars|sv
+B|Yeah,|aa
+B|well, he did, he had a, a red Miata,|sd
+A|Uh-huh.|b
+B|and, uh, he actually,|%
+B|they came out with a European racing, green, uh, Miata that's a limited edition,|sd
+A|Oh.|b
+B|they're only going to make like three or four thousand.|sd
+B|So, he went out|sd
+B|and he traded the other one in and got this one,|sd
+A|Wow, I haven't seen those.|sd
+B|and I'm like, um , but, uh, I haven't seen one yet either|sd
+B|but supposedly they have some real wood built in to like the clutch and all this and the steering wheel,|sd
+A|Wow.|ba
+B|so, it's, it's very authentic|sd
+B|and there only is supposed to be limited edition so it may be, may be a good investment.|sv
+B|If it,|%
+A|Oh, yeah,|aa
+A|definitely.|aa
+B|Yeah.|b
+A|If it's a limited edition usually, no matter what it is, if it's a limited edition, it's usually worth something later on.|sv
+B|Uh-huh.|aa
+B|But, uh, I think|%
+B|hello,|qy
+A|Yeah.|ny
+B|okay,|bk
+B|yeah,|%
+B|I got off my pace or my cordless phone, anyway, uh, hope it's not going bad,|sd
+A|Oh.|b
+B|it's going to bump me out.|sd
+B|Um, but he, I think he, he only spent, you know, the low twentys|sd
+B|so, I don't know.|h
+A|Really?|bh
+A|Now, see, I would have never figured that, I would have figured that to be a lot more than that for something that's limited edition.|sv
+B|Well, I don't know,|h
+B|I think the demand's gone all, down a little bit.|sd
+B|I think you can,|sd
+B|the prices aren't as high, you know,|sd
+B|and the, the Miata was first introduced, uh,|sd
+A|And, well , they weren't really that bad though when they were introduced were they?|qy
+B|yeah,|ny
+B|the demand is so, high that, uh, you know, they were going to retail them around like you know, thirteen standard, you know,|sd
+B|and you get your options, your looking at fifteen or fifteen|sd
+A|Yeah.|aa
+A|That's true.|aa
+B|but there were, you know, people were buying them for nineteen and twenty,|sd
+A|Uh-huh.|b
+B|and, um, they, they may have gone down a little bit|sd
+A|Huh.|%
+B|but I,|%
+B|they're still pretty much in demand.|sd
+B|I think there's another car coming in,|sd
+B|it's supposed to come out and compete with that Miata,|sd
+A|Huh.|b
+B|and I can't remember what I read about that|sd
+B|but so, that's ,|%
+B|I mean, I would think somebody would try to compete with that because it is very popular,|sv
+B|so.|%
+A|Yeah,|aa
+A|it really is.|aa
+B|But,|%
+A|Have you seen the new, uh, Dodge Stealth? The, the,  real nice one|qy
+B|Oh, yeah.|ny
+B|yeah,|ny
+B|and the Mitsubishi,  three thousand G T , is the same, same.|sv
+A|Yeah.|b
+A|Yeah,|aa
+A|the Mitsubishi is real nice looking too,|sv
+B|Yeah,|aa
+B|well, that's, that's, that's the same manufacturer|sd
+A|now those are nice|sv
+B|and so , they just market them.|sd
+A|Right.|b
+A|Right.|b
+B|But, uh, yeah,|b
+B|those are and those are supposed to be very performance power, I mean, they're, there is, yeah, big time.|sd
+A|The expensive ones, they have a cheaper model too that you can get for about seventeen thousand,|sd
+A|but those are pretty stripped,|sd
+A|and there's nothing,|sd
+A|there's really,|%
+A|that one's just more for looks, you know,|sd
+A|it doesn't have any, really the performance that the expensive one does.|sd
+B|Yeah.|b
+A|You know, but I've seen one of those,|sd
+A|and it's not that great, I mean, because they really,|sd
+B|I think they're only around, uh, twenty-nine K.|sd
+A|Yeah,|b
+A|like, I mean they have, um, better ,|sd
+A|it's not quite as nice for a little bit less.|sd
+B|Yeah.|b
+A|Yeah,|b^m
+A|they're not really that bad|sd
+A|but I don't know,|h
+A|like I said it's, it's still not practical for me|sd
+A|I have a hard time looking at cars like that because I think, now, there's no way I can do that|sd
+B|Yeah,|b
+B|I'm being single|sd
+B|and no other responsibilities for yourself, I guess, you know, it's, I can, I can, I've been pretty happy,|sd
+A|Right.|b
+B|I've, I've, haven't tried to upgrade myself right now,|sd
+B|that's, uh, you know, I could, I could have, you know, get something nice and upgrade|sd
+B|but I just, uh, I'm consulting right now,|sd
+B|so,|%
+A|Oh, really?|bh
+B|I just made my first job hop about eight months ago,|sd
+B|so.|%
+A|uh ...|%

@@ -1,0 +1,109 @@
+A|I think that, uh, one, uh, advantage of having, uh, the unanimous verdict is that in a criminal case you want to make sure that you don't, uh, convict someone who, uh, really shouldn't be convicted.|sv
+B|Definitely.|aa
+A|Um, and I think that, you know, a unanimous verdict, uh, helps to ensure that.|sv
+A|I guess maybe one drawback of it is that if you have one juror who is very unreasonable in some way, that, uh, you, uh, would have a problem, uh, you know, that you wouldn't convict someone who maybe should be convicted.|sv
+B|Uh-huh.|b
+A|Have you ever served on a jury before?|qy
+B|Uh, I have twice.|na
+A|Oh, okay.|bk
+B|It was a pretty wild experience.|sv
+A|Uh, what sorts of cases were they?|qw
+B|They were just, you know, small time cases where, uh, trailers and banks were involved, you know.|sd
+A|So were they criminal or civil?|qy
+B|They were civil.|sd
+B|They weren't  they weren't any criminal.|sd
+A|Oh, okay.|bk
+A|What, uh, what was the verdict?|qw
+A|Did the, did the jury have trouble reaching a decision?|qy
+B|Uh, the jury, it was, uh, let me see, I think it was ten to one on the jury, because they only had to have eleven people|sd
+A|Yeah.|b
+B|so it was,|%
+B|they,|%
+B|and, uh, the one changed his vote at the end.|sd
+A|So did it become?|qy
+B|So it became unanimous, you know, after they turned it in|sd
+A|Yeah.|b
+B|and then he changed his mind after they turned it in|sd
+A|Uh.|%
+B|but it then became unanimous.|sd
+A|Uh. But since it was a civil case it really didn't matter, right?|qy
+A|You just needed a majority?|qy^d
+B|Right.|aa
+A|What was, what was the other case?|qw
+A|That was also civil?|qy^d
+B|The, the other case was just traffic,|sd
+B|the,|%
+B|and, you know, it was seat belt law|sd
+A|Yeah.|b
+B|and it, it didn't even hardly go through,|sd
+A|Oh, didn't really even count.|^2
+B|so.|%
+A|Yeah.|b
+A|I'm, I'm a college student|sd
+A|so I haven't been, you know, a jury eligible age for very long|sd
+B|Yeah.|b
+A|um, and, uh, I did get one summons actually at one point,|sd
+A|but I declined it which I'm able to do because I'm a student, because it was, uh, a very bad time.|sd
+B|Yeah.|b
+B|Well, you learn a lot going to the juries like that though.|sv
+A|Yeah, I mean, I, I really, I would like to, uh, to do at some point, um,|sd
+A|but, I, I haven't.|sd
+A|Uh, one, one thing that I, I think is, um, you know, maybe is a problem is, uh, I, I think that the criminal jury system works pretty well now,|sv
+A|but I wonder if maybe in some civil cases it doesn't work as well.|sv
+A|Especially sort of.|%
+B|I wouldn't think  that it does I mean, from, from my, from what I experienced in them,|sv
+A|How,|%
+B|it didn't, you know, it didn't turn out the way I planned it, I mean, the way that I would think that it would go.|sd
+A|Uh, you thought it turned out pretty well?|qy^d
+B|Yeah,|ny
+B|but it was, you know, it was,|%
+B|jury was unorganized|sv
+B|and it was, it was just wasn't organized enough for me.|sd
+A|Yeah.|b
+B|I'm not used to it not being organized,|sd
+B|and I just assumed that it would have been.|sd
+A|Oh, so it was just kind of a zoo|bf
+A|and the jurors just sort of,|bf
+A|someone had to figure out what was going on?|qy^d
+B|That's about what it was.|aa
+A|Um. That's interesting.|sv
+A|Did it, did it work out pretty well in the end?|qy
+A|I mean, did a couple of people sort of gradually, sort of assume, uh, sort of a moderator role in the trial|qy
+A|or,|%
+B|Yeah,|ny
+B|they, well they picked one person,|sd
+B|and then he finally, you know, moderated everything and made it turn out the way it should have.|sd
+A|So it it did end up working out pretty well?|qy^d
+B|Yeah,|ny
+B|it ended up working all right.|sd
+A|The one thing I sometimes wonder about, um, in civil cases is, uh, whether, especially sort of in, uh, maybe like product liability, or medical malpractice, where there's, um, sort of a very technical decision to be made sometimes|sv
+B|Yes.|b
+A|you know, it's not just a matter of, um, of, you know, did this guy rip off this guy,|sd
+A|and it's just a matter of interpreting a contract,|sd
+A|it's sort of a matter of, um, you know, sometimes getting into very technical issues,|sv
+A|and I wonder if, uh, if there's really, um, if the system works adequately in, in educating the jurors about, uh, whatever, um, you know, issue is under discussion.|sv
+B|I, I don't think that they, they, they educate them enough to, to really know what's going on.|sv
+A|In, in the case you were involved in, you said it was just sort of a bank matter of some kind.|sd
+A|So.|%
+B|Yeah,|b
+B|the, the bank was suing them for, uh, because they went to get the, the trailer that, which was, uh, seemingly their property.|sd
+A|Yeah.|b
+A|Uh.|%
+B|It was on his property.|sd
+A|Oh, so the deal was that he had, uh, borrowed money from the bank to buy it,|bf
+A|and he hadn't made the payments.|bf
+B|Right.|aa
+B|So they came to get it.|sd
+A|Yeah.|b
+B|And then when they came to get it, well, it was on the landlord's property|sd
+B|and he wouldn't let them take it off.|sd
+A|Uh, so they were suing to get it back.|bf
+B|So, and they are, it was a double wide,|sd
+B|so they'd already taken it apart.|sd
+A|Uh.|%
+B|So they left it there|sd
+A|Yeah.|b
+B|and then when they came back to get it a couple of days later it had rained and got all in it.|sd
+A|Uh.|%
+B|So they were suing him for the money,|sd
+B|and, you know, there's no way they could because it, it was the moving company,|sd

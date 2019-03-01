@@ -1,0 +1,129 @@
+A|Laurie?|qy
+B|Yes.|ny
+A|Okay.|fo_o_fw_"_by_bc
+A|I'm supposed to ask you, how do you make use of your credit cards|sd
+A|and I'm supposed to compare those with my, my habits.|sd
+B|Okay.|b
+B|How do I make use of credit cards?|b^m
+A|Yes.|ny
+B|Um, let's see.|^h
+B|I carry a lot of credit cards with me mostly because I don't ever have cash.|sd
+A|Right.|b
+B|And I I,|%
+B|do you work for Texas Instruments?|qy
+A|No,|nn
+A|I do not.|sd
+B|Okay.|bk
+B|Well, at T I we have to use what's called a tex teller if we want to get cash out|sd
+A|Uh-huh.|b
+B|and those are only available at T I.|sd
+A|Oh, okay.|b
+B|So if I'm in a mall or something I can't get cash out without paying extra money|sd
+B|so I'm always using credit cards.|sd
+A|Sure.|b
+A|Well, myself I always,|%
+A|I'm, I'm a traveling person|sd
+B|Uh-huh.|b
+A|and I'm out of town quite a bit|sd
+A|so I use credit cards quite a lot also as far as everything from service work and gasoline in my car to my lounging, entertainment and for everything.|sd
+B|Uh-huh.|aa
+B|Yeah,|aa
+B|me too.|aa
+A|So that's, uh,|%
+A|as far as using them outside that I'm not, I don't use them too much|sd
+A|but I, I think my wife is sort of like you|sd
+A|she uses a credit card,  most  of the time.|sd
+B|Yeah|b
+A|So she does most of the shopping for our household|sd
+A|so she'll use them more than I will.|sd
+B|Uh-huh.|b
+B|But do you get to pay the bills?|qy
+A|Yes.|ny
+B|Same at my house|sd
+A|So it's me I'm always, I'm the guy that always goes to like Dillard's|sd
+A|and I'll go in and charge something|sd
+A|and I'll have to give them my driver's license.|sd
+A|They'll have to look up the number because I'm never carrying a credit card.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|But I do carry like my American Express and my Visa which I use for, you know, primarily work type things.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|This is my first call by the way,|sd
+A|so|%
+B|Oh, it's mine too.|sd
+A|Oh, is it really?|bh
+B|Yes.|ny
+A|All right|ba
+A|so we're both beginners then.|sv
+B|Yeah.|b
+A|I've had this for a couple weeks|sd
+A|and I've been out of town|sd
+A|so this is my first time to,  to use it.|sd
+B|Oh, okay.|b
+B|Okay.|b
+A|So,|%
+B|Now, did you pick this topic|qy
+B|or were you given?|qrr
+A|No,|nn
+A|I was given this topic.|sd
+B|I see.|bk
+B|Okay.|b
+A|Yeah,|b
+A|they give you, they assign you a topic,|sd
+A|you call the eight hundred number,|sd
+B|Right.|b
+A|Have you tried it yet?|qy
+B|No|nn
+A|Okay.|b
+A|When you call the eight hundred number, they assign you a topic and, uh, pretty, uh, cut and dried|sd
+B|Huh,|b
+B|okay.|b
+B|Um, let's see.|^h
+B|So how long are we supposed to talk for?|qw
+A|I'm not sure.|h
+A|A couple,|sv
+A|about two three minutes I think.|sv
+B|Okay.|bk
+A|But I really don't have too much more to say in regards to credit cards.|sd
+A|I,|%
+A|one thing I've always tried to do is when I get my credit cards, I always try to pay them off because I just sort of detest paying interest.|sd
+B|Oh, yes.|ba
+A|And, uh,|%
+B|Definitely.|aa
+A|like years ago my wife and I got married|sd
+B|Uh-huh.|b
+A|she was the one with a little bit than I was because I had my credit cards, I think, up to the limit|sd
+A|and I was giving everyone ten dollars a month and everything like that.|sd
+B|Oh.|b
+B|That will cost you a fortune.|sv
+A|That was like thirty years ago|sd
+A|so now it's a little different.|sd
+A|We,|%
+A|I get a bill|sd
+A|and I'll pay it the same day it comes|sd
+B|Yes,|b
+B|yes.|b
+A|and I just kind of tell my kids how much I hate paying interest|sd
+A|so they should follow the same rule.|sd
+B|That's right.|b
+B|Well, yeah,|b
+A|Oh, you bet it's|ba
+A|it's an absolute savings.|sd
+B|Or if you travel for work and you get your reimbursement before the bill comes in,  you get to  keep the money.|sd
+A|You bet.|ba
+A|That's, that's very handy.|sd
+B|Yeah.|aa
+B|It works great.|aa
+A|Well, I think that's all I have.|sd
+B|Okay.|b
+B|Well, it was nice to meet you.|fc
+A|Nice to meet you|fc
+A|and, uh, give it a try.|fc
+A|I think you'll enjoy it.|fc
+B|Okay.|fc
+A|Okay.|fc
+B|Thanks.|fc
+A|Thank you.|fc
+B|Bye-bye.|fc
+A|Bye.|fc

@@ -1,0 +1,371 @@
+A|Well, I think health care is real important, and dental coverage,|sv
+A|but I guess medical insurance is probably what I consider the second most important.|sv
+B|Yeah,|aa
+B|I agree on that.|sd
+B|And, you know, it seems|sv
+B|compared to what we, our salary is versus what our health care is, our health care keeps increasing, increasing, increasing and not to the same rate as our pay|sv
+A|Uh-huh.|b
+A|Right,|aa
+A|right.|aa
+A|I know|sv
+A|no matter what you do about that, yeah, unless you're like a Senior V P or something which I am not|sv
+B|Right.|b
+B|Me either|sd
+A|Yeah,|b
+A|I know.|sd
+A|It's, um,|%
+A|I don't know.|h
+A|And then when you interview for a job or something sometimes people, um, expect the benefits to take the place of a certain salary level.|sd
+B|Uh-huh.|b
+A|You  know, they'll say maybe we'll pay you X amount annually,|sd
+A|but then we, you know, ten percent to fifteen percent more are your benefits|^q
+A|and if you're like,|sv
+A|are you married?|qy
+B|Yes.|ny
+A|Um, like my husband works,|sd
+A|and I do|sd
+A|so I don't take some of,|sd
+A|I have certain things that I take,|sd
+A|and he has other things he takes.|sd
+B|Right.|b
+A|So I mean in that kind of situation it's really almost, redundant, you know,|sv
+B|Uh-huh,|b
+B|yeah.|b
+A|You know  that some of the benefits, I would rather have, um,  money.|sd
+B|Money  instead.|b^m
+A|Yeah,|b
+A|more money, actually, um,  Or  flex time or something that was a little more personal, you know.|sd
+B|Yeah.|b
+B|Right.|b
+B|I feel the same way, actually.|sd
+B|Um, we don't use any of T I benefits other than I, I buy bonds and, and, um, that's it|sd
+B|because,|%
+A|You don't use,  you don't use the medical insurance?|qy^d
+B|Not at all.|ng
+A|You use your, your company's?|qy^d
+B|My husband's,|na
+B|yes,|ny
+B|we use my husband's.|sd
+A|Where does he work if you  don't mind me,|qw
+B|He,  he works for Bramalea Company,|sd
+B|and they pay one hundred percent.|sd
+B|Not one dime is deducted from his check.|sd
+A|Oh, you're kidding.|ba
+A|What's the name of that company|qw
+B|Bramalea.|sd
+A|What do they do?|qw
+B|It's a security company|sd
+B|and, and building, they own a lot of buildings and lease buildings.|sd
+A|Uh-huh.|b
+B|And,|%
+A|Are they  a big Company|qy
+A|or,|%
+B|Yeah,|ny
+B|actually they're from Canada.|sd
+B|They're Canada based.|sd
+A|Uh-huh,|b
+A|that's, see, that's probably why cause Canada has the, the, um, government run health care systems, social medicine.|sv
+B|Uh-huh.|b
+A|And you don't pay them. If you live there,|sd
+A|it's like Europe.|sd
+A|You don't pay a dime.|sd
+B|Right.|b
+A|You know?|^g
+B|Right,|b
+B|yeah,|b
+B|it's all taken care, Yeah, but our prescriptions and everything, our visits to the doctor, our hospitalization,|sd
+A|Sounds wonderful.|ba
+B|the only thing we pay for is if if something happened, an emergency, and we had to have an ambulance,|sd
+B|it's twenty-five dollars.|sd
+B|I mean that's nothing.|sv
+A|Yeah,|b
+A|if I were, him, I'd tell him make sure he stays there.|sd
+B|Really,|aa
+B|yeah,|aa
+B|well, T I was getting, for the both of us, it was like seventy-five dollars a month.  You know, deducted for an H M O,|sd
+A|Oh, my goodness.|ba
+A|Yeah,|b
+A|yeah,|b
+A|I don't work at T I.|sd
+A|My husband works at T I,|sd
+A|but, um, I work for E D S,|sd
+A|but it's like, um,|%
+A|You know they're both|sv
+A|basically, E D S is a little bit better than T I|sv
+A|but,  Um,  and we take my dental, my dental, his medical.|sd
+B|Uh-huh.|b
+A|And the medical is just, I mean, I think it's terrible, you know?|sv
+B|Uh-huh.|b
+A|twenty,|%
+A|but they're, then they're getting ready to change it again for Aetna.|sd
+B|Okay.|b
+A|Um, I don't know.|h
+A|I just don't think companies, um, they want you to feel responsible and don't abuse the medical system|sv
+A|and, you know,  Um,  T I just did the thing where, with the smoking premiums.|sd
+B|Uh-huh.|b
+A|We don't smoke,|sd
+A|but did you, do you know about the smoking premiums?|qy
+B|Oh, yeah,|ny
+B|yeah.|ny
+A|Yeah,|b^m
+A|do you  guys smoke?|qy
+B|We don't either.|ng
+A|Oh, yeah.|b
+B|Neither one of us do.|sd
+A|But then,  you  know, like a lady in my office said, she said her husband works for T I, too.|sd
+A|And she said what about the people that are walking around,|sd
+A|and I hope,|sd
+B|Uh-huh.|b
+B|Right.|b
+B|Yeah.|b
+A|You know, who's going to croak first? The people that smoke or, you know?|qh
+B|Uh-huh.|b
+A|Seems like,  an  unnecessary penalty,|sv
+B|Exactly.|aa
+A|yeah.|%
+B|Yeah.|b
+A|I mean  I'm not all for smoking at all,|sd
+A|but I just, you know,  I  don't how they can do it.|sd
+B|Uh-huh.|b
+B|Yeah.|b
+A|Carte blanket .  *listen: probably closer to "carte blanche"|sd
+B|Exactly.|aa
+A|Yeah.|b
+A|Uh-huh.|b
+A|Uh-huh.|aa
+A|Or something.|h
+A|Yeah,|%
+A|it's like, stupid,|sv
+A|but, That's why I'm not a boss, I guess|sv
+B|I don't know.|h
+B|Yeah.|b
+A|I mean I don't know, um.|h
+A|What other, what other type of benefits do they have that, I mean, Canadian based companies .|qw
+A|They have to be a little bit different than the American, um.|sv
+B|Yeah,|aa
+B|they are as far as their like pension plans ,|sd
+A|Uh-huh.|b
+B|they're  vested a lot earlier.|sd
+B|I think at T I, it took five years.|sd
+A|Yeah,|aa
+A|T I is at least, five years,|sd
+A|yeah.|%
+B|Five to seven.|sd
+A|Yeah.|b
+B|And  they're vested after their first year. totally vested.|sd
+A|Oh, my goodness.|ba
+B|And they have the four one K and the usual benefits like that, uh.|sd
+A|Uh-huh.|b
+A|That's kind of nice.|ba
+A|Yeah,|%
+A|T I has that,|sd
+A|but that's a pretty standard thing anymore.|sv
+B|Right,|aa
+B|right.|aa
+A|You know,  um, um, your husband's company probably matches more than T I, though.|sv
+B|No,|ar
+B|they match the same amount.|sd
+A|Oh, they do ?|br
+B|Yeah,|ny
+B|well, they match four percent which is the same,  You know, fifty  percent or four percent. *listen; particularly nonsensical|sd
+A|Yeah,|aa
+A|it is.|sd
+A|That's still pretty good, though. I mean the fact that your vested that quickly in the pension.|sv
+B|Uh-huh.|b
+A|Yeah,|%
+A|I know, um,|sd
+A|E D S has eight years?|sd
+A|I think E D S has seven to, to eight years.|sd
+B|Uh-huh.|b
+A|So  it's like T I in that respect, you know?|sd
+B|Yeah.|b
+A|And, and, I mean, and I'm working for a company that's making money|sd
+B|Yeah.|b
+A|You  know,  E  D S has a cash flow problem as they say but,  um,  not E D S, T I, um,|sd
+B|Yeah.|b
+B|Uh-huh.|b
+A|but I, I don't know.|h
+A|I think everywhere they just need to sit down and hire some people, the grunts, as I call them, like myself to tell them,|sv
+B|Right.|b
+A|yeah.|%
+A|I mean,  I  don't know,|h
+B|It's,|%
+A|but if I were to rank them, I guess I would say next to income it's really just health benefits.|sd
+A|And then, um, for most people I know it would be day care|sd
+A|like T I has,  no  day care.|sd
+B|Right.|b
+B|Yeah,|b
+B|that, and I know that's a big issue|sd
+B|because I, I belong to a women's forum group.|sd
+A|Uh-huh.|b
+B|And some of the questions we're getting are, are on site day care and things like that.|sd
+A|Uh-huh.|b
+B|That they consider a very serious benefit.|sd
+B|And I can't tell you anybody right now at T I that's, uh, considering that.|sd
+A|Oh, I don't,|%
+A|I would, think so,|sd
+A|yeah|%
+A|because,|%
+B|They should be though.|sv
+A|Yeah,|aa
+A|they really should because they're big enough, um,|sv
+A|and the other thing I think is really good is that E D S is much better than T I at, I think, right now than, that we have day care, um, they, uh, the health, the health program like T I has Texans?|sv
+B|Uh-huh.|b
+B|Right.|b
+A|But it, I don't think it, that it's developed as much as it could be for the size company as T I.|sv
+B|Right.|b
+A|I mean if you ever walked into E D S health, corner court health clubs on site and you walk into Spring Creek, well, Spring Creek's better than the one on Dallas Parkway|sv
+B|Uh-huh.|b
+A|but,   I mean,   yeah.|h
+B|Yeah,|aa
+B|a lot better.|sv
+B|E D S  is is better than Spring Creek?|qy^d
+A|Oh, it's really nice,|sv
+A|yeah.|ny
+B|Oh,  man.|ba
+A|You know,  instead of like six, um, treadmills, you've got like twenty.|sv
+B|Yeah.|b
+A|And E D S can't even compare in size. In terms of the number of employees.|sd
+B|Oh, yeah.|b
+B|People,|bf
+B|yeah.|%
+A|So I, don't know.|h
+A|I guess it's just where they, um, and like E D S reimburses you for adoption.|sd
+B|Oh, I see.|b
+A|And T I  doesn't have anything like that.|sd
+B|Right.|b
+A|You know, so I guess I, I wish the companies like T I and a lot of others were more progressive in that respect|sv
+B|Yeah.|b
+A|so,|%
+B|That's  good.|ba
+B|That's a, that's a fortunate benefit, you know, that they're so active for their employees.|sv
+A|Yeah.|b
+A|Yeah,|b
+A|and there's, I mean they have some strange things.|sv
+A|I mean they have very strange like dress codes|sv
+A|and, you know.|%
+B|Um,  uh-huh.|b
+A|Um,  you can't wear slacks at the corporate site and that kind of thing unless you're in a, you know,|sd
+B|Right.|b
+A|but it doesn't, there aren't manufacturing environments because of the type of company it is.|sd
+B|Uh-huh.|b
+A|Um, I don't know.|h
+A|I, I guess I also wish that, uh, companies would look more at cost of living increases instead of just merit reviews.  Yeah,|sv
+B|Yeah.|b
+B|Me, too.|aa
+B|Me, too,|aa
+B|because, you know, with utilities and, and homes that are, uh,|sd
+B|price of homes have went up drastically.|sv
+B|Like an average house is now a hundred and thirty  thousand.|sd
+A|exactly.|aa
+B|And that is unreal,  because we've  got people out here that are just poverty level.|sv
+A|I know.|aa
+B|But then we've got these million dollar homes|sd
+B|so you know, where do you find a happy medium?|qh
+A|I know.|aa
+B|And how does your salary deal,  with  that?|qh
+A|Uh-huh.|b
+B|It's not.|sv
+A|Uh-huh,|b
+A|and I mean,  I mean, I don't know how you and your husband are, too,|sd
+B|It's just not doing  it.|sv
+A|but I mean we have friends that laugh at us|sd
+A|and we, I clip coupons.|sd
+A|And I said, hey, I'll probably do this even if I'm a millionaire which I won't,  ever be.|sd
+B|Yeah|b
+B|Yeah|b
+A|But, I mean, it's like,|sv
+A|because you just can't,|%
+A|I mean, it seems like every time you try to get ahead and take a vacation or something well, the car insurance is due|sv
+B|Uh-huh.|b
+B|That's true.|aa
+B|That is exactly where  we are.|sd
+A|I mean,|%
+A|yeah.|b
+B|It's so strange|sv
+A|I know.|aa
+A|I don't know what we're going to do about,|sd
+B|Common problem.|bf
+A|Yeah,|aa
+A|you,  want to  rob a bank?|qy
+A|No,|fo_o_fw_"_by_bc
+A|I didn't say that.|sd
+B|Yeah,|b
+B|really.|ba
+A|I didn't say that on this line.|sd
+A|I don't know.|h
+A|What else about corporate benefits?|qw
+A|I can't think.|sd
+A|It's probably been too hot today for either of us to,|sv
+B|Uh-huh.|b
+A|Um, kind of nice to talk to somebody in Dallas.|sv
+A|Usually people are all over the country.|sd
+B|Right,|b
+B|yeah,|b
+B|and I think Dallas, as far as, um, economic uncertainty, is better than what most of the country is.|sv
+A|This is true.|aa
+B|So somehow, we're better off than a lot of them.|sv
+A|Uh-huh,|b
+A|and that doesn't definitely make it any better.|sv
+A|It's,  just something  you have to keep telling yourself, you know, that, um, that's what I want, that, uh, you know,|sv
+B|No|aa
+A|people are lucky to have jobs,|sv
+A|and people are lucky to have any kind of benefits.|sv
+B|Uh-huh.|b
+A|When you see people that don't have, um, anything but H M O or, you know, I mean really can't even afford to get in a job that costs,|sd
+A|like, we had a guy fixing our air conditioner.|sd
+A|And he said he didn't even make ten dollars an hour,|sd
+A|and he has three kids.|sd
+A|And I went, oh, you know, that has to be rough.|sd
+B|Uh-huh.|b
+A|Um, but benefits,|%
+A|I don't know.|h
+A|I guess, I guess one thing I'd like to see, too, and I, I don't know how T I is about this, but I'd like to see, um, employees rank and file be able to contribute more to their, um, the execution of their job.|sv
+B|Yeah.|b
+A|You know.|%
+B|Empowerment issues.|bf
+A|Right yeah,|aa
+A|that's a good word for it, um.|sv
+B|Right.|b
+A|How is T I in that mode?|qw
+B|Well, very well, um,|sv
+B|it's slow, though.|sv
+A|Uh-huh.|b
+B|At least they're making the effort to put it out there and make it available and and, cultural change within the management first.|sd
+A|Uh-huh.|b
+B|And now it's kind of filtering down to the peon level.|sd
+B|But, uh, I think they're really trying.|sv
+A|Uh-huh.|b
+B|It's going to take years, though.|sv
+A|Yeah.|b
+B|I mean it's just, it's that mind-set,  has to change,|sv
+A|All part of a good old boy network,|bf
+A|yeah.|%
+B|yeah.|aa
+A|Uh-huh.|b
+B|Yeah.|b
+A|E D S is, oh, they're better,|sv
+A|but they're a little bit too, um, stiff collared in terms of, you know, what you want to do.|sv
+A|They're pretty much put the, if that's where the widget goes, stick it in the hole, you know.|sd
+B|Yeah.|b
+A|They're kind of formula oriented.|sd
+B|Doesn't want to change.|bf
+A|Yeah,|aa
+A|and, and you can't really argue with them because they've always been successful|sv
+A|so, You know, what can you tell them|qh
+B|Right.|b
+B|Yeah.|b
+A|Really.|ba
+B|Yeah.|b
+A|Well, I guess that's what I know about benefits.|sd
+B|Okay.  Yeah,|b
+A|Okay|b
+B|me, too.|aa
+B|good talking to you.|fc
+A|Good talking to you|fc
+A|and keep cool.|fc
+B|Thanks.|fc
+B|Okay.|fc
+B|Bye-Bye.|fc
+A|Okay.|fc
+A|Bye-Bye.|fc

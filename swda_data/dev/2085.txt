@@ -1,0 +1,199 @@
+A|Hi.|fp
+A|How are you doing?|fp
+B|What,|br
+B|I couldn't hear you?|sd
+A|I said, how are you doing?|fp
+B|I'm doing fine.|fp
+B|I'm, uh, just editing a spreadsheet right now.|sd
+B|I'm trying to figure out how I can retire without having to work until I'm ninety-five.|sd
+A|Yeah.|b
+A|We've been doing that too|sd
+A|We're trying to retire in our fifties.|sd
+B|Yeah.|b
+B|This is a very appropriate topic for our, uh, conversation today because what I'm figuring out is that I'm going to have to put in a lot more money than what I'm making|sd
+A|Good luck on that one, then.|fo_o_fw_"_by_bc
+B|What is that?|br
+A|I said good luck on that one, then.|sd
+B|Well, we've got a pretty good situation, my wife and I, since our property is already paid for.|sv
+B|You know, the main things that I like about the uh, in the job benefits would be the, uh, the availability of the health insurance and the availability of, uh, you know, being able to transfer around, inside the organization without having, you know, when they cut off a system and they don't just can everybody that is working on it, like some companies I know of.|sd
+A|Huh-uh.|b
+B|You know, they give you an opportunity to either transfer into an on going, on going project.|sd
+A|So you work for it T I then|qy^d
+A|You can't say?|qy^d
+B|Yeah.|ny
+A|Yeah.|b^m
+B|What?|br
+A|Yes,|ny
+A|you do.|sd
+A|Well, I work for D I S D|sd
+A|and I don't know what your talking about when you say health insurance,|sd
+A|but Dallas doesn't pay.|sd
+A|It pays most of mine, you know,|sd
+A|now, after you work I think five years, they begin to pay most of it.|sd
+A|But then, for the, the family, you know, I put my kids on my policy.|sd
+A|It's like two hundred dollars|sd
+B|Huh-uh.|b
+A|and it's gone up quite a bit|sd
+A|and they predict, you know, of course, it's going to keep going up.|sd
+A|I wish they could go on and pay for all of our coverage, at some point.|sd
+A|And benefits, you know,|sd
+A|I'd like to see child care paid for or on-site child care sometime.|sd
+A|I think that would be a ,|sd
+B|Huh-uh.|b
+A|and it would make women go to work sometime if they knew their kids were being taken care of.|sv
+A|They could go visit them during the day.|sd
+A|What?|^g
+B|Yeah|b
+B|that's uh, something I hadn't really thought about because we don't have children.|sd
+B|But, I can see how it would be a a real benefit.|sd
+B|Yes|ny
+B|I do.|sd
+A|Well, we keep a shelter, also monies that we're going to pay in for child care too.|sd
+A|You know, go on and pay a lump sum|sd
+A|and as long as you pay that amount you're okay.|sd
+A|But if you paid in more than you actually used, and the same thing for insurance, what you predict your going to be paying for insurance, as long as you pay, actually pay out that amount of money, you're okay.|sd
+A|But if you pay out less, then you lose that money.|sd
+B|Um.|%
+A|I don't like that part,|sd
+A|but you don't have to do that option if you don't want to.|sd
+B|Well, that could be, I could see where that would be important.|sd
+A|And then we got that cafeteria plan,|sd
+A|do you have that?|qy
+B|No.|nn
+A|No.|b^m
+B|I don't know what it's about .|sd
+A|You can, uh,|%
+A|well you,|%
+A|let's see, it, it shelters you're money that you pay for, for insurance.|sd
+A|It takes it out of your salary before taxes.|sd
+B|Oh, okay.|b
+B|Yeah,|ny
+B|yeah|ny
+B|we got that.|sd
+A|Okay.|b
+B|Pretax insurance?|bf
+A|Yeah.|aa
+B|Yeah.|b^m
+A|But we call it the cafeteria plan,|sd
+A|I wonder why.|sd
+B|Um?|br
+A|I said, I wonder why.|sd
+B|Oh, it's probably what the first guy who did it, called it.|sv
+A|Cafeteria?|fo_o_fw_"_by_bc
+B|Yeah.|b
+B|He was probably in the cafeteria when he thought of it|sv
+A|Maybe|aap_am
+A|so. Let's see what else can we do?|qo
+A|Changes,|%
+B|I'll tell you what we could do.|sd
+A|What?|qw
+B|We could prohibit people from being hired that are historically going to cost the company money. You know, do a little bit better research on who gets hired|sd
+A|Uh-huh.|b
+B|Because you know,|%
+A|You mean, like for health insurance?|bf
+B|Well, not only just health insurance, I mean for the whole benefit of the company.|aap_am
+B|See, I look at it this way. If the company folds, I got to go find a job.|sd
+A|Yeah.|b
+B|Okay.|b
+B|Now, if we got somebody in a position to affect the way the company performs, just about anybody in the company, and they're not doing their job or they're not capable of doing their job, then we should find a place to put them or you know, boot them out.|sv
+A|Well, that's easier done in a company than it is in, uh, school teaching.|sv
+B|Well, frankly, I think school teachers ought to get about ten times what they're getting paid.|sv
+A|Thank you|ba
+B|What?|br
+A|I said, thank you.|sd
+B|Oh.|b
+A|We're both school teachers.|sd
+B|Oh, I'm, I'm,|%
+A|But it's hard to get rid of a teacher if they're not good.|sd
+B|I know.|sd
+A|It's almost impossible.|sd
+B|Well, there's two schools of thought on that.|sd
+B|You know, I, I'm looking at trying to get into a university job position as a a professor|sd
+A|Huh-uh.|b
+B|I got about eight years of education ahead of me before I can do that|sd
+A|Um.|%
+B|but, once you get that job with the university, you've got ten years of probation.|sd
+A|Huh-uh.|b
+B|Then you have tenure.|sd
+B|And they can't fire you.|sd
+A|Huh-uh.|b
+B|Well, you know, in a situation like that, I don't know if that's good or bad.|sd
+B|I do know that I've had tenured professors that were just sorry.|sd
+A|Right.|b
+B|And I've also had tenured professors that were the best things on two legs.|sd
+A|Well, they did away with tenure in teaching along time ago, you know, in the public schools.|sd
+B|But in addition.|%
+A|It makes you more at ease.|sd
+A|You know, you knew you weren't going to lose your job unless you really did something horrendous.|sd
+B|Well, they, they really can't fire you without cause,|sd
+B|you know the governments taken care of that,|sd
+B|but, um, what I'm looking at is, you know, there are a lot of teachers that aren't getting paid what they need to be getting paid,|sv
+B|and there are some teachers out there that aren't worth having around as janitors.|sv
+A|Right.|b
+B|You know, and I could see a point protecting someone's position,|sd
+B|but, on the other hand, I don't think it, you know, that someone that teaches, uh, say shop, for instance, should have to have degree at all.|sv
+A|Well they don't.|sd
+B|Well.|%
+A|In some places they don't.|sd
+B|In some places that don't.|sd
+A|Do they?|qy
+B|But, you know, you, you get specialized education now, for instance, take computer science.|sd
+B|We've got kids twenty years old, right now, that could beat any computer professor at micro computer applications.|sv
+B|I know we could.|sv
+B|And these people can't even get jobs doing anything besides digging ditches, because there's no comprehensive test that they can take, that would allow them to, to step into that position without having to go through the rigamarole of college.|sd
+A|Yeah.|b
+B|You know, I went to college late on in life|sd
+B|and I realize that hey, it's nothing but four years of endurance|sd
+B|and you might be teachable,|sd
+B|you know what I mean?|^g
+A|Yeah.|ny
+B|I mean, my agree is absolutely worthless. *listen; agree is probably degree|sv
+B|It's my experience and, and my knowledge that, that is beneficial,|sv
+B|but then, you know, like I said, I came in backwards.|sd
+A|What did you get your degree at?|qw
+B|Industrial Marketing.|sd
+A|And what's your job now?|qw
+B|Well, actually I'm selling computer software.|sd
+B|But, the two are mutually exclusive. Because, the, the experience that got me the job that I got now, was my experience in the construction field, prior to going to college not my degree, which is I think kind of bizarre.|sd
+A|Huh-uh.|b
+A|Maybe.|aap_am
+A|All right,|%
+A|what else could we change?|qo
+A|Oh, I'd like to see flexible hours. And teaching, shared, job sharing, more of that.|sd
+B|Well uh, We've, we've, we've already got that.|sd
+A|Well, see, we've got a little bit of it, but not much.|sd
+A|It would be nice if you had full insurance coverage if you were doing job sharing.|sv
+A|What else.|t1
+A|I'd like to be able to, to evaluate your boss|sd
+A|and it really carry some weight,|sd
+A|and you get to choose your boss.|sd
+B|Well,|%
+B|yeah.|b
+B|Supervisor evaluations have always been a tough one. Especially in my line, because, you know, my supervisor has nothing to with my job, except to make sure I get my check.|sv
+A|Huh-uh.|b
+A|Well, so you get to evaluate him though?|qy
+B|Well, not really.|ng
+B|You know, I mean, there's, what's to evaluate about him, you know,|qh
+B|I mean, my, my, supervisor level is like practically zero.|sd
+B|I run the whole show.|sd
+B|And when I need something, I tell my boss|sd
+B|and he gets it for me, because he knows, that I know, what I'm doing.|sd
+A|Yeah.|b
+B|You know, and uh, that, that is something that I think needs to be expanded on, specially in the large market place. You know, the major corporation, because so often, you know, you get a guy who's got eight or nine or ten people working for him in separate areas so to speak.|sv
+A|Yeah.|b
+B|You know, it's, it's hard for me to, you know, especially since I'm in marketing sales, you know,|sd
+B|I make more than my boss. Because he's salary and I'm not.|sd
+B|I make as much as I earn.|sd
+B|You know, if I don't make a sale, I don't make anything|sd
+A|Huh-uh.|b
+B|Yeah.|b
+B|Well it's tough,|sv
+B|but, uh, you know, there are requirements, and quotas, what not, for me to make,|sd
+B|but, um, the bottom line on, on that kind of thing is, you know, we have a lot of people, especially in major corporations, who aren't doing a damn thing.|sv
+B|They're just there.|sv
+B|You know, the work they do could be totally eliminated,|sv
+B|and not that they aren't worth or not that they aren't trying or anything. But, it's just that their jobs are useless.|sv
+B|Take, for instance, um, a large construction company I used to work for. Ed Swampers.|ad
+B|Swampers is a guy, who's in the union.|sd
+B|He's a laborer.|sd
+B|And he's assigned to,|sd

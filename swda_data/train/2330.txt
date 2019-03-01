@@ -1,0 +1,100 @@
+A|There we go.|fo_o_fw_"_by_bc
+B|Yeah.|b
+B|Well, uh, I think the weather lately has been a bit warmer than I would expect this time of year.|sv
+A|I think that's true.|aa
+A|The, uh, the Bermuda grass is greening up in March,|sd
+A|and sometimes doesn't really start doing that until the first part of April.|sd
+A|So. So I think we're a little ahead of schedule on that.|sv
+B|Yeah.|b
+B|Yeah,|b
+B|I was out in my yard yesterday afternoon,|sd
+B|and I noticed all that grass coming up,|sd
+B|and I thought, ooh,|sd
+B|we've got to start this mowing bit soon|^q
+A|That's true.|aa
+A|It's been a, a fun break,|sd
+A|but the break is over.|sd
+B|Yeah.|b
+B|Well, um, oh, I guess another thing I've noticed, too, here lately is that even though we've had some pretty warm days, it's been awfully gray, you know, just,|sv
+A|Yeah,|b
+A|now, the last couple of weekends have been nice and sunny.|sd
+B|Yeah.|b
+B|But it seems like every time at work I look out my window it's gray|sd
+A|Well, yeah,|b
+A|but I'd rather have a sunny weekend than a gray weekend.|sv
+B|Oh, I go for that,|aa
+B|yeah.|aa
+A|Yeah.|b
+B|In fact, I'm a little worried about this one coming up here.|sd
+B|We have a long weekend|sd
+B|and, it sounds like it's going to be a little bit on the cool side.|sd
+A|Yeah.|b
+A|I haven't heard whether it's going to rain or not.|sd
+B|I think there's an eighty percent chance this evening,|sd
+B|but it's supposed to be cleared out at least by noon tomorrow|sd
+B|and then the rest will be without rain.|sd
+A|Well, that's good.|ba
+B|But I think the highs are going to be in the sixties, and the lows in the forties.|sd
+B|That's getting back to a little bit chillier.|sd
+A|Yeah,|b
+A|that probably is a little bit under what it is for this time of year.|sv
+A|I think,|%
+A|I haven't seen the the weather on the news in the evening lately,|sd
+A|but I think the average high would be, should be about seventy.|sd
+B|Yeah.|b
+B|I'm not certain either,|sd
+B|but you're probably right.|sv
+A|Yeah.|b
+B|Well, I like it when it's sort of a medium temperature, uh, maybe seventy-five to eighty, somewhere in there.|sd
+B|I don't like it when it's too cool or too warm.|sd
+B|I'm much more apt to get things done when it's at that sort of in between temperature.|sd
+A|Yeah,|aa
+A|that's true.|aa
+A|Um, one of the remarkable things about the weather in the summertime here is that quite often the average daytime high of say ninety-nine degrees is within five or six degrees of the all time record high.|sd
+B|Um.|b
+A|And what that tells me, is that the summer weather is very predictable, that it doesn't vary very much.|sv
+B|Yeah.|aa
+B|You're probably right.|aap_am
+A|I mean, any other time of year, that's not the case, because it could be very warm or very cold.|sd
+B|Yes,|b
+B|as a matter of fact, I heard the weather the other day on T V|sd
+B|and I think it was one day this week a year ago|%
+A|Uh-huh.|b
+B|they said that we had a freeze and some kind of bad weather. You know|sd
+A|Right.|b
+B|it wasn't just a super bad storm,|sd
+B|but it was it was that sort of thing that we never like to see in the, the late spring time.|sd
+A|Right.|b
+A|Yeah.|b
+A|One of the weirdest things I saw, I think it was around this time last year was a twenty-six degree lightening storm.|sd
+B|Oh, wow.|ba
+A|I, you know, I was going into the grocery store,|sd
+A|and a, a lightening bolt was almost directly overhead,|sd
+A|and it was six degrees out.|sd
+B|Um.|b
+A|And I thought, Well gee, I've, I've never known it to lightening at that temperature.|sd
+B|Yeah,|aa
+B|that, that is pretty unusual.|sd
+B|And you really take notice of it, too.|sd
+A|That's right.|aa
+A|It, uh, it probably was a lot warmer up high.|sv
+A|Sometimes they get those inversions, like when we had that twelve and a half days a few years ago that it never got up as high as freezing.|sd
+A|The air temperature at five thousand feet was fifty degrees.|sd
+B|Um.|b
+A|The cold weather was just simply trapped along the ground and couldn't get away.|sd
+B|Wow.|ba
+B|I don't, don't like that super cold stuff.|sd
+A|Nope.|aa
+B|I just don't move very well when it's that cold.|sd
+A|Yep,|aa
+A|I, I'm really enjoying this now.|sd
+A|Well, this has been interesting.|sv
+B|Yeah, well.|aa
+A|Not too challenging to the brain.|sv
+B|Not, not a real in depth topic, but enjoyed talking to you.|sv
+A|Nope.|aa
+A|All right, Ellen,|fo_o_fw_"_by_bc
+A|well you have a good day.|fc
+B|Okay.|fc
+A|Bye.|fc
+B|Bye-bye.|fc

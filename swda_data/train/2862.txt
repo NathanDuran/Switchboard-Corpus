@@ -1,0 +1,225 @@
+A|Well, did you get a chance to watch any of the games?|qy
+B|Uh, no,|nn
+B|I, I just kind of, I, I kind of watch them on the news|sd
+B|and that's about it.|sd
+A|Oh, okay|bk
+B|Uh, the, Michael Jordan's on Chicago Bulls isn't he.|qy
+A|Yeah.|ny
+B|What, did he get hurt last night|qy
+B|or,|%
+A|No,|nn
+A|I don't think so|sd
+A|because, uh, I saw just a little bit of the game today|sd
+A|and he was out there playing.|sd
+B|Oh, okay.|bk
+A|Although, uh, I, what I saw was at the end of the first quarter,|sd
+A|I think he only had like eight points at the end of the first quarter,|sd
+B|Uh-huh.|b
+A|they thought that was big news.|sd
+B|Oh, yeah.|b
+A|So, I don't know,|h
+A|but I don't know who won,|sd
+A|and, uh, I don't know,|h
+A|who do you normally pull for, the, the Mavericks or,|qy
+B|No,|nn
+B|I kind of feel like the, about the Mavericks the way I do about the Cowboys now.|sd
+A|Oh, yeah?|bh
+B|Yeah.|ny
+B|Uh, just all this Roy Tarpley stuff|sd
+B|and, and, uh, what is it|t1
+B|their, you know, he got, he's in trouble again down in Houston|sd
+B|and, and, uh, they said the other night his contract is so big that if anything happens to him, you know, if they don't trade him, they'll have to pay him off, you know.|sd
+B|So they're rather have him, except that he gets in trouble all the time and falls off the wagon, and, and, and have some chance of him playing, you know, earning his money.|sd
+A|Oh, jeez.|ba
+A|Yeah,|%
+A|because that's just dollars right out of the franchise.|sv
+B|Sure is.|aa
+A|Oh, man.|ba
+A|Now I, uh, I, I've always been pulling for the Lakers for a long time.|sd
+B|Oh, yeah.|b
+A|And, uh,  not just,  not just because they always win,|sd
+B|They're consistent.|sv
+A|but, uh, when they had, uh, Akeem anybody who was old as that playing that well, you know, I just kind of had to go with them.|sd
+B|Uh-huh.|b
+A|Now they kind of got caught up with a lot of the other players and, uh, course, uh, all the people that follow the Lakers and everything out there in, in California.|sv
+A|Uh, and it also helps when they were winning|sv
+B|Yeah.|aa
+B|Well, they play better as a team than anybody else, seems like.|sv
+A|I was, uh, I always wondered that, you know,|sd
+A|I, I will take a look at the individual score, you know, in the individual stance in the N B A|sd
+B|Uh-huh.|b
+A|and, you know, they, they have in the paper, you know, like fifteen different categories|sd
+A|and they'll have, like, a individuals, uh, they'll have the, the highest scorer, the top rebounders, uh, assists, foul shooting percentages and all that,|sd
+A|and you go down through|sd
+A|and virtually every one of the categories there isn't, uh, a Laker in the top ten|sd
+A|usually hardly any, any, anybody in the top twenty except for, like, Magic|sd
+B|Uh-huh.|b
+A|and, uh, yet the Lakers continue to win.|sd
+A|So, you're right,|aa
+A|I think they do really play much better as a team than they do, uh, uh, each one, you know, individually at their spot|sv
+A|But, uh,|%
+B|Yeah,|aa
+B|year in and year out, it's not like they have, you know,|sv
+B|a lot of teams will, will, will win in the playoffs|sv
+B|and then the next year they'll be all they'll be too busy doing their endorsements and stuff, to, to concentrate on the game.|sv
+A|Yeah.|b
+A|Well, I understand that, uh,|ba
+A|I guess Boston's really, uh, giving, uh,|%
+A|are, aren't they playing Detroit?|qy
+A|I think Boston's playing Detroit|sd
+A|and I think they're really giving them a run for their money.|sv
+B|Yeah,|aa
+B|except Larry Bird's hurt.|sd
+A|Did he get hurt again?|qy
+B|He, his back is bad all the time now, I think.|na
+A|Yeah,|b
+A|yeah.|b
+A|I tell you what,|^h
+A|I guess it's tough to play that many games and still stay healthy.|sv
+B|Yeah,|aa
+B|they play two or three times a week. Like, you know,|sd
+B|and then they go on road trips|sd
+B|and they do the same thing|sd
+B|and, and then they, and then they stay out for two or three weeks at a time.|sd
+B|So, it really gets, you know,|%
+B|I mean they're sleeping in different bed every night|sv
+B|and and I imagine that really helps his back.|sv
+A|Yeah,|b
+A|yeah.|b
+A|He ought to have his own bed come along with him, you know|sv
+B|Uh-huh.|aa
+B|Yeah,|aa
+B|he said, he said the other night on the news that he hadn't done any extra shooting for six weeks,|sd
+B|so, you know, and he's the one that's always winning the, uh, the, the outside, the three point shot|sd
+B|and he does that every year.|sd
+A|Oh, yeah,|b
+A|yeah.|b
+A|Yeah,|aa
+A|matter of fact, I watched him, uh, on T V, you know, sink, I don't know a,|sd
+A|jeez, it was like, uh, uh, thirty five baskets in thirty seconds or something like that from three point range.|sd
+B|Uh-huh.|b
+A|Unbelievable.|ba
+B|Yeah.|b
+A|Oh, I don't know,|h
+A|did you ever play much basketball?|qy
+B|Not much.|ng
+B|Just, uh, just, just playing horse and stuff like that.|sd
+A|Yeah.|b
+B|Yeah,|b^m
+B|because it's, it kind of a violent game.|sv
+A|It really is for a noncontact sport,  quote, unquote.|sd
+B|And they|%
+B|Yeah,|aa
+B|and they don't wear any pads .|sd
+A|Yeah,|aa
+A|really|aa
+B|I figured,|sd
+A|Some of those guys got pretty funny looking, uh, eye wear.|sv
+B|Yeah.|aa
+B|They have to wear goggles because they get hit in the, in the face with elbows all the time.|sd
+A|Man.|ba
+B|Well, it's it's, I was looking in the paper for something on it|sd
+B|and here's the top N B A draft prospects|sd
+B|and, uh, I mean they're all the size of football players, you know, except they're just taller.|sd
+A|Yeah.|aa
+A|Several years ago when I was up in, uh, Cleveland, I was staying at the Marriott|sd
+A|and the Cavaliers were playing somebody.|sd
+A|I think it was like Utah or somebody like that|sd
+A|and, uh, I was down by the pool|sd
+A|and there was all these guys standing around about chest deep in water.|sd
+A|Now I wear, uh, contacts,|sd
+A|and I, I had my glasses on|sd
+A|and I went down there and, and just jumped into the water where they were|sd
+A|and it went right up over my head|sd
+A|and I came up spittering and sputtering for air|sd
+A|and they were all the basketball players there to play the Cavaliers|sd
+B|Uh-huh.|b
+A|they were all like, uh, like six eight and, uh, you know, six ten,|sd
+A|and they were standing in water that was like six foot,  you know,|sd
+B|Six foot,|b^m
+B|yeah.|b
+A|and  it was, uh, it was funny, I tell you.|sd
+A|I saw, I saw a guy,|sd
+A|I don't remember what his name was,|sd
+A|but he got on the elevator|sd
+A|and he had his swimsuit on|sd
+A|and, uh, he was just skin and bones, you know,|sd
+A|it looked like something out of Africa|sd
+B|Uh-huh.|b
+A|and, uh, I made some comment|sd
+A|and, uh, he says, yeah,|sd
+A|he says I weigh about, uh, uh, two hundred and forty pounds|sd
+B|Yeah.|b
+A|but he says it's not much when you stretch it over seven foot one.|sd
+B|Yeah,|aa
+B|really.|aa
+A|So, you're right,|aa
+A|those guys really, you know, the, the big ones,|%
+A|I don't even know how much Ewing weighs.|sd
+A|But, uh, he's got to be way up there.|sv
+B|Oh, yeah.|aa
+B|Well, here's a, here's a guy from L S U, Stanley Roberts,|sd
+B|he's seven feet tall|sd
+B|and he weighs two hundred and eighty pounds.|sd
+B|So,|%
+A|God. That's a, that's a lot|sv
+B|Yeah.|b
+A|That's a lot of, a lot of guy coming down on you.|sv
+B|Uh-huh.|b
+A|Jeez.|ba
+A|I didn't even see,|sd
+A|who's, who's supposed to have the, the, uh, the best, uh, draft picks?|qw
+B|It doesn't even say.|sd
+B|It doesn't say,|sd
+B|here it says, uh, it says|sd
+B|the this is for underclassmen for June twenty-six|sd
+A|Yeah.|b
+B|and, uh, I guess, I guess they don't, they have, they, they, uh, have a lottery on it.|sd
+B|They pick numbers|sd
+B|and that's how they take them in order.|sd
+A|Oh, yeah?|bh
+B|It must not be according to their, how they did during the year.|sd
+A|I used to go down to Reunion Arena, uh,|sd
+A|went down there a couple years on the day of the draft|sd
+B|Uh-uh.|b
+A|and that was really pretty interesting.|sd
+A|They usually have, uh, uh, you know, a video, uh, highlights of the season, you know, and basically kind of walks you through what happened to the Mavs and who they traded for and how they did and a lot of good footage, both the good and the bad|sd
+B|Uh-huh.|b
+A|I, I don't know,|h
+A|I haven't, I didn't go down there last year,|sd
+A|but, uh, it, it was only like a couple dollars to get in|sd
+A|and it was really kind of interesting|sd
+A|But, uh, so who do you thinks going to win the playoffs?|qw
+B|I don't know,|no
+B|who's going,|qw
+B|is it Chicago and,|qy
+A|Chicago, uh, and, let's see, uh, Golden State and the Lakers and, Chicago and Philadelphia,|na
+A|think Chicago's playing Philadelphia|sd
+A|and then the, uh,|%
+A|shoot, I can't remember them all now.|sd
+B|Utah, Portland, Boston and Detroit.|sd
+A|Right.|aa
+A|Yeah,|aa
+A|yeah.|aa
+B|Okay.|b
+B|That's the N B A?|qy
+A|N B A playoffs,|na
+A|Philadelphia was, uh, favored by one point over Chicago and the Lakers one point over Golden State, and Detroit by five over, uh, Boston|sd
+A|Jeez.|ba
+B|I think Boston, Boston will win.|sv
+A|Think so?|bh
+B|Yeah.|ny
+A|I tell you what,|^h
+A|those guys really hang tough.|sv
+B|Uh-huh.|b
+A|Now, I, I'd like to see them back up there again.|sd
+A|They really, uh, they really gave some, some really good years of, uh, uh, of enjoyment and fun and everything.|sv
+A|Have you ever been up there to Boston Garden?|qy
+B|Oh, no,|nn
+B|uh,|%
+A|Well, I don't know|h
+A|is that in,|%
+A|I, I haven't really gone to a lot of games live,|sd
+A|but boy I'd sure like to.|sd
+A|Basketball's gotten to be a lot of fun.|sv
+B|Uh-huh.|b

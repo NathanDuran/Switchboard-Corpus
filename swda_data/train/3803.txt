@@ -1,0 +1,103 @@
+A|Hi.|fp
+A|What do you think about gun control?|qw
+B|Well, uh, sort of mixed feelings about it, I guess, uh, uh,|sd
+B|I, I I lean more towards the control side than, than towards, you know, just the, the free, free army.|sv
+B|Uh, on the other hand I, it's, it's sort of an issue of, of uh,|sd
+B|I'm not, I'm not a great fan of, of government control in general|sd
+B|and so it's, it's kind of a tough issue.|sd
+B|What about yourself?|qo
+A|Well, I guess that I would like to, to say that perhaps someplace in the middle where people could somehow qualify or, uh, have a legitimate use for the, the, the weapon I suppose because also, living in this area, the, the problems in D C come home very quickly.|sv
+B|Uh-huh.|b
+B|I'm, I'm sure,|ba
+B|yeah.|%
+B|Uh, so you would take a position where somebody without, without a, uh, uh, specific use,|qy^d
+B|in other words, if they just wanted to have a, a gun to have in their home, uh, you wouldn't, you wouldn't like them to be able to do that?|qy
+B|Is that,|qy
+A|Well, I'm not so sure about that,|no
+A|but I think somehow, uh, safety courses|sv
+A|or, I don't know whether this could be something that was done in school,|sd
+A|but somehow people,|%
+A|I'd like to know that the people who had them at least knew what the responsibilities were, whether they followed them or not.|sv
+A|but still,|%
+B|I, I have, uh, I have the impression that, that the, the majority of the problems that we have with guns are not, are, are probably not from the people that are, are buying them through legitimate channels anyway.|sv
+B|Uh, that may be wrong.|h
+B|Uh, you know, I mean, certainly there, there are cases of, of, you know, children who find their parents' gun or something and, and shoot a brother or sister or, you know, things like that that need to be definitely avoided|sv
+B|and that's, that's certainly within the channels,|sv
+B|right.|b
+A|Uh-huh.|b
+B|But, uh, a lot of the, the crime, I think, that goes on, I, I don't know to what the degree the guns are, are purchased through regular channels or they're illegal guns.|sv
+A|Yeah,|b
+A|I don't know,|h
+A|this morning in our paper, it, there was an article about somebody who had bought three guns in Virginia because all you have to do is get a driver's license,|sd
+A|so he went over there and got a driver's license, the same day bought three guns and went up to New York and sold them for, you know, very high markups.|sd
+A|Now, in a sense, that's a legal way of getting the guns,|sv
+B|Uh-huh.|b
+A|but certainly the the purpose is not very legal.|sv
+B|Yeah.|b
+B|Uh-huh,|b
+B|yeah,|%
+B|I, I mean, I think, uh, some|%
+B|or, I, I don't know if it's been actually been implemented,|sd
+B|I think so, uh,|sd
+B|or at least there's been talk about doing, uh, you know, like waiting periods and and things like that.|sd
+A|Uh-huh.|b
+B|Uh, and, and, uh, you know, I, I think stuff like that is perfectly good.|sv
+A|Right.|b
+B|I don't know,|h
+B|I've, you know,|%
+B|I, I don't own a gun and, and don't really want one,|sd
+B|and I'd just as soon a lot fewer people did.|sv
+A|Uh-huh.|b
+B|Uh, but on the other hand, you know, uh, like I say, I kind of, kind of against government control in general.|sv
+B|Uh,|%
+A|Right.|b
+A|And I suppose uh, you know, total ban would lead to more illegal weapons.|sv
+B|Yeah,|b
+B|and I, you know,|%
+B|something about banning is that, you know, there, there are so many weapons out there that, that they're not going to disappear anytime soon.|sv
+B|Uh, and they're already,|%
+B|I know there's a ready market for them, you know,|sd
+B|in the|%
+B|the stolen, stolen guns can be sold.|sd
+B|I mean, the first thing a, a, a burglar will pick up if he can is a gun.|sv
+A|Uh-huh,|b
+A|uh-huh.|b
+B|Right,|b
+B|because, uh, because they, they can be so easily sold|sd
+B|and, you know, they're, they're,|%
+B|I don't know how many millions of guns have been sold in this country,|sd
+B|but, uh, it's not like they're going to disappear all of a sudden. Uh, even if you do do a total ban on them.|sv
+B|Uh, it's a real tough problem.|sd
+A|Right.|b
+B|I, I don't know,|h
+B|I don't know where I really come down on it.|sd
+B|I mean, I, I grew up,|sd
+B|my father was a hunter,|sd
+B|right,|qy
+B|and that's, and that's sort of almost a separate issue.|sv
+B|I think we've generally been talking about handguns and that kind of thing,|sv
+A|Uh-huh.|ny
+B|and,|%
+A|But that's true.|aa
+A|I mean, some people grew up with guns in the house.|sd
+A|We never had any in the house|sd
+B|Uh-huh.|b
+A|so, to me, the, you know, the first time I saw a gun up close was a pretty scary thing.|sd
+A|And I'm not sure that's good either.|b
+B|well we, you know, we, I grew up with them.|sd
+B|I never really took to hunting.|sd
+B|I mean, I did some of it,|sd
+B|but, uh, you know, we didn't have any, we never had any handguns or anything like that.|sd
+B|We had, you know, had shotguns for, for quail and pheasant hunting and things like that.|sd
+A|Uh-huh.|b
+B|And, you know, it was a whole different thing|sd
+B|and, and gun safety was taken very seriously|sd
+B|and it was, you know,|%
+B|I mean, before we go hunting, we, we took safety courses, uh, you know,|sd
+B|and, and, and it,|%
+B|but, you know, that's, that seems to me to be just a whole another issue.|sv
+A|Uh-huh.|b
+B|Uh, you know, the, the thing,|%
+B|the, the,|%
+B|yeah,|%
+B|I'm not certain that people are, are, are terribly concerned about other people.|sv

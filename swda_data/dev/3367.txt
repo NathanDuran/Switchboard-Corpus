@@ -1,0 +1,108 @@
+A|What?|br
+A|Do you want to start?|qy
+B|Uh, you hit, you hit, uh,|sd
+B|it doesn't matter.|sd
+B|Um, we're discussing the capital punishment, I believe.|sd
+A|Right.|b
+A|You are right.|sd
+A|Yeah.|%
+A|I, I suppose I should have,|sv
+B|Uh, which|%
+B|I am, am pro capital punishment except that I don't like the way it's done.|sd
+A|Uh-huh.|b
+A|Uh, yeah,|^h
+A|uh, I, uh, I guess, I, I hate to see anyone die, uh|sd
+B|Uh-huh.|b
+A|but, uh, I guess these people that go around and, and kill children and women and everything else without any remorse, uh, I don't think they deserve to, to live and be supported by us the rest of their lives.|sv
+B|I, I agree.|aa
+B|I, I'm,|%
+B|capital|%
+B|the, the,|%
+B|capital punishment is necessary in, in many cases|sv
+B|but, uh, the,|%
+B|it's not a deterrent, um, or our jails would not be so full.|sv
+B|There wouldn't be so many people in Death Row.|sv
+A|Uh-huh.|b
+B|I think it needs to be something, uh, uh, a throwback to where they did a, uh, public execution where it's visible.|sv
+A|Yeah.|b
+B|Uh, something, you know, not gruesome|sv
+B|but, but something more where people know that it, it was a deterrent and it was equal for all people.|sv
+B|If you committed a certain crime, you were going to receive a death penalty|sv
+B|and it was going to happen to you.|sv
+A|Yeah.|b
+B|No stays of execution.|sv
+B|No, no loopholes,|sv
+B|no,|%
+A|Well, and even, even that I don't really know if that would help.|sv
+A|I think a lot of these people do it, uh, mainly because of, of T V|sv
+A|and,|%
+B|Notoriety.|bf
+A|the double reason they, they see it being done on T V and also the fact of, of notoriety.|sv
+A|I mean, they become well known.|sv
+A|They are almost like, like a big star.|sv
+B|yes,|b
+B|but, but they, they know that their chances of actually receiving the death penalty are minimal.|sv
+A|Yeah.|b
+B|They know that they will probably be out in ten to twelve years.|sv
+A|Uh-huh.|b
+B|That they are going to write a book.|sv
+B|They are going to go on talk shows|sv
+B|they're|%
+B|that, that, that's a reward uh, for a heinous crime rather than, uh, having them pay the penalty which is forfeiture of their life.|sv
+A|Yeah.|b
+A|Right.|b
+B|In, in complete, uh,|%
+B|of any notoriety.|sv
+A|Yeah.|b
+A|Well, I, I, I think if they went according to, uh, the BIBLE where it does say, an eye for an eye, a tooth for a tooth, a life for a life,|sv
+B|Uh-huh.|b
+B|Right.|b
+A|uh, you take a life you give yours.|sv
+B|Right.|b
+A|Uh, uh, that's for sure.|ba
+A|Uh, there's exceptions to the rule|sv
+A|I mean if, if it's an accidental taking then, uh, you look at that|sv
+A|but, you know, most of these people that down right go right and, and do it out of pure pleasure uh, I don't, uh, like to see that.|sv
+B|Uh-huh.|b
+A|I guess also the fact that they say it's not a deterrent,|sv
+A|it is a deterrent in the, in the sense that that person will never do it again|sv
+B|Well, yes,|ar
+B|they will.|sd
+A|Not, not, not if he's killed he can't, do it again.|sv
+B|It,|%
+B|Oh, ,|b
+B|well, that's correct,|ba
+B|yes.|b
+B|if, if he indeed receives the death penalty and it is, it is executed.|sv
+A|The death penalty.|b^m
+A|Uh-huh.|b
+B|Yeah.|b
+B|But, but the, the, the chances are not great that that will happen.|sv
+A|Right.|b
+B|But there's a greater chance that he'll be back out on the streets in twelve years.|sv
+A|Uh-huh,|b
+A|yeah.|b
+A|Well, I, I guess I'm also looking at beyond even that.|sd
+A|I, I, I guess I been thinking about it|sd
+A|and I don't have a definite opinion|sd
+A|but, uh, repeat, uh, crimes uh, maybe not the, the more mild ones but, you know, a more severe ones especially on, on armed robbery and stuff where they been taking from elderly people, and not just taking the money but beating them half to death.|sv
+B|Uh-huh.|b
+B|Uh-huh.|b
+B|That's right.|ba
+A|Just for pleasure too|^2
+A|and I guess you've got to look at something like that.|sv
+B|Yes.|aa
+A|Do they deserve to, uh, remain on this earth too?|bh
+B|Why, you know, you could carry it to that if, uh, if they are a repeat offender|sv
+B|and, and you know that as soon as you let them out on the streets they are going to do this.|sv
+B|Unfortunately the way our system of jurisprudence is set up, um, you only receive the death penalty for capital crimes,|sv
+A|Right.|b
+B|and of course uh, of battery or assault or, that is not a capital crime see.|sd
+B|You, you wouldn't be able to under our system.|sd
+A|Right.|b
+B|Now China and a few other countries have a little different view of that.|sv
+B|Um, you get caught with dope there and you die, period.|sv
+A|Yeah.|b
+A|Uh-huh.|b
+B|There is, there is no, no appeals.|sv
+B|There is no,|%
