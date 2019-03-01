@@ -123,21 +123,10 @@ def save_data_pickle(path, data, verbose=True):
         print("Saved data to file %s." % path)
 
 
-def append_dialogue_to_file(path, dialogue, utterance_only):
+def dialogue_to_file(path, dialogue, utterance_only, write_type):
     if utterance_only:
         path = path + "_utt"
-    with open(path + ".txt", 'a+') as file:
-        for utterance in dialogue.utterances:
-            if utterance_only:
-                file.write(utterance.text.strip() + "\n")
-            else:
-                file.write(utterance.speaker + "|" + utterance.text.strip() + "|" + utterance.da_label + "\n")
-
-
-def write_dialogue_to_file(path, dialogue, utterance_only):
-    if utterance_only:
-        path = path + "_utt"
-    with open(path + ".txt", 'w+') as file:
+    with open(path + ".txt", write_type) as file:
         for utterance in dialogue.utterances:
             if utterance_only:
                 file.write(utterance.text.strip() + "\n")

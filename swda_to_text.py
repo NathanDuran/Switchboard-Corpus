@@ -55,7 +55,7 @@ with tempfile.TemporaryDirectory(dir=archive_dir) as tmp_dir:
         dialogue = process_transcript(transcript, excluded_tags, excluded_chars)
 
         # Append all utterances to all_swda text file
-        append_dialogue_to_file(data_dir + all_swda_file, dialogue, utterance_only_flag)
+        dialogue_to_file(data_dir + all_swda_file, dialogue, utterance_only_flag, 'a+')
 
         # Determine which set this dialogue belongs to (training, test or evaluation)
         set_dir = ''
@@ -75,10 +75,10 @@ with tempfile.TemporaryDirectory(dir=archive_dir) as tmp_dir:
             os.makedirs(set_dir)
 
         # Write individual dialogue to train, test or validation folders
-        write_dialogue_to_file(set_dir + dialogue.conversation_num, dialogue, utterance_only_flag)
+        dialogue_to_file(set_dir + dialogue.conversation_num, dialogue, utterance_only_flag, 'w+')
 
         # Append all dialogue utterances to sets file
-        append_dialogue_to_file(data_dir + set_file, dialogue, utterance_only_flag)
+        dialogue_to_file(data_dir + set_file, dialogue, utterance_only_flag, 'a+')
 
         # If it is also in the development set write it there too
         if dialogue.conversation_num in dev_split:
@@ -91,7 +91,7 @@ with tempfile.TemporaryDirectory(dir=archive_dir) as tmp_dir:
                 os.makedirs(set_dir)
 
             # Write individual dialogue to dev folder
-            write_dialogue_to_file(set_dir + dialogue.conversation_num, dialogue, utterance_only_flag)
+            dialogue_to_file(set_dir + dialogue.conversation_num, dialogue, utterance_only_flag, 'w+')
 
             # Append all dialogue utterances to dev set file
-            append_dialogue_to_file(data_dir + set_file, dialogue, utterance_only_flag)
+            dialogue_to_file(data_dir + set_file, dialogue, utterance_only_flag, 'a+')
