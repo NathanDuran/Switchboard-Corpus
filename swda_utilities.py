@@ -3,15 +3,13 @@ import pickle
 
 
 class Dialogue:
-    def __init__(self, folder_name, conversation_num, num_utterances, utterances):
-        self.folder_name = folder_name
-        self.conversation_num = conversation_num
+    def __init__(self, conversation_id, num_utterances, utterances):
+        self.conversation_id = conversation_id
         self.num_utterances = num_utterances
         self.utterances = utterances
 
     def to_string(self):
-        return str("Folder Name: " + self.folder_name + "\n"
-                   + "Conversation: " + self.conversation_num + "\n"
+        return str("Conversation: " + self.conversation_id + "\n"
                    + "Number of Utterances: " + str(self.num_utterances))
 
 
@@ -99,9 +97,8 @@ def process_transcript(transcript, excluded_tags=None, excluded_chars=None):
             # print("Concatenating '", utt.text, "' + '", current_b, "'")
 
     # Create Dialogue
-    folder_name = transcript.swda_filename.split('\\')[1]  # Trim to just folder name
-    conversation_num = str(transcript.utterances[0].conversation_no)
-    dialogue = Dialogue(folder_name, conversation_num, len(utterances), utterances)
+    conversation_id = str(transcript.utterances[0].conversation_no)
+    dialogue = Dialogue(conversation_id, len(utterances), utterances)
 
     return dialogue
 

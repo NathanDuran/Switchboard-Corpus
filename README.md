@@ -105,8 +105,5 @@ The words, labels and frequencies are also saved as plain text files in the /met
 - num_labels = Number of labels used from the Switchboard data.
 
 Each data set also has;
-- *setname*_num_dialogues = Number of dialogues in the set.
-- *setname*_max_dialogues_len = Length of the longest dialogue in the set.
-
-# TODO
-- Make get/process data script 
+- <*setname*>_num_dialogues = Number of dialogues in the set.
+- <*setname*>_max_dialogues_len = Length of the longest dialogue in the set.

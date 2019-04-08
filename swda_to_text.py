@@ -60,13 +60,13 @@ with tempfile.TemporaryDirectory(dir=archive_dir) as tmp_dir:
         # Determine which set this dialogue belongs to (training, test or evaluation)
         set_dir = ''
         set_file = ''
-        if dialogue.conversation_num in train_split:
+        if dialogue.conversation_id in train_split:
             set_dir = data_dir + 'train'
             set_file = train_set_file
-        elif dialogue.conversation_num in test_split:
+        elif dialogue.conversation_id in test_split:
             set_dir = data_dir + 'test'
             set_file = test_set_file
-        elif dialogue.conversation_num in val_split:
+        elif dialogue.conversation_id in val_split:
             set_dir = data_dir + 'eval'
             set_file = val_set_file
 
@@ -81,13 +81,13 @@ with tempfile.TemporaryDirectory(dir=archive_dir) as tmp_dir:
             os.makedirs(set_dir)
 
         # Write individual dialogue to train, test or validation folders
-        dialogue_to_file(set_dir + dialogue.conversation_num, dialogue, utterance_only_flag, 'w+')
+        dialogue_to_file(set_dir + dialogue.conversation_id, dialogue, utterance_only_flag, 'w+')
 
         # Append all dialogue utterances to sets file
         dialogue_to_file(data_dir + set_file, dialogue, utterance_only_flag, 'a+')
 
         # If it is also in the development set write it there too
-        if dialogue.conversation_num in dev_split:
+        if dialogue.conversation_id in dev_split:
 
             set_dir = data_dir + 'dev'
             set_file = dev_set_file
@@ -103,7 +103,7 @@ with tempfile.TemporaryDirectory(dir=archive_dir) as tmp_dir:
                 os.makedirs(set_dir)
 
             # Write individual dialogue to dev folder
-            dialogue_to_file(set_dir + dialogue.conversation_num, dialogue, utterance_only_flag, 'w+')
+            dialogue_to_file(set_dir + dialogue.conversation_id, dialogue, utterance_only_flag, 'w+')
 
             # Append all dialogue utterances to dev set file
             dialogue_to_file(data_dir + set_file, dialogue, utterance_only_flag, 'a+')
