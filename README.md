@@ -11,6 +11,9 @@ to the set they belong to (train, test, etc). All utterances in a particular set
 
 The swda_utilities.py script contains various helper functions for loading/saving and processing the data, including a function for processing each dialogue.
 
+The swda_metadata.py generates various metadata from the processed dialogues and saves them as a dictionary to a pickle file.
+The words, labels and frequencies are also saved as plain text files in the /metadata directory.
+
 Thanks to Christopher Potts for providing the raw data in .csv format and the swda.py script for processing the .csv data, both of which can be found [here](https://github.com/cgpotts/swda)
 
 ## Data Format
@@ -75,8 +78,6 @@ Apology | fa    | 79
 Thanking    | ft  | 78
 
 ## Metadata
-The swda_metadata.py generates various metadata from the processed dialogues and saves them as a dictionary to a pickle file.
-The words, labels and frequencies are also saved as plain text files in the /metadata directory.
 
 - Total number of utterances:  199766
 - Max utterance length:  133
