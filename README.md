@@ -1,7 +1,6 @@
 # Processing the Switchboard Dialogue Act Corpus
-
 Utilities for processing the [Switchboard Dialogue Act Corpus](https://web.stanford.edu/~jurafsky/ws97/)
-for the purpose of dialogue act classification. The data is split into the original [training](https://web.stanford.edu/~jurafsky/ws97/ws97-train-convs.list) 
+for the purpose of dialogue act (DA) classification. The data is split into the original [training](https://web.stanford.edu/~jurafsky/ws97/ws97-train-convs.list) 
 and [test](https://web.stanford.edu/~jurafsky/ws97/ws97-test-convs.list) sets suggested by the authors.
 The remaining dialogues have been used as an evaluation set and there is a further 300 dialogues from the training set for development purposes.
 
@@ -17,7 +16,7 @@ The words, labels and frequencies are also saved as plain text files in the /met
 Thanks to Christopher Potts for providing the raw data in .csv format and the swda.py script for processing the .csv data, both of which can be found [here](https://github.com/cgpotts/swda)
 
 ## Data Format
-Utterance are tagged with the [SWBD-DAMSL](https://web.stanford.edu/~jurafsky/ws97/manual.august1.html) dialogue acts.
+Utterance are tagged with the [SWBD-DAMSL](https://web.stanford.edu/~jurafsky/ws97/manual.august1.html) DA.
 
 By default:
 - Utterances are written one per line in the format *Speaker* | *Utterance Text* | *Dialogue Act Tag*. This can be changed to only output the utterance text by setting the utterance_only_flag = True.
@@ -36,51 +35,50 @@ B|we do oil well services.|sd
 Dialogue Act    | Swda Label    | Count
 --- | --- | ---
 Statement-non-opinion   | sd    | 75136
-Acknowledge (Backchannel)   | b | 38284
+Acknowledge (Backchannel)   | b    | 38284
 Statement-opinion   | sv    | 26421
 Uninterpretable | %     | 15215
 Agree/Accept    | aa    | 11123
 Appreciation    | ba    | 4757
 Yes-No-Question | qy    | 4725
-Yes answers | ny    | 3031
+Yes Answers | ny    | 3031
 Conventional-closing    | fc    | 2581
-Wh-Question | qw | 1977
-No answers  | nn | 1374
-Response Acknowledgement    |bk | 1306
-Hedge   | h  | 1226
-Declarative Yes-No-Question | qy^d   | 1218
-Backchannel in question form    | bh | 1053
-Quotation   | ^q | 983
-Summarize/reformulate   | bf | 952
+Wh-Question | qw    | 1977
+No Answers  | nn    | 1374
+Response Acknowledgement    | bk    | 1306
+Hedge   | h    | 1226
+Declarative Yes-No-Question | qy^d    | 1218
+Backchannel in Question Form    | bh    | 1053
+Quotation   | ^q    | 983
+Summarize/Reformulate   | bf    | 952
 Other   | fo_o_fw_"_by_bc    | 879
-Affirmative non-yes answers | na    | 847
+Affirmative Non-yes Answers | na    | 847
 Action-directive    | ad    | 745
 Collaborative Completion    | ^2    | 723
 Repeat-phrase   | b^m   | 687
 Open-Question   | qo    | 656
-Open-Question   | qh    | 575
-Hold before answer/agreement    | ^h    | 556
+Rhetorical-Question   | qh    | 575
+Hold Before Answer/Agreement    | ^h    | 556
 Reject  | ar    | 344
-Negative non-no answers | ng    | 302
+Negative Non-no Answers | ng    | 302
 Signal-non-understanding    | br    | 298
-Other answers   | no    | 285
+Other Answers   | no    | 285
 Conventional-opening    | fp    | 225
-Or-Clause   | qrr   | 209
-Dispreferred answers    | arp_nd    | 207
+Or-Clause   | qrr    | 209
+Dispreferred Answers    | arp_nd    | 207
 3rd-party-talk  | t3    | 117
-Offers, Options Commits | oo_co_cc  | 110
+Offers, Options Commits | oo_co_cc    | 110
 Maybe/Accept-part   | aap_am    | 104
 Downplayer  | bd    | 103
 Self-talk	| t1    | 103
 Tag-Question    | ^g    | 92
-Declarative Wh-Question | qw^d  | 80
+Declarative Wh-Question | qw^d    | 80
 Apology | fa    | 79
-Thanking    | ft  | 78
+Thanking    | ft    | 78
 
 ## Metadata
-
-- Total number of utterances:  199766
-- Max utterance length:  133
+- Total number of utterances: 199766
+- Max utterance length: 133
 - Maximum dialogue length: 457
 - Vocabulary size: 22303
 - Number of labels: 41
@@ -94,7 +92,6 @@ Thanking    | ft  | 78
 - Maximum length of dialogue in dev set: 405
 
 ### Keys and values for the metadata dictionary
-
 - num_utterances = Total number of utterance in the full corpus.
 - max_utterance_len = Number of words in the longest utterance in the corpus.
 - max_dialogues_len = Number of utterances in the longest dialogue in the corpus.
