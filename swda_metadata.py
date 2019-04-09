@@ -63,7 +63,7 @@ print(vocabulary_size)
 
 # Write vocabulary and word frequencies to file
 with open(metadata_dir + "vocabulary.txt", 'w+') as file:
-    for i in range(len(vocabulary)):
+    for i in range(4, len(vocabulary)):
         file.write(vocabulary.to_tokens(i) + " " + str(word_freq[vocabulary.to_tokens(i)]) + "\n")
 
 # Count the label frequencies and generate labels
@@ -81,7 +81,7 @@ print(num_labels)
 
 # Write labels and frequencies to file
 with open(metadata_dir + "labels.txt", 'w+') as file:
-    for i in range(len(labels)):
+    for i in range(4, len(labels)):
         file.write(labels.to_tokens(i) + " " + str(label_freq[labels.to_tokens(i)]) + "\n")
 
 # Count sets number of dialogues and maximum dialogue length

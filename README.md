@@ -19,7 +19,7 @@ Thanks to Christopher Potts for providing the raw data in .csv format and the sw
 Utterance are tagged with the [SWBD-DAMSL](https://web.stanford.edu/~jurafsky/ws97/manual.august1.html) DA.
 
 By default:
-- Utterances are written one per line in the format *Speaker* | *Utterance Text* | *Dialogue Act Tag*. This can be changed to only output the utterance text by setting the utterance_only_flag = True.
+- Utterances are written one per line in the format *Speaker* | *Utterance Text* | *Dialogue Act Tag*. Setting the utterance_only_flag == True, will change the default output to only one utterance per line i.e. no speaker or DA tags.
 - Utterances marked as *Non-verbal* ('x' tags) are removed i.e. 'Laughter' or 'Throat_clearing'.
 - Utterances marked as *Interrupted* ('+' tags) and continued later are concatenated to make un-interrupted sentences.
 - All disfluency annotations are removed i.e. '#', '<', '>', etc.
@@ -31,9 +31,9 @@ B|Well, it's actually, uh,|^h
 
 B|we do oil well services.|sd
 
-### Dialogue Acts
+## Dialogue Acts
 Dialogue Act    | Swda Label    | Count
---- | --- | ---
+--- | :---: | :---:
 Statement-non-opinion   | sd    | 75136
 Acknowledge (Backchannel)   | b    | 38284
 Statement-opinion   | sv    | 26421
@@ -102,6 +102,6 @@ Thanking    | ft    | 78
 - labels = Full labels - Gluon NLP [Vocabulary.](http://gluon-nlp.mxnet.io/api/modules/vocab.html#gluonnlp.Vocab)
 - num_labels = Number of labels used from the Switchboard data.
 
-Each data set also has;
+Each data set also has:
 - <*setname*>_num_dialogues = Number of dialogues in the set.
 - <*setname*>_max_dialogues_len = Length of the longest dialogue in the set.
