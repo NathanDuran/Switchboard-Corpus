@@ -10,6 +10,9 @@ metadata = dict()
 # Processed data directory
 data_dir = 'swda_data/'
 
+# Metadata directory
+metadata_dir = data_dir + 'metadata/'
+
 # File with all swda data
 all_swda_text_file = "all_swda.txt"
 
@@ -59,7 +62,7 @@ print(vocabulary)
 print(vocabulary_size)
 
 # Write vocabulary and word frequencies to file
-with open(data_dir + "/metadata/vocabulary.txt", 'w+') as file:
+with open(metadata_dir + "vocabulary.txt", 'w+') as file:
     for i in range(len(vocabulary)):
         file.write(vocabulary.to_tokens(i) + " " + str(word_freq[vocabulary.to_tokens(i)]) + "\n")
 
@@ -77,7 +80,7 @@ print(labels)
 print(num_labels)
 
 # Write labels and frequencies to file
-with open(data_dir + "/metadata/labels.txt", 'w+') as file:
+with open(metadata_dir + "labels.txt", 'w+') as file:
     for i in range(len(labels)):
         file.write(labels.to_tokens(i) + " " + str(label_freq[labels.to_tokens(i)]) + "\n")
 
@@ -88,7 +91,7 @@ sets = ['train', 'test', 'eval', 'dev']
 for i in range(len(sets)):
 
     # Load data set list
-    set_list = load_data(data_dir + sets[i] + "_split.txt")
+    set_list = load_data(metadata_dir + sets[i] + "_split.txt")
 
     # Count the number of dialogues in the set
     set_num_dialogues = len(set_list)
@@ -116,4 +119,4 @@ metadata['max_dialogues_len'] = max_dialogues_len
 print("Maximum dialogue length: " + str(max_dialogues_len))
 
 # Save data to pickle file
-save_data_pickle(data_dir + "/metadata/metadata.pkl", metadata)
+save_data_pickle(metadata_dir + "metadata.pkl", metadata)
