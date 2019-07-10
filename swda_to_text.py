@@ -21,10 +21,10 @@ excluded_tags = ['x']
 excluded_chars = {'<', '>', '(', ')', '-', '#'}
 
 # Load training, test, validation and development splits
-train_split = load_data(metadata_dir + 'train_split.txt')
-test_split = load_data(metadata_dir + 'test_split.txt')
-val_split = load_data(metadata_dir + 'eval_split.txt')
-dev_split = load_data(metadata_dir + 'dev_split.txt')
+train_split = load_text_data(metadata_dir + 'train_split.txt')
+test_split = load_text_data(metadata_dir + 'test_split.txt')
+val_split = load_text_data(metadata_dir + 'eval_split.txt')
+dev_split = load_text_data(metadata_dir + 'dev_split.txt')
 
 # Files for all the utterances in the corpus and data splits
 all_swda_file = "all_swda"

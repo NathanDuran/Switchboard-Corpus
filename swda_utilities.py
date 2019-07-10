@@ -103,7 +103,7 @@ def process_transcript(transcript, excluded_tags=None, excluded_chars=None):
     return dialogue
 
 
-def load_data(path, verbose=True):
+def load_text_data(path, verbose=True):
     with open(path, "r") as file:
         # Read a line and strip newline char
         lines = [line.rstrip('\r\n') for line in file.readlines()]

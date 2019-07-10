@@ -17,7 +17,7 @@ metadata_dir = data_dir + 'metadata/'
 all_swda_text_file = "all_swda.txt"
 
 # Load all_swda text file
-swda_text = load_data(data_dir + all_swda_text_file)
+swda_text = load_text_data(data_dir + all_swda_text_file)
 
 # Split into labels and utterances
 utterances = []
@@ -91,7 +91,7 @@ sets = ['train', 'test', 'eval', 'dev']
 for i in range(len(sets)):
 
     # Load data set list
-    set_list = load_data(metadata_dir + sets[i] + "_split.txt")
+    set_list = load_text_data(metadata_dir + sets[i] + "_split.txt")
 
     # Count the number of dialogues in the set
     set_num_dialogues = len(set_list)
@@ -103,7 +103,7 @@ for i in range(len(sets)):
     for dialogue in set_list:
 
         # Load dialogues utterances
-        utterances = load_data(data_dir + sets[i] + "/" + dialogue + ".txt", verbose=False)
+        utterances = load_text_data(data_dir + sets[i] + "/" + dialogue + ".txt", verbose=False)
 
         # Check set and global maximum dialogue length
         if len(utterances) > set_max_dialogues_len:
