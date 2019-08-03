@@ -27,14 +27,14 @@ val_split = load_text_data(metadata_dir + 'eval_split.txt')
 dev_split = load_text_data(metadata_dir + 'dev_split.txt')
 
 # Files for all the utterances in the corpus and data splits
-all_swda_file = "all_swda"
+full_set_file = "full_set"
 train_set_file = "train_set"
 test_set_file = "test_set"
 val_set_file = "eval_set"
 dev_set_file = "dev_set"
 
 # Remove old files if they exist, so we do not append to old data
-remove_file(data_dir, all_swda_file, utterance_only_flag)
+remove_file(data_dir, full_set_file, utterance_only_flag)
 remove_file(data_dir, train_set_file, utterance_only_flag)
 remove_file(data_dir, test_set_file, utterance_only_flag)
 remove_file(data_dir, val_set_file, utterance_only_flag)
@@ -58,7 +58,7 @@ with tempfile.TemporaryDirectory(dir=archive_dir) as tmp_dir:
         dialogue = process_transcript(transcript, excluded_tags, excluded_chars)
 
         # Append all utterances to all_swda text file
-        dialogue_to_file(data_dir + all_swda_file, dialogue, utterance_only_flag, 'a+')
+        dialogue_to_file(data_dir + full_set_file, dialogue, utterance_only_flag, 'a+')
 
         # Determine which set this dialogue belongs to (training, test or evaluation)
         set_dir = ''

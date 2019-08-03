@@ -113,9 +113,8 @@ def load_text_data(path, verbose=True):
 
 
 def save_data_pickle(path, data, verbose=True):
-    file = open(path, "wb")
-    pickle.dump(data, file, protocol=2)
-    file.close()
+    with open(path, "wb") as file:
+        pickle.dump(data, file, protocol=2)
     if verbose:
         print("Saved data to file %s." % path)
 
