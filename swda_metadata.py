@@ -86,7 +86,7 @@ with open(metadata_dir + "labels.txt", 'w+') as file:
 
 # Count sets number of dialogues and maximum dialogue length
 max_dialogues_len = 0
-sets = ['train', 'test', 'eval', 'dev']
+sets = ['train', 'test', 'val', 'dev']
 
 for i in range(len(sets)):
 

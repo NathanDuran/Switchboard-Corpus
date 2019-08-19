@@ -23,14 +23,14 @@ excluded_chars = {'<', '>', '(', ')', '-', '#'}
 # Load training, test, validation and development splits
 train_split = load_text_data(metadata_dir + 'train_split.txt')
 test_split = load_text_data(metadata_dir + 'test_split.txt')
-val_split = load_text_data(metadata_dir + 'eval_split.txt')
+val_split = load_text_data(metadata_dir + 'val_split.txt')
 dev_split = load_text_data(metadata_dir + 'dev_split.txt')
 
 # Files for all the utterances in the corpus and data splits
 full_set_file = "full_set"
 train_set_file = "train_set"
 test_set_file = "test_set"
-val_set_file = "eval_set"
+val_set_file = "val_set"
 dev_set_file = "dev_set"
 
 # Remove old files if they exist, so we do not append to old data
@@ -70,7 +70,7 @@ with tempfile.TemporaryDirectory(dir=archive_dir) as tmp_dir:
             set_dir = data_dir + 'test'
             set_file = test_set_file
         elif dialogue.conversation_id in val_split:
-            set_dir = data_dir + 'eval'
+            set_dir = data_dir + 'val'
             set_file = val_set_file
 
         # If only saving utterances use different directory

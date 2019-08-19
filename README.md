@@ -2,7 +2,7 @@
 Utilities for processing the [Switchboard Dialogue Act Corpus](https://web.stanford.edu/~jurafsky/ws97/)
 for the purpose of dialogue act (DA) classification. The data is split into the original [training](https://web.stanford.edu/~jurafsky/ws97/ws97-train-convs.list) 
 and [test](https://web.stanford.edu/~jurafsky/ws97/ws97-test-convs.list) sets suggested by the authors.
-The remaining dialogues have been used as an evaluation set and there is a further 300 dialogues from the training set for development purposes.
+The remaining dialogues have been used as an validation set and there is a further 300 dialogues from the training set for development purposes.
 
 ## Scripts
 The swda_to_text.py script processes all dialogues into a plain text format. Individual dialogues are saved into directories corresponding
@@ -86,8 +86,8 @@ Thanking    | ft    | 78
 - Maximum length of dialogue in train set: 457
 - Number of dialogue in test set: 19
 - Maximum length of dialogue in test set: 330
-- Number of dialogue in eval set: 21
-- Maximum length of dialogue in eval set: 299
+- Number of dialogue in val set: 21
+- Maximum length of dialogue in val set: 299
 - Number of dialogue in dev set: 300
 - Maximum length of dialogue in dev set: 405
 
