@@ -32,10 +32,10 @@ def dialogue_to_file(path, dialogue, utterance_only, write_type):
 def remove_file(data_dir, file, utterance_only):
     # Remove either text or full versions
     if utterance_only:
-        if os.path.exists(data_dir + file + "_utt" + ".txt"):
-            os.remove(data_dir + file + "_utt" + ".txt")
+        if os.path.exists(os.path.join(data_dir, file + '_utt.txt')):
+            os.remove(os.path.join(data_dir, file + '_utt.txt'))
     else:
-        if os.path.exists(data_dir + file + ".txt"):
-            os.remove(data_dir + file + ".txt")
+        if os.path.exists(os.path.join(data_dir, file + '.txt')):
+            os.remove(os.path.join(data_dir, file + '.txt'))
 
 

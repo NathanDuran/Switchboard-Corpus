@@ -2,16 +2,16 @@ import zipfile
 import tempfile
 from swda import CorpusReader
 from swda_utilities import *
-import process_transcript as process
+from process_transcript import *
 
 # Switchboard archive directory
 archive_dir = 'swda_archive'
 
 # Processed data directory
-data_dir = 'swda_data/'
+data_dir = 'swda_data'
 
 # Metadata directory
-metadata_dir = data_dir + 'metadata/'
+metadata_dir = os.path.join(data_dir, 'metadata')
 
 # If flag is set will only write utterances and not speaker or DA label
 utterance_only_flag = False
@@ -22,10 +22,10 @@ excluded_tags = ['x']
 excluded_chars = {'<', '>', '(', ')', '-', '#'}
 
 # Load training, test, validation and development splits
-train_split = load_text_data(metadata_dir + 'train_split.txt')
-test_split = load_text_data(metadata_dir + 'test_split.txt')
-val_split = load_text_data(metadata_dir + 'val_split.txt')
-dev_split = load_text_data(metadata_dir + 'dev_split.txt')
+train_split = load_text_data(os.path.join(metadata_dir, 'train_split.txt'))
+test_split = load_text_data(os.path.join(metadata_dir, 'test_split.txt'))
+val_split = load_text_data(os.path.join(metadata_dir, 'val_split.txt'))
+dev_split = load_text_data(os.path.join(metadata_dir,  'dev_split.txt'))
 
 # Files for all the utterances in the corpus and data splits
 full_set_file = "full_set"
@@ -45,7 +45,7 @@ remove_file(data_dir, dev_set_file, utterance_only_flag)
 with tempfile.TemporaryDirectory(dir=archive_dir) as tmp_dir:
     print('Created temporary directory', tmp_dir)
 
-    zip_file = zipfile.ZipFile(archive_dir + '/swda_archive.zip', 'r')
+    zip_file = zipfile.ZipFile(os.path.join(archive_dir, 'swda_archive.zip'), 'r')
     zip_file.extractall(tmp_dir)
     zip_file.close()
 
@@ -56,58 +56,58 @@ with tempfile.TemporaryDirectory(dir=archive_dir) as tmp_dir:
     for transcript in corpus.iter_transcripts(display_progress=False):
 
         # Process the utterances and create a dialogue object
-        dialogue = process.process_transcript(transcript, excluded_tags, excluded_chars)
+        dialogue = process_transcript(transcript, excluded_tags, excluded_chars)
 
         # Append all utterances to all_swda text file
-        dialogue_to_file(data_dir + full_set_file, dialogue, utterance_only_flag, 'a+')
+        dialogue_to_file(os.path.join(data_dir, full_set_file), dialogue, utterance_only_flag, 'a+')
 
-        # Determine which set this dialogue belongs to (training, test or evaluation)
+        # Determine which set this dialogue belongs to (training, test or validation)
         set_dir = ''
         set_file = ''
         if dialogue.conversation_id in train_split:
-            set_dir = data_dir + 'train'
+            set_dir = 'train'
             set_file = train_set_file
         elif dialogue.conversation_id in test_split:
-            set_dir = data_dir + 'test'
+            set_dir = 'test'
             set_file = test_set_file
         elif dialogue.conversation_id in val_split:
-            set_dir = data_dir + 'val'
+            set_dir = 'val'
             set_file = val_set_file
 
         # If only saving utterances use different directory
         if utterance_only_flag:
-            set_dir = set_dir + "_utt/"
+            set_dir = os.path.join(data_dir, set_dir + '_utt')
         else:
-            set_dir = set_dir + "/"
+            set_dir = os.path.join(data_dir, set_dir)
 
         # Create the directory if is doesn't exist yet
         if not os.path.exists(set_dir):
             os.makedirs(set_dir)
 
         # Write individual dialogue to train, test or validation folders
-        dialogue_to_file(set_dir + dialogue.conversation_id, dialogue, utterance_only_flag, 'w+')
+        dialogue_to_file(os.path.join(set_dir, dialogue.conversation_id), dialogue, utterance_only_flag, 'w+')
 
         # Append all dialogue utterances to sets file
-        dialogue_to_file(data_dir + set_file, dialogue, utterance_only_flag, 'a+')
+        dialogue_to_file(os.path.join(data_dir, set_file), dialogue, utterance_only_flag, 'a+')
 
         # If it is also in the development set write it there too
         if dialogue.conversation_id in dev_split:
 
-            set_dir = data_dir + 'dev'
+            set_dir = 'dev'
             set_file = dev_set_file
 
             # If only saving utterances use different directory
             if utterance_only_flag:
-                set_dir = set_dir + "_utt/"
+                set_dir = os.path.join(data_dir, set_dir + '_utt')
             else:
-                set_dir = set_dir + "/"
+                set_dir = os.path.join(data_dir, set_dir)
 
             # Create the directory if is doesn't exist yet
             if not os.path.exists(set_dir):
                 os.makedirs(set_dir)
 
             # Write individual dialogue to dev folder
-            dialogue_to_file(set_dir + dialogue.conversation_id, dialogue, utterance_only_flag, 'w+')
+            dialogue_to_file(os.path.join(set_dir, dialogue.conversation_id), dialogue, utterance_only_flag, 'w+')
 
             # Append all dialogue utterances to dev set file
-            dialogue_to_file(data_dir + set_file, dialogue, utterance_only_flag, 'a+')
+            dialogue_to_file(os.path.join(data_dir, set_file), dialogue, utterance_only_flag, 'a+')
