@@ -2,6 +2,7 @@ import zipfile
 import tempfile
 from swda import CorpusReader
 from swda_utilities import *
+import process_transcript as process
 
 # Switchboard archive directory
 archive_dir = 'swda_archive'
@@ -55,7 +56,7 @@ with tempfile.TemporaryDirectory(dir=archive_dir) as tmp_dir:
     for transcript in corpus.iter_transcripts(display_progress=False):
 
         # Process the utterances and create a dialogue object
-        dialogue = process_transcript(transcript, excluded_tags, excluded_chars)
+        dialogue = process.process_transcript(transcript, excluded_tags, excluded_chars)
 
         # Append all utterances to all_swda text file
         dialogue_to_file(data_dir + full_set_file, dialogue, utterance_only_flag, 'a+')
