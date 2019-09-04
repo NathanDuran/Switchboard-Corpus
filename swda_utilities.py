@@ -2,7 +2,7 @@ import os
 import pickle
 
 
-def load_text_data(path, verbose=True):
+def load_text_data(path, verbose=False):
     with open(path, "r") as file:
         # Read a line and strip newline char
         lines = [line.rstrip('\r\n') for line in file.readlines()]

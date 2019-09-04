@@ -13,7 +13,7 @@ data_dir = 'swda_data'
 # Metadata directory
 metadata_dir = os.path.join(data_dir, 'metadata')
 
-# Load all_swda text file
+# Load full_set text file
 swda_text = load_text_data(os.path.join(data_dir, 'full_set.txt'))
 
 # Split into labels and utterances
@@ -84,7 +84,6 @@ with open(os.path.join(metadata_dir, 'labels.txt'), 'w+') as file:
 # Count sets number of dialogues and maximum dialogue length
 max_dialogues_len = 0
 sets = ['train', 'test', 'val', 'dev']
-
 for i in range(len(sets)):
 
     # Load data set list
