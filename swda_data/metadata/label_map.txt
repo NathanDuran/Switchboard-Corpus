@@ -1,0 +1,41 @@
+Statement-non-opinion|sd
+Acknowledge (Backchannel)|b
+Statement-opinion|sv
+Uninterpretable|%
+Agree/Accept|aa
+Appreciation|ba
+Yes-No-Question|qy
+Yes Answers|ny
+Conventional-closing|fc
+Wh-Question|qw
+No Answers|nn
+Response Acknowledgement|bk
+Hedge|h
+Declarative Yes-No-Question|qy^d
+Backchannel in Question Form|bh
+Quotation|^q
+Summarize/Reformulate|bf
+Other|fo_o_fw_"_by_bc
+Affirmative Non-yes Answers|na
+Action-directive|ad
+Collaborative Completion|^2
+Repeat-phrase|b^m
+Open-Question|qo
+Rhetorical-Question|qh
+Hold Before Answer/Agreement|^h
+Reject|ar|344
+Negative Non-no Answers|ng
+Signal-non-understanding|br
+Other Answers|no
+Conventional-opening|fp
+Or-Clause|qrr
+Dispreferred Answers|arp_nd
+3rd-party-talk|t3
+Offers, Options Commits|oo_co_cc
+Maybe/Accept-part|aap_am
+Downplayer|bd
+Self-talk|t1
+Tag-Question|^g
+Declarative Wh-Question|qw^d
+Apology|fa
+Thanking|ft

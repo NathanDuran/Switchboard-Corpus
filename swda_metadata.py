@@ -18,10 +18,8 @@ swda_text = load_text_data(os.path.join(data_dir, 'full_set.txt'))
 
 # Split into labels and utterances
 utterances = []
-labels = []
 for line in swda_text:
     utterances.append(line.split("|")[1])
-    labels.append(line.split("|")[2])
 
 # Count total number of utterances
 num_utterances = len(utterances)
@@ -64,22 +62,20 @@ with open(os.path.join(metadata_dir, 'vocabulary.txt'), 'w+') as file:
         file.write(vocabulary.to_tokens(i) + " " + str(word_freq[vocabulary.to_tokens(i)]) + "\n")
 
 # Count the label frequencies and generate labels
-label_freq = nlp.data.count_tokens(labels)
-labels = nlp.Vocab(label_freq)
-num_labels = len(label_freq)
-
+labels, label_freq = get_label_frequency_distributions(data_dir, metadata_dir, label_index=2)
 metadata['label_freq'] = label_freq
 metadata['labels'] = labels
-metadata['num_labels'] = num_labels
+metadata['num_labels'] = len(labels)
 print("Labels:")
-print(label_freq)
 print(labels)
-print(num_labels)
+print(len(labels))
+
+# Create label frequency chart
+label_freq_chart = plot_label_distributions(label_freq, title='Swda Label Frequency Distributions', num_labels=15)
+label_freq_chart.savefig(os.path.join(metadata_dir, 'Swda Label Frequency Distributions.png'))
 
 # Write labels and frequencies to file
-with open(os.path.join(metadata_dir, 'labels.txt'), 'w+') as file:
-    for i in range(4, len(labels)):
-        file.write(labels.to_tokens(i) + " " + str(label_freq[labels.to_tokens(i)]) + "\n")
+save_label_frequency_distributions(label_freq, metadata_dir, 'labels.txt', to_markdown=False)
 
 # Count sets number of dialogues and maximum dialogue length
 max_dialogues_len = 0
