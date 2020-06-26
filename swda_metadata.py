@@ -29,6 +29,7 @@ print("Total number of utterances: ", num_utterances)
 
 # Calculate max utterance length in tokens
 max_utterance_len = 0
+mean_utterance_len = 0
 tokenised_utterances = []
 for utt in utterances:
 
@@ -39,9 +40,14 @@ for utt in utterances:
 
     tokenised_utterances.append(tokenised_utterance)
 
+    # Add length to mean
+    mean_utterance_len += len(tokenised_utterance)
+
 metadata['max_utterance_len'] = max_utterance_len
 print("Max utterance length: ", max_utterance_len)
 assert num_utterances == len(tokenised_utterances)
+metadata['mean_utterance_len'] = mean_utterance_len / num_utterances
+print("Mean utterance length: " + str(mean_utterance_len / num_utterances))
 
 # Count the word frequencies and generate vocabulary
 word_freq = nlp.data.count_tokens(list(itertools.chain(*tokenised_utterances)))
@@ -79,6 +85,8 @@ save_label_frequency_distributions(label_freq, metadata_dir, 'labels.txt', to_ma
 
 # Count sets number of dialogues and maximum dialogue length
 max_dialogues_len = 0
+mean_dialogues_len = 0
+num_dialogues = 0
 sets = ['train', 'test', 'val']
 for i in range(len(sets)):
 
@@ -97,6 +105,10 @@ for i in range(len(sets)):
         # Load dialogues utterances
         utterances = load_text_data(os.path.join(data_dir, sets[i], dialogue + '.txt'), verbose=False)
 
+        # Count dialogue length for mean
+        num_dialogues += 1
+        mean_dialogues_len += len(utterances)
+
         # Check set and global maximum dialogue length
         if len(utterances) > set_max_dialogues_len:
             set_max_dialogues_len = len(utterances)
@@ -107,8 +119,12 @@ for i in range(len(sets)):
     metadata[sets[i] + '_max_dialogues_len'] = set_max_dialogues_len
     print("Maximum length of dialogue in " + sets[i] + " set: " + str(set_max_dialogues_len))
 
+metadata['num_dialogues'] = num_dialogues
+print("Total Number of dialogues: " + str(num_dialogues))
 metadata['max_dialogues_len'] = max_dialogues_len
 print("Maximum dialogue length: " + str(max_dialogues_len))
+metadata['mean_dialogues_len'] = mean_dialogues_len / num_dialogues
+print("Mean dialogue length: " + str(mean_dialogues_len / num_dialogues))
 
 # Save data to pickle file
 save_data_pickle(os.path.join(metadata_dir, 'metadata.pkl'), metadata)
