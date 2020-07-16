@@ -43,6 +43,15 @@ def remove_file(data_dir, file, utterance_only):
             os.remove(os.path.join(data_dir, file + '.txt'))
 
 
+def save_word_frequency_distributions(data, metadata_dir, file_name):
+
+    row_format = '{:20} {:^10} \n'
+    with open(os.path.join(metadata_dir, file_name), 'w+') as file:
+        file.write(row_format.format(*data.columns.to_list()))
+        for index, row in data.iterrows():
+            file.write(row_format.format(row['Words'], row['Count']))
+
+
 def get_label_frequency_distributions(data_dir, metadata_dir, label_map='label_map.txt', label_index=2):
     # Load set text files and get the labels
     full_set = load_text_data(os.path.join(data_dir, 'full_set.txt'))
