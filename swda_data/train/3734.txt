@@ -92,7 +92,7 @@ A|and I just wish that I could just go without them.|sd
 B|Um.|b
 B|Oh, wow, I love shoes.|sd
 A|Oh, really.|b
-B|I always  buy shoes|sd
+B|I always buy shoes|sd
 A|Oh.|b
 B|Yeah.|b
 A|Just the opposite.|sd
@@ -109,7 +109,7 @@ A|So, it's pretty fun though.|sd
 B|I like the look, the, the like suit look, professional like, you know, look,|sd
 B|but I, I really don't have much of an opportunity to wear it|sd
 A|Yeah.|b
-B|Um  I'm  going to be a teacher,|sd
+B|Um  I'm going to be a teacher,|sd
 A|I.|%
 B|so I'll probably just wear casual clothes, maybe skirts and some.|sd
 A|Oh.|b
@@ -166,7 +166,7 @@ A|it's, it's, you know, like exercise or something for your feet.|sd
 A|And I have to wear them because he gets upset if I don't.|sd
 A|So so, so how do people in Wisconsin dress?|qo
 B|Oh, yeah|b
-B|Warm  this time  this time, of the year pretty warm.|sd
+B|Warm this time  this time, of the year pretty warm.|sd
 A|Warm.|b^m
 B|Sweaters and.|sd
 A|I grew up in New York,|sd

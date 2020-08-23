@@ -32,11 +32,11 @@ A|Yeah.|b
 B|and does the company pay for it. You know, all or partially|sd
 B|or how does that work.|sd
 A|Uh-huh.|b
-B|And, uh, also, uh, vacation time too is a, is a big  one for me.  Uh, and I guess support for whatever, whatever other, you know, kinds of professional activities you have at, you know, work.|sd
+B|And, uh, also, uh, vacation time too is a, is a big one for me.  Uh, and I guess support for whatever, whatever other, you know, kinds of professional activities you have at, you know, work.|sd
 A|Yeah.|b
 A|Yeah.|b
 A|Yeah.|b
-B|Uh,  cause I've  been at places which offer a lot of support and others that don't offer any  and  some that, sometimes that's coincided with a place that offers more vacation time though,|sd
+B|Uh, cause I've  been at places which offer a lot of support and others that don't offer any and  some that, sometimes that's coincided with a place that offers more vacation time though,|sd
 A|Huh.|b
 A|Right.|b
 B|so that's not so bad, you know.|sv
@@ -44,7 +44,7 @@ A|Yeah.|b
 B|You know, it's kind of a give and take kind of thing, I think.|sv
 A|Uh-huh.|b
 B|Uh, I say that health care is probably definitely number one though.|sv
-B|want to just, you know, all your salary can't even  begin  to pay for what you can wind up losing, you know in a major illness or something. Uh.|sv
+B|want to just, you know, all your salary can't even begin  to pay for what you can wind up losing, you know in a major illness or something. Uh.|sv
 A|Yeah.|b
 A|Yeah.|b
 A|Right.|aa
@@ -69,10 +69,10 @@ B|And so she works a lot of evenings and weekends|sd
 B|and so two days a week, I, uh, manage to get home early enough to meet the kids on the bus|sd
 B|So she you know, goes in early those days and works like, you know, noon til close.|sd
 B|Uh, so we have|sd
-A|Well,  that's great that you all can work that out.|ba
+A|Well, that's great that you all can work that out.|ba
 A|That's really good.|ba
 B|Yeah,|aa
-B|and being  on a, you know, rigid schedule wouldn't, there wouldn't be anyway to do that at all.|sd
+B|and being on a, you know, rigid schedule wouldn't, there wouldn't be anyway to do that at all.|sd
 A|Right.|b
 B|And I think it's kind of neat to be able to spend the afternoons with the kids occasionally too.|sd
 A|Uh-huh.|b
@@ -89,7 +89,7 @@ A|Worked out really well for us too.|sd
 B|Yeah.|b
 A|Uh. Well is there anything else that you look for|qy
 A|or,|%
-B|Uh,  a lot of I guess is.|sd
+B|Uh, a lot of I guess is.|sd
 A|You've hit pretty,|sv
 A|you've put a lot of the main points in.|sv
 B|Yeah.|aa
@@ -110,7 +110,7 @@ B|and they were all straight|^q
 B|and your building didn't fall down, you know|^q
 B|Yeah,|^q
 B|you did a great job.|^q
-B|But if you build computer systems, like, well, you know, what does that computer program really do, you know. Or, especially if you write like papers,  you know.  Or do design studies or something.|qh
+B|But if you build computer systems, like, well, you know, what does that computer program really do, you know. Or, especially if you write like papers, you know.  Or do design studies or something.|qh
 A|Uh-huh.|b
 B|It's real hard to rate something like that.|sv
 A|Uh-huh.|b

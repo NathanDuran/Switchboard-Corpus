@@ -21,14 +21,14 @@ A|Uh-huh.|b
 B|and I feel better.|sd
 B|Um, she has a crazy father out there somewhere that I just don't let her out of my sight.|sd
 B|So, um  you never know.|sd
-A|Well, and, um,  it's nice for them  not to be alone.|sv
+A|Well, and, um, it's nice for them  not to be alone.|sv
 B|Yeah,|aa
 B|yeah,|aa
 B|she feels that way, you know,|sd
 B|and we have a neighbor on the next block that she could always walk over there and go to school with,|sd
 A|Uh-huh.|b
 B|but we just feel better doing it this way.|sd
-B|So.  I don't know  what day we'll stop.|sd
+B|So.  I don't know what day we'll stop.|sd
 A|Not after|ba
 B|We, we were about to stop one day this year,|sd
 B|and then her father called the school and made all kinds of threats,|sd
@@ -53,7 +53,7 @@ A|But, um, it's really scary,|sv
 A|and I would really hate to be in a position to have to find child care|sd
 B|Well, I would, too, because even though a place can look pretty good on the outside, we're finding out now that it's not always on the inside|sd
 A|Uh-huh.|b
-B|and I, I just don't know what I would do if  I had  to do that.|sd
+B|and I, I just don't know what I would do if  I had to do that.|sd
 A|No.|aa
 B|I know the hospital that I work in is a big hospital|sd
 B|and they provide child care,|sd

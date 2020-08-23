@@ -11,7 +11,7 @@ A|Yeah,|b
 A|yeah.|b
 A|Uh-huh.|b
 B|I don't know about the young women,|sd
-B|I don't know if they have to  serve in the military,  too.|sd
+B|I don't know if they have to serve in the military,  too.|sd
 A|Yeah,|b
 A|a lot,|%
 A|yeah,|%
@@ -37,8 +37,8 @@ A|Yeah.|b
 B|He came from a poor immigrant family,|sd
 B|and he didn't have a chance to, uh, you know,|sd
 B|the family wasn't wealthy,|sd
-B|so he had to do something to,  put himself through  school,|sd
-A|Do  it himself.|^2
+B|so he had to do something to,  put himself through school,|sd
+A|Do it himself.|^2
 B|and he did.|sd
 B|And he was very successful.|sd
 A|Well, my parents wanted to send me to college,|sd
@@ -70,11 +70,11 @@ B|I mean, I've always felt that people on welfare should be required to spend at
 A|Oh yeah, Absolutely.|aa
 B|I mean,|%
 A|All these, all this money that we're throwing away to pay people to go out and do things when we're paying all these welfare recipients,|sv
-A|and if they're able-bodied people, I don't see any problem at all with having them go out there and, and, if nothing else, get a group of them together and take them around to old folks  places  and let them cut the yards, paint the houses.|sv
+A|and if they're able-bodied people, I don't see any problem at all with having them go out there and, and, if nothing else, get a group of them together and take them around to old folks  places and let them cut the yards, paint the houses.|sv
 B|Yeah.|b
 B|Yeah,|b
-B|we'd learn service  to other people   in this  country.|sv
-A|Sure  ,|b
+B|we'd learn service to other people   in this country.|sv
+A|Sure ,|b
 A|sure.|b
 A|So I'm,|%
 A|get something out of that money.|sv
@@ -178,7 +178,7 @@ A|Yeah,|b
 A|and, and it can be good for them, too.|sv
 B|Yeah,|b
 B|oh yeah.|b
-A|I mean,  even, even the greedy kids that we've got now ...|%
+A|I mean, even, even the greedy kids that we've got now ...|%
 B|Oh god, you go to the mall|ad
 B|and you see, you know, fourteen year old kids flaunting money, because the parents give them money to go down and play video games all night, you know|sd
 A|I know.|aa
@@ -267,8 +267,8 @@ B|so they went bankrupt.|sd
 A|Yeah.|b
 B|And, and they all lost their jobs.|sd
 A|Sure,|b
-A|and, and   and that's  really what happened to the steel industry in this country.|sv
-B|And it's like  ,  you know.|%
+A|and, and   and that's really what happened to the steel industry in this country.|sv
+B|And it's like , you know.|%
 B|Yeah.|b
 A|So many times, I mean, you had the, uh, the coal miners and steel workers going out at the same time.|sd
 A|And, well, that took care of that industry|sv

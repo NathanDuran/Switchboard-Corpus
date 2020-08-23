@@ -106,4 +106,4 @@ B|but, no|nn
 B|no,|nn
 B|the JAGGED EDGE,|sd
 B|the JAGGED EDGE  with, uh,|sd
-A|Oh, okay  .|b
+A|Oh, okay .|b

@@ -7,8 +7,8 @@ B|and I, personally, I don't think I would work for somebody if they were going 
 A|Yeah,|aa
 A|uh, I guess I basically agree that, uh,|sv
 A|do you think it's okay for a company to reject somebody knowing that they'll take drugs?|qy
-A|I mean suppose  they found out some other way?|qy^d
-B|Well, I think, I think  we, I think the problem here is, is that a, a drug test does not necessarily imply that someone is taking drugs or not taking drugs.|sv
+A|I mean suppose they found out some other way?|qy^d
+B|Well, I think, I think we, I think the problem here is, is that a, a drug test does not necessarily imply that someone is taking drugs or not taking drugs.|sv
 A|Yeah.|b
 B|There's too many cases where it can, you know,|sv
 B|there can be false positive results, and that, that sort of thing.|sv
@@ -30,7 +30,7 @@ B|Uh, yeah,|ny
 B|I have been.|sd
 A|Yeah.|b
 B|I.  I mean, I was very offended by, by the whole process.|sd
-A|I  once too,|sd
+A|I once too,|sd
 A|so.|%
 A|Yeah.|b
 B|I mean it's very humiliating,|sv

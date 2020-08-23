@@ -15,7 +15,7 @@ B|Yes, they do.|aa
 A|Yeah.|b
 B|Yeah,|b
 B|they do.|aa
-A|I know  my mother and her sister were both married by the time they were twenty|sd
+A|I know my mother and her sister were both married by the time they were twenty|sd
 B|Right.|b
 A|and I waited until I was thirty-two,|sd
 A|so.|%

@@ -35,11 +35,11 @@ A|if you are looking at like you know country that, uh, where they do have a lot
 A|the amount of violent crime has decreased by so much.|sv
 B|It has?|bh
 B|Because then,|%
-A|Well I mean  yeah.|ny
+A|Well I mean yeah.|ny
 A|The, uh, the|%
 A|in comparing per capita murders are incredibly lower than the United States.|sv
 B|Um.|b
-A|Uh, you know, I mean, the problem though, you know, they, if the, since the United States had this, you know, pretty much unrestricted flow of guns going for so long that I think, you know, if you were introduced, you know, any controls, it would probably take a long while for them to take effect just because there is a glut of guns out  there already.|sv
+A|Uh, you know, I mean, the problem though, you know, they, if the, since the United States had this, you know, pretty much unrestricted flow of guns going for so long that I think, you know, if you were introduced, you know, any controls, it would probably take a long while for them to take effect just because there is a glut of guns out there already.|sv
 B|Yeah.|b
 A|You know, so it's, it's really kind of a complex problem.|sv
 B|Well, is the crime that bad there in Atlanta?|qy
@@ -48,7 +48,7 @@ A|I've, I've not really had that many problems with it,|sd
 A|but I mean apparently we, we were ranked pretty high up.|sd
 B|Yeah|b
 B|I know Dallas is.|sd
-A|Uh.  I mean, I think, you know, in the|%
+A|Uh. I mean, I think, you know, in the|%
 A|I mean I think we have been like ranked in one of the top three for murders in the last few years.|sd
 B|I don't know if Dallas is in the top three|sd
 A|Uh-huh.|b
@@ -92,7 +92,7 @@ A|because you know, if you ever get in the situation where you know you are not 
 A|but you pick up the gun and point it at the person that, that person rushes you.|sv
 B|Yeah.|b
 B|And they get it from you.|sv
-A|And you know, you're pretty much dead  you know.  Because you, you've just told the person that you, you're about to kill them then, You know|sv
+A|And you know, you're pretty much dead you know.  Because you, you've just told the person that you, you're about to kill them then, You know|sv
 B|Uh-huh.|b
 B|Set them off.|^2
 A|and, and, well I mean, you, you basically made it clear to the person that you know unless he, unless, you know that you are a real danger to them|sv

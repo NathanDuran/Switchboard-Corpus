@@ -27,10 +27,10 @@ B|I'm still a student so, uh, I only work part time,|sd
 A|Uh-huh|b
 B|so I, I get a check back|sd
 B|so|%
-A|Well  that's nice.|ba
+A|Well that's nice.|ba
 B|from, from taxes|sd
 B|but,|%
-A|Nice,  nice to get a refund.|sv
+A|Nice, nice to get a refund.|sv
 B|Yeah|aa
 B|It is,|sv
 B|but it's not much.|sd
@@ -46,7 +46,7 @@ B|Yeah.|b
 A|You know what I mean?|bh
 B|Yeah.|ny
 A|Uh, it, it really, uh,|%
-A|I should say one arm giving another arm a transfusion through a leaky tube  because,  Right because, uh, there's an old saying in amongst taxes and politicians that there's a fly paper effect|sv
+A|I should say one arm giving another arm a transfusion through a leaky tube because,  Right because, uh, there's an old saying in amongst taxes and politicians that there's a fly paper effect|sv
 B|Yeah.|b
 B|There you go|ba
 A|and that is that money tends to stick where it lands first|sv

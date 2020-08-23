@@ -42,7 +42,7 @@ B|now. Well, Mark, um, what was that again?|qw
 A|Um, do you think, I mean, do you think, our the investment in lives and money was worth it?|qy
 B|No,|nn
 B|not, not really.|ng
-A|I totally agree with that.  Um.|aa
+A|I totally agree with that. Um.|aa
 B|Um.|%
 A|What, what effects do you think it's had on our country?|qw
 B|Downside. Um, uh, well,|bf

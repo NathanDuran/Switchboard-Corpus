@@ -130,13 +130,13 @@ B|Do you do barbecues?|qy
 A|Yes,|ny
 A|we sure do,|sd
 A|smoke them|sd
-B|Well, uh, uh, smoking and  all that stuff?|qy
+B|Well, uh, uh, smoking and all that stuff?|qy
 A|Oh, yeah,|ny
 A|all that hoedown stuff.|sd
 B|Yeah,|b
 B|yep,|b
 A|All that stuff that's bad for you.|sd
-B|I, I lived in Abilene for  a little while, and, uh, worked in the Abilene plant,|sd
+B|I, I lived in Abilene for a little while, and, uh, worked in the Abilene plant,|sd
 A|Oh, sure,|b
 A|yeah.|b
 B|and we used to go to Joe Allen's Barbecue,|sd

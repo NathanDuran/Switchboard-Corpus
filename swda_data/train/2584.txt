@@ -4,11 +4,11 @@ B|No,|nn
 B|I've haven't gone camping in years.|sd
 B|But it's is something that I've done in the past.|sd
 B|How about you?|qo
-A|Uh, we try to go once, maybe twice a summer. Uh,  we, uh, just, you know, for  like a short weekend or something.|sd
+A|Uh, we try to go once, maybe twice a summer. Uh,  we, uh, just, you know, for like a short weekend or something.|sd
 B|That's, that's pretty average to me|sv
 A|We don't go for the long, you know, week long thing.|sd
 B|Uh-huh.|b
-A|But we usually go to, uh, a lake area, you know, where the campsites,  are  and do that. Uh,|sd
+A|But we usually go to, uh, a lake area, you know, where the campsites,  are and do that. Uh,|sd
 B|Right.|b
 B|Do you tent camp|qy
 B|or do you have a camper?|qrr
@@ -26,7 +26,7 @@ A|Yeah.|b
 B|As a matter of fact, my, my, you know, the majority of the amount of camping I've done has been really roughing it.|sd
 B|Um, as a little girl I'd go with my dad and my uncle and my brother,|sd
 B|and we went to the Boundary Waters area in Minnesota.|sd
-B|So,  that's,  that's really wild.|sd
+B|So,  that's, that's really wild.|sd
 A|Oh.|b
 A|Yeah.|b
 A|Are you here in local Texas,|qy
@@ -48,13 +48,13 @@ A|I know,|aa
 A|and then they, and they, you know,|%
 A|there's no T V,|sv
 A|and they don't have all these modern toys,|sv
-A|and they have to use sticks and rocks and stuff like,  that  to play with.|sv
+A|and they have to use sticks and rocks and stuff like,  that to play with.|sv
 B|Exactly.|aa
 B|Yes.|aa
 A|And I like that.|sd
 A|It's pretty fun.|sv
 B|Well, how it,|%
-B|it's really is a, is a good, good family thing,  to  do.|sv
+B|it's really is a, is a good, good family thing,  to do.|sv
 A|Uh-huh.|b
 A|Yeah.|b
 B|Yeah.|b^m
@@ -69,7 +69,7 @@ A|Yeah|aa
 A|Because it gets, it really does get expensive if you, if you don't want to rough it all the way.|sv
 B|Exactly.|aa
 A|You know, even the sleeping bags, those are running, you know, a good thirty dollars a pop,|sv
-A|and,  and so  we've built that up.|sd
+A|and,  and so we've built that up.|sd
 B|You're right.|aa
 A|But,|%
 B|Do you have a boat?|qy
@@ -81,7 +81,7 @@ B|Oh, well, actually, I would, you know what I would love?|t1
 B|I would absolutely love a sail boat.|sd
 A|Oh.|bk
 B|That doesn't go along with camping,|sv
-B|but,  now that,  that, that's what I would like,  to  have.|sd
+B|but,  now that, that, that's what I would like,  to have.|sd
 A|Yes|b
 A|Yeah,|b
 A|I would too.|sd
@@ -93,7 +93,7 @@ A|we try to go to a lake.|sd
 A|My husband and this, uh, other couple that we go with, her husband, um, kind of likes, um, is it scuba dive?|sd
 A|And, so we'll go to a lake and, uh, where they can go do that.|sd
 B|Uh-huh.|b
-A|We're  close enough so they can do that,|sd
+A|We're close enough so they can do that,|sd
 A|and the girls can play on the beach area|sd
 B|And I would play on the beach area too.|sd
 A|Yeah.|b
@@ -121,7 +121,7 @@ A|Oh, that's true,|aa
 A|that's true.|aa
 A|I, see I don't think I do,|sv
 A|but, uh, but a lot of people do say I sound like,|sd
-A|I guess, I have, I guess more of a twang,  to  my voice almost a|sv
+A|I guess, I have, I guess more of a twang,  to my voice almost a|sv
 B|Uh-huh.|b
 B|Are you a, a native Texan?|qy
 A|I sure am.|na
@@ -141,7 +141,7 @@ A|Or is there?|qy
 A|Okay,|%
 A|well, we didn't go camping,|sd
 A|we just, uh, we did like, uh, we drove down to Houston to visit friends,|sd
-A|and,  we  went to Galveston and, uh, to San Antonio and then up to Austin. And, and kind of, uh, you know, doing the sight seeing type stuff.|%
+A|and,  we went to Galveston and, uh, to San Antonio and then up to Austin. And, and kind of, uh, you know, doing the sight seeing type stuff.|%
 B|Uh-huh.|b
 A|So we didn't go camping.|sd
 A|That would be fun though to go.|sv
@@ -150,7 +150,7 @@ A|And I said, Well, I'd love that|sd
 A|but,|%
 B|It takes a lot more planning.|sv
 A|It does,|aa
-A|and, and ever once, you know, on my summer vacation, you know, my week-long vacation, I,  want  to be a little bit pampered, you know, by a,  hotel  and a waiter|sd
+A|and, and ever once, you know, on my summer vacation, you know, my week-long vacation, I,  want to be a little bit pampered, you know, by a,  hotel and a waiter|sd
 B|Uh-huh.|b
 B|Right.|b
 B|Exactly,|aa
@@ -163,7 +163,7 @@ B|No,|nn
 B|I haven't.|sd
 A|It's, uh, there's a town called Glenrose.|sd
 A|I think it's around two hours from here.|sd
-A|And, uh, it's, it has like dinosaur tracks,  and stuff like  that|sd
+A|And, uh, it's, it has like dinosaur tracks,  and stuff like that|sd
 B|Oh, that sounds,  That sounds great.|ba
 A|and it's got one of those wildlife parks.|sd
 A|Yeah.|aa
@@ -173,18 +173,18 @@ A|and,|%
 B|Have you ever camped out of state?|qy
 A|No,|nn
 A|I haven't.|sd
-B|You know, where you should try,  sometime is  Colorado.|ad
+B|You know, where you should try,  sometime is Colorado.|ad
 A|Where at?|qw
 B|It is beautiful.|sv
 A|Is it?|bh
 B|Absolutely beautiful.|na
 A|I've just been up there skiing,|sd
 A|and, well, we've driven through,|sd
-A|and,  you  know,|b
+A|and,  you know,|b
 B|Uh-huh.|b
 B|Uh-huh.|b
-A|but,  but not, you know, camping or anything.|sd
-A|But I would love to camp,  in  the mountains.|sd
+A|but, but not, you know, camping or anything.|sd
+A|But I would love to camp,  in the mountains.|sd
 B|Yes.|b
 B|Estes State Park is fantastic.|sd
 A|That's what my girlfriend says.|sd
@@ -199,10 +199,10 @@ B|and it's very peaceful.|sd
 A|Oh.|b
 B|And, um, in, in the early fall time,|sd
 A|Uh-huh.|b
-B|um,  I can't remember what type of trees they are,|sd
+B|um, I can't remember what type of trees they are,|sd
 B|but they, all the leaves turn yellow,|sd
 A|Oh.|b
-B|and  it's just brilliant.|sd
+B|and it's just brilliant.|sd
 B|And,|%
 A|I love that.|sd
 B|Yes,|aa
@@ -218,16 +218,16 @@ B|Yeah.|b
 A|I felt like we roughed it then|sd
 B|Uh, well we did, you know,|sd
 B|we really did.|sd
-B|I mean, I just don't understand these people that think taking an R V,  and  parking it and sitting inside and watching T V,  and  having your microwave|sv
+B|I mean, I just don't understand these people that think taking an R V,  and parking it and sitting inside and watching T V,  and having your microwave|sv
 A|Right.|b
 A|Yes.|b
 A|Exactly.|aa
-B|It's not  camping.|sv
+B|It's not camping.|sv
 A|I mean, we had to make the fires and dig latrines and everything.|sd
 B|Right,|aa
 B|right.|aa
 B|I mean that is it|sv
-A|You have to get poison ivy and all that good stuff,  to  really be camping|sv
+A|You have to get poison ivy and all that good stuff,  to really be camping|sv
 B|Right.|b
 B|Oh.|b
 A|Yeah.|b
@@ -244,7 +244,7 @@ B|money's precious.|sv
 A|Yes.|b
 B|Um, and it, it,|%
 B|I think I haven't been able to do it,|sd
-B|and, you know, what, that was one of the things I really thought I'd like to do with my children,  you know,  again.|sd
+B|and, you know, what, that was one of the things I really thought I'd like to do with my children,  you know, again.|sd
 A|Uh-huh,|b
 A|uh-huh.|b
 B|And I'm a little bit fearful of trying that just women.|sd
@@ -257,19 +257,19 @@ A|but,|%
 B|Yes,|aa
 B|I, I really now,|%
 B|I, I have gone on one little vacation, just the girls and I.|sd
-B|We drove down to Port Aransas,  and  rented a little efficiency, you know,  and,  and had a marvelous like two nights,|sd
+B|We drove down to Port Aransas,  and rented a little efficiency, you know,  and, and had a marvelous like two nights,|sd
 A|Oh.|b
 A|Yeah.|b
 A|Yeah.|b
-B|and  that was great.|sd
-B|And even at that, it, it was like the first time that I ventured,  you  know, out of the city by myself.|sd
+B|and that was great.|sd
+B|And even at that, it, it was like the first time that I ventured,  you know, out of the city by myself.|sd
 A|Uh-huh.|b
 B|And, and, you know, I, I stayed in a nice place.|sd
 B|But it's still, it's real different not to have another adult with you.|sv
 A|Yes.|aa
 A|I|aa
 B|You know.|b
-A|I can  imagine.|ba
+A|I can imagine.|ba
 B|I'm just a chicken.|sv
 B|I know lots of women would do it all the time.|sd
 A|No|ar
@@ -284,7 +284,7 @@ B|So, well it's, It was a good plan but I haven't yet|ng
 A|Have you?|qy
 A|Okay.|bk
 B|I got into sales,|sd
-B|and,  I'm  selling, uh, telephone systems.|sd
+B|and,  I'm selling, uh, telephone systems.|sd
 A|Oh.|b
 A|Oh, that's neat.|ba
 B|And it's, it's fun|sd
@@ -311,7 +311,7 @@ B|voice, There's someone at the door.|sd
 A|Oh, okay.|b
 A|Do you need to go?|qy
 B|Well, um, I'm going to listen.|arp_nd
-B|We always check and see if we should answer the door,  at  night.|sd
+B|We always check and see if we should answer the door,  at night.|sd
 A|Yeah.|b
 A|That's very smart.|ba
 B|Yeah|b
@@ -338,7 +338,7 @@ B|Well, you know, when I had to|%
 B|this is my, my Gemini nature, you know,|sv
 B|it's like what are you interested in,|sd
 A|Yes.|b
-B|and  it's like virtually anything.|sd
+B|and it's like virtually anything.|sd
 B|I'll talk about anything to anybody|sd
 A|Yeah.|b
 A|I don't,|sd
@@ -348,7 +348,7 @@ A|you bet.|ba
 B|And it's, it's been real interesting, the different personalities That I run across.|sd
 A|I know.|aa
 A|Yes,|aa
-A|I always try to find out where they're from,  you  know,|sd
+A|I always try to find out where they're from,  you know,|sd
 B|Exactly.|aa
 A|cause, because it is neat.|sv
 B|Uh-huh.|b
@@ -360,7 +360,7 @@ B|Well, thank you.|fc
 B|And, um, I enjoyed talking with you.|fc
 A|You, me too.|fc
 B|You have a good time camping,|fc
-B|when you go next time,  think  of me|fc
+B|when you go next time,  think of me|fc
 A|Thanks.|fc
 A|Okay.|fc
 A|Thank you.|fc

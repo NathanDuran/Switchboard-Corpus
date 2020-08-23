@@ -32,7 +32,7 @@ A|Uh-huh|b
 A|Right.|b
 B|and because of that, these quote, unquote convenience type items have made work that much more intense and that much harder.|sv
 A|Right.|b
-B|Because you're expected to work on  stuff up until the last minute.|sv
+B|Because you're expected to work on stuff up until the last minute.|sv
 A|You're expected to,|aa
 A|exactly.|aa
 A|And I recently read an article on just this, that said stress today is so much worse|sd
@@ -88,7 +88,7 @@ B|Uh,  Most of the, of the next generation is going to be in, or, or an, extreme
 A|Yeah.|aa
 A|I don't know either.|sd
 A|That's true.|aa
-B|And they're  going to be really struggling|sv
+B|And they're going to be really struggling|sv
 B|and I don't think that America is currently the type of environment where struggling up from the bottom is necessarily considered to be good|sv
 A|Right,|aa
 A|right.|aa
@@ -103,8 +103,7 @@ A|it's just very, very different|sv
 A|and I guess every ten years it's just been very different.|sv
 B|Yeah|b
 A|So. And I don't know what's going to happen.|sd
-A|Uh, I know what I'm seeing here at my job is that people are having their children much later in life  so  that they're establishing careers|sd
+A|Uh, I know what I'm seeing here at my job is that people are having their children much later in life  so that they're establishing careers|sd
 B|Yeah,|aa
-B||%
 A|and they've got their homes|sd
 A|and they've got,|%

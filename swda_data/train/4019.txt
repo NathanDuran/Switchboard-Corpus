@@ -1,8 +1,8 @@
-A|Okay, um, Chuck, do you have any pets  there at your home?|qy
+A|Okay, um, Chuck, do you have any pets there at your home?|qy
 B|Yeah, I do.|ny
 A|And what kind do you have?|qw
 B|I've got a male Siamese about a year old here.|sd
-B|I live alone in an apartment,  and, uh,  except for the cat.|sd
+B|I live alone in an apartment, and, uh,  except for the cat.|sd
 A|Uh-huh.|b
 A|Uh-huh|b
 B|How about you?|qo
@@ -79,7 +79,7 @@ A|but we're in a subdivision where we really can't allow the dog,|sd
 B|I see.|bk
 A|we couldn't allow him to run free,|sd
 A|so, he was just chained up all the time,|sd
-A|and it was,  it was  unfortunate.|sd
+A|and it was, it was  unfortunate.|sd
 B|Sure.|b
 A|So have you tried any other pets?|qy
 B|No,|nn
@@ -117,11 +117,11 @@ B|I think it's in New York City at the, at the Gardens|sd
 B|there once a year live|sd
 A|Oh.|%
 B|and they had that on last week,|sd
-B|and that's really  kind of something  to watch, uh,|sv
+B|and that's really kind of something  to watch, uh,|sv
 A|Oh.|%
 B|it's on, I think, two or three nights for maybe an hour or two|sd
 A|Is that right?|bh
-B|and some of the weirdest animals you ever  want to see in there.|sv
+B|and some of the weirdest animals you ever want to see in there.|sv
 A|Oh|%
 B|Some of them are really beautiful, too.|sv
 A|Uh-huh.|b
@@ -139,15 +139,15 @@ A|and we really love it out here.|sd
 A|It's, uh, kind of country.|sd
 A|We're, we're only about ten minutes from Ogden.|sd
 B|Uh-huh.|b
-A|So, we're kind of country  but not too.|sd
-B|Well  do you all work for T I, or for,|qy
+A|So, we're kind of country but not too.|sd
+B|Well do you all work for T I, or for,|qy
 A|No,|nn
 A|huh-uh.|nn
 A|Do you?|qy
 B|Yeah,|ny
 B|yeah,|ny
 B|yeah.|ny
-A|Oh,  well, see, I'm getting so many calls to Texas.|sd
+A|Oh, well, see, I'm getting so many calls to Texas.|sd
 B|This is the very first one I've, I've talked to.|sd
 A|Oh, well, great.|ba
 A|Yeah,|b

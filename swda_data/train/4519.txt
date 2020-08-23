@@ -12,7 +12,7 @@ A|And, uh, we're both so, uh, frugal that, uh, we really don't need a budget, yo
 A|We just sort of invest the money and go on vacations and always never seem to have any money problems which I guess is a comfortable thing.|sd
 B|Yeah.|b
 B|Well I guess that really is sort of, uh, keeping a budget,|sv
-B|you know. You stay within your, uh  within your  means.|bf
+B|you know. You stay within your, uh  within your means.|bf
 A|Well we stay within our means|b^m
 A|but we  don't do it, uh, by conscious effort.|sd
 A|It just sort of happens automatically.|sd
@@ -21,7 +21,7 @@ A|Although we just moved to California|sd
 A|and, uh, the cost of living here in California is, uh, I would say rather pathological|sd
 B|Yes|aa
 A|Uh, housing prices are, you know, like from four to ten times more expensive than, uh, uh, they were where I came from in, uh, Dallas.|sd
-B|Oh, you moved from Dallas to San  Francisco.|bf
+B|Oh, you moved from Dallas to San Francisco.|bf
 A|Yeah.|aa
 A|So, uh uh, that presents a, a real shock|sd
 B|That is a hugh difference.|sv
@@ -42,7 +42,7 @@ A|When I, uh, was in, uh, undergraduate school a long, long time ago, I, uh, not
 A|And, uh, I noted at that point that I was, you know, if that's what my salary was that I drew then I would be making almost twice as much as my father made during his best year ever.|sd
 A|So I stopped worrying about money.|sd
 B|Yeah.|b
-A|And  it,|%
+A|And it,|%
 A|never have worried about money since then.|sd
 B|Well, that, that's a system too.|sv
 A|Sometimes, uh, it's a bit of a, a problem, you know, because I guess I don't really manage my money the way I should.|sd
@@ -72,8 +72,8 @@ A|Uh, one  nine and one thirteen|sd
 B|Oh.|%
 A|and they are beginning to be a budget problem but, uh, have not been really up until this, up to this point.|sd
 B|Do they budget at all?|qy
-B|I mean do you have them on an  allowance?|qy
-A|I give  them a, I give them an allowance|sd
+B|I mean do you have them on an allowance?|qy
+A|I give them a, I give them an allowance|sd
 A|and they, uh,|%
 A|I basically give my son ten dollars a week|sd
 A|and I put half of it in the bank|sd

@@ -118,7 +118,7 @@ B|Dallas is very nice.|sd
 B|I really enjoy it there. The landscaping, the homes, the architecture, the whole thing very enjoyable gardens,|sd
 A|Uh-huh.|b
 B|and my wife and I,|sd
-A|Except for the lack of trees, out where we are   It was all cotton fields,|sd
+A|Except for the lack of trees, out where we are  It was all cotton fields,|sd
 B|Well.|%
 A|and when we get to other parts of the country where the trees are so beautiful, we really miss it.|sd
 B|Yeah,|b

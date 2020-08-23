@@ -13,7 +13,7 @@ B|Uh|%
 B|Well it's kind of difficult for me. Because right now, uh, like most teachers, I'm laid off|sd
 B|and|%
 A|Huh.|%
-A|Oh dear,  that's terrible.|fo_o_fw_"_by_bc
+A|Oh dear, that's terrible.|fo_o_fw_"_by_bc
 B|so, um, I spend most, you know,|sd
 B|I substitute a lot.|sd
 A|Uh-huh.|b
@@ -48,7 +48,7 @@ B|but they probably won't because next week the kids have school vacation.|sd
 A|I see.|b
 B|So, you know, the four days before, they only have a four day week|sd
 A|Uh-huh.|b
-B|and they  usually don't need subs because everybody's pretty good about coming in|sd
+B|and they usually don't need subs because everybody's pretty good about coming in|sd
 A|oh, I see.|b
 B|They don't like to be absent before a vacation.|sv
 A|Oh, sure.|b
@@ -85,7 +85,7 @@ A|but at the present stage, you probably are even more in the market for a, a bu
 B|Right.|b
 B|Uh-huh.|aa
 B|Definitely.|aa
-A|Do you have,  do you have a computer at home|qy
+A|Do you have, do you have a computer at home|qy
 A|or,|%
 B|Uh, yes|ny
 B|we do.|sd
@@ -95,7 +95,7 @@ B|you know, I keep track of every penny. And, more or less, enter it in.|sd
 A|Uh-huh.|b
 B|Every single day I'm at the computer.|sd
 A|I see.|b
-B|And, it's like, okay, what do we have left, what do we have to pay,  what  have we paid this month. What hasn't come in yet, you know|sd
+B|And, it's like, okay, what do we have left, what do we have to pay, what  have we paid this month. What hasn't come in yet, you know|sd
 A|Uh-huh.|b
 A|Yeah.|b
 A|Have you, do you use a standard, uh, a standard spread sheet|qy

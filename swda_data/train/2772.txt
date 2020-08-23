@@ -6,9 +6,9 @@ A|Okay.|aa
 B|We're from San Antonio|sd
 B|and that's where I grew up,|sd
 A|Oh,|%
-B|So  I was used to the heat, out here right now,|sd
+B|So I was used to the heat, out here right now,|sd
 A|Yeah.|b
-B|Gosh,  it gets to about seventies, high seventies|sd
+B|Gosh, it gets to about seventies, high seventies|sd
 B|and it gets very cold at night.|sd
 A|Uh-huh.|b
 B|And Monterey it's, um, right on the coast.|sd
@@ -25,7 +25,7 @@ A|Uh-huh.|b
 B|And, um, we usually get a fog. Uh, right about, I guess, about four o'clock|sd
 B|and it kind of rolls in over the coast.|sd
 B|And, uh, then it usually breaks back off again the next morning.|sd
-B|And if you go just a little bit ways in, I'd say about a fifteen minute drive in towards Salinas,  uh,  the weather completely changes|sd
+B|And if you go just a little bit ways in, I'd say about a fifteen minute drive in towards Salinas,  uh, the weather completely changes|sd
 A|Uh-huh.|b
 B|and it gets very hot and dry|sd
 B|and the fog never makes it that far.|sd
@@ -83,7 +83,7 @@ A|Um, we've had a few down here, but not anything like Kansas.|sd
 B|Uh-huh.|b
 A|But this is the season for that.|sd
 B|Oh, gosh.|ba
-A|They do, they do pop up occasionally,  around  here.|sd
+A|They do, they do pop up occasionally,  around here.|sd
 B|Uh-huh.|b
 B|Oh Yeah.|b
 B|I really don't miss all the heat there.|sd
@@ -92,7 +92,7 @@ B|I'm getting acclimated to have the cool evenings|sd
 B|so we get a bit of a relief.|sd
 A|Yeah.|b
 A|I'm from here originally,|sd
-A|so when it's July and August, I'm pretty well used to the,  hundred  degree temperatures.|sd
+A|so when it's July and August, I'm pretty well used to the,  hundred degree temperatures.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Yeah|b
@@ -101,12 +101,12 @@ A|It's that black clay soil.|sd
 B|Oh. Is that what Dallas is,|qy
 B|okay.|fo_o_fw_"_by_bc
 B|Yeah.|%
-A|You know, it's  not sandy like most of the state is,|sd
+A|You know, it's not sandy like most of the state is,|sd
 A|so it doesn't absorb the water real well.|sd
 B|Uh-huh.|b
 A|You know, once it rains a little bit, it's, it's filled up and everything else just runs off,|sd
 B|Uh-huh.|b
-A|you  know.|fo_o_fw_"_by_bc
+A|you know.|fo_o_fw_"_by_bc
 B|Yeah.|b
 B|San Antonio has that same problem when the rains come.|sd
 B|It's, it's a complete mess, everything floods, all the under passes.|sd
@@ -118,7 +118,7 @@ A|especially as rainy as it's been in the last couple of years.|sd
 A|And there's a section in South Dallas that's had a whole lot of flooding problems because of the rain.|sd
 B|Uh-huh.|b
 B|Well, we could use some rain up here.|sd
-B|We're like in the bottom of the fourth year of drought,  up  here|sd
+B|We're like in the bottom of the fourth year of drought,  up here|sd
 A|Really.|b
 B|and they had a pretty good early Spring|sd
 B|and we got quite a bit of rain,|sd
@@ -128,7 +128,7 @@ B|And, uh, so they're still talking water rationing this Summer,|sd
 B|so it would seem strange because in San Antonio,|sd
 B|we had lived out, um, west of San Antonio, in Castroville,|sd
 A|Uh-huh.|b
-B|And  the water in Medina Lake and that area was really going down, that they were considering that they might have to do water rationing|sd
+B|And the water in Medina Lake and that area was really going down, that they were considering that they might have to do water rationing|sd
 B|and I thought oh, gee I'm so glad to get out of there and get up here to the California Pacific coast where it rains and everything has flowers|sd
 B|and there's no problem with water.|^q
 B|And then I came here and found out they were in the, you know, four year draught|sd
@@ -136,14 +136,14 @@ A|Uh-huh.|b
 B|So I said, well, gee, this is pretty much like Texas.|sd
 B|And it pretty much is in the middle of Summer.|sd
 B|They have rolling hills around here|sd
-B|but,  um,  they turn to golden dead grass,  for  the majority of the Summer just because there is no water to keep them green.|sd
+B|but,  um, they turn to golden dead grass,  for the majority of the Summer just because there is no water to keep them green.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Yeah.|b
 B|But, um, it's a really nice area.|sd
 B|It's just, it's just such a change from, uh, Texas because I had grown up with, uh, the heat,|sd
 A|Uh-huh.|b
-B|and  used to essentially,|sd
+B|and used to essentially,|sd
 B|like you said, you have the cold Winter|sd
 B|and then you have the hot Summer Spring|sd
 A|Uh-huh.|b
@@ -164,7 +164,7 @@ B|To the heat.|^2
 B|I really don't miss the heat.|sd
 A|Yeah.|b
 B|Um, we do a lot of, you know,|sd
-B|when you do a lot of outside, like running and stuff, it's just so much easier,  up  here|sd
+B|when you do a lot of outside, like running and stuff, it's just so much easier,  up here|sd
 A|Uh-huh.|b
 B|and you don't have to worry about the high humidity.|sd
 A|Yeah.|b
@@ -180,7 +180,7 @@ B|Yeah.|b
 B|It seems like San Antonio is increasing in humidity over the years,|sd
 B|because I had lived in San Antonio for about twenty years,|sd
 A|Uh-huh.|b
-B|and  it just seemed like every year it just got more and more humid, more and more humid And here it's, uh, well it's right by the ocean,|sd
+B|and it just seemed like every year it just got more and more humid, more and more humid And here it's, uh, well it's right by the ocean,|sd
 A|Uh-huh.|b
 B|but, um, it's not the same as Corpus.|sd
 B|Corpus, you get that humid salty feeling in the air.|sd
@@ -194,7 +194,7 @@ B|for some reason, because of the cold, uh, ocean, uh, water, the air is always 
 B|It's never humid or sticky or salty feeling,|sd
 B|so I really like that about this area.|sd
 B|And, uh, we just hadn't expected it,|sd
-B|we were used to, what, uh, gulf coast weather was like,  when  we came here to Pacific coast weather.|sd
+B|we were used to, what, uh, gulf coast weather was like,  when we came here to Pacific coast weather.|sd
 A|Yeah.|b
 B|It's just completely different|sd
 B|and it's much nicer.|sd
@@ -242,7 +242,7 @@ B|and they want to go back|sd
 B|Nothing seems quite as good.|sd
 B|But, anyway. Well,|%
 A|Well, as we were talking the weather came on|sd
-A|and there's a flash flood watch and,  more rain  for the next three or four days.|sd
+A|and there's a flash flood watch and,  more rain for the next three or four days.|sd
 B|Oh, gee-whiz.|ba
 B|Oh, gosh.|ba
 B|Well, I hope it moves up this way,|sd

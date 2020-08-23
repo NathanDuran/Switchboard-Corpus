@@ -17,7 +17,7 @@ B|Uh-huh.|b
 A|and I was going through a divorce|sd
 A|and I just found that running really made me feel good.|sd
 B|Yeah.|b
-A|Got out a  lot of aggression.|sd
+A|Got out a lot of aggression.|sd
 A|I went to the gym every day|sd
 A|and I ran on the treadmill and rode the bike|sd
 A|and, uh, I felt really good.|sd
@@ -33,8 +33,8 @@ A|I love the class,|sd
 A|it's real challenging,|sd
 A|so I'm really into that,|sd
 A|I really like that a lot.|sd
-B|Well now that, is that, uh, that's related to the, the aerobic, uh,  ,|qy^d
-A|It is, it's  aerobics|na
+B|Well now that, is that, uh, that's related to the, the aerobic, uh, ,|qy^d
+A|It is, it's aerobics|na
 A|but it's with dance steps.|sd
 B|Okay.|bk
 A|It's an aerobic exercise|sd
@@ -52,12 +52,12 @@ B|Well, uh, okay.|b
 B|Now that's inside again,|sd
 B|right?|qy
 A|It is inside|na
-A|and  I've  been doing a lot of bike riding outside with the nice weather we've been having|sd
+A|and I've  been doing a lot of bike riding outside with the nice weather we've been having|sd
 B|But,|%
-A|and I just enjoy that much more too  than inside.|sd
-B|Do, do you  like to do it with other people.|qy^d
-B|I mean like the, the  jazzercise would be?|qy^d
-A|I have a  thirteen year old daughter|sd
+A|and I just enjoy that much more too than inside.|sd
+B|Do, do you like to do it with other people.|qy^d
+B|I mean like the, the jazzercise would be?|qy^d
+A|I have a thirteen year old daughter|sd
 A|and so we go bike riding|sd
 A|and it's nice.|sd
 A|We get to spend some time together rather than I go to the gym while she does her homework.|sd
@@ -69,16 +69,16 @@ A|And at the gym, even in the class, uh, I,|sd
 A|it's not really a group where you chat a lot.|sd
 A|Everybody's on their way to someplace|sd
 B|Right.|b
-A|and so, you know,  I do  have one friend who goes occasionally|sd
+A|and so, you know, I do  have one friend who goes occasionally|sd
 B|But,|%
 A|but, basically, I do it by myself in a group of maybe forty|sd
 A|so.|%
 B|Yeah,|b
 B|right.|b
 B|Right.|b
-B|But still there are, there are other people there doing the,  doing the same thing.|sd
+B|But still there are, there are other people there doing the, doing the same thing.|sd
 A|There are, there are.|%
-A|It's more motivating  that way, I think.|sv
+A|It's more motivating that way, I think.|sv
 A|Yeah.|%
 B|In terms of motivation and incentive,|^2
 B|yeah.|%
@@ -104,16 +104,16 @@ B|it's|%
 A|Yeah,|b
 A|yeah,|b
 A|I can see it'll be a good break.|sd
-B|The the the  change of pace and  just  getting out and around|sd
+B|The the the change of pace and just  getting out and around|sd
 A|Right.|b
 B|and I find that I can often, you know,|sd
-B|often, uh, when I get around to doing it, then I, I feel better when I get back to  work|sd
+B|often, uh, when I get around to doing it, then I, I feel better when I get back to work|sd
 A|Uh-huh|b
-B|and, uh, uh, also that, that, it, my subconscious is working on things while  I'm working|sd
+B|and, uh, uh, also that, that, it, my subconscious is working on things while I'm working|sd
 B|and I, I go back|sd
 B|and I've got new ideas,|sd
-B|but  still .|%
-A|I think  you do.|sv
+B|but still .|%
+A|I think you do.|sv
 A|You feel very good after you exercise.|sv
 A|I think  it's worth making the time for yourself.|sv
 B|Yeah.|b
@@ -131,11 +131,11 @@ A|and, you know, and it's, I think it just benefits you all around.|sv
 A|So.|%
 B|Yeah,|b
 B|I think that's, uh, I think that's a good term, demanding the time for yourself.|sv
-B|That  you've just got to   you've just got to|sv
+B|That you've just got to   you've just got to|sv
 A|You have to.|sv
-A|Because   there's always more things  to do.|sd
+A|Because   there's always more things to do.|sd
 B|Right.|b
-A|There is  always things that you can make priority to it|^2
+A|There is always things that you can make priority to it|^2
 A|but I just, I don't demand a lot for myself|sd
 A|and so you know, I just feel entitled to it|sd
 B|Yeah.|b
@@ -144,9 +144,9 @@ A|so.|%
 B|Well good,|ba
 B|well good.|ba
 B|Well, uh, uh, have you, have you done any jogging?|qy
-B|I tell you, you said you did on the bike and on the treadmill in, in the,  uh, club.|sd
+B|I tell you, you said you did on the bike and on the treadmill in, in the, uh, club.|sd
 A|No,|nn
-A|I've  done some walking with friends in the past.|sd
+A|I've done some walking with friends in the past.|sd
 B|Uh-huh.|b
 A|But I find that when you do that, you do more chatting than you do exercise|sv
 B|Yeah.|b
@@ -154,4 +154,4 @@ A|and that's not really beneficial,|sd
 A|so, uh I don't have time like that|sd
 B|Yeah,|b
 B|yeah.|b
-A|and I spend enough time chatting around  everywhere, you know|sd
+A|and I spend enough time chatting around everywhere, you know|sd

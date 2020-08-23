@@ -66,12 +66,12 @@ A|My goodness.|ba
 B|So, I'm going to get,|%
 B|when my twenty-four months is up on this car, I'm getting rid of this car.|sd
 A|I would think so|ba
-A|This doesn't sound like you've got  very good luck with that one.|sv
+A|This doesn't sound like you've got very good luck with that one.|sv
 B|My golly.|ba
 B|How about you, Larry?|qo
 A|Well, I'm relatively fortunate about that.|sd
 A|Uh, here we, somehow, don't have many people run into us, although at the beginning of each school season, uh, students move into town who are from big cities,|sd
-A|and they sort of drive kind of wild for about two, three weeks, then they finally settle down and,  realize that they don't have to  drive that way here.|sd
+A|and they sort of drive kind of wild for about two, three weeks, then they finally settle down and,  realize that they don't have to drive that way here.|sd
 B|I understand.|ba
 A|And, now that takes the strain out, off of everyone that, uh, is driving a vehicle,|sd
 A|and I find that the most of the repairs I have to do here is body damage due to the salt that we have to put on the road to, uh, take care of us in the winter time.|sd
@@ -129,7 +129,7 @@ A|Yes,|aa
 A|I'm sure it is, because that's the way that I enjoy this Pontiac that I have.|sd
 B|Yes|b
 B|it's,|%
-A|It only has thirty-eight thousand miles on  it,|sd
+A|It only has thirty-eight thousand miles on it,|sd
 A|but it's  very quiet and very smooth riding machine.|sd
 B|Is that right?|bh
 B|Well, my wife's Toyota is soon to be four years old,|sd

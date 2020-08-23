@@ -31,7 +31,7 @@ B|and we walk a couple of miles and then come back to the house.|sd
 A|Uh-huh.|b
 B|And so, we, we, take it seriously.|sd
 B|We enjoy doing it.|sd
-B|I  enjoy my group at school.|sd
+B|I enjoy my group at school.|sd
 B|It is a lot more fun to exercise with somebody than is is to do it by yourself.|sd
 A|Yeah.|ba
 A|Uh-huh.|b
@@ -113,8 +113,8 @@ A|Oh.|b
 A|That is not bad.|ba
 B|Huh-uh.|aa
 A|It beats memberships at some of these clubs.|ba
-A|That is  for sure.|ba
-B|You are  not kidding.|ba
+A|That is for sure.|ba
+B|You are not kidding.|ba
 A|They are real expensive.|sv
 B|I know.|aa
 B|We belonged, uh, for a period of time to the Signature Club for about a year.|sd

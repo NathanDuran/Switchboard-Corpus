@@ -45,7 +45,7 @@ B|Can you use it like at a bank machine|qy^d
 A|Uh,|b
 B|or,|%
 A|Well, uh, you can go in a bank and just hand them the Visa Card and say, "I want a cash advance."|sd
-A|Or if they've sent you a, uh, a number that you can use. You know, a, a personal identification number that you can use in the, uh, impact machines or whatever, you,  you can do  that.|sd
+A|Or if they've sent you a, uh, a number that you can use. You know, a, a personal identification number that you can use in the, uh, impact machines or whatever, you,  you can do that.|sd
 B|Yeah.|b
 B|Oh, okay.|bk
 A|Because I have one that I don't have a pin number for.|sd
@@ -198,7 +198,7 @@ B|but they weren't supposed to process it until they delivered it.|sd
 A|Uh-huh.|b
 B|And I changed my mind,|sd
 A|Uh-huh.|b
-B|but then  they went ahead and charged it on my account.|sd
+B|but then they went ahead and charged it on my account.|sd
 A|Oh.|b
 B|And it took me about eighteen months to get that, all of that mess off of my account.|sd
 A|Wow!|ba

@@ -14,8 +14,8 @@ A|but the company that I did work for|sd
 A|excuse me I had health benefits. You know, dental, vision, all that, pension plan, uh,|sd
 A|now I don't have that, although I do have a pension that I'm drawing from them which, thank God, I had.|sd
 B|Right.|b
-A|But, uh, man, I think those medical benefits are the most important.  Uh,|sd
-B|You,  you really don't realize how important they are until you find yourself on the other side of the fence without them and having to cover your own medical|sv
+A|But, uh, man, I think those medical benefits are the most important. Uh,|sd
+B|You, you really don't realize how important they are until you find yourself on the other side of the fence without them and having to cover your own medical|sv
 B|and, uh, you can quickly see where they become a very important part of your, your compensation package.|sv
 A|Right.|b
 A|Uh, I should knock on wood.|sd
@@ -25,7 +25,7 @@ A|and it was only for a cold, you know,|sd
 A|and they can't really do anything for you anyhow,|sv
 A|so you might as well not even go|sv
 B|Yeah,|b
-B|they look at you, say, well you're still breathing,  so, uh,  Yeah.|sd
+B|they look at you, say, well you're still breathing, so, uh,  Yeah.|sd
 A|Yeah,|aa
 A|right|aa
 A|Oh, you've got a cold.|^2
@@ -47,8 +47,8 @@ A|I really feel sorry for all those people that spent all that time there, you k
 B|Right.|b
 A|So where,|%
 A|what company do you work for?|qw
-B|Uh, I work for a little start-up company here in Pittsburgh called Trans Ark.  Uh,|sd
-A|Um,  uh-huh.|b
+B|Uh, I work for a little start-up company here in Pittsburgh called Trans Ark. Uh,|sd
+A|Um, uh-huh.|b
 B|Have you heard of them?|qy
 A|No.|nn
 B|They,|%
@@ -58,8 +58,8 @@ A|uh-huh.|b
 A|Uh-huh.|b
 B|So.|%
 A|No,|nn
-A|I,  I worked for a trucking company P I E, nation wide.|sd
-A|You probably heard  of that|qy^d
+A|I, I worked for a trucking company P I E, nation wide.|sd
+A|You probably heard of that|qy^d
 B|Ah, yes,|ny
 B|yes.|ny
 B|In fact, my mom drives trucks|sd
@@ -73,7 +73,7 @@ B|after the merger, uh, you see a lot of Ryder PIE stuff on the road.|sd
 A|Well, you did.|sd
 B|So, did, did Ryder get out of the business?|qy
 B|Is that what happened or?|qy
-A|Well Ryder and P I E went together  you  know,|sd
+A|Well Ryder and P I E went together  you know,|sd
 B|Right.|b
 A|and then, then that ended it|sd
 B|Huh.|b
@@ -88,7 +88,7 @@ A|Right.|b
 B|But when, when the company goes bankrupt, I mean, the, they're just cut off completely|sv
 B|and you're responsible for your own.|sv
 A|Right.|b
-B|And,  and that's exceedingly expensive.|sv
+B|And, and that's exceedingly expensive.|sv
 A|Yes,|b
 A|it was over three hundred fifty dollars a month if we wanted to continue our own benefits.|sd
 A|We could do that for eighteen months.|sd
@@ -97,7 +97,7 @@ A|But three hundred and fifty dollars a month.|sd
 B|It's definitely excessive.|aa
 A|So, but anyhow, uh, and jobs aren't that hard to find, to get another one that does pay your benefits, you know.|sv
 B|True.|aa
-A|And a  lot of them that,|sv
+A|And a lot of them that,|sv
 A|if you do get a job, they don't pay benefits.|sv
 B|Yeah,|b
 B|they're starting to, to cut back. Especially start-ups.|sv
@@ -109,7 +109,7 @@ A|Uh-huh.|b
 B|And the, the short-term disability policy is, is a ninety day policy|sd
 B|and there is no long-term disability policy.|sd
 A|Huh.|b
-B|So, you know, at least in the case of this particular company, they tend to scrimp a little bit  there.|sd
+B|So, you know, at least in the case of this particular company, they tend to scrimp a little bit there.|sd
 A|Uh-huh,|b
 A|uh-huh.|b
 B|And, you know, of course, they can use the excuse|sv

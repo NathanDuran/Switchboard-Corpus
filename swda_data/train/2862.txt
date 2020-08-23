@@ -37,7 +37,7 @@ B|Sure is.|aa
 A|Oh, man.|ba
 A|Now I, uh, I, I've always been pulling for the Lakers for a long time.|sd
 B|Oh, yeah.|b
-A|And, uh,  not just,  not just because they always win,|sd
+A|And, uh,  not just, not just because they always win,|sd
 B|They're consistent.|sv
 A|but, uh, when they had, uh, Akeem anybody who was old as that playing that well, you know, I just kind of had to go with them.|sd
 B|Uh-huh.|b
@@ -138,7 +138,7 @@ A|they were all like, uh, like six eight and, uh, you know, six ten,|sd
 A|and they were standing in water that was like six foot,  you know,|sd
 B|Six foot,|b^m
 B|yeah.|b
-A|and  it was, uh, it was funny, I tell you.|sd
+A|and it was, uh, it was funny, I tell you.|sd
 A|I saw, I saw a guy,|sd
 A|I don't remember what his name was,|sd
 A|but he got on the elevator|sd

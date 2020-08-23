@@ -1,4 +1,4 @@
-A|We're supposed to talk about the Middle East Crisis,  and should  we be involved and, uh, what's it going to cost us in the long run.|sd
+A|We're supposed to talk about the Middle East Crisis,  and should we be involved and, uh, what's it going to cost us in the long run.|sd
 B|Oh, okay.|b
 B|Okay.|b
 A|Are you ready?|qy
@@ -44,7 +44,7 @@ B|Yeah,|b
 B|many years.|bf
 A|You know they've been our friends through thick and thin.|sd
 B|Uh-huh.|b
-A|They,  were  at the Saudi border. And ready to storm into Saudi.|sd
+A|They,  were at the Saudi border. And ready to storm into Saudi.|sd
 B|Well,|%
 B|Uh-huh.|b
 A|Shouldn't we try and help our friends?|qy
@@ -78,11 +78,11 @@ B|but I also agree that there are a lot of crooks and liars too.|sd
 A|You know, it's, uh,|%
 A|I went on jury duty here not long back.|sd
 B|Uh-huh.|b
-A|And uh, one of the guys that was on the jury they were asking him if, if you could believe a lawyer or if a,  lawyer's  reputation was so tainted that he couldn't be believed|sd
+A|And uh, one of the guys that was on the jury they were asking him if, if you could believe a lawyer or if a,  lawyer's reputation was so tainted that he couldn't be believed|sd
 B|Uh-huh.|b
 A|and one guy being selected snickered and couldn't keep his head up, you know,|sd
 B|Uh-huh.|b
-A|and  the guy said, Well, can you share it with us what you, what you find so funny?|sd
+A|and the guy said, Well, can you share it with us what you, what you find so funny?|sd
 A|He says, Well, I already told you my sons a lawyer.|sd
 A|He said that when he graduated, the day after his bar examine there in Houston.|sd
 B|Uh-huh.|b
@@ -91,7 +91,7 @@ A|He told him, Dad, you know how to tell when a lawyers lying to you?|sd
 A|His lips are moving.|^q
 B|Oh, my gosh|ba
 B|Oh.|b
-A|And ninety percent of all politicians,  and  lawyers,|sv
+A|And ninety percent of all politicians,  and lawyers,|sv
 B|Uh-huh.|b
 B|Uh-huh.|aa
 B|Have a lawyer background,|bf

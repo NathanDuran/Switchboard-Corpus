@@ -25,18 +25,18 @@ A|What's the,|%
 A|how old is your car?|qw
 B|Uh, well I have a, I have a nineteen eighty, uh, eighty-five C R X.|sd
 A|Oh.|b
-B|Uh, which is, you know,  it's,|sd
+B|Uh, which is, you know, it's,|sd
 B|it still works fine|sd
 A|Yeah.|b
 A|Right.|b
-B|But it's, it's actually,  it's kind of annoying cause I've got no reason to replace it|sd
+B|But it's, it's actually, it's kind of annoying cause I've got no reason to replace it|sd
 A|Oh.|b
 B|But, uh, Oh, those are,|%
 A|Yeah.|b
 A|So what do the Miatas run?|qw
-B|they're about, uh, uh, thirteen to fourteen thousand dollars and, you know, a bit more if you add some some options  and so on|sd
+B|they're about, uh, uh, thirteen to fourteen thousand dollars and, you know, a bit more if you add some some options and so on|sd
 B|but  the,|%
-A|Well, that's not  too bad.|sv
+A|Well, that's not too bad.|sv
 B|uh, yeah,|aa
 B|that's a pretty good price|sv
 B|and  they're, they're, they're, they're so nice to drive.|sd
@@ -57,7 +57,7 @@ A|Oh.|b
 A|Okay.|bk
 B|Yeah.|b
 A|Oh|b
-B|It  was just,|%
+B|It was just,|%
 B|it, it's just so smooth|sd
 B|and.|%
 A|Really?|bh
@@ -67,7 +67,7 @@ B|Nice car.|sv
 B|What are you interested in?|qw
 A|Whatever my husband buys|sd
 B|Yeah.|b
-B|You  you don't get involved in,  uh, car decisions?|qy^d
+B|You you don't get involved in, uh, car decisions?|qy^d
 A|Oh, not too much.|ng
 A|No.|nn
 A|We, uh, we just got rid of a full conversion van that, that I, I, that wasn't me.|sd
@@ -81,7 +81,7 @@ B|I can understand.|ba
 A|And then,  Oh, I'd want a minivan|sd
 B|yeah.|b
 B|They're nice.|sv
-A|Because I'm  with the kids all the time.|sd
+A|Because I'm with the kids all the time.|sd
 B|Oh, yeah.|aa
 B|That's  perfect for that.|sv
 A|Yeah.|b
@@ -101,7 +101,7 @@ A|I,|%
 A|we were going to trade that in for the van|sd
 A|but I just wanted to hold on to it cause I just really enjoy that.|sd
 B|Right.|b
-A|And, uh, that's really all I needed was for something just to go here and there  and back.|sd
+A|And, uh, that's really all I needed was for something just to go here and there and back.|sd
 B|Yeah.|b
 B|Minivans are nice.|sv
 B|I have a friend who has a minivan.|sd
@@ -112,10 +112,10 @@ B|it's nice.|sd
 B|Of course, you know, my my family has always had cars like that. Uh, in that, you know, my father's had a, had a, always had a V W bus every since, uh nine, about nineteen sixty or so.|sd
 A|Oh, really|b
 A|Oh, really.|b
-B|Uh,  uh,|%
+B|Uh, uh,|%
 B|they, well,|%
 B|he, he used it,|sd
-B|he often has to transport plants or, uh,  things  like that cause he's, he goes to orchid shows and, and, you know, fills the car with plants. And so on|sd
+B|he often has to transport plants or, uh, things  like that cause he's, he goes to orchid shows and, and, you know, fills the car with plants. And so on|sd
 A|Yeah.|b
 B|or .|%
 A|Yeah.|b
@@ -132,8 +132,8 @@ B|And they're not that expensive.|sv
 A|No,|aa
 A|they're not.|sv
 B|Yeah.|b
-A|They're probably  .|%
-B|Mainly because everyone  makes them, you know|sv
+A|They're probably .|%
+B|Mainly because everyone makes them, you know|sv
 A|Yeah.|b
 B|You can take your choice of how expensive you want it to be.|sv
 A|Yeah.|aa

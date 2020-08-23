@@ -106,7 +106,7 @@ B|Those petroleum products are going to kill us.|sv
 A|I know it,|aa
 A|I know it.|aa
 B|The hostile planet, I think, Julie.|sv
-A|It really is a small,   hostile planet|sv
+A|It really is a small,  hostile planet|sv
 B|The petroleum pretty much, I mean, those petroleum products I think are the big, uh, you know the great Satan of the recycling.|sv
 A|Did you know that,|qy
 A|No,|ar
@@ -134,14 +134,14 @@ A|Yeah|aa
 B|Huh.|%
 A|it will be whole.|sd
 A|You'll be able to read  off of it.|sd
-B|I'm  going to switch  from those yellow legal pads, then.|oo_co_cc
+B|I'm going to switch  from those yellow legal pads, then.|oo_co_cc
 A|Yeah, um.|b
 B|I'm glad you told me that, because I use those at work, where I work|sd
 B|and, uh, But I can just forget that from now on.|sd
 B|I'm going I'm going to switch to the white ones.|oo_co_cc
 A|Well, white paper's bad too.|sd
 A|They, they treat it, too.|sd
-B|Well, what about, uh, papyrus, you know, made out of you know, bamboo stuff, from the from the  banks of  the Nile.|qo
+B|Well, what about, uh, papyrus, you know, made out of you know, bamboo stuff, from the from the  banks of the Nile.|qo
 A|I'm sure that's fine.|sd
 A|I'm sure.|sd
 A|Maybe we ought to just start carving in stone again.|ad

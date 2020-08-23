@@ -1,7 +1,7 @@
 A|Okay.|fo_o_fw_"_by_bc
 A|How do you get your news mostly?|qw
 B|Generally, I get most of my news from, uh, the radio.|sd
-B|And then sometimes, uh, if I've got time, I'll be reading the front page of the newspaper  and  just fall off on the articles that I like.|sd
+B|And then sometimes, uh, if I've got time, I'll be reading the front page of the newspaper  and just fall off on the articles that I like.|sd
 A|Uh-huh,|b
 A|uh-huh.|b
 A|Uh-huh.|b
@@ -29,7 +29,7 @@ B|Do you  get like one of the talk stations, the news stations?|qy
 A|But,|%
 A|No.|nn
 A|Uh-huh. *listen; mistranscribed 'uh-uh'|nn
-A|I just have a channel that has music except for, like every hour, you know, say eight o'clock,  nine  o'clock, they come on for just a little bit of the news.|sd
+A|I just have a channel that has music except for, like every hour, you know, say eight o'clock, nine  o'clock, they come on for just a little bit of the news.|sd
 B|Sure.|b
 B|Right.|b
 A|But as far as the actual news, I get that from like a call from the,|sd
@@ -90,9 +90,9 @@ B|Yeah.|b
 B|I'm  you know, I, I just, uh, I would,|%
 A|And, uh,|%
 B|I, I, I'm not a morning person|sd
-B|so I would begrudge the time it takes me in the morning to catch my  morning news.|sd
+B|so I would begrudge the time it takes me in the morning to catch my morning news.|sd
 B|I get up just barely in time to get up, get ready and get off to work|sd
-B|and then  at work  I have no time to read the news.|sd
+B|and then at work  I have no time to read the news.|sd
 A|Oh.|b
 A|Yeah,|aa
 A|right.|aa

@@ -1,7 +1,7 @@
 A|I'm ready.|sd
 A|Well in Atlanta, Georgia you probably have a lot more crime than we have here in Patterson, California.|sv
-B|Oh  could, could be.|aap_am
-A|Uh, this  little city is only about eight thousand people.|sd
+B|Oh could, could be.|aap_am
+A|Uh, this little city is only about eight thousand people.|sd
 B|Huh.|b
 A|So.|%
 B|Yeah,|b
@@ -16,12 +16,12 @@ A|and, uh, Oakland, California, God, they've had like, uh, sixty-seven murders s
 B|Yeah.|b
 A|So it's really bad there.|sd
 B|Yeah.|b
-A|And, and it's all related to drugs it  seems like.|sd
+A|And, and it's all related to drugs it seems like.|sd
 B|Oh, yeah.|b
 A|Is that what it's there too?|qy
 B|Yeah.|ny
 B|I've only been here for like, uh,|sd
-B|probably just over six months I  start, I  started school here.|sd
+B|probably just over six months I start, I  started school here.|sd
 A|Uh-huh.|b
 B|Uh, I came from a smaller town in, in New York|sd
 A|Uh-huh.|b
@@ -47,7 +47,7 @@ B|but, you know, it's very difficult.|sd
 B|I mean if you don't have an infinite amount of money to, to try to stop the problem although most people wish you could as it is a, it's definitely a problem|sv
 A|Uh-huh,|b
 A|uh-huh.|b
-B|and you know, the more, more, less that's done about it the more it seems it tends to spread into smaller areas  unfortunately.|sv
+B|and you know, the more, more, less that's done about it the more it seems it tends to spread into smaller areas unfortunately.|sv
 A|Uh-huh.|b
 A|Yeah.|aa
 A|Well I, I think that if they would do something to these people that they do catch instead of just slapping their little hands|sv
@@ -95,7 +95,7 @@ A|But down here, in Patterson, well like I say, it's so small that you can go an
 B|Yeah.|b
 B|Yeah,|b
 B|that's good .|ba
-A|But just, uh,  like twenty miles away see in Modesto, they have, uh, those gangs and things over there.|sd
+A|But just, uh, like twenty miles away see in Modesto, they have, uh, those gangs and things over there.|sd
 B|Right.|b
 A|And it, it's bad.|sd
 A|In Sacramento also, they have, uh, drive by shootings it seems like all the time.|sd
@@ -105,11 +105,11 @@ B|Yeah.|b
 A|I just, I just don't know what, what they can do you know.|sd
 B|Yeah.|aa
 B|It's, it's to bad because it's, uh, I mean, just even the random occurrences where, you know, it's unsafe for a woman just to walk from the car to the, some, in certain areas like from the car, from their car to the mall or something|sv
-B|and  it's dangerous.|sv
+B|and it's dangerous.|sv
 A|I know.|aa
 B|And it's just, that's just ridiculous|sv
 B|and you know, it's just, that's just not right.|sv
-B|Something  you know .|%
+B|Something you know .|%
 A|Yeah,|aa
 A|I mean like even, even going to the grocery store.|sv
 A|I know we've had this one lady that was attacked, you know.|sd

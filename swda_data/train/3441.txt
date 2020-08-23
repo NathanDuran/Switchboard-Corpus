@@ -3,7 +3,7 @@ B|Okay.|fo_o_fw_"_by_bc
 B|I'm sorry.|fa
 A|Uh, invasions of privacy.|sd
 B|Uh-huh.|b
-A|Uh,  what most annoys me are all sorts of phone calls trying to sell me things.|sd
+A|Uh, what most annoys me are all sorts of phone calls trying to sell me things.|sd
 B|Uh-huh.|b
 A|All,  sorts of hours calling and telling me that I want investment advise and I want this service and that service or the other thing.|sd
 B|Uh-huh.|b
@@ -32,7 +32,7 @@ B|Yes,|aa
 B|and I don't have children around|sd
 B|but I just don't like those nine hundred numbers.|sd
 B|So,  I've excluded those.|sd
-A|So, uh,  I used to deal with,|sd
+A|So, uh, I used to deal with,|sd
 B|But isn't, it does not stop you from the, uh, dialing services.|sd
 A|What are dialing services?|qw
 B|Where they, uh, intend to sell you things.|sd
@@ -51,7 +51,7 @@ A|but I think I'm not sure if it's by law just,|sd
 A|otherwise I think the practice has basically been eliminated asking for a phone number.|sd
 B|Well, that's the thing I hated too about, uh, Radio Shack.|sd
 A|How did Radio Shack work?|qw
-B|If you go in and buy  anything they want your phone number.|sd
+B|If you go in and buy anything they want your phone number.|sd
 B|And I don't think they're going to call me and ask me how it's functioning,|sd
 B|and, and I don't give that out.|sd
 B|I have an unlisted number|sd
@@ -94,7 +94,7 @@ B|Well, they, you know,|%
 B|that's, that's the telephone is not the only invasion of privacy.|sv
 B|You've got the holy rollers|sv
 B|and you've got, uh, all kinds of people knocking on your door and, who want to, uh, either direct you to the right path or, or want to, uh, sell you, uh, paper routes, uh, whatever,|sv
-B|so, um,  you know, it's not just the  telephone.|sv
+B|so, um,  you know, it's not just the telephone.|sv
 A|Yeah.|aa
 A|Sell you magazines.|b^m
 A|Uh-huh.|aa

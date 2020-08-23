@@ -127,7 +127,7 @@ A|Oh, how neat.|ba
 A|Well, I actually got to go see them win in the Super Bowl when they went down to New Orleans.|sd
 B|Oh, wow.|ba
 A|And, I, I, I make the trip and did the whole New Orleans before the game and the game and everything|sd
-A|and,  uh,  that was, that was a lot of fun.|sd
+A|and,  uh, that was, that was a lot of fun.|sd
 A|But, I don't know, I haven't been as,|sd
 A|I'll tell you what I love to watch. And this is not, this is rarely on television.|sd
 A|But what is a lot of fun to go attend, is this arena football.|sd
@@ -149,7 +149,7 @@ B|It's,|%
 A|Uh, again I think it may be on cable more than anything else.|sd
 B|Yeah,|b
 A|We  don't have cable.|sd
-B|that's probably  true.|aap_am
+B|that's probably true.|aap_am
 B|Yeah,|aa
 B|we don't either.|sd
 B|I, uh, I couldn't rationalize paying, you know,|sd

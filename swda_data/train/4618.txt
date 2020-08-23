@@ -44,7 +44,7 @@ A|Because you should be given another chance or at least be able to justify it o
 A|I have real mixed feelings about it.|sd
 A|I don't know.|sd
 B|How, do you know how wrong they are?|qy
-B|Are they, I mean, is there a  margin of error?|qy
+B|Are they, I mean, is there a margin of error?|qy
 A|The accuracy?|br
 A|I don't know.|no
 A|I don't know.|no
@@ -62,7 +62,7 @@ A|and if they would just say oh, this person's drug test is positive we won't hi
 B|Yeah.|b
 B|Yeah.|b
 A|So I don't know.|h
-B|And I, I'm not  so sure they are that needed. *b|sv
+B|And I, I'm not so sure they are that needed. *b|sv
 A|Yeah,|aa
 A|I'm not  sure either.|sd
 A|The only way I can see it is that if they really suspect a person of using it, then they have the right to go ahead and prove it|sv
@@ -97,9 +97,9 @@ A|That's the other thing.|fo_o_fw_"_by_bc
 A|I mean a lot of, a lot of people as kids or, you know, young people get into some things that they get out of later on|sd
 A|and I don't think they should really have to pay for that forever.|sv
 B|Yeah.|aa
-B|There's a lot of things you do as a kid  that  you wouldn't do as an adult|sd
+B|There's a lot of things you do as a kid that  you wouldn't do as an adult|sd
 A|Yeah.|b
-B|but  you can't say it was  wrong at the time.|sv
+B|but  you can't say it was wrong at the time.|sv
 A|I think that's true.|aa
 A|Yeah,|aa
 A|yeah.|aa

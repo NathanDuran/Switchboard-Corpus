@@ -34,7 +34,7 @@ B|Well it's a book about, uh, uh, Greek gods and, and Greek, uh, mythology as we
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Oh.|b
-B|And  how they deal with life itself|sd
+B|And how they deal with life itself|sd
 A|Okay.|b
 A|I think I have heard about that.|sd
 A|Yeah.|%

@@ -78,7 +78,7 @@ B|Uh, it 's just, you know, doesn't seem to have enough story to it.|sv
 A|Well, I don't know,|h
 A|I just think, uh, you know, it's,  It's light reading.|sv
 B|If you've only got a short time to read|%
-A|You know, you don't have,  well, you don't have to concentrate, you know you know.|sv
+A|You know, you don't have, well, you don't have to concentrate, you know you know.|sv
 B|No,|aa
 B|that's true|aa
 A|It's entertaining, you know,|sv

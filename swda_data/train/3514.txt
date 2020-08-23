@@ -16,7 +16,7 @@ B|Uh-huh.|b
 A|Have you ever been to, uh, like New Mexico?|qy
 B|Uh, no, actually.|nn
 A|Oh.|b
-B|Why,  have you?|qy
+B|Why, have you?|qy
 A|I was curious.|sd
 A|I was just wondering what it was like.|sd
 B|Oh, okay|bk
@@ -48,7 +48,7 @@ B|and I mostly went to Germany and visited some friends of my family and, uh, hu
 A|What did you do on the farm?|qw
 B|Uh, uh, uh, well, not that much|sd
 B|Just, uh,|%
-A|Are you just  kind of sight, just kind of, uh,|qy
+A|Are you just kind of sight, just kind of, uh,|qy
 B|Right,|na
 B|I mean, I wasn't a great asset to them or anything|sd
 B|But I, you know, drove a tractor, helped them weed beets and that sort of thing.|sd

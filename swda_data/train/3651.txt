@@ -1,6 +1,6 @@
 A|Okay,|fo_o_fw_"_by_bc
 A|I guess tonight's subject is, uh, woodworking.|sd
-B|What  kind of woodworking  do you do?|qw
+B|What  kind of woodworking do you do?|qw
 A|Do you, uh,|qy
 A|Well, kind of, mainly the woodworking I've done lately is, uh, made like, uh, for example a little nativity scene. Uh, not the, uh, the whole figurines and so forth, but mainly the stable, put some shelves in and, and some odd stuff around the house|sd
 B|Uh-huh.|b

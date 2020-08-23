@@ -3,9 +3,9 @@ A|Yeah.|ny
 B|It's, it's something that you can really talk about.|sv
 A|Yeah.|b
 B|Um, I don't know what we're going to do about it,|sd
-B|but,  but  it's certainly something that has a lot of things to talk about.|sv
+B|but,  but it's certainly something that has a lot of things to talk about.|sv
 A|Uh-huh.|b
-B|Um, you know, when they say the Middle East,  it's  such a big area|sd
+B|Um, you know, when they say the Middle East,  it's such a big area|sd
 A|Uh-huh.|b
 B|and there's so many different problems there.|sd
 B|Uh, what do you want to concentrate on.|qw
@@ -13,19 +13,19 @@ A|It doesn't matter to me.|sd
 B|Well, uh, I'll tell you something,|fo_o_fw_"_by_bc
 B|um, I, I have a sister-in-law from Israel,|sd
 A|Uh-huh.|b
-B|and,  and they're really quite, uh, arrogant about it all.|sd
+B|and, and they're really quite, uh, arrogant about it all.|sd
 B|They, they believe that they, they belong there|sd
 B|and they've belonged there forever,|sd
 B|and, the Palestinians and the Arabs are, uh, more or less,|sd
 B|they, they consider them second class.|sd
 A|Uh-huh.|b
-B|So,  they're really quite arrogant about it.|sd
+B|So, they're really quite arrogant about it.|sd
 B|I don't, uh, I don't know if that contributes to the problem.|sd
 A|Well how did they feel about the, uh, the United States intervening with Patriot missiles,|qw
 A|did, did they,|%
 B|Oh, uh, I'm, I'm sure this is the one time that the Israelis are really happy to have their big brothers, the Americans,|sv
 A|Uh-huh|b
-B|but, I  didn't really talk about that with her.|sd
+B|but, I didn't really talk about that with her.|sd
 B|She, um, um, my sister-in-law now lives in, um, Switzerland.|sd
 A|Oh.|b
 B|But, um, when they were living in Israel, it was, it was, the, the Palestinians, they, they come in an,|sd
@@ -54,7 +54,7 @@ A|Well I live in San Antonio|sd
 A|and fifty percent of the population is minority.|sd
 B|Oh, um, I talked to someone about San Antonio,|sd
 A|Uh-huh.|b
-B|and,  um, they said that they, they have, you have quite the problem with, uh, the ghettos,|sd
+B|and, um, they said that they, they have, you have quite the problem with, uh, the ghettos,|sd
 B|I don't know,|h
 B|do they call it the barrio down there.|qy
 A|That's the barrios|na
@@ -78,7 +78,7 @@ B|like I, we're so protected up here,|sv
 B|it's, it's really strange.|sv
 B|I mean our red light district, I mean, uh, you could go walking around down there and pretty much not fear for your life, you know,|sd
 A|Uh-huh.|b
-B|and  we're just so protected.|sv
+B|and we're just so protected.|sv
 B|But, it's, it's, over in the Mid East, especially Israel, it's just like Israelis have a like a totalitarian system, when it comes to the Palestinians.|sd
 B|You know, the Israelis can do anything they want|sd
 B|but when it comes to Palestinians, if they're out in the street at night, it's, it's really looked on as odd.|sd
@@ -128,7 +128,7 @@ A|Unfortunately though, the, the original goal of the mission was to drive them 
 A|And once that was accomplished it,|sd
 B|They, yeah, they, they did, they stuck right to their goals,|sd
 A|Yeah.|b
-B|and  right,|%
+B|and right,|%
 B|what they were going to say.|sd
 B|And the American people, when this first started, they were even reluctant to let them do that.|sd
 A|Yeah.|b
@@ -145,7 +145,7 @@ B|I mean I feel really sorry for these people,|sd
 B|these people are middle class people, just like us.|sd
 B|Can you imagine if someone started bombing your neighborhood,|qh
 A|Yeah.|b
-B|and  you knew this,|qh
+B|and you knew this,|qh
 B|these people are going to come|sd
 B|and if you were in your house they were going to take you and beat you.|sd
 B|Of course, you're going, just going pick everything up that you can carry|sv

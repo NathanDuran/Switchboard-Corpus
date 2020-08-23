@@ -141,8 +141,8 @@ A|Kind of see what happens.|^2
 B|Yeah,|aa
 B|and I like it.|sd
 A|I've tried to do that with sugar|sd
-B|I don't know if I'm that brave yet  .|sd
-A|everything has sugar in it  .|sv
+B|I don't know if I'm that brave yet .|sd
+A|everything has sugar in it .|sv
 A|I mean, if you go,|sv
 A|your ketchup has sugar in it.|sd
 B|Uh-huh,|b

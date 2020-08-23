@@ -180,7 +180,7 @@ B|Now, see, I remember thinking it's a wonderful movie,|sd
 B|but it's been so long since I watched it,|sd
 A|Uh-huh.|b
 B|I don't remember the language.|sd
-A|Well, you watch,  it differently  when your kids are in the room, you know|sv
+A|Well, you watch,  it differently when your kids are in the room, you know|sv
 B|Was it bad?|qy
 B|Well, that's true.|aa
 A|and I was just sitting there going, Oh, my goodness,|sd

@@ -7,7 +7,7 @@ B|Are you really?|bh
 A|Yeah.|ny
 A|Uh, so I'm looking at, uh, something larger than what we have.|sd
 A|We've got, like, an eighty-four Charger that's about gone and a, uh, an eighty-nine Horizon.|sd
-A|So,  I'm looking for something, uh, littler  bigger,|sd
+A|So, I'm looking for something, uh, littler  bigger,|sd
 B|Uh-huh,|b
 B|which are both kind of small.|bf
 A|yeah.|aa
@@ -75,7 +75,7 @@ B|and I was looking for, uh, dependability and something that was going to last 
 A|Yeah.|b
 B|So,|%
 A|Yeah|b
-A|I I think in terms of computer terminology, I look at, you know, price performance and  things like that.  And then a little bit at life expectancy, I guess,|sd
+A|I I think in terms of computer terminology, I look at, you know, price performance and things like that.  And then a little bit at life expectancy, I guess,|sd
 B|Right,|aa
 B|exactly.|aa
 A|but it, you know depends on what you, what you pay initially.|sv

@@ -21,10 +21,10 @@ B|It is,|sd
 B|but I'm not really from I'm not really from Texas,|sd
 B|I just live down here now.|sd
 B|I've  I've lived down here a couple years.|sd
-A|Oh, you're  just live down there?|br
+A|Oh, you're just live down there?|br
 A|Yeah.|ny
 B|I'm originally from Colorado,|sd
-B|but  yeah|%
+B|but yeah|%
 A|Oh well.|b
 B|there, uh, there, uh there's a lot of hunters here.|sd
 A|Yeah,|b
@@ -99,7 +99,7 @@ A|no doubt about it|sv
 A|but, uh,|%
 B|I mean, if they can anyway get it, keep criminals from having guns which they can't|sv
 A|Yeah.|b
-B|I, you know,  I'm not  for it.|sd
+B|I, you know, I'm not  for it.|sd
 A|Yeah,|b
 A|if there's  if there's a way, you know, to limited it to people that, I don't know that|sd
 A|they, I guess they passed a couple of, uh, uh, laws a here while back in some states in terms of a waiting period where you know you go to buy a hand gun|sd

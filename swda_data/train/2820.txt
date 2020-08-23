@@ -13,13 +13,13 @@ B|and it's, it's, it's, if it's not affecting someone's performance then I'm not
 A|Yeah.|b
 A|That's true|aa
 A|I didn't think about that,|sd
-A|like for instance,  Uh, if someone's working on  heavy machinery,  or  say driving trucks or buses, city buses or something like that.|sv
+A|like for instance,  Uh, if someone's working on heavy machinery,  or say driving trucks or buses, city buses or something like that.|sv
 B|Right.|aa
 A|Then that is something that affects the, that affects the community.|sv
 A|You know, if you're, you're drinking or on drugs or whatever, you're driving a city bus you taking several lives in your hands.|sv
 B|Right.|aa
 B|And then if you're a computer operator and, uh, there's really no big deal,|sv
-B|I think, you know,  that  maybe it's not necessary.|sv
+B|I think, you know,  that maybe it's not necessary.|sv
 A|Yeah.|b
 A|And for me, I think that drug testing, it follows the path that society is going in.|sv
 A|If more and more people are using drugs then I think that some people have to guard against people that are using drugs.|sv
@@ -57,7 +57,7 @@ B|I, I, I guess so.|no
 A|Something like that,|aap_am
 A|yeah.|aa
 B|I mean, there must be some, some, something,|sd
-B|I mean, people get these little flashback things, you know,  of  some sort,|sd
+B|I mean, people get these little flashback things, you know,  of some sort,|sd
 A|Um.  Yeah.|b
 B|so I don't really know.|sd
 A|I mean, I don't use any drugs.|sd
@@ -67,15 +67,15 @@ A|just the fact that since I don't use drugs, I have no problem with taking a te
 B|Right.|b
 B|Well, see, if you actually used drugs at all,|sv
 A|Yeah.|b
-B|and  I'm, I'm at, at most a social drinker,|sd
+B|and I'm, I'm at, at most a social drinker,|sd
 A|Yeah.|b
 A|Yeah.|b
-B|so it's  never a problem.|sd
+B|so it's never a problem.|sd
 A|So the only thing I would hate is if I were to go and, uh,|sd
 A|I mean it's kind of the same thing with the lie detector test.|sv
 A|If you don't have anything to hide, you're not going to mind it.|sv
 B|Right.|b
-A|And then there are some things that just aren't peoples business,  that come out at  that point|sv
+A|And then there are some things that just aren't peoples business,  that come out at that point|sv
 B|Right.|aa
 B|That, that, that,|%
 A|so I think that a lot of people have trouble with that.|sv
@@ -84,12 +84,12 @@ A|I can, I can understand that.|sd
 A|Huh-uh.|b
 A|Huh-uh.|b
 B|I mean, uh, that's really|%
-B|do you, uh,  do  you worry about, you know, this or that,|qh
+B|do you, uh,  do you worry about, you know, this or that,|qh
 A|Yeah.|b
-B|I mean, you know, what about the rights,  to  privacy,|qh
+B|I mean, you know, what about the rights,  to privacy,|qh
 A|Huh-uh.|b
 B|what if they're doing something legal,|qh
-B|but they would rather have it private,  you  know.|sv
+B|but they would rather have it private,  you know.|sv
 A|Right.|aa
 A|Right.|aa
 B|Like, especially in the case of drinking.|sv
@@ -111,22 +111,22 @@ B|Well, those are just,|ba
 B|yeah,|b
 B|Those are just to get, probably to get some sort of, those are to get the shock value out of you.  Shock.|sv
 A|Is that what it was?|qy
-B|I do  some, I'm a graduate student in Psych.|sd
+B|I do some, I'm a graduate student in Psych.|sd
 A|Oh, okay.|bk
 B|And we sort of, you know, figure out,|sd
 B|um, I know a little bit about that kind of stuff.|sd
 A|Huh-uh.|b
 B|What they're trying to do there is, they want to sort of get a base line measure for you, you know.|sd
-B|How is it that when you see these things and, you know,  and,  and, and,|sd
+B|How is it that when you see these things and, you know,  and, and, and,|sd
 A|Huh-uh.|b
 A|Kind of get,  Kind of get something to measure my responses by.|sd
 B|Yeah.|b
-B|But with them they have no idea if you're just sort of jumping,  around  and being fidgety,|sv
+B|But with them they have no idea if you're just sort of jumping,  around and being fidgety,|sv
 A|Yeah.|b
 A|Yeah.|b
-B|Maybe  .|aap_am
+B|Maybe .|aap_am
 B|It can be shocking|sv
-B|and,   shock you.|sv
+B|and,  shock you.|sv
 A|Yeah|aa
 A|they ask why I was going,|sd
 A|what in the world are you asking me about here. But I guess, I don't know, some people have probably killed their mothers.|^q
@@ -138,7 +138,7 @@ B|I mean, I guess, I don't know how, what actually happens if, uh, if you have k
 A|Yeah|b
 B|Big jump there. But, yeah,|sv
 A|Yeah.|b
-B|I think it's their way of saying how well you do,  in  a shock situation without worrying about,  stuff  like that.|sv
+B|I think it's their way of saying how well you do,  in a shock situation without worrying about,  stuff like that.|sv
 A|Huh-uh.  I never thought about that,|b
 A|that makes me feel a little better|ba
 A|Of course, that was years and years ago.|sd
@@ -151,20 +151,20 @@ A|There is also people that are getting off drugs and trying to do better with t
 A|But they take a lie detector test or a drug test, or whatever|sv
 A|and the stuff that happened to them, you know, five years ago comes up|sv
 A|and it spoils their chances for just making it a little better.|sv
-A|You know, when they might be actually trying to,  improve  their lives.|sv
+A|You know, when they might be actually trying to,  improve their lives.|sv
 B|Yeah.|b
 B|Yeah.|b
 B|That's, uh, you know, it, it could blow things right away for them, you know.|sv
 A|Huh-uh. Huh-uh.|b
 B|Unless they say, well, look, unless they walk in, they could walk in and say, look, I did do drugs a year ago,|sv
-B|and  I'm off them for a year now.|^q
+B|and I'm off them for a year now.|^q
 B|I'll be happy to take the test,|^q
 B|but it will show up positive.|^q
 A|Yeah.|b
 A|Yeah.|b
 B|versus,|%
 A|I would probably do that.|sd
-A|And I would probably bring something in showing that I had been to such and such hospital for help or, you know,  Whatever  the twelve month program.|sd
+A|And I would probably bring something in showing that I had been to such and such hospital for help or, you know,  Whatever the twelve month program.|sd
 B|Yeah.|b
 A|Or whatever it is that they do.|sd
 B|Yeah.|b

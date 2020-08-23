@@ -165,7 +165,7 @@ A|How they're going get out of their latest scrape.|qh
 B|Yeah,|b
 B|I do remember that.|sd
 B|And, uh, I remember as a kid my parents watching the ED SULLIVAN Show.|sd
-B|That was really the big deal in our household,  was the ED SULLIVAN SHOW.|sd
+B|That was really the big deal in our household, was the ED SULLIVAN SHOW.|sd
 A|Oh, yeah,|b
 A|every Saturday night?|qy^d
 B|Yeah,|ny
@@ -207,7 +207,7 @@ B|isn't it?|^g
 A|Probably so|na
 A|Well, I think that's about, uh, that's about covered it for me,|sd
 A|so I think I'll say good-bye|fc
-A|and we'll  talk another time perhaps|fc
+A|and we'll talk another time perhaps|fc
 B|Yeah.|fc
 B|Well, it was nice talking to you.|fc
 B|Tell me, tell me where you're calling from.|ad
@@ -216,7 +216,7 @@ B|Garland, Texas.|b^m
 A|Uh-huh.|aa
 B|All right.|bk
 B|I'm in|sd
-A|Where  are you from?|qw
+A|Where are you from?|qw
 B|I'm in Raleigh, North Carolina.|sd
 A|Oh, my goodness.|ba
 A|I didn't know they did it long distance.|sd

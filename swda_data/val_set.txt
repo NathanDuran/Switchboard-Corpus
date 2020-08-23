@@ -530,7 +530,7 @@ A|I didn't know we had one either|sv
 B|Yeah.|b
 B|I was going to say it's kind of hard to have, have an opinion.|sd
 B|We seem to, uh,|sv
-B|whoever screams the loudest or whoever we happen to give the most money to at that particular time we seem to support, without,  regard whether  it's a democracy or a anarchy, or anything else.|sv
+B|whoever screams the loudest or whoever we happen to give the most money to at that particular time we seem to support, without,  regard whether it's a democracy or a anarchy, or anything else.|sv
 A|Yeah.|b
 A|I don't,|%
 A|Yeah|b
@@ -550,7 +550,7 @@ B|I'm actually surprised at anything in Central America, along with Panama.|sv
 B|I'm just kind of surprised we did that.|sv
 A|Yeah,|b
 B|But, uh,|%
-A|that is,  that is pretty, uh, risky.|sv
+A|that is, that is pretty, uh, risky.|sv
 A|I, mean,|%
 B|Especially, after our friend Jimmy Carter gave it away anyway.|aa
 A|Uh-huh.|b
@@ -614,7 +614,7 @@ A|so they're going to have to go to the source.|sv
 B|Um, yeah.|b
 B|I think we realize it's failed.|sv
 B|We just don't, we just don't,|%
-B|nobody,  wants to make the, nobody wants  to make the unpopular decision of going in and invading,|sv
+B|nobody,  wants to make the, nobody wants to make the unpopular decision of going in and invading,|sv
 A|Don't want to admit it yet.|^2
 A|Right.|b
 B|We still, there's still there's still too many Kennedys and and all up there.|sv
@@ -631,7 +631,7 @@ B|Of course, these are the same people that also drown the Chappaquiddic, and st
 A|Huh.|b
 B|But I guess it|%
 B|I guess it's automatic respective.|sv
-A|Depends on how much power you have,  and who you  know.|sv
+A|Depends on how much power you have,  and who you know.|sv
 B|Yeah.|b
 B|You know,  the people have a right to know except about what it, about what concerns them.|sv
 A|Yeah.|b
@@ -650,7 +650,7 @@ B|I quit drinking Scotch when I found out about that,|sd
 B|but, anyway.|%
 B|But, uh, as far as, as far as, you know, Central and South America, we, our policy pretty much, uh, it depends on who we're, what government we're buying down there at the particular time.|sv
 A|Yeah.|b
-A|I,  think  we're trying to stay, uh, stay friendly with uh, the, uh, the Brazilian and, and Argentinean governments because they're producing so much, uh, agricultural exports.|sv
+A|I,  think we're trying to stay, uh, stay friendly with uh, the, uh, the Brazilian and, and Argentinean governments because they're producing so much, uh, agricultural exports.|sv
 B|We,|%
 A|We, don't want to piss them off and have them over produce|sv
 B|Yeah.|b
@@ -3041,7 +3041,7 @@ B|it's all, uh,|%
 B|I've done most of the coloring|sd
 B|but I've got to go a second layer with the yellow.|sd
 A|Did you do it with a jigsaw|qy
-A|or do you have powered,  you know, a,|qy
+A|or do you have powered, you know, a,|qy
 B|Uh, yeah.|ny
 B|Uh, I did, uh, jigsaw, uh, and the, uh, regular straight saw for some of it.|sd
 A|Um.|b
@@ -3080,9 +3080,9 @@ A|so let's do something else.|sd
 B|Right.|aa
 B|You want to, uh, explore a new field|bf
 B|or, or,|%
-A|Well,  yeah,|aa
+A|Well, yeah,|aa
 A|I, I'm signed up for a class in pottery making because I've never tried that yet|sd
-B|Huh.  So you have a M F A in, in what division of art?|qw
+B|Huh. So you have a M F A in, in what division of art?|qw
 A|but,|%
 A|Well, I, I actually have a Masters of art|sd
 A|and it's in art education.|sd
@@ -3113,7 +3113,7 @@ B|Exactly.|aa
 A|And I made a necklace that I saw in a gallery for three hundred twenty dollars|sd
 A|It took me a lot of time|sd
 A|but  it didn't,|sd
-B|Oh,  yeah.|b
+B|Oh, yeah.|b
 A|but if it cost me twenty dollars, you know,|sd
 A|and then I,|%
 B|And your time,|^2
@@ -3170,7 +3170,7 @@ A|and we got once it was turned, we got one one cut out on the table saw, on the
 A|by getting the other one out without the slice now flying in your face was something you had to think about|sd
 B|Right.|b
 A|So,|%
-B|Now  did you cut a quarter wedge in this?|qy
+B|Now did you cut a quarter wedge in this?|qy
 A|Uh, I'd say it's about an eighth.|ng
 A|You know|%
 B|Well, I, I'm envisioning, uh, uh, a a watermelon like a log|sd

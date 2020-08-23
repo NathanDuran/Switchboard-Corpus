@@ -7,7 +7,7 @@ B|Where did you go on your last vacation?|qw
 A|Uh, the last was back down to Lubbock to visit parents.|sd
 A|It was,|%
 B|What?|br
-A|The last one was back down to Lubbock, Texas,  to visit  family.|sd
+A|The last one was back down to Lubbock, Texas,  to visit family.|sd
 B|Uh-huh,|b
 B|yeah.|b
 B|Uh.|b
@@ -89,18 +89,18 @@ B|really did.|sd
 B|There,|%
 B|in fact, one, uh, family that sat at our table every meal was from London,|sd
 A|Oh.|b
-B|and  they had never been to the United States,|sd
+B|and they had never been to the United States,|sd
 B|so they were really enjoying it|sd
 B|and they were telling us about all their trips.|sd
 A|Huh.|b
 B|They had been to Disneyland,|sd
 B|and it was neat to meet different people.|sd
-A|So the place that I went, that we've gone on vacation that I think I enjoyed the most,  was  Seattle.|sd
+A|So the place that I went, that we've gone on vacation that I think I enjoyed the most,  was Seattle.|sd
 B|Uh-huh.|b
 B|Oh, really?|bh
 B|I've heard it's really pretty up there.|sd
 A|Well, we, uh,|%
-A|was, two years ago,  we  went during the drought.|sd
+A|was, two years ago,  we went during the drought.|sd
 B|Uh-huh.|b
 B|Oh.|b
 A|I'm sorry, three years ago.|sd
@@ -127,31 +127,31 @@ B|Uh-huh.|b
 A|And it's right down there, on the, right there on the ocean, and down there on the wharf by the piers and all,|sd
 A|and you walk down in a dome, a glass dome,|sd
 B|Uh-huh.|b
-A|and  the bay is circulating over your head,|sd
-A|and you,  and you  can watch the fish swim by and sharks|sd
+A|and the bay is circulating over your head,|sd
+A|and you,  and you can watch the fish swim by and sharks|sd
 B|Oh, wow.|ba
 A|and oh it's,|%
 B|Oh, neat.|ba
 A|Yeah,|b
-A|and then there's walrus and sea lion and porpoises, and oh, it's,  it's  amazing.|sd
+A|and then there's walrus and sea lion and porpoises, and oh, it's,  it's amazing.|sd
 B|That's the vacation you recommend, huh?|qy
 A|Oh, absolutely.|na
 B|Yeah.|b
 A|Without a doubt.|sv
 A|Seattle is beautiful,|sd
-A|and the mountains,  the mountains to the east  of Seattle,  are  just incredible.|sv
+A|and the mountains,  the mountains to the east of Seattle,  are just incredible.|sv
 B|Yeah,|b
 B|I've heard it is.   Uh-huh.|sd
 B|Really?|bh
 A|I rode a ferry for the first time in my life.|sd
 B|Oh, wow.|ba
-A|You know, up there, you go from the mainland to a whole bunch of islands around there by ferry,  Instead  of by bridge.|sd
+A|You know, up there, you go from the mainland to a whole bunch of islands around there by ferry,  Instead of by bridge.|sd
 B|Uh-huh.|b
 A|And you drive your car on.|sd
 A|You park your car,|sd
 A|you set your brake.|sd
 A|You walk upstairs|sd
-A|and you have a beer,  or  coffee, or whatever, depending on the time of day.|sd
+A|and you have a beer,  or coffee, or whatever, depending on the time of day.|sd
 A|It's amazing.|sd
 B|And your car is on a ferry?|qy
 A|Yes.|ny
@@ -171,7 +171,7 @@ A|They go upstairs and have their morning coffee.|sd
 B|Huh.|b
 A|Take, for the twenty to, hour and ten minutes that it takes to get across and, you know, depending on where it is.|sd
 B|Hour and ten minutes?|br
-A|Well, in some places, you know,  in  some areas, you know, depends on how far they are commuting.|sd
+A|Well, in some places, you know,  in some areas, you know, depends on how far they are commuting.|sd
 B|Yeah.|b
 B|That's really interesting.|ba
 A|Oh, it, it's strict,|%
@@ -192,11 +192,11 @@ A|uh, there's, uh,|%
 A|one of the areas down there close to Galveston is,|sd
 A|I forget the name of the island,|sd
 B|Uh-huh.|b
-A|but  it's a bird sanctuary,  with  all kinds of wild birds. Whooping and sand hill cranes, and ducks and pelicans|sd
+A|but it's a bird sanctuary,  with all kinds of wild birds. Whooping and sand hill cranes, and ducks and pelicans|sd
 B|Uh-huh.|b
 A|and it's very pretty.|sd
 B|Uh-huh.|b
-A|Of course, you haven't lived until you have been to San Antone, to the,  to  the Alamo.|sv
+A|Of course, you haven't lived until you have been to San Antone, to the,  to the Alamo.|sv
 B|Yeah.|b
 B|Boardwalk and all that.|sd
 A|Yeah,|b
@@ -213,15 +213,15 @@ A|and go to, uh, Lone Star,|ad
 A|and uh, you know make my annual pilgrimage to the Lone Star Brewery,|ad
 B|Yeah|b
 A|You know, go across the border and all.|sd
-A|Uh, the Davis Mountains are interesting,  out  there in West Texas.|sd
+A|Uh, the Davis Mountains are interesting,  out there in West Texas.|sd
 B|Uh-huh.|b
 B|Down by Big Bend?|^g
 A|Yeah,|ny
 A|yeah.|ny
-A|Uh, now the right time of year to go there is in the middle of winter,  because,  there's a beauty to the desert that it can most be, it can best be appreciated when you are not burning up.|sv
+A|Uh, now the right time of year to go there is in the middle of winter,  because, there's a beauty to the desert that it can most be, it can best be appreciated when you are not burning up.|sv
 B|Uh-huh.|b
 B|Yeah.|b
-A|You know, whenever you've been kind of cold where you are at. It's most enjoyable,  to  get, you know, to get warm.|sv
+A|You know, whenever you've been kind of cold where you are at. It's most enjoyable,  to get, you know, to get warm.|sv
 B|Um.|b
 B|Uh-huh.|b
 A|That's nice,|sv

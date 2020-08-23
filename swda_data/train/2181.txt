@@ -100,7 +100,7 @@ B|there's less character development, rather just the, the, the funniness of the
 A|Yeah,|aa
 A|yeah.|aa
 A|Did you go with kids though?|qy
-B|and how it fits with the character  , right.|bf
+B|and how it fits with the character , right.|bf
 A|Did you go with kids?|qy
 B|Excuse me?|br
 A|Did you take kids along?|qy
@@ -239,7 +239,7 @@ B|yeah,|aa
 B|there, there, there are several movies that hit home like that.|sd
 B|Of course the ones I always remember are the, the older ones|sd
 A|Uh-huh.|b
-B|I always like the musicals, and uh,  those ones, that just stick  in your head.|sd
+B|I always like the musicals, and uh,  those ones, that just stick in your head.|sd
 A|Yeah,|b
 A|yeah,|b
 A|they leave,|%

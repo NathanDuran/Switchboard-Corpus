@@ -56,7 +56,7 @@ A|some, some of the, uh, the people that are in there are real, you know, very n
 B|Uh-huh.|b
 A|and, uh, then there are others that are,|sd
 A|uh, it is just a job|sd
-A|and they just you know want to go in and do what they have to do and get out  go home.|sd
+A|and they just you know want to go in and do what they have to do and get out go home.|sd
 B|Yeah.|b
 B|Uh-huh.|b
 A|Uh, the, the attitude of the staff as you said is really very very important.|sv
@@ -79,7 +79,7 @@ A|and they they just didn't like participate together with the others because th
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Yes.|b
-A|What, what do you call Alzheimer disease and  stuff like that|qw
+A|What, what do you call Alzheimer disease and stuff like that|qw
 B|Yes,|b
 B|Alzheimer,|b^m
 B|yes.|b

@@ -64,7 +64,7 @@ B|Do you like opera?|qy
 A|Uh, I like, I am liking it more and more now.|na
 B|Uh-huh.|b
 A|Getting use to it|sd
-A|They are  mostly, uh, mostly Mozart.|sd
+A|They are mostly, uh, mostly Mozart.|sd
 B|Uh-huh.|b
 A|I mean there is not any kind of trumpet parts,|sd
 A|but, uh, you know, the, I just like the melodies more and, uh, libretto.|sd
@@ -121,7 +121,7 @@ A|isn't he?|^g
 B|Uh, I think so.|na
 B|He teaches a lot in Plano at high schools|sd
 A|Uh, yeah.|b
-B|and, I  think he teaches at Brookhaven.|sd
+B|and, I think he teaches at Brookhaven.|sd
 A|Yeah,|b
 A|because I heard Glen Bell taught at Plano as well.|sd
 B|Yeah,|b

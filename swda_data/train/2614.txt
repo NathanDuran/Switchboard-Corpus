@@ -31,7 +31,7 @@ A|I talked to one,|sd
 A|I think he had a whole bunch of calls.|sv
 A|He had a roommate that had calls and everything.|sd
 B|Uh-huh.|b
-A|He  had way more, twice as many calls as, as I've made, uh,|sd
+A|He had way more, twice as many calls as, as I've made, uh,|sd
 A|and I, I'm,|%
 A|of course, we at T I just hoping it works out that the new products that they come out will, uh, sell like gang books, busters, really.|sv
 B|Yeah.|b
@@ -100,9 +100,9 @@ B|that's a tough row for them to, to hoe because I think most of the world is go
 A|As Mexicans,|^2
 A|yes|b
 A|that, that,|%
-B|And they can stand on  their heads if they want too,|sv
-B|but  I don't think that they're going, they're going to change that,|sv
-B|and,  and, and really, I  mean North Americans I think are, when you say that even, I I mean, I tend to think of Americans and Canadians.|sv
+B|And they can stand on their heads if they want too,|sv
+B|but I don't think that they're going, they're going to change that,|sv
+B|and,  and, and really, I mean North Americans I think are, when you say that even, I I mean, I tend to think of Americans and Canadians.|sv
 A|No,|aa
 A|no,|aa
 A|I know.|sd
@@ -115,7 +115,7 @@ A|we always say we're Americans,|sv
 A|and they, they want us to say we're the North Americans.|sv
 B|Oh, I see|b
 A|We're not Americans,|sv
-A|we're  North Americans|sv
+A|we're North Americans|sv
 A|and they're South Americans,|sv
 A|yeah.|%
 B|I don't know.|h
@@ -158,10 +158,10 @@ A|well you see it, saw it out there then, too.|sd
 B|And, uh, in fact, I drove a cab when I was a graduate student|sd
 B|so I, I knew, uh, the Hispanic part of L A pretty well.|sd
 A|Uh-huh.|b
-B|And  certainly, you know, knew that problem,|sd
+B|And certainly, you know, knew that problem,|sd
 B|knew, you know, knew about apartment houses that would have eight or ten or twelve people living in them, sleeping in the same bed in shifts and all that.|sd
 A|Yeah.|b
-B|And,  uh, it was, it was pretty wild.|sd
+B|And, uh, it was, it was pretty wild.|sd
 A|I think a, a common factor to a lot of problems, both, whether it be crime, if, if you want to jump on that, is mostly, uh, poverty.|sv
 A|Uh, and I think a lot of their problems is poverty.|sv
 A|If we could, uh, uh,|sv
@@ -176,10 +176,10 @@ A|they're in Taiwan and Japan|sd
 A|and they're, they haven't had, what, that much luck in South America|sd
 A|and there's got to be a lot of potential for business down there, for the products certainly that we make and everything.|sd
 B|Yeah.|b
-A|And  there's got to be trade.|sd
+A|And there's got to be trade.|sd
 A|I guess that's some of the answer, I guess is business, uh. Uh,|sv
 A|and I try to be an optimist and say, well that, that's one way is to help any problem whether it be crime, or certainly poverty obviously is to, is to get some business going between each other.|sv
-A|And we need, we need to do more of that, uh, somehow. And encourage more business,  between  us.|sv
+A|And we need, we need to do more of that, uh, somehow. And encourage more business,  between us.|sv
 B|Yeah.|b
 B|Yeah.|b
 A|They've got to have a lot of resources I would think. An enormous amount of, of well potential that way.|sv
@@ -187,7 +187,7 @@ A|A lot of it, of course is hot and jungle and all that,|sv
 A|but, uh, there's got to be a lot of potential down there.|sv
 B|Yeah,|b
 A|what are you taking in school,|qw
-A|I didn't  ask you that.|sd
+A|I didn't ask you that.|sd
 A|What are you taking in school?|qw
 B|Well I am actually,|sd
 A|Oh, you're an instructor,|^2
@@ -217,12 +217,12 @@ A|I|%
 A|they've got to be analyzing with a, a voice recorder some how.|sv
 B|Yeah,|b
 B|well they record these|sd
-B|and then somebody transcribes them so that they,  they  have, uh, they have a speech signal|sd
+B|and then somebody transcribes them so that they,  they have, uh, they have a speech signal|sd
 A|Uh-huh.|b
 B|and what,|%
 B|and what is said.|sd
 A|Right.|b
-B|And  they have a, they're able to average it over a number of different occasions because peoples voices change a lot even from morning to evening|sd
+B|And they have a, they're able to average it over a number of different occasions because peoples voices change a lot even from morning to evening|sd
 B|and that's, uh, a big problem in speech recognition.|sd
 A|Oh, yes.|b
 A|I know they change with age,|sd
@@ -243,7 +243,7 @@ A|I|%
 A|T I gotten with their Speak and Spell and everything,|sd
 A|I've told my wife, that one of the reasons they're doing it is because eventually you'll be able to talk to your computer,|sd
 B|Right.|b
-A|you  wouldn't have to have a keyboard,|sv
-A|you'll  be able to just give it commands|sv
+A|you wouldn't have to have a keyboard,|sv
+A|you'll be able to just give it commands|sv
 A|and I'm sure they have some of that now,|sd
 A|and not, not, in computers but a lot of potential, of course for handicapped people,|sv

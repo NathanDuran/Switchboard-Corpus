@@ -65,7 +65,7 @@ B|so, uh.|%
 A|Uh-huh.|b
 A|Yeah,|%
 A|um, like you, you mentioned you work for a school system.|sd
-A|I work for, uh, Georgia Tech  in the  research branch,|sd
+A|I work for, uh, Georgia Tech in the  research branch,|sd
 B|Oh, all right.|b
 A|and I guess another one that, that I rank up there high is the, uh, kind of job flexibility and time off, um, I enjoy as a benefit.|sv
 B|I do too.|aa
@@ -114,4 +114,4 @@ B|but at the  time, I worked there because my hours and days were the same as th
 A|Oh, yeah.|b
 A|Uh-huh.|b
 B|and, uh, I've just continued to, uh, stay there|sd
-A|Are there,  are there any things that, that you'd like to see changed in terms of the, the benefits?|qy
+A|Are there, are there any things that, that you'd like to see changed in terms of the, the benefits?|qy

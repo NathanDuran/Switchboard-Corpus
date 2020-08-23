@@ -176,7 +176,7 @@ A|Oh, okay,|bk
 A|my mother said ten minutes|sd
 A|so, I don't know.|h
 B|Oh, okay.|b
-A|But, uh,  okay|b^m
+A|But, uh, okay|b^m
 A|well, it was nice talking to you|fc
 A|and,  and good luck with your hobbies|fc
 B|It was nice talking to you, too,|fc

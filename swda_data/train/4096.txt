@@ -59,10 +59,10 @@ A|So his solution was to burn plastic. Collect it and burn it.|sd
 B|Well, it's carbon|sd
 B|so that makes sense,|sv
 B|like a carbon fuel of some sort,|sd
-B|but what  what  about emissions?|qw
+B|but what  what about emissions?|qw
 A|Yeah.|b
 A|And it's more than even paper or something like that.|sd
-A|There is more energy in it per pound or  whatever.|sd
+A|There is more energy in it per pound or whatever.|sd
 A|Well that was he didn't deal with that.|sd
 B|Oh.|b
 A|He just said burn it.|sd

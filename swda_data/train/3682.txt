@@ -1,5 +1,5 @@
 B|Okay|fo_o_fw_"_by_bc
-B|what  kind of  foods would you have?|qw
+B|what kind of  foods would you have?|qw
 A|Okay.|b
 A|Um, well, I like to cook, um|sd
 B|Oh, I do too|sd

@@ -13,7 +13,7 @@ A|They're eight and eleven|sd
 B|Um.|b
 B|Okay,|bk
 B|and did,|%
-A|and they're  into sports|sd
+A|and they're into sports|sd
 B|Yeah.|b
 A|I mean, as a matter of fact, that's what we're doing tonight|sd
 B|What, what are you doing?|qw
@@ -46,7 +46,7 @@ B|Do you do sports|qy
 B|or do you go out?|qy
 A|Both.|sd
 A|If we're not doing sports we go somewhere.|sd
-B|Do you go, how about like for, uh, do you go for long vacations, like a week  or something when they have school off?|qy
+B|Do you go, how about like for, uh, do you go for long vacations, like a week or something when they have school off?|qy
 A|Oh, yeah,|ny
 A|yeah,|ny
 A|yeah.|ny
@@ -73,19 +73,19 @@ B|Right.|b
 A|it's not really just to getting to sight see.|sd
 B|Right.|b
 B|Well, it's, it's a beautiful city.|sd
-A|Oh, I  bet it is, too.|ba
-B|But, the problem is  , like first time I went out of here, and they took me to Las Vegas|sd
+A|Oh, I bet it is, too.|ba
+B|But, the problem is , like first time I went out of here, and they took me to Las Vegas|sd
 A|Uh-huh.|b
 B|and that was the most boring place on earth.|sd
 A|Oh, now my husband and I, we go different places.|sd
 A|But our but when we go with our children we usually kind of stay close.|sd
 B|Yeah.|b
 B|Did, uh, did, like, did you go to Disneyland?|qy
-A|Oh,  yes,|ny
+A|Oh, yes,|ny
 A|yes,|ny
 A|yes.|ny
 B|Oh, okay.|bk
-B|So,  but um, now, I don't know,|h
+B|So, but um, now, I don't know,|h
 B|but um, but let's see,|^h
 B|when I was eleven I went also to the Caribbean.|sd
 A|Oh.|b
@@ -165,7 +165,7 @@ A|but their children does anything,|sd
 A|we have to take them, and, you know to do it.|sd
 B|Yeah.|b
 A|And that really gets kind of aggravating after a while|sd
-A|because you're saying, Well, I work full time too,  you know.|sd
+A|because you're saying, Well, I work full time too, you know.|sd
 B|Yeah,|b
 B|yeah,|b
 B|but, uh, it's just, it's just something that, you know,|%

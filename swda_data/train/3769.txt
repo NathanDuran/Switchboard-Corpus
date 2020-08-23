@@ -96,7 +96,7 @@ B|and you're tired|sv
 B|and, you know, you just are tempted to give in to that,|sv
 B|and it costs a lot of money to do it too.|sv
 A|I know.|ba
-B|You know, it  adds up|sv
+B|You know, it adds up|sv
 B|and it's not healthy,|sv
 B|and I really got into that habit for a while,|sd
 B|but I got out of it again because I just felt like it was just too unhealthy.|sd
@@ -131,7 +131,7 @@ A|I had a condo in Oakland,|sd
 A|so, right in Chinatown, so we went to lots of restaurants Chinese restaurants,|sd
 B|Oh, that would be fun.|ba
 A|and they were really good,|sd
-A|I really miss them.  You know.|sd
+A|I really miss them. You know.|sd
 B|Yeah.|b
 B|Do you miss living there?|qy
 A|Uh, no,|nn

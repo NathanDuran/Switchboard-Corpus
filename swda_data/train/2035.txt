@@ -157,7 +157,7 @@ A|It was good talking to you.|fc
 B|Well it was good talking to you.|fc
 A|I really appreciate your suggestions.|fc
 B|Oh, no problem.|fc
-B|Well, take  care.|fc
+B|Well, take care.|fc
 A|Okay,|fc
 A|bye-bye,|fc
 B|Bye-bye.|fc

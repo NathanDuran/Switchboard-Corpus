@@ -1,3 +1,5 @@
+import re
+
 
 class Dialogue:
     def __init__(self, conversation_id, num_utterances, utterances):
@@ -44,8 +46,8 @@ def process_transcript(transcript, excluded_tags=None, excluded_chars=None):
 
         # Join words for complete sentence
         utterance_text = " ".join(utterance_text)
-        # Strip leading and trailing whitespace
-        utterance_text.strip()
+        # Strip extra, leading and trailing whitespace
+        utterance_text = re.sub(' +', ' ', utterance_text)
 
         # Print original and processed utterances
         # print(utt.transcript_index, " ", utt.text_words(filter_disfluency=True), " ", utt.damsl_act_tag())
@@ -53,7 +55,7 @@ def process_transcript(transcript, excluded_tags=None, excluded_chars=None):
 
         # Check we are not adding an empty utterance (i.e. because it was just <laughter>),
         # or adding an utterance with an excluded tag.
-        if len(utterance_text) > 0 and utt.damsl_act_tag() not in excluded_tags:
+        if (not utterance_text.isspace() and len(utterance_text) >= 1) and utt.damsl_act_tag() not in excluded_tags:
             # Create Utterance and add to list
             current_utt = Utterance(utt.caller, utterance_text, utt.damsl_act_tag())
             utterances.append(current_utt)

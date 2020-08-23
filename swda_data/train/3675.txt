@@ -47,7 +47,7 @@ B|Yeah,|aa
 B|bad for him.|sd
 B|But, the homeowner can't be touched.|sd
 A|Um.|%
-B|It's a  homestead state.|sd
+B|It's a homestead state.|sd
 A|Is that right?|qy
 B|Yeah,|ny
 B|see right now if I quit paying any of my bills,|sd
@@ -123,7 +123,7 @@ A|You got a buy.|ba
 B|Well, some of it wasn't worth anything, you know.|sd
 A|Sure.|b
 B|You know, a lot of the, uh, diskettes were just totally unusable.|sd
-A|Melted,  or Just wet|bf
+A|Melted, or Just wet|bf
 A|or,|%
 B|Well, yeah|aa
 B|, or wet|sd

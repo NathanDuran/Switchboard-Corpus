@@ -76,11 +76,11 @@ A|On that same topic, have you ever read anything about, you know, the Amelia Ea
 B|Uh, no,|nn
 B|I have not.|sd
 A|I, I think that would be,|sv
-A|I am sure there is something out there, uh,  ,|sv
+A|I am sure there is something out there, uh, ,|sv
 B|Yeah,|b
-B|I would  I would like to, too,|sd
-B|because it's a lot of things coming up here lately about her, you know, possibilities of of where she  ,|sd
-A|I thought she  was a prisoner of war or something for like ten years.|sd
+B|I would I would like to, too,|sd
+B|because it's a lot of things coming up here lately about her, you know, possibilities of of where she ,|sd
+A|I thought she was a prisoner of war or something for like ten years.|sd
 B|Uh|%
 A|Well whatever, this is one aspect of it.|sd
 B|Yeah.|b

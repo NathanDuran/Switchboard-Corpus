@@ -14,7 +14,7 @@ A|The trials are held by a panel of three, uh, three or four judges who are, wel
 A|they're like lawyers I guess.|sd
 A|They're experts in the law|sd
 B|Right.|b
-A|and, uh,  there, there really isn't a jury|sd
+A|and, uh, there, there really isn't a jury|sd
 A|and, uh, uh, they do the questioning also.|sd
 A|The judges do the questioning|sd
 A|and, uh they,|%
@@ -22,8 +22,8 @@ B|Uh-huh.|b
 A|uh,|%
 A|I think it's a lot harder to get off on technicalities also because they, uh, uh, the judge is also sort of a jury, uh,|sv
 A|but I'm not sure I like that|sd
-A|I think I prefer  the jury system myself.|sd
-B|You think you  prefer the jury?|qy
+A|I think I prefer the jury system myself.|sd
+B|You think you prefer the jury?|qy
 B|You think your chances are better?|qy
 A|Uh, well, actually I think in most criminal cases it wouldn't make any difference whether it was a couple of judges or jury|arp_nd
 A|What, what I worry about is cases where it's the government against the individual.|sd
@@ -72,7 +72,7 @@ B|exactly.|aa
 A|Insurance cases and things like that.|sd
 B|Yeah.|b
 A|Where|%
-A|and, uh, there would be more honest settlements instead of this, uh, tugging of people's heart strings and, uh making them cry and feel like they're doing somebody good by  giving them  or giving them two million dollars to make up for the pain and suffering|sv
+A|and, uh, there would be more honest settlements instead of this, uh, tugging of people's heart strings and, uh making them cry and feel like they're doing somebody good by giving them  or giving them two million dollars to make up for the pain and suffering|sv
 B|Uh-huh|aa
 B|Exactly|aa
 B|exactly.|aa

@@ -101,7 +101,7 @@ A|right.|b
 B|but, uh, there's been some magazines I've looked at,|sd
 B|and it's a real turn off to see every other page,  some kind of ad,|sd
 A|Every page.|^2
-A|I  do the same thing,|ba
+A|I do the same thing,|ba
 A|I, I think I opened VOGUE the other day or something|sd
 B|Yeah,|aa
 B|VOGUE is,  heavily into that.|sd

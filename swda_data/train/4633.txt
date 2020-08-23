@@ -2,8 +2,8 @@ B|How many children do you have now?|qw
 A|Well I have five.|sd
 B|You have five?|br
 A|Right.|aa
-B|Well you do have a hard time finding time  then don't you?|qy
-A|Well,  five are, I mean four of them are grown,|sd
+B|Well you do have a hard time finding time then don't you?|qy
+A|Well, five are, I mean four of them are grown,|sd
 A|they're in college or just out of college|sd
 A|so I really have just a thirteen year old at home.|sd
 B|Uh-huh.|b
@@ -13,7 +13,7 @@ B|All right|bk
 B|To have them, uh,|%
 A|I try to fool everybody|sd
 B|I think you're doing a good job.|sv
-B|I just  have one child.|sd
+B|I just have one child.|sd
 A|Uh-huh.|b
 B|And, uh, I don't think, uh,|%
 B|well there's not much I can do about it.|sd
@@ -27,7 +27,7 @@ A|And that's one reason I have so many because I really, I enjoy the big family.
 B|Yeah.|b
 A|And my thirteen year old is pretty separate from her brother and sisters|sd
 A|and so she is sort of like an only child|sd
-A|and it's the same type of thing,  uh,|sv
+A|and it's the same type of thing, uh,|sv
 B|Uh-huh.|b
 B|I have a younger brother like that.|sd
 B|I'm in my forties, like I say|sd
@@ -36,7 +36,7 @@ A|Uh-huh.|b
 B|And I was, I was the youngest.|sd
 A|Yeah.|b
 B|So I understand how that worked.|sd
-B|And he was treated like he had five fathers  or something.|sd
+B|And he was treated like he had five fathers or something.|sd
 A|Right.|aa
 A|That's exactly how it is, you know.|sd
 A|She's got all these sisters and her brother to take care of her.|sd
@@ -46,8 +46,8 @@ A|But, uh, yeah,|%
 A|it, it's a little bit difficult, though.|sd
 A|I think it was easier when they all had each other and could entertain each other and I was home more.|sd
 A|And,|%
-B|Did  you all do a lot of organized things like, uh, Little League, uh,  soccer?|qy
-A|We,  we really did not.|ng
+B|Did you all do a lot of organized things like, uh, Little League, uh, soccer?|qy
+A|We, we really did not.|ng
 A|My next oldest daughter that's in college in California is a world twirling champion.|sd
 A|She twirls a baton|sd
 A|and we did a lot of things together.|sd
@@ -69,7 +69,7 @@ B|and if you have a large number of children or, then you don't.|sv
 A|Well, you can't afford to.|sv
 B|No,|aa
 B|you|%
-B|and there's not enough time,  uh|sv
+B|and there's not enough time, uh|sv
 A|Right.|aa
 B|like my son is in, uh, Little League this year.|sd
 B|He's ten.|sd
@@ -78,7 +78,7 @@ B|and they have a game|sd
 B|and it's just, uh, if there were more than one child, I don't know, there would be no way to do it.|sv
 A|Right.|aa
 A|That's right.|aa
-B|You know,  one parent go one direction|sv
+B|You know, one parent go one direction|sv
 B|and I'd have to go in the other|sv
 B|and we could only cover two at that.|sv
 A|Uh-huh.|b
@@ -98,7 +98,7 @@ B|Uh-huh.|b
 A|And it's just, my thirteen year old and myself|sd
 A|and so we really have to keep it together to get just her activities in and still have time to spend with each other.|sd
 A|So ,|%
-B|I don't  think, although|sv
+B|I don't think, although|sv
 B|I think a, a, more than one child, probably three children is probably the ideal to me|sv
 B|but I'm not sure I could afford three.|sv
 B|I most certainly couldn't educate three.|sv
@@ -127,14 +127,14 @@ B|we have a lot of people moving here from Boston and, and different areas|sd
 B|and from talking to them, they're shocked.|sd
 A|Really?|bh
 B|and they, you know,|%
-B|the housing is so cheap in comparison to Boston  that they jump  on it.|sd
+B|the housing is so cheap in comparison to Boston  that they jump on it.|sd
 A|Right.|b
 A|That's what I've heard.|aa
 B|They sell their house,|sd
 B|they stash away a good bit of money and come down here|sd
 B|and I work with a lot of them,|sd
 B|they, they think they, they have really done something.|sd
-B|Then when they get down here, they realize the cost of living is outrageous compared to, to where they came  from.|sd
+B|Then when they get down here, they realize the cost of living is outrageous compared to, to where they came from.|sd
 A|Huh.|b
 A|Yeah.|b
 B|The housing is cheaper,|sd

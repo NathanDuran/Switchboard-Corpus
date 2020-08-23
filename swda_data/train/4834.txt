@@ -17,8 +17,8 @@ A|Or you do tell them you're not interested|sd
 A|and they still keep asking you, you know, and keep badgering you about it,|sd
 A|and that aggravates me.|sd
 A|But I don't know that you could call that invading of, invading my privacy|h
-A|because, you know, if we don't want that to happen all we have to do is just call the phone company and say, look, you know, I want my name unlisted or want  my, you know,|sd
-B|But, but that  doesn't work.|ar
+A|because, you know, if we don't want that to happen all we have to do is just call the phone company and say, look, you know, I want my name unlisted or want my, you know,|sd
+B|But, but that doesn't work.|ar
 A|It doesn't?|qy
 B|Uh, no,|nn
 B|because they, a lot of times they dial sequentially.|sd
@@ -31,7 +31,7 @@ A|Oh.|b
 B|Uh, or you, uh,|%
 B|or, or like the newspapers, they just dial randomly or and stuff.|sd
 B|They even call, the newspapers here even call people who already subscribe|sd
-B|And, uh, while I was subscribing to the paper, I got so upset at them  that they|sd
+B|And, uh, while I was subscribing to the paper, I got so upset at them that they|sd
 A|Uh-huh.|b
 B|you call me one more time, I'm going to stop subscribing|^q
 B|And the local, local papers ask them to remove your number from their list|sd
@@ -63,7 +63,7 @@ B|Uh-huh.|b
 A|Uh, and, and I've, I've heard recently that, uh, uh, that this is a common occurrence where people are using you know,|sd
 A|they use Joe Blow's uh, social security number, uh, and can, uh, potentially ruin someone's credit.|sd
 B|Uh-huh.|b
-B|If you know a person's social security number and their mailing address, and their mother's maiden name   uh, you can, basically, become that, uh, person.|sd
+B|If you know a person's social security number and their mailing address, and their mother's maiden name  uh, you can, basically, become that, uh, person.|sd
 A|Huh.|b
 B|Uh, if the purchase was made mail order, they should have a record of where it was shipped to|sd
 A|Uh-huh.|b
@@ -76,7 +76,7 @@ B|they should be able to provide you a copy with that signature|sd
 B|and if they can't provide a signature, you know, they'll have to eat the charge|sd
 A|Yeah.|b
 A|Well,|%
-B|But  if the has, you know, their social her social security number, I'd be real concerned that they, uh, that she's not, uh, blacklist on, uh, what is it, it's Telecredit or something?|qy
+B|But if the has, you know, their social her social security number, I'd be real concerned that they, uh, that she's not, uh, blacklist on, uh, what is it, it's Telecredit or something?|qy
 A|Yeah.|ny
 B|Uh, because she won't be able to cash checks because most places verify through there.|sd
 B|She probably won't be able to open a checking account or anything without a lot of hassle.|sd

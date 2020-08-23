@@ -1,7 +1,7 @@
 import itertools
 from swda_utilities import *
 # Initialise Spacy tokeniser
-tokeniser = nlp.data.SpacyTokenizer('en')
+tokeniser = nlp.data.SpacyTokenizer('en_core_web_sm')
 
 # Dictionary for metadata
 metadata = dict()
@@ -34,11 +34,17 @@ for utt in utterances:
 
     # Tokenise utterance
     tokenised_utterance = tokeniser(utt)
+
+    # Remove whitespace tokens
+    tokenised_utterance = [token if not token.isspace() else '' for token in tokenised_utterance]
+
     if len(tokenised_utterance) > max_utterance_len:
         max_utterance_len = len(tokenised_utterance)
 
     tokenised_utterances.append(tokenised_utterance)
-
+    for tok in tokenised_utterance:
+        if tok.isspace():
+            print(tokenised_utterance)
     # Add length to mean
     mean_utterance_len += len(tokenised_utterance)
 
@@ -61,7 +67,6 @@ metadata['vocabulary'] = vocabulary
 metadata['vocabulary_size'] = vocabulary_size
 print("Words:")
 print(word_freq)
-print(vocabulary)
 print(vocabulary_size)
 
 # Write vocabulary and word frequencies to file

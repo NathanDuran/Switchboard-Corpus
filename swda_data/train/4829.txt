@@ -31,7 +31,7 @@ B|That's what I do.|sd
 B|Uh, and I, I recycle aluminum, glass, uh, newspapers.|sd
 A|Yeah,|b
 A|that's good.|ba
-B|So it's nice to have, you know, one place that you can take them all to instead of driving  the glass to one place|sv
+B|So it's nice to have, you know, one place that you can take them all to instead of driving the glass to one place|sv
 A|Yeah,|b
 A|yeah.|b
 A|That's another thing.|sd
@@ -53,10 +53,10 @@ B|Uh, so I guess that's one option.|sd
 A|Yeah.|b
 A|That's good,|ba
 A|that's good.|ba
-B|I guess  one thing they're working on now is recycling plastics too.|sd
+B|I guess one thing they're working on now is recycling plastics too.|sd
 B|Like, uh|%
 A|Uh-huh.|b
-B|have you noticed that on the bottom of plastic goods, they have this little number now that tells  what  kind of plastic it is?|qy
+B|have you noticed that on the bottom of plastic goods, they have this little number now that tells what  kind of plastic it is?|qy
 A|Huh.|%
 A|No.|nn
 B|Yeah,|b
@@ -93,7 +93,7 @@ A|Uh, and just a lot of things I've learned off of her that, to start doing.|sd
 A|And she does make a lot of sense.|sd
 B|Yeah.|b
 A|Just her whole house is like wow.|sd
-B|I guess that's how it gets passed on. You know, when one person,  you hear  from another person|sv
+B|I guess that's how it gets passed on. You know, when one person, you hear  from another person|sv
 A|Yeah.|b
 B|and then, uh, and then you, and then you pass it on.|sv
 A|Yeah.|b
@@ -116,7 +116,7 @@ B|that's cute.|sv
 B|That's neat,|sv
 B|yeah.|%
 B|When you,|%
-A|And keep  the refrigerator door closed and that kind of thing.|sd
+A|And keep the refrigerator door closed and that kind of thing.|sd
 A|He's really caught on|sd
 A|so that's really neat|sv
 B|Well, when you start early, I guess,|sv

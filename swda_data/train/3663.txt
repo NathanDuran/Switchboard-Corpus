@@ -34,7 +34,7 @@ A|it's so hard to predict here.|sv
 B|It's been eighty degrees on Christmas day here before.|sd
 A|Yeah.|b
 B|Lots of times.|sd
-A|Well, today  it's not bad out there.|sv
+A|Well, today it's not bad out there.|sv
 B|No,|aa
 B|it's nice.|sv
 B|I just came in from outside|sd

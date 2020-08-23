@@ -9,7 +9,7 @@ A|so it has to stay inside|sd
 A|and we're having a difficult time trying to train it.|sd
 B|How old is it?|qw
 A|It's about six months.|sd
-B|Uh, you, you're, you're in the roughest stages of  pet  ownership, I think.|sv
+B|Uh, you, you're, you're in the roughest stages of pet  ownership, I think.|sv
 A|Really?|bh
 A|But they're supposed to be real intelligent dogs,|sv
 A|but I guess every one, one one, one of them, or every once in a while, you get one that's not so intelligent because this one, it.|sv
@@ -30,7 +30,7 @@ B|and when I got my, my dogs, when they, when they did something I hollered at t
 A|Right.|b
 B|They say that's not the way to do it now.|sv
 B|You're just supposed to|sv
-A|Stand outside with them  until they.|^2
+A|Stand outside with them until they.|^2
 B|No,|ar
 B|just, just, put them outside, I guess. Unless you catch them in the act.|sv
 A|Well, we're hardly ever at home,|sd
@@ -45,7 +45,7 @@ B|but, uh.|%
 A|Yeah,|b
 A|we, we try to take it, you know,|sd
 A|it gets, it gets frustrating when you take it outside|sv
-A|and, you know  and then it runs right  inside|sd
+A|and, you know  and then it runs right inside|sd
 B|Does, does it just want to sniff around?|qy
 B|Does it just want to sniff around and play when it's outside?|qy
 A|Yeah,|ny
@@ -53,15 +53,15 @@ A|a lot of times,|sd
 A|and you know, it won't it's little job outside|sd
 B|Yeah.|b
 A|and it comes inside.|sd
-B|Have you praised  it and given it a treat maybe when it does something outside?|qy
+B|Have you praised it and given it a treat maybe when it does something outside?|qy
 A|Uh, yeah,|ny
 A|we've tried that,|sd
 A|and, uh, you know, there's certain spots in the house where he likes to go,|sd
 B|Yeah.|b
 A|so, and he chews on plants and all that,|sd
-A|but, you know, that's  natural  for a little puppy.  Huh?|sv
-B|That's nothing,  huh.|^2
-B|Well,  it, it, it'll, it'll catch on pretty soon, I'll, I'll bet you.|sv
+A|but, you know, that's natural  for a little puppy. Huh?|sv
+B|That's nothing, huh.|^2
+B|Well, it, it, it'll, it'll catch on pretty soon, I'll, I'll bet you.|sv
 B|I, I have a sixteen year old, almost sixteen year old Golden Retriever,|sd
 B|and she's gone the other way,|sd
 B|because she's so old, she doesn't have much control|sd
@@ -92,9 +92,9 @@ A|and we can't because it's not accustomed to being on a leash|sd
 B|Yeah.|b
 A|and so it, I mean this dog really feels like it's being killed or something when you try to, you know, tug on it to walk it.|sd
 A|I mean, it just goes like a mad dog,|sd
-A|I mean it just jumps up and down and starts  yapping,|sd
+A|I mean it just jumps up and down and starts yapping,|sd
 A|and  it's, you know, I mean, it's not even close to even being trained on a leash.|sd
-B|Does it,  oh.|ba
+B|Does it, oh.|ba
 B|Uh-huh.|b
 B|You know, maybe you you can get it signed up this spring or summer for some of the dog obedience classes.|sv
 A|Uh-huh.|b

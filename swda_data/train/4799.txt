@@ -2,7 +2,7 @@ A|Okay.|fo_o_fw_"_by_bc
 A|Uh, I haven't been in this situation yet|sd
 A|You know, my, my parents are not quite at that age yet,|sd
 A|so I haven't,|%
-B|They're not  quite elderly, huh|qy
+B|They're not quite elderly, huh|qy
 A|No.|nn
 A|So I haven't, uh, really been in that situation although they are thinking about my grandmother|sd
 A|but, uh but that's really about it.|sd
@@ -29,20 +29,20 @@ A|Yeah.|b
 B|And he just kind of became a vegetable and died.|sd
 A|Oh, no.|fo_o_fw_"_by_bc
 B|So  but that was a long time ago.|sd
-A|That's  sad.|fo_o_fw_"_by_bc
+A|That's sad.|fo_o_fw_"_by_bc
 A|Yeah.|b
 B|That was, uh, back in like seventy-three.|sd
-A|Oh,  okay.|bd
-B|So,  uh, I think the way they did things were a lot different back then.|sv
+A|Oh, okay.|bd
+B|So, uh, I think the way they did things were a lot different back then.|sv
 A|I'm sure they were.|aa
 A|Yeah.|aa
-B|And,  uh, my grandmother, his, his wife uh, we also put her in a rest home.|sd
+B|And, uh, my grandmother, his, his wife uh, we also put her in a rest home.|sd
 A|Uh-huh.|b
 B|She was in a rest home|sd
 B|and then she was back out because she didn't really need to be there and, uh, had a physical, had a good physical therapist at that place|sd
 B|and  they worked with her and got her walking and got her kind of taking care of herself|sd
 A|Ah.|b
-B|and  so  she was able to come back home|sd
+B|and so  she was able to come back home|sd
 A|Yeah.|b
 B|and then she had to go back in a couple of times,|sd
 A|Oh.|b
@@ -50,10 +50,10 @@ B|but mostly it was just because she kind of gave up.|sd
 A|Um.|b
 B|And they got her going again.|sd
 A|Yeah.|b
-B|So I guess as far as looking, do things with them and treat them, treat  like they're ,|sd
+B|So I guess as far as looking, do things with them and treat them, treat like they're ,|sd
 A|Uh-huh.|b
 A|Yeah.|b
-A|And I'm sure  it's, it's expensive.|sv
+A|And I'm sure it's, it's expensive.|sv
 A|Yeah.|%
 B|It, it is|aa
 A|Yeah.|b

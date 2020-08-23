@@ -22,7 +22,7 @@ A|No.|nn
 B|you normally just try to sell them on your, uh, aptitude and not, you know, well how much vacation do I get|sv
 B|Oh well.|fo_o_fw_"_by_bc
 A|Um.|%
-B|Well  I'll tell you a little bit about what T I has as benefits.|sd
+B|Well I'll tell you a little bit about what T I has as benefits.|sd
 B|We do have, uh,|sd
 B|like most companies, we have medical insurance.|sd
 B|Although they're tending to try to really cut costs more and more. Um, what they started with a few years ago is that they only would allow you to go to, um, set hospitals in the area.|sd
@@ -31,7 +31,7 @@ B|They're|sd
 A|Oh, yeah,|b
 A|I've heard of that.|sd
 B|Yeah,|b
-B|they're hospitals that they're, uh,  agreeing with, uh, T I that they'll be a certain rate, you know, for rooms and care and all that kind of stuff to keep you know, costs down.|sd
+B|they're hospitals that they're, uh, agreeing with, uh, T I that they'll be a certain rate, you know, for rooms and care and all that kind of stuff to keep you know, costs down.|sd
 A|Uh-huh.|b
 B|Now they're going to start to do the same kind of thing with doctors.|sd
 B|So it's almost like a, um, uh, an H M O you know, kind of thing that, uh, only certain doctors are you going to be allowed to go to and get the full coverage.|sd
@@ -44,7 +44,7 @@ B|Like, I've had a couple of crowns recently|sd
 B|and if you didn't have the extra dental plus, um, you only get like a third of your cost, which can be kind of expensive with a crown.|sd
 A|Yeah|b
 A|it can .|ba
-B|So, I, I  pay,|%
+B|So, I, I pay,|%
 B|yeah,|%
 B|I pay for the extra dental plus, so much more per month because it always seems like if you're going to have a crown or something major done it pays a little more.|sd
 A|Uh-huh.|b
@@ -64,7 +64,7 @@ A|Uh-huh.|b
 B|So, that grows pretty good|sd
 B|and I think that will be more of something I can see of a pension than the regular pension plan.|sd
 A|Uh-huh.|b
-B|Of  course you can buy stock in the company,|sd
+B|Of course you can buy stock in the company,|sd
 B|but, you know, that's not always a real, for sure kind of thing.|sv
 A|Not always safe|^2
 B|Yeah,|aa
@@ -78,10 +78,10 @@ B|Doesn't quite feel as good.|sv
 A|Yeah.|b
 B|And we you know, vacation normally after you're here for six months|sd
 B|and you start to get like five days every six months is kind of how they accrue it to you.|sd
-B|And it's, one nice thing about T I is after you've been here, uh, for five years,  you  get three weeks.|sd
+B|And it's, one nice thing about T I is after you've been here, uh, for five years,  you get three weeks.|sd
 A|Uh-huh.|b
 A|Oh, that's nice.|ba
-B|Which, a lot of places make you work like ten years or so,  before  you get that much.|sv
+B|Which, a lot of places make you work like ten years or so,  before you get that much.|sv
 A|Yeah.|b
 A|Uh-huh.|b
 B|And we get some, we get, uh, decent holidays.|sd
@@ -97,16 +97,16 @@ B|You only have to take three days of vacation|sd
 B|and you get the whole week at Christmas time.|sd
 A|Yeah,|b
 A|well, um, I can just tell you like, you know,|sd
-A|Well  there's twelve kids in my family.|sd
+A|Well there's twelve kids in my family.|sd
 B|Whoa, okay!|ba
 A|So the, the dental was very important, you know, to my dad.|sd
 B|Uh-huh.|b
 A|But, um, I think they took the dental away now.|sd
 A|He worked for United Telephone System,|sd
-A|it's, you know,  it's  just another, you know telephone network.|sd
+A|it's, you know,  it's just another, you know telephone network.|sd
 B|Um.|b
 B|Uh-huh.|b
-A|And  they took the dental away,|sd
+A|And they took the dental away,|sd
 A|but now I think they're going to start getting into eye.|sd
 B|Oh, yeah.|b
 A|Yeah.|b
@@ -119,11 +119,11 @@ B|and I'm not quite sure, there's certain places you can go to that have, uh, di
 A|Uh-huh.|b
 B|So you can get glasses and contacts and stuff through those particular stores or something like that.|sd
 A|Yeah,|b
-A|and now for his pension he pretty much just has the stock.  he's on  that same kind of pension as what you said only,  for  everything he puts in they'll match it, up to a certain amount.|sd
+A|and now for his pension he pretty much just has the stock.  he's on that same kind of pension as what you said only,  for everything he puts in they'll match it, up to a certain amount.|sd
 B|Yeah|b
 A|Like if he puts in a dollar they'll put in a dollar, you know.|sd
 B|Yeah.|b
-A|And  then he's only allowed, I think, I don't know if it's maybe five percent, or something like that that he's allowed to put in|sd
+A|And then he's only allowed, I think, I don't know if it's maybe five percent, or something like that that he's allowed to put in|sd
 A|and they'll match it.|sd
 B|Uh-huh.|b
 A|So and, um, he works for the,|sd
@@ -145,7 +145,7 @@ A|and he has all, all the holidays off.|sd
 B|Right,|b
 B|and you get some extra ones.|sd
 B|Federal workers always seem to get,|sd
-B|you know, you get Columbus Day, and Veterans Day,  and those ones  that you couldn't really care about so much but you get the day off anyhow.|sd
+B|you know, you get Columbus Day, and Veterans Day,  and those ones that you couldn't really care about so much but you get the day off anyhow.|sd
 A|Right,|b
 A|right|b
 A|Yeah,|b
@@ -159,14 +159,14 @@ A|and with his doctors and stuff, they have, um, a list of doctors that the empl
 A|and it only costs a dollar as long as they go to that doctor.|sd
 B|Oh, yeah,|b
 B|okay.|b
-A|You know, and  I think it works the same way with his prescriptions and stuff if he needs any.|sd
+A|You know, and I think it works the same way with his prescriptions and stuff if he needs any.|sd
 A|But you have to go, you know, to certain ones|sd
 A|but still that works out really nice.|sd
 A|You know, it,|%
 B|Yeah,|b
 B|we're doing an H M O right now, um,|sd
 B|and when we go to get prescriptions it's five dollars,|sd
-B|but,  you know, sometime,  sometimes when you go, you know, the prescription,|sd
+B|but,  you know, sometime, sometimes when you go, you know, the prescription,|sd
 A|That's not bad either.|ba
 B|like my husband always takes which is kind of like, you know, Contact stuff, only better.|sd
 B|Um, you|%

@@ -109,7 +109,7 @@ B|I'm going to try and plan on it.|sd
 A|Okay.|b
 B|All right, well, I enjoyed the conversation.|fc
 A|Thank you.|fc
-B|All right,  thank you.|fc
+B|All right, thank you.|fc
 A|Bye.|fc
 A|Bye-bye.|fc
 B|Bye-bye.|fc

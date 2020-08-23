@@ -165,7 +165,7 @@ A|That's what I was thinking they, they sometimes do.|sd
 B|I don't know if that's a regular procedure or what.|sd
 B|But I know I'm always hearing that, uh,|sd
 B|well, the jury came in with a guilty verdict|sd
-B|and they recommended,  twenty years or  something.|sd
+B|and they recommended,  twenty years or something.|sd
 A|And they recommend.|^2
 A|Yeah.|b
 A|And then the judge has the final decision on what does really happen. Yeah.|sd

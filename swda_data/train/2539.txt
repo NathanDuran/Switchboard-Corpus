@@ -113,7 +113,7 @@ B|Yes,|ny
 B|and, so,|%
 A|What grade?|qw
 B|oh, I started out with college and then went to high school|sd
-B|and then I preferred the high school age level much better than I did the college,  because you have  a closer relationship with the, uh, students, that,|sd
+B|and then I preferred the high school age level much better than I did the college,  because you have a closer relationship with the, uh, students, that,|sd
 A|Oh, did you?|bh
 A|What did you teach?|qw
 B|I taught physical education.|sd
@@ -121,7 +121,7 @@ A|Oh, oh, I started out as a P E major, in education.|sd
 B|Uh-huh.|b
 A|I wanted to be a P E teacher.|sd
 B|Well,|%
-A|I sure  did.|sd
+A|I sure did.|sd
 B|I, uh, I found that, uh, it was a perfect combination from the standpoint of having vacations off at the same time.|sd
 A|Oh, yeah.|b
 B|And, uh, and it worked out fine from that standpoint, uh, plus the fact that, uh, when I left, uh,|sd
@@ -155,7 +155,7 @@ B|And, uh, I think out|%
 B|because that is the way of getting attention.|sv
 A|Well, see whenever my Mom stayed home with us, we did without a lot,|sd
 A|I mean, we were,|%
-A|it's hard to make it on one  income,|sv
+A|it's hard to make it on one income,|sv
 B|That's right.|aa
 A|but we did|sd
 A|and, and we lived in a trailer for eighteen years.|sd
@@ -170,10 +170,10 @@ A|and, um, I also had the supervision that I needed while I was growing up,|sd
 A|and I hope that I can provide that for my child too.|sd
 B|And we certainly, uh, we need more of that,|sv
 B|we need more parents willing to supervise,|sv
-B|though we've had such a breakdown in the family structure,  from the standpoint of,  of, uh, church and school and everything along the way.|sv
+B|though we've had such a breakdown in the family structure,  from the standpoint of, of, uh, church and school and everything along the way.|sv
 A|Oh, we have.|aa
 B|And that I think has contributed much to, uh, the delinquency that works grant and the poor school results that we're having. Uh, that the students', uh, parents have just not really taken enough interest in them from the very very beginning|sv
-B|and I think my feeling was that the very best teachers should be in grades one, two, and three. To get the students off to a good start let them have positive, um, uh, experiences,  from  the lower levels so they want to continue learning and, uh, keep going and not wait until they're, they're in the ninth and tenth grades,|sd
+B|and I think my feeling was that the very best teachers should be in grades one, two, and three. To get the students off to a good start let them have positive, um, uh, experiences,  from the lower levels so they want to continue learning and, uh, keep going and not wait until they're, they're in the ninth and tenth grades,|sd
 A|Uh-huh.|b
 B|it's too late then,|sv
 B|you cannot, reverse that trend at that point.|sv
@@ -183,7 +183,7 @@ B|Right.|aa
 A|I agree.|aa
 B|And, uh, while parents very often will be involved with the school activities when the child's in the elementary school|sd
 B|and they get into the high schools so often they seem to drop away at that point.|sd
-B|And, that is just as valuable, at that time, as to  the rush in the elementary .|sv
+B|And, that is just as valuable, at that time, as to the rush in the elementary .|sv
 A|It is.  Because all the peer pressure,  it starts in high school|sv
 B|Yes,|aa
 B|right.|aa
@@ -192,7 +192,7 @@ B|Right.|aa
 B|And, uh, the child needs to take pride in the fact that their parent is doing something.|sv
 B|Uh, we were fortunate in view of the fact that my son did play football|sd
 B|and I did keep statistics for his team,|sd
-B|and,  his Dad  did take movies of the football team and movies of the basketball team,|sd
+B|and,  his Dad did take movies of the football team and movies of the basketball team,|sd
 A|Oh, great.|ba
 B|and we tried to be a part of it but not overshadowing him or making him feel that we had to be there all the time.|sd
 A|Yeah.|b

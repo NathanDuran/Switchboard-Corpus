@@ -2,7 +2,7 @@ A|Ready to talk?|qy
 B|I guess so|no
 A|Okay.|^h
 B|Okay.|^h
-A|Uh, I want to talk about, um, our family budget,  and  the times that it's worked and the times that it hasn't worked and,  give  you a general description of it|sd
+A|Uh, I want to talk about, um, our family budget,  and the times that it's worked and the times that it hasn't worked and,  give you a general description of it|sd
 B|Okay.|bk
 B|Yeah.|b
 A|bit.|ad
@@ -16,7 +16,7 @@ B|Uh-huh.|b
 A|And so naturally we put ourselves,|sd
 A|we looked at our budget,|sd
 B|Yeah.|b
-A|and  so, what we did was draw up a budget that we thought, uh, was realistic.|sd
+A|and so, what we did was draw up a budget that we thought, uh, was realistic.|sd
 B|Uh-huh.|b
 A|And, uh, so, we had to make some adjustments|sd
 A|because we really are kind of looking for something that we want to do and he wants to do that's satisfactory,|sd
@@ -27,17 +27,17 @@ A|So, you see,|%
 B|That throws the budget out of whack real fast.|bf
 A|Well, we actually planned for about one year.|arp_nd
 B|Oh, good.|ba
-A|Uh, that God because, *listen  it  never occurred to  it never occurred  to us that it would take seven months.|sd
+A|Uh, that God because, *listen  it never occurred to  it never occurred to us that it would take seven months.|sd
 B|Really.|aa
 B|That was smart.|ba
 B|Yeah.|b
 A|And, uh, what we did was just, uh, decide how we had been spending our money before,|sd
 B|Uh-huh.|b
-A|and  then we put that on the computer|sd
-A|and then we took about three months and, uh, and adjusted,  where we  could come down and where we didn't want to come down,|sd
+A|and then we put that on the computer|sd
+A|and then we took about three months and, uh, and adjusted,  where we could come down and where we didn't want to come down,|sd
 B|Oh, uh-huh.|b
 B|Yeah.|b
-A|and  we really, uh, lessened it, uh, our living expenses, uh, more than what we thought we would.|sd
+A|and we really, uh, lessened it, uh, our living expenses, uh, more than what we thought we would.|sd
 B|Wow, that's great.|ba
 A|But,|%
 B|Did you have a special program on your computer to do that|qy
@@ -51,7 +51,7 @@ A|so, but we've had budgets that didn't work when our, uh, you know,|sd
 A|of|%
 A|our first fifteen years or eighteen years of being married nothing worked|sd
 B|Yeah|b
-A|We spent too much money,  until  our children went to college,|sd
+A|We spent too much money,  until our children went to college,|sd
 A|so. So, tell me about,|ad
 B|Yeah.|b
 A|do you all, uh, have a budget?|qy
@@ -63,7 +63,7 @@ B|to our,|%
 B|when we first got married we were in graduate school|sd
 B|and we were just, you know, dirt poor.|sd
 B|Then when we got our first jobs after about a year of marriage we decided we'd bank my salary so we could buy a house.|sd
-B|So, we virtually did that for about two years,  which  worked real well, and then moved from California where we realized we could never buy a house anyway no matter how much we saved,  and  moved to Texas, bought a house immediately, you know, which, of course, is now devalued with the housing market,|sd
+B|So, we virtually did that for about two years,  which worked real well, and then moved from California where we realized we could never buy a house anyway no matter how much we saved,  and moved to Texas, bought a house immediately, you know, which, of course, is now devalued with the housing market,|sd
 A|Wonderful.|ba
 A|Yes.|aa
 B|so, I don't know if we, we did a good thing to buy a house or not|sd
@@ -94,9 +94,9 @@ A|Of course not.|aa
 B|and they're both boys|sd
 B|so they just one year after the other in each other's clothes,|sd
 B|so. But, um, that's the hardest part for us is that it's really, um, you know, budgeting and some extra things, you know, that are more, you know, nonessential items.|sd
-A|Well, I found, uh, that, in the place that it was harder for me to stick to a budget was not where we were concerned,  but where maybe  our friends were concerned and our relatives and parents.|sd
+A|Well, I found, uh, that, in the place that it was harder for me to stick to a budget was not where we were concerned,  but where maybe our friends were concerned and our relatives and parents.|sd
 B|Uh-huh.|b
-A|Uh, we, we tended to want to keep on giving lavish,  gifts  as,  we  had done before.|sd
+A|Uh, we, we tended to want to keep on giving lavish,  gifts as,  we had done before.|sd
 B|Yeah.|b
 B|Yeah.|b
 B|Uh-huh.|b
@@ -108,14 +108,14 @@ B|Well, we have so many unexpected things come up so often it seems with,|sd
 B|we both have older cars|sd
 B|and something will come up and wind up having to spend a thousand dollars, you know, on the car in two months or something,|sd
 A|Yes.|aa
-B|and,  you know, a lot of things like that that really are hard to plan for.|sv
+B|and, you know, a lot of things like that that really are hard to plan for.|sv
 B|And, uh,|%
 A|Well, I really do,|aa
 A|I think you have to budget those things though.|sv
 B|Yeah,|aa
 B|kind of put in a certain amount per year, *82 and 84 same utt?|sv
 A|Yes.|aa
-B|you're  going to have on extra expenses for car.|sv
+B|you're going to have on extra expenses for car.|sv
 A|Exactly,|aa
 A|although so much per month anyway.|sv
 B|Yeah,|b
@@ -132,7 +132,7 @@ A|Oh, no,|ar
 A|no,|ar
 A|no,|ar
 A|no.|ar
-B|so, that's not a good  way to|qy^d
+B|so, that's not a good way to|qy^d
 A|You don't want the government to spend your money.|sd
 A|You want to be able,|%
 B|that's what my husband said,|sd
@@ -142,7 +142,7 @@ B|and it was like oh, no.|sd
 B|Better find another way of saving money|^q
 A|Well, uh, but I do realize that, that is realistic for some people,|sd
 B|Yeah.|b
-A|and  it was for us many years,  for  many years.|sd
+A|and it was for us many years,  for many years.|sd
 B|Yeah.|b
 B|Yeah.|b
 A|Uh, and if, and if that's the only way that will, it will make you save and have a little nest egg at the end of the, the year then doggone it that's what you should do.|sv

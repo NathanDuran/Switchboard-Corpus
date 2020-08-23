@@ -1,10 +1,9 @@
 A|Okay.|fo_o_fw_"_by_bc
-B|Hi,  Nancy.|fp
-A||%
+B|Hi, Nancy.|fp
 B|Well, do you do a lot of dining out?|qy
 A|No, um,|nn
 A|we don't although we enjoy it.|sd
-A|Um, we do it more when we have company  come.|sd
+A|Um, we do it more when we have company come.|sd
 B|Uh-huh.|b
 A|Um, what about you?|qo
 B|Well, we do some dining out.|sd
@@ -17,7 +16,7 @@ B|I don't know if you, have you ever been there?|qy
 A|I've heard of that|sd
 A|but I haven't been there.|ng
 A|Um, where, about is that?|qw
-B|Um, well actually there's the Atlantic Cafe and Cafe Pacific,  and, uh,|sd
+B|Um, well actually there's the Atlantic Cafe and Cafe Pacific, and, uh,|sd
 A|Oh, okay.|bk
 A|I, I've been to Cafe Pacific.|sd
 B|Have you?|bh
@@ -35,7 +34,7 @@ B|Uh-huh.|b
 A|and, oh, their seafood was wonderful.|sd
 B|Oh, it is, it's fabulous.|sv
 B|It really is a great place.|sv
-A|Now where is  the Atlantic Cafe?|qw
+A|Now where is the Atlantic Cafe?|qw
 B|Atlantic Cafe is down on, I believe it's on McKinney.|sd
 A|Oh, okay.|bk
 B|Um, and originally the two, the, the guy who owns the Cafe Pacific and the guy who owns the Atlantic Cafe, were partners in the Atlantic Cafe.|sd
@@ -66,14 +65,14 @@ B|So it's hysterical.|sd
 B|We go in|sd
 B|and we sit there for an hour waiting to get in|sd
 B|and then we get there|sd
-B|and we don't even look at the menu   .|sd
-A|You know right away  what you want|bf
-B|I know  right away what we, what we want.|sd
+B|and we don't even look at the menu .|sd
+A|You know right away what you want|bf
+B|I know right away what we, what we want.|sd
 B|Yeah.|aa
 B|Yeah.|aa
 A|Well, we really enjoy prime rib, too,|sd
 A|and, uh, actually the, the Steak And Ale out here, uh, we've gone to, uh,|sd
-A|my in-laws also enjoy prime rib, when  they've  had some of their specials on Sunday, Monday, or Tuesday  night|sd
+A|my in-laws also enjoy prime rib, when they've  had some of their specials on Sunday, Monday, or Tuesday night|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|and, uh, the time we went the prime rib was really good.|sd
@@ -99,13 +98,13 @@ B|See!|fo_o_fw_"_by_bc
 B|Baby Doe's is nice.|sd
 A|Oh|b
 B|And, one place I'd never been that I would really like to go to, uh, is Lawry's.|sd
-B|I've heard that's real good,  Lawry's  Prime Rib?|sd
+B|I've heard that's real good,  Lawry's Prime Rib?|sd
 A|Yeah.|b
 A|Yes,|aa
 A|I'd, I had heard that, too. Um,|sd
 B|I've, I've never been there|sd
 B|but I've heard it's real good.|sd
-A|Have you been to the little, uh, not for prime rib but the Cafe De France, um, right  here  on Central Expressway? *slash error Oh, okay. *slash error should be bk|qy
+A|Have you been to the little, uh, not for prime rib but the Cafe De France, um, right here  on Central Expressway? *slash error Oh, okay. *slash error should be bk|qy
 B|Yes.|ny
 B|Yes,|ny
 B|actually they have one in Richardson that I've been to.|sd
@@ -115,24 +114,23 @@ B|Or,|%
 A|Yes, uh|ny
 B|Yeah.|b
 A|primarily lunch, well, and breakfast sometimes|sd
-A|but, uh, during the week they often have, a, a limited menu choice but, uh, very reasonable complete dinners for six ninety-nine that  included  the soup or salad entrees and accompaniments and dessert|sd
+A|but, uh, during the week they often have, a, a limited menu choice but, uh, very reasonable complete dinners for six ninety-nine that included  the soup or salad entrees and accompaniments and dessert|sd
 B|Really?|bh
 B|Really?|bh
 A|and, uh, the,|%
-A|my husband and I like veal,  uh  a lot|sd
+A|my husband and I like veal, uh  a lot|sd
 B|Uh-huh.|b
 A|and their veal dishes have been good.|sd
 A|We've tried different ones when they've had them as one of the|sd
 B|The specials.|^2
 A|Uh-huh.|aa
 B|Have you ever been to Biffin's?|qy
-A||%
-B|I  keep hearing about it.|sd
+B|I keep hearing about it.|sd
 B|I keep hearing the advertisements of it|sd
 A|I,|%
 A|yes,|aa
 A|no,|ar
-B|and, and they  keep saying, you know, oh, it's wonderful, it's wonderful.|sd
+B|and, and they keep saying, you know, oh, it's wonderful, it's wonderful.|sd
 B|I have not been over there|sd
 B|and I was thinking, you know, it's supposed to be a family place over near Plano Super Bowl.|sd
 A|Right.|b
@@ -152,7 +150,7 @@ A|and we had the, uh, we both enjoy mushroom soup|sd
 A|and Linda had told me they had the best mushroom soup|sd
 A|and they did.|sd
 A|It was wonderful|sd
-A|but, uh, and we just had soup and salad so we could make room for the dessert   which was a chocolate sack.|sd
+A|but, uh, and we just had soup and salad so we could make room for the dessert  which was a chocolate sack.|sd
 A|I don't know if you tried|qy^d
 A|but  or|%
 B|Oh|%
@@ -161,7 +159,7 @@ B|Where, where it's made,|sd
 B|it's like, it's like a,|%
 B|it's all chocolate, like made like a paper bag|sd
 A|Yes!  and whip cream|aa
-B|and  it's filled with what, whip cream  and, and strawberries and something?|qy^d
+B|and it's filled with what, whip cream  and, and strawberries and something?|qy^d
 B|Yeah.|b
 A|and it had strawberries, kiwis, and raspberries in a raspberry, uh, puree|sd
 B|Oh.|b
@@ -186,8 +184,8 @@ B|you know, how they do the plates real fancy with the decorations and then pile
 A|Yes.|b
 A|Yeah|b
 A|Oh.|b
-B|and it was  outstanding.|sd
-A|It sounds  wonderful.|ba
+B|and it was outstanding.|sd
+A|It sounds wonderful.|ba
 B|It was really, really relatively simple|sd
 B|but, oh, it was good.|sd
 B|It was really good.|sd
@@ -195,8 +193,8 @@ A|Well, that's, uh, one of the things that I do enjoy when you get a good restau
 A|Uh, I love fresh berries.|sd
 A|And, their, their fruits are always exceptional.|sd
 A|I don't, I'm, know|sd
-A|they must have a special source for getting them because even at the Farmer's Market, uh,  you can't  find them like that|sd
-B|You can't  find them.|^2
+A|they must have a special source for getting them because even at the Farmer's Market, uh,  you can't find them like that|sd
+B|You can't find them.|^2
 B|Yeah.|b
 A|and,|%
 B|Yeah,|b
@@ -223,11 +221,11 @@ A|but the atmosphere and service I think, are important, uh too.|sv
 B|Uh-huh.|b
 B|And, you know, in order to survive in this area I think they have to be good.|sv
 A|Yeah.|b
-B|Because  the ones that aren't so good don't, just don't make it.|sd
+B|Because the ones that aren't so good don't, just don't make it.|sd
 A|Um, that reminded me of a place for lunch that's a little off the beaten track|sd
 A|but it is wonderful.|sd
 A|It's called Cafe Max|sd
 A|and it's at Plano Road and Campbell.|sd
 A|They have the most wonderful salads.|sd
-A|They do what they call a salad sampler which easily could feed  two or three.|sd
+A|They do what they call a salad sampler which easily could feed two or three.|sd
 B|Oh, really?|bh

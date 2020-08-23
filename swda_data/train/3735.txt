@@ -4,8 +4,8 @@ A|Okay,|b
 A|I pressed one|sd
 A|so I guess we're recording now.|sd
 B|Okay.|b
-A|Okay,  um.|b^m
-B|Um,  as far as spare time, they talked about,|sd
+A|Okay, um.|b^m
+B|Um, as far as spare time, they talked about,|sd
 B|I don't, I think,|%
 B|who has any spare time|qh
 B|I've got a, a six year old and a, um,|sd
@@ -132,8 +132,8 @@ A|So, I just make clothes for my dolls.|sd
 B|Oh, well.|b
 B|Well, how did you get involved in that?|qw
 A|Just, you know, just like sewing and stuff and decided to buy a pattern and try to make a doll.|sd
-B|So you did buy a pattern, and then  started from there.|bf
-A|And they, they turned  out really cute.|sd
+B|So you did buy a pattern, and then started from there.|bf
+A|And they, they turned out really cute.|sd
 A|Yeah,|aa
 A|you got to have a pattern for the body you know.|sv
 B|Uh-huh.|b
@@ -148,7 +148,7 @@ A|Aren't they cute?|qy
 B|Yeah,|ny
 B|I have quite a few of them actually in my house,|sd
 B|I, and most of them I have bought, um, already clothed,|sd
-B|but  I did  I did make the dress on one,|sd
+B|but I did  I did make the dress on one,|sd
 A|Uh-huh.|b
 B|and I kind of made the pattern up.|sd
 B|It's not, it's probably not the best|sd
@@ -166,7 +166,7 @@ A|and I haven't tried another one.|sd
 B|You haven't sewn it back up, huh?|qy
 A|No,|nn
 A|but I bought a little lamb pattern and the material and everything to make it out of,|sd
-A|but I haven't made it  yet.|sd
+A|but I haven't made it yet.|sd
 B|Uh-huh.|b
 B|Uh, do you do any kind of painting or anything?|qy
 A|No,|nn

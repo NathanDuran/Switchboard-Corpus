@@ -73,7 +73,7 @@ A|And, uh, according to Virginia, it didn't cost all that much.|sd
 B|Uh-huh.|b
 A|and frankly, I, I don't understand why a state doesn't have those records available anyway.|sd
 B|Yeah,|b
-A|Uh, uh,  at least  uh, records of, of, uh, known felons which are available to local police departments.|sd
+A|Uh, uh, at least  uh, records of, of, uh, known felons which are available to local police departments.|sd
 B|yeah,|aa
 B|you would think they would.|sv
 B|Uh-huh.|b
@@ -102,7 +102,7 @@ B|Yeah.|b
 A|with,|%
 A|uh, uh, they should have, have pride in this because it's, it's a good system,|sv
 B|Absolutely.|aa
-A|and it's  working well.|sd
+A|and it's working well.|sd
 B|Yeah,|aa
 B|I agree.|aa
 A|And they don't need that seven-day waiting period.|sd

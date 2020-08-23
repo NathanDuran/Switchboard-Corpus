@@ -1,4 +1,4 @@
-A|I , uh, try to stay away from cars as much as possible  in terms of  repair.|sd
+A|I , uh, try to stay away from cars as much as possible in terms of  repair.|sd
 A|Actually, uh, that is really a sore spot with me.|sd
 A|I, I think perhaps the automotive industry is improving|sv
 A|but, uh, like ten years ago, uh, reliability of automobiles, at least U S automobiles was pretty dismal|sv
@@ -29,12 +29,12 @@ B|Bad you know.|%
 A|Huh.|b
 B|Woman goes in|sv
 B|and they go all right, we got a sucker.|sv
-B|Let's see how much money we can get out of her,  you know|^q
+B|Let's see how much money we can get out of her, you know|^q
 A|Huh.|b
 B|That's what happens every time.|sv
 A|Huh.|b
 B|Uh, so,|%
-A|So,  what do you have?|qo
+A|So, what do you have?|qo
 B|I have a Pontiac Six Thousand.|sd
 A|All the more reason to, uh, have a, a Honda.|sv
 B|Yeah.|aa
@@ -48,7 +48,7 @@ B|this is, just happened a couple of weeks ago.|sd
 B|He's my ex-husband|sd
 B|but just a few months ago when he was my husband, uh, his father gave us this car|sd
 B|and everything is wrong with it.|sd
-B|I mean, the power steering fluid leaks, the oil leaks, the brake fluid leaks,  you know,|sd
+B|I mean, the power steering fluid leaks, the oil leaks, the brake fluid leaks, you know,|sd
 A|Now|%
 A|how old is the car?|qw
 B|Uh, eighty-seven.|sd
@@ -85,7 +85,7 @@ B|It was|%
 B|I was so irritated.|sd
 B|And that's happened to me more than once or twice. just, just about every time I've went in somewhere.|sd
 A|So what's the solution to that? I guess find a reputable service,|sv
-B|And, and you can hardly find one,  you know.|sv
+B|And, and you can hardly find one, you know.|sv
 A|Huh.|b
 B|The guy that's doing most of my, my car now, uh, goes to my church|sd
 B|and that's the only reason, you know, I go to him because I know him|sd

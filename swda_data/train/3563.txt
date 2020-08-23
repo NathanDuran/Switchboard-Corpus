@@ -3,7 +3,7 @@ A|Okay,|b
 A|Lucille, I'm on, on .|sd
 B|All right,|b
 B|and what,|%
-A|And our  okay, our topic was,|sd
+A|And our okay, our topic was,|sd
 A|did you hear our topic?|qy
 B|Yes.|ny
 A|All right,|aa

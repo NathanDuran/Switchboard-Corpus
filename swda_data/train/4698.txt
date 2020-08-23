@@ -38,7 +38,7 @@ B|so. Have you, do you have a computer for yourself at home?|qy
 A|No.|nn
 A|No,|nn
 A|I just have one for my son|sd
-A|and I really sort of have the feeling that word processing is a big market  for  home computing.|sv
+A|and I really sort of have the feeling that word processing is a big market for  home computing.|sv
 B|Oh, yeah.|b
 B|Yeah.|b
 A|At at work, uh, I'm a technologist, uh,|sd

@@ -40,12 +40,12 @@ B|what do you think of that new luxury car tax, anything over ten or thirty thou
 A|Well, you know, like other things, if they don't affect you, you don't worry about them too much.|arp_nd
 A|I have trouble buying a twenty thousand dollar car still,|sd
 A|so it doesn't,|%
-A|I, I think, uh, you know, generally the prices of cars have gotten out of line, which is, uh,  you know.|sv
+A|I, I think, uh, you know, generally the prices of cars have gotten out of line, which is, uh, you know.|sv
 B|Oh, sure.|aa
 A|And, uh, I guess if people got thirty, forty thousand bucks to spend on a car, uh, that's their prerogative, you know|sv
 A|I, I, I don't have a whole of sympathy on that .|sd
 A|You, maybe you buy that, you know,|qy^d
-A|and I don't mean to be  knocking, uh,|sd
+A|and I don't mean to be knocking, uh,|sd
 B|No,|nn
 B|uh, no,|nn
 B|I haven't,|sd

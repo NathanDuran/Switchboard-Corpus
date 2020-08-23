@@ -51,7 +51,7 @@ B|I, I've kind of lost touch with the company,|sd
 B|we had a falling out,|sd
 A|Uh-huh,|b
 A|uh-huh.|b
-B|but, uh,  as far as, uh, as their management goes, um, I'm not sure they're any, any better off than they were, were before management wise.|sv
+B|but, uh, as far as, uh, as their management goes, um, I'm not sure they're any, any better off than they were, were before management wise.|sv
 A|Uh-huh.|b
 B|But, uh, other changes, um, just people seem to be more outspoken now individually, rather than collectively.|sv
 A|Uh-huh.|b
@@ -63,7 +63,7 @@ A|Uh-huh,|b
 A|uh-huh.|b
 B|Um,|%
 B|Yeah,|b
-B|I'm not sure if that was because, you know, eighties was like the, uh, the  me decade.|sv
+B|I'm not sure if that was because, you know, eighties was like the, uh, the me decade.|sv
 A|The me decade.|b^m
 A|Uh-huh.|b
 B|And, uh, everybody was into me,|sv
@@ -131,7 +131,7 @@ B|And I, I just,|%
 B|I've seen a lot of changes, I mean, from the original earth day|sd
 A|Uh-huh.|b
 B|and, um, I'm heavily involved in, you know, my own personal recycling.|sd
-B|We recycle paper,  and cans here at  work|sd
+B|We recycle paper,  and cans here at work|sd
 A|Uh-huh,|b
 A|uh-huh.|b
 B|and, you know, I do the newspaper and cardboard and paper and, you know, all that stuff at home|sd
@@ -147,7 +147,7 @@ A|I mean, all this recycling used to be in tact, *typo in tact should be 'intact
 B|Yeah.|b
 A|but much of it did.|sv
 A|I mean, recycling was a, was a wartime thing.|sd
-B|And then they turned around and called them junkyards, and,  started  making profits  off,  them after the war.|sd
+B|And then they turned around and called them junkyards, and,  started making profits off,  them after the war.|sd
 A|Yes.|aa
 A|Yes|aa
 B|And now we got to the point where the junkyards, you've got to pay them to take something there,|sd

@@ -115,8 +115,8 @@ A|They're just trying not to overwork him right now, until he gets his shoulder,
 A|it was his shoulder, wasn't it, that he had the problems with?|qy
 B|I don't know|no
 B|Yeah|ny
-B|I think it was  .|sd
-A|I think it,  I think it was his shoulder he had surgery on.|sd
+B|I think it was .|sd
+A|I think it, I think it was his shoulder he had surgery on.|sd
 A|But anyway, they're trying to keep him, you know, keep him, uh, from reinjuring anything, but anyway|sd
 B|But, uh, well I got my thirty day notice yesterday.|sd
 A|Thirty day notice for what?|qw
@@ -132,8 +132,8 @@ A|I can't remember.|sd
 B|Oh,|%
 B|I've always ran out of time ever since I've done this.|sd
 A|Really.|b
-A|I usually have, too  .|sd
-B|They always say  you've talked your ten minute limit.|sd
+A|I usually have, too .|sd
+B|They always say you've talked your ten minute limit.|sd
 A|Yeah,|b
 A|I've done that once or twice.|sd
 A|I didn't look at the clock when we started talking,|sd

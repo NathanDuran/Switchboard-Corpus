@@ -14,7 +14,7 @@ A|I've always done that.|sd
 A|I started,|sd
 A|once I found out that that's really not necessary or legal then I just refuse|sd
 A|and I say what are you going to do.|sd
-A|You going to say you don't want to sell me this product  then  that's fine.|^q
+A|You going to say you don't want to sell me this product then  that's fine.|^q
 B|Uh-huh.|b
 A|I'll just buy it somewhere else or not buy it at all.|sd
 A|And then, ultimately, they say, no|sd
@@ -87,7 +87,7 @@ A|Why, why you even telling me this?|qw
 A|Is it any of your business?|qy
 A|I mean, it's one thing that I, and the college knows that|sd
 A|that's, just our business.|sv
-A|There's no need for  someone  who is soliciting should know at all.|sv
+A|There's no need for someone  who is soliciting should know at all.|sv
 B|Uh-huh.|b
 A|Just, uh,|%
 A|and that was very offensive too.|sv

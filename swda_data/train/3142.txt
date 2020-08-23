@@ -8,8 +8,8 @@ A|and sometimes it's, I enjoy it's, I enjoy going out having a formal meal.|sd
 B|Yes.|b
 A|And, uh, sometimes it's nice to go out and have a salad.|sd
 B|Uh-huh.|b
-A|Something,  you know,|%
-B|Do  you usually go out, uh, with the children or without them?|qy
+A|Something, you know,|%
+B|Do you usually go out, uh, with the children or without them?|qy
 A|Well, a variety.|sd
 A|I, I like to go sometimes without them|sd
 A|and, sometimes I, sometimes it's okay to take them along.|sd
@@ -23,7 +23,7 @@ A|Sometimes it's really nice to be able to go out and eat with just my husband|s
 A|and it wouldn't even really matter which restaurant it was, just to, you know, have a moment of peace and quiet without little ones at the table.|sd
 B|Yes.|b
 B|Yes.|b
-A|So, uh,  I guess  I guess actually on those, those times, uh, we even, there are times I even say, oh, please don't sit us next to a table with other children,|sd
+A|So, uh, I guess  I guess actually on those, those times, uh, we even, there are times I even say, oh, please don't sit us next to a table with other children,|sd
 B|Well,|%
 A|this is our night out.|^q
 A|So but, uh, anyway, where do you like to eat?|qw
@@ -60,12 +60,12 @@ A|You're brave|sv
 B|Yes,|aa
 B|yes|aa
 B|and once in a while things backfire.|sd
-B|I mean, we've gone for Romanian food and Lebanese food, and things  like that|sd
+B|I mean, we've gone for Romanian food and Lebanese food, and things like that|sd
 A|Oh, God.|ba
 B|And I'm not fond of some of those things|sd
 B|but we'll try, we'll try anything.|sd
 A|Right.|b
-B|Ethiopian, we've had Ethiopian. And, uh, not in Plano of  course|sd
+B|Ethiopian, we've had Ethiopian. And, uh, not in Plano of course|sd
 A|No,|aa
 A|I don't think so|sv
 B|But, we really, we really do enjoy going out|sd
@@ -91,14 +91,14 @@ B|We have found, uh, a number of restaurants either through D and the, Friday pa
 A|Okay.|b
 B|When a new restaurant opens up, they usually send out coupons.|sd
 A|That's,  That's right.|aa
-B|And you know, when  they say, you know, buy one get one free. It's hard to resist,|sd
+B|And you know, when they say, you know, buy one get one free. It's hard to resist,|sd
 B|so we'll go in.|sd
 B|And very often we'll, find a place that we like|sd
 B|and we'll stick with it|sd
 B|once they, give, they no longer give coupons. We'll, we'll, uh, we'll stay there.|sd
 A|Oh good.|ba
 A|Oh, good.|ba
-B|But  we've found probably half of our sort of regular restaurants through coupons, and the other half through the, through the newspaper reviews.|sd
+B|But we've found probably half of our sort of regular restaurants through coupons, and the other half through the, through the newspaper reviews.|sd
 A|Oh. Oh, yeah.|aa
 A|We, I guess we, we use the coupons, too.|sd
 A|That's true.|aa
@@ -130,7 +130,7 @@ A|So, uh, we've had experience with that, too.|sd
 A|So,|%
 B|my sister, who also lives here in Dallas, uh, tends to, uh, chat with waiters and waitresses and become their best friends during the course of dinner, which drives me absolutely batty.|sd
 A|Oh, yeah.|aa
-A|Well,  how we|%
+A|Well, how we|%
 B|but ,|%
 A|it may, it may help their tip, may not, huh.|sv
 B|What's your favorite restaurant?|qw
@@ -141,7 +141,7 @@ B|Sure.|b
 A|I guess if we go to Dallas, into Dallas, we like, uh, the Routh, is it Routh Street Cafe.|sd
 B|You know, we've never been there.|sd
 A|Well  well, you would like it.|sv
-B|And  that's supposed to be wonderful.|sd
+B|And that's supposed to be wonderful.|sd
 B|Um.|%
 A|You'd like it especially it you're adventuresome.|sv
 B|Uh-huh.|b
@@ -156,8 +156,8 @@ A|oh, I guess it's in the winter season|sd
 A|well they've never had it when we've been back,|sd
 B|Uh-huh.|b
 A|so. But, uh, well you ought to try that.|ad
-A|It's, it's, it's very  good.|sd
-B|I  would probably like that.|sd
+A|It's, it's, it's very good.|sd
+B|I would probably like that.|sd
 B|One or two times in my life I've ever had venison, I've loved it.|sd
 B|But, you know, just, it's just not,|sd
 B|I don't know people who hunt|sd

@@ -36,7 +36,7 @@ A|Uh-huh.|b
 B|And I have the ability to listen to them and then translate that into something that nonengineers can understand.|sd
 A|Well, that must be helpful.|qy^d
 B|Well, it's,  a lot of fun, at the moment.|arp_nd
-A|That could  be very helpful .|qy^d
+A|That could be very helpful .|qy^d
 A|Yeah,|b
 A|well, I figure that, that, that's probably the thing I would most tell any parent, you know, to tell their kids, I think, probably|sd
 A|make sure the kid goes to a school where they get sort of a general education|sv
@@ -53,7 +53,7 @@ A|but, but that's a good idea.|ba
 A|Well, where I am right now,|%
 A|actually I'm at the University of Rochester,|sd
 A|and that's a pretty good engineering school, I think.|sv
-A|I think  we do some  they have pretty good engineering here.|sv
+A|I think we do some  they have pretty good engineering here.|sv
 B|Yes,|aa
 B|it is.|aa
 A|They also have a fairly large liberal arts college as well. A sort of, a separate, you know, arts and sciences college.|sd
@@ -96,7 +96,7 @@ A|Then you were given a choice of, um, you know,|sd
 A|there were ten or twelve, or whatever, or fifteen different courses that you could take,|sd
 A|but they all centered, they all came out of Philosophy, English, and Literature departments,|sd
 A|and they were, they were, they were a set of assigned readings everybody had to read, you know for,|sd
-A|so the first year Humanities courses everyone had to read the Iliad an, and  so forth,|sd
+A|so the first year Humanities courses everyone had to read the Iliad an, and so forth,|sd
 B|Right.|b
 A|and what they did do, was they all approached it from, from very different,|sd
 A|so that you could have one class in the philosophy of something, that the philosophy of Greek mythology or something that actually approached this, or, um, one literature, you know, or a, a literature course or, just all sorts of different perspectives on it,|sd
@@ -106,7 +106,7 @@ A|and, uh, and that sort of forced them.|sd
 A|But I believe that, that, that you, one of the, one of the best things to do, at least for me in school was, was, I was sort of forced to take lots of different kinds of courses.|sv
 A|Um, I was forced to take, I think you know, some sort of art history course,|sd
 A|and we all grumbled about it at first,|sd
-A|but then, afterward, we all wound up taking extra art history classes, because it just seemed like something, something we didn't totally know nothing about, but just enjoyed very much doing,  and something I  would never would have done if, if I wasn't forced to take it.|sd
+A|but then, afterward, we all wound up taking extra art history classes, because it just seemed like something, something we didn't totally know nothing about, but just enjoyed very much doing,  and something I would never would have done if, if I wasn't forced to take it.|sd
 B|Yes, I  I remember that experience|sd
 A|Uh-huh.|b
 B|that and, uh, extra music classes.|sd
@@ -139,8 +139,8 @@ B|Are you pursuing a Master's or a Doctorate?|qy
 A|I'm pursuing a Doctorate in Psychology.|sd
 A|So, I'm just, wind up spending a lot of time doing that instead.|sd
 A|Uh, what else.|^h
-A|I, I think  I,|%
-B|Well,  let me, let me encourage you to stop and experience life along the way.|oo_co_cc
+A|I, I think I,|%
+B|Well, let me, let me encourage you to stop and experience life along the way.|oo_co_cc
 A|Oh.|b
 B|I, I first enrolled in college in nineteen sixty-six.|sd
 A|Uh-huh.|b
@@ -151,7 +151,7 @@ A|Um. You had real world experience in the middle there.|bf
 B|Oh, yes.|aa
 A|And that helped, you think?|qy
 A|Or that was,|%
-B|It, it certainly  makes acceptance of different ideas a lot easier.|sv
+B|It, it certainly makes acceptance of different ideas a lot easier.|sv
 A|Uh-huh.|b
 A|Um. Yeah,|b
 A|I'm getting some of that.|sd

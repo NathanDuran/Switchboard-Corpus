@@ -2,7 +2,7 @@ A|Okay,|fo_o_fw_"_by_bc
 A|go ahead.|ad
 B|Well, I, I, uh, we're going to compare notes. Uh,|sd
 A|Yeah.|b
-B|I, uh, I  often desire  to exercise, often believe I should and rarely do.|sd
+B|I, uh, I  often desire to exercise, often believe I should and rarely do.|sd
 A|Don't do it|^2
 A|Well, I tell you, I, I firmly believe in exercising.|sd
 A|I think it's a,|sv

@@ -14,7 +14,7 @@ B|and she taught in high school in inner city, uh, Minneapolis.|sd
 A|Uh-huh.|b
 B|And, uh, they just didn't come to school.|sd
 A|That's really sad isn't it?|qy
-B|And I cannot imagine  being able to do much of anything when they don't even come to school.|sd
+B|And I cannot imagine being able to do much of anything when they don't even come to school.|sd
 A|Right.|b
 A|Well just recently in the paper here, were articles about students, uh, working. High school students that work and the percentage of hours that they work and how that affects their grades.|sd
 B|Uh-huh.|b
@@ -23,22 +23,22 @@ A|I was kind of glad to see,|sd
 A|because it, it said that, you know,|sd
 A|yes|^q
 A|but for those students who are determined to do well anyway, that, you know, handling a job was very possible. You know, and that it seemed to have more to do with other factors.|sd
-B|I think so  too.|aa
-A|You  know like, what are their plans after high school, you know.|sd
+B|I think so too.|aa
+A|You know like, what are their plans after high school, you know.|sd
 A|And what's their home situation.|sd
 A|You know that,|%
-B|The home  is the key.|sv
+B|The home is the key.|sv
 A|Right. Right.|b
 B|I think really is because if the home, does not place a high priority on education|sv
 B|and, uh, the main goal is making money now|sv
-B|and it may be a survival thing  for  the family, which you can understand.|sv
+B|and it may be a survival thing  for the family, which you can understand.|sv
 A|Right.|b
 A|Sure.|b
 B|So, uh,|%
 A|But there can still be an attitude of|sv
 B|Right.|b
 A|you know, this is a stopgap measure because we need it right now,|^q
-A|but, but that the most important thing is still,  you know  getting your education.|sv
+A|but, but that the most important thing is still, you know  getting your education.|sv
 B|Your education.|^2
 A|Well when they meant, said the, the topic, you know, of what's wrong with the public schools, my, my first impulse was it isn't really what's wrong with the public, public schools.|sd
 A|It's what's wrong with families|sd
@@ -50,7 +50,7 @@ B|they don't know what to expect at home.|sv
 B|They don't feel secure there,|sv
 B|they don't know what's going to happen just out front of their apartment complex.|sv
 A|Right.|b
-B|For example  that child that was shot.|sd
+B|For example that child that was shot.|sd
 A|Right.|b
 B|Uh, how can they concentrate on schooling?|qh
 B|I agree  with you,|sd
@@ -66,13 +66,13 @@ A|and last year was the first year that we ever had more than one counselor.|sd
 A|And that's just really not enough.|sd
 B|No.|aa
 B|It isn't.|aa
-A|And  I was talking to somebody that teaches in a middle school|sd
+A|And I was talking to somebody that teaches in a middle school|sd
 A|and they said, oh, but we need more in the middle school because that's when kids are, you know, at a tougher and rougher age and all that.|sd
 A|But, you know, part of my feeling is that if you solve, help them to work through their problems while they're littler, then they won't have as many problems up there.|sd
 B|True.|aa
 B|I think they, there has to be at least a counselor|sv
 B|and we just recently had a counselor at elementary.|sd
-B|We didn't even have  counselors in elementary.|sd
+B|We didn't even have counselors in elementary.|sd
 A|Really.|b
 B|We have always, though, had three at middle schools because we had about a thousand kids|sd
 B|and they divided them up between three counselors|sd
@@ -83,24 +83,24 @@ B|So they started, uh, dividing the kids up so that a counselor stays with her g
 A|Uh-huh.|b
 A|They  they do that here.|sd
 A|Uh-huh.|b
-B|And I think  that would give them more security in going to the counselor.|sv
+B|And I think that would give them more security in going to the counselor.|sv
 A|Uh-huh.|b
 B|If they have a rapport with their counselor.|sv
-B|Now if they don't, I hope they have the flexibility to be able to  change  a child that really is in need of counseling help if they absolutely refuse to work with them.|sd
+B|Now if they don't, I hope they have the flexibility to be able to change  a child that really is in need of counseling help if they absolutely refuse to work with them.|sd
 A|yeah.|b
 B|And occasionally that happens.|sd
 A|Right.|b
 B|But, it is frightening Because, uh, education is the key to our future|sv
 A|Yes,|aa
 A|it certainly is.|aa
-B|and, uh, if we have children who are not getting their education, for one reason or another, then what are we going to do with  them?|qh
+B|and, uh, if we have children who are not getting their education, for one reason or another, then what are we going to do with them?|qh
 A|Yeah.|aa
 A|That's right|aa
-B|What's going  to happen to them?|qh
+B|What's going to happen to them?|qh
 B|Are they going to be able to, uh, work at other kind of menial jobs|qh
 B|or are they going to be the thieves and the people  in prison.|qh
 A|Yeah.|b
-B|And our prisons are filling up faster then we can  build them.|sd
+B|And our prisons are filling up faster then we can build them.|sd
 A|Right.|b
 B|That's no good.|sv
 A|I'm on that, um, campus strategic planning committee for my school.|sd
@@ -111,24 +111,24 @@ A|But, anyway, one of the key things was that that we believed that the public e
 A|Then I think they decided to strike economic.|sd
 B|Uh-huh.|b
 A|Anyway, you know, the point was, what happens when public education fails?|sd
-A|You know  will then  people go to private schools?|qh
+A|You know  will then people go to private schools?|qh
 B|Uh-huh.|b
 A|You know, well, what kind of a situation do they get there|qh
 A|and what are, you know,|qh
 A|and what kind of state are we in if, if most people are going to private schools.|qh
 B|Well I think, uh, one thing that we'll see is that we won't be educating everybody.|sv
 A|Right.|b
-B|There will  be a lot of people who will not get even a menial education like in other countries of the world where they don't try to educate everyone.|sv
+B|There will be a lot of people who will not get even a menial education like in other countries of the world where they don't try to educate everyone.|sv
 A|Right.|b
 A|Uh-huh.|b
-B|That's  one of the things that we do.|sd
-B|We try to  educate everyone.|sd
+B|That's one of the things that we do.|sd
+B|We try to educate everyone.|sd
 A|That's right.|aa
 A|That's right.|aa
 B|We're the only country in the world that does.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
-B|And let everyone have an opportunity to reach higher education if they're willing, you know, to work  and  have, uh, some ability.|sd
+B|And let everyone have an opportunity to reach higher education if they're willing, you know, to work  and have, uh, some ability.|sd
 A|Uh-huh|b
 A|Yeah.|b
 B|They can do that.|sd
@@ -137,12 +137,12 @@ A|I believe  it's something like that,|h
 B|Uh-huh.|b
 A|it's worded.|sd
 A|And, uh, I don't know|h
-B|Well you know if  we can keep them in school.|sv
+B|Well you know if we can keep them in school.|sv
 A|Right.|b
 B|Uh-huh|b
 A|That's  so important,|sv
 B|then that, that helps a lot.|sv
-B|I think the  gang violence is scaring everyone to death too.|sv
+B|I think the gang violence is scaring everyone to death too.|sv
 A|Oh gosh.|ba
 A|Well that new movie,  That new movie out,|sd
 B|It's scary to me.|sd
@@ -155,10 +155,10 @@ A|My mother was is was teacher for years and years|sd
 A|and, uh, they live in Peoria, Illinois,|sd
 A|and they're talking a lot about the, you know, the school situation there, too. *their should be they're|sd
 A|So, well, shall we wrap it up?|qy
-B|Uh, I would imagine that we've talked the amount of time  necessary.|sv
-A|I think we  have to.|aa
+B|Uh, I would imagine that we've talked the amount of time necessary.|sv
+A|I think we have to.|aa
 B|Okay.|b
-A|So  I'll see you when we see you.|fc
+A|So I'll see you when we see you.|fc
 B|Alright.|fc
 B|We were in, uh, Austin yesterday.|sd
 A|Uh-huh.|b
@@ -171,4 +171,4 @@ A|Isn't that wonderful?|qy
 B|Oh, that is wonderful.|na
 A|Uh-huh.|b
 B|What an experience.|ba
-A|And, uh, the  university ...|sd
+A|And, uh, the university ...|sd

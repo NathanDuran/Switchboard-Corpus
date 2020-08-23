@@ -77,7 +77,7 @@ B|Uh-huh.|b
 B|Well, yes,|aa
 B|and I work in South Dallas for the Dallas School System.|sd
 A|Oh, boy.|ba
-B|And, uh,  uh,|%
+B|And, uh, uh,|%
 A|Where do you work?|qw
 B|Uh, do you know where Oakland and Hatcher are?|qy
 A|Uh, yes,|ny

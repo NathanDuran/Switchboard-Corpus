@@ -53,13 +53,13 @@ B|Yeah.|b
 B|Well, I, I, I think we did, I think we did learn some lessons that we weren't, uh, we weren't prepared for,|sv
 B|I guess the best word would be the atrocities of war.|sv
 A|Yeah|b
-B|Uh, I mean the other wars seemed like a valiant war.  I mean  they seemed like a valiant thing.|sv
+B|Uh, I mean the other wars seemed like a valiant war. I mean  they seemed like a valiant thing.|sv
 A|Yeah.|b
 B|You knew, you knew who was good.|sd
 B|You knew who was bad.|sd
 A|Yeah.|b
-B|And it was a, it was a traditional the traditional battle of, kind of good versus evil, if  you, you know  whichever way it is.|sd
-A|Well you're  not,|%
+B|And it was a, it was a traditional the traditional battle of, kind of good versus evil, if you, you know  whichever way it is.|sd
+A|Well you're not,|%
 B|But in, in the Vietnam war it seems like it was,|%
 B|a, a, the sides and the lines that were drawn are all confused as to who's good and who's bad|sv
 B|and and, uh, you know, the,|%
@@ -79,7 +79,7 @@ B|Yeah.|b
 A|And that tradition is still,|%
 A|I mean it's dying now,|sd
 A|but it's still alive as opposed to,|sd
-A|this Desert Storm stuff may have,  uh  killed it.|sd
+A|this Desert Storm stuff may have, uh  killed it.|sd
 B|Yeah.|b
 A|But I think that was one of the biggest,|%
 A|that, you know, the, uh, the domestic unrest,|%

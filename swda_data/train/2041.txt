@@ -40,7 +40,7 @@ A|Uh-huh.|b
 A|Uh-huh.|b
 A|Yes,|aa
 A|yes.|aa
-B|and,  and, she doesn't enjoy it when it's a chore.|sd
+B|and, and, she doesn't enjoy it when it's a chore.|sd
 B|So, um, and I feel that way too as far as, you know, just sitting and doing, you know, to, the idea of doing fifty sit-ups or something, you know,|sd
 B|to,|%
 A|Uh-huh,|b
@@ -158,7 +158,7 @@ B|Uh-huh|b
 A|And, um,|%
 B|Now do you think that's because they've realized that for whole health, that, the, you know, you have to have that combination, or that people are motivated that way so that they've incorporated that into their program.|qy
 A|Boy,|^h
-B|Do you  think the program came  first or the,|qy
+B|Do you think the program came first or the,|qy
 A|yeah,|ny
 A|that,|%
 A|there's a,|%
@@ -192,15 +192,15 @@ B|Uh-huh.|b
 A|and, uh, and exercise is, is strongly considered one of them.|sd
 A|The irony is, is its people in the cities, in my experience, that are most oriented towards doing the exercise.|sv
 A|And, I guess because they spend all day in back of their desks.|sv
-A|The average person out on the farm, at least traditionally, now they drive fancy tractors as much as anything but at least traditionally,  the laborers,|sv
+A|The average person out on the farm, at least traditionally, now they drive fancy tractors as much as anything but at least traditionally, the laborers,|sv
 B|Yeah.|b
 A|last thing,|%
 B|Or they're older.|sv
 A|Pardon me.|br
 B|Well, don't you think they tend to be older in the rural|sv
 B|I, I sometimes think that it's almost frantic effort on the part of the people in the city.|sv
-A|Oh,  like everything else.|bf
-B|I live in a rural area,   you know, I see that.  *sd|sd
+A|Oh, like everything else.|bf
+B|I live in a rural area,   you know, I see that. *sd|sd
 A|Yeah,|aa
 A|yeah.|aa
 A|The rat race to exercise|bf
@@ -234,7 +234,7 @@ A|Um,|%
 B|Yeah|b
 B|and as we can see.|%
 B|Well, I'm a, I'm a practicing vegetarian|sd
-B|so, uh, I've read a lot of information,  knowing that to be true,|sd
+B|so, uh, I've read a lot of information, knowing that to be true,|sd
 A|Yeah|b
 A|am I actually.|fo_o_fw_"_by_bc
 B|What's that?|br

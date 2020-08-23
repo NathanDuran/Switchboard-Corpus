@@ -132,6 +132,6 @@ A|Texas is the big one.|fc
 B|Yeah,|fc
 B|so.|%
 A|Okay, then.|fc
-A|Well,  bye now.|fc
+A|Well, bye now.|fc
 B|okay,|fc
 B|bye-bye.|fc

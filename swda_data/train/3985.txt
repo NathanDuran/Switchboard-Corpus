@@ -4,7 +4,7 @@ A|who do you work with at this time?|qw
 B|Well, I own the company.|sd
 A|You own the company.|b^m
 A|All right.|ba
-B|I'm the president  and C E O of the company.|sd
+B|I'm the president and C E O of the company.|sd
 A|My goodness.|ba
 B|So, uh, I guess, uh, I determine what the benefits are|sv
 A|Yeah,|aa
@@ -28,7 +28,7 @@ A|Yes,|b
 A|because they they have a specific reason to do so, because they themselves benefit from doing a better job.|bf
 B|Right.|b
 B|I think most people, uh, don't want money, um,|sv
-B|it's been my experience, most people want, uh, to feel like they're participating in something that, uh, that is not a drudgery, you know, that they  enjoy,  and that they can get some benefits out of.|sv
+B|it's been my experience, most people want, uh, to feel like they're participating in something that, uh, that is not a drudgery, you know, that they  enjoy, and that they can get some benefits out of.|sv
 A|Uh-huh,|b
 A|And it's a contribution.|^2
 B|Right.|aa
@@ -47,7 +47,7 @@ B|Yes.|aa
 A|How many, uh.|qw
 B|You said you retired,|qy^d
 B|I just happen to have a person that I happened to do some planning for this morning,|sd
-B|but  anyway,  uh, uh, we do, we deal with a lot of people that are retired or trying to retire|sd
+B|but  anyway, uh, uh, we do, we deal with a lot of people that are retired or trying to retire|sd
 A|Uh-huh.|b
 A|Uh-huh,|b
 A|well.|%
@@ -59,10 +59,10 @@ A|Well, what, what changes would you, have you considered, uh, in doing it, to, 
 B|Well, um, we, considering instead of tying a profit sharing plan to a, a salary is, uh, is tie, um, uh, a percentage, um of business that, uh, that a person would participate and bring into the company.|sd
 B|Uh, pay them, uh, based on the percentage of business they bring, instead of based on their salary.|sd
 B|And the|%
-A|When you  say bring in, do you mean that they negotiated with people to, to come in and, uh, ask for your support?|qy
+A|When you say bring in, do you mean that they negotiated with people to, to come in and, uh, ask for your support?|qy
 B|No,|nn
 B|not necessarily.|sd
-B|Um, it can be in-house people who help you handle  X amount of dollars.|sd
+B|Um, it can be in-house people who help you handle X amount of dollars.|sd
 A|Oh, okay.|bk
 A|Uh-huh.|b
 A|Even though they didn't bring it in, they help it once it's there.|sv
@@ -77,7 +77,7 @@ B|And, so, uh, we're thinking about paying them, instead of a percentage on sala
 B|So administrative assistant that would handle two million dollars worth of business is a lot more valuable than a person that handles a hundred thousand dollars worth of business.|sv
 B|And, uh,|%
 A|Yes,|b
-A|but it,  it might not be necessarily because he did a good or bad job,|sv
+A|but it, it might not be necessarily because he did a good or bad job,|sv
 A|but it might be whether the locality there, those people want that kind of support.|sv
 B|Well, and, and, but to,|%
 B|see the thing is that they give support to the financial planner that they're the assistant to, or that they usually have several people they report to that, you know, that they work together with it encourages them not to, uh, complain when they realize that they get a part of the, of the action based on their efforts and not based on being sitting back saying, well make me do it.|sv
@@ -85,7 +85,7 @@ A|Uh-huh.|b
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|See, we don't want anybody around here that says make me do it.|sv
-B|I don't think  any|sv
+B|I don't think any|sv
 A|Yeah.|b
 B|I think most people want to be, lack of better terminology, they want to be self-employed,|sv
 B|but they don't want to take the risk.|sv

@@ -18,9 +18,9 @@ B|that, that was incredible.|sd
 A|Yeah,|b
 A|that's really a,|%
 A|really proud of him though, the way he's, you know.|sd
-B|The way he handled that  entire situation, there.|^2
+B|The way he handled that entire situation, there.|^2
 A|Yeah,|aa
-A|really,  you know.|aa
+A|really, you know.|aa
 B|But, I just think the Giants have a good team.|sd
 B|They, they got all, you know,|sd
 B|they're, they're, they're real balanced out.|sd
@@ -42,7 +42,7 @@ B|Yeah.|b
 B|Yeah.|b
 A|But, uh, I still like the Giants, though, you know|sd
 B|Yeah,|b
-B|if you're a fan you got to stay with the team any way,  you know, you  good and the bad|sv
+B|if you're a fan you got to stay with the team any way, you know, you  good and the bad|sv
 A|Yeah,|b
 A|right.|b
 B|but. It's, it's kind of hard.|sd
@@ -51,7 +51,7 @@ B|me and all my friends around here, since we don't have anywhere,|sd
 B|I mean, we can go to the Astros or the Rangers teams,|sd
 B|but since,|%
 B|me, none of me and my friends are really, really like either one of those teams,|sd
-B|so  we, uh|%
+B|so we, uh|%
 A|Uh-huh.|b
 B|about, about the most baseball we get is either T V or we play it on Nintendo.|sd
 B|We play R B I baseball on Nintendo|sd
@@ -84,7 +84,7 @@ B|Uh, I don't know, it's hard to say.|h
 B|I haven't really, really,|%
 B|you have to just keep up with everything in the season.|sv
 B|It's kind of hard to do,|sd
-B|at least,  you know,  you have to read the paper and SPORTS ILLUSTRATED and everything to keep up with who they traded and who they picked up and, and all that,|sd
+B|at least, you know,  you have to read the paper and SPORTS ILLUSTRATED and everything to keep up with who they traded and who they picked up and, and all that,|sd
 A|I know.|ba
 B|but, like I say, if they can, if they can get that one element that they were missing, I think the Giants can do it.|sv
 A|Yeah,|b

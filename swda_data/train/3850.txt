@@ -57,7 +57,7 @@ A|I mean, he almost hates the new ones|sd
 B|Really?|bh
 A|Yeah,|ny
 A|because he, he thinks the newer ones is like a soap opera and the other one isn't or something,|sd
-A|but,  I don't|sd
+A|but, I don't|sd
 B|No.|aa
 B|Not really.|sv
 B|It's not really like   a soap  opera,|sv
@@ -75,7 +75,7 @@ B|Yeah.|b
 A|That's sort of how Matlock is,|sd
 A|but COLOMBO is way tricky|sd
 B|Yeah.|b
-A|I mean  he doesn't even try to let the person know he's getting onto them.|sd
+A|I mean he doesn't even try to let the person know he's getting onto them.|sd
 B|Well, it seems like they always  show COLOMBO, the same ones over and over, though you know what I'm saying, like that one where he goes to college,|sd
 A|Well, did you see the one.|qy
 A|Um.|%
@@ -88,7 +88,7 @@ B|Okay.|b
 A|this last time it was about this, um, movie director,|sd
 A|did you|qy
 B|Yeah,|ny
-B|I  saw that one.|sd
+B|I saw that one.|sd
 A|did you see that?|qy
 B|See, that was a rerun.|sd
 A|Really?|bh
@@ -99,8 +99,8 @@ A|Huh.|%
 B|see I don't know if that's a, the movie of the week or, or what,|sd
 B|but it seems like there's only about four or five different ones,|sd
 B|and then, then they keep showing them over and over.|sd
-A|Oh, I guess I've, I haven't  seen it before.|sd
-B|He was a movie  director,|sd
+A|Oh, I guess I've, I haven't seen it before.|sd
+B|He was a movie director,|sd
 B|and he had that gal killed.|sd
 A|Yeah|b
 B|Okay.|b

@@ -76,7 +76,7 @@ B|Uh, what subjects have you talked about?|qw
 A|Let's see,|^h
 A|education.|sd
 B|Oh|bk
-B|Well, that's  interesting.|ba
+B|Well, that's interesting.|ba
 A|that one was.|sd
 B|It's more interesting than the treadmill and the bicycle.|sv
 B|Right?|^g

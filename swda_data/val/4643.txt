@@ -26,7 +26,7 @@ B|it's all, uh,|%
 B|I've done most of the coloring|sd
 B|but I've got to go a second layer with the yellow.|sd
 A|Did you do it with a jigsaw|qy
-A|or do you have powered,  you know, a,|qy
+A|or do you have powered, you know, a,|qy
 B|Uh, yeah.|ny
 B|Uh, I did, uh, jigsaw, uh, and the, uh, regular straight saw for some of it.|sd
 A|Um.|b
@@ -65,9 +65,9 @@ A|so let's do something else.|sd
 B|Right.|aa
 B|You want to, uh, explore a new field|bf
 B|or, or,|%
-A|Well,  yeah,|aa
+A|Well, yeah,|aa
 A|I, I'm signed up for a class in pottery making because I've never tried that yet|sd
-B|Huh.  So you have a M F A in, in what division of art?|qw
+B|Huh. So you have a M F A in, in what division of art?|qw
 A|but,|%
 A|Well, I, I actually have a Masters of art|sd
 A|and it's in art education.|sd
@@ -98,7 +98,7 @@ B|Exactly.|aa
 A|And I made a necklace that I saw in a gallery for three hundred twenty dollars|sd
 A|It took me a lot of time|sd
 A|but  it didn't,|sd
-B|Oh,  yeah.|b
+B|Oh, yeah.|b
 A|but if it cost me twenty dollars, you know,|sd
 A|and then I,|%
 B|And your time,|^2
@@ -155,7 +155,7 @@ A|and we got once it was turned, we got one one cut out on the table saw, on the
 A|by getting the other one out without the slice now flying in your face was something you had to think about|sd
 B|Right.|b
 A|So,|%
-B|Now  did you cut a quarter wedge in this?|qy
+B|Now did you cut a quarter wedge in this?|qy
 A|Uh, I'd say it's about an eighth.|ng
 A|You know|%
 B|Well, I, I'm envisioning, uh, uh, a a watermelon like a log|sd

@@ -37,7 +37,7 @@ B|Yeah.|b
 A|That's what I like to see.|sv
 A|Go ahead.|ad
 B|And see,|%
-A|I'm all  for that.|sd
+A|I'm all for that.|sd
 B|so he was treated like all the rest of students, you know.|sd
 A|That's great.|ba
 B|And so, um, their very best player,|sd

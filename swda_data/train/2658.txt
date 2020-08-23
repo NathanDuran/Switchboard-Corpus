@@ -2,7 +2,7 @@ A|Uh, I guess I've had to return something|fo_o_fw_"_by_bc
 A|but I'm can't decide,|sd
 A|mostly it's been because I didn't like the color,|sd
 B|Uh-huh.|b
-A|or,  um, I'm not sure whether I've had to return that many things, uh,|sd
+A|or, um, I'm not sure whether I've had to return that many things, uh,|sd
 B|Well, I'm having a problem right now with a computer that we've just returned.|sd
 A|Oh, are you?|bh
 B|So, for me it's actually a pretty good topic.|sd
@@ -11,15 +11,15 @@ A|good,|ba
 A|so, we'll talk about that some.|ad
 B|Yeah,|aa
 B|well, we could talk about that,|oo_co_cc
-B|and then we could talk a bit about, um, just quality of products in general,  if  they're better or worse like if they last longer or something like that.|oo_co_cc
+B|and then we could talk a bit about, um, just quality of products in general,  if they're better or worse like if they last longer or something like that.|oo_co_cc
 A|Right.|b
 A|Okay,|aa
-A|I'm going to let you kind of lead the pack,  because  you sound like you're,|ad
+A|I'm going to let you kind of lead the pack,  because you sound like you're,|ad
 A|let me tell you just a little bit about myself.|^h
 A|I, for years I did all that shopping and whatnot,|sd
 A|but for the last four or five years I've had eye problem,|sd
 B|Oh.|b
-A|and  I've had two cornea transplants.|sd
+A|and I've had two cornea transplants.|sd
 A|Shopping is no fun anymore|sd
 B|I can imagine.|ba
 B|Well, see I don't,|%
@@ -59,7 +59,7 @@ B|we told them about the stuff|sd
 B|and the guy said, uh, that the computer would fit our needs.|sd
 B|And we|%
 B|these things won't make any sense to you probably|qy^d
-B|but he told us there were,  we  need user positions to put our own equipment in the computer.|sd
+B|but he told us there were,  we need user positions to put our own equipment in the computer.|sd
 A|Uh-huh.|b
 A|Oh, yes.|b
 B|And it's called a user boards|sd
@@ -85,7 +85,7 @@ A|the computer was supposed to have two.|qy^d
 B|Well, it has them|arp_nd
 B|but the problem is that you can't put the type of card that we need to put in it, in it. And even though they told us in advance that you could,|sd
 A|Oh, I see.|b
-B|they told us there would be no problem because, you know,  the salesman  just doesn't really know.|sd
+B|they told us there would be no problem because, you know,  the salesman just doesn't really know.|sd
 A|I see.|b
 A|In some ways it has more to do with the people who sold it.|sv
 A|They probably didn't know what they were talking about.|sv
@@ -108,12 +108,12 @@ B|and we talked to the person a second time and things like that,|sd
 B|and then we come, we get the computer home,|sd
 B|my husband goes to pick it up last week|sd
 B|and we couldn't go get it sooner because I just had the baby,|sd
-B|and  you  know, life's just a little bit complicated.|sd
+B|and  you know, life's just a little bit complicated.|sd
 A|Uh-huh.|b
 A|Uh-huh .|b
 B|And, uh, he goes and gets it, brings it home,|sd
 B|first of all they're missing components of it like cables so you can't really test it out.|sd
-B|And then second thing, we still can't put the boards in,  because they  have other things blocking where we need to do it.|sd
+B|And then second thing, we still can't put the boards in,  because they have other things blocking where we need to do it.|sd
 A|Oh, jeez .|ba
 A|Huh.|b
 B|And see now we're dealing with having to bring it back again|sd
@@ -136,27 +136,27 @@ B|Yes.|ny
 A|It really is.|sv
 A|I think, uh, uh, there's a lot not to be said for credit|sv
 A|but that's one thing to be said for credit.|sv
-A|It, how ,  it  gets you some muscle where you need it.|sv
+A|It, how ,  it gets you some muscle where you need it.|sv
 B|Yeah.|b
 B|Right.|aa
 B|So, and so, you know,|%
 A|And I think that's really important.|sv
 B|Well, because these guys if they, um, give us a hard time we're going to say, you, look, you know,|sd
-B|if, if you can't fix this to our satisfaction,  we're  just returning the computer.|^q
+B|if, if you can't fix this to our satisfaction,  we're just returning the computer.|^q
 A|Yeah.|b
 A|That's right.|aa
 A|That's right.|aa
 B|And if we do that,|%
-B|I just tell the credit card company, don't pay the charge,  even though  they've already paid it.|sd
+B|I just tell the credit card company, don't pay the charge,  even though they've already paid it.|sd
 A|That's right.|aa
 A|No .|aa
-B|But they'll just, you know,  undo the credit  that they did to them.|sd
+B|But they'll just, you know,  undo the credit that they did to them.|sd
 A|Yeah,|aa
 A|they will,|aa
 A|That's right.|aa
 A|They will,|aa
 B|Yeah.|b
-A|they  will put the kind of clout on them that you can't really do.|sv
+A|they will put the kind of clout on them that you can't really do.|sv
 B|Right.|b
 A|Yeah.|b
 B|And,|%
@@ -188,7 +188,7 @@ A|I really don't know which brand it is.|ng
 A|It's ,|%
 B|But I was wondering like, you know|sd
 B|in our case where we knew we were buying a copy|sd
-B|we weren't buying,  on  I B M P C|sd
+B|we weren't buying,  on I B M P C|sd
 A|Yeah.|b
 B|and I was wondering if you,|qy^d
 A|No,|nn
@@ -217,22 +217,22 @@ A|What, what, for instance, what are you,|qw
 B|Um, oh,|%
 B|of course, it's hard to think of an exact example,|sd
 A|Yeah.|b
-B|but  I think that, um,  I|%
+B|but I think that, um,  I|%
 A|That's good|ba
 A|they're getting a kind of a, attitude of,  not,|%
 B|yeah,|b
-B|I just have , well, I like electronic stuff,  you  know|sd
+B|I just have , well, I like electronic stuff,  you know|sd
 A|Yeah.|b
 B|for one thing. I know their, work, you know,|sd
-B|cars I think are not made,  as  well as they could be.|sv
+B|cars I think are not made,  as well as they could be.|sv
 A|Well,|%
 A|Yeah.|aa
 A|Yeah,|aa
 B|Um,|%
-A|I  think that's right.|aa
+A|I think that's right.|aa
 A|The fact that,|%
 B|because I ,|%
-B|they want people to replace it after,  a  couple of years.|sv
+B|they want people to replace it after,  a couple of years.|sv
 A|Right.|b
 A|The fact that they, that they have competition with the Japanese and whatnot sometimes, uh, dwells on a fact that, you know, uh,|sv
 A|I've had, I've known people who have had Toyotas for years that have had almost no repair work to do on them.|sd
@@ -251,19 +251,19 @@ B|Yeah.|aa
 A|And it kind of has to start from the top and, and go or from the bottom maybe and go clear up.|sv
 A|People,|%
 B|Well, I think part of the problem comes in sort of shoddy workmanship.|sv
-B|The people just don't care about,  what  they're doing.|sv
+B|The people just don't care about,  what they're doing.|sv
 A|No.|aa
 A|Yeah.|b
 B|You know, the whole,|%
-B|nobody cares, no, nobody's,  really  paying,|sv
+B|nobody cares, no, nobody's,  really paying,|sv
 A|Yeah.|b
-A|Attitude is, is just get me my dollar so I can go do what I want to do, and,  on,|sv
+A|Attitude is, is just get me my dollar so I can go do what I want to do, and, on,|sv
 B|Right,|aa
-B|give me  my paycheck, so I can go home.|^q
+B|give me my paycheck, so I can go home.|^q
 A|what I'm doing, right.|sv
 A|I think that's too bad.|sv
 A|And it's a shame too because, uh, when you get right down to it most things, there isn't any, if you do a good job, nobody can pay you enough|sv
-A|There isn't,  any  way to get paid enough.|sv
+A|There isn't,  any way to get paid enough.|sv
 B|Yeah.|b
 A|But if you do a good job, you feel enough satisfaction,|sv
 A|so whatever you're paid is enough.|sv
@@ -275,15 +275,15 @@ A|Uh-huh.|b
 B|But, and you get satisfaction out of it.|sv
 A|That's right,|aa
 B|And,  But I think a lot of it, you know, I think things come both from the, uh, individual side and also from the company side|sv
-A|I  think they underestimate how much, how much value the satisfaction|sv
+A|I think they underestimate how much, how much value the satisfaction|sv
 B|because the companies that, let, give the attitude that, well, you know,|sv
 B|you're the last one hired|^q
 B|so you'll be the first one fired,|^q
-B|and  we just want you to do your day's work,|^q
+B|and we just want you to do your day's work,|^q
 A|Yeah.|b
-B|and  we don't really care about you,  as  an individual.|^q
+B|and we don't really care about you,  as an individual.|^q
 A|Yeah.|b
-B|When you've got that type of attitude on it, the people don't care,  about  their work.|sv
+B|When you've got that type of attitude on it, the people don't care,  about their work.|sv
 A|No .|aa
 B|And so,|%
 A|It it probably basically goes right back into the home though unfortunately.|sv

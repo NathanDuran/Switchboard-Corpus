@@ -15,7 +15,7 @@ A|I guess I enjoy, I enjoy jazz, listening to jazz sometime although I don't fee
 A|but, but, um, I enjoy it|sd
 A|and, uh, sometimes I enjoy listening to, uh, fiddle music.|sd
 B|Uh-huh.|b
-A|We were  in Colorado recently|sd
+A|We were in Colorado recently|sd
 A|and heard this, these, uh, well, we heard this fiddler|sd
 A|and we bought his, we bought his tape|sd
 A|and it's kind of fun to listen to the fiddle pans .|sd
@@ -34,7 +34,7 @@ B|Plus my parents are, well,|sd
 B|especially my dad, likes a lot of classical music|sd
 B|and he introduced my brother and I both, to a lot of it.|sd
 B|So,|%
-A|Oh,  gosh,|ba
+A|Oh, gosh,|ba
 A|Chris Xeros|bf
 A|You grew up with his children, too, then?|qy^d
 B|Yeah.|ny
@@ -155,7 +155,7 @@ A|So, um, I always think it's a nice break from the traditional organ or piano.|
 B|Uh-huh.|b
 A|And, it makes, it makes it nice.|sd
 A|It makes, you know, you can say classy|sd
-A|or it makes an elegant wedding to  have  something else.|sd
+A|or it makes an elegant wedding to have  something else.|sd
 B|It does.|aa
 B|It really does|aa
 B|and it has such a different sound to it, anyway.|sv

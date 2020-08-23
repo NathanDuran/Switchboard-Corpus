@@ -8,7 +8,7 @@ B|Uh, they ate dinner at the table together.|sv
 B|Uh, the parents usually took out time, uh, you know, more time than they do now to come with the children and just spend the day doing a family activity.|sv
 A|Uh-huh.|b
 B|Uh, although I'm not a mother, I, I still think that, uh, a lot has changed since ten years ago.|sv
-B|Uh, what  do you  think about that?|qo
+B|Uh, what do you  think about that?|qo
 A|We,|%
 A|Well, uh, actually ten years from today seems rather short.|sv
 B|Yeah.|b
@@ -36,7 +36,7 @@ B|So there's maybe a five year gap between us.|sd
 A|Yeah.|b
 B|So, uh.|%
 A|I just, I think that things were a bit, were, have been busy all along.|sv
-A|It's  just  a matter where priorities are, at placed. And that, uh, usually as far as families are concerned, there used to be just one person working and usually the other parent was home.|sv
+A|It's just  a matter where priorities are, at placed. And that, uh, usually as far as families are concerned, there used to be just one person working and usually the other parent was home.|sv
 B|Huh|%
 B|Yes.|aa
 B|Uh-huh.|b
@@ -45,7 +45,7 @@ B|Do you think it's an economic necessity|qy
 B|or do you think that we're, we're, uh, all trying to keep up with a certain standard of living?|qrr
 A|I think that's part of it too.|sv
 A|But I do think,|sv
-B|I mean do you think, people really need two cars and  a house  in the suburbs or,|qy
+B|I mean do you think, people really need two cars and  a house in the suburbs or,|qy
 A|No,|nn
 A|no.|nn
 A|I don't.|sd
@@ -55,15 +55,15 @@ A|But then there are a lot of people that, that don't have that. But, that reall
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|I think maybe those people that really do need to work, both parents, just to survive.|sv
-A|And  then there, is, is that other group  that is  working to maintain a standard of living that, uh, they think is, is surviving which is really more luxuries.|sv
+A|And  then there, is, is that other group that is  working to maintain a standard of living that, uh, they think is, is surviving which is really more luxuries.|sv
 B|Yeah.|b
 B|Uh-huh.|b
 B|Okay.|bk
 B|Uh-huh.|b
 A|Uh, but I I tend to think that it's less those people that have the two cars and everything than it is the group that is just trying to survive.|sv
 B|so you think it's,|qy^d
-B|which group are you saying  is the one trying?|qw
-A|I'm saying that  the, uh, the group that is just trying to survive from day to day, where both parents are working is more of the majority than the, than the people that have the higher standard of living.|sv
+B|which group are you saying is the one trying?|qw
+A|I'm saying that the, uh, the group that is just trying to survive from day to day, where both parents are working is more of the majority than the, than the people that have the higher standard of living.|sv
 B|Uh-huh.|b
 A|Because if you look at economics across this country and statistics on who has the money and who the decreasing, uh, middle class in this country I think that that's, in my opinion, the case.|sv
 B|Uh-huh.|b

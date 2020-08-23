@@ -11,7 +11,7 @@ A|that's, that's quite a chore.|sv
 A|Yes,|aa
 A|I imagine it did.|sv
 A|Did you have that done professionally|qy
-A|or  did you do that yourself?|qrr
+A|or did you do that yourself?|qrr
 B|No,|nn
 B|we did it ourselves,|sd
 B|did it myself.|sd

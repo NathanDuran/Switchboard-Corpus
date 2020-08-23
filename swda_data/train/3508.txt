@@ -46,7 +46,7 @@ B|so it became quite a big  thing,|sd
 A|Right.|b
 B|and, uh,|%
 A|Right,|aa
-A|I'm really glad  they do it.|sd
+A|I'm really glad they do it.|sd
 A|Uh, yeah,|%
 A|I do news, mostly newspapers and, uh, plastic two liter diet Coke bottles And aluminum cans some,|sd
 B|Yes,|b
@@ -59,7 +59,7 @@ B|well, I found out after washing out many a peanut butter jar that they're not 
 A|Uh, ha.|ba
 B|Uh, ha,|b^m
 A|Wasting all your time and effort and,  Putting it in there.|bf
-B|Thinking I was safe  in buying those jars as far as the environment was concerned.|sd
+B|Thinking I was safe in buying those jars as far as the environment was concerned.|sd
 A|Yeah,|b
 A|yeah.|b
 B|But, uh, you know, but it, it's not that hard now that I've got this  system under control.|sd
@@ -115,7 +115,7 @@ A|so I don't know why, what that was reading it for|sd
 B|Huh.|%
 A|but, uh|%
 B|Registering our garbage|bf
-A|they must be trying to keep track of  , you know, who is doing it, or what, I guess.|sd
+A|they must be trying to keep track of , you know, who is doing it, or what, I guess.|sd
 B|Yeah.|b
 A|I don't know.|h
 A|Another,|%

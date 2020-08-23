@@ -30,9 +30,9 @@ B|sure.|b
 B|Uh-huh.|b
 B|Yeah.|b
 B|Yeah.|b
-B|Uh, uh, do you find that, uh, on the average do people give uh, more credibility or less credibility to a professional, uh, to professionally dressed  individual.|qy
+B|Uh, uh, do you find that, uh, on the average do people give uh, more credibility or less credibility to a professional, uh, to professionally dressed individual.|qy
 A|Yeah,|b
-A|I think  in today's society, uh, there is more credibility to be quite honest|sv
+A|I think in today's society, uh, there is more credibility to be quite honest|sv
 B|Uh-huh.|b
 A|I will always remember,|sd
 A|I will tell this real quick story when I graduated from college,|sd
@@ -68,7 +68,7 @@ B|Uh-huh.|b
 A|I call on Oshman's sporting goods, again, it may be casual or it may be coat and tie.|sd
 A|So it depends.|sd
 B|Yeah,|b
-B|it  depends.|b^m
+B|it depends.|b^m
 B|Sure.|b
 B|Uh, so you don't, uh,|%
 B|if you had the choice would you wear a tie or not?|qy
@@ -109,7 +109,7 @@ A|Right.|b
 B|and, uh, and sometimes that really disappoints me, uh, in, uh, when I see in other economic areas like in Kentucky.|sd
 A|Sure.|b
 B|You know, people just don't have that|sd
-B|and they are afraid to go to church or afraid to go  simply because  they don't have the clothes to wear.|sd
+B|and they are afraid to go to church or afraid to go simply because  they don't have the clothes to wear.|sd
 A|But .|%
 A|That is a very good point.|ba
 A|I am from West Virginia|sd

@@ -91,7 +91,7 @@ B|Yeah.|b
 A|And we need expert cooperation.|sv
 B|Well, it's a,|%
 B|we're getting,|%
-B|at least they're starting,  you know.|sv
+B|at least they're starting, you know.|sv
 A|Yeah.|aa
 A|Education of the, Education of the people is primary, I would think.|sv
 B|So at least they're moving that direction.|sv
@@ -134,8 +134,8 @@ B|Yeah.|b
 B|Well, I think science has come a long way to making it so that it's possible to find ways to solve the problem|sv
 A|Uh-huh.|b
 B|Um,|%
-A|I, I don't know if they offer classes in, uh, the, uh, in the grade school, uh, uh,  subjecting.|sd
-B|I think they teach  it a lot in science|sd
+A|I, I don't know if they offer classes in, uh, the, uh, in the grade school, uh, uh, subjecting.|sd
+B|I think they teach it a lot in science|sd
 A|In science,|b^m
 A|okay.|bk
 B|Yeah.|b

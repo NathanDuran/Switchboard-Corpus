@@ -72,7 +72,7 @@ A|I definitely feel like we need to keep it at least unanimous|sv
 A|because, uh, you know, there's the classic sort of TO KILL A MOCKINGBIRD kind of story where you get, you know,|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
-A|And, uh, it seems to me that if you could just have a simple majority or something you could pretty much you know, browbeat the jury,  a  majority, in the, of the, a majority of the jury,|sv
+A|And, uh, it seems to me that if you could just have a simple majority or something you could pretty much you know, browbeat the jury,  a majority, in the, of the, a majority of the jury,|sv
 B|Uh-huh.|b
 A|that's hard to say.|h
 A|Uh, so, it's, it's, uh, you know, saying, well, look we don't like the way he looks|sv
@@ -90,8 +90,7 @@ B|Uh-huh.|b
 A|So, not,|%
 A|I, I mean, I'm,|%
 A|the problem is I can't guarantee that a judge would be necessarily be much better than a jury,|sv
-A|but I'd be real nervous having a jury not at least fully agree on what the settlements would be,  things  like that.|sd
-B||%
+A|but I'd be real nervous having a jury not at least fully agree on what the settlements would be,  things like that.|sd
 B|I, uh, I I, I don't think the judge should just make the decision alone.|sv
 A|Yeah.|b
 B|Least with the jury you have twelve people, you know that are going to decide, you know,|sd
@@ -128,11 +127,11 @@ A|I mean, I know, it, it, it's tricky|sd
 A|because I know, you know, an awful lot of intelligent people who just, well|sd
 A|I'm too busy to serve on a jury,|^q
 B|Uh-huh.|b
-A|so  I'll tell them that|sd
+A|so I'll tell them that|sd
 A|and they won't, or just, you know, just answer one of the questions the wrong way because you can do that, you know,|sd
 B|Oh, yeah.|b
 B|Well,|%
-A|they just say  do you believe in such and such.|sd
+A|they just say do you believe in such and such.|sd
 A|Uh,|%
 B|I guess it's just that maybe people are, you know, upset at court, you know.|sv
 B|If it was, if it was a, a family member of theirs, though that was innocent|sv

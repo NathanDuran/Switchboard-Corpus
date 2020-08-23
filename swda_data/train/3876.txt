@@ -29,7 +29,7 @@ B|Oh I know.|aa
 A|glass|sd
 A|that cannot be, it could be recycled,|sd
 A|but there is no place to,|sd
-B|There is no really recycling  facilities.|^2
+B|There is no really recycling facilities.|^2
 A|No.|aa
 A|We have a pilot program in Arlington going on I think in the north part of the city where they are have people people separate the garbage as, the trash as they put it out.|sd
 B|I think that is a good idea.|sv
@@ -68,7 +68,7 @@ A|You are forced to.|aa
 A|And, uh, you also don't see the litter there.|sd
 A|People just,|%
 B|Yeah,|aa
-B|that's  true.|aa
+B|that's true.|aa
 A|It makes it worthwhile to take it back|sv
 A|and I've just started drinking a new water called Clearly Canadian,|sd
 A|I don't know if you've tried it|qy^d
@@ -116,7 +116,7 @@ A|And I want them to have my business.|sd
 A|And I think packaging could be done much better.|sv
 A|There is so much plastic.|sv
 A|But,|%
-B|Well  I know,|aa
+B|Well I know,|aa
 B|you see some of the stuff|sd
 B|and then when they come out with the new things, you are like, well why didn't you think of that before.|sd
 A|Yeah.|aa

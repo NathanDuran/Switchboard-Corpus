@@ -58,7 +58,7 @@ A|uh, you're a Red Sox fan too?|bh
 B|Yeah,|ny
 B|uh-huh.|ny
 A|I usually try to catch whoever's in town though, I don't specifically,|sd
-A|I, you know, go to Cleveland to see them play,  the  Indians or the Red Sox,|sd
+A|I, you know, go to Cleveland to see them play,  the Indians or the Red Sox,|sd
 B|Uh-huh.|b
 A|uh, uh, that's about it,|sd
 A|we don't, I mean, we do a lot of little trips around here, uh,|sd
@@ -77,12 +77,12 @@ A|It's this house built on, on a waterfall|sd
 A|and it's, uh, really cool|sd
 B|Uh-huh.|b
 A|Um, of course, we keep picking crummy weather to go out there,|sd
-A|uh,  the first time we went out there was, uh, the day after hurricane Hugo had come through|sd
+A|uh, the first time we went out there was, uh, the day after hurricane Hugo had come through|sd
 B|Gee.|ba
 A|So, I mean they, they didn't have any power|sd
 A|and it was really cold and, and rainy|sd
 A|and, uh, we went up about a year later|sd
-A|and it was better but not a whole,  lot  better|sd
+A|and it was better but not a whole,  lot better|sd
 B|Uh-huh.|b
 A|So, uh, where else did we go, uh,|^h
 A|we've gone to Richland, last year and, uh, had a good time,  down there.|sd
@@ -90,10 +90,10 @@ B|Oh, did you?|qh
 B|Did you go,  to Williamsburg,|qy
 B|have you been down there?|qy
 A|Uh, my girlfriend has with her sisters|sd
-A|but I haven't been,  down  there.|sd
+A|but I haven't been,  down there.|sd
 B|Uh-huh.|b
 A|Uh, I hear that's nice.|sd
-A|We're going to get down, probably down Norfork sometime this Summer,  just  to see why, catch a football game actually|sd
+A|We're going to get down, probably down Norfork sometime this Summer,  just to see why, catch a football game actually|sd
 B|Uh-huh.|b
 B|We were down,|sd
 B|well, when we came back from the outer banks we came up due Norfork and spent the night there with a friend in Portsmith and then went to Williamsburg and spent a night.|sd
@@ -101,13 +101,13 @@ A|Uh, spend a day and a lot of money|^2
 B|Yeah|aa
 A|Yeah,|b
 A|I've heard, uh,|sd
-A|I'm not real interested in Williamsburg because of the, of the price attached,  to  it.|sd
+A|I'm not real interested in Williamsburg because of the, of the price attached,  to it.|sd
 B|Yeah.|b
 A|We just,|%
 A|we,|%
 A|I,|%
 B|But it's a pretty neat down to just go and walk around, if you like to walk,|sd
-B|it's a good town to just,  walk  in.|sd
+B|it's a good town to just,  walk in.|sd
 A|Uh.|%
 A|Uh, yeah,|b
 A|we'll,  do that.|oo_co_cc
@@ -125,9 +125,9 @@ A|I didn't know that.|sd
 A|Yeah,|%
 A|I think, uh, they do the whole with, you know, paying,|sd
 B|Yeah.|b
-A|they  really did throw away a lot of money to get, getting one thing or another,|sd
+A|they really did throw away a lot of money to get, getting one thing or another,|sd
 B|Yeah.|b
-A|but  they had a good time|sd
+A|but they had a good time|sd
 A|so.|%
 B|We really didn't do that really this time, we just, uh, visited around.|sd
 A|Uh, uh,|%
@@ -143,7 +143,7 @@ A|so, my father was working down in Los Angeles for like, uh, six months or so,|
 A|uh, actually I think it was closer, I think to a full year|sd
 A|and, you know, we'd, he'd fly down there on Mondays and fly back on Fridays,|sd
 A|well, any time we had a school vacation or something like that we went down to Los Angeles,|sd
-A|so I saw, I went to Disneyland about five times,  in one  year|sd
+A|so I saw, I went to Disneyland about five times,  in one year|sd
 B|Oh|b
 A|and I really have no great urge to go back now.|sd
 B|That's great as a kid though, isn't it, I mean,|qy
@@ -175,7 +175,7 @@ B|Uh-huh.|b
 A|but never did it.|sd
 B|Charleston is a really nice place to visit.|sd
 A|My, uh, my sister lives in Charlotte|sd
-A|and they've gone to,  Charleston  a couple of times and had a real good,  time.|sd
+A|and they've gone to,  Charleston a couple of times and had a real good,  time.|sd
 B|Uh-huh.|b
 B|Yeah,|b
 B|it's a real pretty place.|sd
@@ -183,10 +183,10 @@ A|Uh, yeah,|b
 A|one of these days we'll get down there, although I don't know when we're going to have vacation to do it|sd
 A|We're, uh, we're getting married in about,  a year|sd
 B|Oh, are you.|b
-A|and,   our  honeymoon, we're going up to this, um, uh, place in Wisconsin called Door County,|sd
+A|and,   our honeymoon, we're going up to this, um, uh, place in Wisconsin called Door County,|sd
 B|Yeah.|b
 A|it's up by Green Bay.|sd
-A|It's a place my girlfriend's also wanted,  to  go,|sd
+A|It's a place my girlfriend's also wanted,  to go,|sd
 B|Uh-huh.|b
 A|and, uh,|%
 B|Is it on, uh, one of the lakes?|qy
@@ -194,17 +194,17 @@ A|It's, um, uh,|%
 A|I don't if you've ever seen a map of Wisconsin|sv
 A|but there's kind of like a little, a little thing sticking out, uh, in the Lake Michigan,|sd
 B|Uh-huh.|b
-A|that's  Door County|sd
+A|that's Door County|sd
 B|Oh, okay,|b
 B|yeah,|b
-B|that would,  be  really nice.|sv
+B|that would,  be really nice.|sv
 A|So,|%
 A|Yeah,|b
 A|they call it the Cape Cod of the, uh,  the Midwest|sv
 B|Oh|b
 A|so, uh, we're thinking that'll be a lot of fun,|sv
 B|Uh-huh.|b
-A|she,  uh, she had this, uh, book of pictures from it that were really nice, kind of like a travel guide|sd
+A|she, uh, she had this, uh, book of pictures from it that were really nice, kind of like a travel guide|sd
 B|Uh-huh,|b
 B|sounds good.|ba
 A|so, uh, that should be a lot of fun.|sd
@@ -213,23 +213,23 @@ B|well, I know what my next trip, I'm going to be a grandmother in July|sd
 A|Oh.|b
 B|The first, the first one,|sd
 A|Oh, boy.|ba
-B|so my  next trip is going to be to Texas|sd
+B|so my next trip is going to be to Texas|sd
 A|Oh, that'll be fun|ba
 B|Yeah,|b
 B|in the middle, in the middle of the Summer.|sd
 A|Well, yeah,|b
-A|you won't even,  notice  it though|sv
+A|you won't even,  notice it though|sv
 B|Well, they'll be air-conditioning anyway|sd
 B|so.|%
-A|Is that, is that how you got into this, uh, this,  you  know, uh, data base?|qy
+A|Is that, is that how you got into this, uh, this,  you know, uh, data base?|qy
 B|Yeah,|b
-B|my daughter's a temp at Texas Instruments,  and working  on this project.|sd
+B|my daughter's a temp at Texas Instruments,  and working on this project.|sd
 A|Oh, okay.|bk
 A|Yeah,|b
 A|I was, I was just,|%
 A|I mean most of the people I've talk to are from, are from Texas,|sd
 B|Uh-huh.|b
-A|so,  when I, you know, when I heard you were from Virginia I was like, oh, okay, there's somebody different,|sd
+A|so, when I, you know, when I heard you were from Virginia I was like, oh, okay, there's somebody different,|sd
 A|and you said, oh, I got somebody down in Texas,|sd
 A|I go, okay, that the connection,  right there|sd
 B|That's it,|ba
@@ -241,20 +241,20 @@ A|Uh, I, uh,|%
 A|most people talk to Texas,|sd
 A|there's been a couple of other the people, uh, most of whom are like me that work in, in speech labs that are going to use data base,  eventually.|sd
 B|Oh, I see.|b
-A|So, uh,  it was fun|sv
+A|So, uh, it was fun|sv
 A|I, actually yesterday, I ended up talking to somebody else from the same lab I'm in.|sd
 B|Is that right.|bh
-B|Well, we spent last week end in Charlotte with real good friends that had just,  moved  to back East from Oklahoma,|sd
+B|Well, we spent last week end in Charlotte with real good friends that had just,  moved to back East from Oklahoma,|sd
 A|Oh.|b
 A|Uh-huh.|b
-B|and  she's, uh, working on this project too,|sd
+B|and she's, uh, working on this project too,|sd
 B|I mean she's talking on the project too|sd
 A|Uh-huh.|b
 B|and, uh, we got back Monday|sd
 B|and I got a call yesterday|sd
 B|and it was her, on T I Network|sd
 A|Uh, that's neat.|ba
-A|I haven't, uh, I haven't had something like that happen, just, uh, just getting the one guy,  from  the lab.|sd
+A|I haven't, uh, I haven't had something like that happen, just, uh, just getting the one guy,  from the lab.|sd
 B|Uh-huh.|b
 A|Uh, you're sure have a nice town,|ba
 A|uh, my, uh, sister lives on Lake,  Norman, just,|sd
@@ -262,7 +262,7 @@ B|Oh, does,  she,|b
 B|that's nice out there.|ba
 A|Yeah,|b
 A|uh, we keep wanting to get down there and visit them over the Summer|sd
-A|and it's,  never  really works out.|sd
+A|and it's,  never really works out.|sd
 B|Uh-huh,|b
 B|yeah,|b
 B|it's real pretty.|ba

@@ -15,8 +15,8 @@ A|Yeah|b
 B|So, do you, is there, are you planning to, like, encourage your children to go to a particular school?|qy
 A|Uh, no, uh, um,|nn
 A|no particular school.|nn
-A|Uh, I think that's really a decision  that,|sv
-B|That  you are going to let them make.|qy^d
+A|Uh, I think that's really a decision that,|sv
+B|That you are going to let them make.|qy^d
 A|They,|%
 A|well, help them make in terms of, you know, what they are, they are wanting to do.|arp_nd
 B|Right.|b
@@ -162,7 +162,7 @@ B|Uh-huh.|b
 B|Uh-huh.|b
 A|It's kind of interesting to, to, to talk up, you know, your,  school|sv
 B|Yeah,|aa
-B|your  own school,|^2
+B|your own school,|^2
 A|And, I was surprised by the number of kids that came, came by and had heard of, you know, our school. And, and were interested in it.|sd
 B|Uh-huh.|b
 B|Um.|b
@@ -184,7 +184,7 @@ A|But she was, her, her daughter was, uh, a, a, a majorette or something. You kn
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|and she was she was, letting us know she, how, how good her daughter was.|sd
-A|She had cards printed up, actually describing, you know, business cards describing her daughter's, uh, you know, she had won several different twirling awards, and all  this,|sd
+A|She had cards printed up, actually describing, you know, business cards describing her daughter's, uh, you know, she had won several different twirling awards, and all this,|sd
 B|Oh, really.|b
 B|Uh-huh.|b
 A|and she was, had these business cards she was passing out|sd

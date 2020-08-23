@@ -136,7 +136,7 @@ B|Uh-huh,|b
 B|uh-huh.|b
 B|Yeah.|b
 B|See there,|%
-A|But I,  I don't know the performance of it.|sd
+A|But I, I don't know the performance of it.|sd
 A|That's a, Ford product,|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
@@ -172,9 +172,9 @@ B|We like the stuff that glitters|bf
 A|Yeah.|aa
 B|Good.|ba
 B|There's nothing wrong with that.|sv
-B|Actually I think probably if I were going to get if I were going to be practical, which doesn't mean I would be,  I would prefer  white. Because, simply because it's more visible at night.|sv
+B|Actually I think probably if I were going to get if I were going to be practical, which doesn't mean I would be,  I would prefer white. Because, simply because it's more visible at night.|sv
 A|Right,|b
-A|well,  practical|%
+A|well, practical|%
 A|yes|%
 A|that's,|%
 A|Uh-huh.|b

@@ -60,8 +60,8 @@ A|I know.|ba
 B|Yeah.|b
 B|Well, uh, so, do you just, uh, uh, skin your catfish|qy
 B|or do you fillet them out,|qrr
-B|how  do you, how do you,|qw
-A|We, uh,  skin them.|sd
+B|how do you, how do you,|qw
+A|We, uh, skin them.|sd
 B|Do you?|^g
 A|Yeah.|ny
 B|Okay.|bk

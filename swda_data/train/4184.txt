@@ -53,7 +53,7 @@ A|Everybody seems to be really happy with them.|sv
 A|They're good temperament.|sv
 B|They're a good temperament|sv
 A|They put up with a lot.|sv
-B|and they,  and they just, uh,|sv
+B|and they, and they just, uh,|sv
 B|they,|%
 B|I think they have a good head on their shoulders.|sv
 B|I think they have a, a higher level of intelligence than other, uh, dogs that I have encountered.|sv
@@ -85,7 +85,7 @@ A|They might,|%
 A|they're actually very friendly dogs.|sv
 B|Are they really?|bh
 B|I don't think I've ever   seen one.|sd
-A|Uh, they're   really nice.|sv
+A|Uh, they're really nice.|sv
 A|I, I've dealt with quite a few of them.|sd
 A|People, uh, customers that bring them into the shop and ask me like, they, uh, fit collars and stuff on them|sd
 A|and they are, they are just really nice, really friendly, uh, kind of like medium intelligence. Uh,|sd

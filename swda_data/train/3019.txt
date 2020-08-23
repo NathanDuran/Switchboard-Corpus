@@ -144,7 +144,7 @@ A|in fact, one of the water color shows, I know, has inspired me to take water c
 B|Oh, I think that's, marvelous.|sd
 B|Yeah.|b
 B|Oh, yeah,|b
-B|I took  a lot of my,  college courses,|sd
+B|I took a lot of my,  college courses,|sd
 B|I took some of my, college courses on television,|sd
 A|Yeah.|b
 B|so that,|%

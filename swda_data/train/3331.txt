@@ -17,7 +17,7 @@ B|From what I understand, they act up pretty bad|sv
 A|Yeah,|aa
 A|that's right,|aa
 A|that's right.|aa
-B|What, uh,  grade is your daughter in?|qw
+B|What, uh, grade is your daughter in?|qw
 A|My, my daughter's in the, um, fourth grade|sd
 B|Uh-huh,|b
 B|uh-huh.|b

@@ -70,7 +70,7 @@ A|in fact, it even had, had a little refrigerator, uh, and the whole business.|s
 A|It was quite nice in that respect.|sd
 A|Uh, and everything was very convenient|sd
 A|and you did not have to, to be hauling things out of your, the trunk of you car,|sd
-B|Trunk  of your car all time, right.|^2
+B|Trunk of your car all time, right.|^2
 A|and that was nice.|sd
 A|So, uh, do you have plans for, for any other camping trips in the near future?|qy
 B|Uh, maybe, uh, maybe back to Caddo, or, Uh, Purdis Creek.|na
@@ -131,7 +131,7 @@ B|it's really nice.|sd
 A|Yeah,|b
 A|yeah.|b
 B|And I, I don't know,|h
-B|probably spring is probably the busiest time anywhere  in Texas.|sv
+B|probably spring is probably the busiest time anywhere in Texas.|sv
 A|Is it?|bh
 A|Uh, yeah,|aa
 A|I think so.|sv

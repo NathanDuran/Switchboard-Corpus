@@ -203,7 +203,7 @@ A|I guess we complain about taxes,|sv
 A|but, I guess, you know,  you have to be sort of,|sv
 B|Yeah,|b
 B|yeah,|b
-B|you got to look  to what they put, you know|^2
+B|you got to look to what they put, you know|^2
 A|Yeah,|b
 A|you have to appreciate, yeah, what, what you do get for them sometimes|sv
 B|you have decent roads at least|sv

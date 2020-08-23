@@ -29,7 +29,7 @@ A|You know, I read a study once,|sd
 A|and it said that, uh, like thirty-four percent of, uh, college students actually graduate in four years from a four year program.|sd
 B|Oh, really.|b
 B|That sounds.|sv
-A|It took me,  it took me five years.|sd
+A|It took me, it took me five years.|sd
 B|Yeah|b
 A|So, you just, you get started|sv
 A|and you change your mind,|sv

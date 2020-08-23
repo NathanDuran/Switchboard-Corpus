@@ -75,8 +75,8 @@ B|or, also last summer I was doing Nautilus|sd
 B|or last year I'm, uh, belong to a club right here.|sd
 A|Uh-huh.|b
 B|That was a little bit too much money.|sd
-B|But, uh, doing a mix of Nautilus and free weights.  I like that.|sd
-A|club,  what club are you with?|qw
+B|But, uh, doing a mix of Nautilus and free weights. I like that.|sd
+A|club, what club are you with?|qw
 B|I'm sorry?|br
 A|What club were you with?|qw
 B|It's called, oh, what was it called City Sports, downtown Washington.|sd
@@ -88,7 +88,7 @@ A|Okay.|b
 A|Yeah.|b
 A|You're down there on, you know, twentieth and eighteenth and  F G.|bf
 B|Yeah.|aa
-B|It's ,  uh, Plaza.|sd
+B|It's , uh, Plaza.|sd
 A|Oh.|b
 A|Well, I'd, uh,|%
 A|well there's a, there's a Holiday Spa down there on, on K street, I think. Something like that.|sd
@@ -109,8 +109,8 @@ B|I think, uh, I'm young,|sd
 B|I should get started getting into shape.|sd
 B|I don't want to,|sd
 B|I want,|%
-B|I mean at one point it's going to be too late to do it.  .|sv
-A|Well,  no.|ar
+B|I mean at one point it's going to be too late to do it. .|sv
+A|Well, no.|ar
 A|When you're young, you, you can abuse your, your, all your systems|sv
 A|and you can recover.|sv
 B|Yeah.|b

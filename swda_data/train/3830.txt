@@ -75,7 +75,7 @@ B|so it's kind of,|sv
 A|Yeah.|b
 B|And I would,|%
 B|I really,|%
-B|and the way medical expenses are I think that's probably one of the biggest benefits to  you need to have.|sv
+B|and the way medical expenses are I think that's probably one of the biggest benefits to you need to have.|sv
 A|It's,|%
 A|Yeah.|b
 A|It, it,|%
@@ -94,7 +94,7 @@ A|Oh, yeah|aa
 A|even at a group rate.|aa
 A|Uh, it's, it's unbelievable|sv
 A|and, uh, the amount that you have to pay for, you know, for kids|sd
-A|and, and if you want to add dental to it, I mean, that's  that eats  even more.|sd
+A|and, and if you want to add dental to it, I mean, that's  that eats even more.|sd
 B|Right,|b
 B|it goes up.|^2
 B|Right.|b
@@ -121,7 +121,7 @@ B|just, they go off fishing and stuff and come in and, every Friday, and go to t
 B|and I'm sitting there making a hundred dollars a week, you know|sd
 B|and, And they had all these|%
 A|Is that right?|bh
-B|I, I really believe they have done this to themselves, in a way, because of the unions being  so stocked.|sv
+B|I, I really believe they have done this to themselves, in a way, because of the unions being so stocked.|sv
 A|The union,|b^m
 A|yeah.|aa
 B|And right now, anybody's that's laid off from G M will have a full year's paycheck.|sd

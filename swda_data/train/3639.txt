@@ -44,8 +44,8 @@ A|Uh,|b
 B|There is only about five or six options.|sd
 B|Everything else is standard.|sd
 A|Yeah,|b
-A|you get  the impression that,|%
-B|Uh, some of the  tracking control things and skidding control things for up north. The C D and the premium sound system.|sd
+A|you get the impression that,|%
+B|Uh, some of the tracking control things and skidding control things for up north. The C D and the premium sound system.|sd
 A|Uh-huh.|b
 A|Skidding control,|b^m
 A|you mean the antilock brake system?|qy
@@ -71,7 +71,7 @@ A|snow doesn't happen very often.|sd
 B|If it does, people go, what's this stuff.|sv
 A|Yeah,|b
 A|uh, originally I'm from West Virginia.|sd
-A|We got a  pretty fair amount  of snow.|sd
+A|We got a  pretty fair amount of snow.|sd
 B|Oh,|bk
 B|well, you had some there.|sd
 B|Yeah.|b
@@ -108,8 +108,8 @@ A|No,|ba
 A|it doesn't sound real necessary in Texas.|bf
 A|Yeah.|b
 A|Yeah,|b
-A|I worked  for Lincoln,|sd
-B|So the only thing  I had to decide on was whether I wanted a C D or not in the stereo system|sd
+A|I worked for Lincoln,|sd
+B|So the only thing I had to decide on was whether I wanted a C D or not in the stereo system|sd
 B|and that was pretty much it.|sd
 B|And they had like three or four basic packages that they they offer.|sd
 A|Yeah.|b

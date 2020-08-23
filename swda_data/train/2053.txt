@@ -60,7 +60,7 @@ A|I think, I|%
 A|the pinks, there's like forty-two different shades of pink.|sd
 B|Good grief|ba
 B|Yeah,|b
-B|there's lots of  pinks and greens.|sd
+B|there's lots of pinks and greens.|sd
 A|Pinks and greens.|b^m
 A|Yeah.|b
 B|There's lots of shades of greens.|sd

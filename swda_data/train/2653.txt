@@ -78,7 +78,7 @@ B|Well, see of not being particularly interested I don't keep track of prices on
 B|but I'm, I'm, that does amaze me.|sd
 A|Yeah,|b
 A|the prices had plummeted,|sd
-A|you can buy the computer the guts just the guts with the power supply,  the  box and the mother board of a type of computer called an eighty, eighty-eight, for about two hundred dollars.|sd
+A|you can buy the computer the guts just the guts with the power supply,  the box and the mother board of a type of computer called an eighty, eighty-eight, for about two hundred dollars.|sd
 B|Uh-huh.|b
 B|Huh.|b
 A|And then the keyboard is another fifty,|sd
@@ -143,7 +143,7 @@ B|Uh-huh.|b
 A|Uh, now I I type that one,|sd
 A|but I don't use it anymore.|sd
 B|Uh-huh,|b
-B|well I just recently started using one.  In  connection with my work.|sd
+B|well I just recently started using one.  In connection with my work.|sd
 A|Uh-huh.|b
 A|Yes.|b
 B|Uh, I keep track of an inventory here.|sd
@@ -158,7 +158,7 @@ A|Oh, I see|b
 A|that's fascinating.|ba
 B|so naturally our equipment has to be in top condition and is constantly calibrated,|sd
 A|Uh-huh.|b
-B|and  they're dated.|sd
+B|and they're dated.|sd
 B|So I have to keep up with them, uh,|sd
 B|and and it's very handy doing it on the computer.|sd
 A|Yeah.|b
@@ -183,6 +183,6 @@ A|nice little conversation with you Jack.|fc
 B|Yeah,|fc
 B|Mike you take care now.|fc
 A|Good day.|fc
-B|Good luck  to you.|fc
+B|Good luck to you.|fc
 A|Thank you.|fc
 A|Same to you.|fc

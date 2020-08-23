@@ -16,9 +16,9 @@ B|although it is not killing that many people now, it still has the opportunity 
 A|Yeah,|b
 A|they say a million people are infected with the H I V virus,|sv
 B|Uh-huh.|b
-A|and, uh,  yeah,|%
+A|and, uh, yeah,|%
 A|I think,|sv
-B|That's in the world,  or  in America?|qy
+B|That's in the world, or in America?|qy
 B|You,|%
 A|Uh, in the country, America.|sd
 B|Oh, really?|bh

@@ -26,8 +26,8 @@ A|Yeah.|b
 B|Uh, that's something I've never really kept up with at all.|sd
 A|Uh-huh,|b
 A|yeah.|b
-B|Uh,  I don't,  I'm not sure, uh,|sd
-A|I mean,  I,|%
+B|Uh, I don't,  I'm not sure, uh,|sd
+A|I mean, I,|%
 A|go ahead.|ad
 B|I know, uh, I've always thought more about the disease rather than the research,|sd
 B|you know what I mean?|qy
@@ -43,7 +43,7 @@ B|Oh, yeah.|b
 A|Definitely.|aa
 B|I think so,|aa
 B|I think so.|aa
-A|I mean it's  becoming a major problem.|sv
+A|I mean it's becoming a major problem.|sv
 B|Yeah.|b
 A|But, uh. I guess the area that I think more about is I would like to see them focus on, uh, preventing it, uh in more, You know.|sv
 B|Yeah.|b
@@ -121,7 +121,7 @@ B|That's true.|aa
 B|That's true.|aa
 A|If they're perpetrating the AIDS problem, passing that on to each other, then  you know,|sd
 B|Yeah.|b
-B|You know,  I guess if you consider the two problems, drug addiction and AIDS AIDS would have to come first, I guess, as far as something to, to do about it.|sv
+B|You know, I guess if you consider the two problems, drug addiction and AIDS AIDS would have to come first, I guess, as far as something to, to do about it.|sv
 A|Yeah.|b
 A|Yeah.|b
 A|Uh-huh.|b

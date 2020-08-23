@@ -181,8 +181,8 @@ A|So that's helping.|sv
 B|Well, what do you think about like a device, a meter right on a tail pipe|qw
 B|and you pay the tax based on how much you polluted?|fo_o_fw_"_by_bc
 A|Now that's an idea.|ba
-A|don't say that too loud though because, uh, every city and town will have a meter on your tail pipe generating  generating revenue,|ad
-B|Well, it just means if you don't pollute, right, or you pollute very little  you don't have to pay any tax|sd
+A|don't say that too loud though because, uh, every city and town will have a meter on your tail pipe generating generating revenue,|ad
+B|Well, it just means if you don't pollute, right, or you pollute very little you don't have to pay any tax|sd
 B|or you just buy one of these things|sd
 B|and it, it, uh,|%
 B|maybe you, you could probably devise them so it slowly closed off your tail pipe|sv
@@ -194,7 +194,7 @@ A|Is that your idea?|qy
 B|Yeah,|ny
 B|but, uh, you know, it's, uh,|%
 B|I guess the difficulty would be to, that somebody could obviously just take it right off the tail pipe again|sv
-B|so you probably would have to build it right into  the muffler or something.|sv
+B|so you probably would have to build it right into the muffler or something.|sv
 A|Well I was going to say,|sd
 A|right.|aa
 A|You could put it in, you could, you could, it could be installed like a catalytic converter.|sd

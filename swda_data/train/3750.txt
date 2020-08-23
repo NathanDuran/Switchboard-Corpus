@@ -3,7 +3,7 @@ A|Okay,|fo_o_fw_"_by_bc
 A|so you enjoy camping?|qy
 B|Oh, yeah.|ny
 A|Yeah.|b
-B|I,  uh like you, I haven't done any in quite some time  except  for what I call living now which is, which is very close to camping|sd
+B|I, uh like you, I haven't done any in quite some time  except for what I call living now which is, which is very close to camping|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Yeah|b
@@ -22,7 +22,7 @@ A|Uh-huh.|b
 B|And, you know, in those those kinds of situations, uh, room rent which is outrageous.|sv
 A|Uh-huh.|b
 A|Yeah.|b
-B|So,  my buddy and I, we just camped|sd
+B|So, my buddy and I, we just camped|sd
 A|Uh-huh.|b
 B|And we figured, what the hell,|sd
 B|we did it when we were kids|sd
@@ -34,8 +34,8 @@ B|he is a couple years older than me|sd
 B|and, uh, he graduated and went off to college|sd
 B|and, uh, during the summer we would camp out at the lake.|sd
 A|Uh-huh.|b
-B|But it wasn't very much like camping because we had a refrigerator and a  stove|sd
-A|Oh, well  Yeah.|b
+B|But it wasn't very much like camping because we had a refrigerator and a stove|sd
+A|Oh, well Yeah.|b
 B|You know, I had a little boat house and floated it out on Lake Grapevine.|sd
 A|Uh-huh.|b
 B|And, uh, well, it was fantastic.|sd
@@ -51,10 +51,10 @@ A|Yeah.|b
 B|But, uh, you know, now all my life is more like camping than not camping really.|sd
 A|Uh-huh.|b
 A|Do you have electricity out there.|qy
-B|Oh,  yeah.|ny
+B|Oh, yeah.|ny
 A|Yeah.|b
-A|You've got a phone  obviously|sv
-B|Well,  actually as a matter of fact, they just ran the phone three years ago.|aap_am
+A|You've got a phone obviously|sv
+B|Well, actually as a matter of fact, they just ran the phone three years ago.|aap_am
 A|Uh-huh.|b
 B|We didn't have a phone.|sd
 A|Uh-huh.|b
@@ -67,8 +67,8 @@ B|So, we are at the end of the mail route|sd
 A|Yeah.|b
 B|Like I said, we are probably as far as you can get from the Seven Eleven and still be in Texas.|sv
 A|Yeah,|aa
-A|I guess so,  huh.|aap_am
-B|But,  uh, you know, right now, uh, what we did, my wife and I, is we got a mobile home. One of these twelve by forty-eight's that got repoed, And, uh, swapped them a Cadillac for it and put it out here on the land figuring I would build a house some day,  you know.|sd
+A|I guess so, huh.|aap_am
+B|But, uh, you know, right now, uh, what we did, my wife and I, is we got a mobile home. One of these twelve by forty-eight's that got repoed, And, uh, swapped them a Cadillac for it and put it out here on the land figuring I would build a house some day, you know.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 A|Uh-huh.|b
@@ -88,13 +88,13 @@ B|and I said okay|sd
 A|Uh.|b
 B|So, we have been roughing it out here for about three years,|sd
 B|but it is not bad.|sd
-B|I, we have color T V, microwave  you know|sd
+B|I, we have color T V, microwave you know|sd
 A|Yeah.|b
 B|it is not horrible,|sd
 B|but it's, it's a lot like camping.|sv
 A|Uh-huh.|b
 A|Yeah,|b
-A|well I grew up in California,  in  in central California right in the valley.|sd
+A|well I grew up in California, in  in central California right in the valley.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|So it is a forty-five minute drive to the mountains|sd
@@ -103,14 +103,14 @@ A|So we would go up.|sd
 A|First, we went up just to, uh, with a Toyota pick up truck and laid out our sleeping bags under the stars and you know cooked our, uh, hot dogs by the fire or whatever.|sd
 B|Sure.|ba
 A|But then later my mom and dad got a camper|sd
-A|so,  uh  we have kind of moved up.|sv
-B|Became  civilized.|^2
+A|so, uh  we have kind of moved up.|sv
+B|Became civilized.|^2
 A|Yeah.|aa
 A|A little bit in the world.|sv
 B|Yeah,|b
 B|my mom goes camping you know.|sd
 B|She takes her, uh, motor home.|sd
-B|You know, she's got one of these huge Winnebago's with a refrigerator and air-conditioning, color T V, microwave  oven  you know|sd
+B|You know, she's got one of these huge Winnebago's with a refrigerator and air-conditioning, color T V, microwave oven  you know|sd
 A|Yeah.|b
 B|She just,|%
 B|roughing it for me is going to the Holiday Inn and getting a shower. You know.|sd
@@ -135,6 +135,6 @@ B|But as far as camping, my wife and I have plans to, uh, not really camp per se
 A|Uh-huh.|b
 A|Yeah.|b
 A|Oh that's, uh,  That will be pretty.|ba
-B|I am going to  need a vacation|sd
+B|I am going to need a vacation|sd
 A|That's really pretty out there.|sv
 A|There are a lot of nice places,|sv

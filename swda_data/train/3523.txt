@@ -94,7 +94,7 @@ B|but I do,|%
 A|Right.|b
 B|there are issues that, you know, as far as, like, equal pay for men and women and that kind of stuff, I totally am for.|sv
 A|Right.|b
-B|But, I don't get into the, uh, the real  women libber  movement, you know.|sd
+B|But, I don't get into the, uh, the real  women libber movement, you know.|sd
 A|No,|aa
 A|I don't either.|aa
 A|I don't think they're ever going to prove that men and women are equal|sv
@@ -113,7 +113,7 @@ B|I, I've heard of that.|aa
 B|Uh, I haven't really talked to anybody that's, you know, too involved with that.|sd
 B|But, I mean, I think that is a,|%
 A|I think that,|%
-B|Like the  cottage industry.|sv
+B|Like the cottage industry.|sv
 B|Is, is that what you're talking about, women working out of their homes?|qy
 A|Right.|na
 B|Yeah,|bk

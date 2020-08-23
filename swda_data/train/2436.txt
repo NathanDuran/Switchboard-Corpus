@@ -151,7 +151,7 @@ A|but uh,|%
 B|Yeah,|b
 B|that's true,|aa
 B|the traffic.|%
-A|But, uh,  no,|nn
+A|But, uh, no,|nn
 B|Uh.|b
 A|I don't sit down,|sd
 A|I'll sit down for the big games, the Super Bowl, and the championship you know, things like that.|sd

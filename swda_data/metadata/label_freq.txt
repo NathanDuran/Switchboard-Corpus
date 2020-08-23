@@ -1,14 +1,14 @@
 Dialogue Act                          Labels         Count      %       Train Count   Train %    Test Count     Test %     Val Count     Val %  
-Statement-non-opinion                   sd           75136    37.61        72549       37.70        1317        32.29        1270        38.81  
-Acknowledge (Backchannel)               b            38284    19.16        36953       19.20         764        18.73         567        17.33  
-Statement-opinion                       sv           26421    13.23        25087       13.04         718        17.60         616        18.83  
-Uninterpretable                         %            15215     7.62        14616        7.60         350         8.58         249         7.61  
-Agree/Accept                            aa           11123     5.57        10770        5.60         207         5.07         146         4.46  
+Statement-non-opinion                   sd           75136    37.62        72549       37.71        1317        32.30        1270        38.81  
+Acknowledge (Backchannel)               b            38281    19.17        36950       19.21         764        18.73         567        17.33  
+Statement-opinion                       sv           26421    13.23        25087       13.04         718        17.61         616        18.83  
+Uninterpretable                         %            15195     7.61        14597        7.59         349         8.56         249         7.61  
+Agree/Accept                            aa           11123     5.57        10770        5.60         207         5.08         146         4.46  
 Appreciation                            ba            4757     2.38        4619         2.40         76          1.86         62          1.89  
 Yes-No-Question                         qy            4725     2.37        4594         2.39         84          2.06         47          1.44  
-Yes Answers                             ny            3031     1.52        2919         1.52         73          1.79         39          1.19  
+Yes Answers                             ny            3030     1.52        2918         1.52         73          1.79         39          1.19  
 Conventional-closing                    fc            2581     1.29        2480         1.29         81          1.99         20          0.61  
-Wh-Question                             qw            1977     0.99        1897         0.99         55          1.35         25          0.76  
+Wh-Question                             qw            1976     0.99        1896         0.99         55          1.35         25          0.76  
 No Answers                              nn            1374     0.69        1334         0.69         26          0.64         14          0.43  
 Response Acknowledgement                bk            1306     0.65        1271         0.66         28          0.69          7          0.21  
 Hedge                                   h             1226     0.61        1181         0.61         23          0.56         22          0.67  
@@ -27,7 +27,7 @@ Hold Before Answer/Agreement            ^h            556      0.28         539 
 Reject                                  ar            344      0.17         337         0.18          3          0.07          4          0.12  
 Negative Non-no Answers                 ng            302      0.15         290         0.15          6          0.15          6          0.18  
 Signal-non-understanding                br            298      0.15         286         0.15          9          0.22          3          0.09  
-Other Answers                           no            285      0.14         278         0.14          6          0.15          1          0.03  
+Other Answers                           no            284      0.14         277         0.14          6          0.15          1          0.03  
 Conventional-opening                    fp            225      0.11         220         0.11          5          0.12          0          0.00  
 Or-Clause                              qrr            209      0.10         206         0.11          2          0.05          1          0.03  
 Dispreferred Answers                  arp_nd          207      0.10         204         0.11          3          0.07          0          0.00  

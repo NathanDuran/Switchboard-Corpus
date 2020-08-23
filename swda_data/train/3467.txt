@@ -175,7 +175,7 @@ B|no,|aa
 B|we don't have that station either,|sd
 B|so, uh, I haven't been able to catch any of that,|sd
 B|but just what little we caught on the news.|sd
-A|It's just as wild as any soap  opera, from what I hear on the news.|sv
+A|It's just as wild as any soap opera, from what I hear on the news.|sv
 B|Oh, I know it.|aa
 A|And I think he's guilty as the devil.|sv
 B|Well, I don't see how he couldn't be, you know.|sd

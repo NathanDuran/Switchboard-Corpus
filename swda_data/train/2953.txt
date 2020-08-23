@@ -11,10 +11,10 @@ A|now, well then you was, in the, uh,|sd
 A|or, I am sorry,|fa
 B|Yeah.|b
 B|I was,|sd
-A|I am going  to make you sound like you're  eighty something.|sv
-B|Well, I was,  I was in  seventh grade when the Beatles came out.|bd
+A|I am going to make you sound like you're  eighty something.|sv
+B|Well, I was,  I was in seventh grade when the Beatles came out.|bd
 A|Okay,|bk
-B|I  was fourteen years old.|sd
+B|I was fourteen years old.|sd
 A|Woodstock.|sd
 A|What was,|qw
 B|Woodstock?|^2
@@ -23,13 +23,13 @@ B|Well, I wanted to go.|^h
 B|I was in Chicago.|sd
 B|And I guess I was close to eighteen or something.|sd
 B|I, I,|%
-B|I  can't quite remember the year.|h
+B|I can't quite remember the year.|h
 B|And, uh,|%
 A|You would have had a ball.|sv
 B|Uh, yeah.|ny
 A|I, I kind of liked, would have liked to have been there.|sv
 B|We could not, we could not get it together to drive.|sd
-B|I mean, you know, we had never driven outside of, you know,  ten  miles out of town at that time.|sd
+B|I mean, you know, we had never driven outside of, you know,  ten miles out of town at that time.|sd
 A|Yeah.|b
 B|And here we were all hep to go to Woodstock, you know.|sd
 A|Don't you wish you had been able to, though?|qy
@@ -37,16 +37,16 @@ B|I really do.|na
 B|You,|%
 A|Oh, that would have been such a great memory.|sv
 B|It would have been incredible.|sv
-B|I, I think of, uh, you know, all the, social changes that were going on around that time. And,  and  the sixties as being so revolutionary in a lot of ways in terms of raising people's consciousness. Everything from,|sd
+B|I, I think of, uh, you know, all the, social changes that were going on around that time. And,  and the sixties as being so revolutionary in a lot of ways in terms of raising people's consciousness. Everything from,|sd
 A|Yeah.|b
 B|well, I mean, I remember we had the first Earth Day back then, you know,|sd
 A|Yeah.|b
-B|we  got out of school at, at, uh, the university,|sd
+B|we got out of school at, at, uh, the university,|sd
 B|and we celebrated Earth Day.|sd
 A|You went and planted a tree or something?|qy
 B|Yeah.|ny
 B|Planted trees and stuff,|sd
-B|and we did not realize, you know, the implications of all that then,  and a  lot of the stuff that goes on  today.|sd
+B|and we did not realize, you know, the implications of all that then,  and a lot of the stuff that goes on  today.|sd
 A|Uh-huh.|b
 A|Well,|%
 A|when I grew up, it just was not, we did not have any causes.|sd
@@ -69,7 +69,7 @@ A|Well, right.|aa
 A|By the time I was born, even now, you know, women's rights, uh,|sd
 A|we just,|%
 B|You just assume.|sv
-A|we are totally  equal now.|sv
+A|we are totally equal now.|sv
 A|There is not really a lot to fight over.|sv
 A|Now I saw something on T V last night on TWENTY-TWENTY.|sd
 A|You know, men's, uh, fathers or daddies,|%
@@ -113,7 +113,7 @@ B|They are  going to be back in style any day now.|sv
 A|Yeah.|b
 A|Any day now|b^m
 A|Well, he just, you know, he is, he is his own person.|sd
-A|He,  you  know, he does stay with it as far as music and stuff goes,|sd
+A|He,  you know, he does stay with it as far as music and stuff goes,|sd
 B|Oh.|b
 A|but he wears what clothes he wants to. Which we are both that way.|sd
 A|If something is out of style, I do not really care.|sd
@@ -172,14 +172,14 @@ B|and I am, you know,|%
 B|and it is not going to happen that way.|sd
 A|Uh-huh.|b
 B|But my, my, uh, friends are having babies right and left,|sd
-B|so I get to see the different ways that they,  uh, all raise  them.|sd
+B|so I get to see the different ways that they,  uh, all raise them.|sd
 A|They raise them.|^2
 B|And, and one gal, she started a business, in her home.|sd
 B|And she, she hired an au pair, which is a college kid to come in and take care of her two boys while she works in the other end of the house.|sd
 A|Well, but see now,|%
 B|And the guy lives in with her, you know,|sd
 A|Yeah.|b
-B|I  mean, you know, it is a family sort of unit sort of thing|sd
+B|I mean, you know, it is a family sort of unit sort of thing|sd
 B|and the,|%
 A|to Okay, sweetie.|t3
 A|Let mommy talk.|t3
@@ -204,7 +204,7 @@ A|But, uh,|%
 B|Do you have any, uh,|qy
 B|do you have your mom or anybody around you that  helps you?|qy
 A|Uh,|b
-A|well, my family  is Kentucky.|^h
+A|well, my family is Kentucky.|^h
 A|Now my, one of my sisters is down here.|na
 B|Yeah.|b
 A|Her husband happened to get a job at T I|sd
@@ -234,19 +234,19 @@ A|They are bringing offices, I mean, I mean big businesses into their home.|sv
 A|Bringing their computers home and working from there.|sv
 B|Right.|b
 B|And I think, you know, the more we try to, you know, shape that, the more input we, have into what that whole system is going to look like. Because that is, that is our choice now too.|sv
-B|That is,  that is our  cause.|sv
+B|That is,  that is our cause.|sv
 A|Well, I think,  I think one that would be, uh,|sv
 A|it is, uh,|%
 A|kids could see their parents, you know, how hard they work,|sv
 B|Yeah.|b
-A|they  would understand more.|sv
+A|they would understand more.|sv
 A|When, uh, we first moved down here, I was working.|sd
 A|I was working a twelve hour shift,|sd
 A|and it was three and four days a week.|sd
 B|Uh-huh.|b
 A|And, uh,|%
 B|Um.|b
-A|oh,  my little boy just, he went wild. You know, I mean because, because he had been used to me being there all the time,|sd
+A|oh, my little boy just, he went wild. You know, I mean because, because he had been used to me being there all the time,|sd
 B|Being there all the time.|^2
 A|yeah.|aa
 B|Yeah.|b
@@ -268,7 +268,7 @@ B|And, uh, nothing is the same.|sv
 A|No,|aa
 A|it seems like it is totally different.|sv
 A|Of course, I do not have much to compare it to.|sd
-A|To me,  our  causes do not seem as important as you all's were.|sv
+A|To me,  our causes do not seem as important as you all's were.|sv
 B|Well.|%
 A|Do you know what I mean?|qy
 B|Yeah.|ny
@@ -279,7 +279,7 @@ B|I said, "We passed them on to you."|sd
 A|Okay.|bk
 A|We passed them on to us.|bf
 B|I mean, you know, because it takes a lot of hard work.|sv
-B|It takes writing letters to Congressmen and,  and,  you know, just being very, very politically astute about how to shape and mold the future.|sd
+B|It takes writing letters to Congressmen and,  and, you know, just being very, very politically astute about how to shape and mold the future.|sd
 A|Uh-huh.|b
 B|And, and, uh, you know, um, did we make the right choices?|qh
 B|We do not know,|sv

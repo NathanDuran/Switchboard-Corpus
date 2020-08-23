@@ -1,7 +1,7 @@
 A|Okay,|fo_o_fw_"_by_bc
 A|I guess we're going to discuss food and cooking.|sd
 B|Alright|aa
-A|Do you  enjoy cooking?|qy
+A|Do you enjoy cooking?|qy
 B|Sometimes, not all the time|na
 A|I'm kind of that way, too.|sd
 A|When I have, I, I enjoy cooking when I have time.|sd
@@ -17,10 +17,10 @@ A|Uh-huh.|b
 A|We have four,|sd
 A|so, and two of them are teenage boys,|sd
 A|so|%
-B|Oh,  well I'll be hitting that fairly soon because all of mine are boys,  too.|sd
+B|Oh, well I'll be hitting that fairly soon because all of mine are boys, too.|sd
 B|So,|%
-A|Are  they?|bh
-B|And they get pretty particular sometimes  in  what they want to have.|sd
+A|Are they?|bh
+B|And they get pretty particular sometimes in  what they want to have.|sd
 A|Yeah.|b
 A|Yeah.|b
 A|Yeah,|b
@@ -33,7 +33,7 @@ B|well see, I, my oldest is nine|sd
 B|and he already he already does that|sd
 A|Yeah.|b
 A|Does he?|bh
-B|And I told him he's going to have to get a part-time job by the time he reaches  teenage years  so  he can eat.|sd
+B|And I told him he's going to have to get a part-time job by the time he reaches teenage years  so he can eat.|sd
 A|.|%
 A|Yeah.|b
 A|That's true.|aa
@@ -48,11 +48,11 @@ B|and then uh,|%
 A|Out on the grill?|qy
 B|Uh-huh.|ny
 A|Uh-huh.|b
-B|And he marinates it in his special  stuff  that he does.|sd
+B|And he marinates it in his special stuff  that he does.|sd
 A|Ooh|ba
 B|And it's real good.|sd
 A|Uh-huh.|b
-B|And,  uh,  I do sauteed mushrooms,|sd
+B|And, uh,  I do sauteed mushrooms,|sd
 A|How,|%
 B|so|%
 A|Ooh, yeah.|ba
@@ -76,7 +76,7 @@ A|and it's really, it's really like a soup that, that you serve over rice.|sd
 B|Uh-huh.|b
 A|And, uh, it has oysters and shrimp and crab in it.|sd
 A|And,|%
-B|It's not the one with all the shells and stuff in it,  is it?|qy
+B|It's not the one with all the shells and stuff in it, is it?|qy
 A|No,|nn
 A|no.|nn
 A|That's kind of Louisiana I think  if you do that.|sd
@@ -84,7 +84,7 @@ B|I don't know what that,|sd
 A|Yeah,|%
 B|I don't see how you eat that,|sd
 B|but|%
-A|I  don't either|sd
+A|I don't either|sd
 A|But, uh,|%
 A|no|fo_o_fw_"_by_bc
 A|this is just it is really good|sd
@@ -108,7 +108,7 @@ A|Have you made them?|qy
 B|Yeah.|ny
 B|My husband makes those.|sd
 A|Does he, ooh.|bh
-B|I'm not, I don't  eat enchiladas.|sd
+B|I'm not, I don't eat enchiladas.|sd
 A|Uh-huh.|b
 B|I, I don't like I don't like the|sd
 B|I don't know,|h
@@ -126,7 +126,7 @@ B|I don't know.|h
 B|I, I don't know what it is about the enchiladas.|sd
 B|I just,|%
 B|and I'm the only one including my Mom and Dad and my brother.|sd
-B|I'm the  only one that  doesn't eat it|sd
+B|I'm the only one that  doesn't eat it|sd
 A|Isn't that something?|bh
 A|Yeah.|b
 B|But, my kids love it.|sd
@@ -134,19 +134,19 @@ A|I was going to say, my kids both eat it.|sd
 A|I guess that's one thing that I particularly like, um.|sd
 A|But I think it's good for, you know, for, for company, too,|sd
 A|and I've made it a few times.|sd
-A|Um, and you can make a lot at one time when I needed to make something to, uh, to give somebody. You know, like, you know, to take over to somebody's  house   or something else.|sd
+A|Um, and you can make a lot at one time when I needed to make something to, uh, to give somebody. You know, like, you know, to take over to somebody's house   or something else.|sd
 B|Uh-huh.|b
 B|Yeah|b
 B|Yeah.|b
 B|Yeah,|aa
-B|I've  got a chicken casserole that's like that,  that, that I've,|sd
-A|It, it's  nice when it makes, a lot because you can feed your own family|sd
+B|I've got a chicken casserole that's like that, that, that I've,|sd
+A|It, it's nice when it makes, a lot because you can feed your own family|sd
 A|and then,|%
 B|Yeah,|aa
 B|because I, when I make this chicken casserole I, it, it makes a real big casserole and then another one that I freeze.|sd
 A|Uh-huh.|b
-B|So, or I give it to my Mom and Dad if I know we're  not  going to  eat,|sd
-A|What,   what  does it have in it?|qw
+B|So, or I give it to my Mom and Dad if I know we're not  going to eat,|sd
+A|What,   what does it have in it?|qw
 B|It's|%
 B|you can use chicken or turkey,|sd
 B|because my Mom started making it like right after Thanksgiving and using the leftover turkey.|sd
@@ -162,8 +162,8 @@ B|I do it to taste.|sd
 A|Uh-huh.|b
 A|Sure.|b
 B|And,|%
-A|Sometimes those are the best  ones,|sv
-B|Well  yeah,|aa
+A|Sometimes those are the best ones,|sv
+B|Well yeah,|aa
 B|but it, it's like, it's just chicken,|sd
 B|it, it's, as much as you want, you know torn up and, and rice and cream of chicken soup and some mayonnaise and lemon juice and celery|sd
 A|Uh-huh.|b
@@ -181,7 +181,7 @@ A|Those are good aren't they?|qy^d
 A|Uh-huh.|b
 B|And that's it, you know|sd
 A|Um.|%
-B|And  it, it, it goes|sd
+B|And it, it, it goes|sd
 A|That sounds good.|ba
 B|and it's filling because of the rice.|sd
 A|Right.|b
@@ -190,14 +190,14 @@ A|You cook the rice before you put it in?|qy
 B|Uh-huh.|ny
 A|Yeah.|b
 B|Yeah.|b
-A|I bet the mayonnaise in there makes it really,  kind of gives it a   tang that would be good.|sv
+A|I bet the mayonnaise in there makes it really, kind of gives it a   tang that would be good.|sv
 B|Yeah,|aa
 B|it gives it a, an extra   yeah, little tang.|sd
 A|I guess I would now use the, the new mayonnaise free.|qy^d
 B|Yeah,|ny
-B|that cholesterol  fat free?|qy
+B|that cholesterol fat free?|qy
 A|Yeah.|ny
-A|That's really wonderful that they're coming out with so many  new  things like that because like I told my husband this summer, I love to eat, you know, chicken salad and tuna salad  and stuff  like that|sv
+A|That's really wonderful that they're coming out with so many  new things like that because like I told my husband this summer, I love to eat, you know, chicken salad and tuna salad  and stuff like that|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|and, and, you know, basically it certainly a low calorie, you know, good thing except then you put your mayonnaise in there and spoil the whole thing.|sv
@@ -206,14 +206,14 @@ A|You know and now it's, it's, it's okay|sv
 A|and you can even,|sv
 A|I used to just put a tiny bit in.|sd
 A|Well now, I'm just putting more and more in|sd
-B|I don't like tuna salad unless it's got  lots of mayonnaise in it.|sd
+B|I don't like tuna salad unless it's got lots of mayonnaise in it.|sd
 A|Yeah,|aa
-A|and it's only,  it used to be like a hundred calories per tablespoon|sd
+A|and it's only, it used to be like a hundred calories per tablespoon|sd
 A|and now it's like twelve.|sd
 B|Yeah.|b
 A|Oh!|ba
 B|I know.|fo_o_fw_"_by_bc
-A|I just  think that's the best thing to have happened,|sv
+A|I just think that's the best thing to have happened,|sv
 A|I'm just so excited about that.|sd
 A|Anyway  Yeah.|b
 B|Yeah,|b
@@ -230,22 +230,22 @@ A|Uh-huh.|b
 A|Uh-huh.|b
 B|And, and drink wise they have Kool-Aid, milk or water. Normally.|sd
 A|Yeah.|b
-B|Now when they go to their grandmother's house, which is every weekend. It's a, it's a different  a different story  all around.|sd
+B|Now when they go to their grandmother's house, which is every weekend. It's a, it's a different  a different story all around.|sd
 A|That's when they,  As our family would say, a pig out|bf
 B|Uh-huh.|aa
 A|That's good.|ba
-B|That's exactly  what it is.|sd
+B|That's exactly what it is.|sd
 A|Oh, one of my boys that, that's, twelve, um, is, has high cholesterol.|sd
 B|Oh really?|bh
-A|Have you ever found out  about  your kids.|qy
+A|Have you ever found out  about your kids.|qy
 B|No,|nn
 B|not yet.|nn
 A|Um, and my other one does not.|sd
 B|Huh.|%
-A|So,  oh, year or so ago he found out|sd
+A|So, oh, year or so ago he found out|sd
 A|and he went on a fairly strict diet to try to get it down. And did!|sd
 A|He was able to get it down.|sd
-A|It's, I think it's mostly hereditary because we really have never eaten high  things  in cholesterol.|sd
+A|It's, I think it's mostly hereditary because we really have never eaten high  things in cholesterol.|sd
 B|Yeah.|b
 A|He's never eaten any eggs.|sd
 A|He's never had anything but skim milk|sd
@@ -255,7 +255,7 @@ A|But, um, oh, he just left for the doctor again|sd
 A|and it's, it's kind of back up.|sd
 A|Um, so he needs to be careful again.|sd
 B|Yeah.|b
-A|So we've  really been talking about the foods, you know, for him to,  to be sure to eat|sd
+A|So we've really been talking about the foods, you know, for him to, to be sure to eat|sd
 B|The lower cholesterol foods and stuff|bf
 A|and, uh, so he's eating an apple a day for the last two days|sd
 A|And all that kind of stuff does really help.|sd

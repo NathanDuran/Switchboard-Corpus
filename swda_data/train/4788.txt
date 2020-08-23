@@ -8,7 +8,7 @@ A|But, uh, we'd get up at three in the morning and start on our little, uh, esca
 A|But, uh, that's kind of changed now.|sd
 A|When you have a small child because they don't want to get up at three in the morning|sd
 A|and you don't want them up that early.|sd
-B|Would you then go  hiking.|qy
+B|Would you then go hiking.|qy
 B|I mean would the camping be part of a long hike?|qy
 A|Oh yeah,|ny
 A|yeah.|ny
@@ -22,16 +22,16 @@ A|Very comfortable,|sd
 A|so.|%
 B|Were you up in, in Wisconsin|qy
 B|or would you go into|qrr
-B|where would you camp  ?|qw
-A|Well,  there's, uh, places in Wisconsin.|sd
+B|where would you camp ?|qw
+A|Well, there's, uh, places in Wisconsin.|sd
 A|There's the Apostle Islands, uh which are in Bayfield which is a wonderful place.|sd
 B|Uh-huh.|b
 A|And then there's also, uh, what we found, uh, in the state of, uh, South Dakota, the Black Hills.|sd
 B|Oh, yeah.|b
 B|That's beautiful.|sd
-A|And we just have this,  uh, really good time there.|sd
+A|And we just have this, uh, really good time there.|sd
 A|One thing is they don't have mosquitoes|sd
-A|and, uh,  sorry to say,  and, uh, in Wisconsin we do,|sd
+A|and, uh, sorry to say,  and, uh, in Wisconsin we do,|sd
 A|so, that kind of puts a little bit of a hamper on your, uh, you know,|sd
 A|if, if you're going to go camping, who wants to deal with bugs|qh
 A|and, uh|%
@@ -42,7 +42,7 @@ A|and it's just wonderful not to be bugged all night long with a humming mosquit
 B|Oh, yeah.|b
 B|Well, most of my camping,|sd
 B|I haven't done much since I was a kid|sd
-B|but, uh, we'd, basically, take the tent up in the Sierras and, uh, usually just camp near some stream  or some  lake.|sd
+B|but, uh, we'd, basically, take the tent up in the Sierras and, uh, usually just camp near some stream  or some lake.|sd
 A|Uh-huh.|b
 A|Sure.|b
 B|And, uh, just,|%
@@ -55,16 +55,16 @@ B|and, uh, we just thought it was absolute heaven.|sd
 A|Yeah,|b
 A|yeah.|b
 B|Uh, there was certainly nothing like a, a bathroom, a shower or anything, near by|sd
-B|It was  dig your own hole|sd
+B|It was dig your own hole|sd
 B|and, uh  and I I'm not sure I'd do that  that anymore,|sd
-A|That was really called  roughing it,|^2
+A|That was really called roughing it,|^2
 A|yeah.|%
 A|I,|%
 A|Anymore.|^2
 A|Yeah,|%
 A|see|%
 B|but it's, it, uh, uh,|%
-B|actually some friends of mine and I are planning to camp this summer, uh,  for four days.|sd
+B|actually some friends of mine and I are planning to camp this summer, uh, for four days.|sd
 B|Also  going fishing, uh|sd
 A|Uh-huh.|b
 A|Sure.|b
@@ -72,7 +72,7 @@ A|Uh-huh.|b
 B|and I have a idea it's going to be a, a lot more equipment and a lot more stuff than  before.|sd
 A|Than you,|^2
 A|sure.|b
-A|Than it,  when you were younger,|^2
+A|Than it, when you were younger,|^2
 A|uh-huh.|b
 B|Yeah.|aa
 B|But,|%

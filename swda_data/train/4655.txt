@@ -42,14 +42,14 @@ A|Uh-huh.|b
 B|and my parents went to visit her|sd
 B|and it got to the point where the it seemed like the nursing home didn't want to deal her anymore|sd
 A|Sure.|b
-B|and so they gave her drugs to keep her  asleep.|sd
+B|and so they gave her drugs to keep her asleep.|sd
 A|Yeah.|aa
 A|I, I think that's, that can happen|aa
 A|and I think in the nursing home that I worked for,|sd
 A|I wasn't quite sure of it,|sd
 A|but I'm sure that some of the patients were, uh, given medication to keep them in, uh, quiet|sd
-A|and,  and,|%
-B|Nice  sedative state.|sv
+A|and, and,|%
+B|Nice sedative state.|sv
 A|Yeah,|aa
 A|yeah.|aa
 A|And they would just lay all day long|sd
@@ -77,7 +77,7 @@ A|So  I think there's laws now that kind of protect. That nursing homes either h
 B|Yeah.|b
 A|even though they're aging mentally ill, they are still mentally ill|sv
 A|and a lot of these older people have their, you know, they're not insane or anything like that.|sv
-A|They don't have these tendencies to,  to lash out.|sv
+A|They don't have these tendencies to, to lash out.|sv
 B|To be violent.|sv
 A|But seeing that kind of made me think twice about,|sd
 A|jeez,|ba
@@ -87,7 +87,7 @@ A|A small town.|sd
 B|Oh, really?|bh
 A|Yeah,|ny
 A|yeah.|ny
-B|Because  it seems like the small town nursing homes,  there's a  lot more personal attention.|sv
+B|Because it seems like the small town nursing homes, there's a  lot more personal attention.|sv
 A|I don't know.|aap_am
 A|I don't know.|aap_am
 A|I, I kind of look at it this way.|sd

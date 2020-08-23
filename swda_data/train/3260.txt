@@ -92,7 +92,7 @@ A|Yeah. Yeah.|aa
 B|Yeah.|b
 B|No,|%
 B|we've never had anything like that.|sd
-A|So that gives us special time together  too.|sd
+A|So that gives us special time together too.|sd
 B|Yeah.|b
 A|And she's on the yearbook staff and things like that|sd
 A|so I can help her with that|sd

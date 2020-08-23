@@ -92,7 +92,7 @@ B|Yeah,|aa
 B|it is,|sv
 B|yeah.|%
 B|Uh, we're having,|sd
-B|actually, if we find something for, uh, I'd say less than a hundred and twenty thousand, we'll be doing all right,  you know.|sv
+B|actually, if we find something for, uh, I'd say less than a hundred and twenty thousand, we'll be doing all right, you know.|sv
 A|Right.|b
 B|That's, uh,|%
 B|but I think the thing's out there,|sv
@@ -140,7 +140,7 @@ A|How, how was the, uh,|qw
 A|you say you lived in the Denver area before?|qy^d
 B|Right.|na
 A|How did that compare with this area as far as housing prices?|qw
-B|Uh, we were, uh, really surprised to find that they're higher here.  Uh,|sd
+B|Uh, we were, uh, really surprised to find that they're higher here. Uh,|sd
 A|No kidding.|ba
 B|When we moved from Louisiana to Denver, it was astounding, you know, to find that prices were, oh, I guess almost two or three times as high as we'd expected.|sd
 B|And then, uh, to come down here, we thought things would be lower,|sd

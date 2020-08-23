@@ -58,7 +58,7 @@ A|Yeah,|b
 A|yeah.|b
 A|And then they have bad drawbacks, too.  I mean high interest,|sv
 B|Yeah.|aa
-B|It's,  it's awfully easy.|sv
+B|It's, it's awfully easy.|sv
 A|it's like paying twice.|sd
 B|That's true,|ba
 B|that's true,|ba

@@ -226,7 +226,7 @@ A|We have to allow extra room for those, because, you know, I mean extra space, 
 B|Yeah|b
 B|because they take up a lot.|sd
 A|Yes,|%
-A|but  I mean, we usually get, I mean, just pulling them as fast as you can.|sd
+A|but I mean, we usually get, I mean, just pulling them as fast as you can.|sd
 B|Holy smoke.|ba
 A|We usually give them to everybody.|sd
 B|Uh-huh.|b

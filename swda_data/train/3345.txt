@@ -117,8 +117,8 @@ B|Uh-huh.|b
 A|I really don't.|sd
 B|Yeah,|b
 B|well, you know, I think it probably could be, it always could be better,|ar
-B|but I,  would agree that  it's pretty good.|aa
-A|I  don't think so.|ar
+B|but I,  would agree that it's pretty good.|aa
+A|I don't think so.|ar
 A|I don't think our news could be better.|sv
 B|Yeah.|b
 A|I, I mean, I mean, what else could they do to make it better.|qh

@@ -42,16 +42,16 @@ A|I keep, you know, um, you know, there's like three movies that I, I keep telli
 A|Because I've never seen CITIZEN KANE,|sd
 B|Yeah,|b
 B|that was good.|sv
-A|and never seen, I've  never seen CASABLANCA and never seen GONE WITH THE WIND.|sd
+A|and never seen, I've never seen CASABLANCA and never seen GONE WITH THE WIND.|sd
 B|I think I've seen most of Humphrey Bogart's movies, but, in, in, you know a long time ago,|sd
 A|Uh-huh.|b
-B|and,  uh, like the MALTESE FALCON and all those, uh, uh,|sd
+B|and, uh, like the MALTESE FALCON and all those, uh, uh,|sd
 A|Oh, I, I|%
 A|we saw part of THE AFRICAN QUEEN on, on T V a couple of years ago,|sd
 B|Yeah,|b
 B|that was good,|sv
 B|yeah.|b
-A|and I've, I've I've  been wanting to see all of it|sd
+A|and I've, I've I've been wanting to see all of it|sd
 A|but we just, you know, we walk into the video store|sd
 A|and we're like well why don't we go see this now|sd
 A|so.|%
@@ -63,7 +63,7 @@ A|one of the movies we saw recently, we saw, uh, MISERY.|sd
 B|Oh, I didn't see that one.|sd
 A|That was good, um,|sv
 B|Really.|b
-A|oh,  it was great.|sv
+A|oh, it was great.|sv
 A|And it,|%
 A|you think, you know, for a Stephen, you know, it because it was by Stephen King it would be really gory|sv
 A|but there's only one,|sd
@@ -79,7 +79,7 @@ B|Okay,|bk
 B|yeah.|b
 A|he's a writer|sd
 A|and, um, she's his biggest fan|sd
-A|and she's also  a little,  a little on the nutso side.|sd
+A|and she's also  a little, a little on the nutso side.|sd
 B|Yeah,|b
 B|right.|b
 B|Uh-huh.|b
@@ -130,7 +130,7 @@ A|I like the director a lot, um, a guy named Tim Burton.|sd
 B|Uh-huh.|b
 A|Did you ever see the movie BEETLEJUICE?|qy
 B|Uh, part of it,|na
-B|I,  I never  really watched the whole thing.|sd
+B|I,  I never really watched the whole thing.|sd
 A|Oh,|bk
 A|Oh,|bk
 A|yeah,|b
@@ -145,7 +145,7 @@ A|but he's,|%
 A|I think he's very interesting|sd
 A|and, uh, I liked those two movies of his a lot.|sd
 B|Uh-huh.|b
-A|He  did BATMAN also, which, you know|sd
+A|He did BATMAN also, which, you know|sd
 B|Yeah,|b
 B|that was pretty good, though, really.|sv
 A|It was good,|aa
@@ -154,13 +154,13 @@ B|When you think of what it takes to make some of those kind of movies, you know
 A|Yeah.|aa
 B|You see it for, uh, you know a couple of hours or an hour|sd
 B|and it really,|%
-B|there's a lot in it when you look at the scenery and the cars,  and all the  different stuff like that, you know.|sd
+B|there's a lot in it when you look at the scenery and the cars,  and all the different stuff like that, you know.|sd
 A|Oh, yeah, oh.|aa
 A|Yeah.|b
 B|Whose your favorite actress or actor?|qw
 A|Um, don't really know,|sd
 A|I like Costner a lot|sd
-A|but, uh,  I'm  a big, I'm a big baseball fan|sd
+A|but, uh,  I'm a big, I'm a big baseball fan|sd
 B|Uh-huh.|b
 A|so, you know, after BULL DURHAM and FIELD OF DREAMS, you know,|sd
 B|Yeah.|b
@@ -177,7 +177,7 @@ A|NO WAY OUT was really good|sd
 A|and,|%
 B|Oh, yeah,|aa
 B|yeah.|b
-A|did you ever  see SILVERADO?|qy
+A|did you ever see SILVERADO?|qy
 B|SILVERADO,|b^m
 B|uh, who, who was that with?|qw
 A|Um, let's see.|^h
@@ -193,10 +193,10 @@ A|Uh, it was,|%
 A|and I think it was like a three hour movie or two and a half hours,|sd
 A|and, and it was one of those ones that could have been four hours if they hadn't cut a lot out.|sd
 B|Oh, really.|b
-A|Um, but  it was, it was really good Um,|sv
+A|Um, but it was, it was really good Um,|sv
 B|I, I might have seen part of that because the name sounds familiar although I I would remember, I think in, with him in it.|sd
 A|Uh-huh.|b
-B|How  about REVENGE,|qo
+B|How about REVENGE,|qo
 B|did you see that with him?|qy
 A|No,|nn
 A|I didn't,|sd
@@ -227,14 +227,14 @@ A|Yeah,|b
 A|it was on, um,|%
 B|Cable?|qy^d
 A|no,|nn
-A|it was on one of the networks, I think last weekend.  Uh, or two weeks  ago.|sd
+A|it was on one of the networks, I think last weekend.  Uh, or two weeks ago.|sd
 B|Okay,|bk
-B|I know I saw,  yeah, something about it.|sd
+B|I know I saw, yeah, something about it.|sd
 A|Yeah,|b
 A|I, um, I wish, I, I mean I'd seen it when, when, you know, it was originally in the theaters|sd
 A|and, um, I saw it, you know, I saw part of it again.|sd
 B|Uh-huh.|b
-A|I  mean I like, you know, I like Costner,|sd
+A|I mean I like, you know, I like Costner,|sd
 A|I like Sean Connery,|sd
 A|and, uh, there's this one, there's this one actor,|sd
 A|it's really silly that I enjoy him a lot|sd
@@ -264,7 +264,7 @@ A|He was in the UNTOUCHABLES.|sd
 A|He was the accountant|sd
 B|Oh, oh I know who you mean.|sd
 A|Yeah.|b
-B|He  was in, uh, uh, HONEY DON'T SHRINK THE KIDS, wasn't he?|qy
+B|He was in, uh, uh, HONEY DON'T SHRINK THE KIDS, wasn't he?|qy
 A|No,|nn
 A|no,|nn
 A|you're thinking of Rick Moranis.|sv
@@ -294,14 +294,14 @@ B|Um, and,|%
 A|Um, we want to see GODFATHER PART THREE also|sd
 A|but my, my girlfriend's seen part one and part two although she saw them years ago,|sd
 B|Uh-huh.|b
-A|but  I've never seen either of the first, you know, of the, of the GODFATHER movies|sd
+A|but I've never seen either of the first, you know, of the, of the GODFATHER movies|sd
 A|so, we're probably going to like rent those some time and then try to see GODFATHER PART THREE somewhere.|sd
 B|I was just going to say, you should see those, uh, first if you can.|sv
 A|Yeah.|b
 B|If if you read the book it's, uh, even better.|sv
 B|The book was excellent.|sv
 A|Oh, okay,|b
-A|I haven't,  never  read it.|sd
+A|I haven't,  never read it.|sd
 B|Yeah.|b
 B|and, uh, I was a little disappointed in the third|sd
 B|it's GODFATHER THREE.|sd
@@ -315,7 +315,7 @@ A|And Brando like does a parody of the character he played in THE GODFATHER.|sd
 B|Oh, really.|b
 A|Um, yeah,|ny
 A|it's, it's one of the reasons why, you know THE GODFATHER's been on our minds lately.|sd
-A|Um, but, uh,  there's  a bunch of scenes from, uh, uh, from THE GODFATHER that's used because Matthew Broderick's going to film school.|sd
+A|Um, but, uh,  there's a bunch of scenes from, uh, uh, from THE GODFATHER that's used because Matthew Broderick's going to film school.|sd
 A|And, uh, in his classes they're using, there's a they're running a bunch of scenes from THE GODFATHER|sd
 A|and then he's running into Marlon Brando who is playing, you know, this you know this, uh, organized crime head.|sd
 B|Uh-huh.|b
@@ -340,9 +340,9 @@ B|You know, a lot of times I'll I'll start watching a movie|sd
 B|and I'm tired|%
 B|and it,|%
 A|Uh-huh.|b
-B|next  thing you know, it's, it's|%
+B|next thing you know, it's, it's|%
 B|especially if there's commercial in it|sd
-B|and then  the titles might sound familiar|sd
+B|and then the titles might sound familiar|sd
 B|but I really don't know what they're all about.|sd
 A|of the three of those, DINER's probably the best.|sv
 A|I mean, they're, they're all pretty good,|sv

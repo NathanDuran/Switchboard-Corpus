@@ -67,7 +67,7 @@ A|The economy itself around here is not too terribly bad,|sd
 A|but housing is still real bad|sd
 B|Uh-huh|b
 A|Yeah.|b
-B|Well,  Pensacola has|sd
+B|Well, Pensacola has|sd
 B|it's really is a buyer's market there now|sd
 A|Yeah.|b
 A|This is,|%
@@ -151,7 +151,7 @@ A|and to have it built they only paid forty thousand for it,|sd
 A|and when they left the area they sold it for a hundred and twenty thousand|sd
 B|Oh, that's not unusual, yeah.|ba
 A|Yeah,|b
-A|so I just wondered, you know, if the whole area was like that  or,|qy^d
+A|so I just wondered, you know, if the whole area was like that or,|qy^d
 B|Well, that's, that area over there is not as expensive as in the, the immediate, you know, Washington area.|arp_nd
 A|Uh-huh.|b
 B|And so, we, uh, I was just looking,|sd

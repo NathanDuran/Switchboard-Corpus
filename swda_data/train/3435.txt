@@ -7,7 +7,7 @@ A|Oh, I'm a,|sd
 A|I play golf|sd
 A|but I don't actually play golf.|sd
 B|Well, I'm the same way.|sd
-B|I,  I go out there  and hit the ball.|sd
+B|I,  I go out there and hit the ball.|sd
 A|Yeah.|b
 A|Hack it all over the place?|bf
 B|Yeah.|aa
@@ -28,7 +28,7 @@ A|Yeah.|b
 B|but, um, I like watching it on T V.|sd
 A|Yeah,|b
 A|I like that too.|sd
-A|I  don't know|h
+A|I don't know|h
 A|I try to play,|sd
 A|but God, I, a couple years ago I played two, three times a week and got lousy.|sd
 A|I guess that's the best I ever got was lousy.|sv
@@ -72,22 +72,22 @@ B|See how it's going to break or whatever.|sd
 A|Can you really see it though?|qy
 B|Yeah.|ny
 A|What about the speed?|qw
-B|If you get,  if you get down on the ground you really can.|sv
+B|If you get, if you get down on the ground you really can.|sv
 A|Can you tell but can you tell how, how fast you're going to hit it?|qy
 B|Um, well, if you know if it's up on a slope that you've got to hit it not kill it|sd
 B|but you've got to hit enough speed and the right angle that it's, it's, you know,|sd
-B|because when it's going up a hill it's going to break  in a direction.|sd
+B|because when it's going up a hill it's going to break in a direction.|sd
 A|Yeah,|b
-A|but  you can feel that?|qy
+A|but you can feel that?|qy
 B|Yeah.|ny
 A|I don't know|h
 A|I have, I can get it within like, you know, four or five feet or something|sd
 A|but I don't have enough field.|sd
 A|Now I'm T V watching.|sd
 B|Yeah.|b
-A|They  make you die at the hole every time.|sd
+A|They make you die at the hole every time.|sd
 B|Yeah.|b
-A|Oh, it  just dies and rolls in.|sd
+A|Oh, it just dies and rolls in.|sd
 A|I don't know,|h
 B|But I,|%
 A|it's hard for me.|sd
@@ -113,7 +113,7 @@ B|Well, it, it, it usually takes me about probably two, two or three to get it t
 B|and, and then, that's according to the hole|sd
 B|and it|%
 B|uh, uh, maybe one or two putts.|sd
-B|It's,  according to  where I'm at on the green.|sd
+B|It's,  according to where I'm at on the green.|sd
 A|Yeah.|b
 A|That's good.|ba
 B|But the friends I play with, uh, they play all the time|sd

@@ -3,8 +3,7 @@ A|Well, I don't know.|h
 A|I've, I've had mixed emotions, I guess, when I listen to, uh, the radio and, and watch T V about the different, uh, things that are happening.|sd
 A|Uh, I'm against it|sd
 A|but on the same token, uh, I went out and purchased a gun just because I wanted the right to do that|sd
-B||%
-A|So  I, I have a rifle in the house.|sd
+A|So I, I have a rifle in the house.|sd
 A|Uh, the ammunition is probably so old I'm afraid to use it.|sd
 A|But, uh, I bought it for target practicing and, uh, and also because I wanted a weapon.|sd
 A|Uh, how do you feel about it?|qo
@@ -16,7 +15,7 @@ B|It's a little twenty-two|sd
 B|and I have a twenty-two or a twelve gauge shotgun.|sd
 A|Uh-huh.|b
 B|you know, I do like to have my guns.|sd
-B|Uh, I  don't know if I'll ever use it, you know.|sd
+B|Uh, I don't know if I'll ever use it, you know.|sd
 B|And like you, my bullets to my little pistol's probably, uh, about three years old|sd
 B|Uh, my gun hasn't been shot in a year or two.|sd
 A|Uh-huh.|b
@@ -30,18 +29,18 @@ B|I've never heard of anything like that.|sd
 A|Yeah. Uh,|b
 B|That would be nice.|sv
 B|But,  you know,|%
-B|the criminals that are going to get their guns  one  way or the other.|sv
+B|the criminals that are going to get their guns one  way or the other.|sv
 A|I  I, I agree.|aa
 A|I think, you know, one of the things that, that, that needs to happen is, uh, to, to stop the impulse buyer from, uh, buying it quickly and, and, uh, maybe putting a week's waiting period or something on it.|sv
 A|But if someone's really determined to, to pick up a firearm you can pick it up any place.|sv
 B|Yeah|b
-A|And  you can get them really cheap.|sv
+A|And you can get them really cheap.|sv
 B|I know|aa
 B|I, I had a waiting period on my pistol because I was down in, uh, Tennessee. And, uh, they had a waiting period|sd
 A|Uh-huh.|b
 B|and, uh, we bought it there.|sd
 B|And,|%
-A|How  long was the waiting period out there?|qw
+A|How long was the waiting period out there?|qw
 B|About nine days.|sd
 A|Huh.|%
 A|That wasn't too, too bad.|sv
@@ -54,8 +53,8 @@ B|somebody wants to do that,|sv
 B|I, I, at times I think they ought to have a waiting period on all firearms.|sv
 A|Yeah.|aa
 A|I do too. Uh, because it doesn't make any difference, uh, uh, whether it's a pistol or a shotgun, I suppose.|sv
-A|They both  do the same kind of job.|sd
-B|A shotgun hurts worse  than a pistol does.|sv
+A|They both do the same kind of job.|sd
+B|A shotgun hurts worse than a pistol does.|sv
 A|Uh, yeah.|aap_am
 A|I suppose.|aap_am
 A|I never got shot with either one.|sd
@@ -90,7 +89,7 @@ B|He belonged to one awhile back.|sd
 B|Uh, since we moved,|sd
 B|we've only been here in Texas for about a year|sd
 A|Uh-huh.|b
-B|and, uh, we can't even find a place to shoot.  Just for  target practice.|sd
+B|and, uh, we can't even find a place to shoot. Just for  target practice.|sd
 A|No kidding.|ba
 B|I'd love to get used to that shotgun.|sd
 B|We traded his pistol for that shotgun.|sd
@@ -113,7 +112,7 @@ A|I think that, that the gun clubs serve a useful purpose.|sv
 A|In fact, I'd like to see somehow they tie the legislation into not only when you buy a weapon you have to, uh, show that you've gone to school or gone to some class to know how to handle that weapon.|sv
 B|That's a good,|ba
 B|I've never thought of that.|sd
-B|That's  a good point.|ba
+B|That's a good point.|ba
 A|And, you know, it, it,|%
 A|even after you wait your nine days, if you don't know how to handle it, it's just like putting someone in an automobile that doesn't know how to drive.|sv
 A|And you give him a license because he waited nine days.|sd
@@ -130,11 +129,11 @@ A|Wow.|ba
 A|He was fortunate.|sv
 A|He could, he could of hit something else|sd
 B|Well, he went tumbling down the steps along with, uh, shooting his foot almost off.|sd
-B|He broke his leg and collar bone and a couple of other things  I'm sure, being,  Mister Cowboy.|sd
+B|He broke his leg and collar bone and a couple of other things I'm sure, being,  Mister Cowboy.|sd
 A|Wow.|ba
 B|I can't remember what the the term was going around.|sd
 B|It was about four or five years ago.|sd
-B|But.  Now, I guess that would be a good idea|sv
+B|But. Now, I guess that would be a good idea|sv
 A|About, uh, private citizens selling a weapons?|bf
 A|Like if you wanted to sell your pistol to me.|sd
 A|How do you feel about that?|qo
@@ -150,7 +149,7 @@ B|Uh,|%
 B|I have no idea.|no
 B|I've only  had one gun|sd
 A|Because I   have,|%
-B|and I've kept it,  you  know, the one gun that was in my name.|sd
+B|and I've kept it, you  know, the one gun that was in my name.|sd
 A|Yeah.|b
 A|Is it registered?|qy
 B|Yeah.|ny
@@ -191,7 +190,7 @@ B|Yeah.|aa
 B|They, they probably know everything from, half the time what time you go to the bathroom.|sv
 A|They probably do.|aa
 B|No,|ar
-B|that's  that's a little bit extreme.|sv
+B|that's that's a little bit extreme.|sv
 B|But they could know anything and everything about you.|sv
 B|And, uh, I'd like to have my gun.|sd
 B|If they go to banding, banning them, I'd lose my gun|sd

@@ -100,10 +100,10 @@ B|Yeah,|aa
 B|that's true .|aa
 A|my husband likes Pepsi|sd
 A|and those cans are steel instead of aluminum,|sd
-A|so we can't,  can't ever recycle them.|sd
+A|so we can't, can't ever recycle them.|sd
 A|I think it's a good reason to quit buying it.|sv
 B|Um, now I didn't know that,|sd
-B|cause we just usually if we're going to,  uh, buy sodas they're in the, the two liter bottles.|sd
+B|cause we just usually if we're going to, uh, buy sodas they're in the, the two liter bottles.|sd
 A|Yeah,|b
 A|that's what we buy the most of, unless we're going on a trip or something where we want to, put the cans in a cooler|sd
 B|Yeah.|b

@@ -21,11 +21,11 @@ A|and we have a doctor at this hospital that has a beautiful new red Ferrari.|sd
 B|A, a three twenty-eight G T S?|qy
 A|And I couldn't tell you|no
 A|but it's just beautiful.|sv
-A|And I go out and I love to  touch it|sd
+A|And I go out and I love to touch it|sd
 A|but I can't even do that because of the alarm.|sd
 B|You just go hunting?|qh
-A|So, I just look  at it a lot|sd
-B|Go out and  lust after it.|bf
+A|So, I just look at it a lot|sd
+B|Go out and lust after it.|bf
 A|Really|aa
 A|Exactly.|aa
 A|But it sure is a pretty thing|sv
@@ -48,7 +48,7 @@ A|and I was able to open that up pretty good|sd
 A|and that was really fun.|sv
 A|And I wanted it,|sd
 A|but I had a choice of that or my house|sd
-A|and  I thought that I'd continue,  to live in my house|sd
+A|and I thought that I'd continue,  to live in my house|sd
 A|so.|%
 B|Yeah,|b
 B|there, there's something about having a place to live,|sv
@@ -64,7 +64,7 @@ B|I find that, uh, that the Corvettes are, are becoming really, really nice cars
 A|They are, they're pretty aren't they lately|qy
 B|Yeah.|ny
 B|And  they, they've improved, the performance and the suspension such that they're actually a lot of fun to drive.|sv
-A|They really  are.|sv
+A|They really are.|sv
 A|Really.|b
 B|It's not like driving a, a Winnebago or something.|sv
 A|Oh, no|aa
@@ -116,15 +116,15 @@ A|and so, I figured there was nowhere I was to late to go that I didn't have twe
 B|Right.|b
 A|So.|%
 B|And, and you couldn't get,|%
-B|how long does it take to go back up? About the  same time.|qw
+B|how long does it take to go back up? About the same time.|qw
 A|Twenty seconds,|sd
 A|yeah.|ny
 A|That's all it takes.|sd
-A|I mean, it's just a button, that's  it.|sd
+A|I mean, it's just a button, that's it.|sd
 A|You  release it right at the top,|sd
 B|Yeah,|b
 B|so|%
-A|so  you don't have to  get out or anything.|sd
+A|so you don't have to  get out or anything.|sd
 B|So you won't get,|bf
 B|Yeah|b
 B|and twenty seconds you probably won't get caught in anything too substantial.|sv
@@ -136,7 +136,7 @@ A|So I really did.|sd
 A|I mean I was soaking wet.|sd
 A|I thought I would drown in the seconds that it took me to pull over|sd
 B|Whoops.|ba
-A|But it all dried out, you know.  Didn't  take long when the sun came out|sd
+A|But it all dried out, you know. Didn't  take long when the sun came out|sd
 B|Yeah.|b
 A|but it was kind of funny.|sv
 A|I'm sure people around me really enjoyed it|sv
@@ -145,12 +145,12 @@ B|Oh. No I was just down in Austin last week|sd
 B|and the weather was pretty nice too.|sd
 B|So,|%
 A|Oh|b
-A|and wasn't it pretty last week with the  Bluebonnets and everything,|qy
+A|and wasn't it pretty last week with the Bluebonnets and everything,|qy
 A|yeah,|ny
 A|yeah.|ny
 B|With the Bluebonnets out,|^2
 B|yeah.|aa
-B|It  really was.|sv
+B|It really was.|sv
 B|Yeah|%
 B|I decided that Austin is certainly someplace that I could handle living.|sd
 A|is Yeah.|b

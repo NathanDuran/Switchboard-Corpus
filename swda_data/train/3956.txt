@@ -4,7 +4,7 @@ A|I know I had a job until, let's see, a year ago this past December.|sd
 A|I was working for P I E|sd
 A|and they closed,|sd
 A|and naturally while I was working for them I had health insurance,|sd
-A|but, um, for me to try to get it now, it would cost me like over three hundred dollars a month with the same company that was providing health insurance at,  at P I E.|sd
+A|but, um, for me to try to get it now, it would cost me like over three hundred dollars a month with the same company that was providing health insurance at, at P I E.|sd
 B|Good grief.|ba
 B|That's just almost unaffordable, isn't it?|qy
 A|Right,|na
@@ -17,15 +17,15 @@ B|I don't know.|h
 A|Well, the thing is, you know, jobs are so hard to find you know,|sv
 B|Uh-huh.|b
 A|anyhow in the valley where I live at now, they don't want to pay anything for health insurance at all.|sd
-A|No benefits, you know.  Um.|sd
-B|You mean  the, uh, the employers?|br
+A|No benefits, you know. Um.|sd
+B|You mean the, uh, the employers?|br
 A|Yes.|aa
 B|Uh-huh.|b
 A|I mean, you get a job now, and the wages are really low|sd
 A|and, uh.|%
-B|Because everybody's  competing for jobs.|^2
+B|Because everybody's competing for jobs.|^2
 A|Yeah,|aa
-A|and they don't  want, uh,  to pay any benefits,|sv
+A|and they don't want, uh,  to pay any benefits,|sv
 A|so you just, you know, pray to God that you don't get sick.|sv
 B|Well, I used to think that universal health insurance was probably the right thing to do.|sv
 B|I, I have to think about it some more now, because my doctor is, uh, actually he's Canadian|sd
@@ -36,8 +36,8 @@ B|I don't understand the arguments, exactly.|sd
 B|He says it restricts your choice of doctors, and, and so forth.|sd
 B|I'm not quite sure I understand why government health insurance would restrict your choice any more than private insurance does.|sd
 A|No,|aa
-A|I don't  understand  that either.|sd
-B|I mean  we're on a private insurance plan right now,  uh|sd
+A|I don't understand  that either.|sd
+B|I mean  we're on a private insurance plan right now, uh|sd
 A|Uh-huh.|b
 B|actually I have my own business,|sd
 B|and and we,|%

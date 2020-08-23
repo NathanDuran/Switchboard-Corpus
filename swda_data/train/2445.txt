@@ -70,7 +70,7 @@ A|we have a seven year old,|sd
 A|it's pretty funny,|sd
 A|like stay out.|%
 B|Yeah,|b
-B|we, we have,  we have a dog|sd
+B|we, we have, we have a dog|sd
 B|and that's just about as bad as a kid|sv
 A|Yeah,|b
 A|boy, he doesn't go in and out of the tent a hundred times . And use it as a play, uh,|sd

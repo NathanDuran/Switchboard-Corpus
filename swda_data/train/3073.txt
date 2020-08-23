@@ -16,9 +16,9 @@ B|I tape THIRTY SOMETHING, and L A LAW.|sd
 A|Oh.|b
 B|Those are the two I like the best.|sd
 A|Oh, two they're going to change.|sd
-A|Well, one  they're taking,   off.|sd
+A|Well, one they're taking,   off.|sd
 B|I know.|sd
-B|It's going   to be history, I know.|sd
+B|It's going to be history, I know.|sd
 A|I don't know what's going to|sd
 A|yeah,|%
 A|we like L A LAW.|sd

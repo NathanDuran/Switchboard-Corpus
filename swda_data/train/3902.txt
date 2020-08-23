@@ -61,7 +61,7 @@ A|I want to see the nursing home. If I have to put him into one.|sd
 A|You know, where I can go see it.|sd
 A|I, I'd be very uncomfortable with him being in Colorado.|sd
 A|And,|%
-B|Oh, why  yeah.|b
+B|Oh, why yeah.|b
 B|I am sure you have got some really good nursing homes around Dallas.|sv
 A|Yes.|aa
 A|And some of them are limited care too where people can do, uh,|sd
@@ -101,8 +101,8 @@ B|Uh-huh.|b
 B|I think that's what most people do.|sv
 B|You just have to give it, everything away.|sv
 A|Yeah.|aa
-A|It's  unfortunate.|sv
-B|I, I  work at a brokerage firm|sd
+A|It's unfortunate.|sv
+B|I, I work at a brokerage firm|sd
 B|and I have seen so many people that just have to gift, you know, their belongings as much as they can each year in anticipation of having to move to a nursing home.|sd
 A|Right.|b
 A|Yeah.|b

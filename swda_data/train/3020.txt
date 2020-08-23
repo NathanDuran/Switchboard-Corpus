@@ -121,7 +121,7 @@ B|Well you lived in France,|qy^d
 A|Yes.|ny
 B|so you've been all through Europe.|qy^d
 A|No|nn
-A|actually I haven't been  all through Europe,  like I haven't been to Italy yet.|sd
+A|actually I haven't been all through Europe,  like I haven't been to Italy yet.|sd
 B|No.|b
 B|Really.|b
 A|Uh, we're going to go for a conference in September|sd
@@ -131,7 +131,7 @@ A|Uh, my more exciting spots have been,|sd
 A|I've been to the Galapagos Islands.|sd
 B|Really?|bh
 A|Uh-huh,|ny
-A|that was one of the most  wonderful vacations I've ever had.|sd
+A|that was one of the most wonderful vacations I've ever had.|sd
 B|Lots of wildlife huh?|qy
 B|Yeah.|%
 A|Yes.|ny
@@ -146,11 +146,11 @@ B|Uh-huh.|b
 A|And then, actually, after there I went to um, Hawaii,|sd
 A|a lot of my travel has been sort of based around conferences or business meetings|sd
 B|Uh-huh.|b
-A|and so, I went to Hawaii and then to Australia and  Japan and China,|sd
+A|and so, I went to Hawaii and then to Australia and Japan and China,|sd
 B|Uh-huh.|b
 B|Did you go on the Barrier|qy
-B|did you see the Great Barrier Reef and,  and go snorkeling?|qy
-A|I, I,  actually I didn't go diving.|ng
+B|did you see the Great Barrier Reef and, and go snorkeling?|qy
+A|I, I, actually I didn't go diving.|ng
 B|Uh-huh.|b
 A|I, I'm a diver|sd
 A|and so, that's, that's actually been another of my favorite vacations has been taking little diving trips|sd
@@ -223,8 +223,8 @@ A|Uh-huh.|ny
 B|Wow!|ba
 B|That really surprises me.|sd
 A|Around a thousand.|sd
-B|I guess I relate it to, to Japan where things are very expensive,  aren't they?|qy
-A|Oh, Japan's  ridiculous.|na
+B|I guess I relate it to, to Japan where things are very expensive, aren't they?|qy
+A|Oh, Japan's ridiculous.|na
 B|Yeah.|b
 B|Yeah.|b
 A|And I stayed, I didn't stay in the top of the line hotels|sd

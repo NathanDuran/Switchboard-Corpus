@@ -4,7 +4,7 @@ B|Uh, that might be a lot to do with it.|aa
 B|I know a lot of it here in my state,|sd
 B|I'm from Mississippi,|sd
 B|I'm not sure where you're from.|qw^d
-A|Minnesota,  Wisconsin.|sd
+A|Minnesota, Wisconsin.|sd
 B|Minnesota,|bk
 B|okay.|bk
 B|Well a lot of it in Mississippi here has got to do with funding.|sd
@@ -21,7 +21,7 @@ A|They've got computers now that you got to train on.|sd
 A|There's just  so much, uh, more and less money to do it with.|sv
 B|Right.|b
 B|That's true.|aa
-B|And a lot of it, lot of it has to do with, uh, salaries too,  speaking  of money.|sv
+B|And a lot of it, lot of it has to do with, uh, salaries too, speaking  of money.|sv
 A|Right.|b
 A|Yeah.|b
 B|Cause if you can't pay the right people, you know, they're not to be able to do, they're not, not going to get the people that can do a good job.|sv

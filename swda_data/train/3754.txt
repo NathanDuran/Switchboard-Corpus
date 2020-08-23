@@ -65,7 +65,7 @@ A|How long ago?|qw
 B|Oh, uh, eighty-six.|sd
 A|Huh.|b
 A|Okay.|b
-B|My sister  lives out there|sd
+B|My sister lives out there|sd
 B|My sister lives in Piedmont.|sd
 A|Oh, yeah.|b
 B|Yes.|b
@@ -87,7 +87,7 @@ B|and she|%
 A|Uh-huh.|b
 B|lets see I went when she was, uh, was living,|^h
 B|well when I went out there she was in, uh, now I can't, oh, Lafayette.|sd
-B|She was living in  Lafayette.|sd
+B|She was living in Lafayette.|sd
 A|Oh yeah,|b
 A|right.|b
 B|And then they moved to Piedmont.|sd
@@ -120,8 +120,8 @@ A|Uh-huh.|b
 B|My girlfriend was down there a few months ago.|sd
 B|First time she has been down there|sd
 B|and they wanted to take that drive|sd
-B|and they had closed the whole road because of, uh, uh,  fog,|sd
-A|Oh, the  weather.|^2
+B|and they had closed the whole road because of, uh, uh, fog,|sd
+A|Oh, the weather.|^2
 B|Yeah.|b
 B|So they never got to do that.|sd
 A|Huh.|b

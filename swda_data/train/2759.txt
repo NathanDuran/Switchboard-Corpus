@@ -1,10 +1,10 @@
 A|All right.|fo_o_fw_"_by_bc
 B|Have you ever been drug tested?|qy
 A|Um, that's a good question.|arp_nd
-A|Um,  I  had a job I had to go get a blood test for.|sd
+A|Um,  I had a job I had to go get a blood test for.|sd
 B|Uh-huh.|b
 A|Um,|%
-A|and,  and they did a full blood screen on me,|sd
+A|and, and they did a full blood screen on me,|sd
 A|but they didn't call that a drug test.|sd
 A|So|%
 A|I think they checked for drugs.|sd
@@ -19,7 +19,7 @@ B|I guess if I did, maybe I would|sd
 B|but, um, I don't know.|h
 B|I know a girl that, she's a nurse,|sd
 B|and they get drug tested randomly.|sd
-B|I've,  never  been randomly drug tested.|sd
+B|I've,  never been randomly drug tested.|sd
 A|Uh-huh.|b
 B|But that would probably bother me to wake up one day and find out halfway through the day that you're going to be drug tested and you didn't know about it.|sd
 A|Yeah|b
@@ -31,7 +31,7 @@ B|Do you think that it's right?|qy
 A|Well, I, I, I come from kind of a biased opinion because I'm a, a therapist and a drug and alcohol counselor.|arp_nd
 B|Uh-huh.|b
 A|And I've done employee assistant work|sd
-A|and I, I know the kind of cost businesses go through in terms of accidents,  on  the job that are specifically drug and alcohol related,|sd
+A|and I, I know the kind of cost businesses go through in terms of accidents,  on the job that are specifically drug and alcohol related,|sd
 B|Right.|b
 B|Right.|b
 A|and it's like in the billions of dollars every year. Um,|sd
@@ -40,7 +40,7 @@ B|That's true.|aa
 A|And, you know, the, the problem in the work place is that, that people are,|sv
 A|like if your boss is your drinking buddy or whatever, I mean, you can come to, come to work drunk and get in an accident|sv
 A|and he'll cover up for you|sv
-A|and,  nobody  knows about it,|sv
+A|and,  nobody knows about it,|sv
 B|Right.|b
 A|but you know, ends up costing the company lots and lots of money.|sd
 B|That's true.|aa
@@ -51,14 +51,14 @@ B|I think anyone in a, in a public job like bus drivers, and cab drivers, and po
 A|Uh-huh.|b
 B|I think they should be randomly drug tested.|sv
 A|Yeah.|b
-B|I believe,  full  force in that.|sv
+B|I believe,  full force in that.|sv
 A|Yeah.|b
 B|I don't know that I believe every secretary in every company needs to be.|sv
 A|True.|aa
 B|You know, secretaries aren't, aren't really going to cost the company that much money if they fall face forward in their typewriter or something.|sv
 B|So, I don't know.|h
 B|I, I'm kind of biased, too, because I don't do drugs|sd
-B|and,  so,  I really don't care one way or another if anybody wants to pull me up tomorrow and test me. Because I have nothing to worry about.|sd
+B|and,  so, I really don't care one way or another if anybody wants to pull me up tomorrow and test me. Because I have nothing to worry about.|sd
 A|Uh-huh.|b
 A|Yeah.|b
 B|So, I guess that's kind of biased.|sd
@@ -76,7 +76,7 @@ A|if her work or abilities start affecting her co-workers then it, it's still a 
 B|Yeah.|b
 B|That's true.|aa
 A|So,|%
-B|But, what do you do about,  the  occasional user that may have gone to a party three days before|qw
+B|But, what do you do about,  the occasional user that may have gone to a party three days before|qw
 B|and, you know, it's, it's been the whole weekend since they've done anything|sd
 B|and they happen to be tested Monday morning|sd
 B|and they could be fired for that?|qy^d
@@ -89,7 +89,7 @@ B|I guess if you're going to do it you need to suffer the consequences|sv
 A|Yeah.|b
 A|Man.|ba
 A|And, in terms of drugs, they're illegal.|sd
-A|So you're,  you're breaking  the law anyway.|sd
+A|So you're,  you're breaking the law anyway.|sd
 B|That's true.|aa
 B|That's true.|aa
 A|Probably the, the biggest problem with those is they don't do a real good job of, of assessing for alcohol.|sv
@@ -99,7 +99,7 @@ B|Yeah.|aa
 B|I think so, more than drugs|sv
 B|And I know a lot of companies that will put you in an alcohol rehabilitation before they would put you in a drug rehab.|sd
 A|Yeah.|b
-B|They  would pay for an alcohol|sd
+B|They would pay for an alcohol|sd
 A|Uh-huh.|b
 B|but they don't always pay for drug rehabilitation.|sd
 A|Well, I guess that's one of the positive things that have come out of it, some of the employee assistance program.|sv
@@ -108,16 +108,15 @@ B|Yeah.|b
 B|That's true.|aa
 A|And I,|%
 B|I,  think that's fair.|sv
-A||%
 A|Yeah,|aa
 A|I think the the company benefits in the long run.|sv
 B|Yeah|aa
 B|That's true|aa
-B|That's about all I have,  to  say on it|sd
+B|That's about all I have,  to say on it|sd
 A|What, what kind of testing do they do when you went?|qw
 B|Uh, it's a urine test.|sd
 A|Urine screen.|b^m
-B|And,  they,  uh,|%
+B|And,  they, uh,|%
 A|Yeah,|b
 B|it was really very official.|sd
 B|You have to go in a room solely by yourself, sign papers that say you were totally alone, sign papers that say this is yours,|sd
@@ -127,7 +126,7 @@ B|So that they're sure that you haven't borrowed anybody's, I guess, or somethin
 A|Well, that happens.|sd
 B|Yeah.|aa
 B|I know,|sd
-B|I  it's hard to believe,|sv
+B|I it's hard to believe,|sv
 A|It happens a lot.|sd
 B|but I guess it does|sv
 A|There, there are people that pay other people to  to help them out.|sd
@@ -137,11 +136,11 @@ A|Yeah.|b
 B|It is amazing.|sv
 B|I guess there are people that do that.|sd
 B|And they are, those are expensive tests.|sv
-B|I'm,  glad  I never had to pay for one.|sd
+B|I'm,  glad I never had to pay for one.|sd
 A|Yeah.|b
 A|Yeah.|b
 A|It depends really on how, how strong a test it is.|sd
-A|They've got different degrees,  as far as, as  how far back they can check.|sd
+A|They've got different degrees,  as far as, as how far back they can check.|sd
 B|Yeah.|aa
 B|I guess so.|sv
 A|They got some unusual things besides blood and urine tests.|sd

@@ -7,7 +7,7 @@ A|I don't watch much T V.|sd
 A|Sometimes, um, usually the reason I will turn it on is to hear the news.|sd
 B|The news,|b^m
 B|yeah.|b
-A|But I don't think of that every day,  even.|sd
+A|But I don't think of that every day, even.|sd
 B|Uh-huh.|b
 A|Um, I think I get most of my current events,|sd
 A|well, I get them from everywhere.|sd
@@ -92,7 +92,7 @@ A|yeah,|b
 A|yeah.|b
 A|I sometimes feel like, um, the Dallas paper and the DALLAS NEWS, um, the top headlines are always a murder, you know.|sv
 B|Oh, well.  That's what sells papers.|sv
-A|That  that's because there's a high  crime rate.|sv
+A|That  that's because there's a high crime rate.|sv
 A|Yeah.|b
 A|Yeah.|b
 B|That's, um, that's been like that since they, the first newspaper, you know|sv
