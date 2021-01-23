@@ -1,9 +1,58 @@
 import os
+import random
 import pickle
 import gluonnlp as nlp
 import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
+
+
+def split_sets(output_dir, transcript_list, train_set_split=0.8):
+    random.seed(42)
+
+    # Calculate number of transcripts in each set
+    num_train = int(len(transcript_list) * train_set_split)
+    num_val = int((len(transcript_list) - num_train) / 2)
+    num_test = len(transcript_list) - num_train - num_val
+
+    # Randomise the transcripts
+    random.shuffle(transcript_list)
+
+    # Select the number of training and dev transcripts
+    train_indices = random.sample(range(len(transcript_list)), num_train)
+    train_split = [transcript_list[i].split('.')[0] for i in range(len(transcript_list)) if i in train_indices]
+
+    # Remove from transcript list so we don't select again
+    for index in sorted(train_indices, reverse=True):
+        del transcript_list[index]
+
+    # Select the number of test and validation transcripts
+    test_indices = random.sample(range(len(transcript_list)), num_test)
+    test_split = [transcript_list[i].split('.')[0] for i in range(len(transcript_list)) if i in test_indices]
+    val_split = [transcript_list[i].split('.')[0] for i in range(len(transcript_list)) if i not in test_indices]
+
+    # Ensure no data is in more than one set
+    if any(el in test_split for el in train_split):
+        print("Train split has elements from test split!")
+    if any(el in val_split for el in train_split):
+        print("Train split has elements from validation split!")
+    if any(el in test_split for el in val_split):
+        print("Test split has elements from validation split!")
+
+    # Save to file
+    save_text_data(os.path.join(output_dir, 'train_split.txt'), train_split)
+    save_text_data(os.path.join(output_dir, 'val_split.txt'), val_split)
+    save_text_data(os.path.join(output_dir, 'test_split.txt'), test_split)
+
+    return train_split, val_split, test_split
+
+
+def save_text_data(path, data, verbose=False):
+    with open(path, "w") as file:
+        for i in range(len(data)):
+            file.write(data[i] + "\n")
+    if verbose:
+        print("Saved data to file %s." % path)
 
 
 def load_text_data(path, verbose=False):
@@ -120,7 +169,7 @@ def save_label_frequency_distributions(data, metadata_dir, file_name, to_markdow
                                          row['Val Count'], row['Val %']))
 
 
-def plot_label_distributions(data, num_labels=None, title=None, fig_size=(10, 10), font_size=15):
+def plot_label_distributions(data, num_labels=None, title=None, fig_size=(10, 10), font_size=15, xtick_rotation=0):
     # Reshape dataframe for plotting
     data_reshaped = data.drop(['Dialogue Act', 'Count', '%', 'Train Count', 'Test Count', 'Val Count'], axis=1)
     if num_labels:
@@ -136,7 +185,8 @@ def plot_label_distributions(data, num_labels=None, title=None, fig_size=(10, 10
     plt.legend(ncol=1, loc="upper right", frameon=True)
     plt.ylabel('%', fontsize=font_size)
     plt.xlabel('Labels', fontsize=font_size)
+    plt.xticks(rotation=xtick_rotation)
     if title:
         plt.title(title, fontsize=font_size)
-
+    plt.tight_layout()
     return fig

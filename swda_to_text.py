@@ -1,7 +1,7 @@
 import zipfile
 import tempfile
 from swda import CorpusReader
-from swda_utilities import *
+from utilities import *
 from process_transcript import *
 
 # Switchboard archive directory
@@ -55,7 +55,7 @@ with tempfile.TemporaryDirectory(dir=archive_dir) as tmp_dir:
         # Process the utterances and create a dialogue object
         dialogue = process_transcript(transcript, excluded_tags, excluded_chars)
 
-        # Append all utterances to full_set text file
+        # Append all utterances to full_set_file text file
         dialogue_to_file(os.path.join(data_dir, full_set_file), dialogue, utterance_only_flag, 'a+')
 
         # Determine which set this dialogue belongs to (training, test or validation)

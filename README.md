@@ -8,7 +8,7 @@ The remaining 21 dialogues have been used as a validation set.
 The swda_to_text.py script processes all dialogues into a plain text format. Individual dialogues are saved into directories corresponding
 to the set they belong to (train, test, etc). All utterances in a particular set are also saved to a text file.
 
-The swda_utilities.py script contains various helper functions for loading/saving the data.
+The utilities.py script contains various helper functions for loading/saving the data.
 
 The process_transcript.py includes functions for processing each dialogue.
 
@@ -83,19 +83,32 @@ Thanking                       |          ft          |    78    |   0.04   |   
 
 ## Metadata
 - Total number of utterances: 199740
-- Maximum utterance length: 133
-- Mean utterance length: 9.6
-- Total number of dialogues: 1155
-- Maximum dialogue length: 457
-- Mean dialogue length: 172.9
-- Vocabulary size: 22301
-- Number of labels: 41
-- Number of dialogue in train set: 1115
-- Maximum length of dialogue in train set: 457
-- Number of dialogue in test set: 19
-- Maximum length of dialogue in test set: 330
-- Number of dialogue in val set: 21
-- Maximum length of dialogue in val set: 299
+- Max utterance length: 132
+- Mean utterance length: 9.62
+- Total Number of dialogues: 1155
+- Max dialogue length: 457
+- Mean dialogue length: 172.94
+- Vocabulary size: 22302
+- Number of labels:41
+- Number of speakers: 2
+
+Train set
+- Number of dialogues: 1115
+- Max dialogue length: 457
+- Mean dialogue length: 172.55
+- Number of utterances: 192390
+
+Test set
+- Number of dialogues: 19
+- Max dialogue length: 330
+- Mean dialogue length: 214.63
+- Number of utterances: 4078
+
+Val set
+- Number of dialogues: 21
+- Max dialogue length: 299
+- Mean dialogue length: 155.81
+- Number of utterances: 3272
 
 ### Keys and values for the metadata dictionary
 - num_utterances = Total number of utterance in the full corpus.
@@ -110,7 +123,11 @@ Thanking                       |          ft          |    78    |   0.04   |   
 - label_freq = [Dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) containing all data in the Dialogue Acts table above.
 - labels = List of all DA labels.
 - num_labels = Number of labels used from the Switchboard data.
+- speakers = List of all speakers.
+- num_speakers = Number of speakers in the Maptask data.
 
 Each data set also has:
+- <*setname*>_num_utterances = Number of utterances in the set.
 - <*setname*>_num_dialogues = Number of dialogues in the set.
-- <*setname*>_max_dialogues_len = Length of the longest dialogue in the set.
+- <*setname*>_max_dialogue_len = Length of the longest dialogue in the set.
+- <*setname*>_mean_dialogue_len = Mean length of dialogues in the set.
