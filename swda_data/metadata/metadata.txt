@@ -5,7 +5,7 @@
 - Max dialogue length: 457
 - Mean dialogue length: 172.94
 - Vocabulary size: 22301
-- Number of labels:41
+- Number of labels: 41
 - Number of speakers: 2
 Train set
 - Number of dialogues: 1115

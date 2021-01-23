@@ -141,7 +141,7 @@ metadata_str = ["- Total number of utterances: " + str(metadata['num_utterances'
                 "- Max dialogue length: " + str(metadata['max_dialogue_len']),
                 "- Mean dialogue length: " + str(round(metadata['mean_dialogue_len'], 2)),
                 "- Vocabulary size: " + str(metadata['vocabulary_size']),
-                "- Number of labels:" + str(metadata['num_labels']),
+                "- Number of labels: " + str(metadata['num_labels']),
                 "- Number of speakers: " + str(metadata['num_speakers'])]
 
 for dataset_name in sets:

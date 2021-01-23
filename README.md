@@ -89,7 +89,7 @@ Thanking                       |          ft          |    78    |   0.04   |   
 - Max dialogue length: 457
 - Mean dialogue length: 172.94
 - Vocabulary size: 22302
-- Number of labels:41
+- Number of labels: 41
 - Number of speakers: 2
 
 Train set
