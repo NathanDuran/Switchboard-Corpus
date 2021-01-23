@@ -124,7 +124,7 @@ Val set
 - labels = List of all DA labels.
 - num_labels = Number of labels used from the Switchboard data.
 - speakers = List of all speakers.
-- num_speakers = Number of speakers in the Maptask data.
+- num_speakers = Number of speakers in the Switchboard data.
 
 Each data set also has:
 - <*setname*>_num_utterances = Number of utterances in the set.
