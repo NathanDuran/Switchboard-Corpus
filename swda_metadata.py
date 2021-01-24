@@ -131,7 +131,10 @@ save_text_data(os.path.join(metadata_dir, 'labels.txt'), labels)
 
 # Count speakers and save to list
 metadata['num_speakers'] = len(set(speakers))
+metadata['speakers'] = list(set(speakers))
 save_text_data(os.path.join(metadata_dir, 'speakers.txt'), list(set(speakers)))
+print("Speakers:")
+print(speakers)
 
 # Create and print the metadata string
 metadata_str = ["- Total number of utterances: " + str(metadata['num_utterances']),
